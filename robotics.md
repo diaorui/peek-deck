@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T09:34:14.893257+00:00'
+updated: '2026-01-05T10:26:39.031390+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 09:34 UTC  
+**Last Updated:** January 05, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-19h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-23h ago
+1d ago
 
 ---
 
@@ -68,7 +68,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-14h ago
+15h ago
 
 ---
 
@@ -76,7 +76,7 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-18h ago
+19h ago
 
 ---
 
@@ -84,7 +84,7 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-10h ago
+11h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
 
-13h ago
+14h ago
 
 ---
 
@@ -100,7 +100,7 @@ Okk so i am using raspberry pi 4 for this and I know i wired everything correctl
 
 I mean I think that it would fix some problems that ai controlled Androids (the humanoid one) have, and it wouldn't make mistakes (sure they would definitely make some, but they probably will do it at the same frequency that regular soldiers do) The perception of the user can be improved with some extra sensors or something, and several companies have proved that it's possible to remotely control them, And it most importantly reduces causality, (If the military does end up doing this, they probably will only do it with like seals or something to keep all of that experience)
 
-58m ago
+1h ago
 
 ---
 
@@ -108,7 +108,7 @@ I mean I think that it would fix some problems that ai controlled Androids (the 
 
 I made an 6 dof robot and I want to integrate a camera with YOLO or OpenCV so the robot can see a red ball and move towards it, any ideas or resources??? The robot is currently powdered by an Arduino mega
 
-5h ago
+6h ago
 
 ---
 
@@ -120,7 +120,7 @@ I made an 6 dof robot and I want to integrate a camera with YOLO or OpenCV so th
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 22h ago
+Fox News • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ Fox News • 22h ago
 
 Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
 
-CBS News • 8h ago
+CBS News • 9h ago
 
 ---
 
@@ -152,7 +152,7 @@ Inspenet • 2d ago
 
 New Analysis Platform Explores Why Household Tasks and Physical Automation Require Embodied Intelligence Beyond Traditional Computer Approaches The next wave of AI is physical AI. AI that understands the laws of physics, AI that can work among us.” — Jensen Huang, CEO of Nvidia BROOKLYN, NY, UNITED STATES, January 4, 2026 /EINPresswire.com/ — As artificial […]
 
-Detroit Free Press • 3h ago
+Detroit Free Press • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ Detroit Free Press • 3h ago
 
 Forget about robots that look like they're straight out of science fiction. ‘Unobtrusive physical AI,’ as the technology is called, could wind up being more pervasive in the real world.
 
-Computerworld • 2h ago
+Computerworld • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ Interesting Engineering • 2d ago
 
 Nearly a dozen Chinese humanoid robot makers are expected at the trade show, while Hong Kong sends its largest-ever delegation.
 
-South China Morning Post • 6h ago
+South China Morning Post • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ South China Morning Post • 6h ago
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 8h ago
+CBS News • 9h ago
 
 ---
 

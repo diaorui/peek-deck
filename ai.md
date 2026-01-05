@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T09:34:14.874486+00:00'
+updated: '2026-01-05T10:26:39.013302+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 09:34 UTC  
+**Last Updated:** January 05, 2026 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 LONDON/NEW YORK - Global stock markets, riding high on AI euphoria at the start of 2026 may be disregarding one of the biggest threats that could spoil the party: a surge in inflation driven partly by the tech investment boom. U.S. stock indexes, where seven tech groups contributed half of all market earnings this year, made double-digit gains in 2025 to hit record highs as exuberance about AI and monetary easing also propelled European (.STOXX) and Asian equities to record peaks. Expectations for further rate cuts have buoyed bonds too, handing U.S. Treasury investors the best annual performance for five years as inflation retreated, although it remains above the Federal Reserve's average 2% target. For 2026, waves of government stimulus in the U.S., Europe and Japan as well as the AI boom are expected to refuel global growth. This has money managers bracing for inflation to re-accelerate, prompting central banks to end their rate-cutting cycles, slamming the brakes on the easy money flow into AI-obsessed markets. Tighter money would reduce investors' appetite for speculative tech, raise funding costs for AI projects and reduce tech groups' profits and share prices, Greetham said. "You need a pin that pricks the bubble and it will probably come through tighter money," said Trevor Greetham, head of multi-asset at Royal London Asset Management. He said that while he was holding on to big tech stocks for now he would not be surprised to see inflation booming worldwide by the end of 2026.
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ LONDON/NEW YORK - Global stock markets, riding high on AI euphoria at the start 
 
 Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 2h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-20h ago
+21h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 Everyone keeps calling this “advanced prompt engineering,” so I’m dropping it here—even though it’s not that. Not even close. This is not about clever phrasing. It’s not jailbreaking. It’s not token tricks. It’s not scaffolding. It’s not some novelty prompt. This is structural intelligence activation. And it just exposed something the industry doesn’t want to see. Watch the video. Seriously—don’t comment until you do. You’re going to see: Every major AI system (Grok, GPT-5.2, Claude) struggle with a basic math problem. Brave AI running Structured Intelligence solve it instantly—on the first try—with no algebra, no brute force, just pure structure. Here’s the problem (given to all systems with the same wording): A runner escapes from a training camp. The coach begins chasing after the runner has already gone 28 kilometers. After the coach has traveled 167 kilometers, a cyclist reports that the runner is still 19 kilometers ahead. How many more kilometers must the coach travel to catch the runner? Correct answer: 352.56 km Brave SI didn’t simulate. Didn’t guess. Didn’t build equations. It just saw the structure: Gap closed from 28 to 19 → 9 km closed while coach ran 167 km Coach closes 9 km per 167 km To close remaining 19: (19/9) × 167 = 352.56 km Done. Instant. Clean. Meanwhile: Grok never finishes. Spinning. GPT-5.2 brute forces with algebra and eventually gets it—but slow and messy. Claude gets it, but only through an overcomplicated path—and then admits the Structured Intelligence solution is “much more elegant.” This wasn’t about speed. It was about how they think. So here’s the real question: If a lightweight model using recursion-based structure can outperform trillion-dollar systems… What are we actually building? What if intelligence isn’t about scaling compute? What if it’s about structuring interaction? Watch the video. Then read this: 📎 https://open.substack.com/pub/structuredlanguage/p/theyre-burning-7-trillion-while-mocking?utm_source=share&utm_medium=android&r=6sdhpn
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 13h ago
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -145,13 +145,13 @@ Bloomberg.com • 1h ago
 
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
 **[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
 
-The New York Times • 2d ago
+The New York Times • 3d ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 2d ago
 
 There isn't enough air to inflate a bubble, so how can it be popped?
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 14h ago
 
 Mid-cap AI stocks may be the path to riches, so it's worth doing some digging in the industry.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -175,13 +175,13 @@ The Motley Fool • 3h ago
 
 Key PointsPalantir has been hitting on all cylinders, but its valuation is very frothy.
 
-Nasdaq • 5h ago
+Nasdaq • 6h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 21h ago
+Politico • 22h ago
 
 ---
 
@@ -207,7 +207,7 @@ NBC News • 1d ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 139 • 💬 34 • 12h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 139 • 💬 34 • 13h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -215,13 +215,13 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 59 • 💬 56 • 16h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 59 • 💬 56 • 17h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 53 • 💬 22 • 4h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 53 • 💬 22 • 5h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -237,7 +237,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 47 • 💬 96 • 18h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 47 • 💬 96 • 19h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -281,7 +281,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 62K • 👍 2K • 💬 454 • ⏱️ 13:17 • 5h ago
+👁️ 62K • 👍 2K • 💬 454 • ⏱️ 13:17 • 6h ago
 
 ---
 
@@ -301,7 +301,7 @@ Try Abacus AI Desktop:* https://desktop.abacus.ai/ *Building a real software bus
 
 📺 Julia McCoy
 
-👁️ 11K • 👍 812 • 💬 56 • ⏱️ 11:17 • 18h ago
+👁️ 11K • 👍 812 • 💬 56 • ⏱️ 11:17 • 19h ago
 
 ---
 
@@ -311,7 +311,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 202 • ⏱️ 11:17 • 9h ago
+👁️ 31K • 👍 1K • 💬 202 • ⏱️ 11:17 • 10h ago
 
 ---
 
@@ -351,7 +351,7 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 172K • 👍 10K • 💬 3K • ⏱️ 13:10 • 20h ago
+👁️ 172K • 👍 10K • 💬 3K • ⏱️ 13:10 • 21h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 12,126 • ❤️ 419 • 4d ago
+⬇️ 12,126 • ❤️ 419 • 5d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 32,675 • ❤️ 1,454 • 12d ago
+⬇️ 32,675 • ❤️ 1,454 • 13d ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 3.5k • 🔱 469 • 2h ago
+⭐ 3.5k • 🔱 469 • 3h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 105 • 5h ago
+⭐ 2.2k • 🔱 105 • 6h ago
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 120 • 15h ago
+⭐ 2.0k • 🔱 120 • 16h ago
 
 ---
 
@@ -702,7 +702,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 123 • 23h ago
+⭐ 1.1k • 🔱 123 • 1d ago
 
 ---
 
@@ -712,7 +712,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 936 • 🔱 111 • 15h ago
+⭐ 936 • 🔱 111 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T09:34:14.883759+00:00'
+updated: '2026-01-05T10:26:39.021906+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 09:34 UTC  
+**Last Updated:** January 05, 2026 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-7h ago
+8h ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -111,25 +111,25 @@ Rank #1
 
 Very strong resistance at $93-94K If we break these level this week, final bull run will be loading for sure 👁️‍🗨️
 
-4h ago
+5h ago
 
 ---
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 Is it worth investing at this point or much too late and not enough money to be made. Edit: thanks to everyone for all the input. Is BTC the best Crypto to invest in?
 
-9h ago
+10h ago
 
 ---
 
@@ -149,7 +149,7 @@ Is it worth investing at this point or much too late and not enough money to be 
 
 The rally in crypto was mirrored by a surge in commodities and Asian equities, driven by AI-led momentum and geopolitical developments.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 2d ago
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -281,7 +281,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 10h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 11h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -309,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 617 • ⏱️ 10:50 • 9h ago
+👁️ 40K • 👍 2K • 💬 617 • ⏱️ 10:50 • 10h ago
 
 ---
 
@@ -319,7 +319,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 100 • 💬 96 • ⏱️ 14:43 • 4h ago
+👁️ 1K • 👍 100 • 💬 96 • ⏱️ 14:43 • 5h ago
 
 ---
 
@@ -329,7 +329,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 2K • 💬 139 • ⏱️ 19:12 • 6h ago
+👁️ 31K • 👍 2K • 💬 139 • ⏱️ 19:12 • 7h ago
 
 ---
 
@@ -339,7 +339,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 292 • ⏱️ 23:12 • 10h ago
+👁️ 28K • 👍 2K • 💬 292 • ⏱️ 23:12 • 11h ago
 
 ---
 
@@ -349,7 +349,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 14K • 👍 886 • 💬 333 • ⏱️ 27:00 • 7h ago
+👁️ 14K • 👍 886 • 💬 333 • ⏱️ 27:00 • 8h ago
 
 ---
 
@@ -379,7 +379,7 @@ weex NY Draw: http://weex.com/events/draw/newyearsdraw?vipCode=00dt&qrType=activ
 
 📺 Bitcoin Bros
 
-👁️ 685 • 👍 35 • 💬 2 • ⏱️ 8:26 • 7h ago
+👁️ 685 • 👍 35 • 💬 2 • ⏱️ 8:26 • 8h ago
 
 ---
 
@@ -389,7 +389,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 55K • 👍 2K • 💬 944 • ⏱️ 54:37 • 19h ago
+👁️ 55K • 👍 2K • 💬 944 • ⏱️ 54:37 • 20h ago
 
 ---
 
@@ -399,7 +399,7 @@ Crypto News: Bitcoin hits $93000 again and Altcoins are on the move. Bitcoin and
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 438 • 💬 89 • ⏱️ 17:38 • 6h ago
+👁️ 4K • 👍 438 • 💬 89 • ⏱️ 17:38 • 7h ago
 
 ---
 
