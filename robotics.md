@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T20:27:12.701551+00:00'
+updated: '2026-01-05T20:49:01.512389+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 20:27 UTC  
+**Last Updated:** January 05, 2026 at 20:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,12 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 ---
 
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+2h ago
+
+---
+
 **[TRUMPF laser for ASML’s EUV lithography machines.](https://www.reddit.com/r/robotics/comments/1q42yoj/trumpf_laser_for_asmls_euv_lithography_machines/)**
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
@@ -48,21 +54,15 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 ---
 
+**[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
+
+19m ago
+
+---
+
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-6h ago
-
----
-
-**[Do you guys think that these older companies compete with the new leaders? So far looks good imo.](https://www.reddit.com/r/robotics/comments/1q4t7wt/do_you_guys_think_that_these_older_companies/)**
-
-2h ago
-
----
-
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-2h ago
+7h ago
 
 ---
 
@@ -78,7 +78,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-18h ago
+19h ago
 
 ---
 
@@ -102,7 +102,7 @@ I’m using a Cytron motor driver (MDDS series) in packetized UART mode with an 
 
 Building my first AGV(final year project) with 12V DC encoder motors. Using Raspberry Pi as main controller with Arduino for motor control. Need a reliable motor driver compatible for my AGV Considering L298N, TB6612FNG, e.t.c. Which driver is most suitable for smooth AGV operation?
 
-1h ago
+2h ago
 
 ---
 
@@ -124,17 +124,17 @@ Bloomberg.com • 6h ago
 
 ---
 
-**[CES 2026: Hesai to showcase next-gen lidar for physical AI](https://www.therobotreport.com/ces-2026-hesai-showcase-next-gen-lidar-physical-ai/)**
+**[Qualcomm Stock (QCOM) Rises after Launch of New PC and Robotics Chips](https://www.tipranks.com/news/qualcomm-stock-qcom-rises-after-launch-of-new-pc-and-robotics-chips)**
 
-Hesai makes advanced lidar sensors, using solid-state technology to guide autonomous vehicles and humanoid robots.
-
-The Robot Report • 2h ago
+TipRanks • 36m ago
 
 ---
 
-**[Hundreds compete in robotics competition in Hershey](https://www.abc27.com/local-news/hundreds-compete-in-robotics-competition-in-hershey/)**
+**[Qualcomm Unveils Full Robotics AI Stack](https://finance.yahoo.com/news/qualcomm-unveils-full-robotics-ai-173839753.html)**
 
-ABC27 • 17h ago
+New Dragonwing chip targets humanoids, AMRs
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -166,23 +166,23 @@ The Globe and Mail • 7h ago
 
 The 'physical AI' era has arrived for the auto industry, and it's all on display at CES. Here's what we're expecting from the tech trade show.
 
-InsideEVs • 8h ago
+InsideEVs • 9h ago
 
 ---
 
-**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
+**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
-FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
+In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-Inspenet • 2d ago
+The Robot Report • 2d ago
 
 ---
 
-**[REVOBOTS Defines Task-Adaptive Robotics at CES 2026](https://www.freep.com/press-release/story/139115/revobots-defines-task-adaptive-robotics-at-ces-2026/)**
+**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
 
-Experience the Future of Work with TASKBOT AVA and TASKBOT SCOUT | REVOBOTS Founding Team On-Site for Meet the Makers and Media Briefings The future of robotics isn’t about spectacle—it’s about usefulness. We design robots for specific jobs, in real environments, with autonomy where it makes sense and human oversight where it matters.” — Andre […]
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-Detroit Free Press • 5h ago
+CBS News • 20h ago
 
 ---
 
@@ -196,7 +196,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 270K • 👍 5K • 💬 1K • ⏱️ 13:17 • 16h ago
+👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 16h ago
 
 ---
 
@@ -206,7 +206,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 6K • 👍 94 • 💬 3 • ⏱️ 7:38 • 1d ago
+👁️ 7K • 👍 103 • 💬 3 • ⏱️ 7:38 • 1d ago
 
 ---
 
@@ -216,17 +216,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 94K • 👍 2K • 💬 306 • ⏱️ 5:49 • 19h ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 99K • 👍 2K • 💬 270 • ⏱️ 11:42 • 4d ago
+👁️ 112K • 👍 2K • 💬 345 • ⏱️ 5:49 • 20h ago
 
 ---
 
@@ -240,23 +230,23 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
-📺 Female Humanoid Lab
+📺 AI Revolution
 
-👁️ 23K • 👍 199 • 💬 11 • ⏱️ 12:34 • 3d ago
+👁️ 99K • 👍 2K • 💬 271 • ⏱️ 11:42 • 4d ago
 
 ---
 
-**[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
+**[She Built a $100M Robot by Age 25 #robotics #robot #innovation #engineering #ai #humanoidrobot](https://www.youtube.com/watch?v=LqOhwTX-oOE)**
 
-Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
+The Australian startup Andromeda Robotics just secured $23 million in Series A funding to bring its colorful eldercare humanoids ...
 
-📺 BeastNarratives
+📺 Kalil 4.0
 
-👁️ 7.7M • 👍 179K • 💬 664 • ⏱️ 0:45 • 6d ago
+👁️ 421 • 👍 22 • 💬 2 • ⏱️ 1:06 • 40m ago
 
 ---
 
@@ -270,23 +260,33 @@ Humanoid robots are about to take a massive leap forward in 2026 — and the com
 
 ---
 
-**[Top 3 AI Robotics Stocks To Watch in 2026](https://www.youtube.com/watch?v=cy57nEuN1UM)**
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
 
-Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock Analysis: https://cashtoassets.com/themachine ...
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
 
-📺 Will Rich
+📺 Female Humanoid Lab
 
-👁️ 4K • 👍 129 • 💬 28 • ⏱️ 28:43 • 2d ago
+👁️ 23K • 👍 200 • 💬 11 • ⏱️ 12:34 • 3d ago
 
 ---
 
-**[War Robots: TRUE COST of a MAX Ultimate Tryphon](https://www.youtube.com/watch?v=pLaAIjMB-U4)**
+**[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
 
-War Robots Gameplay: Getting my Ultimate Typhon and the TRUE COST of leveling and getting it! Is it worth it? #warrobots ...
+Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
 
-📺 Manni-Gaming
+📺 BeastNarratives
 
-👁️ 12K • 👍 756 • 💬 182 • ⏱️ 22:23 • 17h ago
+👁️ 7.8M • 👍 180K • 💬 677 • ⏱️ 0:45 • 6d ago
+
+---
+
+**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
+
+A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
+
+📺 7NEWS Australia
+
+👁️ 208K • 👍 2K • ⏱️ 0:42 • 6d ago
 
 ---
 

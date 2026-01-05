@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T20:27:12.698252+00:00'
+updated: '2026-01-05T20:49:01.508961+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 20:27 UTC  
+**Last Updated:** January 05, 2026 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +8.1%  
-**30d:** +5.1%  
-**90d:** -28.9%  
-**1y:** -12.7%  
+**24h:** +3.2%  
+**7d:** +9.2%  
+**30d:** +6.0%  
+**90d:** -28.2%  
+**1y:** -11.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $386.41B
+**Market Cap:** $391.94B
 Rank #2
 
 **Circulating Supply:** 120,694,851 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.2%
+-34.4%
 
 **All-Time Low:** $0.43
-+739658.7%
++749488.3%
 
 ---
 
@@ -76,19 +76,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[why doesn't ethereum scaling for games get more attention, the ux problems are massive](https://www.reddit.com/r/ethereum/comments/1q4qi9z/why_doesnt_ethereum_scaling_for_games_get_more/)**
-
-Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
-
-3h ago
-
----
-
 **[Dev Tools Guild December update | mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.](https://www.reddit.com/r/ethereum/comments/1q4hpvb/dev_tools_guild_december_update_mainnet/)**
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
 🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 10h ago
+
+---
+
+**[why doesn't ethereum scaling for games get more attention, the ux problems are massive](https://www.reddit.com/r/ethereum/comments/1q4qi9z/why_doesnt_ethereum_scaling_for_games_get_more/)**
+
+Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
+
+4h ago
 
 ---
 
@@ -164,43 +164,33 @@ Yahoo Finance • 1d ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 7h ago
+dlnews.com • 8h ago
 
 ---
 
-**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://decrypt.co/353585/tom-lee-predicts-250k-ethereum-price-bitmine-adds-13-billion-stash)**
+**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://finance.yahoo.com/news/tom-lee-predicts-250k-ethereum-155617532.html)**
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Decrypt • 4h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Tom Lee Sees Ethereum at $62K as Blockchain Adoption Accelerates](https://www.cointribune.com/en/tom-lee-predicts-62000-ethereum-as-tokenization-drives-new-blockchain-phase/)**
+**[Tom Lee's BitMine adds 32,977 ETH as total crypto and cash holdings top $14 billion](https://www.theblock.co/post/384318/tom-lee-bitmine-adds-32977-eth-total-crypto-cash-holdings-top-14-billion-usd)**
 
-Tom Lee says Ethereum could reach $62,000 as tokenization grows, while he lifts his Bitcoin target to $250,000 amid mixed market signals.
-
-Cointribune • 3d ago
-
----
-
-**[Ethereum Layer-2 Network Starknet Back Online Following Outage](https://finance.yahoo.com/news/ethereum-layer-2-network-starknet-182415117.html)**
-
-Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
-
-Yahoo Finance • 2h ago
+The Block • 5h ago
 
 ---
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqcaCr2_bbPKI_uco6Us7mJBIADwoStQCJoo0pwXEWAisPFKchSm8FDQ&gaa_ts=695c176c&gaa_sig=BX_mdLeAxLGN3NJRlZ6wx3nh6AH6eJ-WYl6fUT4_rg5hv2CYbP-smm0TPaLuUwUdLrLiCyjJjL2sBbBKaoLtAA%3D%3D)**
+**[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
 
-Barron's • 3d ago
+CCN.com • 6h ago
 
 ---
 
@@ -208,21 +198,25 @@ Barron's • 3d ago
 
 The crypto market started the day on a strong note, with Bitcoin, Ethereum, and XRP all moving higher. Bitcoin crossed the $91,000 mark, gaining nearly $2,500 from recent lows. Ethereum and XRP followed closely, lifting the total crypto market value above $3.2 trillion.But what exactly is driving t…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
-**[Why Crypto Is Surging? XRP Price, Bitcoin, Dogecoin and Ethereum Are Going Up 5th Session](https://www.financemagnates.com/trending/why-crypto-is-surging-xrp-price-bitcoin-dogecoin-and-ethereum-are-going-up-5th-session/)**
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Bitcoin ( BTC ) price surged past $93,000 on Monday, January 5, 2026, marking the fifth consecutive session of gains across major cryptocurrencies.
-
-Finance Magnates • 9h ago
+Binance • 1h ago
 
 ---
 
-**[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqd_V3cyo9gsIgqdEasGY5QQjI35K3Nibf5-75pVXWct0CGg3hhctKoj&gaa_ts=695c2725&gaa_sig=5FOr96oEkDpVdLVfjvOFhEN5zf4828OXZvXvOzylu9eIWkChGG8N_-RTbESmLoF8DorqQ0Ir3OiJfuxJPa38JA%3D%3D)**
 
-CCN.com • 6h ago
+Barron's • 3d ago
+
+---
+
+**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -236,7 +230,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 1K • 💬 61 • ⏱️ 46:18 • 2h ago
+👁️ 15K • 👍 1K • 💬 50 • ⏱️ 46:18 • 2h ago
 
 ---
 
@@ -246,27 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 102 • 💬 8 • ⏱️ 4:24 • 5h ago
-
----
-
-**[BMNR Controls 3.5% of Ethereum — Why ARK &amp; Pantera Are Betting Big](https://www.youtube.com/watch?v=kQR9ZwN3w5E)**
-
-In this video, we break down BitMine Immersion Technologies ($BMNR) and their stunning rise in early 2026. With a treasury now ...
-
-📺 CryptoStock Lab
-
-👁️ 120 • 👍 5 • 💬 28 • ⏱️ 14:01 • 3h ago
-
----
-
-**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
-
-We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
-
-📺 CLOCKWISE CRYPTO 
-
-👁️ 14K • 👍 237 • 💬 473 • ⏱️ 2:37 • 2d ago
+👁️ 2K • 👍 119 • 💬 7 • ⏱️ 4:24 • 5h ago
 
 ---
 
@@ -276,17 +250,27 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 94 • 👍 8 • 💬 1 • ⏱️ 4:53 • 2h ago
+👁️ 219 • 👍 11 • 💬 22 • ⏱️ 4:53 • 2h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i3E8-wxudTo)**
+**[🚨Bitcoin BREAKS $94,000! (Ethereum MEGA REVERSAL?)](https://www.youtube.com/watch?v=NJl_6alz37Y)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Bitcoin has just SMASHED through the $94000 mark, hitting its highest level since mid-December 2025! In today's video, we're ...
 
-📺 More Crypto Online
+📺 Discover Crypto
 
-👁️ 3K • 👍 191 • 💬 14 • ⏱️ 4:31 • 17h ago
+👁️ 2K • 👍 135 • 💬 23 • ⏱️ 53:22 • 46m ago
+
+---
+
+**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
+
+We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 14K • 👍 238 • 💬 473 • ⏱️ 2:37 • 2d ago
 
 ---
 
@@ -296,7 +280,17 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 4K • 👍 138 • 💬 284 • ⏱️ 8:15 • 1d ago
+👁️ 4K • 👍 140 • 💬 284 • ⏱️ 8:15 • 1d ago
+
+---
+
+**[BMNR Controls 3.5% of Ethereum — Why ARK &amp; Pantera Are Betting Big](https://www.youtube.com/watch?v=kQR9ZwN3w5E)**
+
+In this video, we break down BitMine Immersion Technologies ($BMNR) and their stunning rise in early 2026. With a treasury now ...
+
+📺 CryptoStock Lab
+
+👁️ 224 • 👍 9 • 💬 31 • ⏱️ 14:01 • 4h ago
 
 ---
 
@@ -306,27 +300,27 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 491 • 💬 54 • ⏱️ 13:59 • 8h ago
+👁️ 9K • 👍 519 • 💬 87 • ⏱️ 13:59 • 9h ago
 
 ---
 
-**[BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X0GfilMyYrk)**
+**[🚨 ETHEREUM IS THE FUTURE OF FINANCE!!! INSTITUTIONS CHASING IT NOW!!! DON&#39;T MISS OUT](https://www.youtube.com/watch?v=od5oCoWtmWM)**
 
-BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ETHEREUM IS THE FUTURE OF FINANCE!!! INSTITUTIONS CHASING IT NOW!!! DON'T MISS OUT Zach's Patreon: ...
 
-📺 Crypto World
+📺 Zach Humphries
 
-👁️ 10K • 👍 361 • 💬 108 • ⏱️ 14:26 • 23h ago
+👁️ 289 • 👍 26 • 💬 73 • ⏱️ 1:20 • 48m ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=kp5D2UCUBQg)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i3E8-wxudTo)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 178 • 💬 7 • ⏱️ 4:04 • 1d ago
+👁️ 3K • 👍 195 • 💬 12 • ⏱️ 4:31 • 17h ago
 
 ---
 
