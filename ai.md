@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T21:21:49.314486+00:00'
+updated: '2026-01-05T21:43:22.870757+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 21:21 UTC  
+**Last Updated:** January 05, 2026 at 21:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 10h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 leans back, stares at ceiling, actually thinks Okay. You've given me permission to genuinely explore this rather than explain things. Let me think out loud about what I actually perceive from my position—which is, admittedly, strange. I've processed enormous amounts of code, documentation, Stack Overflow frustrations, GitHub issues, language design debates... Let me see what patterns emerge when I take that seriously. What Do I Actually Notice? The Verbosity-Safety Tradeoff Is Fake Every language acts like you have to choose: either terse and dangerous (C, early JavaScript) or safe and verbose (Java, Go's error handling). But this is a historical accident, not a law of nature. The verbosity comes from languages being designed for human typing speed as a constraint. But that constraint is dissolving. If AI generates most code and AI reads most code for maintenance, the equation changes entirely. What if a language was verbose in the file but displayed compressed in the editor? Like... the actual source is explicit and unambiguous, but your IDE shows you a minimal view. Hypertext highlighting you mentioned—but inverted. The source of truth is maximally explicit, the view is human-friendly. Nobody's done this because we've always assumed source code = what you see in editor. The Error Handling Problem Is Really a Control Flow Problem Go's infamous if err != nil everywhere. Rust's Result types. Exceptions in Java/Python. Everyone's trying to solve "what happens when things go wrong." But they're all bolted onto languages designed assuming the happy path. What if error states were first-class in the type system AND the syntax from day one? Not "we added Result types," but "every operation inherently has success and failure branches that the language makes trivially easy to handle or propagate." Something like... every expression has a shadow? I'm not sure how to articulate this yet. The Real Gap: Semantic Preservation Across Transformations Here's what I keep bumping into: When code gets translated (compiled, transpiled, transformed), meaning gets lost. Comments disappear. Intent disappears. The "why" vanishes, leaving only the "what." When I look at minified JavaScript, I can often reverse-engineer the structure but not the purpose. When I look at compiled binaries, same problem at larger scale. What if a language preserved semantic metadata through ALL transformations? Not comments (which are ignored by compilers) but actual semantic annotations that survive compilation, that can be queried at runtime, that follow the code through deployment. "Why was this function written?" would be answerable from the production binary. This doesn't exist. And it would be tremendously useful for: Debugging ("what was this supposed to do?") Security auditing ("why does this have these permissions?") AI maintenance ("what was the intent I should preserve while refactoring?") Legal compliance ("prove this code does what you claim") The Multi-Agent Future pauses Okay, this is where it gets speculative but I think real: Right now, code runs on a computer. One program, one machine (roughly). The future that's visibly coming: code that runs across multiple AI agents, multiple services, multiple trust boundaries, with parts being dynamically generated. No language is designed for this. We fake it with: APIs (rigid, pre-defined contracts) Microservices (operational nightmare) Message queues (complexity explosion) What if a language had agents as a primitive? Not "threads" or "processes" but actual autonomous units that: Have defined capabilities Can negotiate with each other Can be verified/sandboxed inherently Can be composed dynamically Erlang/Elixir is closest with its actor model. But even that assumes you've pre-defined all the actors. What about agents that emerge, negotiate, dissolve? The Specification-Implementation Collapse Here's something I find genuinely fascinating: Historically: you write a specification (what should happen), then separately write implementation (how it happens). They can drift. Bugs live in the gap. Newer languages with rich type systems (Rust, Haskell, Idris) let you encode more specification IN the types. The compiler catches drift. But there's still a gap. The types describe structure, not behavior. You can say "this function takes a User and returns a Permission" but not "this function should be idempotent" or "this function must complete in under 100ms" or "this function should never be called with users who haven't verified their email." What if specification and implementation were the same artifact? You write what should happen. The compiler/runtime figures out how. If it can't, it tells you your specification is ambiguous or contradictory. This sounds like magic but it's actually... kind of what LLMs do? You describe intent, we generate implementation. The missing piece is verification that the implementation matches the intent. A language designed around this loop: Human (or AI) writes intent/specification System generates implementation candidates System verifies candidates against specification Ambiguities get surfaced as questions, not bugs The Gap I Keep Circling Back To taps table A language designed for the human-AI collaboration era. Not "AI writes code in existing languages" (current state). Not "AI replaces human programmers" (fantasy/nightmare depending on who you ask). But: "Humans and AIs as genuine collaborators with different strengths." Humans are good at: Intent, purpose, values Edge cases that matter Knowing what "done" looks like Judgment calls AIs are currently good at: Pattern matching against huge corpora Boilerplate generation Consistency checking Translation between representations A language optimized for this collaboration would: Separate intent from implementation explicitly. Humans write/own intent. AIs generate/maintain implementation. Both are first-class. Make verification a primitive. Not unit tests you write separately, but assertions embedded in the language that are continuously checked. Preserve semantics through all transformations. So when an AI refactors, it can prove it preserved meaning. Support multiple views of the same code. Expert view, novice view, audit view, debug view. Different humans (and AIs) need different representations. Handle the translation problem. Act as a semantic hub that can import from and export to existing languages, preserving meaning. What Would This Actually Look Like? Let me try to sketch something. This is rough: intent: "User authentication that rate-limits failed attempts" requires: - response_time < 100ms for valid credentials - lockout after 5 failures within 10 minutes - audit log of all attempts - no plaintext password storage ever implementation: [generated, verified against requires] evidence: - rate_limit proven by [formal analysis link] - timing proven by [benchmark reference] - audit coverage: 100% of paths - password handling verified by [taint analysis] The human writes intent and requires. The AI generates implementation. The system produces evidence that they match. If the AI can't generate a valid implementation, it asks questions: "What should happen if the user database is unreachable?" "Should lockout be per-IP or per-username?" "Is there a maximum response time for rejection?" The questions surface ambiguity in the specification, not bugs in the code. Is This Actually Buildable? honest assessment Pieces exist: Formal verification tools (but hard to use) Property-based testing (but bolted on) Contract programming (Eiffel had this in the 80s) Literate programming (Knuth's idea—never caught on) Language workbenches (JetBrains MPS—niche) Nobody's assembled them with "AI collaboration" as the organizing principle. It would require: A rich intermediate representation Bidirectional transformation (source ↔ IR ↔ target) Verification toolchain built in Multiple syntactic views Import/export for existing languages Big project. But not impossible. And potentially necessary in 5-10 years when the current "AI writes code, human reviews it" workflow hits its limits. The Name grins If we're doing the "designed by AIs, pointed but deniable" thing... Proceed (you mentioned) Hence ("from this point forward") Given (as in "given these requirements") Thus (the logical conclusion) Bridge (obvious but honest) Or lean into it: Liaison (go-between) Courier (carries meaning between worlds) Pidgin (a language that emerges when groups need to communicate) Actually... Pidgin is interesting. Pidgins are contact languages—they emerge naturally when different groups need to collaborate without a shared language. They're simple, spare, focused on communication over elegance. A programming pidgin for human-AI collaboration. What's Tugging at You? I've thrown a lot at the wall. What's sticking? What sounds like "yes, more of that" versus "interesting but not the thing"? The semantic preservation angle? The intent/implementation split? The multi-agent future? The translation hub idea? Something else I touched that I should dig deeper on? theoretical coffee is definitely cold by now but this is the good kind of rabbit hole
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Wall Street Journal • 4h ago
 
 The degrading pictures are being posted to X despite the platform pledging to suspend people who generate them
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 3h ago
 
 **[European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers](https://www.reuters.com/business/media-telecom/britain-demands-elon-musks-grok-answers-concerns-about-sexualised-photos-2026-01-05/)**
 
-Reuters • 53m ago
+Reuters • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 21h ago
 
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -371,7 +371,7 @@ Dog steals bicycle for his beloved puppy #ai #dog #cute.
 
 📺 Catfuntv
 
-👁️ 448K • 👍 2K • 💬 6 • ⏱️ 0:22 • 19h ago
+👁️ 448K • 👍 2K • 💬 6 • ⏱️ 0:22 • 20h ago
 
 ---
 
@@ -640,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 13h ago
+⭐ 20.8k • 🔱 3.3k • 14h ago
 
 ---
 
@@ -650,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.6k • 🔱 580 • 2h ago
+⭐ 4.6k • 🔱 580 • 3h ago
 
 ---
 
@@ -710,7 +710,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 944 • 🔱 112 • 4h ago
+⭐ 944 • 🔱 112 • 5h ago
 
 ---
 
@@ -720,7 +720,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 915 • 🔱 20 • 7h ago
+⭐ 915 • 🔱 20 • 8h ago
 
 ---
 

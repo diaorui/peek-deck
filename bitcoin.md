@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T21:21:49.323397+00:00'
+updated: '2026-01-05T21:43:22.879370+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 21:21 UTC  
+**Last Updated:** January 05, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,7 +97,7 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -117,7 +117,7 @@ Rank #1
 
 Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 9h ago
 
 ---
 
@@ -129,7 +129,7 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[COME ON!!! DO IT!!!!🔥](https://www.reddit.com/r/Bitcoin/comments/1q4x0ji/come_on_do_it/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bitcoin Magazine • 3h ago
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -207,13 +207,13 @@ Decrypt • 6h ago
 
 The cryptoasset is on its longest winning streak since October....
 
-Sherwood News • 7h ago
+Sherwood News • 8h ago
 
 ---
 
 **['Bitcoin Mania' Is Over, Slams Critic, Claims Gold and Silver Entering ‘Biggest Bull Market in History’](https://www.ccn.com/news/crypto/gold-silver-entering-biggest-bull-market-economist-bitcoin-mania-over/)**
 
-CCN.com • 9h ago
+CCN.com • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 285 • ⏱️ 38:51 • 2h ago
+👁️ 21K • 👍 1K • 💬 285 • ⏱️ 38:51 • 3h ago
 
 ---
 
@@ -355,7 +355,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 214 • 💬 244 • ⏱️ 14:43 • 15h ago
+👁️ 5K • 👍 214 • 💬 244 • ⏱️ 14:43 • 16h ago
 
 ---
 
@@ -375,7 +375,7 @@ CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying o
 
 📺 CNBC Television
 
-👁️ 6K • 👍 58 • 💬 156 • ⏱️ 2:48 • 9h ago
+👁️ 6K • 👍 58 • 💬 156 • ⏱️ 2:48 • 10h ago
 
 ---
 
@@ -395,7 +395,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandle
 
 📺 Frankie Candles 
 
-👁️ 1K • 👍 189 • 💬 152 • ⏱️ 12:53 • 3h ago
+👁️ 1K • 👍 189 • 💬 152 • ⏱️ 12:53 • 4h ago
 
 ---
 

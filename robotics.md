@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T21:21:49.332942+00:00'
+updated: '2026-01-05T21:43:22.888742+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 21:21 UTC  
+**Last Updated:** January 05, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,13 +56,13 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-52m ago
+1h ago
 
 ---
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -78,7 +78,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-19h ago
+20h ago
 
 ---
 
@@ -102,7 +102,7 @@ I’m using a Cytron motor driver (MDDS series) in packetized UART mode with an 
 
 Building my first AGV(final year project) with 12V DC encoder motors. Using Raspberry Pi as main controller with Arduino for motor control. Need a reliable motor driver compatible for my AGV Considering L298N, TB6612FNG, e.t.c. Which driver is most suitable for smooth AGV operation?
 
-2h ago
+3h ago
 
 ---
 
@@ -134,7 +134,7 @@ TipRanks • 1h ago
 
 New Dragonwing chip targets humanoids, AMRs
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Robot Report • 2d ago
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 20h ago
+CBS News • 21h ago
 
 ---
 
@@ -216,7 +216,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 112K • 👍 2K • 💬 345 • ⏱️ 5:49 • 20h ago
+👁️ 112K • 👍 2K • 💬 345 • ⏱️ 5:49 • 21h ago
 
 ---
 
