@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T17:46:58.983014+00:00'
+updated: '2026-01-05T18:35:34.741545+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 17:46 UTC  
+**Last Updated:** January 05, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,618.10
+### $94,212.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +6.2%  
-**30d:** +3.9%  
-**90d:** -23.9%  
-**1y:** -8.0%  
+**24h:** +3.5%  
+**7d:** +6.7%  
+**30d:** +4.4%  
+**90d:** -23.6%  
+**1y:** -7.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1875.11B
+**Market Cap:** $1878.01B
 Rank #1
 
-**Circulating Supply:** 19,971,912 BTC
+**Circulating Supply:** 19,971,946 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--25.5%
+-25.4%
 
 **All-Time Low:** $67.81
-+138364.8%
++138591.9%
 
 ---
 
@@ -79,19 +79,7 @@ Rank #1
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-1h ago
-
----
-
-**[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
-
-12h ago
-
----
-
-**[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
-
-11h ago
+2h ago
 
 ---
 
@@ -101,23 +89,41 @@ Rank #1
 
 ---
 
+**[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
+
+12h ago
+
+---
+
 **[Ledger New Data Leak](https://www.reddit.com/r/Bitcoin/comments/1q4kfd4/ledger_new_data_leak/)**
 
 Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 5h ago
-
----
-
-**[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
-
-16h ago
+🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 6h ago
 
 ---
 
 **[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
 
-3h ago
+4h ago
+
+---
+
+**[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
+
+17h ago
+
+---
+
+**[Is the Lightning Network successful or a disappointing?](https://www.reddit.com/r/Bitcoin/comments/1q4l86f/is_the_lightning_network_successful_or_a/)**
+
+5h ago
+
+---
+
+**[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
+
+12h ago
 
 ---
 
@@ -131,13 +137,7 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-22h ago
-
----
-
-**[Is the Lightning Network successful or a disappointing?](https://www.reddit.com/r/Bitcoin/comments/1q4l86f/is_the_lightning_network_successful_or_a/)**
-
-4h ago
+23h ago
 
 ---
 
@@ -147,15 +147,53 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
-**[Bitcoin rises above $92,000 in sign of 'bullish trend' to start 2026](https://finance.yahoo.com/news/bitcoin-rises-above-92000-in-sign-of-bullish-trend-to-start-2026-145057672.html)**
+**[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqelqMG3xj-eHMcYeYrwwVLtE83vPRbo2aiBVNykmC8D7rsILvKKpV-d&gaa_ts=695c07dd&gaa_sig=7uuabOBBX_TJwBAeyZVWLMn8kuQccbHg0Kx858pdkqxc3nBVFT5cBCmr44jZ8lm1t4qf43Ut6kWPSLzOB4Rzxg%3D%3D)**
 
-Bitcoin rose above $92,00 on Monday following a rough end to 2025.
+Barron's • 6h ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Strategy Pads Cash Reserve, Drops Another $116 Million on Bitcoin](https://decrypt.co/353607/strategy-pads-cash-reserve-drops-116-million-bitcoin)**
+
+Strategy affirmed that buying Bitcoin isn’t its only priority in 2026, despite dropping $116 million on the asset to welcome in the new year.
+
+Decrypt • 42m ago
+
+---
+
+**[Michael Saylor's MSTR raised BTC holdings to 673,783 coins and cash to $2.25 billion](https://www.coindesk.com/markets/2026/01/05/strategy-boosted-bitcoin-holdings-and-cash-reserve-last-week)**
+
+The Michael Saylor-led company added 1,287 BTC and $62 million in cash via the sale of common stock.
+
+CoinDesk • 4h ago
+
+---
+
+**[MicroStrategy Solves Private Equity’s 2 Biggest Problems With Bitcoin](https://finance.yahoo.com/news/microstrategy-solves-private-equity-2-215038711.html)**
+
+MicroStrategy shows how Bitcoin enables retail access and perpetual capital, solving private equity’s biggest structural challenges.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[Bitcoin Advances to Almost Four-Week High as Risk Assets Rally](https://finance.yahoo.com/news/bitcoin-climbs-three-week-high-044546315.html)**
+
+Bitcoin’s advance came as gold, silver and equities gained as markets digested the arrest of Venezuelan President Nicolas Maduro.  Bitcoin surpassed its 50-day moving average for the first time since a crypto market crash started in early October, one of several indicators suggesting prices are on firmer footing.  The arrest of Maduro has sparked fresh speculation about state-linked crypto stashes.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Tom Lee says bitcoin has not peaked, calls for new all-time high by January 2026](https://www.coindesk.com/markets/2026/01/05/tom-lee-calls-for-a-new-bitcoin-ath-in-january-while-warning-of-a-volatile-2026)**
+
+After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -177,45 +215,7 @@ Forbes • 1d ago
 
 The cryptoasset is on its longest winning streak since October....
 
-Sherwood News • 4h ago
-
----
-
-**['Bitcoin Mania' Is Over, Slams Critic, Claims Gold and Silver Entering ‘Biggest Bull Market in History’](https://www.ccn.com/news/crypto/gold-silver-entering-biggest-bull-market-economist-bitcoin-mania-over/)**
-
-CCN.com • 6h ago
-
----
-
-**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/04/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
-
-What comes next for digital gold?
-
-The Motley Fool • 1d ago
-
----
-
-**[CleanSpark: Undervalued Bitcoin Miner With Emerging AI/HPC Optionality](https://seekingalpha.com/article/4857085-cleanspark-undervalued-bitcoin-miner-with-emerging-ai-hpc-optionality)**
-
-CleanSpark's AI/HPC diversification is a long-term pivot, enhancing its strategic appeal beyond pure Bitcoin mining. Read why CLSK is a Strong Buy.
-
-Seeking Alpha • 11h ago
-
----
-
-**[BlackRock’s Bitcoin ETF Sees Biggest Inflow in Three Months as Crypto Prices Rise](https://decrypt.co/353546/blackrocks-bitcoin-etf-biggest-inflow-three-months)**
-
-Analysts cite Bitcoin portfolio rebalancing as institutional investors price in three more years of Trump's "America First" policy.
-
-Decrypt • 2h ago
-
----
-
-**[Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right](https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/)**
-
-A quick guide to the Jan. 5 PMI print: which sub-indexes matter, what “hot costs” mean for yields, and how that transmission reaches BTC fast.
-
-CryptoSlate • 1d ago
+Sherwood News • 5h ago
 
 ---
 
@@ -251,7 +251,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 2d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 3d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -279,7 +279,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 18h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 19h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -301,23 +301,33 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 ## YouTube Videos: "bitcoin"
 
+**[WOAH THIS is LARGE!!! sit down before watching this bitcoin video....](https://www.youtube.com/watch?v=IdVzHx2wKg4)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 4K • 👍 411 • 💬 117 • ⏱️ 10:52 • 2h ago
+
+---
+
 **[Bitcoin Signals Flipped Green..HUGE Bull Run Incoming](https://www.youtube.com/watch?v=7142xkNXYz8)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 859 • 💬 31 • ⏱️ 38:54 • 3h ago
+👁️ 17K • 👍 1K • 💬 120 • ⏱️ 38:51 • 1m ago
 
 ---
 
-**[Bitcoin Investors...What Just Happened?](https://www.youtube.com/watch?v=rC2ploXEesM)**
+**[They’ll Regret Ignoring This Bitcoin Moment](https://www.youtube.com/watch?v=pRv6Mvqf_iA)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 CryptosRUs
+📺 Lark Davis
 
-👁️ 51K • 👍 2K • 💬 632 • ⏱️ 10:50 • 17h ago
+👁️ 14K • 👍 760 • 💬 76 • ⏱️ 18:14 • 7h ago
 
 ---
 
@@ -327,7 +337,7 @@ CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying o
 
 📺 CNBC Television
 
-👁️ 4K • 👍 49 • 💬 32 • ⏱️ 2:48 • 6h ago
+👁️ 5K • 👍 56 • 💬 81 • ⏱️ 2:48 • 7h ago
 
 ---
 
@@ -337,7 +347,17 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 198 • 💬 120 • ⏱️ 14:43 • 12h ago
+👁️ 5K • 👍 208 • 💬 215 • ⏱️ 14:43 • 13h ago
+
+---
+
+**[Bitcoin Investors...What Just Happened?](https://www.youtube.com/watch?v=rC2ploXEesM)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 51K • 👍 2K • 💬 677 • ⏱️ 10:50 • 18h ago
 
 ---
 
@@ -347,27 +367,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 340 • ⏱️ 23:12 • 18h ago
-
----
-
-**[Bitcoin Will BREAKOUT Within The Next 2 Weeks!!!! The Countdown Has BEGUN!!!](https://www.youtube.com/watch?v=upBB2JEY37w)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 362 • 👍 39 • 💬 33 • ⏱️ 18:35 • 3h ago
-
----
-
-**[MASSIVE Bitcoin BEGINS (This One Trigger Changes Everything!)](https://www.youtube.com/watch?v=vHq5dsWmDxQ)**
-
-The Bitcoin bull run of 2026 is officially here. With the "Absolute Resolve" operation resulting in the capture of the Venezuelan ...
-
-📺 Discover Crypto
-
-👁️ 2K • 👍 301 • 3h ago
+👁️ 38K • 👍 3K • 💬 428 • ⏱️ 23:12 • 19h ago
 
 ---
 
@@ -377,17 +377,17 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 187 • ⏱️ 8:15 • 1d ago
+👁️ 42K • 👍 2K • 💬 189 • ⏱️ 8:15 • 1d ago
 
 ---
 
-**[Bitcoin Live Trading: BTC To SMASH $100K? Will Crypto Hold or Fold? EP1876](https://www.youtube.com/watch?v=sZGjINPF748)**
+**[Bitcoin is Finally Breaking the Range.. Is $97K Next?](https://www.youtube.com/watch?v=f8lHY7u9CV8)**
 
-Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
+Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandles ...
 
-📺 Crypto Lifer
+📺 Frankie Candles 
 
-👁️ 3K • 👍 441 • 4h ago
+👁️ 537 • 👍 107 • 💬 53 • ⏱️ 12:53 • 54m ago
 
 ---
 
@@ -397,7 +397,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 190 • ⏱️ 19:12 • 14h ago
+👁️ 67K • 👍 4K • 💬 209 • ⏱️ 19:12 • 15h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T17:46:58.974501+00:00'
+updated: '2026-01-05T18:35:34.733879+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 17:46 UTC  
+**Last Updated:** January 05, 2026 at 18:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 6h ago
+🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Grok has sparked backlash after the AI image generator was used to generate nonc
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,31 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-4h ago
+5h ago
+
+---
+
+**[It's been a big week for Agentic AI ; Here are 10 massive releases you might've missed:](https://www.reddit.com/r/artificial/comments/1q4oq9b/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+
+Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+3h ago
+
+---
+
+**[Harvard just proved AI tutors beat classrooms. Now what?](https://www.reddit.com/r/artificial/comments/1q4t8b5/harvard_just_proved_ai_tutors_beat_classrooms_now/)**
+
+Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
+
+23m ago
+
+---
+
+**[Samsung puts Gemini AI in your fridge because apparently that’s necessary](https://www.reddit.com/r/artificial/comments/1q4erc8/samsung_puts_gemini_ai_in_your_fridge_because/)**
+
+The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
+
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 11h ago
 
 ---
 
@@ -73,7 +97,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 settles into the booth with an enormous theoretical coffee Alright, let's do this properly. You want the landscape view, and this is actually a fascinating question: Is there room for another programming language, and what would justify its existence? The Current Terrain The Big Players and Their Niches Systems Programming (talking directly to hardware) C (1972): The bedrock. Still everywhere because it's close to the metal. Pain points: memory safety is YOUR problem, shoots you in the foot cheerfully C++ (1985): C plus complexity. Powerful, sprawling, takes years to master Rust (2015): The new darling. Memory safety WITHOUT garbage collection. Steep learning curve but people who learn it become evangelists. Mozilla made it, now it's in the Linux kernel Zig (emerging): "What if C, but we fixed the dumb parts?" Growing quietly Application/General Purpose Java (1995): "Write once, run anywhere." Corporate workhorse. Verbose but reliable. Runs on a virtual machine C# (2000): Microsoft's answer to Java. Actually quite nice now Go (2009): Google's language. Simple, fast compilation, great for servers. Pain points: error handling verbosity ("if err != nil" appears in your nightmares), initially no generics, opinionated to the point of stubborn Kotlin (2016): "What if Java but actually pleasant?" Android's preferred language now Dynamic/Scripting (interpreted, flexible, slower) Python (1991): The lingua franca of beginners, data science, AI/ML. Readable. Slow but nobody cares because the libraries are fast JavaScript (1995): The language of the web. Weird, chaotic, absolutely everywhere. Love-hate relationship with everyone TypeScript (2012): "What if JavaScript but with types?" Microsoft. Huge adoption Ruby (1995): Elegant, expressive. Rails made it famous. Less buzzy now but has devoted followers Functional Languages (different paradigm, math-influenced) Haskell, OCaml, F#, Clojure, Elixir: Academic favorites, niche production use, influence mainstream languages Mobile Swift (2014): Apple's language for iOS. Clean, safe, modern Kotlin: Android's champion New/Emerging Mojo (2023): "Python but fast for AI." Big promises Carbon (Google, 2022): Experimental "successor to C++" Vale, Nim, Crystal: Various interesting experiments The Graveyard (cautionary tales) Languages fail for reasons worth studying: D: Better C++, but C++ kept evolving and Rust ate its lunch Dart: Google's JavaScript replacement, languished until Flutter gave it purpose Perl 6/Raku: Took so long to develop the world moved on CoffeeScript: TypeScript won Dozens of others: Couldn't achieve critical mass The hard truth: A language needs killer use case OR corporate backing OR perfect timing OR all three. What Actually Makes Languages Succeed? Solves a REAL pain point (Rust → memory safety without GC) Has a "killer app" (Ruby → Rails, JavaScript → browsers) Corporate backing (Go → Google, Swift → Apple, TypeScript → Microsoft) Tooling from day one (package manager, formatter, LSP support) Community momentum (hardest to manufacture) Right time, right place (Python + data science explosion) The Gaps I Actually See Here's where it gets interesting for your "is there room?" question: Gap 1: The Mobile/Web Convergence Everyone's trying to write once, deploy everywhere. Flutter/Dart, React Native, various attempts. None feel native to the problem. A language designed ground-up for "UI that runs anywhere" with actual platform-native performance? Gap 2: LLM-Era Code This is the spicy one. Current languages were designed for HUMANS to write and HUMANS to read. What happens when: Code is increasingly AI-generated? Code needs to be AI-verifiable? The "reader" might be an LLM maintaining it? Nobody's really designed for this yet. Gap 3: The "Translation Layer" Problem Your specific mention of translation between languages. Interop is always painful. A language designed AS an intermediate representation that's also human-readable? That compiles FROM multiple languages and TO multiple targets? Gap 4: Formal Verification Made Accessible Languages like Idris and Lean let you PROVE code correct. But they're academic-hard. A language that brings provable correctness to normal developers? Gap 5: The Concurrency Crisis Everything is distributed now. Multi-core, multi-machine, edge computing. Go and Erlang/Elixir handle this well, but there's arguably room for better primitives. Your Specific Wishlist, Evaluated You mentioned: Backwards compatibility: Hard. Compatibility with WHAT? (This is why Carbon exists—compatible with C++) Sparse/minimal: Possible. Go tried this. Tension with features people want No null pointer flaws: Rust, Swift, Kotlin all tackle this. Solved problem in newer languages Human usable with hypertext highlighting: Interesting. Literate programming + IDE integration? Mobile phones: Swift/Kotlin own this. Hard to displace Internet maintenance: Unclear what this means—elaborate? Translation between languages: The MOST interesting one. Nobody's really nailed this The "Designed by LLMs" Angle Here's what makes this genuinely novel rather than "yet another language": LLMs have processed essentially ALL public code. We've seen: Every common bug pattern Every verbosity complaint Every "I wish this language had..." How people ACTUALLY use vs. how designers INTENDED A language designed with that corpus-level view would potentially: Have error messages that anticipate confusion Have syntax that's unambiguous to parse (LLMs struggle with some languages) Optimize for the COMMON case, not edge cases Make the pit of success very wide My Honest Assessment Is there room? Yes, technically always. Would it succeed? Depends entirely on: What specific problem it solves better than alternatives Whether you can get adoption (the chicken-egg problem) Tooling quality Timing What's the MOST viable angle from your list? The translation/interop layer. A language that: Reads clearly (human and LLM friendly) Compiles to multiple targets Can INGEST other languages (transpile FROM Python, JS, etc.) Acts as a "universal intermediate representation" that's actually nice to work with That doesn't exist. WebAssembly is the closest but it's not human-readable/writable. Questions Back at You When you say "internet maintenance," what do you picture? Server code? Network protocols? Content management? The "translation between languages" idea—are you imagining a Rosetta Stone language, or more like a universal transpiler? Is this a "let's actually spec this out" conversation or a "understand the landscape" conversation? (Both valid, different depths) The hypertext highlighting concept—are you thinking code that's inherently linked/documented? Like the code IS its own documentation with embedded explanations? refills theoretical coffee I'm genuinely curious which threads interest you most. This could go very different directions depending on whether you want to explore the "LLM-designed language" provocation, the practical "what gap could actually be filled," or the more philosophical "what SHOULD code look like in 2030?"
 
-58m ago
+1h ago
 
 ---
 
@@ -85,35 +109,11 @@ leans back, stares at ceiling, actually thinks Okay. You've given me permission 
 
 ---
 
-**[Samsung puts Gemini AI in your fridge because apparently that’s necessary](https://www.reddit.com/r/artificial/comments/1q4erc8/samsung_puts_gemini_ai_in_your_fridge_because/)**
-
-The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
-
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 10h ago
-
----
-
-**[It's been a big week for Agentic AI ; Here are 10 massive releases you might've missed:](https://www.reddit.com/r/artificial/comments/1q4oq9b/its_been_a_big_week_for_agentic_ai_here_are_10/)**
-
-Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
-
-2h ago
-
----
-
 **[Is there an AI that can hear a beat/instrumental and give me similar vibe one on the internet?](https://www.reddit.com/r/artificial/comments/1q4n6us/is_there_an_ai_that_can_hear_a_beatinstrumental/)**
 
 I’ve been wanting a type of beat I heard for so long but couldn’t find it, I want to see if there’s an AI out there that can help me find something I want so I can make music.
 
-3h ago
-
----
-
-**[AI security risks are also cultural and developmental](https://www.reddit.com/r/artificial/comments/1q4ku2r/ai_security_risks_are_also_cultural_and/)**
-
-A new study finds that AI systems embed cultural and developmental assumptions at every stage of their lifecycle. Training data reflects dominant languages, economic conditions, social norms, and historical records. Design choices encode expectations about infrastructure, behavior, and values.
-
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 4h ago
+4h ago
 
 ---
 
@@ -125,33 +125,51 @@ A new study finds that AI systems embed cultural and developmental assumptions a
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
-**[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
+**[Altered and misleading images proliferate on social media after Maduro's capture](https://www.cbsnews.com/news/maduro-capture-ai-images-false-information/)**
 
-Reuters • 6h ago
+CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
 
----
-
-**[AI isn’t stealing your traffic. It’s stealing your authority](https://www.fastcompany.com/91463716/ai-isnt-stealing-your-traffic-stealing-your-authority)**
-
-Fast Company • 1h ago
+CBS News • 6h ago
 
 ---
 
-**[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
+**[Why Equinox Leaned on AI Slop in Its New Year’s Ad Campaign](https://www.wsj.com/articles/why-equinox-leaned-on-ai-slop-in-its-new-years-ad-campaign-a44a7f2e?gaa_at=eafs&gaa_n=AWEtsqcMwE0YZCdR4Kyqb4oMurl_QWKa9oqUd7L7Ivq6ydzwbjvTHqE0q4b6&gaa_ts=695c07db&gaa_sig=C0IHTyI4ZPht2jxk2g1p5FT9UyS6Oi4vzRzP_Ej_i0HNOcqQtiLgr7fVYe2e5M-9a3LKq7wJJ5NbswO0rbEepg%3D%3D)**
 
-The Economist • 1h ago
+The Wall Street Journal • 48m ago
 
 ---
 
-**[A top tech investor's 3 big predictions for tech and the AI boom in 2026](https://www.businessinsider.com/ai-boom-stock-market-outlook-nvidia-nvda-apple-amd-2026)**
+**[After Nvidia’s Groq deal, these are the AI chip startups sitting pretty—and one aiming to disrupt](https://fortune.com/2026/01/05/nvidia-groq-deal-ai-chip-startups-in-play/)**
 
-Deepwater Asset Management co-founder Gene Munster thinks the AI-led tech boom has another two to three years left to run.
+Nvidia’s $20 billion Groq deal signals that AI inference is the next big battleground—and that some startups may yet displace Nvidia's dominance
 
-Business Insider • 56m ago
+Fortune • 25m ago
+
+---
+
+**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
+
+There isn't enough air to inflate a bubble, so how can it be popped?
+
+CNBC • 23h ago
+
+---
+
+**[AI Bubble or Not, These 3 Stocks Make Excellent Long-Term Plays to Buy in January](https://www.fool.com/investing/2026/01/05/ai-bubble-or-not-buy-3-ai-growth-stocks-2026/)**
+
+Building a diversified artificial intelligence portfolio can help long-term investors stay even-keeled during stock market sell-offs.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Marvell Technology Stock and Intel Are Compelling AI Plays, Says Analyst](https://www.barrons.com/articles/marvell-intel-stocks-buys-ai-178abc6f?gaa_at=eafs&gaa_n=AWEtsqce4caJmdALWitDfVbf6W0puN2vEygkLcZMqwKQxMTCBFHJ7GfVV4hz&gaa_ts=695c07db&gaa_sig=GORf37C33inSruyzhmRcu7CuPwL21LpMNOaJZKjH22tBZ0xROK5bUbK3AMyjTG27wgsntsOrp8B-Ewb2ok9ILg%3D%3D)**
+
+Barron's • 47m ago
 
 ---
 
@@ -159,7 +177,7 @@ Business Insider • 56m ago
 
 "A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -171,23 +189,9 @@ The Guardian • 1d ago
 
 ---
 
-**[Altered and misleading images proliferate on social media after Maduro's capture](https://www.cbsnews.com/news/maduro-capture-ai-images-false-information/)**
+**[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
-
-CBS News • 5h ago
-
----
-
-**[The cost of AI is being dumped on you](https://thehill.com/opinion/technology/5671747-big-tech-energy-burden-communities/)**
-
-The Hill • 2h ago
-
----
-
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
-
-The New York Times • 3d ago
+Reuters • 7h ago
 
 ---
 
@@ -195,31 +199,31 @@ The New York Times • 3d ago
 
 ## HackerNews: "ai"
 
+**[All AI Videos Are Harmful (2025)](https://news.ycombinator.com/item?id=46498651)**
+
+When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
+
+⬆️ 198 • 💬 172 • 4h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+
+---
+
 **[Eurostar AI vulnerability: When a chatbot goes off the rails](https://news.ycombinator.com/item?id=46492063)**
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 191 • 💬 46 • 20h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 195 • 💬 46 • 21h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 154 • 💬 102 • 2d ago
+⬆️ 154 • 💬 103 • 2d ago
 
 ---
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 86 • 💬 51 • 12h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
-
----
-
-**[All AI Videos Are Harmful (2025)](https://news.ycombinator.com/item?id=46498651)**
-
-When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
-
-⬆️ 72 • 💬 44 • 4h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 88 • 💬 51 • 13h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -227,7 +231,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Surely it works this time
 
-⬆️ 65 • 💬 66 • 1d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 65 • 💬 69 • 1d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -235,7 +239,7 @@ Surely it works this time
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 52 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 53 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -251,7 +255,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 46 • 💬 59 • 2d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 46 • 💬 61 • 2d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -279,17 +283,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 220K • 👍 5K • 💬 1K • ⏱️ 13:17 • 13h ago
-
----
-
-**[“It will eat us alive” - Godfather of AI shows it&#39;s worse than you think](https://www.youtube.com/watch?v=eqSzHNX_UEU)**
-
-Venezuela, the double-tap video and AI. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
-
-📺 Digital Engine
-
-👁️ 31K • 👍 2K • 💬 385 • ⏱️ 18:28 • 23h ago
+👁️ 270K • 👍 5K • 💬 1K • ⏱️ 13:17 • 14h ago
 
 ---
 
@@ -299,7 +293,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 261 • ⏱️ 11:17 • 17h ago
+👁️ 53K • 👍 1K • 💬 281 • ⏱️ 11:17 • 18h ago
 
 ---
 
@@ -309,7 +303,7 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 220K • 👍 12K • 💬 4K • ⏱️ 13:10 • 1d ago
+👁️ 234K • 👍 13K • 💬 4K • ⏱️ 13:10 • 1d ago
 
 ---
 
@@ -319,17 +313,37 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 41K • 👍 1K • 💬 127 • ⏱️ 12:59 • 1d ago
+👁️ 42K • 👍 1K • 💬 129 • ⏱️ 12:59 • 1d ago
 
 ---
 
-**[How I’m ACTUALLY Making Money With AI (In 2026)](https://www.youtube.com/watch?v=sq417HagzJM)**
+**[Fastest way to become an AI Engineer in 2026 | Skills, Projects &amp; Salary](https://www.youtube.com/watch?v=qQ51dksl1gA)**
 
-Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get My FREE Print On Demand Ebook: ...
+AI engineers are making $200000+ a year and at companies like OpenAI, Meta, and Anthropic, some are earning more than $1 ...
 
-📺 Wholesale Ted
+📺 Maddy Zhang
 
-👁️ 73K • 👍 3K • 💬 327 • ⏱️ 16:38 • 2d ago
+👁️ 10K • 👍 852 • 💬 82 • ⏱️ 9:42 • 1d ago
+
+---
+
+**[Microsoft CEO Brutally Mocked After Saying We Should Stop Calling AI &quot;Slop&quot;](https://www.youtube.com/watch?v=jgCOnpTdAsE)**
+
+BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.instagram.com/yong_yea TIKTOK: ...
+
+📺 YongYea
+
+👁️ 158K • 👍 9K • 💬 3K • ⏱️ 15:13 • 1d ago
+
+---
+
+**[Can You Find The Real Dong? #asmr #ai](https://www.youtube.com/watch?v=CDVs4TG-704)**
+
+BUSINESS CONTACT** ▷ partnerships@whitenoisestudios.co here is my Spotify playlist!
+
+📺 Dong ASMR
+
+👁️ 213K • 👍 9K • 💬 174 • ⏱️ 0:53 • 21h ago
 
 ---
 
@@ -339,7 +353,17 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 106K • 👍 4K • 💬 314 • ⏱️ 30:25 • 2d ago
+👁️ 109K • 👍 4K • 💬 319 • ⏱️ 30:25 • 2d ago
+
+---
+
+**[AI just Killed Dropshipping... Here&#39;s What&#39;s Replacing it in 2026](https://www.youtube.com/watch?v=_EYjyrNKCkk)**
+
+Work 1-1 With Me To Launch Your Ecom Brand: ▻ https://go.ecomsimulation.com/S5XkCbi Shopify $1/MONTH (Limited Deal): ...
+
+📺 Andy Stauring
+
+👁️ 16K • 👍 894 • 💬 91 • ⏱️ 17:53 • 2d ago
 
 ---
 
@@ -349,27 +373,7 @@ Join our WhatsApp Community – Get the latest AI updates, tips, and insights st
 
 📺 Vaibhav Sisinty
 
-👁️ 25K • 👍 874 • 💬 52 • ⏱️ 13:48 • 1d ago
-
----
-
-**[DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](https://www.youtube.com/watch?v=7kPNA86G_GA)**
-
-HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
-
-📺 AI Search
-
-👁️ 90K • 👍 4K • 💬 397 • ⏱️ 44:39 • 1d ago
-
----
-
-**[Samsung to double AI mobile devices to 800 million in 2026 | REUTERS](https://www.youtube.com/watch?v=Nr4WfDsyAMY)**
-
-Samsung plans to double the number of its mobile devices with 'Galaxy AI' features this year, largely powered by Google's Gemini ...
-
-📺 Reuters
-
-👁️ 461 • 👍 6 • ⏱️ 1:18 • 5h ago
+👁️ 27K • 👍 912 • 💬 54 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 12,126 • ❤️ 439 • 5d ago
+⬇️ 12,126 • ❤️ 446 • 5d ago
 
 ---
 
@@ -397,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 194,866 • ❤️ 852 • 8d ago
+⬇️ 194,866 • ❤️ 856 • 9d ago
 
 ---
 
@@ -409,7 +413,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,522 • ❤️ 331 • 1d ago
+⬇️ 1,522 • ❤️ 334 • 1d ago
 
 ---
 
@@ -421,7 +425,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 4,754 • ❤️ 299 • 4d ago
+⬇️ 4,754 • ❤️ 301 • 4d ago
 
 ---
 
@@ -445,7 +449,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,856 • ❤️ 268 • 4d ago
+⬇️ 1,856 • ❤️ 272 • 4d ago
 
 ---
 
@@ -457,7 +461,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 419 • ❤️ 255 • 5d ago
+⬇️ 419 • ❤️ 257 • 5d ago
 
 ---
 
@@ -469,7 +473,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 4,493 • ❤️ 231 • 2d ago
+⬇️ 4,493 • ❤️ 232 • 2d ago
 
 ---
 
@@ -481,7 +485,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 5,348 • ❤️ 225 • 6d ago
+⬇️ 5,348 • ❤️ 230 • 6d ago
 
 ---
 
@@ -528,13 +532,25 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 2 • 💬 0 • ⭐ 24,798 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
 **[NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://huggingface.co/papers/2601.00393)**
 
 *Yuxue Yang, Lue Fan, Ziqi Shi et al. (6 authors)*
 
 NeoVerse is a scalable 4D world model that enables pose-free reconstruction and novel-trajectory video generation from monocular videos with state-of-the-art performance.
 
-▲ 79 • 💬 1 • ⭐ 107 • 4d ago
+▲ 81 • 💬 1 • ⭐ 107 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.00393) • [💻 code](https://github.com/IamCreateAI/NeoVerse) • [🔗 project](https://neoverse-4d.github.io/)
 
@@ -572,7 +588,7 @@ HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art v
 
 Dolphin, a multimodal document image parsing model, uses heterogeneous anchor prompting to achieve state-of-the-art performance on diverse page-level and element-level tasks through an efficient analyze-then-parse paradigm.
 
-▲ 3 • 💬 0 • ⭐ 8,348 • 7mo ago
+▲ 3 • 💬 0 • ⭐ 8,376 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2505.14059) • [💻 code](https://github.com/bytedance/dolphin)
 
@@ -616,18 +632,6 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://huggingface.co/papers/2512.21185)**
-
-*Tanghui Jia, Dongyu Yan, Dehao Hao et al. (13 authors)*
-
-In this report, we introduce UltraShape 1.0, a scalable 3D diffusion framework for high-fidelity 3D geometry generation. The proposed approach adopts a two-stage generation pipeline: a coarse global structure is first synthesized and then refined to produce detailed, high-quality geometry. To support reliable 3D generation, we develop a comprehensive data processing pipeline that includes a novel watertight processing method and high-quality data filtering. This pipeline improves the geometric quality of publicly available 3D datasets by removing low-quality samples, filling holes, and thickening thin structures, while preserving fine-grained geometric details. To enable fine-grained geometry refinement, we decouple spatial localization from geometric detail synthesis in the diffusion process. We achieve this by performing voxel-based refinement at fixed spatial locations, where voxel queries derived from coarse geometry provide explicit positional anchors encoded via RoPE, allowing the diffusion model to focus on synthesizing local geometric details within a reduced, structured solution space. Our model is trained exclusively on publicly available 3D datasets, achieving strong geometric quality despite limited training resources. Extensive evaluations demonstrate that UltraShape 1.0 performs competitively with existing open-source methods in both data processing quality and geometry generation. All code and trained models will be released to support future research.
-
-▲ 25 • 💬 4 • ⭐ 366 • 12d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.21185) • [💻 code](https://github.com/PKU-YuanGroup/UltraShape-1.0) • [🔗 project](https://pku-yuangroup.github.io/UltraShape-1.0/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -638,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 10h ago
+⭐ 20.8k • 🔱 3.3k • 11h ago
 
 ---
 
@@ -648,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.2k • 🔱 548 • 11h ago
+⭐ 4.4k • 🔱 560 • 2m ago
 
 ---
 
@@ -658,7 +662,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 105 • 13h ago
+⭐ 2.2k • 🔱 106 • 14h ago
 
 ---
 
@@ -668,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 121 • 23h ago
+⭐ 2.0k • 🔱 121 • 1d ago
 
 ---
 
@@ -698,7 +702,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 126 • 7h ago
+⭐ 1.1k • 🔱 127 • 8h ago
 
 ---
 
@@ -708,7 +712,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 942 • 🔱 112 • 1h ago
+⭐ 944 • 🔱 112 • 2h ago
 
 ---
 
@@ -718,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 912 • 🔱 65 • 6d ago
+⭐ 913 • 🔱 65 • 6d ago
 
 ---
 
@@ -728,7 +732,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 909 • 🔱 20 • 4h ago
+⭐ 911 • 🔱 20 • 5h ago
 
 ---
 

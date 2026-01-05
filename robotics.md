@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T17:46:58.992216+00:00'
+updated: '2026-01-05T18:35:34.749716+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 17:46 UTC  
+**Last Updated:** January 05, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,31 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[TRUMPF laser for ASML’s EUV lithography machines.](https://www.reddit.com/r/robotics/comments/1q42yoj/trumpf_laser_for_asmls_euv_lithography_machines/)**
-
-These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
-
-19h ago
-
----
-
 **[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-3h ago
+4h ago
+
+---
+
+**[TRUMPF laser for ASML’s EUV lithography machines.](https://www.reddit.com/r/robotics/comments/1q42yoj/trumpf_laser_for_asmls_euv_lithography_machines/)**
+
+These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
+
+20h ago
 
 ---
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
 4h ago
+
+---
+
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+25m ago
 
 ---
 
@@ -66,7 +72,15 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-16h ago
+17h ago
+
+---
+
+**[Cytron motor driver keeps running last command in packetized UART when ESP loses power – how to stop it?](https://www.reddit.com/r/robotics/comments/1q4rpbv/cytron_motor_driver_keeps_running_last_command_in/)**
+
+I’m using a Cytron motor driver (MDDS series) in packetized UART mode with an ESP microcontroller. Everything works correctly while the ESP is powered. The problem happens when I remove power from the ESP: The Cytron keeps executing the last UART command For example, if the motors were moving forward, they continue moving forward indefinitely The UART signal (TX) and GND pins become floating when the ESP is unpowered I expected the 2-second auto-stop failsafe to stop the motors, but it does not trigger in packetized UART mode. Questions: Is this behavior expected for Cytron packetized UART? Is there any built-in UART failsafe or timeout I’m missing? What is the proper way to force the motors to stop when the controller loses power? Is a hardware solution (relay / enable pin / kill switch) the only safe option? I’m working on a robotics/rover project, so safety is important. Any advice or proven setups would be appreciated.
+
+1h ago
 
 ---
 
@@ -74,39 +88,23 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
 
-6h ago
+7h ago
 
 ---
 
-**[Unitree Humanoid Robot Training](https://www.reddit.com/r/robotics/comments/1q3lx1a/unitree_humanoid_robot_training/)**
+**[Best motor driver for 12V encoder motors on AGV?](https://www.reddit.com/r/robotics/comments/1q4ts3c/best_motor_driver_for_12v_encoder_motors_on_agv/)**
 
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
+Building my first AGV(final year project) with 12V DC encoder motors. Using Raspberry Pi as main controller with Arduino for motor control. Need a reliable motor driver compatible for my AGV Considering L298N, TB6612FNG, e.t.c. Which driver is most suitable for smooth AGV operation?
 
-1d ago
-
----
-
-**[Building a robot arm from scratch using CNC, Marlin and Python](https://www.reddit.com/r/robotics/comments/1q4jwwp/building_a_robot_arm_from_scratch_using_cnc/)**
-
-I designed and built this robot arm completely from scratch as a hands on learning project in robotics, mechanics, and control systems. The system is largely based on repurposed components from two old 3D printers Ender 3 and Sapphire Pro, combined with CNC machined aluminum structural parts and several 3D printed components. On the control side, the arm runs a heavily modified Marlin firmware with closed loop stepper drivers (MKS TMC42C). Higher level control and automation are handled by a custom Python script, which is still very much a work in progress. The robot can be controlled manually using a PlayStation controller, or operated in an automated mode by recording waypoints and replaying motion sequences. As one of the first simple practice tasks, I taught the arm to feed my dog. It’s a deliberately low complexity application, mainly used to test repeatability, positioning accuracy, and basic sequencing. This is my first serious attempt at building a robot. I didn’t closely follow tutorials most of the process involved experimenting, breaking things, fixing them, and learning why they failed. One area I’m especially interested in improving next is the shoulder joint. If anyone here has experience with small robot arms, I’d really appreciate ideas for more robust shoulder joint designs, particularly when it comes to stiffness, backlash, and holding torque. I’m also considering using a harmonic drive for the shoulder axis and would love recommendations for stable, reasonably affordable options, or alternative approaches that worked well for you in similar scale systems. Any feedback on what works, what doesn’t, and where you’d focus improvements next would be very welcome.
-
-🔗 [youtu.be](https://youtu.be/3EGTNYefZMA?si=UXEQW2hJB412sqbA) • 5h ago
+4m ago
 
 ---
 
-**[CANgaroo: Open-Source CAN Bus Analyzer for Linux, Automotive, Robotics & Industrial Applications](https://www.reddit.com/r/robotics/comments/1q43u5c/cangaroo_opensource_can_bus_analyzer_for_linux/)**
+**[Added drag-n-drop URDF importing to Robot Overlord](https://www.reddit.com/r/robotics/comments/1q4tng0/added_dragndrop_urdf_importing_to_robot_overlord/)**
 
-Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
+Discover topics like java, robot, simulation, urdf, and the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users like aggrav8d.
 
-19h ago
-
----
-
-**[Built a differential drive robot with localisation/ tracking.](https://www.reddit.com/r/robotics/comments/1q3xzll/built_a_differential_drive_robot_with/)**
-
-I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
-
-22h ago
+🔗 [Imgur](https://imgur.com/gallery/adding-urdf-support-robot-overlord-BpAd6bc) • 8m ago
 
 ---
 
@@ -118,29 +116,15 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 3h ago
+CNET • 4h ago
 
 ---
 
-**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+**[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-01-04/)**
 
-Bloomberg.com • 3h ago
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
----
-
-**[CES 2026 to showcase real-world AI applications](https://www.koreatimes.co.kr/business/companies/20260106/ces-2026-ces-2026-to-showcase-real-world-ai-applications)**
-
-LAS VEGAS — This year’s CES tech fair will focus on the shift of artificial intelligence (AI) from mainly digital uses to real-world applications,...
-
-The Korea Times • 1h ago
-
----
-
-**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
-
-In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
-
-The Robot Report • 2d ago
+CBS News • 17h ago
 
 ---
 
@@ -152,19 +136,33 @@ PR Newswire • 1d ago
 
 ---
 
-**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
-
-Inspenet • 1d ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Boston Dynamics is training an AI-powered humanoid robot to do factory work](https://www.cbsnews.com/news/boston-dynamics-training-ai-humanoids-to-perform-human-jobs-60-minutes/)**
+**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
-While it's not ready to join the workforce yet, Atlas, an AI-powered humanoid, is learning how to do human tasks.
+In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-CBS News • 17h ago
+The Robot Report • 2d ago
+
+---
+
+**[REVOBOTS Defines Task-Adaptive Robotics at CES 2026](https://www.freep.com/press-release/story/139115/revobots-defines-task-adaptive-robotics-at-ces-2026/)**
+
+Experience the Future of Work with TASKBOT AVA and TASKBOT SCOUT | REVOBOTS Founding Team On-Site for Meet the Makers and Media Briefings The future of robotics isn’t about spectacle—it’s about usefulness. We design robots for specific jobs, in real environments, with autonomy where it makes sense and human oversight where it matters.” — Andre […]
+
+Detroit Free Press • 3h ago
+
+---
+
+**[What to expect from the annual Consumer Electronics Show: More AI, more robots](https://www.theglobeandmail.com/business/technology/science/article-consumer-electronics-show-2026-robotics-ai-las-vegas/)**
+
+Las Vegas tech show to display latest gadgets aimed at consumers, including AI and robotics applications for daily life
+
+The Globe and Mail • 5h ago
 
 ---
 
@@ -172,15 +170,15 @@ CBS News • 17h ago
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
-**[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
+**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
 
-On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
+FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
 
-CNN • 2d ago
+Inspenet • 1d ago
 
 ---
 
@@ -202,7 +200,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 220K • 👍 5K • 💬 1K • ⏱️ 13:17 • 13h ago
+👁️ 270K • 👍 5K • 💬 1K • ⏱️ 13:17 • 14h ago
 
 ---
 
@@ -212,7 +210,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 6K • 👍 87 • 💬 3 • ⏱️ 7:38 • 22h ago
+👁️ 6K • 👍 94 • 💬 3 • ⏱️ 7:38 • 23h ago
 
 ---
 
@@ -222,17 +220,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 79K • 👍 2K • 💬 259 • ⏱️ 5:49 • 17h ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 120K • 👍 2K • 💬 565 • ⏱️ 0:32 • 1d ago
+👁️ 94K • 👍 2K • 💬 306 • ⏱️ 5:49 • 18h ago
 
 ---
 
@@ -256,6 +244,26 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+
+📺 Female Humanoid Lab
+
+👁️ 23K • 👍 199 • 💬 11 • ⏱️ 12:34 • 3d ago
+
+---
+
+**[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
+
+Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
+
+📺 BeastNarratives
+
+👁️ 7.7M • 👍 179K • 💬 664 • ⏱️ 0:45 • 6d ago
+
+---
+
 **[These New AI Robots Are About to Become Real in 2026](https://www.youtube.com/watch?v=t-GeDuS3qWw)**
 
 Humanoid robots are about to take a massive leap forward in 2026 — and the companies behind them are moving faster than ...
@@ -266,33 +274,23 @@ Humanoid robots are about to take a massive leap forward in 2026 — and the com
 
 ---
 
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+**[Top 3 AI Robotics Stocks To Watch in 2026](https://www.youtube.com/watch?v=cy57nEuN1UM)**
 
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock Analysis: https://cashtoassets.com/themachine ...
 
-📺 Female Humanoid Lab
+📺 Will Rich
 
-👁️ 23K • 👍 196 • 💬 11 • ⏱️ 12:34 • 3d ago
-
----
-
-**[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
-
-Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
-
-📺 BeastNarratives
-
-👁️ 7.7M • 👍 178K • 💬 659 • ⏱️ 0:45 • 6d ago
+👁️ 4K • 👍 129 • 💬 28 • ⏱️ 28:43 • 1d ago
 
 ---
 
-**[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
+**[War Robots: TRUE COST of a MAX Ultimate Tryphon](https://www.youtube.com/watch?v=pLaAIjMB-U4)**
 
-A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
+War Robots Gameplay: Getting my Ultimate Typhon and the TRUE COST of leveling and getting it! Is it worth it? #warrobots ...
 
-📺 7NEWS Australia
+📺 Manni-Gaming
 
-👁️ 208K • 👍 2K • ⏱️ 0:42 • 6d ago
+👁️ 12K • 👍 756 • 💬 182 • ⏱️ 22:23 • 15h ago
 
 ---
 
