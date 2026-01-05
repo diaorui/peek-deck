@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T15:48:46.493037+00:00'
+updated: '2026-01-05T16:29:02.917728+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 15:48 UTC  
+**Last Updated:** January 05, 2026 at 16:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-17h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ A few months ago, the NEO home robot was all over the news — demos, hype, prom
 
 I designed and built this robot arm completely from scratch as a hands on learning project in robotics, mechanics, and control systems. The system is largely based on repurposed components from two old 3D printers Ender 3 and Sapphire Pro, combined with CNC machined aluminum structural parts and several 3D printed components. On the control side, the arm runs a heavily modified Marlin firmware with closed loop stepper drivers (MKS TMC42C). Higher level control and automation are handled by a custom Python script, which is still very much a work in progress. The robot can be controlled manually using a PlayStation controller, or operated in an automated mode by recording waypoints and replaying motion sequences. As one of the first simple practice tasks, I taught the arm to feed my dog. It’s a deliberately low complexity application, mainly used to test repeatability, positioning accuracy, and basic sequencing. This is my first serious attempt at building a robot. I didn’t closely follow tutorials most of the process involved experimenting, breaking things, fixing them, and learning why they failed. One area I’m especially interested in improving next is the shoulder joint. If anyone here has experience with small robot arms, I’d really appreciate ideas for more robust shoulder joint designs, particularly when it comes to stiffness, backlash, and holding torque. I’m also considering using a harmonic drive for the shoulder axis and would love recommendations for stable, reasonably affordable options, or alternative approaches that worked well for you in similar scale systems. Any feedback on what works, what doesn’t, and where you’d focus improvements next would be very welcome.
 
-🔗 [youtu.be](https://youtu.be/3EGTNYefZMA?si=UXEQW2hJB412sqbA) • 3h ago
+🔗 [youtu.be](https://youtu.be/3EGTNYefZMA?si=UXEQW2hJB412sqbA) • 4h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-20h ago
+21h ago
 
 ---
 
@@ -126,7 +126,7 @@ CBS News • 15h ago
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 1h ago
+CNET • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ PR Newswire • 1d ago
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -164,13 +164,13 @@ Detroit Free Press • 1h ago
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
 **[CES 2026 kicks off in Las Vegas this week, showcasing AI, robotics, and more](https://www.fastcompany.com/91468992/ces-2026-kicks-off-las-vegas-this-week-showcasing-ai-robotics-more)**
 
-Fast Company • 15m ago
+Fast Company • 56m ago
 
 ---
 
@@ -200,7 +200,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 163K • 👍 4K • 💬 991 • ⏱️ 13:17 • 11h ago
+👁️ 220K • 👍 5K • 💬 1K • ⏱️ 13:17 • 12h ago
 
 ---
 
@@ -210,17 +210,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 5K • 👍 76 • 💬 3 • ⏱️ 7:38 • 20h ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 114K • 👍 2K • 💬 540 • ⏱️ 0:32 • 1d ago
+👁️ 6K • 👍 87 • 💬 3 • ⏱️ 7:38 • 20h ago
 
 ---
 
@@ -230,7 +220,17 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 66K • 👍 1K • 💬 216 • ⏱️ 5:49 • 15h ago
+👁️ 79K • 👍 2K • 💬 259 • ⏱️ 5:49 • 15h ago
+
+---
+
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+
+📺 Unitree Robotics
+
+👁️ 120K • 👍 2K • 💬 565 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ A humanoid AI robot is now walking public streets in China, moving with confiden
 
 📺 AI Revolution
 
-👁️ 98K • 👍 2K • 💬 269 • ⏱️ 11:42 • 4d ago
+👁️ 99K • 👍 2K • 💬 270 • ⏱️ 11:42 • 4d ago
 
 ---
 
@@ -250,7 +250,27 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 15K • 👍 1K • 💬 77 • ⏱️ 8:39 • 4d ago
+👁️ 15K • 👍 1K • 💬 77 • ⏱️ 8:39 • 5d ago
+
+---
+
+**[These New AI Robots Are About to Become Real in 2026](https://www.youtube.com/watch?v=t-GeDuS3qWw)**
+
+Humanoid robots are about to take a massive leap forward in 2026 — and the companies behind them are moving faster than ...
+
+📺 The AI Nexus
+
+👁️ 4K • 👍 92 • 💬 9 • ⏱️ 18:26 • 4d ago
+
+---
+
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+
+📺 Female Humanoid Lab
+
+👁️ 23K • 👍 196 • 💬 11 • ⏱️ 12:34 • 3d ago
 
 ---
 
@@ -260,17 +280,7 @@ Company's staff challenged kyrie irving to push the humanoid robot. however, the
 
 📺 BeastNarratives
 
-👁️ 7.6M • 👍 176K • 💬 653 • ⏱️ 0:45 • 5d ago
-
----
-
-**[A Humanoid Robot Girl Living With a Single Man U50 — An Unbelievable Experiment](https://www.youtube.com/watch?v=O2tmZj1JnOg)**
-
-This channel tells emotional and cinematic stories about a robot girl who enters the lives of elderly couples during unexpected ...
-
-📺 Female Humanoid Lab
-
-👁️ 141K • 👍 794 • 💬 37 • ⏱️ 12:09 • 7d ago
+👁️ 7.7M • 👍 178K • 💬 659 • ⏱️ 0:45 • 5d ago
 
 ---
 
@@ -280,17 +290,7 @@ A humanoid robot mimics a man's martial arts movements using motion-capture tech
 
 📺 7NEWS Australia
 
-👁️ 207K • 👍 2K • ⏱️ 0:42 • 6d ago
-
----
-
-**[China Just Replaced Its Border Guards With Humanoid Robots](https://www.youtube.com/watch?v=NwZoilFAmUE)**
-
-China has officially begun replacing human soldiers with AI-powered robots and autonomous systems at its borders. In this video ...
-
-📺 The International Desk
-
-👁️ 23K • 👍 170 • 💬 29 • ⏱️ 8:29 • 6d ago
+👁️ 208K • 👍 2K • ⏱️ 0:42 • 6d ago
 
 ---
 

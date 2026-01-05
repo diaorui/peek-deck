@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T15:48:46.475108+00:00'
+updated: '2026-01-05T16:29:02.900094+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 15:48 UTC  
+**Last Updated:** January 05, 2026 at 16:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Grok has sparked backlash after the AI image generator was used to generate nonc
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-16m ago
+57m ago
 
 ---
 
@@ -81,7 +81,7 @@ I’ve been wanting a type of beat I heard for so long but couldn’t find it, I
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 8h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 9h ago
 
 ---
 
@@ -89,7 +89,7 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 A new study finds that AI systems embed cultural and developmental assumptions at every stage of their lifecycle. Training data reflects dominant languages, economic conditions, social norms, and historical records. Design choices encode expectations about infrastructure, behavior, and values.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 2h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1
 
 I am trying to turn text documents into pretty, appealing, visually illustrative documents like flyers and handouts etc. Is anything actually good at this? I can provide all the text I just need something that can help me put it all together in a visually appealing way, maybe with diagrams etc.
 
-7h ago
+8h ago
 
 ---
 
@@ -131,13 +131,13 @@ Reuters • 4h ago
 
 CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
 
-CBS News • 3h ago
+CBS News • 4h ago
 
 ---
 
 **[The cost of AI is being dumped on you](https://thehill.com/opinion/technology/5671747-big-tech-energy-burden-communities/)**
 
-The Hill • 18m ago
+The Hill • 59m ago
 
 ---
 
@@ -145,7 +145,7 @@ The Hill • 18m ago
 
 The company launched Alexa+ last February and it remains in early access.
 
-CNBC • 34m ago
+CNBC • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNBC • 34m ago
 
 There isn't enough air to inflate a bubble, so how can it be popped?
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -161,13 +161,13 @@ CNBC • 20h ago
 
 Building a diversified artificial intelligence portfolio can help long-term investors stay even-keeled during stock market sell-offs.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[OpenAI Could Pop the AI Bubble. These 2 Tech Stocks Could Still Win.](https://www.barrons.com/articles/ai-stocks-bubble-openai-b38a5d01?gaa_at=eafs&gaa_n=AWEtsqcMa9z8Ay8_pv5YZCc6T0k-Ud7r17M9Htu2WG2zOvQoHaxnNs0lUpKI&gaa_ts=695be0c0&gaa_sig=-nUsEIIra3f2zedfHvi_dhKFC_gZ5INdsEZwBXVILZikNDgnbiEs0aA1Fio9pQSDAcFF6iSipiIwL8NV9Ve0KQ%3D%3D)**
 
-Barron's • 34m ago
+Barron's • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 34m ago
 
 Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
-BBC • 7m ago
+BBC • 48m ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 1d ago
 
 **[The AI supercycle tests the world's network infrastructure](https://www.axios.com/sponsored/the-ai-supercycle-tests-the-worlds-network-infrastructure)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Axios • 2h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 187 • 💬 46 • 18h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 187 • 💬 46 • 19h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -213,7 +213,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 84 • 💬 47 • 10h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 84 • 💬 47 • 11h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -221,7 +221,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 65 • 💬 66 • 22h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 65 • 💬 66 • 23h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -281,7 +281,17 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 163K • 👍 4K • 💬 990 • ⏱️ 13:17 • 11h ago
+👁️ 220K • 👍 5K • 💬 1K • ⏱️ 13:17 • 12h ago
+
+---
+
+**[“It will eat us alive” - Godfather of AI shows it&#39;s worse than you think](https://www.youtube.com/watch?v=eqSzHNX_UEU)**
+
+Venezuela, the double-tap video and AI. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 31K • 👍 2K • 💬 385 • ⏱️ 18:28 • 21h ago
 
 ---
 
@@ -291,17 +301,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 42K • 👍 1K • 💬 245 • ⏱️ 11:17 • 15h ago
-
----
-
-**[They built an AI ME…and IT’S WORKING!](https://www.youtube.com/watch?v=fUF-Nzr9WGQ)**
-
-AI-generated impersonation scams are eroding trust and preparing the ground for large-scale election disinformation Become a ...
-
-📺 David Pakman Show
-
-👁️ 154K • 👍 10K • 💬 2K • ⏱️ 7:02 • 1d ago
+👁️ 47K • 👍 1K • 💬 261 • ⏱️ 11:17 • 16h ago
 
 ---
 
@@ -311,27 +311,7 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 202K • 👍 11K • 💬 3K • ⏱️ 13:10 • 1d ago
-
----
-
-**[Everyone Knows It&#39;s a Bubble. What Happens Now?](https://www.youtube.com/watch?v=XEPClBBEmXg)**
-
-Support the channel and protect yourself online with our sponsor, Aura! You can get two weeks absolutely free, no strings ...
-
-📺 Second Thought
-
-👁️ 466K • 👍 30K • 💬 3K • ⏱️ 14:26 • 3d ago
-
----
-
-**[FREE Open-Source AI Just DESTROYED ChatGPT + 9 Shocking Updates This Week](https://www.youtube.com/watch?v=U2Mp55WUMjA)**
-
-Join our WhatsApp Community – Get the latest AI updates, tips, and insights straight to your inbox https://dub.sh/ai-updates-vs ...
-
-📺 Vaibhav Sisinty
-
-👁️ 23K • 👍 821 • 💬 52 • ⏱️ 13:48 • 23h ago
+👁️ 220K • 👍 12K • 💬 4K • ⏱️ 13:10 • 1d ago
 
 ---
 
@@ -341,7 +321,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 41K • 👍 1K • 💬 124 • ⏱️ 12:59 • 1d ago
+👁️ 41K • 👍 1K • 💬 127 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -351,17 +331,7 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 72K • 👍 3K • 💬 318 • ⏱️ 16:38 • 2d ago
-
----
-
-**[This Evil Egg Shocked Grandma 😳🥚 #ai #kindness](https://www.youtube.com/watch?v=JAnjZbIv83U)**
-
-This Evil Egg Shocked Grandma #ai #kindness #trendingshorts This video is AI-generated for entertainment purposes only.
-
-📺 ASR CopyLol Facts
-
-👁️ 9K • ⏱️ 0:21 • 8h ago
+👁️ 73K • 👍 3K • 💬 327 • ⏱️ 16:38 • 2d ago
 
 ---
 
@@ -371,7 +341,37 @@ Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are 
 
 📺 Dan Martell
 
-👁️ 103K • 👍 4K • 💬 301 • ⏱️ 30:25 • 2d ago
+👁️ 106K • 👍 4K • 💬 314 • ⏱️ 30:25 • 2d ago
+
+---
+
+**[FREE Open-Source AI Just DESTROYED ChatGPT + 9 Shocking Updates This Week](https://www.youtube.com/watch?v=U2Mp55WUMjA)**
+
+Join our WhatsApp Community – Get the latest AI updates, tips, and insights straight to your inbox https://dub.sh/ai-updates-vs ...
+
+📺 Vaibhav Sisinty
+
+👁️ 25K • 👍 874 • 💬 52 • ⏱️ 13:48 • 1d ago
+
+---
+
+**[DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS](https://www.youtube.com/watch?v=7kPNA86G_GA)**
+
+HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+
+📺 AI Search
+
+👁️ 90K • 👍 4K • 💬 397 • ⏱️ 44:39 • 1d ago
+
+---
+
+**[Samsung to double AI mobile devices to 800 million in 2026 | REUTERS](https://www.youtube.com/watch?v=Nr4WfDsyAMY)**
+
+Samsung plans to double the number of its mobile devices with 'Galaxy AI' features this year, largely powered by Google's Gemini ...
+
+📺 Reuters
+
+👁️ 461 • 👍 6 • ⏱️ 1:18 • 4h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 12,126 • ❤️ 435 • 5d ago
+⬇️ 12,126 • ❤️ 439 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 194,866 • ❤️ 850 • 8d ago
+⬇️ 194,866 • ❤️ 852 • 8d ago
 
 ---
 
@@ -411,7 +411,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,522 • ❤️ 329 • 1d ago
+⬇️ 1,522 • ❤️ 331 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 4,754 • ❤️ 297 • 4d ago
+⬇️ 4,754 • ❤️ 299 • 4d ago
 
 ---
 
@@ -435,7 +435,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 32,675 • ❤️ 1,460 • 13d ago
+⬇️ 32,675 • ❤️ 1,463 • 13d ago
 
 ---
 
@@ -447,7 +447,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,856 • ❤️ 267 • 4d ago
+⬇️ 1,856 • ❤️ 268 • 4d ago
 
 ---
 
@@ -459,7 +459,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 419 • ❤️ 253 • 5d ago
+⬇️ 419 • ❤️ 255 • 5d ago
 
 ---
 
@@ -471,7 +471,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 4,493 • ❤️ 228 • 2d ago
+⬇️ 4,493 • ❤️ 231 • 2d ago
 
 ---
 
@@ -483,7 +483,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 5,348 • ❤️ 223 • 6d ago
+⬇️ 5,348 • ❤️ 225 • 6d ago
 
 ---
 
@@ -495,7 +495,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 3,121 • ❤️ 220 • 2d ago
+⬇️ 3,121 • ❤️ 221 • 2d ago
 
 ---
 
@@ -509,7 +509,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 17 • 💬 2 • ⭐ 14,193 • 1mo ago
+▲ 17 • 💬 2 • ⭐ 14,280 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -524,9 +524,21 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 127 • 💬 18 • ⭐ 48,914 • 9mo ago
+▲ 127 • 💬 18 • ⭐ 48,993 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://huggingface.co/papers/2601.00393)**
+
+*Yuxue Yang, Lue Fan, Ziqi Shi et al. (6 authors)*
+
+NeoVerse is a scalable 4D world model that enables pose-free reconstruction and novel-trajectory video generation from monocular videos with state-of-the-art performance.
+
+▲ 79 • 💬 1 • ⭐ 107 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.00393) • [💻 code](https://github.com/IamCreateAI/NeoVerse) • [🔗 project](https://neoverse-4d.github.io/)
 
 ---
 
@@ -580,6 +592,18 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
+
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
+
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
+
+▲ 31 • 💬 2 • ⭐ 13,500 • 28d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+
+---
+
 **[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
 
 *Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
@@ -594,41 +618,15 @@ SHARP synthesizes photorealistic views from a single image using a 3D Gaussian r
 
 ---
 
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 31 • 💬 2 • ⭐ 13,463 • 28d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
-
----
-
 **[UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://huggingface.co/papers/2512.21185)**
 
 *Tanghui Jia, Dongyu Yan, Dehao Hao et al. (13 authors)*
 
 In this report, we introduce UltraShape 1.0, a scalable 3D diffusion framework for high-fidelity 3D geometry generation. The proposed approach adopts a two-stage generation pipeline: a coarse global structure is first synthesized and then refined to produce detailed, high-quality geometry. To support reliable 3D generation, we develop a comprehensive data processing pipeline that includes a novel watertight processing method and high-quality data filtering. This pipeline improves the geometric quality of publicly available 3D datasets by removing low-quality samples, filling holes, and thickening thin structures, while preserving fine-grained geometric details. To enable fine-grained geometry refinement, we decouple spatial localization from geometric detail synthesis in the diffusion process. We achieve this by performing voxel-based refinement at fixed spatial locations, where voxel queries derived from coarse geometry provide explicit positional anchors encoded via RoPE, allowing the diffusion model to focus on synthesizing local geometric details within a reduced, structured solution space. Our model is trained exclusively on publicly available 3D datasets, achieving strong geometric quality despite limited training resources. Extensive evaluations demonstrate that UltraShape 1.0 performs competitively with existing open-source methods in both data processing quality and geometry generation. All code and trained models will be released to support future research.
 
-▲ 25 • 💬 4 • ⭐ 332 • 12d ago
+▲ 25 • 💬 4 • ⭐ 366 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.21185) • [💻 code](https://github.com/PKU-YuanGroup/UltraShape-1.0) • [🔗 project](https://pku-yuangroup.github.io/UltraShape-1.0/)
-
----
-
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 111 • 💬 7 • ⭐ 67,460 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -642,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 8h ago
+⭐ 20.8k • 🔱 3.3k • 9h ago
 
 ---
 
@@ -652,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.0k • 🔱 521 • 9h ago
+⭐ 4.2k • 🔱 548 • 9h ago
 
 ---
 
@@ -662,7 +660,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 105 • 11h ago
+⭐ 2.2k • 🔱 105 • 12h ago
 
 ---
 
@@ -672,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 120 • 21h ago
+⭐ 2.0k • 🔱 121 • 22h ago
 
 ---
 
@@ -702,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 125 • 5h ago
+⭐ 1.1k • 🔱 126 • 6h ago
 
 ---
 
@@ -712,7 +710,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 942 • 🔱 112 • 21h ago
+⭐ 942 • 🔱 112 • 31s ago
 
 ---
 
@@ -722,7 +720,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 911 • 🔱 65 • 6d ago
+⭐ 912 • 🔱 65 • 6d ago
 
 ---
 
@@ -732,7 +730,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 903 • 🔱 20 • 2h ago
+⭐ 909 • 🔱 20 • 2h ago
 
 ---
 

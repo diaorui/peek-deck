@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T15:48:46.483734+00:00'
+updated: '2026-01-05T16:29:02.908456+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 15:48 UTC  
+**Last Updated:** January 05, 2026 at 16:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1852.20B
+**Market Cap:** $1875.11B
 Rank #1
 
-**Circulating Supply:** 19,971,865 BTC
+**Circulating Supply:** 19,971,912 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.4%
+-25.5%
 
 **All-Time Low:** $67.81
-+136664.5%
++138364.8%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -105,19 +105,19 @@ Rank #1
 
 Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 4h ago
 
 ---
 
 **[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
 
-1h ago
+2h ago
 
 ---
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -131,7 +131,7 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 The rally in crypto was mirrored by a surge in commodities and Asian equities, driven by AI-led momentum and geopolitical developments.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 10h ago
 
 Mining profitability declined last month, with daily block reward revenue down 7%, and 32% year-on-year.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 46m ago
 
 Bitcoin rose above $92,00 on Monday following a rough end to 2025.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 2d ago
 
 The cryptoasset is on its longest winning streak since October....
 
-Sherwood News • 2h ago
+Sherwood News • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Barron's • 3d ago
 
 Experts are maintaining a cautious tone even as Bitcoin breaks above $92K, coupled with a 34x increase in whale deposits to Binance.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Motley Fool • 23h ago
 
 CleanSpark's AI/HPC diversification is a long-term pivot, enhancing its strategic appeal beyond pure Bitcoin mining. Read why CLSK is a Strong Buy.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -283,7 +283,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 16h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 17h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -305,23 +305,13 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 ## YouTube Videos: "bitcoin"
 
-**[They’ll Regret Ignoring This Bitcoin Moment](https://www.youtube.com/watch?v=pRv6Mvqf_iA)**
+**[Bitcoin Signals Flipped Green..HUGE Bull Run Incoming](https://www.youtube.com/watch?v=7142xkNXYz8)**
 
-Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Lark Davis
+📺 CryptosRUs
 
-👁️ 6K • 👍 519 • 💬 50 • ⏱️ 18:14 • 4h ago
-
----
-
-**[We&#39;re About To Enter A SUPER Acceleration In Bitcoin - Raoul Pal Crypto](https://www.youtube.com/watch?v=YWLTS9MZYqY)**
-
-Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 176 • 💬 119 • ⏱️ 14:43 • 10h ago
+👁️ 8K • 👍 859 • 💬 31 • ⏱️ 38:54 • 2h ago
 
 ---
 
@@ -331,7 +321,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 628 • ⏱️ 10:50 • 15h ago
+👁️ 51K • 👍 2K • 💬 632 • ⏱️ 10:50 • 16h ago
 
 ---
 
@@ -341,17 +331,17 @@ CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying o
 
 📺 CNBC Television
 
-👁️ 2K • 👍 31 • 💬 29 • ⏱️ 2:48 • 4h ago
+👁️ 4K • 👍 49 • 💬 32 • ⏱️ 2:48 • 5h ago
 
 ---
 
-**[It&#39;s Finally Time for Bitcoin!!](https://www.youtube.com/watch?v=sRbHt7kwwvo)**
+**[We&#39;re About To Enter A SUPER Acceleration In Bitcoin - Raoul Pal Crypto](https://www.youtube.com/watch?v=YWLTS9MZYqY)**
 
-It's Finally Time for Bitcoin!! Sentiment will soon shift Venezuela oil situation TA & Live Trades Get the CF Cycle trading indicator ...
+Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 Camel Finance
+📺 Library Of Wealth
 
-👁️ 4K • 👍 562 • 💬 85 • ⏱️ 19:14 • 3h ago
+👁️ 4K • 👍 198 • 💬 120 • ⏱️ 14:43 • 11h ago
 
 ---
 
@@ -361,7 +351,27 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 325 • ⏱️ 23:12 • 16h ago
+👁️ 36K • 👍 2K • 💬 340 • ⏱️ 23:12 • 17h ago
+
+---
+
+**[Bitcoin Will BREAKOUT Within The Next 2 Weeks!!!! The Countdown Has BEGUN!!!](https://www.youtube.com/watch?v=upBB2JEY37w)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 362 • 👍 39 • 💬 33 • ⏱️ 18:35 • 1h ago
+
+---
+
+**[MASSIVE Bitcoin BEGINS (This One Trigger Changes Everything!)](https://www.youtube.com/watch?v=vHq5dsWmDxQ)**
+
+The Bitcoin bull run of 2026 is officially here. With the "Absolute Resolve" operation resulting in the capture of the Venezuelan ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 301 • 2h ago
 
 ---
 
@@ -371,17 +381,17 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 186 • ⏱️ 8:15 • 23h ago
+👁️ 41K • 👍 2K • 💬 187 • ⏱️ 8:15 • 23h ago
 
 ---
 
-**[The Best Way To Start 2026! [MY CRYPTO TRADING GAMEPLAN]](https://www.youtube.com/watch?v=H6id2wU1-e0)**
+**[Bitcoin Live Trading: BTC To SMASH $100K? Will Crypto Hold or Fold? EP1876](https://www.youtube.com/watch?v=sZGjINPF748)**
 
-This is how Sheldon is kicking off his crypto trading in 2026, breaking down the mindset, structure, and game plan he's using to ...
+Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
 
-📺 Crypto Banter
+📺 Crypto Lifer
 
-👁️ 4K • 👍 503 • 💬 15 • ⏱️ 38:50 • 4h ago
+👁️ 3K • 👍 441 • 3h ago
 
 ---
 
@@ -391,17 +401,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 4K • 💬 194 • ⏱️ 19:12 • 12h ago
-
----
-
-**[Bitcoin: This is The Moment Everyone is Waiting For](https://www.youtube.com/watch?v=o1U9XTLzi_s)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 21K • 👍 1K • 💬 378 • ⏱️ 27:00 • 14h ago
+👁️ 61K • 👍 4K • 💬 190 • ⏱️ 19:12 • 13h ago
 
 ---
 
