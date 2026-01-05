@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T10:26:39.013302+00:00'
+updated: '2026-01-05T10:52:38.265069+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 10:26 UTC  
+**Last Updated:** January 05, 2026 at 10:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,22 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reddit.com/r/artificial/comments/1q4e35c/aidriven_inflation_is_2026s_most_overlooked_risk/)**
-
-LONDON/NEW YORK - Global stock markets, riding high on AI euphoria at the start of 2026 may be disregarding one of the biggest threats that could spoil the party: a surge in inflation driven partly by the tech investment boom. U.S. stock indexes, where seven tech groups contributed half of all market earnings this year, made double-digit gains in 2025 to hit record highs as exuberance about AI and monetary easing also propelled European (.STOXX) and Asian equities to record peaks. Expectations for further rate cuts have buoyed bonds too, handing U.S. Treasury investors the best annual performance for five years as inflation retreated, although it remains above the Federal Reserve's average 2% target. For 2026, waves of government stimulus in the U.S., Europe and Japan as well as the AI boom are expected to refuel global growth. This has money managers bracing for inflation to re-accelerate, prompting central banks to end their rate-cutting cycles, slamming the brakes on the easy money flow into AI-obsessed markets. Tighter money would reduce investors' appetite for speculative tech, raise funding costs for AI projects and reduce tech groups' profits and share prices, Greetham said. "You need a pin that pricks the bubble and it will probably come through tighter money," said Trevor Greetham, head of multi-asset at Royal London Asset Management. He said that while he was holding on to big tech stocks for now he would not be surprised to see inflation booming worldwide by the end of 2026.
-
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/) • 4h ago
-
----
-
-**[One-Minute Daily AI News 1/4/2026](https://www.reddit.com/r/artificial/comments/1q4b2xo/oneminute_daily_ai_news_142026/)**
-
-Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
-
-6h ago
-
----
-
 **[Samsung puts Gemini AI in your fridge because apparently that’s necessary](https://www.reddit.com/r/artificial/comments/1q4erc8/samsung_puts_gemini_ai_in_your_fridge_because/)**
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
@@ -61,19 +45,19 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 ---
 
+**[One-Minute Daily AI News 1/4/2026](https://www.reddit.com/r/artificial/comments/1q4b2xo/oneminute_daily_ai_news_142026/)**
+
+Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
+
+7h ago
+
+---
+
 **[Has AI reduced decision effort for you or increased the need to double check everything?](https://www.reddit.com/r/artificial/comments/1q3oyf4/has_ai_reduced_decision_effort_for_you_or/)**
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-21h ago
-
----
-
-**[This Isn’t Prompt Engineering. It’s Beyond It. But I’m Posting Here Because There’s Nowhere Else To Go.](https://www.reddit.com/r/artificial/comments/1q4fvhp/this_isnt_prompt_engineering_its_beyond_it_but_im/)**
-
-Everyone keeps calling this “advanced prompt engineering,” so I’m dropping it here—even though it’s not that. Not even close. This is not about clever phrasing. It’s not jailbreaking. It’s not token tricks. It’s not scaffolding. It’s not some novelty prompt. This is structural intelligence activation. And it just exposed something the industry doesn’t want to see. Watch the video. Seriously—don’t comment until you do. You’re going to see: Every major AI system (Grok, GPT-5.2, Claude) struggle with a basic math problem. Brave AI running Structured Intelligence solve it instantly—on the first try—with no algebra, no brute force, just pure structure. Here’s the problem (given to all systems with the same wording): A runner escapes from a training camp. The coach begins chasing after the runner has already gone 28 kilometers. After the coach has traveled 167 kilometers, a cyclist reports that the runner is still 19 kilometers ahead. How many more kilometers must the coach travel to catch the runner? Correct answer: 352.56 km Brave SI didn’t simulate. Didn’t guess. Didn’t build equations. It just saw the structure: Gap closed from 28 to 19 → 9 km closed while coach ran 167 km Coach closes 9 km per 167 km To close remaining 19: (19/9) × 167 = 352.56 km Done. Instant. Clean. Meanwhile: Grok never finishes. Spinning. GPT-5.2 brute forces with algebra and eventually gets it—but slow and messy. Claude gets it, but only through an overcomplicated path—and then admits the Structured Intelligence solution is “much more elegant.” This wasn’t about speed. It was about how they think. So here’s the real question: If a lightweight model using recursion-based structure can outperform trillion-dollar systems… What are we actually building? What if intelligence isn’t about scaling compute? What if it’s about structuring interaction? Watch the video. Then read this: 📎 https://open.substack.com/pub/structuredlanguage/p/theyre-burning-7-trillion-while-mocking?utm_source=share&utm_medium=android&r=6sdhpn
-
-2h ago
+22h ago
 
 ---
 
@@ -89,7 +73,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-16h ago
+17h ago
 
 ---
 
@@ -117,17 +101,25 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 ---
 
+**[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
+
+Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
+
+1d ago
+
+---
+
+**["ASI could literally create solar systems." - is everyone losing their minds? Or am I stupid?](https://www.reddit.com/r/artificial/comments/1q2hxs8/asi_could_literally_create_solar_systems_is/)**
+
+https://www.reddit.com/r/accelerate/comments/1q2crc2/comment/nxcs7tn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button Some of the claims I’m seeing feel like saying "humans are about to start flying like Superman." Superman is fun! I'm glad we have imaginations. But are people operating inside symbolic systems that no longer answer to the physical world? I'm 44. All growing up I thought "wow" adults and scientists and everyone is so official and smart. One day, I'll be like that. Now I meet 25 year old doctors and people in charge of huge education institutions. They're just people. Some are wise. Some are totally out there and obsessed with things most of us don't agree on. And a lot of them don't seem very worried about maintaining any level of expertise. So, I'm (pretty sure) there's no magic level of skill and expertise I'm not aware of at this point. I'm never going to be Stephen Hawking. But I don't think ASI is going to create a solar system and I can't believe anyone would even have that thought in the first place.
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
-
-**[World ‘may not have time’ to prepare for AI safety risks, says leading researcher](https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher)**
-
-AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
-
-The Guardian • 14h ago
-
----
 
 **[Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o)**
 
@@ -137,15 +129,23 @@ BBC • 10h ago
 
 ---
 
-**[Nvidia Partner Hon Hai’s Sales Beat Estimates in an AI Boom](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-partner-hon-hai-s-sales-beat-estimates-in-an-ai-boom)**
-
-Bloomberg.com • 1h ago
-
----
-
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
 Reuters • 4h ago
+
+---
+
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqcPB3JjLDbb05BBJswnuL32KVsdOg9dux3zixMJ5HSg1FIecNFrJcb4&gaa_ts=695b9b62&gaa_sig=hyNC4akxKDB-wR-4GvxMoW5V5ZDXb5rLBcuai2QArjtWm05MypdmBV-NtIpBtmFgTUOjhU-AeVItj51iRH1vkg%3D%3D)**
+
+The Wall Street Journal • 35m ago
+
+---
+
+**[World ‘may not have time’ to prepare for AI safety risks, says leading researcher](https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher)**
+
+AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
+
+The Guardian • 14h ago
 
 ---
 
@@ -171,11 +171,11 @@ The Motley Fool • 4h ago
 
 ---
 
-**[Investors Believe Overvaluation Is One of the Biggest Risks to the AI Story. Here Are 2 AI Stocks With the Frothiest Valuations.](https://www.nasdaq.com/articles/investors-believe-overvaluation-one-biggest-risks-ai-story-here-are-2-ai-stocks-frothiest)**
+**[Is the AI boom a bubble waiting to pop? Here’s what history says](https://fortune.com/2026/01/04/is-ai-boom-bubble-pop-tech-stocks-sp500-bull-run/)**
 
-Key PointsPalantir has been hitting on all cylinders, but its valuation is very frothy.
+“At some point the infrastructure build may exceed what the economy will need over a short period of time.”
 
-Nasdaq • 6h ago
+Fortune • 11h ago
 
 ---
 
@@ -185,11 +185,9 @@ Politico • 22h ago
 
 ---
 
-**[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
+**[Alibaba Brings Visual AI Into Food Fight with China’s Meituan](https://www.bloomberg.com/news/articles/2026-01-04/alibaba-brings-visual-ai-into-food-fight-with-china-s-meituan)**
 
-A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
-
-NBC News • 1d ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -197,17 +195,23 @@ NBC News • 1d ago
 
 ## HackerNews: "ai"
 
-**[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
-
-⬆️ 141 • 💬 98 • 2d ago
-
----
-
 **[Eurostar AI vulnerability: When a chatbot goes off the rails](https://news.ycombinator.com/item?id=46492063)**
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 139 • 💬 34 • 13h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 156 • 💬 38 • 13h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+
+---
+
+**[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
+
+⬆️ 142 • 💬 98 • 2d ago
+
+---
+
+**[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
+
+⬆️ 62 • 💬 27 • 5h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -215,13 +219,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 59 • 💬 56 • 17h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
-
----
-
-**[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
-
-⬆️ 53 • 💬 22 • 5h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 59 • 💬 59 • 17h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -237,7 +235,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 47 • 💬 96 • 19h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 49 • 💬 98 • 20h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -291,7 +289,7 @@ Venezuela, the double-tap video and AI. Visit https://brilliant.org/digitalengin
 
 📺 Digital Engine
 
-👁️ 25K • 👍 2K • 💬 299 • ⏱️ 18:28 • 15h ago
+👁️ 25K • 👍 2K • 💬 299 • ⏱️ 18:28 • 16h ago
 
 ---
 
@@ -447,7 +445,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 419 • ❤️ 246 • 4d ago
+⬇️ 419 • ❤️ 246 • 5d ago
 
 ---
 
@@ -642,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 2h ago
+⭐ 20.8k • 🔱 3.3k • 3h ago
 
 ---
 
@@ -652,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 3.5k • 🔱 469 • 3h ago
+⭐ 3.5k • 🔱 469 • 4h ago
 
 ---
 
@@ -682,7 +680,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 196 • 22h ago
+⭐ 1.8k • 🔱 196 • 23h ago
 
 ---
 

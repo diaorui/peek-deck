@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T10:26:39.028074+00:00'
+updated: '2026-01-05T10:52:38.279734+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 10:26 UTC  
+**Last Updated:** January 05, 2026 at 10:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,162.29
+### $3,165.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +6.2%  
-**30d:** +3.2%  
-**90d:** -30.2%  
-**1y:** -14.3%  
+**24h:** +0.9%  
+**7d:** +6.6%  
+**30d:** +3.6%  
+**90d:** -29.9%  
+**1y:** -13.9%  
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 4h ago
+
+---
+
+**[Dev Tools Guild December update | mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.](https://www.reddit.com/r/ethereum/comments/1q4hpvb/dev_tools_guild_december_update_mainnet/)**
+
+**TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
+
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 55m ago
 
 ---
 
@@ -140,14 +148,6 @@ The modular token standard.
 
 ---
 
-**[Ethereal news weekly #5 | Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero](https://www.reddit.com/r/ethereum/comments/1q1u5ap/ethereal_news_weekly_5_vitalik_call_to_improve/)**
-
-Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,15 +156,13 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 21h ago
+CoinDesk • 19h ago
 
 ---
 
-**[BitMine Doubles Down on Ethereum Staking With Additional $260 Million Staked](https://finance.yahoo.com/news/bitmine-doubles-down-ethereum-staking-152755009.html)**
+**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
 
-BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
-
-Yahoo Finance • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -172,13 +170,7 @@ Yahoo Finance • 1d ago
 
 Stablecoin transfer volume on Ethereum climbed to a new all-time high in the fourth quarter of 2025, topping $8 trillion, according to data released by Token Terminal. Key Takeaways: Ethereum stablecoin transfers hit a record $8T in Q4 2025, nearly doubling from Q2 levels. Rising volumes and address activity suggest ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
-
-Forbes • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -226,7 +218,15 @@ CoinDesk • 3d ago
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 22h ago
+BeInCrypto • 23h ago
+
+---
+
+**[Crypto Crystal Ball 2026: Will Ethereum Finally Start Going Parabolic?](https://decrypt.co/352221/crypto-crystal-ball-2026-ethereum-finally-start-going-parabolic)**
+
+Experts say major trends in Ethereum’s adoption could bring about a long-awaited surge in ETH’s price this year—or at least the start of such a journey.
+
+Decrypt • 2d ago
 
 ---
 
@@ -290,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 175 • 💬 7 • ⏱️ 4:04 • 20h ago
+👁️ 3K • 👍 175 • 💬 7 • ⏱️ 4:04 • 21h ago
 
 ---
 

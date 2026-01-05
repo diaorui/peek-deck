@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T10:26:39.031390+00:00'
+updated: '2026-01-05T10:52:38.283087+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 10:26 UTC  
+**Last Updated:** January 05, 2026 at 10:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-20h ago
+21h ago
 
 ---
 
@@ -52,7 +52,23 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-8h ago
+9h ago
+
+---
+
+**[This container port in China has mobile robots controlled by people!](https://www.reddit.com/r/robotics/comments/1q4ic2j/this_container_port_in_china_has_mobile_robots/)**
+
+Ships are unloaded remotely by human operators using remote connections, with no one physically sitting in the cranes. Once containers touch the ground, autonomous vehicles (can we call them robots????) take over, moving them across the terminal to trucks and storage areas without human drivers, essentially like AGVs. High-bandwidth, low-latency networking enables remote control where full autonomy is still hard, while structured environments allow driverless transport to run reliably at scale. Humans stay in control of exceptions, machines handle the repetition. Fewer people in hazardous zones, and tighter coordination between machines. Source: https://x.com/lukas_m_ziegler/status/2008111248227885085
+
+18m ago
+
+---
+
+**[Genrobot.AI 10Kh RealOmni-Open Dataset is now live on Hugging Face](https://www.reddit.com/r/robotics/comments/1q4hu8x/genrobotai_10kh_realomniopen_dataset_is_now_live/)**
+
+10K+ hrs, 1M+ clips, 30+ skills, 3,000+ real households: https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData Website: https://www.genrobot.ai/ From Genrobot.AI on 𝕏: https://x.com/GenrobotAI/status/2007869235113148503
+
+48m ago
 
 ---
 
@@ -64,11 +80,19 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 ---
 
+**[CANgaroo: Open-Source CAN Bus Analyzer for Linux, Automotive, Robotics & Industrial Applications](https://www.reddit.com/r/robotics/comments/1q43u5c/cangaroo_opensource_can_bus_analyzer_for_linux/)**
+
+Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
+
+12h ago
+
+---
+
 **[Built a differential drive robot with localisation/ tracking.](https://www.reddit.com/r/robotics/comments/1q3xzll/built_a_differential_drive_robot_with/)**
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-15h ago
+16h ago
 
 ---
 
@@ -80,14 +104,6 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 ---
 
-**[CANgaroo: Open-Source CAN Bus Analyzer for Linux, Automotive, Robotics & Industrial Applications](https://www.reddit.com/r/robotics/comments/1q43u5c/cangaroo_opensource_can_bus_analyzer_for_linux/)**
-
-Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
-
-11h ago
-
----
-
 **[Help with G1 Tank Yahboon](https://www.reddit.com/r/robotics/comments/1q40f60/help_with_g1_tank_yahboon/)**
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
@@ -96,25 +112,25 @@ Okk so i am using raspberry pi 4 for this and I know i wired everything correctl
 
 ---
 
-**[Why doesn't the military use remote controlled androids?](https://www.reddit.com/r/robotics/comments/1q4gf81/why_doesnt_the_military_use_remote_controlled/)**
-
-I mean I think that it would fix some problems that ai controlled Androids (the humanoid one) have, and it wouldn't make mistakes (sure they would definitely make some, but they probably will do it at the same frequency that regular soldiers do) The perception of the user can be improved with some extra sensors or something, and several companies have proved that it's possible to remotely control them, And it most importantly reduces causality, (If the military does end up doing this, they probably will only do it with like seals or something to keep all of that experience)
-
-1h ago
-
----
-
-**[Object tracker !](https://www.reddit.com/r/robotics/comments/1q4bnek/object_tracker/)**
-
-I made an 6 dof robot and I want to integrate a camera with YOLO or OpenCV so the robot can see a red ball and move towards it, any ideas or resources??? The robot is currently powdered by an Arduino mega
-
-6h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Zeroth Robotics Launches into the U.S. with Debut Lineup of Interactive AI Robots for Consumer and Commercial Buyers](https://www.prnewswire.com/news-releases/zeroth-robotics-launches-into-the-us-with-debut-lineup-of-interactive-ai-robots-for-consumer-and-commercial-buyers-302652162.html)**
+
+/PRNewswire/ -- Today at CES 2026, Zeroth Robotics emerged from stealth with its official U.S. launch and a lineup of five interactive AI robots designed for...
+
+PR Newswire • 20h ago
+
+---
+
+**[How Boston Dynamics upgraded the Atlas robot — and what's next](https://www.cbsnews.com/news/how-boston-dynamics-upgraded-atlas-robot-and-whats-next-60-minutes/)**
+
+Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
+
+CBS News • 10h ago
+
+---
 
 **[Robots learn 1,000 tasks in one day from a single demo](https://www.foxnews.com/tech/robots-learn-1000-tasks-one-day-from-single-demo)**
 
@@ -124,75 +140,57 @@ Fox News • 23h ago
 
 ---
 
-**[How Boston Dynamics upgraded the Atlas robot — and what's next](https://www.cbsnews.com/news/how-boston-dynamics-upgraded-atlas-robot-and-whats-next-60-minutes/)**
-
-Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
-
-CBS News • 9h ago
-
----
-
-**[Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000](https://nypost.com/2026/01/03/us-news/humanoid-robots-are-ready-to-do-your-housework-in-2026/)**
-
-With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
-
-New York Post • 1d ago
-
----
-
-**[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
-
-Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
-
-Inspenet • 2d ago
-
----
-
-**[Humanoid Robotics Emerges as Solution for Not-Well-Defined Real-World Problems](https://www.freep.com/press-release/story/139054/humanoid-robotics-emerges-as-solution-for-not-well-defined-real-world-problems/)**
-
-New Analysis Platform Explores Why Household Tasks and Physical Automation Require Embodied Intelligence Beyond Traditional Computer Approaches The next wave of AI is physical AI. AI that understands the laws of physics, AI that can work among us.” — Jensen Huang, CEO of Nvidia BROOKLYN, NY, UNITED STATES, January 4, 2026 /EINPresswire.com/ — As artificial […]
-
-Detroit Free Press • 4h ago
-
----
-
-**[Why ambient robots beat humanoid robots](https://www.computerworld.com/article/4112412/why-ambient-robots-beat-humanoid-robots.html)**
-
-Forget about robots that look like they're straight out of science fiction. ‘Unobtrusive physical AI,’ as the technology is called, could wind up being more pervasive in the real world.
-
-Computerworld • 3h ago
-
----
-
-**[Science fiction could become reality in 2026: Figure CEO predicts big for humanoids, eVTOLs](https://interestingengineering.com/ai-robotics/science-fiction-become-reality-in-2026)**
-
-Figure CEO Brett Adcock predicts 2026 breakthroughs in humanoid robots, eVTOL city flights, multimodal AI agents, and next-gen school security.
-
-Interesting Engineering • 2d ago
-
----
-
-**[China’s humanoid robot makers, Hong Kong start-ups set to dazzle CES 2026](https://www.scmp.com/tech/tech-trends/article/3338600/chinas-humanoid-robot-makers-hong-kong-start-ups-set-dazzle-ces-2026)**
-
-Nearly a dozen Chinese humanoid robot makers are expected at the trade show, while Hong Kong sends its largest-ever delegation.
-
-South China Morning Post • 7h ago
-
----
-
-**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
-
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
-
-CBS News • 9h ago
-
----
-
 **[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
 The Robot Report • 1d ago
+
+---
+
+**[Schaeffler brings robotics, energy and vehicle tech to CES 2026](https://seekingalpha.com/news/4536504-schaeffler-brings-robotics-energy-and-vehicle-tech-to-ces-2026)**
+
+Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
+
+Seeking Alpha • 11h ago
+
+---
+
+**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
+
+FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
+
+Inspenet • 1d ago
+
+---
+
+**[Japanese startup Ludens AI brought two very adorable robots to CES 2026](https://www.engadget.com/home/smart-home/japanese-startup-ludens-ai-brought-two-very-adorable-robots-to-ces-2026-021914130.html)**
+
+Japanese startup Ludens AI is showing off two extremely adorable robot companions at CES 2026: Cocomo and Inu.
+
+Engadget • 8h ago
+
+---
+
+**[Inside Binéfar, the Spanish town pushing pioneering military robotics](https://www.euronews.com/next/2026/01/02/from-rural-spain-to-war-binefar-becomes-a-european-benchmark-in-military-robotics)**
+
+A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
+
+Euronews.com • 2d ago
+
+---
+
+**[Why Serve Robotics Stock Is Soaring Today](https://finance.yahoo.com/news/why-serve-robotics-stock-soaring-170138559.html)**
+
+Yahoo Finance • 2d ago
+
+---
+
+**[GigaBite Robotics student team seeks donations to expand STEM opportunities in South Lake Tahoe](https://www.tahoedailytribune.com/news/gigabite-robotics-student-team-seeks-donations-to-expand-stem-opportunities-in-south-lake-tahoe/)**
+
+We are GigaBite Robotics, FIRST Tech Challenge (FTC) Team 20681, a community-based robotics team of 11 middle and high school students from South Lake Tahoe, and we are asking for the community’s support through donations to help us continue...
+
+Tahoe Daily Tribune • 14h ago
 
 ---
 
@@ -206,7 +204,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 3K • 👍 49 • 💬 2 • ⏱️ 7:38 • 14h ago
+👁️ 3K • 👍 49 • 💬 2 • ⏱️ 7:38 • 15h ago
 
 ---
 
@@ -216,7 +214,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 55K • 👍 1K • 💬 169 • ⏱️ 5:49 • 9h ago
+👁️ 55K • 👍 1K • 💬 169 • ⏱️ 5:49 • 10h ago
 
 ---
 

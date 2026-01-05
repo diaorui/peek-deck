@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T10:26:39.021906+00:00'
+updated: '2026-01-05T10:52:38.273644+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 10:26 UTC  
+**Last Updated:** January 05, 2026 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,463.00
+### $92,843.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +4.6%  
-**30d:** +2.3%  
-**90d:** -25.1%  
-**1y:** -9.3%  
+**24h:** +2.2%  
+**7d:** +5.5%  
+**30d:** +3.2%  
+**90d:** -24.4%  
+**1y:** -8.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -91,27 +91,7 @@ Rank #1
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-14h ago
-
----
-
-**[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
-
-14h ago
-
----
-
-**[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
-
-21h ago
-
----
-
-**[$94K is resisting](https://www.reddit.com/r/Bitcoin/comments/1q4cekz/94k_is_resisting/)**
-
-Very strong resistance at $93-94K If we break these level this week, final bull run will be loading for sure 👁️‍🗨️
-
-5h ago
+15h ago
 
 ---
 
@@ -121,23 +101,41 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 ---
 
+**[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
+
+14h ago
+
+---
+
+**[$94K is resisting](https://www.reddit.com/r/Bitcoin/comments/1q4cekz/94k_is_resisting/)**
+
+Very strong resistance at $93-94K If we break these level this week, final bull run will be loading for sure 👁️‍🗨️
+
+6h ago
+
+---
+
+**[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
+
+22h ago
+
+---
+
+**[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
+
+16h ago
+
+---
+
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
 15h ago
 
 ---
 
-**[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
+**[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
 
-15h ago
-
----
-
-**[Is it too late to invest in BTC? I could only invest $10k.](https://www.reddit.com/r/Bitcoin/comments/1q46d54/is_it_too_late_to_invest_in_btc_i_could_only/)**
-
-Is it worth investing at this point or much too late and not enough money to be made. Edit: thanks to everyone for all the input. Is BTC the best Crypto to invest in?
-
-10h ago
+5h ago
 
 ---
 
@@ -153,11 +151,27 @@ CoinDesk • 5h ago
 
 ---
 
-**[The Best Time to Buy Bitcoin in 2026 Isn't a Date — It's a Process](https://finance.yahoo.com/news/best-time-buy-bitcoin-2026-223442863.html)**
+**[How Trump’s Venezuela gambit is seen to boost Bitcoin price in 2026](https://www.dlnews.com/articles/markets/will-trump-venezuela-gambit-boost-bitcoin-price-in-2026/)**
 
-As 2026 gets underway, Bitcoin (CRYPTO: BTC) sits in an awkward middle ground. After pushing to an all-time high above $126,000 in mid-2025, prices have pulled back and stabilized in the high-$80,000s. That kind of move naturally revives the same...
+The removal of Maduro will likely lower oil prices.  This will see more capital flow into crypto and other assets in 2026, analysts say.  Bitcoin decisively jumps back above $90,000 after the US captured Venezuela’s president.
 
-Yahoo Finance • 1d ago
+dlnews.com • 23m ago
+
+---
+
+**[Bitcoin traders kick off 2026 with bets on price rally above $100,000](https://www.coindesk.com/markets/2026/01/05/bitcoin-traders-kick-off-2026-with-bets-on-price-rally-above-usd100-000)**
+
+Bitcoin traders are optimistic about 2026, with increased interest in $100,000 call options on Deribit.
+
+CoinDesk • 1h ago
+
+---
+
+**[Japan Signals More Hikes: Bitcoin Has Crashed After Every Single One](https://finance.yahoo.com/news/japan-signals-more-hikes-bitcoin-054100851.html)**
+
+BOJ's Ueda vows to keep raising rates. Japan's 10-year yield hits 1999 high. Bitcoin braces for carry trade unwind risks.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -175,11 +189,19 @@ Forbes • 19h ago
 
 ---
 
-**[Bitcoin treasury slump deepens as 40% trade at discount: ‘It’s an abomination’](https://www.dlnews.com/articles/markets/bitcoin-treasury-blues-mount-as-40-percent-trade-at-discount/)**
+**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/04/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
 
-At least 37 of the top 100 Bitcoin treasury companies trade below their net asset value. Macro analyst Alex Kruger calls the model “an abomination” comparable to the Grayscale Bitcoin Trust collapse. Companies trading below NAV cannot raise capital without destroying shareholder value.
+What comes next for digital gold?
 
-dlnews.com • 2d ago
+The Motley Fool • 18h ago
+
+---
+
+**[BlackRock’s Bitcoin ETF Sees Biggest Inflow in Three Months as Crypto Prices Rise](https://decrypt.co/353546/blackrocks-bitcoin-etf-biggest-inflow-three-months)**
+
+Analysts cite Bitcoin portfolio rebalancing as institutional investors price in three more years of Trump's "America First" policy.
+
+Decrypt • 5h ago
 
 ---
 
@@ -191,33 +213,11 @@ Fortune • 2d ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.fool.com/investing/2026/01/03/should-you-forget-bitcoin-and-buy-xrp-instead/)**
-
-Bitcoin is the world's largest cryptocurrency.
-
-The Motley Fool • 1d ago
-
----
-
 **[Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right](https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/)**
 
 A quick guide to the Jan. 5 PMI print: which sub-indexes matter, what “hot costs” mean for yields, and how that transmission reaches BTC fast.
 
 CryptoSlate • 1d ago
-
----
-
-**[Eric Trump, Saylor, 'Rich Dad' and billionaires were wrong about Bitcoin’s 2025 price](https://www.thestreet.com/crypto/trading/eric-trump-saylor-rich-dad-and-billionaires-were-wrong-about-bitcoins-2025-price)**
-
-thestreet.com • 2d ago
-
----
-
-**[Bitcoin and Ether ETFs pull in $646M on first trading day of 2026](https://www.tradingview.com/news/cointelegraph:5fdc329bd094b:0-bitcoin-and-ether-etfs-pull-in-646m-on-first-trading-day-of-2026/)**
-
-US-based spot Bitcoin and Ether ETFs began 2026 on a strong note, posting a combined net inflow of around $646 million on the first trading day, despite mixed sentiment across the broader crypto market.On Friday, spot Bitcoin (BTC) ETFs saw net inflows of $471.3 million, while spot Ether (ETH) ETFs…
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -349,7 +349,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 14K • 👍 886 • 💬 333 • ⏱️ 27:00 • 8h ago
+👁️ 14K • 👍 886 • 💬 333 • ⏱️ 27:00 • 9h ago
 
 ---
 
@@ -359,7 +359,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 178 • ⏱️ 8:15 • 17h ago
+👁️ 35K • 👍 2K • 💬 178 • ⏱️ 8:15 • 18h ago
 
 ---
 
@@ -369,7 +369,7 @@ weex NY Draw: http://weex.com/events/draw/newyearsdraw?vipCode=00dt&qrType=activ
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 269 • 💬 30 • ⏱️ 7:10 • 3h ago
+👁️ 3K • 👍 269 • 💬 30 • ⏱️ 7:10 • 4h ago
 
 ---
 
@@ -379,7 +379,7 @@ weex NY Draw: http://weex.com/events/draw/newyearsdraw?vipCode=00dt&qrType=activ
 
 📺 Bitcoin Bros
 
-👁️ 685 • 👍 35 • 💬 2 • ⏱️ 8:26 • 8h ago
+👁️ 685 • 👍 35 • 💬 2 • ⏱️ 8:26 • 9h ago
 
 ---
 
