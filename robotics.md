@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T06:48:53.357736+00:00'
+updated: '2026-01-05T07:29:57.456495+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 06:48 UTC  
+**Last Updated:** January 05, 2026 at 07:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +76,7 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-15h ago
+16h ago
 
 ---
 
@@ -92,13 +92,13 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
 
-10h ago
+11h ago
 
 ---
 
 **[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Okk so i am using raspberry pi 4 for this and I know i wired everything correctl
 
 I made an 6 dof robot and I want to integrate a camera with YOLO or OpenCV so the robot can see a red ball and move towards it, any ideas or resources??? The robot is currently powdered by an Arduino mega
 
-2h ago
+3h ago
 
 ---
 
@@ -134,7 +134,7 @@ CBS News • 6h ago
 
 New Analysis Platform Explores Why Household Tasks and Physical Automation Require Embodied Intelligence Beyond Traditional Computer Approaches The next wave of AI is physical AI. AI that understands the laws of physics, AI that can work among us.” — Jensen Huang, CEO of Nvidia BROOKLYN, NY, UNITED STATES, January 4, 2026 /EINPresswire.com/ — As artificial […]
 
-Detroit Free Press • 53m ago
+Detroit Free Press • 1h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 1d ago
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -182,7 +182,7 @@ Milwaukee Journal Sentinel • 4h ago
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 19h ago
+Fox News • 20h ago
 
 ---
 
@@ -274,7 +274,7 @@ Company's staff challenged kyrie irving to push the humanoid robot. however, the
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 28 • 💬 2 • ⏱️ 8:31 • 11h ago
+👁️ 1K • 👍 28 • 💬 2 • ⏱️ 8:31 • 12h ago
 
 ---
 

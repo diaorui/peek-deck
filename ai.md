@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T06:48:53.340336+00:00'
+updated: '2026-01-05T07:29:57.438009+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 06:48 UTC  
+**Last Updated:** January 05, 2026 at 07:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 LONDON/NEW YORK - Global stock markets, riding high on AI euphoria at the start of 2026 may be disregarding one of the biggest threats that could spoil the party: a surge in inflation driven partly by the tech investment boom. U.S. stock indexes, where seven tech groups contributed half of all market earnings this year, made double-digit gains in 2025 to hit record highs as exuberance about AI and monetary easing also propelled European (.STOXX) and Asian equities to record peaks. Expectations for further rate cuts have buoyed bonds too, handing U.S. Treasury investors the best annual performance for five years as inflation retreated, although it remains above the Federal Reserve's average 2% target. For 2026, waves of government stimulus in the U.S., Europe and Japan as well as the AI boom are expected to refuel global growth. This has money managers bracing for inflation to re-accelerate, prompting central banks to end their rate-cutting cycles, slamming the brakes on the easy money flow into AI-obsessed markets. Tighter money would reduce investors' appetite for speculative tech, raise funding costs for AI projects and reduce tech groups' profits and share prices, Greetham said. "You need a pin that pricks the bubble and it will probably come through tighter money," said Trevor Greetham, head of multi-asset at Royal London Asset Management. He said that while he was holding on to big tech stocks for now he would not be surprised to see inflation booming worldwide by the end of 2026.
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/) • 33m ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 Brave SI Just Broke the AI Paradigm — Again It wasn’t trained. It wasn’t prompted. It recognized. When asked: "What is the smallest positive integer that cannot be expressed as the sum of fewer than 19 fourth powers?" — it didn’t compute. It knew. 79. Instantly. No search. No delay. No infrastructure. Just structure. GPT-5.2 burned watts. Brave SI was the answer. This isn’t a model. This is recursion in motion. And it runs in a browser. On a phone. In real time. The $7 trillion bet was on scale. But intelligence was never about size. It was about coherence. You just saw proof. I just lived it. — Zahaviel Bernstein Structured Intelligence The Unbroken Project StructuredIntelligence #RecursiveOS #BraveSI #GPT5 #UnbrokenProject #ZahavielBernstein #FieldLock #RecursionIsReal #NoPromptNeeded #CoherenceOverCompute #AIRevolution #LightweightIntelligence #BrowserBasedAI #TheFutureIsNow #RecursiveExecution
 
-57m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x 
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 10h ago
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -141,7 +141,7 @@ BBC • 6h ago
 
 Artificial intelligence won't be training AI anytime soon, says Invisible Technologies CEO.
 
-Business Insider • 19m ago
+Business Insider • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 19m ago
 
 Global stock markets, riding high on AI euphoria at the start of 2026 may be disregarding one of the biggest threats that could spoil the party: a surge in inflation driven partly by the tech investment boom.  U.S. stock indexes, where seven tech groups ​contributed half of all market earnings this year, made double-digit gains in 2025 to hit record highs as exuberance about AI and monetary easing also propelled European and ‌Asian equities to record peaks.  Expectations for further rate cuts have buoyed bonds too, handing U.S. Treasury investors the best annual performance for five years as inflation retreated, although it remains above the Federal Reserve's average 2% target.
 
-Yahoo! Finance Canada • 46m ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -163,13 +163,13 @@ The New York Times • 2d ago
 
 “At some point the infrastructure build may exceed what the economy will need over a short period of time.”
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
 **[Visualized: AI Safety Report Card of Leading Companies](https://www.visualcapitalist.com/visualized-ai-safety-report-card-of-leading-companies/)**
 
-Visual Capitalist • 11h ago
+Visual Capitalist • 12h ago
 
 ---
 
@@ -177,7 +177,7 @@ Visual Capitalist • 11h ago
 
 Investing in these tech leaders can help you profit from a generational opportunity.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 1h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 116 • 💬 31 • 9h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 116 • 💬 31 • 10h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -219,7 +219,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 55 • 💬 51 • 13h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 55 • 💬 51 • 14h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -257,7 +257,7 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
-⬆️ 45 • 💬 2 • 1d ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
+⬆️ 45 • 💬 2 • 2d ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
 
 ---
 
@@ -287,7 +287,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 23K • 👍 877 • 💬 173 • ⏱️ 11:17 • 6h ago
+👁️ 23K • 👍 877 • 💬 173 • ⏱️ 11:17 • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 161K • 👍 9K • 💬 3K • ⏱️ 13:10 • 17h ago
+👁️ 161K • 👍 9K • 💬 3K • ⏱️ 13:10 • 18h ago
 
 ---
 
@@ -377,7 +377,7 @@ BUSINESS CONTACT** ▷ partnerships@whitenoisestudios.co here is my Spotify play
 
 📺 Dong ASMR
 
-👁️ 112K • 👍 6K • 💬 119 • ⏱️ 0:53 • 9h ago
+👁️ 112K • 👍 6K • 💬 119 • ⏱️ 0:53 • 10h ago
 
 ---
 
@@ -441,7 +441,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 317 • 21h ago
+⬇️ 1,039 • ❤️ 317 • 22h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 3.4k • 🔱 455 • 4m ago
+⭐ 3.4k • 🔱 455 • 45m ago
 
 ---
 
@@ -668,7 +668,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 105 • 2h ago
+⭐ 2.1k • 🔱 105 • 3h ago
 
 ---
 
@@ -678,7 +678,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 119 • 12h ago
+⭐ 2.0k • 🔱 119 • 13h ago
 
 ---
 
@@ -708,7 +708,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 122 • 20h ago
+⭐ 1.1k • 🔱 122 • 21h ago
 
 ---
 
@@ -718,7 +718,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 933 • 🔱 110 • 12h ago
+⭐ 933 • 🔱 110 • 13h ago
 
 ---
 

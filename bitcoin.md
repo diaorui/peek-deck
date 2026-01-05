@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T06:48:53.348606+00:00'
+updated: '2026-01-05T07:29:57.446794+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 06:48 UTC  
+**Last Updated:** January 05, 2026 at 07:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,31 +85,31 @@ Rank #1
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-11h ago
+12h ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
-11h ago
+12h ago
 
 ---
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -131,7 +131,7 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 Is it worth investing at this point or much too late and not enough money to be made. Edit: thanks to everyone for all the input. Is BTC the best Crypto to invest in?
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ Is it worth investing at this point or much too late and not enough money to be 
 
 On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the first cryptocurrency. Satoshi Nakamoto left a clear message: "Chancellor on brink of second bailout for banks," a direct criticism of bank bailouts after the 2008 crisis. At the time, the reward was 50 $BTC, which was worthless. Today, #Bitcoin is trading at around $90,000 and is one of the world's eight largest assets. From an experiment to a global asset.
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 3h ago
 
 BOJ's Ueda vows to keep raising rates. Japan's 10-year yield hits 1999 high. Bitcoin braces for carry trade unwind risks.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 29m ago
 
 Bitcoin rose over 1% during Monday's Asian trading session, marking a potential five-day winning streak.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -207,13 +207,13 @@ Bloomberg.com • 2d ago
 
 Business tycoon Michael Saylor is signaling that MicroStrategy (MSTR) may be gearing up for its first Bitcoin acquisition of 2026.He boasted about the firm’s massive portfolio performance amid the market's recent recovery earlier today.In a post on X (formerly Twitter), the executive chairman share…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -285,7 +285,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 7h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 8h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 2K • 💬 280 • ⏱️ 10:50 • 6h ago
+👁️ 33K • 👍 2K • 💬 280 • ⏱️ 10:50 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 115 • ⏱️ 19:12 • 3h ago
+👁️ 18K • 👍 2K • 💬 115 • ⏱️ 19:12 • 4h ago
 
 ---
 
@@ -343,7 +343,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 256 • ⏱️ 23:12 • 7h ago
+👁️ 24K • 👍 2K • 💬 256 • ⏱️ 23:12 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 51K • 👍 2K • 💬 556 • ⏱️ 54:37 • 16h ago
+👁️ 51K • 👍 2K • 💬 556 • ⏱️ 54:37 • 17h ago
 
 ---
 
