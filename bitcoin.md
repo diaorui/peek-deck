@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T15:25:45.799223+00:00'
+updated: '2026-01-05T15:48:46.483734+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 15:25 UTC  
+**Last Updated:** January 05, 2026 at 15:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,782.65
+### $93,808.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +5.7%  
-**30d:** +3.4%  
-**90d:** -24.3%  
-**1y:** -8.4%  
+**24h:** +2.7%  
+**7d:** +6.2%  
+**30d:** +3.8%  
+**90d:** -24.0%  
+**1y:** -8.0%  
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
+
+10h ago
+
+---
+
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
 9h ago
@@ -85,7 +91,7 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -95,23 +101,31 @@ Rank #1
 
 ---
 
-**[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
+**[Ledger New Data Leak](https://www.reddit.com/r/Bitcoin/comments/1q4kfd4/ledger_new_data_leak/)**
 
-9h ago
+Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
+
+🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 3h ago
+
+---
+
+**[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
+
+1h ago
 
 ---
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-19h ago
+20h ago
 
 ---
 
-**[Ledger New Data Leak](https://www.reddit.com/r/Bitcoin/comments/1q4kfd4/ledger_new_data_leak/)**
+**[My thoughts on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q4ek9x/my_thoughts_on_bitcoin/)**
 
-Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
+For the past five years, I’ve been buying $10 of Bitcoin every single day. No timing the market. No chasing pumps. Just consistency. I don’t check the price much anymore. When it goes up, I keep buying. When it crashes, I keep buying. No fear. No regret.
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 2h ago
+9h ago
 
 ---
 
@@ -121,25 +135,11 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 ---
 
-**[My thoughts on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q4ek9x/my_thoughts_on_bitcoin/)**
-
-For the past five years, I’ve been buying $10 of Bitcoin every single day. No timing the market. No chasing pumps. Just consistency. I don’t check the price much anymore. When it goes up, I keep buying. When it crashes, I keep buying. No fear. No regret.
-
-8h ago
-
----
-
 **[$94K is resisting](https://www.reddit.com/r/Bitcoin/comments/1q4cekz/94k_is_resisting/)**
 
 Very strong resistance at $93-94K If we break these level this week, final bull run will be loading for sure 👁️‍🗨️
 
-10h ago
-
----
-
-**[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
-
-1d ago
+11h ago
 
 ---
 
@@ -155,33 +155,19 @@ CoinDesk • 10h ago
 
 ---
 
-**[Michael Saylor Says Bitcoin Makes MSTR 'Interesting,' But Polymarket Aren't So Sure](https://finance.yahoo.com/news/michael-saylor-says-bitcoin-makes-123111949.html)**
+**[Bitcoin network hashrate fell for second consecutive month in December: JPMorgan](https://www.coindesk.com/markets/2026/01/05/bitcoin-network-hashrate-fell-for-second-consecutive-month-in-december-jpmorgan)**
 
-Strategy Inc. (NASDAQ:MSTR) executive chairman Michael Saylor says Bitcoin (CRYPTO: BTC) makes the stock “interesting,” but Polymarket traders bet 76% the company gets booted from MSCI by March 31. Options Activity Dwarfs Mega-Cap Peers Saylor on Frida pointed to MSTR’s...
+Mining profitability declined last month, with daily block reward revenue down 7%, and 32% year-on-year.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Michael Saylor's MSTR raised BTC holdings to 673,783 coins and cash to $2.25 billion](https://www.coindesk.com/markets/2026/01/05/strategy-boosted-bitcoin-holdings-and-cash-reserve-last-week)**
-
-The Michael Saylor-led company added 1,287 BTC and $62 million in cash via the sale of common stock.
-
-CoinDesk • 2h ago
+CoinDesk • 46m ago
 
 ---
 
-**[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
+**[Bitcoin rises above $92,000 in sign of 'bullish trend' to start 2026](https://finance.yahoo.com/news/bitcoin-rises-above-92000-in-sign-of-bullish-trend-to-start-2026-145057672.html)**
 
-Bloomberg.com • 2h ago
+Bitcoin rose above $92,00 on Monday following a rough end to 2025.
 
----
-
-**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
-
-PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
-
-CoinDesk • 1h ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -207,17 +193,33 @@ Forbes • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqfbxAyTm4vJwEfPlT_OoIywY4pf1rx9A6gH26SHRwx7Yll_PxwXbWhn&gaa_ts=695be0c2&gaa_sig=AFf8OCHISDnsBuRpDBR_93JnA7yvx7gnm8Ih_BFR2VdsCHh5dsaDGGAzm9LZjFWHm4m3evkUPxKBSNDN-AfD_w%3D%3D)**
+
+Barron's • 3d ago
+
+---
+
+**[Bitcoin's $92K Breakout Spurs Whale Activity, But Analysts Temper 2026 Expectations](https://decrypt.co/353581/bitcoins-92k-breakout-spurs-whale-activity-but-analysts-temper-2026-expectations)**
+
+Experts are maintaining a cautious tone even as Bitcoin breaks above $92K, coupled with a 34x increase in whale deposits to Binance.
+
+Decrypt • 1h ago
+
+---
+
 **[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/04/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
 
 What comes next for digital gold?
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Investors Should Hold 4% Bitcoin in Portfolio, Says Bank of America, as BTC Soars Above $92K](https://www.ccn.com/news/crypto/investors-should-hold-4-bitcoin-in-portfolio-says-bank-of-america-as-btc-soars-above-92k/)**
+**[CleanSpark: Undervalued Bitcoin Miner With Emerging AI/HPC Optionality](https://seekingalpha.com/article/4857085-cleanspark-undervalued-bitcoin-miner-with-emerging-ai-hpc-optionality)**
 
-CCN.com • 2h ago
+CleanSpark's AI/HPC diversification is a long-term pivot, enhancing its strategic appeal beyond pure Bitcoin mining. Read why CLSK is a Strong Buy.
+
+Seeking Alpha • 9h ago
 
 ---
 
@@ -339,7 +341,7 @@ CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying o
 
 📺 CNBC Television
 
-👁️ 2K • 👍 31 • 💬 29 • ⏱️ 2:48 • 3h ago
+👁️ 2K • 👍 31 • 💬 29 • ⏱️ 2:48 • 4h ago
 
 ---
 
@@ -369,7 +371,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 186 • ⏱️ 8:15 • 22h ago
+👁️ 39K • 👍 2K • 💬 186 • ⏱️ 8:15 • 23h ago
 
 ---
 
@@ -399,7 +401,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 21K • 👍 1K • 💬 378 • ⏱️ 27:00 • 13h ago
+👁️ 21K • 👍 1K • 💬 378 • ⏱️ 27:00 • 14h ago
 
 ---
 

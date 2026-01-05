@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T15:25:45.805574+00:00'
+updated: '2026-01-05T15:48:46.489782+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 15:25 UTC  
+**Last Updated:** January 05, 2026 at 15:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,165.62
+### $3,183.05
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +6.1%  
-**30d:** +3.1%  
-**90d:** -30.2%  
-**1y:** -14.3%  
+**24h:** +1.8%  
+**7d:** +7.4%  
+**30d:** +4.3%  
+**90d:** -29.4%  
+**1y:** -13.3%  
 
 ---
 
@@ -84,11 +84,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[long shot, BUT:](https://www.reddit.com/r/ethereum/comments/1q4mqw0/long_shot_but/)**
+**[So I made a SaaS to build Solana transactions like you do in ethereum](https://www.reddit.com/r/ethereum/comments/1q4ocy1/so_i_made_a_saas_to_build_solana_transactions/)**
 
-soo, thing is I’ve been staking for some time now, always had eth on my ledger, but recently walked right into a scam and lost my spare eth which I used to pay for staking services at allnodes. I have no sufficient eth on my account to do any kind of swap from my existing coins into eth, so thought i would ask if theres anyone who is willing to help out a fellow eth beleiver/staker with a couple of dollars worth of eth to be able to pull out my staking rewards from my nodes, pay for my staking services and pay you back (including your transaction fees) right away? 5 dollars worth of eth would do that big time. here is my adress: 0x6E9aB773812cC1002856c1E7487B237D0EcafBa8 THANK YOU SO MUCH, whoever decides to help me out, will repay you ASAP.
+So I tend to lean more towards the Solana side for development due to the low TPS and easy fees for a L1, but there always seemed to be a problem when I worked at startups - which is many ETH devs did not want to learn Solana due to the differences between ETH and SOL. And there are many. Firstly, PDAs and transactions are completely different - just looking at a block explorer, one would have to take a class to understand what is going on between accounts and instructions and the gas compute. I decided to take on this challenge since many Solana developers only understand the basics of transactions and thus build applications that fail during high network traffic times, and do not take advantage of memos which can store app specific data. I would love to know what ETH devs think of Solana, if they have ever tried Solana, and if they are interested I can share the API I built to see if they think integrating Solana now becomes much easier.
 
-1h ago
+30m ago
 
 ---
 
@@ -124,19 +124,19 @@ So I have some crypto on ethereum L1&2s and I would like to anonymize some of it
 
 ---
 
-**[Ethereum Fund Recovery Protocol (EFRP)](https://www.reddit.com/r/ethereum/comments/1q279wf/ethereum_fund_recovery_protocol_efrp/)**
-
-TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
-
-2d ago
-
----
-
 **[Daily General Discussion January 02, 2026](https://www.reddit.com/r/ethereum/comments/1q1quuy/daily_general_discussion_january_02_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 3d ago
+
+---
+
+**[Ethereum Fund Recovery Protocol (EFRP)](https://www.reddit.com/r/ethereum/comments/1q279wf/ethereum_fund_recovery_protocol_efrp/)**
+
+TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
+
+2d ago
 
 ---
 
@@ -160,14 +160,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
-
-Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
-
-Fortune • 2h ago
-
----
-
 **[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
@@ -176,11 +168,11 @@ CoinDesk • 1h ago
 
 ---
 
-**[ETH News: Neobanks will fuel Ethereum's 2026 growth, says ether.fi CEO](https://www.coindesk.com/tech/2026/01/04/neobanks-will-fuel-ethereum-s-2026-growth-says-ether-fi-ceo)**
+**[Vitalik Buterin Claims Ethereum has Solved the Blockchain Trilemma Problem](https://beincrypto.com/ethereum-solves-blockchain-trilemma-issue/)**
 
-Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
+Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-CoinDesk • 1d ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -188,13 +180,13 @@ CoinDesk • 1d ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
-**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
+**[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
 
-Forbes • 2d ago
+CCN.com • 1h ago
 
 ---
 
@@ -206,17 +198,23 @@ Seeking Alpha • 3h ago
 
 ---
 
+**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
+
+Forbes • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqebAXgyeQGQ_tt3z-oXKGi3UhoYlfav0sPFyKlrcvwfLJ5ze4NARbEI&gaa_ts=695be0c4&gaa_sig=NP9-lOymd2A2Utdt6aFePkQ44Yb5rwfsq5PCtcWZzAjh1RhGnNYFcaBxMiZ6YtIeDMRWcARoDUEnmlHnRvjjYg%3D%3D)**
+
+Barron's • 3d ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – Bulls firmly in control as BTC breaks $93K, ETH and XRP extend gains](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-bulls-firmly-in-control-as-btc-breaks-93k-eth-and-xrp-extend-gains-202601050352)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extended their rallies on Monday, gaining more than 4%, 6%, and 12%, respectively, in the previous week. The top three cryptocurrencies by market capitalization could continue to outperform, with bulls in control of the momentum.
 
 FXStreet • 11h ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqcUlYZMT8mGa7T8jw5dIyp8VXSgQM7bIQfOu-mXpsUnUHhEIbaH4SlD&gaa_ts=695bcd7e&gaa_sig=UQmwj3Av5mWNS500cbGIbesF9VBDy9nNdwoXcwpH_KZRkEHQLwWLuQRpruoXNQEjPr5WjkDOy5rbAvXJP6rivg%3D%3D)**
-
-Barron's • 3d ago
 
 ---
 
@@ -308,7 +306,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 285 • 💬 26 • ⏱️ 29:32 • 9h ago
+👁️ 2K • 👍 285 • 💬 26 • ⏱️ 29:32 • 10h ago
 
 ---
 

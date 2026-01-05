@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T15:25:45.790095+00:00'
+updated: '2026-01-05T15:48:46.475108+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 15:25 UTC  
+**Last Updated:** January 05, 2026 at 15:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 3h ago
+🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 4h ago
 
 ---
 
@@ -58,6 +58,22 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
 2h ago
+
+---
+
+**[It's been a big week for Agentic AI ; Here are 10 massive releases you might've missed:](https://www.reddit.com/r/artificial/comments/1q4oq9b/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+
+Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+16m ago
+
+---
+
+**[Is there an AI that can hear a beat/instrumental and give me similar vibe one on the internet?](https://www.reddit.com/r/artificial/comments/1q4n6us/is_there_an_ai_that_can_hear_a_beatinstrumental/)**
+
+I’ve been wanting a type of beat I heard for so long but couldn’t find it, I want to see if there’s an AI out there that can help me find something I want so I can make music.
+
+1h ago
 
 ---
 
@@ -81,39 +97,23 @@ A new study finds that AI systems embed cultural and developmental assumptions a
 
 Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
 
-11h ago
+12h ago
 
 ---
 
-**[Has AI reduced decision effort for you or increased the need to double check everything?](https://www.reddit.com/r/artificial/comments/1q3oyf4/has_ai_reduced_decision_effort_for_you_or/)**
+**[Best AI tool for visually appealing flyers/brochures etc?](https://www.reddit.com/r/artificial/comments/1q4g1cw/best_ai_tool_for_visually_appealing/)**
 
-AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
+I am trying to turn text documents into pretty, appealing, visually illustrative documents like flyers and handouts etc. Is anything actually good at this? I can provide all the text I just need something that can help me put it all together in a visually appealing way, maybe with diagrams etc.
 
-1d ago
-
----
-
-**[Is Gemini CLI in VS acting up for you guys too?](https://www.reddit.com/r/artificial/comments/1q3vwqa/is_gemini_cli_in_vs_acting_up_for_you_guys_too/)**
-
-I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
-
-21h ago
+7h ago
 
 ---
 
-**[NYC Wegmans is storing biometric data on shoppers' eyes, voices and faces](https://www.reddit.com/r/artificial/comments/1q34jp1/nyc_wegmans_is_storing_biometric_data_on_shoppers/)**
+**[Closest thing to a realistic AI presenter without filming a real person?](https://www.reddit.com/r/artificial/comments/1q4fevi/closest_thing_to_a_realistic_ai_presenter_without/)**
 
-The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
+I am trying to create presenter style videos without filming someone on camera. Not cartoon avatars and not over stylized characters. For people who have tested multiple AI avatars, which ones came closest to realistic motion and voice sync? And what limitations still feel impossible to avoid?
 
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 1d ago
-
----
-
-**[[Claude payment] I did not understand the claude payment method, can someone help me to understand?](https://www.reddit.com/r/artificial/comments/1q3cdvj/claude_payment_i_did_not_understand_the_claude/)**
-
-Basically, I needed to use the Extra Usage service. I requested $5 with a limit of $100. They charged $5 and said I used $4.21, and show that i used 4%. I didn’t understand whether that means: I used 4% of the $5 or 4% of the $100 limit. Can someone help?
-
-1d ago
+8h ago
 
 ---
 
@@ -121,11 +121,31 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 ## Google News: "ai"
 
-**[Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o)**
+**[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
+Reuters • 4h ago
 
-BBC • 15h ago
+---
+
+**[Altered and misleading images proliferate on social media amid Maduro's capture](https://www.cbsnews.com/news/maduro-capture-ai-images-false-information/)**
+
+CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
+
+CBS News • 3h ago
+
+---
+
+**[The cost of AI is being dumped on you](https://thehill.com/opinion/technology/5671747-big-tech-energy-burden-communities/)**
+
+The Hill • 18m ago
+
+---
+
+**[Amazon lets some users chat with Alexa+ on the web in bid to take on ChatGPT](https://www.cnbc.com/2026/01/05/amazon-alexa-web-chatgpt.html)**
+
+The company launched Alexa+ last February and it remains in early access.
+
+CNBC • 34m ago
 
 ---
 
@@ -137,43 +157,25 @@ CNBC • 20h ago
 
 ---
 
-**[AI took investors on a date in 2025. In 2026, analysts say it's time to foot the bill.](https://finance.yahoo.com/news/ai-took-investors-on-a-date-in-2025-in-2026-analysts-say-its-time-to-foot-the-bill-140012067.html)**
+**[AI Bubble or Not, These 3 Stocks Make Excellent Long-Term Plays to Buy in January](https://www.fool.com/investing/2026/01/05/ai-bubble-or-not-buy-3-ai-growth-stocks-2026/)**
 
-As the AI trade becomes "fractured," 2026 could see other stocks finally outshine the "Magnificent Seven."
+Building a diversified artificial intelligence portfolio can help long-term investors stay even-keeled during stock market sell-offs.
 
-Yahoo Finance • 1h ago
-
----
-
-**[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
-
-Reuters • 3h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[The emerging California job industry that is AI-proof | Opinion](https://www.sacbee.com/opinion/op-ed/article314061601.html)**
+**[OpenAI Could Pop the AI Bubble. These 2 Tech Stocks Could Still Win.](https://www.barrons.com/articles/ai-stocks-bubble-openai-b38a5d01?gaa_at=eafs&gaa_n=AWEtsqcMa9z8Ay8_pv5YZCc6T0k-Ud7r17M9Htu2WG2zOvQoHaxnNs0lUpKI&gaa_ts=695be0c0&gaa_sig=-nUsEIIra3f2zedfHvi_dhKFC_gZ5INdsEZwBXVILZikNDgnbiEs0aA1Fio9pQSDAcFF6iSipiIwL8NV9Ve0KQ%3D%3D)**
 
-Sacramento Bee • 1h ago
-
----
-
-**[Can AI chatbots trigger psychosis in vulnerable people?](https://www.foxnews.com/tech/can-ai-chatbots-trigger-psychosis-vulnerable-people)**
-
-Chatbots may worsen delusions in people by reinforcing false beliefs, psychiatrists warn. Mental health experts document cases where AI strengthened distorted thinking.
-
-Fox News • 1h ago
+Barron's • 34m ago
 
 ---
 
-**[US IPO Performance Lags S&P 500 in 2025 as Crypto, AI Deals Sink](https://www.bloomberg.com/news/articles/2026-01-05/us-ipo-performance-lags-s-p-500-in-2025-as-crypto-ai-deals-sink)**
+**[Debunking Venezuela celebration videos and AI images of Maduro](https://www.bbc.com/news/live/ckgx05erygvt)**
 
-Bloomberg.com • 1h ago
+Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
 
----
-
-**[The AI supercycle tests the world's network infrastructure](https://www.axios.com/sponsored/the-ai-supercycle-tests-the-worlds-network-infrastructure)**
-
-Axios • 2h ago
+BBC • 7m ago
 
 ---
 
@@ -185,11 +187,9 @@ The Guardian • 1d ago
 
 ---
 
-**[NYU professor tested students with AI oral exams, here's what happened next](https://www.businessinsider.com/nyu-professor-ai-oral-exam-mckinsey-memo-business-school-2026-1)**
+**[The AI supercycle tests the world's network infrastructure](https://www.axios.com/sponsored/the-ai-supercycle-tests-the-worlds-network-infrastructure)**
 
-When student work looked like McKinsey memos, an NYU business school professor used AI oral exams to test real learning.
-
-Business Insider • 8h ago
+Axios • 2h ago
 
 ---
 
@@ -201,19 +201,19 @@ Business Insider • 8h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 182 • 💬 44 • 18h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 187 • 💬 46 • 18h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 149 • 💬 100 • 2d ago
+⬆️ 151 • 💬 102 • 2d ago
 
 ---
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 80 • 💬 41 • 10h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 84 • 💬 47 • 10h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -225,19 +225,19 @@ Surely it works this time
 
 ---
 
+**[AI sycophancy panic](https://news.ycombinator.com/item?id=46488396)**
+
+Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
+
+⬆️ 52 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+
+---
+
 **[Everyone's Watching Stocks. The Real Bubble Is AI Debt](https://news.ycombinator.com/item?id=46468579)**
 
 Something has changed in the artificial intelligence boom in the past year. Since the arrival of ChatGPT in 2022, America’s biggest tech companies have been leading the charge, aided by hundreds of billions of dollars on their balance sheet. Now, debt has entered the picture and the stakes are higher.
 
 ⬆️ 52 • 💬 29 • 2d ago • [Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-31/everyone-s-watching-stocks-the-real-bubble-is-ai-debt)
-
----
-
-**[AI sycophancy panic](https://news.ycombinator.com/item?id=46488396)**
-
-Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
-
-⬆️ 51 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 7h ago
+⭐ 20.8k • 🔱 3.3k • 8h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.0k • 🔱 521 • 8h ago
+⭐ 4.0k • 🔱 521 • 9h ago
 
 ---
 
@@ -732,7 +732,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 903 • 🔱 20 • 1h ago
+⭐ 903 • 🔱 20 • 2h ago
 
 ---
 

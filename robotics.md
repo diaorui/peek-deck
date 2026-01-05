@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T15:25:45.808880+00:00'
+updated: '2026-01-05T15:48:46.493037+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 15:25 UTC  
+**Last Updated:** January 05, 2026 at 15:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,9 +40,17 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 ---
 
-**[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
+**[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
+
+Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
 1h ago
+
+---
+
+**[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
+
+2h ago
 
 ---
 
@@ -58,15 +66,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-13h ago
-
----
-
-**[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
-
-Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
-
-1h ago
+14h ago
 
 ---
 
@@ -78,14 +78,6 @@ A few months ago, the NEO home robot was all over the news — demos, hype, prom
 
 ---
 
-**[Unitree Humanoid Robot Training](https://www.reddit.com/r/robotics/comments/1q3lx1a/unitree_humanoid_robot_training/)**
-
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
-
-1d ago
-
----
-
 **[Building a robot arm from scratch using CNC, Marlin and Python](https://www.reddit.com/r/robotics/comments/1q4jwwp/building_a_robot_arm_from_scratch_using_cnc/)**
 
 I designed and built this robot arm completely from scratch as a hands on learning project in robotics, mechanics, and control systems. The system is largely based on repurposed components from two old 3D printers Ender 3 and Sapphire Pro, combined with CNC machined aluminum structural parts and several 3D printed components. On the control side, the arm runs a heavily modified Marlin firmware with closed loop stepper drivers (MKS TMC42C). Higher level control and automation are handled by a custom Python script, which is still very much a work in progress. The robot can be controlled manually using a PlayStation controller, or operated in an automated mode by recording waypoints and replaying motion sequences. As one of the first simple practice tasks, I taught the arm to feed my dog. It’s a deliberately low complexity application, mainly used to test repeatability, positioning accuracy, and basic sequencing. This is my first serious attempt at building a robot. I didn’t closely follow tutorials most of the process involved experimenting, breaking things, fixing them, and learning why they failed. One area I’m especially interested in improving next is the shoulder joint. If anyone here has experience with small robot arms, I’d really appreciate ideas for more robust shoulder joint designs, particularly when it comes to stiffness, backlash, and holding torque. I’m also considering using a harmonic drive for the shoulder axis and would love recommendations for stable, reasonably affordable options, or alternative approaches that worked well for you in similar scale systems. Any feedback on what works, what doesn’t, and where you’d focus improvements next would be very welcome.
@@ -94,11 +86,19 @@ I designed and built this robot arm completely from scratch as a hands on learni
 
 ---
 
+**[Unitree Humanoid Robot Training](https://www.reddit.com/r/robotics/comments/1q3lx1a/unitree_humanoid_robot_training/)**
+
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
+
+1d ago
+
+---
+
 **[CANgaroo: Open-Source CAN Bus Analyzer for Linux, Automotive, Robotics & Industrial Applications](https://www.reddit.com/r/robotics/comments/1q43u5c/cangaroo_opensource_can_bus_analyzer_for_linux/)**
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-16h ago
+17h ago
 
 ---
 
@@ -114,33 +114,19 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 ## Google News: "robotics"
 
-**[Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000](https://nypost.com/2026/01/03/us-news/humanoid-robots-are-ready-to-do-your-housework-in-2026/)**
+**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
 
-With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-New York Post • 2d ago
-
----
-
-**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
-
-Bloomberg.com • 1h ago
+CBS News • 15h ago
 
 ---
 
-**[Qualcomm Introduces a Full Suite of Robotics Technologies, Powering Physical AI from Household Robots up to Full-Size Humanoids](https://finance.yahoo.com/news/qualcomm-introduces-full-suite-robotics-140000498.html)**
+**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
 
-LAS VEGAS, January 05, 2026--At CES, Qualcomm Technologies, Inc. (NASDAQ:QCOM) introduced a next-generation robotics comprehensive-stack architecture that integrates hardware, software, and compound AI. Qualcomm Technologies also unveiled its latest high performance robotics processor for industrial AMRs and advanced full-size humanoids, the Qualcomm Dragonwing™ IQ10 Series. This is the latest robotics-specific processor which expands the current robotics roadmap for the Company, delivering high
+A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
-
-In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
-
-The Robot Report • 2d ago
+CNET • 1h ago
 
 ---
 
@@ -152,11 +138,39 @@ PR Newswire • 1d ago
 
 ---
 
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
+
+In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
+
+The Robot Report • 2d ago
+
+---
+
+**[REVOBOTS Defines Task-Adaptive Robotics at CES 2026](https://www.freep.com/press-release/story/139115/revobots-defines-task-adaptive-robotics-at-ces-2026/)**
+
+Experience the Future of Work with TASKBOT AVA and TASKBOT SCOUT | REVOBOTS Founding Team On-Site for Meet the Makers and Media Briefings The future of robotics isn’t about spectacle—it’s about usefulness. We design robots for specific jobs, in real environments, with autonomy where it makes sense and human oversight where it matters.” — Andre […]
+
+Detroit Free Press • 1h ago
+
+---
+
 **[Schaeffler brings robotics, energy and vehicle tech to CES 2026](https://seekingalpha.com/news/4536504-schaeffler-brings-robotics-energy-and-vehicle-tech-to-ces-2026)**
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
 
 Seeking Alpha • 16h ago
+
+---
+
+**[CES 2026 kicks off in Las Vegas this week, showcasing AI, robotics, and more](https://www.fastcompany.com/91468992/ces-2026-kicks-off-las-vegas-this-week-showcasing-ai-robotics-more)**
+
+Fast Company • 15m ago
 
 ---
 
@@ -168,27 +182,11 @@ Inspenet • 1d ago
 
 ---
 
-**[Boston Dynamics is training an AI-powered humanoid robot to do factory work](https://www.cbsnews.com/news/boston-dynamics-training-ai-humanoids-to-perform-human-jobs-60-minutes/)**
+**[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
 
-While it's not ready to join the workforce yet, Atlas, an AI-powered humanoid, is learning how to do human tasks.
+Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
 
-CBS News • 14h ago
-
----
-
-**[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
-
-On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
-
-CNN • 2d ago
-
----
-
-**[Japanese startup Ludens AI brought two very adorable robots to CES 2026](https://www.engadget.com/home/smart-home/japanese-startup-ludens-ai-brought-two-very-adorable-robots-to-ces-2026-021914130.html)**
-
-Japanese startup Ludens AI is showing off two extremely adorable robot companions at CES 2026: Cocomo and Inu.
-
-Engadget • 13h ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -212,7 +210,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 5K • 👍 76 • 💬 3 • ⏱️ 7:38 • 19h ago
+👁️ 5K • 👍 76 • 💬 3 • ⏱️ 7:38 • 20h ago
 
 ---
 
@@ -232,7 +230,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 66K • 👍 1K • 💬 216 • ⏱️ 5:49 • 14h ago
+👁️ 66K • 👍 1K • 💬 216 • ⏱️ 5:49 • 15h ago
 
 ---
 
