@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T16:29:02.908456+00:00'
+updated: '2026-01-05T16:54:40.782292+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 16:29 UTC  
+**Last Updated:** January 05, 2026 at 16:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,808.00
+### $93,618.10
 
 ---
 
@@ -46,8 +46,8 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +2.7%  
 **7d:** +6.2%  
-**30d:** +3.8%  
-**90d:** -24.0%  
+**30d:** +3.9%  
+**90d:** -23.9%  
 **1y:** -8.0%  
 
 ---
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
+
+38m ago
+
+---
+
 **[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -90,12 +96,6 @@ Rank #1
 ---
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
-
-14h ago
-
----
-
-**[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
 15h ago
 
@@ -109,9 +109,23 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 ---
 
+**[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
+
+15h ago
+
+---
+
 **[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
 
 2h ago
+
+---
+
+**[My thoughts on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q4ek9x/my_thoughts_on_bitcoin/)**
+
+For the past five years, I’ve been buying $10 of Bitcoin every single day. No timing the market. No chasing pumps. Just consistency. I don’t check the price much anymore. When it goes up, I keep buying. When it crashes, I keep buying. No fear. No regret.
+
+10h ago
 
 ---
 
@@ -121,25 +135,9 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 ---
 
-**[My thoughts on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q4ek9x/my_thoughts_on_bitcoin/)**
+**[Is the Lightning Network successful or a disappointing?](https://www.reddit.com/r/Bitcoin/comments/1q4l86f/is_the_lightning_network_successful_or_a/)**
 
-For the past five years, I’ve been buying $10 of Bitcoin every single day. No timing the market. No chasing pumps. Just consistency. I don’t check the price much anymore. When it goes up, I keep buying. When it crashes, I keep buying. No fear. No regret.
-
-9h ago
-
----
-
-**[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
-
-20h ago
-
----
-
-**[$94K is resisting](https://www.reddit.com/r/Bitcoin/comments/1q4cekz/94k_is_resisting/)**
-
-Very strong resistance at $93-94K If we break these level this week, final bull run will be loading for sure 👁️‍🗨️
-
-11h ago
+3h ago
 
 ---
 
@@ -147,19 +145,9 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price: hits $93,000, ether tops $3,000 as Venezuela president Maduro in U.S. custody](https://www.coindesk.com/markets/2026/01/05/crypto-markets-continue-new-year-run-as-bitcoin-briefly-hits-usd93k-ether-rallies)**
+**[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-The rally in crypto was mirrored by a surge in commodities and Asian equities, driven by AI-led momentum and geopolitical developments.
-
-CoinDesk • 11h ago
-
----
-
-**[Bitcoin network hashrate fell for second consecutive month in December: JPMorgan](https://www.coindesk.com/markets/2026/01/05/bitcoin-network-hashrate-fell-for-second-consecutive-month-in-december-jpmorgan)**
-
-Mining profitability declined last month, with daily block reward revenue down 7%, and 32% year-on-year.
-
-CoinDesk • 1h ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -167,7 +155,7 @@ CoinDesk • 1h ago
 
 Bitcoin rose above $92,00 on Monday following a rough end to 2025.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -179,6 +167,12 @@ CNBC • 2d ago
 
 ---
 
+**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+
+Forbes • 1d ago
+
+---
+
 **[Crypto stocks surge as bitcoin refuses to go down in 2026](https://sherwood.news/markets/crypto-stocks-surge-as-bitcoin-refuses-to-go-down-in-2026/)**
 
 The cryptoasset is on its longest winning streak since October....
@@ -187,23 +181,9 @@ Sherwood News • 3h ago
 
 ---
 
-**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+**['Bitcoin Mania' Is Over, Slams Critic, Claims Gold and Silver Entering ‘Biggest Bull Market in History’](https://www.ccn.com/news/crypto/gold-silver-entering-biggest-bull-market-economist-bitcoin-mania-over/)**
 
-Forbes • 1d ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqfbxAyTm4vJwEfPlT_OoIywY4pf1rx9A6gH26SHRwx7Yll_PxwXbWhn&gaa_ts=695be0c2&gaa_sig=AFf8OCHISDnsBuRpDBR_93JnA7yvx7gnm8Ih_BFR2VdsCHh5dsaDGGAzm9LZjFWHm4m3evkUPxKBSNDN-AfD_w%3D%3D)**
-
-Barron's • 3d ago
-
----
-
-**[Bitcoin's $92K Breakout Spurs Whale Activity, But Analysts Temper 2026 Expectations](https://decrypt.co/353581/bitcoins-92k-breakout-spurs-whale-activity-but-analysts-temper-2026-expectations)**
-
-Experts are maintaining a cautious tone even as Bitcoin breaks above $92K, coupled with a 34x increase in whale deposits to Binance.
-
-Decrypt • 2h ago
+CCN.com • 5h ago
 
 ---
 
@@ -211,7 +191,7 @@ Decrypt • 2h ago
 
 What comes next for digital gold?
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -220,6 +200,22 @@ The Motley Fool • 23h ago
 CleanSpark's AI/HPC diversification is a long-term pivot, enhancing its strategic appeal beyond pure Bitcoin mining. Read why CLSK is a Strong Buy.
 
 Seeking Alpha • 10h ago
+
+---
+
+**[BlackRock’s Bitcoin ETF Sees Biggest Inflow in Three Months as Crypto Prices Rise](https://decrypt.co/353546/blackrocks-bitcoin-etf-biggest-inflow-three-months)**
+
+Analysts cite Bitcoin portfolio rebalancing as institutional investors price in three more years of Trump's "America First" policy.
+
+Decrypt • 1h ago
+
+---
+
+**[Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right](https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/)**
+
+A quick guide to the Jan. 5 PMI print: which sub-indexes matter, what “hot costs” mean for yields, and how that transmission reaches BTC fast.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -361,7 +357,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 362 • 👍 39 • 💬 33 • ⏱️ 18:35 • 1h ago
+👁️ 362 • 👍 39 • 💬 33 • ⏱️ 18:35 • 2h ago
 
 ---
 
@@ -381,7 +377,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 187 • ⏱️ 8:15 • 23h ago
+👁️ 41K • 👍 2K • 💬 187 • ⏱️ 8:15 • 1d ago
 
 ---
 

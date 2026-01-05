@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T16:29:02.917728+00:00'
+updated: '2026-01-05T16:54:40.791518+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 16:29 UTC  
+**Last Updated:** January 05, 2026 at 16:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-2h ago
+3h ago
 
 ---
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-14h ago
+15h ago
 
 ---
 
@@ -78,14 +78,6 @@ A few months ago, the NEO home robot was all over the news — demos, hype, prom
 
 ---
 
-**[Building a robot arm from scratch using CNC, Marlin and Python](https://www.reddit.com/r/robotics/comments/1q4jwwp/building_a_robot_arm_from_scratch_using_cnc/)**
-
-I designed and built this robot arm completely from scratch as a hands on learning project in robotics, mechanics, and control systems. The system is largely based on repurposed components from two old 3D printers Ender 3 and Sapphire Pro, combined with CNC machined aluminum structural parts and several 3D printed components. On the control side, the arm runs a heavily modified Marlin firmware with closed loop stepper drivers (MKS TMC42C). Higher level control and automation are handled by a custom Python script, which is still very much a work in progress. The robot can be controlled manually using a PlayStation controller, or operated in an automated mode by recording waypoints and replaying motion sequences. As one of the first simple practice tasks, I taught the arm to feed my dog. It’s a deliberately low complexity application, mainly used to test repeatability, positioning accuracy, and basic sequencing. This is my first serious attempt at building a robot. I didn’t closely follow tutorials most of the process involved experimenting, breaking things, fixing them, and learning why they failed. One area I’m especially interested in improving next is the shoulder joint. If anyone here has experience with small robot arms, I’d really appreciate ideas for more robust shoulder joint designs, particularly when it comes to stiffness, backlash, and holding torque. I’m also considering using a harmonic drive for the shoulder axis and would love recommendations for stable, reasonably affordable options, or alternative approaches that worked well for you in similar scale systems. Any feedback on what works, what doesn’t, and where you’d focus improvements next would be very welcome.
-
-🔗 [youtu.be](https://youtu.be/3EGTNYefZMA?si=UXEQW2hJB412sqbA) • 4h ago
-
----
-
 **[Unitree Humanoid Robot Training](https://www.reddit.com/r/robotics/comments/1q3lx1a/unitree_humanoid_robot_training/)**
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
@@ -94,11 +86,19 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 ---
 
+**[Building a robot arm from scratch using CNC, Marlin and Python](https://www.reddit.com/r/robotics/comments/1q4jwwp/building_a_robot_arm_from_scratch_using_cnc/)**
+
+I designed and built this robot arm completely from scratch as a hands on learning project in robotics, mechanics, and control systems. The system is largely based on repurposed components from two old 3D printers Ender 3 and Sapphire Pro, combined with CNC machined aluminum structural parts and several 3D printed components. On the control side, the arm runs a heavily modified Marlin firmware with closed loop stepper drivers (MKS TMC42C). Higher level control and automation are handled by a custom Python script, which is still very much a work in progress. The robot can be controlled manually using a PlayStation controller, or operated in an automated mode by recording waypoints and replaying motion sequences. As one of the first simple practice tasks, I taught the arm to feed my dog. It’s a deliberately low complexity application, mainly used to test repeatability, positioning accuracy, and basic sequencing. This is my first serious attempt at building a robot. I didn’t closely follow tutorials most of the process involved experimenting, breaking things, fixing them, and learning why they failed. One area I’m especially interested in improving next is the shoulder joint. If anyone here has experience with small robot arms, I’d really appreciate ideas for more robust shoulder joint designs, particularly when it comes to stiffness, backlash, and holding torque. I’m also considering using a harmonic drive for the shoulder axis and would love recommendations for stable, reasonably affordable options, or alternative approaches that worked well for you in similar scale systems. Any feedback on what works, what doesn’t, and where you’d focus improvements next would be very welcome.
+
+🔗 [youtu.be](https://youtu.be/3EGTNYefZMA?si=UXEQW2hJB412sqbA) • 4h ago
+
+---
+
 **[CANgaroo: Open-Source CAN Bus Analyzer for Linux, Automotive, Robotics & Industrial Applications](https://www.reddit.com/r/robotics/comments/1q43u5c/cangaroo_opensource_can_bus_analyzer_for_linux/)**
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-17h ago
+18h ago
 
 ---
 
@@ -106,21 +106,13 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-21h ago
+22h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
-
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
-
-CBS News • 15h ago
-
----
 
 **[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
 
@@ -130,17 +122,17 @@ CNET • 2h ago
 
 ---
 
-**[Zeroth Robotics Launches into the U.S. with Debut Lineup of Interactive AI Robots for Consumer and Commercial Buyers](https://www.prnewswire.com/news-releases/zeroth-robotics-launches-into-the-us-with-debut-lineup-of-interactive-ai-robots-for-consumer-and-commercial-buyers-302652162.html)**
-
-/PRNewswire/ -- Today at CES 2026, Zeroth Robotics emerged from stealth with its official U.S. launch and a lineup of five interactive AI robots designed for...
-
-PR Newswire • 1d ago
-
----
-
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
 Bloomberg.com • 2h ago
+
+---
+
+**[CES 2026 to showcase real-world AI applications](https://www.koreatimes.co.kr/business/companies/20260106/ces-2026-ces-2026-to-showcase-real-world-ai-applications)**
+
+LAS VEGAS — This year’s CES tech fair will focus on the shift of artificial intelligence (AI) from mainly digital uses to real-world applications,...
+
+The Korea Times • 54m ago
 
 ---
 
@@ -152,25 +144,11 @@ The Robot Report • 2d ago
 
 ---
 
-**[REVOBOTS Defines Task-Adaptive Robotics at CES 2026](https://www.freep.com/press-release/story/139115/revobots-defines-task-adaptive-robotics-at-ces-2026/)**
+**[Zeroth Robotics Launches into the U.S. with Debut Lineup of Interactive AI Robots for Consumer and Commercial Buyers](https://www.prnewswire.com/news-releases/zeroth-robotics-launches-into-the-us-with-debut-lineup-of-interactive-ai-robots-for-consumer-and-commercial-buyers-302652162.html)**
 
-Experience the Future of Work with TASKBOT AVA and TASKBOT SCOUT | REVOBOTS Founding Team On-Site for Meet the Makers and Media Briefings The future of robotics isn’t about spectacle—it’s about usefulness. We design robots for specific jobs, in real environments, with autonomy where it makes sense and human oversight where it matters.” — Andre […]
+/PRNewswire/ -- Today at CES 2026, Zeroth Robotics emerged from stealth with its official U.S. launch and a lineup of five interactive AI robots designed for...
 
-Detroit Free Press • 1h ago
-
----
-
-**[Schaeffler brings robotics, energy and vehicle tech to CES 2026](https://seekingalpha.com/news/4536504-schaeffler-brings-robotics-energy-and-vehicle-tech-to-ces-2026)**
-
-Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
-
-Seeking Alpha • 17h ago
-
----
-
-**[CES 2026 kicks off in Las Vegas this week, showcasing AI, robotics, and more](https://www.fastcompany.com/91468992/ces-2026-kicks-off-las-vegas-this-week-showcasing-ai-robotics-more)**
-
-Fast Company • 56m ago
+PR Newswire • 1d ago
 
 ---
 
@@ -179,6 +157,30 @@ Fast Company • 56m ago
 FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
 
 Inspenet • 1d ago
+
+---
+
+**[Boston Dynamics is training an AI-powered humanoid robot to do factory work](https://www.cbsnews.com/news/boston-dynamics-training-ai-humanoids-to-perform-human-jobs-60-minutes/)**
+
+While it's not ready to join the workforce yet, Atlas, an AI-powered humanoid, is learning how to do human tasks.
+
+CBS News • 16h ago
+
+---
+
+**[Schaeffler brings robotics, energy and vehicle tech to CES 2026](https://seekingalpha.com/news/4536504-schaeffler-brings-robotics-energy-and-vehicle-tech-to-ces-2026)**
+
+Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
+
+Seeking Alpha • 18h ago
+
+---
+
+**[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
+
+On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
+
+CNN • 2d ago
 
 ---
 
@@ -210,7 +212,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 6K • 👍 87 • 💬 3 • ⏱️ 7:38 • 20h ago
+👁️ 6K • 👍 87 • 💬 3 • ⏱️ 7:38 • 21h ago
 
 ---
 
@@ -220,7 +222,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 79K • 👍 2K • 💬 259 • ⏱️ 5:49 • 15h ago
+👁️ 79K • 👍 2K • 💬 259 • ⏱️ 5:49 • 16h ago
 
 ---
 

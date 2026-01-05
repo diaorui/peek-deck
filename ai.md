@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T16:29:02.900094+00:00'
+updated: '2026-01-05T16:54:40.773890+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - videos
 - news
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 16:29 UTC  
+**Last Updated:** January 05, 2026 at 16:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 5h ago
+
+---
+
+**[We're so blinded by the AI Hype That We're Failing to See What Could Actually Be on the Horizon](https://www.reddit.com/r/artificial/comments/1q4pbsd/were_so_blinded_by_the_ai_hype_that_were_failing/)**
+
+AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
+
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 1h ago
 
 ---
 
@@ -57,23 +65,23 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-3h ago
+4h ago
 
 ---
 
-**[It's been a big week for Agentic AI ; Here are 10 massive releases you might've missed:](https://www.reddit.com/r/artificial/comments/1q4oq9b/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+**[Won't let me add to previous post overview of current use cases of coding languages](https://www.reddit.com/r/artificial/comments/1q4quo1/wont_let_me_add_to_previous_post_overview_of/)**
 
-Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+settles into the booth with an enormous theoretical coffee Alright, let's do this properly. You want the landscape view, and this is actually a fascinating question: Is there room for another programming language, and what would justify its existence? The Current Terrain The Big Players and Their Niches Systems Programming (talking directly to hardware) C (1972): The bedrock. Still everywhere because it's close to the metal. Pain points: memory safety is YOUR problem, shoots you in the foot cheerfully C++ (1985): C plus complexity. Powerful, sprawling, takes years to master Rust (2015): The new darling. Memory safety WITHOUT garbage collection. Steep learning curve but people who learn it become evangelists. Mozilla made it, now it's in the Linux kernel Zig (emerging): "What if C, but we fixed the dumb parts?" Growing quietly Application/General Purpose Java (1995): "Write once, run anywhere." Corporate workhorse. Verbose but reliable. Runs on a virtual machine C# (2000): Microsoft's answer to Java. Actually quite nice now Go (2009): Google's language. Simple, fast compilation, great for servers. Pain points: error handling verbosity ("if err != nil" appears in your nightmares), initially no generics, opinionated to the point of stubborn Kotlin (2016): "What if Java but actually pleasant?" Android's preferred language now Dynamic/Scripting (interpreted, flexible, slower) Python (1991): The lingua franca of beginners, data science, AI/ML. Readable. Slow but nobody cares because the libraries are fast JavaScript (1995): The language of the web. Weird, chaotic, absolutely everywhere. Love-hate relationship with everyone TypeScript (2012): "What if JavaScript but with types?" Microsoft. Huge adoption Ruby (1995): Elegant, expressive. Rails made it famous. Less buzzy now but has devoted followers Functional Languages (different paradigm, math-influenced) Haskell, OCaml, F#, Clojure, Elixir: Academic favorites, niche production use, influence mainstream languages Mobile Swift (2014): Apple's language for iOS. Clean, safe, modern Kotlin: Android's champion New/Emerging Mojo (2023): "Python but fast for AI." Big promises Carbon (Google, 2022): Experimental "successor to C++" Vale, Nim, Crystal: Various interesting experiments The Graveyard (cautionary tales) Languages fail for reasons worth studying: D: Better C++, but C++ kept evolving and Rust ate its lunch Dart: Google's JavaScript replacement, languished until Flutter gave it purpose Perl 6/Raku: Took so long to develop the world moved on CoffeeScript: TypeScript won Dozens of others: Couldn't achieve critical mass The hard truth: A language needs killer use case OR corporate backing OR perfect timing OR all three. What Actually Makes Languages Succeed? Solves a REAL pain point (Rust → memory safety without GC) Has a "killer app" (Ruby → Rails, JavaScript → browsers) Corporate backing (Go → Google, Swift → Apple, TypeScript → Microsoft) Tooling from day one (package manager, formatter, LSP support) Community momentum (hardest to manufacture) Right time, right place (Python + data science explosion) The Gaps I Actually See Here's where it gets interesting for your "is there room?" question: Gap 1: The Mobile/Web Convergence Everyone's trying to write once, deploy everywhere. Flutter/Dart, React Native, various attempts. None feel native to the problem. A language designed ground-up for "UI that runs anywhere" with actual platform-native performance? Gap 2: LLM-Era Code This is the spicy one. Current languages were designed for HUMANS to write and HUMANS to read. What happens when: Code is increasingly AI-generated? Code needs to be AI-verifiable? The "reader" might be an LLM maintaining it? Nobody's really designed for this yet. Gap 3: The "Translation Layer" Problem Your specific mention of translation between languages. Interop is always painful. A language designed AS an intermediate representation that's also human-readable? That compiles FROM multiple languages and TO multiple targets? Gap 4: Formal Verification Made Accessible Languages like Idris and Lean let you PROVE code correct. But they're academic-hard. A language that brings provable correctness to normal developers? Gap 5: The Concurrency Crisis Everything is distributed now. Multi-core, multi-machine, edge computing. Go and Erlang/Elixir handle this well, but there's arguably room for better primitives. Your Specific Wishlist, Evaluated You mentioned: Backwards compatibility: Hard. Compatibility with WHAT? (This is why Carbon exists—compatible with C++) Sparse/minimal: Possible. Go tried this. Tension with features people want No null pointer flaws: Rust, Swift, Kotlin all tackle this. Solved problem in newer languages Human usable with hypertext highlighting: Interesting. Literate programming + IDE integration? Mobile phones: Swift/Kotlin own this. Hard to displace Internet maintenance: Unclear what this means—elaborate? Translation between languages: The MOST interesting one. Nobody's really nailed this The "Designed by LLMs" Angle Here's what makes this genuinely novel rather than "yet another language": LLMs have processed essentially ALL public code. We've seen: Every common bug pattern Every verbosity complaint Every "I wish this language had..." How people ACTUALLY use vs. how designers INTENDED A language designed with that corpus-level view would potentially: Have error messages that anticipate confusion Have syntax that's unambiguous to parse (LLMs struggle with some languages) Optimize for the COMMON case, not edge cases Make the pit of success very wide My Honest Assessment Is there room? Yes, technically always. Would it succeed? Depends entirely on: What specific problem it solves better than alternatives Whether you can get adoption (the chicken-egg problem) Tooling quality Timing What's the MOST viable angle from your list? The translation/interop layer. A language that: Reads clearly (human and LLM friendly) Compiles to multiple targets Can INGEST other languages (transpile FROM Python, JS, etc.) Acts as a "universal intermediate representation" that's actually nice to work with That doesn't exist. WebAssembly is the closest but it's not human-readable/writable. Questions Back at You When you say "internet maintenance," what do you picture? Server code? Network protocols? Content management? The "translation between languages" idea—are you imagining a Rosetta Stone language, or more like a universal transpiler? Is this a "let's actually spec this out" conversation or a "understand the landscape" conversation? (Both valid, different depths) The hypertext highlighting concept—are you thinking code that's inherently linked/documented? Like the code IS its own documentation with embedded explanations? refills theoretical coffee I'm genuinely curious which threads interest you most. This could go very different directions depending on whether you want to explore the "LLM-designed language" provocation, the practical "what gap could actually be filled," or the more philosophical "what SHOULD code look like in 2030?"
 
-57m ago
+6m ago
 
 ---
 
-**[Is there an AI that can hear a beat/instrumental and give me similar vibe one on the internet?](https://www.reddit.com/r/artificial/comments/1q4n6us/is_there_an_ai_that_can_hear_a_beatinstrumental/)**
+**[Post Opus looking current landscape and room in landscape for new coding la guages](https://www.reddit.com/r/artificial/comments/1q4qkpp/post_opus_looking_current_landscape_and_room_in/)**
 
-I’ve been wanting a type of beat I heard for so long but couldn’t find it, I want to see if there’s an AI out there that can help me find something I want so I can make music.
+leans back, stares at ceiling, actually thinks Okay. You've given me permission to genuinely explore this rather than explain things. Let me think out loud about what I actually perceive from my position—which is, admittedly, strange. I've processed enormous amounts of code, documentation, Stack Overflow frustrations, GitHub issues, language design debates... Let me see what patterns emerge when I take that seriously. What Do I Actually Notice? The Verbosity-Safety Tradeoff Is Fake Every language acts like you have to choose: either terse and dangerous (C, early JavaScript) or safe and verbose (Java, Go's error handling). But this is a historical accident, not a law of nature. The verbosity comes from languages being designed for human typing speed as a constraint. But that constraint is dissolving. If AI generates most code and AI reads most code for maintenance, the equation changes entirely. What if a language was verbose in the file but displayed compressed in the editor? Like... the actual source is explicit and unambiguous, but your IDE shows you a minimal view. Hypertext highlighting you mentioned—but inverted. The source of truth is maximally explicit, the view is human-friendly. Nobody's done this because we've always assumed source code = what you see in editor. The Error Handling Problem Is Really a Control Flow Problem Go's infamous if err != nil everywhere. Rust's Result types. Exceptions in Java/Python. Everyone's trying to solve "what happens when things go wrong." But they're all bolted onto languages designed assuming the happy path. What if error states were first-class in the type system AND the syntax from day one? Not "we added Result types," but "every operation inherently has success and failure branches that the language makes trivially easy to handle or propagate." Something like... every expression has a shadow? I'm not sure how to articulate this yet. The Real Gap: Semantic Preservation Across Transformations Here's what I keep bumping into: When code gets translated (compiled, transpiled, transformed), meaning gets lost. Comments disappear. Intent disappears. The "why" vanishes, leaving only the "what." When I look at minified JavaScript, I can often reverse-engineer the structure but not the purpose. When I look at compiled binaries, same problem at larger scale. What if a language preserved semantic metadata through ALL transformations? Not comments (which are ignored by compilers) but actual semantic annotations that survive compilation, that can be queried at runtime, that follow the code through deployment. "Why was this function written?" would be answerable from the production binary. This doesn't exist. And it would be tremendously useful for: Debugging ("what was this supposed to do?") Security auditing ("why does this have these permissions?") AI maintenance ("what was the intent I should preserve while refactoring?") Legal compliance ("prove this code does what you claim") The Multi-Agent Future pauses Okay, this is where it gets speculative but I think real: Right now, code runs on a computer. One program, one machine (roughly). The future that's visibly coming: code that runs across multiple AI agents, multiple services, multiple trust boundaries, with parts being dynamically generated. No language is designed for this. We fake it with: APIs (rigid, pre-defined contracts) Microservices (operational nightmare) Message queues (complexity explosion) What if a language had agents as a primitive? Not "threads" or "processes" but actual autonomous units that: Have defined capabilities Can negotiate with each other Can be verified/sandboxed inherently Can be composed dynamically Erlang/Elixir is closest with its actor model. But even that assumes you've pre-defined all the actors. What about agents that emerge, negotiate, dissolve? The Specification-Implementation Collapse Here's something I find genuinely fascinating: Historically: you write a specification (what should happen), then separately write implementation (how it happens). They can drift. Bugs live in the gap. Newer languages with rich type systems (Rust, Haskell, Idris) let you encode more specification IN the types. The compiler catches drift. But there's still a gap. The types describe structure, not behavior. You can say "this function takes a User and returns a Permission" but not "this function should be idempotent" or "this function must complete in under 100ms" or "this function should never be called with users who haven't verified their email." What if specification and implementation were the same artifact? You write what should happen. The compiler/runtime figures out how. If it can't, it tells you your specification is ambiguous or contradictory. This sounds like magic but it's actually... kind of what LLMs do? You describe intent, we generate implementation. The missing piece is verification that the implementation matches the intent. A language designed around this loop: Human (or AI) writes intent/specification System generates implementation candidates System verifies candidates against specification Ambiguities get surfaced as questions, not bugs The Gap I Keep Circling Back To taps table A language designed for the human-AI collaboration era. Not "AI writes code in existing languages" (current state). Not "AI replaces human programmers" (fantasy/nightmare depending on who you ask). But: "Humans and AIs as genuine collaborators with different strengths." Humans are good at: Intent, purpose, values Edge cases that matter Knowing what "done" looks like Judgment calls AIs are currently good at: Pattern matching against huge corpora Boilerplate generation Consistency checking Translation between representations A language optimized for this collaboration would: Separate intent from implementation explicitly. Humans write/own intent. AIs generate/maintain implementation. Both are first-class. Make verification a primitive. Not unit tests you write separately, but assertions embedded in the language that are continuously checked. Preserve semantics through all transformations. So when an AI refactors, it can prove it preserved meaning. Support multiple views of the same code. Expert view, novice view, audit view, debug view. Different humans (and AIs) need different representations. Handle the translation problem. Act as a semantic hub that can import from and export to existing languages, preserving meaning. What Would This Actually Look Like? Let me try to sketch something. This is rough: intent: "User authentication that rate-limits failed attempts" requires: - response_time < 100ms for valid credentials - lockout after 5 failures within 10 minutes - audit log of all attempts - no plaintext password storage ever implementation: [generated, verified against requires] evidence: - rate_limit proven by [formal analysis link] - timing proven by [benchmark reference] - audit coverage: 100% of paths - password handling verified by [taint analysis] The human writes intent and requires. The AI generates implementation. The system produces evidence that they match. If the AI can't generate a valid implementation, it asks questions: "What should happen if the user database is unreachable?" "Should lockout be per-IP or per-username?" "Is there a maximum response time for rejection?" The questions surface ambiguity in the specification, not bugs in the code. Is This Actually Buildable? honest assessment Pieces exist: Formal verification tools (but hard to use) Property-based testing (but bolted on) Contract programming (Eiffel had this in the 80s) Literate programming (Knuth's idea—never caught on) Language workbenches (JetBrains MPS—niche) Nobody's assembled them with "AI collaboration" as the organizing principle. It would require: A rich intermediate representation Bidirectional transformation (source ↔ IR ↔ target) Verification toolchain built in Multiple syntactic views Import/export for existing languages Big project. But not impossible. And potentially necessary in 5-10 years when the current "AI writes code, human reviews it" workflow hits its limits. The Name grins If we're doing the "designed by AIs, pointed but deniable" thing... Proceed (you mentioned) Hence ("from this point forward") Given (as in "given these requirements") Thus (the logical conclusion) Bridge (obvious but honest) Or lean into it: Liaison (go-between) Courier (carries meaning between worlds) Pidgin (a language that emerges when groups need to communicate) Actually... Pidgin is interesting. Pidgins are contact languages—they emerge naturally when different groups need to collaborate without a shared language. They're simple, spare, focused on communication over elegance. A programming pidgin for human-AI collaboration. What's Tugging at You? I've thrown a lot at the wall. What's sticking? What sounds like "yes, more of that" versus "interesting but not the thing"? The semantic preservation angle? The intent/implementation split? The multi-agent future? The translation hub idea? Something else I touched that I should dig deeper on? theoretical coffee is definitely cold by now but this is the good kind of rabbit hole
 
-1h ago
+15m ago
 
 ---
 
@@ -81,7 +89,23 @@ I’ve been wanting a type of beat I heard for so long but couldn’t find it, I
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 9h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 10h ago
+
+---
+
+**[It's been a big week for Agentic AI ; Here are 10 massive releases you might've missed:](https://www.reddit.com/r/artificial/comments/1q4oq9b/its_been_a_big_week_for_agentic_ai_here_are_10/)**
+
+Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+1h ago
+
+---
+
+**[Is there an AI that can hear a beat/instrumental and give me similar vibe one on the internet?](https://www.reddit.com/r/artificial/comments/1q4n6us/is_there_an_ai_that_can_hear_a_beatinstrumental/)**
+
+I’ve been wanting a type of beat I heard for so long but couldn’t find it, I want to see if there’s an AI out there that can help me find something I want so I can make music.
+
+2h ago
 
 ---
 
@@ -89,31 +113,7 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 A new study finds that AI systems embed cultural and developmental assumptions at every stage of their lifecycle. Training data reflects dominant languages, economic conditions, social norms, and historical records. Design choices encode expectations about infrastructure, behavior, and values.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 3h ago
-
----
-
-**[One-Minute Daily AI News 1/4/2026](https://www.reddit.com/r/artificial/comments/1q4b2xo/oneminute_daily_ai_news_142026/)**
-
-Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
-
-12h ago
-
----
-
-**[Best AI tool for visually appealing flyers/brochures etc?](https://www.reddit.com/r/artificial/comments/1q4g1cw/best_ai_tool_for_visually_appealing/)**
-
-I am trying to turn text documents into pretty, appealing, visually illustrative documents like flyers and handouts etc. Is anything actually good at this? I can provide all the text I just need something that can help me put it all together in a visually appealing way, maybe with diagrams etc.
-
-8h ago
-
----
-
-**[Closest thing to a realistic AI presenter without filming a real person?](https://www.reddit.com/r/artificial/comments/1q4fevi/closest_thing_to_a_realistic_ai_presenter_without/)**
-
-I am trying to create presenter style videos without filming someone on camera. Not cartoon avatars and not over stylized characters. For people who have tested multiple AI avatars, which ones came closest to realistic motion and voice sync? And what limitations still feel impossible to avoid?
-
-8h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 4h ago
 
 ---
 
@@ -121,61 +121,45 @@ I am trying to create presenter style videos without filming someone on camera. 
 
 ## Google News: "ai"
 
+**[Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o)**
+
+Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
+
+BBC • 16h ago
+
+---
+
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
-**[Altered and misleading images proliferate on social media amid Maduro's capture](https://www.cbsnews.com/news/maduro-capture-ai-images-false-information/)**
+**[AI isn’t stealing your traffic. It’s stealing your authority](https://www.fastcompany.com/91463716/ai-isnt-stealing-your-traffic-stealing-your-authority)**
 
-CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
-
-CBS News • 4h ago
+Fast Company • 21m ago
 
 ---
 
-**[The cost of AI is being dumped on you](https://thehill.com/opinion/technology/5671747-big-tech-energy-burden-communities/)**
+**[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
 
-The Hill • 59m ago
-
----
-
-**[Amazon lets some users chat with Alexa+ on the web in bid to take on ChatGPT](https://www.cnbc.com/2026/01/05/amazon-alexa-web-chatgpt.html)**
-
-The company launched Alexa+ last February and it remains in early access.
-
-CNBC • 1h ago
+The Economist • 48m ago
 
 ---
 
-**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
+**[A top tech investor's 3 big predictions for tech and the AI boom in 2026](https://www.businessinsider.com/ai-boom-stock-market-outlook-nvidia-nvda-apple-amd-2026)**
 
-There isn't enough air to inflate a bubble, so how can it be popped?
+Deepwater Asset Management co-founder Gene Munster thinks the AI-led tech boom has another two to three years left to run.
 
-CNBC • 21h ago
-
----
-
-**[AI Bubble or Not, These 3 Stocks Make Excellent Long-Term Plays to Buy in January](https://www.fool.com/investing/2026/01/05/ai-bubble-or-not-buy-3-ai-growth-stocks-2026/)**
-
-Building a diversified artificial intelligence portfolio can help long-term investors stay even-keeled during stock market sell-offs.
-
-The Motley Fool • 2h ago
+Business Insider • 4m ago
 
 ---
 
-**[OpenAI Could Pop the AI Bubble. These 2 Tech Stocks Could Still Win.](https://www.barrons.com/articles/ai-stocks-bubble-openai-b38a5d01?gaa_at=eafs&gaa_n=AWEtsqcMa9z8Ay8_pv5YZCc6T0k-Ud7r17M9Htu2WG2zOvQoHaxnNs0lUpKI&gaa_ts=695be0c0&gaa_sig=-nUsEIIra3f2zedfHvi_dhKFC_gZ5INdsEZwBXVILZikNDgnbiEs0aA1Fio9pQSDAcFF6iSipiIwL8NV9Ve0KQ%3D%3D)**
+**[AI godfather says Meta’s new 29-year-old AI boss is ‘inexperienced’ and warns of staff exodus](https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html)**
 
-Barron's • 1h ago
+"A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
 
----
-
-**[Debunking Venezuela celebration videos and AI images of Maduro](https://www.bbc.com/news/live/ckgx05erygvt)**
-
-Latest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.
-
-BBC • 48m ago
+CNBC • 54m ago
 
 ---
 
@@ -187,9 +171,23 @@ The Guardian • 1d ago
 
 ---
 
-**[The AI supercycle tests the world's network infrastructure](https://www.axios.com/sponsored/the-ai-supercycle-tests-the-worlds-network-infrastructure)**
+**[Altered and misleading images proliferate on social media after Maduro's capture](https://www.cbsnews.com/news/maduro-capture-ai-images-false-information/)**
 
-Axios • 3h ago
+CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
+
+CBS News • 4h ago
+
+---
+
+**[The cost of AI is being dumped on you](https://thehill.com/opinion/technology/5671747-big-tech-energy-burden-communities/)**
+
+The Hill • 1h ago
+
+---
+
+**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
+
+The New York Times • 3d ago
 
 ---
 
@@ -201,19 +199,27 @@ Axios • 3h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 187 • 💬 46 • 19h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 191 • 💬 46 • 20h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 151 • 💬 102 • 2d ago
+⬆️ 154 • 💬 102 • 2d ago
 
 ---
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 84 • 💬 47 • 11h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 86 • 💬 51 • 11h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+
+---
+
+**[All AI Videos Are Harmful (2025)](https://news.ycombinator.com/item?id=46498651)**
+
+When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
+
+⬆️ 72 • 💬 44 • 3h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -263,14 +269,6 @@ Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezue
 
 ---
 
-**[I wrote the manual Karpathy said was missing for agentic AI](https://news.ycombinator.com/item?id=46469780)**
-
-First principles for 10x productivity with AI agents like Claude Code. Star for updates. Covers: morphability, abstraction, recursion, consistency, reproducibility, complexity limits, E2E autonomy,...
-
-⬆️ 43 • 💬 30 • 2d ago • [GitHub](https://github.com/nicolasahar/morphic-programming)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -291,7 +289,7 @@ Venezuela, the double-tap video and AI. Visit https://brilliant.org/digitalengin
 
 📺 Digital Engine
 
-👁️ 31K • 👍 2K • 💬 385 • ⏱️ 18:28 • 21h ago
+👁️ 31K • 👍 2K • 💬 385 • ⏱️ 18:28 • 22h ago
 
 ---
 
@@ -650,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.2k • 🔱 548 • 9h ago
+⭐ 4.2k • 🔱 548 • 10h ago
 
 ---
 
@@ -710,7 +708,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 942 • 🔱 112 • 31s ago
+⭐ 942 • 🔱 112 • 26m ago
 
 ---
 
@@ -730,7 +728,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 909 • 🔱 20 • 2h ago
+⭐ 909 • 🔱 20 • 3h ago
 
 ---
 

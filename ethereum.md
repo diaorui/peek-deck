@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T16:29:02.914487+00:00'
+updated: '2026-01-05T16:54:40.788278+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 16:29 UTC  
+**Last Updated:** January 05, 2026 at 16:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,183.05
+### $3,193.69
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +7.4%  
-**30d:** +4.3%  
-**90d:** -29.4%  
-**1y:** -13.3%  
+**24h:** +1.5%  
+**7d:** +7.2%  
+**30d:** +4.1%  
+**90d:** -29.6%  
+**1y:** -13.5%  
 
 ---
 
@@ -81,6 +81,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
 🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 6h ago
+
+---
+
+**[why doesn't ethereum scaling for games get more attention, the ux problems are massive](https://www.reddit.com/r/ethereum/comments/1q4qi9z/why_doesnt_ethereum_scaling_for_games_get_more/)**
+
+Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
+
+18m ago
 
 ---
 
@@ -140,14 +148,6 @@ TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, ha
 
 ---
 
-**[ETH from 2017](https://www.reddit.com/r/ethereum/comments/1q1zqhm/eth_from_2017/)**
-
-So , I bought my first ETH back in 2017, in person, at La Maison du Bitcoin in Paris ( for those who know it ) I paid in cash, the guy transferred it directly to my Jaxx wallet at the time, then I moved it to my Ledger My question is : Are these ETH completely invisible to anyone ? Especially governments/tax authorities, etc ? They haven’t moved from my Ledger since 2017, and since I bought them in a shop totally anonymously with cash, I figure this purchase is “ invisible “ Thanks to anyone who can answer 😁 ( Translated from French to English by Grok )
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,15 +164,23 @@ Yahoo Finance • 1d ago
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Vitalik Buterin Claims Ethereum has Solved the Blockchain Trilemma Problem](https://beincrypto.com/ethereum-solves-blockchain-trilemma-issue/)**
+**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/?utm_source=flipboard&utm_content=fortune%2Fmagazine%2FPersonal+finance)**
 
-Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
+Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
-BeInCrypto • 1d ago
+Fortune • 4h ago
+
+---
+
+**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://finance.yahoo.com/news/tom-lee-predicts-250k-ethereum-155617532.html)**
+
+BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
+
+Yahoo Finance • 58m ago
 
 ---
 
@@ -180,7 +188,7 @@ BeInCrypto • 1d ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
@@ -190,21 +198,7 @@ CCN.com • 2h ago
 
 ---
 
-**[Ethereum: The Accumulation Addresses Catalyst (Cryptocurrency: ETH-USD)](https://seekingalpha.com/article/4857134-ethereum-the-accumulation-addresses-catalyst)**
-
-Ethereum is in an accumulation phase, with supply shifting to long-term holders, supporting a bullish medium- to long-term thesis. Read why I rate the ETH-USD stock a Buy.
-
-Seeking Alpha • 4h ago
-
----
-
-**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqebAXgyeQGQ_tt3z-oXKGi3UhoYlfav0sPFyKlrcvwfLJ5ze4NARbEI&gaa_ts=695be0c4&gaa_sig=NP9-lOymd2A2Utdt6aFePkQ44Yb5rwfsq5PCtcWZzAjh1RhGnNYFcaBxMiZ6YtIeDMRWcARoDUEnmlHnRvjjYg%3D%3D)**
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqfo26OzHRoPNnLaw4dbBurwyWXkn6Ab84e6JN9HJ9PPR7qAy9vS_PD0&gaa_ts=695bf03c&gaa_sig=6O3CPTOUifbForNd3iKasK5MOJeYfAJXSgb3BUXLv2HAdhI0upLRbDELuF0OouM2URv1QLIflPGAxwnO9i7n5g%3D%3D)**
 
 Barron's • 3d ago
 
@@ -214,7 +208,7 @@ Barron's • 3d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extended their rallies on Monday, gaining more than 4%, 6%, and 12%, respectively, in the previous week. The top three cryptocurrencies by market capitalization could continue to outperform, with bulls in control of the momentum.
 
-FXStreet • 12h ago
+FXStreet • 13h ago
 
 ---
 
@@ -223,6 +217,14 @@ FXStreet • 12h ago
 Ethereum sees a surge in new investors following the Fusaka launch, with rising adoption pushing ETH closer to a key technical breakout.
 
 BeInCrypto • 17h ago
+
+---
+
+**[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
+
+Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
+
+GlobeNewswire • 3h ago
 
 ---
 
@@ -276,7 +278,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 446 • 💬 24 • ⏱️ 13:59 • 4h ago
+👁️ 5K • 👍 446 • 💬 24 • ⏱️ 13:59 • 5h ago
 
 ---
 
