@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T10:52:38.273644+00:00'
+updated: '2026-01-05T11:20:38.518761+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 10:52 UTC  
+**Last Updated:** January 05, 2026 at 11:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -147,7 +147,7 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 The rally in crypto was mirrored by a surge in commodities and Asian equities, driven by AI-led momentum and geopolitical developments.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -155,7 +155,7 @@ CoinDesk • 5h ago
 
 The removal of Maduro will likely lower oil prices.  This will see more capital flow into crypto and other assets in 2026, analysts say.  Bitcoin decisively jumps back above $90,000 after the US captured Venezuela’s president.
 
-dlnews.com • 23m ago
+dlnews.com • 51m ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 1h ago
 
 BOJ's Ueda vows to keep raising rates. Japan's 10-year yield hits 1999 high. Bitcoin braces for carry trade unwind risks.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 2d ago
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -281,7 +281,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 11h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 12h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -309,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 40K • 👍 2K • 💬 617 • ⏱️ 10:50 • 10h ago
+👁️ 40K • 👍 2K • 💬 617 • ⏱️ 10:50 • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 31K • 👍 2K • 💬 139 • ⏱️ 19:12 • 7h ago
+👁️ 31K • 👍 2K • 💬 139 • ⏱️ 19:12 • 8h ago
 
 ---
 
@@ -339,7 +339,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 292 • ⏱️ 23:12 • 11h ago
+👁️ 28K • 👍 2K • 💬 292 • ⏱️ 23:12 • 12h ago
 
 ---
 
@@ -389,7 +389,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 55K • 👍 2K • 💬 944 • ⏱️ 54:37 • 20h ago
+👁️ 55K • 👍 2K • 💬 944 • ⏱️ 54:37 • 21h ago
 
 ---
 
@@ -399,7 +399,7 @@ Crypto News: Bitcoin hits $93000 again and Altcoins are on the move. Bitcoin and
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 438 • 💬 89 • ⏱️ 17:38 • 7h ago
+👁️ 4K • 👍 438 • 💬 89 • ⏱️ 17:38 • 8h ago
 
 ---
 

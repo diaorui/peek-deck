@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T10:52:38.283087+00:00'
+updated: '2026-01-05T11:20:38.527963+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 10:52 UTC  
+**Last Updated:** January 05, 2026 at 11:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-12h ago
+13h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 Ships are unloaded remotely by human operators using remote connections, with no one physically sitting in the cranes. Once containers touch the ground, autonomous vehicles (can we call them robots????) take over, moving them across the terminal to trucks and storage areas without human drivers, essentially like AGVs. High-bandwidth, low-latency networking enables remote control where full autonomy is still hard, while structured environments allow driverless transport to run reliably at scale. Humans stay in control of exceptions, machines handle the repetition. Fewer people in hazardous zones, and tighter coordination between machines. Source: https://x.com/lukas_m_ziegler/status/2008111248227885085
 
-18m ago
+46m ago
 
 ---
 
@@ -68,7 +68,7 @@ Ships are unloaded remotely by human operators using remote connections, with no
 
 10K+ hrs, 1M+ clips, 30+ skills, 3,000+ real households: https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData Website: https://www.genrobot.ai/ From Genrobot.AI on 𝕏: https://x.com/GenrobotAI/status/2007869235113148503
 
-48m ago
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-19h ago
+20h ago
 
 ---
 
@@ -108,7 +108,7 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
 
-14h ago
+15h ago
 
 ---
 
@@ -120,7 +120,7 @@ Okk so i am using raspberry pi 4 for this and I know i wired everything correctl
 
 /PRNewswire/ -- Today at CES 2026, Zeroth Robotics emerged from stealth with its official U.S. launch and a lineup of five interactive AI robots designed for...
 
-PR Newswire • 20h ago
+PR Newswire • 21h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Robot Report • 1d ago
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -168,7 +168,7 @@ Inspenet • 1d ago
 
 Japanese startup Ludens AI is showing off two extremely adorable robot companions at CES 2026: Cocomo and Inu.
 
-Engadget • 8h ago
+Engadget • 9h ago
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 2d ago
 
 We are GigaBite Robotics, FIRST Tech Challenge (FTC) Team 20681, a community-based robotics team of 11 middle and high school students from South Lake Tahoe, and we are asking for the community’s support through donations to help us continue...
 
-Tahoe Daily Tribune • 14h ago
+Tahoe Daily Tribune • 15h ago
 
 ---
 
