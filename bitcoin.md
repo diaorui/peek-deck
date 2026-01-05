@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T05:10:08.568409+00:00'
+updated: '2026-01-05T05:57:03.169448+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 05:10 UTC  
+**Last Updated:** January 05, 2026 at 05:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-3h ago
+4h ago
 
 ---
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-9h ago
+10h ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -103,19 +103,19 @@ Rank #1
 
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-10h ago
+11h ago
 
 ---
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -131,7 +131,7 @@ On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the 
 
 Is it worth investing at this point or much too late and not enough money to be made. Edit: thanks to everyone for all the input. Is BTC the best Crypto to invest in?
 
-4h ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ I am no expert in economics but this clearly points towards just one direction -
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-dlnews.com • 18h ago
+dlnews.com • 19h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 2d ago
 
 What comes next for digital gold?
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Motley Fool • 12h ago
 
 Business tycoon Michael Saylor is signaling that MicroStrategy (MSTR) may be gearing up for its first Bitcoin acquisition of 2026.He boasted about the firm’s massive portfolio performance amid the market's recent recovery earlier today.In a post on X (formerly Twitter), the executive chairman share…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -197,7 +197,7 @@ AMBCrypto • 21h ago
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 13h ago
+Forbes • 14h ago
 
 ---
 
@@ -281,7 +281,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 5h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 6h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -319,7 +319,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 155 • ⏱️ 8:15 • 12h ago
+👁️ 28K • 👍 1K • 💬 155 • ⏱️ 8:15 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any B
 
 📺 Austin Hilton
 
-👁️ 2K • 👍 178 • 💬 6 • ⏱️ 9:06 • 7h ago
+👁️ 2K • 👍 178 • 💬 6 • ⏱️ 9:06 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 4K • 👍 440 • 💬 179 • ⏱️ 27:00 • 3h ago
+👁️ 4K • 👍 440 • 💬 179 • ⏱️ 27:00 • 4h ago
 
 ---
 
