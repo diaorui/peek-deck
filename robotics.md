@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T17:24:03.551606+00:00'
+updated: '2026-01-05T17:46:58.992216+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 17:24 UTC  
+**Last Updated:** January 05, 2026 at 17:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-15h ago
+16h ago
 
 ---
 
@@ -98,7 +98,7 @@ I designed and built this robot arm completely from scratch as a hands on learni
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-18h ago
+19h ago
 
 ---
 
@@ -164,7 +164,7 @@ Inspenet • 1d ago
 
 While it's not ready to join the workforce yet, Atlas, an AI-powered humanoid, is learning how to do human tasks.
 
-CBS News • 16h ago
+CBS News • 17h ago
 
 ---
 
@@ -212,7 +212,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 6K • 👍 87 • 💬 3 • ⏱️ 7:38 • 21h ago
+👁️ 6K • 👍 87 • 💬 3 • ⏱️ 7:38 • 22h ago
 
 ---
 
@@ -222,7 +222,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 79K • 👍 2K • 💬 259 • ⏱️ 5:49 • 16h ago
+👁️ 79K • 👍 2K • 💬 259 • ⏱️ 5:49 • 17h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T17:24:03.542052+00:00'
+updated: '2026-01-05T17:46:58.983014+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 17:24 UTC  
+**Last Updated:** January 05, 2026 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 5h ago
 
 ---
 
@@ -125,13 +125,13 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 For the past five years, I’ve been buying $10 of Bitcoin every single day. No timing the market. No chasing pumps. Just consistency. I don’t check the price much anymore. When it goes up, I keep buying. When it crashes, I keep buying. No fear. No regret.
 
-10h ago
+11h ago
 
 ---
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -177,13 +177,13 @@ Forbes • 1d ago
 
 The cryptoasset is on its longest winning streak since October....
 
-Sherwood News • 3h ago
+Sherwood News • 4h ago
 
 ---
 
 **['Bitcoin Mania' Is Over, Slams Critic, Claims Gold and Silver Entering ‘Biggest Bull Market in History’](https://www.ccn.com/news/crypto/gold-silver-entering-biggest-bull-market-economist-bitcoin-mania-over/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -327,7 +327,7 @@ CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying o
 
 📺 CNBC Television
 
-👁️ 4K • 👍 49 • 💬 32 • ⏱️ 2:48 • 5h ago
+👁️ 4K • 👍 49 • 💬 32 • ⏱️ 2:48 • 6h ago
 
 ---
 
@@ -337,7 +337,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 198 • 💬 120 • ⏱️ 14:43 • 11h ago
+👁️ 4K • 👍 198 • 💬 120 • ⏱️ 14:43 • 12h ago
 
 ---
 
@@ -357,7 +357,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 362 • 👍 39 • 💬 33 • ⏱️ 18:35 • 2h ago
+👁️ 362 • 👍 39 • 💬 33 • ⏱️ 18:35 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ The Bitcoin bull run of 2026 is officially here. With the "Absolute Resolve" ope
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 301 • 2h ago
+👁️ 2K • 👍 301 • 3h ago
 
 ---
 
