@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T07:29:57.446794+00:00'
+updated: '2026-01-05T07:51:22.732486+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 07:29 UTC  
+**Last Updated:** January 05, 2026 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
+**24h:** +1.5%  
 **7d:** +5.0%  
 **30d:** +2.7%  
 **90d:** -24.8%  
@@ -79,13 +79,7 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-5h ago
-
----
-
-**[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
-
-12h ago
+6h ago
 
 ---
 
@@ -101,7 +95,7 @@ Rank #1
 
 ---
 
-**[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
+**[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
 12h ago
 
@@ -115,6 +109,12 @@ Rank #1
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
+13h ago
+
+---
+
+**[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
+
 12h ago
 
 ---
@@ -123,7 +123,7 @@ Rank #1
 
 Very strong resistance at $93-94K If we break these level this week, final bull run will be loading for sure 👁️‍🗨️
 
-2h ago
+3h ago
 
 ---
 
@@ -135,11 +135,11 @@ Is it worth investing at this point or much too late and not enough money to be 
 
 ---
 
-**[🎂 Bitcoin celebrates its 17th birthday](https://www.reddit.com/r/Bitcoin/comments/1q3ztwh/bitcoin_celebrates_its_17th_birthday/)**
+**[Bitcoin Supply < Bitcoin Demand](https://www.reddit.com/r/Bitcoin/comments/1q4bhcu/bitcoin_supply_bitcoin_demand/)**
 
-On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the first cryptocurrency. Satoshi Nakamoto left a clear message: "Chancellor on brink of second bailout for banks," a direct criticism of bank bailouts after the 2008 crisis. At the time, the reward was 50 $BTC, which was worthless. Today, #Bitcoin is trading at around $90,000 and is one of the world's eight largest assets. From an experiment to a global asset.
+I am no expert in economics but this clearly points towards just one direction - $125,000 $BTC baby...
 
-11h ago
+3h ago
 
 ---
 
@@ -147,11 +147,11 @@ On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the 
 
 ## Google News: "bitcoin"
 
-**[US Strike on Venezuela Puts Bitcoin in Focus as Oil Slides](https://finance.yahoo.com/news/us-strike-venezuela-puts-bitcoin-031821515.html)**
+**[Bitcoin price: hits $93,000, ether tops $3,000 as Venezuela president Maduro in U.S. custody](https://www.coindesk.com/markets/2026/01/05/crypto-markets-continue-new-year-run-as-bitcoin-briefly-hits-usd93k-ether-rallies)**
 
-The U.S. capture of Venezuela’s President Nicolás Maduro sent oil to four-year lows, while crypto markets have held steady.
+The rally in crypto was mirrored by a surge in commodities and Asian equities, driven by AI-led momentum and geopolitical developments.
 
-Yahoo Finance • 3h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -183,15 +183,7 @@ CNBC • 2d ago
 
 What comes next for digital gold?
 
-The Motley Fool • 14h ago
-
----
-
-**[Michael Saylor’s Strategy flirts again with the danger threshold at which his company is worth less than his Bitcoin](https://fortune.com/2026/01/02/michael-saylor-strategy-mnav-bitcoin/)**
-
-Why hold a stock that is worth less than the underlying asset it represents?
-
-Fortune • 2d ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -211,17 +203,25 @@ TradingView — Track All Markets • 12h ago
 
 ---
 
+**[Bitcoin news: MSTR’s Q4 losses revive flash-crash fears for BTC](https://ambcrypto.com/bitcoin-news-mstrs-q4-losses-revive-flash-crash-fears-for-btc/)**
+
+MSTR’s losses mount: Could another flash crash be on the horizon?
+
+AMBCrypto • 23h ago
+
+---
+
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
 Forbes • 16h ago
 
 ---
 
-**[Optimism Returns With US Institutions as Bitcoin Reclaims $91K](https://beincrypto.com/optimism-returns-us-institutions-91k/)**
+**[Bitcoin faces a violent repricing Monday if this specific supply-chain metric proves the bond market right](https://cryptoslate.com/bitcoin-faces-a-violent-repricing-monday-if-this-specific-supply-chain-metric-proves-the-bond-market-right/)**
 
-Bitcoin hits $91K as Coinbase Premium recovers, signaling US institutional buyers are returning after December's selling pressure.
+A quick guide to the Jan. 5 PMI print: which sub-indexes matter, what “hot costs” mean for yields, and how that transmission reaches BTC fast.
 
-BeInCrypto • 4h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 1K • 💬 159 • ⏱️ 8:15 • 14h ago
+👁️ 32K • 👍 1K • 💬 159 • ⏱️ 8:15 • 15h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any B
 
 📺 Austin Hilton
 
-👁️ 3K • 👍 194 • 💬 6 • ⏱️ 9:06 • 9h ago
+👁️ 3K • 👍 194 • 💬 6 • ⏱️ 9:06 • 10h ago
 
 ---
 
@@ -383,7 +383,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 9K • 👍 698 • 💬 247 • ⏱️ 27:00 • 5h ago
+👁️ 9K • 👍 698 • 💬 247 • ⏱️ 27:00 • 6h ago
 
 ---
 

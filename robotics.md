@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T07:29:57.456495+00:00'
+updated: '2026-01-05T07:51:22.741876+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 07:29 UTC  
+**Last Updated:** January 05, 2026 at 07:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-17h ago
+18h ago
 
 ---
 
@@ -52,7 +52,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-21h ago
+22h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-12h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-8h ago
+9h ago
 
 ---
 
@@ -96,17 +96,17 @@ Okk so i am using raspberry pi 4 for this and I know i wired everything correctl
 
 ---
 
-**[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
+**[Contact Sensor Test](https://www.reddit.com/r/robotics/comments/1q4fajy/contact_sensor_test/)**
 
-16h ago
+The contact sensor gives you pretty rich info: how many contacts there are, where they happen, the normal/tangent directions, and the force magnitude along each axis.
+
+26m ago
 
 ---
 
-**[Object tracker !](https://www.reddit.com/r/robotics/comments/1q4bnek/object_tracker/)**
+**[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
 
-I made an 6 dof robot and I want to integrate a camera with YOLO or OpenCV so the robot can see a red ball and move towards it, any ideas or resources??? The robot is currently powdered by an Arduino mega
-
-3h ago
+16h ago
 
 ---
 
@@ -114,19 +114,35 @@ I made an 6 dof robot and I want to integrate a camera with YOLO or OpenCV so th
 
 ## Google News: "robotics"
 
-**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
+**[Robots learn 1,000 tasks in one day from a single demo](https://www.foxnews.com/tech/robots-learn-1000-tasks-one-day-from-single-demo)**
 
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-CBS News • 6h ago
+Fox News • 20h ago
 
 ---
 
-**[How Boston Dynamics upgraded the Atlas robot — and what's next](https://www.cbsnews.com/news/how-boston-dynamics-upgraded-atlas-robot-and-whats-next-60-minutes/)**
+**[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-01-04/)**
 
-Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 6h ago
+CBS News • 7h ago
+
+---
+
+**[Humanoid robots are ready to do your housework in 2026 — and can be yours for $20,000](https://nypost.com/2026/01/03/us-news/humanoid-robots-are-ready-to-do-your-housework-in-2026/)**
+
+With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
+
+New York Post • 1d ago
+
+---
+
+**[Schaeffler and NEURA Robotics drive forward the industrialization of humanoid robots](https://inspenet.com/en/noticias/schaeffler-neura-team-up-humanoid-robots/)**
+
+Schaeffler and NEURA Robotics team up to scale humanoid robots and bring physical AI to industrial factories in Germany and around the world.
+
+Inspenet • 2d ago
 
 ---
 
@@ -138,59 +154,43 @@ Detroit Free Press • 1h ago
 
 ---
 
+**[Why ambient robots beat humanoid robots](https://www.computerworld.com/article/4112412/why-ambient-robots-beat-humanoid-robots.html)**
+
+Forget about robots that look like they're straight out of science fiction. ‘Unobtrusive physical AI,’ as the technology is called, could wind up being more pervasive in the real world.
+
+Computerworld • 47m ago
+
+---
+
+**[Science fiction could become reality in 2026: Figure CEO predicts big for humanoids, eVTOLs](https://interestingengineering.com/ai-robotics/science-fiction-become-reality-in-2026)**
+
+Figure CEO Brett Adcock predicts 2026 breakthroughs in humanoid robots, eVTOL city flights, multimodal AI agents, and next-gen school security.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[China’s humanoid robot makers, Hong Kong start-ups set to dazzle CES 2026](https://www.scmp.com/tech/tech-trends/article/3338600/chinas-humanoid-robot-makers-hong-kong-start-ups-set-dazzle-ces-2026)**
+
+Nearly a dozen Chinese humanoid robot makers are expected at the trade show, while Hong Kong sends its largest-ever delegation.
+
+South China Morning Post • 4h ago
+
+---
+
+**[How Boston Dynamics upgraded the Atlas robot — and what's next](https://www.cbsnews.com/news/how-boston-dynamics-upgraded-atlas-robot-and-whats-next-60-minutes/)**
+
+Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
+
+CBS News • 7h ago
+
+---
+
 **[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
 The Robot Report • 1d ago
-
----
-
-**[Schaeffler brings robotics, energy and vehicle tech to CES 2026](https://seekingalpha.com/news/4536504-schaeffler-brings-robotics-energy-and-vehicle-tech-to-ces-2026)**
-
-Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
-
-Seeking Alpha • 8h ago
-
----
-
-**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
-
-FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
-
-Inspenet • 1d ago
-
----
-
-**[China’s ‘Silicon Valley’ is building robots and fortune-telling AI apps at the same time](https://www.cnbc.com/2026/01/02/hangzhou-liangzhu-china-ai-physical-robots-startups-manycore-nvidia-unitree-deep-silicon-valley.html)**
-
-Hangzhou’s AI ecosystem now spans everything from cutting-edge robotics to experimental apps built by solo founders.
-
-CNBC • 3d ago
-
----
-
-**[Spacebank to Unveil RoboViewX AI Robotics Control Platform at CES 2026](https://www.jsonline.com/press-release/story/136144/spacebank-to-unveil-roboviewx-ai-robotics-control-platform-at-ces-2026/)**
-
-RoboViewX delivers unified multi-robot control, real-time monitoring, and AI-powered automation, helping enterprises scale global robotics operations. CES is the global stage shows true technological competitiveness, We are excited to introduce RoboViewX to the world and look forward to forming meaningful partnerships with global industry leaders.” — Woney Lee, CEO of Spacebank SEOUL, SOUTH KOREA, January […]
-
-Milwaukee Journal Sentinel • 4h ago
-
----
-
-**[Robots learn 1,000 tasks in one day from a single demo](https://www.foxnews.com/tech/robots-learn-1000-tasks-one-day-from-single-demo)**
-
-Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
-
-Fox News • 20h ago
-
----
-
-**[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
-
-Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -204,7 +204,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 2K • 👍 37 • 💬 2 • ⏱️ 7:38 • 11h ago
+👁️ 2K • 👍 37 • 💬 2 • ⏱️ 7:38 • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 90K • 👍 2K • 💬 440 • ⏱️ 0:32 • 21h ago
+👁️ 90K • 👍 2K • 💬 440 • ⏱️ 0:32 • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 41K • 👍 1K • 💬 136 • ⏱️ 5:49 • 6h ago
+👁️ 41K • 👍 1K • 💬 136 • ⏱️ 5:49 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T07:29:57.438009+00:00'
+updated: '2026-01-05T07:51:22.723965+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 07:29 UTC  
+**Last Updated:** January 05, 2026 at 07:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Most people think AI is taking jobs. That is not what is happening.](https://www.reddit.com/r/artificial/comments/1q4fl6m/most_people_think_ai_is_taking_jobs_that_is_not/)**
+
+What is quietly disappearing is human agency. We are outsourcing decisions we used to struggle with. What to read. What to learn. What to think about. What matters. And we are calling it productivity. When algorithms choose for you, you still feel in control. That is the genius of it. Nothing is forced. Nothing is taken. You volunteer. Here is the uncomfortable truth no one wants to post. - Friction is not inefficiency. - Friction is where thinking is born. - The moment you remove the struggle from learning, curiosity dies. - The moment everything is summarized, nothing is understood. - The moment answers come instantly, questions stop forming. Look around. More tools than ever. Fewer original questions. More opinions. Less independent judgment. This is not a tech problem. It is a psychological shift. People are losing tolerance for not knowing. Silence feels wrong. Confusion feels like failure. Slow thinking feels unproductive. So we optimize it away. And with it, we optimize away the ability to originate thought. The scariest part is this. Oppression does not arrive as control anymore. It arrives as convenient. If you never decide what is worth thinking about, you are not free. You are just comfortable. Curious to hear this. Do you feel more empowered today, or more guided? Be honest.
+
+8m ago
+
+---
+
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reddit.com/r/artificial/comments/1q4e35c/aidriven_inflation_is_2026s_most_overlooked_risk/)**
 
 LONDON/NEW YORK - Global stock markets, riding high on AI euphoria at the start of 2026 may be disregarding one of the biggest threats that could spoil the party: a surge in inflation driven partly by the tech investment boom. U.S. stock indexes, where seven tech groups contributed half of all market earnings this year, made double-digit gains in 2025 to hit record highs as exuberance about AI and monetary easing also propelled European (.STOXX) and Asian equities to record peaks. Expectations for further rate cuts have buoyed bonds too, handing U.S. Treasury investors the best annual performance for five years as inflation retreated, although it remains above the Federal Reserve's average 2% target. For 2026, waves of government stimulus in the U.S., Europe and Japan as well as the AI boom are expected to refuel global growth. This has money managers bracing for inflation to re-accelerate, prompting central banks to end their rate-cutting cycles, slamming the brakes on the easy money flow into AI-obsessed markets. Tighter money would reduce investors' appetite for speculative tech, raise funding costs for AI projects and reduce tech groups' profits and share prices, Greetham said. "You need a pin that pricks the bubble and it will probably come through tighter money," said Trevor Greetham, head of multi-asset at Royal London Asset Management. He said that while he was holding on to big tech stocks for now he would not be surprised to see inflation booming worldwide by the end of 2026.
@@ -45,11 +53,19 @@ LONDON/NEW YORK - Global stock markets, riding high on AI euphoria at the start 
 
 ---
 
+**[Samsung puts Gemini AI in your fridge because apparently that’s necessary](https://www.reddit.com/r/artificial/comments/1q4erc8/samsung_puts_gemini_ai_in_your_fridge_because/)**
+
+The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
+
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 58m ago
+
+---
+
 **[One-Minute Daily AI News 1/4/2026](https://www.reddit.com/r/artificial/comments/1q4b2xo/oneminute_daily_ai_news_142026/)**
 
 Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
 
-3h ago
+4h ago
 
 ---
 
@@ -57,7 +73,7 @@ Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-18h ago
+19h ago
 
 ---
 
@@ -81,7 +97,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-13h ago
+14h ago
 
 ---
 
@@ -98,22 +114,6 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 1d ago
-
----
-
-**[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
-
-I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
-
-2d ago
-
----
-
-**[Humans still matter - From ‘AI will take my job’ to ‘AI is limited’: Hacker News’ reality check on AI](https://www.reddit.com/r/artificial/comments/1q2xn0j/humans_still_matter_from_ai_will_take_my_job_to/)**
-
-Hey everyone, I just sent the 14th issue of my weekly newsletter, Hacker News x AI newsletter, a roundup of the best AI links and the discussions around them from HN. Here are some of the links shared in this issue: The future of software development is software developers - HN link AI is forcing us to write good code - HN link The rise of industrial software - HN link Prompting People - HN link Karpathy on Programming: “I've never felt this much behind” - HN link If you enjoy such content, you can subscribe to the weekly newsletter here: https://hackernewsai.com/
-
-1d ago
 
 ---
 
@@ -137,19 +137,17 @@ BBC • 7h ago
 
 ---
 
-**[The CEO of $2 billion AI training startup says that humans will stay involved in data creation for decades](https://www.businessinsider.com/ai-training-ceo-artificial-data-humans-matt-fitzpatrick-invisible-technologies-2026-1)**
+**[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-Artificial intelligence won't be training AI anytime soon, says Invisible Technologies CEO.
-
-Business Insider • 1h ago
+Reuters • 1h ago
 
 ---
 
-**[Analysis-AI-driven inflation is 2026's most overlooked risk, investors say](https://ca.finance.yahoo.com/news/analysis-ai-driven-inflation-2026s-060212201.html)**
+**[NYU professor tested students with AI oral exams, here's what happened next](https://www.businessinsider.com/nyu-professor-ai-oral-exam-mckinsey-memo-business-school-2026-1)**
 
-Global stock markets, riding high on AI euphoria at the start of 2026 may be disregarding one of the biggest threats that could spoil the party: a surge in inflation driven partly by the tech investment boom.  U.S. stock indexes, where seven tech groups ​contributed half of all market earnings this year, made double-digit gains in 2025 to hit record highs as exuberance about AI and monetary easing also propelled European and ‌Asian equities to record peaks.  Expectations for further rate cuts have buoyed bonds too, handing U.S. Treasury investors the best annual performance for five years as inflation retreated, although it remains above the Federal Reserve's average 2% target.
+When student work looked like McKinsey memos, an NYU business school professor used AI oral exams to test real learning.
 
-Yahoo! Finance Canada • 1h ago
+Business Insider • 35m ago
 
 ---
 
@@ -159,41 +157,39 @@ The New York Times • 2d ago
 
 ---
 
-**[Is the AI boom a bubble waiting to pop? Here’s what history says](https://fortune.com/2026/01/04/is-ai-boom-bubble-pop-tech-stocks-sp500-bull-run/)**
+**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
 
-“At some point the infrastructure build may exceed what the economy will need over a short period of time.”
+There isn't enough air to inflate a bubble, so how can it be popped?
 
-Fortune • 8h ago
-
----
-
-**[Visualized: AI Safety Report Card of Leading Companies](https://www.visualcapitalist.com/visualized-ai-safety-report-card-of-leading-companies/)**
-
-Visual Capitalist • 12h ago
+CNBC • 12h ago
 
 ---
 
-**[2 AI Stocks to Buy in January and Hold for 20 Years](https://finance.yahoo.com/news/2-ai-stocks-buy-january-180500486.html)**
+**[3 Artificial Intelligence Stocks to Buy in 2026 That Could Be Better Picks Than Palantir](https://www.fool.com/investing/2026/01/04/3-artificial-intelligence-stocks-to-buy-in-2026-th/)**
 
-Investing in these tech leaders can help you profit from a generational opportunity.
+These three AI winners appear to be safer bets than Palantir in the new year.
 
-Yahoo Finance • 13h ago
-
----
-
-**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.fool.com/investing/2026/01/04/once-in-decade-3-best-ai-stocks-buy-2026-nvda-meta/)**
-
-Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
-
-The Motley Fool • 22h ago
+The Motley Fool • 20h ago
 
 ---
 
-**[3 Best Artificial Intelligence Stocks to Buy in January](https://finance.yahoo.com/news/3-best-artificial-intelligence-stocks-052000158.html)**
+**[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
 
-AI stocks are set to continue to power the market in 2026.
+Bloomberg.com • 17h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
+
+Politico • 19h ago
+
+---
+
+**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
+
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+
+CBS News • 7h ago
 
 ---
 
@@ -203,7 +199,7 @@ Yahoo Finance • 1h ago
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 136 • 💬 97 • 2d ago
+⬆️ 138 • 💬 97 • 2d ago
 
 ---
 
@@ -211,7 +207,7 @@ Yahoo Finance • 1h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 116 • 💬 31 • 10h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 122 • 💬 32 • 10h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -219,7 +215,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 55 • 💬 51 • 14h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 58 • 💬 55 • 14h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -235,7 +231,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 47 • 💬 96 • 16h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 47 • 💬 96 • 17h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -658,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 3.4k • 🔱 455 • 45m ago
+⭐ 3.4k • 🔱 455 • 1h ago
 
 ---
 
@@ -688,7 +684,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 195 • 19h ago
+⭐ 1.8k • 🔱 195 • 20h ago
 
 ---
 
