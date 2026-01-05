@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T23:21:42.311527+00:00'
+updated: '2026-01-05T23:43:24.844704+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 23:21 UTC  
+**Last Updated:** January 05, 2026 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,979.19
+### $93,880.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
+**24h:** +1.9%  
 **7d:** +6.5%  
-**30d:** +4.2%  
+**30d:** +4.1%  
 **90d:** -23.7%  
 **1y:** -7.7%  
 
@@ -83,6 +83,12 @@ Rank #1
 
 ---
 
+**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
+
+3h ago
+
+---
+
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
 7h ago
@@ -95,27 +101,9 @@ Rank #1
 
 ---
 
-**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
-
-3h ago
-
----
-
 **[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
 
 3h ago
-
----
-
-**[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
-
-21h ago
-
----
-
-**[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
-
-17h ago
 
 ---
 
@@ -127,17 +115,27 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 ---
 
-**[Ledger New Data Leak](https://www.reddit.com/r/Bitcoin/comments/1q4kfd4/ledger_new_data_leak/)**
+**[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
 
-Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
+1h ago
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 10h ago
+---
+
+**[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
+
+22h ago
+
+---
+
+**[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
+
+17h ago
 
 ---
 
 **[just sold 1 bitcoin in zimbabwe](https://www.reddit.com/r/Bitcoin/comments/1q4xek5/just_sold_1_bitcoin_in_zimbabwe/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -151,23 +149,11 @@ Investor's Business Daily • 8h ago
 
 ---
 
-**[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqfNN_PDkw85WzwPXYvU8joXDDs8n6MMOZ55zLJxHsPlklMhFvwOTq-b&gaa_ts=695c3d14&gaa_sig=uLVGMiHLpffX1EA8vfXbErIn0gvVrScLVv60SVwUJu2HG2-_RVL72v5OVINVv7ATs2dR05pSBl6DwXeQPTRGfQ%3D%3D)**
+**[Bitcoin rises above $93,000 in sign of 'bullish trend' to start 2026](https://finance.yahoo.com/news/bitcoin-rises-above-93000-in-sign-of-bullish-trend-to-start-2026-175316587.html)**
 
-Barron's • 11h ago
+Bitcoin rose above $93,000 on Monday following a rough end to 2025.
 
----
-
-**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
-
-Binance • 4h ago
-
----
-
-**[Crypto Stocks Jump as Bitcoin, Ethereum and XRP Hit Multi-Week Highs](https://finance.yahoo.com/news/crypto-stocks-jump-bitcoin-ethereum-214553925.html)**
-
-Bitcoin surged past $94,000 on Monday to a 30-day high as crypto stocks rallied, with Coinbase, Robinhood, and BTC miners all rising.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -175,23 +161,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 3h ago
-
----
-
-**[Tom Lee says bitcoin has not peaked, calls for new all-time high by January 2026](https://www.coindesk.com/markets/2026/01/05/tom-lee-calls-for-a-new-bitcoin-ath-in-january-while-warning-of-a-volatile-2026)**
-
-After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
-
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin's Quiet Holiday Break Ends With A Bang—Are New Highs Coming Soon?](https://bitcoinmagazine.com/markets/bitcoin-weekly-analysis-momentum-builds-toward-98000-amid-neutral-mood)**
-
-Bitcoin plodded through the holidays but ended strong at $91,489—discover why this small move could spark a bigger rally or fizzle out in the new year.
-
-Bitcoin Magazine • 5h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -201,11 +171,17 @@ Forbes • 1d ago
 
 ---
 
-**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
+Binance • 4h ago
 
-CNBC • 3d ago
+---
+
+**[XRP Completes Golden Cross Against Bitcoin, $3 Price Next?](https://www.tradingview.com/news/u_today:90342c416094b:0-xrp-completes-golden-cross-against-bitcoin-3-price-next/)**
+
+XRP has just posted a key signal on its Bitcoin chart, triggering speculation on what comes next.XRP has just completed a golden cross against Bitcoin on the three-hour chart as the 50 MA has risen above the 200 MA, the first of such on this particular time frame in 2026.Golden cross signals have a…
+
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -213,7 +189,31 @@ CNBC • 3d ago
 
 The cryptoasset is on its longest winning streak since October....
 
-Sherwood News • 9h ago
+Sherwood News • 10h ago
+
+---
+
+**[Tom Lee says bitcoin has not peaked, calls for new all-time high by January 2026](https://www.coindesk.com/markets/2026/01/05/tom-lee-calls-for-a-new-bitcoin-ath-in-january-while-warning-of-a-volatile-2026)**
+
+After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
+
+CoinDesk • 6h ago
+
+---
+
+**[Did DOJ Prosecutors Violate Trump’s Executive Order by Selling the Forfeited Samourai Wallet Bitcoin?](https://bitcoinmagazine.com/news/did-doj-prosecutors-violate-trumps-executive-order-by-selling-the-forfeited-samourai-wallet-bitcoin)**
+
+On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
+
+Bitcoin Magazine • 4h ago
+
+---
+
+**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
+
+Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
+
+CNBC • 3d ago
 
 ---
 
@@ -305,7 +305,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 180 • ⏱️ 38:51 • 4h ago
+👁️ 26K • 👍 1K • 💬 180 • ⏱️ 38:51 • 5h ago
 
 ---
 

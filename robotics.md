@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T23:21:42.320826+00:00'
+updated: '2026-01-05T23:43:24.853899+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 23:21 UTC  
+**Last Updated:** January 05, 2026 at 23:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,23 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Boston Dynamics Announces Atlas for Consumers](https://www.reddit.com/r/robotics/comments/1q4zixk/boston_dynamics_announces_atlas_for_consumers/)**
+
+No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
+
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 1h ago
+
+---
+
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+5h ago
+
+---
+
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -46,17 +60,11 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 ---
 
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+**[I just wanted opinions for the project.](https://www.reddit.com/r/robotics/comments/1q50qbo/i_just_wanted_opinions_for_the_project/)**
 
-5h ago
+I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
----
-
-**[Boston Dynamics Announces Atlas for Consumers](https://www.reddit.com/r/robotics/comments/1q4zixk/boston_dynamics_announces_atlas_for_consumers/)**
-
-No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
-
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 1h ago
+58m ago
 
 ---
 
@@ -70,7 +78,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -86,7 +94,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-21h ago
+22h ago
 
 ---
 
@@ -98,23 +106,45 @@ A few months ago, the NEO home robot was all over the news — demos, hype, prom
 
 ---
 
-**[I keep losing track of parts across hardware projects — built a small tool, want honest feedback](https://www.reddit.com/r/robotics/comments/1q4yiz6/i_keep_losing_track_of_parts_across_hardware/)**
-
-I do a lot of small hardware projects (electronics, robotics, 3D printing), and once I had more than a few builds going at the same time, things started breaking down: - re-ordering parts I already owned - forgetting which drawer/bin something was in - rebuilding BOMs every time a project changed - spreadsheets getting outdated almost immediately I tried Google Sheets and Notion, but they never stayed in sync once projects evolved. So I built a small web tool mainly for myself that: - tracks projects with versioned BOMs - keeps a simple inventory tied to physical storage locations - shows whether you already have parts before ordering Here’s a demo: https://makerhubapp.lovable.app/ I’m not trying to sell anything here. I genuinely want to know: • Is this a real problem for you, or am I overthinking it? • How do you track parts today? • At what point does your current system stop working?
-
-1h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+
+Bloomberg.com • 9h ago
+
+---
 
 **[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 22h ago
+CBS News • 23h ago
+
+---
+
+**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
+
+NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
+
+NVIDIA Newsroom • 1h ago
+
+---
+
+**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
+
+Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
+
+TechCrunch • 43m ago
+
+---
+
+**[Qualcomm unveils PC chip, humanoid robotics initiative at CES 2026](https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-humanoid-robotics-initiative-at-ces-2026-170020697.html)**
+
+Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -126,17 +156,9 @@ CNET • 9h ago
 
 ---
 
-**[Robots are still too expensive for wider deployment, use cases](https://finance.yahoo.com/video/robots-still-too-expensive-wider-201000845.html)**
+**[Hundreds compete in robotics competition in Hershey](https://www.abc27.com/local-news/hundreds-compete-in-robotics-competition-in-hershey/)**
 
-Major tech conference CES 2026 will see a showcasing of a variety of innovations this week, from new AI announcements to even developments in robotics. Lopez Research Founder Maribel Lopez discusses the sectors where she sees the most robotics deployments while discussing the use cases for both non-humanoid and humanoid robotics. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
-
-Bloomberg.com • 9h ago
+ABC27 • 20h ago
 
 ---
 
@@ -160,29 +182,7 @@ The Korea Times • 1d ago
 
 NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
 
-Engadget • 1h ago
-
----
-
-**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
-
-In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
-
-The Robot Report • 2d ago
-
----
-
-**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
-
-FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
-
-Inspenet • 2d ago
-
----
-
-**[Hundreds compete in robotics competition in Hershey](https://www.abc27.com/local-news/hundreds-compete-in-robotics-competition-in-hershey/)**
-
-ABC27 • 19h ago
+Engadget • 7h ago
 
 ---
 
@@ -216,7 +216,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 132K • 👍 2K • 💬 378 • ⏱️ 5:49 • 22h ago
+👁️ 132K • 👍 2K • 💬 378 • ⏱️ 5:49 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T23:21:42.317554+00:00'
+updated: '2026-01-05T23:43:24.850676+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 23:21 UTC  
+**Last Updated:** January 05, 2026 at 23:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** +8.9%  
-**30d:** +5.8%  
-**90d:** -28.4%  
-**1y:** -12.1%  
+**24h:** +1.8%  
+**7d:** +8.5%  
+**30d:** +5.4%  
+**90d:** -28.7%  
+**1y:** -12.4%  
 
 ---
 
@@ -78,15 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-1h ago
-
----
-
-**[why doesn't ethereum scaling for games get more attention, the ux problems are massive](https://www.reddit.com/r/ethereum/comments/1q4qi9z/why_doesnt_ethereum_scaling_for_games_get_more/)**
-
-Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
-
-6h ago
+2h ago
 
 ---
 
@@ -95,6 +87,14 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
 🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 13h ago
+
+---
+
+**[why doesn't ethereum scaling for games get more attention, the ux problems are massive](https://www.reddit.com/r/ethereum/comments/1q4qi9z/why_doesnt_ethereum_scaling_for_games_get_more/)**
+
+Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
+
+7h ago
 
 ---
 
@@ -130,17 +130,17 @@ So I have some crypto on ethereum L1&2s and I would like to anonymize some of it
 
 ---
 
-**[Daily General Discussion January 02, 2026](https://www.reddit.com/r/ethereum/comments/1q1quuy/daily_general_discussion_january_02_2026/)**
+**[Ethereum Fund Recovery Protocol (EFRP)](https://www.reddit.com/r/ethereum/comments/1q279wf/ethereum_fund_recovery_protocol_efrp/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
 
 3d ago
 
 ---
 
-**[Ethereum Fund Recovery Protocol (EFRP)](https://www.reddit.com/r/ethereum/comments/1q279wf/ethereum_fund_recovery_protocol_efrp/)**
+**[Daily General Discussion January 02, 2026](https://www.reddit.com/r/ethereum/comments/1q1quuy/daily_general_discussion_january_02_2026/)**
 
-TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 3d ago
 
@@ -150,45 +150,25 @@ TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, ha
 
 ## Google News: "ethereum"
 
-**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
+**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
 
-Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
+Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqc82UMHeFc5CUAlK_iV6yLnmXqUxKHxNqeNdLLicLFWD-7d1MGBT_5M&gaa_ts=695c3d15&gaa_sig=mwKcby-_1gmwerMWZN0l-K3q57C1DhvLKLbMsjkSFppbF2rqNoRRPRwj_-yXQokUS3LgaT6ZosGigJ3hW74pOA%3D%3D)**
-
-Barron's • 3d ago
-
----
-
-**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
-
-Binance • 4h ago
-
----
-
-**[Crypto Stocks Jump as Bitcoin, Ethereum and XRP Hit Multi-Week Highs](https://finance.yahoo.com/news/crypto-stocks-jump-bitcoin-ethereum-214553925.html)**
-
-Bitcoin surged past $94,000 on Monday to a 30-day high as crypto stocks rallied, with Coinbase, Robinhood, and BTC miners all rising.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum ‘solved’ the blockchain trilemma: Vitalik](https://www.dlnews.com/articles/defi/ethereum-solved-the-blockchain-trilemma-per-vitalik-buterin/)**
-
-Ethereum has solved the blockchain trilemma, according to Vitalik Buterin.  He cites two advancements: the steady progress of zero-knowledge virtual machines and the December Fusaka upgrade, which introduced peer data availability sampling. But it will take years to take advantage of these developments, Buterin added.
-
-dlnews.com • 2h ago
+Fortune • 11h ago
 
 ---
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 6h ago
+The Block • 7h ago
+
+---
+
+**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
+
+CNBC • 3h ago
 
 ---
 
@@ -196,15 +176,7 @@ The Block • 6h ago
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
 
-GlobeNewswire • 9h ago
-
----
-
-**[Grayscale declares first Ethereum staking payout for US-listed ETF](https://www.tradingview.com/news/cointelegraph:e098c7722094b:0-grayscale-declares-first-ethereum-staking-payout-for-us-listed-etf/)**
-
-Grayscale has declared a staking rewards distribution for its Ethereum Staking exchange-traded fund (ETF), the first time a US-listed spot crypto exchange-traded product (ETP) has scheduled a payout tied to onchain staking activity.Grayscale Ethereum Trust ETF (ETHE) shareholders will receive about…
-
-TradingView — Track All Markets • 5h ago
+GlobeNewswire • 10h ago
 
 ---
 
@@ -214,9 +186,39 @@ CCN.com • 9h ago
 
 ---
 
-**[JPMorgan Tokenizes Cash On Ethereum And Redraws Wall Street’s Map](https://www.forbes.com/sites/digital-assets/2026/01/03/jpmorgan-tokenizes-cash-on-ethereum-and-redraws-wall-streets-map/)**
+**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://decrypt.co/353585/tom-lee-predicts-250k-ethereum-price-bitmine-adds-13-billion-stash)**
 
-Forbes • 2d ago
+BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
+
+Decrypt • 7h ago
+
+---
+
+**[Why Are Bitcoin, Ethereum, and XRP Prices Going Up Today?](https://www.tradingview.com/news/coinpedia:cb4a3a9d2094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-up-today/)**
+
+The crypto market started the day on a strong note, with Bitcoin, Ethereum, and XRP all moving higher. Bitcoin crossed the $91,000 mark, gaining nearly $2,500 from recent lows. Ethereum and XRP followed closely, lifting the total crypto market value above $3.2 trillion.But what exactly is driving t…
+
+TradingView — Track All Markets • 20h ago
+
+---
+
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
+
+Binance • 4h ago
+
+---
+
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqfHNI7NusLZVXQMeGJ3NKjgZbf-cBA88G6WgGqLsGcC0Bk9-4MyWnJd&gaa_ts=695c4fec&gaa_sig=HcGsBOB24O7TiGTGnF_NkzkiWxhfw33SfArHZ2C5Po02H0SMPP5ogIbN7jUg44EBvy075p4t6-G8uUHKjh3Yhg%3D%3D)**
+
+Barron's • 3d ago
+
+---
+
+**[Ethereum’s $5K path divides experts ahead of 2026](https://www.tradingview.com/news/invezz:b017acfe7094b:0-ethereum-s-5k-path-divides-experts-ahead-of-2026/)**
+
+Ethereum is trading above $3,200, still well below its all-time high of $4,953 on Aug. 24, 2025, when it missed the $5,000 mark by just $47.The 2026 potential for Ethereum to reach prices above $5,000 remains uncertain because different experts base their predictions on three main factors, which in…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -250,7 +252,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 1K • 👍 148 • 💬 118 • ⏱️ 22:27 • 59m ago
+👁️ 1K • 👍 148 • 💬 118 • ⏱️ 22:27 • 1h ago
 
 ---
 

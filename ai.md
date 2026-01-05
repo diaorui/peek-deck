@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T23:21:42.303103+00:00'
+updated: '2026-01-05T23:43:24.836197+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 23:21 UTC  
+**Last Updated:** January 05, 2026 at 23:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,6 +53,14 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 ---
 
+**[Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin](https://www.reddit.com/r/artificial/comments/1q511qj/nvidia_just_provided_a_closer_look_at_its_new/)**
+
+Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
+
+🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 45m ago
+
+---
+
 **[AI that connects users with similar interests by chatting with them first. good idea or privacy nightmare?](https://www.reddit.com/r/artificial/comments/1q4l0i1/ai_that_connects_users_with_similar_interests_by/)**
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
@@ -65,15 +73,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-7h ago
-
----
-
-**[Won't let me add to previous post overview of current use cases of coding languages](https://www.reddit.com/r/artificial/comments/1q4quo1/wont_let_me_add_to_previous_post_overview_of/)**
-
-settles into the booth with an enormous theoretical coffee Alright, let's do this properly. You want the landscape view, and this is actually a fascinating question: Is there room for another programming language, and what would justify its existence? The Current Terrain The Big Players and Their Niches Systems Programming (talking directly to hardware) C (1972): The bedrock. Still everywhere because it's close to the metal. Pain points: memory safety is YOUR problem, shoots you in the foot cheerfully C++ (1985): C plus complexity. Powerful, sprawling, takes years to master Rust (2015): The new darling. Memory safety WITHOUT garbage collection. Steep learning curve but people who learn it become evangelists. Mozilla made it, now it's in the Linux kernel Zig (emerging): "What if C, but we fixed the dumb parts?" Growing quietly Application/General Purpose Java (1995): "Write once, run anywhere." Corporate workhorse. Verbose but reliable. Runs on a virtual machine C# (2000): Microsoft's answer to Java. Actually quite nice now Go (2009): Google's language. Simple, fast compilation, great for servers. Pain points: error handling verbosity ("if err != nil" appears in your nightmares), initially no generics, opinionated to the point of stubborn Kotlin (2016): "What if Java but actually pleasant?" Android's preferred language now Dynamic/Scripting (interpreted, flexible, slower) Python (1991): The lingua franca of beginners, data science, AI/ML. Readable. Slow but nobody cares because the libraries are fast JavaScript (1995): The language of the web. Weird, chaotic, absolutely everywhere. Love-hate relationship with everyone TypeScript (2012): "What if JavaScript but with types?" Microsoft. Huge adoption Ruby (1995): Elegant, expressive. Rails made it famous. Less buzzy now but has devoted followers Functional Languages (different paradigm, math-influenced) Haskell, OCaml, F#, Clojure, Elixir: Academic favorites, niche production use, influence mainstream languages Mobile Swift (2014): Apple's language for iOS. Clean, safe, modern Kotlin: Android's champion New/Emerging Mojo (2023): "Python but fast for AI." Big promises Carbon (Google, 2022): Experimental "successor to C++" Vale, Nim, Crystal: Various interesting experiments The Graveyard (cautionary tales) Languages fail for reasons worth studying: D: Better C++, but C++ kept evolving and Rust ate its lunch Dart: Google's JavaScript replacement, languished until Flutter gave it purpose Perl 6/Raku: Took so long to develop the world moved on CoffeeScript: TypeScript won Dozens of others: Couldn't achieve critical mass The hard truth: A language needs killer use case OR corporate backing OR perfect timing OR all three. What Actually Makes Languages Succeed? Solves a REAL pain point (Rust → memory safety without GC) Has a "killer app" (Ruby → Rails, JavaScript → browsers) Corporate backing (Go → Google, Swift → Apple, TypeScript → Microsoft) Tooling from day one (package manager, formatter, LSP support) Community momentum (hardest to manufacture) Right time, right place (Python + data science explosion) The Gaps I Actually See Here's where it gets interesting for your "is there room?" question: Gap 1: The Mobile/Web Convergence Everyone's trying to write once, deploy everywhere. Flutter/Dart, React Native, various attempts. None feel native to the problem. A language designed ground-up for "UI that runs anywhere" with actual platform-native performance? Gap 2: LLM-Era Code This is the spicy one. Current languages were designed for HUMANS to write and HUMANS to read. What happens when: Code is increasingly AI-generated? Code needs to be AI-verifiable? The "reader" might be an LLM maintaining it? Nobody's really designed for this yet. Gap 3: The "Translation Layer" Problem Your specific mention of translation between languages. Interop is always painful. A language designed AS an intermediate representation that's also human-readable? That compiles FROM multiple languages and TO multiple targets? Gap 4: Formal Verification Made Accessible Languages like Idris and Lean let you PROVE code correct. But they're academic-hard. A language that brings provable correctness to normal developers? Gap 5: The Concurrency Crisis Everything is distributed now. Multi-core, multi-machine, edge computing. Go and Erlang/Elixir handle this well, but there's arguably room for better primitives. Your Specific Wishlist, Evaluated You mentioned: Backwards compatibility: Hard. Compatibility with WHAT? (This is why Carbon exists—compatible with C++) Sparse/minimal: Possible. Go tried this. Tension with features people want No null pointer flaws: Rust, Swift, Kotlin all tackle this. Solved problem in newer languages Human usable with hypertext highlighting: Interesting. Literate programming + IDE integration? Mobile phones: Swift/Kotlin own this. Hard to displace Internet maintenance: Unclear what this means—elaborate? Translation between languages: The MOST interesting one. Nobody's really nailed this The "Designed by LLMs" Angle Here's what makes this genuinely novel rather than "yet another language": LLMs have processed essentially ALL public code. We've seen: Every common bug pattern Every verbosity complaint Every "I wish this language had..." How people ACTUALLY use vs. how designers INTENDED A language designed with that corpus-level view would potentially: Have error messages that anticipate confusion Have syntax that's unambiguous to parse (LLMs struggle with some languages) Optimize for the COMMON case, not edge cases Make the pit of success very wide My Honest Assessment Is there room? Yes, technically always. Would it succeed? Depends entirely on: What specific problem it solves better than alternatives Whether you can get adoption (the chicken-egg problem) Tooling quality Timing What's the MOST viable angle from your list? The translation/interop layer. A language that: Reads clearly (human and LLM friendly) Compiles to multiple targets Can INGEST other languages (transpile FROM Python, JS, etc.) Acts as a "universal intermediate representation" that's actually nice to work with That doesn't exist. WebAssembly is the closest but it's not human-readable/writable. Questions Back at You When you say "internet maintenance," what do you picture? Server code? Network protocols? Content management? The "translation between languages" idea—are you imagining a Rosetta Stone language, or more like a universal transpiler? Is this a "let's actually spec this out" conversation or a "understand the landscape" conversation? (Both valid, different depths) The hypertext highlighting concept—are you thinking code that's inherently linked/documented? Like the code IS its own documentation with embedded explanations? refills theoretical coffee I'm genuinely curious which threads interest you most. This could go very different directions depending on whether you want to explore the "LLM-designed language" provocation, the practical "what gap could actually be filled," or the more philosophical "what SHOULD code look like in 2030?"
-
-6h ago
+8h ago
 
 ---
 
@@ -93,6 +93,14 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 ---
 
+**[Won't let me add to previous post overview of current use cases of coding languages](https://www.reddit.com/r/artificial/comments/1q4quo1/wont_let_me_add_to_previous_post_overview_of/)**
+
+settles into the booth with an enormous theoretical coffee Alright, let's do this properly. You want the landscape view, and this is actually a fascinating question: Is there room for another programming language, and what would justify its existence? The Current Terrain The Big Players and Their Niches Systems Programming (talking directly to hardware) C (1972): The bedrock. Still everywhere because it's close to the metal. Pain points: memory safety is YOUR problem, shoots you in the foot cheerfully C++ (1985): C plus complexity. Powerful, sprawling, takes years to master Rust (2015): The new darling. Memory safety WITHOUT garbage collection. Steep learning curve but people who learn it become evangelists. Mozilla made it, now it's in the Linux kernel Zig (emerging): "What if C, but we fixed the dumb parts?" Growing quietly Application/General Purpose Java (1995): "Write once, run anywhere." Corporate workhorse. Verbose but reliable. Runs on a virtual machine C# (2000): Microsoft's answer to Java. Actually quite nice now Go (2009): Google's language. Simple, fast compilation, great for servers. Pain points: error handling verbosity ("if err != nil" appears in your nightmares), initially no generics, opinionated to the point of stubborn Kotlin (2016): "What if Java but actually pleasant?" Android's preferred language now Dynamic/Scripting (interpreted, flexible, slower) Python (1991): The lingua franca of beginners, data science, AI/ML. Readable. Slow but nobody cares because the libraries are fast JavaScript (1995): The language of the web. Weird, chaotic, absolutely everywhere. Love-hate relationship with everyone TypeScript (2012): "What if JavaScript but with types?" Microsoft. Huge adoption Ruby (1995): Elegant, expressive. Rails made it famous. Less buzzy now but has devoted followers Functional Languages (different paradigm, math-influenced) Haskell, OCaml, F#, Clojure, Elixir: Academic favorites, niche production use, influence mainstream languages Mobile Swift (2014): Apple's language for iOS. Clean, safe, modern Kotlin: Android's champion New/Emerging Mojo (2023): "Python but fast for AI." Big promises Carbon (Google, 2022): Experimental "successor to C++" Vale, Nim, Crystal: Various interesting experiments The Graveyard (cautionary tales) Languages fail for reasons worth studying: D: Better C++, but C++ kept evolving and Rust ate its lunch Dart: Google's JavaScript replacement, languished until Flutter gave it purpose Perl 6/Raku: Took so long to develop the world moved on CoffeeScript: TypeScript won Dozens of others: Couldn't achieve critical mass The hard truth: A language needs killer use case OR corporate backing OR perfect timing OR all three. What Actually Makes Languages Succeed? Solves a REAL pain point (Rust → memory safety without GC) Has a "killer app" (Ruby → Rails, JavaScript → browsers) Corporate backing (Go → Google, Swift → Apple, TypeScript → Microsoft) Tooling from day one (package manager, formatter, LSP support) Community momentum (hardest to manufacture) Right time, right place (Python + data science explosion) The Gaps I Actually See Here's where it gets interesting for your "is there room?" question: Gap 1: The Mobile/Web Convergence Everyone's trying to write once, deploy everywhere. Flutter/Dart, React Native, various attempts. None feel native to the problem. A language designed ground-up for "UI that runs anywhere" with actual platform-native performance? Gap 2: LLM-Era Code This is the spicy one. Current languages were designed for HUMANS to write and HUMANS to read. What happens when: Code is increasingly AI-generated? Code needs to be AI-verifiable? The "reader" might be an LLM maintaining it? Nobody's really designed for this yet. Gap 3: The "Translation Layer" Problem Your specific mention of translation between languages. Interop is always painful. A language designed AS an intermediate representation that's also human-readable? That compiles FROM multiple languages and TO multiple targets? Gap 4: Formal Verification Made Accessible Languages like Idris and Lean let you PROVE code correct. But they're academic-hard. A language that brings provable correctness to normal developers? Gap 5: The Concurrency Crisis Everything is distributed now. Multi-core, multi-machine, edge computing. Go and Erlang/Elixir handle this well, but there's arguably room for better primitives. Your Specific Wishlist, Evaluated You mentioned: Backwards compatibility: Hard. Compatibility with WHAT? (This is why Carbon exists—compatible with C++) Sparse/minimal: Possible. Go tried this. Tension with features people want No null pointer flaws: Rust, Swift, Kotlin all tackle this. Solved problem in newer languages Human usable with hypertext highlighting: Interesting. Literate programming + IDE integration? Mobile phones: Swift/Kotlin own this. Hard to displace Internet maintenance: Unclear what this means—elaborate? Translation between languages: The MOST interesting one. Nobody's really nailed this The "Designed by LLMs" Angle Here's what makes this genuinely novel rather than "yet another language": LLMs have processed essentially ALL public code. We've seen: Every common bug pattern Every verbosity complaint Every "I wish this language had..." How people ACTUALLY use vs. how designers INTENDED A language designed with that corpus-level view would potentially: Have error messages that anticipate confusion Have syntax that's unambiguous to parse (LLMs struggle with some languages) Optimize for the COMMON case, not edge cases Make the pit of success very wide My Honest Assessment Is there room? Yes, technically always. Would it succeed? Depends entirely on: What specific problem it solves better than alternatives Whether you can get adoption (the chicken-egg problem) Tooling quality Timing What's the MOST viable angle from your list? The translation/interop layer. A language that: Reads clearly (human and LLM friendly) Compiles to multiple targets Can INGEST other languages (transpile FROM Python, JS, etc.) Acts as a "universal intermediate representation" that's actually nice to work with That doesn't exist. WebAssembly is the closest but it's not human-readable/writable. Questions Back at You When you say "internet maintenance," what do you picture? Server code? Network protocols? Content management? The "translation between languages" idea—are you imagining a Rosetta Stone language, or more like a universal transpiler? Is this a "let's actually spec this out" conversation or a "understand the landscape" conversation? (Both valid, different depths) The hypertext highlighting concept—are you thinking code that's inherently linked/documented? Like the code IS its own documentation with embedded explanations? refills theoretical coffee I'm genuinely curious which threads interest you most. This could go very different directions depending on whether you want to explore the "LLM-designed language" provocation, the practical "what gap could actually be filled," or the more philosophical "what SHOULD code look like in 2030?"
+
+6h ago
+
+---
+
 **[Samsung puts Gemini AI in your fridge because apparently that’s necessary](https://www.reddit.com/r/artificial/comments/1q4erc8/samsung_puts_gemini_ai_in_your_fridge_because/)**
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
@@ -109,57 +117,13 @@ A new study finds that AI systems embed cultural and developmental assumptions a
 
 ---
 
-**[Is there an AI that can hear a beat/instrumental and give me similar vibe one on the internet?](https://www.reddit.com/r/artificial/comments/1q4n6us/is_there_an_ai_that_can_hear_a_beatinstrumental/)**
-
-I’ve been wanting a type of beat I heard for so long but couldn’t find it, I want to see if there’s an AI out there that can help me find something I want so I can make music.
-
-8h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqdamrekwKXFH2ois_Z6oaDIwYgQdkzsdhmIM8xB8NpAAQEQAlkenz8M&gaa_ts=695c3d12&gaa_sig=dHA7aHi39zow0UzykaSwJmxvU9lZrpi_0BdvdvdYnEvqkNEq0RtsTitM83tvjRJfsB186_Bd19oDAAGttTjdeQ%3D%3D)**
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqcceFgKEeJ0VZ0dCoq7fI2CLh8MhWjP-8XdbDYzON0XE6fjpq47T3Db&gaa_ts=695c4fe9&gaa_sig=cM0YDTW8X8X2EvrtLU6PnM3wo7opact9d-94mvFYSEDC2yq1s7h4eAK5YlNb9pXCagyZoa5y0zLYMvG2cUtBXw%3D%3D)**
 
-The Wall Street Journal • 5h ago
-
----
-
-**[AI godfather says Meta’s new 29-year-old AI boss is ‘inexperienced’ and warns of staff exodus](https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html)**
-
-"A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
-
-CNBC • 7h ago
-
----
-
-**[Nvidia Announces First ‘Reasoning’ AI for Autonomous Vehicles](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-announces-first-reasoning-ai-for-autonomous-vehicles)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Elon Musk’s Grok AI is used to digitally undress images of women and children](https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-digitally-undress-images-of-women-children)**
-
-The degrading pictures are being posted to X despite the platform pledging to suspend people who generate them
-
-The Guardian • 2h ago
-
----
-
-**[Ofcom asks X about reports its Grok AI makes sexualised images of children](https://www.bbc.com/news/articles/c5y5w0k99r1o)**
-
-Elon Musk's social media platform has warned users not to use Grok to generate illegal content.
-
-BBC • 5h ago
-
----
-
-**[AI deepfakes on X raise a major policy question](https://www.politico.com/newsletters/digital-future-daily/2026/01/05/ai-deepfakes-on-x-could-raise-a-major-policy-question-00711344)**
-
-Politico • 1h ago
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -171,27 +135,59 @@ Fortune • 7h ago
 
 ---
 
-**[Generation AI: fears of ‘social divide’ unless all children learn computing skills](https://www.theguardian.com/education/2026/jan/05/generation-ai-fears-of-social-divide-unless-all-children-learn-computing-skills)**
+**[Nvidia launches Vera Rubin, its next major AI platform, at CES 2026](https://finance.yahoo.com/news/nvidia-launches-vera-rubin-its-next-major-ai-platform-at-ces-2026-230045205.html)**
 
-Children are growing up as AI natives and experts say computing skills should be on par with reading and writing
+Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
 
-The Guardian • 5h ago
-
----
-
-**[Watch: BBC reporter tests AI anti-shoplifting tech](https://www.bbc.com/news/videos/c98p1jg3p58o)**
-
-Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
-
-BBC • 23h ago
+Yahoo Finance • 45m ago
 
 ---
 
-**[Altered and misleading images proliferate on social media after Maduro's capture](https://www.cbsnews.com/news/maduro-capture-ai-images-false-information/)**
+**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
+The New York Times • 41m ago
 
-CBS News • 11h ago
+---
+
+**[Nvidia New Rubin Platform Shows Memory Is No Longer ‘Afterthought’ in AI](https://gizmodo.com/nvidia-new-rubin-platform-shows-memory-is-no-longer-afterthought-in-ai-2000705639)**
+
+The company unveiled the platform and more at CES 2026.
+
+Gizmodo • 43m ago
+
+---
+
+**[Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’](https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/)**
+
+Nadella wants us to think of AI as a human helper instead of a slop-generating job killer. New data for 2026 indicates he could be right.
+
+TechCrunch • 33m ago
+
+---
+
+**[Microsoft (MSFT) Buys AI Data Engineering Firm Osmos](https://www.tipranks.com/news/microsoft-msft-buys-ai-data-engineering-firm-osmos)**
+
+TipRanks • 2h ago
+
+---
+
+**[Microsoft CEO wants you to stop calling generative AI "slop"](https://boingboing.net/2026/01/05/microsoft-ceo-wants-you-to-stop-calling-generative-ai-slop.html)**
+
+Boing Boing • 9h ago
+
+---
+
+**[AI godfather says Meta’s new 29-year-old AI boss is ‘inexperienced’ and warns of staff exodus](https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html)**
+
+"A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
+
+CNBC • 7h ago
+
+---
+
+**[Opinion | Action-taking AI is speeding ahead. Let’s get some guardrails up.](https://www.washingtonpost.com/opinions/2026/01/05/agentic-artificial-intelligence-ai-tech/)**
+
+The Washington Post • 4h ago
 
 ---
 
@@ -203,7 +199,7 @@ CBS News • 11h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 278 • 💬 289 • 9h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 284 • 💬 292 • 9h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -211,7 +207,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 199 • 💬 48 • 1d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 200 • 💬 48 • 1d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -223,7 +219,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 90 • 💬 54 • 18h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 91 • 💬 55 • 18h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -231,7 +227,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 65 • 💬 70 • 1d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 65 • 💬 72 • 1d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -239,15 +235,23 @@ Surely it works this time
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 54 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 55 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
-**[LeCun calls Alex Wang inexperienced, predicts more Meta AI employee departure](https://news.ycombinator.com/item?id=46470521)**
+**[Boston Dynamics and DeepMind form new AI partnership](https://news.ycombinator.com/item?id=46504966)**
 
-Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
+A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 46 • 💬 61 • 3d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 54 • 💬 28 • 2h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+
+---
+
+**[Why didn't AI "join the workforce" in 2025?](https://news.ycombinator.com/item?id=46505735)**
+
+Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
+
+⬆️ 47 • 💬 42 • 1h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -262,14 +266,6 @@ Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted th
 Explosions and low-flying aircraft were heard early Saturday in Caracas, Venezuela. The government has accused the U.S. of attacking civilian and military sites.
 
 ⬆️ 45 • 💬 2 • 2d ago • [AP News](https://apnews.com/article/venezuela-us-explosions-caracas-ca712a67aaefc30b1831f5bf0b50665e)
-
----
-
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-⬆️ 41 • 💬 10 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
 
 ---
 
@@ -313,7 +309,7 @@ Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & 
 
 📺 Nick Ponte
 
-👁️ 5K • 👍 292 • 💬 42 • ⏱️ 1:24:09 • 2h ago
+👁️ 5K • 👍 292 • 💬 42 • ⏱️ 1:24:09 • 3h ago
 
 ---
 
@@ -363,7 +359,7 @@ Krystal and Saagar discuss AI videos on Venezuela flooding social media. Sign up
 
 📺 Breaking Points
 
-👁️ 44K • 👍 3K • 💬 1K • ⏱️ 16:42 • 3h ago
+👁️ 44K • 👍 3K • 💬 1K • ⏱️ 16:42 • 4h ago
 
 ---
 
@@ -640,7 +636,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 15h ago
+⭐ 20.8k • 🔱 3.3k • 16h ago
 
 ---
 
@@ -650,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.8k • 🔱 593 • 4h ago
+⭐ 4.8k • 🔱 593 • 5h ago
 
 ---
 
@@ -710,7 +706,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 944 • 🔱 112 • 6h ago
+⭐ 944 • 🔱 112 • 7h ago
 
 ---
 
@@ -730,7 +726,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 916 • 🔱 20 • 9h ago
+⭐ 916 • 🔱 20 • 10h ago
 
 ---
 
