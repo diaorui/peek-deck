@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T19:41:55.460561+00:00'
+updated: '2026-01-05T20:27:12.692098+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 19:41 UTC  
+**Last Updated:** January 05, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-3h ago
+4h ago
 
 ---
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -111,25 +111,25 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
 
-5h ago
+6h ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Is the Lightning Network successful or a disappointing?](https://www.reddit.com/r/Bitcoin/comments/1q4l86f/is_the_lightning_network_successful_or_a/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 For the past five years, I’ve been buying $10 of Bitcoin every single day. No timing the market. No chasing pumps. Just consistency. I don’t check the price much anymore. When it goes up, I keep buying. When it crashes, I keep buying. No fear. No regret.
 
-12h ago
+13h ago
 
 ---
 
@@ -147,13 +147,13 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
 **[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqe1EMw1sCn8NETa80sg1yVE2sysGfTMu-h3e62nYyFM66pUFa6KRzpt&gaa_ts=695c176b&gaa_sig=yj75oOJwq0NqEEv9EZ7R-KjDM7OMmKbSaOIG79QmGGwUBQtgo7Dg54nkuEcCiXc3LFE73WneLTetJcON3ndH_Q%3D%3D)**
 
-Barron's • 7h ago
+Barron's • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ Barron's • 7h ago
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 16m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ Bloomberg.com • 16m ago
 
 On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
 
-Bitcoin Magazine • 38m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
 **[Assessing BlackRock (BLK) Valuation As Institutional Flows Into Its Bitcoin ETF Gain Momentum](https://sg.finance.yahoo.com/news/assessing-blackrock-blk-valuation-institutional-191108480.html)**
 
-Yahoo Finance Singapore • 30m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance Singapore • 30m ago
 
 After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 2h ago
 
 For the first time since October, the price of Bitcoin is trading above its 200-day moving average. Can bulls hold the line?
 
-Decrypt • 59m ago
+Decrypt • 1h ago
 
 ---
 
@@ -277,7 +277,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 20h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 21h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -305,7 +305,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 411 • 💬 117 • ⏱️ 10:52 • 3h ago
+👁️ 4K • 👍 411 • 💬 117 • ⏱️ 10:52 • 4h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 14K • 👍 760 • 💬 76 • ⏱️ 18:14 • 8h ago
+👁️ 14K • 👍 760 • 💬 76 • ⏱️ 18:14 • 9h ago
 
 ---
 
@@ -345,7 +345,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 5K • 👍 208 • 💬 215 • ⏱️ 14:43 • 14h ago
+👁️ 5K • 👍 208 • 💬 215 • ⏱️ 14:43 • 15h ago
 
 ---
 
@@ -355,7 +355,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 51K • 👍 2K • 💬 677 • ⏱️ 10:50 • 19h ago
+👁️ 51K • 👍 2K • 💬 677 • ⏱️ 10:50 • 20h ago
 
 ---
 
@@ -365,7 +365,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 3K • 💬 428 • ⏱️ 23:12 • 20h ago
+👁️ 38K • 👍 3K • 💬 428 • ⏱️ 23:12 • 21h ago
 
 ---
 
@@ -395,7 +395,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 209 • ⏱️ 19:12 • 16h ago
+👁️ 67K • 👍 4K • 💬 209 • ⏱️ 19:12 • 17h ago
 
 ---
 
