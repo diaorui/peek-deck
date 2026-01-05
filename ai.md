@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T04:01:22.829071+00:00'
+updated: '2026-01-05T05:10:08.559809+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 04:01 UTC  
+**Last Updated:** January 05, 2026 at 05:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
 
-15m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-15h ago
+16h ago
 
 ---
 
@@ -65,7 +65,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-10h ago
+11h ago
 
 ---
 
@@ -77,19 +77,19 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 ---
 
-**[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
-
-I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
-
-2d ago
-
----
-
 **[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
 
 Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 1d ago
+
+---
+
+**[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
+
+I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
+
+2d ago
 
 ---
 
@@ -121,45 +121,11 @@ The stat: Golf courses in AZ use ~30x more water than all data centers combined.
 
 ## Google News: "ai"
 
-**[The cost of AI slop could cause a rethink that shakes the global economy in 2026](https://www.theguardian.com/business/2026/jan/04/ai-reality-growing-economic-risk-2026)**
+**[World ‘may not have time’ to prepare for AI safety risks, says leading researcher](https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher)**
 
-Revenues may be rising rapidly, but not by nearly enough to cover the wild levels of investment under way
+AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 10h ago
-
----
-
-**[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
-
-Bloomberg.com • 14h ago
-
----
-
-**[Samsung Presents ‘Your Companion to AI Living’ at The First Look During CES 2026](https://news.samsung.com/global/samsung-presents-your-companion-to-ai-living-at-the-first-look-during-ces-2026)**
-
-Next-generation AI-powered devices and experiences to be showcased at the company’s exclusive exhibition through January 7
-
-samsung.com • 1h ago
-
----
-
-**[Exclusive: Samsung to double mobile devices powered by Google's Gemini to 800 mln units this year](https://www.reuters.com/world/china/samsung-double-mobile-devices-powered-by-googles-gemini-800-mln-units-this-year-2026-01-05/)**
-
-Reuters • 55m ago
-
----
-
-**[Samsung Unveils New Supersized, Color-Rich TVs With More AI](https://www.bloomberg.com/news/articles/2026-01-05/samsung-unveils-new-supersized-color-rich-tvs-with-more-ai)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[2 AI Stocks to Buy in January and Hold for 20 Years](https://finance.yahoo.com/news/2-ai-stocks-buy-january-180500486.html)**
-
-Investing in these tech leaders can help you profit from a generational opportunity.
-
-Yahoo Finance • 9h ago
+The Guardian • 8h ago
 
 ---
 
@@ -167,7 +133,45 @@ Yahoo Finance • 9h ago
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 3h ago
+BBC • 5h ago
+
+---
+
+**[2 AI Stocks to Buy in January and Hold for 20 Years](https://finance.yahoo.com/news/2-ai-stocks-buy-january-180500486.html)**
+
+Investing in these tech leaders can help you profit from a generational opportunity.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[A Once-in-a-Decade Investment Opportunity: The 3 Best AI Stocks to Buy in January 2026](https://www.fool.com/investing/2026/01/04/once-in-decade-3-best-ai-stocks-buy-2026-nvda-meta/)**
+
+Wall Street analysts forecast significant upside in these artificial intelligence stocks in the new year.
+
+The Motley Fool • 20h ago
+
+---
+
+**[Investors Believe Overvaluation Is One of the Biggest Risks to the AI Story. Here Are 2 AI Stocks With the Frothiest Valuations.](https://finance.yahoo.com/news/investors-believe-overvaluation-one-biggest-042000121.html)**
+
+Palantir and CrowdStrike are two of the most expensive AI stocks out there.
+
+Yahoo Finance • 50m ago
+
+---
+
+**[Korea pilots ambulance emergency platform built on 10 AI models](https://www.healthcareitnews.com/news/asia/korea-pilots-ambulance-emergency-platform-built-10-ai-models)**
+
+Severance Hospital researchers have developed an AI platform that converts paramedic voice reports into clinical records, predicts patient deterioration, and recommends suitable transfer hospitals.
+
+Healthcare IT News • 47m ago
+
+---
+
+**[MiniMax Is Said to Plan Pricing Hong Kong IPO at Top on AI Fervor](https://www.bloomberg.com/news/articles/2026-01-05/minimax-is-said-to-plan-pricing-hong-kong-ipo-at-top-on-ai-fervor)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -177,17 +181,17 @@ The New York Times • 2d ago
 
 ---
 
-**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
+**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
 
-There isn't enough air to inflate a bubble, so how can it be popped?
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CNBC • 8h ago
+CBS News • 4h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 16h ago
+Politico • 17h ago
 
 ---
 
@@ -197,7 +201,7 @@ Politico • 16h ago
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 134 • 💬 96 • 2d ago
+⬆️ 136 • 💬 97 • 2d ago
 
 ---
 
@@ -205,7 +209,7 @@ Politico • 16h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 103 • 💬 29 • 7h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 107 • 💬 30 • 8h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -213,7 +217,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 52 • 💬 50 • 10h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 53 • 💬 50 • 12h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -229,7 +233,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 46 • 💬 95 • 13h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 46 • 💬 95 • 14h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -281,7 +285,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 13K • 👍 600 • 💬 121 • ⏱️ 11:17 • 3h ago
+👁️ 13K • 👍 600 • 💬 121 • ⏱️ 11:17 • 5h ago
 
 ---
 
@@ -301,7 +305,7 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 150K • 👍 9K • 💬 3K • ⏱️ 13:10 • 15h ago
+👁️ 150K • 👍 9K • 💬 3K • ⏱️ 13:10 • 16h ago
 
 ---
 
@@ -433,7 +437,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 314 • 18h ago
+⬇️ 1,039 • ❤️ 314 • 19h ago
 
 ---
 
@@ -653,7 +657,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 3.2k • 🔱 431 • 1h ago
+⭐ 3.2k • 🔱 431 • 2h ago
 
 ---
 
@@ -673,7 +677,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 118 • 9h ago
+⭐ 2.0k • 🔱 118 • 11h ago
 
 ---
 
@@ -683,7 +687,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.7k • 🔱 191 • 16h ago
+⭐ 1.7k • 🔱 191 • 17h ago
 
 ---
 
@@ -703,7 +707,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.0k • 🔱 121 • 18h ago
+⭐ 1.0k • 🔱 121 • 19h ago
 
 ---
 
@@ -713,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 929 • 🔱 110 • 9h ago
+⭐ 929 • 🔱 110 • 11h ago
 
 ---
 
