@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T11:42:56.698093+00:00'
+updated: '2026-01-05T12:50:50.291189+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 11:42 UTC  
+**Last Updated:** January 05, 2026 at 12:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +6.6%  
-**30d:** +3.6%  
-**90d:** -29.9%  
+**24h:** +1.1%  
+**7d:** +6.7%  
+**30d:** +3.7%  
+**90d:** -29.8%  
 **1y:** -13.9%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 1h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ The modular token standard.
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -166,35 +166,25 @@ Forbes • 1d ago
 
 ---
 
-**[Ethereum Sees Record $8T Stablecoin Transfer Volume in Q4 2025](https://finance.yahoo.com/news/ethereum-sees-record-8t-stablecoin-082921593.html)**
-
-Stablecoin transfer volume on Ethereum climbed to a new all-time high in the fourth quarter of 2025, topping $8 trillion, according to data released by Token Terminal. Key Takeaways: Ethereum stablecoin transfers hit a record $8T in Q4 2025, nearly doubling from Q2 levels. Rising volumes and address activity suggest ...
-
-Yahoo Finance • 3h ago
-
----
-
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – Bulls firmly in control as BTC breaks $93K, ETH and XRP extend gains](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-bulls-firmly-in-control-as-btc-breaks-93k-eth-and-xrp-extend-gains-202601050352)**
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extended their rallies on Monday, gaining more than 4%, 6%, and 12%, respectively, in the previous week. The top three cryptocurrencies by market capitalization could continue to outperform, with bulls in control of the momentum.
 
-FXStreet • 7h ago
+FXStreet • 8h ago
 
 ---
 
-**[BlackRock Moves Bitcoin and Ethereum, Stirring Sell-Off Fears Ahead of $2.2B Options Expiry](https://finance.yahoo.com/news/blackrock-moves-bitcoin-ethereum-stirring-124908729.html)**
+**[U.S. jobs report, Ethereum upgrade: Crypto Week Ahead](https://www.coindesk.com/markets/2026/01/05/u-s-jobs-report-ethereum-upgrade-crypto-week-ahead)**
 
-The world’s largest asset manager, BlackRock, transferred Bitcoin and Ethereum into Coinbase today, following the outflows that the BTC and ETH ETFs recorded on December 31. This development also comes amid the expiry of $2.2 billion crypto options today, which also has the market on edge. BlackRock Deposits Bitcoin and Ethereum To Coinbase Amid Options
+Your look at what's coming in the week starting Jan. 5.
 
-Yahoo Finance • 2d ago
+CoinDesk • 56m ago
 
 ---
 
-**[Ethereum Sees New Investors Pouring In, How Will Price React?](https://beincrypto.com/ethereum-new-investors-surge-price-impact/)**
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqfAnLXdoXF56rFRZOyPPg5ByFa_pVjXCSD-B5ezpebRdhx7miQ9abGK&gaa_ts=695bb711&gaa_sig=XOTIYc9oYXOiKoXZzbHKICP9mFu2NS9EZvcdDphrtAQkPFHOlx_dlA_co9_rA4463yX5Fd0kGxeJyXvQX0Xy-A%3D%3D)**
 
-Ethereum sees a surge in new investors following the Fusaka launch, with rising adoption pushing ETH closer to a key technical breakout.
-
-BeInCrypto • 12h ago
+Barron's • 3d ago
 
 ---
 
@@ -202,7 +192,15 @@ BeInCrypto • 12h ago
 
 Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
+
+---
+
+**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
+
+Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
+
+Fortune • 14m ago
 
 ---
 
@@ -214,11 +212,11 @@ CoinDesk • 3d ago
 
 ---
 
-**[Vitalik Buterin Claims Ethereum has Solved the Blockchain Trilemma Problem](https://beincrypto.com/ethereum-solves-blockchain-trilemma-issue/)**
+**[Ethereum: The Accumulation Addresses Catalyst (Cryptocurrency: ETH-USD)](https://seekingalpha.com/article/4857134-ethereum-the-accumulation-addresses-catalyst)**
 
-Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
+Ethereum is in an accumulation phase, with supply shifting to long-term holders, supporting a bullish medium- to long-term thesis. Read why I rate the ETH-USD stock a Buy.
 
-BeInCrypto • 1d ago
+Seeking Alpha • 59m ago
 
 ---
 
@@ -240,7 +238,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 4K • 👍 121 • 💬 357 • ⏱️ 8:15 • 21h ago
+👁️ 4K • 👍 121 • 💬 357 • ⏱️ 8:15 • 22h ago
 
 ---
 
@@ -250,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 163 • 💬 10 • ⏱️ 4:31 • 8h ago
+👁️ 2K • 👍 163 • 💬 10 • ⏱️ 4:31 • 9h ago
 
 ---
 
@@ -270,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 177 • 💬 7 • ⏱️ 4:04 • 22h ago
+👁️ 3K • 👍 177 • 💬 7 • ⏱️ 4:04 • 23h ago
 
 ---
 
@@ -280,7 +278,7 @@ BitMine Immersion Technologies ($BMNR) has reached a critical turning point. Man
 
 📺 CryptoStock Lab
 
-👁️ 573 • 👍 24 • 💬 36 • ⏱️ 13:12 • 11h ago
+👁️ 573 • 👍 24 • 💬 36 • ⏱️ 13:12 • 12h ago
 
 ---
 
@@ -290,7 +288,7 @@ BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 340 • 💬 43 • ⏱️ 14:26 • 14h ago
+👁️ 9K • 👍 340 • 💬 43 • ⏱️ 14:26 • 15h ago
 
 ---
 
@@ -300,7 +298,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 224 • 💬 21 • ⏱️ 29:32 • 6h ago
+👁️ 1K • 👍 224 • 💬 21 • ⏱️ 29:32 • 7h ago
 
 ---
 
