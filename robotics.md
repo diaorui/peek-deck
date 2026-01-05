@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T16:54:40.791518+00:00'
+updated: '2026-01-05T17:24:03.551606+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 16:54 UTC  
+**Last Updated:** January 05, 2026 at 17:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
 
-5h ago
+6h ago
 
 ---
 
@@ -90,7 +90,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 I designed and built this robot arm completely from scratch as a hands on learning project in robotics, mechanics, and control systems. The system is largely based on repurposed components from two old 3D printers Ender 3 and Sapphire Pro, combined with CNC machined aluminum structural parts and several 3D printed components. On the control side, the arm runs a heavily modified Marlin firmware with closed loop stepper drivers (MKS TMC42C). Higher level control and automation are handled by a custom Python script, which is still very much a work in progress. The robot can be controlled manually using a PlayStation controller, or operated in an automated mode by recording waypoints and replaying motion sequences. As one of the first simple practice tasks, I taught the arm to feed my dog. It’s a deliberately low complexity application, mainly used to test repeatability, positioning accuracy, and basic sequencing. This is my first serious attempt at building a robot. I didn’t closely follow tutorials most of the process involved experimenting, breaking things, fixing them, and learning why they failed. One area I’m especially interested in improving next is the shoulder joint. If anyone here has experience with small robot arms, I’d really appreciate ideas for more robust shoulder joint designs, particularly when it comes to stiffness, backlash, and holding torque. I’m also considering using a harmonic drive for the shoulder axis and would love recommendations for stable, reasonably affordable options, or alternative approaches that worked well for you in similar scale systems. Any feedback on what works, what doesn’t, and where you’d focus improvements next would be very welcome.
 
-🔗 [youtu.be](https://youtu.be/3EGTNYefZMA?si=UXEQW2hJB412sqbA) • 4h ago
+🔗 [youtu.be](https://youtu.be/3EGTNYefZMA?si=UXEQW2hJB412sqbA) • 5h ago
 
 ---
 
@@ -118,13 +118,13 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 2h ago
+CNET • 3h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -132,7 +132,7 @@ Bloomberg.com • 2h ago
 
 LAS VEGAS — This year’s CES tech fair will focus on the shift of artificial intelligence (AI) from mainly digital uses to real-world applications,...
 
-The Korea Times • 54m ago
+The Korea Times • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 220K • 👍 5K • 💬 1K • ⏱️ 13:17 • 12h ago
+👁️ 220K • 👍 5K • 💬 1K • ⏱️ 13:17 • 13h ago
 
 ---
 
@@ -282,7 +282,7 @@ Company's staff challenged kyrie irving to push the humanoid robot. however, the
 
 📺 BeastNarratives
 
-👁️ 7.7M • 👍 178K • 💬 659 • ⏱️ 0:45 • 5d ago
+👁️ 7.7M • 👍 178K • 💬 659 • ⏱️ 0:45 • 6d ago
 
 ---
 

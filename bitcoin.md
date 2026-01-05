@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T16:54:40.782292+00:00'
+updated: '2026-01-05T17:24:03.542052+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 16:54 UTC  
+**Last Updated:** January 05, 2026 at 17:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-38m ago
+1h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -111,13 +111,13 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-15h ago
+16h ago
 
 ---
 
 **[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 **[Is the Lightning Network successful or a disappointing?](https://www.reddit.com/r/Bitcoin/comments/1q4l86f/is_the_lightning_network_successful_or_a/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -147,7 +147,7 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 2h ago
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 1d ago
 
 CleanSpark's AI/HPC diversification is a long-term pivot, enhancing its strategic appeal beyond pure Bitcoin mining. Read why CLSK is a Strong Buy.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -207,7 +207,7 @@ Seeking Alpha • 10h ago
 
 Analysts cite Bitcoin portfolio rebalancing as institutional investors price in three more years of Trump's "America First" policy.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -265,7 +265,7 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 1d ago
+⬆️ 2 • 💬 0 • 2d ago
 
 ---
 
@@ -279,7 +279,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 17h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 18h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -307,7 +307,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 859 • 💬 31 • ⏱️ 38:54 • 2h ago
+👁️ 8K • 👍 859 • 💬 31 • ⏱️ 38:54 • 3h ago
 
 ---
 
@@ -317,7 +317,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 51K • 👍 2K • 💬 632 • ⏱️ 10:50 • 16h ago
+👁️ 51K • 👍 2K • 💬 632 • ⏱️ 10:50 • 17h ago
 
 ---
 
@@ -347,7 +347,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 340 • ⏱️ 23:12 • 17h ago
+👁️ 36K • 👍 2K • 💬 340 • ⏱️ 23:12 • 18h ago
 
 ---
 
@@ -387,7 +387,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 441 • 3h ago
+👁️ 3K • 👍 441 • 4h ago
 
 ---
 
@@ -397,7 +397,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 190 • ⏱️ 19:12 • 13h ago
+👁️ 61K • 👍 4K • 💬 190 • ⏱️ 19:12 • 14h ago
 
 ---
 

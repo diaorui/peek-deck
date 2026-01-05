@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T16:54:40.788278+00:00'
+updated: '2026-01-05T17:24:03.548232+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 16:54 UTC  
+**Last Updated:** January 05, 2026 at 17:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 6h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-18m ago
+47m ago
 
 ---
 
@@ -96,7 +96,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 So I tend to lean more towards the Solana side for development due to the low TPS and easy fees for a L1, but there always seemed to be a problem when I worked at startups - which is many ETH devs did not want to learn Solana due to the differences between ETH and SOL. And there are many. Firstly, PDAs and transactions are completely different - just looking at a block explorer, one would have to take a class to understand what is going on between accounts and instructions and the gas compute. I decided to take on this challenge since many Solana developers only understand the basics of transactions and thus build applications that fail during high network traffic times, and do not take advantage of memos which can store app specific data. I would love to know what ETH devs think of Solana, if they have ever tried Solana, and if they are interested I can share the API I built to see if they think integrating Solana now becomes much easier.
 
-1h ago
+2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Fortune • 4h ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ dlnews.com • 4h ago
 
 **[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -216,7 +216,7 @@ FXStreet • 13h ago
 
 Ethereum sees a surge in new investors following the Fusaka launch, with rising adoption pushing ETH closer to a key technical breakout.
 
-BeInCrypto • 17h ago
+BeInCrypto • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 548 • 👍 71 • 💬 5 • ⏱️ 4:24 • 1h ago
+👁️ 548 • 👍 71 • 💬 5 • ⏱️ 4:24 • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 185 • 💬 10 • ⏱️ 4:31 • 13h ago
+👁️ 3K • 👍 185 • 💬 10 • ⏱️ 4:31 • 14h ago
 
 ---
 
@@ -298,7 +298,7 @@ BitMine Immersion Technologies ($BMNR) has reached a critical turning point. Man
 
 📺 CryptoStock Lab
 
-👁️ 635 • 👍 26 • 💬 36 • ⏱️ 13:12 • 16h ago
+👁️ 635 • 👍 26 • 💬 36 • ⏱️ 13:12 • 17h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 351 • 💬 45 • ⏱️ 14:26 • 19h ago
+👁️ 9K • 👍 351 • 💬 45 • ⏱️ 14:26 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ Tangem 20% off + $10 in Bitcoin ➡️➡️ Use codes "NYEXTRA26" & "CRYPTOCREW
 
 📺 Your Crypto Crew
 
-👁️ 138 • 👍 23 • 💬 4 • ⏱️ 10:16 • 1h ago
+👁️ 138 • 👍 23 • 💬 4 • ⏱️ 10:16 • 2h ago
 
 ---
 
