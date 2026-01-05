@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T01:58:33.911249+00:00'
+updated: '2026-01-05T04:01:22.846866+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 01:58 UTC  
+**Last Updated:** January 05, 2026 at 04:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-3h ago
+6h ago
 
 ---
 
@@ -44,31 +44,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-12h ago
-
----
-
-**[Unitree Humanoid Robot Training](https://www.reddit.com/r/robotics/comments/1q3lx1a/unitree_humanoid_robot_training/)**
-
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
-
-16h ago
-
----
-
-**[Built a differential drive robot with localisation/ tracking.](https://www.reddit.com/r/robotics/comments/1q3xzll/built_a_differential_drive_robot_with/)**
-
-I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
-
-7h ago
-
----
-
-**[Ping Pong Ball Bouncing Task](https://www.reddit.com/r/robotics/comments/1q3scjs/ping_pong_ball_bouncing_task/)**
-
-Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
-
-10h ago
+14h ago
 
 ---
 
@@ -76,7 +52,31 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-27m ago
+2h ago
+
+---
+
+**[Unitree Humanoid Robot Training](https://www.reddit.com/r/robotics/comments/1q3lx1a/unitree_humanoid_robot_training/)**
+
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
+
+18h ago
+
+---
+
+**[Built a differential drive robot with localisation/ tracking.](https://www.reddit.com/r/robotics/comments/1q3xzll/built_a_differential_drive_robot_with/)**
+
+I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
+
+9h ago
+
+---
+
+**[Ping Pong Ball Bouncing Task](https://www.reddit.com/r/robotics/comments/1q3scjs/ping_pong_ball_bouncing_task/)**
+
+Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
+
+12h ago
 
 ---
 
@@ -84,7 +84,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-3h ago
+5h ago
 
 ---
 
@@ -92,21 +92,19 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
 
-5h ago
+7h ago
 
 ---
 
 **[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
 
-10h ago
+12h ago
 
 ---
 
-**[Meta A.I Robot.](https://www.reddit.com/r/robotics/comments/1q48ash/meta_ai_robot/)**
+**[Walker S2 playing tennis. Clearly a highlight reel, but still impressive for a model that is heading into mass production this year.](https://www.reddit.com/r/robotics/comments/1q3ef1r/walker_s2_playing_tennis_clearly_a_highlight_reel/)**
 
-Would it be possible to take a character you made in Meta A.I, build a robot, then transfer the software to the robot. Giving them the personality of your A.I creation? I imagine that wouldn’t be cheap, if it’s even possible…
-
-18m ago
+1d ago
 
 ---
 
@@ -118,15 +116,7 @@ Would it be possible to take a character you made in Meta A.I, build a robot, th
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 1h ago
-
----
-
-**[How Boston Dynamics upgraded the Atlas robot — and what's next](https://www.cbsnews.com/news/how-boston-dynamics-upgraded-atlas-robot-and-whats-next-60-minutes/)**
-
-Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
-
-CBS News • 1h ago
+CBS News • 3h ago
 
 ---
 
@@ -134,7 +124,15 @@ CBS News • 1h ago
 
 On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-CNN • 1d ago
+CNN • 2d ago
+
+---
+
+**[Robots learn 1,000 tasks in one day from a single demo](https://www.foxnews.com/tech/robots-learn-1000-tasks-one-day-from-single-demo)**
+
+Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
+
+Fox News • 16h ago
 
 ---
 
@@ -162,11 +160,19 @@ Interesting Engineering • 2d ago
 
 ---
 
+**[How Boston Dynamics upgraded the Atlas robot — and what's next](https://www.cbsnews.com/news/how-boston-dynamics-upgraded-atlas-robot-and-whats-next-60-minutes/)**
+
+Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
+
+CBS News • 3h ago
+
+---
+
 **[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-01-04/)**
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 1h ago
+CBS News • 3h ago
 
 ---
 
@@ -174,15 +180,7 @@ CBS News • 1h ago
 
 While it's not ready to join the workforce yet, Atlas, an AI-powered humanoid, is learning how to do human tasks.
 
-CBS News • 1h ago
-
----
-
-**[Science fiction could become reality in 2026: Figure CEO predicts big for humanoids, eVTOLs](https://interestingengineering.com/ai-robotics/science-fiction-become-reality-in-2026)**
-
-Figure CEO Brett Adcock predicts 2026 breakthroughs in humanoid robots, eVTOL city flights, multimodal AI agents, and next-gen school security.
-
-Interesting Engineering • 2d ago
+CBS News • 3h ago
 
 ---
 
@@ -197,6 +195,26 @@ The Robot Report • 1d ago
 ---
 
 ## YouTube Videos: "robotics"
+
+**[How Boston Dynamics upgraded the Atlas robot](https://www.youtube.com/watch?v=n6ISdRkS37I)**
+
+Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021 ...
+
+📺 60 Minutes
+
+👁️ 10K • 👍 508 • 💬 82 • ⏱️ 5:49 • 3h ago
+
+---
+
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+
+📺 Technology Now
+
+👁️ 525 • 👍 19 • 💬 1 • ⏱️ 7:38 • 8h ago
+
+---
 
 **[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
@@ -224,7 +242,17 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 137K • 👍 767 • 💬 37 • ⏱️ 12:09 • 6d ago
+👁️ 137K • 👍 768 • 💬 37 • ⏱️ 12:09 • 6d ago
+
+---
+
+**[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
+
+Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
+
+📺 BeastNarratives
+
+👁️ 7.3M • 👍 171K • 💬 615 • ⏱️ 0:45 • 5d ago
 
 ---
 
@@ -248,16 +276,6 @@ Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock A
 
 ---
 
-**[How a Robotic Mouth Mimics Human Speech!](https://www.youtube.com/watch?v=nUjDOmid9qw)**
-
-In 2011, researchers in Japan developed a robotic mouth designed not to simulate speech digitally, but to physically reproduce ...
-
-📺 vt.physics
-
-👁️ 2.5M • 👍 71K • 💬 5K • ⏱️ 0:38 • 5d ago
-
----
-
 **[Robot lands painful blow during motion-capture demo | 7NEWS](https://www.youtube.com/watch?v=JXxM1Rm8klw)**
 
 A humanoid robot mimics a man's martial arts movements using motion-capture technology during a demonstration. The robot ...
@@ -275,26 +293,6 @@ In 2025, embodied intelligence became one of China's most exciting and fastest-g
 📺 CGTN
 
 👁️ 14K • 👍 134 • 💬 6 • ⏱️ 2:57 • 3d ago
-
----
-
-**[Capybara Upgrades Old Robot and Crushes Emma’s $1 Million Robot! #capybara](https://www.youtube.com/watch?v=VA9oXLYkQaA)**
-
-Watch how a tiny capybara with a rusty old robot takes on Emmas million dollar high tech robot in an epic and hilarious showdown ...
-
-📺 The CapyVibe
-
-👁️ 1.2M • 👍 100K • 💬 322 • ⏱️ 0:59 • 5d ago
-
----
-
-**[The Army of Autonomous Robots Restoring Nature | Tom Chi | TED](https://www.youtube.com/watch?v=0R_CJjGRX7o)**
-
-Impact investor Tom Chi challenges a dangerous assumption: that economic growth and ecological health are opposing forces.
-
-📺 TED
-
-👁️ 95K • 👍 3K • 💬 304 • ⏱️ 18:54 • 3d ago
 
 ---
 

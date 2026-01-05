@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T01:58:33.901089+00:00'
+updated: '2026-01-05T04:01:22.837540+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 01:58 UTC  
+**Last Updated:** January 05, 2026 at 04:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,951.45
+### $92,919.74
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +2.2%  
-**7d:** +5.6%  
+**7d:** +5.5%  
 **30d:** +3.2%  
 **90d:** -24.4%  
 **1y:** -8.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1857.00B
+**Market Cap:** $1854.63B
 Rank #1
 
-**Circulating Supply:** 19,971,675 BTC
+**Circulating Supply:** 19,971,687 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.3%
+-26.4%
 
 **All-Time Low:** $67.81
-+137018.4%
++136820.8%
 
 ---
 
@@ -77,45 +77,45 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
+
+2h ago
+
+---
+
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-6h ago
-
----
-
-**[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
-
-5h ago
-
----
-
-**[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
-
-6h ago
-
----
-
-**[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
-
-7h ago
+8h ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-40m ago
+2h ago
+
+---
+
+**[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
+
+8h ago
+
+---
+
+**[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
+
+8h ago
+
+---
+
+**[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
+
+9h ago
 
 ---
 
 **[CNBC ANNOUNCED LIVE ON TV THAT WALMART WILL NOW ACCEPT BITCOIN AND CRYPTO VIA ONEPAY CASH](https://www.reddit.com/r/Bitcoin/comments/1q3orku/cnbc_announced_live_on_tv_that_walmart_will_now/)**
 
-13h ago
-
----
-
-**[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
-
-17m ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the first cryptocurrency. Satoshi Nakamoto left a clear message: "Chancellor on brink of second bailout for banks," a direct criticism of bank bailouts after the 2008 crisis. At the time, the reward was 50 $BTC, which was worthless. Today, #Bitcoin is trading at around $90,000 and is one of the world's eight largest assets. From an experiment to a global asset.
 
-6h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ On January 3, 2009, Bitcoin's genesis block was mined, marking the birth of the 
 
 Is it worth investing at this point or much too late and not enough money to be made. Edit: thanks to everyone for all the input. Is BTC the best Crypto to invest in?
 
-1h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ Is it worth investing at this point or much too late and not enough money to be 
 
 First photo view is the last 24 hours, every UTXO moved is in this chart slice by slice. The lower two charts are showing the last block. Almost all volume (movement) is less than 4 week held coins... bottom right is the realized change in value from the last time each coin group moved. Every color is an age (combination of all activity for that age group added together) I'm guessing we're getting a critical test of $94k soon... if those long term coins remain as quiet as they are now, we'll blow right through it. One can hope... Second Photo is the last 12 hours combined... small profit taking on the order of $100m total realized movement in coins, Loss level is very low because everyone who bought above $90k the last several months is waiting to see if this moves higher. Cheers and Happy New Year.
 
-27m ago
+2h ago
 
 ---
 
@@ -151,23 +151,7 @@ First photo view is the last 24 hours, every UTXO moved is in this chart slice b
 
 Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
 
-dlnews.com • 15h ago
-
----
-
-**[Optimism Returns With US Institutions as Bitcoin Reclaims $91K](https://finance.yahoo.com/news/optimism-returns-us-institutions-bitcoin-003100576.html)**
-
-Bitcoin hits $91K as Coinbase Premium recovers, signaling US institutional buyers are returning after December's selling pressure.
-
-Yahoo Finance • 41m ago
-
----
-
-**[Asia Morning Briefing: Data shows legacy media took a more balanced view of bitcoin in 2025](https://www.coindesk.com/markets/2026/01/05/asia-morning-briefing-data-shows-legacy-media-took-a-more-balanced-view-of-bitcoin-in-2025)**
-
-Media attention shifted from bitcoin’s environmental footprint to crime and kidnapping in 2025, while overall sentiment remained broadly neutral, according to crypto intelligence platform Perception.
-
-CoinDesk • 29m ago
+dlnews.com • 17h ago
 
 ---
 
@@ -183,15 +167,7 @@ CNBC • 2d ago
 
 What comes next for digital gold?
 
-The Motley Fool • 9h ago
-
----
-
-**[Strategy on Track to Kick Off 2026 with New Bitcoin Purchase](https://www.tradingview.com/news/u_today:60bb4125e094b:0-strategy-on-track-to-kick-off-2026-with-new-bitcoin-purchase/)**
-
-Business tycoon Michael Saylor is signaling that MicroStrategy (MSTR) may be gearing up for its first Bitcoin acquisition of 2026.He boasted about the firm’s massive portfolio performance amid the market's recent recovery earlier today.In a post on X (formerly Twitter), the executive chairman share…
-
-TradingView — Track All Markets • 7h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -203,15 +179,25 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin makes $MSTR interesting.](https://x.com/saylor/status/2006892948726718628)**
+**[Strategy on Track to Kick Off 2026 with New Bitcoin Purchase](https://www.tradingview.com/news/u_today:60bb4125e094b:0-strategy-on-track-to-kick-off-2026-with-new-bitcoin-purchase/)**
 
-x.com • 3d ago
+Business tycoon Michael Saylor is signaling that MicroStrategy (MSTR) may be gearing up for its first Bitcoin acquisition of 2026.He boasted about the firm’s massive portfolio performance amid the market's recent recovery earlier today.In a post on X (formerly Twitter), the executive chairman share…
+
+TradingView — Track All Markets • 9h ago
+
+---
+
+**[Bitcoin news: MSTR’s Q4 losses revive flash-crash fears for BTC](https://ambcrypto.com/bitcoin-news-mstrs-q4-losses-revive-flash-crash-fears-for-btc/)**
+
+MSTR’s losses mount: Could another flash crash be on the horizon?
+
+AMBCrypto • 19h ago
 
 ---
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 10h ago
+Forbes • 12h ago
 
 ---
 
@@ -220,6 +206,18 @@ Forbes • 10h ago
 A quick guide to the Jan. 5 PMI print: which sub-indexes matter, what “hot costs” mean for yields, and how that transmission reaches BTC fast.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Eric Trump, Saylor, 'Rich Dad' and billionaires were wrong about Bitcoin’s 2025 price](https://www.thestreet.com/crypto/trading/eric-trump-saylor-rich-dad-and-billionaires-were-wrong-about-bitcoins-2025-price)**
+
+thestreet.com • 2d ago
+
+---
+
+**[Missouri Attorney General focuses on video lottery machines, illegal hemp sales, Bitcoin companies](https://www.missourinet.com/2026/01/01/missouri-takes-aim-at-video-lottery-machines-illegal-hemp-sales-bitcoin-companies/)**
+
+Missourinet • 2d ago
 
 ---
 
@@ -263,7 +261,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No database. End-to-End Encrypted.
 
-⬆️ 4 • 💬 1 • 5d ago • [signingroom.io](https://signingroom.io)
+⬆️ 4 • 💬 1 • 6d ago • [signingroom.io](https://signingroom.io)
 
 ---
 
@@ -283,7 +281,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 2h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 4h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -305,93 +303,23 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;This Secret $8 Trillion Liquidity Injection Is Coming For Bitcoin In 2026!&quot; Raoul Pal](https://www.youtube.com/watch?v=nslN690Odh0)**
-
-Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a crucial setup for a massive liquidity-driven surge in ...
-
-📺 The Wolf Of All Streets
-
-👁️ 41K • 👍 2K • 💬 521 • ⏱️ 54:37 • 11h ago
-
----
-
 **[Bitcoin Investors...What Just Happened?](https://www.youtube.com/watch?v=rC2ploXEesM)**
 
 Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 953 • 💬 106 • ⏱️ 10:50 • 1h ago
+👁️ 19K • 👍 1K • 💬 241 • ⏱️ 10:50 • 4h ago
 
 ---
 
-**[Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any Bitcoin!](https://www.youtube.com/watch?v=PIzQ8yG_pvc)**
+**[Cardano founder Charles Hoskinson explains WHY Bitcoin will hit $250,000 in 2026](https://www.youtube.com/watch?v=loUVe0FWXm0)**
 
-Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any Bitcoin! GET AUSTIN'S X1 ALGO ...
+Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: https://youtu.be/hvBL63VRgH4 Altcoin Daily ...
 
-📺 Austin Hilton
+📺 Altcoin Daily
 
-👁️ 2K • 👍 164 • 💬 9 • ⏱️ 9:06 • 4h ago
-
----
-
-**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 11K • 👍 426 • 💬 100 • ⏱️ 21:16 • 1d ago
-
----
-
-**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
-
-The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 1K • 💬 342 • ⏱️ 21:27 • 1d ago
-
----
-
-**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
-
-Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
-
-📺 Swan Bitcoin
-
-👁️ 37K • 👍 2K • 💬 317 • ⏱️ 15:22 • 2d ago
-
----
-
-**[Bitcoin Is Telling You Something the Fed Won’t](https://www.youtube.com/watch?v=liNG-Ta1ubU)**
-
-Bitcoin is not crashing… and it's not mooning either. This pause is where most people get shaken out, and where smart money ...
-
-📺 Wallstreet Trapper
-
-👁️ 20K • 👍 1K • 💬 701 • ⏱️ 11:37 • 1d ago
-
----
-
-**[My Weekly Outlook: S&amp;P 500, Nasdaq, Gold &amp; Bitcoin | Long-Term Moves I’m Making](https://www.youtube.com/watch?v=2pnbofHDAVg)**
-
-Get the LTI & Fear/Greed Package  https://krown-trading.teachable.com/p/the-long-term-investor-tool 20% OFF everything with ...
-
-📺 Krown
-
-👁️ 4K • 👍 420 • 💬 81 • ⏱️ 21:04 • 7h ago
-
----
-
-**[EVERYTHING JUST CHANGED FOR BITCOIN &amp; CRYPTO](https://www.youtube.com/watch?v=GhqsmQUNMhA)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 20K • 👍 903 • 💬 91 • ⏱️ 16:13 • 18h ago
+👁️ 28K • 👍 1K • 💬 155 • ⏱️ 8:15 • 11h ago
 
 ---
 
@@ -401,7 +329,77 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 1K • 💬 159 • ⏱️ 23:12 • 2h ago
+👁️ 16K • 👍 1K • 💬 224 • ⏱️ 23:12 • 4h ago
+
+---
+
+**[&quot;This Secret $8 Trillion Liquidity Injection Is Coming For Bitcoin In 2026!&quot; Raoul Pal](https://www.youtube.com/watch?v=nslN690Odh0)**
+
+Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a crucial setup for a massive liquidity-driven surge in ...
+
+📺 The Wolf Of All Streets
+
+👁️ 46K • 👍 2K • 💬 555 • ⏱️ 54:37 • 14h ago
+
+---
+
+**[Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any Bitcoin!](https://www.youtube.com/watch?v=PIzQ8yG_pvc)**
+
+Bitcoin Whales ARE BUYING! What This Means To You - Even If You Do Not Own Any Bitcoin! GET AUSTIN'S X1 ALGO ...
+
+📺 Austin Hilton
+
+👁️ 2K • 👍 178 • 💬 6 • ⏱️ 9:06 • 6h ago
+
+---
+
+**[Bitcoin: This is The Moment Everyone is Waiting For](https://www.youtube.com/watch?v=o1U9XTLzi_s)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 4K • 👍 440 • 💬 179 • ⏱️ 27:00 • 2h ago
+
+---
+
+**[&quot;100% CERTAIN! Bitcoin&#39;s About to Absolutely Overtake Gold &amp; Silver&quot; - Lawrence Lepard](https://www.youtube.com/watch?v=i9hGVmwM0NM)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 12K • 👍 431 • 💬 100 • ⏱️ 21:16 • 1d ago
+
+---
+
+**[5 REASONS Bitcoin Can Go Parabolic in 2026!](https://www.youtube.com/watch?v=KXG8BxbSASI)**
+
+The world is changing fast and Bitcoin is built for exactly this moment. From AI's rise to the collapse of old trade systems, these five ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 1K • 💬 342 • ⏱️ 21:27 • 1d ago
+
+---
+
+**[Michael Saylor is Synthetically Halving Bitcoin!](https://www.youtube.com/watch?v=CfPxNar4mXg)**
+
+Michael Saylor and Strategy are now absorbing more Bitcoin per day than miners produce — creating a synthetic halving in real ...
+
+📺 Swan Bitcoin
+
+👁️ 38K • 👍 2K • 💬 318 • ⏱️ 15:22 • 2d ago
+
+---
+
+**[Bitcoin Is Telling You Something the Fed Won’t](https://www.youtube.com/watch?v=liNG-Ta1ubU)**
+
+Bitcoin is not crashing… and it's not mooning either. This pause is where most people get shaken out, and where smart money ...
+
+📺 Wallstreet Trapper
+
+👁️ 20K • 👍 1K • 💬 706 • ⏱️ 11:37 • 1d ago
 
 ---
 
