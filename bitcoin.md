@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T14:26:46.347625+00:00'
+updated: '2026-01-05T14:51:58.801933+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 14:26 UTC  
+**Last Updated:** January 05, 2026 at 14:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -97,13 +97,13 @@ Rank #1
 
 **[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
 
-8h ago
+9h ago
 
 ---
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Ledger had another data breach via payment processor Global-e leaking the personal data of customers (name & other contact information). Earlier today customers received the email below.
 
-🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/zachxbt/status/2008139053544194545?s=46) • 2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 For the past five years, I’ve been buying $10 of Bitcoin every single day. No timing the market. No chasing pumps. Just consistency. I don’t check the price much anymore. When it goes up, I keep buying. When it crashes, I keep buying. No fear. No regret.
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 Very strong resistance at $93-94K If we break these level this week, final bull run will be loading for sure 👁️‍🗨️
 
-9h ago
+10h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 1h ago
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 37m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ Forbes • 23h ago
 
 What comes next for digital gold?
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying o
 
 📺 CNBC Television
 
-👁️ 2K • 👍 31 • 💬 29 • ⏱️ 2:48 • 2h ago
+👁️ 2K • 👍 31 • 💬 29 • ⏱️ 2:48 • 3h ago
 
 ---
 
@@ -349,7 +349,7 @@ It's Finally Time for Bitcoin!! Sentiment will soon shift Venezuela oil situatio
 
 📺 Camel Finance
 
-👁️ 4K • 👍 562 • 💬 85 • ⏱️ 19:14 • 2h ago
+👁️ 4K • 👍 562 • 💬 85 • ⏱️ 19:14 • 3h ago
 
 ---
 
@@ -369,7 +369,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 186 • ⏱️ 8:15 • 21h ago
+👁️ 39K • 👍 2K • 💬 186 • ⏱️ 8:15 • 22h ago
 
 ---
 
@@ -379,7 +379,7 @@ This is how Sheldon is kicking off his crypto trading in 2026, breaking down the
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 503 • 💬 15 • ⏱️ 38:50 • 3h ago
+👁️ 4K • 👍 503 • 💬 15 • ⏱️ 38:50 • 4h ago
 
 ---
 
@@ -399,7 +399,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 21K • 👍 1K • 💬 378 • ⏱️ 27:00 • 12h ago
+👁️ 21K • 👍 1K • 💬 378 • ⏱️ 27:00 • 13h ago
 
 ---
 

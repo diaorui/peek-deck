@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T14:26:46.356845+00:00'
+updated: '2026-01-05T14:51:58.811702+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 14:26 UTC  
+**Last Updated:** January 05, 2026 at 14:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-36m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ I designed and built this robot arm completely from scratch as a hands on learni
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-15h ago
+16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-19h ago
+20h ago
 
 ---
 
@@ -124,7 +124,7 @@ New York Post • 2d ago
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 26m ago
+Bloomberg.com • 51m ago
 
 ---
 
@@ -132,7 +132,7 @@ Bloomberg.com • 26m ago
 
 LAS VEGAS, January 05, 2026--At CES, Qualcomm Technologies, Inc. (NASDAQ:QCOM) introduced a next-generation robotics comprehensive-stack architecture that integrates hardware, software, and compound AI. Qualcomm Technologies also unveiled its latest high performance robotics processor for industrial AMRs and advanced full-size humanoids, the Qualcomm Dragonwing™ IQ10 Series. This is the latest robotics-specific processor which expands the current robotics roadmap for the Company, delivering high
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 51m ago
 
 ---
 
@@ -172,7 +172,7 @@ Inspenet • 1d ago
 
 While it's not ready to join the workforce yet, Atlas, an AI-powered humanoid, is learning how to do human tasks.
 
-CBS News • 13h ago
+CBS News • 14h ago
 
 ---
 
@@ -212,7 +212,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 5K • 👍 76 • 💬 3 • ⏱️ 7:38 • 18h ago
+👁️ 5K • 👍 76 • 💬 3 • ⏱️ 7:38 • 19h ago
 
 ---
 
@@ -232,7 +232,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 66K • 👍 1K • 💬 216 • ⏱️ 5:49 • 13h ago
+👁️ 66K • 👍 1K • 💬 216 • ⏱️ 5:49 • 14h ago
 
 ---
 

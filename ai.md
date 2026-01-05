@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T14:26:46.339197+00:00'
+updated: '2026-01-05T14:51:58.792969+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - repositories
 - news
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 14:26 UTC  
+**Last Updated:** January 05, 2026 at 14:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 A new study finds that AI systems embed cultural and developmental assumptions at every stage of their lifecycle. Training data reflects dominant languages, economic conditions, social norms, and historical records. Design choices encode expectations about infrastructure, behavior, and values.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 1h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ A new study finds that AI systems embed cultural and developmental assumptions a
 
 Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-20h ago
+21h ago
 
 ---
 
@@ -141,19 +141,19 @@ CNBC • 19h ago
 
 As the AI trade becomes "fractured," 2026 could see other stocks finally outshine the "Magnificent Seven."
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 51m ago
 
 ---
 
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
 **[The emerging California job industry that is AI-proof | Opinion](https://www.sacbee.com/opinion/op-ed/article314061601.html)**
 
-Sacramento Bee • 26m ago
+Sacramento Bee • 51m ago
 
 ---
 
@@ -161,13 +161,13 @@ Sacramento Bee • 26m ago
 
 Chatbots may worsen delusions in people by reinforcing false beliefs, psychiatrists warn. Mental health experts document cases where AI strengthened distorted thinking.
 
-Fox News • 32m ago
+Fox News • 57m ago
 
 ---
 
 **[US IPO Performance Lags S&P 500 in 2025 as Crypto, AI Deals Sink](https://www.bloomberg.com/news/articles/2026-01-05/us-ipo-performance-lags-s-p-500-in-2025-as-crypto-ai-deals-sink)**
 
-Bloomberg.com • 25m ago
+Bloomberg.com • 50m ago
 
 ---
 
@@ -237,7 +237,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 51 • 💬 101 • 23h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 51 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -361,7 +361,7 @@ This Evil Egg Shocked Grandma #ai #kindness #trendingshorts This video is AI-gen
 
 📺 ASR CopyLol Facts
 
-👁️ 9K • ⏱️ 0:21 • 7h ago
+👁️ 9K • ⏱️ 0:21 • 8h ago
 
 ---
 
@@ -642,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 6h ago
+⭐ 20.8k • 🔱 3.3k • 7h ago
 
 ---
 
@@ -652,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.0k • 🔱 521 • 7h ago
+⭐ 4.0k • 🔱 521 • 8h ago
 
 ---
 
@@ -732,7 +732,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 903 • 🔱 20 • 51m ago
+⭐ 903 • 🔱 20 • 1h ago
 
 ---
 

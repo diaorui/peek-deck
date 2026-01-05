@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T14:26:46.353610+00:00'
+updated: '2026-01-05T14:51:58.808234+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 14:26 UTC  
+**Last Updated:** January 05, 2026 at 14:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 soo, thing is I’ve been staking for some time now, always had eth on my ledger, but recently walked right into a scam and lost my spare eth which I used to pay for staking services at allnodes. I have no sufficient eth on my account to do any kind of swap from my existing coins into eth, so thought i would ask if theres anyone who is willing to help out a fellow eth beleiver/staker with a couple of dollars worth of eth to be able to pull out my staking rewards from my nodes, pay for my staking services and pay you back (including your transaction fees) right away? 5 dollars worth of eth would do that big time. here is my adress: 0x6E9aB773812cC1002856c1E7487B237D0EcafBa8 THANK YOU SO MUCH, whoever decides to help me out, will repay you ASAP.
 
-12m ago
+37m ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 23h ago
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -172,7 +172,7 @@ Fortune • 1h ago
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 37m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 23h ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ Forbes • 1d ago
 
 Ethereum is in an accumulation phase, with supply shifting to long-term holders, supporting a bullish medium- to long-term thesis. Read why I rate the ETH-USD stock a Buy.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 285 • 💬 26 • ⏱️ 29:32 • 8h ago
+👁️ 2K • 👍 285 • 💬 26 • ⏱️ 29:32 • 9h ago
 
 ---
 
