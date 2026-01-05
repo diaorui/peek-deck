@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T22:46:29.975973+00:00'
+updated: '2026-01-05T23:21:42.317554+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 22:46 UTC  
+**Last Updated:** January 05, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $391.94B
+**Market Cap:** $390.46B
 Rank #2
 
 **Circulating Supply:** 120,694,851 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.4%
+-34.7%
 
 **All-Time Low:** $0.43
-+749488.3%
++745987.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 12h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 13h ago
 
 ---
 
@@ -166,7 +166,7 @@ Barron's • 3d ago
 
 **[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1h ago
 
 Ethereum has solved the blockchain trilemma, according to Vitalik Buterin.  He cites two advancements: the steady progress of zero-knowledge virtual machines and the December Fusaka upgrade, which introduced peer data availability sampling. But it will take years to take advantage of these developments, Buterin added.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView — Track All Markets • 5h ago
 
 **[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -230,7 +230,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 1K • 💬 50 • ⏱️ 46:18 • 4h ago
+👁️ 17K • 👍 1K • 💬 51 • ⏱️ 46:18 • 5h ago
 
 ---
 
@@ -240,7 +240,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 7 • ⏱️ 4:24 • 7h ago
+👁️ 2K • 👍 130 • 💬 8 • ⏱️ 4:24 • 8h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mjcnVr41V_s)**
+
+BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 148 • 💬 118 • ⏱️ 22:27 • 59m ago
 
 ---
 
@@ -250,17 +260,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 219 • 👍 11 • 💬 22 • ⏱️ 4:53 • 4h ago
-
----
-
-**[🚨Bitcoin BREAKS $94,000! (Ethereum MEGA REVERSAL?)](https://www.youtube.com/watch?v=NJl_6alz37Y)**
-
-Bitcoin has just SMASHED through the $94000 mark, hitting its highest level since mid-December 2025! In today's video, we're ...
-
-📺 Discover Crypto
-
-👁️ 2K • 👍 135 • 💬 23 • ⏱️ 53:22 • 2h ago
+👁️ 359 • 👍 14 • 💬 42 • ⏱️ 4:53 • 5h ago
 
 ---
 
@@ -270,7 +270,17 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 14K • 👍 238 • 💬 473 • ⏱️ 2:37 • 2d ago
+👁️ 14K • 👍 238 • 💬 309 • ⏱️ 2:37 • 2d ago
+
+---
+
+**[🚨Bitcoin BREAKS $94,000! (Ethereum MEGA REVERSAL?)](https://www.youtube.com/watch?v=NJl_6alz37Y)**
+
+Bitcoin has just SMASHED through the $94000 mark, hitting its highest level since mid-December 2025! In today's video, we're ...
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 180 • 💬 35 • ⏱️ 53:22 • 3h ago
 
 ---
 
@@ -280,17 +290,17 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 4K • 👍 140 • 💬 284 • ⏱️ 8:15 • 1d ago
+👁️ 5K • 👍 140 • 💬 10 • ⏱️ 8:15 • 1d ago
 
 ---
 
-**[BMNR Controls 3.5% of Ethereum — Why ARK &amp; Pantera Are Betting Big](https://www.youtube.com/watch?v=kQR9ZwN3w5E)**
+**[Ethereum Tests $3,200! 🚀 Why TOSHI &amp; VET are the Altcoins to be Watching](https://www.youtube.com/watch?v=fuZttUIuT_8)**
 
-In this video, we break down BitMine Immersion Technologies ($BMNR) and their stunning rise in early 2026. With a treasury now ...
+Follow me on X: https://x.com/ChartsMinute ☘️ Get FREE stocks signing up for WeBull with a qualifying deposit: ...
 
-📺 CryptoStock Lab
+📺 Art of Charts
 
-👁️ 224 • 👍 9 • 💬 31 • ⏱️ 14:01 • 6h ago
+👁️ 64 • 👍 6 • 💬 43 • ⏱️ 12:25 • 4h ago
 
 ---
 
@@ -300,27 +310,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 519 • 💬 87 • ⏱️ 13:59 • 11h ago
+👁️ 10K • 👍 545 • 💬 225 • ⏱️ 13:59 • 11h ago
 
 ---
 
-**[🚨 ETHEREUM IS THE FUTURE OF FINANCE!!! INSTITUTIONS CHASING IT NOW!!! DON&#39;T MISS OUT](https://www.youtube.com/watch?v=od5oCoWtmWM)**
+**[BMNR Controls 3.5% of Ethereum — Why ARK &amp; Pantera Are Betting Big](https://www.youtube.com/watch?v=kQR9ZwN3w5E)**
 
-ETHEREUM IS THE FUTURE OF FINANCE!!! INSTITUTIONS CHASING IT NOW!!! DON'T MISS OUT Zach's Patreon: ...
+In this video, we break down BitMine Immersion Technologies ($BMNR) and their stunning rise in early 2026. With a treasury now ...
 
-📺 Zach Humphries
+📺 CryptoStock Lab
 
-👁️ 289 • 👍 26 • 💬 73 • ⏱️ 1:20 • 2h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i3E8-wxudTo)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 195 • 💬 12 • ⏱️ 4:31 • 19h ago
+👁️ 337 • 👍 15 • 💬 29 • ⏱️ 14:01 • 6h ago
 
 ---
 

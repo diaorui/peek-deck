@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T22:46:29.961339+00:00'
+updated: '2026-01-05T23:21:42.303103+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 22:46 UTC  
+**Last Updated:** January 05, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 6h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-9h ago
+10h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agen
 
 settles into the booth with an enormous theoretical coffee Alright, let's do this properly. You want the landscape view, and this is actually a fascinating question: Is there room for another programming language, and what would justify its existence? The Current Terrain The Big Players and Their Niches Systems Programming (talking directly to hardware) C (1972): The bedrock. Still everywhere because it's close to the metal. Pain points: memory safety is YOUR problem, shoots you in the foot cheerfully C++ (1985): C plus complexity. Powerful, sprawling, takes years to master Rust (2015): The new darling. Memory safety WITHOUT garbage collection. Steep learning curve but people who learn it become evangelists. Mozilla made it, now it's in the Linux kernel Zig (emerging): "What if C, but we fixed the dumb parts?" Growing quietly Application/General Purpose Java (1995): "Write once, run anywhere." Corporate workhorse. Verbose but reliable. Runs on a virtual machine C# (2000): Microsoft's answer to Java. Actually quite nice now Go (2009): Google's language. Simple, fast compilation, great for servers. Pain points: error handling verbosity ("if err != nil" appears in your nightmares), initially no generics, opinionated to the point of stubborn Kotlin (2016): "What if Java but actually pleasant?" Android's preferred language now Dynamic/Scripting (interpreted, flexible, slower) Python (1991): The lingua franca of beginners, data science, AI/ML. Readable. Slow but nobody cares because the libraries are fast JavaScript (1995): The language of the web. Weird, chaotic, absolutely everywhere. Love-hate relationship with everyone TypeScript (2012): "What if JavaScript but with types?" Microsoft. Huge adoption Ruby (1995): Elegant, expressive. Rails made it famous. Less buzzy now but has devoted followers Functional Languages (different paradigm, math-influenced) Haskell, OCaml, F#, Clojure, Elixir: Academic favorites, niche production use, influence mainstream languages Mobile Swift (2014): Apple's language for iOS. Clean, safe, modern Kotlin: Android's champion New/Emerging Mojo (2023): "Python but fast for AI." Big promises Carbon (Google, 2022): Experimental "successor to C++" Vale, Nim, Crystal: Various interesting experiments The Graveyard (cautionary tales) Languages fail for reasons worth studying: D: Better C++, but C++ kept evolving and Rust ate its lunch Dart: Google's JavaScript replacement, languished until Flutter gave it purpose Perl 6/Raku: Took so long to develop the world moved on CoffeeScript: TypeScript won Dozens of others: Couldn't achieve critical mass The hard truth: A language needs killer use case OR corporate backing OR perfect timing OR all three. What Actually Makes Languages Succeed? Solves a REAL pain point (Rust → memory safety without GC) Has a "killer app" (Ruby → Rails, JavaScript → browsers) Corporate backing (Go → Google, Swift → Apple, TypeScript → Microsoft) Tooling from day one (package manager, formatter, LSP support) Community momentum (hardest to manufacture) Right time, right place (Python + data science explosion) The Gaps I Actually See Here's where it gets interesting for your "is there room?" question: Gap 1: The Mobile/Web Convergence Everyone's trying to write once, deploy everywhere. Flutter/Dart, React Native, various attempts. None feel native to the problem. A language designed ground-up for "UI that runs anywhere" with actual platform-native performance? Gap 2: LLM-Era Code This is the spicy one. Current languages were designed for HUMANS to write and HUMANS to read. What happens when: Code is increasingly AI-generated? Code needs to be AI-verifiable? The "reader" might be an LLM maintaining it? Nobody's really designed for this yet. Gap 3: The "Translation Layer" Problem Your specific mention of translation between languages. Interop is always painful. A language designed AS an intermediate representation that's also human-readable? That compiles FROM multiple languages and TO multiple targets? Gap 4: Formal Verification Made Accessible Languages like Idris and Lean let you PROVE code correct. But they're academic-hard. A language that brings provable correctness to normal developers? Gap 5: The Concurrency Crisis Everything is distributed now. Multi-core, multi-machine, edge computing. Go and Erlang/Elixir handle this well, but there's arguably room for better primitives. Your Specific Wishlist, Evaluated You mentioned: Backwards compatibility: Hard. Compatibility with WHAT? (This is why Carbon exists—compatible with C++) Sparse/minimal: Possible. Go tried this. Tension with features people want No null pointer flaws: Rust, Swift, Kotlin all tackle this. Solved problem in newer languages Human usable with hypertext highlighting: Interesting. Literate programming + IDE integration? Mobile phones: Swift/Kotlin own this. Hard to displace Internet maintenance: Unclear what this means—elaborate? Translation between languages: The MOST interesting one. Nobody's really nailed this The "Designed by LLMs" Angle Here's what makes this genuinely novel rather than "yet another language": LLMs have processed essentially ALL public code. We've seen: Every common bug pattern Every verbosity complaint Every "I wish this language had..." How people ACTUALLY use vs. how designers INTENDED A language designed with that corpus-level view would potentially: Have error messages that anticipate confusion Have syntax that's unambiguous to parse (LLMs struggle with some languages) Optimize for the COMMON case, not edge cases Make the pit of success very wide My Honest Assessment Is there room? Yes, technically always. Would it succeed? Depends entirely on: What specific problem it solves better than alternatives Whether you can get adoption (the chicken-egg problem) Tooling quality Timing What's the MOST viable angle from your list? The translation/interop layer. A language that: Reads clearly (human and LLM friendly) Compiles to multiple targets Can INGEST other languages (transpile FROM Python, JS, etc.) Acts as a "universal intermediate representation" that's actually nice to work with That doesn't exist. WebAssembly is the closest but it's not human-readable/writable. Questions Back at You When you say "internet maintenance," what do you picture? Server code? Network protocols? Content management? The "translation between languages" idea—are you imagining a Rosetta Stone language, or more like a universal transpiler? Is this a "let's actually spec this out" conversation or a "understand the landscape" conversation? (Both valid, different depths) The hypertext highlighting concept—are you thinking code that's inherently linked/documented? Like the code IS its own documentation with embedded explanations? refills theoretical coffee I'm genuinely curious which threads interest you most. This could go very different directions depending on whether you want to explore the "LLM-designed language" provocation, the practical "what gap could actually be filled," or the more philosophical "what SHOULD code look like in 2030?"
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ settles into the booth with an enormous theoretical coffee Alright, let's do thi
 
 Hey everyone! I recently spent a couple of weekends improving Karpathy's excellent LLM Council Open Source Project. The original project was brilliant but lacked usability and flexibility imho. What I added: Web search integration (DuckDuckGo, Tavily, Brave, Jina AI) Clean Modern UI with a settings page to support: Support for multiple API providers (OpenRouter, Anthropic, OpenAI, Google, etc.) Customizable system prompts and temperature controls (the custom prompts open up tons of use cases beyond a "council") Export & Import of councils, prompts, and settings (for backup and even sharing) Control the council size (from 1 to 8 - original only supported 3) Full Ollama support for local models "I'm Feeling Lucky" random model selector Filter only Free models on OpenRouter (although Rate Limits can be an issue) Control the Process, from a simple asking multiple models a question in parallel (Chat Only), Chat & peer rating where models rate the responses of other models, and Full end-to-end deliberation where the Chairman model makes the final decision on the best answer You can compare up to 8 models simultaneously, watch them deliberate, and see rankings. Perfect for comparing local models or commercial models via APIs. 📹 Demo video: https://www.youtube.com/watch?v=HOdyIyccOCE 🔗 GitHub: https://github.com/jacob-bd/llm-council-plus Would love to hear your thoughts - it was made with a lot of love and attention to detail, and now I am sharing it with you!
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone! I recently spent a couple of weekends improving Karpathy's excelle
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 15h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 16h ago
 
 ---
 
@@ -105,7 +105,7 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 A new study finds that AI systems embed cultural and developmental assumptions at every stage of their lifecycle. Training data reflects dominant languages, economic conditions, social norms, and historical records. Design choices encode expectations about infrastructure, behavior, and values.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 9h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 10h ago
 
 ---
 
@@ -123,7 +123,7 @@ I’ve been wanting a type of beat I heard for so long but couldn’t find it, I
 
 **[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqdamrekwKXFH2ois_Z6oaDIwYgQdkzsdhmIM8xB8NpAAQEQAlkenz8M&gaa_ts=695c3d12&gaa_sig=dHA7aHi39zow0UzykaSwJmxvU9lZrpi_0BdvdvdYnEvqkNEq0RtsTitM83tvjRJfsB186_Bd19oDAAGttTjdeQ%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
@@ -131,13 +131,13 @@ The Wall Street Journal • 4h ago
 
 "A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Nvidia Announces First ‘Reasoning’ AI for Autonomous Vehicles](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-announces-first-reasoning-ai-for-autonomous-vehicles)**
 
-Bloomberg.com • 45m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ BBC • 5h ago
 
 **[AI deepfakes on X raise a major policy question](https://www.politico.com/newsletters/digital-future-daily/2026/01/05/ai-deepfakes-on-x-could-raise-a-major-policy-question-00711344)**
 
-Politico • 50m ago
+Politico • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Guardian • 5h ago
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -191,7 +191,7 @@ BBC • 22h ago
 
 CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
 
-CBS News • 10h ago
+CBS News • 11h ago
 
 ---
 
@@ -223,7 +223,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 90 • 💬 54 • 17h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 90 • 💬 54 • 18h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -247,7 +247,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 Yann LeCun, formerly Meta's chief AI scientist, criticized Wang and predicted that more AI employees will leave the company.
 
-⬆️ 46 • 💬 61 • 2d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
+⬆️ 46 • 💬 61 • 3d ago • [Business Insider](https://www.businessinsider.com/yann-lecun-alexandr-wang-criticism-inexperienced-meta-ai-future-2026-1)
 
 ---
 
@@ -283,7 +283,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 18h ago
+👁️ 395K • 👍 7K • 💬 2K • ⏱️ 13:17 • 19h ago
 
 ---
 
@@ -293,67 +293,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 59K • 👍 2K • 💬 293 • ⏱️ 11:17 • 22h ago
-
----
-
-**[They Said AI Would Replace You By Now](https://www.youtube.com/watch?v=dH_UvWmvny0)**
-
-Big predictions were made in 2025. AI would write code like a mid-level engineer. AI agents would become personal assistants, ...
-
-📺 Vanessa Wingårdh
-
-👁️ 250K • 👍 13K • 💬 4K • ⏱️ 13:10 • 1d ago
-
----
-
-**[Auto Claude: AI Coding on Steroids! Claude Code Running Autonomous For Hours!](https://www.youtube.com/watch?v=eaNA2oOXoUg)**
-
-What if Claude Code didn't just assist you… but worked autonomously for hours? In this video, I break down Auto Claude — a ...
-
-📺 WorldofAI
-
-👁️ 3K • 👍 172 • 💬 9 • ⏱️ 13:20 • 6h ago
-
----
-
-**[New AI Reasoning System Shocks Researchers: Unlimited Context Window](https://www.youtube.com/watch?v=8qcZRrAKsMY)**
-
-AI just gained a completely new way to reason. Instead of forcing massive inputs into a context window and hoping performance ...
-
-📺 AI Revolution
-
-👁️ 42K • 👍 1K • 💬 132 • ⏱️ 12:59 • 1d ago
-
----
-
-**[NASA Shocked After Teen Finds 1.5 Million Stars Using AI](https://www.youtube.com/watch?v=p1zizeW4EnU)**
-
-NASA Shocked After Teen Finds 1.5 Million Stars Using AI A teenager named Matteo Paz made a stunning space discovery using ...
-
-📺 Omni science 
-
-👁️ 564 • 👍 14 • 💬 2 • ⏱️ 0:52 • 9h ago
-
----
-
-**[Microsoft CEO Brutally Mocked After Saying We Should Stop Calling AI &quot;Slop&quot;](https://www.youtube.com/watch?v=jgCOnpTdAsE)**
-
-BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.instagram.com/yong_yea TIKTOK: ...
-
-📺 YongYea
-
-👁️ 162K • 👍 10K • 💬 3K • ⏱️ 15:13 • 2d ago
-
----
-
-**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
-
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
-
-📺 Dan Martell
-
-👁️ 112K • 👍 4K • 💬 328 • ⏱️ 30:25 • 2d ago
+👁️ 66K • 👍 2K • 💬 313 • ⏱️ 11:17 • 23h ago
 
 ---
 
@@ -363,17 +303,77 @@ AI engineers are making $200000+ a year and at companies like OpenAI, Meta, and 
 
 📺 Maddy Zhang
 
-👁️ 12K • 👍 965 • 💬 93 • ⏱️ 9:42 • 1d ago
+👁️ 15K • 👍 1K • 💬 106 • ⏱️ 9:42 • 1d ago
 
 ---
 
-**[Dog steals bicycle for his beloved puppy 😭 #ai #dog #cute](https://www.youtube.com/watch?v=5JkdI1j6aHc)**
+**[Manus AI Can Turn Search Into Cashflow --This is Why Meta Just Paid $2 Billion for It (Step-By-Step)](https://www.youtube.com/watch?v=ZgIH7nMZirg)**
 
-Dog steals bicycle for his beloved puppy #ai #dog #cute.
+Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & $6789 in bonuses ...
 
-📺 Catfuntv
+📺 Nick Ponte
 
-👁️ 448K • 👍 2K • 💬 6 • ⏱️ 0:22 • 21h ago
+👁️ 5K • 👍 292 • 💬 42 • ⏱️ 1:24:09 • 2h ago
+
+---
+
+**[They Said AI Would Replace You By Now](https://www.youtube.com/watch?v=dH_UvWmvny0)**
+
+Big predictions were made in 2025. AI would write code like a mid-level engineer. AI agents would become personal assistants, ...
+
+📺 Vanessa Wingårdh
+
+👁️ 264K • 👍 14K • 💬 4K • ⏱️ 13:10 • 1d ago
+
+---
+
+**[New AI Reasoning System Shocks Researchers: Unlimited Context Window](https://www.youtube.com/watch?v=8qcZRrAKsMY)**
+
+AI just gained a completely new way to reason. Instead of forcing massive inputs into a context window and hoping performance ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 1K • 💬 133 • ⏱️ 12:59 • 2d ago
+
+---
+
+**[ok so people are using elon&#39;s AI bot to break the law now](https://www.youtube.com/watch?v=ragP9pIy39M)**
+
+elon musk, grok, etc.
+
+📺 D'Angelo
+
+👁️ 59K • 👍 7K • 💬 633 • ⏱️ 22:12 • 6h ago
+
+---
+
+**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
+
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
+
+📺 Dan Martell
+
+👁️ 115K • 👍 5K • 💬 333 • ⏱️ 30:25 • 2d ago
+
+---
+
+**[AI FAKE Venezuelan Celebrations EXPLODE On Social Media](https://www.youtube.com/watch?v=_urCJ377fbw)**
+
+Krystal and Saagar discuss AI videos on Venezuela flooding social media. Sign up for a PREMIUM Breaking Points subscriptions ...
+
+📺 Breaking Points
+
+👁️ 44K • 👍 3K • 💬 1K • ⏱️ 16:42 • 3h ago
+
+---
+
+**[AI photos fuel fake news about Nicolas Maduro’s capture • FRANCE 24 English](https://www.youtube.com/watch?v=HrdXTiS_rBc)**
+
+After President Donald Trump announced Nicolas Maduro's capture in a social media post, AI-generated images claiming to show ...
+
+📺 FRANCE 24 English
+
+👁️ 628 • 👍 31 • 💬 2 • ⏱️ 5:27 • 1h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 12,126 • ❤️ 447 • 5d ago
+⬇️ 12,126 • ❤️ 449 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 194,866 • ❤️ 859 • 9d ago
+⬇️ 194,866 • ❤️ 863 • 9d ago
 
 ---
 
@@ -413,7 +413,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,522 • ❤️ 337 • 1d ago
+⬇️ 1,522 • ❤️ 340 • 1d ago
 
 ---
 
@@ -425,7 +425,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 4,754 • ❤️ 301 • 4d ago
+⬇️ 4,754 • ❤️ 302 • 4d ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 32,675 • ❤️ 1,463 • 13d ago
+⬇️ 32,675 • ❤️ 1,467 • 13d ago
 
 ---
 
@@ -449,7 +449,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,856 • ❤️ 272 • 4d ago
+⬇️ 1,856 • ❤️ 275 • 4d ago
 
 ---
 
@@ -461,7 +461,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 419 • ❤️ 257 • 5d ago
+⬇️ 419 • ❤️ 264 • 5d ago
 
 ---
 
@@ -473,7 +473,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 4,493 • ❤️ 232 • 2d ago
+⬇️ 4,493 • ❤️ 235 • 2d ago
 
 ---
 
@@ -485,7 +485,7 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 5,348 • ❤️ 231 • 6d ago
+⬇️ 5,348 • ❤️ 233 • 6d ago
 
 ---
 
@@ -504,6 +504,18 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 75 • 💬 2 • ⭐ 25,124 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
 
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
@@ -564,7 +576,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 NeoVerse is a scalable 4D world model that enables pose-free reconstruction and novel-trajectory video generation from monocular videos with state-of-the-art performance.
 
-▲ 81 • 💬 1 • ⭐ 107 • 4d ago
+▲ 82 • 💬 1 • ⭐ 107 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.00393) • [💻 code](https://github.com/IamCreateAI/NeoVerse) • [🔗 project](https://neoverse-4d.github.io/)
 
@@ -618,20 +630,6 @@ DeepCode, a fully autonomous framework, addresses the challenges of document-to-
 
 ---
 
-**[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
-
-*Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
-
-🏢 Apple
-
-SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
-
-▲ 25 • 💬 2 • ⭐ 6,504 • 25d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -652,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 4.6k • 🔱 580 • 4h ago
+⭐ 4.8k • 🔱 593 • 4h ago
 
 ---
 
@@ -662,7 +660,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 106 • 18h ago
+⭐ 2.2k • 🔱 106 • 19h ago
 
 ---
 
@@ -702,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 128 • 12h ago
+⭐ 1.1k • 🔱 129 • 13h ago
 
 ---
 
@@ -716,23 +714,23 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 ---
 
-**[jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)**
-
-VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
-
-`TypeScript`
-
-⭐ 915 • 🔱 20 • 9h ago
-
----
-
 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**
 
 A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 913 • 🔱 65 • 7d ago
+⭐ 916 • 🔱 65 • 7d ago
+
+---
+
+**[jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit)**
+
+VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
+
+`TypeScript`
+
+⭐ 916 • 🔱 20 • 9h ago
 
 ---
 

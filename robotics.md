@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T22:46:29.979264+00:00'
+updated: '2026-01-05T23:21:42.320826+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 22:46 UTC  
+**Last Updated:** January 05, 2026 at 23:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-8h ago
+9h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 47m ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 1h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
 
-11h ago
+12h ago
 
 ---
 
@@ -122,7 +122,7 @@ CBS News • 22h ago
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 8h ago
+CNET • 9h ago
 
 ---
 
@@ -130,13 +130,13 @@ CNET • 8h ago
 
 Major tech conference CES 2026 will see a showcasing of a variety of innovations this week, from new AI announcements to even developments in robotics. Lopez Research Founder Maribel Lopez discusses the sectors where she sees the most robotics deployments while discussing the use cases for both non-humanoid and humanoid robotics. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Korea Times • 1d ago
 
 NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
 
-Engadget • 24m ago
+Engadget • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 18h ago
+👁️ 395K • 👍 7K • 💬 2K • ⏱️ 13:17 • 19h ago
 
 ---
 
@@ -206,7 +206,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 7K • 👍 103 • 💬 3 • ⏱️ 7:38 • 1d ago
+👁️ 8K • 👍 111 • 💬 3 • ⏱️ 7:38 • 1d ago
 
 ---
 
@@ -216,7 +216,17 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 112K • 👍 2K • 💬 345 • ⏱️ 5:49 • 22h ago
+👁️ 132K • 👍 2K • 💬 378 • ⏱️ 5:49 • 22h ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 100K • 👍 2K • 💬 271 • ⏱️ 11:42 • 4d ago
 
 ---
 
@@ -230,26 +240,6 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 99K • 👍 2K • 💬 271 • ⏱️ 11:42 • 4d ago
-
----
-
-**[She Built a $100M Robot by Age 25 #robotics #robot #innovation #engineering #ai #humanoidrobot](https://www.youtube.com/watch?v=LqOhwTX-oOE)**
-
-The Australian startup Andromeda Robotics just secured $23 million in Series A funding to bring its colorful eldercare humanoids ...
-
-📺 Kalil 4.0
-
-👁️ 421 • 👍 22 • 💬 2 • ⏱️ 1:06 • 2h ago
-
----
-
 **[These New AI Robots Are About to Become Real in 2026](https://www.youtube.com/watch?v=t-GeDuS3qWw)**
 
 Humanoid robots are about to take a massive leap forward in 2026 — and the companies behind them are moving faster than ...
@@ -260,23 +250,33 @@ Humanoid robots are about to take a massive leap forward in 2026 — and the com
 
 ---
 
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
-
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
-
-📺 Female Humanoid Lab
-
-👁️ 23K • 👍 200 • 💬 11 • ⏱️ 12:34 • 3d ago
-
----
-
 **[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
 
 Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
 
 📺 BeastNarratives
 
-👁️ 7.8M • 👍 180K • 💬 677 • ⏱️ 0:45 • 6d ago
+👁️ 7.9M • 👍 181K • 💬 690 • ⏱️ 0:45 • 6d ago
+
+---
+
+**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+
+Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+
+📺 Female Humanoid Lab
+
+👁️ 24K • 👍 201 • 💬 12 • ⏱️ 12:34 • 3d ago
+
+---
+
+**[She Built a $100M Robot by Age 25 #robotics #robot #innovation #engineering #ai #humanoidrobot](https://www.youtube.com/watch?v=LqOhwTX-oOE)**
+
+The Australian startup Andromeda Robotics just secured $23 million in Series A funding to bring its colorful eldercare humanoids ...
+
+📺 Kalil 4.0
+
+👁️ 627 • 👍 28 • 💬 2 • ⏱️ 1:06 • 3h ago
 
 ---
 
@@ -286,7 +286,7 @@ A humanoid robot mimics a man's martial arts movements using motion-capture tech
 
 📺 7NEWS Australia
 
-👁️ 208K • 👍 2K • ⏱️ 0:42 • 6d ago
+👁️ 209K • 👍 2K • ⏱️ 0:42 • 6d ago
 
 ---
 

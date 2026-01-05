@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T22:46:29.969881+00:00'
+updated: '2026-01-05T23:21:42.311527+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 22:46 UTC  
+**Last Updated:** January 05, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1882.71B
+**Market Cap:** $1878.55B
 Rank #1
 
-**Circulating Supply:** 19,971,965 BTC
+**Circulating Supply:** 19,972,015 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--25.3%
+-25.5%
 
 **All-Time Low:** $67.81
-+138839.7%
++138510.8%
 
 ---
 
@@ -85,19 +85,19 @@ Rank #1
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-6h ago
+7h ago
 
 ---
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-3h ago
+4h ago
 
 ---
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -147,19 +147,19 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
 **[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqfNN_PDkw85WzwPXYvU8joXDDs8n6MMOZ55zLJxHsPlklMhFvwOTq-b&gaa_ts=695c3d14&gaa_sig=uLVGMiHLpffX1EA8vfXbErIn0gvVrScLVv60SVwUJu2HG2-_RVL72v5OVINVv7ATs2dR05pSBl6DwXeQPTRGfQ%3D%3D)**
 
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
 **[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 5h ago
 
 Bitcoin plodded through the holidays but ended strong at $91,489—discover why this small move could spark a bigger rally or fizzle out in the new year.
 
-Bitcoin Magazine • 4h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
@@ -277,7 +277,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 23h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 1d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -299,33 +299,23 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 ## YouTube Videos: "bitcoin"
 
-**[WOAH THIS is LARGE!!! sit down before watching this bitcoin video....](https://www.youtube.com/watch?v=IdVzHx2wKg4)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 7K • 👍 615 • 💬 199 • ⏱️ 10:52 • 6h ago
-
----
-
 **[Bitcoin Signals Flipped Green..HUGE Bull Run Incoming](https://www.youtube.com/watch?v=7142xkNXYz8)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 285 • ⏱️ 38:51 • 4h ago
+👁️ 26K • 👍 1K • 💬 180 • ⏱️ 38:51 • 4h ago
 
 ---
 
-**[Why Trump’s Venezuela Move Could Be A Key Catalyst For Bitcoin!](https://www.youtube.com/watch?v=iAjh03-96ZA)**
+**[WOAH THIS is LARGE!!! sit down before watching this bitcoin video....](https://www.youtube.com/watch?v=IdVzHx2wKg4)**
 
-In this video, Ran breaks down a geopolitical shift that could change the entire macro landscape. With oil turning into a policy tool, ...
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-📺 Crypto Banter
+📺 Tyler S
 
-👁️ 12K • 👍 1K • 💬 18 • ⏱️ 46:11 • 6h ago
+👁️ 11K • 👍 777 • 💬 213 • ⏱️ 10:52 • 7h ago
 
 ---
 
@@ -335,7 +325,27 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 221 • 💬 80 • ⏱️ 15:02 • 6h ago
+👁️ 6K • 👍 324 • 💬 47 • ⏱️ 15:02 • 7h ago
+
+---
+
+**[BIG DANGER FOR BITCOIN TODAY](https://www.youtube.com/watch?v=0dz9zYRJqPU)**
+
+Coinflare: https://themoon.co/CoinflareCarl Make your first deposit of ≥ 100 USDT and get a 50 USDT future bonus. (Join Now ...
+
+📺 The Moon Show
+
+👁️ 8K • 👍 676 • 💬 20 • ⏱️ 5:57 • 6h ago
+
+---
+
+**[Why Trump’s Venezuela Move Could Be A Key Catalyst For Bitcoin!](https://www.youtube.com/watch?v=iAjh03-96ZA)**
+
+In this video, Ran breaks down a geopolitical shift that could change the entire macro landscape. With oil turning into a policy tool, ...
+
+📺 Crypto Banter
+
+👁️ 15K • 👍 2K • 💬 25 • ⏱️ 46:11 • 7h ago
 
 ---
 
@@ -345,37 +355,7 @@ Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 836 • 💬 86 • ⏱️ 18:14 • 11h ago
-
----
-
-**[We&#39;re About To Enter A SUPER Acceleration In Bitcoin - Raoul Pal Crypto](https://www.youtube.com/watch?v=YWLTS9MZYqY)**
-
-Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 5K • 👍 214 • 💬 244 • ⏱️ 14:43 • 17h ago
-
----
-
-**[What Does Bitcoin Have to do with Maduro&#39;s Capture?](https://www.youtube.com/watch?v=-dr-sMX2at8)**
-
-Venezuela's crisis reveals a deeper truth about money, power, and freedom. From hyperinflation and stolen elections to financial ...
-
-📺 Simply Bitcoin
-
-👁️ 40K • 👍 3K • 💬 371 • ⏱️ 23:12 • 23h ago
-
----
-
-**[Bitcoin trades near $93,000 as Venezuela headlines ease inflation fears](https://www.youtube.com/watch?v=f_SJzZCP2Dg)**
-
-CNBC's MacKenzie Sigalos reports on the oil-to-inflation link crypto is keying off, plus the short-liquidation burst that helped ...
-
-📺 CNBC Television
-
-👁️ 6K • 👍 58 • 💬 156 • ⏱️ 2:48 • 11h ago
+👁️ 19K • 👍 906 • 💬 97 • ⏱️ 18:14 • 12h ago
 
 ---
 
@@ -385,17 +365,37 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 190 • ⏱️ 8:15 • 1d ago
+👁️ 45K • 👍 2K • 💬 193 • ⏱️ 8:15 • 1d ago
 
 ---
 
-**[Bitcoin is Finally Breaking the Range.. Is $97K Next?](https://www.youtube.com/watch?v=f8lHY7u9CV8)**
+**[The Best Way To Start 2026! [MY CRYPTO TRADING GAMEPLAN]](https://www.youtube.com/watch?v=H6id2wU1-e0)**
 
-Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandles ...
+This is how Sheldon is kicking off his crypto trading in 2026, breaking down the mindset, structure, and game plan he's using to ...
 
-📺 Frankie Candles 
+📺 Crypto Banter
 
-👁️ 1K • 👍 189 • 💬 152 • ⏱️ 12:53 • 5h ago
+👁️ 7K • 👍 652 • 💬 30 • ⏱️ 38:50 • 12h ago
+
+---
+
+**[🚨 BITCOIN 2026 🚀/🔻?!?!?!?!?!](https://www.youtube.com/watch?v=x-6XX6y-TJ8)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 6K • 👍 790 • 💬 375 • ⏱️ 12:50 • 3h ago
+
+---
+
+**[What Does Bitcoin Have to do with Maduro&#39;s Capture?](https://www.youtube.com/watch?v=-dr-sMX2at8)**
+
+Venezuela's crisis reveals a deeper truth about money, power, and freedom. From hyperinflation and stolen elections to financial ...
+
+📺 Simply Bitcoin
+
+👁️ 42K • 👍 3K • 💬 348 • ⏱️ 23:12 • 1d ago
 
 ---
 
