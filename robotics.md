@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T07:51:22.741876+00:00'
+updated: '2026-01-05T08:35:23.372917+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 07:51 UTC  
+**Last Updated:** January 05, 2026 at 08:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-6h ago
+7h ago
 
 ---
 
@@ -76,7 +76,7 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-16h ago
+17h ago
 
 ---
 
@@ -84,7 +84,7 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-9h ago
+10h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
 
-11h ago
+12h ago
 
 ---
 
@@ -100,13 +100,13 @@ Okk so i am using raspberry pi 4 for this and I know i wired everything correctl
 
 The contact sensor gives you pretty rich info: how many contacts there are, where they happen, the normal/tangent directions, and the force magnitude along each axis.
 
-26m ago
+1h ago
 
 ---
 
 **[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ The contact sensor gives you pretty rich info: how many contacts there are, wher
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 20h ago
+Fox News • 21h ago
 
 ---
 
@@ -150,7 +150,7 @@ Inspenet • 2d ago
 
 New Analysis Platform Explores Why Household Tasks and Physical Automation Require Embodied Intelligence Beyond Traditional Computer Approaches The next wave of AI is physical AI. AI that understands the laws of physics, AI that can work among us.” — Jensen Huang, CEO of Nvidia BROOKLYN, NY, UNITED STATES, January 4, 2026 /EINPresswire.com/ — As artificial […]
 
-Detroit Free Press • 1h ago
+Detroit Free Press • 2h ago
 
 ---
 
@@ -158,7 +158,7 @@ Detroit Free Press • 1h ago
 
 Forget about robots that look like they're straight out of science fiction. ‘Unobtrusive physical AI,’ as the technology is called, could wind up being more pervasive in the real world.
 
-Computerworld • 47m ago
+Computerworld • 1h ago
 
 ---
 
@@ -174,7 +174,7 @@ Interesting Engineering • 2d ago
 
 Nearly a dozen Chinese humanoid robot makers are expected at the trade show, while Hong Kong sends its largest-ever delegation.
 
-South China Morning Post • 4h ago
+South China Morning Post • 5h ago
 
 ---
 
@@ -204,7 +204,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 2K • 👍 37 • 💬 2 • ⏱️ 7:38 • 12h ago
+👁️ 2K • 👍 37 • 💬 2 • ⏱️ 7:38 • 13h ago
 
 ---
 
@@ -214,7 +214,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 90K • 👍 2K • 💬 440 • ⏱️ 0:32 • 22h ago
+👁️ 90K • 👍 2K • 💬 440 • ⏱️ 0:32 • 23h ago
 
 ---
 
@@ -224,7 +224,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 41K • 👍 1K • 💬 136 • ⏱️ 5:49 • 7h ago
+👁️ 41K • 👍 1K • 💬 136 • ⏱️ 5:49 • 8h ago
 
 ---
 
@@ -274,7 +274,7 @@ Company's staff challenged kyrie irving to push the humanoid robot. however, the
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 28 • 💬 2 • ⏱️ 8:31 • 12h ago
+👁️ 1K • 👍 28 • 💬 2 • ⏱️ 8:31 • 13h ago
 
 ---
 

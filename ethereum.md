@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T07:51:22.738605+00:00'
+updated: '2026-01-05T08:35:23.370206+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 07:51 UTC  
+**Last Updated:** January 05, 2026 at 08:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 22h ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 Ethereum has recorded a sharp increase in on-chain user activity since deployment of Fusaka upgrade executed in early December, with new address creation rising 110% over the past month. Glassnode data shows the network is now adding approximately 292,000 new addresses per day, marking its fastest pace of wallet growth ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ Forbes • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extended their rallies on Monday, gaining more than 4%, 6%, and 12%, respectively, in the previous week. The top three cryptocurrencies by market capitalization could continue to outperform, with bulls in control of the momentum.
 
-FXStreet • 3h ago
+FXStreet • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 2d ago
 
 Ethereum sees a surge in new investors following the Fusaka launch, with rising adoption pushing ETH closer to a key technical breakout.
 
-BeInCrypto • 8h ago
+BeInCrypto • 9h ago
 
 ---
 
@@ -210,7 +210,7 @@ BeInCrypto • 8h ago
 
 Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -226,7 +226,7 @@ CoinDesk • 3d ago
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 20h ago
+BeInCrypto • 21h ago
 
 ---
 
@@ -240,7 +240,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 3K • 👍 113 • 💬 185 • ⏱️ 8:15 • 17h ago
+👁️ 3K • 👍 113 • 💬 185 • ⏱️ 8:15 • 18h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 102 • 💬 4 • ⏱️ 4:31 • 4h ago
+👁️ 1K • 👍 102 • 💬 4 • ⏱️ 4:31 • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 7K • 👍 317 • 💬 32 • ⏱️ 14:26 • 10h ago
+👁️ 7K • 👍 317 • 💬 32 • ⏱️ 14:26 • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ BitMine Immersion Technologies ($BMNR) has reached a critical turning point. Man
 
 📺 CryptoStock Lab
 
-👁️ 416 • 👍 20 • 💬 14 • ⏱️ 13:12 • 7h ago
+👁️ 416 • 👍 20 • 💬 14 • ⏱️ 13:12 • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 670 • 2h ago
+👁️ 4K • 👍 670 • 3h ago
 
 ---
 
@@ -300,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 174 • 💬 7 • ⏱️ 4:04 • 18h ago
+👁️ 3K • 👍 174 • 💬 7 • ⏱️ 4:04 • 19h ago
 
 ---
 
