@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T13:41:21.292077+00:00'
+updated: '2026-01-05T14:26:46.339197+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 13:41 UTC  
+**Last Updated:** January 05, 2026 at 14:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,27 @@ Grok has sparked backlash after the AI image generator was used to generate nonc
 
 ---
 
+**[AI that connects users with similar interests by chatting with them first. good idea or privacy nightmare?](https://www.reddit.com/r/artificial/comments/1q4l0i1/ai_that_connects_users_with_similar_interests_by/)**
+
+Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
+
+1h ago
+
+---
+
+**[AWS Amazon Q was surprisingly helpful at saving me money](https://www.reddit.com/r/artificial/comments/1q4kxa8/aws_amazon_q_was_surprisingly_helpful_at_saving/)**
+
+I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
+
+1h ago
+
+---
+
 **[Samsung puts Gemini AI in your fridge because apparently that’s necessary](https://www.reddit.com/r/artificial/comments/1q4erc8/samsung_puts_gemini_ai_in_your_fridge_because/)**
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 6h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 7h ago
 
 ---
 
@@ -57,7 +73,7 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 A new study finds that AI systems embed cultural and developmental assumptions at every stage of their lifecycle. Training data reflects dominant languages, economic conditions, social norms, and historical records. Design choices encode expectations about infrastructure, behavior, and values.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 52m ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 1h ago
 
 ---
 
@@ -65,7 +81,7 @@ A new study finds that AI systems embed cultural and developmental assumptions a
 
 Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
 
-9h ago
+10h ago
 
 ---
 
@@ -77,19 +93,19 @@ AI gives faster answers. But I’ve noticed it also raises new questions: - Can 
 
 ---
 
-**[NYC Wegmans is storing biometric data on shoppers' eyes, voices and faces](https://www.reddit.com/r/artificial/comments/1q34jp1/nyc_wegmans_is_storing_biometric_data_on_shoppers/)**
-
-The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
-
-🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 1d ago
-
----
-
 **[Is Gemini CLI in VS acting up for you guys too?](https://www.reddit.com/r/artificial/comments/1q3vwqa/is_gemini_cli_in_vs_acting_up_for_you_guys_too/)**
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
 20h ago
+
+---
+
+**[NYC Wegmans is storing biometric data on shoppers' eyes, voices and faces](https://www.reddit.com/r/artificial/comments/1q34jp1/nyc_wegmans_is_storing_biometric_data_on_shoppers/)**
+
+The supermarket chain says it’s a move to ensure shopper safety. Surveillance experts warn of privacy risks.
+
+🔗 [Gothamist](https://gothamist.com/news/nyc-wegmans-is-storing-biometric-data-on-shoppers-eyes-voices-and-faces) • 1d ago
 
 ---
 
@@ -101,22 +117,6 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 ---
 
-**[OpenAI reorganizes some teams to build audio-based AI hardware products](https://www.reddit.com/r/artificial/comments/1q2yed4/openai_reorganizes_some_teams_to_build_audiobased/)**
-
-Voice has lagged in adoption behind screens. OpenAI wants to change that.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) • 1d ago
-
----
-
-**[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
-
-I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,53 +125,23 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
-**[World ‘may not have time’ to prepare for AI safety risks, says leading researcher](https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher)**
+**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
 
-AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
+There isn't enough air to inflate a bubble, so how can it be popped?
 
-The Guardian • 17h ago
-
----
-
-**[Altered and misleading images proliferate on social media amid Maduro's capture](https://www.cbsnews.com/news/maduro-capture-ai-images-false-information/)**
-
-CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
-
-CBS News • 1h ago
+CNBC • 19h ago
 
 ---
 
-**[Nvidia Partner Hon Hai’s Sales Beat Estimates in an AI Boom](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-partner-hon-hai-s-sales-beat-estimates-in-an-ai-boom)**
+**[AI took investors on a date in 2025. In 2026, analysts say it's time to foot the bill.](https://finance.yahoo.com/news/ai-took-investors-on-a-date-in-2025-in-2026-analysts-say-its-time-to-foot-the-bill-140012067.html)**
 
-Bloomberg.com • 5h ago
+As the AI trade becomes "fractured," 2026 could see other stocks finally outshine the "Magnificent Seven."
 
----
-
-**[Nvidia Stock Gains. Why Foxconn Brings Good AI News for the Chip Maker.](https://www.barrons.com/articles/nvidia-stock-price-foxconn-ces-huang-86b5975f?gaa_at=eafs&gaa_n=AWEtsqfGxuEPDkglddhjkJkKBh0w___Rs3OoaKLcgmO9r57EtAwusrLQ-DT0&gaa_ts=695bb70e&gaa_sig=6fp_489S0C_VD5GmPQGQCb922FsO7FK3HOSyF4iv2OjyaICBBInl3Bh-CXmPtvRhczlnbaePpOnw4K-mEWTDUQ%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[Foxconn's Q4 revenue jumps 22% to record high on AI demand](https://www.reuters.com/world/china/foxconns-q4-revenue-surges-2207-year-earlier-ai-demand-2026-01-05/)**
-
-Reuters • 3h ago
-
----
-
-**[What the stock market needs from the AI trade in 2026](https://www.axios.com/2026/01/05/ai-stock-market-2026)**
-
-Axios • 1h ago
-
----
-
-**[As Schools Embrace A.I. Tools, Skeptics Raise Concerns](https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html)**
-
-The New York Times • 3d ago
+Yahoo Finance • 26m ago
 
 ---
 
@@ -181,11 +151,45 @@ Reuters • 2h ago
 
 ---
 
+**[The emerging California job industry that is AI-proof | Opinion](https://www.sacbee.com/opinion/op-ed/article314061601.html)**
+
+Sacramento Bee • 26m ago
+
+---
+
+**[Can AI chatbots trigger psychosis in vulnerable people?](https://www.foxnews.com/tech/can-ai-chatbots-trigger-psychosis-vulnerable-people)**
+
+Chatbots may worsen delusions in people by reinforcing false beliefs, psychiatrists warn. Mental health experts document cases where AI strengthened distorted thinking.
+
+Fox News • 32m ago
+
+---
+
+**[US IPO Performance Lags S&P 500 in 2025 as Crypto, AI Deals Sink](https://www.bloomberg.com/news/articles/2026-01-05/us-ipo-performance-lags-s-p-500-in-2025-as-crypto-ai-deals-sink)**
+
+Bloomberg.com • 25m ago
+
+---
+
+**[The AI supercycle tests the world's network infrastructure](https://www.axios.com/sponsored/the-ai-supercycle-tests-the-worlds-network-infrastructure)**
+
+Axios • 1h ago
+
+---
+
+**[World ‘may not have time’ to prepare for AI safety risks, says leading researcher](https://www.theguardian.com/technology/2026/jan/04/world-may-not-have-time-to-prepare-for-ai-safety-risks-says-leading-researcher)**
+
+AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
+
+The Guardian • 1d ago
+
+---
+
 **[NYU professor tested students with AI oral exams, here's what happened next](https://www.businessinsider.com/nyu-professor-ai-oral-exam-mckinsey-memo-business-school-2026-1)**
 
 When student work looked like McKinsey memos, an NYU business school professor used AI oral exams to test real learning.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
@@ -197,19 +201,19 @@ Business Insider • 6h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 172 • 💬 41 • 16h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 182 • 💬 44 • 17h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 145 • 💬 99 • 2d ago
+⬆️ 149 • 💬 100 • 2d ago
 
 ---
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 72 • 💬 35 • 8h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 80 • 💬 41 • 9h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -217,7 +221,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 61 • 💬 63 • 20h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 65 • 💬 66 • 21h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -233,7 +237,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 51 • 💬 100 • 22h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 51 • 💬 101 • 23h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -277,7 +281,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 100K • 👍 2K • 💬 654 • ⏱️ 13:17 • 9h ago
+👁️ 163K • 👍 4K • 💬 990 • ⏱️ 13:17 • 10h ago
 
 ---
 
@@ -287,7 +291,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 219 • ⏱️ 11:17 • 13h ago
+👁️ 42K • 👍 1K • 💬 245 • ⏱️ 11:17 • 14h ago
 
 ---
 
@@ -297,27 +301,7 @@ AI-generated impersonation scams are eroding trust and preparing the ground for 
 
 📺 David Pakman Show
 
-👁️ 150K • 👍 9K • 💬 2K • ⏱️ 7:02 • 1d ago
-
----
-
-**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
-
-Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
-
-📺 Malva AI
-
-👁️ 25K • 👍 1K • 💬 245 • ⏱️ 10:29 • 2d ago
-
----
-
-**[FREE Open-Source AI Just DESTROYED ChatGPT + 9 Shocking Updates This Week](https://www.youtube.com/watch?v=U2Mp55WUMjA)**
-
-Join our WhatsApp Community – Get the latest AI updates, tips, and insights straight to your inbox https://dub.sh/ai-updates-vs ...
-
-📺 Vaibhav Sisinty
-
-👁️ 22K • 👍 781 • 💬 48 • ⏱️ 13:48 • 21h ago
+👁️ 154K • 👍 10K • 💬 2K • ⏱️ 7:02 • 1d ago
 
 ---
 
@@ -327,17 +311,27 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 183K • 👍 10K • 💬 3K • ⏱️ 13:10 • 1d ago
+👁️ 202K • 👍 11K • 💬 3K • ⏱️ 13:10 • 1d ago
 
 ---
 
-**[How to Build Your Own AI Business in 2026: The Complete Roadmap](https://www.youtube.com/watch?v=vpO5afs8IgY)**
+**[Everyone Knows It&#39;s a Bubble. What Happens Now?](https://www.youtube.com/watch?v=XEPClBBEmXg)**
 
-Try Abacus AI Desktop:* https://desktop.abacus.ai/ *Building a real software business now costs $10 a month.* AI coding agents ...
+Support the channel and protect yourself online with our sponsor, Aura! You can get two weeks absolutely free, no strings ...
 
-📺 Julia McCoy
+📺 Second Thought
 
-👁️ 12K • 👍 840 • 💬 60 • ⏱️ 11:17 • 22h ago
+👁️ 466K • 👍 30K • 💬 3K • ⏱️ 14:26 • 2d ago
+
+---
+
+**[FREE Open-Source AI Just DESTROYED ChatGPT + 9 Shocking Updates This Week](https://www.youtube.com/watch?v=U2Mp55WUMjA)**
+
+Join our WhatsApp Community – Get the latest AI updates, tips, and insights straight to your inbox https://dub.sh/ai-updates-vs ...
+
+📺 Vaibhav Sisinty
+
+👁️ 23K • 👍 821 • 💬 52 • ⏱️ 13:48 • 22h ago
 
 ---
 
@@ -347,7 +341,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 40K • 👍 1K • 💬 121 • ⏱️ 12:59 • 1d ago
+👁️ 41K • 👍 1K • 💬 124 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -357,17 +351,27 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 70K • 👍 3K • 💬 313 • ⏱️ 16:38 • 2d ago
+👁️ 72K • 👍 3K • 💬 318 • ⏱️ 16:38 • 2d ago
 
 ---
 
-**[Microsoft CEO Brutally Mocked After Saying We Should Stop Calling AI &quot;Slop&quot;](https://www.youtube.com/watch?v=jgCOnpTdAsE)**
+**[This Evil Egg Shocked Grandma 😳🥚 #ai #kindness](https://www.youtube.com/watch?v=JAnjZbIv83U)**
 
-BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.instagram.com/yong_yea TIKTOK: ...
+This Evil Egg Shocked Grandma #ai #kindness #trendingshorts This video is AI-generated for entertainment purposes only.
 
-📺 YongYea
+📺 ASR CopyLol Facts
 
-👁️ 143K • 👍 9K • 💬 3K • ⏱️ 15:13 • 1d ago
+👁️ 9K • ⏱️ 0:21 • 7h ago
+
+---
+
+**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
+
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
+
+📺 Dan Martell
+
+👁️ 103K • 👍 4K • 💬 301 • ⏱️ 30:25 • 2d ago
 
 ---
 
@@ -383,7 +387,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 12,126 • ❤️ 430 • 5d ago
+⬇️ 12,126 • ❤️ 435 • 5d ago
 
 ---
 
@@ -395,7 +399,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 194,866 • ❤️ 846 • 8d ago
+⬇️ 194,866 • ❤️ 850 • 8d ago
 
 ---
 
@@ -407,7 +411,19 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,522 • ❤️ 324 • 1d ago
+⬇️ 1,522 • ❤️ 329 • 1d ago
+
+---
+
+**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
+
+*Tencent*
+
+HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
+
+`translation` `2.0B`
+
+⬇️ 4,754 • ❤️ 297 • 4d ago
 
 ---
 
@@ -419,7 +435,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 32,675 • ❤️ 1,457 • 13d ago
+⬇️ 32,675 • ❤️ 1,460 • 13d ago
 
 ---
 
@@ -431,7 +447,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,856 • ❤️ 264 • 4d ago
+⬇️ 1,856 • ❤️ 267 • 4d ago
 
 ---
 
@@ -443,7 +459,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 419 • ❤️ 248 • 5d ago
+⬇️ 419 • ❤️ 253 • 5d ago
 
 ---
 
@@ -455,7 +471,19 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 4,493 • ❤️ 226 • 2d ago
+⬇️ 4,493 • ❤️ 228 • 2d ago
+
+---
+
+**[FLUX.2-dev-Turbo](https://huggingface.co/fal/FLUX.2-dev-Turbo)**
+
+*fal*
+
+FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-quality text-to-image generation and image editing in just 8 inference steps, offering a 6x speedup while preserving quality.
+
+`text-to-image`
+
+⬇️ 5,348 • ❤️ 223 • 6d ago
 
 ---
 
@@ -468,30 +496,6 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 `text-generation` `39.8B`
 
 ⬇️ 3,121 • ❤️ 220 • 2d ago
-
----
-
-**[FLUX.2-dev-Turbo](https://huggingface.co/fal/FLUX.2-dev-Turbo)**
-
-*fal*
-
-FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-quality text-to-image generation and image editing in just 8 inference steps, offering a 6x speedup while preserving quality.
-
-`text-to-image`
-
-⬇️ 5,348 • ❤️ 217 • 6d ago
-
----
-
-**[Qwen-Image-2512-GGUF](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF)**
-
-*Unsloth AI*
-
-This is a GGUF quantized text-to-image model optimized for performance, capable of generating realistic human subjects, detailed natural scenes, and accurate text rendering. It's primarily used for high-quality image generation with tools like ComfyUI and stable-diffusion.cpp.
-
-`text-to-image` `20.4B`
-
-⬇️ 64,816 • ❤️ 196 • 3d ago
 
 ---
 
@@ -648,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 3.7k • 🔱 481 • 6h ago
+⭐ 4.0k • 🔱 521 • 7h ago
 
 ---
 
@@ -658,7 +662,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 105 • 9h ago
+⭐ 2.2k • 🔱 105 • 10h ago
 
 ---
 
@@ -668,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 120 • 19h ago
+⭐ 2.0k • 🔱 120 • 20h ago
 
 ---
 
@@ -678,7 +682,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 196 • 1d ago
+⭐ 1.8k • 🔱 197 • 1d ago
 
 ---
 
@@ -698,7 +702,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 124 • 3h ago
+⭐ 1.1k • 🔱 125 • 4h ago
 
 ---
 
@@ -708,7 +712,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 937 • 🔱 111 • 19h ago
+⭐ 942 • 🔱 112 • 20h ago
 
 ---
 
@@ -718,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 901 • 🔱 64 • 6d ago
+⭐ 911 • 🔱 65 • 6d ago
 
 ---
 
@@ -728,7 +732,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 895 • 🔱 20 • 4h ago
+⭐ 903 • 🔱 20 • 51m ago
 
 ---
 

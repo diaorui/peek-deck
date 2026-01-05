@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T13:41:21.310183+00:00'
+updated: '2026-01-05T14:26:46.356845+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 13:41 UTC  
+**Last Updated:** January 05, 2026 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[This container port in China has mobile robots controlled by people!](https://www.reddit.com/r/robotics/comments/1q4ic2j/this_container_port_in_china_has_mobile_robots/)**
-
-Ships are unloaded remotely by human operators using remote connections, with no one physically sitting in the cranes. Once containers touch the ground, autonomous vehicles (can we call them robots????) take over, moving them across the terminal to trucks and storage areas without human drivers, essentially like AGVs. High-bandwidth, low-latency networking enables remote control where full autonomy is still hard, while structured environments allow driverless transport to run reliably at scale. Humans stay in control of exceptions, machines handle the repetition. Fewer people in hazardous zones, and tighter coordination between machines. Source: https://x.com/lukas_m_ziegler/status/2008111248227885085
-
-3h ago
-
----
-
 **[TRUMPF laser for ASML’s EUV lithography machines.](https://www.reddit.com/r/robotics/comments/1q42yoj/trumpf_laser_for_asmls_euv_lithography_machines/)**
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-15h ago
+16h ago
+
+---
+
+**[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
+
+48m ago
 
 ---
 
@@ -64,11 +62,19 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 ---
 
+**[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
+
+Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
+
+36m ago
+
+---
+
 **[Whatever happened to the NEO robot?](https://www.reddit.com/r/robotics/comments/1q4j684/whatever_happened_to_the_neo_robot/)**
 
 A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
 
-2h ago
+3h ago
 
 ---
 
@@ -77,6 +83,14 @@ A few months ago, the NEO home robot was all over the news — demos, hype, prom
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 1d ago
+
+---
+
+**[Building a robot arm from scratch using CNC, Marlin and Python](https://www.reddit.com/r/robotics/comments/1q4jwwp/building_a_robot_arm_from_scratch_using_cnc/)**
+
+I designed and built this robot arm completely from scratch as a hands on learning project in robotics, mechanics, and control systems. The system is largely based on repurposed components from two old 3D printers Ender 3 and Sapphire Pro, combined with CNC machined aluminum structural parts and several 3D printed components. On the control side, the arm runs a heavily modified Marlin firmware with closed loop stepper drivers (MKS TMC42C). Higher level control and automation are handled by a custom Python script, which is still very much a work in progress. The robot can be controlled manually using a PlayStation controller, or operated in an automated mode by recording waypoints and replaying motion sequences. As one of the first simple practice tasks, I taught the arm to feed my dog. It’s a deliberately low complexity application, mainly used to test repeatability, positioning accuracy, and basic sequencing. This is my first serious attempt at building a robot. I didn’t closely follow tutorials most of the process involved experimenting, breaking things, fixing them, and learning why they failed. One area I’m especially interested in improving next is the shoulder joint. If anyone here has experience with small robot arms, I’d really appreciate ideas for more robust shoulder joint designs, particularly when it comes to stiffness, backlash, and holding torque. I’m also considering using a harmonic drive for the shoulder axis and would love recommendations for stable, reasonably affordable options, or alternative approaches that worked well for you in similar scale systems. Any feedback on what works, what doesn’t, and where you’d focus improvements next would be very welcome.
+
+🔗 [youtu.be](https://youtu.be/3EGTNYefZMA?si=UXEQW2hJB412sqbA) • 2h ago
 
 ---
 
@@ -92,23 +106,7 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-18h ago
-
----
-
-**[Robotic arm for robotic cafe?](https://www.reddit.com/r/robotics/comments/1q4krmb/robotic_arm_for_robotic_cafe/)**
-
-I am currently working on building a robotic cafe which will make drinks using robotic arm. Basically there will be dispensers and robotic arm holding the glass will go to different dispensers and collect the ingredients. I was researching about which robotic arm I should be using. If you guys have any recommendations that would be very helpful. I am looking for something cheap but reliable. Since the task is not very complex I don't think I will require industrial level robotic arm like ur5e or panda.
-
-55m ago
-
----
-
-**[Ping Pong Ball Bouncing Task](https://www.reddit.com/r/robotics/comments/1q3scjs/ping_pong_ball_bouncing_task/)**
-
-Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
-
-22h ago
+19h ago
 
 ---
 
@@ -120,7 +118,21 @@ Train a single-arm robotic manipulator to control a paddle for continuous ball b
 
 With the age of humanoids upon us, Tesla CEO Elon Musk predicted that his robots will curb crime, eliminate poverty and do surgery.
 
-New York Post • 1d ago
+New York Post • 2d ago
+
+---
+
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+
+Bloomberg.com • 26m ago
+
+---
+
+**[Qualcomm Introduces a Full Suite of Robotics Technologies, Powering Physical AI from Household Robots up to Full-Size Humanoids](https://finance.yahoo.com/news/qualcomm-introduces-full-suite-robotics-140000498.html)**
+
+LAS VEGAS, January 05, 2026--At CES, Qualcomm Technologies, Inc. (NASDAQ:QCOM) introduced a next-generation robotics comprehensive-stack architecture that integrates hardware, software, and compound AI. Qualcomm Technologies also unveiled its latest high performance robotics processor for industrial AMRs and advanced full-size humanoids, the Qualcomm Dragonwing™ IQ10 Series. This is the latest robotics-specific processor which expands the current robotics roadmap for the Company, delivering high
+
+Yahoo Finance • 26m ago
 
 ---
 
@@ -128,7 +140,7 @@ New York Post • 1d ago
 
 In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-The Robot Report • 1d ago
+The Robot Report • 2d ago
 
 ---
 
@@ -136,7 +148,7 @@ The Robot Report • 1d ago
 
 /PRNewswire/ -- Today at CES 2026, Zeroth Robotics emerged from stealth with its official U.S. launch and a lineup of five interactive AI robots designed for...
 
-PR Newswire • 23h ago
+PR Newswire • 1d ago
 
 ---
 
@@ -144,7 +156,7 @@ PR Newswire • 23h ago
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -156,19 +168,19 @@ Inspenet • 1d ago
 
 ---
 
-**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
+**[Boston Dynamics is training an AI-powered humanoid robot to do factory work](https://www.cbsnews.com/news/boston-dynamics-training-ai-humanoids-to-perform-human-jobs-60-minutes/)**
 
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+While it's not ready to join the workforce yet, Atlas, an AI-powered humanoid, is learning how to do human tasks.
 
 CBS News • 13h ago
 
 ---
 
-**[Serve Robotics (SERV) Expands Fleet to 2,000 Delivery Robots Across Multiple U.S. Cities](https://finance.yahoo.com/news/serve-robotics-serv-expands-fleet-141019909.html)**
+**[China’s robot sports craze could eventually put humanoids in homes](https://www.cnn.com/2026/01/02/china/china-humanoid-robot-sports-intl-hnk-dst)**
 
-Serve Robotics Inc. (NASDAQ:SERV) ranks among the best AI stocks to buy according to analysts. Serve Robotics Inc. (NASDAQ:SERV) announced on December 12 that it has reached its stated 2025 target by deploying over 2,000 delivery robots across numerous US locations. According to the company, since the start of the year, its fleet has grown […]
+On the outskirts of Beijing, young Chinese entrepreneur Cheng Hao sits on an indoor soccer pitch – but this turf isn’t for humans. It’s where engineers working for his start-up, Booster Robotics, train human-like robots to play soccer using artificial intelligence – dribbling, passing, shooting and blocking.
 
-Yahoo Finance • 2d ago
+CNN • 2d ago
 
 ---
 
@@ -176,23 +188,7 @@ Yahoo Finance • 2d ago
 
 Japanese startup Ludens AI is showing off two extremely adorable robot companions at CES 2026: Cocomo and Inu.
 
-Engadget • 11h ago
-
----
-
-**[Inside Binéfar, the Spanish town pushing pioneering military robotics](https://www.euronews.com/next/2026/01/02/from-rural-spain-to-war-binefar-becomes-a-european-benchmark-in-military-robotics)**
-
-A military robotics plant in rural Spain has become a key player in the European defence industry, exporting technology to more than 20 countries and transforming the economy and employment in a small Aragonese town.
-
-Euronews.com • 3d ago
-
----
-
-**[Robots learn 1,000 tasks in one day from a single demo](https://www.foxnews.com/tech/robots-learn-1000-tasks-one-day-from-single-demo)**
-
-Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
-
-Fox News • 1d ago
+Engadget • 12h ago
 
 ---
 
@@ -200,23 +196,33 @@ Fox News • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
-
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
-
-📺 Technology Now
-
-👁️ 4K • 👍 62 • 💬 3 • ⏱️ 7:38 • 18h ago
-
----
-
 **[Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)**
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 ...
 
 📺 60 Minutes
 
-👁️ 100K • 👍 2K • 💬 654 • ⏱️ 13:17 • 9h ago
+👁️ 163K • 👍 4K • 💬 991 • ⏱️ 13:17 • 10h ago
+
+---
+
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+
+📺 Technology Now
+
+👁️ 5K • 👍 76 • 💬 3 • ⏱️ 7:38 • 18h ago
+
+---
+
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+
+📺 Unitree Robotics
+
+👁️ 114K • 👍 2K • 💬 540 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -226,7 +232,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 60K • 👍 1K • 💬 177 • ⏱️ 5:49 • 13h ago
+👁️ 66K • 👍 1K • 💬 216 • ⏱️ 5:49 • 13h ago
 
 ---
 
@@ -256,7 +262,7 @@ Company's staff challenged kyrie irving to push the humanoid robot. however, the
 
 📺 BeastNarratives
 
-👁️ 7.5M • 👍 175K • 💬 643 • ⏱️ 0:45 • 5d ago
+👁️ 7.6M • 👍 176K • 💬 653 • ⏱️ 0:45 • 5d ago
 
 ---
 
@@ -266,7 +272,7 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 140K • 👍 786 • 💬 37 • ⏱️ 12:09 • 6d ago
+👁️ 141K • 👍 794 • 💬 37 • ⏱️ 12:09 • 6d ago
 
 ---
 
@@ -287,16 +293,6 @@ China has officially begun replacing human soldiers with AI-powered robots and a
 📺 The International Desk
 
 👁️ 23K • 👍 170 • 💬 29 • ⏱️ 8:29 • 6d ago
-
----
-
-**[Top 3 AI Robotics Stocks To Watch in 2026](https://www.youtube.com/watch?v=cy57nEuN1UM)**
-
-Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock Analysis: https://cashtoassets.com/themachine ...
-
-📺 Will Rich
-
-👁️ 4K • 👍 126 • 💬 28 • ⏱️ 28:43 • 1d ago
 
 ---
 
