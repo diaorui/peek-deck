@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T12:50:50.285167+00:00'
+updated: '2026-01-05T13:41:21.300730+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 12:50 UTC  
+**Last Updated:** January 05, 2026 at 13:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,25 +79,25 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-11h ago
+12h ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-11h ago
+12h ago
 
 ---
 
 **[You can tell him anyway.](https://www.reddit.com/r/Bitcoin/comments/1q3z17x/you_can_tell_him_anyway/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -129,13 +129,13 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 **[Received 0.05 BTC in July 2016 for $34 ($4,556 today)](https://www.reddit.com/r/Bitcoin/comments/1q3z06b/received_005_btc_in_july_2016_for_34_4556_today/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Just hit 1 Million satoshies](https://www.reddit.com/r/Bitcoin/comments/1q3xrcl/just_hit_1_million_satoshies/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -147,7 +147,7 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 The rally in crypto was mirrored by a surge in commodities and Asian equities, driven by AI-led momentum and geopolitical developments.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -155,13 +155,13 @@ CoinDesk • 7h ago
 
 Bitcoin Core’s development activity jumped 60% in 2025 as measured by email volume to the Bitcoin Development Mailing List, reversing years of declining contributions and marking the protocol’s most active development period since its early years.Source: X/@loppAccording to core contributor Jameson Lopp, the surge came as 135 different developers contributed ...
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqdWsDhgpvr-u1nGAkfR0yw8axqUBm7kLgncUhln8XaAg88wJoRKQkt1&gaa_ts=695bb70f&gaa_sig=A0FVNDXzKWov0DGVg3E3QTrHij02sd_a_baGlWX88MUSXBcQfCtGy-S62Ug4oETtl04kjZE8gNXYIWDvzsmgzw%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Barron's • 2h ago
 
 What comes next for digital gold?
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 20h ago
 
 The removal of Maduro will likely lower oil prices.  This will see more capital flow into crypto and other assets in 2026, analysts say.  Bitcoin decisively jumps back above $90,000 after the US captured Venezuela’s president.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ dlnews.com • 2h ago
 
 /PRNewswire/ -- Cango Inc. (NYSE: CANG) ("Cango" or the "Company"), a leading Bitcoin miner leveraging its global operations to develop an integrated energy...
 
-PR Newswire • 1h ago
+PR Newswire • 2h ago
 
 ---
 
@@ -193,13 +193,13 @@ PR Newswire • 1h ago
 
 Bitcoin ( BTC ) price surged past $93,000 on Monday, January 5, 2026, marking the fifth consecutive session of gains across major cryptocurrencies.
 
-Finance Magnates • 2h ago
+Finance Magnates • 3h ago
 
 ---
 
 **[Bitcoin Price Breakout: Can $BTC Reach $100K in January?](https://www.altcoinbuzz.io/reviews/crypto-price-analysis/bitcoin-price-breakout-can-btc-reach-100k-in-january/)**
 
-Altcoin Buzz • 3h ago
+Altcoin Buzz • 4h ago
 
 ---
 
@@ -273,13 +273,13 @@ Stop emailing PSBT files. Coordinate multisig teams instantly. No accounts. No d
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 2 • 💬 0 • 1d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 2d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 13h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 14h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -307,7 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 44K • 👍 2K • 💬 620 • ⏱️ 10:50 • 12h ago
+👁️ 44K • 👍 2K • 💬 620 • ⏱️ 10:50 • 13h ago
 
 ---
 
@@ -317,7 +317,7 @@ Charles Hoskinson: Why Bitcoin Price Will Hit $250000 In 2026 Full interview: ht
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 183 • ⏱️ 8:15 • 20h ago
+👁️ 37K • 👍 2K • 💬 183 • ⏱️ 8:15 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 3K • 💬 151 • ⏱️ 19:12 • 9h ago
+👁️ 41K • 👍 3K • 💬 151 • ⏱️ 19:12 • 10h ago
 
 ---
 
@@ -337,7 +337,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 302 • ⏱️ 23:12 • 13h ago
+👁️ 31K • 👍 2K • 💬 302 • ⏱️ 23:12 • 14h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a cruc
 
 📺 The Wolf Of All Streets
 
-👁️ 58K • 👍 3K • 💬 970 • ⏱️ 54:37 • 22h ago
+👁️ 58K • 👍 3K • 💬 970 • ⏱️ 54:37 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ BTC & Crypto has finally started to see some relief. In today's video Kyledoops 
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 938 • 💬 17 • ⏱️ 31:26 • 3h ago
+👁️ 8K • 👍 938 • 💬 17 • ⏱️ 31:26 • 4h ago
 
 ---
 
@@ -377,7 +377,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 18K • 👍 1K • 💬 349 • ⏱️ 27:00 • 11h ago
+👁️ 18K • 👍 1K • 💬 349 • ⏱️ 27:00 • 12h ago
 
 ---
 
@@ -387,7 +387,7 @@ Crypto News: Bitcoin hits $93000 again and Altcoins are on the move. Bitcoin and
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 525 • 💬 92 • ⏱️ 17:38 • 9h ago
+👁️ 5K • 👍 525 • 💬 92 • ⏱️ 17:38 • 10h ago
 
 ---
 

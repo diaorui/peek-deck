@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T12:50:50.276685+00:00'
+updated: '2026-01-05T13:41:21.292077+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 12:50 UTC  
+**Last Updated:** January 05, 2026 at 13:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Grok has sparked backlash after the AI image generator was used to generate nonconsensual sexualized images of real people, including minors.
 
-🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/elon-musk-grok-remove-clothes-ai-images-women-minors-backlash-2026-1?_bhlid=7f38a8b98014bd50483a48c1652108d3d76934db) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Grok has sparked backlash after the AI image generator was used to generate nonc
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 5h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 A new study finds that AI systems embed cultural and developmental assumptions at every stage of their lifecycle. Training data reflects dominant languages, economic conditions, social norms, and historical records. Design choices encode expectations about infrastructure, behavior, and values.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 1m ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/01/05/ai-security-governance-risks-research/) • 52m ago
 
 ---
 
@@ -89,7 +89,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-19h ago
+20h ago
 
 ---
 
@@ -125,7 +125,7 @@ I’ve been doing AI safety research on the robustness of digital watermarking f
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 12h ago
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -141,19 +141,19 @@ The Guardian • 16h ago
 
 CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
 
-CBS News • 50m ago
+CBS News • 1h ago
 
 ---
 
 **[Nvidia Partner Hon Hai’s Sales Beat Estimates in an AI Boom](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-partner-hon-hai-s-sales-beat-estimates-in-an-ai-boom)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
 **[Nvidia Stock Gains. Why Foxconn Brings Good AI News for the Chip Maker.](https://www.barrons.com/articles/nvidia-stock-price-foxconn-ces-huang-86b5975f?gaa_at=eafs&gaa_n=AWEtsqfGxuEPDkglddhjkJkKBh0w___Rs3OoaKLcgmO9r57EtAwusrLQ-DT0&gaa_ts=695bb70e&gaa_sig=6fp_489S0C_VD5GmPQGQCb922FsO7FK3HOSyF4iv2OjyaICBBInl3Bh-CXmPtvRhczlnbaePpOnw4K-mEWTDUQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ Reuters • 3h ago
 
 **[What the stock market needs from the AI trade in 2026](https://www.axios.com/2026/01/05/ai-stock-market-2026)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The New York Times • 3d ago
 
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Reuters • 1h ago
 
 When student work looked like McKinsey memos, an NYU business school professor used AI oral exams to test real learning.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
 
 ---
 
@@ -197,7 +197,7 @@ Business Insider • 5h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 172 • 💬 41 • 15h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 172 • 💬 41 • 16h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -209,7 +209,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 72 • 💬 35 • 7h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 72 • 💬 35 • 8h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -217,7 +217,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 61 • 💬 63 • 19h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 61 • 💬 63 • 20h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -277,7 +277,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 100K • 👍 2K • 💬 654 • ⏱️ 13:17 • 8h ago
+👁️ 100K • 👍 2K • 💬 654 • ⏱️ 13:17 • 9h ago
 
 ---
 
@@ -287,7 +287,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 219 • ⏱️ 11:17 • 12h ago
+👁️ 35K • 👍 1K • 💬 219 • ⏱️ 11:17 • 13h ago
 
 ---
 
@@ -317,7 +317,7 @@ Join our WhatsApp Community – Get the latest AI updates, tips, and insights st
 
 📺 Vaibhav Sisinty
 
-👁️ 22K • 👍 781 • 💬 48 • ⏱️ 13:48 • 20h ago
+👁️ 22K • 👍 781 • 💬 48 • ⏱️ 13:48 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 183K • 👍 10K • 💬 3K • ⏱️ 13:10 • 23h ago
+👁️ 183K • 👍 10K • 💬 3K • ⏱️ 13:10 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ Try Abacus AI Desktop:* https://desktop.abacus.ai/ *Building a real software bus
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 840 • 💬 60 • ⏱️ 11:17 • 21h ago
+👁️ 12K • 👍 840 • 💬 60 • ⏱️ 11:17 • 22h ago
 
 ---
 
@@ -638,7 +638,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 5h ago
+⭐ 20.8k • 🔱 3.3k • 6h ago
 
 ---
 
@@ -658,7 +658,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 105 • 8h ago
+⭐ 2.2k • 🔱 105 • 9h ago
 
 ---
 
@@ -668,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 120 • 18h ago
+⭐ 2.0k • 🔱 120 • 19h ago
 
 ---
 
@@ -698,7 +698,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 124 • 2h ago
+⭐ 1.1k • 🔱 124 • 3h ago
 
 ---
 
@@ -708,7 +708,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 937 • 🔱 111 • 18h ago
+⭐ 937 • 🔱 111 • 19h ago
 
 ---
 
@@ -728,7 +728,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 895 • 🔱 20 • 3h ago
+⭐ 895 • 🔱 20 • 4h ago
 
 ---
 

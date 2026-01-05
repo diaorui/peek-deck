@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T12:50:50.294456+00:00'
+updated: '2026-01-05T13:41:21.310183+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 12:50 UTC  
+**Last Updated:** January 05, 2026 at 13:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Ships are unloaded remotely by human operators using remote connections, with no one physically sitting in the cranes. Once containers touch the ground, autonomous vehicles (can we call them robots????) take over, moving them across the terminal to trucks and storage areas without human drivers, essentially like AGVs. High-bandwidth, low-latency networking enables remote control where full autonomy is still hard, while structured environments allow driverless transport to run reliably at scale. Humans stay in control of exceptions, machines handle the repetition. Fewer people in hazardous zones, and tighter coordination between machines. Source: https://x.com/lukas_m_ziegler/status/2008111248227885085
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ Ships are unloaded remotely by human operators using remote connections, with no
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-23h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-11h ago
+12h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
 
-1h ago
+2h ago
 
 ---
 
@@ -84,7 +84,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-source CAN bus analyzer for Linux. It’s designed for engineers, hobbyists, and developers working with Automotive, Robotics, and Industrial Automation systems. CANgaroo allows you to: Capture and decode CAN & CAN-FD traffic in real-time Load multiple DBC files to instantly decode signals Visualize data with integrated graphs Apply advanced live filters and export logs for offline analysis Work with a wide range of hardware: SocketCAN, CANable, Candlelight, CANblaster (UDP) Getting Started (Linux) The fastest way to try Cangaroo: git clone https://github.com/OpenAutoDiagLabs/CANgaroo.git cd CANgaroo ./install_linux.sh Or download the latest pre-built release: Release v0.4.2 Tarball Verify with SHA256: sha256sum cangaroo-v0.4.2-linux-x86_64.tar.gz Why Use Cangaroo? Open-source & free for Linux Ideal for debugging vehicle networks or robotic sensors Fast real-time decoding with modern, customizable UI Easy to test with virtual CAN interfaces (vcan0) if you don’t have hardware
 
-14h ago
+15h ago
 
 ---
 
@@ -100,7 +100,7 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 I am currently working on building a robotic cafe which will make drinks using robotic arm. Basically there will be dispensers and robotic arm holding the glass will go to different dispensers and collect the ingredients. I was researching about which robotic arm I should be using. If you guys have any recommendations that would be very helpful. I am looking for something cheap but reliable. Since the task is not very complex I don't think I will require industrial level robotic arm like ur5e or panda.
 
-4m ago
+55m ago
 
 ---
 
@@ -108,7 +108,7 @@ I am currently working on building a robotic cafe which will make drinks using r
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-21h ago
+22h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Robot Report • 1d ago
 
 /PRNewswire/ -- Today at CES 2026, Zeroth Robotics emerged from stealth with its official U.S. launch and a lineup of five interactive AI robots designed for...
 
-PR Newswire • 22h ago
+PR Newswire • 23h ago
 
 ---
 
@@ -144,7 +144,7 @@ PR Newswire • 22h ago
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ Inspenet • 1d ago
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 12h ago
+CBS News • 13h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2d ago
 
 Japanese startup Ludens AI is showing off two extremely adorable robot companions at CES 2026: Cocomo and Inu.
 
-Engadget • 10h ago
+Engadget • 11h ago
 
 ---
 
@@ -206,7 +206,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 4K • 👍 62 • 💬 3 • ⏱️ 7:38 • 17h ago
+👁️ 4K • 👍 62 • 💬 3 • ⏱️ 7:38 • 18h ago
 
 ---
 
@@ -216,7 +216,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 100K • 👍 2K • 💬 654 • ⏱️ 13:17 • 8h ago
+👁️ 100K • 👍 2K • 💬 654 • ⏱️ 13:17 • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 60K • 👍 1K • 💬 177 • ⏱️ 5:49 • 12h ago
+👁️ 60K • 👍 1K • 💬 177 • ⏱️ 5:49 • 13h ago
 
 ---
 
