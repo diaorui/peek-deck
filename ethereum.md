@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T08:35:23.370206+00:00'
+updated: '2026-01-05T09:34:14.889914+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 08:35 UTC  
+**Last Updated:** January 05, 2026 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,159.23
+### $3,162.29
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** +6.3%  
-**30d:** +3.3%  
-**90d:** -30.1%  
-**1y:** -14.2%  
+**7d:** +6.2%  
+**30d:** +3.2%  
+**90d:** -30.2%  
+**1y:** -14.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $380.64B
+**Market Cap:** $381.43B
 Rank #2
 
 **Circulating Supply:** 120,694,851 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.3%
+-36.1%
 
 **All-Time Low:** $0.43
-+727817.5%
++729713.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -144,7 +144,7 @@ The modular token standard.
 
 Vitalik: call to improve usability & decentralization, Nethereum 10 year anniversary release, Uniswap interface fees set to zero
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 2d ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-5/) • 3d ago
 
 ---
 
@@ -156,7 +156,7 @@ Vitalik: call to improve usability & decentralization, Nethereum 10 year anniver
 
 Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -168,11 +168,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum New Addresses Up 110% Since Fusaka Upgrade, Adding 292,000 Wallets Daily](https://finance.yahoo.com/news/ethereum-addresses-110-since-fusaka-053046881.html)**
+**[Ethereum Sees Record $8T Stablecoin Transfer Volume in Q4 2025](https://finance.yahoo.com/news/ethereum-sees-record-8t-stablecoin-082921593.html)**
 
-Ethereum has recorded a sharp increase in on-chain user activity since deployment of Fusaka upgrade executed in early December, with new address creation rising 110% over the past month. Glassnode data shows the network is now adding approximately 292,000 new addresses per day, marking its fastest pace of wallet growth ...
+Stablecoin transfer volume on Ethereum climbed to a new all-time high in the fourth quarter of 2025, topping $8 trillion, according to data released by Token Terminal. Key Takeaways: Ethereum stablecoin transfers hit a record $8T in Q4 2025, nearly doubling from Q2 levels. Rising volumes and address activity suggest ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ Forbes • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extended their rallies on Monday, gaining more than 4%, 6%, and 12%, respectively, in the previous week. The top three cryptocurrencies by market capitalization could continue to outperform, with bulls in control of the momentum.
 
-FXStreet • 4h ago
+FXStreet • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 2d ago
 
 Ethereum sees a surge in new investors following the Fusaka launch, with rising adoption pushing ETH closer to a key technical breakout.
 
-BeInCrypto • 9h ago
+BeInCrypto • 10h ago
 
 ---
 
@@ -210,7 +210,7 @@ BeInCrypto • 9h ago
 
 Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -226,7 +226,7 @@ CoinDesk • 3d ago
 
 Vitalik Buterin said Ethereum’s integration of zero-knowledge virtual machines and PeerDAS has resolved the network’s scalability issues.
 
-BeInCrypto • 21h ago
+BeInCrypto • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 📺 Milk Road
 
-👁️ 3K • 👍 113 • 💬 185 • ⏱️ 8:15 • 18h ago
+👁️ 4K • 👍 117 • 💬 359 • ⏱️ 8:15 • 19h ago
 
 ---
 
@@ -250,27 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 102 • 💬 4 • ⏱️ 4:31 • 5h ago
-
----
-
-**[BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X0GfilMyYrk)**
-
-BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 317 • 💬 32 • ⏱️ 14:26 • 11h ago
-
----
-
-**[BMNR Alert: Tom Lee’s &quot;No Immediate Dilution&quot; Plan &amp; The Ethereum End Game](https://www.youtube.com/watch?v=8p95EaNWQHQ)**
-
-BitMine Immersion Technologies ($BMNR) has reached a critical turning point. Management is proposing a massive increase in ...
-
-📺 CryptoStock Lab
-
-👁️ 416 • 👍 20 • 💬 14 • ⏱️ 13:12 • 8h ago
+👁️ 2K • 👍 145 • 💬 8 • ⏱️ 4:31 • 6h ago
 
 ---
 
@@ -280,17 +260,27 @@ We break down the numbers most people ignore and explain why position size, time
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 13K • 👍 235 • 💬 269 • ⏱️ 2:37 • 1d ago
+👁️ 13K • 👍 236 • 💬 528 • ⏱️ 2:37 • 1d ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 05 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=o-Hoc7Uz0sY)**
+**[BMNR Alert: Tom Lee’s &quot;No Immediate Dilution&quot; Plan &amp; The Ethereum End Game](https://www.youtube.com/watch?v=8p95EaNWQHQ)**
 
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+BitMine Immersion Technologies ($BMNR) has reached a critical turning point. Management is proposing a massive increase in ...
 
-📺 Balraj Trading Tech
+📺 CryptoStock Lab
 
-👁️ 4K • 👍 670 • 3h ago
+👁️ 531 • 👍 21 • 💬 35 • ⏱️ 13:12 • 9h ago
+
+---
+
+**[BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X0GfilMyYrk)**
+
+BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 329 • 💬 41 • ⏱️ 14:26 • 12h ago
 
 ---
 
@@ -300,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 174 • 💬 7 • ⏱️ 4:04 • 19h ago
+👁️ 3K • 👍 175 • 💬 7 • ⏱️ 4:04 • 19h ago
 
 ---
 
@@ -310,7 +300,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 802 • 💬 178 • ⏱️ 15:53 • 1d ago
+👁️ 20K • 👍 811 • 💬 208 • ⏱️ 15:53 • 1d ago
 
 ---
 
@@ -320,7 +310,7 @@ Kelly covers what to expect for Ethereum, BNB, Cardano (ADA) and other Altcoins 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 306 • 💬 31 • ⏱️ 13:35 • 1d ago
+👁️ 7K • 👍 307 • 💬 31 • ⏱️ 13:35 • 1d ago
 
 ---
 
@@ -330,7 +320,17 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 54 • 💬 8 • ⏱️ 10:38 • 2d ago
+👁️ 2K • 👍 56 • 💬 8 • ⏱️ 10:38 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Solange DIESE Marken halten können wir weiter steigen!](https://www.youtube.com/watch?v=YG7ieOCyr04)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 531 • 💬 59 • ⏱️ 9:08 • 4h ago
 
 ---
 

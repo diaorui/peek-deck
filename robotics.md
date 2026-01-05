@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T08:35:23.372917+00:00'
+updated: '2026-01-05T09:34:14.893257+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 08:35 UTC  
+**Last Updated:** January 05, 2026 at 09:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢️ Grain Weevil helps farmers manage grain bins, a hazardous job. It levels the grain, breaks up crusts and bridges, removes grain from the walls, and pushes it into an extraction auger. In addition to measuring 20 by 20 inches and weighing 50 pounds. Using two motorized augers to redistribute the grain, the robot can work for 90 minutes to two hours on a 20-minute charge. Robots operate at a similar speed to shovel users and are autonomously controlled by humans using remote controls. Shortly, Level 2 autonomy is expected. P.S. What are the other robot applications that relieve farmers' work? 👨🏻‍🌾 Source: https://x.com/lukas_m_ziegler/status/2007807607138832681
 
-18h ago
+19h ago
 
 ---
 
@@ -52,7 +52,7 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
 
-7h ago
+8h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
-22h ago
+23h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2007746313220415717
 
 I've been working on a differential drive robot where control and sensor fusion run on the microcontroller, and the data is streamed to my laptop for realtime tracking. This video shows the robot running with: ESP32 handling encoder interrupts and PID wheel velocity control MPU6050 gyro fused with wheel encoders (complementary filter) On-board pose estimation (x, y, 0) Realtime tracking/localisation. Next Step: Slam+Self navigation GitHub: https://github.com/Akash-Potti/Slam-DifferntialDrive-Robot
 
-13h ago
+14h ago
 
 ---
 
@@ -76,7 +76,7 @@ I've been working on a differential drive robot where control and sensor fusion 
 
 Train a single-arm robotic manipulator to control a paddle for continuous ball bouncing, maintaining the ball at a target height and position. Task Description Bounce Ball is a single-arm robotic manipulation task using a 6-DOF Peitian AIR4-560 industrial robotic arm to control the position of an end-effector paddle. The agent controls the position changes of the arm’s 6 joints as actions, making the ping pong ball bounce continuously on the paddle and keeping it as close as possible to the target height and target horizontal position.
 
-17h ago
+18h ago
 
 ---
 
@@ -92,21 +92,23 @@ Hi everyone! 👋 I’d like to share CANgaroo, a professional-grade, open-sourc
 
 Okk so i am using raspberry pi 4 for this and I know i wired everything correctly and I had used a 32gb SD card and since I have mac I used the official raspberry imager. I know i used the correct one. For some reason it Bluetooth connects to the app but won't have the wifi pop up. When I plug in the raspberry board in, the wifi pops up and I can see through the camera. When I turn the bottom board on, the leds on both boards turn on and the motor twitches but when I go to the app they won't move and the camera is white. The wifi also doesn't turn on. Im 15 and really new so please help me any comment will help.
 
-12h ago
+13h ago
 
 ---
 
-**[Contact Sensor Test](https://www.reddit.com/r/robotics/comments/1q4fajy/contact_sensor_test/)**
+**[Why doesn't the military use remote controlled androids?](https://www.reddit.com/r/robotics/comments/1q4gf81/why_doesnt_the_military_use_remote_controlled/)**
 
-The contact sensor gives you pretty rich info: how many contacts there are, where they happen, the normal/tangent directions, and the force magnitude along each axis.
+I mean I think that it would fix some problems that ai controlled Androids (the humanoid one) have, and it wouldn't make mistakes (sure they would definitely make some, but they probably will do it at the same frequency that regular soldiers do) The perception of the user can be improved with some extra sensors or something, and several companies have proved that it's possible to remotely control them, And it most importantly reduces causality, (If the military does end up doing this, they probably will only do it with like seals or something to keep all of that experience)
 
-1h ago
+58m ago
 
 ---
 
-**[First time seeing teleoperated humanoid data collection with the VR glasses off](https://www.reddit.com/r/robotics/comments/1q3sdkr/first_time_seeing_teleoperated_humanoid_data/)**
+**[Object tracker !](https://www.reddit.com/r/robotics/comments/1q4bnek/object_tracker/)**
 
-17h ago
+I made an 6 dof robot and I want to integrate a camera with YOLO or OpenCV so the robot can see a red ball and move towards it, any ideas or resources??? The robot is currently powdered by an Arduino mega
+
+5h ago
 
 ---
 
@@ -118,15 +120,15 @@ The contact sensor gives you pretty rich info: how many contacts there are, wher
 
 Scientists achieve major robotics milestone as robot learns 1,000 different physical tasks in single day, potentially transforming manufacturing, healthcare and home robotics.
 
-Fox News • 21h ago
+Fox News • 22h ago
 
 ---
 
-**[Will AI-powered humanoid robots someday work alongside us? | 60 Minutes](https://www.cbsnews.com/video/ai-powered-humanoid-robots-60-minutes-video-2026-01-04/)**
+**[How Boston Dynamics upgraded the Atlas robot — and what's next](https://www.cbsnews.com/news/how-boston-dynamics-upgraded-atlas-robot-and-whats-next-60-minutes/)**
 
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
 
-CBS News • 7h ago
+CBS News • 8h ago
 
 ---
 
@@ -150,7 +152,7 @@ Inspenet • 2d ago
 
 New Analysis Platform Explores Why Household Tasks and Physical Automation Require Embodied Intelligence Beyond Traditional Computer Approaches The next wave of AI is physical AI. AI that understands the laws of physics, AI that can work among us.” — Jensen Huang, CEO of Nvidia BROOKLYN, NY, UNITED STATES, January 4, 2026 /EINPresswire.com/ — As artificial […]
 
-Detroit Free Press • 2h ago
+Detroit Free Press • 3h ago
 
 ---
 
@@ -158,7 +160,7 @@ Detroit Free Press • 2h ago
 
 Forget about robots that look like they're straight out of science fiction. ‘Unobtrusive physical AI,’ as the technology is called, could wind up being more pervasive in the real world.
 
-Computerworld • 1h ago
+Computerworld • 2h ago
 
 ---
 
@@ -174,15 +176,15 @@ Interesting Engineering • 2d ago
 
 Nearly a dozen Chinese humanoid robot makers are expected at the trade show, while Hong Kong sends its largest-ever delegation.
 
-South China Morning Post • 5h ago
+South China Morning Post • 6h ago
 
 ---
 
-**[How Boston Dynamics upgraded the Atlas robot — and what's next](https://www.cbsnews.com/news/how-boston-dynamics-upgraded-atlas-robot-and-whats-next-60-minutes/)**
+**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
 
-Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021, with joints that can fully rotate and hands that can grip a variety of objects.
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 7h ago
+CBS News • 8h ago
 
 ---
 
@@ -204,17 +206,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 2K • 👍 37 • 💬 2 • ⏱️ 7:38 • 13h ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 90K • 👍 2K • 💬 440 • ⏱️ 0:32 • 23h ago
+👁️ 3K • 👍 49 • 💬 2 • ⏱️ 7:38 • 14h ago
 
 ---
 
@@ -224,7 +216,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 41K • 👍 1K • 💬 136 • ⏱️ 5:49 • 8h ago
+👁️ 55K • 👍 1K • 💬 169 • ⏱️ 5:49 • 9h ago
 
 ---
 
@@ -254,7 +246,7 @@ This channel tells emotional and cinematic stories about a robot girl who enters
 
 📺 Female Humanoid Lab
 
-👁️ 138K • 👍 777 • 💬 37 • ⏱️ 12:09 • 6d ago
+👁️ 139K • 👍 781 • 💬 37 • ⏱️ 12:09 • 6d ago
 
 ---
 
@@ -264,17 +256,7 @@ Company's staff challenged kyrie irving to push the humanoid robot. however, the
 
 📺 BeastNarratives
 
-👁️ 7.4M • 👍 173K • 💬 625 • ⏱️ 0:45 • 5d ago
-
----
-
-**[3588X Galaxy | Pits &amp; Parts | Push Back Robot](https://www.youtube.com/watch?v=iKctGfctif8)**
-
-3588X Galaxy | Pits & Parts – Push Back With a world-high Skills score of 189 at the time of recording, 3588X Galaxy breaks down ...
-
-📺 FUN Robotics Network
-
-👁️ 1K • 👍 28 • 💬 2 • ⏱️ 8:31 • 13h ago
+👁️ 7.4M • 👍 174K • 💬 633 • ⏱️ 0:45 • 5d ago
 
 ---
 
@@ -295,6 +277,26 @@ A humanoid robot mimics a man's martial arts movements using motion-capture tech
 📺 7NEWS Australia
 
 👁️ 206K • 👍 2K • ⏱️ 0:42 • 6d ago
+
+---
+
+**[From &#39;big toys&#39; to smart machines: China&#39;s robot push](https://www.youtube.com/watch?v=IYylep91vLQ)**
+
+In 2025, embodied intelligence became one of China's most exciting and fastest-growing industries. The market for this ...
+
+📺 CGTN
+
+👁️ 14K • 👍 134 • 💬 6 • ⏱️ 2:57 • 4d ago
+
+---
+
+**[Top 3 AI Robotics Stocks To Watch in 2026](https://www.youtube.com/watch?v=cy57nEuN1UM)**
+
+Top 5 AI/Robot: https://www.getstockmatehq.com/chips-459746-516710 1. AI Stock Analysis: https://cashtoassets.com/themachine ...
+
+📺 Will Rich
+
+👁️ 4K • 👍 125 • 💬 28 • ⏱️ 28:43 • 1d ago
 
 ---
 

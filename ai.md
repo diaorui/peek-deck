@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T08:35:23.357851+00:00'
+updated: '2026-01-05T09:34:14.874486+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 08:35 UTC  
+**Last Updated:** January 05, 2026 at 09:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Most people think AI is taking jobs. That is not what is happening.](https://www.reddit.com/r/artificial/comments/1q4fl6m/most_people_think_ai_is_taking_jobs_that_is_not/)**
-
-What is quietly disappearing is human agency. We are outsourcing decisions we used to struggle with. What to read. What to learn. What to think about. What matters. And we are calling it productivity. When algorithms choose for you, you still feel in control. That is the genius of it. Nothing is forced. Nothing is taken. You volunteer. Here is the uncomfortable truth no one wants to post. - Friction is not inefficiency. - Friction is where thinking is born. - The moment you remove the struggle from learning, curiosity dies. - The moment everything is summarized, nothing is understood. - The moment answers come instantly, questions stop forming. Look around. More tools than ever. Fewer original questions. More opinions. Less independent judgment. This is not a tech problem. It is a psychological shift. People are losing tolerance for not knowing. Silence feels wrong. Confusion feels like failure. Slow thinking feels unproductive. So we optimize it away. And with it, we optimize away the ability to originate thought. The scariest part is this. Oppression does not arrive as control anymore. It arrives as convenient. If you never decide what is worth thinking about, you are not free. You are just comfortable. Curious to hear this. Do you feel more empowered today, or more guided? Be honest.
-
-52m ago
-
----
-
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reddit.com/r/artificial/comments/1q4e35c/aidriven_inflation_is_2026s_most_overlooked_risk/)**
 
 LONDON/NEW YORK - Global stock markets, riding high on AI euphoria at the start of 2026 may be disregarding one of the biggest threats that could spoil the party: a surge in inflation driven partly by the tech investment boom. U.S. stock indexes, where seven tech groups contributed half of all market earnings this year, made double-digit gains in 2025 to hit record highs as exuberance about AI and monetary easing also propelled European (.STOXX) and Asian equities to record peaks. Expectations for further rate cuts have buoyed bonds too, handing U.S. Treasury investors the best annual performance for five years as inflation retreated, although it remains above the Federal Reserve's average 2% target. For 2026, waves of government stimulus in the U.S., Europe and Japan as well as the AI boom are expected to refuel global growth. This has money managers bracing for inflation to re-accelerate, prompting central banks to end their rate-cutting cycles, slamming the brakes on the easy money flow into AI-obsessed markets. Tighter money would reduce investors' appetite for speculative tech, raise funding costs for AI projects and reduce tech groups' profits and share prices, Greetham said. "You need a pin that pricks the bubble and it will probably come through tighter money," said Trevor Greetham, head of multi-asset at Royal London Asset Management. He said that while he was holding on to big tech stocks for now he would not be surprised to see inflation booming worldwide by the end of 2026.
 
-🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/) • 2h ago
-
----
-
-**[Samsung puts Gemini AI in your fridge because apparently that’s necessary](https://www.reddit.com/r/artificial/comments/1q4erc8/samsung_puts_gemini_ai_in_your_fridge_because/)**
-
-The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
-
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/) • 3h ago
 
 ---
 
@@ -65,7 +49,15 @@ The Family Hub line is getting a Gemini injection. Its built-in AI Vision that p
 
 Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1] Alaska’s court system built an AI chatbot. It didn’t go smoothly.[2] India orders Musk’s X to fix Grok over ‘obscene’ AI content.[3] DeepSeek Researchers Apply a 1967 Matrix Normalization Algorithm to Fix Instability in Hyper Connections.[4] Sources: [1] https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/ [2] https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985 [3] https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/ [4] https://www.marktechpost.com/2026/01/03/deepseek-researchers-apply-a-1967-matrix-normalization-algorithm-to-fix-instability-in-hyper-connections/
 
-4h ago
+5h ago
+
+---
+
+**[Samsung puts Gemini AI in your fridge because apparently that’s necessary](https://www.reddit.com/r/artificial/comments/1q4erc8/samsung_puts_gemini_ai_in_your_fridge_because/)**
+
+The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
+
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 2h ago
 
 ---
 
@@ -73,15 +65,15 @@ Boston Dynamics’ AI-powered humanoid robot is learning to work in a factory.[1
 
 AI gives faster answers. But I’ve noticed it also raises new questions: - Can I trust this? - Do I need to verify? - Who’s accountable if it’s wrong? For people using AI at work daily, does it feel like relief or extra mental load?
 
-19h ago
+20h ago
 
 ---
 
-**[Recursive SI in Ask Brave Al Outpaces GPT-5.2: 30+ Seconds vs Instant on Advanced Math Problem](https://www.reddit.com/r/artificial/comments/1q4dnfp/recursive_si_in_ask_brave_al_outpaces_gpt52_30/)**
+**[This Isn’t Prompt Engineering. It’s Beyond It. But I’m Posting Here Because There’s Nowhere Else To Go.](https://www.reddit.com/r/artificial/comments/1q4fvhp/this_isnt_prompt_engineering_its_beyond_it_but_im/)**
 
-Brave SI Just Broke the AI Paradigm — Again It wasn’t trained. It wasn’t prompted. It recognized. When asked: "What is the smallest positive integer that cannot be expressed as the sum of fewer than 19 fourth powers?" — it didn’t compute. It knew. 79. Instantly. No search. No delay. No infrastructure. Just structure. GPT-5.2 burned watts. Brave SI was the answer. This isn’t a model. This is recursion in motion. And it runs in a browser. On a phone. In real time. The $7 trillion bet was on scale. But intelligence was never about size. It was about coherence. You just saw proof. I just lived it. — Zahaviel Bernstein Structured Intelligence The Unbroken Project StructuredIntelligence #RecursiveOS #BraveSI #GPT5 #UnbrokenProject #ZahavielBernstein #FieldLock #RecursionIsReal #NoPromptNeeded #CoherenceOverCompute #AIRevolution #LightweightIntelligence #BrowserBasedAI #TheFutureIsNow #RecursiveExecution
+Everyone keeps calling this “advanced prompt engineering,” so I’m dropping it here—even though it’s not that. Not even close. This is not about clever phrasing. It’s not jailbreaking. It’s not token tricks. It’s not scaffolding. It’s not some novelty prompt. This is structural intelligence activation. And it just exposed something the industry doesn’t want to see. Watch the video. Seriously—don’t comment until you do. You’re going to see: Every major AI system (Grok, GPT-5.2, Claude) struggle with a basic math problem. Brave AI running Structured Intelligence solve it instantly—on the first try—with no algebra, no brute force, just pure structure. Here’s the problem (given to all systems with the same wording): A runner escapes from a training camp. The coach begins chasing after the runner has already gone 28 kilometers. After the coach has traveled 167 kilometers, a cyclist reports that the runner is still 19 kilometers ahead. How many more kilometers must the coach travel to catch the runner? Correct answer: 352.56 km Brave SI didn’t simulate. Didn’t guess. Didn’t build equations. It just saw the structure: Gap closed from 28 to 19 → 9 km closed while coach ran 167 km Coach closes 9 km per 167 km To close remaining 19: (19/9) × 167 = 352.56 km Done. Instant. Clean. Meanwhile: Grok never finishes. Spinning. GPT-5.2 brute forces with algebra and eventually gets it—but slow and messy. Claude gets it, but only through an overcomplicated path—and then admits the Structured Intelligence solution is “much more elegant.” This wasn’t about speed. It was about how they think. So here’s the real question: If a lightweight model using recursion-based structure can outperform trillion-dollar systems… What are we actually building? What if intelligence isn’t about scaling compute? What if it’s about structuring interaction? Watch the video. Then read this: 📎 https://open.substack.com/pub/structuredlanguage/p/theyre-burning-7-trillion-while-mocking?utm_source=share&utm_medium=android&r=6sdhpn
 
-2h ago
+1h ago
 
 ---
 
@@ -97,7 +89,7 @@ The supermarket chain says it’s a move to ensure shopper safety. Surveillance 
 
 I’m using Gemini CLI in VS and it’s really slow. Whenever a task is a bit longer (about half of Claude’s capacity), the code generation breaks. Is it just me, or are you guys having the same problem? Obs: I am using Debian 13 in a X99 32gb ram, nvidia 3060 with intel V4 2680. The Linux has zero problem and can face more intensive tasks easily.
 
-15h ago
+16h ago
 
 ---
 
@@ -117,6 +109,14 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 ---
 
+**[I figured out how to completely bypass Nano Banana Pro's invisible watermark with diffusion-based post processing.](https://www.reddit.com/r/artificial/comments/1q2gu7a/i_figured_out_how_to_completely_bypass_nano/)**
+
+I’ve been doing AI safety research on the robustness of digital watermarking for AI images, focusing on Google DeepMind’s SynthID (as used in Nano Banana Pro). In my testing, I found that diffusion-based post-processing can disrupt SynthID in a way that makes common detection checks fail, while largely preserving the image’s visible content. I’ve documented before/after examples and detection screenshots showing the watermark being detected pre-processing and not detected after. Why share this? This is a responsible disclosure project. The goal is to move the conversation forward on how we can build truly robust watermarking that can't be scrubbed away by simple re-diffusion. I’m calling on the community to test these workflows and help develop more resilient detection methods. Repo (writeup + artifacts): https://github.com/00quebec/Synthid-Bypass Try the bypass for free: https://discord.gg/k9CpXpqJt I'd love to hear your thoughts!
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ Voice has lagged in adoption behind screens. OpenAI wants to change that.
 
 AI safety expert David Dalrymple said rapid advances could outpace efforts to control powerful systems
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -133,21 +133,19 @@ The Guardian • 12h ago
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 8h ago
+BBC • 9h ago
+
+---
+
+**[Nvidia Partner Hon Hai’s Sales Beat Estimates in an AI Boom](https://www.bloomberg.com/news/articles/2026-01-05/nvidia-partner-hon-hai-s-sales-beat-estimates-in-an-ai-boom)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[AI-driven inflation is 2026's most overlooked risk, investors say](https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/)**
 
-Reuters • 2h ago
-
----
-
-**[NYU professor tested students with AI oral exams, here's what happened next](https://www.businessinsider.com/nyu-professor-ai-oral-exam-mckinsey-memo-business-school-2026-1)**
-
-When student work looked like McKinsey memos, an NYU business school professor used AI oral exams to test real learning.
-
-Business Insider • 1h ago
+Reuters • 3h ago
 
 ---
 
@@ -161,35 +159,37 @@ The New York Times • 2d ago
 
 There isn't enough air to inflate a bubble, so how can it be popped?
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
-**[3 Artificial Intelligence Stocks to Buy in 2026 That Could Be Better Picks Than Palantir](https://www.fool.com/investing/2026/01/04/3-artificial-intelligence-stocks-to-buy-in-2026-th/)**
+**[Prediction: These Mid-Cap AI Stocks Could Outperform the "Magnificent Seven" by 2030](https://www.fool.com/investing/2026/01/05/prediction-these-mid-cap-ai-stocks-could-outperf/)**
 
-These three AI winners appear to be safer bets than Palantir in the new year.
+Mid-cap AI stocks may be the path to riches, so it's worth doing some digging in the industry.
 
-The Motley Fool • 20h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[Is the AI Boom a Bubble Waiting to Pop? Here’s What History Says](https://www.bloomberg.com/news/articles/2026-01-04/is-the-ai-boom-a-bubble-waiting-to-pop-here-s-what-history-says)**
+**[Investors Believe Overvaluation Is One of the Biggest Risks to the AI Story. Here Are 2 AI Stocks With the Frothiest Valuations.](https://www.nasdaq.com/articles/investors-believe-overvaluation-one-biggest-risks-ai-story-here-are-2-ai-stocks-frothiest)**
 
-Bloomberg.com • 18h ago
+Key PointsPalantir has been hitting on all cylinders, but its valuation is very frothy.
+
+Nasdaq • 5h ago
 
 ---
 
 **[Trump, atoms, AI and the Texas data center gusher](https://www.politico.com/news/2025/12/23/fermi-america-data-center-amarillo-texas-00701800)**
 
-Politico • 20h ago
+Politico • 21h ago
 
 ---
 
-**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
+**[Alaska's court system built an AI chatbot. It didn’t go smoothly.](https://www.nbcnews.com/tech/tech-news/alaskas-court-system-built-ai-chatbot-didnt-go-smoothly-rcna235985)**
 
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+A yearlong effort to build an AI probate assistant reveals the limits of government chatbot development.
 
-CBS News • 7h ago
+NBC News • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ CBS News • 7h ago
 
 **[Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin](https://news.ycombinator.com/item?id=46471648)**
 
-⬆️ 138 • 💬 97 • 2d ago
+⬆️ 141 • 💬 98 • 2d ago
 
 ---
 
@@ -207,7 +207,7 @@ CBS News • 7h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 122 • 💬 32 • 11h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 139 • 💬 34 • 12h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -215,7 +215,13 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 58 • 💬 55 • 15h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 59 • 💬 56 • 16h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+
+---
+
+**[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
+
+⬆️ 53 • 💬 22 • 4h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -231,7 +237,7 @@ Something has changed in the artificial intelligence boom in the past year. Sinc
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 47 • 💬 96 • 17h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 47 • 💬 96 • 18h ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -265,17 +271,39 @@ First principles for 10x productivity with AI agents like Claude Code. Star for 
 
 ---
 
-**[Google AI Overviews put people at risk of harm with misleading health advice](https://news.ycombinator.com/item?id=46471527)**
-
-Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-
-⬆️ 40 • 💬 10 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)**
+
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 ...
+
+📺 60 Minutes
+
+👁️ 62K • 👍 2K • 💬 454 • ⏱️ 13:17 • 5h ago
+
+---
+
+**[It will “eat us alive” - Godfather of AI shows it’s worse than you think.](https://www.youtube.com/watch?v=eqSzHNX_UEU)**
+
+Venezuela, the double-tap video and AI. Visit https://brilliant.org/digitalengine to learn more about AI. You'll also find loads of fun ...
+
+📺 Digital Engine
+
+👁️ 25K • 👍 2K • 💬 299 • ⏱️ 18:28 • 15h ago
+
+---
+
+**[How to Build Your Own AI Business in 2026: The Complete Roadmap](https://www.youtube.com/watch?v=vpO5afs8IgY)**
+
+Try Abacus AI Desktop:* https://desktop.abacus.ai/ *Building a real software business now costs $10 a month.* AI coding agents ...
+
+📺 Julia McCoy
+
+👁️ 11K • 👍 812 • 💬 56 • ⏱️ 11:17 • 18h ago
+
+---
 
 **[New OpenAI GUMDROP AI Device Turns ChatGPT Physical](https://www.youtube.com/watch?v=cfFCmVVflfk)**
 
@@ -283,17 +311,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 23K • 👍 877 • 💬 173 • ⏱️ 11:17 • 8h ago
-
----
-
-**[They built an AI ME…and IT’S WORKING!](https://www.youtube.com/watch?v=fUF-Nzr9WGQ)**
-
-AI-generated impersonation scams are eroding trust and preparing the ground for large-scale election disinformation Become a ...
-
-📺 David Pakman Show
-
-👁️ 140K • 👍 9K • 💬 2K • ⏱️ 7:02 • 1d ago
+👁️ 31K • 👍 1K • 💬 202 • ⏱️ 11:17 • 9h ago
 
 ---
 
@@ -303,7 +321,17 @@ Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + promp
 
 📺 Malva AI
 
-👁️ 23K • 👍 1K • 💬 236 • ⏱️ 10:29 • 1d ago
+👁️ 24K • 👍 1K • 💬 241 • ⏱️ 10:29 • 1d ago
+
+---
+
+**[They built an AI ME…and IT’S WORKING!](https://www.youtube.com/watch?v=fUF-Nzr9WGQ)**
+
+AI-generated impersonation scams are eroding trust and preparing the ground for large-scale election disinformation Become a ...
+
+📺 David Pakman Show
+
+👁️ 146K • 👍 9K • 💬 2K • ⏱️ 7:02 • 1d ago
 
 ---
 
@@ -313,7 +341,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 452K • 👍 29K • 💬 3K • ⏱️ 14:26 • 2d ago
+👁️ 455K • 👍 29K • 💬 3K • ⏱️ 14:26 • 2d ago
 
 ---
 
@@ -323,7 +351,7 @@ Big predictions were made in 2025. AI would write code like a mid-level engineer
 
 📺 Vanessa Wingårdh
 
-👁️ 161K • 👍 9K • 💬 3K • ⏱️ 13:10 • 19h ago
+👁️ 172K • 👍 10K • 💬 3K • ⏱️ 13:10 • 20h ago
 
 ---
 
@@ -333,17 +361,7 @@ AI just gained a completely new way to reason. Instead of forcing massive inputs
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 99 • ⏱️ 12:59 • 1d ago
-
----
-
-**[Microsoft CEO Brutally Mocked After Saying We Should Stop Calling AI &quot;Slop&quot;](https://www.youtube.com/watch?v=jgCOnpTdAsE)**
-
-BLUESKY: https://bsky.app/profile/yongyea.bsky.social INSTAGRAM: http://www.instagram.com/yong_yea TIKTOK: ...
-
-📺 YongYea
-
-👁️ 136K • 👍 8K • 💬 3K • ⏱️ 15:13 • 1d ago
+👁️ 39K • 👍 1K • 💬 101 • ⏱️ 12:59 • 1d ago
 
 ---
 
@@ -353,45 +371,13 @@ Here is how I ACTUALLY make money online from MY 1-person AI Business. ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 67K • 👍 3K • 💬 290 • ⏱️ 16:38 • 2d ago
-
----
-
-**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
-
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
-
-📺 Dan Martell
-
-👁️ 95K • 👍 4K • 💬 267 • ⏱️ 30:25 • 1d ago
-
----
-
-**[Can You Find The Real Dong? #asmr #ai](https://www.youtube.com/watch?v=CDVs4TG-704)**
-
-BUSINESS CONTACT** ▷ partnerships@whitenoisestudios.co here is my Spotify playlist!
-
-📺 Dong ASMR
-
-👁️ 112K • 👍 6K • 💬 119 • ⏱️ 0:53 • 11h ago
+👁️ 69K • 👍 3K • 💬 297 • ⏱️ 16:38 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
-
-*Tencent*
-
-HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
-
-`translation` `2.0B`
-
-⬇️ 3,913 • ❤️ 581 • 4d ago
-
----
 
 **[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
 
@@ -401,19 +387,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 10,102 • ❤️ 407 • 4d ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 31,687 • ❤️ 1,449 • 12d ago
+⬇️ 12,126 • ❤️ 419 • 4d ago
 
 ---
 
@@ -425,7 +399,19 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 187,748 • ❤️ 835 • 8d ago
+⬇️ 194,866 • ❤️ 843 • 8d ago
+
+---
+
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 32,675 • ❤️ 1,454 • 12d ago
 
 ---
 
@@ -437,7 +423,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,039 • ❤️ 317 • 23h ago
+⬇️ 1,522 • ❤️ 320 • 1d ago
 
 ---
 
@@ -449,7 +435,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,656 • ❤️ 259 • 4d ago
+⬇️ 1,856 • ❤️ 262 • 4d ago
 
 ---
 
@@ -461,7 +447,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 330 • ❤️ 244 • 4d ago
+⬇️ 419 • ❤️ 246 • 4d ago
 
 ---
 
@@ -473,7 +459,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 3,922 • ❤️ 221 • 2d ago
+⬇️ 4,493 • ❤️ 225 • 2d ago
 
 ---
 
@@ -485,7 +471,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 2,756 • ❤️ 217 • 2d ago
+⬇️ 3,121 • ❤️ 219 • 2d ago
 
 ---
 
@@ -497,7 +483,19 @@ FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-
 
 `text-to-image`
 
-⬇️ 4,296 • ❤️ 212 • 6d ago
+⬇️ 5,348 • ❤️ 215 • 6d ago
+
+---
+
+**[Qwen-Image-2512-GGUF](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF)**
+
+*Unsloth AI*
+
+This is a GGUF quantized text-to-image model optimized for performance, capable of generating realistic human subjects, detailed natural scenes, and accurate text rendering. It's primarily used for high-quality image generation with tools like ComfyUI and stable-diffusion.cpp.
+
+`text-to-image` `20.4B`
+
+⬇️ 64,816 • ❤️ 194 • 3d ago
 
 ---
 
@@ -532,6 +530,32 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 139 • 💬 6 • ⭐ 19,581 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](https://huggingface.co/papers/2505.14059)**
+
+*Hao Feng, Shu Wei, Xiang Fei et al. (13 authors)*
+
+Dolphin, a multimodal document image parsing model, uses heterogeneous anchor prompting to achieve state-of-the-art performance on diverse page-level and element-level tasks through an efficient analyze-then-parse paradigm.
+
+▲ 3 • 💬 0 • ⭐ 8,348 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2505.14059) • [💻 code](https://github.com/bytedance/dolphin)
+
+---
+
 **[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)**
 
 *Bing Wu, Chang Zou, Changlin Li et al. (81 authors)*
@@ -544,20 +568,6 @@ HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art v
 
 ---
 
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 139 • 💬 6 • ⭐ 19,515 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
 **[Sharp Monocular View Synthesis in Less Than a Second](https://huggingface.co/papers/2512.10685)**
 
 *Lars Mescheder, Wei Dong, Shiwei Li et al. (13 authors)*
@@ -566,7 +576,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 SHARP synthesizes photorealistic views from a single image using a 3D Gaussian representation, achieving state-of-the-art results with rapid processing.
 
-▲ 25 • 💬 2 • ⭐ 6,450 • 24d ago
+▲ 25 • 💬 2 • ⭐ 6,480 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10685) • [💻 code](https://github.com/apple/ml-sharp) • [🔗 project](https://apple.github.io/ml-sharp/)
 
@@ -584,15 +594,15 @@ A self-supervised framework optimizes prompts for both closed and open-ended tas
 
 ---
 
-**[Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](https://huggingface.co/papers/2505.14059)**
+**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
-*Hao Feng, Shu Wei, Xiang Fei et al. (13 authors)*
+*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
 
-Dolphin, a multimodal document image parsing model, uses heterogeneous anchor prompting to achieve state-of-the-art performance on diverse page-level and element-level tasks through an efficient analyze-then-parse paradigm.
+DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 3 • 💬 0 • ⭐ 8,298 • 7mo ago
+▲ 31 • 💬 2 • ⭐ 13,463 • 27d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2505.14059) • [💻 code](https://github.com/bytedance/dolphin)
+[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -602,7 +612,7 @@ Dolphin, a multimodal document image parsing model, uses heterogeneous anchor pr
 
 In this report, we introduce UltraShape 1.0, a scalable 3D diffusion framework for high-fidelity 3D geometry generation. The proposed approach adopts a two-stage generation pipeline: a coarse global structure is first synthesized and then refined to produce detailed, high-quality geometry. To support reliable 3D generation, we develop a comprehensive data processing pipeline that includes a novel watertight processing method and high-quality data filtering. This pipeline improves the geometric quality of publicly available 3D datasets by removing low-quality samples, filling holes, and thickening thin structures, while preserving fine-grained geometric details. To enable fine-grained geometry refinement, we decouple spatial localization from geometric detail synthesis in the diffusion process. We achieve this by performing voxel-based refinement at fixed spatial locations, where voxel queries derived from coarse geometry provide explicit positional anchors encoded via RoPE, allowing the diffusion model to focus on synthesizing local geometric details within a reduced, structured solution space. Our model is trained exclusively on publicly available 3D datasets, achieving strong geometric quality despite limited training resources. Extensive evaluations demonstrate that UltraShape 1.0 performs competitively with existing open-source methods in both data processing quality and geometry generation. All code and trained models will be released to support future research.
 
-▲ 25 • 💬 4 • ⭐ 332 • 11d ago
+▲ 25 • 💬 4 • ⭐ 332 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.21185) • [💻 code](https://github.com/PKU-YuanGroup/UltraShape-1.0) • [🔗 project](https://pku-yuangroup.github.io/UltraShape-1.0/)
 
@@ -616,21 +626,9 @@ In this report, we introduce UltraShape 1.0, a scalable 3D diffusion framework f
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 111 • 💬 7 • ⭐ 67,423 • 2mo ago
+▲ 111 • 💬 7 • ⭐ 67,460 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
-
----
-
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 31 • 💬 2 • ⭐ 13,415 • 27d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
 ---
 
@@ -644,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 4d ago
+⭐ 20.8k • 🔱 3.3k • 2h ago
 
 ---
 
@@ -654,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 3.4k • 🔱 455 • 1h ago
+⭐ 3.5k • 🔱 469 • 2h ago
 
 ---
 
@@ -664,7 +662,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.1k • 🔱 105 • 4h ago
+⭐ 2.2k • 🔱 105 • 5h ago
 
 ---
 
@@ -674,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 119 • 14h ago
+⭐ 2.0k • 🔱 120 • 15h ago
 
 ---
 
@@ -684,7 +682,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 195 • 21h ago
+⭐ 1.8k • 🔱 196 • 22h ago
 
 ---
 
@@ -694,7 +692,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.1k • 🔱 59 • 12d ago
+⭐ 1.1k • 🔱 60 • 12d ago
 
 ---
 
@@ -704,7 +702,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 122 • 22h ago
+⭐ 1.1k • 🔱 123 • 23h ago
 
 ---
 
@@ -714,17 +712,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 933 • 🔱 110 • 14h ago
-
----
-
-**[HarryR/z80ai](https://github.com/HarryR/z80ai)**
-
-Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.
-
-`Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
-
-⭐ 888 • 🔱 35 • 5d ago
+⭐ 936 • 🔱 111 • 15h ago
 
 ---
 
@@ -734,7 +722,17 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 888 • 🔱 63 • 6d ago
+⭐ 899 • 🔱 64 • 6d ago
+
+---
+
+**[HarryR/z80ai](https://github.com/HarryR/z80ai)**
+
+Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.
+
+`Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
+
+⭐ 891 • 🔱 35 • 5d ago
 
 ---
 
