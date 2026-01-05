@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T18:35:34.746849+00:00'
+updated: '2026-01-05T19:21:17.703124+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 18:35 UTC  
+**Last Updated:** January 05, 2026 at 19:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 8h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 So I tend to lean more towards the Solana side for development due to the low TPS and easy fees for a L1, but there always seemed to be a problem when I worked at startups - which is many ETH devs did not want to learn Solana due to the differences between ETH and SOL. And there are many. Firstly, PDAs and transactions are completely different - just looking at a block explorer, one would have to take a class to understand what is going on between accounts and instructions and the gas compute. I decided to take on this challenge since many Solana developers only understand the basics of transactions and thus build applications that fail during high network traffic times, and do not take advantage of memos which can store app specific data. I would love to know what ETH devs think of Solana, if they have ever tried Solana, and if they are interested I can share the API I built to see if they think integrating Solana now becomes much easier.
 
-3h ago
+4h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, hard-fork-independent mechanism intended to provide a recovery path for ETH compromised by smart contract malfunctions (e.g. the Parity multisig wallet lock). The protocol proposes a gradual recovery funded by ETH sourced from EIP-1559 burned base fees. Background and Motivation We are a small group of early Ethereum adopters who helped grow the protocol at its inception. We are united by a shared personal tragedy: the Parity multisig wallet bug that occurred on November 6th, 2017, which permanently locked a significant amount of ETH. After nearly two years of collaboration, discussion, research, and writing, we published a proposal last month aimed at addressing what we believe to be one of Ethereum’s longest-standing unresolved issues. 📄 Full proposal: Here 💬 Public discussion on Ethereum Magicians: Here Fund Loss on Ethereum: An Incomplete Model On traditional blockchains, loss of funds is generally understood to fall into two primary categories: User error (e.g. lost private keys, incorrect transactions) Criminal activity (e.g. hacks, phishing, spoofing) However, on a smart contract platform such as Ethereum, a third category must be acknowledged: Smart contract malfunction In these cases, unforeseen bugs or unintended contract interactions result in users losing control over their funds. Importantly, these funds are neither stolen nor lost — rather, they are compromised and rendered inaccessible to their legitimate owners. Limitations of Existing Remedies Basic crypto due diligence can significantly reduce the risk of user error. Similarly, theft and fraud fall under existing criminal and civil law frameworks (even if enforcement remains challenging). In contrast, there is currently no meaningful recourse for users who lose funds due to smart contract malfunctions: there is no authority to appeal to, legal action against developers is impractical and undesirable, and the protocol itself provides no native resolution mechanism. Given that smart contracts are authored by humans and are therefore fallible, the absence of any recourse represents a systemic risk unique to smart contract platforms. The Hard Fork Constraint In cases such as the Parity multisig wallet lock, recovery can only be achieved via a hard fork. This presents significant challenges: hard forks are socially and technically sensitive, they conflict with Ethereum’s core principle of immutability, and they do not scale as a general solution. While there are valid reasons to oppose hard fork-based interventions, the lack of alternatives leaves affected users with no viable path forward. The Ethereum Fund Recovery Protocol (EFRP) To address this gap, we propose the Ethereum Fund Recovery Protocol (EFRP) — a general, decentralized recovery mechanism that operates without requiring a hard fork. Key properties: applicable to all cases of smart contract malfunction, regardless of size, permissionless and open to all eligible users, designed to coexist with Ethereum’s existing economic and governance structures. Core Mechanism (High-Level) Eligible users voluntarily self-burn their compromised ETH In return, they receive a recovery token (sETH) Over time, sETH is gradually burned and replaced with ETH This ETH is sourced from currently burned base fees introduced by EIP-1559 Oversight and parameter management would be handled by a small, decentralized, single-purpose DAO. Why This Matters We believe the EFRP offers a principled approach to one of Ethereum’s most persistent unresolved issues. If successful, the protocol could: Help restore acces of legitimate owners to compromised funds Reduce the risk profile of interacting with smart contracts, Lower barriers to adoption for both users and developers, And contribute to long-term ecosystem resilience and growth. Feedback and Discussion We welcome thoughtful feedback and critique — either here on Reddit or in the ongoing Ethereum Magicians discussion.
 
-2d ago
+3d ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1d ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 5h ago
+dlnews.com • 6h ago
 
 ---
 
@@ -172,7 +172,7 @@ dlnews.com • 5h ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -188,13 +188,13 @@ Yahoo Finance • 2d ago
 
 Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-Yahoo Finance • 11m ago
+Yahoo Finance • 57m ago
 
 ---
 
 **[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
 
-CCN.com • 4h ago
+CCN.com • 5h ago
 
 ---
 
@@ -208,7 +208,7 @@ Barron's • 3d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) extended their rallies on Monday, gaining more than 4%, 6%, and 12%, respectively, in the previous week. The top three cryptocurrencies by market capitalization could continue to outperform, with bulls in control of the momentum.
 
-FXStreet • 14h ago
+FXStreet • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 1K • 💬 61 • ⏱️ 46:18 • 40m ago
+👁️ 12K • 👍 1K • 💬 61 • ⏱️ 46:18 • 1h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 102 • 💬 8 • ⏱️ 4:24 • 3h ago
+👁️ 1K • 👍 102 • 💬 8 • ⏱️ 4:24 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video, we break down BitMine Immersion Technologies ($BMNR) and their st
 
 📺 CryptoStock Lab
 
-👁️ 120 • 👍 5 • 💬 28 • ⏱️ 14:01 • 1h ago
+👁️ 120 • 👍 5 • 💬 28 • ⏱️ 14:01 • 2h ago
 
 ---
 
@@ -278,7 +278,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 94 • 👍 8 • 💬 1 • ⏱️ 4:53 • 24m ago
+👁️ 94 • 👍 8 • 💬 1 • ⏱️ 4:53 • 1h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 14 • ⏱️ 4:31 • 15h ago
+👁️ 3K • 👍 191 • 💬 14 • ⏱️ 4:31 • 16h ago
 
 ---
 
@@ -308,7 +308,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 491 • 💬 54 • ⏱️ 13:59 • 6h ago
+👁️ 7K • 👍 491 • 💬 54 • ⏱️ 13:59 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN PRICE TARGET HIT: This is Coming Next!!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 10K • 👍 361 • 💬 108 • ⏱️ 14:26 • 21h ago
+👁️ 10K • 👍 361 • 💬 108 • ⏱️ 14:26 • 22h ago
 
 ---
 

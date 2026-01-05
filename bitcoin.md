@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T18:35:34.741545+00:00'
+updated: '2026-01-05T19:21:17.697170+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 18:35 UTC  
+**Last Updated:** January 05, 2026 at 19:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Let’s push it back up to 100k TONIGHT 😈😈](https://www.reddit.com/r/Bitcoin/comments/1q48bcz/lets_push_it_back_up_to_100k_tonight/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -105,25 +105,25 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
 
-4h ago
+5h ago
 
 ---
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Is the Lightning Network successful or a disappointing?](https://www.reddit.com/r/Bitcoin/comments/1q4l86f/is_the_lightning_network_successful_or_a/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Time to Take a Stand](https://www.reddit.com/r/Bitcoin/comments/1q4dj6b/time_to_take_a_stand/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 For the past five years, I’ve been buying $10 of Bitcoin every single day. No timing the market. No chasing pumps. Just consistency. I don’t check the price much anymore. When it goes up, I keep buying. When it crashes, I keep buying. No fear. No regret.
 
-11h ago
+12h ago
 
 ---
 
@@ -147,13 +147,13 @@ For the past five years, I’ve been buying $10 of Bitcoin every single day. No 
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
 **[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqelqMG3xj-eHMcYeYrwwVLtE83vPRbo2aiBVNykmC8D7rsILvKKpV-d&gaa_ts=695c07dd&gaa_sig=7uuabOBBX_TJwBAeyZVWLMn8kuQccbHg0Kx858pdkqxc3nBVFT5cBCmr44jZ8lm1t4qf43Ut6kWPSLzOB4Rzxg%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -161,7 +161,7 @@ Barron's • 6h ago
 
 Strategy affirmed that buying Bitcoin isn’t its only priority in 2026, despite dropping $116 million on the asset to welcome in the new year.
 
-Decrypt • 42m ago
+Decrypt • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Decrypt • 42m ago
 
 The Michael Saylor-led company added 1,287 BTC and $62 million in cash via the sale of common stock.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 4h ago
 
 MicroStrategy shows how Bitcoin enables retail access and perpetual capital, solving private equity’s biggest structural challenges.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 20h ago
 
 Bitcoin’s advance came as gold, silver and equities gained as markets digested the arrest of Venezuelan President Nicolas Maduro.  Bitcoin surpassed its 50-day moving average for the first time since a crypto market crash started in early October, one of several indicators suggesting prices are on firmer footing.  The arrest of Maduro has sparked fresh speculation about state-linked crypto stashes.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -279,7 +279,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 19h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 20h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -307,7 +307,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 411 • 💬 117 • ⏱️ 10:52 • 2h ago
+👁️ 4K • 👍 411 • 💬 117 • ⏱️ 10:52 • 3h ago
 
 ---
 
@@ -317,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 120 • ⏱️ 38:51 • 1m ago
+👁️ 17K • 👍 1K • 💬 120 • ⏱️ 38:51 • 47m ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 14K • 👍 760 • 💬 76 • ⏱️ 18:14 • 7h ago
+👁️ 14K • 👍 760 • 💬 76 • ⏱️ 18:14 • 8h ago
 
 ---
 
@@ -357,7 +357,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 51K • 👍 2K • 💬 677 • ⏱️ 10:50 • 18h ago
+👁️ 51K • 👍 2K • 💬 677 • ⏱️ 10:50 • 19h ago
 
 ---
 
@@ -367,7 +367,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 3K • 💬 428 • ⏱️ 23:12 • 19h ago
+👁️ 38K • 👍 3K • 💬 428 • ⏱️ 23:12 • 20h ago
 
 ---
 
@@ -387,7 +387,7 @@ Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/a/k/FrankieCandle
 
 📺 Frankie Candles 
 
-👁️ 537 • 👍 107 • 💬 53 • ⏱️ 12:53 • 54m ago
+👁️ 537 • 👍 107 • 💬 53 • ⏱️ 12:53 • 1h ago
 
 ---
 
@@ -397,7 +397,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 209 • ⏱️ 19:12 • 15h ago
+👁️ 67K • 👍 4K • 💬 209 • ⏱️ 19:12 • 16h ago
 
 ---
 

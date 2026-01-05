@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T18:35:34.749716+00:00'
+updated: '2026-01-05T19:21:17.706352+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 18:35 UTC  
+**Last Updated:** January 05, 2026 at 19:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-4h ago
+5h ago
 
 ---
 
@@ -44,19 +44,19 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-20h ago
+21h ago
 
 ---
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-4h ago
+5h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-25m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 I’m using a Cytron motor driver (MDDS series) in packetized UART mode with an ESP microcontroller. Everything works correctly while the ESP is powered. The problem happens when I remove power from the ESP: The Cytron keeps executing the last UART command For example, if the motors were moving forward, they continue moving forward indefinitely The UART signal (TX) and GND pins become floating when the ESP is unpowered I expected the 2-second auto-stop failsafe to stop the motors, but it does not trigger in packetized UART mode. Questions: Is this behavior expected for Cytron packetized UART? Is there any built-in UART failsafe or timeout I’m missing? What is the proper way to force the motors to stop when the controller loses power? Is a hardware solution (relay / enable pin / kill switch) the only safe option? I’m working on a robotics/rover project, so safety is important. Any advice or proven setups would be appreciated.
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ A few months ago, the NEO home robot was all over the news — demos, hype, prom
 
 Building my first AGV(final year project) with 12V DC encoder motors. Using Raspberry Pi as main controller with Arduino for motor control. Need a reliable motor driver compatible for my AGV Considering L298N, TB6612FNG, e.t.c. Which driver is most suitable for smooth AGV operation?
 
-4m ago
+49m ago
 
 ---
 
@@ -104,7 +104,7 @@ Building my first AGV(final year project) with 12V DC encoder motors. Using Rasp
 
 Discover topics like java, robot, simulation, urdf, and the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users like aggrav8d.
 
-🔗 [Imgur](https://imgur.com/gallery/adding-urdf-support-robot-overlord-BpAd6bc) • 8m ago
+🔗 [Imgur](https://imgur.com/gallery/adding-urdf-support-robot-overlord-BpAd6bc) • 54m ago
 
 ---
 
@@ -116,7 +116,7 @@ Discover topics like java, robot, simulation, urdf, and the magic of the interne
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 4h ago
+CNET • 5h ago
 
 ---
 
@@ -124,7 +124,7 @@ CNET • 4h ago
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 17h ago
+CBS News • 18h ago
 
 ---
 
@@ -138,7 +138,7 @@ PR Newswire • 1d ago
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Robot Report • 2d ago
 
 Experience the Future of Work with TASKBOT AVA and TASKBOT SCOUT | REVOBOTS Founding Team On-Site for Meet the Makers and Media Briefings The future of robotics isn’t about spectacle—it’s about usefulness. We design robots for specific jobs, in real environments, with autonomy where it makes sense and human oversight where it matters.” — Andre […]
 
-Detroit Free Press • 3h ago
+Detroit Free Press • 4h ago
 
 ---
 
@@ -162,7 +162,7 @@ Detroit Free Press • 3h ago
 
 Las Vegas tech show to display latest gadgets aimed at consumers, including AI and robotics applications for daily life
 
-The Globe and Mail • 5h ago
+The Globe and Mail • 6h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Globe and Mail • 5h ago
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ Seeking Alpha • 19h ago
 
 FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
 
-Inspenet • 1d ago
+Inspenet • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 270K • 👍 5K • 💬 1K • ⏱️ 13:17 • 14h ago
+👁️ 270K • 👍 5K • 💬 1K • ⏱️ 13:17 • 15h ago
 
 ---
 
@@ -290,7 +290,7 @@ War Robots Gameplay: Getting my Ultimate Typhon and the TRUE COST of leveling an
 
 📺 Manni-Gaming
 
-👁️ 12K • 👍 756 • 💬 182 • ⏱️ 22:23 • 15h ago
+👁️ 12K • 👍 756 • 💬 182 • ⏱️ 22:23 • 16h ago
 
 ---
 
