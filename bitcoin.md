@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T14:51:58.801933+00:00'
+updated: '2026-01-05T15:25:45.799223+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 14:51 UTC  
+**Last Updated:** January 05, 2026 at 15:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[Thank you, Satoshi.](https://www.reddit.com/r/Bitcoin/comments/1q3zwnl/thank_you_satoshi/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -151,7 +151,7 @@ Very strong resistance at $93-94K If we break these level this week, final bull 
 
 The rally in crypto was mirrored by a surge in commodities and Asian equities, driven by AI-led momentum and geopolitical developments.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -167,13 +167,13 @@ Yahoo Finance • 1d ago
 
 The Michael Saylor-led company added 1,287 BTC and $62 million in cash via the sale of common stock.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -197,13 +197,13 @@ CNBC • 2d ago
 
 The cryptoasset is on its longest winning streak since October....
 
-Sherwood News • 1h ago
+Sherwood News • 2h ago
 
 ---
 
 **[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ The Motley Fool • 22h ago
 
 **[Investors Should Hold 4% Bitcoin in Portfolio, Says Bank of America, as BTC Soars Above $92K](https://www.ccn.com/news/crypto/investors-should-hold-4-bitcoin-in-portfolio-says-bank-of-america-as-btc-soars-above-92k/)**
 
-CCN.com • 1h ago
+CCN.com • 2h ago
 
 ---
 
@@ -281,7 +281,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 15h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 16h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 519 • 💬 50 • ⏱️ 18:14 • 3h ago
+👁️ 6K • 👍 519 • 💬 50 • ⏱️ 18:14 • 4h ago
 
 ---
 
@@ -319,7 +319,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=nslN690Odh0 FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 176 • 💬 119 • ⏱️ 14:43 • 9h ago
+👁️ 4K • 👍 176 • 💬 119 • ⏱️ 14:43 • 10h ago
 
 ---
 
@@ -329,7 +329,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 48K • 👍 2K • 💬 628 • ⏱️ 10:50 • 14h ago
+👁️ 48K • 👍 2K • 💬 628 • ⏱️ 10:50 • 15h ago
 
 ---
 
@@ -359,7 +359,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 325 • ⏱️ 23:12 • 15h ago
+👁️ 34K • 👍 2K • 💬 325 • ⏱️ 23:12 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 4K • 💬 194 • ⏱️ 19:12 • 11h ago
+👁️ 53K • 👍 4K • 💬 194 • ⏱️ 19:12 • 12h ago
 
 ---
 

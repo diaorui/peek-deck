@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-05T14:51:58.792969+00:00'
+updated: '2026-01-05T15:25:45.790095+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 05, 2026 at 14:51 UTC  
+**Last Updated:** January 05, 2026 at 15:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Grok has sparked backlash after the AI image generator was used to generate nonc
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 7h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Basically, I needed to use the Extra Usage service. I requested $5 with a limit 
 
 Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 14h ago
 
 There isn't enough air to inflate a bubble, so how can it be popped?
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNBC • 19h ago
 
 As the AI trade becomes "fractured," 2026 could see other stocks finally outshine the "Magnificent Seven."
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Reuters • 3h ago
 
 **[The emerging California job industry that is AI-proof | Opinion](https://www.sacbee.com/opinion/op-ed/article314061601.html)**
 
-Sacramento Bee • 51m ago
+Sacramento Bee • 1h ago
 
 ---
 
@@ -161,19 +161,19 @@ Sacramento Bee • 51m ago
 
 Chatbots may worsen delusions in people by reinforcing false beliefs, psychiatrists warn. Mental health experts document cases where AI strengthened distorted thinking.
 
-Fox News • 57m ago
+Fox News • 1h ago
 
 ---
 
 **[US IPO Performance Lags S&P 500 in 2025 as Crypto, AI Deals Sink](https://www.bloomberg.com/news/articles/2026-01-05/us-ipo-performance-lags-s-p-500-in-2025-as-crypto-ai-deals-sink)**
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[The AI supercycle tests the world's network infrastructure](https://www.axios.com/sponsored/the-ai-supercycle-tests-the-worlds-network-infrastructure)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 1d ago
 
 When student work looked like McKinsey memos, an NYU business school professor used AI oral exams to test real learning.
 
-Business Insider • 7h ago
+Business Insider • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ Business Insider • 7h ago
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 182 • 💬 44 • 17h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 182 • 💬 44 • 18h ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -213,7 +213,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 80 • 💬 41 • 9h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 80 • 💬 41 • 10h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -221,7 +221,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Surely it works this time
 
-⬆️ 65 • 💬 66 • 21h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 65 • 💬 66 • 22h ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -281,7 +281,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 163K • 👍 4K • 💬 990 • ⏱️ 13:17 • 10h ago
+👁️ 163K • 👍 4K • 💬 990 • ⏱️ 13:17 • 11h ago
 
 ---
 
@@ -291,7 +291,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 42K • 👍 1K • 💬 245 • ⏱️ 11:17 • 14h ago
+👁️ 42K • 👍 1K • 💬 245 • ⏱️ 11:17 • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ Support the channel and protect yourself online with our sponsor, Aura! You can 
 
 📺 Second Thought
 
-👁️ 466K • 👍 30K • 💬 3K • ⏱️ 14:26 • 2d ago
+👁️ 466K • 👍 30K • 💬 3K • ⏱️ 14:26 • 3d ago
 
 ---
 
@@ -331,7 +331,7 @@ Join our WhatsApp Community – Get the latest AI updates, tips, and insights st
 
 📺 Vaibhav Sisinty
 
-👁️ 23K • 👍 821 • 💬 52 • ⏱️ 13:48 • 22h ago
+👁️ 23K • 👍 821 • 💬 52 • ⏱️ 13:48 • 23h ago
 
 ---
 
@@ -662,7 +662,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 105 • 10h ago
+⭐ 2.2k • 🔱 105 • 11h ago
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 120 • 20h ago
+⭐ 2.0k • 🔱 120 • 21h ago
 
 ---
 
@@ -692,7 +692,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.1k • 🔱 60 • 12d ago
+⭐ 1.1k • 🔱 60 • 13d ago
 
 ---
 
@@ -702,7 +702,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 125 • 4h ago
+⭐ 1.1k • 🔱 125 • 5h ago
 
 ---
 
@@ -712,7 +712,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 942 • 🔱 112 • 20h ago
+⭐ 942 • 🔱 112 • 21h ago
 
 ---
 
