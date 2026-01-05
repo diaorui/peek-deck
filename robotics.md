@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T21:43:22.888742+00:00'
+updated: '2026-01-05T22:22:38.733820+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 21:43 UTC  
+**Last Updated:** January 05, 2026 at 22:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,31 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
+
+1h ago
+
+---
+
 **[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-7h ago
+8h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-3h ago
+4h ago
+
+---
+
+**[Boston Dynamics Announces Atlas for Consumers](https://www.reddit.com/r/robotics/comments/1q4zixk/boston_dynamics_announces_atlas_for_consumers/)**
+
+No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
+
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 23m ago
 
 ---
 
@@ -50,13 +64,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
 
-23h ago
-
----
-
-**[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
-
-1h ago
+1d ago
 
 ---
 
@@ -86,23 +94,15 @@ I’ve been noodling around with this parallel linkage approach to legs. It allo
 
 A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
 
-10h ago
+11h ago
 
 ---
 
-**[Cytron motor driver keeps running last command in packetized UART when ESP loses power – how to stop it?](https://www.reddit.com/r/robotics/comments/1q4rpbv/cytron_motor_driver_keeps_running_last_command_in/)**
+**[I keep losing track of parts across hardware projects — built a small tool, want honest feedback](https://www.reddit.com/r/robotics/comments/1q4yiz6/i_keep_losing_track_of_parts_across_hardware/)**
 
-I’m using a Cytron motor driver (MDDS series) in packetized UART mode with an ESP microcontroller. Everything works correctly while the ESP is powered. The problem happens when I remove power from the ESP: The Cytron keeps executing the last UART command For example, if the motors were moving forward, they continue moving forward indefinitely The UART signal (TX) and GND pins become floating when the ESP is unpowered I expected the 2-second auto-stop failsafe to stop the motors, but it does not trigger in packetized UART mode. Questions: Is this behavior expected for Cytron packetized UART? Is there any built-in UART failsafe or timeout I’m missing? What is the proper way to force the motors to stop when the controller loses power? Is a hardware solution (relay / enable pin / kill switch) the only safe option? I’m working on a robotics/rover project, so safety is important. Any advice or proven setups would be appreciated.
+I do a lot of small hardware projects (electronics, robotics, 3D printing), and once I had more than a few builds going at the same time, things started breaking down: - re-ordering parts I already owned - forgetting which drawer/bin something was in - rebuilding BOMs every time a project changed - spreadsheets getting outdated almost immediately I tried Google Sheets and Notion, but they never stayed in sync once projects evolved. So I built a small web tool mainly for myself that: - tracks projects with versioned BOMs - keeps a simple inventory tied to physical storage locations - shows whether you already have parts before ordering Here’s a demo: https://makerhubapp.lovable.app/ I’m not trying to sell anything here. I genuinely want to know: • Is this a real problem for you, or am I overthinking it? • How do you track parts today? • At what point does your current system stop working?
 
-4h ago
-
----
-
-**[Best motor driver for 12V encoder motors on AGV?](https://www.reddit.com/r/robotics/comments/1q4ts3c/best_motor_driver_for_12v_encoder_motors_on_agv/)**
-
-Building my first AGV(final year project) with 12V DC encoder motors. Using Raspberry Pi as main controller with Arduino for motor control. Need a reliable motor driver compatible for my AGV Considering L298N, TB6612FNG, e.t.c. Which driver is most suitable for smooth AGV operation?
-
-3h ago
+1h ago
 
 ---
 
@@ -110,31 +110,33 @@ Building my first AGV(final year project) with 12V DC encoder motors. Using Rasp
 
 ## Google News: "robotics"
 
+**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
+
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+
+CBS News • 21h ago
+
+---
+
 **[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 7h ago
+CNET • 8h ago
+
+---
+
+**[Robots are still too expensive for wider deployment, use cases](https://finance.yahoo.com/video/robots-still-too-expensive-wider-201000845.html)**
+
+Major tech conference CES 2026 will see a showcasing of a variety of innovations this week, from new AI announcements to even developments in robotics. Lopez Research Founder Maribel Lopez discusses the sectors where she sees the most robotics deployments while discussing the use cases for both non-humanoid and humanoid robotics. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+
+Yahoo Finance • 2h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 7h ago
-
----
-
-**[Qualcomm Stock (QCOM) Rises after Launch of New PC and Robotics Chips](https://www.tipranks.com/news/qualcomm-stock-qcom-rises-after-launch-of-new-pc-and-robotics-chips)**
-
-TipRanks • 1h ago
-
----
-
-**[Qualcomm Unveils Full Robotics AI Stack](https://finance.yahoo.com/news/qualcomm-unveils-full-robotics-ai-173839753.html)**
-
-New Dragonwing chip targets humanoids, AMRs
-
-Yahoo Finance • 4h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -154,19 +156,11 @@ The Korea Times • 1d ago
 
 ---
 
-**[What to expect from the annual Consumer Electronics Show: More AI, more robots](https://www.theglobeandmail.com/business/technology/science/article-consumer-electronics-show-2026-robotics-ai-las-vegas/)**
+**[Watch the NVIDIA CES 2026 keynote with CEO Jensen Huang live here: AI, robotics updates and more](https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html)**
 
-Las Vegas tech show to display latest gadgets aimed at consumers, including AI and robotics applications for daily life
+NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
 
-The Globe and Mail • 8h ago
-
----
-
-**[At CES 2026, The Real Automotive Story Is Robots, Robotaxis And AI](https://insideevs.com/news/783368/ces-2026-preview-cm/)**
-
-The 'physical AI' era has arrived for the auto industry, and it's all on display at CES. Here's what we're expecting from the tech trade show.
-
-InsideEVs • 10h ago
+Engadget • 1m ago
 
 ---
 
@@ -178,11 +172,17 @@ The Robot Report • 2d ago
 
 ---
 
-**[Boston Dynamics' AI-powered humanoid robot is learning to work in a factory](https://www.cbsnews.com/news/boston-dynamics-ai-powered-humanoid-robot-learning-factory-work-60-minutes-transcript/)**
+**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
 
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
+FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
 
-CBS News • 21h ago
+Inspenet • 2d ago
+
+---
+
+**[Hundreds compete in robotics competition in Hershey](https://www.abc27.com/local-news/hundreds-compete-in-robotics-competition-in-hershey/)**
+
+ABC27 • 18h ago
 
 ---
 
@@ -196,7 +196,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 17h ago
+👁️ 329K • 👍 6K • 💬 2K • ⏱️ 13:17 • 18h ago
 
 ---
 
@@ -246,7 +246,7 @@ The Australian startup Andromeda Robotics just secured $23 million in Series A f
 
 📺 Kalil 4.0
 
-👁️ 421 • 👍 22 • 💬 2 • ⏱️ 1:06 • 1h ago
+👁️ 421 • 👍 22 • 💬 2 • ⏱️ 1:06 • 2h ago
 
 ---
 

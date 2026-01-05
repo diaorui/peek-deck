@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-05T21:43:22.885448+00:00'
+updated: '2026-01-05T22:22:38.730577+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 21:43 UTC  
+**Last Updated:** January 05, 2026 at 22:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,193.69
+### $3,240.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.2%  
-**7d:** +9.2%  
-**30d:** +6.0%  
-**90d:** -28.2%  
-**1y:** -11.9%  
+**24h:** +2.9%  
+**7d:** +8.9%  
+**30d:** +5.8%  
+**90d:** -28.4%  
+**1y:** -12.1%  
 
 ---
 
@@ -72,15 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
-**[Dev Tools Guild December update | mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.](https://www.reddit.com/r/ethereum/comments/1q4hpvb/dev_tools_guild_december_update_mainnet/)**
+**[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-**TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
-
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 11h ago
+52m ago
 
 ---
 
@@ -92,11 +90,11 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 ---
 
-**[So I made a SaaS to build Solana transactions like you do in ethereum](https://www.reddit.com/r/ethereum/comments/1q4ocy1/so_i_made_a_saas_to_build_solana_transactions/)**
+**[Dev Tools Guild December update | mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.](https://www.reddit.com/r/ethereum/comments/1q4hpvb/dev_tools_guild_december_update_mainnet/)**
 
-So I tend to lean more towards the Solana side for development due to the low TPS and easy fees for a L1, but there always seemed to be a problem when I worked at startups - which is many ETH devs did not want to learn Solana due to the differences between ETH and SOL. And there are many. Firstly, PDAs and transactions are completely different - just looking at a block explorer, one would have to take a class to understand what is going on between accounts and instructions and the gas compute. I decided to take on this challenge since many Solana developers only understand the basics of transactions and thus build applications that fail during high network traffic times, and do not take advantage of memos which can store app specific data. I would love to know what ETH devs think of Solana, if they have ever tried Solana, and if they are interested I can share the API I built to see if they think integrating Solana now becomes much easier.
+**TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-6h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 12h ago
 
 ---
 
@@ -160,25 +158,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://www.dlnews.com/articles/markets/ethereum-to-250000-tom-lee-charts-targets-as-bitmine-stock-price-jumps/)**
+**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqc82UMHeFc5CUAlK_iV6yLnmXqUxKHxNqeNdLLicLFWD-7d1MGBT_5M&gaa_ts=695c3d15&gaa_sig=mwKcby-_1gmwerMWZN0l-K3q57C1DhvLKLbMsjkSFppbF2rqNoRRPRwj_-yXQokUS3LgaT6ZosGigJ3hW74pOA%3D%3D)**
 
-Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
-
-dlnews.com • 8h ago
+Barron's • 3d ago
 
 ---
 
-**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://finance.yahoo.com/news/tom-lee-predicts-250k-ethereum-155617532.html)**
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
-
-Yahoo Finance • 5h ago
+Binance • 3h ago
 
 ---
 
-**[Tom Lee's BitMine adds 32,977 ETH as total crypto and cash holdings top $14 billion](https://www.theblock.co/post/384318/tom-lee-bitmine-adds-32977-eth-total-crypto-cash-holdings-top-14-billion-usd)**
+**[Crypto Stocks Jump as Bitcoin, Ethereum and XRP Hit Multi-Week Highs](https://finance.yahoo.com/news/crypto-stocks-jump-bitcoin-ethereum-214553925.html)**
 
-The Block • 6h ago
+Bitcoin surged past $94,000 on Monday to a 30-day high as crypto stocks rallied, with Coinbase, Robinhood, and BTC miners all rising.
+
+Yahoo Finance • 36m ago
+
+---
+
+**[Ethereum ‘solved’ the blockchain trilemma: Vitalik](https://www.dlnews.com/articles/defi/ethereum-solved-the-blockchain-trilemma-per-vitalik-buterin/)**
+
+Ethereum has solved the blockchain trilemma, according to Vitalik Buterin.  He cites two advancements: the steady progress of zero-knowledge virtual machines and the December Fusaka upgrade, which introduced peer data availability sampling. But it will take years to take advantage of these developments, Buterin added.
+
+dlnews.com • 1h ago
 
 ---
 
@@ -188,29 +192,25 @@ The Block • 5h ago
 
 ---
 
+**[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
+
+Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
+
+GlobeNewswire • 8h ago
+
+---
+
+**[Grayscale declares first Ethereum staking payout for US-listed ETF](https://www.tradingview.com/news/cointelegraph:e098c7722094b:0-grayscale-declares-first-ethereum-staking-payout-for-us-listed-etf/)**
+
+Grayscale has declared a staking rewards distribution for its Ethereum Staking exchange-traded fund (ETF), the first time a US-listed spot crypto exchange-traded product (ETP) has scheduled a payout tied to onchain staking activity.Grayscale Ethereum Trust ETF (ETHE) shareholders will receive about…
+
+TradingView — Track All Markets • 4h ago
+
+---
+
 **[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
 
-CCN.com • 7h ago
-
----
-
-**[Why Are Bitcoin, Ethereum, and XRP Prices Going Up Today?](https://www.tradingview.com/news/coinpedia:cb4a3a9d2094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-up-today/)**
-
-The crypto market started the day on a strong note, with Bitcoin, Ethereum, and XRP all moving higher. Bitcoin crossed the $91,000 mark, gaining nearly $2,500 from recent lows. Ethereum and XRP followed closely, lifting the total crypto market value above $3.2 trillion.But what exactly is driving t…
-
-TradingView — Track All Markets • 18h ago
-
----
-
-**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
-
-Binance • 2h ago
-
----
-
-**[Bitcoin, Ethereum, Other Cryptos Rise. A Strong Start to 2026 May Not Last.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-cryptos-today-c452b52c?gaa_at=eafs&gaa_n=AWEtsqd_V3cyo9gsIgqdEasGY5QQjI35K3Nibf5-75pVXWct0CGg3hhctKoj&gaa_ts=695c2725&gaa_sig=5FOr96oEkDpVdLVfjvOFhEN5zf4828OXZvXvOzylu9eIWkChGG8N_-RTbESmLoF8DorqQ0Ir3OiJfuxJPa38JA%3D%3D)**
-
-Barron's • 3d ago
+CCN.com • 8h ago
 
 ---
 
@@ -230,7 +230,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 1K • 💬 50 • ⏱️ 46:18 • 3h ago
+👁️ 15K • 👍 1K • 💬 50 • ⏱️ 46:18 • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 119 • 💬 7 • ⏱️ 4:24 • 6h ago
+👁️ 2K • 👍 119 • 💬 7 • ⏱️ 4:24 • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 219 • 👍 11 • 💬 22 • ⏱️ 4:53 • 3h ago
+👁️ 219 • 👍 11 • 💬 22 • ⏱️ 4:53 • 4h ago
 
 ---
 
@@ -260,7 +260,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 135 • 💬 23 • ⏱️ 53:22 • 1h ago
+👁️ 2K • 👍 135 • 💬 23 • ⏱️ 53:22 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ In this video, we break down BitMine Immersion Technologies ($BMNR) and their st
 
 📺 CryptoStock Lab
 
-👁️ 224 • 👍 9 • 💬 31 • ⏱️ 14:01 • 4h ago
+👁️ 224 • 👍 9 • 💬 31 • ⏱️ 14:01 • 5h ago
 
 ---
 
@@ -300,7 +300,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 9K • 👍 519 • 💬 87 • ⏱️ 13:59 • 9h ago
+👁️ 9K • 👍 519 • 💬 87 • ⏱️ 13:59 • 10h ago
 
 ---
 
@@ -310,7 +310,7 @@ ETHEREUM IS THE FUTURE OF FINANCE!!! INSTITUTIONS CHASING IT NOW!!! DON'T MISS O
 
 📺 Zach Humphries
 
-👁️ 289 • 👍 26 • 💬 73 • ⏱️ 1:20 • 1h ago
+👁️ 289 • 👍 26 • 💬 73 • ⏱️ 1:20 • 2h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 195 • 💬 12 • ⏱️ 4:31 • 18h ago
+👁️ 3K • 👍 195 • 💬 12 • ⏱️ 4:31 • 19h ago
 
 ---
 

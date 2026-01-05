@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-05T21:43:22.879370+00:00'
+updated: '2026-01-05T22:22:38.724584+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 05, 2026 at 21:43 UTC  
+**Last Updated:** January 05, 2026 at 22:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,184.53
+### $93,979.19
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +3.0%  
-**7d:** +6.4%  
-**30d:** +4.1%  
-**90d:** -23.8%  
-**1y:** -7.8%  
+**7d:** +6.5%  
+**30d:** +4.2%  
+**90d:** -23.7%  
+**1y:** -7.7%  
 
 ---
 
@@ -77,13 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
+
+1h ago
+
+---
+
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-5h ago
+6h ago
 
 ---
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
+
+3h ago
+
+---
+
+**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
 2h ago
 
@@ -91,7 +103,7 @@ Rank #1
 
 **[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -103,11 +115,13 @@ Rank #1
 
 **[Almost Less than 1 million Bitcoin to be Mined, What next?](https://www.reddit.com/r/Bitcoin/comments/1q4e1n9/almost_less_than_1_million_bitcoin_to_be_mined/)**
 
-15h ago
+16h ago
 
 ---
 
-**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
+**[We are officially watching the death of the "retail-driven" cycle](https://www.reddit.com/r/Bitcoin/comments/1q4xioq/we_are_officially_watching_the_death_of_the/)**
+
+The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
 
 1h ago
 
@@ -121,21 +135,9 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 ---
 
-**[🇩🇪 Largest German state-financed TV broadcaster "ZDF" releases 45min Bitcoin Documentary](https://www.reddit.com/r/Bitcoin/comments/1q4muh1/largest_german_statefinanced_tv_broadcaster_zdf/)**
-
-7h ago
-
----
-
-**[COME ON!!! DO IT!!!!🔥](https://www.reddit.com/r/Bitcoin/comments/1q4x0ji/come_on_do_it/)**
+**[just sold 1 bitcoin in zimbabwe](https://www.reddit.com/r/Bitcoin/comments/1q4xek5/just_sold_1_bitcoin_in_zimbabwe/)**
 
 1h ago
-
----
-
-**[I believe that we will win](https://www.reddit.com/r/Bitcoin/comments/1q47skc/i_believe_that_we_will_win/)**
-
-20h ago
 
 ---
 
@@ -145,23 +147,27 @@ Ledger had another data breach via payment processor Global-e leaking the person
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
-**[Maduro’s Arrest Sparks Speculation: Is Venezuela Sitting on a Massive Bitcoin Reserve?](https://www.financemagnates.com/trending/maduros-arrest-sparks-speculation-is-venezuela-sitting-on-a-massive-bitcoin-reserve/)**
+**[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqfNN_PDkw85WzwPXYvU8joXDDs8n6MMOZ55zLJxHsPlklMhFvwOTq-b&gaa_ts=695c3d14&gaa_sig=uLVGMiHLpffX1EA8vfXbErIn0gvVrScLVv60SVwUJu2HG2-_RVL72v5OVINVv7ATs2dR05pSBl6DwXeQPTRGfQ%3D%3D)**
 
-Nicolás Maduro and his wife, Cilia Flores, are now in US custody and face federal charges in New York that include narco-terrorism conspiracy and weapons offenses.
-
-Finance Magnates • 1h ago
+Barron's • 10h ago
 
 ---
 
-**[Bitcoin's Quiet Holiday Break Ends With A Bang—Are New Highs Coming Soon?](https://bitcoinmagazine.com/markets/bitcoin-weekly-analysis-momentum-builds-toward-98000-amid-neutral-mood)**
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Bitcoin plodded through the holidays but ended strong at $91,489—discover why this small move could spark a bigger rally or fizzle out in the new year.
+Binance • 3h ago
 
-Bitcoin Magazine • 3h ago
+---
+
+**[Crypto Stocks Jump as Bitcoin, Ethereum and XRP Hit Multi-Week Highs](https://finance.yahoo.com/news/crypto-stocks-jump-bitcoin-ethereum-214553925.html)**
+
+Bitcoin surged past $94,000 on Monday to a 30-day high as crypto stocks rallied, with Coinbase, Robinhood, and BTC miners all rising.
+
+Yahoo Finance • 36m ago
 
 ---
 
@@ -173,19 +179,19 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
+**[Tom Lee says bitcoin has not peaked, calls for new all-time high by January 2026](https://www.coindesk.com/markets/2026/01/05/tom-lee-calls-for-a-new-bitcoin-ath-in-january-while-warning-of-a-volatile-2026)**
 
-Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
+After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
 
-CNBC • 3d ago
+CoinDesk • 5h ago
 
 ---
 
-**[Is Bitcoin a Buy, Hold, or Sell in 2026?](https://www.fool.com/investing/2026/01/04/is-bitcoin-a-buy-hold-or-sell-in-2026/)**
+**[Bitcoin's Quiet Holiday Break Ends With A Bang—Are New Highs Coming Soon?](https://bitcoinmagazine.com/markets/bitcoin-weekly-analysis-momentum-builds-toward-98000-amid-neutral-mood)**
 
-What comes next for digital gold?
+Bitcoin plodded through the holidays but ended strong at $91,489—discover why this small move could spark a bigger rally or fizzle out in the new year.
 
-The Motley Fool • 1d ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -195,11 +201,11 @@ Forbes • 1d ago
 
 ---
 
-**[BlackRock’s Bitcoin ETF Sees Biggest Inflow in Three Months as Crypto Prices Rise](https://decrypt.co/353546/blackrocks-bitcoin-etf-biggest-inflow-three-months)**
+**[Ilya Lichtenstein, Bitcoin hacker behind massive crypto theft, credits Trump for early prison release](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)**
 
-Analysts cite Bitcoin portfolio rebalancing as institutional investors price in three more years of Trump's "America First" policy.
+Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-Decrypt • 6h ago
+CNBC • 3d ago
 
 ---
 
@@ -208,12 +214,6 @@ Decrypt • 6h ago
 The cryptoasset is on its longest winning streak since October....
 
 Sherwood News • 8h ago
-
----
-
-**['Bitcoin Mania' Is Over, Slams Critic, Claims Gold and Silver Entering ‘Biggest Bull Market in History’](https://www.ccn.com/news/crypto/gold-silver-entering-biggest-bull-market-economist-bitcoin-mania-over/)**
-
-CCN.com • 10h ago
 
 ---
 
@@ -277,7 +277,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 22h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 23h ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -305,7 +305,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 7K • 👍 615 • 💬 199 • ⏱️ 10:52 • 5h ago
+👁️ 7K • 👍 615 • 💬 199 • ⏱️ 10:52 • 6h ago
 
 ---
 
@@ -325,7 +325,7 @@ In this video, Ran breaks down a geopolitical shift that could change the entire
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 18 • ⏱️ 46:11 • 5h ago
+👁️ 12K • 👍 1K • 💬 18 • ⏱️ 46:11 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 221 • 💬 80 • ⏱️ 15:02 • 5h ago
+👁️ 3K • 👍 221 • 💬 80 • ⏱️ 15:02 • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 836 • 💬 86 • ⏱️ 18:14 • 10h ago
+👁️ 17K • 👍 836 • 💬 86 • ⏱️ 18:14 • 11h ago
 
 ---
 
@@ -365,7 +365,7 @@ Venezuela's crisis reveals a deeper truth about money, power, and freedom. From 
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 371 • ⏱️ 23:12 • 22h ago
+👁️ 40K • 👍 3K • 💬 371 • ⏱️ 23:12 • 23h ago
 
 ---
 
