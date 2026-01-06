@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T10:50:23.164379+00:00'
+updated: '2026-01-06T11:20:39.905993+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 10:50 UTC  
+**Last Updated:** January 06, 2026 at 11:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +8.5%  
-**30d:** +3.2%  
-**90d:** -26.1%  
-**1y:** -4.6%  
+**24h:** +1.9%  
+**7d:** +8.8%  
+**30d:** +3.5%  
+**90d:** -25.9%  
+**1y:** -4.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • just now
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 31m ago
 
 ---
 
@@ -150,14 +150,6 @@ So I have some crypto on ethereum L1&2s and I would like to anonymize some of it
 
 ## Google News: "ethereum"
 
-**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
-
-Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
@@ -174,23 +166,35 @@ CoinDesk • 21h ago
 
 ---
 
-**[Why Are The Bitcoin, Ethereum, And Dogecoin Prices Rising?](https://www.tradingview.com/news/newsbtc:4878ecefd094b:0-why-are-the-bitcoin-ethereum-and-dogecoin-prices-rising/)**
+**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
 
-The Bitcoin, Ethereum, and Dogecoin prices are rising today, with the flagship crypto rising to as high as $93,000. This market rally comes on the back of several factors, including the U.S.-Venezuela escalations, which have increased risk sentiment.Why The Bitcoin, Ethereum, And Dogecoin Prices Ar…
+Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-TradingView — Track All Markets • 12h ago
-
----
-
-**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
-
-Binance • 15h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum Jump Again as Cryptos Rally. Why XRP Is Surging.](https://www.barrons.com/articles/bitcoin-price-ethereum-cryptos-xrp-73799dc8?gaa_at=eafs&gaa_n=AWEtsqfkDLG7hCUN7fELlPwsqrlSQEIS32P1OvjLf4iaG-awO3wXMmr6OtX9&gaa_ts=695cde57&gaa_sig=uDaC5zhxch0hKO9wrv4wFHfTKLJ0wOcCHrUiKO86DVEd7Mwa-5JT4kvUwZpwyUG2yQSBUTrAR3OrBE6t63JNGw%3D%3D)**
+**[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://www.dlnews.com/articles/markets/ethereum-to-250000-tom-lee-charts-targets-as-bitmine-stock-price-jumps/)**
 
-Barron's • 1h ago
+Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
+
+dlnews.com • 22h ago
+
+---
+
+**[Ethereum Staking Demand Spikes with Tom Lee’s BitMine Leading](https://finance.yahoo.com/news/ethereum-staking-demand-spikes-tom-101856437.html)**
+
+Ethereum ETH $3 227 24h volatility: 1.9% Market cap: $389.53 B Vol. 24h: $24.29 B staking demand is once again on the rise, with a major drop in the exit queue for the first time since July 2025. Market analysts noted that this could ease the near-term selling pressure on ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://decrypt.co/353585/tom-lee-predicts-250k-ethereum-price-bitmine-adds-13-billion-stash)**
+
+BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
+
+Decrypt • 19h ago
 
 ---
 
@@ -204,7 +208,7 @@ The Block • 18h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -216,11 +220,11 @@ GlobeNewswire • 21h ago
 
 ---
 
-**[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://www.dlnews.com/articles/markets/ethereum-to-250000-tom-lee-charts-targets-as-bitmine-stock-price-jumps/)**
+**[Ethereum Layer-2 Network Starknet Back Online Following Outage](https://decrypt.co/353625/ethereum-layer-2-starknet-back-online-outage)**
 
-Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
+Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-dlnews.com • 22h ago
+Decrypt • 16h ago
 
 ---
 
@@ -254,7 +258,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 2K • 💬 47 • ⏱️ 46:18 • 16h ago
+👁️ 21K • 👍 2K • 💬 47 • ⏱️ 46:18 • 17h ago
 
 ---
 
@@ -274,7 +278,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 602 • 👍 18 • 💬 41 • ⏱️ 4:53 • 16h ago
+👁️ 602 • 👍 18 • 💬 41 • ⏱️ 4:53 • 17h ago
 
 ---
 
@@ -284,7 +288,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 220 • 💬 52 • ⏱️ 53:22 • 14h ago
+👁️ 5K • 👍 220 • 💬 52 • ⏱️ 53:22 • 15h ago
 
 ---
 
@@ -304,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 19h ago
+👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 20h ago
 
 ---
 
@@ -314,7 +318,7 @@ Follow me on X: https://x.com/ChartsMinute ☘️ Get FREE stocks signing up for
 
 📺 Art of Charts
 
-👁️ 234 • 👍 16 • 💬 38 • ⏱️ 12:25 • 15h ago
+👁️ 234 • 👍 16 • 💬 38 • ⏱️ 12:25 • 16h ago
 
 ---
 

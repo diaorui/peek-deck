@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T10:50:23.158196+00:00'
+updated: '2026-01-06T11:20:39.899869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 10:50 UTC  
+**Last Updated:** January 06, 2026 at 11:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +6.6%  
-**30d:** +3.0%  
-**90d:** -23.1%  
-**1y:** -3.5%  
+**24h:** +0.7%  
+**7d:** +6.9%  
+**30d:** +3.3%  
+**90d:** -22.9%  
+**1y:** -3.2%  
 
 ---
 
@@ -95,13 +95,13 @@ Did they lose a billion?
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -147,55 +147,53 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 ## Google News: "bitcoin"
 
-**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqcV94E8DaUUpcQWD8KBrAN6EyDLCZhlN5euozN5wsgQIVULqZGC4u_e&gaa_ts=695cde56&gaa_sig=pATsCOqwZLu4cQvibP72Lfq4CBDeE6ef3JD0y6Y0bQ__1GND51T_xgV6_FJaIl_m-nSjldUb5-0O_pGfV1YnAA%3D%3D)**
+**[Bitcoin Options Traders Eye $100,000 Following Year-End Meltdown](https://www.bloomberg.com/news/articles/2026-01-05/bitcoin-options-traders-eye-100-000-following-year-end-meltdown)**
+
+Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
+
+Bloomberg.com • 2h ago
+
+---
+
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqfG5Vd6QiN2GAq4e9jmBTYEL-GiOL1vbPZJj4xAfFG3-MBiuYTdkRHv&gaa_ts=695cf36d&gaa_sig=fAjXUq0tu5VRGoa4XvZidSfinFqf_Mskhl-8LHFH57_pSsVVJQvp3SesfyoBKTSKxiQ9vBKabBmM-DwW38E2iA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Tom Lee says bitcoin has not peaked, calls for new all-time high by January 2026](https://www.coindesk.com/markets/2026/01/05/tom-lee-calls-for-a-new-bitcoin-ath-in-january-while-warning-of-a-volatile-2026)**
+**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqcw4MbTMTOruuQlddEAoQp2npG1i6OqZInrS2bCBt83hup5vuE8VY7A&gaa_ts=695cf36d&gaa_sig=f9eZM4fQ0IHY86pKmOsi489ZWUuyQHcSaKA0Ajl9zH2i9ZoTEymqRZBfmo9PcPI-J9R4sK4-N2Hv2_pbjYCCAg%3D%3D)**
 
-After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
-
-CoinDesk • 17h ago
+Barron's • 23h ago
 
 ---
 
-**[Is Donald Trump's BTC Reserve Being Ignored? 'Deeply Concerned' US Senator Slams Recent Government Bitcoin Sale](https://finance.yahoo.com/news/donald-trumps-btc-being-ignored-081544612.html)**
+**[Bitcoin price forecast: Here’s why BTC, ETH, SOL, XRP, DOGE are seeing a strong 2026](https://www.coindesk.com/markets/2026/01/06/here-s-why-bitcoin-and-major-tokens-are-seeing-a-strong-start-to-2026)**
 
-Senator Cynthia Lummis said she was “deeply concerned” by reports that the U.S. government sold Bitcoin. The sale comes after an executive order from President ...
+Bitcoin and the broader crypto market have started 2026 with strong gains, driven by new-year allocations and a haven bid amid geopolitical tensions.
 
-Yahoo Finance • 2h ago
-
----
-
-**[XRP and Solana dethrone Bitcoin and Ethereum as institutional favorites in 2025](https://cryptoslate.com/xrp-and-solana-dethrone-bitcoin-and-ethereum-as-institutional-favorites-in-2025/)**
-
-XRP investment products skyrocket as the era of Bitcoin-only dominance fades into a diversified market landscape.
-
-CryptoSlate • 13h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin, Ethereum Jump Again as Cryptos Rally. Why XRP Is Surging.](https://www.barrons.com/articles/bitcoin-price-ethereum-cryptos-xrp-73799dc8?gaa_at=eafs&gaa_n=AWEtsqdvfs1HCrzY4-qlbF9Oz9GWK0IIAg1uk4fG5lcubBqRsc96sy1JK1vv&gaa_ts=695cde56&gaa_sig=a5c6U20S0Uy1TFoI2ILimeeDzgDj10gha9DE42E--Rem0ZkLbLi3E2giT2Bqmp8k8CCMQtPaF0UyfF_G4IGAnA%3D%3D)**
+**[Bitcoin, Ethereum Jump Again as Cryptos Rally. Why XRP Is Surging.](https://www.barrons.com/articles/bitcoin-price-ethereum-cryptos-xrp-73799dc8?gaa_at=eafs&gaa_n=AWEtsqc88y8D93F0LWZN48rVE6Krek9LxyE4mFEPb7tPHEDz0QlRUxUP56vq&gaa_ts=695cf36d&gaa_sig=pLjf8DSUigSL2WuMexK0sHmUdTmelXJmuj7fK4ellRWXGDVOiLDxllA9Weie4GutvJ7UTlL-Ry1wG26C-8xwnQ%3D%3D)**
 
-Barron's • 1h ago
-
----
-
-**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-xrp-instead-1)**
-
-Key PointsDespite many tailwinds for crypto in 2025, Bitcoin ended the year in the red.
-
-Nasdaq • 2d ago
+Barron's • 2h ago
 
 ---
 
-**[Crypto Market News Today, January 6: Bitcoin Price Hits $94,000 as Federal Reserve Pumps Liquidity](https://finance.yahoo.com/news/crypto-market-news-today-january-081629256.html)**
+**[Copper, gold and bitcoin: A macro signal to watch](https://www.coindesk.com/markets/2026/01/06/copper-gold-and-bitcoin-a-macro-signal-to-watch)**
 
-Coinbase Ventures just spotlighted the biggest growth trends for cryptocurrencies in the year ahead, but what are their 2026 crypto predictions? Find out what lies ahead and what serious money is targeting in 2026, from real-world assets on-chain to AI-powered crypto tools and new types of DeFi credit. While Bitcoin and ...
+The copper-to-gold ratio is breaking higher, a move that has historically aligned with key turning points in bitcoin cycles.
 
-Yahoo Finance • 2h ago
+CoinDesk • 1h ago
+
+---
+
+**[US Strike on Venezuela Puts Bitcoin in Focus as Oil Slides](https://finance.yahoo.com/news/us-strike-venezuela-puts-bitcoin-031821515.html)**
+
+The U.S. capture of Venezuela’s President Nicolás Maduro sent oil to four-year lows, while crypto markets have held steady.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -207,13 +205,13 @@ Bloomberg.com • 15h ago
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
 **[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -291,7 +289,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 15h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 16h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -305,7 +303,7 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 17K • 👍 200 • 💬 36 • ⏱️ 3:12 • 13h ago
+👁️ 17K • 👍 200 • 💬 36 • ⏱️ 3:12 • 14h ago
 
 ---
 
@@ -315,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 248 • ⏱️ 8:08 • 9h ago
+👁️ 24K • 👍 1K • 💬 248 • ⏱️ 8:08 • 10h ago
 
 ---
 
@@ -325,7 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 469 • 💬 31 • ⏱️ 15:02 • 18h ago
+👁️ 14K • 👍 469 • 💬 31 • ⏱️ 15:02 • 19h ago
 
 ---
 
@@ -335,7 +333,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 113 • ⏱️ 9:17 • 8h ago
+👁️ 35K • 👍 2K • 💬 113 • ⏱️ 9:17 • 9h ago
 
 ---
 
@@ -345,7 +343,7 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 8K • 👍 365 • 💬 68 • ⏱️ 6:21 • 13h ago
+👁️ 8K • 👍 365 • 💬 68 • ⏱️ 6:21 • 14h ago
 
 ---
 
@@ -365,7 +363,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 921 • 💬 316 • ⏱️ 10:52 • 18h ago
+👁️ 16K • 👍 921 • 💬 316 • ⏱️ 10:52 • 19h ago
 
 ---
 

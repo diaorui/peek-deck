@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T10:50:23.167693+00:00'
+updated: '2026-01-06T11:20:39.909252+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 10:50 UTC  
+**Last Updated:** January 06, 2026 at 11:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 12h ago
-
----
-
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-16h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 13h ago
 
 ---
 
@@ -50,7 +44,13 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 3h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 4h ago
+
+---
+
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+17h ago
 
 ---
 
@@ -64,7 +64,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 11h ago
 
 ---
 
@@ -92,19 +92,19 @@ Hey everyone, We’re organizing another Robotics Community Meetup in Pune this 
 
 ---
 
-**[Atlas has 4 fingers instead of 3?](https://www.reddit.com/r/robotics/comments/1q52r1v/atlas_has_4_fingers_instead_of_3/)**
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.reddit.com/r/robotics/comments/1q55mze/hyundai_introduces_its_nextgen_atlas_robot_at_ces/)**
 
-Anyone else noticed the productized Atlas is rendered with 4 fingers? BD released a video 2 months ago on why 3 fingers is enough, which seems reasonable to me back then. Why do you think they changed it?
+Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
 
-🔗 [youtu.be](https://youtu.be/rrUHZKlrxms) • 10h ago
+🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 9h ago
 
 ---
 
-**[Our World Is Built For Hands And Feet: We Need Humanoid Robots](https://www.reddit.com/r/robotics/comments/1q5deqn/our_world_is_built_for_hands_and_feet_we_need/)**
+**[Deep Q-Learning – Build, Train, and Visualize with PyTorch, Gymnasium, and SB3](https://www.reddit.com/r/robotics/comments/1q5f4fu/deep_qlearning_build_train_and_visualize_with/)**
 
-Humanoid robots are the way.
+In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
 
-🔗 [open.substack.com](https://open.substack.com/pub/chaotropy/p/our-world-is-built-for-hands-and?utm_campaign=post-expanded-share&utm_medium=post%20viewer) • 2h ago
+47m ago
 
 ---
 
@@ -116,7 +116,7 @@ Humanoid robots are the way.
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 12h ago
+NVIDIA Newsroom • 13h ago
 
 ---
 
@@ -124,39 +124,33 @@ NVIDIA Newsroom • 12h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 11h ago
+TechCrunch • 12h ago
 
 ---
 
-**[Nvidia Talks Up Robots Alongside AI Chips. The Stock Slips.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcDSGeNjC9bvsUiroy2tgoygt53yZabUNz67ihArxCuNH-adZaCeAS7&gaa_ts=695cde59&gaa_sig=iF0BoavVeKd7Da_0XJPrlX3Xgi-5rKqcTikuZBlljpAshPBdA8d7FjeDCQNqENwkxwU2DOobqoGCyfiscY2pMw%3D%3D)**
+**[Watch the NVIDIA CES 2026 keynote with CEO Jensen Huang live here: AI, robotics updates and more](https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html)**
 
-Barron's • 1h ago
+NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
+
+Engadget • 12h ago
 
 ---
 
 **[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-Axios • 13h ago
-
----
-
-**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
-
-In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
-
-The Robot Report • 2d ago
+Axios • 14h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
-**[Qualcomm unveils PC chip, humanoid robotics initiative at CES 2026](https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-humanoid-robotics-initiative-at-ces-2026-170020697.html)**
+**[Qualcomm Unveils Full Robotics AI Stack](https://finance.yahoo.com/news/qualcomm-unveils-full-robotics-ai-173839753.html)**
 
-Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
+New Dragonwing chip targets humanoids, AMRs
 
 Yahoo Finance • 17h ago
 
@@ -175,6 +169,14 @@ Seeking Alpha • 1d ago
 Teradyne, Serve Robotics,  and Richtech Robotics are the three Robotics stocks to watch today, according to MarketBeat's stock screener tool. Robotics stocks are shares of companies that design, manufacture, or enable robotic systems and automation technologies — including industrial robots, service
 
 MarketBeat • 1d ago
+
+---
+
+**[What to expect from the annual Consumer Electronics Show: More AI, more robots](https://www.theglobeandmail.com/business/technology/science/article-consumer-electronics-show-2026-robotics-ai-las-vegas/)**
+
+Las Vegas tech show to display latest gadgets aimed at consumers, including AI and robotics applications for daily life
+
+The Globe and Mail • 22h ago
 
 ---
 
@@ -256,7 +258,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 3K • 👍 100 • 💬 7 • ⏱️ 1:33:26 • 11h ago
+👁️ 3K • 👍 100 • 💬 7 • ⏱️ 1:33:26 • 12h ago
 
 ---
 
@@ -266,7 +268,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 103K • 👍 3K • 💬 557 • ⏱️ 7:00 • 11h ago
+👁️ 103K • 👍 3K • 💬 557 • ⏱️ 7:00 • 12h ago
 
 ---
 

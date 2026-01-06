@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T10:50:23.149618+00:00'
+updated: '2026-01-06T11:20:39.891268+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - repositories
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 10:50 UTC  
+**Last Updated:** January 06, 2026 at 11:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
-🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 11h ago
+🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles huma
 
 AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development.[2] Alexa.com rolls out to all Alexa+ Early Access customers, bringing the power of Alexa+ to your browser.[3] MIT scientists investigate memorization risk in the age of clinical AI.[4] Sources: [1] https://finance.yahoo.com/news/amd-reveals-new-ai-pc-chips-details-next-gen-data-center-chips-at-ces-2026-041117636.html [2] https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development [3] https://www.aboutamazon.com/news/devices/alexa-plus-web-ai-assistant [4] https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] 
 
 I built Ctrl, an open-source execution control plane that sits between an agent and its tools. Instead of letting tool calls execute directly, Ctrl intercepts them, dynamically scores risk, applies policy (allow / deny / approve), and only then executes; recording every intent, decision, and event in a local SQLite ledger. GH: https://github.com/MehulG/agent-ctrl It’s currently focused on LangChain + MCP as a drop-in wrapper. The demo shows a content publish action being intercepted, paused for approval, and replayed safely after approval. I’d love feedback from anyone running agents that take real actions.
 
-13m ago
+43m ago
 
 ---
 
@@ -81,7 +81,7 @@ I built Ctrl, an open-source execution control plane that sits between an agent 
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 18h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 19h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm new to this sub. I was hoping to converse a little and get some opinions on 
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-21h ago
+22h ago
 
 ---
 
@@ -121,11 +121,55 @@ Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agen
 
 ## Google News: "ai"
 
-**[Leading AI expert delays timeline for its possible destruction of humanity](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
+**[Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 4h ago
+The Guardian • 5h ago
+
+---
+
+**[Nvidia launches Vera Rubin, its next major AI platform, at CES 2026](https://finance.yahoo.com/news/nvidia-launches-vera-rubin-its-next-major-ai-platform-at-ces-2026-230045205.html)**
+
+Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
+
+The New York Times • 3h ago
+
+---
+
+**[Fortune Tech: A bigger slice](https://fortune.com/2026/01/06/nvidia-rolls-out-its-latest-greatest-ai-chip-platform/)**
+
+Nvidia rolls out Vera Rubin, Boston Dynamics goes gaga for Google, Intel deploys milestone chips. Plus: Amazon, AMD, Dell, food delivery, Qualcomm, LEGO, X.
+
+Fortune • 52m ago
+
+---
+
+**[The "Donroe Doctrine" and the war for minerals, oil and AI](https://www.axios.com/2026/01/06/donroe-doctrine-the-war-for-minerals-oil-and-ai)**
+
+Axios • 51m ago
+
+---
+
+**[AI makes us overestimate our knowledge and performance](https://www.wbur.org/cognoscenti/2026/01/06/ai-misinformation-metacognition-cognitive-abilities-joelle-renstrom)**
+
+What happens when massive numbers of people think they know more about a subject or are better at something than they actually are? Joelle Renstrom says we're about to find out.
+
+WBUR • 1h ago
+
+---
+
+**[AI won't cook coding jobs, Netflix engineer says](https://www.businessinsider.com/netflix-engineer-ai-jobs-future-coding-2026-1)**
+
+Netflix staff engineer Anthony Goto said he's constantly asked by recent graduates how AI will change the industry.
+
+Business Insider • 1h ago
 
 ---
 
@@ -137,67 +181,15 @@ Fortune • 19h ago
 
 ---
 
-**[Nvidia just laid out what’s next for the tech that made it the world’s most valuable company](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces)**
+**[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
 
-Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
-
-CNN • 12h ago
+The Economist • 19h ago
 
 ---
 
-**[Nvidia launches Vera Rubin, its next major AI platform, at CES 2026](https://finance.yahoo.com/news/nvidia-launches-vera-rubin-its-next-major-ai-platform-at-ces-2026-230045205.html)**
-
-Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
-
-Yahoo Finance • 11h ago
-
----
-
-**[Nvidia Talks Up Robots Alongside AI Chips. The Stock Slips.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcn0ZqGuREhLKas9Ou9hqS8lpodRqeKVV8e2PKQbjoLIKYZ42CuYyHu&gaa_ts=695cde54&gaa_sig=fzT6K5aYTcjsSBW-XyxEXEAqnN0rC-yP6JLc-6lRBpZlRns78wLYNOfYEmlTNDz2XDSy8B7Pz7iEcQxveP1ylA%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[The Best Way to Search for Info Online in the AI Era - Terms of Service with Clare Duffy - Podcast on CNN Podcasts](https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/3b238bee-af5d-11f0-b539-c393f55d8b14)**
-
-Finding information online can be overwhelming. And as more people turn to chatbots for information, search engines are adapting. Google Search has added an AI mode and its chatbot, Gemini, to help users get the information they need. So whatâs the best way to conduct a search now? Robby Stein, vice president of product at Google Search, walks us through the newest features available to users.
-
-Donât miss Terms of Service live later this month in New York City! On January 13 at Ludlow House, Clare will be interviewing Nick Frosst, co-founder of AI startup Cohere, about whether the tech industry should really be trying to build a superhuman, superintelligent AI. Visit the event page to get an invite.
-
-Terms of Service is a CNN Podcasts and Goat Rodeo production. This episode was produced by Jay Venables. At Goat Rodeo, the lead producer is Rebecca Seidel, and the executive producers are Megan Nadolski and Ian Enright. At CNN, Matt Martinez is our Senior Producer and Dan Dzula is our Technical Director. Production support from SofÃ­a Sanchez. Steve Lickteig is the Executive Producer of CNN Audio.
-
-CNN • 1h ago
-
----
-
-**[AI has finally started making drug-like antibodies. When will it revolutionize biopharma?](https://www.statnews.com/2026/01/06/will-artificial-intelligence-designed-drugs-antibodies-revolutionize-biopharma/)**
-
-AI has finally started making drug-like antibodies. When will it revolutionize biopharma?
-
-statnews.com • 1h ago
-
----
-
-**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqfu-WW-unA9SyoTgiJabMPXdN4A4GRyfo89uVI0R4VyfL0xoAmztp-8&gaa_ts=695cde54&gaa_sig=iuyFK0Yl4VqPQsfGudJiWpegaZ2UiyuJDI_AEcHYSc_h1LW-FLUGxS3OhH_7pwBSTy3FuYroo-QEaUX3lWSUsA%3D%3D)**
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqdQsY907H77bErJWlN6W-tpGBlfSpBdp0wGhmqEKFuvDWonCokIm-Ws&gaa_ts=695cf36c&gaa_sig=nc7O5ggXZQxCorFAxyUMHLze7e0Wir1Sgj7KydJaEjE4GRTj-FJ7jaQBTa_qjzMveuFCfRlo0oJ1jFgB788YNA%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[AMD Expands AI Leadership Across Client, Graphics, and Software with New Ryzen, Ryzen AI, and AMD ROCm Announcements at CES 2026](https://finance.yahoo.com/news/amd-expands-ai-leadership-across-033100137.html)**
-
-AMD Ryzen AI Halo AMD Ryzen AI Halo Developer Platform News Summary AMD introduces new Ryzen AI 400 and PRO 400 Series processors, delivering up to 60 NPU TOPS for Copilot+ PCs and AI experiences across consumer and commercial systems.AMD introduces new Ryzen AI Max+ SKUs, bringing high-performance AI and graphics to ultra-thin notebooks, workstations, and small form factors for creation, gaming, and AI development.AMD unveils AMD Ryzen AI Halo, a powerful, easy-to-use mini-PC that brings Ryzen
-
-Yahoo Finance • 7h ago
-
----
-
-**[AMD unveils new AI PC processors for general use and gaming at CES](https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/)**
-
-AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.
-
-TechCrunch • 7h ago
 
 ---
 
@@ -225,7 +217,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 137 • 💬 178 • 12h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 137 • 💬 178 • 13h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -239,7 +231,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 87 • 💬 44 • 13h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 87 • 💬 44 • 14h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -267,7 +259,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 **[Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324)**
 
-⬆️ 38 • 💬 6 • 7h ago
+⬆️ 38 • 💬 6 • 8h ago
 
 ---
 
@@ -299,7 +291,7 @@ The world's largest tech show is back and AI is powering nearly every major reve
 
 📺 Cheddar
 
-👁️ 8K • 👍 104 • 💬 7 • ⏱️ 3:36 • 18h ago
+👁️ 8K • 👍 104 • 💬 7 • ⏱️ 3:36 • 19h ago
 
 ---
 
@@ -632,7 +624,7 @@ HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art v
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 31 • 💬 2 • ⭐ 13,527 • 28d ago
+▲ 31 • 💬 2 • ⭐ 13,527 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -658,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.7k • 🔱 668 • 1h ago
+⭐ 5.7k • 🔱 668 • 2h ago
 
 ---
 
@@ -708,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 132 • 1h ago
+⭐ 1.1k • 🔱 132 • 2h ago
 
 ---
 
@@ -718,7 +710,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 987 • 🔱 73 • 14h ago
+⭐ 987 • 🔱 73 • 15h ago
 
 ---
 
