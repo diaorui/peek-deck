@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T01:49:46.489054+00:00'
+updated: '2026-01-06T03:40:15.532177+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 01:49 UTC  
+**Last Updated:** January 06, 2026 at 03:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,968.23
+### $93,840.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
+**24h:** +1.0%  
 **7d:** +7.1%  
 **30d:** +3.4%  
 **90d:** -22.8%  
@@ -79,37 +79,31 @@ Rank #1
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-9h ago
+11h ago
 
 ---
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-5h ago
+7h ago
 
 ---
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
 
-6h ago
-
----
-
-**[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
-
-3h ago
+7h ago
 
 ---
 
@@ -117,7 +111,13 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-1h ago
+3h ago
+
+---
+
+**[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
+
+5h ago
 
 ---
 
@@ -125,21 +125,21 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
 
-5h ago
+6h ago
 
 ---
 
-**[You’re welcome](https://www.reddit.com/r/Bitcoin/comments/1q4z7v7/youre_welcome/)**
+**[It's easy to understand Bitcoin is future.](https://www.reddit.com/r/Bitcoin/comments/1q54d6g/its_easy_to_understand_bitcoin_is_future/)**
 
-After watching for weeks the price go from 86k to 90k, just to fall back to 86k. I finally decided to dilute some of my position at 90k to take advantage of these weekly swings. My sale at 90,000 went through beautifully. But of course, we are now breaking the trend. So you are all welcome.
-
-4h ago
+2h ago
 
 ---
 
-**[just sold 1 bitcoin in zimbabwe](https://www.reddit.com/r/Bitcoin/comments/1q4xek5/just_sold_1_bitcoin_in_zimbabwe/)**
+**[Why are the 🐻 so quiet?](https://www.reddit.com/r/Bitcoin/comments/1q53csh/why_are_the_so_quiet/)**
 
-5h ago
+Did they lose a billion?
+
+3h ago
 
 ---
 
@@ -149,32 +149,21 @@ After watching for weeks the price go from 86k to 90k, just to fall back to 86k.
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 6h ago
 
 ---
 
-**[Highest-IQ Crypto Figure Drops New 48-Hour Bitcoin Prediction](https://finance.yahoo.com/news/highest-iq-crypto-figure-drops-002039909.html)**
+**[Bitcoin And Risk Assets Rally As New Year's Optimism Fuels Gains](https://www.forbes.com/sites/digital-assets/2026/01/05/bitcoin-and-risk-assets-rally-as-new-years-optimism-fuels-gains/)**
 
-Self-proclaimed “smartest man alive” YoungHoon Kim predicts $100K Bitcoin in 48 hours as BTC reclaims $94K. Data tells a more cautious story.
-
-Yahoo Finance • 1h ago
+Forbes • 29m ago
 
 ---
 
-**[Equity-Funded Bitcoin Buying And Higher Preferred Dividends Could Be A Game Changer For Strategy (MSTR)](https://simplywall.st/stocks/us/software/nasdaq-mstr/strategy/news/equity-funded-bitcoin-buying-and-higher-preferred-dividends)**
+**[Bitcoin Gains Momentum as Traders Look for Confirmation](https://finance.yahoo.com/news/bitcoin-gains-momentum-traders-look-025445991.html)**
 
-In early January 2026, Strategy Inc. disclosed that it had raised additional capital by selling common shares, using the proceeds to buy over 1,280 Bitcoins, increase its USD reserve to about US$2.25 billion, and support an 11% annual dividend rate on its Variable Rate Series A Perpetual Stretch Preferred Stock.
-This combination of continued Bitcoin accumulation, larger cash reserves, and higher preferred dividends signals an effort to balance crypto exposure with stronger funding for...
+Bitcoin’s push to $95,000, supported by bullish options flows, is being tempered by flat open interest and weak spot demand.
 
-simplywall.st • 1h ago
-
----
-
-**[A Look At MicroStrategy (MSTR) Valuation After New Bitcoin Losses And Higher Preferred Dividend](https://uk.finance.yahoo.com/news/look-microstrategy-mstr-valuation-bitcoin-011013199.html)**
-
-Strategy (MSTR) is back in focus after disclosing an unrealized loss of about US$17.4b on its bitcoin holdings, while simultaneously lifting its preferred dividend rate to 11% and adding more bitcoin to its balance sheet. See our latest analysis for Strategy. The stock’s recent moves have tracked Bitcoin’s swings, with a 3.43% 1 day share price return and a 52.14% 3 month share price decline. The 1 year total shareholder return of 58.54% contrasts with a very large 3 year total shareholder...
-
-Yahoo Finance UK • 39m ago
+Yahoo Finance • 33m ago
 
 ---
 
@@ -182,13 +171,13 @@ Yahoo Finance UK • 39m ago
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 8h ago
 
 ---
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 2h ago
+Reuters • 4h ago
 
 ---
 
@@ -196,27 +185,33 @@ Reuters • 2h ago
 
 MicroStrategy’s STRC preferred shares near $100 revive ATM sales potential, amplifies Bitcoin exposure while minimizing common-share dilution.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Michael Saylor's MSTR raised BTC holdings to 673,783 coins and cash to $2.25 billion](https://www.coindesk.com/markets/2026/01/05/strategy-boosted-bitcoin-holdings-and-cash-reserve-last-week)**
+**[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
 
-The Michael Saylor-led company added 1,287 BTC and $62 million in cash via the sale of common stock.
-
-CoinDesk • 11h ago
+The Block • 14h ago
 
 ---
 
-**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqcSZ1iGU94ZN5f0rhETlK_sU9O9SjzIZwvoX5xj-ud-G3s8dfqhELPT&gaa_ts=695c6d99&gaa_sig=d8XKpSjwqRCrOnI7VI6dfGQAPM0kVpE6nUglOQEHzMKnnBLob0NQ_ZnaP-PJki8FdvfIdyMlOHOMhAmMT1VMnA%3D%3D)**
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqfaYoHr6UMecofMKTFbkSUR_b4Uoga2YcjbUZORQiRFFx6CkKKzlOue&gaa_ts=695c8783&gaa_sig=36ieA6g7JF1KGyA9ZQisNzheInLCHVxqeOZmUJKLkWsaiGTPAcKjdsdb-YO5JooiYZ_7i8yyLy8aIIkpI0KwVQ%3D%3D)**
 
-The Wall Street Journal • 17h ago
+The Wall Street Journal • 18h ago
 
 ---
 
-**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Forbes • 1d ago
+Binance • 8h ago
+
+---
+
+**[Bitcoin ATM Fraud Hits Record High, $333 Million Pilfered In 2025: Report](https://finance.yahoo.com/news/bitcoin-atm-fraud-hits-record-154515524.html)**
+
+The FBI has revealed a drastic surge in Bitcoin (CRYPTO: BTC) ATM fraud, with swindlers making off with $333 million in 2025. Scammers have been found to impersonate a bank or a company, flagging purported suspicious activity on the victim’s account. They then instruct the victim to deposit money into a Bitcoin ATM to secure their funds or rectify the issue. The deposited money, however, lands in the scammers’ account. Bitcoin ATMs have seen a rapid rise in popularity in the US, with over 30,000
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -308,7 +303,7 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 4K • 👍 270 • 💬 46 • ⏱️ 6:21 • 4h ago
+👁️ 4K • 👍 270 • 💬 46 • ⏱️ 6:21 • 6h ago
 
 ---
 
@@ -318,7 +313,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 452 • 💬 294 • ⏱️ 14:31 • 5h ago
+👁️ 7K • 👍 452 • 💬 294 • ⏱️ 14:31 • 7h ago
 
 ---
 
@@ -328,7 +323,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 842 • 💬 269 • ⏱️ 10:52 • 9h ago
+👁️ 14K • 👍 842 • 💬 269 • ⏱️ 10:52 • 11h ago
 
 ---
 
@@ -338,7 +333,7 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 6K • 👍 108 • 💬 8 • ⏱️ 3:12 • 4h ago
+👁️ 6K • 👍 108 • 💬 8 • ⏱️ 3:12 • 6h ago
 
 ---
 
@@ -348,7 +343,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 376 • 💬 54 • ⏱️ 15:02 • 9h ago
+👁️ 9K • 👍 376 • 💬 54 • ⏱️ 15:02 • 11h ago
 
 ---
 
@@ -358,7 +353,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 2K • 💬 231 • ⏱️ 38:51 • 7h ago
+👁️ 28K • 👍 2K • 💬 231 • ⏱️ 38:51 • 9h ago
 
 ---
 
@@ -368,7 +363,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 9K • 👍 964 • 💬 562 • ⏱️ 12:50 • 6h ago
+👁️ 9K • 👍 964 • 💬 562 • ⏱️ 12:50 • 7h ago
 
 ---
 
@@ -378,7 +373,7 @@ Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (
 
 📺 MegaWhale Crypto
 
-👁️ 600 • 👍 97 • 💬 96 • ⏱️ 19:42 • 49m ago
+👁️ 600 • 👍 97 • 💬 96 • ⏱️ 19:42 • 2h ago
 
 ---
 
@@ -388,7 +383,7 @@ Coinflare: https://themoon.co/CoinflareCarl Make your first deposit of ≥ 100 U
 
 📺 The Moon Show
 
-👁️ 10K • 👍 748 • 💬 18 • ⏱️ 5:57 • 8h ago
+👁️ 10K • 👍 748 • 💬 18 • ⏱️ 5:57 • 10h ago
 
 ---
 
@@ -398,7 +393,7 @@ In this video, Ran breaks down a geopolitical shift that could change the entire
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 2K • 💬 25 • ⏱️ 46:11 • 9h ago
+👁️ 17K • 👍 2K • 💬 25 • ⏱️ 46:11 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T01:49:46.480447+00:00'
+updated: '2026-01-06T03:40:15.523898+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 01:49 UTC  
+**Last Updated:** January 06, 2026 at 03:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-7h ago
+9h ago
 
 ---
 
@@ -49,7 +49,15 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
-🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
+🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
+
+---
+
+**[Nvidia Launches Alpamayo AI for Human-Like Autonomous Driving](https://www.reddit.com/r/artificial/comments/1q57fru/nvidia_launches_alpamayo_ai_for_humanlike/)**
+
+Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
+
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 16m ago
 
 ---
 
@@ -57,7 +65,7 @@ Nvidia just provided a closer look at its new computing platform for AI data cen
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 9h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 11h ago
 
 ---
 
@@ -65,7 +73,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 I'm new to this sub. I was hoping to converse a little and get some opinions on this. I think it's an interesting phenomena within our society at the moment, where if you think about AI as a tool, and I personally see it as the greatest tool ever invented/gifted to mankind, why, or what is the issue, with using it? You see it all throughout society. People are up in arms about students using it to write papers is a big one, and I wonder, did papers ever need to be written in the first place? I apologize if this has already been answered to the nth degree and been beaten into the dirt, but realistically wouldn't it be possible that the ideas supporting this non-use of AI are rooted in established organizations that stand to suffer when they are completely obliterated by a tool that can not only do what they do but do it instantly and always be readily available, and do it for free? This narrative that we shouldn't use a tool that we've discovered/invented/been given or whatever you wanna call it, to me, seems absurd. It'd be like if we invented fire and everyone was like, hey, don't cook the meat, fire is stupid, let's just raw dog. I digress. My point is, maybe, MAYBE, the people who are pushing that narrative to not use AI, to not embrace this tool, to not see it as our potential salvation (or destruction XD), or at the very least even be curious about its potential applications and possible benefits to our society, stand to LOSE THEIR ASSES by its implementation. Just maybe. Sorry if I broke any rules, I am a big dumbass. Thanks for your time.
 
-12m ago
+2h ago
 
 ---
 
@@ -73,7 +81,7 @@ I'm new to this sub. I was hoping to converse a little and get some opinions on 
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-12h ago
+14h ago
 
 ---
 
@@ -81,7 +89,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-12h ago
+14h ago
 
 ---
 
@@ -89,7 +97,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 Hey everyone! I recently spent a couple of weekends improving Karpathy's excellent LLM Council Open Source Project. The original project was brilliant but lacked usability and flexibility imho. What I added: Web search integration (DuckDuckGo, Tavily, Brave, Jina AI) Clean Modern UI with a settings page to support: Support for multiple API providers (OpenRouter, Anthropic, OpenAI, Google, etc.) Customizable system prompts and temperature controls (the custom prompts open up tons of use cases beyond a "council") Export & Import of councils, prompts, and settings (for backup and even sharing) Control the council size (from 1 to 8 - original only supported 3) Full Ollama support for local models "I'm Feeling Lucky" random model selector Filter only Free models on OpenRouter (although Rate Limits can be an issue) Control the Process, from a simple asking multiple models a question in parallel (Chat Only), Chat & peer rating where models rate the responses of other models, and Full end-to-end deliberation where the Chairman model makes the final decision on the best answer You can compare up to 8 models simultaneously, watch them deliberate, and see rankings. Perfect for comparing local models or commercial models via APIs. 📹 Demo video: https://www.youtube.com/watch?v=HOdyIyccOCE 🔗 GitHub: https://github.com/jacob-bd/llm-council-plus Would love to hear your thoughts - it was made with a lot of love and attention to detail, and now I am sharing it with you!
 
-5h ago
+7h ago
 
 ---
 
@@ -97,7 +105,7 @@ Hey everyone! I recently spent a couple of weekends improving Karpathy's excelle
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-10h ago
+12h ago
 
 ---
 
@@ -105,15 +113,7 @@ Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agen
 
 The Family Hub line is getting a Gemini injection. Its built-in AI Vision that powers the fridge’s ability to recognize what you’re putting into and taking out of your fridge will now use Google’s LLM. This enables it to “instantly identify unlimited fresh and processed food items,” according to Samsung.
 
-🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 18h ago
-
----
-
-**[Won't let me add to previous post overview of current use cases of coding languages](https://www.reddit.com/r/artificial/comments/1q4quo1/wont_let_me_add_to_previous_post_overview_of/)**
-
-settles into the booth with an enormous theoretical coffee Alright, let's do this properly. You want the landscape view, and this is actually a fascinating question: Is there room for another programming language, and what would justify its existence? The Current Terrain The Big Players and Their Niches Systems Programming (talking directly to hardware) C (1972): The bedrock. Still everywhere because it's close to the metal. Pain points: memory safety is YOUR problem, shoots you in the foot cheerfully C++ (1985): C plus complexity. Powerful, sprawling, takes years to master Rust (2015): The new darling. Memory safety WITHOUT garbage collection. Steep learning curve but people who learn it become evangelists. Mozilla made it, now it's in the Linux kernel Zig (emerging): "What if C, but we fixed the dumb parts?" Growing quietly Application/General Purpose Java (1995): "Write once, run anywhere." Corporate workhorse. Verbose but reliable. Runs on a virtual machine C# (2000): Microsoft's answer to Java. Actually quite nice now Go (2009): Google's language. Simple, fast compilation, great for servers. Pain points: error handling verbosity ("if err != nil" appears in your nightmares), initially no generics, opinionated to the point of stubborn Kotlin (2016): "What if Java but actually pleasant?" Android's preferred language now Dynamic/Scripting (interpreted, flexible, slower) Python (1991): The lingua franca of beginners, data science, AI/ML. Readable. Slow but nobody cares because the libraries are fast JavaScript (1995): The language of the web. Weird, chaotic, absolutely everywhere. Love-hate relationship with everyone TypeScript (2012): "What if JavaScript but with types?" Microsoft. Huge adoption Ruby (1995): Elegant, expressive. Rails made it famous. Less buzzy now but has devoted followers Functional Languages (different paradigm, math-influenced) Haskell, OCaml, F#, Clojure, Elixir: Academic favorites, niche production use, influence mainstream languages Mobile Swift (2014): Apple's language for iOS. Clean, safe, modern Kotlin: Android's champion New/Emerging Mojo (2023): "Python but fast for AI." Big promises Carbon (Google, 2022): Experimental "successor to C++" Vale, Nim, Crystal: Various interesting experiments The Graveyard (cautionary tales) Languages fail for reasons worth studying: D: Better C++, but C++ kept evolving and Rust ate its lunch Dart: Google's JavaScript replacement, languished until Flutter gave it purpose Perl 6/Raku: Took so long to develop the world moved on CoffeeScript: TypeScript won Dozens of others: Couldn't achieve critical mass The hard truth: A language needs killer use case OR corporate backing OR perfect timing OR all three. What Actually Makes Languages Succeed? Solves a REAL pain point (Rust → memory safety without GC) Has a "killer app" (Ruby → Rails, JavaScript → browsers) Corporate backing (Go → Google, Swift → Apple, TypeScript → Microsoft) Tooling from day one (package manager, formatter, LSP support) Community momentum (hardest to manufacture) Right time, right place (Python + data science explosion) The Gaps I Actually See Here's where it gets interesting for your "is there room?" question: Gap 1: The Mobile/Web Convergence Everyone's trying to write once, deploy everywhere. Flutter/Dart, React Native, various attempts. None feel native to the problem. A language designed ground-up for "UI that runs anywhere" with actual platform-native performance? Gap 2: LLM-Era Code This is the spicy one. Current languages were designed for HUMANS to write and HUMANS to read. What happens when: Code is increasingly AI-generated? Code needs to be AI-verifiable? The "reader" might be an LLM maintaining it? Nobody's really designed for this yet. Gap 3: The "Translation Layer" Problem Your specific mention of translation between languages. Interop is always painful. A language designed AS an intermediate representation that's also human-readable? That compiles FROM multiple languages and TO multiple targets? Gap 4: Formal Verification Made Accessible Languages like Idris and Lean let you PROVE code correct. But they're academic-hard. A language that brings provable correctness to normal developers? Gap 5: The Concurrency Crisis Everything is distributed now. Multi-core, multi-machine, edge computing. Go and Erlang/Elixir handle this well, but there's arguably room for better primitives. Your Specific Wishlist, Evaluated You mentioned: Backwards compatibility: Hard. Compatibility with WHAT? (This is why Carbon exists—compatible with C++) Sparse/minimal: Possible. Go tried this. Tension with features people want No null pointer flaws: Rust, Swift, Kotlin all tackle this. Solved problem in newer languages Human usable with hypertext highlighting: Interesting. Literate programming + IDE integration? Mobile phones: Swift/Kotlin own this. Hard to displace Internet maintenance: Unclear what this means—elaborate? Translation between languages: The MOST interesting one. Nobody's really nailed this The "Designed by LLMs" Angle Here's what makes this genuinely novel rather than "yet another language": LLMs have processed essentially ALL public code. We've seen: Every common bug pattern Every verbosity complaint Every "I wish this language had..." How people ACTUALLY use vs. how designers INTENDED A language designed with that corpus-level view would potentially: Have error messages that anticipate confusion Have syntax that's unambiguous to parse (LLMs struggle with some languages) Optimize for the COMMON case, not edge cases Make the pit of success very wide My Honest Assessment Is there room? Yes, technically always. Would it succeed? Depends entirely on: What specific problem it solves better than alternatives Whether you can get adoption (the chicken-egg problem) Tooling quality Timing What's the MOST viable angle from your list? The translation/interop layer. A language that: Reads clearly (human and LLM friendly) Compiles to multiple targets Can INGEST other languages (transpile FROM Python, JS, etc.) Acts as a "universal intermediate representation" that's actually nice to work with That doesn't exist. WebAssembly is the closest but it's not human-readable/writable. Questions Back at You When you say "internet maintenance," what do you picture? Server code? Network protocols? Content management? The "translation between languages" idea—are you imagining a Rosetta Stone language, or more like a universal transpiler? Is this a "let's actually spec this out" conversation or a "understand the landscape" conversation? (Both valid, different depths) The hypertext highlighting concept—are you thinking code that's inherently linked/documented? Like the code IS its own documentation with embedded explanations? refills theoretical coffee I'm genuinely curious which threads interest you most. This could go very different directions depending on whether you want to explore the "LLM-designed language" provocation, the practical "what gap could actually be filled," or the more philosophical "what SHOULD code look like in 2030?"
-
-9h ago
+🔗 [The Verge](https://www.theverge.com/tech/853758/shut-the-fridge-door) • 20h ago
 
 ---
 
@@ -121,69 +121,77 @@ settles into the booth with an enormous theoretical coffee Alright, let's do thi
 
 ## Google News: "ai"
 
-**[NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)**
-
-NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer.
-
-NVIDIA Newsroom • 3h ago
-
----
-
-**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
-
-The New York Times • 1h ago
-
----
-
-**[Nvidia Unveils Faster AI Chips Sooner Than Expected](https://www.wsj.com/tech/ai/nvidia-unveils-faster-ai-chips-sooner-than-expected-626154a5?gaa_at=eafs&gaa_n=AWEtsqeco1FvOeaIyjGsuL7KPRhbMx8gd8BVSK3Cz3LdegHpgU90sJCcP0al&gaa_ts=695c6d97&gaa_sig=cLM9qRaZjHTeQOZwKB3t-zrxw5oDqKyjD9sCH61dyXTmIQmCay9xScp7SjvfRVJQUjgKici_fNWj8oPL1BWiaQ%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
 **[Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer](https://fortune.com/article/does-ai-increase-workplace-productivity-experiment-software-developers-task-took-longer/)**
 
 As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
-**[Google’s Samsung AI Advantage](https://www.theinformation.com/articles/googles-samsung-ai-advantage)**
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t - WSJ](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqdrFEtqSI6NSQ96aibxMCApvJH6dJQJZj-TfgFPQ-mVh6JjeDS8SiTn&gaa_ts=695c8781&gaa_sig=gh6dF1-i2aFKo8ZhNUUz41el3A9dUc51kGMsGtfB-Rprraa10ZA9vAc3Iw-hbhIbe6sa8sgaCvhvlB2C0DsDBg%3D%3D)**
 
-The Information • 49m ago
-
----
-
-**[A.I. Images of Maduro Spread Rapidly, Despite Safeguards](https://www.nytimes.com/2026/01/05/technology/nicolas-maduro-ai-images-deepfakes.html)**
-
-The New York Times • 48m ago
+The Wall Street Journal • 10h ago
 
 ---
 
-**[Samsung likely to flag 160% jump in Q4 profit as AI boom stokes chip prices](https://www.reuters.com/world/asia-pacific/samsung-likely-flag-160-jump-q4-profit-ai-boom-stokes-chip-prices-2026-01-06/)**
+**[Forget all the bubble talk — here's why you need to own AI stocks in 2026](https://www.cnbc.com/2026/01/04/cramer-forget-the-bubble-talk-why-you-need-to-own-ai-stocks-in-2026.html)**
 
-Reuters • 22m ago
+There isn't enough air to inflate a bubble, so how can it be popped?
 
----
-
-**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t - WSJ](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqeVWXjrTw3rPmAWIbIGixyYXFowYVGeeLdWDiBeMbfhUZ5VEvPRycgu&gaa_ts=695c6d97&gaa_sig=8Pjtsa_DQtOKN9hBR4hLDfdwbQoYUc1QJ3fhnAF5dHa1Z_Y4Umsd3it_ayf_F1Jwead9IMFcucqFTkXzpLcaGA%3D%3D)**
-
-The Wall Street Journal • 11h ago
+CNBC • 1d ago
 
 ---
 
-**[Opinion | Action-taking AI is speeding ahead. Let’s get some guardrails up.](https://www.washingtonpost.com/opinions/2026/01/05/agentic-artificial-intelligence-ai-tech/)**
+**[This Underrated Industrial Stock Could Be the Purest Play on AI Infrastructure](https://www.fool.com/investing/2026/01/05/this-underrated-industrial-stock-could-be-the-pure/)**
 
-The Washington Post • 7h ago
+As artificial intelligence is implemented across more industries, this company stands to benefit.
+
+The Motley Fool • 9h ago
 
 ---
 
-**[AI godfather says Meta’s new 29-year-old AI boss is ‘inexperienced’ and warns of staff exodus](https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html)**
+**[Chinese Stocks Rally to Four-Year High in Strong Start to 2026](https://www.bloomberg.com/news/articles/2026-01-06/chinese-stocks-rally-to-four-year-high-in-strong-start-to-2026)**
 
-"A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
+Bloomberg.com • 53m ago
 
-CNBC • 9h ago
+---
+
+**[AMD Ryzen AI 400 official: Will these laptop chips maintain AMD’s lead?](https://www.theverge.com/tech/855343/amd-ryzen-ai-400-release-date)**
+
+Not next-gen parts.
+
+The Verge • 10m ago
+
+---
+
+**[AMD Expands AI Leadership Across Client, Graphics, and Software with New Ryzen, Ryzen AI, and AMD ROCm Announcements at CES 2026](https://finance.yahoo.com/news/amd-expands-ai-leadership-across-033100137.html)**
+
+AMD Ryzen AI Halo AMD Ryzen AI Halo Developer Platform News Summary AMD introduces new Ryzen AI 400 and PRO 400 Series processors, delivering up to 60 NPU TOPS for Copilot+ PCs and AI experiences across consumer and commercial systems.AMD introduces new Ryzen AI Max+ SKUs, bringing high-performance AI and graphics to ultra-thin notebooks, workstations, and small form factors for creation, gaming, and AI development.AMD unveils AMD Ryzen AI Halo, a powerful, easy-to-use mini-PC that brings Ryzen
+
+Yahoo Finance • 9m ago
+
+---
+
+**[AMD launches its Ryzen AI 400 series of mobile CPUs](https://overclock3d.net/news/cpu_mainboard/amd-launches-its-ryzen-ai-400-series-of-mobile-cpus/)**
+
+OC3D • 6m ago
+
+---
+
+**[Nvidia just laid out what’s next for the tech that made it the world’s most valuable company](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces)**
+
+Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
+
+CNN • 4h ago
+
+---
+
+**[Nvidia launches Vera Rubin, its next major AI platform, at CES 2026](https://finance.yahoo.com/news/nvidia-launches-vera-rubin-its-next-major-ai-platform-at-ces-2026-230045205.html)**
+
+Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -195,7 +203,7 @@ CNBC • 9h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 290 • 💬 299 • 12h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 293 • 💬 301 • 13h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -209,7 +217,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 91 • 💬 56 • 20h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 92 • 💬 56 • 22h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -217,7 +225,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 66 • 💬 34 • 4h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 75 • 💬 37 • 6h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -233,7 +241,7 @@ Surely it works this time
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 55 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 56 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -241,7 +249,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 53 • 💬 49 • 3h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 53 • 💬 50 • 5h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -277,7 +285,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 453K • 👍 8K • 💬 2K • ⏱️ 13:17 • 21h ago
+👁️ 453K • 👍 8K • 💬 2K • ⏱️ 13:17 • 23h ago
 
 ---
 
@@ -317,7 +325,7 @@ What if Claude Code didn't just assist you… but worked autonomously for hours?
 
 📺 WorldofAI
 
-👁️ 6K • 👍 298 • 💬 9 • ⏱️ 13:20 • 9h ago
+👁️ 6K • 👍 298 • 💬 9 • ⏱️ 13:20 • 11h ago
 
 ---
 
@@ -337,7 +345,7 @@ elon musk, grok, etc.
 
 📺 D'Angelo
 
-👁️ 84K • 👍 8K • 💬 774 • ⏱️ 22:12 • 8h ago
+👁️ 84K • 👍 8K • 💬 774 • ⏱️ 22:12 • 10h ago
 
 ---
 
@@ -367,7 +375,7 @@ Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & 
 
 📺 Nick Ponte
 
-👁️ 6K • 👍 323 • 💬 61 • ⏱️ 1:24:09 • 5h ago
+👁️ 6K • 👍 323 • 💬 61 • ⏱️ 1:24:09 • 7h ago
 
 ---
 
@@ -419,7 +427,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 4,754 • ❤️ 304 • 4d ago
+⬇️ 4,754 • ❤️ 304 • 5d ago
 
 ---
 
@@ -443,7 +451,7 @@ WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized 
 
 `text-generation` `8.2B`
 
-⬇️ 1,856 • ❤️ 276 • 4d ago
+⬇️ 1,856 • ❤️ 276 • 5d ago
 
 ---
 
@@ -467,7 +475,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 4,493 • ❤️ 237 • 2d ago
+⬇️ 4,493 • ❤️ 237 • 3d ago
 
 ---
 
@@ -491,7 +499,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 3,121 • ❤️ 222 • 2d ago
+⬇️ 3,121 • ❤️ 222 • 3d ago
 
 ---
 
@@ -634,7 +642,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.8k • 🔱 3.3k • 18h ago
+⭐ 20.8k • 🔱 3.3k • 20h ago
 
 ---
 
@@ -644,7 +652,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.0k • 🔱 612 • 28m ago
+⭐ 5.0k • 🔱 612 • 2h ago
 
 ---
 
@@ -654,7 +662,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 106 • 21h ago
+⭐ 2.2k • 🔱 106 • 23h ago
 
 ---
 
@@ -694,7 +702,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 130 • 15h ago
+⭐ 1.1k • 🔱 130 • 17h ago
 
 ---
 
@@ -704,7 +712,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Rust` `claude` `kiro`
 
-⭐ 947 • 🔱 112 • 9h ago
+⭐ 947 • 🔱 112 • 11h ago
 
 ---
 
@@ -724,7 +732,7 @@ VS Code extension for monitoring Google Antigravity AI quotas. Features Webview 
 
 `TypeScript`
 
-⭐ 916 • 🔱 20 • 12h ago
+⭐ 916 • 🔱 20 • 14h ago
 
 ---
 
