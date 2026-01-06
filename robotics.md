@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T14:25:08.959626+00:00'
+updated: '2026-01-06T14:50:17.654407+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 14:25 UTC  
+**Last Updated:** January 06, 2026 at 14:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 44m ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 1h ago
 
 ---
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ I'm 17 years old and I really enjoy robotics and related things. However, since 
 
 In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
 
-3h ago
+4h ago
 
 ---
 
@@ -229,7 +229,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 127K • 👍 8K • 💬 1K • ⏱️ 2:05 • 16h ago
+👁️ 127K • 👍 8K • 💬 1K • ⏱️ 2:05 • 17h ago
 
 ---
 

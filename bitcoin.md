@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T14:25:08.950421+00:00'
+updated: '2026-01-06T14:50:17.645148+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 14:25 UTC  
+**Last Updated:** January 06, 2026 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -117,25 +117,25 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-13h ago
+14h ago
 
 ---
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Bitcoin could realistically become a global currency through sats, making everyday transactions easier and more universal. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q5gaab/bitcoin_could_realistically_become_a_global/)**
 
-2h ago
+3h ago
 
 ---
 
 **[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 3h ago
 
 Wall Street heavyweight files for bitcoin trust amid rising institutional demand.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -211,7 +211,7 @@ Reuters • 15h ago
 
 **[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -343,7 +343,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 11K • 👍 701 • 💬 44 • ⏱️ 13:49 • 5h ago
+👁️ 11K • 👍 701 • 💬 44 • ⏱️ 13:49 • 6h ago
 
 ---
 
@@ -383,7 +383,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 478 • 💬 77 • ⏱️ 6:34 • 7h ago
+👁️ 7K • 👍 478 • 💬 77 • ⏱️ 6:34 • 8h ago
 
 ---
 

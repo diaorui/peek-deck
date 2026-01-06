@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T14:25:08.956417+00:00'
+updated: '2026-01-06T14:50:17.651168+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 14:25 UTC  
+**Last Updated:** January 06, 2026 at 14:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 3h ago
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 4h ago
 
 ---
 
@@ -104,13 +104,13 @@ Yet another data breach, this time involving payment processor Global-E, with cu
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-21h ago
+22h ago
 
 ---
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -192,7 +192,7 @@ dlnews.com • 2h ago
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -214,7 +214,7 @@ GlobeNewswire • 1d ago
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 13K • 👍 221 • 💬 135 • ⏱️ 12:31 • 17h ago
+👁️ 13K • 👍 221 • 💬 135 • ⏱️ 12:31 • 18h ago
 
 ---
 
@@ -256,7 +256,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 591 • 💬 51 • ⏱️ 16:00 • 10h ago
+👁️ 5K • 👍 591 • 💬 51 • ⏱️ 16:00 • 11h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITMINE IMMERSION TECHNOLOGIES STOCK: TOM LEE "150x GAINS"?! Ethereum Supercycle
 
 📺 ​In Case You Missed It: 5 Min
 
-👁️ 69 • 👍 2 • ⏱️ 8:40 • 43m ago
+👁️ 69 • 👍 2 • ⏱️ 8:40 • 1h ago
 
 ---
 

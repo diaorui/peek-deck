@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T14:25:08.942031+00:00'
+updated: '2026-01-06T14:50:17.636677+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 14:25 UTC  
+**Last Updated:** January 06, 2026 at 14:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,7 +79,7 @@ I am building an experimental AI tool that analyzes images to suggest real world
 
 **[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 1m ago
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 26m ago
 
 ---
 
@@ -95,7 +95,7 @@ AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] 
 
 I built Ctrl, an open-source execution control plane that sits between an agent and its tools. Instead of letting tool calls execute directly, Ctrl intercepts them, dynamically scores risk, applies policy (allow / deny / approve), and only then executes; recording every intent, decision, and event in a local SQLite ledger. GH: https://github.com/MehulG/agent-ctrl It’s currently focused on LangChain + MCP as a drop-in wrapper. The demo shows a content publish action being intercepted, paused for approval, and replayed safely after approval. I’d love feedback from anyone running agents that take real actions.
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 I'm new to this sub. I was hoping to converse a little and get some opinions on this. I think it's an interesting phenomena within our society at the moment, where if you think about AI as a tool, and I personally see it as the greatest tool ever invented/gifted to mankind, why, or what is the issue, with using it? You see it all throughout society. People are up in arms about students using it to write papers is a big one, and I wonder, did papers ever need to be written in the first place? I apologize if this has already been answered to the nth degree and been beaten into the dirt, but realistically wouldn't it be possible that the ideas supporting this non-use of AI are rooted in established organizations that stand to suffer when they are completely obliterated by a tool that can not only do what they do but do it instantly and always be readily available, and do it for free? This narrative that we shouldn't use a tool that we've discovered/invented/been given or whatever you wanna call it, to me, seems absurd. It'd be like if we invented fire and everyone was like, hey, don't cook the meat, fire is stupid, let's just raw dog. I digress. My point is, maybe, MAYBE, the people who are pushing that narrative to not use AI, to not embrace this tool, to not see it as our potential salvation (or destruction XD), or at the very least even be curious about its potential applications and possible benefits to our society, stand to LOSE THEIR ASSES by its implementation. Just maybe. Sorry if I broke any rules, I am a big dumbass. Thanks for your time.
 
-12h ago
+13h ago
 
 ---
 
@@ -137,13 +137,13 @@ Yahoo Finance • 15h ago
 
 **[Experts agree: AI is here to stay](https://thehill.com/opinion/technology/5673342-measuring-ai-returns-investment/)**
 
-The Hill • 25m ago
+The Hill • 50m ago
 
 ---
 
 **[TDK Plans Silicon Battery Update for Holiday Season’s AI Gadgets](https://www.bloomberg.com/news/articles/2026-01-06/tdk-plans-silicon-battery-update-for-holiday-season-s-ai-gadgets)**
 
-Bloomberg.com • 55m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bloomberg.com • 55m ago
 
 Everyone wants in on the AI wearable game, but Razer is offering a slightly different take.
 
-Gizmodo • 23m ago
+Gizmodo • 48m ago
 
 ---
 
@@ -159,7 +159,7 @@ Gizmodo • 23m ago
 
 As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Economist • 22h ago
 
 **[Why Equinox Leaned on AI Slop in Its New Year’s Ad Campaign](https://www.wsj.com/articles/why-equinox-leaned-on-ai-slop-in-its-new-years-ad-campaign-a44a7f2e?gaa_at=eafs&gaa_n=AWEtsqfmMm9x1dxcPBrq0illdO_PtDJpgdzlczDlv-7w5YJaacRECKPL15kK&gaa_ts=695d1ea4&gaa_sig=m68yIArYMcF6l0uquydmVNNftfCF0HFsWPMnqqivPg2CCU-bpgDeMOTzmSRQnrBiXajC506fYuMLjJq2lPzzgg%3D%3D)**
 
-The Wall Street Journal • 20h ago
+The Wall Street Journal • 21h ago
 
 ---
 
@@ -187,7 +187,7 @@ NBC News • 1h ago
 
 The degrading pictures are being posted to X despite the platform pledging to suspend people who generate them
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -245,7 +245,7 @@ Surely it works this time
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 57 • 💬 102 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 57 • 💬 102 • 2d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -265,7 +265,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 AI slop comes for Reddit.
 
-⬆️ 35 • 💬 42 • 18h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
+⬆️ 35 • 💬 42 • 19h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -337,7 +337,7 @@ Support me by subscribing to the Thomas AI channel https://www.youtube.com/@thom
 
 📺 Maggie McGaugh
 
-👁️ 314K • 👍 9K • 💬 114 • ⏱️ 0:59 • 20h ago
+👁️ 314K • 👍 9K • 💬 114 • ⏱️ 0:59 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ The journey of NVIDIA and AI began with GeForce—a chip built for play that awa
 
 📺 NVIDIA
 
-👁️ 5K • 👍 314 • ⏱️ 3:30 • 8h ago
+👁️ 5K • 👍 314 • ⏱️ 3:30 • 9h ago
 
 ---
 
@@ -668,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 122 • 41m ago
+⭐ 2.0k • 🔱 122 • 1h ago
 
 ---
 
@@ -728,7 +728,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 965 • 🔱 114 • 11h ago
+⭐ 965 • 🔱 114 • 12h ago
 
 ---
 
