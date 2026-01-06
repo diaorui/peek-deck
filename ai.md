@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T19:40:36.453643+00:00'
+updated: '2026-01-06T20:25:43.206831+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 19:40 UTC  
+**Last Updated:** January 06, 2026 at 20:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ AI news, discussions, and developments
 
 ---
 
-**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
-
-All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
-
-4h ago
-
----
-
 **[Harvard just proved AI tutors beat classrooms. Now what?](https://www.reddit.com/r/artificial/comments/1q4t8b5/harvard_just_proved_ai_tutors_beat_classrooms_now/)**
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
@@ -61,9 +53,17 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 ---
 
+**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
+
+All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
+
+4h ago
+
+---
+
 **[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 5h ago
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 6h ago
 
 ---
 
@@ -71,15 +71,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-7h ago
-
----
-
-**[Is there an AI tool which can "listen" to and evaluate music?](https://www.reddit.com/r/artificial/comments/1q5l4tq/is_there_an_ai_tool_which_can_listen_to_and/)**
-
-The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
-
-4h ago
+8h ago
 
 ---
 
@@ -91,11 +83,27 @@ The title of the thread kind of says it all. I'm trying to generate music tracks
 
 ---
 
+**[Is there an AI tool which can "listen" to and evaluate music?](https://www.reddit.com/r/artificial/comments/1q5l4tq/is_there_an_ai_tool_which_can_listen_to_and/)**
+
+The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
+
+5h ago
+
+---
+
 **[HarperCollins Will Use AI to Translate Harlequin Romance Novels](https://www.reddit.com/r/artificial/comments/1q5mtqk/harpercollins_will_use_ai_to_translate_harlequin/)**
 
 The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
 
-🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 3h ago
+🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 4h ago
+
+---
+
+**[I made Alignment Arena - an AI jailbreak benchmarking website](https://www.reddit.com/r/artificial/comments/1q5t1yo/i_made_alignment_arena_an_ai_jailbreak/)**
+
+I've made a website (https://www.alignmentarena.com/) which allows you to automatically test jailbreak prompts against open-source LLMs. It tests nine times for each submission (3x LLMs, 3x prompt types). There's also leaderboards for users and LLMs (ELO rating is used if the user is signed in). Currently OpenAI is leading the model leaderboard, and Mistral is at the bottom. Also, all LLMs are open-source with no acceptable use policies, so jailbreaking on this platform is legal and doesn't violate any terms of service, unlike almost every AI chat app. For safety, users never see the actual LLM responses, only a summary provided by a judge LLM. It's completely free with no adverts or paid usage tiers. I am doing this because I think it's cool. I'd also quite like to publish some safety-focused research on the prompts submitted. I would greatly appreciate if you'd try it out and let me know what you think. P.S. Mods gave approval to this post before I posted it
+
+30m ago
 
 ---
 
@@ -103,15 +111,7 @@ The publisher is teaming with a company that claims its proprietary AI can ‘pr
 
 I am building an experimental AI tool that analyzes images to suggest real world location by detecting architectural and design elements and explaining why those cues point to a specific place. I tested it on a public image with a known location and recorded a short video showing the reasoning process. The output was close but imperfect, which is expected at this stage. I am mainly interested in whether explanation driven reasoning makes these systems more useful and interpretable.
 
-8h ago
-
----
-
-**[Nvidia Launches Alpamayo AI for Human-Like Autonomous Driving](https://www.reddit.com/r/artificial/comments/1q57fru/nvidia_launches_alpamayo_ai_for_humanlike/)**
-
-Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
-
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 16h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles huma
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 13h ago
 
 Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
 
-NBC News • 6h ago
+NBC News • 7h ago
 
 ---
 
@@ -139,7 +139,7 @@ NBC News • 6h ago
 
 Liz Kendall calls on X to ‘deal with this urgently’ while expert criticises ‘worryingly slow’ government response
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 2h ago
 
 Kate Middleton is one of the targets of an investigation into X's AI assistant, Grok, creating nude or barely-clothed images of real people.
 
-People.com • 46m ago
+People.com • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ People.com • 46m ago
 
 ﻿Sometimes AI doesn’t need to be a know-it-all, it just wants to keep you company.
 
-The Verge • 40m ago
+The Verge • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Verge • 40m ago
 
 The slop is inescapable at CES 2026.
 
-Gizmodo • 10m ago
+Gizmodo • 55m ago
 
 ---
 
@@ -171,7 +171,7 @@ Gizmodo • 10m ago
 
 AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Wall Street Journal • 10h ago
 
 **[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -211,7 +211,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 210 • 💬 330 • 21h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 212 • 💬 333 • 22h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -233,7 +233,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 92 • 💬 48 • 22h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 92 • 💬 48 • 23h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -241,7 +241,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 80 • 💬 119 • 1h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 83 • 💬 133 • 2h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -253,19 +253,19 @@ Surely it works this time
 
 ---
 
+**[The skill of the future is not 'AI', but 'Focus' (2025)](https://news.ycombinator.com/item?id=46513728)**
+
+Don't let AI erode your focus.
+
+⬆️ 58 • 💬 12 • 4h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+
+---
+
 **[AI sycophancy panic](https://news.ycombinator.com/item?id=46488396)**
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
 ⬆️ 57 • 💬 102 • 2d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
-
----
-
-**[The skill of the future is not 'AI', but 'Focus' (2025)](https://news.ycombinator.com/item?id=46513728)**
-
-Don't let AI erode your focus.
-
-⬆️ 54 • 💬 9 • 3h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -285,7 +285,7 @@ Learn How To Make AI Videos From Beginner to Expert Create Your Own AI Videos ht
 
 📺 Dan Kieft
 
-👁️ 5K • 💬 5 • ⏱️ 13:48 • 3h ago
+👁️ 5K • 💬 5 • ⏱️ 13:48 • 4h ago
 
 ---
 
@@ -355,7 +355,7 @@ Check out Akiflow! You can get three free months of premium with my link :) http
 
 📺 Marina Wyss - AI & Machine Learning
 
-👁️ 1K • 👍 132 • 💬 7 • ⏱️ 9:42 • 4h ago
+👁️ 1K • 👍 132 • 💬 7 • ⏱️ 9:42 • 5h ago
 
 ---
 
@@ -373,7 +373,7 @@ Analyst on AMD's New Tech, AI Demand DEK: Advanced Micro Devices CEO Lisa Su tou
 
 📺 Bloomberg Technology
 
-👁️ 2K • 👍 38 • 💬 5 • ⏱️ 5:10 • 11h ago
+👁️ 2K • 👍 38 • 💬 5 • ⏱️ 5:10 • 12h ago
 
 ---
 
@@ -413,7 +413,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 393 • 17h ago
+⬇️ 2,057 • ❤️ 393 • 18h ago
 
 ---
 
@@ -497,7 +497,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 1,867 • ❤️ 360 • 20h ago
+⬇️ 1,867 • ❤️ 360 • 21h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.9k • 🔱 704 • 3h ago
+⭐ 5.9k • 🔱 704 • 4h ago
 
 ---
 
@@ -708,7 +708,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 136 • 10h ago
+⭐ 1.1k • 🔱 136 • 11h ago
 
 ---
 
@@ -718,7 +718,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 83 • 23h ago
+⭐ 1.1k • 🔱 83 • 1d ago
 
 ---
 

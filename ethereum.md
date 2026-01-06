@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T19:40:36.468295+00:00'
+updated: '2026-01-06T20:25:43.221365+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 19:40 UTC  
+**Last Updated:** January 06, 2026 at 20:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +8.6%  
-**30d:** +3.4%  
-**90d:** -26.0%  
-**1y:** -4.5%  
+**24h:** +0.1%  
+**7d:** +8.9%  
+**30d:** +3.6%  
+**90d:** -25.8%  
+**1y:** -4.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Allocation: 7% First Purchased: July 24, 2016 Thesis: This investment is largely building on my belief that blockchain technology and smart contracts are what the future will be built on.  Eth…
 
-🔗 [Wanderblog](https://wanderblogorg.wordpress.com/2026/01/06/ethereum/) • 2h ago
+🔗 [Wanderblog](https://wanderblogorg.wordpress.com/2026/01/06/ethereum/) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Allocation: 7% First Purchased: July 24, 2016 Thesis: This investment is largely
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 8h ago
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 9h ago
 
 ---
 
@@ -96,7 +96,7 @@ FAQ answering developer questions about calculating necessary slippage before ex
 
 Yet another data breach, this time involving payment processor Global-E, with customer personal data reportedly exposed. We often talk about blockchain as a solution for privacy and transparency. But incidents like this show a hard truth: privacy failures still happen at the infrastructure and application layer, regardless of whether crypto or blockchain is involved. Decentralization doesn’t automatically mean privacy. Security practices, data minimization, and proper protection of user information still matter a lot. If sensitive data keeps leaking before it ever touches a blockchain, that’s a problem we shouldn’t ignore. Curious how others here see this are we focusing too much on decentralization while underestimating basic data security?
 
-12h ago
+13h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -190,7 +190,7 @@ Yahoo Finance • 1d ago
 
 **[Tom Lee’s Bitmine (BMNR) Increases Ethereum Holdings to $13.3 Billion](https://www.tipranks.com/news/tom-lees-bitmine-bmnr-increases-ethereum-holdings-to-13-3-billion)**
 
-TipRanks • 37m ago
+TipRanks • 1h ago
 
 ---
 
@@ -198,13 +198,13 @@ TipRanks • 37m ago
 
 Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -234,7 +234,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 4K • 👍 2K • 💬 17 • ⏱️ 8:07 • 3h ago
+👁️ 4K • 👍 2K • 💬 17 • ⏱️ 8:07 • 4h ago
 
 ---
 
@@ -244,7 +244,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 84 • ⏱️ 9:50 • 5h ago
+👁️ 18K • 👍 2K • 💬 84 • ⏱️ 9:50 • 6h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 128 • 💬 6 • ⏱️ 5:19 • 4h ago
+👁️ 1K • 👍 128 • 💬 6 • ⏱️ 5:19 • 5h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 156 • 💬 15 • ⏱️ 4:05 • 14h ago
+👁️ 3K • 👍 156 • 💬 15 • ⏱️ 4:05 • 15h ago
 
 ---
 
@@ -284,7 +284,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 462 • 💬 282 • ⏱️ 13:40 • 14h ago
+👁️ 9K • 👍 462 • 💬 282 • ⏱️ 13:40 • 15h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 10K • 👍 443 • 💬 208 • ⏱️ 22:27 • 21h ago
+👁️ 10K • 👍 443 • 💬 208 • ⏱️ 22:27 • 22h ago
 
 ---
 
@@ -314,7 +314,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 647 • 💬 53 • ⏱️ 16:00 • 15h ago
+👁️ 6K • 👍 647 • 💬 53 • ⏱️ 16:00 • 16h ago
 
 ---
 

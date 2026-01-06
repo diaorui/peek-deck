@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T19:40:36.462171+00:00'
+updated: '2026-01-06T20:25:43.215347+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 19:40 UTC  
+**Last Updated:** January 06, 2026 at 20:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,951.51
+### $92,356.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** +5.2%  
-**30d:** +1.6%  
-**90d:** -24.2%  
-**1y:** -4.8%  
+**24h:** -1.8%  
+**7d:** +5.5%  
+**30d:** +1.9%  
+**90d:** -23.9%  
+**1y:** -4.5%  
 
 ---
 
@@ -79,51 +79,41 @@ Rank #1
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-6h ago
-
----
-
-**[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
-
-5h ago
-
----
-
-**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
-
-4h ago
+7h ago
 
 ---
 
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-8h ago
+9h ago
 
 ---
 
-**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
+**[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-23h ago
-
----
-
-**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
-
-22h ago
+6h ago
 
 ---
 
-**[3% vs -30%: Different Worlds](https://www.reddit.com/r/Bitcoin/comments/1q5jj69/3_vs_30_different_worlds/)**
+**[A famous Bitcoin quote that keeps resurfacing over time](https://www.reddit.com/r/Bitcoin/comments/1q5rz0c/a_famous_bitcoin_quote_that_keeps_resurfacing/)**
 
-BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
+John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
+
+1h ago
+
+---
+
+**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
 
 5h ago
 
 ---
 
-**[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
+**[Morgan Stanley Files With SEC For Spot Bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1q5sh7a/morgan_stanley_files_with_sec_for_spot_bitcoin_etf/)**
 
-1d ago
+Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 51m ago
 
 ---
 
@@ -135,11 +125,23 @@ Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wa
 
 ---
 
-**[Crypto Guys when Bitcoin up +5%](https://www.reddit.com/r/Bitcoin/comments/1q53gc0/crypto_guys_when_bitcoin_up_5/)**
+**[3% vs -30%: Different Worlds](https://www.reddit.com/r/Bitcoin/comments/1q5jj69/3_vs_30_different_worlds/)**
 
-portfolio: -60% mental health: unstable relationship : Grok gf
+BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
 
-19h ago
+6h ago
+
+---
+
+**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
+
+1d ago
+
+---
+
+**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
+
+23h ago
 
 ---
 
@@ -151,7 +153,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 The world's largest cryptocurrency is moving higher after the U.S. ousted Venezuelan president Nicolás Maduro over the weekend.
 
-Investopedia • 23h ago
+Investopedia • 1d ago
 
 ---
 
@@ -159,7 +161,7 @@ Investopedia • 23h ago
 
 Bitcoin rose to an more than one-month high and broke through a closely watched technical level as digital assets start to catch up with gains in stocks and precious metals.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -167,13 +169,13 @@ Bloomberg.com • 21h ago
 
 Ledn co-founder Mauricio Di Bartolomeo, born and raised in Venezuela, argues that the country’s government is simply too corrupt and incompetent to have accumulated a rumored $60 billion stash of bitcoin.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -189,7 +191,7 @@ Yahoo Finance • 4h ago
 
 Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -201,7 +203,7 @@ The Block • 1d ago
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -209,13 +211,13 @@ Reuters • 20h ago
 
 Strategy reported a $17.44 billion unrealized loss in the fourth quarter.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -267,14 +269,6 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ---
 
-**[2025 Bitcoin Node Performance Tests](https://news.ycombinator.com/item?id=46436971)**
-
-Testing full validation sync performance of 5 Bitcoin node implementations.
-
-⬆️ 1 • 💬 0 • 7d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
-
----
-
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
 ⬆️ 9 • 💬 2 • 4d ago
@@ -297,6 +291,14 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ---
 
+**[Show HN: I made an open-source app to interrupt nail biting](https://news.ycombinator.com/item?id=46496866)**
+
+A free, open source desktop app that detects nail biting in real time using your computer's camera - no video is recorded, stored, or sent anywhere. - vaitko/stopbitingnails.app
+
+⬆️ 4 • 💬 0 • 1d ago • [GitHub](https://github.com/vaitko/stopbitingnails.app)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,7 +309,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 12K • 👍 231 • 💬 111 • ⏱️ 8:25 • 6h ago
+👁️ 12K • 👍 231 • 💬 111 • ⏱️ 8:25 • 7h ago
 
 ---
 
@@ -317,7 +319,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 2K • 💬 188 • ⏱️ 9:17 • 17h ago
+👁️ 60K • 👍 2K • 💬 188 • ⏱️ 9:17 • 18h ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 16K • 👍 926 • 💬 77 • ⏱️ 16:32 • 8h ago
+👁️ 16K • 👍 926 • 💬 77 • ⏱️ 16:32 • 9h ago
 
 ---
 
@@ -347,7 +349,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 281 • ⏱️ 8:08 • 18h ago
+👁️ 30K • 👍 2K • 💬 281 • ⏱️ 8:08 • 19h ago
 
 ---
 
@@ -367,7 +369,7 @@ Stay informed with the latest insights on **bitcoin**, focusing on effective **c
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 1K • 💬 34 • ⏱️ 31:55 • 4h ago
+👁️ 9K • 👍 1K • 💬 34 • ⏱️ 31:55 • 5h ago
 
 ---
 
@@ -377,7 +379,7 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 9K • 👍 411 • 💬 66 • ⏱️ 6:21 • 22h ago
+👁️ 9K • 👍 411 • 💬 66 • ⏱️ 6:21 • 23h ago
 
 ---
 
@@ -387,7 +389,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 16K • 👍 795 • 💬 50 • ⏱️ 13:49 • 10h ago
+👁️ 16K • 👍 795 • 💬 50 • ⏱️ 13:49 • 11h ago
 
 ---
 
@@ -397,7 +399,7 @@ Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the b
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 467 • 💬 84 • ⏱️ 57:31 • 2h ago
+👁️ 8K • 👍 467 • 💬 84 • ⏱️ 57:31 • 3h ago
 
 ---
 
