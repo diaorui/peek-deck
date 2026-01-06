@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T06:36:33.858429+00:00'
+updated: '2026-01-06T07:27:17.556420+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 06:36 UTC  
+**Last Updated:** January 06, 2026 at 07:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,37 +36,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,224.72
+### $3,249.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +8.4%  
-**30d:** +3.1%  
-**90d:** -26.2%  
-**1y:** -4.7%  
+**24h:** +1.9%  
+**7d:** +8.6%  
+**30d:** +3.3%  
+**90d:** -26.1%  
+**1y:** -4.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $389.83B
+**Market Cap:** $389.15B
 Rank #2
 
 **Circulating Supply:** 120,694,829 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.7%
+-34.8%
 
 **All-Time Low:** $0.43
-+745615.2%
++744608.2%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion January 06, 2026](https://www.reddit.com/r/ethereum/comments/1q5anbq/daily_general_discussion_january_06_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
 
 **[Daily General Discussion January 05, 2026](https://www.reddit.com/r/ethereum/comments/1q4duem/daily_general_discussion_january_05_2026/)**
 
@@ -94,7 +102,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 20h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 21h ago
 
 ---
 
@@ -138,25 +146,9 @@ TL;DR We propose the Ethereum Fund Recovery Protocol (EFRP): a decentralized, ha
 
 ---
 
-**[Daily General Discussion January 02, 2026](https://www.reddit.com/r/ethereum/comments/1q1quuy/daily_general_discussion_january_02_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
-
-Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
-
-Fortune • 18h ago
-
----
 
 **[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
 
@@ -166,25 +158,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
+
+Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
+
+Fortune • 18h ago
+
+---
+
 **[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 16h ago
-
----
-
-**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
-
-CNBC • 10h ago
+CoinDesk • 17h ago
 
 ---
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -192,7 +184,15 @@ The Block • 13h ago
 
 The Ethereum payout marks the first time a U.S. spot crypto product has distributed protocol-level income to investors.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
+
+CNBC • 11h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 1h ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 17h ago
+dlnews.com • 18h ago
 
 ---
 
@@ -208,7 +208,7 @@ dlnews.com • 17h ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -224,7 +224,7 @@ PR Newswire • 17h ago
 
 Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -238,27 +238,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 8K • 👍 154 • 💬 99 • ⏱️ 12:31 • 10h ago
-
----
-
-**[XRP ETFS BREAK RECORDS! GRAYSCALE ETHEREUM STAKING ETF REWARDS &amp; VENEZUELA BITCOIN!](https://www.youtube.com/watch?v=6Z-K6e83qTE)**
-
-Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded their highest daily trading volume since launch.
-
-📺 Thinking Crypto
-
-👁️ 770 • 👍 133 • 💬 4 • ⏱️ 16:00 • 2h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mjcnVr41V_s)**
-
-BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 364 • 💬 233 • ⏱️ 22:27 • 8h ago
+👁️ 10K • 👍 182 • 💬 100 • ⏱️ 12:31 • 10h ago
 
 ---
 
@@ -268,7 +248,27 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 20K • 👍 2K • 💬 53 • ⏱️ 46:18 • 12h ago
+👁️ 21K • 👍 2K • 💬 54 • ⏱️ 46:18 • 13h ago
+
+---
+
+**[XRP ETFS BREAK RECORDS! GRAYSCALE ETHEREUM STAKING ETF REWARDS &amp; VENEZUELA BITCOIN!](https://www.youtube.com/watch?v=6Z-K6e83qTE)**
+
+Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded their highest daily trading volume since launch.
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 332 • 💬 10 • ⏱️ 16:00 • 3h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mjcnVr41V_s)**
+
+BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 393 • 💬 232 • ⏱️ 22:27 • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 9 • ⏱️ 4:24 • 15h ago
+👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 16h ago
 
 ---
 
@@ -288,7 +288,27 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 514 • 👍 16 • 💬 41 • ⏱️ 4:53 • 12h ago
+👁️ 582 • 👍 17 • 💬 41 • ⏱️ 4:53 • 13h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Bitr1X6GkL4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 586 • 👍 52 • 💬 9 • ⏱️ 4:05 • 2h ago
+
+---
+
+**[🚨Bitcoin BREAKS $94,000! (Ethereum MEGA REVERSAL?)](https://www.youtube.com/watch?v=NJl_6alz37Y)**
+
+Bitcoin has just SMASHED through the $94000 mark, hitting its highest level since mid-December 2025! In today's video, we're ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 216 • 💬 33 • ⏱️ 53:22 • 11h ago
 
 ---
 
@@ -302,33 +322,13 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 ---
 
-**[🚨Bitcoin BREAKS $94,000! (Ethereum MEGA REVERSAL?)](https://www.youtube.com/watch?v=NJl_6alz37Y)**
-
-Bitcoin has just SMASHED through the $94000 mark, hitting its highest level since mid-December 2025! In today's video, we're ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 210 • 💬 33 • ⏱️ 53:22 • 10h ago
-
----
-
 **[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
 
 We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
 
 📺 CLOCKWISE CRYPTO 
 
-👁️ 14K • 👍 239 • 💬 293 • ⏱️ 2:37 • 2d ago
-
----
-
-**[BITCOIN: The Trap Is Now Set! (don’t buy) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=rH-6tM9nCR0)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 11K • 👍 569 • 💬 255 • ⏱️ 13:59 • 18h ago
+👁️ 14K • 👍 239 • 💬 286 • ⏱️ 2:37 • 2d ago
 
 ---
 
