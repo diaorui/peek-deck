@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T20:25:43.221365+00:00'
+updated: '2026-01-06T20:46:43.951173+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 20:25 UTC  
+**Last Updated:** January 06, 2026 at 20:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $388.19B
+**Market Cap:** $391.86B
 Rank #2
 
 **Circulating Supply:** 120,694,829 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.9%
+-34.4%
 
 **All-Time Low:** $0.43
-+743305.6%
++749797.8%
 
 ---
 
@@ -118,7 +118,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Just published a retrospective on smart contract hacks of 2025, even audited and
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -188,9 +188,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee’s Bitmine (BMNR) Increases Ethereum Holdings to $13.3 Billion](https://www.tipranks.com/news/tom-lees-bitmine-bmnr-increases-ethereum-holdings-to-13-3-billion)**
+**[BitMine Doubles Down on Ethereum Staking With Additional $260 Million Staked](https://finance.yahoo.com/news/bitmine-doubles-down-ethereum-staking-152755009.html)**
 
-TipRanks • 1h ago
+BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
+
+Yahoo Finance • 3d ago
 
 ---
 
@@ -208,19 +210,19 @@ CCN.com • 9h ago
 
 ---
 
+**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
+
+PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
+
+CoinDesk • 1d ago
+
+---
+
 **[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
 Fortune • 1d ago
-
----
-
-**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
-
-Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -234,7 +236,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 4K • 👍 2K • 💬 17 • ⏱️ 8:07 • 4h ago
+👁️ 8K • 👍 2K • 💬 45 • ⏱️ 8:07 • 4h ago
 
 ---
 
@@ -244,7 +246,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 84 • ⏱️ 9:50 • 6h ago
+👁️ 26K • 👍 2K • 💬 102 • ⏱️ 9:50 • 6h ago
 
 ---
 
@@ -254,7 +256,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 14K • 👍 233 • 💬 131 • ⏱️ 12:31 • 23h ago
+👁️ 15K • 👍 239 • 💬 91 • ⏱️ 12:31 • 1d ago
 
 ---
 
@@ -264,7 +266,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 128 • 💬 6 • ⏱️ 5:19 • 5h ago
+👁️ 2K • 👍 154 • 💬 7 • ⏱️ 5:19 • 5h ago
+
+---
+
+**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
+
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+
+📺 Library Of Wealth
+
+👁️ 11K • 👍 517 • 💬 282 • ⏱️ 13:40 • 15h ago
 
 ---
 
@@ -278,33 +290,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 9K • 👍 462 • 💬 282 • ⏱️ 13:40 • 15h ago
-
----
-
 **[BITCOIN &amp; ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mjcnVr41V_s)**
 
 BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
 📺 Crypto World
 
-👁️ 10K • 👍 443 • 💬 208 • ⏱️ 22:27 • 22h ago
-
----
-
-**[ETH &amp; SOL WAKE UP, Bitcoin Reclaims $92K, Crypto Turns Bullish &amp; More!](https://www.youtube.com/watch?v=6sKKOrNVsk8)**
-
-Ethereum and Solana are starting to show signs of life as markets perk up, with momentum shifting back toward major altcoins ...
-
-📺 Coin Bureau
-
-👁️ 23K • 👍 2K • 💬 64 • ⏱️ 46:18 • 1d ago
+👁️ 11K • 👍 447 • 💬 126 • ⏱️ 22:27 • 22h ago
 
 ---
 
@@ -314,17 +306,27 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 647 • 💬 53 • ⏱️ 16:00 • 16h ago
+👁️ 7K • 👍 657 • 💬 56 • ⏱️ 16:00 • 17h ago
 
 ---
 
-**[Why Ethereum’s Price Looks Broken, But the Bull Case Has Never Been Stronger](https://www.youtube.com/watch?v=jiBKJcEOFi8)**
+**[ETH &amp; SOL WAKE UP, Bitcoin Reclaims $92K, Crypto Turns Bullish &amp; More!](https://www.youtube.com/watch?v=6sKKOrNVsk8)**
 
-In this episode, we break down why today's weak price action may be hiding one of the most powerful long-term setups in all of ...
+Ethereum and Solana are starting to show signs of life as markets perk up, with momentum shifting back toward major altcoins ...
 
-📺 Milk Road
+📺 Coin Bureau
 
-👁️ 5K • 👍 153 • 💬 11 • ⏱️ 8:15 • 2d ago
+👁️ 24K • 👍 2K • 💬 64 • ⏱️ 46:18 • 1d ago
+
+---
+
+**[In The Short Term, How High Can Ethereum Go? Looking At The BMSB...](https://www.youtube.com/watch?v=-kzbhS02-gA)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+
+📺 Benjamin Cowen
+
+👁️ 2K • 👍 31 • 💬 3 • ⏱️ 0:48 • 47m ago
 
 ---
 

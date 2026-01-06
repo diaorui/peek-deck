@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T20:25:43.206831+00:00'
+updated: '2026-01-06T20:46:43.936670+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- social
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 20:25 UTC  
+**Last Updated:** January 06, 2026 at 20:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "The people cry for their freedom, thanks to the United States for freeing us."
 
-🔗 [Yahoo News](https://www.yahoo.com/news/articles/video-happy-crying-venezuelans-maduro-220200959.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAE17_B3cTxFUc585t6CQqLBQDIsM43kokgIAyMp2fr4ASdSuSqng6SGa2Uhi48jT2eNT_I_K3CbsB4A7HBYwF-Cro4tgBTrSjllWASclzziJeIo4U0FBniUDPI2SYdOfVXBmmtrr76_NtrMri6Fv5ZR-Kj8JXvnFQChzWltfkZI6) • 2h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/video-happy-crying-venezuelans-maduro-220200959.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAE17_B3cTxFUc585t6CQqLBQDIsM43kokgIAyMp2fr4ASdSuSqng6SGa2Uhi48jT2eNT_I_K3CbsB4A7HBYwF-Cro4tgBTrSjllWASclzziJeIo4U0FBniUDPI2SYdOfVXBmmtrr76_NtrMri6Fv5ZR-Kj8JXvnFQChzWltfkZI6) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +79,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 [SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
 
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 4h ago
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 5h ago
 
 ---
 
@@ -103,7 +103,7 @@ The publisher is teaming with a company that claims its proprietary AI can ‘pr
 
 I've made a website (https://www.alignmentarena.com/) which allows you to automatically test jailbreak prompts against open-source LLMs. It tests nine times for each submission (3x LLMs, 3x prompt types). There's also leaderboards for users and LLMs (ELO rating is used if the user is signed in). Currently OpenAI is leading the model leaderboard, and Mistral is at the bottom. Also, all LLMs are open-source with no acceptable use policies, so jailbreaking on this platform is legal and doesn't violate any terms of service, unlike almost every AI chat app. For safety, users never see the actual LLM responses, only a summary provided by a judge LLM. It's completely free with no adverts or paid usage tiers. I am doing this because I think it's cool. I'd also quite like to publish some safety-focused research on the prompts submitted. I would greatly appreciate if you'd try it out and let me know what you think. P.S. Mods gave approval to this post before I posted it
 
-30m ago
+51m ago
 
 ---
 
@@ -119,11 +119,9 @@ I am building an experimental AI tool that analyzes images to suggest real world
 
 ## Google News: "ai"
 
-**[Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
+**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
-
-The Guardian • 14h ago
+Politico • 5h ago
 
 ---
 
@@ -143,41 +141,9 @@ The Guardian • 3h ago
 
 ---
 
-**[Grok Called Out for Reports of Sexualized AI Images of Famous Figures Like Kate Middleton](https://people.com/grok-called-out-reports-sexualized-ai-images-kate-middleton-other-famous-figures-11880062)**
+**[Elon Musk's chatbot bikini image edits draw scrutiny from U.S. and global regulators](https://www.axios.com/2026/01/06/grok-ai-elon-musk-deepfake-bikini)**
 
-Kate Middleton is one of the targets of an investigation into X's AI assistant, Grok, creating nude or barely-clothed images of real people.
-
-People.com • 1h ago
-
----
-
-**[AI moves into the real world as companion robots and pets](https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet)**
-
-﻿Sometimes AI doesn’t need to be a know-it-all, it just wants to keep you company.
-
-The Verge • 1h ago
-
----
-
-**[Google’s Bringing AI Slop Directly to TVs](https://gizmodo.com/googles-bringing-ai-slop-directly-to-tvs-2000706245)**
-
-The slop is inescapable at CES 2026.
-
-Gizmodo • 55m ago
-
----
-
-**[AMD's Lisa Su says AI isn't replacing people, but is changing who gets hired](https://www.cnbc.com/2026/01/06/amd-lisa-su-ai-jobs-hiring.html)**
-
-AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
-
-CNBC • 3h ago
-
----
-
-**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqeqdb1_z5rQyLNnxbT2PMmjDCVMixh7Kf4YzLkKXaBOtOQjZVD9RKEh&gaa_ts=695d689d&gaa_sig=W5_r017LAbSDSMJdCLfIo7zWxzATnGbw9WbpEETwCE4nDzxnm6Hwv_gbF8wgJyGfAbhLbccdtmOp68I_jUQnoQ%3D%3D)**
-
-The Wall Street Journal • 10h ago
+Axios • 9h ago
 
 ---
 
@@ -191,7 +157,35 @@ The New York Times • 21h ago
 
 The chip giant is looking for ways to move the AI revolution beyond software and into physical products.
 
-BBC • 9h ago
+BBC • 10h ago
+
+---
+
+**[Universal Music signs a new AI deal with Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal)**
+
+Can Music Flamingo find me a song that feels how I do about AI in music?
+
+The Verge • 39m ago
+
+---
+
+**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
+
+Bloomberg.com • 52m ago
+
+---
+
+**[2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run](https://www.fool.com/investing/2026/01/06/2-top-ai-stocks-ready-bull-run/)**
+
+These tech companies offer solid return prospects over the next five years.
+
+The Motley Fool • 31m ago
+
+---
+
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqd1sczhh6Qwo__toHdcBbojjeelSS7ZZQ2PO3vQ__Tx5Kp4i8XOFx9o&gaa_ts=695d7818&gaa_sig=XHMyXh5FSwJ_nMnFPvmWnYKioMU0V5_T1vVNqkoOwt7iUjFWDk-GaCSrn22Fgadi7f2oE-lfEyanvH0h7HpbPw%3D%3D)**
+
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -241,7 +235,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 83 • 💬 133 • 2h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 83 • 💬 133 • 3h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -257,7 +251,7 @@ Surely it works this time
 
 Don't let AI erode your focus.
 
-⬆️ 58 • 💬 12 • 4h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+⬆️ 58 • 💬 12 • 5h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -279,23 +273,23 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 ## YouTube Videos: "ai"
 
-**[Making AI Videos is Hard, Until You Master These 3 Levels](https://www.youtube.com/watch?v=5pPRDSkssqA)**
-
-Learn How To Make AI Videos From Beginner to Expert Create Your Own AI Videos https://openart.ai/home/?ref=aivideo In this ...
-
-📺 Dan Kieft
-
-👁️ 5K • 💬 5 • ⏱️ 13:48 • 4h ago
-
----
-
 **[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
 
 Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
 
 📺 CBS News
 
-👁️ 2K • 👍 36 • 💬 20 • ⏱️ 3:21 • 5h ago
+👁️ 3K • 👍 47 • 💬 33 • ⏱️ 3:21 • 6h ago
+
+---
+
+**[Top 6 AI Trends That Will Define 2026 (backed by data)](https://www.youtube.com/watch?v=B23W1gRT9eY)**
+
+Most #AI predictions are speculation. This video covers six trends backed by data from McKinsey, Stanford, #OpenAI, and Epoch ...
+
+📺 Jeff Su
+
+👁️ 10K • 👍 717 • 💬 43 • ⏱️ 13:13 • 7h ago
 
 ---
 
@@ -305,27 +299,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 764K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
-
----
-
-**[The Rise of AI: NVIDIA Live at CES 2026 Opening Video](https://www.youtube.com/watch?v=d24W8AqeOHM)**
-
-The journey of NVIDIA and AI began with GeForce—a chip built for play that awakened a new era of computing and, in the ...
-
-📺 NVIDIA
-
-👁️ 8K • 👍 424 • ⏱️ 3:30 • 14h ago
-
----
-
-**[The Roadmap To Success With AI In 2026 (LIVE)](https://www.youtube.com/watch?v=YTrNmneEvPg)**
-
-WATCH TILL THE END! This is the last time I'm doing this.
-
-📺 Samuel Onuha
-
-👁️ 17K • 👍 1K • 2d ago
+👁️ 796K • 👍 12K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -335,7 +309,7 @@ The world's largest tech show is back and AI is powering nearly every major reve
 
 📺 Cheddar
 
-👁️ 11K • 👍 128 • 💬 10 • ⏱️ 3:36 • 1d ago
+👁️ 12K • 👍 133 • 💬 10 • ⏱️ 3:36 • 1d ago
 
 ---
 
@@ -345,25 +319,47 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 97K • 👍 2K • 💬 389 • ⏱️ 11:17 • 1d ago
+👁️ 102K • 👍 2K • 💬 396 • ⏱️ 11:17 • 1d ago
 
 ---
 
-**[Are AI/ML Certificates Worth It?](https://www.youtube.com/watch?v=F5vIkq8BCl4)**
+**[The Rise of AI: NVIDIA Live at CES 2026 Opening Video](https://www.youtube.com/watch?v=d24W8AqeOHM)**
 
-Check out Akiflow! You can get three free months of premium with my link :) https://akiflow.pro/MarinaWyssJan Timestamps ...
+The journey of NVIDIA and AI began with GeForce—a chip built for play that awakened a new era of computing and, in the ...
 
-📺 Marina Wyss - AI & Machine Learning
+📺 NVIDIA
 
-👁️ 1K • 👍 132 • 💬 7 • ⏱️ 9:42 • 5h ago
+👁️ 10K • 👍 447 • ⏱️ 3:30 • 15h ago
 
 ---
 
-**[I bought from 2 AI scams, and here’s what they sent. 😡](https://www.youtube.com/watch?v=sGPWyoocUQI)**
+**[He&#39;s Crying Over People Being Mean About AI](https://www.youtube.com/watch?v=s1Dzr5S06ek)**
 
-📺 Maggie McGaugh
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
 
-👁️ 357K • 👍 10K • 💬 121 • ⏱️ 0:59 • 1d ago
+📺 penguinz0
+
+👁️ 1.4M • 👍 74K • 💬 7K • ⏱️ 11:20 • 2d ago
+
+---
+
+**[Inside the next phase of AI boom: Here&#39;s what to know](https://www.youtube.com/watch?v=q3Ml2QOU54Q)**
+
+Hyperscalers and chip stocks have soared in the first phase of AI. CNBC's Robert Frank joins 'Squawk Box' to discuss where the ...
+
+📺 CNBC Television
+
+👁️ 2K • 👍 31 • 💬 3 • ⏱️ 4:01 • 6h ago
+
+---
+
+**[Manus AI Can Turn Search Into Cashflow --This is Why Meta Just Paid $2 Billion for It (Step-By-Step)](https://www.youtube.com/watch?v=ZgIH7nMZirg)**
+
+Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & $6789 in bonuses ...
+
+📺 Nick Ponte
+
+👁️ 8K • 👍 418 • 💬 100 • ⏱️ 1:24:09 • 1d ago
 
 ---
 
@@ -373,7 +369,7 @@ Analyst on AMD's New Tech, AI Demand DEK: Advanced Micro Devices CEO Lisa Su tou
 
 📺 Bloomberg Technology
 
-👁️ 2K • 👍 38 • 💬 5 • ⏱️ 5:10 • 12h ago
+👁️ 2K • 👍 40 • 💬 5 • ⏱️ 5:10 • 12h ago
 
 ---
 
@@ -389,7 +385,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 5,593 • ❤️ 603 • 5d ago
+⬇️ 5,593 • ❤️ 607 • 5d ago
 
 ---
 
@@ -401,7 +397,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 14,346 • ❤️ 485 • 6d ago
+⬇️ 14,346 • ❤️ 487 • 6d ago
 
 ---
 
@@ -413,7 +409,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 393 • 18h ago
+⬇️ 2,057 • ❤️ 394 • 18h ago
 
 ---
 
@@ -425,7 +421,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 5,200 • ❤️ 252 • 3d ago
+⬇️ 5,200 • ❤️ 253 • 3d ago
 
 ---
 
@@ -437,7 +433,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 497 • ❤️ 275 • 6d ago
+⬇️ 497 • ❤️ 277 • 6d ago
 
 ---
 
@@ -461,7 +457,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 33,515 • ❤️ 1,479 • 14d ago
+⬇️ 33,515 • ❤️ 1,480 • 14d ago
 
 ---
 
@@ -473,7 +469,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 3,613 • ❤️ 230 • 3d ago
+⬇️ 3,613 • ❤️ 231 • 3d ago
 
 ---
 
@@ -497,7 +493,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 1,867 • ❤️ 360 • 21h ago
+⬇️ 1,867 • ❤️ 361 • 21h ago
 
 ---
 
@@ -511,7 +507,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
 
-▲ 78 • 💬 2 • ⭐ 25,239 • 8mo ago
+▲ 78 • 💬 2 • ⭐ 25,331 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
@@ -575,9 +571,24 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 17 • 💬 2 • ⭐ 14,382 • 1mo ago
+▲ 17 • 💬 2 • ⭐ 14,432 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 127 • 💬 18 • ⭐ 49,189 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -595,21 +606,6 @@ InfiniteVGGT enables continuous 3D visual geometry understanding through a causa
 
 ---
 
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 127 • 💬 18 • ⭐ 49,120 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
 **[Recursive Language Models](https://huggingface.co/papers/2512.24601)**
 
 *Alex L. Zhang, Tim Kraska, Omar Khattab*
@@ -618,7 +614,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models (RLMs), a general inference strategy that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt. We find that RLMs successfully handle inputs up to two orders of magnitude beyond model context windows and, even for shorter prompts, dramatically outperform the quality of base LLMs and common long-context scaffolds across four diverse long-context tasks, while having comparable (or cheaper) cost per query.
 
-▲ 8 • 💬 1 • ⭐ 675 • 6d ago
+▲ 11 • 💬 1 • ⭐ 675 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.24601) • [💻 code](https://github.com/alexzhang13/rlm/tree/main) • [🔗 project](https://alexzhang13.github.io/blog/2025/rlm/)
 
@@ -658,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.9k • 🔱 704 • 4h ago
+⭐ 6.0k • 🔱 710 • 4h ago
 
 ---
 
@@ -678,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 122 • 3h ago
+⭐ 2.0k • 🔱 122 • 4h ago
 
 ---
 
@@ -688,7 +684,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 200 • 2d ago
+⭐ 1.8k • 🔱 199 • 2d ago
 
 ---
 
@@ -708,7 +704,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 136 • 11h ago
+⭐ 1.1k • 🔱 137 • 11h ago
 
 ---
 
@@ -718,7 +714,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 83 • 1d ago
+⭐ 1.1k • 🔱 85 • 1d ago
 
 ---
 
@@ -738,7 +734,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 968 • 🔱 114 • 3h ago
+⭐ 968 • 🔱 114 • 4h ago
 
 ---
 

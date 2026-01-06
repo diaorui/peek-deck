@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T20:25:43.215347+00:00'
+updated: '2026-01-06T20:46:43.945118+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 20:25 UTC  
+**Last Updated:** January 06, 2026 at 20:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1834.27B
+**Market Cap:** $1849.16B
 Rank #1
 
-**Circulating Supply:** 19,972,350 BTC
+**Circulating Supply:** 19,972,387 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.1%
+-26.5%
 
 **All-Time Low:** $67.81
-+135449.3%
++136484.6%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 **[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 51m ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 1h ago
 
 ---
 
@@ -121,7 +121,7 @@ Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, sign
 
 Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 1h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 2h ago
 
 ---
 
@@ -141,13 +141,35 @@ BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tues
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-23h ago
+1d ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
+
+Reuters • 3h ago
+
+---
+
+**[Crypto Latecomer Morgan Stanley Files for Bitcoin, Solana ETFs](https://www.bloomberg.com/news/articles/2026-01-06/crypto-latecomer-morgan-stanley-files-for-bitcoin-solana-etfs)**
+
+Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Bitcoin ETFs Just Had Their Best Day in Months as Crypto Market Rebounds](https://finance.yahoo.com/news/bitcoin-etfs-just-had-best-195127719.html)**
+
+Bitcoin ETFs hit $697 million in single-day inflows as Morgan Stanley enters the race with new BTC and Solana fund filings.
+
+Yahoo Finance • 55m ago
+
+---
 
 **[Bitcoin's Price is Climbing. Did the U.S. Capture of Venezuela's Maduro Help?](https://www.investopedia.com/bitcoin-price-is-climbing-did-the-u-s-capture-of-venezuela-s-maduro-help-11879169)**
 
@@ -161,7 +183,7 @@ Investopedia • 1d ago
 
 Bitcoin rose to an more than one-month high and broke through a closely watched technical level as digital assets start to catch up with gains in stocks and precious metals.
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -170,28 +192,6 @@ Bloomberg.com • 22h ago
 Ledn co-founder Mauricio Di Bartolomeo, born and raised in Venezuela, argues that the country’s government is simply too corrupt and incompetent to have accumulated a rumored $60 billion stash of bitcoin.
 
 CoinDesk • 3h ago
-
----
-
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
-
-Reuters • 3h ago
-
----
-
-**[Morgan Stanley Registers Bitcoin and Solana Funds With SEC](https://finance.yahoo.com/news/morgan-stanley-registers-bitcoin-solana-153635141.html)**
-
-Morgan Stanley files for Bitcoin and Solana ETFs as crypto investment products gain Wall Street traction with $119 billion in BTC assets under management.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Crypto Latecomer Morgan Stanley Files for Bitcoin, Solana ETFs](https://www.bloomberg.com/news/articles/2026-01-06/crypto-latecomer-morgan-stanley-files-for-bitcoin-solana-etfs)**
-
-Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
-
-Bloomberg.com • 7h ago
 
 ---
 
@@ -207,17 +207,19 @@ Reuters • 21h ago
 
 ---
 
-**[Bitcoin Giant Strategy's 'Premium' Nearly Vanished Last Year—Analysts Expect a Comeback](https://finance.yahoo.com/news/bitcoin-giant-strategys-premium-nearly-190400491.html)**
+**[MSTR Stock: Strategy's Premium Nearly Gone As Bitcoin Rally Falters](https://www.investors.com/news/mstr-stock-strategy-premium-vanishes-bitcoin-price/)**
 
-Strategy reported a $17.44 billion unrealized loss in the fourth quarter.
+MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
 
-Yahoo Finance • 1h ago
+Investor's Business Daily • 12m ago
 
 ---
 
-**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+**[Bitcoin Holds $92,000 As Analysts See Market Bottom](https://bitcoinmagazine.com/markets/bitcoin-holds-92000-analysts-say-bottom)**
 
-CCN.com • 9h ago
+Bitcoin hovered near $92,000 as analysts, including Bernstein, pointed to improving technical and macro signals suggesting the cryptocurrency has likely bottomed after a steep fourth-quarter sell-off and may be positioned for a rebound.
+
+Bitcoin Magazine • 3m ago
 
 ---
 
@@ -309,7 +311,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 12K • 👍 231 • 💬 111 • ⏱️ 8:25 • 7h ago
+👁️ 19K • 👍 274 • 💬 156 • ⏱️ 8:25 • 7h ago
 
 ---
 
@@ -319,7 +321,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 2K • 💬 188 • ⏱️ 9:17 • 18h ago
+👁️ 64K • 👍 3K • 💬 202 • ⏱️ 9:17 • 18h ago
 
 ---
 
@@ -329,37 +331,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 17K • 👍 566 • 💬 32 • ⏱️ 15:02 • 1d ago
-
----
-
-**[Bitcoin Just Did What No One Expected](https://www.youtube.com/watch?v=YgnPHU4ZjMs)**
-
-Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 16K • 👍 926 • 💬 77 • ⏱️ 16:32 • 9h ago
-
----
-
-**[Oh My… Bitcoin Is Moving FAST](https://www.youtube.com/watch?v=AdqSludkUrs)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 30K • 👍 2K • 💬 281 • ⏱️ 8:08 • 19h ago
-
----
-
-**[Bitcoin Hit $94,500. Here&#39;s What&#39;s Next](https://www.youtube.com/watch?v=khLwxx24_MA)**
-
-Stay informed with the latest insights on **bitcoin**, focusing on effective **crypto trading** and essential **technical analysis**.
-
-📺 Krown
-
-👁️ 1K • 👍 211 • 💬 26 • ⏱️ 16:08 • 2h ago
+👁️ 18K • 👍 569 • 💬 26 • ⏱️ 15:02 • 1d ago
 
 ---
 
@@ -369,27 +341,17 @@ Stay informed with the latest insights on **bitcoin**, focusing on effective **c
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 1K • 💬 34 • ⏱️ 31:55 • 5h ago
+👁️ 12K • 👍 1K • 💬 40 • ⏱️ 31:55 • 5h ago
 
 ---
 
-**[Why Is Bitcoin Not Going Up?](https://www.youtube.com/watch?v=xUtriGI4bf0)**
+**[Bitcoin Just Did What No One Expected](https://www.youtube.com/watch?v=YgnPHU4ZjMs)**
 
-Let's be honest: Bitcoin let investors down in 2025. But why? Answering that question is necessary to predict how BTC will perform ...
+Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 From The Desk Of Anthony Pompliano
+📺 Lark Davis
 
-👁️ 9K • 👍 411 • 💬 66 • ⏱️ 6:21 • 23h ago
-
----
-
-**[THESE BITCOIN WHALES JUST CHANGED THEIR MINDS... PREPARE NOW..](https://www.youtube.com/watch?v=kh_iIEtSYGs)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 16K • 👍 795 • 💬 50 • ⏱️ 13:49 • 11h ago
+👁️ 19K • 👍 998 • 💬 83 • ⏱️ 16:32 • 9h ago
 
 ---
 
@@ -399,7 +361,47 @@ Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the b
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 467 • 💬 84 • ⏱️ 57:31 • 3h ago
+👁️ 10K • 👍 522 • 💬 148 • ⏱️ 57:31 • 3h ago
+
+---
+
+**[Bitcoin &amp; Crypto Flips Green In 2026…Why the Bulls are Back](https://www.youtube.com/watch?v=mhBzAYLIlfM)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 17K • 👍 1K • 💬 177 • ⏱️ 37:49 • 5h ago
+
+---
+
+**[Oh My… Bitcoin Is Moving FAST](https://www.youtube.com/watch?v=AdqSludkUrs)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 30K • 👍 2K • 💬 305 • ⏱️ 8:08 • 19h ago
+
+---
+
+**[WOAH THIS is LARGE!!! sit down before watching this bitcoin video....](https://www.youtube.com/watch?v=IdVzHx2wKg4)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 18K • 👍 981 • 💬 181 • ⏱️ 10:52 • 1d ago
+
+---
+
+**[I expect bitcoin will breakout to new high since fall 2025: Miller Value Partners&#39; Bill Miller](https://www.youtube.com/watch?v=rLaRxw5aQRY)**
+
+CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence of Venezuela, the outlook for bitcoin and more ...
+
+📺 CNBC Television
+
+👁️ 21K • 👍 226 • 💬 57 • ⏱️ 3:12 • 23h ago
 
 ---
 

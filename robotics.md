@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T20:25:43.224577+00:00'
+updated: '2026-01-06T20:46:43.954455+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 20:25 UTC  
+**Last Updated:** January 06, 2026 at 20:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 6h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 7h ago
 
 ---
 
@@ -90,7 +90,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
 
-19m ago
+40m ago
 
 ---
 
@@ -147,6 +147,12 @@ hyundai.com • 23h ago
 
 ---
 
+**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
+
+Bloomberg.com • 52m ago
+
+---
+
 **[AI moves into the real world as companion robots and pets](https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet)**
 
 ﻿Sometimes AI doesn’t need to be a know-it-all, it just wants to keep you company.
@@ -155,9 +161,9 @@ The Verge • 1h ago
 
 ---
 
-**[Stereotaxis stock soars after FDA approval of robotic ablation catheter](https://www.investing.com/news/stock-market-news/stereotaxis-stock-soars-after-fda-approval-of-robotic-ablation-catheter-93CH-4433165)**
+**[Watch Qualcomm CEO Sees 'Massive' AI Opportunity in Robotics](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-massive-ai-opportunity-in-robotics-video)**
 
-Investing.com • 3h ago
+Bloomberg.com • 24m ago
 
 ---
 
@@ -169,12 +175,6 @@ CNET • 1d ago
 
 ---
 
-**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
-
-Reuters • 8h ago
-
----
-
 **[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
 
 Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
@@ -183,9 +183,9 @@ Yahoo Finance • 5h ago
 
 ---
 
-**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Bloomberg.com • 1d ago
+Reuters • 8h ago
 
 ---
 
@@ -199,17 +199,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 764K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
-
----
-
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
-
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
-
-📺 Technology Now
-
-👁️ 14K • 👍 200 • 💬 8 • ⏱️ 7:38 • 2d ago
+👁️ 796K • 👍 12K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -219,27 +209,17 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 268K • 👍 4K • 💬 659 • ⏱️ 5:49 • 1d ago
+👁️ 283K • 👍 4K • 💬 714 • ⏱️ 5:49 • 1d ago
 
 ---
 
-**[Nvidia CEO Jensen Huang: We&#39;ve been thinking about robotics for a long time](https://www.youtube.com/watch?v=mP-TyDeVoUU)**
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
 
-Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discuss the company's latest AI chips, open ...
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
 
-📺 CNBC Television
+📺 Technology Now
 
-👁️ 22K • 👍 359 • 💬 96 • ⏱️ 7:41 • 6h ago
-
----
-
-**[The Beginning of Your Tomorrow I Boston Dynamics](https://www.youtube.com/watch?v=sd8ivhpjI6g)**
-
-We're excited to announce the product version of our Atlas® robot. This enterprise-grade humanoid robot offers impressive ...
-
-📺 Boston Dynamics
-
-👁️ 163K • 👍 10K • 💬 1K • ⏱️ 2:05 • 22h ago
+👁️ 15K • 👍 213 • 💬 8 • ⏱️ 7:38 • 2d ago
 
 ---
 
@@ -249,7 +229,37 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 159K • 👍 5K • 💬 813 • ⏱️ 7:00 • 21h ago
+👁️ 173K • 👍 5K • 💬 862 • ⏱️ 7:00 • 21h ago
+
+---
+
+**[Nvidia CEO Jensen Huang: We&#39;ve been thinking about robotics for a long time](https://www.youtube.com/watch?v=mP-TyDeVoUU)**
+
+Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discuss the company's latest AI chips, open ...
+
+📺 CNBC Television
+
+👁️ 36K • 👍 439 • 💬 109 • ⏱️ 7:41 • 7h ago
+
+---
+
+**[The Beginning of Your Tomorrow I Boston Dynamics](https://www.youtube.com/watch?v=sd8ivhpjI6g)**
+
+We're excited to announce the product version of our Atlas® robot. This enterprise-grade humanoid robot offers impressive ...
+
+📺 Boston Dynamics
+
+👁️ 182K • 👍 10K • 💬 1K • ⏱️ 2:05 • 23h ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 104K • 👍 2K • 💬 277 • ⏱️ 11:42 • 5d ago
 
 ---
 
@@ -263,13 +273,13 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+**[SwitchBot CES 2026 - Smart home 2.0 powered by AI robots.](https://www.youtube.com/watch?v=btJxyrtR9M8)**
 
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+Welcome to SwitchBot at CES 2026 Discover Smart Home 2.0, powered by AI robots, where intelligent automation goes ...
 
-📺 AI Revolution
+📺 SwitchBot
 
-👁️ 103K • 👍 2K • 💬 277 • ⏱️ 11:42 • 5d ago
+👁️ 829 • 👍 43 • 💬 9 • ⏱️ 3:29 • 5h ago
 
 ---
 
@@ -279,17 +289,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 17K • 👍 370 • 💬 34 • ⏱️ 1:33:26 • 21h ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 194K • 👍 3K • 💬 768 • ⏱️ 0:32 • 2d ago
+👁️ 22K • 👍 420 • 💬 34 • ⏱️ 1:33:26 • 21h ago
 
 ---
 
