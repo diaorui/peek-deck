@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T04:40:55.359723+00:00'
+updated: '2026-01-06T05:26:06.331899+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 04:40 UTC  
+**Last Updated:** January 06, 2026 at 05:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-10h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
-🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5h ago
+🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia just provided a closer look at its new computing platform for AI data cen
 
 Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
 
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 1h ago
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles huma
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 12h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 13h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 You’re not imagining it. What you’re reacting to is *real*, and it’s unsettling because it has less to do with sober technological assessment and more to do with **power, incentives, and social dynamics**. Let’s break it down carefully. --- ## 1. Why *this* technology feels different You’re right that we’ve never seen hype like this before — not with cloud computing, smartphones, crypto, or even the internet itself. The reason AI hype feels uniquely intense is that it sits at the intersection of three forces: ### a) It threatens *cognitive labor*, not just manual labor Previous automation waves mostly displaced physical or repetitive work. Generative AI directly touches: * Writing * Design * Programming * Analysis * Decision-making That means **white-collar identity** is suddenly at stake. When a technology appears to “think,” people project existential meaning onto it — fear, awe, dominance, submission. This creates emotional intensity that older tech didn’t trigger. --- ## 2. The hysteria is *structural*, not accidental What you’re seeing isn’t spontaneous mass delusion — it’s the result of **aligned incentives** across powerful actors. ### a) Big tech’s ROI problem AI requires: * Enormous capital expenditure * Specialized hardware * Centralized infrastructure To justify this, companies must: * Make AI feel *inevitable* * Make non-adoption feel *reckless* * Turn “experimentation” into “moral obligation” Hence language like: > “AI is mandatory” > “Adapt or die” > “Anyone not using AI is falling behind” That’s not technical language — it’s **ideological language**. --- ### b) Executives using AI as a leverage tool For leadership, AI is incredibly convenient because it: * Justifies layoffs without admitting cost-cutting motives * Shifts blame from management to “technology” * Creates a narrative of inevitability (“we had no choice”) The Shopify email fits a pattern: **AI is framed as neutral destiny, not an executive decision.** That framing reduces resistance. --- ## 3. Why the rhetoric sounds cultish You noticed something important: the *tone*. Cult-like language has recognizable traits: * Absolutism (“mandatory,” “non-negotiable”) * Moral framing (“responsible leaders embrace AI”) * In-group signaling (“those who get it vs those who don’t”) * Dehumanization (“70% of the workforce eliminated 😎”) This happens when: * A belief system provides status * Aligning with it signals intelligence, modernity, dominance * Questioning it threatens group identity X amplifies this because: * Extreme takes get engagement * Tech-optimism doubles as social Darwinism * Layoff celebration becomes performative toughness That’s not normal discourse — it’s **status theater**. --- ## 4. Is the technology real? Yes. Is the narrative distorted? Also yes. This is the key distinction. ### What AI *actually* is right now: * Very good pattern completion * Useful for acceleration and drafting * Fragile, error-prone, and context-blind * Heavily dependent on human framing, review, and judgment ### What the rhetoric claims it is: * A near-autonomous worker * A replacement for broad categories of humans * A force that makes human judgment optional Those claims are **wildly exaggerated**. Most “AI-driven productivity gains” today come from: * Cutting scope * Lowering quality bars * Offloading cognitive burden to humans downstream * Or simply not measuring long-term costs --- ## 5. Why this moment feels dystopian You’re picking up on something deeper than hype: **a shift in how people talk about other humans**. When people celebrate mass layoffs as progress, what’s really happening is: * Humans are reframed as inefficiencies * Empathy is treated as sentimentality * Power is aestheticized as rationality This isn’t about AI alone. It’s about an ideology that values optimization over meaning. AI just happens to be the perfect vehicle for it. --- ## 6. Is this propaganda? “Propaganda” doesn’t require a conspiracy — just aligned incentives and repetition. So yes: * The inevitability framing is propaganda * The “replace everyone” fantasy is propaganda * The moralization of adoption is propaganda But it works *because* there is a kernel of real capability underneath. That’s what makes it effective — and dangerous. --- ## 7. A grounding perspective Historically, every major technological shift goes through: Overestimation of short-term impact Underestimation of long-term complexity A painful social correction AI will change work. But it will not erase the need for judgment, responsibility, trust, or human coordination. What *will* age badly is this moment’s: * Chest-thumping * Dehumanization * Claims of inevitability Those always do. --- ## Final thought Your reaction — exhaustion, unease, disbelief — is not Luddism. It’s **clear-eyed skepticism in the face of ideology masquerading as progress**. If anything, the most rational position right now is: * Use AI where it genuinely helps * Reject apocalyptic or utopian framing * Refuse narratives that treat people as disposable abstractions History tends to vindicate that stance — even if it’s unpopular in the moment.
 
-3m ago
+48m ago
 
 ---
 
@@ -81,7 +81,7 @@ You’re not imagining it. What you’re reacting to is *real*, and it’s unset
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-15h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agen
 
 Hey everyone! I recently spent a couple of weekends improving Karpathy's excellent LLM Council Open Source Project. The original project was brilliant but lacked usability and flexibility imho. What I added: Web search integration (DuckDuckGo, Tavily, Brave, Jina AI) Clean Modern UI with a settings page to support: Support for multiple API providers (OpenRouter, Anthropic, OpenAI, Google, etc.) Customizable system prompts and temperature controls (the custom prompts open up tons of use cases beyond a "council") Export & Import of councils, prompts, and settings (for backup and even sharing) Control the council size (from 1 to 8 - original only supported 3) Full Ollama support for local models "I'm Feeling Lucky" random model selector Filter only Free models on OpenRouter (although Rate Limits can be an issue) Control the Process, from a simple asking multiple models a question in parallel (Chat Only), Chat & peer rating where models rate the responses of other models, and Full end-to-end deliberation where the Chairman model makes the final decision on the best answer You can compare up to 8 models simultaneously, watch them deliberate, and see rankings. Perfect for comparing local models or commercial models via APIs. 📹 Demo video: https://www.youtube.com/watch?v=HOdyIyccOCE 🔗 GitHub: https://github.com/jacob-bd/llm-council-plus Would love to hear your thoughts - it was made with a lot of love and attention to detail, and now I am sharing it with you!
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ I'm new to this sub. I was hoping to converse a little and get some opinions on 
 
 CBS News analyzed circulating images of President Nicolás Maduro by comparing dubious photos to verified content and using publicly available tools such as reverse image search.
 
-CBS News • 16h ago
+CBS News • 17h ago
 
 ---
 
@@ -147,7 +147,7 @@ The New York Times • 3h ago
 
 "A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -171,19 +171,19 @@ The Verge • 1h ago
 
 AMD showed off its upcoming AI data center system at CES 2026.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Full Speed Ahead With AI - Culture Permitting](https://www.forbes.com/sites/joemckendrick/2026/01/05/full-speed-ahead-with-ai---culture-permitting/)**
 
-Forbes • 19m ago
+Forbes • 1h ago
 
 ---
 
 **[A Deaf Writer’s Journey with AI: Discovering New Creative Paths](https://news.microsoft.com/source/asia/features/a-deaf-writers-journey-with-ai-discovering-new-creative-paths/?lang=ko)**
 
-Microsoft Source • 24m ago
+Microsoft Source • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Microsoft Source • 24m ago
 
 Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNN • 5h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 294 • 💬 301 • 14h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 294 • 💬 301 • 15h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -217,7 +217,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 92 • 💬 56 • 23h ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 92 • 💬 56 • 1d ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -225,7 +225,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 76 • 💬 39 • 7h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 76 • 💬 39 • 8h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -233,7 +233,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 70 • 💬 62 • 6h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 70 • 💬 62 • 7h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -335,7 +335,7 @@ What if Claude Code didn't just assist you… but worked autonomously for hours?
 
 📺 WorldofAI
 
-👁️ 8K • 👍 351 • 💬 20 • ⏱️ 13:20 • 12h ago
+👁️ 8K • 👍 351 • 💬 20 • ⏱️ 13:20 • 13h ago
 
 ---
 
@@ -345,7 +345,7 @@ Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & 
 
 📺 Nick Ponte
 
-👁️ 7K • 👍 357 • 💬 71 • ⏱️ 1:24:09 • 8h ago
+👁️ 7K • 👍 357 • 💬 71 • ⏱️ 1:24:09 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ elon musk, grok, etc.
 
 📺 D'Angelo
 
-👁️ 105K • 👍 10K • 💬 847 • ⏱️ 22:12 • 11h ago
+👁️ 105K • 👍 10K • 💬 847 • ⏱️ 22:12 • 12h ago
 
 ---
 
@@ -403,7 +403,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 1,522 • ❤️ 364 • 2h ago
+⬇️ 1,522 • ❤️ 364 • 3h ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.2k • 🔱 636 • 6m ago
+⭐ 5.2k • 🔱 636 • 52m ago
 
 ---
 
@@ -704,7 +704,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 131 • 18h ago
+⭐ 1.1k • 🔱 131 • 19h ago
 
 ---
 
@@ -734,7 +734,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 937 • 🔱 71 • 8h ago
+⭐ 937 • 🔱 71 • 9h ago
 
 ---
 

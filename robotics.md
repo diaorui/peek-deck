@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T04:40:55.378646+00:00'
+updated: '2026-01-06T05:26:06.350107+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 04:40 UTC  
+**Last Updated:** January 06, 2026 at 05:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 6h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 7h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -56,7 +56,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
-5h ago
+6h ago
 
 ---
 
@@ -64,7 +64,7 @@ I'm 17 years old and I really enjoy robotics and related things. However, since 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 4h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 5h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
 
-🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 2h ago
+🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 3h ago
 
 ---
 
@@ -102,7 +102,7 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Anyone else noticed the productized Atlas is rendered with 4 fingers? BD released a video 2 months ago on why 3 fingers is enough, which seems reasonable to me back then. Why do you think they changed it?
 
-🔗 [youtu.be](https://youtu.be/rrUHZKlrxms) • 4h ago
+🔗 [youtu.be](https://youtu.be/rrUHZKlrxms) • 5h ago
 
 ---
 
@@ -112,13 +112,13 @@ Anyone else noticed the productized Atlas is rendered with 4 fingers? BD release
 
 **[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Korea Times • 1d ago
 
 NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
 
-Engadget • 5h ago
+Engadget • 6h ago
 
 ---
 
@@ -142,7 +142,7 @@ Engadget • 5h ago
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 6h ago
+NVIDIA Newsroom • 7h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Robot Report • 2d ago
 
 Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 11h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 5h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -226,7 +226,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 38K • 👍 2K • 💬 373 • ⏱️ 7:00 • 5h ago
+👁️ 38K • 👍 2K • 💬 373 • ⏱️ 7:00 • 6h ago
 
 ---
 

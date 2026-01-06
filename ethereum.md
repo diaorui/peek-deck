@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T04:40:55.375384+00:00'
+updated: '2026-01-06T05:26:06.346780+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 04:40 UTC  
+**Last Updated:** January 06, 2026 at 05:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -94,7 +94,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 18h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 19h ago
 
 ---
 
@@ -170,13 +170,13 @@ Fortune • 16h ago
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 11h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -200,7 +200,7 @@ GlobeNewswire • 15h ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 15h ago
+dlnews.com • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ Yahoo Finance • 2d ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -224,7 +224,7 @@ Decrypt • 12h ago
 
 Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 770 • 👍 133 • 💬 4 • ⏱️ 16:00 • 54m ago
+👁️ 770 • 👍 133 • 💬 4 • ⏱️ 16:00 • 1h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 6K • 👍 364 • 💬 233 • ⏱️ 22:27 • 6h ago
+👁️ 6K • 👍 364 • 💬 233 • ⏱️ 22:27 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 20K • 👍 2K • 💬 53 • ⏱️ 46:18 • 10h ago
+👁️ 20K • 👍 2K • 💬 53 • ⏱️ 46:18 • 11h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 9 • ⏱️ 4:24 • 13h ago
+👁️ 2K • 👍 139 • 💬 9 • ⏱️ 4:24 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 514 • 👍 16 • 💬 41 • ⏱️ 4:53 • 10h ago
+👁️ 514 • 👍 16 • 💬 41 • ⏱️ 4:53 • 11h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 210 • 💬 33 • ⏱️ 53:22 • 8h ago
+👁️ 4K • 👍 210 • 💬 33 • ⏱️ 53:22 • 9h ago
 
 ---
 
@@ -328,7 +328,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 11K • 👍 569 • 💬 255 • ⏱️ 13:59 • 16h ago
+👁️ 11K • 👍 569 • 💬 255 • ⏱️ 13:59 • 17h ago
 
 ---
 
