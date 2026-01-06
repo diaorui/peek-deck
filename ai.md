@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T15:47:28.950562+00:00'
+updated: '2026-01-06T16:31:21.009537+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 15:47 UTC  
+**Last Updated:** January 06, 2026 at 16:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-3h ago
+4h ago
 
 ---
 
@@ -49,13 +49,37 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-21h ago
+22h ago
+
+---
+
+**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
+
+All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
+
+1h ago
 
 ---
 
 **[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 1h ago
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 2h ago
+
+---
+
+**[The Fog of AI: What the Technology Means for Deterrence and War](https://www.reddit.com/r/artificial/comments/1q5llqq/the_fog_of_ai_what_the_technology_means_for/)**
+
+[SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
+
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 1h ago
+
+---
+
+**[Is there an AI tool which can "listen" to and evaluate music?](https://www.reddit.com/r/artificial/comments/1q5l4tq/is_there_an_ai_tool_which_can_listen_to_and/)**
+
+The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
+
+1h ago
 
 ---
 
@@ -63,15 +87,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
 
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 12h ago
-
----
-
-**[Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin](https://www.reddit.com/r/artificial/comments/1q511qj/nvidia_just_provided_a_closer_look_at_its_new/)**
-
-Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
-
-🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 16h ago
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 13h ago
 
 ---
 
@@ -79,37 +95,23 @@ Nvidia just provided a closer look at its new computing platform for AI data cen
 
 I am building an experimental AI tool that analyzes images to suggest real world location by detecting architectural and design elements and explaining why those cues point to a specific place. I tested it on a public image with a known location and recorded a short video showing the reasoning process. The output was close but imperfect, which is expected at this stage. I am mainly interested in whether explanation driven reasoning makes these systems more useful and interpretable.
 
-4h ago
-
----
-
-**[One-Minute Daily AI News 1/5/2026](https://www.reddit.com/r/artificial/comments/1q5995k/oneminute_daily_ai_news_152026/)**
-
-AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development.[2] Alexa.com rolls out to all Alexa+ Early Access customers, bringing the power of Alexa+ to your browser.[3] MIT scientists investigate memorization risk in the age of clinical AI.[4] Sources: [1] https://finance.yahoo.com/news/amd-reveals-new-ai-pc-chips-details-next-gen-data-center-chips-at-ces-2026-041117636.html [2] https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development [3] https://www.aboutamazon.com/news/devices/alexa-plus-web-ai-assistant [4] https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
-
-10h ago
-
----
-
-**[I built Ctrl: Execution control plane for high stakes agentic systems](https://www.reddit.com/r/artificial/comments/1q5f6kf/i_built_ctrl_execution_control_plane_for_high/)**
-
-I built Ctrl, an open-source execution control plane that sits between an agent and its tools. Instead of letting tool calls execute directly, Ctrl intercepts them, dynamically scores risk, applies policy (allow / deny / approve), and only then executes; recording every intent, decision, and event in a local SQLite ledger. GH: https://github.com/MehulG/agent-ctrl It’s currently focused on LangChain + MCP as a drop-in wrapper. The demo shows a content publish action being intercepted, paused for approval, and replayed safely after approval. I’d love feedback from anyone running agents that take real actions.
-
 5h ago
 
 ---
 
-**[Emad Mostaque says if your job can be done on a screen, in 2 years, AI will do it for pennies](https://www.reddit.com/r/artificial/comments/1q5l99s/emad_mostaque_says_if_your_job_can_be_done_on_a/)**
+**[Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin](https://www.reddit.com/r/artificial/comments/1q511qj/nvidia_just_provided_a_closer_look_at_its_new/)**
 
-32m ago
+Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
+
+🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 17h ago
 
 ---
 
-**[We're so blinded by the AI Hype That We're Failing to See What Could Actually Be on the Horizon](https://www.reddit.com/r/artificial/comments/1q4pbsd/were_so_blinded_by_the_ai_hype_that_were_failing/)**
+**[HarperCollins Will Use AI to Translate Harlequin Romance Novels](https://www.reddit.com/r/artificial/comments/1q5mtqk/harpercollins_will_use_ai_to_translate_harlequin/)**
 
-AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
+The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 23h ago
+🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 18m ago
 
 ---
 
@@ -121,7 +123,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -129,13 +131,13 @@ The Guardian • 9h ago
 
 Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[AI Evaluation Startup LMArena Valued at $1.7 Billion in New Funding Round](https://www.theinformation.com/articles/ai-evaluation-startup-lmarena-valued-1-7-billion-new-funding-round)**
 
-The Information • 48m ago
+The Information • 1h ago
 
 ---
 
@@ -143,13 +145,13 @@ The Information • 48m ago
 
 A demo given to officials in Washington D.C. appears to show leading AI tools giving detailed bioweapon instructions
 
-Time Magazine • 40m ago
+Time Magazine • 1h ago
 
 ---
 
 **[How AI Could Help Decide Your Next Legal Dispute](https://www.wsj.com/tech/ai/how-ai-could-help-decide-your-next-legal-dispute-9cb12517?gaa_at=eafs&gaa_n=AWEtsqe9rzZ19YMVuSK9ZWEF9JaEyE0MdlqaxM7dvYvYI-mX_j0GQQCiklJW&gaa_ts=695d31f4&gaa_sig=EvK8ixJRlLBmJJ-qM8_fHjjvpVyGYSJfsk4k77aZCiE15qdrAKt0JTT2AU-Y_24qtr-KsOZ8B1zRi2vL95kRoA%3D%3D)**
 
-The Wall Street Journal • 47m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -165,7 +167,7 @@ Fortune • 1d ago
 
 Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -173,7 +175,7 @@ NBC News • 2h ago
 
 Chatbot still being used to digitally undress women and children, while US takes TikTok approach to drones
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -181,13 +183,13 @@ The Guardian • 1h ago
 
 Grok is being used to digitally remove women's clothing - something victims describe as "dehumanising".
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
 **[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
 
-The Economist • 23h ago
+The Economist • 1d ago
 
 ---
 
@@ -199,7 +201,7 @@ The Economist • 23h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 305 • 💬 312 • 1d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 307 • 💬 317 • 1d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -215,7 +217,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 186 • 💬 290 • 17h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 198 • 💬 306 • 18h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -229,7 +231,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 91 • 💬 47 • 18h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 92 • 💬 47 • 19h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -257,7 +259,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 **[Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324)**
 
-⬆️ 38 • 💬 6 • 12h ago
+⬆️ 39 • 💬 6 • 13h ago
 
 ---
 
@@ -265,7 +267,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 AI slop comes for Reddit.
 
-⬆️ 35 • 💬 42 • 20h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
+⬆️ 36 • 💬 42 • 21h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -279,7 +281,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 708K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
+👁️ 739K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -289,17 +291,7 @@ The world's largest tech show is back and AI is powering nearly every major reve
 
 📺 Cheddar
 
-👁️ 10K • 👍 119 • 💬 10 • ⏱️ 3:36 • 23h ago
-
----
-
-**[Stop Paying for AI: 4 Free Chinese Tools (Unlimited + No Watermarks)](https://www.youtube.com/watch?v=jLFfi33X16k)**
-
-Outskill (Sponsored) — Join here: https://link.outskill.com/MALVAAIJAN2 FREE PDF (all tool links + my exact prompts): ...
-
-📺 Malva AI
-
-👁️ 8K • 👍 680 • 💬 216 • ⏱️ 9:50 • 1d ago
+👁️ 10K • 👍 124 • 💬 10 • ⏱️ 3:36 • 1d ago
 
 ---
 
@@ -309,35 +301,17 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 90K • 👍 2K • 💬 377 • ⏱️ 11:17 • 1d ago
+👁️ 93K • 👍 2K • 💬 387 • ⏱️ 11:17 • 1d ago
 
 ---
 
-**[He&#39;s Crying Over People Being Mean About AI](https://www.youtube.com/watch?v=s1Dzr5S06ek)**
+**[Inside the next phase of AI boom: Here&#39;s what to know](https://www.youtube.com/watch?v=q3Ml2QOU54Q)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+Hyperscalers and chip stocks have soared in the first phase of AI. CNBC's Robert Frank joins 'Squawk Box' to discuss where the ...
 
-📺 penguinz0
+📺 CNBC Television
 
-👁️ 1.4M • 👍 72K • 💬 7K • ⏱️ 11:20 • 2d ago
-
----
-
-**[Elon Musk: “We Hit AI Singularity” – Is He Bluffing?](https://www.youtube.com/watch?v=2hBj1UIJfqE)**
-
-Support me by subscribing to the Thomas AI channel https://www.youtube.com/@thomas-ai-en?sub_confirmation=1 and ...
-
-📺 Thomas AI 🇺🇸
-
-👁️ 3K • 👍 28 • 💬 39 • ⏱️ 15:04 • 1d ago
-
----
-
-**[I bought from 2 AI scams, and here’s what they sent. 😡](https://www.youtube.com/watch?v=sGPWyoocUQI)**
-
-📺 Maggie McGaugh
-
-👁️ 314K • 👍 9K • 💬 114 • ⏱️ 0:59 • 22h ago
+👁️ 852 • 👍 16 • 💬 2 • ⏱️ 4:01 • 2h ago
 
 ---
 
@@ -347,25 +321,53 @@ The journey of NVIDIA and AI began with GeForce—a chip built for play that awa
 
 📺 NVIDIA
 
-👁️ 5K • 👍 314 • ⏱️ 3:30 • 10h ago
+👁️ 7K • 👍 382 • ⏱️ 3:30 • 11h ago
 
 ---
 
-**[AI TEAM 2026 !!! HARI PERTAMA &amp; AZAM YANG BARU...](https://www.youtube.com/watch?v=OJvmzMFuVtU)**
+**[The TRILLION Dollar AI Debt Bubble Is Bursting](https://www.youtube.com/watch?v=rCwTQ9bqKOM)**
 
-📺 Alieff Irfan
+The number of legendary investors calling this an AI bubble continues to climb, with Howard Marks, co-founder of Wall Street giant ...
 
-👁️ 194K • 👍 21K • 💬 1K • ⏱️ 45:33 • 3h ago
+📺 Eurodollar University
+
+👁️ 60K • 👍 3K • 💬 305 • ⏱️ 20:05 • 1d ago
 
 ---
 
-**[A large egg rolls through the snow and Gorilla cave 😭 #ai #egg #save #gorilla](https://www.youtube.com/watch?v=2JmaEQMjSOk)**
+**[I bought from 2 AI scams, and here’s what they sent. 😡](https://www.youtube.com/watch?v=sGPWyoocUQI)**
 
-A large egg rolls through the snow and Gorilla cave #ai #egg #save #gorilla.
+📺 Maggie McGaugh
 
-📺 MoonTejas Animation
+👁️ 336K • 👍 10K • 💬 118 • ⏱️ 0:59 • 22h ago
 
-👁️ 9K • 💬 1 • ⏱️ 0:47 • 13h ago
+---
+
+**[NVIDIA Reveals Autonomous Driving and Real World AI at CES 2026](https://www.youtube.com/watch?v=pXOmuOZF8R4)**
+
+NVIDIA just revealed its boldest vision yet at CES 2026, and it goes far beyond faster chips. The Rubin platform, open AI models, ...
+
+📺 DPCcars
+
+👁️ 1K • 👍 32 • 💬 13 • ⏱️ 19:01 • 14h ago
+
+---
+
+**[Stranger Things Season 5 Volume 2 but it&#39;s ruined by AI (Part 8)](https://www.youtube.com/watch?v=fvbSHi-ekxg)**
+
+stranger things season 5 stranger things season 5 volume 3 trailer stranger things volume 3 trailer stranger things season 5 trailer ...
+
+📺 Gosakumim 
+
+👁️ 34K • 👍 502 • 💬 37 • ⏱️ 0:56 • 1d ago
+
+---
+
+**[Which one is AI? Level: Impossible 🔍 Cre: @SofiManassyan #shorts](https://www.youtube.com/watch?v=DV3fi0tS2U4)**
+
+📺 Julee Cook
+
+👁️ 793K • 👍 19K • 💬 2K • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -381,7 +383,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 5,593 • ❤️ 589 • 5d ago
+⬇️ 5,593 • ❤️ 600 • 5d ago
 
 ---
 
@@ -393,7 +395,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 14,346 • ❤️ 474 • 6d ago
+⬇️ 14,346 • ❤️ 481 • 6d ago
 
 ---
 
@@ -405,7 +407,31 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 389 • 13h ago
+⬇️ 2,057 • ❤️ 392 • 14h ago
+
+---
+
+**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
+
+*IQuest*
+
+IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
+
+`text-generation` `39.8B`
+
+⬇️ 5,200 • ❤️ 252 • 3d ago
+
+---
+
+**[HY-Motion-1.0](https://huggingface.co/tencent/HY-Motion-1.0)**
+
+*Tencent*
+
+HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model using Diffusion Transformer and Flow Matching. It excels at creating skeleton-based 3D animations from text prompts, offering state-of-the-art instruction following and motion quality for integration into 3D animation pipelines.
+
+`text-to-3d`
+
+⬇️ 497 • ❤️ 274 • 6d ago
 
 ---
 
@@ -418,30 +444,6 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 `text-generation` `228.7B`
 
 ⬇️ 196,953 • ❤️ 894 • 9d ago
-
----
-
-**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
-
-*IQuest*
-
-IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
-
-`text-generation` `39.8B`
-
-⬇️ 5,200 • ❤️ 247 • 3d ago
-
----
-
-**[HY-Motion-1.0](https://huggingface.co/tencent/HY-Motion-1.0)**
-
-*Tencent*
-
-HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model using Diffusion Transformer and Flow Matching. It excels at creating skeleton-based 3D animations from text prompts, offering state-of-the-art instruction following and motion quality for integration into 3D animation pipelines.
-
-`text-to-3d`
-
-⬇️ 497 • ❤️ 272 • 6d ago
 
 ---
 
@@ -465,7 +467,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 3,613 • ❤️ 228 • 3d ago
+⬇️ 3,613 • ❤️ 230 • 3d ago
 
 ---
 
@@ -477,7 +479,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 72,638 • ❤️ 212 • 4d ago
+⬇️ 72,638 • ❤️ 214 • 4d ago
 
 ---
 
@@ -489,7 +491,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 1,867 • ❤️ 359 • 16h ago
+⬇️ 1,867 • ❤️ 360 • 17h ago
 
 ---
 
@@ -549,6 +551,18 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
+
+*MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
+
+We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
+
+▲ 165 • 💬 5 • ⭐ 1,910 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
+
+---
+
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -590,25 +604,13 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 ---
 
-**[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
-
-*MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
-
-We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
-
-▲ 165 • 💬 5 • ⭐ 1,713 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
-
----
-
 **[NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](https://huggingface.co/papers/2601.00393)**
 
 *Yuxue Yang, Lue Fan, Ziqi Shi et al. (6 authors)*
 
 NeoVerse is a scalable 4D world model that enables pose-free reconstruction and novel-trajectory video generation from monocular videos with state-of-the-art performance.
 
-▲ 99 • 💬 3 • ⭐ 168 • 5d ago
+▲ 100 • 💬 3 • ⭐ 168 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.00393) • [💻 code](https://github.com/IamCreateAI/NeoVerse) • [🔗 project](https://neoverse-4d.github.io/)
 
@@ -622,7 +624,7 @@ NeoVerse is a scalable 4D world model that enables pose-free reconstruction and 
 
 NextFlow is a unified decoder-only autoregressive transformer that processes interleaved text-image tokens, enabling fast multimodal generation through novel next-token and next-scale prediction strategies.
 
-▲ 36 • 💬 1 • ⭐ 39 • 1d ago
+▲ 37 • 💬 1 • ⭐ 39 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02204) • [💻 code](https://github.com/ByteVisionLab/NextFlow)
 
@@ -638,7 +640,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 20.9k • 🔱 3.4k • 1d ago
+⭐ 21.0k • 🔱 3.4k • 1d ago
 
 ---
 
@@ -648,7 +650,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.9k • 🔱 697 • 2h ago
+⭐ 5.9k • 🔱 701 • 41m ago
 
 ---
 
@@ -658,7 +660,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 106 • 1d ago
+⭐ 2.2k • 🔱 107 • 1d ago
 
 ---
 
@@ -698,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 134 • 6h ago
+⭐ 1.1k • 🔱 135 • 7h ago
 
 ---
 
@@ -708,7 +710,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 81 • 19h ago
+⭐ 1.0k • 🔱 81 • 20h ago
 
 ---
 
@@ -718,7 +720,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 977 • 🔱 69 • 7d ago
+⭐ 990 • 🔱 69 • 7d ago
 
 ---
 
@@ -728,7 +730,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 965 • 🔱 114 • 13h ago
+⭐ 966 • 🔱 114 • 5m ago
 
 ---
 

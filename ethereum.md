@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T15:47:28.964913+00:00'
+updated: '2026-01-06T16:31:21.024610+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 15:47 UTC  
+**Last Updated:** January 06, 2026 at 16:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,301.03
+### $3,264.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.2%  
-**7d:** +10.6%  
-**30d:** +5.3%  
-**90d:** -24.7%  
-**1y:** -2.7%  
+**24h:** +1.3%  
+**7d:** +9.6%  
+**30d:** +4.2%  
+**90d:** -25.4%  
+**1y:** -3.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $391.76B
+**Market Cap:** $392.52B
 Rank #2
 
 **Circulating Supply:** 120,694,829 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.5%
+-34.3%
 
 **All-Time Low:** $0.43
-+759777.5%
++750622.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 4h ago
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Yet another data breach, this time involving payment processor Global-E, with customer personal data reportedly exposed. We often talk about blockchain as a solution for privacy and transparency. But incidents like this show a hard truth: privacy failures still happen at the infrastructure and application layer, regardless of whether crypto or blockchain is involved. Decentralization doesn’t automatically mean privacy. Security practices, data minimization, and proper protection of user information still matter a lot. If sensitive data keeps leaking before it ever touches a blockchain, that’s a problem we shouldn’t ignore. Curious how others here see this are we focusing too much on decentralization while underestimating basic data security?
 
-8h ago
+9h ago
 
 ---
 
@@ -110,7 +110,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 23h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 2d ago
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 14m ago
+CoinDesk • 58m ago
 
 ---
 
@@ -216,7 +216,7 @@ Yahoo Finance • 1d ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -232,13 +232,23 @@ PR Newswire • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Bitr1X6GkL4)**
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=YRXolt9wugU)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://www.benjamincowen.com/ Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 10K • 👍 1K • 💬 63 • ⏱️ 9:50 • 2h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v1V_5kMAie4)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 151 • 💬 15 • ⏱️ 4:05 • 10h ago
+👁️ 623 • 👍 90 • 💬 5 • ⏱️ 5:19 • 1h ago
 
 ---
 
@@ -248,17 +258,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 13K • 👍 221 • 💬 135 • ⏱️ 12:31 • 19h ago
-
----
-
-**[XRP ETFS BREAK RECORDS! GRAYSCALE ETHEREUM STAKING ETF REWARDS &amp; VENEZUELA BITCOIN!](https://www.youtube.com/watch?v=6Z-K6e83qTE)**
-
-Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded their highest daily trading volume since launch.
-
-📺 Thinking Crypto
-
-👁️ 5K • 👍 591 • 💬 51 • ⏱️ 16:00 • 12h ago
+👁️ 13K • 👍 230 • 💬 132 • ⏱️ 12:31 • 20h ago
 
 ---
 
@@ -268,7 +268,27 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 363 • 💬 249 • ⏱️ 13:40 • 10h ago
+👁️ 8K • 👍 421 • 💬 254 • ⏱️ 13:40 • 11h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Bitr1X6GkL4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 156 • 💬 15 • ⏱️ 4:05 • 11h ago
+
+---
+
+**[XRP ETFS BREAK RECORDS! GRAYSCALE ETHEREUM STAKING ETF REWARDS &amp; VENEZUELA BITCOIN!](https://www.youtube.com/watch?v=6Z-K6e83qTE)**
+
+Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded their highest daily trading volume since launch.
+
+📺 Thinking Crypto
+
+👁️ 6K • 👍 626 • 💬 53 • ⏱️ 16:00 • 12h ago
 
 ---
 
@@ -278,7 +298,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 10K • 👍 434 • 💬 207 • ⏱️ 22:27 • 17h ago
+👁️ 10K • 👍 441 • 💬 207 • ⏱️ 22:27 • 18h ago
 
 ---
 
@@ -288,17 +308,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 2K • 💬 63 • ⏱️ 46:18 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i8jeNTHP72E)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 1d ago
+👁️ 23K • 👍 2K • 💬 64 • ⏱️ 46:18 • 22h ago
 
 ---
 
@@ -312,23 +322,13 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 ---
 
-**[BMNR: TOM LEE &quot;150x GAINS&quot;?! Ethereum Supercycle SOON BMNR STOCK ANALYSIS TODAY BUY OR SELL ](https://www.youtube.com/watch?v=YChA0T-pqdo)**
+**[Why BitMine Is Staking $2.1 Billion of Ethereum.](https://www.youtube.com/watch?v=2l_7mwpiBOI)**
 
-BITMINE IMMERSION TECHNOLOGIES STOCK: TOM LEE "150x GAINS"?! Ethereum Supercycle SOON BMNR STOCK ...
+Is BitMine Immersion (BMNR) strictly a holding company, or did it just become a cash-flow giant? It's not just about hoarding ...
 
-📺 ​In Case You Missed It: 5 Min
+📺 Wall Street Stockcast
 
-👁️ 69 • 👍 2 • ⏱️ 8:40 • 2h ago
-
----
-
-**[🚨Bitcoin BREAKS $94,000! (Ethereum MEGA REVERSAL?)](https://www.youtube.com/watch?v=NJl_6alz37Y)**
-
-Bitcoin has just SMASHED through the $94000 mark, hitting its highest level since mid-December 2025! In today's video, we're ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 227 • 💬 83 • ⏱️ 53:22 • 19h ago
+👁️ 66 • 👍 2 • ⏱️ 6:28 • 1h ago
 
 ---
 

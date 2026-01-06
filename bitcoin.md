@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T15:47:28.958965+00:00'
+updated: '2026-01-06T16:31:21.018426+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 15:47 UTC  
+**Last Updated:** January 06, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,882.11
+### $93,095.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +7.4%  
-**30d:** +3.8%  
-**90d:** -22.5%  
-**1y:** -2.7%  
+**24h:** -1.6%  
+**7d:** +6.2%  
+**30d:** +2.5%  
+**90d:** -23.5%  
+**1y:** -3.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1874.09B
+**Market Cap:** $1856.07B
 Rank #1
 
-**Circulating Supply:** 19,972,290 BTC
+**Circulating Supply:** 19,972,309 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--25.2%
+-26.4%
 
 **All-Time Low:** $67.81
-+138996.0%
++136820.8%
 
 ---
 
@@ -77,21 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
-
-12h ago
-
----
-
 **[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-1h ago
+2h ago
 
 ---
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +97,7 @@ Rank #1
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -115,7 +109,13 @@ Rank #1
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-23h ago
+1d ago
+
+---
+
+**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
+
+1h ago
 
 ---
 
@@ -127,15 +127,15 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 ---
 
-**[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
+**[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-20h ago
+13h ago
 
 ---
 
-**[Bitcoin could realistically become a global currency through sats, making everyday transactions easier and more universal. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q5gaab/bitcoin_could_realistically_become_a_global/)**
+**[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-4h ago
+21h ago
 
 ---
 
@@ -147,7 +147,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 6h ago
 
 Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -163,19 +163,19 @@ Yahoo Finance • 4h ago
 
 Wall Street heavyweight files for bitcoin trust amid rising institutional demand.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Spot bitcoin ETFs report $697 million in net inflows, largest daily total since October](https://www.theblock.co/post/384421/spot-bitcoin-etfs-700-million-inflows)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -183,13 +183,13 @@ Investor's Business Daily • 18h ago
 
 Nishant Pant breaks down this bull call spread options trade.
 
-CNBC • 19m ago
+CNBC • 1h ago
 
 ---
 
 **[Bernstein says bitcoin has likely bottomed, reveals price targets](https://www.investing.com/news/cryptocurrency-news/bernstein-says-bitcoin-has-likely-bottomed-reveals-price-targets-4432569)**
 
-Investing.com • 1h ago
+Investing.com • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Wall Street Journal • 1d ago
 
 On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -287,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 20h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 21h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -295,13 +295,23 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
+**[Coinbase&#39;s John D&#39;Agostino on bitcoin: Retail sentiment is catching up to institutional momentum](https://www.youtube.com/watch?v=JEk3rseEYis)**
+
+John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to discuss the latest bitcoin price trends, what's ...
+
+📺 CNBC Television
+
+👁️ 7K • 👍 164 • 💬 71 • ⏱️ 8:25 • 3h ago
+
+---
+
 **[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
 
 Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 140 • ⏱️ 9:17 • 13h ago
+👁️ 56K • 👍 2K • 💬 183 • ⏱️ 9:17 • 14h ago
 
 ---
 
@@ -311,37 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 526 • 💬 33 • ⏱️ 15:02 • 23h ago
-
----
-
-**[Oh My… Bitcoin Is Moving FAST](https://www.youtube.com/watch?v=AdqSludkUrs)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 28K • 👍 2K • 💬 284 • ⏱️ 8:08 • 14h ago
-
----
-
-**[Coinbase&#39;s John D&#39;Agostino on bitcoin: Retail sentiment is catching up to institutional momentum](https://www.youtube.com/watch?v=JEk3rseEYis)**
-
-John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to discuss the latest bitcoin price trends, what's ...
-
-📺 CNBC Television
-
-👁️ 2K • 👍 72 • 💬 54 • ⏱️ 8:25 • 2h ago
-
----
-
-**[THESE BITCOIN WHALES JUST CHANGED THEIR MINDS... PREPARE NOW..](https://www.youtube.com/watch?v=kh_iIEtSYGs)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 11K • 👍 701 • 💬 44 • ⏱️ 13:49 • 7h ago
+👁️ 16K • 👍 551 • 💬 32 • ⏱️ 15:02 • 1d ago
 
 ---
 
@@ -351,17 +331,27 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 19K • 👍 217 • 💬 46 • ⏱️ 3:12 • 18h ago
+👁️ 20K • 👍 224 • 💬 45 • ⏱️ 3:12 • 19h ago
 
 ---
 
-**[WOAH THIS is LARGE!!! sit down before watching this bitcoin video....](https://www.youtube.com/watch?v=IdVzHx2wKg4)**
+**[Oh My… Bitcoin Is Moving FAST](https://www.youtube.com/watch?v=AdqSludkUrs)**
 
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Tyler S
+📺 CryptosRUs
 
-👁️ 17K • 👍 951 • 💬 266 • ⏱️ 10:52 • 23h ago
+👁️ 29K • 👍 2K • 💬 278 • ⏱️ 8:08 • 15h ago
+
+---
+
+**[THESE BITCOIN WHALES JUST CHANGED THEIR MINDS... PREPARE NOW..](https://www.youtube.com/watch?v=kh_iIEtSYGs)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 14K • 👍 764 • 💬 49 • ⏱️ 13:49 • 7h ago
 
 ---
 
@@ -371,7 +361,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 7K • 👍 647 • 💬 39 • ⏱️ 16:32 • 4h ago
+👁️ 12K • 👍 833 • 💬 66 • ⏱️ 16:32 • 5h ago
 
 ---
 
@@ -381,7 +371,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 478 • 💬 77 • ⏱️ 6:34 • 9h ago
+👁️ 8K • 👍 509 • 💬 79 • ⏱️ 6:34 • 9h ago
 
 ---
 
@@ -391,7 +381,17 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Benjamin Cowen
 
-👁️ 95K • 👍 5K • 💬 264 • ⏱️ 19:12 • 1d ago
+👁️ 97K • 👍 5K • 💬 263 • ⏱️ 19:12 • 1d ago
+
+---
+
+**[6 Data Points That Prove This Bitcoin Pump Is Different!](https://www.youtube.com/watch?v=SZj0Dczanpw)**
+
+2026 has started with a violent bounce. Bitcoin has successfully held the bottom of the weekly range, and for the first time in ...
+
+📺 Crypto Banter
+
+👁️ 5K • 👍 867 • 💬 15 • ⏱️ 31:55 • 1h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T15:47:28.968159+00:00'
+updated: '2026-01-06T16:31:21.027884+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 15:47 UTC  
+**Last Updated:** January 06, 2026 at 16:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,11 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Boston Dynamics Announces Atlas for Consumers](https://www.reddit.com/r/robotics/comments/1q4zixk/boston_dynamics_announces_atlas_for_consumers/)**
+**["we don't have any wires that go across those moving parts" How is that possible?](https://www.reddit.com/r/robotics/comments/1q5mdlt/we_dont_have_any_wires_that_go_across_those/)**
 
-No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
+In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 17h ago
+34m ago
 
 ---
 
@@ -48,23 +48,39 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[Boston Dynamics Announces Atlas for Consumers](https://www.reddit.com/r/robotics/comments/1q4zixk/boston_dynamics_announces_atlas_for_consumers/)**
+
+No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
+
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 18h ago
+
+---
+
 **[Boston Dynamics and Google DeepMind Want Robots to Have Brains](https://www.reddit.com/r/robotics/comments/1q5bqy8/boston_dynamics_and_google_deepmind_want_robots/)**
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 8h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 9h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-21h ago
+22h ago
 
 ---
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-19h ago
+20h ago
+
+---
+
+**[Robotic Arm](https://www.reddit.com/r/robotics/comments/1q5mhax/robotic_arm/)**
+
+We are planning to purchase a robotic arm and for that we have shortlisted these two options : https://www.hiwonder.com/products/jetarm?variant=41317228019799 https://category.yahboom.net/collections/r-robotics-arm/products/dofbot-pro?variant=50334820532540 Any suggestions on which one would be better or any better third option suggestion
+
+31m ago
 
 ---
 
@@ -72,7 +88,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 16h ago
 
 ---
 
@@ -92,22 +108,6 @@ In this tutorial, I’ll show you how to build the brain of a DQN agent, train i
 
 ---
 
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.reddit.com/r/robotics/comments/1q55mze/hyundai_introduces_its_nextgen_atlas_robot_at_ces/)**
-
-Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
-
-🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 13h ago
-
----
-
-**[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
-
-Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,7 +116,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 17h ago
+NVIDIA Newsroom • 18h ago
 
 ---
 
@@ -124,13 +124,13 @@ NVIDIA Newsroom • 17h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 16h ago
+TechCrunch • 17h ago
 
 ---
 
 **[Nvidia CEO Huang Pushes ‘Physical AI’ at CES. Why the Stock Market Is Shrugging.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcBjbLxAY5k6ZTCjcj2QwMxlYRxHdfLZVTWsHe0U2wpgRusYbsblNwa&gaa_ts=695d31f8&gaa_sig=K1IrTlPOUmIPz7nsYLDFbTL4I4m-jLMDe1yWIVyTaOoV4bt8Q5kcbsYVjoZ0ctZyrktjch3280o4IOffcmPpjQ%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -147,13 +147,13 @@ CNET • 1d ago
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
-hyundai.com • 18h ago
+hyundai.com • 19h ago
 
 ---
 
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Robot Report • 3d ago
 
 Executives at companies innovating a range of new robotic surgery platforms shared their progress and challenges in MedTech Dive's series of profiles.
 
-MedTech Dive • 23h ago
+MedTech Dive • 1d ago
 
 ---
 
@@ -197,7 +197,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 708K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
+👁️ 739K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -207,7 +207,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 12K • 👍 175 • 💬 4 • ⏱️ 7:38 • 1d ago
+👁️ 13K • 👍 191 • 💬 6 • ⏱️ 7:38 • 1d ago
 
 ---
 
@@ -217,7 +217,17 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 244K • 👍 4K • 💬 584 • ⏱️ 5:49 • 1d ago
+👁️ 256K • 👍 4K • 💬 620 • ⏱️ 5:49 • 1d ago
+
+---
+
+**[Nvidia CEO Jensen Huang: We&#39;ve been thinking about robotics for a long time](https://www.youtube.com/watch?v=mP-TyDeVoUU)**
+
+Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discuss the company's latest AI chips, open ...
+
+📺 CNBC Television
+
+👁️ 9K • 👍 250 • 💬 59 • ⏱️ 7:41 • 3h ago
 
 ---
 
@@ -227,17 +237,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 127K • 👍 8K • 💬 1K • ⏱️ 2:05 • 18h ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 102K • 👍 2K • 💬 277 • ⏱️ 11:42 • 5d ago
+👁️ 146K • 👍 9K • 💬 1K • ⏱️ 2:05 • 19h ago
 
 ---
 
@@ -247,7 +247,17 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 📺 China Fact Chasers
 
-👁️ 16K • 👍 1K • 💬 77 • ⏱️ 8:39 • 5d ago
+👁️ 16K • 👍 1K • 💬 77 • ⏱️ 8:39 • 6d ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 103K • 👍 2K • 💬 277 • ⏱️ 11:42 • 5d ago
 
 ---
 
@@ -257,7 +267,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 10K • 👍 235 • 💬 18 • ⏱️ 1:33:26 • 16h ago
+👁️ 14K • 👍 299 • 💬 26 • ⏱️ 1:33:26 • 17h ago
 
 ---
 
@@ -267,17 +277,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 132K • 👍 4K • 💬 698 • ⏱️ 7:00 • 16h ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 181K • 👍 3K • 💬 738 • ⏱️ 0:32 • 2d ago
+👁️ 148K • 👍 4K • 💬 770 • ⏱️ 7:00 • 17h ago
 
 ---
 
@@ -287,7 +287,7 @@ Humanoid robots are about to take a massive leap forward in 2026 — and the com
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 94 • 💬 9 • ⏱️ 18:26 • 5d ago
+👁️ 4K • 👍 96 • 💬 9 • ⏱️ 18:26 • 5d ago
 
 ---
 
