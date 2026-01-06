@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T11:20:39.899869+00:00'
+updated: '2026-01-06T11:41:45.046230+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 11:20 UTC  
+**Last Updated:** January 06, 2026 at 11:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1866.80B
+**Market Cap:** $1872.44B
 Rank #1
 
-**Circulating Supply:** 19,972,215 BTC
+**Circulating Supply:** 19,972,246 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--25.9%
+-25.6%
 
 **All-Time Low:** $67.81
-+137717.4%
++138165.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 Did they lose a billion?
 
-10h ago
+11h ago
 
 ---
 
@@ -119,13 +119,13 @@ Did they lose a billion?
 
 **[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-7h ago
+8h ago
 
 ---
 
 **[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1d ago
 
 **[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -297,13 +297,13 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
-**[I expect bitcoin will breakout to new high since fall 2025: Miller Value Partners&#39; Bill Miller](https://www.youtube.com/watch?v=rLaRxw5aQRY)**
+**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
 
-CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence of Venezuela, the outlook for bitcoin and more ...
+Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
 
-📺 CNBC Television
+📺 Altcoin Daily
 
-👁️ 17K • 👍 200 • 💬 36 • ⏱️ 3:12 • 14h ago
+👁️ 42K • 👍 2K • 💬 131 • ⏱️ 9:17 • 9h ago
 
 ---
 
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 248 • ⏱️ 8:08 • 10h ago
+👁️ 26K • 👍 1K • 💬 232 • ⏱️ 8:08 • 10h ago
 
 ---
 
@@ -323,17 +323,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 469 • 💬 31 • ⏱️ 15:02 • 19h ago
+👁️ 14K • 👍 490 • 💬 32 • ⏱️ 15:02 • 19h ago
 
 ---
 
-**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
+**[I expect bitcoin will breakout to new high since fall 2025: Miller Value Partners&#39; Bill Miller](https://www.youtube.com/watch?v=rLaRxw5aQRY)**
 
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence of Venezuela, the outlook for bitcoin and more ...
 
-📺 Altcoin Daily
+📺 CNBC Television
 
-👁️ 35K • 👍 2K • 💬 113 • ⏱️ 9:17 • 9h ago
+👁️ 18K • 👍 210 • 💬 43 • ⏱️ 3:12 • 14h ago
 
 ---
 
@@ -343,17 +343,27 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 8K • 👍 365 • 💬 68 • ⏱️ 6:21 • 14h ago
+👁️ 8K • 👍 380 • 💬 61 • ⏱️ 6:21 • 14h ago
 
 ---
 
-**[THE BITCOIN TRAP IS HERE!!!!](https://www.youtube.com/watch?v=CfY_8eEb87s)**
+**[THESE BITCOIN WHALES JUST CHANGED THEIR MINDS... PREPARE NOW..](https://www.youtube.com/watch?v=kh_iIEtSYGs)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Crypto Rover
+📺 Satoshi Stacker
 
-👁️ 3K • 👍 290 • 💬 21 • ⏱️ 6:34 • 4h ago
+👁️ 5K • 👍 486 • 💬 26 • ⏱️ 13:49 • 2h ago
+
+---
+
+**[HOW I AM GETTING FILTHY RICH WITH BITCOIN TREASURY COMPANIES!](https://www.youtube.com/watch?v=qA1Yc9ZrIyc)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 10K • 👍 759 • 💬 164 • ⏱️ 25:39 • 13h ago
 
 ---
 
@@ -363,37 +373,27 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 921 • 💬 316 • ⏱️ 10:52 • 19h ago
+👁️ 17K • 👍 937 • 💬 272 • ⏱️ 10:52 • 19h ago
 
 ---
 
-**[Bitcoin Signals Flipped Green..HUGE Bull Run Incoming](https://www.youtube.com/watch?v=7142xkNXYz8)**
+**[THE BITCOIN TRAP IS HERE!!!!](https://www.youtube.com/watch?v=CfY_8eEb87s)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
 
-📺 CryptosRUs
+📺 Crypto Rover
 
-👁️ 31K • 👍 2K • 💬 243 • ⏱️ 38:51 • 16h ago
-
----
-
-**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=7Zans8ehwpg)**
-
-Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: ...
-
-📺 Benjamin Cowen
-
-👁️ 91K • 👍 5K • 💬 254 • ⏱️ 19:12 • 1d ago
+👁️ 5K • 👍 392 • 💬 30 • ⏱️ 6:34 • 5h ago
 
 ---
 
-**[EVERYTHING Changed Yesterday: Bitcoin, Altcoins, Gold, Oil &amp; Venezuela w/Jerry V. Hall](https://www.youtube.com/watch?v=CVOv6tNDDQY)**
+**[Michael Saylor on Bitcoin Bull Run | BTC Price Analysis, Forecast &amp; MSTR Stock Rally](https://www.youtube.com/watch?v=XnBSjVES9FQ)**
 
-Yesterday with the Venezuela situation there is a change to positively EVERYTHING. Let's talk about how it affects OUR markets.
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 Digital Asset News
+📺 Very Cherry Cakes
 
-👁️ 14K • 👍 948 • 💬 95 • ⏱️ 37:46 • 1d ago
+👁️ 4K • 👍 5K • 48m ago
 
 ---
 

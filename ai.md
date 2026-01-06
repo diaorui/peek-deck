@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T11:20:39.891268+00:00'
+updated: '2026-01-06T11:41:45.037880+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - videos
 - social
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 11:20 UTC  
+**Last Updated:** January 06, 2026 at 11:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Nvidia just provided a closer look at its new computing platform for AI data cen
 
 Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
 
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 7h ago
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] 
 
 I built Ctrl, an open-source execution control plane that sits between an agent and its tools. Instead of letting tool calls execute directly, Ctrl intercepts them, dynamically scores risk, applies policy (allow / deny / approve), and only then executes; recording every intent, decision, and event in a local SQLite ledger. GH: https://github.com/MehulG/agent-ctrl It’s currently focused on LangChain + MCP as a drop-in wrapper. The demo shows a content publish action being intercepted, paused for approval, and replayed safely after approval. I’d love feedback from anyone running agents that take real actions.
 
-43m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 I'm new to this sub. I was hoping to converse a little and get some opinions on this. I think it's an interesting phenomena within our society at the moment, where if you think about AI as a tool, and I personally see it as the greatest tool ever invented/gifted to mankind, why, or what is the issue, with using it? You see it all throughout society. People are up in arms about students using it to write papers is a big one, and I wonder, did papers ever need to be written in the first place? I apologize if this has already been answered to the nth degree and been beaten into the dirt, but realistically wouldn't it be possible that the ideas supporting this non-use of AI are rooted in established organizations that stand to suffer when they are completely obliterated by a tool that can not only do what they do but do it instantly and always be readily available, and do it for free? This narrative that we shouldn't use a tool that we've discovered/invented/been given or whatever you wanna call it, to me, seems absurd. It'd be like if we invented fire and everyone was like, hey, don't cook the meat, fire is stupid, let's just raw dog. I digress. My point is, maybe, MAYBE, the people who are pushing that narrative to not use AI, to not embrace this tool, to not see it as our potential salvation (or destruction XD), or at the very least even be curious about its potential applications and possible benefits to our society, stand to LOSE THEIR ASSES by its implementation. Just maybe. Sorry if I broke any rules, I am a big dumbass. Thanks for your time.
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-19h ago
+20h ago
 
 ---
 
@@ -147,13 +147,13 @@ The New York Times • 3h ago
 
 Nvidia rolls out Vera Rubin, Boston Dynamics goes gaga for Google, Intel deploys milestone chips. Plus: Amazon, AMD, Dell, food delivery, Qualcomm, LEGO, X.
 
-Fortune • 52m ago
+Fortune • 1h ago
 
 ---
 
 **[The "Donroe Doctrine" and the war for minerals, oil and AI](https://www.axios.com/2026/01/06/donroe-doctrine-the-war-for-minerals-oil-and-ai)**
 
-Axios • 51m ago
+Axios • 1h ago
 
 ---
 
@@ -267,7 +267,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 AI slop comes for Reddit.
 
-⬆️ 34 • 💬 40 • 15h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
+⬆️ 34 • 💬 40 • 16h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -281,7 +281,17 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 650K • 👍 10K • 💬 2K • ⏱️ 13:17 • 1d ago
+👁️ 675K • 👍 10K • 💬 2K • ⏱️ 13:17 • 1d ago
+
+---
+
+**[This AI Solves The No Code Problem (Rocket)](https://www.youtube.com/watch?v=S2MP49Xr9PI)**
+
+Rocket is a new AI platform that quietly finishes what every no-code builder started but never completed. It doesn't give you ...
+
+📺 AI Revolution
+
+👁️ 12K • 👍 499 • 💬 30 • ⏱️ 8:40 • 12h ago
 
 ---
 
@@ -291,7 +301,7 @@ The world's largest tech show is back and AI is powering nearly every major reve
 
 📺 Cheddar
 
-👁️ 8K • 👍 104 • 💬 7 • ⏱️ 3:36 • 19h ago
+👁️ 9K • 👍 108 • 💬 9 • ⏱️ 3:36 • 19h ago
 
 ---
 
@@ -301,37 +311,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 84K • 👍 2K • 💬 350 • ⏱️ 11:17 • 1d ago
-
----
-
-**[STOP Paying! 3 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=qXXk9cBbIAU)**
-
-Sync React-1 — Try it here: https://go.sync.so/MalvaAI FREE PDF (links + prompts + extra tricks): https://discord.gg/6aV3ps7tB2 ...
-
-📺 Malva AI
-
-👁️ 35K • 👍 2K • 💬 295 • ⏱️ 10:29 • 2d ago
-
----
-
-**[They Said AI Would Replace You By Now](https://www.youtube.com/watch?v=dH_UvWmvny0)**
-
-Big predictions were made in 2025. AI would write code like a mid-level engineer. AI agents would become personal assistants, ...
-
-📺 Vanessa Wingårdh
-
-👁️ 289K • 👍 15K • 💬 4K • ⏱️ 13:10 • 1d ago
-
----
-
-**[This NEW 1-Click AI Agent is INSANE! 🤯](https://www.youtube.com/watch?v=G3ka1hVasGg)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 3K • 👍 102 • 💬 8 • ⏱️ 9:18 • 13h ago
+👁️ 86K • 👍 2K • 💬 362 • ⏱️ 11:17 • 1d ago
 
 ---
 
@@ -341,17 +321,17 @@ Support me by subscribing to the Thomas AI channel https://www.youtube.com/@thom
 
 📺 Thomas AI 🇺🇸
 
-👁️ 3K • 👍 24 • 💬 37 • ⏱️ 15:04 • 1d ago
+👁️ 3K • 👍 26 • 💬 38 • ⏱️ 15:04 • 1d ago
 
 ---
 
-**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
+**[This NEW 1-Click AI Agent is INSANE! 🤯](https://www.youtube.com/watch?v=G3ka1hVasGg)**
 
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 Dan Martell
+📺 Julian Goldie SEO
 
-👁️ 122K • 👍 5K • 💬 337 • ⏱️ 30:25 • 2d ago
+👁️ 3K • 👍 107 • 💬 8 • ⏱️ 9:18 • 14h ago
 
 ---
 
@@ -365,13 +345,31 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 ---
 
-**[A large egg rolls through the snow and Gorilla cave 😭 #ai #egg #save #gorilla](https://www.youtube.com/watch?v=2JmaEQMjSOk)**
+**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
 
-A large egg rolls through the snow and Gorilla cave #ai #egg #save #gorilla.
+Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
 
-📺 MoonTejas Animation
+📺 Dan Martell
 
-👁️ 2K • ⏱️ 0:47 • 8h ago
+👁️ 123K • 👍 5K • 💬 339 • ⏱️ 30:25 • 2d ago
+
+---
+
+**[&#39;Grok Allowing Users To Undress..&quot;: India, France Move Against Musk’s Grok AI Over Obscenity](https://www.youtube.com/watch?v=Ii_zXBBiqmE)**
+
+Governments in India and France have initiated formal action against Elon Musk's X after complaints over how its Grok AI tool is ...
+
+📺 Mint
+
+👁️ 42K • 👍 571 • 💬 366 • ⏱️ 3:33 • 2d ago
+
+---
+
+**[Which one is AI? Level: Impossible 🔍 Cre: @SofiManassyan #shorts](https://www.youtube.com/watch?v=DV3fi0tS2U4)**
+
+📺 Julee Cook
+
+👁️ 654K • 👍 18K • 💬 2K • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 14,346 • ❤️ 465 • 6d ago
+⬇️ 14,346 • ❤️ 467 • 6d ago
 
 ---
 
@@ -399,19 +397,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 379 • 8h ago
-
----
-
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
-
-*MiniMax*
-
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 196,953 • ❤️ 878 • 9d ago
+⬇️ 2,057 • ❤️ 384 • 9h ago
 
 ---
 
@@ -423,55 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 5,593 • ❤️ 312 • 5d ago
-
----
-
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
-
-*Z.ai*
-
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
-
-`text-generation` `358.3B`
-
-⬇️ 33,515 • ❤️ 1,474 • 14d ago
-
----
-
-**[WeDLM-8B-Instruct](https://huggingface.co/tencent/WeDLM-8B-Instruct)**
-
-*Tencent*
-
-WeDLM-8B-Instruct is an 8B parameter instruction-tuned language model optimized for fast inference via parallel decoding, outperforming Qwen3-8B-Instruct on benchmarks like GSM8K and HumanEval, making it suitable for accelerated text generation tasks.
-
-`text-generation` `8.2B`
-
-⬇️ 2,183 • ❤️ 279 • 5d ago
-
----
-
-**[HY-Motion-1.0](https://huggingface.co/tencent/HY-Motion-1.0)**
-
-*Tencent*
-
-HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model using Diffusion Transformer and Flow Matching. It excels at creating skeleton-based 3D animations from text prompts, offering state-of-the-art instruction following and motion quality for integration into 3D animation pipelines.
-
-`text-to-3d`
-
-⬇️ 497 • ❤️ 269 • 6d ago
-
----
-
-**[FLUX.2-dev-Turbo](https://huggingface.co/fal/FLUX.2-dev-Turbo)**
-
-*fal*
-
-FLUX.2-dev-Turbo is a distilled LoRA adapter for FLUX.2 [dev] that enables high-quality text-to-image generation and image editing in just 8 inference steps, offering a 6x speedup while preserving quality.
-
-`text-to-image`
-
-⬇️ 7,888 • ❤️ 242 • 7d ago
+⬇️ 5,593 • ❤️ 313 • 5d ago
 
 ---
 
@@ -483,7 +421,43 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 5,200 • ❤️ 242 • 3d ago
+⬇️ 5,200 • ❤️ 245 • 3d ago
+
+---
+
+**[HY-Motion-1.0](https://huggingface.co/tencent/HY-Motion-1.0)**
+
+*Tencent*
+
+HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model using Diffusion Transformer and Flow Matching. It excels at creating skeleton-based 3D animations from text prompts, offering state-of-the-art instruction following and motion quality for integration into 3D animation pipelines.
+
+`text-to-3d`
+
+⬇️ 497 • ❤️ 270 • 6d ago
+
+---
+
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+
+*MiniMax*
+
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 196,953 • ❤️ 880 • 9d ago
+
+---
+
+**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+
+*Z.ai*
+
+GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+
+`text-generation` `358.3B`
+
+⬇️ 33,515 • ❤️ 1,477 • 14d ago
 
 ---
 
@@ -495,7 +469,31 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 3,613 • ❤️ 226 • 3d ago
+⬇️ 3,613 • ❤️ 228 • 3d ago
+
+---
+
+**[Qwen-Image-2512-GGUF](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF)**
+
+*Unsloth AI*
+
+This is a GGUF quantized text-to-image model optimized for performance, capable of generating realistic human subjects, detailed natural scenes, and accurate text rendering. It's primarily used for high-quality image generation with tools like ComfyUI and stable-diffusion.cpp.
+
+`text-to-image` `20.4B`
+
+⬇️ 72,638 • ❤️ 211 • 4d ago
+
+---
+
+**[Solar-Open-100B](https://huggingface.co/upstage/Solar-Open-100B)**
+
+*upstage*
+
+Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7T tokens, offering enterprise-grade reasoning and instruction-following with 12B active parameters for efficient inference. It excels in both Korean and English benchmarks, supporting a 128k context length and is suitable for complex agentic tasks.
+
+`text-generation` `102.7B`
+
+⬇️ 1,867 • ❤️ 356 • 12h ago
 
 ---
 
@@ -561,7 +559,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 17 • 💬 2 • ⭐ 14,321 • 1mo ago
+▲ 17 • 💬 2 • ⭐ 14,382 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -576,7 +574,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 127 • 💬 18 • ⭐ 49,059 • 9mo ago
+▲ 127 • 💬 18 • ⭐ 49,120 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -600,7 +598,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 NeoVerse is a scalable 4D world model that enables pose-free reconstruction and novel-trajectory video generation from monocular videos with state-of-the-art performance.
 
-▲ 95 • 💬 3 • ⭐ 124 • 4d ago
+▲ 97 • 💬 3 • ⭐ 168 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.00393) • [💻 code](https://github.com/IamCreateAI/NeoVerse) • [🔗 project](https://neoverse-4d.github.io/)
 
@@ -650,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.7k • 🔱 668 • 2h ago
+⭐ 5.8k • 🔱 689 • 6m ago
 
 ---
 
@@ -680,7 +678,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.8k • 🔱 199 • 1d ago
+⭐ 1.8k • 🔱 199 • 2d ago
 
 ---
 
@@ -690,7 +688,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.1k • 🔱 59 • 13d ago
+⭐ 1.1k • 🔱 60 • 13d ago
 
 ---
 
@@ -700,7 +698,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 132 • 2h ago
+⭐ 1.1k • 🔱 133 • 2h ago
 
 ---
 
@@ -710,7 +708,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 987 • 🔱 73 • 15h ago
+⭐ 1.0k • 🔱 74 • 15h ago
 
 ---
 
@@ -720,7 +718,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 962 • 🔱 69 • 7d ago
+⭐ 967 • 🔱 69 • 7d ago
 
 ---
 
@@ -730,7 +728,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 961 • 🔱 113 • 8h ago
+⭐ 962 • 🔱 114 • 9h ago
 
 ---
 

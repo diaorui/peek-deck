@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T11:20:39.905993+00:00'
+updated: '2026-01-06T11:41:45.052204+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 11:20 UTC  
+**Last Updated:** January 06, 2026 at 11:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $389.32B
+**Market Cap:** $390.87B
 Rank #2
 
 **Circulating Supply:** 120,694,829 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.8%
+-34.5%
 
 **All-Time Low:** $0.43
-+744779.1%
++748063.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 31m ago
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 52m ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-18h ago
+19h ago
 
 ---
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -154,7 +154,7 @@ So I have some crypto on ethereum L1&2s and I would like to anonymize some of it
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -200,7 +200,7 @@ Decrypt • 19h ago
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ CNBC • 15h ago
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
 
-GlobeNewswire • 21h ago
+GlobeNewswire • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ GlobeNewswire • 21h ago
 
 Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 11K • 👍 189 • 💬 112 • ⏱️ 12:31 • 14h ago
+👁️ 11K • 👍 199 • 💬 137 • ⏱️ 12:31 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 406 • 💬 42 • ⏱️ 16:00 • 7h ago
+👁️ 4K • 👍 501 • 💬 49 • ⏱️ 16:00 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 2K • 💬 47 • ⏱️ 46:18 • 17h ago
+👁️ 22K • 👍 2K • 💬 48 • ⏱️ 46:18 • 17h ago
 
 ---
 
@@ -268,37 +268,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 417 • 💬 212 • ⏱️ 22:27 • 12h ago
-
----
-
-**[Ethereum WARNING at $3,286! Bearish Reversal Soon?](https://www.youtube.com/watch?v=Z6p4HNcTVz4)**
-
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 602 • 👍 18 • 💬 41 • ⏱️ 4:53 • 17h ago
-
----
-
-**[🚨Bitcoin BREAKS $94,000! (Ethereum MEGA REVERSAL?)](https://www.youtube.com/watch?v=NJl_6alz37Y)**
-
-Bitcoin has just SMASHED through the $94000 mark, hitting its highest level since mid-December 2025! In today's video, we're ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 220 • 💬 52 • ⏱️ 53:22 • 15h ago
-
----
-
-**[Why Ethereum’s Price Looks Broken, But the Bull Case Has Never Been Stronger](https://www.youtube.com/watch?v=jiBKJcEOFi8)**
-
-In this episode, we break down why today's weak price action may be hiding one of the most powerful long-term setups in all of ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 147 • 💬 11 • ⏱️ 8:15 • 1d ago
+👁️ 9K • 👍 427 • 💬 211 • ⏱️ 22:27 • 13h ago
 
 ---
 
@@ -312,13 +282,43 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Ethereum Tests $3,200! 🚀 Why TOSHI &amp; VET are the Altcoins to be Watching](https://www.youtube.com/watch?v=fuZttUIuT_8)**
+**[Why Ethereum’s Price Looks Broken, But the Bull Case Has Never Been Stronger](https://www.youtube.com/watch?v=jiBKJcEOFi8)**
 
-Follow me on X: https://x.com/ChartsMinute ☘️ Get FREE stocks signing up for WeBull with a qualifying deposit: ...
+In this episode, we break down why today's weak price action may be hiding one of the most powerful long-term setups in all of ...
 
-📺 Art of Charts
+📺 Milk Road
 
-👁️ 234 • 👍 16 • 💬 38 • ⏱️ 12:25 • 16h ago
+👁️ 5K • 👍 150 • 💬 11 • ⏱️ 8:15 • 1d ago
+
+---
+
+**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
+
+We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
+
+📺 CLOCKWISE CRYPTO 
+
+👁️ 14K • 👍 240 • 💬 281 • ⏱️ 2:37 • 2d ago
+
+---
+
+**[Ethereum WARNING at $3,286! Bearish Reversal Soon?](https://www.youtube.com/watch?v=Z6p4HNcTVz4)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 636 • 👍 19 • 💬 40 • ⏱️ 4:53 • 17h ago
+
+---
+
+**[🚨Bitcoin BREAKS $94,000! (Ethereum MEGA REVERSAL?)](https://www.youtube.com/watch?v=NJl_6alz37Y)**
+
+Bitcoin has just SMASHED through the $94000 mark, hitting its highest level since mid-December 2025! In today's video, we're ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 224 • 💬 88 • ⏱️ 53:22 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 11K • 👍 578 • 💬 249 • ⏱️ 13:59 • 23h ago
+👁️ 12K • 👍 582 • 💬 250 • ⏱️ 13:59 • 23h ago
 
 ---
 

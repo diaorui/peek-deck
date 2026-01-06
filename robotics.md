@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T11:20:39.909252+00:00'
+updated: '2026-01-06T11:41:45.055431+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 11:20 UTC  
+**Last Updated:** January 06, 2026 at 11:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hyundai just unveiled an Atlas for commercial use and showed off it's specs and 
 
 In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
 
-47m ago
+1h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bloomberg.com • 21h ago
 
 New Dragonwing chip targets humanoids, AMRs
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 650K • 👍 10K • 💬 2K • ⏱️ 13:17 • 1d ago
+👁️ 675K • 👍 10K • 💬 2K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 11K • 👍 151 • 💬 4 • ⏱️ 7:38 • 1d ago
+👁️ 11K • 👍 160 • 💬 4 • ⏱️ 7:38 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 95K • 👍 7K • 💬 984 • ⏱️ 2:05 • 13h ago
+👁️ 109K • 👍 8K • 💬 1K • ⏱️ 2:05 • 14h ago
 
 ---
 
@@ -228,27 +228,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 224K • 👍 3K • 💬 525 • ⏱️ 5:49 • 1d ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 101K • 👍 2K • 💬 273 • ⏱️ 11:42 • 5d ago
-
----
-
-**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
-
-China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
-
-📺 China Fact Chasers
-
-👁️ 15K • 👍 1K • 💬 77 • ⏱️ 8:39 • 5d ago
+👁️ 233K • 👍 4K • 💬 541 • ⏱️ 5:49 • 1d ago
 
 ---
 
@@ -258,7 +238,27 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 3K • 👍 100 • 💬 7 • ⏱️ 1:33:26 • 12h ago
+👁️ 6K • 👍 154 • 💬 12 • ⏱️ 1:33:26 • 12h ago
+
+---
+
+**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
+
+China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
+
+📺 China Fact Chasers
+
+👁️ 16K • 👍 1K • 💬 77 • ⏱️ 8:39 • 5d ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 102K • 👍 2K • 💬 275 • ⏱️ 11:42 • 5d ago
 
 ---
 
@@ -268,7 +268,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 103K • 👍 3K • 💬 557 • ⏱️ 7:00 • 12h ago
+👁️ 114K • 👍 3K • 💬 598 • ⏱️ 7:00 • 12h ago
 
 ---
 
@@ -278,17 +278,17 @@ Humanoid robots are about to take a massive leap forward in 2026 — and the com
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 93 • 💬 9 • ⏱️ 18:26 • 5d ago
+👁️ 4K • 👍 94 • 💬 9 • ⏱️ 18:26 • 5d ago
 
 ---
 
-**[A Humanoid Robot Came to Help an Elderly Farm Couple — The Ending Shocked Everyone](https://www.youtube.com/watch?v=6qekNJHhJGc)**
+**[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
 
-Female Humanoid Lab explores the future of humanoid robotics through fictional, educational, and technology-focused content.
+Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
 
-📺 Female Humanoid Lab
+📺 BeastNarratives
 
-👁️ 24K • 👍 206 • 💬 12 • ⏱️ 12:34 • 3d ago
+👁️ 8.2M • 👍 185K • 💬 712 • ⏱️ 0:45 • 6d ago
 
 ---
 
