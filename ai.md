@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T15:24:59.421465+00:00'
+updated: '2026-01-06T15:47:28.950562+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 15:24 UTC  
+**Last Updated:** January 06, 2026 at 15:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -95,13 +95,13 @@ AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] 
 
 I built Ctrl, an open-source execution control plane that sits between an agent and its tools. Instead of letting tool calls execute directly, Ctrl intercepts them, dynamically scores risk, applies policy (allow / deny / approve), and only then executes; recording every intent, decision, and event in a local SQLite ledger. GH: https://github.com/MehulG/agent-ctrl It’s currently focused on LangChain + MCP as a drop-in wrapper. The demo shows a content publish action being intercepted, paused for approval, and replayed safely after approval. I’d love feedback from anyone running agents that take real actions.
 
-4h ago
+5h ago
 
 ---
 
 **[Emad Mostaque says if your job can be done on a screen, in 2 years, AI will do it for pennies](https://www.reddit.com/r/artificial/comments/1q5l99s/emad_mostaque_says_if_your_job_can_be_done_on_a/)**
 
-10m ago
+32m ago
 
 ---
 
@@ -133,23 +133,23 @@ Yahoo Finance • 16h ago
 
 ---
 
-**[Experts agree: AI is here to stay](https://thehill.com/opinion/technology/5673342-measuring-ai-returns-investment/)**
+**[AI Evaluation Startup LMArena Valued at $1.7 Billion in New Funding Round](https://www.theinformation.com/articles/ai-evaluation-startup-lmarena-valued-1-7-billion-new-funding-round)**
 
-The Hill • 1h ago
-
----
-
-**[TDK Plans Silicon Battery Update for Holiday Season’s AI Gadgets](https://www.bloomberg.com/news/articles/2026-01-06/tdk-plans-silicon-battery-update-for-holiday-season-s-ai-gadgets)**
-
-Bloomberg.com • 1h ago
+The Information • 48m ago
 
 ---
 
-**[Razer Thinks AI Headphones With Cameras Can Take On Meta’s Ray-Bans](https://gizmodo.com/razer-thinks-ai-headphones-with-cameras-can-take-on-metas-ray-bans-2000705583)**
+**[The AI Safety Demo That Caused Alarm in Washington](https://time.com/7343429/ai-bioweapons-gemini-claude/)**
 
-Everyone wants in on the AI wearable game, but Razer is offering a slightly different take.
+A demo given to officials in Washington D.C. appears to show leading AI tools giving detailed bioweapon instructions
 
-Gizmodo • 1h ago
+Time Magazine • 40m ago
+
+---
+
+**[How AI Could Help Decide Your Next Legal Dispute](https://www.wsj.com/tech/ai/how-ai-could-help-decide-your-next-legal-dispute-9cb12517?gaa_at=eafs&gaa_n=AWEtsqe9rzZ19YMVuSK9ZWEF9JaEyE0MdlqaxM7dvYvYI-mX_j0GQQCiklJW&gaa_ts=695d31f4&gaa_sig=EvK8ixJRlLBmJJ-qM8_fHjjvpVyGYSJfsk4k77aZCiE15qdrAKt0JTT2AU-Y_24qtr-KsOZ8B1zRi2vL95kRoA%3D%3D)**
+
+The Wall Street Journal • 47m ago
 
 ---
 
@@ -157,23 +157,11 @@ Gizmodo • 1h ago
 
 As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
-**[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
-
-The Economist • 23h ago
-
----
-
-**[Why Equinox Leaned on AI Slop in Its New Year’s Ad Campaign](https://www.wsj.com/articles/why-equinox-leaned-on-ai-slop-in-its-new-years-ad-campaign-a44a7f2e?gaa_at=eafs&gaa_n=AWEtsqfmMm9x1dxcPBrq0illdO_PtDJpgdzlczDlv-7w5YJaacRECKPL15kK&gaa_ts=695d1ea4&gaa_sig=m68yIArYMcF6l0uquydmVNNftfCF0HFsWPMnqqivPg2CCU-bpgDeMOTzmSRQnrBiXajC506fYuMLjJq2lPzzgg%3D%3D)**
-
-The Wall Street Journal • 21h ago
-
----
-
-**[The mother of one of Elon Musk’s children says his AI bot won’t stop creating sexualized images of her](https://www.nbcnews.com/tech/elon-musk/mother-one-elon-musks-children-says-ai-bot-wont-stop-creating-sexualiz-rcna252416)**
+**[The mother of one of Elon Musk's children says his AI bot won't stop creating sexualized images of her](https://www.nbcnews.com/tech/elon-musk/mother-one-elon-musks-children-says-ai-bot-wont-stop-creating-sexualiz-rcna252416)**
 
 Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
 
@@ -181,11 +169,25 @@ NBC News • 2h ago
 
 ---
 
-**[Grok AI still being used to digitally undress women and children despite suspension pledge](https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-digitally-undress-images-of-women-children)**
+**[‘I felt violated’: Elon Musk’s AI chatbot crosses a line](https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-chatbot)**
 
-The degrading pictures are being posted to X despite the platform pledging to suspend people who generate them
+Chatbot still being used to digitally undress women and children, while US takes TikTok approach to drones
 
-The Guardian • 20h ago
+The Guardian • 1h ago
+
+---
+
+**[Government demands Musk's X deals with 'appalling' Grok AI](https://www.bbc.com/news/articles/crrn054nxe7o)**
+
+Grok is being used to digitally remove women's clothing - something victims describe as "dehumanising".
+
+BBC • 1h ago
+
+---
+
+**[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
+
+The Economist • 23h ago
 
 ---
 
@@ -263,7 +265,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 AI slop comes for Reddit.
 
-⬆️ 35 • 💬 42 • 19h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
+⬆️ 35 • 💬 42 • 20h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -335,7 +337,7 @@ Support me by subscribing to the Thomas AI channel https://www.youtube.com/@thom
 
 📺 Maggie McGaugh
 
-👁️ 314K • 👍 9K • 💬 114 • ⏱️ 0:59 • 21h ago
+👁️ 314K • 👍 9K • 💬 114 • ⏱️ 0:59 • 22h ago
 
 ---
 
@@ -345,7 +347,7 @@ The journey of NVIDIA and AI began with GeForce—a chip built for play that awa
 
 📺 NVIDIA
 
-👁️ 5K • 👍 314 • ⏱️ 3:30 • 9h ago
+👁️ 5K • 👍 314 • ⏱️ 3:30 • 10h ago
 
 ---
 
@@ -666,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 122 • 1h ago
+⭐ 2.0k • 🔱 122 • 2h ago
 
 ---
 
@@ -726,7 +728,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 965 • 🔱 114 • 12h ago
+⭐ 965 • 🔱 114 • 13h ago
 
 ---
 

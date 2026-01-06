@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T15:24:59.439100+00:00'
+updated: '2026-01-06T15:47:28.968159+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 15:24 UTC  
+**Last Updated:** January 06, 2026 at 15:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 1h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 2h ago
 
 ---
 
@@ -64,7 +64,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ I'm 17 years old and I really enjoy robotics and related things. However, since 
 
 In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
 
-4h ago
+5h ago
 
 ---
 
@@ -120,19 +120,25 @@ NVIDIA Newsroom • 17h ago
 
 ---
 
-**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
-
-NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
-
-NVIDIA Developer • 17h ago
-
----
-
 **[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
 TechCrunch • 16h ago
+
+---
+
+**[Nvidia CEO Huang Pushes ‘Physical AI’ at CES. Why the Stock Market Is Shrugging.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcBjbLxAY5k6ZTCjcj2QwMxlYRxHdfLZVTWsHe0U2wpgRusYbsblNwa&gaa_ts=695d31f8&gaa_sig=K1IrTlPOUmIPz7nsYLDFbTL4I4m-jLMDe1yWIVyTaOoV4bt8Q5kcbsYVjoZ0ctZyrktjch3280o4IOffcmPpjQ%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
+
+A new wave of humanoids are coming. Qualcomm is ready to power them.
+
+CNET • 1d ago
 
 ---
 
@@ -151,14 +157,6 @@ Reuters • 3h ago
 
 ---
 
-**[NVIDIA releases new physical AI models, plus autonomous vehicle tools](https://www.therobotreport.com/nvidia-releases-new-physical-ai-models-plus-autonomous-vehicle-tools/)**
-
-NVIDIA released Cosmos, GR00T, and Alpamayo open models to help developers build reasoning machines including robots and vehicles.
-
-The Robot Report • 2h ago
-
----
-
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
 Bloomberg.com • 1d ago
@@ -173,19 +171,19 @@ Yahoo Finance • 22h ago
 
 ---
 
-**[Schaeffler brings robotics, energy and vehicle tech to CES 2026](https://seekingalpha.com/news/4536504-schaeffler-brings-robotics-energy-and-vehicle-tech-to-ces-2026)**
+**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
-Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
+In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-Seeking Alpha • 1d ago
+The Robot Report • 3d ago
 
 ---
 
-**[Shenzhen eyes bigger role in world robotics arena as firms vow to boost output](https://www.scmp.com/tech/big-tech/article/3338938/shenzhen-poised-bigger-role-world-robotics-arena-firms-vow-boost-output)**
+**[Meet 5 medtech companies redefining surgical robotics](https://www.medtechdive.com/news/New-robotic-surgery-platforms-company-profiles-roundup/808734/)**
 
-Premier Li Qiang urges faster adoption of robotics to benefit industries and households during a meeting with tech companies in Shenzhen.
+Executives at companies innovating a range of new robotic surgery platforms shared their progress and challenges in MedTech Dive's series of profiles.
 
-South China Morning Post • 5h ago
+MedTech Dive • 23h ago
 
 ---
 
@@ -229,7 +227,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 127K • 👍 8K • 💬 1K • ⏱️ 2:05 • 17h ago
+👁️ 127K • 👍 8K • 💬 1K • ⏱️ 2:05 • 18h ago
 
 ---
 

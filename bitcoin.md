@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T15:24:59.429892+00:00'
+updated: '2026-01-06T15:47:28.958965+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 15:24 UTC  
+**Last Updated:** January 06, 2026 at 15:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 **[Bitcoin could realistically become a global currency through sats, making everyday transactions easier and more universal. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q5gaab/bitcoin_could_realistically_become_a_global/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -159,59 +159,57 @@ Yahoo Finance • 4h ago
 
 ---
 
-**[Morgan Stanley eyes the spot bitcoin ETF market](https://www.coindesk.com/markets/2026/01/06/morgan-stanley-eyes-the-spot-bitcoin-etf-market)**
+**[Morgan Stanley files for bitcoin and solana ETFs, deepening crypto push](https://www.coindesk.com/markets/2026/01/06/morgan-stanley-eyes-the-spot-bitcoin-etf-market)**
 
 Wall Street heavyweight files for bitcoin trust amid rising institutional demand.
 
-CoinDesk • 3h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Crypto Latecomer Morgan Stanley Files for Bitcoin, Solana ETFs](https://www.bloomberg.com/news/articles/2026-01-06/crypto-latecomer-morgan-stanley-files-for-bitcoin-solana-etfs)**
+**[Spot bitcoin ETFs report $697 million in net inflows, largest daily total since October](https://www.theblock.co/post/384421/spot-bitcoin-etfs-700-million-inflows)**
 
-Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
-
-Bloomberg.com • 2h ago
+The Block • 8h ago
 
 ---
 
-**[Bitcoin’s weakness is saying there will be a handoff to old-economy stocks, these market veterans say](https://www.marketwatch.com/story/bitcoins-weakness-is-saying-there-will-be-a-handoff-to-old-economy-stocks-these-market-veterans-say-184da9aa?gaa_at=eafs&gaa_n=AWEtsqcz91pAIGulnbc1CAiPGnhgMx4xxAPampeGmkyCKsi3vBqYjwWzgllC&gaa_ts=695d1ea6&gaa_sig=BzEHO11HQ2KgvNBfoRHU8FayO2rZS48vYazfD8mqTZJ6TS8YsQyYiZCQQb61gL6v5n8joGoqVhcRyHJE6i0eyw%3D%3D)**
+**[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-MarketWatch • 3h ago
-
----
-
-**[Why Bitcoin, Ethereum ETFs just scooped up $1.5bn and what happens next](https://www.dlnews.com/articles/markets/bitcoin-ethereum-etfs-receive-huge-2026-inflows/)**
-
-US Bitcoin and Ethereum ETFs have received over $1.5 billion in inflows from investors since the beginning of January.  The prices of the two biggest cryptocurrencies have surged. Crypto markets finished 2025 in the red.
-
-dlnews.com • 3h ago
+Investor's Business Daily • 18h ago
 
 ---
 
-**[Bitcoin prices unmoved by US’ Venezuela strikes – but experts warn of Monday market turbulence](https://www.dlnews.com/articles/markets/bitcoin-prices-unmoved-by-us-venezuela-strikes/)**
+**[Bitcoin could soon break out. This options trade could lead to big returns if it does](https://www.cnbc.com/2026/01/06/bitcoin-could-soon-break-out-trading-the-move-with-options-on-this-proxy-stock.html)**
 
-Bitcoin prices continue to rise slowly amid news of Venezuelan President Maduro’s capture. Events of January 3 are “already behind” the Bitcoin market, says expert. Oil and stock markets could tumble on Monday, analysts warn.
+Nishant Pant breaks down this bull call spread options trade.
 
-dlnews.com • 2d ago
+CNBC • 19m ago
 
 ---
 
-**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqcsRoNwWNXZumgRO6ftQ6udelzvon_FuO1b48qb7fTChxsDIVs_XkwR&gaa_ts=695d1ea6&gaa_sig=3L8mK1lk2vIEDYACz72UhoqpRvgy6vHvsTvx06kBtBTdL-dknTmVSCg9EwsMm0Be-mU3fqLyACCprt51Clj74w%3D%3D)**
+**[Bernstein says bitcoin has likely bottomed, reveals price targets](https://www.investing.com/news/cryptocurrency-news/bernstein-says-bitcoin-has-likely-bottomed-reveals-price-targets-4432569)**
+
+Investing.com • 1h ago
+
+---
+
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqdsaZsovVD8c16_diVjY1J-prBlnKwqov7sl-kBd86hxVuWFh5sNXhD&gaa_ts=695d31f5&gaa_sig=X8VO9rgbNw6zXdjZiuVOvdYfYloqmCEhqTmT5t3fOpATJ5dlPEPNkWeozB4xuUUOJjuXpBl1PNQGeNLVzko5ng%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
+**[Did DOJ Prosecutors Violate Trump’s Executive Order by Selling the Forfeited Samourai Wallet Bitcoin?](https://bitcoinmagazine.com/news/did-doj-prosecutors-violate-trumps-executive-order-by-selling-the-forfeited-samourai-wallet-bitcoin)**
 
-Reuters • 16h ago
+On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
+
+Bitcoin Magazine • 20h ago
 
 ---
 
-**[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
+**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
 
-Bloomberg.com • 19h ago
+Forbes • 2d ago
 
 ---
 
@@ -343,7 +341,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 11K • 👍 701 • 💬 44 • ⏱️ 13:49 • 6h ago
+👁️ 11K • 👍 701 • 💬 44 • ⏱️ 13:49 • 7h ago
 
 ---
 
@@ -383,7 +381,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 478 • 💬 77 • ⏱️ 6:34 • 8h ago
+👁️ 7K • 👍 478 • 💬 77 • ⏱️ 6:34 • 9h ago
 
 ---
 

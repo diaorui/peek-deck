@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T15:24:59.435887+00:00'
+updated: '2026-01-06T15:47:28.964913+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 15:24 UTC  
+**Last Updated:** January 06, 2026 at 15:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -104,13 +104,13 @@ Yet another data breach, this time involving payment processor Global-E, with cu
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-22h ago
+23h ago
 
 ---
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -150,6 +150,28 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+
+The Block • 23h ago
+
+---
+
+**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
+
+CNBC • 19h ago
+
+---
+
+**[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
+
+Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
+
+GlobeNewswire • 1d ago
+
+---
+
 **[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
@@ -174,55 +196,35 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Network Usage Hits Record High—But Traders More Bullish on Gold](https://finance.yahoo.com/news/ethereum-network-usage-hits-record-123247650.html)**
+**[Ethereum news: Staking queues drop to nearly zero, setting up bearish outlook for ETH](https://www.coindesk.com/markets/2026/01/06/ethereum-s-staking-queues-have-cleared-and-that-changes-the-eth-trade)**
 
-Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
+With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Why Bitcoin, Ethereum ETFs just scooped up $1.5bn and what happens next](https://www.dlnews.com/articles/markets/bitcoin-ethereum-etfs-receive-huge-2026-inflows/)**
-
-US Bitcoin and Ethereum ETFs have received over $1.5 billion in inflows from investors since the beginning of January.  The prices of the two biggest cryptocurrencies have surged. Crypto markets finished 2025 in the red.
-
-dlnews.com • 3h ago
+CoinDesk • 14m ago
 
 ---
 
-**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+**[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://finance.yahoo.com/news/ethereum-250-000-tom-lee-124353479.html)**
 
-The Block • 22h ago
+Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
----
-
-**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
-
-CNBC • 19h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
+**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://decrypt.co/353585/tom-lee-predicts-250k-ethereum-price-bitmine-adds-13-billion-stash)**
 
-Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
+BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-GlobeNewswire • 1d ago
-
----
-
-**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
-
-CCN.com • 4h ago
+Decrypt • 23h ago
 
 ---
 
-**[Ethereum Layer-2 Network Starknet Back Online Following Outage](https://decrypt.co/353625/ethereum-layer-2-starknet-back-online-outage)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.144 Million Tokens, and Total Crypto and Total Cash Holdings of $14.2 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-144-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-2-billion-302652341.html)**
 
-Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
+Bitmine releases Special Chairman's Message related to upcoming Annual Stockholder Meeting Bitmine staked ETH stands at 659,219 and MAVAN staking solution on...
 
-Decrypt • 21h ago
+PR Newswire • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 13K • 👍 221 • 💬 135 • ⏱️ 12:31 • 18h ago
+👁️ 13K • 👍 221 • 💬 135 • ⏱️ 12:31 • 19h ago
 
 ---
 
@@ -256,7 +258,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 5K • 👍 591 • 💬 51 • ⏱️ 16:00 • 11h ago
+👁️ 5K • 👍 591 • 💬 51 • ⏱️ 16:00 • 12h ago
 
 ---
 
@@ -316,7 +318,7 @@ BITMINE IMMERSION TECHNOLOGIES STOCK: TOM LEE "150x GAINS"?! Ethereum Supercycle
 
 📺 ​In Case You Missed It: 5 Min
 
-👁️ 69 • 👍 2 • ⏱️ 8:40 • 1h ago
+👁️ 69 • 👍 2 • ⏱️ 8:40 • 2h ago
 
 ---
 
