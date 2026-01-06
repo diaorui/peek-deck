@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T16:31:21.009537+00:00'
+updated: '2026-01-06T17:24:21.870604+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 16:31 UTC  
+**Last Updated:** January 06, 2026 at 17:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-22h ago
+23h ago
 
 ---
 
@@ -63,7 +63,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 **[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 2h ago
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 3h ago
 
 ---
 
@@ -79,7 +79,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ The title of the thread kind of says it all. I'm trying to generate music tracks
 
 Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
 
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 13h ago
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 14h ago
 
 ---
 
@@ -95,7 +95,7 @@ Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles huma
 
 I am building an experimental AI tool that analyzes images to suggest real world location by detecting architectural and design elements and explaining why those cues point to a specific place. I tested it on a public image with a known location and recorded a short video showing the reasoning process. The output was close but imperfect, which is expected at this stage. I am mainly interested in whether explanation driven reasoning makes these systems more useful and interpretable.
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ I am building an experimental AI tool that analyzes images to suggest real world
 
 Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
-🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 17h ago
+🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 18h ago
 
 ---
 
@@ -111,7 +111,7 @@ Nvidia just provided a closer look at its new computing platform for AI data cen
 
 The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
 
-🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 18m ago
+🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 1h ago
 
 ---
 
@@ -119,47 +119,39 @@ The publisher is teaming with a company that claims its proprietary AI can ‘pr
 
 ## Google News: "ai"
 
+**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
+
+The New York Times • 18h ago
+
+---
+
 **[Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
-**[Nvidia launches Vera Rubin, its next major AI platform, at CES 2026](https://finance.yahoo.com/news/nvidia-launches-vera-rubin-its-next-major-ai-platform-at-ces-2026-230045205.html)**
+**[NFL playoff predictions by Microsoft Copilot AI for every game, Super Bowl 60](https://www.usatoday.com/story/sports/nfl/2026/01/06/nfl-playoff-predictions-ai-super-bowl-60/88033506007/)**
 
-Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
+USA TODAY Sports used Microsoft Copilot AI to simulate the 2025 NFL playoffs. Here's the chatbot's picks for every game, including Super Bowl 60.
 
-Yahoo Finance • 17h ago
-
----
-
-**[AI Evaluation Startup LMArena Valued at $1.7 Billion in New Funding Round](https://www.theinformation.com/articles/ai-evaluation-startup-lmarena-valued-1-7-billion-new-funding-round)**
-
-The Information • 1h ago
+USA Today • 22m ago
 
 ---
 
-**[The AI Safety Demo That Caused Alarm in Washington](https://time.com/7343429/ai-bioweapons-gemini-claude/)**
+**[Vulnerable teens prefer caring AI, but boundaried AI may be safer and helpful.](https://www.psychologytoday.com/us/blog/urban-survival/202601/why-ai-does-not-need-to-say-i-am-here-for-you-to-help-teens)**
 
-A demo given to officials in Washington D.C. appears to show leading AI tools giving detailed bioweapon instructions
+Two-thirds of teens prefer AI that says “I care,” with the strongest pull among teens who are stressed, anxious, or socially isolated.
 
-Time Magazine • 1h ago
-
----
-
-**[How AI Could Help Decide Your Next Legal Dispute](https://www.wsj.com/tech/ai/how-ai-could-help-decide-your-next-legal-dispute-9cb12517?gaa_at=eafs&gaa_n=AWEtsqe9rzZ19YMVuSK9ZWEF9JaEyE0MdlqaxM7dvYvYI-mX_j0GQQCiklJW&gaa_ts=695d31f4&gaa_sig=EvK8ixJRlLBmJJ-qM8_fHjjvpVyGYSJfsk4k77aZCiE15qdrAKt0JTT2AU-Y_24qtr-KsOZ8B1zRi2vL95kRoA%3D%3D)**
-
-The Wall Street Journal • 1h ago
+psychologytoday.com • 54m ago
 
 ---
 
-**[Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer](https://fortune.com/article/does-ai-increase-workplace-productivity-experiment-software-developers-task-took-longer/)**
+**[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
 
-As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
-
-Fortune • 1d ago
+The Economist • 1d ago
 
 ---
 
@@ -167,7 +159,7 @@ Fortune • 1d ago
 
 Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -179,17 +171,21 @@ The Guardian • 2h ago
 
 ---
 
-**[Government demands Musk's X deals with 'appalling' Grok AI](https://www.bbc.com/news/articles/crrn054nxe7o)**
+**[Elon Musk's chatbot bikini image edits draw scrutiny from U.S. and global regulators](https://www.axios.com/2026/01/06/grok-ai-elon-musk-deepfake-bikini)**
 
-Grok is being used to digitally remove women's clothing - something victims describe as "dehumanising".
-
-BBC • 2h ago
+Axios • 6h ago
 
 ---
 
-**[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
+**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-The Economist • 1d ago
+Politico • 2h ago
+
+---
+
+**[The war for minerals, oil and AI](https://www.axios.com/2026/01/06/donroe-doctrine-the-war-for-minerals-oil-and-ai)**
+
+Axios • 6h ago
 
 ---
 
@@ -217,7 +213,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 198 • 💬 306 • 18h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 198 • 💬 306 • 19h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -231,7 +227,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 92 • 💬 47 • 19h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 92 • 💬 47 • 20h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -239,7 +235,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 Surely it works this time
 
-⬆️ 66 • 💬 71 • 1d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 66 • 💬 71 • 2d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -259,7 +255,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 **[Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324)**
 
-⬆️ 39 • 💬 6 • 13h ago
+⬆️ 39 • 💬 6 • 14h ago
 
 ---
 
@@ -311,7 +307,7 @@ Hyperscalers and chip stocks have soared in the first phase of AI. CNBC's Robert
 
 📺 CNBC Television
 
-👁️ 852 • 👍 16 • 💬 2 • ⏱️ 4:01 • 2h ago
+👁️ 852 • 👍 16 • 💬 2 • ⏱️ 4:01 • 3h ago
 
 ---
 
@@ -339,7 +335,7 @@ The number of legendary investors calling this an AI bubble continues to climb, 
 
 📺 Maggie McGaugh
 
-👁️ 336K • 👍 10K • 💬 118 • ⏱️ 0:59 • 22h ago
+👁️ 336K • 👍 10K • 💬 118 • ⏱️ 0:59 • 23h ago
 
 ---
 
@@ -349,7 +345,7 @@ NVIDIA just revealed its boldest vision yet at CES 2026, and it goes far beyond 
 
 📺 DPCcars
 
-👁️ 1K • 👍 32 • 💬 13 • ⏱️ 19:01 • 14h ago
+👁️ 1K • 👍 32 • 💬 13 • ⏱️ 19:01 • 15h ago
 
 ---
 
@@ -407,7 +403,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 392 • 14h ago
+⬇️ 2,057 • ❤️ 392 • 15h ago
 
 ---
 
@@ -491,7 +487,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 1,867 • ❤️ 360 • 17h ago
+⬇️ 1,867 • ❤️ 360 • 18h ago
 
 ---
 
@@ -650,7 +646,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.9k • 🔱 701 • 41m ago
+⭐ 5.9k • 🔱 701 • 1h ago
 
 ---
 
@@ -670,7 +666,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 122 • 2h ago
+⭐ 2.0k • 🔱 122 • 3h ago
 
 ---
 
@@ -700,7 +696,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 135 • 7h ago
+⭐ 1.1k • 🔱 135 • 8h ago
 
 ---
 
@@ -710,7 +706,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 81 • 20h ago
+⭐ 1.0k • 🔱 81 • 21h ago
 
 ---
 
@@ -730,7 +726,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 966 • 🔱 114 • 5m ago
+⭐ 966 • 🔱 114 • 58m ago
 
 ---
 

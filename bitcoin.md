@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T16:31:21.018426+00:00'
+updated: '2026-01-06T17:24:21.879113+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 16:31 UTC  
+**Last Updated:** January 06, 2026 at 17:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,31 +79,31 @@ Rank #1
 
 **[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-2h ago
+3h ago
 
 ---
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-5h ago
+6h ago
 
 ---
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-20h ago
+21h ago
 
 ---
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -115,7 +115,7 @@ Rank #1
 
 **[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-15h ago
+16h ago
 
 ---
 
@@ -135,7 +135,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -147,7 +147,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 7h ago
 
 Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -163,19 +163,27 @@ Yahoo Finance • 5h ago
 
 Wall Street heavyweight files for bitcoin trust amid rising institutional demand.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Spot bitcoin ETFs report $697 million in net inflows, largest daily total since October](https://www.theblock.co/post/384421/spot-bitcoin-etfs-700-million-inflows)**
+**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
 
-The Block • 9h ago
+Investor's Business Daily • 1h ago
 
 ---
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
 Investor's Business Daily • 19h ago
+
+---
+
+**[Dogecoin Barks Up Huge Gains as Bitcoin Climbs and Meme Coins Show Signs of Life](https://finance.yahoo.com/news/dogecoin-barks-huge-gains-bitcoin-164402553.html)**
+
+Dogecoin is up 17% in the last week as interest in meme coins begins to rebound as Bitcoin climbs to a monthly high.
+
+Yahoo Finance • 40m ago
 
 ---
 
@@ -187,13 +195,7 @@ CNBC • 1h ago
 
 ---
 
-**[Bernstein says bitcoin has likely bottomed, reveals price targets](https://www.investing.com/news/cryptocurrency-news/bernstein-says-bitcoin-has-likely-bottomed-reveals-price-targets-4432569)**
-
-Investing.com • 2h ago
-
----
-
-**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqdsaZsovVD8c16_diVjY1J-prBlnKwqov7sl-kBd86hxVuWFh5sNXhD&gaa_ts=695d31f5&gaa_sig=X8VO9rgbNw6zXdjZiuVOvdYfYloqmCEhqTmT5t3fOpATJ5dlPEPNkWeozB4xuUUOJjuXpBl1PNQGeNLVzko5ng%3D%3D)**
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqefNw7F_xF2LWUAWiJ0_VAKYb3ooqNsxRgfU9H1zsI9K_GFzF6ih6Ov&gaa_ts=695d48af&gaa_sig=GnUj3JhCOQc9V_jim8gziyP2MSoL1n4D04IpCJlz67kB-mLm-8vKy9f3if9r4EYUIalbGNXaaMvyekOxnuuGeQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -203,13 +205,13 @@ The Wall Street Journal • 1d ago
 
 On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
-**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Forbes • 2d ago
+Binance • 22h ago
 
 ---
 
@@ -243,7 +245,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 2d ago
+⬆️ 2 • 💬 0 • 3d ago
 
 ---
 
@@ -279,7 +281,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 5d ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 6d ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -287,7 +289,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 21h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 22h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -301,7 +303,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 164 • 💬 71 • ⏱️ 8:25 • 3h ago
+👁️ 7K • 👍 164 • 💬 71 • ⏱️ 8:25 • 4h ago
 
 ---
 
@@ -311,7 +313,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 2K • 💬 183 • ⏱️ 9:17 • 14h ago
+👁️ 56K • 👍 2K • 💬 183 • ⏱️ 9:17 • 15h ago
 
 ---
 
@@ -331,7 +333,7 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 20K • 👍 224 • 💬 45 • ⏱️ 3:12 • 19h ago
+👁️ 20K • 👍 224 • 💬 45 • ⏱️ 3:12 • 20h ago
 
 ---
 
@@ -341,7 +343,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 2K • 💬 278 • ⏱️ 8:08 • 15h ago
+👁️ 29K • 👍 2K • 💬 278 • ⏱️ 8:08 • 16h ago
 
 ---
 
@@ -351,7 +353,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 14K • 👍 764 • 💬 49 • ⏱️ 13:49 • 7h ago
+👁️ 14K • 👍 764 • 💬 49 • ⏱️ 13:49 • 8h ago
 
 ---
 
@@ -361,7 +363,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 12K • 👍 833 • 💬 66 • ⏱️ 16:32 • 5h ago
+👁️ 12K • 👍 833 • 💬 66 • ⏱️ 16:32 • 6h ago
 
 ---
 
@@ -371,7 +373,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 509 • 💬 79 • ⏱️ 6:34 • 9h ago
+👁️ 8K • 👍 509 • 💬 79 • ⏱️ 6:34 • 10h ago
 
 ---
 
@@ -391,7 +393,7 @@ Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Prem
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 867 • 💬 15 • ⏱️ 31:55 • 1h ago
+👁️ 5K • 👍 867 • 💬 15 • ⏱️ 31:55 • 2h ago
 
 ---
 

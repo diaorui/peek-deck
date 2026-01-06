@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T16:31:21.027884+00:00'
+updated: '2026-01-06T17:24:21.888418+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 16:31 UTC  
+**Last Updated:** January 06, 2026 at 17:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-34m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 2h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 18h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 19h ago
 
 ---
 
@@ -60,13 +60,13 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 9h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 10h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 We are planning to purchase a robotic arm and for that we have shortlisted these two options : https://www.hiwonder.com/products/jetarm?variant=41317228019799 https://category.yahboom.net/collections/r-robotics-arm/products/dofbot-pro?variant=50334820532540 Any suggestions on which one would be better or any better third option suggestion
 
-31m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ We are planning to purchase a robotic arm and for that we have shortlisted these
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ I'm 17 years old and I really enjoy robotics and related things. However, since 
 
 In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
 
-5h ago
+6h ago
 
 ---
 
@@ -116,7 +116,15 @@ In this tutorial, I’ll show you how to build the brain of a DQN agent, train i
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 18h ago
+NVIDIA Newsroom • 19h ago
+
+---
+
+**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
+
+NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
+
+NVIDIA Developer • 19h ago
 
 ---
 
@@ -124,13 +132,7 @@ NVIDIA Newsroom • 18h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 17h ago
-
----
-
-**[Nvidia CEO Huang Pushes ‘Physical AI’ at CES. Why the Stock Market Is Shrugging.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcBjbLxAY5k6ZTCjcj2QwMxlYRxHdfLZVTWsHe0U2wpgRusYbsblNwa&gaa_ts=695d31f8&gaa_sig=K1IrTlPOUmIPz7nsYLDFbTL4I4m-jLMDe1yWIVyTaOoV4bt8Q5kcbsYVjoZ0ctZyrktjch3280o4IOffcmPpjQ%3D%3D)**
-
-Barron's • 3h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -142,18 +144,9 @@ CNET • 1d ago
 
 ---
 
-**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
+**[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
-people and production.
-
-hyundai.com • 19h ago
-
----
-
-**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
-
-Reuters • 4h ago
+Axios • 4h ago
 
 ---
 
@@ -163,19 +156,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Qualcomm unveils PC chip, humanoid robotics initiative at CES 2026](https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-humanoid-robotics-initiative-at-ces-2026-170020697.html)**
+**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
 
-Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
+Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
+**[BCSC’s VEX IQ robotics teams teams qualify for state](https://www.therepublic.com/2026/01/06/bcscs-vex-iq-robotics-teams-teams-qualify-for-state/)**
 
-In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
-
-The Robot Report • 3d ago
+The Republic News • 12h ago
 
 ---
 
@@ -184,6 +175,12 @@ The Robot Report • 3d ago
 Executives at companies innovating a range of new robotic surgery platforms shared their progress and challenges in MedTech Dive's series of profiles.
 
 MedTech Dive • 1d ago
+
+---
+
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -267,7 +264,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 14K • 👍 299 • 💬 26 • ⏱️ 1:33:26 • 17h ago
+👁️ 14K • 👍 299 • 💬 26 • ⏱️ 1:33:26 • 18h ago
 
 ---
 
@@ -277,7 +274,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 148K • 👍 4K • 💬 770 • ⏱️ 7:00 • 17h ago
+👁️ 148K • 👍 4K • 💬 770 • ⏱️ 7:00 • 18h ago
 
 ---
 
