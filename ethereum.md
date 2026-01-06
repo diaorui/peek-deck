@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T17:24:21.885214+00:00'
+updated: '2026-01-06T17:47:33.632746+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 17:24 UTC  
+**Last Updated:** January 06, 2026 at 17:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,264.93
+### $3,247.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +9.6%  
-**30d:** +4.2%  
-**90d:** -25.4%  
-**1y:** -3.7%  
+**24h:** +0.7%  
+**7d:** +8.8%  
+**30d:** +3.5%  
+**90d:** -25.9%  
+**1y:** -4.3%  
 
 ---
 
@@ -76,6 +76,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Eth Investment thesis](https://www.reddit.com/r/ethereum/comments/1q5nwo1/eth_investment_thesis/)**
+
+Allocation: 7% First Purchased: July 24, 2016 Thesis: This investment is largely building on my belief that blockchain technology and smart contracts are what the future will be built on.  Eth…
+
+🔗 [Wanderblog](https://wanderblogorg.wordpress.com/2026/01/06/ethereum/) • 55m ago
+
+---
+
 **[Slippage FAQ: Calculating Necessary Slippage for DEX Swaps Using Bitquery DEXPool Stream](https://www.reddit.com/r/ethereum/comments/1q5fejp/slippage_faq_calculating_necessary_slippage_for/)**
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
@@ -84,19 +92,19 @@ FAQ answering developer questions about calculating necessary slippage before ex
 
 ---
 
-**[Daily General Discussion January 05, 2026](https://www.reddit.com/r/ethereum/comments/1q4duem/daily_general_discussion_january_05_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
 **[Another data breach Ledger this time at Global-E. Decentralization alone isn’t enough.](https://www.reddit.com/r/ethereum/comments/1q5bjnh/another_data_breach_ledger_this_time_at_globale/)**
 
 Yet another data breach, this time involving payment processor Global-E, with customer personal data reportedly exposed. We often talk about blockchain as a solution for privacy and transparency. But incidents like this show a hard truth: privacy failures still happen at the infrastructure and application layer, regardless of whether crypto or blockchain is involved. Decentralization doesn’t automatically mean privacy. Security practices, data minimization, and proper protection of user information still matter a lot. If sensitive data keeps leaking before it ever touches a blockchain, that’s a problem we shouldn’t ignore. Curious how others here see this are we focusing too much on decentralization while underestimating basic data security?
 
 10h ago
+
+---
+
+**[Daily General Discussion January 05, 2026](https://www.reddit.com/r/ethereum/comments/1q4duem/daily_general_discussion_january_05_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
 
 ---
 
@@ -110,7 +118,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -138,14 +146,6 @@ Just published a retrospective on smart contract hacks of 2025, even audited and
 
 ---
 
-**[Daily General Discussion January 03, 2026](https://www.reddit.com/r/ethereum/comments/1q2mteo/daily_general_discussion_january_03_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 13K • 👍 230 • 💬 132 • ⏱️ 12:31 • 20h ago
+👁️ 13K • 👍 230 • 💬 132 • ⏱️ 12:31 • 21h ago
 
 ---
 
@@ -286,7 +286,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 626 • 💬 53 • ⏱️ 16:00 • 13h ago
+👁️ 6K • 👍 626 • 💬 53 • ⏱️ 16:00 • 14h ago
 
 ---
 

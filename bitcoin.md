@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T17:24:21.879113+00:00'
+updated: '2026-01-06T17:47:33.626659+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- videos
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 17:24 UTC  
+**Last Updated:** January 06, 2026 at 17:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,095.42
+### $92,168.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +6.2%  
-**30d:** +2.5%  
-**90d:** -23.5%  
-**1y:** -3.9%  
+**24h:** -2.5%  
+**7d:** +5.0%  
+**30d:** +1.4%  
+**90d:** -24.3%  
+**1y:** -4.9%  
 
 ---
 
@@ -77,21 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
-
-3h ago
-
----
-
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
 4h ago
 
 ---
 
+**[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
+
+3h ago
+
+---
+
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,9 +101,15 @@ Rank #1
 
 ---
 
+**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
+
+3h ago
+
+---
+
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -113,29 +119,25 @@ Rank #1
 
 ---
 
-**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
-
-2h ago
-
----
-
 **[Crypto Guys when Bitcoin up +5%](https://www.reddit.com/r/Bitcoin/comments/1q53gc0/crypto_guys_when_bitcoin_up_5/)**
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-16h ago
+17h ago
 
 ---
 
 **[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-13h ago
+14h ago
 
 ---
 
-**[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
+**[3% vs -30%: Different Worlds](https://www.reddit.com/r/Bitcoin/comments/1q5jj69/3_vs_30_different_worlds/)**
 
-22h ago
+BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
+
+3h ago
 
 ---
 
@@ -175,7 +177,7 @@ Investor's Business Daily • 1h ago
 
 **[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
@@ -183,7 +185,7 @@ Investor's Business Daily • 19h ago
 
 Dogecoin is up 17% in the last week as interest in meme coins begins to rebound as Bitcoin climbs to a monthly high.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +193,7 @@ Yahoo Finance • 40m ago
 
 Nishant Pant breaks down this bull call spread options trade.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -353,7 +355,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 14K • 👍 764 • 💬 49 • ⏱️ 13:49 • 8h ago
+👁️ 14K • 👍 764 • 💬 49 • ⏱️ 13:49 • 9h ago
 
 ---
 
@@ -373,7 +375,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 509 • 💬 79 • ⏱️ 6:34 • 10h ago
+👁️ 8K • 👍 509 • 💬 79 • ⏱️ 6:34 • 11h ago
 
 ---
 

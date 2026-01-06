@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T17:24:21.870604+00:00'
+updated: '2026-01-06T17:47:33.617569+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 17:24 UTC  
+**Last Updated:** January 06, 2026 at 17:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Connect any LLM to all your knowledge sources and chat with it](https://www.reddit.com/r/artificial/comments/1q5h29v/connect_any_llm_to_all_your_knowledge_sources_and/)**
+**[That Video of Happy Crying Venezuelans After Maduro’s Kidnapping? It’s AI Slop](https://www.reddit.com/r/artificial/comments/1q5oz06/that_video_of_happy_crying_venezuelans_after/)**
 
-For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
+"The people cry for their freedom, thanks to the United States for freeing us."
 
-5h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/video-happy-crying-venezuelans-maduro-220200959.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAE17_B3cTxFUc585t6CQqLBQDIsM43kokgIAyMp2fr4ASdSuSqng6SGa2Uhi48jT2eNT_I_K3CbsB4A7HBYwF-Cro4tgBTrSjllWASclzziJeIo4U0FBniUDPI2SYdOfVXBmmtrr76_NtrMri6Fv5ZR-Kj8JXvnFQChzWltfkZI6) • 17m ago
+
+---
+
+**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
+
+All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
+
+2h ago
 
 ---
 
@@ -53,11 +61,11 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 ---
 
-**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
+**[Connect any LLM to all your knowledge sources and chat with it](https://www.reddit.com/r/artificial/comments/1q5h29v/connect_any_llm_to_all_your_knowledge_sources_and/)**
 
-All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
+For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-1h ago
+5h ago
 
 ---
 
@@ -71,7 +79,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 [SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
 
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 1h ago
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 2h ago
 
 ---
 
@@ -83,11 +91,11 @@ The title of the thread kind of says it all. I'm trying to generate music tracks
 
 ---
 
-**[Nvidia Launches Alpamayo AI for Human-Like Autonomous Driving](https://www.reddit.com/r/artificial/comments/1q57fru/nvidia_launches_alpamayo_ai_for_humanlike/)**
+**[HarperCollins Will Use AI to Translate Harlequin Romance Novels](https://www.reddit.com/r/artificial/comments/1q5mtqk/harpercollins_will_use_ai_to_translate_harlequin/)**
 
-Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
+The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
 
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 14h ago
+🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 1h ago
 
 ---
 
@@ -99,19 +107,11 @@ I am building an experimental AI tool that analyzes images to suggest real world
 
 ---
 
-**[Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin](https://www.reddit.com/r/artificial/comments/1q511qj/nvidia_just_provided_a_closer_look_at_its_new/)**
+**[Nvidia Launches Alpamayo AI for Human-Like Autonomous Driving](https://www.reddit.com/r/artificial/comments/1q57fru/nvidia_launches_alpamayo_ai_for_humanlike/)**
 
-Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
+Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
 
-🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 18h ago
-
----
-
-**[HarperCollins Will Use AI to Translate Harlequin Romance Novels](https://www.reddit.com/r/artificial/comments/1q5mtqk/harpercollins_will_use_ai_to_translate_harlequin/)**
-
-The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
-
-🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 1h ago
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 14h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 11h ago
 
 USA TODAY Sports used Microsoft Copilot AI to simulate the 2025 NFL playoffs. Here's the chatbot's picks for every game, including Super Bowl 60.
 
-USA Today • 22m ago
+USA Today • 45m ago
 
 ---
 
@@ -145,7 +145,7 @@ USA Today • 22m ago
 
 Two-thirds of teens prefer AI that says “I care,” with the strongest pull among teens who are stressed, anxious, or socially isolated.
 
-psychologytoday.com • 54m ago
+psychologytoday.com • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ NBC News • 4h ago
 
 Chatbot still being used to digitally undress women and children, while US takes TikTok approach to drones
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ Axios • 6h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 307 • 💬 317 • 1d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 308 • 💬 317 • 1d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -213,7 +213,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 198 • 💬 306 • 19h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 206 • 💬 320 • 19h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -227,7 +227,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 92 • 💬 47 • 20h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 92 • 💬 48 • 20h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -263,7 +263,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 AI slop comes for Reddit.
 
-⬆️ 36 • 💬 42 • 21h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
+⬆️ 36 • 💬 42 • 22h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -317,7 +317,7 @@ The journey of NVIDIA and AI began with GeForce—a chip built for play that awa
 
 📺 NVIDIA
 
-👁️ 7K • 👍 382 • ⏱️ 3:30 • 11h ago
+👁️ 7K • 👍 382 • ⏱️ 3:30 • 12h ago
 
 ---
 
@@ -335,7 +335,7 @@ The number of legendary investors calling this an AI bubble continues to climb, 
 
 📺 Maggie McGaugh
 
-👁️ 336K • 👍 10K • 💬 118 • ⏱️ 0:59 • 23h ago
+👁️ 336K • 👍 10K • 💬 118 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -666,7 +666,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 122 • 3h ago
+⭐ 2.0k • 🔱 122 • 4h ago
 
 ---
 
@@ -726,7 +726,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 966 • 🔱 114 • 58m ago
+⭐ 966 • 🔱 114 • 1h ago
 
 ---
 

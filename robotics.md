@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T17:24:21.888418+00:00'
+updated: '2026-01-06T17:47:33.635990+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 17:24 UTC  
+**Last Updated:** January 06, 2026 at 17:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 3h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 4h ago
 
 ---
 
@@ -70,33 +70,27 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 ---
 
-**[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
+**[VR controlled robots?](https://www.reddit.com/r/robotics/comments/1q5onsq/vr_controlled_robots/)**
 
-20h ago
+Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
 
----
-
-**[Robotic Arm](https://www.reddit.com/r/robotics/comments/1q5mhax/robotic_arm/)**
-
-We are planning to purchase a robotic arm and for that we have shortlisted these two options : https://www.hiwonder.com/products/jetarm?variant=41317228019799 https://category.yahboom.net/collections/r-robotics-arm/products/dofbot-pro?variant=50334820532540 Any suggestions on which one would be better or any better third option suggestion
-
-1h ago
+28m ago
 
 ---
 
-**[Hyundai Debuts Next-Gen Atlas Robot from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q52xzu/hyundai_debuts_nextgen_atlas_robot_from_boston/)**
+**[Looking for AI/Full-Stack SW people for an affordable & open Industrial Robotic Arm project (preferably EU)](https://www.reddit.com/r/robotics/comments/1q5o31y/looking_for_aifullstack_sw_people_for_an/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Hello everyone, we are a group of two engineers with combined experience in mechatronics, aerospace and robotics research, and also some experience creating tech startups and fundraising. We have been working hard creating our own affordable Industrial Robotic Arm from scratch with focus on maintainability and repairability, and feel confident with our current prototype. We are looking for passionate builders that want to join us in our journey, collaborating with your current skills and learn whatever else is needed, particularly to help in the areas we are missing right now (AI/ML and general Full-Stack SW development). We strongly believe in the principles of open-source and are located in the EU, with the goal of sourcing and assembling all the parts inside our common market. If my message caught your attention, feel free to DM me and we can talk more in Discord or email. For obvious reasons, we don't want to show our prototype here, but I would be happy showing it personally. You can see some stuff we have done in the past here: Autonomous shelf stocking & charging.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 17h ago
+49m ago
 
 ---
 
-**[I just wanted opinions for the project.](https://www.reddit.com/r/robotics/comments/1q50qbo/i_just_wanted_opinions_for_the_project/)**
+**[Mini-Pupper Software Setup Issues](https://www.reddit.com/r/robotics/comments/1q5o0dc/minipupper_software_setup_issues/)**
 
-I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
+Hi guys, I am currently working on a mini pupper quadruped for university with one of my fellow students. The story is basically, that we are both part of a mobile robotics class where we got a pre-assembled mangdang mini pupper to work with. We tried multiple ways of software installation which were recommended on the website here or from the repositories of mangdang here. The problem was that we couldn't get further than installing the repos, but when it came to building ROS2 nodes or starting the base functionality, it always failed or didn't work on the hardware the way it used to (aka it didn't do anything). We basically never got to the point in the tutorial where it shows it's eyes or IP-Address on Screen. Now the only thing we partially got working was the calibration software once from here. It yielded the best results so far in the way that we had the test image shown, sound heard, one leg twitch and the voltage output. But this is obviously not enough for our purpose. We both have very little experience with ROS2 and the mini pupper was just given to us a way to figure it out on our own. We don't even know if it's Version 1 or 2. My question is more or less if there are any helpful resources which work in 2026 or if anyone on this subreddit made a mini pupper work in the last year or so? Any help is highly appreciated, since we are clueless at this point. Thanks :)
 
-18h ago
+52m ago
 
 ---
 
@@ -104,7 +98,13 @@ I'm 17 years old and I really enjoy robotics and related things. However, since 
 
 In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
 
-6h ago
+7h ago
+
+---
+
+**[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
+
+21h ago
 
 ---
 
@@ -180,7 +180,7 @@ MedTech Dive • 1d ago
 
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -224,7 +224,7 @@ Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discu
 
 📺 CNBC Television
 
-👁️ 9K • 👍 250 • 💬 59 • ⏱️ 7:41 • 3h ago
+👁️ 9K • 👍 250 • 💬 59 • ⏱️ 7:41 • 4h ago
 
 ---
 
@@ -234,7 +234,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 146K • 👍 9K • 💬 1K • ⏱️ 2:05 • 19h ago
+👁️ 146K • 👍 9K • 💬 1K • ⏱️ 2:05 • 20h ago
 
 ---
 
