@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T09:28:00.995340+00:00'
+updated: '2026-01-06T09:50:45.021463+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 09:28 UTC  
+**Last Updated:** January 06, 2026 at 09:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,699.37
+### $93,392.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +6.5%  
-**30d:** +2.9%  
-**90d:** -23.2%  
-**1y:** -3.6%  
+**24h:** +0.3%  
+**7d:** +6.6%  
+**30d:** +3.0%  
+**90d:** -23.1%  
+**1y:** -3.5%  
 
 ---
 
@@ -81,13 +81,7 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-8h ago
-
----
-
-**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
-
-12h ago
+9h ago
 
 ---
 
@@ -101,15 +95,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 Did they lose a billion?
 
-8h ago
-
----
-
-**[We are officially watching the death of the "retail-driven" cycle](https://www.reddit.com/r/Bitcoin/comments/1q4xioq/we_are_officially_watching_the_death_of_the/)**
-
-The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
-
-12h ago
+9h ago
 
 ---
 
@@ -125,21 +111,35 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 ---
 
+**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
+
+13h ago
+
+---
+
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-14h ago
+15h ago
 
 ---
 
 **[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-5h ago
+6h ago
+
+---
+
+**[We are officially watching the death of the "retail-driven" cycle](https://www.reddit.com/r/Bitcoin/comments/1q4xioq/we_are_officially_watching_the_death_of_the/)**
+
+The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
+
+13h ago
 
 ---
 
 **[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -147,37 +147,61 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 ## Google News: "bitcoin"
 
-**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqcn_iG6jg5PtU6Bv8U9AvGS_vjCDTXS7TJQLQ0bcrHSZtux4stB-rzD&gaa_ts=695ccc4b&gaa_sig=83SlIauj7PELqvbys6bAF_2Pw5h6kX1ZqS69jz1KH-y6ojLVUMGSF58o4vz6b7Yo1Vwb3--Cm5bL7Hm-kQAY9w%3D%3D)**
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqcV94E8DaUUpcQWD8KBrAN6EyDLCZhlN5euozN5wsgQIVULqZGC4u_e&gaa_ts=695cde56&gaa_sig=pATsCOqwZLu4cQvibP72Lfq4CBDeE6ef3JD0y6Y0bQ__1GND51T_xgV6_FJaIl_m-nSjldUb5-0O_pGfV1YnAA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Did DOJ Prosecutors Violate Trump’s Executive Order by Selling the Forfeited Samourai Wallet Bitcoin?](https://bitcoinmagazine.com/news/did-doj-prosecutors-violate-trumps-executive-order-by-selling-the-forfeited-samourai-wallet-bitcoin)**
+**[Tom Lee says bitcoin has not peaked, calls for new all-time high by January 2026](https://www.coindesk.com/markets/2026/01/05/tom-lee-calls-for-a-new-bitcoin-ath-in-january-while-warning-of-a-volatile-2026)**
 
-On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
+After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
 
-Bitcoin Magazine • 14h ago
-
----
-
-**[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqcwYzCdn-7i7dFCsM5pUwXY_GwhK518B4AbIjSX06oXWwa0RRfM6_Pi&gaa_ts=695ccc4b&gaa_sig=SQ2Zem2qTWoFaaw9rtK1tKpQwe2pzQAFboOz2bjvIeZxGAW40-SC3naTiNWneE7-lXEWQQQo0QEzTjj-1TYrtw%3D%3D)**
-
-Barron's • 21h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Bitcoin price forecast: Here’s why BTC, ETH, SOL, XRP, DOGE are seeing a strong 2026](https://www.coindesk.com/markets/2026/01/06/here-s-why-bitcoin-and-major-tokens-are-seeing-a-strong-start-to-2026)**
+**[Is Donald Trump's BTC Reserve Being Ignored? 'Deeply Concerned' US Senator Slams Recent Government Bitcoin Sale](https://finance.yahoo.com/news/donald-trumps-btc-being-ignored-081544612.html)**
 
-Bitcoin and the broader crypto market have started 2026 with strong gains, driven by new-year allocations and a haven bid amid geopolitical tensions.
+Senator Cynthia Lummis said she was “deeply concerned” by reports that the U.S. government sold Bitcoin. The sale comes after an executive order from President ...
 
-CoinDesk • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
+**[XRP and Solana dethrone Bitcoin and Ethereum as institutional favorites in 2025](https://cryptoslate.com/xrp-and-solana-dethrone-bitcoin-and-ethereum-as-institutional-favorites-in-2025/)**
 
-Binance • 14h ago
+XRP investment products skyrocket as the era of Bitcoin-only dominance fades into a diversified market landscape.
+
+CryptoSlate • 12h ago
+
+---
+
+**[Bitcoin, Ethereum Jump Again as Cryptos Rally. Why XRP Is Surging.](https://www.barrons.com/articles/bitcoin-price-ethereum-cryptos-xrp-73799dc8?gaa_at=eafs&gaa_n=AWEtsqdvfs1HCrzY4-qlbF9Oz9GWK0IIAg1uk4fG5lcubBqRsc96sy1JK1vv&gaa_ts=695cde56&gaa_sig=a5c6U20S0Uy1TFoI2ILimeeDzgDj10gha9DE42E--Rem0ZkLbLi3E2giT2Bqmp8k8CCMQtPaF0UyfF_G4IGAnA%3D%3D)**
+
+Barron's • 44m ago
+
+---
+
+**[Should You Forget Bitcoin and Buy XRP Instead?](https://www.nasdaq.com/articles/should-you-forget-bitcoin-and-buy-xrp-instead-1)**
+
+Key PointsDespite many tailwinds for crypto in 2025, Bitcoin ended the year in the red.
+
+Nasdaq • 2d ago
+
+---
+
+**[Crypto Market News Today, January 6: Bitcoin Price Hits $94,000 as Federal Reserve Pumps Liquidity](https://finance.yahoo.com/news/crypto-market-news-today-january-081629256.html)**
+
+Coinbase Ventures just spotlighted the biggest growth trends for cryptocurrencies in the year ahead, but what are their 2026 crypto predictions? Find out what lies ahead and what serious money is targeting in 2026, from real-world assets on-chain to AI-powered crypto tools and new types of DeFi credit. While Bitcoin and ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
+
+Bloomberg.com • 14h ago
 
 ---
 
@@ -187,29 +211,9 @@ Reuters • 10h ago
 
 ---
 
-**[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
-
-Bloomberg.com • 13h ago
-
----
-
 **[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
 
 The Block • 20h ago
-
----
-
-**[Bitcoin Options Traders Eye $100,000 Following Year-End Meltdown](https://www.bloomberg.com/news/articles/2026-01-05/bitcoin-options-traders-eye-100-000-following-year-end-meltdown)**
-
-Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
-
-Bloomberg.com • 14h ago
-
----
-
-**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
-
-Forbes • 1d ago
 
 ---
 
@@ -351,7 +355,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 290 • 💬 21 • ⏱️ 6:34 • 2h ago
+👁️ 3K • 👍 290 • 💬 21 • ⏱️ 6:34 • 3h ago
 
 ---
 
@@ -371,7 +375,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 243 • ⏱️ 38:51 • 14h ago
+👁️ 31K • 👍 2K • 💬 243 • ⏱️ 38:51 • 15h ago
 
 ---
 

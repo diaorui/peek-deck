@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T09:28:01.001564+00:00'
+updated: '2026-01-06T09:50:45.027406+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 09:28 UTC  
+**Last Updated:** January 06, 2026 at 09:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +8.3%  
-**30d:** +3.1%  
-**90d:** -26.2%  
-**1y:** -4.7%  
+**24h:** +1.7%  
+**7d:** +8.5%  
+**30d:** +3.2%  
+**90d:** -26.1%  
+**1y:** -4.6%  
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-16h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
-🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 1d ago
+🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -170,13 +170,33 @@ Fortune • 20h ago
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
+
+---
+
+**[Why Are The Bitcoin, Ethereum, And Dogecoin Prices Rising?](https://www.tradingview.com/news/newsbtc:4878ecefd094b:0-why-are-the-bitcoin-ethereum-and-dogecoin-prices-rising/)**
+
+The Bitcoin, Ethereum, and Dogecoin prices are rising today, with the flagship crypto rising to as high as $93,000. This market rally comes on the back of several factors, including the U.S.-Venezuela escalations, which have increased risk sentiment.Why The Bitcoin, Ethereum, And Dogecoin Prices Ar…
+
+TradingView — Track All Markets • 11h ago
+
+---
+
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
+
+Binance • 14h ago
+
+---
+
+**[Bitcoin, Ethereum Jump Again as Cryptos Rally. Why XRP Is Surging.](https://www.barrons.com/articles/bitcoin-price-ethereum-cryptos-xrp-73799dc8?gaa_at=eafs&gaa_n=AWEtsqfkDLG7hCUN7fELlPwsqrlSQEIS32P1OvjLf4iaG-awO3wXMmr6OtX9&gaa_ts=695cde57&gaa_sig=uDaC5zhxch0hKO9wrv4wFHfTKLJ0wOcCHrUiKO86DVEd7Mwa-5JT4kvUwZpwyUG2yQSBUTrAR3OrBE6t63JNGw%3D%3D)**
+
+Barron's • 44m ago
 
 ---
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -192,7 +212,7 @@ CNBC • 13h ago
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
 
-GlobeNewswire • 19h ago
+GlobeNewswire • 20h ago
 
 ---
 
@@ -200,31 +220,7 @@ GlobeNewswire • 19h ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 20h ago
-
----
-
-**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://decrypt.co/353585/tom-lee-predicts-250k-ethereum-price-bitmine-adds-13-billion-stash)**
-
-BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
-
-Decrypt • 17h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.144 Million Tokens, and Total Crypto and Total Cash Holdings of $14.2 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-144-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-2-billion-302652341.html)**
-
-Bitmine releases Special Chairman's Message related to upcoming Annual Stockholder Meeting Bitmine staked ETH stands at 659,219 and MAVAN staking solution on...
-
-PR Newswire • 19h ago
-
----
-
-**[Ethereum Layer-2 Network Starknet Back Online Following Outage](https://decrypt.co/353625/ethereum-layer-2-starknet-back-online-outage)**
-
-Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
-
-Decrypt • 15h ago
+dlnews.com • 21h ago
 
 ---
 
@@ -248,7 +244,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 406 • 💬 42 • ⏱️ 16:00 • 5h ago
+👁️ 4K • 👍 406 • 💬 42 • ⏱️ 16:00 • 6h ago
 
 ---
 
@@ -328,7 +324,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 11K • 👍 578 • 💬 249 • ⏱️ 13:59 • 21h ago
+👁️ 11K • 👍 578 • 💬 249 • ⏱️ 13:59 • 22h ago
 
 ---
 

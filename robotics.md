@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T09:28:01.004860+00:00'
+updated: '2026-01-06T09:50:45.030639+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 09:28 UTC  
+**Last Updated:** January 06, 2026 at 09:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ I'm 17 years old and I really enjoy robotics and related things. However, since 
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-19h ago
+20h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 Hey everyone, We’re organizing another Robotics Community Meetup in Pune this Saturday. After two successful previous meetups with engaging discussions and great participation, it’s encouraging to see the community growing steadily, so we wanted to invite more builders to join us. This session will focus on 3D Printing for robotics and hardware prototyping — including material selection, print optimization, post-processing, and how 3D printing fits into building real robots. We’ll also discuss progress and next steps for our community robotic arm project. Details: 📅 Saturday, 10 January ⏰ 6:00 PM – 8:00 PM 📍 Baner, Pune (exact location will be shared after registration) Register here if you’d like to attend: https://forms.gle/tDsWJT7tNrXsmXVz9 Looking forward to meeting more robotics enthusiasts and continuing to grow the community together.
 
-1h ago
+2h ago
 
 ---
 
@@ -100,33 +100,17 @@ Anyone else noticed the productized Atlas is rendered with 4 fingers? BD release
 
 ---
 
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.reddit.com/r/robotics/comments/1q55mze/hyundai_introduces_its_nextgen_atlas_robot_at_ces/)**
+**[Our World Is Built For Hands And Feet: We Need Humanoid Robots](https://www.reddit.com/r/robotics/comments/1q5deqn/our_world_is_built_for_hands_and_feet_we_need/)**
 
-Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
+Humanoid robots are the way.
 
-🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 7h ago
+🔗 [open.substack.com](https://open.substack.com/pub/chaotropy/p/our-world-is-built-for-hands-and?utm_campaign=post-expanded-share&utm_medium=post%20viewer) • 1h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
-
-Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
-
-TechCrunch • 10h ago
-
----
-
-**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
-
-A new wave of humanoids are coming. Qualcomm is ready to power them.
-
-CNET • 19h ago
-
----
 
 **[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
 
@@ -136,9 +120,23 @@ NVIDIA Newsroom • 11h ago
 
 ---
 
+**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
+
+Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
+
+TechCrunch • 10h ago
+
+---
+
+**[Nvidia Talks Up Robots Alongside AI Chips. The Stock Slips.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcDSGeNjC9bvsUiroy2tgoygt53yZabUNz67ihArxCuNH-adZaCeAS7&gaa_ts=695cde59&gaa_sig=iF0BoavVeKd7Da_0XJPrlX3Xgi-5rKqcTikuZBlljpAshPBdA8d7FjeDCQNqENwkxwU2DOobqoGCyfiscY2pMw%3D%3D)**
+
+Barron's • 56m ago
+
+---
+
 **[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-Axios • 5h ago
+Axios • 12h ago
 
 ---
 
@@ -164,14 +162,6 @@ Yahoo Finance • 16h ago
 
 ---
 
-**[Zeroth Robotics Launches into the U.S. with Debut Lineup of Interactive AI Robots for Consumer and Commercial Buyers](https://www.prnewswire.com/news-releases/zeroth-robotics-launches-into-the-us-with-debut-lineup-of-interactive-ai-robots-for-consumer-and-commercial-buyers-302652162.html)**
-
-/PRNewswire/ -- Today at CES 2026, Zeroth Robotics emerged from stealth with its official U.S. launch and a lineup of five interactive AI robots designed for...
-
-PR Newswire • 1d ago
-
----
-
 **[Schaeffler brings robotics, energy and vehicle tech to CES 2026](https://seekingalpha.com/news/4536504-schaeffler-brings-robotics-energy-and-vehicle-tech-to-ces-2026)**
 
 Schaeffler unveils motion technology at CES 2026ârobotics actuators, AI-ready components, automation & EV systems.
@@ -185,6 +175,14 @@ Seeking Alpha • 1d ago
 Teradyne, Serve Robotics,  and Richtech Robotics are the three Robotics stocks to watch today, according to MarketBeat's stock screener tool. Robotics stocks are shares of companies that design, manufacture, or enable robotic systems and automation technologies — including industrial robots, service
 
 MarketBeat • 1d ago
+
+---
+
+**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
+
+FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
+
+Inspenet • 2d ago
 
 ---
 
@@ -218,7 +216,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 95K • 👍 7K • 💬 984 • ⏱️ 2:05 • 11h ago
+👁️ 95K • 👍 7K • 💬 984 • ⏱️ 2:05 • 12h ago
 
 ---
 

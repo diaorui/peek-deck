@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T09:28:00.986721+00:00'
+updated: '2026-01-06T09:50:45.013027+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 09:28 UTC  
+**Last Updated:** January 06, 2026 at 09:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,19 +61,19 @@ Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles huma
 
 ---
 
+**[One-Minute Daily AI News 1/5/2026](https://www.reddit.com/r/artificial/comments/1q5995k/oneminute_daily_ai_news_152026/)**
+
+AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development.[2] Alexa.com rolls out to all Alexa+ Early Access customers, bringing the power of Alexa+ to your browser.[3] MIT scientists investigate memorization risk in the age of clinical AI.[4] Sources: [1] https://finance.yahoo.com/news/amd-reveals-new-ai-pc-chips-details-next-gen-data-center-chips-at-ces-2026-041117636.html [2] https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development [3] https://www.aboutamazon.com/news/devices/alexa-plus-web-ai-assistant [4] https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
+
+5h ago
+
+---
+
 **[We're so blinded by the AI Hype That We're Failing to See What Could Actually Be on the Horizon](https://www.reddit.com/r/artificial/comments/1q4pbsd/were_so_blinded_by_the_ai_hype_that_were_failing/)**
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
 🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 17h ago
-
----
-
-**[One-Minute Daily AI News 1/5/2026](https://www.reddit.com/r/artificial/comments/1q5995k/oneminute_daily_ai_news_152026/)**
-
-AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development.[2] Alexa.com rolls out to all Alexa+ Early Access customers, bringing the power of Alexa+ to your browser.[3] MIT scientists investigate memorization risk in the age of clinical AI.[4] Sources: [1] https://finance.yahoo.com/news/amd-reveals-new-ai-pc-chips-details-next-gen-data-center-chips-at-ces-2026-041117636.html [2] https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development [3] https://www.aboutamazon.com/news/devices/alexa-plus-web-ai-assistant [4] https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
-
-4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 I'm new to this sub. I was hoping to converse a little and get some opinions on this. I think it's an interesting phenomena within our society at the moment, where if you think about AI as a tool, and I personally see it as the greatest tool ever invented/gifted to mankind, why, or what is the issue, with using it? You see it all throughout society. People are up in arms about students using it to write papers is a big one, and I wonder, did papers ever need to be written in the first place? I apologize if this has already been answered to the nth degree and been beaten into the dirt, but realistically wouldn't it be possible that the ideas supporting this non-use of AI are rooted in established organizations that stand to suffer when they are completely obliterated by a tool that can not only do what they do but do it instantly and always be readily available, and do it for free? This narrative that we shouldn't use a tool that we've discovered/invented/been given or whatever you wanna call it, to me, seems absurd. It'd be like if we invented fire and everyone was like, hey, don't cook the meat, fire is stupid, let's just raw dog. I digress. My point is, maybe, MAYBE, the people who are pushing that narrative to not use AI, to not embrace this tool, to not see it as our potential salvation (or destruction XD), or at the very least even be curious about its potential applications and possible benefits to our society, stand to LOSE THEIR ASSES by its implementation. Just maybe. Sorry if I broke any rules, I am a big dumbass. Thanks for your time.
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-17h ago
+18h ago
 
 ---
 
@@ -133,63 +133,71 @@ The Guardian • 3h ago
 
 As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
-**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
+**[Nvidia just laid out what’s next for the tech that made it the world’s most valuable company](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces)**
 
-The New York Times • 7h ago
+Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
----
-
-**[This desktop charger turns your iPhone into a robotic AI assistant](https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant)**
-
-Loona DeskMate can pan and tilt to keep your iPhone camera following you.
-
-The Verge • 1h ago
+CNN • 11h ago
 
 ---
 
-**[Augmenting The American Psychiatric Association App Evaluation Model To Include AI-Based Mental Health Apps](https://www.forbes.com/sites/lanceeliot/2026/01/06/augmenting-the-american-psychiatric-association-app-evaluation-model-to-include-ai-based-mental-health-apps/)**
+**[Nvidia launches Vera Rubin, its next major AI platform, at CES 2026](https://finance.yahoo.com/news/nvidia-launches-vera-rubin-its-next-major-ai-platform-at-ces-2026-230045205.html)**
 
-Forbes • 1h ago
+Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
 
----
-
-**[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
-
-The Economist • 17h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t - WSJ](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqfbWnuVoR58yxuNbezyaJQsbKnOdFqLa5XH-8L4V-WrKTK4wC1I4mKN&gaa_ts=695ccc49&gaa_sig=nIRa3GgXA0BgRRg5kDyuyVIWodcMU_LC5l12DZpvfa3bZHfCfJTUn9IP_mXibaHFq7L1ZH1Ip1hxR2uguVRzig%3D%3D)**
+**[Nvidia Talks Up Robots Alongside AI Chips. The Stock Slips.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcn0ZqGuREhLKas9Ou9hqS8lpodRqeKVV8e2PKQbjoLIKYZ42CuYyHu&gaa_ts=695cde54&gaa_sig=fzT6K5aYTcjsSBW-XyxEXEAqnN0rC-yP6JLc-6lRBpZlRns78wLYNOfYEmlTNDz2XDSy8B7Pz7iEcQxveP1ylA%3D%3D)**
 
-The Wall Street Journal • 22h ago
-
----
-
-**[AI godfather says Meta’s new 29-year-old AI boss is ‘inexperienced’ and warns of staff exodus](https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html)**
-
-"A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
-
-CNBC • 17h ago
+Barron's • 56m ago
 
 ---
 
-**[AI took investors on a date in 2025. In 2026, analysts say it's time to foot the bill.](https://finance.yahoo.com/news/ai-took-investors-on-a-date-in-2025-in-2026-analysts-say-its-time-to-foot-the-bill-140012067.html)**
+**[The Best Way to Search for Info Online in the AI Era - Terms of Service with Clare Duffy - Podcast on CNN Podcasts](https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/3b238bee-af5d-11f0-b539-c393f55d8b14)**
 
-As the AI trade becomes "fractured," 2026 could see other stocks finally outshine the "Magnificent Seven."
+Finding information online can be overwhelming. And as more people turn to chatbots for information, search engines are adapting. Google Search has added an AI mode and its chatbot, Gemini, to help users get the information they need. So whatâs the best way to conduct a search now? Robby Stein, vice president of product at Google Search, walks us through the newest features available to users.
 
-Yahoo Finance • 19h ago
+Donât miss Terms of Service live later this month in New York City! On January 13 at Ludlow House, Clare will be interviewing Nick Frosst, co-founder of AI startup Cohere, about whether the tech industry should really be trying to build a superhuman, superintelligent AI. Visit the event page to get an invite.
+
+Terms of Service is a CNN Podcasts and Goat Rodeo production. This episode was produced by Jay Venables. At Goat Rodeo, the lead producer is Rebecca Seidel, and the executive producers are Megan Nadolski and Ian Enright. At CNN, Matt Martinez is our Senior Producer and Dan Dzula is our Technical Director. Production support from SofÃ­a Sanchez. Steve Lickteig is the Executive Producer of CNN Audio.
+
+CNN • 43m ago
 
 ---
 
-**[The Fog of AI](https://www.foreignaffairs.com/china/fog-ai)**
+**[AI has finally started making drug-like antibodies. When will it revolutionize biopharma?](https://www.statnews.com/2026/01/06/will-artificial-intelligence-designed-drugs-antibodies-revolutionize-biopharma/)**
 
-What the technology means for deterrence and war.
+AI has finally started making drug-like antibodies. When will it revolutionize biopharma?
 
-Foreign Affairs • 4h ago
+statnews.com • 15m ago
+
+---
+
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqfu-WW-unA9SyoTgiJabMPXdN4A4GRyfo89uVI0R4VyfL0xoAmztp-8&gaa_ts=695cde54&gaa_sig=iuyFK0Yl4VqPQsfGudJiWpegaZ2UiyuJDI_AEcHYSc_h1LW-FLUGxS3OhH_7pwBSTy3FuYroo-QEaUX3lWSUsA%3D%3D)**
+
+The Wall Street Journal • 23h ago
+
+---
+
+**[AMD Expands AI Leadership Across Client, Graphics, and Software with New Ryzen, Ryzen AI, and AMD ROCm Announcements at CES 2026](https://finance.yahoo.com/news/amd-expands-ai-leadership-across-033100137.html)**
+
+AMD Ryzen AI Halo AMD Ryzen AI Halo Developer Platform News Summary AMD introduces new Ryzen AI 400 and PRO 400 Series processors, delivering up to 60 NPU TOPS for Copilot+ PCs and AI experiences across consumer and commercial systems.AMD introduces new Ryzen AI Max+ SKUs, bringing high-performance AI and graphics to ultra-thin notebooks, workstations, and small form factors for creation, gaming, and AI development.AMD unveils AMD Ryzen AI Halo, a powerful, easy-to-use mini-PC that brings Ryzen
+
+Yahoo Finance • 6h ago
+
+---
+
+**[AMD unveils new AI PC processors for general use and gaming at CES](https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/)**
+
+AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.
+
+TechCrunch • 6h ago
 
 ---
 
@@ -201,7 +209,7 @@ Foreign Affairs • 4h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 300 • 💬 306 • 19h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 301 • 💬 307 • 20h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -217,7 +225,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 113 • 💬 153 • 11h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 126 • 💬 166 • 11h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -231,7 +239,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 84 • 💬 41 • 12h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 84 • 💬 44 • 12h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -257,17 +265,17 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 ---
 
-**[AI results can be manipulated](https://news.ycombinator.com/item?id=46474344)**
+**[Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324)**
 
-I built a fake brand and tricked 8 AI search engines for 2 months. The results show how any real brand can be poisoned, and how to fight back.
-
-⬆️ 39 • 💬 5 • 3d ago • [SEO Blog by Ahrefs](https://ahrefs.com/blog/ai-vs-made-up-brand-experiment/)
+⬆️ 37 • 💬 5 • 6h ago
 
 ---
 
-**[Trump Says Maduro Captured After US Airstrikes Hit Venezuela](https://news.ycombinator.com/item?id=46474569)**
+**[That viral Reddit post about food delivery apps was an AI scam](https://news.ycombinator.com/item?id=46503492)**
 
-⬆️ 39 • 💬 1 • 2d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-01-03/trump-says-venezuela-s-maduro-captured-and-flown-out-of-country-mjy3kziv)
+AI slop comes for Reddit.
+
+⬆️ 32 • 💬 40 • 14h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -331,7 +339,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 102 • 💬 8 • ⏱️ 9:18 • 11h ago
+👁️ 3K • 👍 102 • 💬 8 • ⏱️ 9:18 • 12h ago
 
 ---
 
@@ -387,7 +395,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 14,346 • ❤️ 465 • 5d ago
+⬇️ 14,346 • ❤️ 465 • 6d ago
 
 ---
 
@@ -435,7 +443,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 33,515 • ❤️ 1,474 • 13d ago
+⬇️ 33,515 • ❤️ 1,474 • 14d ago
 
 ---
 
@@ -650,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.7k • 🔱 668 • 11m ago
+⭐ 5.7k • 🔱 668 • 33m ago
 
 ---
 
@@ -700,7 +708,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 132 • 26m ago
+⭐ 1.1k • 🔱 132 • 49m ago
 
 ---
 
@@ -730,7 +738,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 961 • 🔱 113 • 6h ago
+⭐ 961 • 🔱 113 • 7h ago
 
 ---
 
