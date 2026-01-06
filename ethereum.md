@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T20:46:43.951173+00:00'
+updated: '2026-01-06T21:21:52.447864+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 20:46 UTC  
+**Last Updated:** January 06, 2026 at 21:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Allocation: 7% First Purchased: July 24, 2016 Thesis: This investment is largely building on my belief that blockchain technology and smart contracts are what the future will be built on.  Eth…
 
-🔗 [Wanderblog](https://wanderblogorg.wordpress.com/2026/01/06/ethereum/) • 3h ago
+🔗 [Wanderblog](https://wanderblogorg.wordpress.com/2026/01/06/ethereum/) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Allocation: 7% First Purchased: July 24, 2016 Thesis: This investment is largely
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 9h ago
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ FAQ answering developer questions about calculating necessary slippage before ex
 
 Yet another data breach, this time involving payment processor Global-E, with customer personal data reportedly exposed. We often talk about blockchain as a solution for privacy and transparency. But incidents like this show a hard truth: privacy failures still happen at the infrastructure and application layer, regardless of whether crypto or blockchain is involved. Decentralization doesn’t automatically mean privacy. Security practices, data minimization, and proper protection of user information still matter a lot. If sensitive data keeps leaking before it ever touches a blockchain, that’s a problem we shouldn’t ignore. Curious how others here see this are we focusing too much on decentralization while underestimating basic data security?
 
-13h ago
+14h ago
 
 ---
 
@@ -200,13 +200,13 @@ Yahoo Finance • 3d ago
 
 Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 9h ago
+CCN.com • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 45 • ⏱️ 8:07 • 4h ago
+👁️ 8K • 👍 2K • 💬 45 • ⏱️ 8:07 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 102 • ⏱️ 9:50 • 6h ago
+👁️ 26K • 👍 2K • 💬 102 • ⏱️ 9:50 • 7h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 7 • ⏱️ 5:19 • 5h ago
+👁️ 2K • 👍 154 • 💬 7 • ⏱️ 5:19 • 6h ago
 
 ---
 
@@ -276,7 +276,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 517 • 💬 282 • ⏱️ 13:40 • 15h ago
+👁️ 11K • 👍 517 • 💬 282 • ⏱️ 13:40 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 156 • 💬 15 • ⏱️ 4:05 • 15h ago
+👁️ 3K • 👍 156 • 💬 15 • ⏱️ 4:05 • 16h ago
 
 ---
 
@@ -326,7 +326,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 2K • 👍 31 • 💬 3 • ⏱️ 0:48 • 47m ago
+👁️ 2K • 👍 31 • 💬 3 • ⏱️ 0:48 • 1h ago
 
 ---
 

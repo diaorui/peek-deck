@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T20:46:43.945118+00:00'
+updated: '2026-01-06T21:21:52.441287+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 20:46 UTC  
+**Last Updated:** January 06, 2026 at 21:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wa
 
 BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tues
 
 **[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -159,7 +159,7 @@ Reuters • 3h ago
 
 Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 7h ago
 
 Bitcoin ETFs hit $697 million in single-day inflows as Morgan Stanley enters the race with new BTC and Solana fund filings.
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 23h ago
 
 Ledn co-founder Mauricio Di Bartolomeo, born and raised in Venezuela, argues that the country’s government is simply too corrupt and incompetent to have accumulated a rumored $60 billion stash of bitcoin.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Block • 1d ago
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -211,7 +211,7 @@ Reuters • 21h ago
 
 MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
 
-Investor's Business Daily • 12m ago
+Investor's Business Daily • 47m ago
 
 ---
 
@@ -219,7 +219,7 @@ Investor's Business Daily • 12m ago
 
 Bitcoin hovered near $92,000 as analysts, including Bernstein, pointed to improving technical and macro signals suggesting the cryptocurrency has likely bottomed after a steep fourth-quarter sell-off and may be positioned for a rebound.
 
-Bitcoin Magazine • 3m ago
+Bitcoin Magazine • 38m ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitcoin Magazine • 3m ago
 
 Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
 
-⬆️ 202 • 💬 208 • 6d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
+⬆️ 202 • 💬 208 • 7d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
 
 ---
 
@@ -311,7 +311,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 19K • 👍 274 • 💬 156 • ⏱️ 8:25 • 7h ago
+👁️ 19K • 👍 274 • 💬 156 • ⏱️ 8:25 • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 202 • ⏱️ 9:17 • 18h ago
+👁️ 64K • 👍 3K • 💬 202 • ⏱️ 9:17 • 19h ago
 
 ---
 
@@ -341,7 +341,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 40 • ⏱️ 31:55 • 5h ago
+👁️ 12K • 👍 1K • 💬 40 • ⏱️ 31:55 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 19K • 👍 998 • 💬 83 • ⏱️ 16:32 • 9h ago
+👁️ 19K • 👍 998 • 💬 83 • ⏱️ 16:32 • 10h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the b
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 522 • 💬 148 • ⏱️ 57:31 • 3h ago
+👁️ 10K • 👍 522 • 💬 148 • ⏱️ 57:31 • 4h ago
 
 ---
 
@@ -381,7 +381,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 305 • ⏱️ 8:08 • 19h ago
+👁️ 30K • 👍 2K • 💬 305 • ⏱️ 8:08 • 20h ago
 
 ---
 
@@ -401,7 +401,7 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 21K • 👍 226 • 💬 57 • ⏱️ 3:12 • 23h ago
+👁️ 21K • 👍 226 • 💬 57 • ⏱️ 3:12 • 1d ago
 
 ---
 

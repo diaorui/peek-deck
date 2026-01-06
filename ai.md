@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T20:46:43.936670+00:00'
+updated: '2026-01-06T21:21:52.432586+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 20:46 UTC  
+**Last Updated:** January 06, 2026 at 21:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ The title of the thread kind of says it all. I'm trying to generate music tracks
 
 The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
 
-🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 4h ago
+🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 5h ago
 
 ---
 
@@ -103,7 +103,7 @@ The publisher is teaming with a company that claims its proprietary AI can ‘pr
 
 I've made a website (https://www.alignmentarena.com/) which allows you to automatically test jailbreak prompts against open-source LLMs. It tests nine times for each submission (3x LLMs, 3x prompt types). There's also leaderboards for users and LLMs (ELO rating is used if the user is signed in). Currently OpenAI is leading the model leaderboard, and Mistral is at the bottom. Also, all LLMs are open-source with no acceptable use policies, so jailbreaking on this platform is legal and doesn't violate any terms of service, unlike almost every AI chat app. For safety, users never see the actual LLM responses, only a summary provided by a judge LLM. It's completely free with no adverts or paid usage tiers. I am doing this because I think it's cool. I'd also quite like to publish some safety-focused research on the prompts submitted. I would greatly appreciate if you'd try it out and let me know what you think. P.S. Mods gave approval to this post before I posted it
 
-51m ago
+1h ago
 
 ---
 
@@ -111,7 +111,7 @@ I've made a website (https://www.alignmentarena.com/) which allows you to automa
 
 I am building an experimental AI tool that analyzes images to suggest real world location by detecting architectural and design elements and explaining why those cues point to a specific place. I tested it on a public image with a known location and recorded a short video showing the reasoning process. The output was close but imperfect, which is expected at this stage. I am mainly interested in whether explanation driven reasoning makes these systems more useful and interpretable.
 
-9h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ I am building an experimental AI tool that analyzes images to suggest real world
 
 **[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-Politico • 5h ago
+Politico • 6h ago
 
 ---
 
@@ -129,7 +129,7 @@ Politico • 5h ago
 
 Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
@@ -137,19 +137,19 @@ NBC News • 7h ago
 
 Liz Kendall calls on X to ‘deal with this urgently’ while expert criticises ‘worryingly slow’ government response
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[Elon Musk's chatbot bikini image edits draw scrutiny from U.S. and global regulators](https://www.axios.com/2026/01/06/grok-ai-elon-musk-deepfake-bikini)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
 **[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -165,13 +165,13 @@ BBC • 10h ago
 
 Can Music Flamingo find me a song that feels how I do about AI in music?
 
-The Verge • 39m ago
+The Verge • 1h ago
 
 ---
 
 **[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -179,13 +179,13 @@ Bloomberg.com • 52m ago
 
 These tech companies offer solid return prospects over the next five years.
 
-The Motley Fool • 31m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqd1sczhh6Qwo__toHdcBbojjeelSS7ZZQ2PO3vQ__Tx5Kp4i8XOFx9o&gaa_ts=695d7818&gaa_sig=XHMyXh5FSwJ_nMnFPvmWnYKioMU0V5_T1vVNqkoOwt7iUjFWDk-GaCSrn22Fgadi7f2oE-lfEyanvH0h7HpbPw%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -205,7 +205,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 212 • 💬 333 • 22h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 212 • 💬 333 • 23h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -213,7 +213,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 207 • 💬 48 • 1d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 207 • 💬 48 • 2d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -227,7 +227,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 92 • 💬 48 • 23h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 92 • 💬 48 • 1d ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -289,7 +289,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 10K • 👍 717 • 💬 43 • ⏱️ 13:13 • 7h ago
+👁️ 10K • 👍 717 • 💬 43 • ⏱️ 13:13 • 8h ago
 
 ---
 
@@ -349,7 +349,7 @@ Hyperscalers and chip stocks have soared in the first phase of AI. CNBC's Robert
 
 📺 CNBC Television
 
-👁️ 2K • 👍 31 • 💬 3 • ⏱️ 4:01 • 6h ago
+👁️ 2K • 👍 31 • 💬 3 • ⏱️ 4:01 • 7h ago
 
 ---
 
@@ -369,7 +369,7 @@ Analyst on AMD's New Tech, AI Demand DEK: Advanced Micro Devices CEO Lisa Su tou
 
 📺 Bloomberg Technology
 
-👁️ 2K • 👍 40 • 💬 5 • ⏱️ 5:10 • 12h ago
+👁️ 2K • 👍 40 • 💬 5 • ⏱️ 5:10 • 13h ago
 
 ---
 
@@ -493,7 +493,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 1,867 • ❤️ 361 • 21h ago
+⬇️ 1,867 • ❤️ 361 • 22h ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.0k • 🔱 710 • 4h ago
+⭐ 6.0k • 🔱 710 • 5h ago
 
 ---
 
@@ -704,7 +704,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 137 • 11h ago
+⭐ 1.1k • 🔱 137 • 12h ago
 
 ---
 

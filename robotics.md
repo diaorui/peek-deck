@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T20:46:43.954455+00:00'
+updated: '2026-01-06T21:21:52.451212+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 20:46 UTC  
+**Last Updated:** January 06, 2026 at 21:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 22h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 23h ago
 
 ---
 
@@ -68,7 +68,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
 
-3h ago
+4h ago
 
 ---
 
@@ -76,7 +76,7 @@ Why arent there any small sized VR controlled mechs akin to the flying drones? I
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 13h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 14h ago
 
 ---
 
@@ -90,7 +90,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
 
-40m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and
 
 Hello everyone, we are a group of two engineers with combined experience in mechatronics, aerospace and robotics research, and also some experience creating tech startups and fundraising. We have been working hard creating our own affordable Industrial Robotic Arm from scratch with focus on maintainability and repairability, and feel confident with our current prototype. We are looking for passionate builders that want to join us in our journey, collaborating with your current skills and learn whatever else is needed, particularly to help in the areas we are missing right now (AI/ML and general Full-Stack SW development). We strongly believe in the principles of open-source and are located in the EU, with the goal of sourcing and assembling all the parts inside our common market. If my message caught your attention, feel free to DM me and we can talk more in Discord or email. For obvious reasons, we don't want to show our prototype here, but I would be happy showing it personally. You can see some stuff we have done in the past here: Autonomous shelf stocking & charging.
 
-3h ago
+4h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hello everyone, we are a group of two engineers with combined experience in mech
 
 Hi guys, I am currently working on a mini pupper quadruped for university with one of my fellow students. The story is basically, that we are both part of a mobile robotics class where we got a pre-assembled mangdang mini pupper to work with. We tried multiple ways of software installation which were recommended on the website here or from the repositories of mangdang here. The problem was that we couldn't get further than installing the repos, but when it came to building ROS2 nodes or starting the base functionality, it always failed or didn't work on the hardware the way it used to (aka it didn't do anything). We basically never got to the point in the tutorial where it shows it's eyes or IP-Address on Screen. Now the only thing we partially got working was the calibration software once from here. It yielded the best results so far in the way that we had the test image shown, sound heard, one leg twitch and the voltage output. But this is obviously not enough for our purpose. We both have very little experience with ROS2 and the mini pupper was just given to us a way to figure it out on our own. We don't even know if it's Version 1 or 2. My question is more or less if there are any helpful resources which work in 2026 or if anyone on this subreddit made a mini pupper work in the last year or so? Any help is highly appreciated, since we are clueless at this point. Thanks :)
 
-3h ago
+4h ago
 
 ---
 
@@ -118,7 +118,7 @@ Hi guys, I am currently working on a mini pupper quadruped for university with o
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 22h ago
+NVIDIA Newsroom • 23h ago
 
 ---
 
@@ -126,7 +126,7 @@ NVIDIA Newsroom • 22h ago
 
 NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
 
-NVIDIA Developer • 22h ago
+NVIDIA Developer • 23h ago
 
 ---
 
@@ -134,7 +134,7 @@ NVIDIA Developer • 22h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
@@ -143,13 +143,13 @@ TechCrunch • 21h ago
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
-hyundai.com • 23h ago
+hyundai.com • 1d ago
 
 ---
 
 **[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -157,13 +157,13 @@ Bloomberg.com • 52m ago
 
 ﻿Sometimes AI doesn’t need to be a know-it-all, it just wants to keep you company.
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
 **[Watch Qualcomm CEO Sees 'Massive' AI Opportunity in Robotics](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-massive-ai-opportunity-in-robotics-video)**
 
-Bloomberg.com • 24m ago
+Bloomberg.com • 59m ago
 
 ---
 
@@ -179,7 +179,7 @@ CNET • 1d ago
 
 Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -229,7 +229,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 173K • 👍 5K • 💬 862 • ⏱️ 7:00 • 21h ago
+👁️ 173K • 👍 5K • 💬 862 • ⏱️ 7:00 • 22h ago
 
 ---
 
@@ -279,7 +279,7 @@ Welcome to SwitchBot at CES 2026 Discover Smart Home 2.0, powered by AI robots, 
 
 📺 SwitchBot
 
-👁️ 829 • 👍 43 • 💬 9 • ⏱️ 3:29 • 5h ago
+👁️ 829 • 👍 43 • 💬 9 • ⏱️ 3:29 • 6h ago
 
 ---
 
@@ -289,7 +289,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 22K • 👍 420 • 💬 34 • ⏱️ 1:33:26 • 21h ago
+👁️ 22K • 👍 420 • 💬 34 • ⏱️ 1:33:26 • 22h ago
 
 ---
 
