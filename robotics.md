@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T18:34:15.567708+00:00'
+updated: '2026-01-06T19:18:01.176517+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 18:34 UTC  
+**Last Updated:** January 06, 2026 at 19:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 4h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 5h ago
 
 ---
 
@@ -52,21 +52,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 20h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 21h ago
 
 ---
 
-**[Boston Dynamics and Google DeepMind Want Robots to Have Brains](https://www.reddit.com/r/robotics/comments/1q5bqy8/boston_dynamics_and_google_deepmind_want_robots/)**
+**[Unitree GO1 Complex Terrain Locomotion](https://www.reddit.com/r/robotics/comments/1q5psj2/unitree_go1_complex_terrain_locomotion/)**
 
-It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
+The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 11h ago
-
----
-
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -78,11 +72,25 @@ Why arent there any small sized VR controlled mechs akin to the flying drones? I
 
 ---
 
+**[Boston Dynamics and Google DeepMind Want Robots to Have Brains](https://www.reddit.com/r/robotics/comments/1q5bqy8/boston_dynamics_and_google_deepmind_want_robots/)**
+
+It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
+
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 12h ago
+
+---
+
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+1d ago
+
+---
+
 **[Looking for AI/Full-Stack SW people for an affordable & open Industrial Robotic Arm project (preferably EU)](https://www.reddit.com/r/robotics/comments/1q5o31y/looking_for_aifullstack_sw_people_for_an/)**
 
 Hello everyone, we are a group of two engineers with combined experience in mechatronics, aerospace and robotics research, and also some experience creating tech startups and fundraising. We have been working hard creating our own affordable Industrial Robotic Arm from scratch with focus on maintainability and repairability, and feel confident with our current prototype. We are looking for passionate builders that want to join us in our journey, collaborating with your current skills and learn whatever else is needed, particularly to help in the areas we are missing right now (AI/ML and general Full-Stack SW development). We strongly believe in the principles of open-source and are located in the EU, with the goal of sourcing and assembling all the parts inside our common market. If my message caught your attention, feel free to DM me and we can talk more in Discord or email. For obvious reasons, we don't want to show our prototype here, but I would be happy showing it personally. You can see some stuff we have done in the past here: Autonomous shelf stocking & charging.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,15 +98,7 @@ Hello everyone, we are a group of two engineers with combined experience in mech
 
 Hi guys, I am currently working on a mini pupper quadruped for university with one of my fellow students. The story is basically, that we are both part of a mobile robotics class where we got a pre-assembled mangdang mini pupper to work with. We tried multiple ways of software installation which were recommended on the website here or from the repositories of mangdang here. The problem was that we couldn't get further than installing the repos, but when it came to building ROS2 nodes or starting the base functionality, it always failed or didn't work on the hardware the way it used to (aka it didn't do anything). We basically never got to the point in the tutorial where it shows it's eyes or IP-Address on Screen. Now the only thing we partially got working was the calibration software once from here. It yielded the best results so far in the way that we had the test image shown, sound heard, one leg twitch and the voltage output. But this is obviously not enough for our purpose. We both have very little experience with ROS2 and the mini pupper was just given to us a way to figure it out on our own. We don't even know if it's Version 1 or 2. My question is more or less if there are any helpful resources which work in 2026 or if anyone on this subreddit made a mini pupper work in the last year or so? Any help is highly appreciated, since we are clueless at this point. Thanks :)
 
-1h ago
-
----
-
-**[Deep Q-Learning – Build, Train, and Visualize with PyTorch, Gymnasium, and SB3](https://www.reddit.com/r/robotics/comments/1q5f4fu/deep_qlearning_build_train_and_visualize_with/)**
-
-In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
-
-8h ago
+2h ago
 
 ---
 
@@ -116,7 +116,7 @@ In this tutorial, I’ll show you how to build the brain of a DQN agent, train i
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 19h ago
+TechCrunch • 20h ago
 
 ---
 
@@ -124,7 +124,7 @@ TechCrunch • 19h ago
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 20h ago
+NVIDIA Newsroom • 21h ago
 
 ---
 
@@ -132,7 +132,7 @@ NVIDIA Newsroom • 20h ago
 
 Huang says advances in models, simulation, and compute have pushed robotics to a long-awaited inflection point — but turning platforms into real-world machines remains the hard part.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 159K • 👍 5K • 💬 813 • ⏱️ 7:00 • 19h ago
+👁️ 159K • 👍 5K • 💬 813 • ⏱️ 7:00 • 20h ago
 
 ---
 
@@ -272,7 +272,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 17K • 👍 370 • 💬 34 • ⏱️ 1:33:26 • 19h ago
+👁️ 17K • 👍 370 • 💬 34 • ⏱️ 1:33:26 • 20h ago
 
 ---
 

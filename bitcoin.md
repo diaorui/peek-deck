@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T18:34:15.558452+00:00'
+updated: '2026-01-06T19:18:01.166790+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 18:34 UTC  
+**Last Updated:** January 06, 2026 at 19:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,168.00
+### $91,951.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** +5.0%  
-**30d:** +1.4%  
-**90d:** -24.3%  
-**1y:** -4.9%  
+**24h:** -2.2%  
+**7d:** +5.2%  
+**30d:** +1.6%  
+**90d:** -24.2%  
+**1y:** -4.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -89,27 +89,35 @@ Rank #1
 
 ---
 
+**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
+
+4h ago
+
+---
+
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-7h ago
+8h ago
 
 ---
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-22h ago
-
----
-
-**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
-
-3h ago
+23h ago
 
 ---
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-21h ago
+22h ago
+
+---
+
+**[3% vs -30%: Different Worlds](https://www.reddit.com/r/Bitcoin/comments/1q5jj69/3_vs_30_different_worlds/)**
+
+BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
+
+5h ago
 
 ---
 
@@ -119,25 +127,19 @@ Rank #1
 
 ---
 
+**[Do not update to the latest Bitcoin Core v30.0 client. It might delete your wallet which is irrecoverable without a backup.](https://www.reddit.com/r/Bitcoin/comments/1q5qnfa/do_not_update_to_the_latest_bitcoin_core_v300/)**
+
+Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
+
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 48m ago
+
+---
+
 **[Crypto Guys when Bitcoin up +5%](https://www.reddit.com/r/Bitcoin/comments/1q53gc0/crypto_guys_when_bitcoin_up_5/)**
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-17h ago
-
----
-
-**[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
-
-15h ago
-
----
-
-**[3% vs -30%: Different Worlds](https://www.reddit.com/r/Bitcoin/comments/1q5jj69/3_vs_30_different_worlds/)**
-
-BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
-
-4h ago
+18h ago
 
 ---
 
@@ -155,13 +157,13 @@ Barron's • 1d ago
 
 Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -169,7 +171,7 @@ Investor's Business Daily • 2h ago
 
 Morgan Stanley is diving into crypto waters after filing to launch Bitcoin and Solana ETFs on Tuesday. The move signals major US banks are no longer sitting on the sidelines.View on euronews
 
-Yahoo Finance • 18m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +179,7 @@ Yahoo Finance • 18m ago
 
 Michael Saylor’s Strategy bought 1,286 BTC for $116 million, raising its Bitcoin holdings to 673,783 BTC and U.S. dollar reserves to $2.25 billion.
 
-Bitcoin Magazine • 13m ago
+Bitcoin Magazine • 57m ago
 
 ---
 
@@ -199,7 +201,7 @@ The Wall Street Journal • 1d ago
 
 The Maine Bureau of Consumer Credit Protection announced the consent agreement with Bitcoin Depot on Monday.
 
-Bangor Daily News • 20h ago
+Bangor Daily News • 21h ago
 
 ---
 
@@ -207,7 +209,7 @@ Bangor Daily News • 20h ago
 
 Bitcoin Depot has agreed to refund money that was taken through its kiosks by third-party scammers who defrauded Maine consumers.
 
-Centralmaine.com • 21h ago
+Centralmaine.com • 22h ago
 
 ---
 
@@ -293,7 +295,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 23h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 1d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -307,7 +309,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 12K • 👍 231 • 💬 111 • ⏱️ 8:25 • 5h ago
+👁️ 12K • 👍 231 • 💬 111 • ⏱️ 8:25 • 6h ago
 
 ---
 
@@ -317,7 +319,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 2K • 💬 188 • ⏱️ 9:17 • 16h ago
+👁️ 60K • 👍 2K • 💬 188 • ⏱️ 9:17 • 17h ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 16K • 👍 926 • 💬 77 • ⏱️ 16:32 • 7h ago
+👁️ 16K • 👍 926 • 💬 77 • ⏱️ 16:32 • 8h ago
 
 ---
 
@@ -347,7 +349,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 281 • ⏱️ 8:08 • 17h ago
+👁️ 30K • 👍 2K • 💬 281 • ⏱️ 8:08 • 18h ago
 
 ---
 
@@ -367,7 +369,7 @@ Stay informed with the latest insights on **bitcoin**, focusing on effective **c
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 1K • 💬 34 • ⏱️ 31:55 • 3h ago
+👁️ 9K • 👍 1K • 💬 34 • ⏱️ 31:55 • 4h ago
 
 ---
 
@@ -377,7 +379,7 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 9K • 👍 411 • 💬 66 • ⏱️ 6:21 • 21h ago
+👁️ 9K • 👍 411 • 💬 66 • ⏱️ 6:21 • 22h ago
 
 ---
 
@@ -387,7 +389,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 16K • 👍 795 • 💬 50 • ⏱️ 13:49 • 9h ago
+👁️ 16K • 👍 795 • 💬 50 • ⏱️ 13:49 • 10h ago
 
 ---
 
@@ -397,7 +399,7 @@ Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the b
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 467 • 💬 84 • ⏱️ 57:31 • 1h ago
+👁️ 8K • 👍 467 • 💬 84 • ⏱️ 57:31 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T18:34:15.549655+00:00'
+updated: '2026-01-06T19:18:01.158007+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 18:34 UTC  
+**Last Updated:** January 06, 2026 at 19:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,6 +61,12 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 ---
 
+**[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
+
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 4h ago
+
+---
+
 **[Connect any LLM to all your knowledge sources and chat with it](https://www.reddit.com/r/artificial/comments/1q5h29v/connect_any_llm_to_all_your_knowledge_sources_and/)**
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
@@ -69,9 +75,11 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 ---
 
-**[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
+**[Is there an AI tool which can "listen" to and evaluate music?](https://www.reddit.com/r/artificial/comments/1q5l4tq/is_there_an_ai_tool_which_can_listen_to_and/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 4h ago
+The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
+
+4h ago
 
 ---
 
@@ -83,19 +91,11 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 ---
 
-**[Is there an AI tool which can "listen" to and evaluate music?](https://www.reddit.com/r/artificial/comments/1q5l4tq/is_there_an_ai_tool_which_can_listen_to_and/)**
-
-The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
-
-3h ago
-
----
-
 **[HarperCollins Will Use AI to Translate Harlequin Romance Novels](https://www.reddit.com/r/artificial/comments/1q5mtqk/harpercollins_will_use_ai_to_translate_harlequin/)**
 
 The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
 
-🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 2h ago
+🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 3h ago
 
 ---
 
@@ -121,7 +121,7 @@ Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles huma
 
 **[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 8h ago
 
 Wedbush's Dan Ives sees a $6 trillion path for the chip giant, but DA Davidson's Gil Luria warns that the "AI party" could face a hangover if the data center cycle begins to roll over.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Yahoo Finance • 53m ago
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 12h ago
 
 Razer showed off its 3D "desk companion," Project AVA, at CES. The 3D hologram can perform tasks like scheduling and live translation.
 
-Business Insider • 46m ago
+Business Insider • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Business Insider • 46m ago
 
 With its “central AI kitchen” now operational, Singtel has laid the initial groundwork and is now consolidating AI capabilities across divisionsSingtel is mea | Fierce talked to the person leading the charge to bring AI to every corner of Singapore’s largest service provider. Here's what he told us.
 
-fiercewireless.com • 17m ago
+fiercewireless.com • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ fiercewireless.com • 17m ago
 
 Also, the company has updates on its sea turtle robot.
 
-Gizmodo • 33m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ Gizmodo • 33m ago
 
 AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqc3tOtwIHVRDpFO1-eaAF4vEOfALCKlV_sPihfFBi3fvikeHwfrPczb&gaa_ts=695d590a&gaa_sig=bXVNwA-EL9ZQU0BPgGl7toMvSy5gTUayUmY9M7I33hHPTHtoO9mXDtRDzrHSODXAH95JGjdBlhD63Bjc-E1f3g%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Wall Street Journal • 11h ago
 
 Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
@@ -207,19 +207,19 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 ---
 
+**[Why didn't AI “join the workforce” in 2025?](https://news.ycombinator.com/item?id=46505735)**
+
+Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
+
+⬆️ 210 • 💬 330 • 21h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+
+---
+
 **[Eurostar AI vulnerability: When a chatbot goes off the rails](https://news.ycombinator.com/item?id=46492063)**
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
 ⬆️ 207 • 💬 48 • 1d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
-
----
-
-**[Why didn't AI “join the workforce” in 2025?](https://news.ycombinator.com/item?id=46505735)**
-
-Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
-
-⬆️ 206 • 💬 320 • 20h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -233,7 +233,15 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 92 • 💬 48 • 21h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 92 • 💬 48 • 22h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+
+---
+
+**[Opus 4.5 is not the normal AI agent experience that I have had thus far](https://news.ycombinator.com/item?id=46515696)**
+
+Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
+
+⬆️ 80 • 💬 119 • 1h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -253,23 +261,17 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 ---
 
+**[The skill of the future is not 'AI', but 'Focus' (2025)](https://news.ycombinator.com/item?id=46513728)**
+
+Don't let AI erode your focus.
+
+⬆️ 54 • 💬 9 • 3h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+
+---
+
 **[Developing a BLAS Library for the AMD AI Engine [pdf]](https://news.ycombinator.com/item?id=46483811)**
 
 ⬆️ 46 • 💬 11 • 2d ago • [uni.tlaan.nl](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf)
-
----
-
-**[Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324)**
-
-⬆️ 39 • 💬 6 • 15h ago
-
----
-
-**[That viral Reddit post about food delivery apps was an AI scam](https://news.ycombinator.com/item?id=46503492)**
-
-AI slop comes for Reddit.
-
-⬆️ 36 • 💬 42 • 23h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -283,7 +285,7 @@ Learn How To Make AI Videos From Beginner to Expert Create Your Own AI Videos ht
 
 📺 Dan Kieft
 
-👁️ 5K • 💬 5 • ⏱️ 13:48 • 2h ago
+👁️ 5K • 💬 5 • ⏱️ 13:48 • 3h ago
 
 ---
 
@@ -353,7 +355,7 @@ Check out Akiflow! You can get three free months of premium with my link :) http
 
 📺 Marina Wyss - AI & Machine Learning
 
-👁️ 1K • 👍 132 • 💬 7 • ⏱️ 9:42 • 3h ago
+👁️ 1K • 👍 132 • 💬 7 • ⏱️ 9:42 • 4h ago
 
 ---
 
@@ -371,7 +373,7 @@ Analyst on AMD's New Tech, AI Demand DEK: Advanced Micro Devices CEO Lisa Su tou
 
 📺 Bloomberg Technology
 
-👁️ 2K • 👍 38 • 💬 5 • ⏱️ 5:10 • 10h ago
+👁️ 2K • 👍 38 • 💬 5 • ⏱️ 5:10 • 11h ago
 
 ---
 
@@ -495,7 +497,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 1,867 • ❤️ 360 • 19h ago
+⬇️ 1,867 • ❤️ 360 • 20h ago
 
 ---
 
@@ -656,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.9k • 🔱 704 • 2h ago
+⭐ 5.9k • 🔱 704 • 3h ago
 
 ---
 
@@ -676,7 +678,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 122 • 1h ago
+⭐ 2.0k • 🔱 122 • 2h ago
 
 ---
 
@@ -706,7 +708,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 136 • 9h ago
+⭐ 1.1k • 🔱 136 • 10h ago
 
 ---
 
@@ -716,7 +718,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 83 • 22h ago
+⭐ 1.1k • 🔱 83 • 23h ago
 
 ---
 
