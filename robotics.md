@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-05T23:43:24.853899+00:00'
+updated: '2026-01-06T01:49:46.498459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 05, 2026 at 23:43 UTC  
+**Last Updated:** January 06, 2026 at 01:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,17 +36,25 @@ Robotics research and industry news
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 1h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 3h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-5h ago
+7h ago
 
 ---
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
+
+5h ago
+
+---
+
+**[I just wanted opinions for the project.](https://www.reddit.com/r/robotics/comments/1q50qbo/i_just_wanted_opinions_for_the_project/)**
+
+I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
 3h ago
 
@@ -56,15 +64,15 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-9h ago
+11h ago
 
 ---
 
-**[I just wanted opinions for the project.](https://www.reddit.com/r/robotics/comments/1q50qbo/i_just_wanted_opinions_for_the_project/)**
+**[Hyundai Debuts Next-Gen Atlas Robot from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q52xzu/hyundai_debuts_nextgen_atlas_robot_from_boston/)**
 
-I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-58m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 1h ago
 
 ---
 
@@ -76,9 +84,17 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 ---
 
+**[Atlas has 4 fingers instead of 3?](https://www.reddit.com/r/robotics/comments/1q52r1v/atlas_has_4_fingers_instead_of_3/)**
+
+Anyone else noticed the productized Atlas is rendered with 4 fingers? BD released a video 2 months ago on why 3 fingers is enough, which seems reasonable to me back then. Why do you think they changed it?
+
+🔗 [youtu.be](https://youtu.be/rrUHZKlrxms) • 1h ago
+
+---
+
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -90,29 +106,35 @@ Did you know that the interior of the silo is an explosive zone (Ex-zone)? ☢�
 
 ---
 
-**[Parallel linkage quadruped](https://www.reddit.com/r/robotics/comments/1q483j3/parallel_linkage_quadruped/)**
-
-I’ve been noodling around with this parallel linkage approach to legs. It allows offset motors for hip and knee with two chained 4-bar linkages handling the knee joint. This keeps both motors in the base. Just canned motions for now using a simple IK solver. The kinematics are a bit different since the lower limb remains parallel with the knee motor horn, independent of the upper limb angle.
-
-22h ago
-
----
-
-**[Whatever happened to the NEO robot?](https://www.reddit.com/r/robotics/comments/1q4j684/whatever_happened_to_the_neo_robot/)**
-
-A few months ago, the NEO home robot was all over the news — demos, hype, promises of crazy capabilities. Since then… nothing. Has anyone seen any updates or heard what’s going on with the project? Did it stall, go quiet, or was it just overhyped? Curious to know if anyone has info.
-
-12h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
+**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
+
+Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
+
+TechCrunch • 2h ago
+
+---
+
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 11h ago
+
+---
+
+**[How Qualcomm’s New Dragonwing IQ10 Robotics Platform At QUALCOMM (QCOM) Has Changed Its Investment Story](https://finance.yahoo.com/news/qualcomm-dragonwing-iq10-robotics-platform-001058113.html)**
+
+At CES 2026, Qualcomm Technologies introduced a next-generation, full-stack robotics architecture built around its new Dragonwing IQ10 Series processor for industrial autonomous mobile robots and advanced humanoids, integrating hardware, software, and compound AI. The launch underscores Qualcomm’s push to extend its edge AI capabilities beyond smartphones into “physical AI” systems, supported by partnerships with firms such as Kuka Robotics, Figure, and VinMotion to move prototypes toward...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Softbank Group: BTIG initiates with Buy on AI, robotics prospects](https://www.investing.com/news/stock-market-news/softbank-group-btig-initiates-with-buy-on-ai-robotics-prospects-4431200)**
+
+Investing.com • 1h ago
 
 ---
 
@@ -120,7 +142,7 @@ Bloomberg.com • 9h ago
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 Minutes to watch its humanoid, Atlas, learn how to work at a Hyundai factory.
 
-CBS News • 23h ago
+CBS News • 1d ago
 
 ---
 
@@ -128,23 +150,7 @@ CBS News • 23h ago
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 1h ago
-
----
-
-**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
-
-Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
-
-TechCrunch • 43m ago
-
----
-
-**[Qualcomm unveils PC chip, humanoid robotics initiative at CES 2026](https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-humanoid-robotics-initiative-at-ces-2026-170020697.html)**
-
-Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
-
-Yahoo Finance • 6h ago
+NVIDIA Newsroom • 3h ago
 
 ---
 
@@ -152,13 +158,7 @@ Yahoo Finance • 6h ago
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 9h ago
-
----
-
-**[Hundreds compete in robotics competition in Hershey](https://www.abc27.com/local-news/hundreds-compete-in-robotics-competition-in-hershey/)**
-
-ABC27 • 20h ago
+CNET • 11h ago
 
 ---
 
@@ -170,19 +170,17 @@ PR Newswire • 1d ago
 
 ---
 
-**[Advanced AI, robotics set to steal limelight at CES 2026](https://www.koreatimes.co.kr/business/companies/20260105/ces-2026-advanced-ai-robotics-set-to-steal-limelight-at-ces-2026)**
+**[Hundreds compete in robotics competition in Hershey](https://www.abc27.com/local-news/hundreds-compete-in-robotics-competition-in-hershey/)**
 
-LAS VEGAS — Advanced artificial intelligence (AI) solutions and cutting-edge robotics will take center stage at the CES 2026 tech fair, with renown...
-
-The Korea Times • 1d ago
+ABC27 • 22h ago
 
 ---
 
-**[Watch the NVIDIA CES 2026 keynote with CEO Jensen Huang live here: AI, robotics updates and more](https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html)**
+**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
 
-NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
+In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
 
-Engadget • 7h ago
+The Robot Report • 2d ago
 
 ---
 
@@ -196,7 +194,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 395K • 👍 7K • 💬 2K • ⏱️ 13:17 • 19h ago
+👁️ 453K • 👍 8K • 💬 2K • ⏱️ 13:17 • 21h ago
 
 ---
 
@@ -206,7 +204,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 8K • 👍 111 • 💬 3 • ⏱️ 7:38 • 1d ago
+👁️ 8K • 👍 117 • 💬 4 • ⏱️ 7:38 • 1d ago
 
 ---
 
@@ -216,17 +214,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 132K • 👍 2K • 💬 378 • ⏱️ 5:49 • 23h ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 100K • 👍 2K • 💬 271 • ⏱️ 11:42 • 4d ago
+👁️ 154K • 👍 3K • 💬 410 • ⏱️ 5:49 • 1d ago
 
 ---
 
@@ -237,6 +225,16 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 📺 China Fact Chasers
 
 👁️ 15K • 👍 1K • 💬 77 • ⏱️ 8:39 • 5d ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 100K • 👍 2K • 💬 271 • ⏱️ 11:42 • 5d ago
 
 ---
 
@@ -256,7 +254,7 @@ Company's staff challenged kyrie irving to push the humanoid robot. however, the
 
 📺 BeastNarratives
 
-👁️ 7.9M • 👍 181K • 💬 690 • ⏱️ 0:45 • 6d ago
+👁️ 8.0M • 👍 182K • 💬 696 • ⏱️ 0:45 • 6d ago
 
 ---
 
@@ -266,7 +264,7 @@ Female Humanoid Lab explores the future of humanoid robotics through fictional, 
 
 📺 Female Humanoid Lab
 
-👁️ 24K • 👍 201 • 💬 12 • ⏱️ 12:34 • 3d ago
+👁️ 24K • 👍 203 • 💬 12 • ⏱️ 12:34 • 3d ago
 
 ---
 
@@ -276,7 +274,7 @@ The Australian startup Andromeda Robotics just secured $23 million in Series A f
 
 📺 Kalil 4.0
 
-👁️ 627 • 👍 28 • 💬 2 • ⏱️ 1:06 • 3h ago
+👁️ 749 • 👍 33 • 💬 2 • ⏱️ 1:06 • 5h ago
 
 ---
 
