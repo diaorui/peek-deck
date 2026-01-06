@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T22:46:57.923417+00:00'
+updated: '2026-01-06T23:21:51.770121+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 22:46 UTC  
+**Last Updated:** January 06, 2026 at 23:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-4h ago
+5h ago
 
 ---
 
@@ -68,7 +68,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and
 
 Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
 
-5h ago
+6h ago
 
 ---
 
@@ -84,7 +84,7 @@ Why arent there any small sized VR controlled mechs akin to the flying drones? I
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 15h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi there, Lately I have been interested getting into VR teleoperation for resear
 
 Hello everyone, we are a group of two engineers with combined experience in mechatronics, aerospace and robotics research, and also some experience creating tech startups and fundraising. We have been working hard creating our own affordable Industrial Robotic Arm from scratch with focus on maintainability and repairability, and feel confident with our current prototype. We are looking for passionate builders that want to join us in our journey, collaborating with your current skills and learn whatever else is needed, particularly to help in the areas we are missing right now (AI/ML and general Full-Stack SW development). We strongly believe in the principles of open-source and are located in the EU, with the goal of sourcing and assembling all the parts inside our common market. If my message caught your attention, feel free to DM me and we can talk more in Discord or email. For obvious reasons, we don't want to show our prototype here, but I would be happy showing it personally. You can see some stuff we have done in the past here: Autonomous shelf stocking & charging.
 
-5h ago
+6h ago
 
 ---
 
@@ -134,7 +134,7 @@ NVIDIA Developer • 1d ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -148,7 +148,7 @@ CNET • 1d ago
 
 **[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -156,13 +156,13 @@ Bloomberg.com • 2h ago
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
 **[Mobileye to Buy Humanoid Robot Maker Mentee for $900 Million](https://www.bloomberg.com/news/articles/2026-01-06/mobileye-to-buy-humanoid-robot-maker-mentee-for-900-million)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ Bloomberg.com • 1h ago
 
 LAS VEGAS, January 06, 2026--Mobileye to acquire Mentee Robotics, bringing world-class AI talent together to scale autonomous vehicles and humanoid robots globally
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 1h ago
 
 "What has now changed," Skild AI CEO Deepak Pathak told Fortune, "is that these models or these robots can now can learn from data."
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
 **[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 188K • 👍 6K • 💬 957 • ⏱️ 7:00 • 23h ago
+👁️ 188K • 👍 6K • 💬 957 • ⏱️ 7:00 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to SwitchBot at CES 2026 Discover Smart Home 2.0, powered by AI robots, 
 
 📺 SwitchBot
 
-👁️ 2K • 👍 63 • 💬 17 • ⏱️ 3:29 • 7h ago
+👁️ 2K • 👍 63 • 💬 17 • ⏱️ 3:29 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 27K • 👍 453 • 💬 36 • ⏱️ 1:33:26 • 23h ago
+👁️ 27K • 👍 453 • 💬 36 • ⏱️ 1:33:26 • 1d ago
 
 ---
 

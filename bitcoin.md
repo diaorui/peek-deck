@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T22:46:57.914246+00:00'
+updated: '2026-01-06T23:21:51.760484+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 22:46 UTC  
+**Last Updated:** January 06, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 **[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wa
 
 It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=DD3Olh5uInk%3D
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet
 
 BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tues
 
 Hello. I heat my house with electric system and I find it stupid to use electricity only for heating, knowing that whatever we are using electricity for, it becomes heat at the end anyway. So I was thinking about changing my heaters for ASIC miners (That are changing 100% of the electric power in heat, just like an heater). But is it worth it to buy ASIC just to use it 4-5 months in the year? Did one of you already tried?
 
-3h ago
+4h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 1d ago
 
 **[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 3h ago
 
 Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 9h ago
 
 Publicly traded Bitcoin miner Riot Platforms netted nearly $200 million in proceeds from BTC sales in November and December.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ Bitcoin Magazine • 1h ago
 
 Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
-ABC News • 1h ago
+ABC News • 2h ago
 
 ---
 
@@ -267,7 +267,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 1d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 2d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -317,7 +317,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 23K • 👍 298 • 💬 194 • ⏱️ 8:25 • 9h ago
+👁️ 23K • 👍 298 • 💬 194 • ⏱️ 8:25 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 213 • ⏱️ 9:17 • 20h ago
+👁️ 68K • 👍 3K • 💬 213 • ⏱️ 9:17 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 1K • 💬 46 • ⏱️ 31:55 • 7h ago
+👁️ 15K • 👍 1K • 💬 46 • ⏱️ 31:55 • 8h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the b
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 572 • 💬 153 • ⏱️ 57:31 • 5h ago
+👁️ 11K • 👍 572 • 💬 153 • ⏱️ 57:31 • 6h ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 21K • 👍 1K • 💬 100 • ⏱️ 16:32 • 11h ago
+👁️ 21K • 👍 1K • 💬 100 • ⏱️ 16:32 • 12h ago
 
 ---
 
@@ -407,7 +407,7 @@ My New Bitcoin Target For 2026! I'm revealing my new Bitcoin price target for 20
 
 📺 Tim Warren
 
-👁️ 2K • 👍 293 • 💬 104 • ⏱️ 19:54 • 2h ago
+👁️ 2K • 👍 293 • 💬 104 • ⏱️ 19:54 • 3h ago
 
 ---
 

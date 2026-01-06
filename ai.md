@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T22:46:57.905769+00:00'
+updated: '2026-01-06T23:21:51.751785+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - social
 - news
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 22:46 UTC  
+**Last Updated:** January 06, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
 
-🔗 [WIRED](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/) • 24m ago
+🔗 [WIRED](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/) • 59m ago
 
 ---
 
@@ -87,7 +87,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 What's up guys, I officially launched my side project/SAAS and thought I'd share the demo video since it might solve some of your pain points. Basically its a free alternative to chat gpt, gemini and perplexity (soon claude as well) which features all the best parts of those platforms in one place. It also lets you try out fun unique models like uncensored and genUI (from thesys). It also lets you connect to MCP and apps and connectors. There is a PRO tier currently so that I can fund the free tier and any support is super duper appreciated. Give me any feedback or ideas for things you want to see! My goal here is to build an awesome platform that keeps things simple but provides all the perks and features we love from all the platforms so if you have ideas on what you want added to free or pro tier let me know!!! This is the link for anyone interested --> ZeroTwo
 
-52m ago
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 **[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-Politico • 7h ago
+Politico • 8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Politico • 7h ago
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -151,7 +151,7 @@ People.com • 1h ago
 
 **[OpenAI Challengers Test Appetite for Chinese AI With Twin Debuts](https://www.bloomberg.com/news/articles/2026-01-06/openai-challengers-test-appetite-for-chinese-ai-with-twin-debuts?srnd=phx-deals)**
 
-Bloomberg.com • 46m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -165,13 +165,13 @@ xAI • 3h ago
 
 Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
 **[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 23h ago
 
 "It appears that we're going to be going back to China," Nvidia CEO Jensen Huang said on Tuesday at the CES conference in Las Vegas.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ CNBC • 1h ago
 
 AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -291,7 +291,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 14K • 👍 836 • 💬 47 • ⏱️ 13:13 • 9h ago
+👁️ 14K • 👍 836 • 💬 47 • ⏱️ 13:13 • 10h ago
 
 ---
 
@@ -351,7 +351,7 @@ Hyperscalers and chip stocks have soared in the first phase of AI. CNBC's Robert
 
 📺 CNBC Television
 
-👁️ 3K • 👍 32 • 💬 3 • ⏱️ 4:01 • 8h ago
+👁️ 3K • 👍 32 • 💬 3 • ⏱️ 4:01 • 9h ago
 
 ---
 
@@ -483,7 +483,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 72,638 • ❤️ 217 • 18m ago
+⬇️ 72,638 • ❤️ 217 • 53m ago
 
 ---
 
@@ -495,7 +495,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 107 • ❤️ 202 • 14h ago
+⬇️ 107 • ❤️ 202 • 15h ago
 
 ---
 
@@ -656,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.0k • 🔱 713 • 6h ago
+⭐ 6.0k • 🔱 713 • 7h ago
 
 ---
 
@@ -706,7 +706,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 138 • 13h ago
+⭐ 1.1k • 🔱 138 • 14h ago
 
 ---
 
