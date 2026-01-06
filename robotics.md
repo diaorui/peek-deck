@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T13:38:12.558548+00:00'
+updated: '2026-01-06T14:25:08.959626+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 13:38 UTC  
+**Last Updated:** January 06, 2026 at 14:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 15h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 16h ago
 
 ---
 
@@ -44,13 +44,21 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 6h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 7h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-19h ago
+20h ago
+
+---
+
+**[Italian startup Generative Bionics announced his first humanoid robot GENE.01](https://www.reddit.com/r/robotics/comments/1q5iusr/italian_startup_generative_bionics_announced_his/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 44m ago
 
 ---
 
@@ -64,7 +72,15 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 14h ago
+
+---
+
+**[I just wanted opinions for the project.](https://www.reddit.com/r/robotics/comments/1q50qbo/i_just_wanted_opinions_for_the_project/)**
+
+I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
+
+15h ago
 
 ---
 
@@ -76,19 +92,11 @@ In this tutorial, I’ll show you how to build the brain of a DQN agent, train i
 
 ---
 
-**[I just wanted opinions for the project.](https://www.reddit.com/r/robotics/comments/1q50qbo/i_just_wanted_opinions_for_the_project/)**
-
-I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
-
-14h ago
-
----
-
 **[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-23h ago
+1d ago
 
 ---
 
@@ -96,15 +104,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
 
-🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 11h ago
-
----
-
-**[Robotics Community Meetup in Pune – This Saturday | Topic: 3D Printing for Robotics](https://www.reddit.com/r/robotics/comments/1q5chks/robotics_community_meetup_in_pune_this_saturday/)**
-
-Hey everyone, We’re organizing another Robotics Community Meetup in Pune this Saturday. After two successful previous meetups with engaging discussions and great participation, it’s encouraging to see the community growing steadily, so we wanted to invite more builders to join us. This session will focus on 3D Printing for robotics and hardware prototyping — including material selection, print optimization, post-processing, and how 3D printing fits into building real robots. We’ll also discuss progress and next steps for our community robotic arm project. Details: 📅 Saturday, 10 January ⏰ 6:00 PM – 8:00 PM 📍 Baner, Pune (exact location will be shared after registration) Register here if you’d like to attend: https://forms.gle/tDsWJT7tNrXsmXVz9 Looking forward to meeting more robotics enthusiasts and continuing to grow the community together.
-
-5h ago
+🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 12h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hey everyone, We’re organizing another Robotics Community Meetup in Pune this 
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 15h ago
+NVIDIA Newsroom • 16h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 15h ago
 
 NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
 
-NVIDIA Developer • 15h ago
+NVIDIA Developer • 16h ago
 
 ---
 
@@ -132,35 +132,44 @@ NVIDIA Developer • 15h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
-**[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
+**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
 
-Axios • 16h ago
+At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
+people and production.
+
+hyundai.com • 17h ago
+
+---
+
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
+
+Reuters • 2h ago
+
+---
+
+**[NVIDIA releases new physical AI models, plus autonomous vehicle tools](https://www.therobotreport.com/nvidia-releases-new-physical-ai-models-plus-autonomous-vehicle-tools/)**
+
+NVIDIA released Cosmos, GR00T, and Alpamayo open models to help developers build reasoning machines including robots and vehicles.
+
+The Robot Report • 1h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
+**[Qualcomm unveils PC chip, humanoid robotics initiative at CES 2026](https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-humanoid-robotics-initiative-at-ces-2026-170020697.html)**
 
-In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
+Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
 
-The Robot Report • 2d ago
-
----
-
-**[Qualcomm Unveils Full Robotics AI Stack](https://finance.yahoo.com/news/qualcomm-unveils-full-robotics-ai-173839753.html)**
-
-New Dragonwing chip targets humanoids, AMRs
-
-Yahoo Finance • 19h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -172,19 +181,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Robotics Stocks To Follow Today - January 4th](https://www.marketbeat.com/instant-alerts/robotics-stocks-to-follow-today-january-4th-2026-01-04/)**
+**[Shenzhen eyes bigger role in world robotics arena as firms vow to boost output](https://www.scmp.com/tech/big-tech/article/3338938/shenzhen-poised-bigger-role-world-robotics-arena-firms-vow-boost-output)**
 
-Teradyne, Serve Robotics,  and Richtech Robotics are the three Robotics stocks to watch today, according to MarketBeat's stock screener tool. Robotics stocks are shares of companies that design, manufacture, or enable robotic systems and automation technologies — including industrial robots, service
+Premier Li Qiang urges faster adoption of robotics to benefit industries and households during a meeting with tech companies in Shenzhen.
 
-MarketBeat • 1d ago
-
----
-
-**[Advanced AI, robotics set to steal limelight at CES 2026](https://www.koreatimes.co.kr/business/companies/20260105/ces-2026-advanced-ai-robotics-set-to-steal-limelight-at-ces-2026)**
-
-LAS VEGAS — Advanced artificial intelligence (AI) solutions and cutting-edge robotics will take center stage at the CES 2026 tech fair, with renown...
-
-The Korea Times • 1d ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -198,7 +199,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 675K • 👍 10K • 💬 2K • ⏱️ 13:17 • 1d ago
+👁️ 708K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -208,17 +209,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 11K • 👍 160 • 💬 4 • ⏱️ 7:38 • 1d ago
-
----
-
-**[The Beginning of Your Tomorrow I Boston Dynamics](https://www.youtube.com/watch?v=sd8ivhpjI6g)**
-
-We're excited to announce the product version of our Atlas® robot. This enterprise-grade humanoid robot offers impressive ...
-
-📺 Boston Dynamics
-
-👁️ 109K • 👍 8K • 💬 1K • ⏱️ 2:05 • 16h ago
+👁️ 12K • 👍 175 • 💬 4 • ⏱️ 7:38 • 1d ago
 
 ---
 
@@ -228,17 +219,27 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 233K • 👍 4K • 💬 541 • ⏱️ 5:49 • 1d ago
+👁️ 244K • 👍 4K • 💬 584 • ⏱️ 5:49 • 1d ago
 
 ---
 
-**[FULL CES 2026 EVENT: NVIDIA CEO Reveals Physical AI and Autonomous Robots Changing Industries | AI14](https://www.youtube.com/watch?v=UrMnOp2N9Kw)**
+**[The Beginning of Your Tomorrow I Boston Dynamics](https://www.youtube.com/watch?v=sd8ivhpjI6g)**
 
-Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales allowed. Watch the full NVIDIA CES 2026 event ...
+We're excited to announce the product version of our Atlas® robot. This enterprise-grade humanoid robot offers impressive ...
 
-📺 DWS News
+📺 Boston Dynamics
 
-👁️ 6K • 👍 154 • 💬 12 • ⏱️ 1:33:26 • 14h ago
+👁️ 127K • 👍 8K • 💬 1K • ⏱️ 2:05 • 16h ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 102K • 👍 2K • 💬 277 • ⏱️ 11:42 • 5d ago
 
 ---
 
@@ -252,13 +253,13 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+**[FULL CES 2026 EVENT: NVIDIA CEO Reveals Physical AI and Autonomous Robots Changing Industries | AI14](https://www.youtube.com/watch?v=UrMnOp2N9Kw)**
 
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales allowed. Watch the full NVIDIA CES 2026 event ...
 
-📺 AI Revolution
+📺 DWS News
 
-👁️ 102K • 👍 2K • 💬 275 • ⏱️ 11:42 • 5d ago
+👁️ 10K • 👍 235 • 💬 18 • ⏱️ 1:33:26 • 15h ago
 
 ---
 
@@ -268,7 +269,17 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 114K • 👍 3K • 💬 598 • ⏱️ 7:00 • 14h ago
+👁️ 132K • 👍 4K • 💬 698 • ⏱️ 7:00 • 15h ago
+
+---
+
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+
+📺 Unitree Robotics
+
+👁️ 181K • 👍 3K • 💬 738 • ⏱️ 0:32 • 2d ago
 
 ---
 
@@ -279,16 +290,6 @@ Humanoid robots are about to take a massive leap forward in 2026 — and the com
 📺 The AI Nexus
 
 👁️ 4K • 👍 94 • 💬 9 • ⏱️ 18:26 • 5d ago
-
----
-
-**[Kyrie Irving Destroyed This 70k Humanoid Robot!😂](https://www.youtube.com/watch?v=c7FSvL8aa5w)**
-
-Company's staff challenged kyrie irving to push the humanoid robot. however, they did not expect what happened when kyrie ...
-
-📺 BeastNarratives
-
-👁️ 8.2M • 👍 185K • 💬 712 • ⏱️ 0:45 • 6d ago
 
 ---
 

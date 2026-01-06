@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T13:38:12.540661+00:00'
+updated: '2026-01-06T14:25:08.942031+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - repositories
 - videos
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 13:38 UTC  
+**Last Updated:** January 06, 2026 at 14:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,7 @@ AI news, discussions, and developments
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-19h ago
-
----
-
-**[Nvidia Launches Alpamayo AI for Human-Like Autonomous Driving](https://www.reddit.com/r/artificial/comments/1q57fru/nvidia_launches_alpamayo_ai_for_humanlike/)**
-
-Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
-
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 10h ago
-
----
-
-**[Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin](https://www.reddit.com/r/artificial/comments/1q511qj/nvidia_just_provided_a_closer_look_at_its_new/)**
-
-Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
-
-🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 14h ago
+20h ago
 
 ---
 
@@ -65,7 +49,23 @@ Nvidia just provided a closer look at its new computing platform for AI data cen
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-1h ago
+2h ago
+
+---
+
+**[Nvidia Launches Alpamayo AI for Human-Like Autonomous Driving](https://www.reddit.com/r/artificial/comments/1q57fru/nvidia_launches_alpamayo_ai_for_humanlike/)**
+
+Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
+
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 11h ago
+
+---
+
+**[Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin](https://www.reddit.com/r/artificial/comments/1q511qj/nvidia_just_provided_a_closer_look_at_its_new/)**
+
+Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
+
+🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 15h ago
 
 ---
 
@@ -73,7 +73,13 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 I am building an experimental AI tool that analyzes images to suggest real world location by detecting architectural and design elements and explaining why those cues point to a specific place. I tested it on a public image with a known location and recorded a short video showing the reasoning process. The output was close but imperfect, which is expected at this stage. I am mainly interested in whether explanation driven reasoning makes these systems more useful and interpretable.
 
-2h ago
+3h ago
+
+---
+
+**[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
+
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 1m ago
 
 ---
 
@@ -81,7 +87,7 @@ I am building an experimental AI tool that analyzes images to suggest real world
 
 AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development.[2] Alexa.com rolls out to all Alexa+ Early Access customers, bringing the power of Alexa+ to your browser.[3] MIT scientists investigate memorization risk in the age of clinical AI.[4] Sources: [1] https://finance.yahoo.com/news/amd-reveals-new-ai-pc-chips-details-next-gen-data-center-chips-at-ces-2026-041117636.html [2] https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development [3] https://www.aboutamazon.com/news/devices/alexa-plus-web-ai-assistant [4] https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +103,7 @@ I built Ctrl, an open-source execution control plane that sits between an agent 
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 21h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 22h ago
 
 ---
 
@@ -109,14 +115,6 @@ I'm new to this sub. I was hoping to converse a little and get some opinions on 
 
 ---
 
-**[AI that connects users with similar interests by chatting with them first. good idea or privacy nightmare?](https://www.reddit.com/r/artificial/comments/1q4l0i1/ai_that_connects_users_with_similar_interests_by/)**
-
-Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +123,7 @@ Hey everyone, I’ve been thinking about an idea and wanted some honest feedback
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -133,43 +131,27 @@ The Guardian • 7h ago
 
 Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Grok AI still being used to digitally undress women and children despite suspension pledge](https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-digitally-undress-images-of-women-children)**
+**[Experts agree: AI is here to stay](https://thehill.com/opinion/technology/5673342-measuring-ai-returns-investment/)**
 
-The degrading pictures are being posted to X despite the platform pledging to suspend people who generate them
-
-The Guardian • 18h ago
+The Hill • 25m ago
 
 ---
 
-**[Elon Musk's chatbot bikini image edits draw scrutiny from U.S. and global regulators](https://www.axios.com/2026/01/06/grok-ai-elon-musk-deepfake-bikini)**
+**[TDK Plans Silicon Battery Update for Holiday Season’s AI Gadgets](https://www.bloomberg.com/news/articles/2026-01-06/tdk-plans-silicon-battery-update-for-holiday-season-s-ai-gadgets)**
 
-Axios • 2h ago
-
----
-
-**[European Commission calls Grok's sexualised AI photos 'illegal,' Britain demands answers](https://www.reuters.com/business/media-telecom/britain-demands-elon-musks-grok-answers-concerns-about-sexualised-photos-2026-01-05/)**
-
-Reuters • 17h ago
+Bloomberg.com • 55m ago
 
 ---
 
-**[Should workers be worried about AI taking their jobs? Ask Johnny](https://www.usatoday.com/story/money/columnist/2026/01/06/should-employees-worry-ai-taking-jobs/87974979007/)**
+**[Razer Thinks AI Headphones With Cameras Can Take On Meta’s Ray-Bans](https://gizmodo.com/razer-thinks-ai-headphones-with-cameras-can-take-on-metas-ray-bans-2000705583)**
 
-Artificial intelligence isn’t coming for your job ‒ but someone who knows how to use AI might.
+Everyone wants in on the AI wearable game, but Razer is offering a slightly different take.
 
-USA Today • 1h ago
-
----
-
-**[Timekettle Reveals a Major Upgrade to Its Real-Time, In-Ear AI Translation Technology at CES 2026](https://gizmodo.com/timekettles-real-time-in-ear-ai-translation-tech-just-got-a-massive-upgrade-2000705424)**
-
-The Babel fish real-time translator is becoming a reality.
-
-Gizmodo • 1h ago
+Gizmodo • 23m ago
 
 ---
 
@@ -177,21 +159,35 @@ Gizmodo • 1h ago
 
 As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
 **[An AI revolution in drugmaking is under way](https://www.economist.com/science-and-technology/2026/01/05/an-ai-revolution-in-drugmaking-is-under-way)**
 
-The Economist • 21h ago
+The Economist • 22h ago
 
 ---
 
-**[AI godfather says Meta’s new 29-year-old AI boss is ‘inexperienced’ and warns of staff exodus](https://www.cnbc.com/2026/01/05/ai-godfather-calls-meta-ai-boss-alexander-wang-inexperienced-.html)**
+**[Why Equinox Leaned on AI Slop in Its New Year’s Ad Campaign](https://www.wsj.com/articles/why-equinox-leaned-on-ai-slop-in-its-new-years-ad-campaign-a44a7f2e?gaa_at=eafs&gaa_n=AWEtsqfmMm9x1dxcPBrq0illdO_PtDJpgdzlczDlv-7w5YJaacRECKPL15kK&gaa_ts=695d1ea4&gaa_sig=m68yIArYMcF6l0uquydmVNNftfCF0HFsWPMnqqivPg2CCU-bpgDeMOTzmSRQnrBiXajC506fYuMLjJq2lPzzgg%3D%3D)**
 
-"A lot of people have left, a lot of people who haven't yet left will leave," Meta's former chief AI scientist Yann Lecun said.
+The Wall Street Journal • 20h ago
 
-CNBC • 21h ago
+---
+
+**[The mother of one of Elon Musk’s children says his AI bot won’t stop creating sexualized images of her](https://www.nbcnews.com/tech/elon-musk/mother-one-elon-musks-children-says-ai-bot-wont-stop-creating-sexualiz-rcna252416)**
+
+Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
+
+NBC News • 1h ago
+
+---
+
+**[Grok AI still being used to digitally undress women and children despite suspension pledge](https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-digitally-undress-images-of-women-children)**
+
+The degrading pictures are being posted to X despite the platform pledging to suspend people who generate them
+
+The Guardian • 19h ago
 
 ---
 
@@ -203,7 +199,7 @@ CNBC • 21h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 304 • 💬 311 • 23h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 305 • 💬 312 • 1d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -211,7 +207,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 206 • 💬 48 • 1d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 207 • 💬 48 • 1d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -219,7 +215,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 156 • 💬 219 • 15h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 177 • 💬 264 • 16h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -233,7 +229,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 90 • 💬 46 • 16h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 90 • 💬 47 • 17h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -241,7 +237,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 Surely it works this time
 
-⬆️ 66 • 💬 72 • 1d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 66 • 💬 71 • 1d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -249,7 +245,7 @@ Surely it works this time
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 56 • 💬 102 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 57 • 💬 102 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -261,7 +257,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 **[Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324)**
 
-⬆️ 38 • 💬 6 • 10h ago
+⬆️ 38 • 💬 6 • 11h ago
 
 ---
 
@@ -269,7 +265,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 AI slop comes for Reddit.
 
-⬆️ 34 • 💬 40 • 18h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
+⬆️ 35 • 💬 42 • 18h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -283,17 +279,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 675K • 👍 10K • 💬 2K • ⏱️ 13:17 • 1d ago
-
----
-
-**[This AI Solves The No Code Problem (Rocket)](https://www.youtube.com/watch?v=S2MP49Xr9PI)**
-
-Rocket is a new AI platform that quietly finishes what every no-code builder started but never completed. It doesn't give you ...
-
-📺 AI Revolution
-
-👁️ 12K • 👍 499 • 💬 30 • ⏱️ 8:40 • 14h ago
+👁️ 708K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -303,7 +289,17 @@ The world's largest tech show is back and AI is powering nearly every major reve
 
 📺 Cheddar
 
-👁️ 9K • 👍 108 • 💬 9 • ⏱️ 3:36 • 21h ago
+👁️ 10K • 👍 119 • 💬 10 • ⏱️ 3:36 • 22h ago
+
+---
+
+**[Stop Paying for AI: 4 Free Chinese Tools (Unlimited + No Watermarks)](https://www.youtube.com/watch?v=jLFfi33X16k)**
+
+Outskill (Sponsored) — Join here: https://link.outskill.com/MALVAAIJAN2 FREE PDF (all tool links + my exact prompts): ...
+
+📺 Malva AI
+
+👁️ 8K • 👍 680 • 💬 216 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -313,27 +309,7 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 86K • 👍 2K • 💬 362 • ⏱️ 11:17 • 1d ago
-
----
-
-**[Elon Musk: “We Hit AI Singularity” – Is He Bluffing?](https://www.youtube.com/watch?v=2hBj1UIJfqE)**
-
-Support me by subscribing to the Thomas AI channel https://www.youtube.com/@thomas-ai-en?sub_confirmation=1 and ...
-
-📺 Thomas AI 🇺🇸
-
-👁️ 3K • 👍 26 • 💬 38 • ⏱️ 15:04 • 1d ago
-
----
-
-**[This NEW 1-Click AI Agent is INSANE! 🤯](https://www.youtube.com/watch?v=G3ka1hVasGg)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 3K • 👍 107 • 💬 8 • ⏱️ 9:18 • 16h ago
+👁️ 90K • 👍 2K • 💬 377 • ⏱️ 11:17 • 1d ago
 
 ---
 
@@ -347,37 +323,67 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 ---
 
-**[How to Start a 1-Person AI Business (With Zero Code)](https://www.youtube.com/watch?v=ar9JCsiq6hs)**
+**[Elon Musk: “We Hit AI Singularity” – Is He Bluffing?](https://www.youtube.com/watch?v=2hBj1UIJfqE)**
 
-Get your FREE Sell by Chat Playbook here: https://go.danmartell.com/4aiAhhb Are you building an AI software company?
+Support me by subscribing to the Thomas AI channel https://www.youtube.com/@thomas-ai-en?sub_confirmation=1 and ...
 
-📺 Dan Martell
+📺 Thomas AI 🇺🇸
 
-👁️ 123K • 👍 5K • 💬 339 • ⏱️ 30:25 • 2d ago
-
----
-
-**[&#39;Grok Allowing Users To Undress..&quot;: India, France Move Against Musk’s Grok AI Over Obscenity](https://www.youtube.com/watch?v=Ii_zXBBiqmE)**
-
-Governments in India and France have initiated formal action against Elon Musk's X after complaints over how its Grok AI tool is ...
-
-📺 Mint
-
-👁️ 42K • 👍 571 • 💬 366 • ⏱️ 3:33 • 3d ago
+👁️ 3K • 👍 28 • 💬 39 • ⏱️ 15:04 • 1d ago
 
 ---
 
-**[Which one is AI? Level: Impossible 🔍 Cre: @SofiManassyan #shorts](https://www.youtube.com/watch?v=DV3fi0tS2U4)**
+**[I bought from 2 AI scams, and here’s what they sent. 😡](https://www.youtube.com/watch?v=sGPWyoocUQI)**
 
-📺 Julee Cook
+📺 Maggie McGaugh
 
-👁️ 654K • 👍 18K • 💬 2K • ⏱️ 0:11 • 1d ago
+👁️ 314K • 👍 9K • 💬 114 • ⏱️ 0:59 • 20h ago
+
+---
+
+**[The Rise of AI: NVIDIA Live at CES 2026 Opening Video](https://www.youtube.com/watch?v=d24W8AqeOHM)**
+
+The journey of NVIDIA and AI began with GeForce—a chip built for play that awakened a new era of computing and, in the ...
+
+📺 NVIDIA
+
+👁️ 5K • 👍 314 • ⏱️ 3:30 • 8h ago
+
+---
+
+**[AI TEAM 2026 !!! HARI PERTAMA &amp; AZAM YANG BARU...](https://www.youtube.com/watch?v=OJvmzMFuVtU)**
+
+📺 Alieff Irfan
+
+👁️ 194K • 👍 21K • 💬 1K • ⏱️ 45:33 • 2h ago
+
+---
+
+**[A large egg rolls through the snow and Gorilla cave 😭 #ai #egg #save #gorilla](https://www.youtube.com/watch?v=2JmaEQMjSOk)**
+
+A large egg rolls through the snow and Gorilla cave #ai #egg #save #gorilla.
+
+📺 MoonTejas Animation
+
+👁️ 9K • 💬 1 • ⏱️ 0:47 • 12h ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
+
+**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
+
+*Tencent*
+
+HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
+
+`translation` `2.0B`
+
+⬇️ 5,593 • ❤️ 589 • 5d ago
+
+---
 
 **[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
 
@@ -387,7 +393,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 14,346 • ❤️ 467 • 6d ago
+⬇️ 14,346 • ❤️ 474 • 6d ago
 
 ---
 
@@ -399,43 +405,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 384 • 11h ago
-
----
-
-**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
-
-*Tencent*
-
-HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
-
-`translation` `2.0B`
-
-⬇️ 5,593 • ❤️ 313 • 5d ago
-
----
-
-**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
-
-*IQuest*
-
-IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
-
-`text-generation` `39.8B`
-
-⬇️ 5,200 • ❤️ 245 • 3d ago
-
----
-
-**[HY-Motion-1.0](https://huggingface.co/tencent/HY-Motion-1.0)**
-
-*Tencent*
-
-HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model using Diffusion Transformer and Flow Matching. It excels at creating skeleton-based 3D animations from text prompts, offering state-of-the-art instruction following and motion quality for integration into 3D animation pipelines.
-
-`text-to-3d`
-
-⬇️ 497 • ❤️ 270 • 6d ago
+⬇️ 2,057 • ❤️ 389 • 12h ago
 
 ---
 
@@ -447,7 +417,31 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 196,953 • ❤️ 880 • 9d ago
+⬇️ 196,953 • ❤️ 894 • 9d ago
+
+---
+
+**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
+
+*IQuest*
+
+IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
+
+`text-generation` `39.8B`
+
+⬇️ 5,200 • ❤️ 247 • 3d ago
+
+---
+
+**[HY-Motion-1.0](https://huggingface.co/tencent/HY-Motion-1.0)**
+
+*Tencent*
+
+HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model using Diffusion Transformer and Flow Matching. It excels at creating skeleton-based 3D animations from text prompts, offering state-of-the-art instruction following and motion quality for integration into 3D animation pipelines.
+
+`text-to-3d`
+
+⬇️ 497 • ❤️ 272 • 6d ago
 
 ---
 
@@ -483,7 +477,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 72,638 • ❤️ 211 • 4d ago
+⬇️ 72,638 • ❤️ 212 • 4d ago
 
 ---
 
@@ -495,7 +489,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 1,867 • ❤️ 356 • 14h ago
+⬇️ 1,867 • ❤️ 359 • 15h ago
 
 ---
 
@@ -521,7 +515,7 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 2 • 💬 0 • ⭐ 25,187 • 10mo ago
+▲ 2 • 💬 0 • ⭐ 25,274 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
@@ -535,7 +529,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
 
-▲ 55 • 💬 5 • ⭐ 25,178 • 2mo ago
+▲ 55 • 💬 5 • ⭐ 25,256 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -549,7 +543,7 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 139 • 💬 6 • ⭐ 19,851 • 4mo ago
+▲ 139 • 💬 6 • ⭐ 19,984 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -582,6 +576,20 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)**
+
+*Xu Guo, Fulong Ye, Xinghui Li et al. (9 authors)*
+
+🏢 ByteDance
+
+A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
+
+▲ 33 • 💬 2 • ⭐ 55 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
+
+---
+
 **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
 
 *MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
@@ -600,33 +608,23 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 NeoVerse is a scalable 4D world model that enables pose-free reconstruction and novel-trajectory video generation from monocular videos with state-of-the-art performance.
 
-▲ 97 • 💬 3 • ⭐ 168 • 5d ago
+▲ 99 • 💬 3 • ⭐ 168 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.00393) • [💻 code](https://github.com/IamCreateAI/NeoVerse) • [🔗 project](https://neoverse-4d.github.io/)
 
 ---
 
-**[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)**
+**[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://huggingface.co/papers/2601.02204)**
 
-*Bing Wu, Chang Zou, Changlin Li et al. (81 authors)*
+*Huichao Zhang, Liao Qu, Yiheng Liu et al. (36 authors)*
 
-HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
+🏢 ByteDance
 
-▲ 24 • 💬 1 • ⭐ 2,789 • 1mo ago
+NextFlow is a unified decoder-only autoregressive transformer that processes interleaved text-image tokens, enabling fast multimodal generation through novel next-token and next-scale prediction strategies.
 
-[🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
+▲ 36 • 💬 1 • ⭐ 39 • 1d ago
 
----
-
-**[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
-
-*Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
-
-DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
-
-▲ 31 • 💬 2 • ⭐ 13,527 • 29d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
+[🎓 arXiv](https://arxiv.org/abs/2601.02204) • [💻 code](https://github.com/ByteVisionLab/NextFlow)
 
 ---
 
@@ -650,7 +648,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.8k • 🔱 689 • 2h ago
+⭐ 5.9k • 🔱 697 • 1h ago
 
 ---
 
@@ -670,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 123 • 1d ago
+⭐ 2.0k • 🔱 122 • 41m ago
 
 ---
 
@@ -700,7 +698,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 133 • 4h ago
+⭐ 1.1k • 🔱 134 • 5h ago
 
 ---
 
@@ -710,7 +708,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 74 • 17h ago
+⭐ 1.0k • 🔱 81 • 18h ago
 
 ---
 
@@ -720,7 +718,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 967 • 🔱 69 • 7d ago
+⭐ 977 • 🔱 69 • 7d ago
 
 ---
 
@@ -730,7 +728,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 962 • 🔱 114 • 10h ago
+⭐ 965 • 🔱 114 • 11h ago
 
 ---
 
