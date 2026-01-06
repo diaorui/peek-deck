@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T10:25:20.775796+00:00'
+updated: '2026-01-06T10:50:23.149618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 10:25 UTC  
+**Last Updated:** January 06, 2026 at 10:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,6 +69,14 @@ AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] 
 
 ---
 
+**[I built Ctrl: Execution control plane for high stakes agentic systems](https://www.reddit.com/r/artificial/comments/1q5f6kf/i_built_ctrl_execution_control_plane_for_high/)**
+
+I built Ctrl, an open-source execution control plane that sits between an agent and its tools. Instead of letting tool calls execute directly, Ctrl intercepts them, dynamically scores risk, applies policy (allow / deny / approve), and only then executes; recording every intent, decision, and event in a local SQLite ledger. GH: https://github.com/MehulG/agent-ctrl It’s currently focused on LangChain + MCP as a drop-in wrapper. The demo shows a content publish action being intercepted, paused for approval, and replayed safely after approval. I’d love feedback from anyone running agents that take real actions.
+
+13m ago
+
+---
+
 **[We're so blinded by the AI Hype That We're Failing to See What Could Actually Be on the Horizon](https://www.reddit.com/r/artificial/comments/1q4pbsd/were_so_blinded_by_the_ai_hype_that_were_failing/)**
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
@@ -77,19 +85,19 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 ---
 
+**[AI - Why Shouldn't We Use It?](https://www.reddit.com/r/artificial/comments/1q54yza/ai_why_shouldnt_we_use_it/)**
+
+I'm new to this sub. I was hoping to converse a little and get some opinions on this. I think it's an interesting phenomena within our society at the moment, where if you think about AI as a tool, and I personally see it as the greatest tool ever invented/gifted to mankind, why, or what is the issue, with using it? You see it all throughout society. People are up in arms about students using it to write papers is a big one, and I wonder, did papers ever need to be written in the first place? I apologize if this has already been answered to the nth degree and been beaten into the dirt, but realistically wouldn't it be possible that the ideas supporting this non-use of AI are rooted in established organizations that stand to suffer when they are completely obliterated by a tool that can not only do what they do but do it instantly and always be readily available, and do it for free? This narrative that we shouldn't use a tool that we've discovered/invented/been given or whatever you wanna call it, to me, seems absurd. It'd be like if we invented fire and everyone was like, hey, don't cook the meat, fire is stupid, let's just raw dog. I digress. My point is, maybe, MAYBE, the people who are pushing that narrative to not use AI, to not embrace this tool, to not see it as our potential salvation (or destruction XD), or at the very least even be curious about its potential applications and possible benefits to our society, stand to LOSE THEIR ASSES by its implementation. Just maybe. Sorry if I broke any rules, I am a big dumbass. Thanks for your time.
+
+9h ago
+
+---
+
 **[AI that connects users with similar interests by chatting with them first. good idea or privacy nightmare?](https://www.reddit.com/r/artificial/comments/1q4l0i1/ai_that_connects_users_with_similar_interests_by/)**
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
 21h ago
-
----
-
-**[AI - Why Shouldn't We Use It?](https://www.reddit.com/r/artificial/comments/1q54yza/ai_why_shouldnt_we_use_it/)**
-
-I'm new to this sub. I was hoping to converse a little and get some opinions on this. I think it's an interesting phenomena within our society at the moment, where if you think about AI as a tool, and I personally see it as the greatest tool ever invented/gifted to mankind, why, or what is the issue, with using it? You see it all throughout society. People are up in arms about students using it to write papers is a big one, and I wonder, did papers ever need to be written in the first place? I apologize if this has already been answered to the nth degree and been beaten into the dirt, but realistically wouldn't it be possible that the ideas supporting this non-use of AI are rooted in established organizations that stand to suffer when they are completely obliterated by a tool that can not only do what they do but do it instantly and always be readily available, and do it for free? This narrative that we shouldn't use a tool that we've discovered/invented/been given or whatever you wanna call it, to me, seems absurd. It'd be like if we invented fire and everyone was like, hey, don't cook the meat, fire is stupid, let's just raw dog. I digress. My point is, maybe, MAYBE, the people who are pushing that narrative to not use AI, to not embrace this tool, to not see it as our potential salvation (or destruction XD), or at the very least even be curious about its potential applications and possible benefits to our society, stand to LOSE THEIR ASSES by its implementation. Just maybe. Sorry if I broke any rules, I am a big dumbass. Thanks for your time.
-
-8h ago
 
 ---
 
@@ -105,15 +113,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-18h ago
-
----
-
-**[I forked Andrej Karpathy's LLM Council and added a Modern UI & Settings Page, multi-AI API support, web search providers, and Ollama support](https://www.reddit.com/r/artificial/comments/1q4wuet/i_forked_andrej_karpathys_llm_council_and_added_a/)**
-
-Hey everyone! I recently spent a couple of weekends improving Karpathy's excellent LLM Council Open Source Project. The original project was brilliant but lacked usability and flexibility imho. What I added: Web search integration (DuckDuckGo, Tavily, Brave, Jina AI) Clean Modern UI with a settings page to support: Support for multiple API providers (OpenRouter, Anthropic, OpenAI, Google, etc.) Customizable system prompts and temperature controls (the custom prompts open up tons of use cases beyond a "council") Export & Import of councils, prompts, and settings (for backup and even sharing) Control the council size (from 1 to 8 - original only supported 3) Full Ollama support for local models "I'm Feeling Lucky" random model selector Filter only Free models on OpenRouter (although Rate Limits can be an issue) Control the Process, from a simple asking multiple models a question in parallel (Chat Only), Chat & peer rating where models rate the responses of other models, and Full end-to-end deliberation where the Chairman model makes the final decision on the best answer You can compare up to 8 models simultaneously, watch them deliberate, and see rankings. Perfect for comparing local models or commercial models via APIs. 📹 Demo video: https://www.youtube.com/watch?v=HOdyIyccOCE 🔗 GitHub: https://github.com/jacob-bd/llm-council-plus Would love to hear your thoughts - it was made with a lot of love and attention to detail, and now I am sharing it with you!
-
-14h ago
+19h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 4h ago
 
 As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune • 18h ago
 
 Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -175,13 +175,13 @@ CNN • 1h ago
 
 AI has finally started making drug-like antibodies. When will it revolutionize biopharma?
 
-statnews.com • 49m ago
+statnews.com • 1h ago
 
 ---
 
 **[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqfu-WW-unA9SyoTgiJabMPXdN4A4GRyfo89uVI0R4VyfL0xoAmztp-8&gaa_ts=695cde54&gaa_sig=iuyFK0Yl4VqPQsfGudJiWpegaZ2UiyuJDI_AEcHYSc_h1LW-FLUGxS3OhH_7pwBSTy3FuYroo-QEaUX3lWSUsA%3D%3D)**
 
-The Wall Street Journal • 23h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -189,7 +189,7 @@ The Wall Street Journal • 23h ago
 
 AMD Ryzen AI Halo AMD Ryzen AI Halo Developer Platform News Summary AMD introduces new Ryzen AI 400 and PRO 400 Series processors, delivering up to 60 NPU TOPS for Copilot+ PCs and AI experiences across consumer and commercial systems.AMD introduces new Ryzen AI Max+ SKUs, bringing high-performance AI and graphics to ultra-thin notebooks, workstations, and small form factors for creation, gaming, and AI development.AMD unveils AMD Ryzen AI Halo, a powerful, easy-to-use mini-PC that brings Ryzen
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 6h ago
 
 AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ TechCrunch • 6h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 301 • 💬 307 • 20h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 303 • 💬 307 • 21h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -225,7 +225,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 126 • 💬 166 • 12h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 137 • 💬 178 • 12h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -239,7 +239,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 84 • 💬 44 • 13h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 87 • 💬 44 • 13h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -255,7 +255,7 @@ Surely it works this time
 
 Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
 
-⬆️ 56 • 💬 101 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 56 • 💬 102 • 1d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
 
 ---
 
@@ -267,7 +267,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 **[Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324)**
 
-⬆️ 37 • 💬 5 • 7h ago
+⬆️ 38 • 💬 6 • 7h ago
 
 ---
 
@@ -275,7 +275,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 AI slop comes for Reddit.
 
-⬆️ 32 • 💬 40 • 14h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
+⬆️ 34 • 💬 40 • 15h ago • [The Verge](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)
 
 ---
 
@@ -339,7 +339,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 102 • 💬 8 • ⏱️ 9:18 • 12h ago
+👁️ 3K • 👍 102 • 💬 8 • ⏱️ 9:18 • 13h ago
 
 ---
 
@@ -467,7 +467,7 @@ HY-Motion 1.0 is a billion-parameter text-to-3D human motion generation model us
 
 `text-to-3d`
 
-⬇️ 497 • ❤️ 269 • 5d ago
+⬇️ 497 • ❤️ 269 • 6d ago
 
 ---
 
@@ -738,7 +738,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 961 • 🔱 113 • 7h ago
+⭐ 961 • 🔱 113 • 8h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T10:25:20.793711+00:00'
+updated: '2026-01-06T10:50:23.167693+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 10:25 UTC  
+**Last Updated:** January 06, 2026 at 10:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ I'm 17 years old and I really enjoy robotics and related things. However, since 
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 Hey everyone, We’re organizing another Robotics Community Meetup in Pune this Saturday. After two successful previous meetups with engaging discussions and great participation, it’s encouraging to see the community growing steadily, so we wanted to invite more builders to join us. This session will focus on 3D Printing for robotics and hardware prototyping — including material selection, print optimization, post-processing, and how 3D printing fits into building real robots. We’ll also discuss progress and next steps for our community robotic arm project. Details: 📅 Saturday, 10 January ⏰ 6:00 PM – 8:00 PM 📍 Baner, Pune (exact location will be shared after registration) Register here if you’d like to attend: https://forms.gle/tDsWJT7tNrXsmXVz9 Looking forward to meeting more robotics enthusiasts and continuing to grow the community together.
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Anyone else noticed the productized Atlas is rendered with 4 fingers? BD release
 
 Humanoid robots are the way.
 
-🔗 [open.substack.com](https://open.substack.com/pub/chaotropy/p/our-world-is-built-for-hands-and?utm_campaign=post-expanded-share&utm_medium=post%20viewer) • 1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/chaotropy/p/our-world-is-built-for-hands-and?utm_campaign=post-expanded-share&utm_medium=post%20viewer) • 2h ago
 
 ---
 
@@ -136,7 +136,7 @@ Barron's • 1h ago
 
 **[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -216,7 +216,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 95K • 👍 7K • 💬 984 • ⏱️ 2:05 • 12h ago
+👁️ 95K • 👍 7K • 💬 984 • ⏱️ 2:05 • 13h ago
 
 ---
 
