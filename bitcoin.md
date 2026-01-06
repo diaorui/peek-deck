@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T05:49:45.287324+00:00'
+updated: '2026-01-06T06:36:33.852441+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 05:49 UTC  
+**Last Updated:** January 06, 2026 at 06:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-5h ago
+6h ago
 
 ---
 
@@ -93,13 +93,13 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 **[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
 
-7h ago
+8h ago
 
 ---
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -125,19 +125,19 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-13h ago
+14h ago
 
 ---
 
 **[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-2h ago
+3h ago
 
 ---
 
 **[It's easy to understand Bitcoin is future.](https://www.reddit.com/r/Bitcoin/comments/1q54d6g/its_easy_to_understand_bitcoin_is_future/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -149,13 +149,13 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 11h ago
 
 ---
 
 **[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqccUJjEspPaEVy3uiwGaU1-l9h8YnGY4053naO6GWx3th26CTb3wHVh&gaa_ts=695ca5e0&gaa_sig=GPXid5IjEZOrpZ4YMeBPEet6pY8xJ59Y6A1hElanE8KoRQoT6kL2tGqr1RJOqyvpnJ11yZBRDAmuyt38I8DfYg%3D%3D)**
 
-Barron's • 17h ago
+Barron's • 18h ago
 
 ---
 
@@ -163,7 +163,7 @@ Barron's • 17h ago
 
 Sui's token surged over 14% in 24 hours, outperforming bitcoin and ether, driven by speculation about future privacy-preserving transactions.
 
-CoinDesk • 40m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 40m ago
 
 We recently published 10 Stocks With Easy Double-Digit Gains. IREN Ltd. (NASDAQ:IREN) was one of the top performers on Monday. IREN rallied for a second day on Monday, surging 12.97 percent to close at $48.24 apiece as investors took path from Bitcoin’s renewed strength. IREN Ltd. (NASDAQ:IREN) surged alongside its Bitcoin mining counterparts, namely Hut […]
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,25 +179,25 @@ Yahoo Finance • 32m ago
 
 We recently published 10 Stocks With Easy Double-Digit Gains. Hut 8 Corp. (NASDAQ:HUT) was one of the top performers on Monday. Hut 8 soared to a new four-year high on Monday, as investor sentiment was fueled by its subsidiary’s acquisition of more Bitcoins, placing the company among the top 20 treasury holders of the cryptocurrency. […]
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
 **[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
 **[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -205,13 +205,13 @@ The Block • 16h ago
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
 **[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqeV-sS9N5e1sbSjls9RucJHmNGGKzNf6DbJy87BifRdWHvtuch1VFJv&gaa_ts=695ca5e0&gaa_sig=iRHwwhghiW111VJk1exbDJ9KVb1h74Pfro_ly3qziucHo8F1zXONB-ChKT0UsIsb14yFgPEbxh6zcuxGWf3IEQ%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
@@ -289,7 +289,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 10h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 11h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -303,7 +303,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 420 • 💬 29 • ⏱️ 15:02 • 13h ago
+👁️ 11K • 👍 420 • 💬 29 • ⏱️ 15:02 • 14h ago
 
 ---
 
@@ -313,7 +313,7 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 11K • 👍 157 • 💬 26 • ⏱️ 3:12 • 8h ago
+👁️ 11K • 👍 157 • 💬 26 • ⏱️ 3:12 • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 6K • 👍 325 • 💬 45 • ⏱️ 6:21 • 8h ago
+👁️ 6K • 👍 325 • 💬 45 • ⏱️ 6:21 • 9h ago
 
 ---
 
@@ -333,7 +333,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 941 • 💬 45 • ⏱️ 9:17 • 3h ago
+👁️ 12K • 👍 941 • 💬 45 • ⏱️ 9:17 • 4h ago
 
 ---
 
@@ -343,7 +343,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 1K • 💬 108 • ⏱️ 8:08 • 4h ago
+👁️ 13K • 👍 1K • 💬 108 • ⏱️ 8:08 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 880 • 💬 257 • ⏱️ 10:52 • 13h ago
+👁️ 15K • 👍 880 • 💬 257 • ⏱️ 10:52 • 14h ago
 
 ---
 
@@ -363,7 +363,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 224 • ⏱️ 38:51 • 11h ago
+👁️ 30K • 👍 2K • 💬 224 • ⏱️ 38:51 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin charts, memecoin mania returns, and Solana is coming! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 22K • 👍 1K • 💬 92 • ⏱️ 18:14 • 18h ago
+👁️ 22K • 👍 1K • 💬 92 • ⏱️ 18:14 • 19h ago
 
 ---
 
@@ -383,7 +383,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 486 • 💬 281 • ⏱️ 14:31 • 9h ago
+👁️ 9K • 👍 486 • 💬 281 • ⏱️ 14:31 • 10h ago
 
 ---
 
