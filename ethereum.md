@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T07:46:58.856779+00:00'
+updated: '2026-01-06T08:33:34.901412+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 07:46 UTC  
+**Last Updated:** January 06, 2026 at 08:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +8.6%  
-**30d:** +3.3%  
-**90d:** -26.1%  
-**1y:** -4.5%  
+**24h:** +1.6%  
+**7d:** +8.3%  
+**30d:** +3.1%  
+**90d:** -26.2%  
+**1y:** -4.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 21h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ Fortune • 19h ago
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -180,19 +180,19 @@ The Block • 15h ago
 
 ---
 
-**[Grayscale's Ethereum ETF Begins Paying Staking Rewards](https://finance.yahoo.com/news/grayscales-ethereum-etf-begins-paying-050949937.html)**
-
-The Ethereum payout marks the first time a U.S. spot crypto product has distributed protocol-level income to investors.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 11h ago
+CNBC • 12h ago
+
+---
+
+**[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
+
+Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
+
+GlobeNewswire • 19h ago
 
 ---
 
@@ -200,7 +200,7 @@ CNBC • 11h ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 18h ago
+dlnews.com • 19h ago
 
 ---
 
@@ -208,7 +208,7 @@ dlnews.com • 18h ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ Decrypt • 15h ago
 
 Bitmine releases Special Chairman's Message related to upcoming Annual Stockholder Meeting Bitmine staked ETH stands at 659,219 and MAVAN staking solution on...
 
-PR Newswire • 18h ago
+PR Newswire • 19h ago
 
 ---
 
@@ -224,7 +224,7 @@ PR Newswire • 18h ago
 
 Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 10K • 👍 182 • 💬 100 • ⏱️ 12:31 • 11h ago
+👁️ 10K • 👍 182 • 💬 100 • ⏱️ 12:31 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 2K • 💬 54 • ⏱️ 46:18 • 13h ago
+👁️ 21K • 👍 2K • 💬 54 • ⏱️ 46:18 • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 393 • 💬 232 • ⏱️ 22:27 • 9h ago
+👁️ 8K • 👍 393 • 💬 232 • ⏱️ 22:27 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 16h ago
+👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 582 • 👍 17 • 💬 41 • ⏱️ 4:53 • 13h ago
+👁️ 582 • 👍 17 • 💬 41 • ⏱️ 4:53 • 14h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 586 • 👍 52 • 💬 9 • ⏱️ 4:05 • 2h ago
+👁️ 586 • 👍 52 • 💬 9 • ⏱️ 4:05 • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 216 • 💬 33 • ⏱️ 53:22 • 11h ago
+👁️ 5K • 👍 216 • 💬 33 • ⏱️ 53:22 • 12h ago
 
 ---
 

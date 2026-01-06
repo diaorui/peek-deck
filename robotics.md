@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T07:46:58.859594+00:00'
+updated: '2026-01-06T08:33:34.904268+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 07:46 UTC  
+**Last Updated:** January 06, 2026 at 08:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,35 @@ Robotics research and industry news
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 9h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 10h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-13h ago
+14h ago
+
+---
+
+**[Boston Dynamics and Google DeepMind Want Robots to Have Brains](https://www.reddit.com/r/robotics/comments/1q5bqy8/boston_dynamics_and_google_deepmind_want_robots/)**
+
+It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
+
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 1h ago
 
 ---
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-11h ago
+12h ago
+
+---
+
+**[Hyundai Debuts Next-Gen Atlas Robot from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q52xzu/hyundai_debuts_nextgen_atlas_robot_from_boston/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 8h ago
 
 ---
 
@@ -60,35 +76,19 @@ I'm 17 years old and I really enjoy robotics and related things. However, since 
 
 ---
 
-**[Hyundai Debuts Next-Gen Atlas Robot from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q52xzu/hyundai_debuts_nextgen_atlas_robot_from_boston/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 7h ago
-
----
-
 **[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
-17h ago
+18h ago
 
 ---
 
-**[Boston Dynamics and Google DeepMind Want Robots to Have Brains](https://www.reddit.com/r/robotics/comments/1q5bqy8/boston_dynamics_and_google_deepmind_want_robots/)**
+**[Robotics Community Meetup in Pune – This Saturday | Topic: 3D Printing for Robotics](https://www.reddit.com/r/robotics/comments/1q5chks/robotics_community_meetup_in_pune_this_saturday/)**
 
-It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
+Hey everyone, We’re organizing another Robotics Community Meetup in Pune this Saturday. After two successful previous meetups with engaging discussions and great participation, it’s encouraging to see the community growing steadily, so we wanted to invite more builders to join us. This session will focus on 3D Printing for robotics and hardware prototyping — including material selection, print optimization, post-processing, and how 3D printing fits into building real robots. We’ll also discuss progress and next steps for our community robotic arm project. Details: 📅 Saturday, 10 January ⏰ 6:00 PM – 8:00 PM 📍 Baner, Pune (exact location will be shared after registration) Register here if you’d like to attend: https://forms.gle/tDsWJT7tNrXsmXVz9 Looking forward to meeting more robotics enthusiasts and continuing to grow the community together.
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 43m ago
-
----
-
-**[TRUMPF laser for ASML’s EUV lithography machines.](https://www.reddit.com/r/robotics/comments/1q42yoj/trumpf_laser_for_asmls_euv_lithography_machines/)**
-
-These machines don’t look like they build the future of AI. But they do. What you are seeing is not an industrial robot just move. It is part of the process that makes the world’s most advanced chips possible. TRUMPF laser systems are used to manufacture key components for ASML’s EUV lithography machines. ❗️Without this step, modern AI hardware would simply not exist. • They machine parts with nanometer-level precision • They enable the optics and components needed for EUV lithography • Their stability directly affects chip yield and quality • No TRUMPF lasers, no ASML EUV. No EUV, no advanced AI chips. It is easy to focus on GPUs and models. But the real bottleneck sits much deeper in the industrial stack. —- Source: https://x.com/iliraliu\_/status/2007737812821438843?s=46
-
-1d ago
+44m ago
 
 ---
 
@@ -96,13 +96,15 @@ These machines don’t look like they build the future of AI. But they do. What 
 
 Anyone else noticed the productized Atlas is rendered with 4 fingers? BD released a video 2 months ago on why 3 fingers is enough, which seems reasonable to me back then. Why do you think they changed it?
 
-🔗 [youtu.be](https://youtu.be/rrUHZKlrxms) • 7h ago
+🔗 [youtu.be](https://youtu.be/rrUHZKlrxms) • 8h ago
 
 ---
 
-**[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.reddit.com/r/robotics/comments/1q55mze/hyundai_introduces_its_nextgen_atlas_robot_at_ces/)**
 
-18h ago
+Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
+
+🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 6h ago
 
 ---
 
@@ -114,7 +116,7 @@ Anyone else noticed the productized Atlas is rendered with 4 fingers? BD release
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 8h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -122,13 +124,7 @@ TechCrunch • 8h ago
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 17h ago
-
----
-
-**[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
-
-Axios • 10h ago
+CNET • 18h ago
 
 ---
 
@@ -136,13 +132,13 @@ Axios • 10h ago
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 9h ago
+NVIDIA Newsroom • 10h ago
 
 ---
 
-**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+**[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-Bloomberg.com • 17h ago
+Axios • 4h ago
 
 ---
 
@@ -154,11 +150,17 @@ The Robot Report • 2d ago
 
 ---
 
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+
+Bloomberg.com • 18h ago
+
+---
+
 **[Qualcomm unveils PC chip, humanoid robotics initiative at CES 2026](https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-humanoid-robotics-initiative-at-ces-2026-170020697.html)**
 
 Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -226,7 +228,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 84K • 👍 3K • 💬 502 • ⏱️ 7:00 • 8h ago
+👁️ 84K • 👍 3K • 💬 502 • ⏱️ 7:00 • 9h ago
 
 ---
 
@@ -286,7 +288,7 @@ Hyundai Motor Group and Boston Dynamics brought out their famous Atlas prototype
 
 📺 CNET
 
-👁️ 31K • 👍 1K • 💬 200 • ⏱️ 9:05 • 8h ago
+👁️ 31K • 👍 1K • 💬 200 • ⏱️ 9:05 • 9h ago
 
 ---
 
