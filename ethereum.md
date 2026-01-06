@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T11:41:45.052204+00:00'
+updated: '2026-01-06T12:48:14.247136+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 11:41 UTC  
+**Last Updated:** January 06, 2026 at 12:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,228.80
+### $3,241.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +8.8%  
-**30d:** +3.5%  
-**90d:** -25.9%  
-**1y:** -4.3%  
+**24h:** +2.4%  
+**7d:** +8.9%  
+**30d:** +3.6%  
+**90d:** -25.8%  
+**1y:** -4.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 52m ago
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 1h ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-19h ago
+20h ago
 
 ---
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -154,15 +154,7 @@ So I have some crypto on ethereum L1&2s and I would like to anonymize some of it
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
-Fortune • 23h ago
-
----
-
-**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
-
-PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
-
-CoinDesk • 21h ago
+Fortune • 1d ago
 
 ---
 
@@ -174,11 +166,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
+
+PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
+
+CoinDesk • 22h ago
+
+---
+
 **[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://www.dlnews.com/articles/markets/ethereum-to-250000-tom-lee-charts-targets-as-bitmine-stock-price-jumps/)**
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 22h ago
+dlnews.com • 1d ago
 
 ---
 
@@ -186,7 +186,7 @@ dlnews.com • 22h ago
 
 Ethereum ETH $3 227 24h volatility: 1.9% Market cap: $389.53 B Vol. 24h: $24.29 B staking demand is once again on the rise, with a major drop in the exit queue for the first time since July 2025. Market analysts noted that this could ease the near-term selling pressure on ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -194,13 +194,21 @@ Yahoo Finance • 1h ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
+
+---
+
+**[Why Bitcoin, Ethereum ETFs just scooped up $1.5bn and what happens next](https://www.dlnews.com/articles/markets/bitcoin-ethereum-etfs-receive-huge-2026-inflows/)**
+
+US Bitcoin and Ethereum ETFs have received over $1.5 billion in inflows from investors since the beginning of January.  The prices of the two biggest cryptocurrencies have surged. Crypto markets finished 2025 in the red.
+
+dlnews.com • 36m ago
 
 ---
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -208,7 +216,7 @@ The Block • 19h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -216,15 +224,7 @@ CNBC • 15h ago
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
 
-GlobeNewswire • 22h ago
-
----
-
-**[Ethereum Layer-2 Network Starknet Back Online Following Outage](https://decrypt.co/353625/ethereum-layer-2-starknet-back-online-outage)**
-
-Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
-
-Decrypt • 17h ago
+GlobeNewswire • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 11K • 👍 199 • 💬 137 • ⏱️ 12:31 • 15h ago
+👁️ 11K • 👍 199 • 💬 137 • ⏱️ 12:31 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 501 • 💬 49 • ⏱️ 16:00 • 7h ago
+👁️ 4K • 👍 501 • 💬 49 • ⏱️ 16:00 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 2K • 💬 48 • ⏱️ 46:18 • 17h ago
+👁️ 22K • 👍 2K • 💬 48 • ⏱️ 46:18 • 18h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 427 • 💬 211 • ⏱️ 22:27 • 13h ago
+👁️ 9K • 👍 427 • 💬 211 • ⏱️ 22:27 • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 20h ago
+👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 636 • 👍 19 • 💬 40 • ⏱️ 4:53 • 17h ago
+👁️ 636 • 👍 19 • 💬 40 • ⏱️ 4:53 • 18h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 224 • 💬 88 • ⏱️ 53:22 • 15h ago
+👁️ 5K • 👍 224 • 💬 88 • ⏱️ 53:22 • 16h ago
 
 ---
 
@@ -328,7 +328,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 12K • 👍 582 • 💬 250 • ⏱️ 13:59 • 23h ago
+👁️ 12K • 👍 582 • 💬 250 • ⏱️ 13:59 • 1d ago
 
 ---
 

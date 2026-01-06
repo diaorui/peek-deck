@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T11:41:45.046230+00:00'
+updated: '2026-01-06T12:48:14.241164+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 11:41 UTC  
+**Last Updated:** January 06, 2026 at 12:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,556.39
+### $93,850.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +6.9%  
-**30d:** +3.3%  
-**90d:** -22.9%  
-**1y:** -3.2%  
+**24h:** +0.5%  
+**7d:** +7.1%  
+**30d:** +3.4%  
+**90d:** -22.8%  
+**1y:** -3.0%  
 
 ---
 
@@ -77,11 +77,53 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
+
+16h ago
+
+---
+
+**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
+
+16h ago
+
+---
+
+**[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
+
+20h ago
+
+---
+
 **[Crypto Guys when Bitcoin up +5%](https://www.reddit.com/r/Bitcoin/comments/1q53gc0/crypto_guys_when_bitcoin_up_5/)**
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-11h ago
+12h ago
+
+---
+
+**[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
+
+17h ago
+
+---
+
+**[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
+
+9h ago
+
+---
+
+**[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
+
+2h ago
+
+---
+
+**[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
+
+14h ago
 
 ---
 
@@ -89,57 +131,13 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 Did they lose a billion?
 
-11h ago
+12h ago
 
 ---
 
-**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
+**[Bitcoin could realistically become a global currency through sats, making everyday transactions easier and more universal. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1q5gaab/bitcoin_could_realistically_become_a_global/)**
 
-15h ago
-
----
-
-**[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
-
-19h ago
-
----
-
-**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
-
-14h ago
-
----
-
-**[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
-
-16h ago
-
----
-
-**[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
-
-8h ago
-
----
-
-**[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
-
-13h ago
-
----
-
-**[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
-
-15h ago
-
----
-
-**[We are officially watching the death of the "retail-driven" cycle](https://www.reddit.com/r/Bitcoin/comments/1q4xioq/we_are_officially_watching_the_death_of_the/)**
-
-The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
-
-14h ago
+1h ago
 
 ---
 
@@ -151,67 +149,67 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqfG5Vd6QiN2GAq4e9jmBTYEL-GiOL1vbPZJj4xAfFG3-MBiuYTdkRHv&gaa_ts=695cf36d&gaa_sig=fAjXUq0tu5VRGoa4XvZidSfinFqf_Mskhl-8LHFH57_pSsVVJQvp3SesfyoBKTSKxiQ9vBKabBmM-DwW38E2iA%3D%3D)**
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqf-uBJunjuTwBLzuriLwPpr6SmXOCjfKboeDDEe5_2pVfU5FGuRCSsO&gaa_ts=695d07f2&gaa_sig=Cvd22dqiiNL9K-wMYNprr7rGw2JxElgKChyBxW-Ud9cg0tTaUg0kMs7RSexeL6ENW2id1ZQeqwEHF1VQgRK02g%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqcw4MbTMTOruuQlddEAoQp2npG1i6OqZInrS2bCBt83hup5vuE8VY7A&gaa_ts=695cf36d&gaa_sig=f9eZM4fQ0IHY86pKmOsi489ZWUuyQHcSaKA0Ajl9zH2i9ZoTEymqRZBfmo9PcPI-J9R4sK4-N2Hv2_pbjYCCAg%3D%3D)**
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Barron's • 23h ago
-
----
-
-**[Bitcoin price forecast: Here’s why BTC, ETH, SOL, XRP, DOGE are seeing a strong 2026](https://www.coindesk.com/markets/2026/01/06/here-s-why-bitcoin-and-major-tokens-are-seeing-a-strong-start-to-2026)**
-
-Bitcoin and the broader crypto market have started 2026 with strong gains, driven by new-year allocations and a haven bid amid geopolitical tensions.
-
-CoinDesk • 4h ago
+Reuters • 1h ago
 
 ---
 
-**[Bitcoin, Ethereum Jump Again as Cryptos Rally. Why XRP Is Surging.](https://www.barrons.com/articles/bitcoin-price-ethereum-cryptos-xrp-73799dc8?gaa_at=eafs&gaa_n=AWEtsqc88y8D93F0LWZN48rVE6Krek9LxyE4mFEPb7tPHEDz0QlRUxUP56vq&gaa_ts=695cf36d&gaa_sig=pLjf8DSUigSL2WuMexK0sHmUdTmelXJmuj7fK4ellRWXGDVOiLDxllA9Weie4GutvJ7UTlL-Ry1wG26C-8xwnQ%3D%3D)**
+**[Morgan Stanley eyes the spot bitcoin ETF market](https://www.coindesk.com/markets/2026/01/06/morgan-stanley-eyes-the-spot-bitcoin-etf-market)**
 
-Barron's • 2h ago
-
----
-
-**[Copper, gold and bitcoin: A macro signal to watch](https://www.coindesk.com/markets/2026/01/06/copper-gold-and-bitcoin-a-macro-signal-to-watch)**
-
-The copper-to-gold ratio is breaking higher, a move that has historically aligned with key turning points in bitcoin cycles.
+Wall Street heavyweight files for bitcoin trust amid rising institutional demand.
 
 CoinDesk • 1h ago
 
 ---
 
-**[US Strike on Venezuela Puts Bitcoin in Focus as Oil Slides](https://finance.yahoo.com/news/us-strike-venezuela-puts-bitcoin-031821515.html)**
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
 
-The U.S. capture of Venezuela’s President Nicolás Maduro sent oil to four-year lows, while crypto markets have held steady.
+Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
 **[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
 
-The Block • 22h ago
+The Block • 23h ago
+
+---
+
+**[Venezuela Aftermath: Bitcoin and Crypto Markets Soar Amid $17.3 Trillion Oil Price Shock](https://finance.yahoo.com/news/venezuela-aftermath-bitcoin-crypto-markets-193047819.html)**
+
+In the wake of the arrest of Venezuelan President Nicolás Maduro by U.S. forces, the Bitcoin (CRYPTO: BTC) and crypto market has seen a significant uptick. The market is bracing for a potential oil price shock, which could have profound implications for the U.S. dollar in 2026. As per the report by Forbes, the Bitcoin’s price has experienced a near 5% increase over the past three days, exceeding $90,000 per Bitcoin. The broader crypto market has gained about $100 billion as traders speculate on
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential](https://www.forbes.com/sites/frankcorva/2026/01/04/ghana-legalizes-crypto-while-ghanaian-village-shows-bitcoins-potential/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -289,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 16h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 17h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -303,7 +301,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 131 • ⏱️ 9:17 • 9h ago
+👁️ 42K • 👍 2K • 💬 131 • ⏱️ 9:17 • 10h ago
 
 ---
 
@@ -313,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 232 • ⏱️ 8:08 • 10h ago
+👁️ 26K • 👍 1K • 💬 232 • ⏱️ 8:08 • 11h ago
 
 ---
 
@@ -323,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 490 • 💬 32 • ⏱️ 15:02 • 19h ago
+👁️ 14K • 👍 490 • 💬 32 • ⏱️ 15:02 • 20h ago
 
 ---
 
@@ -333,7 +331,7 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 18K • 👍 210 • 💬 43 • ⏱️ 3:12 • 14h ago
+👁️ 18K • 👍 210 • 💬 43 • ⏱️ 3:12 • 15h ago
 
 ---
 
@@ -343,7 +341,7 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 8K • 👍 380 • 💬 61 • ⏱️ 6:21 • 14h ago
+👁️ 8K • 👍 380 • 💬 61 • ⏱️ 6:21 • 15h ago
 
 ---
 
@@ -353,7 +351,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 5K • 👍 486 • 💬 26 • ⏱️ 13:49 • 2h ago
+👁️ 5K • 👍 486 • 💬 26 • ⏱️ 13:49 • 4h ago
 
 ---
 
@@ -363,7 +361,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 10K • 👍 759 • 💬 164 • ⏱️ 25:39 • 13h ago
+👁️ 10K • 👍 759 • 💬 164 • ⏱️ 25:39 • 14h ago
 
 ---
 
@@ -373,7 +371,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 17K • 👍 937 • 💬 272 • ⏱️ 10:52 • 19h ago
+👁️ 17K • 👍 937 • 💬 272 • ⏱️ 10:52 • 20h ago
 
 ---
 
@@ -383,7 +381,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 392 • 💬 30 • ⏱️ 6:34 • 5h ago
+👁️ 5K • 👍 392 • 💬 30 • ⏱️ 6:34 • 6h ago
 
 ---
 
@@ -393,7 +391,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Very Cherry Cakes
 
-👁️ 4K • 👍 5K • 48m ago
+👁️ 4K • 👍 5K • 1h ago
 
 ---
 

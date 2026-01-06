@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T11:41:45.055431+00:00'
+updated: '2026-01-06T12:48:14.250356+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 11:41 UTC  
+**Last Updated:** January 06, 2026 at 12:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 13h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 14h ago
 
 ---
 
@@ -44,19 +44,19 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 4h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 5h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-17h ago
+18h ago
 
 ---
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -64,39 +64,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 11h ago
-
----
-
-**[I just wanted opinions for the project.](https://www.reddit.com/r/robotics/comments/1q50qbo/i_just_wanted_opinions_for_the_project/)**
-
-I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
-
-12h ago
-
----
-
-**[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
-
-Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
-
-21h ago
-
----
-
-**[Robotics Community Meetup in Pune – This Saturday | Topic: 3D Printing for Robotics](https://www.reddit.com/r/robotics/comments/1q5chks/robotics_community_meetup_in_pune_this_saturday/)**
-
-Hey everyone, We’re organizing another Robotics Community Meetup in Pune this Saturday. After two successful previous meetups with engaging discussions and great participation, it’s encouraging to see the community growing steadily, so we wanted to invite more builders to join us. This session will focus on 3D Printing for robotics and hardware prototyping — including material selection, print optimization, post-processing, and how 3D printing fits into building real robots. We’ll also discuss progress and next steps for our community robotic arm project. Details: 📅 Saturday, 10 January ⏰ 6:00 PM – 8:00 PM 📍 Baner, Pune (exact location will be shared after registration) Register here if you’d like to attend: https://forms.gle/tDsWJT7tNrXsmXVz9 Looking forward to meeting more robotics enthusiasts and continuing to grow the community together.
-
-3h ago
-
----
-
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.reddit.com/r/robotics/comments/1q55mze/hyundai_introduces_its_nextgen_atlas_robot_at_ces/)**
-
-Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
-
-🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 12h ago
 
 ---
 
@@ -104,7 +72,39 @@ Hyundai just unveiled an Atlas for commercial use and showed off it's specs and 
 
 In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
 
-1h ago
+2h ago
+
+---
+
+**[I just wanted opinions for the project.](https://www.reddit.com/r/robotics/comments/1q50qbo/i_just_wanted_opinions_for_the_project/)**
+
+I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
+
+14h ago
+
+---
+
+**[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
+
+Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
+
+22h ago
+
+---
+
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.reddit.com/r/robotics/comments/1q55mze/hyundai_introduces_its_nextgen_atlas_robot_at_ces/)**
+
+Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
+
+🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 10h ago
+
+---
+
+**[Robotics Community Meetup in Pune – This Saturday | Topic: 3D Printing for Robotics](https://www.reddit.com/r/robotics/comments/1q5chks/robotics_community_meetup_in_pune_this_saturday/)**
+
+Hey everyone, We’re organizing another Robotics Community Meetup in Pune this Saturday. After two successful previous meetups with engaging discussions and great participation, it’s encouraging to see the community growing steadily, so we wanted to invite more builders to join us. This session will focus on 3D Printing for robotics and hardware prototyping — including material selection, print optimization, post-processing, and how 3D printing fits into building real robots. We’ll also discuss progress and next steps for our community robotic arm project. Details: 📅 Saturday, 10 January ⏰ 6:00 PM – 8:00 PM 📍 Baner, Pune (exact location will be shared after registration) Register here if you’d like to attend: https://forms.gle/tDsWJT7tNrXsmXVz9 Looking forward to meeting more robotics enthusiasts and continuing to grow the community together.
+
+4h ago
 
 ---
 
@@ -116,7 +116,15 @@ In this tutorial, I’ll show you how to build the brain of a DQN agent, train i
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 13h ago
+NVIDIA Newsroom • 14h ago
+
+---
+
+**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
+
+NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
+
+NVIDIA Developer • 14h ago
 
 ---
 
@@ -124,27 +132,27 @@ NVIDIA Newsroom • 13h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 12h ago
-
----
-
-**[Watch the NVIDIA CES 2026 keynote with CEO Jensen Huang live here: AI, robotics updates and more](https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html)**
-
-NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
-
-Engadget • 12h ago
+TechCrunch • 13h ago
 
 ---
 
 **[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-Axios • 14h ago
+Axios • 15h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
+
+---
+
+**[Top 10 robotics developments of December 2025](https://www.therobotreport.com/top-10-robotics-developments-december-2025/)**
+
+In December 2025, pillars of the robotics community faced difficult times, industry leaders took new positions, and new robot were released.
+
+The Robot Report • 2d ago
 
 ---
 
@@ -152,7 +160,7 @@ Bloomberg.com • 21h ago
 
 New Dragonwing chip targets humanoids, AMRs
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -172,19 +180,11 @@ MarketBeat • 1d ago
 
 ---
 
-**[What to expect from the annual Consumer Electronics Show: More AI, more robots](https://www.theglobeandmail.com/business/technology/science/article-consumer-electronics-show-2026-robotics-ai-las-vegas/)**
+**[Advanced AI, robotics set to steal limelight at CES 2026](https://www.koreatimes.co.kr/business/companies/20260105/ces-2026-advanced-ai-robotics-set-to-steal-limelight-at-ces-2026)**
 
-Las Vegas tech show to display latest gadgets aimed at consumers, including AI and robotics applications for daily life
+LAS VEGAS — Advanced artificial intelligence (AI) solutions and cutting-edge robotics will take center stage at the CES 2026 tech fair, with renown...
 
-The Globe and Mail • 22h ago
-
----
-
-**[FieldAI Brain transforms construction with autonomous robotics](https://inspenet.com/en/noticias/fieldai-brain-construction-robotics/)**
-
-FieldAI Brain optimizes construction sites with AI and robotics. DPR achieves greater efficiency, safety and real-time data in its projects.
-
-Inspenet • 2d ago
+The Korea Times • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 109K • 👍 8K • 💬 1K • ⏱️ 2:05 • 14h ago
+👁️ 109K • 👍 8K • 💬 1K • ⏱️ 2:05 • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 6K • 👍 154 • 💬 12 • ⏱️ 1:33:26 • 12h ago
+👁️ 6K • 👍 154 • 💬 12 • ⏱️ 1:33:26 • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 114K • 👍 3K • 💬 598 • ⏱️ 7:00 • 12h ago
+👁️ 114K • 👍 3K • 💬 598 • ⏱️ 7:00 • 13h ago
 
 ---
 
