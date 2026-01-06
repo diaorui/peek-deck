@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T08:33:34.896190+00:00'
+updated: '2026-01-06T09:28:00.995340+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 08:33 UTC  
+**Last Updated:** January 06, 2026 at 09:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1864.69B
+**Market Cap:** $1866.80B
 Rank #1
 
-**Circulating Supply:** 19,972,181 BTC
+**Circulating Supply:** 19,972,215 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.0%
+-25.9%
 
 **All-Time Low:** $67.81
-+137581.8%
++137717.4%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-7h ago
+8h ago
 
 ---
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-11h ago
+12h ago
 
 ---
 
 **[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -109,25 +109,25 @@ Did they lose a billion?
 
 The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
 
-11h ago
+12h ago
 
 ---
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-16h ago
+17h ago
 
 ---
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-12h ago
+13h ago
 
 ---
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 **[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -157,13 +157,13 @@ The Wall Street Journal • 1d ago
 
 On November 3, 2025, it seems that the U.S. Marshall Service, at the direction of the Department of Justice, used Coinbase Prime to liquidate the bitcoin that the Samourai developers forfeited as part of their plea deal, likely violating President Trump’s mandate to keep such bitcoin in the United States Strategy Bitcoin Reserve.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
 **[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqcwYzCdn-7i7dFCsM5pUwXY_GwhK518B4AbIjSX06oXWwa0RRfM6_Pi&gaa_ts=695ccc4b&gaa_sig=SQ2Zem2qTWoFaaw9rtK1tKpQwe2pzQAFboOz2bjvIeZxGAW40-SC3naTiNWneE7-lXEWQQQo0QEzTjj-1TYrtw%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
@@ -171,19 +171,19 @@ Barron's • 20h ago
 
 Bitcoin and the broader crypto market have started 2026 with strong gains, driven by new-year allocations and a haven bid amid geopolitical tensions.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Binance • 13h ago
+Binance • 14h ago
 
 ---
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bloomberg.com • 13h ago
 
 **[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Block • 19h ago
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -287,7 +287,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 13h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 14h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -295,23 +295,13 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
-**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
-
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 27K • 👍 1K • 💬 82 • ⏱️ 9:17 • 6h ago
-
----
-
 **[I expect bitcoin will breakout to new high since fall 2025: Miller Value Partners&#39; Bill Miller](https://www.youtube.com/watch?v=rLaRxw5aQRY)**
 
 CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence of Venezuela, the outlook for bitcoin and more ...
 
 📺 CNBC Television
 
-👁️ 15K • 👍 193 • 💬 36 • ⏱️ 3:12 • 11h ago
+👁️ 17K • 👍 200 • 💬 36 • ⏱️ 3:12 • 12h ago
 
 ---
 
@@ -321,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 166 • ⏱️ 8:08 • 7h ago
+👁️ 24K • 👍 1K • 💬 248 • ⏱️ 8:08 • 8h ago
 
 ---
 
@@ -331,7 +321,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 13K • 👍 451 • 💬 30 • ⏱️ 15:02 • 16h ago
+👁️ 14K • 👍 469 • 💬 31 • ⏱️ 15:02 • 17h ago
+
+---
+
+**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
+
+Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 35K • 👍 2K • 💬 113 • ⏱️ 9:17 • 7h ago
 
 ---
 
@@ -341,17 +341,17 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 7K • 👍 351 • 💬 47 • ⏱️ 6:21 • 11h ago
+👁️ 8K • 👍 365 • 💬 68 • ⏱️ 6:21 • 12h ago
 
 ---
 
-**[HOW I AM GETTING FILTHY RICH WITH BITCOIN TREASURY COMPANIES!](https://www.youtube.com/watch?v=qA1Yc9ZrIyc)**
+**[THE BITCOIN TRAP IS HERE!!!!](https://www.youtube.com/watch?v=CfY_8eEb87s)**
 
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
 
-📺 Adam Livingston
+📺 Crypto Rover
 
-👁️ 8K • 👍 661 • 💬 117 • ⏱️ 25:39 • 10h ago
+👁️ 3K • 👍 290 • 💬 21 • ⏱️ 6:34 • 2h ago
 
 ---
 
@@ -361,7 +361,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 913 • 💬 255 • ⏱️ 10:52 • 16h ago
+👁️ 16K • 👍 921 • 💬 316 • ⏱️ 10:52 • 17h ago
 
 ---
 
@@ -371,27 +371,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 224 • ⏱️ 38:51 • 13h ago
+👁️ 31K • 👍 2K • 💬 243 • ⏱️ 38:51 • 14h ago
 
 ---
 
-**[🚨 BITCOIN 2026 🚀/🔻?!?!?!?!?!](https://www.youtube.com/watch?v=x-6XX6y-TJ8)**
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=7Zans8ehwpg)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+Let's talk about the Bitcoin bull market support band! Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: ...
 
-📺 BRITISH HODL
+📺 Benjamin Cowen
 
-👁️ 13K • 👍 1K • 💬 598 • ⏱️ 12:50 • 12h ago
+👁️ 91K • 👍 5K • 💬 254 • ⏱️ 19:12 • 1d ago
 
 ---
 
-**[BIG DANGER FOR BITCOIN TODAY](https://www.youtube.com/watch?v=0dz9zYRJqPU)**
+**[EVERYTHING Changed Yesterday: Bitcoin, Altcoins, Gold, Oil &amp; Venezuela w/Jerry V. Hall](https://www.youtube.com/watch?v=CVOv6tNDDQY)**
 
-Coinflare: https://themoon.co/CoinflareCarl Make your first deposit of ≥ 100 USDT and get a 50 USDT future bonus. (Join Now ...
+Yesterday with the Venezuela situation there is a change to positively EVERYTHING. Let's talk about how it affects OUR markets.
 
-📺 The Moon Show
+📺 Digital Asset News
 
-👁️ 11K • 👍 812 • 💬 19 • ⏱️ 5:57 • 15h ago
+👁️ 14K • 👍 948 • 💬 95 • ⏱️ 37:46 • 1d ago
 
 ---
 

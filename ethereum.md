@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T08:33:34.901412+00:00'
+updated: '2026-01-06T09:28:01.001564+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 08:33 UTC  
+**Last Updated:** January 06, 2026 at 09:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $389.15B
+**Market Cap:** $389.32B
 Rank #2
 
 **Circulating Supply:** 120,694,829 ETH
@@ -62,7 +62,7 @@ No max supply
 -34.8%
 
 **All-Time Low:** $0.43
-+744608.2%
++744779.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 22h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 23h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -170,13 +170,13 @@ Fortune • 19h ago
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 15h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -200,7 +200,7 @@ GlobeNewswire • 19h ago
 
 Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
 
-dlnews.com • 19h ago
+dlnews.com • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ dlnews.com • 19h ago
 
 BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -224,7 +224,7 @@ PR Newswire • 19h ago
 
 Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -238,17 +238,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 10K • 👍 182 • 💬 100 • ⏱️ 12:31 • 12h ago
-
----
-
-**[ETH &amp; SOL WAKE UP, Bitcoin Reclaims $92K, Crypto Turns Bullish &amp; More!](https://www.youtube.com/watch?v=6sKKOrNVsk8)**
-
-Ethereum and Solana are starting to show signs of life as markets perk up, with momentum shifting back toward major altcoins ...
-
-📺 Coin Bureau
-
-👁️ 21K • 👍 2K • 💬 54 • ⏱️ 46:18 • 14h ago
+👁️ 11K • 👍 189 • 💬 112 • ⏱️ 12:31 • 13h ago
 
 ---
 
@@ -258,7 +248,17 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 332 • 💬 10 • ⏱️ 16:00 • 4h ago
+👁️ 4K • 👍 406 • 💬 42 • ⏱️ 16:00 • 5h ago
+
+---
+
+**[ETH &amp; SOL WAKE UP, Bitcoin Reclaims $92K, Crypto Turns Bullish &amp; More!](https://www.youtube.com/watch?v=6sKKOrNVsk8)**
+
+Ethereum and Solana are starting to show signs of life as markets perk up, with momentum shifting back toward major altcoins ...
+
+📺 Coin Bureau
+
+👁️ 21K • 👍 2K • 💬 47 • ⏱️ 46:18 • 15h ago
 
 ---
 
@@ -268,17 +268,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 393 • 💬 232 • ⏱️ 22:27 • 10h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i8jeNTHP72E)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 17h ago
+👁️ 8K • 👍 417 • 💬 212 • ⏱️ 22:27 • 11h ago
 
 ---
 
@@ -288,17 +278,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 582 • 👍 17 • 💬 41 • ⏱️ 4:53 • 14h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Bitr1X6GkL4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 586 • 👍 52 • 💬 9 • ⏱️ 4:05 • 3h ago
+👁️ 602 • 👍 18 • 💬 41 • ⏱️ 4:53 • 15h ago
 
 ---
 
@@ -308,7 +288,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 216 • 💬 33 • ⏱️ 53:22 • 12h ago
+👁️ 5K • 👍 220 • 💬 52 • ⏱️ 53:22 • 13h ago
 
 ---
 
@@ -322,13 +302,33 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 ---
 
-**[HOW MUCH ETHEREUM DO YOU REALLY NEED TO BE A MILLIONAIRE?](https://www.youtube.com/watch?v=yjzWZy6QvGE)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=i8jeNTHP72E)**
 
-We break down the numbers most people ignore and explain why position size, time, and realistic growth matter more than hype.
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 CLOCKWISE CRYPTO 
+📺 More Crypto Online
 
-👁️ 14K • 👍 239 • 💬 286 • ⏱️ 2:37 • 2d ago
+👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 18h ago
+
+---
+
+**[Ethereum Tests $3,200! 🚀 Why TOSHI &amp; VET are the Altcoins to be Watching](https://www.youtube.com/watch?v=fuZttUIuT_8)**
+
+Follow me on X: https://x.com/ChartsMinute ☘️ Get FREE stocks signing up for WeBull with a qualifying deposit: ...
+
+📺 Art of Charts
+
+👁️ 234 • 👍 16 • 💬 38 • ⏱️ 12:25 • 14h ago
+
+---
+
+**[BITCOIN: The Trap Is Now Set! (don’t buy) - BTC, ETH Price Prediction Today](https://www.youtube.com/watch?v=rH-6tM9nCR0)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 11K • 👍 578 • 💬 249 • ⏱️ 13:59 • 21h ago
 
 ---
 
