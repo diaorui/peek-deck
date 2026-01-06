@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T14:50:17.654407+00:00'
+updated: '2026-01-06T15:24:59.439100+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 14:50 UTC  
+**Last Updated:** January 06, 2026 at 15:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,21 +36,7 @@ Robotics research and industry news
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 16h ago
-
----
-
-**[Boston Dynamics and Google DeepMind Want Robots to Have Brains](https://www.reddit.com/r/robotics/comments/1q5bqy8/boston_dynamics_and_google_deepmind_want_robots/)**
-
-It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
-
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 7h ago
-
----
-
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-20h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 17h ago
 
 ---
 
@@ -59,6 +45,20 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 1h ago
+
+---
+
+**[Boston Dynamics and Google DeepMind Want Robots to Have Brains](https://www.reddit.com/r/robotics/comments/1q5bqy8/boston_dynamics_and_google_deepmind_want_robots/)**
+
+It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
+
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 8h ago
+
+---
+
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+21h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 14h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 15h ago
 
 ---
 
@@ -92,19 +92,19 @@ In this tutorial, I’ll show you how to build the brain of a DQN agent, train i
 
 ---
 
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.reddit.com/r/robotics/comments/1q55mze/hyundai_introduces_its_nextgen_atlas_robot_at_ces/)**
+
+Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
+
+🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 13h ago
+
+---
+
 **[Pen Plotter](https://www.reddit.com/r/robotics/comments/1q4m6bf/pen_plotter/)**
 
 Hi Everyone! First of all i want to thank all people who helped me in this community to achieve what is in the video , this is my graduation project,not done yet i am willing to add speech to text and image to text to the machine , i hope you like the result , the repo will be published on github later when the whole project is finished Stay tuned!
 
 1d ago
-
----
-
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.reddit.com/r/robotics/comments/1q55mze/hyundai_introduces_its_nextgen_atlas_robot_at_ces/)**
-
-Hyundai just unveiled an Atlas for commercial use and showed off it's specs and what it can do in CES. What do you guys think of the new Atlas and how do you think it compares to other humanoid bots in the market?
-
-🔗 [youtu.be](https://youtu.be/9e0SQn9uUlw?si=6k1EXLaVl6x4WKB2) • 12h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hyundai just unveiled an Atlas for commercial use and showed off it's specs and 
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 16h ago
+NVIDIA Newsroom • 17h ago
 
 ---
 
@@ -124,7 +124,7 @@ NVIDIA Newsroom • 16h ago
 
 NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
 
-NVIDIA Developer • 16h ago
+NVIDIA Developer • 17h ago
 
 ---
 
@@ -132,7 +132,7 @@ NVIDIA Developer • 16h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -141,13 +141,13 @@ TechCrunch • 15h ago
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
-hyundai.com • 17h ago
+hyundai.com • 18h ago
 
 ---
 
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ Reuters • 2h ago
 
 NVIDIA released Cosmos, GR00T, and Alpamayo open models to help developers build reasoning machines including robots and vehicles.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1d ago
 
 Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -185,7 +185,7 @@ Seeking Alpha • 1d ago
 
 Premier Li Qiang urges faster adoption of robotics to benefit industries and households during a meeting with tech companies in Shenzhen.
 
-South China Morning Post • 4h ago
+South China Morning Post • 5h ago
 
 ---
 
@@ -259,7 +259,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 10K • 👍 235 • 💬 18 • ⏱️ 1:33:26 • 15h ago
+👁️ 10K • 👍 235 • 💬 18 • ⏱️ 1:33:26 • 16h ago
 
 ---
 
@@ -269,7 +269,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 132K • 👍 4K • 💬 698 • ⏱️ 7:00 • 15h ago
+👁️ 132K • 👍 4K • 💬 698 • ⏱️ 7:00 • 16h ago
 
 ---
 

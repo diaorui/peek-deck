@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T14:50:17.645148+00:00'
+updated: '2026-01-06T15:24:59.429892+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 14:50 UTC  
+**Last Updated:** January 06, 2026 at 15:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,379.50
+### $93,882.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +7.6%  
-**30d:** +3.9%  
-**90d:** -22.4%  
-**1y:** -2.5%  
+**24h:** +0.3%  
+**7d:** +7.4%  
+**30d:** +3.8%  
+**90d:** -22.5%  
+**1y:** -2.7%  
 
 ---
 
@@ -83,15 +83,15 @@ Rank #1
 
 ---
 
-**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
+**[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-18h ago
+1h ago
 
 ---
 
-**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
+**[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-18h ago
+2h ago
 
 ---
 
@@ -101,15 +101,21 @@ Rank #1
 
 ---
 
-**[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
+**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-22h ago
+19h ago
 
 ---
 
-**[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
+**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-1h ago
+18h ago
+
+---
+
+**[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
+
+23h ago
 
 ---
 
@@ -133,12 +139,6 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 ---
 
-**[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
-
-16h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -147,7 +147,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 5h ago
 
 Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -171,13 +171,13 @@ CoinDesk • 3h ago
 
 Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Bitcoin’s weakness is saying there will be a handoff to old-economy stocks, these market veterans say](https://www.marketwatch.com/story/bitcoins-weakness-is-saying-there-will-be-a-handoff-to-old-economy-stocks-these-market-veterans-say-184da9aa?gaa_at=eafs&gaa_n=AWEtsqcz91pAIGulnbc1CAiPGnhgMx4xxAPampeGmkyCKsi3vBqYjwWzgllC&gaa_ts=695d1ea6&gaa_sig=BzEHO11HQ2KgvNBfoRHU8FayO2rZS48vYazfD8mqTZJ6TS8YsQyYiZCQQb61gL6v5n8joGoqVhcRyHJE6i0eyw%3D%3D)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ MarketWatch • 2h ago
 
 US Bitcoin and Ethereum ETFs have received over $1.5 billion in inflows from investors since the beginning of January.  The prices of the two biggest cryptocurrencies have surged. Crypto markets finished 2025 in the red.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Wall Street Journal • 1d ago
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -273,7 +273,7 @@ Testing full validation sync performance of 5 Bitcoin node implementations.
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 8 • 💬 2 • 4d ago
+⬆️ 9 • 💬 2 • 4d ago
 
 ---
 
@@ -289,7 +289,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 19h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 20h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -303,7 +303,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 140 • ⏱️ 9:17 • 12h ago
+👁️ 50K • 👍 2K • 💬 140 • ⏱️ 9:17 • 13h ago
 
 ---
 
@@ -313,7 +313,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 15K • 👍 526 • 💬 33 • ⏱️ 15:02 • 22h ago
+👁️ 15K • 👍 526 • 💬 33 • ⏱️ 15:02 • 23h ago
 
 ---
 
@@ -323,7 +323,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 2K • 💬 284 • ⏱️ 8:08 • 13h ago
+👁️ 28K • 👍 2K • 💬 284 • ⏱️ 8:08 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 2K • 👍 72 • 💬 54 • ⏱️ 8:25 • 1h ago
+👁️ 2K • 👍 72 • 💬 54 • ⏱️ 8:25 • 2h ago
 
 ---
 
@@ -353,7 +353,7 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 19K • 👍 217 • 💬 46 • ⏱️ 3:12 • 17h ago
+👁️ 19K • 👍 217 • 💬 46 • ⏱️ 3:12 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 17K • 👍 951 • 💬 266 • ⏱️ 10:52 • 22h ago
+👁️ 17K • 👍 951 • 💬 266 • ⏱️ 10:52 • 23h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 7K • 👍 647 • 💬 39 • ⏱️ 16:32 • 3h ago
+👁️ 7K • 👍 647 • 💬 39 • ⏱️ 16:32 • 4h ago
 
 ---
 

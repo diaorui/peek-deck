@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T14:50:17.651168+00:00'
+updated: '2026-01-06T15:24:59.435887+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 14:50 UTC  
+**Last Updated:** January 06, 2026 at 15:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,241.41
+### $3,301.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.4%  
-**7d:** +11.3%  
-**30d:** +5.8%  
-**90d:** -24.2%  
-**1y:** -2.2%  
+**24h:** +3.2%  
+**7d:** +10.6%  
+**30d:** +5.3%  
+**90d:** -24.7%  
+**1y:** -2.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Yet another data breach, this time involving payment processor Global-E, with customer personal data reportedly exposed. We often talk about blockchain as a solution for privacy and transparency. But incidents like this show a hard truth: privacy failures still happen at the infrastructure and application layer, regardless of whether crypto or blockchain is involved. Decentralization doesn’t automatically mean privacy. Security practices, data minimization, and proper protection of user information still matter a lot. If sensitive data keeps leaking before it ever touches a blockchain, that’s a problem we shouldn’t ignore. Curious how others here see this are we focusing too much on decentralization while underestimating basic data security?
 
-7h ago
+8h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 2h ago
 
 US Bitcoin and Ethereum ETFs have received over $1.5 billion in inflows from investors since the beginning of January.  The prices of the two biggest cryptocurrencies have surged. Crypto markets finished 2025 in the red.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Block • 22h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -222,7 +222,7 @@ CCN.com • 4h ago
 
 Ethereum layer-2 network Starknet suffered a block issue that led to more than four hours of downtime early Monday.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 151 • 💬 15 • ⏱️ 4:05 • 9h ago
+👁️ 2K • 👍 151 • 💬 15 • ⏱️ 4:05 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 363 • 💬 249 • ⏱️ 13:40 • 9h ago
+👁️ 6K • 👍 363 • 💬 249 • ⏱️ 13:40 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 10K • 👍 434 • 💬 207 • ⏱️ 22:27 • 16h ago
+👁️ 10K • 👍 434 • 💬 207 • ⏱️ 22:27 • 17h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 22K • 👍 2K • 💬 63 • ⏱️ 46:18 • 20h ago
+👁️ 22K • 👍 2K • 💬 63 • ⏱️ 46:18 • 21h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 23h ago
+👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 1d ago
 
 ---
 
@@ -326,7 +326,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 227 • 💬 83 • ⏱️ 53:22 • 18h ago
+👁️ 5K • 👍 227 • 💬 83 • ⏱️ 53:22 • 19h ago
 
 ---
 
