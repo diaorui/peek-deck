@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T07:27:17.559655+00:00'
+updated: '2026-01-06T07:46:58.859594+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 07:27 UTC  
+**Last Updated:** January 06, 2026 at 07:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -56,7 +56,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 I'm 17 years old and I really enjoy robotics and related things. However, since I was 10, I've started developing an addiction to screens, which has reduced the time and interest I spend practicing it. I would like advice regarding this addiction and also to know your opinion about this project, what to add, and how to implement it. I would also like to find people with common interests, something extremely difficult to find here in the middle of nowhere where I live.
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi Everyone! First of all i want to thank all people who helped me in this commu
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 23m ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 43m ago
 
 ---
 
@@ -102,7 +102,7 @@ Anyone else noticed the productized Atlas is rendered with 4 fingers? BD release
 
 **[When robots leave the lab](https://www.reddit.com/r/robotics/comments/1q4lvy7/when_robots_leave_the_lab/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Hyundai Motor Group and Boston Dynamics brought out their famous Atlas prototype
 
 📺 CNET
 
-👁️ 31K • 👍 1K • 💬 200 • ⏱️ 9:05 • 7h ago
+👁️ 31K • 👍 1K • 💬 200 • ⏱️ 9:05 • 8h ago
 
 ---
 

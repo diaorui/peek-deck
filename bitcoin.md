@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T07:27:17.550172+00:00'
+updated: '2026-01-06T07:46:58.851490+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 07:27 UTC  
+**Last Updated:** January 06, 2026 at 07:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-6h ago
+7h ago
 
 ---
 
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-10h ago
+11h ago
 
 ---
 
 **[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 **[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +113,7 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
 
-10h ago
+11h ago
 
 ---
 
@@ -131,7 +131,7 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 **[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The price action over the last 48 hours is the clearest signal yet that the old 
 
 Did they lose a billion?
 
-6h ago
+7h ago
 
 ---
 
@@ -165,7 +165,7 @@ Barron's • 19h ago
 
 Bitcoin and the broader crypto market have started 2026 with strong gains, driven by new-year allocations and a haven bid amid geopolitical tensions.
 
-CoinDesk • 18m ago
+CoinDesk • 38m ago
 
 ---
 
@@ -179,7 +179,7 @@ Binance • 12h ago
 
 We recently published 10 Stocks With Easy Double-Digit Gains. American Bitcoin Corp. (NASDAQ:ABTC) was one of the top performers on Monday. American Bitcoin grew for a second day on Monday, jumping 13.48 percent to close at $2.02 apiece, as investors took heart from its acquisition of more Bitcoins, making it one of the fastest-growing treasury […]
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 8h ago
 
 **[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -353,7 +353,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 8K • 👍 661 • 💬 117 • ⏱️ 25:39 • 8h ago
+👁️ 8K • 👍 661 • 💬 117 • ⏱️ 25:39 • 9h ago
 
 ---
 
@@ -373,7 +373,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 2K • 💬 224 • ⏱️ 38:51 • 12h ago
+👁️ 31K • 👍 2K • 💬 224 • ⏱️ 38:51 • 13h ago
 
 ---
 
@@ -383,7 +383,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 13K • 👍 1K • 💬 598 • ⏱️ 12:50 • 11h ago
+👁️ 13K • 👍 1K • 💬 598 • ⏱️ 12:50 • 12h ago
 
 ---
 

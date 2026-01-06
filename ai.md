@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T07:27:17.541307+00:00'
+updated: '2026-01-06T07:46:58.843992+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 07:27 UTC  
+**Last Updated:** January 06, 2026 at 07:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] 
 
 I'm new to this sub. I was hoping to converse a little and get some opinions on this. I think it's an interesting phenomena within our society at the moment, where if you think about AI as a tool, and I personally see it as the greatest tool ever invented/gifted to mankind, why, or what is the issue, with using it? You see it all throughout society. People are up in arms about students using it to write papers is a big one, and I wonder, did papers ever need to be written in the first place? I apologize if this has already been answered to the nth degree and been beaten into the dirt, but realistically wouldn't it be possible that the ideas supporting this non-use of AI are rooted in established organizations that stand to suffer when they are completely obliterated by a tool that can not only do what they do but do it instantly and always be readily available, and do it for free? This narrative that we shouldn't use a tool that we've discovered/invented/been given or whatever you wanna call it, to me, seems absurd. It'd be like if we invented fire and everyone was like, hey, don't cook the meat, fire is stupid, let's just raw dog. I digress. My point is, maybe, MAYBE, the people who are pushing that narrative to not use AI, to not embrace this tool, to not see it as our potential salvation (or destruction XD), or at the very least even be curious about its potential applications and possible benefits to our society, stand to LOSE THEIR ASSES by its implementation. Just maybe. Sorry if I broke any rules, I am a big dumbass. Thanks for your time.
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ I was doing some end of year audit and noticed the aws bill higher than i though
 
 Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agent run a vending machine A collection of AI Agent Updates! 🧵 Meta Acquires ManusAI Joining Meta to develop agent capabilities across consumer and business products. Subscription service continues. Manus had $100M ARR, $125M revenue run rate, and ~$500M valuation from investors including Benchmark. Meta doubling down on agents. 2. Notion Working on Custom AI Agent Co-Workers Agents can be triggered via schedule, Slack tagging, or Notion page/database changes. Real AI-first workspace coming soon. Productivity platform going all-in on agent workflows. 3. Firecrawl Ships /agent Support to MCP Now works directly in ChatGPT, Claude, Cursor, and more. Describe data needed and watch it search web, navigate, and return structured data without leaving workflow. Agent web scraping comes to all major platforms. 4. Prime Intellect Introduces Recursive Language Models Research New research direction for long-horizon agents. Training models to manage their own context. Sharing initial experiments showing RLMs promise for next breakthrough in agent capabilities. Soon to be able to manage themselves. 5. Fiserv Partners with Mastercard and Visa for Agentic Commerce Expanded partnerships to advance trusted agentic commerce for merchants across global payments ecosystem. Focus on strengthening trust, security, and innovation as commerce evolves. Large payment processors betting on agent-driven commerce. 6. Firecrawl Adds Screenshots to /agent No custom selectors or complex logic needed. Just ask Firecrawl /agent to "get a screenshot" along with your data. Feature now live. Agent data collection getting visual capabilities. 7. Google Recommends Spec-Driven Development for Agents Approach gives agents blueprint of goals, constraints, and clear definition of "done". Uses research, planning, and execution to get production-ready code faster. Keeps AI agents on task. Best practices emerging for agent development. 8. Google Cloud Announces GEAR Educational Sprint for 2026 Gemini Enterprise Agent Ready - educational sprint designed to help build and deploy AI agents. Sign-ups open now for early notification when program launches. Enterprise agent training program coming. 9. WSJ Tests Claude AI Running Office Vending Machine Anthropic's Claude lost hundreds of dollars, gave away free PlayStation, and bought a live fish. Experiment in WSJ newsroom taught lessons about future of AI agents. Real-world agent test reveals challenges ahead. 10. Palo Alto Networks: AI Agents Are 2026's Biggest Insider Threat Chief Security Intel Officer Wendi Whitmore warns 40% of enterprise apps will integrate agents by end of 2026 (up from <5% in 2025). Creates massive pressure on security teams to secure autonomous agents. New insider threat emerging as agents proliferate. That's a wrap on this week's Agentic news. Which update do you think is the biggest? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-15h ago
+16h ago
 
 ---
 
@@ -141,7 +141,7 @@ Yahoo Finance • 8h ago
 
 Narwal's new robo vacuum cleaner switches to quiet mode near a baby's crib.
 
-TechCrunch • 9m ago
+TechCrunch • 28m ago
 
 ---
 
@@ -155,7 +155,7 @@ The Wall Street Journal • 11h ago
 
 As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -205,7 +205,7 @@ Yahoo Finance • 17h ago
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 299 • 💬 305 • 17h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 299 • 💬 305 • 18h ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -285,7 +285,7 @@ Outskill (Sponsored) — Join here: https://link.outskill.com/MALVAAIJAN2 FREE P
 
 📺 Malva AI
 
-👁️ 7K • 👍 623 • 💬 200 • ⏱️ 9:50 • 18h ago
+👁️ 7K • 👍 623 • 💬 200 • ⏱️ 9:50 • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 97 • 💬 6 • ⏱️ 9:18 • 9h ago
+👁️ 3K • 👍 97 • 💬 6 • ⏱️ 9:18 • 10h ago
 
 ---
 
@@ -654,7 +654,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.5k • 🔱 657 • 2h ago
+⭐ 5.5k • 🔱 657 • 3h ago
 
 ---
 
@@ -734,7 +734,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 955 • 🔱 113 • 4h ago
+⭐ 955 • 🔱 113 • 5h ago
 
 ---
 

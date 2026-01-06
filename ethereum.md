@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T07:27:17.556420+00:00'
+updated: '2026-01-06T07:46:58.856779+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 07:27 UTC  
+**Last Updated:** January 06, 2026 at 07:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-14h ago
+15h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -176,7 +176,7 @@ CoinDesk • 17h ago
 
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -216,7 +216,7 @@ Decrypt • 15h ago
 
 Bitmine releases Special Chairman's Message related to upcoming Annual Stockholder Meeting Bitmine staked ETH stands at 659,219 and MAVAN staking solution on...
 
-PR Newswire • 17h ago
+PR Newswire • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 10K • 👍 182 • 💬 100 • ⏱️ 12:31 • 10h ago
+👁️ 10K • 👍 182 • 💬 100 • ⏱️ 12:31 • 11h ago
 
 ---
 
@@ -258,7 +258,7 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 332 • 💬 10 • ⏱️ 16:00 • 3h ago
+👁️ 2K • 👍 332 • 💬 10 • ⏱️ 16:00 • 4h ago
 
 ---
 
