@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T17:47:33.635990+00:00'
+updated: '2026-01-06T18:34:15.567708+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 17:47 UTC  
+**Last Updated:** January 06, 2026 at 18:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 19h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 20h ago
 
 ---
 
@@ -60,13 +60,13 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 10h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 11h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
 
-28m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Why arent there any small sized VR controlled mechs akin to the flying drones? I
 
 Hello everyone, we are a group of two engineers with combined experience in mechatronics, aerospace and robotics research, and also some experience creating tech startups and fundraising. We have been working hard creating our own affordable Industrial Robotic Arm from scratch with focus on maintainability and repairability, and feel confident with our current prototype. We are looking for passionate builders that want to join us in our journey, collaborating with your current skills and learn whatever else is needed, particularly to help in the areas we are missing right now (AI/ML and general Full-Stack SW development). We strongly believe in the principles of open-source and are located in the EU, with the goal of sourcing and assembling all the parts inside our common market. If my message caught your attention, feel free to DM me and we can talk more in Discord or email. For obvious reasons, we don't want to show our prototype here, but I would be happy showing it personally. You can see some stuff we have done in the past here: Autonomous shelf stocking & charging.
 
-49m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hello everyone, we are a group of two engineers with combined experience in mech
 
 Hi guys, I am currently working on a mini pupper quadruped for university with one of my fellow students. The story is basically, that we are both part of a mobile robotics class where we got a pre-assembled mangdang mini pupper to work with. We tried multiple ways of software installation which were recommended on the website here or from the repositories of mangdang here. The problem was that we couldn't get further than installing the repos, but when it came to building ROS2 nodes or starting the base functionality, it always failed or didn't work on the hardware the way it used to (aka it didn't do anything). We basically never got to the point in the tutorial where it shows it's eyes or IP-Address on Screen. Now the only thing we partially got working was the calibration software once from here. It yielded the best results so far in the way that we had the test image shown, sound heard, one leg twitch and the voltage output. But this is obviously not enough for our purpose. We both have very little experience with ROS2 and the mini pupper was just given to us a way to figure it out on our own. We don't even know if it's Version 1 or 2. My question is more or less if there are any helpful resources which work in 2026 or if anyone on this subreddit made a mini pupper work in the last year or so? Any help is highly appreciated, since we are clueless at this point. Thanks :)
 
-52m ago
+1h ago
 
 ---
 
@@ -98,13 +98,13 @@ Hi guys, I am currently working on a mini pupper quadruped for university with o
 
 In this tutorial, I’ll show you how to build the brain of a DQN agent, train it to master MountainCar, and finally watch it learn. All these steps use PyTorch, Gymnasium, and Stable Baselines3 – forming a complete, reusable DQN pipeline. Link: https://www.reinforcementlearningpath.com/deep-q-learning-explained-a-step-by-step-guide-to-build-train-and-visualize-your-first-dqn-agent-with-pytorch-gymnasium-and-stable-baselines3
 
-7h ago
+8h ago
 
 ---
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -112,27 +112,27 @@ In this tutorial, I’ll show you how to build the brain of a DQN agent, train i
 
 ## Google News: "robotics"
 
-**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
-
-NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
-
-NVIDIA Newsroom • 19h ago
-
----
-
-**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
-
-NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
-
-NVIDIA Developer • 19h ago
-
----
-
 **[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 18h ago
+TechCrunch • 19h ago
+
+---
+
+**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
+
+NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
+
+NVIDIA Newsroom • 20h ago
+
+---
+
+**[A year ago, Nvidia's Jensen Huang said the 'ChatGPT moment' for robotics was around the corner. Now he says it's 'nearly here.' But is it?](https://fortune.com/2026/01/06/nvidia-jensen-huang-chatgpt-moment-for-robotics/)**
+
+Huang says advances in models, simulation, and compute have pushed robotics to a long-awaited inflection point — but turning platforms into real-world machines remains the hard part.
+
+Fortune • 2h ago
 
 ---
 
@@ -144,9 +144,21 @@ CNET • 1d ago
 
 ---
 
+**[Stereotaxis stock soars after FDA approval of robotic ablation catheter](https://www.investing.com/news/stock-market-news/stereotaxis-stock-soars-after-fda-approval-of-robotic-ablation-catheter-93CH-4433165)**
+
+Investing.com • 1h ago
+
+---
+
 **[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
 
-Axios • 4h ago
+Axios • 5h ago
+
+---
+
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
+
+Reuters • 6h ago
 
 ---
 
@@ -156,31 +168,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
+**[Qualcomm unveils PC chip, humanoid robotics initiative at CES 2026](https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-humanoid-robotics-initiative-at-ces-2026-170020697.html)**
 
-Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
+Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[BCSC’s VEX IQ robotics teams teams qualify for state](https://www.therepublic.com/2026/01/06/bcscs-vex-iq-robotics-teams-teams-qualify-for-state/)**
 
-The Republic News • 12h ago
-
----
-
-**[Meet 5 medtech companies redefining surgical robotics](https://www.medtechdive.com/news/New-robotic-surgery-platforms-company-profiles-roundup/808734/)**
-
-Executives at companies innovating a range of new robotic surgery platforms shared their progress and challenges in MedTech Dive's series of profiles.
-
-MedTech Dive • 1d ago
-
----
-
-**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
-
-Reuters • 5h ago
+The Republic News • 13h ago
 
 ---
 
@@ -194,7 +192,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 739K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
+👁️ 764K • 👍 11K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 13K • 👍 191 • 💬 6 • ⏱️ 7:38 • 1d ago
+👁️ 14K • 👍 200 • 💬 8 • ⏱️ 7:38 • 1d ago
 
 ---
 
@@ -214,7 +212,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 256K • 👍 4K • 💬 620 • ⏱️ 5:49 • 1d ago
+👁️ 268K • 👍 4K • 💬 659 • ⏱️ 5:49 • 1d ago
 
 ---
 
@@ -224,7 +222,7 @@ Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discu
 
 📺 CNBC Television
 
-👁️ 9K • 👍 250 • 💬 59 • ⏱️ 7:41 • 4h ago
+👁️ 22K • 👍 359 • 💬 96 • ⏱️ 7:41 • 5h ago
 
 ---
 
@@ -234,7 +232,17 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 146K • 👍 9K • 💬 1K • ⏱️ 2:05 • 20h ago
+👁️ 163K • 👍 10K • 💬 1K • ⏱️ 2:05 • 21h ago
+
+---
+
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+
+Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+
+📺 PCMag
+
+👁️ 159K • 👍 5K • 💬 813 • ⏱️ 7:00 • 19h ago
 
 ---
 
@@ -264,27 +272,17 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 14K • 👍 299 • 💬 26 • ⏱️ 1:33:26 • 18h ago
+👁️ 17K • 👍 370 • 💬 34 • ⏱️ 1:33:26 • 19h ago
 
 ---
 
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
 
-Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
 
-📺 PCMag
+📺 Unitree Robotics
 
-👁️ 148K • 👍 4K • 💬 770 • ⏱️ 7:00 • 18h ago
-
----
-
-**[These New AI Robots Are About to Become Real in 2026](https://www.youtube.com/watch?v=t-GeDuS3qWw)**
-
-Humanoid robots are about to take a massive leap forward in 2026 — and the companies behind them are moving faster than ...
-
-📺 The AI Nexus
-
-👁️ 4K • 👍 96 • 💬 9 • ⏱️ 18:26 • 5d ago
+👁️ 194K • 👍 3K • 💬 768 • ⏱️ 0:32 • 2d ago
 
 ---
 
