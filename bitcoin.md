@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T21:43:29.350382+00:00'
+updated: '2026-01-06T22:23:01.643830+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 21:43 UTC  
+**Last Updated:** January 06, 2026 at 22:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-2h ago
+3h ago
 
 ---
 
@@ -99,7 +99,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 **[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, sign
 
 **[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wa
 
 BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
 
-7h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tues
 
 Hello. I heat my house with electric system and I find it stupid to use electricity only for heating, knowing that whatever we are using electricity for, it becomes heat at the end anyway. So I was thinking about changing my heaters for ASIC miners (That are changing 100% of the electric power in heat, just like an heater). But is it worth it to buy ASIC just to use it 4-5 months in the year? Did one of you already tried?
 
-2h ago
+3h ago
 
 ---
 
@@ -151,25 +151,11 @@ Hello. I heat my house with electric system and I find it stupid to use electric
 
 ## Google News: "bitcoin"
 
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
+**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
 
-Reuters • 4h ago
+Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
----
-
-**[Crypto Latecomer Morgan Stanley Files for Bitcoin, Solana ETFs](https://www.bloomberg.com/news/articles/2026-01-06/crypto-latecomer-morgan-stanley-files-for-bitcoin-solana-etfs)**
-
-Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
-
-Bloomberg.com • 8h ago
-
----
-
-**[Bitcoin ETFs Just Had Their Best Day in Months as Crypto Market Rebounds](https://finance.yahoo.com/news/bitcoin-etfs-just-had-best-195127719.html)**
-
-Bitcoin ETFs hit $697 million in single-day inflows as Morgan Stanley enters the race with new BTC and Solana fund filings.
-
-Yahoo Finance • 1h ago
+CNBC • 1h ago
 
 ---
 
@@ -189,39 +175,57 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Don’t hold your breath for Venezuela’s bitcoin](https://www.coindesk.com/opinion/2026/01/06/don-t-hold-your-breath-for-venezuela-s-bitcoin)**
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Ledn co-founder Mauricio Di Bartolomeo, born and raised in Venezuela, argues that the country’s government is simply too corrupt and incompetent to have accumulated a rumored $60 billion stash of bitcoin.
-
-CoinDesk • 4h ago
+Reuters • 5h ago
 
 ---
 
-**[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
+**[Morgan Stanley files for spot bitcoin and solana ETFs: CNBC Crypto World](https://www.cnbc.com/video/2026/01/06/morgan-stanley-files-for-spot-bitcoin-and-solana-etfs-cnbc-crypto-world.html)**
 
-The Block • 1d ago
+On today's episode of CNBC Crypto World, Morgan Stanley filed with the SEC to launch a spot bitcoin and a spot solana ETF. And, Brian Dobson, senior analyst & managing director of disruptive technology at Clear Street, explains his outlook for bitcoin mining in 2026.
 
----
-
-**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
-
-Reuters • 22h ago
+CNBC • 2h ago
 
 ---
 
-**[MSTR Stock: Strategy's Premium Nearly Gone As Bitcoin Rally Falters](https://www.investors.com/news/mstr-stock-strategy-premium-vanishes-bitcoin-price/)**
+**[Crypto Latecomer Morgan Stanley Files for Bitcoin, Solana ETFs](https://www.bloomberg.com/news/articles/2026-01-06/crypto-latecomer-morgan-stanley-files-for-bitcoin-solana-etfs)**
 
-MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
+Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
 
-Investor's Business Daily • 1h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Bitcoin Holds $92,000 As Analysts See Market Bottom](https://bitcoinmagazine.com/markets/bitcoin-holds-92000-analysts-say-bottom)**
+**[Bitcoin Miner Riot Platforms Dumped Nearly $200 Million in BTC](https://finance.yahoo.com/news/bitcoin-miner-riot-platforms-dumped-212125631.html)**
 
-Bitcoin hovered near $92,000 as analysts, including Bernstein, pointed to improving technical and macro signals suggesting the cryptocurrency has likely bottomed after a steep fourth-quarter sell-off and may be positioned for a rebound.
+Publicly traded Bitcoin miner Riot Platforms netted nearly $200 million in proceeds from BTC sales in November and December.
 
-Bitcoin Magazine • 59m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[MSCI Will Not Exclude Bitcoin Treasury Companies Like Michael Saylor’s Strategy From Global Indexes](https://bitcoinmagazine.com/featured/msci-will-not-exclude-strategy)**
+
+MSCI ended its review of digital asset treasury companies and will keep them eligible for its major indexes, allowing for Strategy to remain included.
+
+Bitcoin Magazine • 38m ago
+
+---
+
+**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
+
+Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
+
+ABC News • 1h ago
+
+---
+
+**[Maine to get $1.9M in settlement with Bitcoin kiosk operator](https://www.bangordailynews.com/2026/01/05/state/state-police-courts/maine-settlement-bitcoin-depot/)**
+
+The Maine Bureau of Consumer Credit Protection announced the consent agreement with Bitcoin Depot on Monday.
+
+Bangor Daily News • 1d ago
 
 ---
 
@@ -311,7 +315,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 19K • 👍 274 • 💬 156 • ⏱️ 8:25 • 8h ago
+👁️ 19K • 👍 274 • 💬 156 • ⏱️ 8:25 • 9h ago
 
 ---
 
@@ -321,7 +325,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 202 • ⏱️ 9:17 • 19h ago
+👁️ 64K • 👍 3K • 💬 202 • ⏱️ 9:17 • 20h ago
 
 ---
 
@@ -341,7 +345,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 40 • ⏱️ 31:55 • 6h ago
+👁️ 12K • 👍 1K • 💬 40 • ⏱️ 31:55 • 7h ago
 
 ---
 
@@ -351,7 +355,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 19K • 👍 998 • 💬 83 • ⏱️ 16:32 • 10h ago
+👁️ 19K • 👍 998 • 💬 83 • ⏱️ 16:32 • 11h ago
 
 ---
 
@@ -361,7 +365,7 @@ Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the b
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 522 • 💬 148 • ⏱️ 57:31 • 4h ago
+👁️ 10K • 👍 522 • 💬 148 • ⏱️ 57:31 • 5h ago
 
 ---
 
@@ -381,7 +385,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 305 • ⏱️ 8:08 • 20h ago
+👁️ 30K • 👍 2K • 💬 305 • ⏱️ 8:08 • 21h ago
 
 ---
 

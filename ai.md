@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T21:43:29.342080+00:00'
+updated: '2026-01-06T22:23:01.635479+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 21:43 UTC  
+**Last Updated:** January 06, 2026 at 22:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-45m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-6m ago
+46m ago
 
 ---
 
@@ -103,7 +103,7 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ The title of the thread kind of says it all. I'm trying to generate music tracks
 
 https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequently generate hallucinations -- plausible but factually incorrect outputs -- undermining their reliability. While prior work has examined hallucinations from macroscopic perspectives such as training data and objectives, the underlying neuron-level mechanisms remain largely unexplored. In this paper, we conduct a systematic investigation into hallucination-associated neurons (H-Neurons) in LLMs from three perspectives: identification, behavioral impact, and origins. Regarding their identification, we demonstrate that a remarkably sparse subset of neurons (less than 0.1\% of total neurons) can reliably predict hallucination occurrences, with strong generalization across diverse scenarios. In terms of behavioral impact, controlled interventions reveal that these neurons are causally linked to over-compliance behaviors. Concerning their origins, we trace these neurons back to the pre-trained base models and find that these neurons remain predictive for hallucination detection, indicating they emerge during pre-training. Our findings bridge macroscopic behavioral patterns with microscopic neural mechanisms, offering insights for developing more reliable LLMs."
 
-47m ago
+1h ago
 
 ---
 
@@ -121,71 +121,73 @@ https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequen
 
 **[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-Politico • 6h ago
+Politico • 7h ago
 
 ---
 
-**[The mother of one of Elon Musk's children says his AI bot won't stop creating sexualized images of her](https://www.nbcnews.com/tech/elon-musk/mother-one-elon-musks-children-says-ai-bot-wont-stop-creating-sexualiz-rcna252416)**
+**[Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
 
-Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
+Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-NBC News • 8h ago
-
----
-
-**[Wave of Grok AI fake images of women and girls appalling, says UK minister](https://www.theguardian.com/technology/2026/jan/06/grok-ai-fake-images-women-girls-undressed-uk-minister-liz-kendall)**
-
-Liz Kendall calls on X to ‘deal with this urgently’ while expert criticises ‘worryingly slow’ government response
-
-The Guardian • 4h ago
+The Guardian • 16h ago
 
 ---
 
-**[Elon Musk's chatbot bikini image edits draw scrutiny from U.S. and global regulators](https://www.axios.com/2026/01/06/grok-ai-elon-musk-deepfake-bikini)**
+**[Air Force says AI tools outperform human planners in ‘battle management’ experiment](https://breakingdefense.com/2026/01/air-force-says-ai-tools-outperform-human-planners-in-battle-management-experiment/)**
 
-Axios • 10h ago
+In a complex multi-service, multi-domain scenario — not typically covered in Air Force training — the best of several AI tools generated tactical “courses of action” not only faster than military professionals but also with fewer errors.
+
+Breaking Defense • 45m ago
+
+---
+
+**[An AI Doctor Can Now Renew Prescriptions in Utah. Critics Say It Poses 'Serious Risks'](https://people.com/ai-doctor-renew-prescriptions-in-utah-doctronic-11880095)**
+
+Telehealth company Doctronic is partnering with the state of Utah to renew 191 different types of medications, which include blood pressure medicine and birth control prescriptions.
+
+People.com • 53m ago
+
+---
+
+**[OpenAI Challengers Test Appetite for Chinese AI With Twin Debuts](https://www.bloomberg.com/news/articles/2026-01-06/openai-challengers-test-appetite-for-chinese-ai-with-twin-debuts?srnd=phx-deals)**
+
+Bloomberg.com • 23m ago
+
+---
+
+**[xAI Raises $20B Series E](https://x.ai/news/series-e)**
+
+xAI • 2h ago
+
+---
+
+**[Nvidia just laid out what’s next for the tech that made it the world’s most valuable company](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces)**
+
+Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
+
+CNN • 23h ago
 
 ---
 
 **[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
-**[Nvidia unveils self-driving car tech as part of physical AI push](https://www.bbc.com/news/articles/c0jv1vd571wo)**
+**[Huang says Nvidia seeing ‘very high’ Chinese customer demand for H200 AI chips](https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html)**
 
-The chip giant is looking for ways to move the AI revolution beyond software and into physical products.
+"It appears that we're going to be going back to China," Nvidia CEO Jensen Huang said on Tuesday at the CES conference in Las Vegas.
 
-BBC • 11h ago
-
----
-
-**[Universal Music signs a new AI deal with Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal)**
-
-Can Music Flamingo find me a song that feels how I do about AI in music?
-
-The Verge • 1h ago
+CNBC • 1h ago
 
 ---
 
-**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
+**[AMD's Lisa Su says AI isn't replacing people, but is changing who gets hired](https://www.cnbc.com/2026/01/06/amd-lisa-su-ai-jobs-hiring.html)**
 
-Bloomberg.com • 1h ago
+AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
 
----
-
-**[2 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run](https://www.fool.com/investing/2026/01/06/2-top-ai-stocks-ready-bull-run/)**
-
-These tech companies offer solid return prospects over the next five years.
-
-The Motley Fool • 1h ago
-
----
-
-**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqd1sczhh6Qwo__toHdcBbojjeelSS7ZZQ2PO3vQ__Tx5Kp4i8XOFx9o&gaa_ts=695d7818&gaa_sig=XHMyXh5FSwJ_nMnFPvmWnYKioMU0V5_T1vVNqkoOwt7iUjFWDk-GaCSrn22Fgadi7f2oE-lfEyanvH0h7HpbPw%3D%3D)**
-
-The Wall Street Journal • 14h ago
+CNBC • 5h ago
 
 ---
 
@@ -205,7 +207,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 218 • 💬 341 • 23h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 218 • 💬 341 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -221,7 +223,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 99 • 💬 164 • 3h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 99 • 💬 164 • 4h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -251,7 +253,7 @@ Surely it works this time
 
 Don't let AI erode your focus.
 
-⬆️ 59 • 💬 14 • 5h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+⬆️ 59 • 💬 14 • 6h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -289,7 +291,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 10K • 👍 717 • 💬 43 • ⏱️ 13:13 • 8h ago
+👁️ 10K • 👍 717 • 💬 43 • ⏱️ 13:13 • 9h ago
 
 ---
 
@@ -349,7 +351,7 @@ Hyperscalers and chip stocks have soared in the first phase of AI. CNBC's Robert
 
 📺 CNBC Television
 
-👁️ 2K • 👍 31 • 💬 3 • ⏱️ 4:01 • 7h ago
+👁️ 2K • 👍 31 • 💬 3 • ⏱️ 4:01 • 8h ago
 
 ---
 
@@ -369,7 +371,7 @@ Analyst on AMD's New Tech, AI Demand DEK: Advanced Micro Devices CEO Lisa Su tou
 
 📺 Bloomberg Technology
 
-👁️ 2K • 👍 40 • 💬 5 • ⏱️ 5:10 • 13h ago
+👁️ 2K • 👍 40 • 💬 5 • ⏱️ 5:10 • 14h ago
 
 ---
 
@@ -493,7 +495,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 1,867 • ❤️ 361 • 22h ago
+⬇️ 1,867 • ❤️ 361 • 23h ago
 
 ---
 
@@ -654,7 +656,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.0k • 🔱 710 • 5h ago
+⭐ 6.0k • 🔱 710 • 6h ago
 
 ---
 
@@ -704,7 +706,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 137 • 12h ago
+⭐ 1.1k • 🔱 137 • 13h ago
 
 ---
 
@@ -724,7 +726,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 997 • 🔱 70 • 7d ago
+⭐ 997 • 🔱 70 • 8d ago
 
 ---
 
