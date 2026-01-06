@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T23:21:51.770121+00:00'
+updated: '2026-01-06T23:42:11.482232+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 23:21 UTC  
+**Last Updated:** January 06, 2026 at 23:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 9h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 10h ago
 
 ---
 
@@ -122,14 +122,6 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
-**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
-
-NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
-
-NVIDIA Developer • 1d ago
-
----
-
 **[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
@@ -138,17 +130,9 @@ TechCrunch • 1d ago
 
 ---
 
-**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
+**[Nvidia Stock Shrugs as CEO Jensen Huang Pushes ‘Physical AI’ at CES](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqfmV-_NBBkFbNfT89hAhh5HB0AWyi5q67UEC6iM0N0dHN1M6M9AIOl2&gaa_ts=695da13b&gaa_sig=QEjt9GCflBMqckgg-8nP-rh5xS1_xK9A_tuC64Ur9u4tvjLnQhe0YDWRaPHvDMKNhoy_S0wmr3Ps0vSdHD8tNg%3D%3D)**
 
-A new wave of humanoids are coming. Qualcomm is ready to power them.
-
-CNET • 1d ago
-
----
-
-**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
-
-Bloomberg.com • 3h ago
+Barron's • 8h ago
 
 ---
 
@@ -160,31 +144,47 @@ TechCrunch • 2h ago
 
 ---
 
-**[Mobileye to Buy Humanoid Robot Maker Mentee for $900 Million](https://www.bloomberg.com/news/articles/2026-01-06/mobileye-to-buy-humanoid-robot-maker-mentee-for-900-million)**
+**[The AI and robotics industries fuel each other: Kindred Ventures founder](https://www.foxbusiness.com/video/6387318895112)**
 
-Bloomberg.com • 2h ago
+Kindred Ventures founder and managing partner Steven Jang discusses how the rise of artificial intelligence is benefiting the robotics industry on ‘The Claman Countdown.’
 
----
-
-**[Mobileye To Acquire Mentee Robotics to Accelerate Physical AI Leadership](https://finance.yahoo.com/news/mobileye-acquire-mentee-robotics-accelerate-211500607.html)**
-
-LAS VEGAS, January 06, 2026--Mobileye to acquire Mentee Robotics, bringing world-class AI talent together to scale autonomous vehicles and humanoid robots globally
-
-Yahoo Finance • 2h ago
+Fox Business • 51m ago
 
 ---
 
-**[Robots are really advancing because they're learning to think for themselves, execs say](https://fortune.com/2026/01/06/robots-advancing-from-backflips-to-opening-door-handles-skild-sequoia/)**
+**[Assessing Serve Robotics (SERV) Valuation After A Tough Year And Recent Short Term Share Price Rebound](https://finance.yahoo.com/news/assessing-serve-robotics-serv-valuation-221847261.html)**
 
-"What has now changed," Skild AI CEO Deepak Pathak told Fortune, "is that these models or these robots can now can learn from data."
+Key context for Serve Robotics Serve Robotics (SERV) has drawn investor attention after recent trading moves, with the stock last closing at US$12.68. The company operates self-driving food delivery robots in the United States, a niche that raises clear questions about growth, scale and ongoing losses. See our latest analysis for Serve Robotics. The recent 7-day share price return of 25.54% and 1-day gain of 7.19% at a last close of US$12.68 sit against a 1-year total shareholder return...
 
-Fortune • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
+**[CES 2026: Here Are the Best Robots So Far for Housework, Fun and More](https://www.cnet.com/tech/ces-2026-here-are-the-best-robots-so-far-for-housework-fun-and-more/)**
 
-Axios • 7h ago
+Robots at CES 2026 are smarter, more helpful and more fun. Here are our favorites so far.
+
+CNET • 1h ago
+
+---
+
+**[Hyundai unveils humanoid robotics strategy, aiming for 30,000 robots annually by 2028](https://www.autonews.com/technology/an-ces-2026-hyundai-robotics-strategy-0105/)**
+
+Hyundai said at CES 2026 that it plans to start using humanoid robots in its factories and is building a production system that could produce 30,000 robots annually by 2028.
+
+Automotive News • 1d ago
+
+---
+
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
+
+Reuters • 11h ago
+
+---
+
+**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
+
+Bloomberg.com • 3h ago
 
 ---
 

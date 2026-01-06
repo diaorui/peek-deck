@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T23:21:51.760484+00:00'
+updated: '2026-01-06T23:42:11.474219+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 23:21 UTC  
+**Last Updated:** January 06, 2026 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -107,7 +107,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 3h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 4h ago
 
 ---
 
@@ -115,7 +115,7 @@ Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, sign
 
 Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 4h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 5h ago
 
 ---
 
@@ -129,7 +129,7 @@ It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet
 
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -153,33 +153,23 @@ Hello. I heat my house with electric system and I find it stupid to use electric
 
 ## Google News: "bitcoin"
 
-**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
+**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqeIUFqj6WkHxdKnfp2PuP12Np_hwjtTG-qe2J4P4wKqE5aJGGuOiIej&gaa_ts=695da138&gaa_sig=SrYSsZ1QqlJLwh5ykP3kwQVt6EFzvYKVYGC3dOmkpmQxxbPSmUa0yXMNGeMcKU7_zj6PaQYMq4r_ilaUFActIQ%3D%3D)**
 
-Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
-
-CNBC • 2h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitcoin's Price is Climbing. Did the U.S. Capture of Venezuela's Maduro Help?](https://www.investopedia.com/bitcoin-price-is-climbing-did-the-u-s-capture-of-venezuela-s-maduro-help-11879169)**
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
 
-The world's largest cryptocurrency is moving higher after the U.S. ousted Venezuelan president Nicolás Maduro over the weekend.
+Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
 
-Investopedia • 1d ago
-
----
-
-**[Bitcoin Climbs to Three-Week High After US Captures Maduro](https://www.bloomberg.com/news/articles/2026-01-05/bitcoin-btc-climbs-to-three-week-high-after-us-captures-maduro)**
-
-Bitcoin rose to an more than one-month high and broke through a closely watched technical level as digital assets start to catch up with gains in stocks and precious metals.
-
-Bloomberg.com • 1d ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
+**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
 
-Reuters • 6h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -191,27 +181,39 @@ CNBC • 3h ago
 
 ---
 
-**[Crypto Latecomer Morgan Stanley Files for Bitcoin, Solana ETFs](https://www.bloomberg.com/news/articles/2026-01-06/crypto-latecomer-morgan-stanley-files-for-bitcoin-solana-etfs)**
+**[Bitcoin Faithful Still Missing Even After Token Reclaims $90,000](https://www.bloomberg.com/news/articles/2026-01-06/bitcoin-faithful-still-missing-even-after-token-reclaims-90-000)**
 
-Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
+Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 10h ago
-
----
-
-**[Bitcoin Miner Riot Platforms Dumped Nearly $200 Million in BTC](https://finance.yahoo.com/news/bitcoin-miner-riot-platforms-dumped-212125631.html)**
-
-Publicly traded Bitcoin miner Riot Platforms netted nearly $200 million in proceeds from BTC sales in November and December.
-
-Yahoo Finance • 2h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[MSCI Will Not Exclude Bitcoin Treasury Companies Like Michael Saylor’s Strategy From Global Indexes](https://bitcoinmagazine.com/featured/msci-will-not-exclude-strategy)**
+**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-MSCI ended its review of digital asset treasury companies and will keep them eligible for its major indexes, allowing for Strategy to remain included.
+Reuters • 1d ago
 
-Bitcoin Magazine • 1h ago
+---
+
+**[MSTR Stock: Strategy's Premium Nearly Gone As Bitcoin Rally Falters](https://www.investors.com/news/mstr-stock-strategy-premium-vanishes-bitcoin-price/)**
+
+MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
+
+Investor's Business Daily • 3h ago
+
+---
+
+**[MSCI Keeps Strategy — For Now — But Won't Help It Buy Bitcoin](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
+
+Investor's Business Daily • 28m ago
+
+---
+
+**[Bitcoin and broader crypto markets 'have bottomed,' Bernstein analysts say](https://finance.yahoo.com/news/bitcoin-and-broader-crypto-markets-have-bottomed-bernstein-analysts-say-182315482.html)**
+
+Bitcoin has entered 2026 with gains following a disastrous quarter. Bernstein says the cryptocurrency has hit a bottom.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -220,14 +222,6 @@ Bitcoin Magazine • 1h ago
 Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
 ABC News • 2h ago
-
----
-
-**[Maine to get $1.9M in settlement with Bitcoin kiosk operator](https://www.bangordailynews.com/2026/01/05/state/state-police-courts/maine-settlement-bitcoin-depot/)**
-
-The Maine Bureau of Consumer Credit Protection announced the consent agreement with Bitcoin Depot on Monday.
-
-Bangor Daily News • 1d ago
 
 ---
 

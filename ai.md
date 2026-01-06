@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T23:21:51.751785+00:00'
+updated: '2026-01-06T23:42:11.466753+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 23:21 UTC  
+**Last Updated:** January 06, 2026 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "The people cry for their freedom, thanks to the United States for freeing us."
 
-🔗 [Yahoo News](https://www.yahoo.com/news/articles/video-happy-crying-venezuelans-maduro-220200959.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAE17_B3cTxFUc585t6CQqLBQDIsM43kokgIAyMp2fr4ASdSuSqng6SGa2Uhi48jT2eNT_I_K3CbsB4A7HBYwF-Cro4tgBTrSjllWASclzziJeIo4U0FBniUDPI2SYdOfVXBmmtrr76_NtrMri6Fv5ZR-Kj8JXvnFQChzWltfkZI6) • 5h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/video-happy-crying-venezuelans-maduro-220200959.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAE17_B3cTxFUc585t6CQqLBQDIsM43kokgIAyMp2fr4ASdSuSqng6SGa2Uhi48jT2eNT_I_K3CbsB4A7HBYwF-Cro4tgBTrSjllWASclzziJeIo4U0FBniUDPI2SYdOfVXBmmtrr76_NtrMri6Fv5ZR-Kj8JXvnFQChzWltfkZI6) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
 
-🔗 [WIRED](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/) • 59m ago
+🔗 [WIRED](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/) • 1h ago
 
 ---
 
@@ -73,13 +73,13 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
 
-7h ago
+8h ago
 
 ---
 
 **[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 8h ago
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 9h ago
 
 ---
 
@@ -103,7 +103,7 @@ What's up guys, I officially launched my side project/SAAS and thought I'd share
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 [SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
 
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 7h ago
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 8h ago
 
 ---
 
@@ -119,9 +119,63 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 ## Google News: "ai"
 
+**[3 semiconductor stocks to play the AI supercycle, according to analysts](https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html)**
+
+As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[2 Undervalued AI Companies to Buy in 2026 and Hold for Decades](https://www.fool.com/investing/2026/01/06/undervalued-ai-companies-buy-2026-hold-decade/)**
+
+Companies that are deeply embedded in the AI value chain can prove exceptional picks in the long run.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Micron, Sandisk, memory stocks continue to soar amid AI demand (MU:NASDAQ)](https://seekingalpha.com/news/4537040-micron-sandisk-memory-stocks-continue-to-soar-amid-ai-demand)**
+
+Memory and storage stocks surge on AI spending as a âmemory supercycleâ fuels HBM shortages and price hikesâsee what it means for Micron and peers.
+
+Seeking Alpha • 7h ago
+
+---
+
 **[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
 Politico • 8h ago
+
+---
+
+**[The AI and robotics industries fuel each other: Kindred Ventures founder](https://www.foxbusiness.com/video/6387318895112)**
+
+Kindred Ventures founder and managing partner Steven Jang discusses how the rise of artificial intelligence is benefiting the robotics industry on ‘The Claman Countdown.’
+
+Fox Business • 51m ago
+
+---
+
+**[Did America just lose the AI race to China?](https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump)**
+
+Biden’s national security adviser tells The Verge why the Trump-Nvidia chip deal could be catastrophic.
+
+The Verge • 56m ago
+
+---
+
+**[Lakeland pioneers AI sensor technology to fix crumbling roadways](https://www.fox13news.com/news/city-lakeland-pioneers-ai-sensor-technology-fix-crumbling-roadways)**
+
+The city of Lakeland will soon use artificial intelligence technology to tackle the pothole problem on our roadways.
+
+FOX 13 Tampa Bay • 24m ago
+
+---
+
+**[xAI Raises $20B Series E](https://x.ai/news/series-e)**
+
+xAI • 3h ago
 
 ---
 
@@ -133,61 +187,9 @@ The Guardian • 17h ago
 
 ---
 
-**[Air Force says AI tools outperform human planners in ‘battle management’ experiment](https://breakingdefense.com/2026/01/air-force-says-ai-tools-outperform-human-planners-in-battle-management-experiment/)**
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t - WSJ](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqcRWqF2GDyXZiZzEL7gjZ6VzVTmwDYB1vLhRqOUAk2RU74Q-PkkBTSD&gaa_ts=695da136&gaa_sig=UuUoUwsEHbuGh4UirM4XbdBuoTfAqQbolHpOT3R5Fyiuo2MoI1z2CFsNU7ciYUl5LX25ns4G3aE1DdBqTHd8YA%3D%3D)**
 
-In a complex multi-service, multi-domain scenario — not typically covered in Air Force training — the best of several AI tools generated tactical “courses of action” not only faster than military professionals but also with fewer errors.
-
-Breaking Defense • 1h ago
-
----
-
-**[An AI Doctor Can Now Renew Prescriptions in Utah. Critics Say It Poses 'Serious Risks'](https://people.com/ai-doctor-renew-prescriptions-in-utah-doctronic-11880095)**
-
-Telehealth company Doctronic is partnering with the state of Utah to renew 191 different types of medications, which include blood pressure medicine and birth control prescriptions.
-
-People.com • 1h ago
-
----
-
-**[OpenAI Challengers Test Appetite for Chinese AI With Twin Debuts](https://www.bloomberg.com/news/articles/2026-01-06/openai-challengers-test-appetite-for-chinese-ai-with-twin-debuts?srnd=phx-deals)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[xAI Raises $20B Series E](https://x.ai/news/series-e)**
-
-xAI • 3h ago
-
----
-
-**[Nvidia just laid out what’s next for the tech that made it the world’s most valuable company](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces)**
-
-Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
-
-CNN • 1d ago
-
----
-
-**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Huang says Nvidia seeing ‘very high’ Chinese customer demand for H200 AI chips](https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html)**
-
-"It appears that we're going to be going back to China," Nvidia CEO Jensen Huang said on Tuesday at the CES conference in Las Vegas.
-
-CNBC • 2h ago
-
----
-
-**[AMD's Lisa Su says AI isn't replacing people, but is changing who gets hired](https://www.cnbc.com/2026/01/06/amd-lisa-su-ai-jobs-hiring.html)**
-
-AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
-
-CNBC • 6h ago
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -281,7 +283,7 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 4K • 👍 54 • 💬 36 • ⏱️ 3:21 • 8h ago
+👁️ 4K • 👍 54 • 💬 36 • ⏱️ 3:21 • 9h ago
 
 ---
 
@@ -331,7 +333,7 @@ Access the 'How to Start an AI Business' course on Skool here → https://bit.ly
 
 📺 Liam Ottley
 
-👁️ 16K • 👍 1K • 💬 56 • ⏱️ 26:49 • 20h ago
+👁️ 16K • 👍 1K • 💬 56 • ⏱️ 26:49 • 21h ago
 
 ---
 
@@ -371,7 +373,7 @@ The journey of NVIDIA and AI began with GeForce—a chip built for play that awa
 
 📺 NVIDIA
 
-👁️ 10K • 👍 470 • ⏱️ 3:30 • 17h ago
+👁️ 10K • 👍 470 • ⏱️ 3:30 • 18h ago
 
 ---
 
@@ -411,7 +413,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 395 • 20h ago
+⬇️ 2,057 • ❤️ 395 • 21h ago
 
 ---
 
@@ -483,7 +485,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 72,638 • ❤️ 217 • 53m ago
+⬇️ 72,638 • ❤️ 217 • 1h ago
 
 ---
 
@@ -676,7 +678,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 122 • 6h ago
+⭐ 2.0k • 🔱 122 • 7h ago
 
 ---
 
@@ -736,7 +738,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 968 • 🔱 114 • 6h ago
+⭐ 968 • 🔱 114 • 7h ago
 
 ---
 
