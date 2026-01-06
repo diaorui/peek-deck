@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T05:26:06.340546+00:00'
+updated: '2026-01-06T05:49:45.287324+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 05:26 UTC  
+**Last Updated:** January 06, 2026 at 05:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,862.41
+### $93,603.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +7.1%  
-**30d:** +3.5%  
-**90d:** -22.8%  
-**1y:** -3.0%  
+**24h:** +1.2%  
+**7d:** +6.8%  
+**30d:** +3.1%  
+**90d:** -23.0%  
+**1y:** -3.3%  
 
 ---
 
@@ -70,22 +70,30 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 26
+### 44
 **FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[Crypto Guys when Bitcoin up +5%](https://www.reddit.com/r/Bitcoin/comments/1q53gc0/crypto_guys_when_bitcoin_up_5/)**
+
+portfolio: -60% mental health: unstable relationship : Grok gf
+
+5h ago
+
+---
+
 **[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
 
-8h ago
+9h ago
 
 ---
 
 **[BTC $100k again](https://www.reddit.com/r/Bitcoin/comments/1q50a2l/btc_100k_again/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -97,11 +105,19 @@ Rank #1
 
 **[This might be the best Bitcoin explanation you’ll ever hear](https://www.reddit.com/r/Bitcoin/comments/1q4ub62/this_might_be_the_best_bitcoin_explanation_youll/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Buying $69 dollars worth of BTC daily until I reach 1 BTC.](https://www.reddit.com/r/Bitcoin/comments/1q4vv7o/buying_69_dollars_worth_of_btc_daily_until_i/)**
+
+10h ago
+
+---
+
+**[We are officially watching the death of the "retail-driven" cycle](https://www.reddit.com/r/Bitcoin/comments/1q4xioq/we_are_officially_watching_the_death_of_the/)**
+
+The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
 
 9h ago
 
@@ -113,33 +129,15 @@ Rank #1
 
 ---
 
-**[Crypto Guys when Bitcoin up +5%](https://www.reddit.com/r/Bitcoin/comments/1q53gc0/crypto_guys_when_bitcoin_up_5/)**
-
-portfolio: -60% mental health: unstable relationship : Grok gf
-
-4h ago
-
----
-
-**[Why are the 🐻 so quiet?](https://www.reddit.com/r/Bitcoin/comments/1q53csh/why_are_the_so_quiet/)**
-
-Did they lose a billion?
-
-4h ago
-
----
-
 **[My tribute to Satoshi 🎸](https://www.reddit.com/r/Bitcoin/comments/1q57kzy/my_tribute_to_satoshi/)**
 
-1h ago
+2h ago
 
 ---
 
-**[We are officially watching the death of the "retail-driven" cycle](https://www.reddit.com/r/Bitcoin/comments/1q4xioq/we_are_officially_watching_the_death_of_the/)**
+**[It's easy to understand Bitcoin is future.](https://www.reddit.com/r/Bitcoin/comments/1q54d6g/its_easy_to_understand_bitcoin_is_future/)**
 
-The price action over the last 48 hours is the clearest signal yet that the old rules don't apply anymore. In previous cycles, this level of holiday low volume would have been a playground for whales to liquidat retail. This time, the bid floor didn't move. Institutional desks are back today, and they aren't here to trade the volatility; they're here to execute mandates. When billions are being allocated as a structural baseline for 2026, the 4-year cycle theory is likely headed for a major reality check. I’m curious if anyone else is starting to feel that the "big dip" everyone is waiting for is being front-run by players who don't care about a 10% discount when they're buying for the next decade. Or are we all still stuck in the 2021 mindset?
-
-8h ago
+4h ago
 
 ---
 
@@ -155,37 +153,33 @@ Bitcoin Magazine • 10h ago
 
 ---
 
-**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
-
-Binance • 10h ago
-
----
-
-**[XRP and Solana dethrone Bitcoin and Ethereum as institutional favorites in 2025](https://cryptoslate.com/xrp-and-solana-dethrone-bitcoin-and-ethereum-as-institutional-favorites-in-2025/)**
-
-XRP investment products skyrocket as the era of Bitcoin-only dominance fades into a diversified market landscape.
-
-CryptoSlate • 8h ago
-
----
-
-**[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqcIPTVrO2dgFQ9vHRYuO-GhFeRYQW2XRK9BA5l9-vxU81aV5u0h6igB&gaa_ts=695c95c1&gaa_sig=jRcl4l3TuNCGBLu-ICaFG0do7NizKU6WOGbEfxXH4Z1o2yY7lM_uiZUv7NUjv4RLmDDkfMp2xvma-MQjzehzmQ%3D%3D)**
+**[Bitcoin Price Jumps. What’s Driving Cryptos’ Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqccUJjEspPaEVy3uiwGaU1-l9h8YnGY4053naO6GWx3th26CTb3wHVh&gaa_ts=695ca5e0&gaa_sig=GPXid5IjEZOrpZ4YMeBPEet6pY8xJ59Y6A1hElanE8KoRQoT6kL2tGqr1RJOqyvpnJ11yZBRDAmuyt38I8DfYg%3D%3D)**
 
 Barron's • 17h ago
 
 ---
 
-**[Bitcoin And Risk Assets Rally As New Year's Optimism Fuels Gains](https://www.forbes.com/sites/digital-assets/2026/01/05/bitcoin-and-risk-assets-rally-as-new-years-optimism-fuels-gains/)**
+**[Sui outperforms bitcoin and ether as Mysten Labs promotes privacy tech](https://www.coindesk.com/markets/2026/01/06/sui-outperforms-bitcoin-and-ether-as-mysten-labs-promotes-privacy-tech)**
 
-Forbes • 2h ago
+Sui's token surged over 14% in 24 hours, outperforming bitcoin and ether, driven by speculation about future privacy-preserving transactions.
+
+CoinDesk • 40m ago
 
 ---
 
-**[Bitcoin Gains Momentum as Traders Look for Confirmation](https://finance.yahoo.com/news/bitcoin-gains-momentum-traders-look-025445991.html)**
+**[IREN Ltd. (IREN) Jumps 13% on Bitcoin Fever](https://finance.yahoo.com/news/iren-ltd-iren-jumps-13-050753186.html)**
 
-Bitcoin’s push to $95,000, supported by bullish options flows, is being tempered by flat open interest and weak spot demand.
+We recently published 10 Stocks With Easy Double-Digit Gains. IREN Ltd. (NASDAQ:IREN) was one of the top performers on Monday. IREN rallied for a second day on Monday, surging 12.97 percent to close at $48.24 apiece as investors took path from Bitcoin’s renewed strength. IREN Ltd. (NASDAQ:IREN) surged alongside its Bitcoin mining counterparts, namely Hut […]
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 32m ago
+
+---
+
+**[Hut 8 (HUT) Touches 4-Year High on Bitcoin Frenzy](https://finance.yahoo.com/news/hut-8-hut-touches-4-051630357.html)**
+
+We recently published 10 Stocks With Easy Double-Digit Gains. Hut 8 Corp. (NASDAQ:HUT) was one of the top performers on Monday. Hut 8 soared to a new four-year high on Monday, as investor sentiment was fueled by its subsidiary’s acquisition of more Bitcoins, placing the company among the top 20 treasury holders of the cryptocurrency. […]
+
+Yahoo Finance • 33m ago
 
 ---
 
@@ -197,7 +191,7 @@ Reuters • 6h ago
 
 **[Saylor’s Strategy Has $17.44 Billion Unrealized Loss in Fourth Quarter](https://www.bloomberg.com/news/articles/2026-01-05/saylor-s-strategy-has-17-44-billion-unrealized-loss-in-fourth-quarter)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -212,6 +206,12 @@ The Block • 16h ago
 Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
 Bloomberg.com • 10h ago
+
+---
+
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqeV-sS9N5e1sbSjls9RucJHmNGGKzNf6DbJy87BifRdWHvtuch1VFJv&gaa_ts=695ca5e0&gaa_sig=iRHwwhghiW111VJk1exbDJ9KVb1h74Pfro_ly3qziucHo8F1zXONB-ChKT0UsIsb14yFgPEbxh6zcuxGWf3IEQ%3D%3D)**
+
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -363,7 +363,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 224 • ⏱️ 38:51 • 10h ago
+👁️ 30K • 👍 2K • 💬 224 • ⏱️ 38:51 • 11h ago
 
 ---
 
@@ -383,7 +383,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 486 • 💬 281 • ⏱️ 14:31 • 8h ago
+👁️ 9K • 👍 486 • 💬 281 • ⏱️ 14:31 • 9h ago
 
 ---
 
