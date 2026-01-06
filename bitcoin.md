@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T09:50:45.021463+00:00'
+updated: '2026-01-06T10:25:20.784377+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 09:50 UTC  
+**Last Updated:** January 06, 2026 at 10:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,13 +101,13 @@ Did they lose a billion?
 
 **[Bitcoin just hit $94,000 Me who bought at $120,000](https://www.reddit.com/r/Bitcoin/comments/1q4pyt0/bitcoin_just_hit_94000_me_who_bought_at_120000/)**
 
-17h ago
+18h ago
 
 ---
 
 **[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Wall Street Journal • 1d ago
 
 After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 16h ago
 
 Senator Cynthia Lummis said she was “deeply concerned” by reports that the U.S. government sold Bitcoin. The sale comes after an executive order from President ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -173,13 +173,13 @@ Yahoo Finance • 1h ago
 
 XRP investment products skyrocket as the era of Bitcoin-only dominance fades into a diversified market landscape.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
 **[Bitcoin, Ethereum Jump Again as Cryptos Rally. Why XRP Is Surging.](https://www.barrons.com/articles/bitcoin-price-ethereum-cryptos-xrp-73799dc8?gaa_at=eafs&gaa_n=AWEtsqdvfs1HCrzY4-qlbF9Oz9GWK0IIAg1uk4fG5lcubBqRsc96sy1JK1vv&gaa_ts=695cde56&gaa_sig=a5c6U20S0Uy1TFoI2ILimeeDzgDj10gha9DE42E--Rem0ZkLbLi3E2giT2Bqmp8k8CCMQtPaF0UyfF_G4IGAnA%3D%3D)**
 
-Barron's • 44m ago
+Barron's • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Nasdaq • 2d ago
 
 Coinbase Ventures just spotlighted the biggest growth trends for cryptocurrencies in the year ahead, but what are their 2026 crypto predictions? Find out what lies ahead and what serious money is targeting in 2026, from real-world assets on-chain to AI-powered crypto tools and new types of DeFi credit. While Bitcoin and ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -207,13 +207,13 @@ Bloomberg.com • 14h ago
 
 **[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
 **[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -291,7 +291,7 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 14h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 15h ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -305,7 +305,7 @@ CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence
 
 📺 CNBC Television
 
-👁️ 17K • 👍 200 • 💬 36 • ⏱️ 3:12 • 12h ago
+👁️ 17K • 👍 200 • 💬 36 • ⏱️ 3:12 • 13h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 248 • ⏱️ 8:08 • 8h ago
+👁️ 24K • 👍 1K • 💬 248 • ⏱️ 8:08 • 9h ago
 
 ---
 
@@ -325,7 +325,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 14K • 👍 469 • 💬 31 • ⏱️ 15:02 • 17h ago
+👁️ 14K • 👍 469 • 💬 31 • ⏱️ 15:02 • 18h ago
 
 ---
 
@@ -335,7 +335,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 113 • ⏱️ 9:17 • 7h ago
+👁️ 35K • 👍 2K • 💬 113 • ⏱️ 9:17 • 8h ago
 
 ---
 
@@ -345,7 +345,7 @@ Let's be honest: Bitcoin let investors down in 2025. But why? Answering that que
 
 📺 From The Desk Of Anthony Pompliano
 
-👁️ 8K • 👍 365 • 💬 68 • ⏱️ 6:21 • 12h ago
+👁️ 8K • 👍 365 • 💬 68 • ⏱️ 6:21 • 13h ago
 
 ---
 
@@ -365,7 +365,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 921 • 💬 316 • ⏱️ 10:52 • 17h ago
+👁️ 16K • 👍 921 • 💬 316 • ⏱️ 10:52 • 18h ago
 
 ---
 

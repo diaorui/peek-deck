@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T09:50:45.027406+00:00'
+updated: '2026-01-06T10:25:20.790442+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 09:50 UTC  
+**Last Updated:** January 06, 2026 at 10:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -102,7 +102,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 23h ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 1d ago
 
 ---
 
@@ -184,13 +184,13 @@ TradingView — Track All Markets • 11h ago
 
 **[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
 
-Binance • 14h ago
+Binance • 15h ago
 
 ---
 
 **[Bitcoin, Ethereum Jump Again as Cryptos Rally. Why XRP Is Surging.](https://www.barrons.com/articles/bitcoin-price-ethereum-cryptos-xrp-73799dc8?gaa_at=eafs&gaa_n=AWEtsqfkDLG7hCUN7fELlPwsqrlSQEIS32P1OvjLf4iaG-awO3wXMmr6OtX9&gaa_ts=695cde57&gaa_sig=uDaC5zhxch0hKO9wrv4wFHfTKLJ0wOcCHrUiKO86DVEd7Mwa-5JT4kvUwZpwyUG2yQSBUTrAR3OrBE6t63JNGw%3D%3D)**
 
-Barron's • 44m ago
+Barron's • 1h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 17h ago
 
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -254,7 +254,7 @@ Ethereum and Solana are starting to show signs of life as markets perk up, with 
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 2K • 💬 47 • ⏱️ 46:18 • 15h ago
+👁️ 21K • 👍 2K • 💬 47 • ⏱️ 46:18 • 16h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 417 • 💬 212 • ⏱️ 22:27 • 11h ago
+👁️ 8K • 👍 417 • 💬 212 • ⏱️ 22:27 • 12h ago
 
 ---
 
@@ -274,7 +274,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 602 • 👍 18 • 💬 41 • ⏱️ 4:53 • 15h ago
+👁️ 602 • 👍 18 • 💬 41 • ⏱️ 4:53 • 16h ago
 
 ---
 
@@ -284,7 +284,7 @@ Bitcoin has just SMASHED through the $94000 mark, hitting its highest level sinc
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 220 • 💬 52 • ⏱️ 53:22 • 13h ago
+👁️ 5K • 👍 220 • 💬 52 • ⏱️ 53:22 • 14h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 18h ago
+👁️ 3K • 👍 141 • 💬 10 • ⏱️ 4:24 • 19h ago
 
 ---
 
@@ -314,7 +314,7 @@ Follow me on X: https://x.com/ChartsMinute ☘️ Get FREE stocks signing up for
 
 📺 Art of Charts
 
-👁️ 234 • 👍 16 • 💬 38 • ⏱️ 12:25 • 14h ago
+👁️ 234 • 👍 16 • 💬 38 • ⏱️ 12:25 • 15h ago
 
 ---
 

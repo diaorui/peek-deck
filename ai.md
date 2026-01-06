@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T09:50:45.013027+00:00'
+updated: '2026-01-06T10:25:20.775796+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 09:50 UTC  
+**Last Updated:** January 06, 2026 at 10:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
-15h ago
+16h ago
 
 ---
 
@@ -49,7 +49,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 Nvidia just provided a closer look at its new computing platform for AI data centers, Vera Rubin, a release that could have major ramifications for the future of AI given the industry’s massive reliance on the company’s tech.
 
-🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 10h ago
+🔗 [CNN](https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ Nvidia just provided a closer look at its new computing platform for AI data cen
 
 Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
 
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 6h ago
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 7h ago
 
 ---
 
@@ -73,7 +73,7 @@ AMD reveals new AI PC chips, details next-gen data center chips at CES 2026.[1] 
 
 AI hype and the bubble that will follow are real, but it's also distorting our views of what the future could entail with current capabilities. Here's a sobering breakdown of what we can reasonably expect without going too far off the Sci-Fi rails.
 
-🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 17h ago
+🔗 [open.substack.com](https://open.substack.com/pub/storyprism/p/a-coherent-future?utm_campaign=post-expanded-share&utm_medium=web) • 18h ago
 
 ---
 
@@ -81,7 +81,7 @@ AI hype and the bubble that will follow are real, but it's also distorting our v
 
 Hey everyone, I’ve been thinking about an idea and wanted some honest feedback. Imagine an AI that people use mainly for casual chatting and asking random questions (kind of like a personal assistant / chatbot). Over time, the AI learns a user’s interests, tastes, and goals through natural conversation not just profile fields. Now here’s the twist: If the AI detects that two users have strong overlap in interests (for example, same hobbies, learning goals, or things they like talking about), it suggests an introduction. The AI doesn’t auto-connect people, it asks for consent first and explains why it thinks the match makes sense. The goal isn’t dating specifically,more like helping people: find learning buddies project collaborators accountability partners or just people with similar interests I’m curious about a few things: What are the biggest pros you see in something like this? What are the major risks or downsides (privacy, creepiness, bad matches, etc.)? Does something like this already exist in a solid way? If yes, what did they do right or wrong? Would you personally trust an AI to suggest connections based on private conversations? I’m not pitching a startup, just trying to sanity-check the concept and understand whether this solves a real problem or creates new ones. Looking forward to brutally honest opinions.
 
-20h ago
+21h ago
 
 ---
 
@@ -97,7 +97,7 @@ I'm new to this sub. I was hoping to converse a little and get some opinions on 
 
 I was doing some end of year audit and noticed the aws bill higher than i thought i should be. Normally this is a PITA to track down orphaned crap and review all the details, but for the sake of laziness i tried out the AWS i guess its called amazon q and it looked into all my costs and helped me track down some orphaned elastic ips and some other noise and save me about 50% of my monthly bill from just left over experimental clutter. Nothing else, just passing along something that i normally would have groaned at dealing with and instead was pleasantly surprised
 
-20h ago
+21h ago
 
 ---
 
@@ -113,7 +113,7 @@ Meta acquires Manus AI Google launches educational agent sprint WSJ lets AI agen
 
 Hey everyone! I recently spent a couple of weekends improving Karpathy's excellent LLM Council Open Source Project. The original project was brilliant but lacked usability and flexibility imho. What I added: Web search integration (DuckDuckGo, Tavily, Brave, Jina AI) Clean Modern UI with a settings page to support: Support for multiple API providers (OpenRouter, Anthropic, OpenAI, Google, etc.) Customizable system prompts and temperature controls (the custom prompts open up tons of use cases beyond a "council") Export & Import of councils, prompts, and settings (for backup and even sharing) Control the council size (from 1 to 8 - original only supported 3) Full Ollama support for local models "I'm Feeling Lucky" random model selector Filter only Free models on OpenRouter (although Rate Limits can be an issue) Control the Process, from a simple asking multiple models a question in parallel (Chat Only), Chat & peer rating where models rate the responses of other models, and Full end-to-end deliberation where the Chairman model makes the final decision on the best answer You can compare up to 8 models simultaneously, watch them deliberate, and see rankings. Perfect for comparing local models or commercial models via APIs. 📹 Demo video: https://www.youtube.com/watch?v=HOdyIyccOCE 🔗 GitHub: https://github.com/jacob-bd/llm-council-plus Would love to hear your thoughts - it was made with a lot of love and attention to detail, and now I am sharing it with you!
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey everyone! I recently spent a couple of weekends improving Karpathy's excelle
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -149,13 +149,13 @@ CNN • 11h ago
 
 Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
 **[Nvidia Talks Up Robots Alongside AI Chips. The Stock Slips.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcn0ZqGuREhLKas9Ou9hqS8lpodRqeKVV8e2PKQbjoLIKYZ42CuYyHu&gaa_ts=695cde54&gaa_sig=fzT6K5aYTcjsSBW-XyxEXEAqnN0rC-yP6JLc-6lRBpZlRns78wLYNOfYEmlTNDz2XDSy8B7Pz7iEcQxveP1ylA%3D%3D)**
 
-Barron's • 56m ago
+Barron's • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Donât miss Terms of Service live later this month in New York City! On Janu
 
 Terms of Service is a CNN Podcasts and Goat Rodeo production. This episode was produced by Jay Venables. At Goat Rodeo, the lead producer is Rebecca Seidel, and the executive producers are Megan Nadolski and Ian Enright. At CNN, Matt Martinez is our Senior Producer and Dan Dzula is our Technical Director. Production support from SofÃ­a Sanchez. Steve Lickteig is the Executive Producer of CNN Audio.
 
-CNN • 43m ago
+CNN • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNN • 43m ago
 
 AI has finally started making drug-like antibodies. When will it revolutionize biopharma?
 
-statnews.com • 15m ago
+statnews.com • 49m ago
 
 ---
 
@@ -225,7 +225,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 126 • 💬 166 • 11h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 126 • 💬 166 • 12h ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -239,7 +239,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 84 • 💬 44 • 12h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 84 • 💬 44 • 13h ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -267,7 +267,7 @@ Conversational AI benchmark. Contribute to firasd/vibesbench development by crea
 
 **[Amazon Prime AI overviews can't even get the basics right](https://news.ycombinator.com/item?id=46508324)**
 
-⬆️ 37 • 💬 5 • 6h ago
+⬆️ 37 • 💬 5 • 7h ago
 
 ---
 
@@ -299,7 +299,7 @@ The world's largest tech show is back and AI is powering nearly every major reve
 
 📺 Cheddar
 
-👁️ 8K • 👍 104 • 💬 7 • ⏱️ 3:36 • 17h ago
+👁️ 8K • 👍 104 • 💬 7 • ⏱️ 3:36 • 18h ago
 
 ---
 
@@ -379,7 +379,7 @@ A large egg rolls through the snow and Gorilla cave #ai #egg #save #gorilla.
 
 📺 MoonTejas Animation
 
-👁️ 2K • ⏱️ 0:47 • 7h ago
+👁️ 2K • ⏱️ 0:47 • 8h ago
 
 ---
 
@@ -407,7 +407,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 379 • 7h ago
+⬇️ 2,057 • ❤️ 379 • 8h ago
 
 ---
 
@@ -658,7 +658,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 5.7k • 🔱 668 • 33m ago
+⭐ 5.7k • 🔱 668 • 1h ago
 
 ---
 
@@ -708,7 +708,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.1k • 🔱 132 • 49m ago
+⭐ 1.1k • 🔱 132 • 1h ago
 
 ---
 
@@ -718,7 +718,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 987 • 🔱 73 • 13h ago
+⭐ 987 • 🔱 73 • 14h ago
 
 ---
 

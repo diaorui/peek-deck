@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T09:50:45.030639+00:00'
+updated: '2026-01-06T10:25:20.793711+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 09:50 UTC  
+**Last Updated:** January 06, 2026 at 10:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 11h ago
+🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 12h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 2h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 3h ago
 
 ---
 
@@ -64,7 +64,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=e73kf_iLAP0) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, We’re organizing another Robotics Community Meetup in Pune this 
 
 Anyone else noticed the productized Atlas is rendered with 4 fingers? BD released a video 2 months ago on why 3 fingers is enough, which seems reasonable to me back then. Why do you think they changed it?
 
-🔗 [youtu.be](https://youtu.be/rrUHZKlrxms) • 9h ago
+🔗 [youtu.be](https://youtu.be/rrUHZKlrxms) • 10h ago
 
 ---
 
@@ -116,7 +116,7 @@ Humanoid robots are the way.
 
 NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
 
-NVIDIA Newsroom • 11h ago
+NVIDIA Newsroom • 12h ago
 
 ---
 
@@ -124,13 +124,13 @@ NVIDIA Newsroom • 11h ago
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
-TechCrunch • 10h ago
+TechCrunch • 11h ago
 
 ---
 
 **[Nvidia Talks Up Robots Alongside AI Chips. The Stock Slips.](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqcDSGeNjC9bvsUiroy2tgoygt53yZabUNz67ihArxCuNH-adZaCeAS7&gaa_ts=695cde59&gaa_sig=iF0BoavVeKd7Da_0XJPrlX3Xgi-5rKqcTikuZBlljpAshPBdA8d7FjeDCQNqENwkxwU2DOobqoGCyfiscY2pMw%3D%3D)**
 
-Barron's • 56m ago
+Barron's • 1h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 2d ago
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -158,7 +158,7 @@ Bloomberg.com • 19h ago
 
 Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -256,7 +256,7 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 3K • 👍 100 • 💬 7 • ⏱️ 1:33:26 • 10h ago
+👁️ 3K • 👍 100 • 💬 7 • ⏱️ 1:33:26 • 11h ago
 
 ---
 
@@ -266,7 +266,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 103K • 👍 3K • 💬 557 • ⏱️ 7:00 • 10h ago
+👁️ 103K • 👍 3K • 💬 557 • ⏱️ 7:00 • 11h ago
 
 ---
 
