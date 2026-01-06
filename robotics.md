@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T22:23:01.652946+00:00'
+updated: '2026-01-06T22:46:57.923417+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 22:23 UTC  
+**Last Updated:** January 06, 2026 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 8h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 9h ago
 
 ---
 
@@ -61,6 +61,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
 
 🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 1d ago
+
+---
+
+**[First Robotics Project](https://www.reddit.com/r/robotics/comments/1q5tdr0/first_robotics_project/)**
+
+Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
+
+2h ago
 
 ---
 
@@ -84,21 +92,13 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Hi there, Lately I have been interested getting into VR teleoperation for research purposes as I really like the teleoperation smoothness and ergonomy to move the robot and manipulate things, based on some videos I have seen in different places and some papers I have read so far. I think it could be a nice add to my current work and I would like to at least give it a try. I have downloaded a framework called OpenVR to try and play but as the framework is quite "old" I'm not able to set up and play with my panda robot. I used this paper cause because some hardware limitations I have btw. https://arxiv.org/pdf/2305.09765 I would like to get into this world as a side project but I'm not being lucky enough to find any information, resources or tutorials to start, apart from the meta horizon tutorials, which are not exactly focused on robotics... To anyone who has been playing with this VR teleoperation systems and created a fun project, can you give me any hint about where to start? Thanks in advance!
 
-1h ago
+2h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
 1d ago
-
----
-
-**[First Robotics Project](https://www.reddit.com/r/robotics/comments/1q5tdr0/first_robotics_project/)**
-
-Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
-
-2h ago
 
 ---
 
@@ -198,7 +198,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 796K • 👍 12K • 💬 3K • ⏱️ 13:17 • 1d ago
+👁️ 826K • 👍 12K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 283K • 👍 4K • 💬 714 • ⏱️ 5:49 • 1d ago
+👁️ 301K • 👍 5K • 💬 743 • ⏱️ 5:49 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 15K • 👍 213 • 💬 8 • ⏱️ 7:38 • 2d ago
+👁️ 16K • 👍 223 • 💬 8 • ⏱️ 7:38 • 2d ago
 
 ---
 
@@ -228,37 +228,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 173K • 👍 5K • 💬 862 • ⏱️ 7:00 • 23h ago
-
----
-
-**[Nvidia CEO Jensen Huang: We&#39;ve been thinking about robotics for a long time](https://www.youtube.com/watch?v=mP-TyDeVoUU)**
-
-Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discuss the company's latest AI chips, open ...
-
-📺 CNBC Television
-
-👁️ 36K • 👍 439 • 💬 109 • ⏱️ 7:41 • 8h ago
-
----
-
-**[The Beginning of Your Tomorrow I Boston Dynamics](https://www.youtube.com/watch?v=sd8ivhpjI6g)**
-
-We're excited to announce the product version of our Atlas® robot. This enterprise-grade humanoid robot offers impressive ...
-
-📺 Boston Dynamics
-
-👁️ 182K • 👍 10K • 💬 1K • ⏱️ 2:05 • 1d ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 104K • 👍 2K • 💬 277 • ⏱️ 11:42 • 5d ago
+👁️ 188K • 👍 6K • 💬 957 • ⏱️ 7:00 • 23h ago
 
 ---
 
@@ -272,13 +242,23 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 104K • 👍 2K • 💬 278 • ⏱️ 11:42 • 5d ago
+
+---
+
 **[SwitchBot CES 2026 - Smart home 2.0 powered by AI robots.](https://www.youtube.com/watch?v=btJxyrtR9M8)**
 
 Welcome to SwitchBot at CES 2026 Discover Smart Home 2.0, powered by AI robots, where intelligent automation goes ...
 
 📺 SwitchBot
 
-👁️ 829 • 👍 43 • 💬 9 • ⏱️ 3:29 • 7h ago
+👁️ 2K • 👍 63 • 💬 17 • ⏱️ 3:29 • 7h ago
 
 ---
 
@@ -288,7 +268,27 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 22K • 👍 420 • 💬 34 • ⏱️ 1:33:26 • 23h ago
+👁️ 27K • 👍 453 • 💬 36 • ⏱️ 1:33:26 • 23h ago
+
+---
+
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+
+📺 Unitree Robotics
+
+👁️ 204K • 👍 3K • 💬 777 • ⏱️ 0:32 • 2d ago
+
+---
+
+**[These New AI Robots Are About to Become Real in 2026](https://www.youtube.com/watch?v=t-GeDuS3qWw)**
+
+Humanoid robots are about to take a massive leap forward in 2026 — and the companies behind them are moving faster than ...
+
+📺 The AI Nexus
+
+👁️ 5K • 👍 97 • 💬 9 • ⏱️ 18:26 • 5d ago
 
 ---
 

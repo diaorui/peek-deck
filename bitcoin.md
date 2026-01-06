@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T22:23:01.643830+00:00'
+updated: '2026-01-06T22:46:57.914246+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 22:23 UTC  
+**Last Updated:** January 06, 2026 at 22:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,613.78
+### $93,216.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +6.3%  
-**30d:** +2.7%  
-**90d:** -23.3%  
-**1y:** -3.7%  
+**24h:** -1.2%  
+**7d:** +6.0%  
+**30d:** +2.4%  
+**90d:** -23.6%  
+**1y:** -4.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1849.16B
+**Market Cap:** $1857.07B
 Rank #1
 
-**Circulating Supply:** 19,972,387 BTC
+**Circulating Supply:** 19,972,434 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.5%
+-26.2%
 
 **All-Time Low:** $67.81
-+136484.6%
++137070.0%
 
 ---
 
@@ -91,9 +91,9 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 ---
 
-**[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
+**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
 
-11h ago
+8h ago
 
 ---
 
@@ -107,13 +107,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 2h ago
-
----
-
-**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
-
-7h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 3h ago
 
 ---
 
@@ -121,7 +115,21 @@ Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, sign
 
 Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 3h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 4h ago
+
+---
+
+**[Strategy will not be removed from MSCI (confirmed)](https://www.reddit.com/r/Bitcoin/comments/1q5veb7/strategy_will_not_be_removed_from_msci_confirmed/)**
+
+It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=DD3Olh5uInk%3D
+
+1h ago
+
+---
+
+**[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
+
+12h ago
 
 ---
 
@@ -141,12 +149,6 @@ Hello. I heat my house with electric system and I find it stupid to use electric
 
 ---
 
-**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,7 +157,7 @@ Hello. I heat my house with electric system and I find it stupid to use electric
 
 Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -185,7 +187,7 @@ Reuters • 5h ago
 
 On today's episode of CNBC Crypto World, Morgan Stanley filed with the SEC to launch a spot bitcoin and a spot solana ETF. And, Brian Dobson, senior analyst & managing director of disruptive technology at Clear Street, explains his outlook for bitcoin mining in 2026.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -209,7 +211,7 @@ Yahoo Finance • 1h ago
 
 MSCI ended its review of digital asset treasury companies and will keep them eligible for its major indexes, allowing for Strategy to remain included.
 
-Bitcoin Magazine • 38m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -315,7 +317,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 19K • 👍 274 • 💬 156 • ⏱️ 8:25 • 9h ago
+👁️ 23K • 👍 298 • 💬 194 • ⏱️ 8:25 • 9h ago
 
 ---
 
@@ -325,7 +327,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 202 • ⏱️ 9:17 • 20h ago
+👁️ 68K • 👍 3K • 💬 213 • ⏱️ 9:17 • 20h ago
 
 ---
 
@@ -335,7 +337,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 18K • 👍 569 • 💬 26 • ⏱️ 15:02 • 1d ago
+👁️ 18K • 👍 577 • 💬 26 • ⏱️ 15:02 • 1d ago
 
 ---
 
@@ -345,17 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 40 • ⏱️ 31:55 • 7h ago
-
----
-
-**[Bitcoin Just Did What No One Expected](https://www.youtube.com/watch?v=YgnPHU4ZjMs)**
-
-Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 998 • 💬 83 • ⏱️ 16:32 • 11h ago
+👁️ 15K • 👍 1K • 💬 46 • ⏱️ 31:55 • 7h ago
 
 ---
 
@@ -365,7 +357,7 @@ Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the b
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 522 • 💬 148 • ⏱️ 57:31 • 5h ago
+👁️ 11K • 👍 572 • 💬 153 • ⏱️ 57:31 • 5h ago
 
 ---
 
@@ -375,17 +367,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 177 • ⏱️ 37:49 • 6h ago
+👁️ 20K • 👍 1K • 💬 179 • ⏱️ 37:49 • 7h ago
 
 ---
 
-**[Oh My… Bitcoin Is Moving FAST](https://www.youtube.com/watch?v=AdqSludkUrs)**
+**[Why XRP is the new cryptocurrency darling](https://www.youtube.com/watch?v=ZyNJnv-63Lc)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quietly become the breakout trade of crypto's 2026 ...
 
-📺 CryptosRUs
+📺 CNBC Television
 
-👁️ 30K • 👍 2K • 💬 305 • ⏱️ 8:08 • 21h ago
+👁️ 4K • 👍 139 • 💬 110 • ⏱️ 4:14 • 2h ago
+
+---
+
+**[Bitcoin Just Did What No One Expected](https://www.youtube.com/watch?v=YgnPHU4ZjMs)**
+
+Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 21K • 👍 1K • 💬 100 • ⏱️ 16:32 • 11h ago
 
 ---
 
@@ -395,17 +397,17 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 18K • 👍 981 • 💬 181 • ⏱️ 10:52 • 1d ago
+👁️ 18K • 👍 983 • 💬 180 • ⏱️ 10:52 • 1d ago
 
 ---
 
-**[I expect bitcoin will breakout to new high since fall 2025: Miller Value Partners&#39; Bill Miller](https://www.youtube.com/watch?v=rLaRxw5aQRY)**
+**[🎯 My New Bitcoin Target For 2026!](https://www.youtube.com/watch?v=Tw5fwbnAO54)**
 
-CNBC's "Closing Bell" team discusses the crypto playbook for 2026, the influence of Venezuela, the outlook for bitcoin and more ...
+My New Bitcoin Target For 2026! I'm revealing my new Bitcoin price target for 2026 and the key data that led me to update it.
 
-📺 CNBC Television
+📺 Tim Warren
 
-👁️ 21K • 👍 226 • 💬 57 • ⏱️ 3:12 • 1d ago
+👁️ 2K • 👍 293 • 💬 104 • ⏱️ 19:54 • 2h ago
 
 ---
 

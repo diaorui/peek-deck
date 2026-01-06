@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T22:23:01.649762+00:00'
+updated: '2026-01-06T22:46:57.920205+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 22:23 UTC  
+**Last Updated:** January 06, 2026 at 22:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,281.95
+### $3,285.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +10.7%  
-**30d:** +5.3%  
-**90d:** -24.6%  
-**1y:** -2.6%  
+**24h:** +1.3%  
+**7d:** +9.9%  
+**30d:** +4.6%  
+**90d:** -25.1%  
+**1y:** -3.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $391.86B
+**Market Cap:** $394.52B
 Rank #2
 
 **Circulating Supply:** 120,694,829 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.4%
+-33.9%
 
 **All-Time Low:** $0.43
-+749797.8%
++754982.8%
 
 ---
 
@@ -73,14 +73,6 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 16h ago
-
----
-
-**[Eth Investment thesis](https://www.reddit.com/r/ethereum/comments/1q5nwo1/eth_investment_thesis/)**
-
-Allocation: 7% First Purchased: July 24, 2016 Thesis: This investment is largely building on my belief that blockchain technology and smart contracts are what the future will be built on.  Eth…
-
-🔗 [Wanderblog](https://wanderblogorg.wordpress.com/2026/01/06/ethereum/) • 5h ago
 
 ---
 
@@ -143,6 +135,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Just published a retrospective on smart contract hacks of 2025, even audited and battle-tested protocols got exploited due to economic model flaws, rounding math edge cases, legacy infrastructures, and system boundary failures. Give it a read 📚
 
 🔗 [medium.com](https://medium.com/coinmonks/audited-tested-and-still-broken-smart-contract-hacks-of-2025-a76c94e203d1) • 2d ago
+
+---
+
+**[Daily General Discussion January 03, 2026](https://www.reddit.com/r/ethereum/comments/1q2mteo/daily_general_discussion_january_03_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
 
 ---
 
@@ -232,7 +232,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 45 • ⏱️ 8:07 • 6h ago
+👁️ 13K • 👍 3K • 💬 65 • ⏱️ 8:07 • 6h ago
 
 ---
 
@@ -242,27 +242,17 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 102 • ⏱️ 9:50 • 8h ago
+👁️ 33K • 👍 2K • 💬 112 • ⏱️ 9:50 • 8h ago
 
 ---
 
-**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.youtube.com/watch?v=S1zL54voIBI)**
+**[BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=obXxDSK_UOc)**
 
-On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus ...
+BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 CNBC Television
+📺 Crypto World
 
-👁️ 15K • 👍 239 • 💬 91 • ⏱️ 12:31 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v1V_5kMAie4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 154 • 💬 7 • ⏱️ 5:19 • 7h ago
+👁️ 2K • 👍 148 • 💬 17 • ⏱️ 18:45 • 1h ago
 
 ---
 
@@ -272,7 +262,47 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 517 • 💬 282 • ⏱️ 13:40 • 17h ago
+👁️ 12K • 👍 556 • 💬 279 • ⏱️ 13:40 • 17h ago
+
+---
+
+**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.youtube.com/watch?v=S1zL54voIBI)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus ...
+
+📺 CNBC Television
+
+👁️ 15K • 👍 246 • 💬 92 • ⏱️ 12:31 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v1V_5kMAie4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 173 • 💬 7 • ⏱️ 5:19 • 7h ago
+
+---
+
+**[Several Pending Sell Signals Looming Over Bitcoin BTC + Updates on Ethereum ETH, Solana, XRP &amp; ADA](https://www.youtube.com/watch?v=pEVat6_kzKo)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 1K • 👍 218 • ⏱️ 36:52 • 2h ago
+
+---
+
+**[XRP ETFS BREAK RECORDS! GRAYSCALE ETHEREUM STAKING ETF REWARDS &amp; VENEZUELA BITCOIN!](https://www.youtube.com/watch?v=6Z-K6e83qTE)**
+
+Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded their highest daily trading volume since launch.
+
+📺 Thinking Crypto
+
+👁️ 7K • 👍 663 • 💬 75 • ⏱️ 16:00 • 19h ago
 
 ---
 
@@ -286,43 +316,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[BITCOIN &amp; ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mjcnVr41V_s)**
-
-BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 447 • 💬 126 • ⏱️ 22:27 • 1d ago
-
----
-
-**[XRP ETFS BREAK RECORDS! GRAYSCALE ETHEREUM STAKING ETF REWARDS &amp; VENEZUELA BITCOIN!](https://www.youtube.com/watch?v=6Z-K6e83qTE)**
-
-Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded their highest daily trading volume since launch.
-
-📺 Thinking Crypto
-
-👁️ 7K • 👍 657 • 💬 56 • ⏱️ 16:00 • 18h ago
-
----
-
 **[ETH &amp; SOL WAKE UP, Bitcoin Reclaims $92K, Crypto Turns Bullish &amp; More!](https://www.youtube.com/watch?v=6sKKOrNVsk8)**
 
 Ethereum and Solana are starting to show signs of life as markets perk up, with momentum shifting back toward major altcoins ...
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 2K • 💬 64 • ⏱️ 46:18 • 1d ago
-
----
-
-**[In The Short Term, How High Can Ethereum Go? Looking At The BMSB...](https://www.youtube.com/watch?v=-kzbhS02-gA)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
-
-📺 Benjamin Cowen
-
-👁️ 2K • 👍 31 • 💬 3 • ⏱️ 0:48 • 2h ago
+👁️ 24K • 👍 2K • 💬 65 • ⏱️ 46:18 • 1d ago
 
 ---
 
