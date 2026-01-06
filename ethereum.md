@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T21:21:52.447864+00:00'
+updated: '2026-01-06T21:43:29.356268+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 21:21 UTC  
+**Last Updated:** January 06, 2026 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,247.60
+### $3,281.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +8.9%  
-**30d:** +3.6%  
-**90d:** -25.8%  
-**1y:** -4.2%  
+**24h:** +1.7%  
+**7d:** +10.7%  
+**30d:** +5.3%  
+**90d:** -24.6%  
+**1y:** -2.6%  
 
 ---
 
@@ -118,7 +118,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Just published a retrospective on smart contract hacks of 2025, even audited and
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 11K • 👍 447 • 💬 126 • ⏱️ 22:27 • 22h ago
+👁️ 11K • 👍 447 • 💬 126 • ⏱️ 22:27 • 23h ago
 
 ---
 

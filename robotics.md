@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T21:21:52.451212+00:00'
+updated: '2026-01-06T21:43:29.359432+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 21:21 UTC  
+**Last Updated:** January 06, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 7h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 8h ago
 
 ---
 
@@ -80,6 +80,14 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 ---
 
+**[Robot VR teleoperation, where to start?](https://www.reddit.com/r/robotics/comments/1q5uhdo/robot_vr_teleoperation_where_to_start/)**
+
+Hi there, Lately I have been interested getting into VR teleoperation for research purposes as I really like the teleoperation smoothness and ergonomy to move the robot and manipulate things, based on some videos I have seen in different places and some papers I have read so far. I think it could be a nice add to my current work and I would like to at least give it a try. I have downloaded a framework called OpenVR to try and play but as the framework is quite "old" I'm not able to set up and play with my panda robot. I used this paper cause because some hardware limitations I have btw. https://arxiv.org/pdf/2305.09765 I would like to get into this world as a side project but I'm not being lucky enough to find any information, resources or tutorials to start, apart from the meta horizon tutorials, which are not exactly focused on robotics... To anyone who has been playing with this VR teleoperation systems and created a fun project, can you give me any hint about where to start? Thanks in advance!
+
+57m ago
+
+---
+
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
 1d ago
@@ -97,14 +105,6 @@ Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and
 **[Looking for AI/Full-Stack SW people for an affordable & open Industrial Robotic Arm project (preferably EU)](https://www.reddit.com/r/robotics/comments/1q5o31y/looking_for_aifullstack_sw_people_for_an/)**
 
 Hello everyone, we are a group of two engineers with combined experience in mechatronics, aerospace and robotics research, and also some experience creating tech startups and fundraising. We have been working hard creating our own affordable Industrial Robotic Arm from scratch with focus on maintainability and repairability, and feel confident with our current prototype. We are looking for passionate builders that want to join us in our journey, collaborating with your current skills and learn whatever else is needed, particularly to help in the areas we are missing right now (AI/ML and general Full-Stack SW development). We strongly believe in the principles of open-source and are located in the EU, with the goal of sourcing and assembling all the parts inside our common market. If my message caught your attention, feel free to DM me and we can talk more in Discord or email. For obvious reasons, we don't want to show our prototype here, but I would be happy showing it personally. You can see some stuff we have done in the past here: Autonomous shelf stocking & charging.
-
-4h ago
-
----
-
-**[Mini-Pupper Software Setup Issues](https://www.reddit.com/r/robotics/comments/1q5o0dc/minipupper_software_setup_issues/)**
-
-Hi guys, I am currently working on a mini pupper quadruped for university with one of my fellow students. The story is basically, that we are both part of a mobile robotics class where we got a pre-assembled mangdang mini pupper to work with. We tried multiple ways of software installation which were recommended on the website here or from the repositories of mangdang here. The problem was that we couldn't get further than installing the repos, but when it came to building ROS2 nodes or starting the base functionality, it always failed or didn't work on the hardware the way it used to (aka it didn't do anything). We basically never got to the point in the tutorial where it shows it's eyes or IP-Address on Screen. Now the only thing we partially got working was the calibration software once from here. It yielded the best results so far in the way that we had the test image shown, sound heard, one leg twitch and the voltage output. But this is obviously not enough for our purpose. We both have very little experience with ROS2 and the mini pupper was just given to us a way to figure it out on our own. We don't even know if it's Version 1 or 2. My question is more or less if there are any helpful resources which work in 2026 or if anyone on this subreddit made a mini pupper work in the last year or so? Any help is highly appreciated, since we are clueless at this point. Thanks :)
 
 4h ago
 
@@ -163,7 +163,7 @@ The Verge • 2h ago
 
 **[Watch Qualcomm CEO Sees 'Massive' AI Opportunity in Robotics](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-massive-ai-opportunity-in-robotics-video)**
 
-Bloomberg.com • 59m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 6h ago
 
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
@@ -239,7 +239,7 @@ Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discu
 
 📺 CNBC Television
 
-👁️ 36K • 👍 439 • 💬 109 • ⏱️ 7:41 • 7h ago
+👁️ 36K • 👍 439 • 💬 109 • ⏱️ 7:41 • 8h ago
 
 ---
 
@@ -249,7 +249,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 182K • 👍 10K • 💬 1K • ⏱️ 2:05 • 23h ago
+👁️ 182K • 👍 10K • 💬 1K • ⏱️ 2:05 • 1d ago
 
 ---
 

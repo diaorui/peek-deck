@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T21:21:52.441287+00:00'
+updated: '2026-01-06T21:43:29.350382+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 21:21 UTC  
+**Last Updated:** January 06, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,356.27
+### $93,613.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +5.5%  
-**30d:** +1.9%  
-**90d:** -23.9%  
-**1y:** -4.5%  
+**24h:** -0.8%  
+**7d:** +6.3%  
+**30d:** +2.7%  
+**90d:** -23.3%  
+**1y:** -3.7%  
 
 ---
 
@@ -83,9 +83,17 @@ Rank #1
 
 ---
 
+**[A famous Bitcoin quote that keeps resurfacing over time](https://www.reddit.com/r/Bitcoin/comments/1q5rz0c/a_famous_bitcoin_quote_that_keeps_resurfacing/)**
+
+John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
+
+2h ago
+
+---
+
 **[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,11 +103,11 @@ Rank #1
 
 ---
 
-**[A famous Bitcoin quote that keeps resurfacing over time](https://www.reddit.com/r/Bitcoin/comments/1q5rz0c/a_famous_bitcoin_quote_that_keeps_resurfacing/)**
+**[Morgan Stanley Files With SEC For Spot Bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1q5sh7a/morgan_stanley_files_with_sec_for_spot_bitcoin_etf/)**
 
-John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
+Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-2h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 2h ago
 
 ---
 
@@ -109,19 +117,11 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 ---
 
-**[Morgan Stanley Files With SEC For Spot Bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1q5sh7a/morgan_stanley_files_with_sec_for_spot_bitcoin_etf/)**
-
-Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 1h ago
-
----
-
 **[Do not update to the latest Bitcoin Core v30.0 client. It might delete your wallet which is irrecoverable without a backup.](https://www.reddit.com/r/Bitcoin/comments/1q5qnfa/do_not_update_to_the_latest_bitcoin_core_v300/)**
 
 Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 2h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 3h ago
 
 ---
 
@@ -133,13 +133,15 @@ BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tues
 
 ---
 
-**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
+**[Heating my house with ASIC miners](https://www.reddit.com/r/Bitcoin/comments/1q5rq90/heating_my_house_with_asic_miners/)**
 
-1d ago
+Hello. I heat my house with electric system and I find it stupid to use electricity only for heating, knowing that whatever we are using electricity for, it becomes heat at the end anyway. So I was thinking about changing my heaters for ASIC miners (That are changing 100% of the electric power in heat, just like an heater). But is it worth it to buy ASIC just to use it 4-5 months in the year? Did one of you already tried?
+
+2h ago
 
 ---
 
-**[🫣🫣](https://www.reddit.com/r/Bitcoin/comments/1q4xisx/_/)**
+**[People see this and still don't get it...](https://www.reddit.com/r/Bitcoin/comments/1q4wrhh/people_see_this_and_still_dont_get_it/)**
 
 1d ago
 
@@ -183,7 +185,7 @@ Investopedia • 1d ago
 
 Bitcoin rose to an more than one-month high and broke through a closely watched technical level as digital assets start to catch up with gains in stocks and precious metals.
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -211,7 +213,7 @@ Reuters • 22h ago
 
 MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
 
-Investor's Business Daily • 47m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -219,21 +221,13 @@ Investor's Business Daily • 47m ago
 
 Bitcoin hovered near $92,000 as analysts, including Bernstein, pointed to improving technical and macro signals suggesting the cryptocurrency has likely bottomed after a steep fourth-quarter sell-off and may be positioned for a rebound.
 
-Bitcoin Magazine • 38m ago
+Bitcoin Magazine • 59m ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Sabotaging Bitcoin](https://news.ycombinator.com/item?id=46437876)**
-
-Source  I find myself in the unusual position of defending Bitcoin from its critics, if only reluctantly.   In 2024 Soroush Farokhnia & Amir...
-
-⬆️ 202 • 💬 208 • 7d ago • [blog.dshr.org](https://blog.dshr.org/2025/12/sabotaging-bitcoin.html)
-
----
 
 **[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46483271)**
 
@@ -298,6 +292,12 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 A free, open source desktop app that detects nail biting in real time using your computer's camera - no video is recorded, stored, or sent anywhere. - vaitko/stopbitingnails.app
 
 ⬆️ 4 • 💬 0 • 1d ago • [GitHub](https://github.com/vaitko/stopbitingnails.app)
+
+---
+
+**[Show HN: CheerAd – Let your audience support your website with paid messages](https://news.ycombinator.com/item?id=46464460)**
+
+⬆️ 4 • 💬 4 • 4d ago • [cheerad.com](https://cheerad.com/pages/how-to-use.html)
 
 ---
 
@@ -371,7 +371,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 177 • ⏱️ 37:49 • 5h ago
+👁️ 17K • 👍 1K • 💬 177 • ⏱️ 37:49 • 6h ago
 
 ---
 
