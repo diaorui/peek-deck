@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T19:18:01.173145+00:00'
+updated: '2026-01-06T19:40:36.468295+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 19:18 UTC  
+**Last Updated:** January 06, 2026 at 19:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -118,7 +118,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ Just published a retrospective on smart contract hacks of 2025, even audited and
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -180,17 +180,31 @@ GlobeNewswire • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+**[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://finance.yahoo.com/news/ethereum-250-000-tom-lee-124353479.html)**
 
-CCN.com • 8h ago
+Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
+**[Tom Lee’s Bitmine (BMNR) Increases Ethereum Holdings to $13.3 Billion](https://www.tipranks.com/news/tom-lees-bitmine-bmnr-increases-ethereum-holdings-to-13-3-billion)**
 
-Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
+TipRanks • 37m ago
 
-Yahoo Finance • 2d ago
+---
+
+**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
+
+Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
+
+Yahoo Finance • 38m ago
+
+---
+
+**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+
+CCN.com • 8h ago
 
 ---
 
@@ -202,27 +216,11 @@ Fortune • 1d ago
 
 ---
 
-**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
+**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
 
-PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
+Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
 
-CoinDesk • 1d ago
-
----
-
-**[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://www.dlnews.com/articles/markets/ethereum-to-250000-tom-lee-charts-targets-as-bitmine-stock-price-jumps/)**
-
-Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
-
-dlnews.com • 1d ago
-
----
-
-**[BitMine Doubles Down on Ethereum Staking With Additional $260 Million Staked](https://finance.yahoo.com/news/bitmine-doubles-down-ethereum-staking-152755009.html)**
-
-BitMine has accelerated its pivot to active network validation by staking an additional $260 million in Ethereum.
-
-Yahoo Finance • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -256,7 +254,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 14K • 👍 233 • 💬 131 • ⏱️ 12:31 • 22h ago
+👁️ 14K • 👍 233 • 💬 131 • ⏱️ 12:31 • 23h ago
 
 ---
 
@@ -296,7 +294,7 @@ BITCOIN & ALTCOIN BREAKOUT: This Changes EVERYTHING!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 10K • 👍 443 • 💬 208 • ⏱️ 22:27 • 20h ago
+👁️ 10K • 👍 443 • 💬 208 • ⏱️ 22:27 • 21h ago
 
 ---
 

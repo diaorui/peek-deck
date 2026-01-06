@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T19:18:01.166790+00:00'
+updated: '2026-01-06T19:40:36.462171+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 19:18 UTC  
+**Last Updated:** January 06, 2026 at 19:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tues
 
 Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 48m ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wa
 
 portfolio: -60% mental health: unstable relationship : Grok gf
 
-18h ago
+19h ago
 
 ---
 
@@ -147,77 +147,75 @@ portfolio: -60% mental health: unstable relationship : Grok gf
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqfz4RlSQHDHPZEzLYiWvoLsDmFM19QyL4PrUVwLNDyt6zCijrvragjc&gaa_ts=695d5907&gaa_sig=uKqEeeemvhPW5hFr4-pMFMFjlkBPQMlIQIeYvQn2m-BVy-jicHlJsd54_JflYU-RFl9Vnc_zaBn5oZvTMiWTeg%3D%3D)**
+**[Bitcoin's Price is Climbing. Did the U.S. Capture of Venezuela's Maduro Help?](https://www.investopedia.com/bitcoin-price-is-climbing-did-the-u-s-capture-of-venezuela-s-maduro-help-11879169)**
 
-Barron's • 1d ago
+The world's largest cryptocurrency is moving higher after the U.S. ousted Venezuelan president Nicolás Maduro over the weekend.
 
----
-
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
-
-Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
-
-Yahoo Finance • 8h ago
+Investopedia • 23h ago
 
 ---
 
-**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
+**[Bitcoin Climbs to Three-Week High After US Captures Maduro](https://www.bloomberg.com/news/articles/2026-01-05/bitcoin-btc-climbs-to-three-week-high-after-us-captures-maduro)**
 
-Investor's Business Daily • 3h ago
+Bitcoin rose to an more than one-month high and broke through a closely watched technical level as digital assets start to catch up with gains in stocks and precious metals.
 
----
-
-**[Morgan Stanley files to launch Bitcoin and Solana ETFs as Wall Street embraces crypto](https://finance.yahoo.com/news/morgan-stanley-files-launch-bitcoin-175854587.html)**
-
-Morgan Stanley is diving into crypto waters after filing to launch Bitcoin and Solana ETFs on Tuesday. The move signals major US banks are no longer sitting on the sidelines.View on euronews
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 21h ago
 
 ---
 
-**[Michael Saylor’s Strategy Bought 1,286 BTC Last Week, Increases USD Reserve to $2.25B](https://bitcoinmagazine.com/news/michael-saylors-strategy-bought-1286-btc)**
+**[Don’t hold your breath for Venezuela’s bitcoin](https://www.coindesk.com/opinion/2026/01/06/don-t-hold-your-breath-for-venezuela-s-bitcoin)**
 
-Michael Saylor’s Strategy bought 1,286 BTC for $116 million, raising its Bitcoin holdings to 673,783 BTC and U.S. dollar reserves to $2.25 billion.
+Ledn co-founder Mauricio Di Bartolomeo, born and raised in Venezuela, argues that the country’s government is simply too corrupt and incompetent to have accumulated a rumored $60 billion stash of bitcoin.
 
-Bitcoin Magazine • 57m ago
-
----
-
-**[Bitcoin could soon break out. This options trade could lead to big returns if it does](https://www.cnbc.com/2026/01/06/bitcoin-could-soon-break-out-trading-the-move-with-options-on-this-proxy-stock.html)**
-
-Nishant Pant breaks down this bull call spread options trade.
-
-CNBC • 3h ago
+CoinDesk • 2h ago
 
 ---
 
-**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqdfhz1Aj5QTPlrjk1nJqm9dCT9LBuMw1sm4-FpG_znnTaQUsOS__Vdh&gaa_ts=695d5907&gaa_sig=fn6gjZcQi0mEX3y0E58qru4ol1eeLFH5SnePXYD6WryhZrQM8pDiG7wb10si920nhTJLYDUU5cDejpB4PyqLMw%3D%3D)**
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-The Wall Street Journal • 1d ago
-
----
-
-**[Maine to get $1.9M in settlement with Bitcoin kiosk operator](https://www.bangordailynews.com/2026/01/05/state/state-police-courts/maine-settlement-bitcoin-depot/)**
-
-The Maine Bureau of Consumer Credit Protection announced the consent agreement with Bitcoin Depot on Monday.
-
-Bangor Daily News • 21h ago
+Reuters • 2h ago
 
 ---
 
-**[Maine secures $1.9M settlement for bitcoin kiosk scam victims](https://www.centralmaine.com/2026/01/05/maine-secures-1-9m-settlement-for-bitcoin-kiosk-scam-victims/)**
+**[Morgan Stanley Registers Bitcoin and Solana Funds With SEC](https://finance.yahoo.com/news/morgan-stanley-registers-bitcoin-solana-153635141.html)**
 
-Bitcoin Depot has agreed to refund money that was taken through its kiosks by third-party scammers who defrauded Maine consumers.
+Morgan Stanley files for Bitcoin and Solana ETFs as crypto investment products gain Wall Street traction with $119 billion in BTC assets under management.
 
-Centralmaine.com • 22h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin ATM Fraud Hits Record High, $333 Million Pilfered In 2025: Report](https://finance.yahoo.com/news/bitcoin-atm-fraud-hits-record-154515524.html)**
+**[Crypto Latecomer Morgan Stanley Files for Bitcoin, Solana ETFs](https://www.bloomberg.com/news/articles/2026-01-06/crypto-latecomer-morgan-stanley-files-for-bitcoin-solana-etfs)**
 
-The FBI has revealed a drastic surge in Bitcoin (CRYPTO: BTC) ATM fraud, with swindlers making off with $333 million in 2025. Scammers have been found to impersonate a bank or a company, flagging purported suspicious activity on the victim’s account. They then instruct the victim to deposit money into a Bitcoin ATM to secure their funds or rectify the issue. The deposited money, however, lands in the scammers’ account. Bitcoin ATMs have seen a rapid rise in popularity in the US, with over 30,000
+Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
 
-Yahoo Finance • 2d ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Michael Saylor's Strategy kicks off 2026 with a $116 million bitcoin buy as its total treasury holdings hit 673,783 BTC](https://www.theblock.co/post/384260/michael-saylors-strategy-kicks-off-2026-with-bitcoin-buy)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
+
+Reuters • 20h ago
+
+---
+
+**[Bitcoin Giant Strategy's 'Premium' Nearly Vanished Last Year—Analysts Expect a Comeback](https://finance.yahoo.com/news/bitcoin-giant-strategys-premium-nearly-190400491.html)**
+
+Strategy reported a $17.44 billion unrealized loss in the fourth quarter.
+
+Yahoo Finance • 36m ago
+
+---
+
+**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+
+CCN.com • 8h ago
 
 ---
 
@@ -273,7 +271,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Testing full validation sync performance of 5 Bitcoin node implementations.
 
-⬆️ 1 • 💬 0 • 6d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
+⬆️ 1 • 💬 0 • 7d ago • [Cypherpunk Cogitations](https://blog.lopp.net/2025-bitcoin-node-performance-tests/)
 
 ---
 
@@ -359,7 +357,7 @@ Stay informed with the latest insights on **bitcoin**, focusing on effective **c
 
 📺 Krown
 
-👁️ 1K • 👍 211 • 💬 26 • ⏱️ 16:08 • 1h ago
+👁️ 1K • 👍 211 • 💬 26 • ⏱️ 16:08 • 2h ago
 
 ---
 

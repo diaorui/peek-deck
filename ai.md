@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-06T19:18:01.158007+00:00'
+updated: '2026-01-06T19:40:36.453643+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 06, 2026 at 19:18 UTC  
+**Last Updated:** January 06, 2026 at 19:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "The people cry for their freedom, thanks to the United States for freeing us."
 
-🔗 [Yahoo News](https://www.yahoo.com/news/articles/video-happy-crying-venezuelans-maduro-220200959.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAE17_B3cTxFUc585t6CQqLBQDIsM43kokgIAyMp2fr4ASdSuSqng6SGa2Uhi48jT2eNT_I_K3CbsB4A7HBYwF-Cro4tgBTrSjllWASclzziJeIo4U0FBniUDPI2SYdOfVXBmmtrr76_NtrMri6Fv5ZR-Kj8JXvnFQChzWltfkZI6) • 1h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/video-happy-crying-venezuelans-maduro-220200959.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAE17_B3cTxFUc585t6CQqLBQDIsM43kokgIAyMp2fr4ASdSuSqng6SGa2Uhi48jT2eNT_I_K3CbsB4A7HBYwF-Cro4tgBTrSjllWASclzziJeIo4U0FBniUDPI2SYdOfVXBmmtrr76_NtrMri6Fv5ZR-Kj8JXvnFQChzWltfkZI6) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
 
-3h ago
+4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 **[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 4h ago
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ The title of the thread kind of says it all. I'm trying to generate music tracks
 
 [SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
 
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 3h ago
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 4h ago
 
 ---
 
@@ -103,7 +103,7 @@ The publisher is teaming with a company that claims its proprietary AI can ‘pr
 
 I am building an experimental AI tool that analyzes images to suggest real world location by detecting architectural and design elements and explaining why those cues point to a specific place. I tested it on a public image with a known location and recorded a short video showing the reasoning process. The output was close but imperfect, which is expected at this stage. I am mainly interested in whether explanation driven reasoning makes these systems more useful and interpretable.
 
-7h ago
+8h ago
 
 ---
 
@@ -111,35 +111,13 @@ I am building an experimental AI tool that analyzes images to suggest real world
 
 Nvidia introduces Alpamayo, an open AI model that gives autonomous vehicles human-like reasoning to handle complex driving scenarios safely.
 
-🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 15h ago
+🔗 [techputs](https://techputs.com/nvidia-alpamayo-ai-autonomous-vehicles/) • 16h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
-
-The New York Times • 20h ago
-
----
-
-**[Nvidia unveils self-driving car tech as part of physical AI push](https://www.bbc.com/news/articles/c0jv1vd571wo)**
-
-The chip giant is looking for ways to move the AI revolution beyond software and into physical products.
-
-BBC • 8h ago
-
----
-
-**[Wall Street clashes on Nvidia's AI cycle expiration date following Jensen Huang's CES keynote](https://finance.yahoo.com/news/wall-street-clashes-on-nvidias-ai-cycle-expiration-date-following-jensen-huangs-ces-keynote-174045521.html)**
-
-Wedbush's Dan Ives sees a $6 trillion path for the chip giant, but DA Davidson's Gil Luria warns that the "AI party" could face a hangover if the data center cycle begins to roll over.
-
-Yahoo Finance • 1h ago
-
----
 
 **[Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
 
@@ -149,27 +127,43 @@ The Guardian • 13h ago
 
 ---
 
-**[You can pay $20 to reserve a hologram AI companion in a jar](https://www.businessinsider.com/razer-project-ava-ai-companion-hologram-2026-1)**
+**[The mother of one of Elon Musk's children says his AI bot won't stop creating sexualized images of her](https://www.nbcnews.com/tech/elon-musk/mother-one-elon-musks-children-says-ai-bot-wont-stop-creating-sexualiz-rcna252416)**
 
-Razer showed off its 3D "desk companion," Project AVA, at CES. The 3D hologram can perform tasks like scheduling and live translation.
+Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
 
-Business Insider • 1h ago
-
----
-
-**[A look inside Singtel’s centralized AI strategy](https://www.fiercewireless.com/wireless/inside-singtels-centralized-ai-strategy-whats-working-whats-hard-and-whats-next)**
-
-With its “central AI kitchen” now operational, Singtel has laid the initial groundwork and is now consolidating AI capabilities across divisionsSingtel is mea | Fierce talked to the person leading the charge to bring AI to every corner of Singapore’s largest service provider. Here's what he told us.
-
-fiercewireless.com • 1h ago
+NBC News • 6h ago
 
 ---
 
-**[Beatbot’s New Pool Cleaning Robot Uses AI to Find Pool Debris](https://gizmodo.com/beatbots-new-pool-cleaning-robot-uses-ai-to-find-pool-debris-2000705768)**
+**[Wave of Grok AI fake images of women and girls appalling, says UK minister](https://www.theguardian.com/technology/2026/jan/06/grok-ai-fake-images-women-girls-undressed-uk-minister-liz-kendall)**
 
-Also, the company has updates on its sea turtle robot.
+Liz Kendall calls on X to ‘deal with this urgently’ while expert criticises ‘worryingly slow’ government response
 
-Gizmodo • 1h ago
+The Guardian • 2h ago
+
+---
+
+**[Grok Called Out for Reports of Sexualized AI Images of Famous Figures Like Kate Middleton](https://people.com/grok-called-out-reports-sexualized-ai-images-kate-middleton-other-famous-figures-11880062)**
+
+Kate Middleton is one of the targets of an investigation into X's AI assistant, Grok, creating nude or barely-clothed images of real people.
+
+People.com • 46m ago
+
+---
+
+**[AI moves into the real world as companion robots and pets](https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet)**
+
+﻿Sometimes AI doesn’t need to be a know-it-all, it just wants to keep you company.
+
+The Verge • 40m ago
+
+---
+
+**[Google’s Bringing AI Slop Directly to TVs](https://gizmodo.com/googles-bringing-ai-slop-directly-to-tvs-2000706245)**
+
+The slop is inescapable at CES 2026.
+
+Gizmodo • 10m ago
 
 ---
 
@@ -181,17 +175,23 @@ CNBC • 2h ago
 
 ---
 
-**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqc3tOtwIHVRDpFO1-eaAF4vEOfALCKlV_sPihfFBi3fvikeHwfrPczb&gaa_ts=695d590a&gaa_sig=bXVNwA-EL9ZQU0BPgGl7toMvSy5gTUayUmY9M7I33hHPTHtoO9mXDtRDzrHSODXAH95JGjdBlhD63Bjc-E1f3g%3D%3D)**
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqeqdb1_z5rQyLNnxbT2PMmjDCVMixh7Kf4YzLkKXaBOtOQjZVD9RKEh&gaa_ts=695d689d&gaa_sig=W5_r017LAbSDSMJdCLfIo7zWxzATnGbw9WbpEETwCE4nDzxnm6Hwv_gbF8wgJyGfAbhLbccdtmOp68I_jUQnoQ%3D%3D)**
 
-The Wall Street Journal • 12h ago
+The Wall Street Journal • 10h ago
 
 ---
 
-**[The mother of one of Elon Musk's children says his AI bot won't stop creating sexualized images of her](https://www.nbcnews.com/tech/elon-musk/mother-one-elon-musks-children-says-ai-bot-wont-stop-creating-sexualiz-rcna252416)**
+**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
+The New York Times • 20h ago
 
-NBC News • 6h ago
+---
+
+**[Nvidia unveils self-driving car tech as part of physical AI push](https://www.bbc.com/news/articles/c0jv1vd571wo)**
+
+The chip giant is looking for ways to move the AI revolution beyond software and into physical products.
+
+BBC • 9h ago
 
 ---
 
@@ -295,7 +295,7 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 2K • 👍 36 • 💬 20 • ⏱️ 3:21 • 4h ago
+👁️ 2K • 👍 36 • 💬 20 • ⏱️ 3:21 • 5h ago
 
 ---
 
@@ -315,7 +315,7 @@ The journey of NVIDIA and AI began with GeForce—a chip built for play that awa
 
 📺 NVIDIA
 
-👁️ 8K • 👍 424 • ⏱️ 3:30 • 13h ago
+👁️ 8K • 👍 424 • ⏱️ 3:30 • 14h ago
 
 ---
 
@@ -413,7 +413,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 393 • 16h ago
+⬇️ 2,057 • ❤️ 393 • 17h ago
 
 ---
 
@@ -678,7 +678,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.0k • 🔱 122 • 2h ago
+⭐ 2.0k • 🔱 122 • 3h ago
 
 ---
 
@@ -738,7 +738,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 968 • 🔱 114 • 2h ago
+⭐ 968 • 🔱 114 • 3h ago
 
 ---
 

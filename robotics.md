@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T19:18:01.176517+00:00'
+updated: '2026-01-06T19:40:36.471570+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 19:18 UTC  
+**Last Updated:** January 06, 2026 at 19:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 5h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 6h ago
 
 ---
 
@@ -68,7 +68,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
 
-1h ago
+2h ago
 
 ---
 
@@ -104,21 +104,13 @@ Hi guys, I am currently working on a mini pupper quadruped for university with o
 
 **[For basic electronic component identification](https://www.reddit.com/r/robotics/comments/1q4x2w5/for_basic_electronic_component_identification/)**
 
-22h ago
+23h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
-
-Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
-
-TechCrunch • 20h ago
-
----
 
 **[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
 
@@ -128,11 +120,42 @@ NVIDIA Newsroom • 21h ago
 
 ---
 
-**[A year ago, Nvidia's Jensen Huang said the 'ChatGPT moment' for robotics was around the corner. Now he says it's 'nearly here.' But is it?](https://fortune.com/2026/01/06/nvidia-jensen-huang-chatgpt-moment-for-robotics/)**
+**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
 
-Huang says advances in models, simulation, and compute have pushed robotics to a long-awaited inflection point — but turning platforms into real-world machines remains the hard part.
+NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
 
-Fortune • 3h ago
+NVIDIA Developer • 21h ago
+
+---
+
+**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
+
+Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
+
+TechCrunch • 20h ago
+
+---
+
+**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
+
+At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
+people and production.
+
+hyundai.com • 22h ago
+
+---
+
+**[AI moves into the real world as companion robots and pets](https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet)**
+
+﻿Sometimes AI doesn’t need to be a know-it-all, it just wants to keep you company.
+
+The Verge • 40m ago
+
+---
+
+**[Stereotaxis stock soars after FDA approval of robotic ablation catheter](https://www.investing.com/news/stock-market-news/stereotaxis-stock-soars-after-fda-approval-of-robotic-ablation-catheter-93CH-4433165)**
+
+Investing.com • 2h ago
 
 ---
 
@@ -144,41 +167,23 @@ CNET • 1d ago
 
 ---
 
-**[Stereotaxis stock soars after FDA approval of robotic ablation catheter](https://www.investing.com/news/stock-market-news/stereotaxis-stock-soars-after-fda-approval-of-robotic-ablation-catheter-93CH-4433165)**
-
-Investing.com • 1h ago
-
----
-
-**[Hyundai plans 30,000 humanoid robots a year for factories by 2028](https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics)**
-
-Axios • 5h ago
-
----
-
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
+
+---
+
+**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
+
+Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
+
+Yahoo Finance • 4h ago
 
 ---
 
 **[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
 Bloomberg.com • 1d ago
-
----
-
-**[Qualcomm unveils PC chip, humanoid robotics initiative at CES 2026](https://finance.yahoo.com/news/qualcomm-unveils-pc-chip-humanoid-robotics-initiative-at-ces-2026-170020697.html)**
-
-Qualcomm debuted its newest PC chip and announced its push into humanoid robotics at CES 2026.
-
-Yahoo Finance • 1d ago
-
----
-
-**[BCSC’s VEX IQ robotics teams teams qualify for state](https://www.therepublic.com/2026/01/06/bcscs-vex-iq-robotics-teams-teams-qualify-for-state/)**
-
-The Republic News • 13h ago
 
 ---
 
@@ -202,7 +207,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 14K • 👍 200 • 💬 8 • ⏱️ 7:38 • 1d ago
+👁️ 14K • 👍 200 • 💬 8 • ⏱️ 7:38 • 2d ago
 
 ---
 
@@ -222,7 +227,7 @@ Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discu
 
 📺 CNBC Television
 
-👁️ 22K • 👍 359 • 💬 96 • ⏱️ 7:41 • 5h ago
+👁️ 22K • 👍 359 • 💬 96 • ⏱️ 7:41 • 6h ago
 
 ---
 
@@ -232,7 +237,7 @@ We're excited to announce the product version of our Atlas® robot. This enterpr
 
 📺 Boston Dynamics
 
-👁️ 163K • 👍 10K • 💬 1K • ⏱️ 2:05 • 21h ago
+👁️ 163K • 👍 10K • 💬 1K • ⏱️ 2:05 • 22h ago
 
 ---
 
