@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T09:29:27.903544+00:00'
+updated: '2026-01-07T09:52:27.458312+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 09:29 UTC  
+**Last Updated:** January 07, 2026 at 09:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-11h ago
+12h ago
 
 ---
 
@@ -69,19 +69,19 @@ Am I the only one still waiting for someone to finally build an Iron Man-like UI
 
 ---
 
-**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
-
-All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
-
-18h ago
-
----
-
 **[Harvard just proved AI tutors beat classrooms. Now what?](https://www.reddit.com/r/artificial/comments/1q4t8b5/harvard_just_proved_ai_tutors_beat_classrooms_now/)**
 
 Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
 
 1d ago
+
+---
+
+**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
+
+All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
+
+18h ago
 
 ---
 
@@ -119,9 +119,19 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 ## Google News: "ai"
 
-**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
+**[90% of Investors Plan to Own AI Stocks in 2026: Here Are 2 That Should Be in Your Portfolio](https://www.fool.com/investing/2026/01/06/90-of-investors-plan-to-own-ai-stocks-in-2026-here/)**
 
-Politico • 18h ago
+Nvidia and Broadcom are two top AI stocks to own in 2026 and beyond.
+
+The Motley Fool • 5h ago
+
+---
+
+**[Survey: 9 in 10 AI Investors Plan to Hold or Buy More AI Stocks in 2026. Here's 1 That Should Be on Every Investor's Radar.](https://www.fool.com/investing/2026/01/06/survey-9-in-10-ai-investors-plan-to-hold-or-buy-mo/)**
+
+Most investors still see gains ahead for AI and tech stocks. If they're right, Nvidia shareholders will continue to prosper.
+
+The Motley Fool • 12h ago
 
 ---
 
@@ -133,25 +143,27 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[China reviews Meta’s $2bn purchase of AI start-up Manus](https://www.ft.com/content/62f8f2c5-95c7-4437-b0f1-b8ecd507c330)**
+**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-Commerce ministry assessing whether deal for Chinese-founded group violates technology export controls
-
-Financial Times • 7h ago
+Politico • 18h ago
 
 ---
 
-**[China reviews Meta's purchase of AI startup Manus, FT reports](https://www.reuters.com/world/china/china-reviews-metas-purchase-ai-startup-manus-ft-reports-2026-01-07/)**
+**[Nvidia CEO Says Chinese Demand for Its AI Chips Is ‘Quite High’](https://www.wsj.com/tech/ai/nvidia-ceo-says-chinese-demand-for-its-ai-chips-is-quite-high-05c8d680?gaa_at=eafs&gaa_n=AWEtsqfATk5FtnfFLfIOzL-Y6Wv_uawexZNQYdGPVFwVRVc_da3lqRJxl_L6&gaa_ts=695e3042&gaa_sig=yDlBPUcTSKITh7yYZP3IL6-czOISJuJ9iLQMEufwW9jtkTF7fSWTY7Ci5JTMfCJDdCqWQgnwYa_uet_DqhFubg%3D%3D)**
 
-Reuters • 7h ago
+The Wall Street Journal • 11h ago
 
 ---
 
-**[Chinese officials review Meta's $2B acquisition of AI startup Manus - FT (META:NASDAQ)](https://seekingalpha.com/news/4537184-chinese-officials-review-metas-2b-acquisition-of-ai-startup-manus---ft)**
+**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-China's commerce ministry is reviewing Meta's (META) $2 billion acquisition of AI startup Manus for potential violations of technology export controls,
+The New York Times • 16h ago
 
-Seeking Alpha • 2h ago
+---
+
+**[Nvidia Is Missing Out on the Latest AI Stock Surge. But This Catalyst Will Fix That.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-china-h200-dc00c411?gaa_at=eafs&gaa_n=AWEtsqcDIqohzljNsosEksQf-pYyAd_MntP6-oQj4dWR3_kxqWqsnnaqAJs8&gaa_ts=695e3042&gaa_sig=uxMgl5pPp6tXhpKkrrQBiIjtgsEapAh4aRV5XuuOi5kPZgiw2GrKBWEeZHJIwLKC52YPfM-q4DAFb0b4XE9Plw%3D%3D)**
+
+Barron's • 54m ago
 
 ---
 
@@ -169,21 +181,9 @@ The Guardian • 1d ago
 
 ---
 
-**[AI, Outdated Visuals Fuel Misinformation After Maduro Capture](https://www.barrons.com/news/ai-outdated-visuals-fuel-misinformation-after-maduro-capture-00f2847a?gaa_at=eafs&gaa_n=AWEtsqfTkKWjdbGtWifwde2e5Hpoe3r8D8Fo13gdLR-V64nGRbEXWYgnpvb7&gaa_ts=695e1dba&gaa_sig=_9fxW53MIzBa2oaCCJX7skITQouB-IhJbKA1ZjOpETyVj6lY-DipC_oQhEx23fkaPfIY7F7Sr4N7giWarWX14A%3D%3D)**
+**[AI, Outdated Visuals Fuel Misinformation After Maduro Capture](https://www.barrons.com/news/ai-outdated-visuals-fuel-misinformation-after-maduro-capture-00f2847a?gaa_at=eafs&gaa_n=AWEtsqdK8miBCGuDVTLEKj6crMsV6rq32v28BC0QWK5qPFRUpAK7KxwOCE4R&gaa_ts=695e3042&gaa_sig=ivlrVSLV0j8BwypUdanANVT4xJ2AgYh30V6-xf4lWSod4dcyZ37pjuNeoQFQk4razIxksW75mn_SPlrCRjT5hA%3D%3D)**
 
-Barron's • 9h ago
-
----
-
-**[Nvidia CEO Says Chinese Demand for Its AI Chips Is ‘Quite High’](https://www.wsj.com/tech/ai/nvidia-ceo-says-chinese-demand-for-its-ai-chips-is-quite-high-05c8d680?gaa_at=eafs&gaa_n=AWEtsqeUr_S3OZkFmTzZZyTUYPTvYFMtq38-FakhO8vywHC3zm9nP6W5a9Lc&gaa_ts=695e1dba&gaa_sig=rxW93pZxhgBo8xGvq73hYRuL77rqYvbg8NZvoV1ZNKpqq4528zvn4E7aUHThlgbiuSkp8q6TAv_i-3ow-myEcA%3D%3D)**
-
-The Wall Street Journal • 11h ago
-
----
-
-**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
-
-The New York Times • 16h ago
+Barron's • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ The New York Times • 16h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 519 • 💬 709 • 15h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 549 • 💬 746 • 16h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -211,7 +211,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 225 • 💬 363 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 226 • 💬 366 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -227,7 +227,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 92 • 💬 59 • 12h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 95 • 💬 62 • 12h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -249,13 +249,13 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 Surely it works this time
 
-⬆️ 66 • 💬 71 • 2d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 66 • 💬 72 • 2d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 64 • 💬 17 • 15h ago
+⬆️ 66 • 💬 17 • 16h ago
 
 ---
 
@@ -263,7 +263,7 @@ Surely it works this time
 
 Don't let AI erode your focus.
 
-⬆️ 63 • 💬 15 • 17h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+⬆️ 64 • 💬 15 • 18h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -317,7 +317,7 @@ Substrate CEO James Proud joins 'Mornings with Maria' to sound the alarm on Chin
 
 📺 Fox Business Clips
 
-👁️ 62K • 👍 906 • 💬 685 • ⏱️ 5:40 • 18h ago
+👁️ 62K • 👍 906 • 💬 685 • ⏱️ 5:40 • 19h ago
 
 ---
 
@@ -395,7 +395,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 16,813 • ❤️ 499 • 6d ago
+⬇️ 16,813 • ❤️ 499 • 7d ago
 
 ---
 
@@ -491,7 +491,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 34,762 • ❤️ 1,485 • 14d ago
+⬇️ 34,762 • ❤️ 1,485 • 15d ago
 
 ---
 

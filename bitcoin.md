@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T09:29:27.911876+00:00'
+updated: '2026-01-07T09:52:27.471324+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 09:29 UTC  
+**Last Updated:** January 07, 2026 at 09:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,802.97
+### $92,290.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +4.2%  
-**30d:** -0.4%  
-**90d:** -18.2%  
-**1y:** -2.7%  
+**24h:** -2.2%  
+**7d:** +3.0%  
+**30d:** -1.5%  
+**90d:** -19.1%  
+**1y:** -3.8%  
 
 ---
 
@@ -85,6 +85,14 @@ Rank #1
 
 **[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
+9h ago
+
+---
+
+**[I own about .7 BTC. Should I blow my bonus to get me to an even 1 BTC?](https://www.reddit.com/r/Bitcoin/comments/1q60wd1/i_own_about_7_btc_should_i_blow_my_bonus_to_get/)**
+
+My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
+
 8h ago
 
 ---
@@ -95,11 +103,9 @@ Rank #1
 
 ---
 
-**[I own about .7 BTC. Should I blow my bonus to get me to an even 1 BTC?](https://www.reddit.com/r/Bitcoin/comments/1q60wd1/i_own_about_7_btc_should_i_blow_my_bonus_to_get/)**
+**[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
-
-8h ago
+1h ago
 
 ---
 
@@ -125,27 +131,19 @@ I hear this question a lot and see it asked all over social media. It sounds lik
 
 ---
 
+**[F*cked.... its only $12 but still.... wtf?!](https://www.reddit.com/r/Bitcoin/comments/1q63rz8/fcked_its_only_12_but_still_wtf/)**
+
+somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12 to whomever.... its so crazy, i literally watched it happen over and over and don't know why or HOW. so i copy the address from the subject of my email and it pastes a different one. i copy from the subject and it pastes correctly... wtf?!? anyone ever heard of malware that changes clipboard bitcoin address???? CRAZY?!!? (video included)
+
+6h ago
+
+---
+
 **[Over the long run, does simply holding Bitcoin outperform trading it?](https://www.reddit.com/r/Bitcoin/comments/1q670ry/over_the_long_run_does_simply_holding_bitcoin/)**
 
 Holding removes a lot of decision-making. Fewer trades, fewer chances to make mistakes, and fewer moments where you start doubting Bitcoin itself. That’s why buy-and-hold often feels less risky over long timeframes. At the same time, futures exist for a reason. I came across a discussion on Bitunix where some people argued futures aren’t really about beating buy-and-hold, but about shaping exposure and managing risk over time. That made me wonder whether either approach actually has a higher probability of working over years rather than months or cycles. Curious how others here see it?
 
-3h ago
-
----
-
-**[Morgan Stanley Files With SEC For Spot Bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1q5sh7a/morgan_stanley_files_with_sec_for_spot_bitcoin_etf/)**
-
-Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 13h ago
-
----
-
-**[Increased my DCA](https://www.reddit.com/r/Bitcoin/comments/1q63jcw/increased_my_dca/)**
-
-Slightly increased my DCA today. Reminder that trying to time the market is for suckers.
-
-6h ago
+4h ago
 
 ---
 
@@ -157,33 +155,21 @@ Slightly increased my DCA today. Reminder that trying to time the market is for 
 
 Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqcDvGwXuXVEnSqCPg-bPiiGICzHx4gVzHQ8zAfGRU_yJqTXPBj8Rlb-&gaa_ts=695e1dbc&gaa_sig=pSpmkG-_orK0gyAIAuTtuIjhfGRAfrnXrKl55KIq-dyJE7IG7Ze0i162N9e-U7lCdqrWQ7Me6FbQud45kDkB2g%3D%3D)**
+**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqeodueOOgbT8c8uK9an9NocPDKXubATItE44TJVIT-AbMxcbPJM2RL5&gaa_ts=695e3043&gaa_sig=oY1fk-1yrw8Mr0wtM81cdM9QYw0GtRuStJx_Vs8UGTe8ckeFVs-pMY7YFB654u7vIlbYRnYXYxFzbryZoDyNFg%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
+**[Bitcoin Faithful Still Missing Even After Token Reclaims $90,000](https://www.bloomberg.com/news/articles/2026-01-06/bitcoin-faithful-still-missing-even-after-token-reclaims-90-000)**
 
-Investor's Business Daily • 10h ago
+Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
----
-
-**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
-
-Reuters • 1d ago
-
----
-
-**[MSCI Spares MicroStrategy — but the Market’s War Over Its Bitcoin Premium Remains](https://finance.yahoo.com/news/msci-spares-microstrategy-market-war-063933033.html)**
-
-MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
-
-Yahoo Finance • 2h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -193,31 +179,43 @@ Reuters • 16h ago
 
 ---
 
+**['Shocker': Morgan Stanley's Bitcoin and Solana ETF filings signal deep institutional commitment to crypto](https://www.theblock.co/post/384516/shocker-morgan-stanleys-in-house-bitcoin-solana-etf-signal-deeper-institutional-commitment-to-crypto)**
+
+The Block • 14h ago
+
+---
+
 **[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
 
 Investor's Business Daily • 12h ago
 
 ---
 
-**[Spot bitcoin ETFs report $697 million in net inflows, largest daily total since October](https://www.theblock.co/post/384421/spot-bitcoin-etfs-700-million-inflows)**
+**[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-The Block • 1d ago
-
----
-
-**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
-
-Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
-
-ABC News • 12h ago
+Investor's Business Daily • 10h ago
 
 ---
 
-**[Maine consumers scammed through Bitcoin ATMs could get refunds under $1.9M deal](https://wgme.com/news/i-team/maine-consumers-scammed-through-bitcoin-atms-could-get-refunds-under-19m-deal)**
+**[MSCI Shelves Crypto-Exclusion Plan But Signals Wider Review](https://www.bloomberg.com/news/articles/2026-01-06/msci-backs-off-on-crypto-exclusion-plan-but-signals-wider-review)**
 
-State officials say the consent agreement with Bitcoin Depot will be used to compensate consumers who were defrauded between 2022 and 2025.
+Bloomberg.com • 11h ago
 
-WGME • 1d ago
+---
+
+**[Will MSCI's Bitcoin Ban Crush Corporate Crypto Dreams – Or Spark A Treasury Revolution?](https://bitcoinmagazine.com/business/why-mscis-upcoming-decision-on-bitcoin-treasury-companies-matters)**
+
+Imagine billions vanishing from Bitcoin treasuries overnight – MSCI's January 15 decision could force sales from firms like MicroStrategy, but BFC's fierce pushback might just flip the script on Wall Street's crypto fears.
+
+Bitcoin Magazine • 4d ago
+
+---
+
+**[Bitcoin miners chase AI demand as Nvidia says Rubin is already in production](https://www.coindesk.com/markets/2026/01/07/bitcoin-miners-chase-ai-demand-as-nvidia-says-rubin-is-already-in-production)**
+
+Miners that look like infrastructure companies may win, while those that rely on pure mining margins face a tougher 2026.
+
+CoinDesk • 4h ago
 
 ---
 
@@ -287,7 +285,7 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 A free, open source desktop app that detects nail biting in real time using your computer's camera - no video is recorded, stored, or sent anywhere. - vaitko/stopbitingnails.app
 
-⬆️ 4 • 💬 0 • 1d ago • [GitHub](https://github.com/vaitko/stopbitingnails.app)
+⬆️ 4 • 💬 0 • 2d ago • [GitHub](https://github.com/vaitko/stopbitingnails.app)
 
 ---
 
@@ -307,7 +305,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 698 • 💬 222 • ⏱️ 6:15 • 11h ago
+👁️ 12K • 👍 698 • 💬 222 • ⏱️ 6:15 • 12h ago
 
 ---
 
@@ -317,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 436 • ⏱️ 8:36 • 8h ago
+👁️ 17K • 👍 1K • 💬 436 • ⏱️ 8:36 • 9h ago
 
 ---
 
@@ -347,7 +345,7 @@ Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are movi
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 592 • 💬 30 • ⏱️ 29:22 • 10h ago
+👁️ 7K • 👍 592 • 💬 30 • ⏱️ 29:22 • 11h ago
 
 ---
 
@@ -377,7 +375,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 CNBC Television
 
-👁️ 36K • 👍 759 • 💬 460 • ⏱️ 4:14 • 12h ago
+👁️ 36K • 👍 759 • 💬 460 • ⏱️ 4:14 • 13h ago
 
 ---
 

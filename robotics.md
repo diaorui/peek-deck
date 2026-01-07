@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T09:29:27.920967+00:00'
+updated: '2026-01-07T09:52:27.485711+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 09:29 UTC  
+**Last Updated:** January 07, 2026 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,14 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 ---
 
+**[The EngineAI T800 in Las Vegas at CES](https://www.reddit.com/r/robotics/comments/1q6b7w1/the_engineai_t800_in_las_vegas_at_ces/)**
+
+From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
+
+6m ago
+
+---
+
 **[Unitree GO1 Complex Terrain Locomotion](https://www.reddit.com/r/robotics/comments/1q5psj2/unitree_go1_complex_terrain_locomotion/)**
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
@@ -48,17 +56,25 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 ---
 
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-6h ago
-
----
-
 **[A little problem](https://www.reddit.com/r/robotics/comments/1q69c5k/a_little_problem/)**
 
 I’ve been constantly revising and reviewing my hexapod leg design for the past few weeks. And so far servos have been working great for most of the times when it comes to prototyping. However, I just realized after watching some YouTube videos regarding hexapod building that knockoffs are not exactly ideal when it comes to building this types of projects since there is a reliability issue. I was wondering where u guys get your servos since I need some reliable ones at a cheap price.
 
-1h ago
+2h ago
+
+---
+
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+7h ago
+
+---
+
+**[Can help with very basic braking resistor (regen resistor) design for robots](https://www.reddit.com/r/robotics/comments/1q6ae58/can_help_with_very_basic_braking_resistor_regen/)**
+
+Hi all, If anyone needs help with a very basic braking (regenerative) resistor setup for a robot or motor system, I can help with simple cases only. This is not for detailed system design or complex edge cases. I can help with things like: Rough resistor value / power estimation Basic connection concept Sanity check for small or low-power setups Good fit for: Prototypes Small robots Lab / hobby / early-stage projects Probably not a good fit if you’re dealing with: High-power industrial drives Safety-critical or certified systems Production designs If you want to ask, please keep it simple and include: Motor power (rough is fine) DC bus voltage How braking happens (E-stop, decel, gravity, etc.) I won’t be able to reply to complex or long design requests, but happy to help where it’s straightforward. Cheers 👍
+
+59m ago
 
 ---
 
@@ -66,7 +82,7 @@ I’ve been constantly revising and reviewing my hexapod leg design for the past
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 19h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 20h ago
 
 ---
 
@@ -78,20 +94,6 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 ---
 
-**[Come check out Everbot at CES 2026!](https://www.reddit.com/r/robotics/comments/1q60qpf/come_check_out_everbot_at_ces_2026/)**
-
-Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
-
-8h ago
-
----
-
-**[Humanoid vs Special Purpose Robots](https://www.reddit.com/r/robotics/comments/1q5zrds/humanoid_vs_special_purpose_robots/)**
-
-9h ago
-
----
-
 **[First Robotics Project](https://www.reddit.com/r/robotics/comments/1q5tdr0/first_robotics_project/)**
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
@@ -100,25 +102,17 @@ Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and
 
 ---
 
-**[Boston Dynamics and Google DeepMind Want Robots to Have Brains](https://www.reddit.com/r/robotics/comments/1q5bqy8/boston_dynamics_and_google_deepmind_want_robots/)**
+**[Come check out Everbot at CES 2026!](https://www.reddit.com/r/robotics/comments/1q60qpf/come_check_out_everbot_at_ces_2026/)**
 
-It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
+Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 1d ago
+9h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://finance.yahoo.com/news/mobileye-acquire-humanoid-robotics-startup-211433670.html)**
-
-LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
-
-Yahoo Finance • 11h ago
-
----
 
 **[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
 
@@ -128,9 +122,19 @@ TechCrunch • 12h ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqersyApmGObrGPBsrmRavHeYlP4FVCC-LrI5my4nbbK8cWaps0KDWZj&gaa_ts=695e1dbf&gaa_sig=69LrLlkp7EVXo9S7VcWHiFSG2gIYLuSr6mxKR0hSPgUKy1yD_PgRHLoqQGzs0_8vTCDXBYOl3LeAXPnW7snEdw%3D%3D)**
+**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://finance.yahoo.com/news/mobileye-acquire-humanoid-robotics-startup-211433670.html)**
 
-The Wall Street Journal • 11h ago
+LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Mobileye acquires Shashua’s robotics startup for $900 million](https://www.calcalistech.com/ctechnews/article/hjgfeesnzx)**
+
+The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
+
+CTech • 12h ago
 
 ---
 
@@ -142,19 +146,19 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
-**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
-
-NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
-
-NVIDIA Developer • 1d ago
-
----
-
 **[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
 
 TechCrunch • 1d ago
+
+---
+
+**[Watch the NVIDIA CES 2026 keynote with CEO Jensen Huang live here: AI, robotics updates and more](https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html)**
+
+NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
+
+Engadget • 1d ago
 
 ---
 
@@ -166,15 +170,15 @@ Automotive News • 1d ago
 
 ---
 
-**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
 Reuters • 21h ago
+
+---
+
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -266,7 +270,7 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 6K • 👍 182 • 💬 15 • ⏱️ 2:12 • 9h ago
+👁️ 6K • 👍 182 • 💬 15 • ⏱️ 2:12 • 10h ago
 
 ---
 
@@ -276,7 +280,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 4K • 👍 51 • 💬 7 • ⏱️ 2:58 • 13h ago
+👁️ 4K • 👍 51 • 💬 7 • ⏱️ 2:58 • 14h ago
 
 ---
 
@@ -286,7 +290,7 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 2K • 👍 93 • 💬 19 • ⏱️ 25:02 • 2h ago
+👁️ 2K • 👍 93 • 💬 19 • ⏱️ 25:02 • 3h ago
 
 ---
 
