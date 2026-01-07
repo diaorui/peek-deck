@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T07:46:44.702502+00:00'
+updated: '2026-01-07T08:33:28.946756+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 07:46 UTC  
+**Last Updated:** January 07, 2026 at 08:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
+**24h:** +0.9%  
 **7d:** +8.4%  
 **30d:** -1.9%  
 **90d:** -15.6%  
-**1y:** -2.1%  
+**1y:** -2.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitquery has released a new stream that delivers real-time, transaction-level pre- and post-balance data for all Ethereum addresses involved in transactions, across all tokens. What use case can you think of for this product? https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-7h ago
+8h ago
 
 ---
 
@@ -158,7 +158,7 @@ CoinDesk • 16h ago
 
 **['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 10h ago
 
 Ethereum breaks out of a descending wedge, but heavy whale selling raises questions about whether ETH’s rally can extend toward $4,000.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ GlobeNewswire • 1d ago
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 20h ago
+CCN.com • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ CCN.com • 20h ago
 
 Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 8K • 👍 417 • 💬 49 • ⏱️ 12:17 • 8h ago
+👁️ 8K • 👍 417 • 💬 49 • ⏱️ 12:17 • 9h ago
 
 ---
 
@@ -242,7 +242,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 139 • ⏱️ 8:07 • 15h ago
+👁️ 19K • 👍 3K • 💬 139 • ⏱️ 8:07 • 16h ago
 
 ---
 
@@ -252,7 +252,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 3K • 💬 129 • ⏱️ 9:50 • 17h ago
+👁️ 46K • 👍 3K • 💬 129 • ⏱️ 9:50 • 18h ago
 
 ---
 
@@ -262,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 800 • 👍 79 • 💬 2 • ⏱️ 4:14 • 4h ago
+👁️ 800 • 👍 79 • 💬 2 • ⏱️ 4:14 • 5h ago
 
 ---
 
@@ -292,7 +292,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 645 • 👍 151 • 💬 13 • ⏱️ 16:11 • 2h ago
+👁️ 645 • 👍 151 • 💬 13 • ⏱️ 16:11 • 3h ago
 
 ---
 
@@ -302,7 +302,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 11K • 👍 182 • 💬 4 • ⏱️ 0:48 • 11h ago
+👁️ 11K • 👍 182 • 💬 4 • ⏱️ 0:48 • 12h ago
 
 ---
 
@@ -322,7 +322,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 4K • 👍 380 • ⏱️ 36:52 • 11h ago
+👁️ 4K • 👍 380 • ⏱️ 36:52 • 12h ago
 
 ---
 

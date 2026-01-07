@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T07:46:44.696496+00:00'
+updated: '2026-01-07T08:33:28.940687+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 07:46 UTC  
+**Last Updated:** January 07, 2026 at 08:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.0%  
-**7d:** +4.1%  
-**30d:** -0.5%  
-**90d:** -18.3%  
-**1y:** -2.8%  
+**7d:** +4.2%  
+**30d:** -0.4%  
+**90d:** -18.2%  
+**1y:** -2.7%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
-6h ago
+7h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
 
-6h ago
+7h ago
 
 ---
 
@@ -107,13 +107,13 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-12h ago
+13h ago
 
 ---
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -121,15 +121,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 I hear this question a lot and see it asked all over social media. It sounds like a simple question, but not really because it depends on what you mean by “too late.” Are you too late for 20,000x? Are you too late for 10,000x? Are you too late for 1000x? Are you too late for 100x? Let’s break this down: Current Bitcoin Price $93,570 100x: $93,570 × 100 = $9,357,0001,000x: $93,570 × 1,000 = $93,570,00010,000x: $93,570 × 10,000 = $935,700,000 20,000x: $93,570 × 20,000 = $1,871,400,000 Short answer to “Am I too late?”: Hell no. Not at 93k. Not even at 500k. The people who got in at 3k thought they were late. The ones at 15k thought they missed it. History rhymes as it’s often said. If the thesis plays out the way it’s already doing (fixed supply vs. endless printing), these multiples aren’t crazy—they’re just what happens when sound money wins. You’re not late until it’s boring and everyone already uses it for daily use like groceries, gas, coffee. Very small group already do but not billions of people. Until then? Stack hard. 🚀 🙌🍊
 
-7h ago
-
----
-
-**[Morgan Stanley Files With SEC For Spot Bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1q5sh7a/morgan_stanley_files_with_sec_for_spot_bitcoin_etf/)**
-
-Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 12h ago
+8h ago
 
 ---
 
@@ -141,11 +133,19 @@ Holding removes a lot of decision-making. Fewer trades, fewer chances to make mi
 
 ---
 
-**[Strategy will not be removed from MSCI (confirmed)](https://www.reddit.com/r/Bitcoin/comments/1q5veb7/strategy_will_not_be_removed_from_msci_confirmed/)**
+**[Morgan Stanley Files With SEC For Spot Bitcoin ETF](https://www.reddit.com/r/Bitcoin/comments/1q5sh7a/morgan_stanley_files_with_sec_for_spot_bitcoin_etf/)**
 
-It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=DD3Olh5uInk%3D
+Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-10h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 12h ago
+
+---
+
+**[Increased my DCA](https://www.reddit.com/r/Bitcoin/comments/1q63jcw/increased_my_dca/)**
+
+Slightly increased my DCA today. Reminder that trying to time the market is for suckers.
+
+5h ago
 
 ---
 
@@ -161,67 +161,63 @@ CNBC • 11h ago
 
 ---
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqejIP6rUJ8taxj6C6gBHc8Vt7xO4bhQnF3WUAjHc_6entdtSVPzp6f-&gaa_ts=695e0e25&gaa_sig=DoLum-KCDkQD4U4bxvD7pnaCAeG7DKQcFe8CWZvU0LffBp3ymCV34yoInTVZWf5sKupiasSoWFrcUteX3CnsdA%3D%3D)**
+**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqcDvGwXuXVEnSqCPg-bPiiGICzHx4gVzHQ8zAfGRU_yJqTXPBj8Rlb-&gaa_ts=695e1dbc&gaa_sig=pSpmkG-_orK0gyAIAuTtuIjhfGRAfrnXrKl55KIq-dyJE7IG7Ze0i162N9e-U7lCdqrWQ7Me6FbQud45kDkB2g%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Liquidity lifts bitcoin, but ‘halving cycle’ fears could limit rally in 2026, says Schwab](https://www.coindesk.com/markets/2026/01/06/liquidity-lifts-bitcoin-but-halving-cycle-fears-could-limit-rally-in-2026-says-schwab)**
+**[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Quantitative tightening is over and balance sheets are growing again, but cycle theory and adoption concerns still cloud bitcoin's upside.
-
-CoinDesk • 15h ago
+Investor's Business Daily • 9h ago
 
 ---
 
-**[Bitcoin and the Japanese yen are moving together like never before](https://www.coindesk.com/markets/2026/01/07/bitcoin-and-the-japanese-yen-are-moving-together-like-never-before)**
+**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-The 90-day correlation between bitcoin and JPY has risen to a record high of over 0.85.
-
-CoinDesk • 57m ago
+Reuters • 1d ago
 
 ---
 
-**[Bitcoin miners chase AI demand as Nvidia says Rubin is already in production](https://www.coindesk.com/markets/2026/01/07/bitcoin-miners-chase-ai-demand-as-nvidia-says-rubin-is-already-in-production)**
+**[MSCI Spares MicroStrategy — but the Market’s War Over Its Bitcoin Premium Remains](https://finance.yahoo.com/news/msci-spares-microstrategy-market-war-063933033.html)**
 
-Miners that look like infrastructure companies may win, while those that rely on pure mining margins face a tougher 2026.
+MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin miners face steep costs as they pivot to AI and HPC, HIVE chair says](https://finance.yahoo.com/news/bitcoin-miners-face-steep-costs-201000123.html)**
-
-As Bitcoin miners increasingly pivot toward artificial intelligence and high-performance computing (HPC), many assume their biggest competition will come from cloud giants such as Amazon, Google or Microsoft. According to Frank Holmes, executive chairman of HIVE Digital Technologies, the reality is ...
-
-Yahoo Finance • 11h ago
-
----
-
-**[Canaan's new initiative plans to help grow tomatoes with heat from Bitcoin mining](https://www.theblock.co/post/384452/canaan-bitcoin-mining-greenhouse-efficiency-initiative)**
-
-The Block • 17h ago
-
----
-
-**[Bitcoin price today: down to $92.7k as geopolitics, macro risks stall recovery](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-down-to-927k-as-geopolitics-macro-risks-stall-recovery-4433980)**
-
-Investing.com • 1h ago
-
----
-
-**[Bitcoin Faithful Still Missing Even After Token Reclaims $90,000](https://www.bloomberg.com/news/articles/2026-01-06/bitcoin-faithful-still-missing-even-after-token-reclaims-90-000)**
-
-Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
-
-Bloomberg.com • 9h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
+
+---
+
+**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
+
+Investor's Business Daily • 11h ago
+
+---
+
+**[Spot bitcoin ETFs report $697 million in net inflows, largest daily total since October](https://www.theblock.co/post/384421/spot-bitcoin-etfs-700-million-inflows)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
+
+Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
+
+ABC News • 11h ago
+
+---
+
+**[Maine consumers scammed through Bitcoin ATMs could get refunds under $1.9M deal](https://wgme.com/news/i-team/maine-consumers-scammed-through-bitcoin-atms-could-get-refunds-under-19m-deal)**
+
+State officials say the consent agreement with Bitcoin Depot will be used to compensate consumers who were defrauded between 2022 and 2025.
+
+WGME • 1d ago
 
 ---
 
@@ -321,7 +317,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 987 • 💬 428 • ⏱️ 8:36 • 7h ago
+👁️ 15K • 👍 987 • 💬 428 • ⏱️ 8:36 • 8h ago
 
 ---
 
@@ -331,7 +327,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 920 • 💬 178 • ⏱️ 11:24 • 8h ago
+👁️ 11K • 👍 920 • 💬 178 • ⏱️ 11:24 • 9h ago
 
 ---
 
@@ -341,7 +337,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 34K • 👍 346 • 💬 266 • ⏱️ 8:25 • 18h ago
+👁️ 34K • 👍 346 • 💬 266 • ⏱️ 8:25 • 19h ago
 
 ---
 
@@ -371,7 +367,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 2K • 💬 56 • ⏱️ 31:55 • 16h ago
+👁️ 20K • 👍 2K • 💬 56 • ⏱️ 31:55 • 17h ago
 
 ---
 
@@ -381,7 +377,7 @@ David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin 
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 150 • ⏱️ 11:01 • 9h ago
+👁️ 34K • 👍 2K • 💬 150 • ⏱️ 11:01 • 10h ago
 
 ---
 
@@ -391,7 +387,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 139 • ⏱️ 8:07 • 15h ago
+👁️ 19K • 👍 3K • 💬 139 • ⏱️ 8:07 • 16h ago
 
 ---
 
