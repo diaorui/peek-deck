@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T05:50:22.617277+00:00'
+updated: '2026-01-07T06:35:51.034295+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 05:50 UTC  
+**Last Updated:** January 07, 2026 at 06:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-10h ago
+11h ago
 
 ---
 
@@ -107,13 +107,13 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
 
-4h ago
+5h ago
 
 ---
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -121,7 +121,7 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 I hear this question a lot and see it asked all over social media. It sounds like a simple question, but not really because it depends on what you mean by “too late.” Are you too late for 20,000x? Are you too late for 10,000x? Are you too late for 1000x? Are you too late for 100x? Let’s break this down: Current Bitcoin Price $93,570 100x: $93,570 × 100 = $9,357,0001,000x: $93,570 × 1,000 = $93,570,00010,000x: $93,570 × 10,000 = $935,700,000 20,000x: $93,570 × 20,000 = $1,871,400,000 Short answer to “Am I too late?”: Hell no. Not at 93k. Not even at 500k. The people who got in at 3k thought they were late. The ones at 15k thought they missed it. History rhymes as it’s often said. If the thesis plays out the way it’s already doing (fixed supply vs. endless printing), these multiples aren’t crazy—they’re just what happens when sound money wins. You’re not late until it’s boring and everyone already uses it for daily use like groceries, gas, coffee. Very small group already do but not billions of people. Until then? Stack hard. 🚀 🙌🍊
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ I hear this question a lot and see it asked all over social media. It sounds lik
 
 Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 10h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, sign
 
 It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=DD3Olh5uInk%3D
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet
 
 Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 11h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 12h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 9h ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -173,13 +173,13 @@ Bloomberg.com • 7h ago
 
 Miners that look like infrastructure companies may win, while those that rely on pure mining margins face a tougher 2026.
 
-CoinDesk • 15m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -187,7 +187,7 @@ Reuters • 12h ago
 
 Bitcoin has entered 2026 with gains following a disastrous quarter. Bernstein says the cryptocurrency has hit a bottom.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 11h ago
 
 MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -209,7 +209,7 @@ Reuters • 1d ago
 
 MicroStrategy’s stock slides despite another Bitcoin buy, raising fresh doubts about investor confidence and long-term sustainability.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance • 5h ago
 
 Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
-ABC News • 8h ago
+ABC News • 9h ago
 
 ---
 
@@ -325,7 +325,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 834 • 💬 359 • ⏱️ 8:36 • 5h ago
+👁️ 10K • 👍 834 • 💬 359 • ⏱️ 8:36 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 772 • 💬 170 • ⏱️ 11:24 • 6h ago
+👁️ 8K • 👍 772 • 💬 170 • ⏱️ 11:24 • 7h ago
 
 ---
 
@@ -345,7 +345,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 31K • 👍 332 • 💬 265 • ⏱️ 8:25 • 16h ago
+👁️ 31K • 👍 332 • 💬 265 • ⏱️ 8:25 • 17h ago
 
 ---
 
@@ -365,7 +365,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 2K • 💬 53 • ⏱️ 31:55 • 14h ago
+👁️ 19K • 👍 2K • 💬 53 • ⏱️ 31:55 • 15h ago
 
 ---
 
@@ -395,7 +395,7 @@ David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin 
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 127 • ⏱️ 11:01 • 7h ago
+👁️ 27K • 👍 2K • 💬 127 • ⏱️ 11:01 • 8h ago
 
 ---
 
@@ -405,7 +405,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 138 • ⏱️ 8:07 • 13h ago
+👁️ 18K • 👍 3K • 💬 138 • ⏱️ 8:07 • 14h ago
 
 ---
 

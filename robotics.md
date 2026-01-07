@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T05:50:22.626719+00:00'
+updated: '2026-01-07T06:35:51.043581+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 05:50 UTC  
+**Last Updated:** January 07, 2026 at 06:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-13h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out wit
 
 **[Humanoid vs Special Purpose Robots](https://www.reddit.com/r/robotics/comments/1q5zrds/humanoid_vs_special_purpose_robots/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out wit
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 22h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 23h ago
 
 ---
 
@@ -104,7 +104,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
 
-12h ago
+13h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Wall Street Journal • 8h ago
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 8h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -162,7 +162,7 @@ TechCrunch • 8h ago
 
 Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -176,7 +176,7 @@ Automotive News • 1d ago
 
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discu
 
 📺 CNBC Television
 
-👁️ 58K • 👍 563 • 💬 127 • ⏱️ 7:41 • 16h ago
+👁️ 58K • 👍 563 • 💬 127 • ⏱️ 7:41 • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ Welcome to SwitchBot at CES 2026 Discover Smart Home 2.0, powered by AI robots, 
 
 📺 SwitchBot
 
-👁️ 3K • 👍 86 • 💬 20 • ⏱️ 3:29 • 14h ago
+👁️ 3K • 👍 86 • 💬 20 • ⏱️ 3:29 • 15h ago
 
 ---
 
