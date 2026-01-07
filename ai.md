@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T14:50:54.300754+00:00'
+updated: '2026-01-07T15:27:46.979793+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 14:50 UTC  
+**Last Updated:** January 07, 2026 at 15:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,21 @@ AI news, discussions, and developments
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 10h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 11h ago
+
+---
+
+**[It's been a big week for AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1q6hsl5/its_been_a_big_week_for_ai_here_are_10_massive/)**
+
+First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
+
+19m ago
+
+---
+
+**[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
+
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 33m ago
 
 ---
 
@@ -49,13 +63,13 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-17h ago
+18h ago
 
 ---
 
 **[Well, now. Shout-out to Grok for providing the how and why of what I have been screaming into the void for quite some time. I see ya, Grok. Well done.](https://www.reddit.com/r/artificial/comments/1q6ew6m/well_now_shoutout_to_grok_for_providing_the_how/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +93,7 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 Hey everyone — Happy New Year! 🎊 To kick off 2026, we’re giving away a limited batch of FREE 30-day Unlimited Plan codes for “HumanizeThat”. If you use AI tools for writing and worry about AI detection, this should help. What you get with the Unlimited Plan: ✍️ Unlimited humanizations for 30 days 🧠 Makes AI text sound natural and human 🛡️ Designed to pass major AI detectors 📄 Great for essays, assignments, blogs, and emails Trusted by 50,000+ users worldwide. How to get a free code 🎁 Just comment “Humanize” below and we’ll DM you a code. First come, first served — once they’re gone, they’re gone. Start the year with unlimited humanized writing ✨
 
-4h ago
+5h ago
 
 ---
 
@@ -95,23 +109,7 @@ There's an analytical tool-developed primarily in anthropology and ethnology for
 
 https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequently generate hallucinations -- plausible but factually incorrect outputs -- undermining their reliability. While prior work has examined hallucinations from macroscopic perspectives such as training data and objectives, the underlying neuron-level mechanisms remain largely unexplored. In this paper, we conduct a systematic investigation into hallucination-associated neurons (H-Neurons) in LLMs from three perspectives: identification, behavioral impact, and origins. Regarding their identification, we demonstrate that a remarkably sparse subset of neurons (less than 0.1\% of total neurons) can reliably predict hallucination occurrences, with strong generalization across diverse scenarios. In terms of behavioral impact, controlled interventions reveal that these neurons are causally linked to over-compliance behaviors. Concerning their origins, we trace these neurons back to the pre-trained base models and find that these neurons remain predictive for hallucination detection, indicating they emerge during pre-training. Our findings bridge macroscopic behavioral patterns with microscopic neural mechanisms, offering insights for developing more reliable LLMs."
 
-17h ago
-
----
-
-**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
-
-All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
-
-23h ago
-
----
-
-**[Who is waiting for the first Iron man like UI experience?](https://www.reddit.com/r/artificial/comments/1q69gcz/who_is_waiting_for_the_first_iron_man_like_ui/)**
-
-Am I the only one still waiting for someone to finally build an Iron Man-like UI for desktop? Voice commands, floating panels, AI baked right into the experience instead of a separate chat window. We literally have the tech now. So who's actually working on this? Drop names if you know any
-
-6h ago
+18h ago
 
 ---
 
@@ -123,11 +121,11 @@ Am I the only one still waiting for someone to finally build an Iron Man-like UI
 
 As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
+**[Leading AI expert delays timeline for its possible destruction of humanity](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
@@ -135,47 +133,47 @@ The Guardian • 1d ago
 
 ---
 
-**[How AI turned a Utah police officer into a frog](https://www.axios.com/local/salt-lake-city/2026/01/07/ai-police-utah-heber-city-princess-frog)**
-
-Axios • 1h ago
-
----
-
-**[Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)**
-
-Fileless attacks abuse trusted tools, scripts, and CI/CD pipelines, creating blind spots that file-based security can’t detect.
-
-The Hacker News • 2h ago
-
----
-
-**[Infosys signs deal with AWS to boost enterprise generative AI adoption (AMZN:NASDAQ)](https://seekingalpha.com/news/4537264-infosys-signs-deal-with-aws-to-boost-enterprise-generative-ai-adoption)**
-
-Infosys and AWS team up to scale enterprise generative AI with Topaz and Amazon Q Developerâboosting operations and innovation across sectors.
-
-Seeking Alpha • 2h ago
-
----
-
 **[Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)**
 
 Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
 
-WIRED • 16h ago
+WIRED • 17h ago
 
 ---
 
 **[Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[The mother of one of Elon Musk's children says his AI bot won't stop creating sexualized images of her](https://www.nbcnews.com/tech/elon-musk/mother-one-elon-musks-children-says-ai-bot-wont-stop-creating-sexualiz-rcna252416)**
+**[Grok's explicit images reveal AI's legal ambiguities](https://www.axios.com/2026/01/07/grok-bikini-images-legal-elon-musk)**
 
-Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
+Axios • 1h ago
 
-NBC News • 1d ago
+---
+
+**[JPMorgan is ditching proxy advisors and turning to AI for shareholder votes in the US](https://www.businessinsider.com/jpmorgan-ditches-proxy-adivsory-firms-for-ai-shareholder-votes-memo-2026-1)**
+
+The bank is launching an in-house, AI-powered tool called Proxy IQ to support its shareholder voting decisions, leaving human proxy advisors behind.
+
+Business Insider • 1h ago
+
+---
+
+**[We Need to Talk About How We Talk About 'AI'](https://www.techpolicy.press/we-need-to-talk-about-how-we-talk-about-ai/)**
+
+We share a responsibility to create and use empowering metaphors rather than misleading language, write Emily M. Bender and Nanna Inie.
+
+Tech Policy Press • 1h ago
+
+---
+
+**[Air Force says AI tools outperform human planners in ‘battle management’ experiment](https://breakingdefense.com/2026/01/air-force-says-ai-tools-outperform-human-planners-in-battle-management-experiment/)**
+
+In a complex multi-service, multi-domain scenario — not typically covered in Air Force training — the best of several AI tools generated tactical “courses of action” not only faster than military professionals but also with fewer errors.
+
+Breaking Defense • 17h ago
 
 ---
 
@@ -185,9 +183,11 @@ xAI • 19h ago
 
 ---
 
-**[A.I. Images of Maduro Spread Rapidly, Despite Safeguards](https://www.nytimes.com/2026/01/05/technology/nicolas-maduro-ai-images-deepfakes.html)**
+**[AMD CEO says AI demand is 'going through the roof' as costs climb](https://www.foxbusiness.com/media/amd-ceo-says-ai-demand-going-through-roof-costs-climb)**
 
-The New York Times • 1d ago
+AI computing demand is surging as companies invest in costly chips, with AMD CEO Lisa Su saying top AI hardware can cost tens of thousands of dollars.
+
+Fox Business • 17h ago
 
 ---
 
@@ -199,7 +199,7 @@ The New York Times • 1d ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 660 • 💬 923 • 21h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 690 • 💬 988 • 21h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -215,7 +215,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 228 • 💬 370 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 228 • 💬 372 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -231,7 +231,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 114 • 💬 76 • 17h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 115 • 💬 78 • 18h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -251,7 +251,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 72 • 💬 17 • 21h ago
+⬆️ 74 • 💬 17 • 21h ago
 
 ---
 
@@ -259,7 +259,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 A structural code search engine for Al agents. Contribute to marcoaapfortes/Mantic.sh development by creating an account on GitHub.
 
-⬆️ 70 • 💬 32 • 1d ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
+⬆️ 70 • 💬 33 • 1d ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
 
 ---
 
@@ -279,7 +279,7 @@ Surely it works this time
 
 📺 Alieff Irfan
 
-👁️ 238K • 👍 37K • 💬 6K • ⏱️ 50:05 • 1h ago
+👁️ 238K • 👍 37K • 💬 6K • ⏱️ 50:05 • 2h ago
 
 ---
 
@@ -329,7 +329,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 101K • 👍 5K • 💬 1K • ⏱️ 7:02 • 22h ago
+👁️ 101K • 👍 5K • 💬 1K • ⏱️ 7:02 • 23h ago
 
 ---
 
@@ -433,7 +433,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 6,324 • ❤️ 268 • 2h ago
+⬇️ 6,324 • ❤️ 268 • 3h ago
 
 ---
 
@@ -642,7 +642,7 @@ NitroGen is a vision-action foundation model trained on extensive gameplay data 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.3k • 🔱 737 • 1h ago
+⭐ 6.3k • 🔱 737 • 2h ago
 
 ---
 
@@ -662,7 +662,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 3h ago
+⭐ 2.1k • 🔱 126 • 4h ago
 
 ---
 
@@ -682,7 +682,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.2k • 🔱 65 • 14d ago
+⭐ 1.2k • 🔱 65 • 15d ago
 
 ---
 
@@ -702,7 +702,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 94 • 15h ago
+⭐ 1.1k • 🔱 94 • 16h ago
 
 ---
 
@@ -722,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 976 • 🔱 118 • 1h ago
+⭐ 976 • 🔱 118 • 2h ago
 
 ---
 

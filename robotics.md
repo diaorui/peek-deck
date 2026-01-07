@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T14:50:54.318941+00:00'
+updated: '2026-01-07T15:27:46.997894+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 14:50 UTC  
+**Last Updated:** January 07, 2026 at 15:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,15 +42,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-3h ago
-
----
-
-**["we don't have any wires that go across those moving parts" How is that possible?](https://www.reddit.com/r/robotics/comments/1q5mdlt/we_dont_have_any_wires_that_go_across_those/)**
-
-In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
-
-22h ago
+4h ago
 
 ---
 
@@ -58,7 +50,15 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-3h ago
+4h ago
+
+---
+
+**["we don't have any wires that go across those moving parts" How is that possible?](https://www.reddit.com/r/robotics/comments/1q5mdlt/we_dont_have_any_wires_that_go_across_those/)**
+
+In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
+
+23h ago
 
 ---
 
@@ -70,17 +70,23 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 ---
 
+**[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
+
+39m ago
+
+---
+
 **[Continuation of the project.](https://www.reddit.com/r/robotics/comments/1q6go19/continuation_of_the_project/)**
 
 Here are the modifications made to the controller, where it will now be possible to control 4 possible directions. Now I will finish the wiring to the motors and rebuild the car because it broke.
 
-26m ago
+1h ago
 
 ---
 
 **[UR10e vision-guided sorting (eye-in-hand) — only used teach pendant so far, confused about URScript & PC control](https://www.reddit.com/r/robotics/comments/1q6ggi6/ur10e_visionguided_sorting_eyeinhand_only_used/)**
 
-35m ago
+1h ago
 
 ---
 
@@ -88,7 +94,7 @@ Here are the modifications made to the controller, where it will now be possible
 
 This robot has open interfaces, allowing for DIY modifications and customizable skins.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 58m ago
+🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 1h ago
 
 ---
 
@@ -96,13 +102,7 @@ This robot has open interfaces, allowing for DIY modifications and customizable 
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-20h ago
-
----
-
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-12h ago
+21h ago
 
 ---
 
@@ -110,7 +110,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 ## Google News: "robotics"
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcVH-IM0x3TK3P_aLvIx5T52JMTaal-JFiYE_3EDgl42GIZJnqy_91t&gaa_ts=695e7060&gaa_sig=YKy5Ci8PwyL9HLwwd7LE6PU5HR97RKeoWQ78yso3WWD3i1-8duUdt46ifdLIHeM8ArFhjv65Vrl0wIA4YI0DqQ%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqeBlrRpctqbc6ezwGDFQ9Ws2ZDg-Bb681wpH0yvd68AAGof-xXDRBQe&gaa_ts=695e7ee0&gaa_sig=BfJGGxJQzmQ2epjh6cGmyflHHG4WleN8Fa8vHQsJouttvVepNGBTmtP5zyhHNyDHWjfOCjaAMzTmLi7W0WMFXw%3D%3D)**
 
 The Wall Street Journal • 17h ago
 
@@ -120,15 +120,15 @@ The Wall Street Journal • 17h ago
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
-**[Mobileye acquires Shashua’s robotics startup for $900 million](https://www.calcalistech.com/ctechnews/article/hjgfeesnzx)**
+**[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
 
-The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
+Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
 
-CTech • 17h ago
+The Times of Israel • 1h ago
 
 ---
 
@@ -156,9 +156,10 @@ Engadget • 1d ago
 
 ---
 
-**[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)**
+**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
 
-HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
+At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
+people and production.
 
 hyundai.com • 1d ago
 
@@ -204,7 +205,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 39K • 👍 964 • 💬 166 • ⏱️ 9:33 • 15h ago
+👁️ 39K • 👍 964 • 💬 166 • ⏱️ 9:33 • 16h ago
 
 ---
 
@@ -244,7 +245,7 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 9K • 👍 47 • 💬 2 • ⏱️ 1:06 • 11h ago
+👁️ 9K • 👍 47 • 💬 2 • ⏱️ 1:06 • 12h ago
 
 ---
 
@@ -264,7 +265,7 @@ Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in La
 
 📺 7NEWS Australia
 
-👁️ 3K • 👍 19 • 💬 24 • ⏱️ 2:25 • 8h ago
+👁️ 3K • 👍 19 • 💬 24 • ⏱️ 2:25 • 9h ago
 
 ---
 

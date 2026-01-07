@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T14:50:54.309416+00:00'
+updated: '2026-01-07T15:27:46.988520+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 14:50 UTC  
+**Last Updated:** January 07, 2026 at 15:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,125.00
+### $91,224.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +3.3%  
-**30d:** -1.2%  
-**90d:** -18.9%  
-**1y:** -3.5%  
+**24h:** -1.2%  
+**7d:** +2.8%  
+**30d:** -1.7%  
+**90d:** -19.3%  
+**1y:** -4.0%  
 
 ---
 
@@ -91,12 +91,6 @@ Rank #1
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-13h ago
-
----
-
-**[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
-
 14h ago
 
 ---
@@ -105,7 +99,13 @@ Rank #1
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-3h ago
+4h ago
+
+---
+
+**[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
+
+15h ago
 
 ---
 
@@ -119,13 +119,19 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
 
-13h ago
+14h ago
 
 ---
 
 **[Counting my profits from crypto](https://www.reddit.com/r/Bitcoin/comments/1q6e1re/counting_my_profits_from_crypto/)**
 
-2h ago
+3h ago
+
+---
+
+**[In 2020, the Fed increased USD money supply by 24.9%. Bitcoin issued exactly 1.8%, as scheduled a decade earlier.](https://www.reddit.com/r/Bitcoin/comments/1q6fqu8/in_2020_the_fed_increased_usd_money_supply_by_249/)**
+
+1h ago
 
 ---
 
@@ -133,15 +139,7 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12 to whomever.... its so crazy, i literally watched it happen over and over and don't know why or HOW. so i copy the address from the subject of my email and it pastes a different one. i copy from the subject and it pastes correctly... wtf?!? anyone ever heard of malware that changes clipboard bitcoin address???? CRAZY?!!? (video included)
 
-11h ago
-
----
-
-**[A famous Bitcoin quote that keeps resurfacing over time](https://www.reddit.com/r/Bitcoin/comments/1q5rz0c/a_famous_bitcoin_quote_that_keeps_resurfacing/)**
-
-John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
-
-19h ago
+12h ago
 
 ---
 
@@ -149,11 +147,11 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Options Traders Eye $100,000 Following Year-End Meltdown](https://www.bloomberg.com/news/articles/2026-01-05/bitcoin-options-traders-eye-100-000-following-year-end-meltdown)**
+**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
 
-Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
+Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-Bloomberg.com • 1d ago
+CNBC • 18h ago
 
 ---
 
@@ -161,21 +159,45 @@ Bloomberg.com • 1d ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
 
-Forbes • 52m ago
+Forbes • 1h ago
 
 ---
 
-**[Stanford professor raises $15 million for Babylon, a decentralized protocol to turn Bitcoin into collateral](https://fortune.com/2026/01/07/stanford-professor-raises-15-million-for-babylon/)**
+**[Bitcoin (BTC) news: Babylon Labs raises $15 million for Trustless BTCVaults](https://www.coindesk.com/business/2026/01/07/babylon-labs-raises-usd15-million-from-a16z-crypto-to-develop-bitcoin-collateral-infrastructure)**
 
-The startup aims to provide an alternative to platforms like Coinbase and Tether for those seeking to put their Bitcoin to work.
+Funding will be used to build and scale Babylon Trustless BTCVaults, enabling native bitcoin to be used as on-chain collateral without custodians or wrapping.
 
-Fortune • 1h ago
+CoinDesk • 1h ago
+
+---
+
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
+
+Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Morgan Stanley files for ether trust after bitcoin and solana ETF push](https://www.coindesk.com/business/2026/01/07/morgan-stanley-files-for-ether-trust-after-bitcoin-and-solana-etf-push)**
+
+The Wall Street giant is widening its crypto push, following bitcoin and solana ETF filings with a potential Ethereum trust.
+
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin ETFs Shed $243M as Crypto Market Rally Cools](https://finance.yahoo.com/news/bitcoin-etfs-shed-243m-crypto-135445940.html)**
+
+Analysts called the outflows from spot Bitcoin ETFs a temporary repositioning rather than a structural shift in sentiment.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,31 +219,7 @@ Yahoo Finance • 8h ago
 
 Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
-
-Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
-
-ABC News • 17h ago
-
----
-
-**[Maine consumers scammed through Bitcoin ATMs could get refunds under $1.9M deal](https://wgme.com/news/i-team/maine-consumers-scammed-through-bitcoin-atms-could-get-refunds-under-19m-deal)**
-
-State officials say the consent agreement with Bitcoin Depot will be used to compensate consumers who were defrauded between 2022 and 2025.
-
-WGME • 1d ago
-
----
-
-**[Maine to get $1.9M in settlement with Bitcoin kiosk operator](https://www.bangordailynews.com/2026/01/05/state/state-police-courts/maine-settlement-bitcoin-depot/)**
-
-The Maine Bureau of Consumer Credit Protection announced the consent agreement with Bitcoin Depot on Monday.
-
-Bangor Daily News • 1d ago
+CoinDesk • 5h ago
 
 ---
 
@@ -242,6 +240,14 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
 ⬆️ 4 • 💬 3 • 4d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+
+---
+
+**[Bitcoin still hasn't hit $100k when adjusted for inflation](https://news.ycombinator.com/item?id=46526070)**
+
+The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+
+⬆️ 2 • 💬 1 • 2h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -271,11 +277,11 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ---
 
-**[Bitcoin still hasn't hit $100k when adjusted for inflation](https://news.ycombinator.com/item?id=46526070)**
+**[In 2025, Bitcoin showed how spectacularly wrong price forecasts can be](https://news.ycombinator.com/item?id=46527258)**
 
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 1h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 1 • 💬 0 • 16m ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -290,14 +296,6 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
 ⬆️ 1 • 💬 1 • 6d ago • [HexoRama](https://hexorama.com/)
-
----
-
-**[CNBC: Walmart to Accept Crypto](https://news.ycombinator.com/item?id=46503251)**
-
-According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
-
-⬆️ 2 • 💬 0 • 1d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -331,7 +329,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 193 • ⏱️ 11:24 • 15h ago
+👁️ 16K • 👍 1K • 💬 193 • ⏱️ 11:24 • 16h ago
 
 ---
 
@@ -361,7 +359,7 @@ Time and price are some of the most important things in markets. There is a key 
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 22 • ⏱️ 30:55 • 6h ago
+👁️ 12K • 👍 1K • 💬 22 • ⏱️ 30:55 • 7h ago
 
 ---
 
@@ -371,7 +369,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 3K • 💬 47 • ⏱️ 8:07 • 22h ago
+👁️ 21K • 👍 3K • 💬 47 • ⏱️ 8:07 • 23h ago
 
 ---
 
@@ -391,7 +389,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Crypto Banter
 
-👁️ 22K • 👍 2K • 💬 57 • ⏱️ 31:55 • 23h ago
+👁️ 22K • 👍 2K • 💬 57 • ⏱️ 31:55 • 1d ago
 
 ---
 
