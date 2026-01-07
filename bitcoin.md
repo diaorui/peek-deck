@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T05:26:46.511299+00:00'
+updated: '2026-01-07T05:50:22.617277+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 05:26 UTC  
+**Last Updated:** January 07, 2026 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +4.5%  
-**30d:** -0.1%  
-**90d:** -18.0%  
-**1y:** -2.4%  
+**24h:** -1.5%  
+**7d:** +4.1%  
+**30d:** -0.5%  
+**90d:** -18.3%  
+**1y:** -2.8%  
 
 ---
 
@@ -83,6 +83,12 @@ Rank #1
 
 ---
 
+**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
+
+5h ago
+
+---
+
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
 5h ago
@@ -94,12 +100,6 @@ Rank #1
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
 10h ago
-
----
-
-**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
-
-4h ago
 
 ---
 
@@ -129,7 +129,7 @@ I hear this question a lot and see it asked all over social media. It sounds lik
 
 Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 9h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 10h ago
 
 ---
 
@@ -145,7 +145,7 @@ It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet
 
 Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 10h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 11h ago
 
 ---
 
@@ -153,9 +153,11 @@ Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wa
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqe7q3OB5kP2lrmofjZ2G60oKYEk5cSNACBqQEc3o2jMoeBlNRMyykEb&gaa_ts=695de78f&gaa_sig=fNbOEOGAD4ndw0VZjoIch8PLB8f-k7SY-Vce5wbgyqGgInG-h4e5xnZ2ehGH3ZXLJs6-cibEndI9gU9Z9_nG1A%3D%3D)**
+**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
 
-Barron's • 1d ago
+Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
+
+CNBC • 9h ago
 
 ---
 
@@ -163,21 +165,29 @@ Barron's • 1d ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[Bitcoin Dips to $92K as Liquidations Top $440M](https://finance.yahoo.com/news/bitcoin-dips-92k-liquidations-top-035443535.html)**
+**[Bitcoin miners chase AI demand as Nvidia says Rubin is already in production](https://www.coindesk.com/markets/2026/01/07/bitcoin-miners-chase-ai-demand-as-nvidia-says-rubin-is-already-in-production)**
 
-Bitcoin has slipped from highs near $94,000 as selling pressure returned, exposing the rally’s thin leverage despite improving liquidity.
+Miners that look like infrastructure companies may win, while those that rely on pure mining margins face a tougher 2026.
 
-Yahoo Finance • 1h ago
+CoinDesk • 15m ago
 
 ---
 
-**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Reuters • 1d ago
+Reuters • 12h ago
+
+---
+
+**[Bitcoin and broader crypto markets 'have bottomed,' Bernstein analysts say](https://finance.yahoo.com/news/bitcoin-and-broader-crypto-markets-have-bottomed-bernstein-analysts-say-182315482.html)**
+
+Bitcoin has entered 2026 with gains following a disastrous quarter. Bernstein says the cryptocurrency has hit a bottom.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -185,7 +195,13 @@ Reuters • 1d ago
 
 MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
+
+---
+
+**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -210,20 +226,6 @@ ABC News • 8h ago
 State officials say the consent agreement with Bitcoin Depot will be used to compensate consumers who were defrauded between 2022 and 2025.
 
 WGME • 1d ago
-
----
-
-**[Maine secures $1.9M settlement for bitcoin kiosk scam victims](https://www.centralmaine.com/2026/01/05/maine-secures-1-9m-settlement-for-bitcoin-kiosk-scam-victims/)**
-
-Bitcoin Depot has agreed to refund money that was taken through its kiosks by third-party scammers who defrauded Maine consumers.
-
-Centralmaine.com • 1d ago
-
----
-
-**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
-
-Investor's Business Daily • 8h ago
 
 ---
 
@@ -313,7 +315,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 635 • 💬 208 • ⏱️ 6:15 • 7h ago
+👁️ 10K • 👍 635 • 💬 208 • ⏱️ 6:15 • 8h ago
 
 ---
 
@@ -323,7 +325,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 834 • 💬 359 • ⏱️ 8:36 • 4h ago
+👁️ 10K • 👍 834 • 💬 359 • ⏱️ 8:36 • 5h ago
 
 ---
 
@@ -373,7 +375,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 CNBC Television
 
-👁️ 25K • 👍 607 • 💬 390 • ⏱️ 4:14 • 8h ago
+👁️ 25K • 👍 607 • 💬 390 • ⏱️ 4:14 • 9h ago
 
 ---
 

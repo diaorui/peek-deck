@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T05:26:46.502872+00:00'
+updated: '2026-01-07T05:50:22.608538+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 05:26 UTC  
+**Last Updated:** January 07, 2026 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Am I the only one who finds Microsoft Copilot painfully behind?](https://www.reddit.com/r/artificial/comments/1q5utth/am_i_the_only_one_who_finds_microsoft_copilot/)**
-
-I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
-
-8h ago
-
----
-
 **[AI can now create viruses from scratch, one step away from the perfect biological weapon](https://www.reddit.com/r/artificial/comments/1q65n0r/ai_can_now_create_viruses_from_scratch_one_step/)**
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
@@ -53,11 +45,19 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 ---
 
+**[Am I the only one who finds Microsoft Copilot painfully behind?](https://www.reddit.com/r/artificial/comments/1q5utth/am_i_the_only_one_who_finds_microsoft_copilot/)**
+
+I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
+
+8h ago
+
+---
+
 **[Building opensource Zero Server Code Intelligence Engine](https://www.reddit.com/r/artificial/comments/1q5vwdm/building_opensource_zero_server_code_intelligence/)**
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 [SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
 
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 13h ago
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 14h ago
 
 ---
 
@@ -119,11 +119,17 @@ The publisher is teaming with a company that claims its proprietary AI can ‘pr
 
 ## Google News: "ai"
 
+**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
+
+Politico • 14h ago
+
+---
+
 **[3 semiconductor stocks to play the AI supercycle, according to analysts](https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html)**
 
 As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -135,61 +141,49 @@ The Motley Fool • 4h ago
 
 ---
 
-**[Ray Dalio says AI is in ‘the early stages of a bubble,’ so watch out for 2026](https://fortune.com/2026/01/06/ray-dalio-says-ai-is-in-the-early-stages-of-a-bubble-so-watch-out-for-2026/)**
+**[Asia stocks mixed: KOSPI hits new peak amid AI optimism; Australia CPI in focus](https://www.investing.com/news/stock-market-news/asia-stocks-mixed-kospi-hits-new-peak-amid-ai-optimism-australia-cpi-in-focus-4433898)**
 
-An AI bubble and policy uncertainty could complicate 2026 for investors.
-
-Fortune • 10h ago
+Investing.com • 1h ago
 
 ---
 
-**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
+**[Chinese AI server leader xFusion hires investment bank in first step toward listing](https://www.reuters.com/business/finance/chinese-ai-server-leader-xfusion-hires-investment-bank-first-step-toward-listing-2026-01-07/)**
 
-Politico • 14h ago
-
----
-
-**[Baidu’s AI Chip Arm Kunlunxin Is Said to Pick Banks for $2 Billion Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-01-07/baidu-ai-chip-unit-kunlunxin-is-said-to-pick-banks-for-2-billion-hong-kong-ipo)**
-
-Bloomberg.com • 1h ago
+Reuters • 55m ago
 
 ---
 
-**[Wave of Grok AI fake images of women and girls appalling, says UK minister](https://www.theguardian.com/technology/2026/jan/06/grok-ai-fake-images-women-girls-undressed-uk-minister-liz-kendall)**
+**[Digiday+ Research: The marketer's guide to AI applications, agentic AI, AI search and GEO/AEO in 2026](https://digiday.com/marketing/digiday-research-the-marketers-guide-to-ai-applications-agentic-ai-ai-search-and-geo-aeo-in-2026/)**
 
-Liz Kendall calls on X to ‘deal with this urgently’ while expert criticises ‘worryingly slow’ government response
+A look at how marketers are navigating the opportunities and challenges AI brings as it becomes an indispensable piece in their toolkits.
 
-The Guardian • 9h ago
-
----
-
-**[Government demands Musk's X deals with 'appalling' Grok AI](https://www.bbc.com/news/articles/crrn054nxe7o)**
-
-Grok is being used to digitally remove women's clothing - something victims describe as "dehumanising".
-
-BBC • 12h ago
+Digiday • 48m ago
 
 ---
 
-**[Musk Won’t Fix Grok’s Fake AI Nudes. A Ban Would](https://www.bloomberg.com/opinion/articles/2026-01-07/musk-will-not-fix-fake-ai-nudes-made-by-grok-a-ban-would)**
+**[xAI Raises $20B Series E](https://x.ai/news/series-e)**
 
-Bloomberg.com • 56m ago
-
----
-
-**[Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
-
-Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
-
-The Guardian • 23h ago
+xAI • 10h ago
 
 ---
 
-**[AMD's Lisa Su says AI isn't replacing people, but is changing who gets hired](https://www.cnbc.com/2026/01/06/amd-lisa-su-ai-jobs-hiring.html)**
+**[AI, Outdated Visuals Fuel Misinformation After Maduro Capture](https://www.barrons.com/news/ai-outdated-visuals-fuel-misinformation-after-maduro-capture-00f2847a?gaa_at=eafs&gaa_n=AWEtsqfh5CGECe0i4saEwB66b2TKHa0nNQ192dC7y52uUT_BRq1Ua1TpRjvs&gaa_ts=695df785&gaa_sig=mCL3tTm8NbpIPXOVqumBFKgGHbHhVK_JPuB5L6azghXDmTfm_SnpacNruYdgi-_tsz44cbyQQcTRP4IoZV7-aQ%3D%3D)**
 
-AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
+Barron's • 6h ago
 
-CNBC • 12h ago
+---
+
+**[A.I. Images of Maduro Spread Rapidly, Despite Safeguards](https://www.nytimes.com/2026/01/05/technology/nicolas-maduro-ai-images-deepfakes.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[AI images of Maduro capture reap millions of views on social media](https://www.theguardian.com/technology/2026/jan/05/maduro-venezuela-ai-images)**
+
+Lack of verified information and rapidly advanced AI tools make it difficult to separate fact from fiction on US attack
+
+The Guardian • 1d ago
 
 ---
 
@@ -201,7 +195,7 @@ CNBC • 12h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 409 • 💬 573 • 11h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 444 • 💬 606 • 12h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -247,7 +241,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 76 • 💬 52 • 8h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 83 • 💬 56 • 8h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -263,15 +257,15 @@ Surely it works this time
 
 Don't let AI erode your focus.
 
-⬆️ 61 • 💬 15 • 13h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+⬆️ 61 • 💬 15 • 14h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
-**[AI sycophancy panic](https://news.ycombinator.com/item?id=46488396)**
+**[Show HN: Mantic.sh – A structural code search engine for AI agents](https://news.ycombinator.com/item?id=46512182)**
 
-Conversational AI benchmark. Contribute to firasd/vibesbench development by creating an account on GitHub.
+A structural code search engine for Al agents. Contribute to marcoaapfortes/Mantic.sh development by creating an account on GitHub.
 
-⬆️ 57 • 💬 102 • 2d ago • [GitHub](https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md)
+⬆️ 58 • 💬 20 • 16h ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
 
 ---
 
@@ -315,7 +309,7 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 5K • 👍 78 • 💬 44 • ⏱️ 3:21 • 14h ago
+👁️ 5K • 👍 78 • 💬 44 • ⏱️ 3:21 • 15h ago
 
 ---
 
@@ -335,7 +329,7 @@ The journey of NVIDIA and AI began with GeForce—a chip built for play that awa
 
 📺 NVIDIA
 
-👁️ 12K • 👍 521 • ⏱️ 3:30 • 23h ago
+👁️ 12K • 👍 521 • ⏱️ 3:30 • 1d ago
 
 ---
 
@@ -499,7 +493,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 72,638 • ❤️ 220 • 6h ago
+⬇️ 72,638 • ❤️ 220 • 7h ago
 
 ---
 
@@ -740,7 +734,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 920 • 🔱 136 • 14h ago
+⭐ 920 • 🔱 136 • 15h ago
 
 ---
 

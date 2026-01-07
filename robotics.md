@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T05:26:46.520477+00:00'
+updated: '2026-01-07T05:50:22.626719+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 05:26 UTC  
+**Last Updated:** January 07, 2026 at 05:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,11 +48,17 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 ---
 
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+3h ago
+
+---
+
 **[Italian startup Generative Bionics announced his first humanoid robot GENE.01](https://www.reddit.com/r/robotics/comments/1q5iusr/italian_startup_generative_bionics_announced_his/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 15h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 16h ago
 
 ---
 
@@ -64,17 +70,11 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 ---
 
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-2h ago
-
----
-
 **[Come check out Everbot at CES 2026!](https://www.reddit.com/r/robotics/comments/1q60qpf/come_check_out_everbot_at_ces_2026/)**
 
 Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
 
-4h ago
+5h ago
 
 ---
 
@@ -140,13 +140,13 @@ TechCrunch • 1d ago
 
 LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcY0YOLFm0T4E8GBtLZzxJQOTxh9ngdgxvfYc0RkhPxXl_gukyue_O8&gaa_ts=695de795&gaa_sig=-7jnB4JEKHhd48mFlH1QV7txBMRPpXdKHs5m7KuRfRrBazPJI5QH_wr6x7JbvFRxKOMLvlGN42LRiQ1Rz-3oPg%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfevKpP5GSqtgnFtJnQmqA1j7bB3ykgvCc8cGpktlWnGC8okRw9VoSe&gaa_ts=695df789&gaa_sig=EZ0TMj9jYNit9oFOHLT90bjcS796u1idLq02iff53ffnBYCirPA0b_-LTVUEdUFLarby8D6DiQZdVHEe_2SgMw%3D%3D)**
 
-The Wall Street Journal • 7h ago
+The Wall Street Journal • 8h ago
 
 ---
 
@@ -155,14 +155,6 @@ The Wall Street Journal • 7h ago
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
 TechCrunch • 8h ago
-
----
-
-**[These Tiny Robots Are Smaller Than Grains of Salt and Can Think, Move and Swim](https://www.cnet.com/tech/these-tiny-robots-are-smaller-than-grains-of-salt-and-can-think-move-and-swim/)**
-
-Despite their size, the robots can navigate liquids, respond to their environment and operate without external control.
-
-CNET • 3h ago
 
 ---
 
@@ -185,6 +177,12 @@ Automotive News • 1d ago
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
 Reuters • 17h ago
+
+---
+
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -268,7 +266,7 @@ Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discu
 
 📺 CNBC Television
 
-👁️ 58K • 👍 563 • 💬 127 • ⏱️ 7:41 • 15h ago
+👁️ 58K • 👍 563 • 💬 127 • ⏱️ 7:41 • 16h ago
 
 ---
 
