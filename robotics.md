@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T20:28:08.141631+00:00'
+updated: '2026-01-07T20:50:13.764563+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 20:28 UTC  
+**Last Updated:** January 07, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-10h ago
+11h ago
 
 ---
 
@@ -54,7 +54,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -70,7 +70,7 @@ Environment Description The Franka lift cube task environment is built based on 
 
 I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
 
-4h ago
+5h ago
 
 ---
 
@@ -86,7 +86,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-9h ago
+10h ago
 
 ---
 
@@ -94,7 +94,7 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 Hello everyone! I’m a 12th class ICS student, and I’m very excited to begin my journey into robotics. I’ve been inspired by innovations from NVIDIA and Tesla 🤖 and I’m eager to understand both the fundamentals and practical applications of robotics. As a complete beginner, I’m looking for guidance on how to start. Any recommendations for beginner-friendly resources, books, online courses, or small projects would be greatly appreciated.I’m keen to learn and would value any advice or direction you can provide.
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello everyone! I’m a 12th class ICS student, and I’m very excited to begin 
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-2m ago
+24m ago
 
 ---
 
@@ -112,7 +112,7 @@ Here's the construction of the car's control panel that I'll be making later! Th
 
 **[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfTI1T6elD3MOiTxFpl2wikRHCwU_wAs__7iUqr_VxI4Oxa4GTy5MXM&gaa_ts=695ec52c&gaa_sig=7RIhYmhJUbIgvFfq8tNbDZwv63ZHQj1-OqHnavXV83dJMd3KDeGAB-q7B15Lv7subzFDNSS_6Ju08g8xCM4KzQ%3D%3D)**
 
-The Wall Street Journal • 22h ago
+The Wall Street Journal • 23h ago
 
 ---
 
@@ -144,13 +144,13 @@ TechCrunch • 1d ago
 
 I took Dephy's robotic sneakers, called Sidekick, for a pin at CES 2026 and was surprised by the boost.
 
-Engadget • 2h ago
+Engadget • 3h ago
 
 ---
 
 **[Tesla’s Manufacturing Hangover Is Steering Musk Into Robotics](https://www.forbes.com/sites/alanohnsman/2026/01/07/teslas-manufacturing-hangover-is-steering-musk-into-robotics/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -191,17 +191,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 1.0M • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
-
----
-
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
-
-Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
-
-📺 PCMag
-
-👁️ 400K • 👍 10K • 💬 2K • ⏱️ 7:00 • 1d ago
+👁️ 1.1M • 👍 15K • 💬 4K • ⏱️ 13:17 • 2d ago
 
 ---
 
@@ -211,7 +201,17 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 21K • 👍 274 • 💬 11 • ⏱️ 7:38 • 3d ago
+👁️ 21K • 👍 280 • 💬 11 • ⏱️ 7:38 • 3d ago
+
+---
+
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+
+Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+
+📺 PCMag
+
+👁️ 422K • 👍 10K • 💬 2K • ⏱️ 7:00 • 1d ago
 
 ---
 
@@ -221,7 +221,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 183 • ⏱️ 9:33 • 21h ago
+👁️ 45K • 👍 1K • 💬 183 • ⏱️ 9:33 • 21h ago
 
 ---
 
@@ -231,17 +231,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 380K • 👍 6K • 💬 906 • ⏱️ 5:49 • 2d ago
-
----
-
-**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
-
-CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
-
-📺 CNBC Television
-
-👁️ 5K • 👍 61 • 💬 16 • ⏱️ 2:58 • 1d ago
+👁️ 391K • 👍 6K • 💬 925 • ⏱️ 5:49 • 2d ago
 
 ---
 
@@ -251,37 +241,47 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 20K • 👍 72 • 💬 3 • ⏱️ 1:06 • 17h ago
+👁️ 28K • 👍 81 • 💬 3 • ⏱️ 1:06 • 17h ago
 
 ---
 
-**[Israel’s $900M Robot Learned Like a Human #robotics #airobot #robot #ai #technology #futureofwork](https://www.youtube.com/watch?v=uc7vmuYT_K8)**
+**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
 
-Israel's most advanced humanoid robot learned to change other robots' batteries after watching just a single human ...
+CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
 
-📺 Kalil 4.0
+📺 CNBC Television
 
-👁️ 334 • 👍 10 • ⏱️ 0:59 • 2h ago
+👁️ 6K • 👍 64 • 💬 16 • ⏱️ 2:58 • 1d ago
 
 ---
 
-**[Taking the Tron 1 Robot for a Spin | What the Future](https://www.youtube.com/watch?v=PGULHNClLiw)**
+**[New Atlas Humanoid Revealed! Boston Dynamics &amp; Hyundai Just Changed Robotics Forever](https://www.youtube.com/watch?v=e73kf_iLAP0)**
 
-Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. Check out more from @lookingglassxr and ...
+Hyundai Motor Group and Boston Dynamics brought out their famous Atlas prototype robot for the first time in public to introduce ...
 
 📺 CNET
 
-👁️ 10K • 👍 240 • 💬 17 • ⏱️ 2:12 • 20h ago
+👁️ 204K • 👍 4K • 💬 688 • ⏱️ 9:05 • 1d ago
 
 ---
 
-**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition](https://www.youtube.com/watch?v=YTdr8qykkBA)**
+**[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
 
-Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
+MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
 
 📺 Hyundai Motor Group
 
-👁️ 36K • 👍 21 • 💬 3 • ⏱️ 2:16 • 17h ago
+👁️ 386K • 👍 163 • 💬 1 • ⏱️ 0:47 • 16h ago
+
+---
+
+**[I built a self-balancing robot from scratch (Arduino Based)](https://www.youtube.com/watch?v=K1lzzVGCzAQ)**
+
+I designed a self-balancing robot. It's Arduino based and 3D printed with zero support material! This video will take you through ...
+
+📺 Build Some Stuff
+
+👁️ 4K • 👍 365 • 💬 33 • ⏱️ 3:00 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T20:28:08.138451+00:00'
+updated: '2026-01-07T20:50:13.761316+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 20:28 UTC  
+**Last Updated:** January 07, 2026 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $380.17B
+**Market Cap:** $378.25B
 Rank #2
 
 **Circulating Supply:** 120,694,786 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.2%
+-36.6%
 
 **All-Time Low:** $0.43
-+729000.0%
++723842.7%
 
 ---
 
@@ -114,7 +114,7 @@ I haven't touched crypto in a minute. Got on a productivity bent yesterday and d
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 Morgan Stanley files Ethereum ETFs as Wall Street expands crypto exposure despite volatility and a weakening market backdrop.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -228,7 +228,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 5K • 👍 552 • 💬 45 • ⏱️ 10:20 • 6h ago
+👁️ 7K • 👍 628 • 💬 61 • ⏱️ 10:20 • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 13K • 👍 584 • 💬 63 • ⏱️ 12:17 • 21h ago
+👁️ 13K • 👍 596 • 💬 65 • ⏱️ 12:17 • 21h ago
 
 ---
 
@@ -248,7 +248,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 573 • 👍 82 • 💬 5 • ⏱️ 4:16 • 3h ago
+👁️ 1K • 👍 137 • 💬 7 • ⏱️ 4:16 • 3h ago
+
+---
+
+**[BITCOIN WARNING: It&#39;s Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4ny16LfS50k)**
+
+BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 268 • 👍 21 • 💬 8 • ⏱️ 19:40 • 8m ago
 
 ---
 
@@ -258,27 +268,17 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 337 • 💬 16 • ⏱️ 1:08:45 • 3h ago
+👁️ 5K • 👍 370 • 💬 5 • ⏱️ 1:08:45 • 4h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=VVCu-Ueh5TY)**
+**[Ethereum Is Rejecting HARD At This Level, Crash Incoming?](https://www.youtube.com/watch?v=M5QNby6YBoc)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
 
-📺 More Crypto Online
+📺 Trade Confident
 
-👁️ 2K • 👍 137 • 💬 3 • ⏱️ 4:14 • 17h ago
-
----
-
-**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
-
-This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
-
-📺 Thomas Kralow
-
-👁️ 22K • 👍 3K • 💬 65 • ⏱️ 8:07 • 1d ago
+👁️ 117 • 👍 13 • 💬 5 • ⏱️ 3:54 • 56m ago
 
 ---
 
@@ -288,37 +288,37 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 3K • 💬 138 • ⏱️ 9:50 • 1d ago
+👁️ 56K • 👍 3K • 💬 141 • ⏱️ 9:50 • 1d ago
 
 ---
 
-**[Tom Lee $250K Long-Term ETH – Why 2026 Starts the Run](https://www.youtube.com/watch?v=O2A1XJiOdWU)**
+**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
 
-Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It sounds impossible, until you look at the ...
+This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
 
-📺 NextMove Stocks
+📺 Thomas Kralow
 
-👁️ 422 • 👍 14 • 💬 1 • ⏱️ 6:53 • 1d ago
-
----
-
-**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 19K • 👍 696 • 💬 442 • ⏱️ 13:40 • 1d ago
+👁️ 23K • 👍 3K • 💬 51 • ⏱️ 8:07 • 1d ago
 
 ---
 
-**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.youtube.com/watch?v=S1zL54voIBI)**
+**[Ripple XRP To Outperform Bitcoin, Ethereum And Solana In 2026!! CNBC Call It &#39;The New Darling&#39; !!!](https://www.youtube.com/watch?v=kl4zy4YSVDo)**
 
-On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus ...
+Welcome back ladies and gentlemen for another epic ripple XRP video! Become A Patreon and Community Member: ...
 
-📺 CNBC Television
+📺 AllinCrypto
 
-👁️ 16K • 👍 258 • 💬 92 • ⏱️ 12:31 • 2d ago
+👁️ 2K • 👍 284 • 💬 60 • ⏱️ 11:33 • 2h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=VVCu-Ueh5TY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 138 • 💬 3 • ⏱️ 4:14 • 17h ago
 
 ---
 

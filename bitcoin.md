@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T20:28:08.132499+00:00'
+updated: '2026-01-07T20:50:13.755301+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 20:28 UTC  
+**Last Updated:** January 07, 2026 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1821.90B
+**Market Cap:** $1815.69B
 Rank #1
 
-**Circulating Supply:** 19,972,781 BTC
+**Circulating Supply:** 19,972,800 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.9%
 
 **All-Time Low:** $67.81
-+134560.1%
++134007.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,13 +93,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -135,13 +135,13 @@ Waste heat from Bitcoin miners is being reused to power greenhouses, turning ene
 
 Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my trezor model t so u can transfer them in a safe spot! Do you think btc has a good price rn? I want to buy and hold them for a few years. Thank you Pls do not dm
 
-3h ago
+4h ago
 
 ---
 
 **[In 2020, the Fed increased USD money supply by 24.9%. Bitcoin issued exactly 1.8%, as scheduled a decade earlier.](https://www.reddit.com/r/Bitcoin/comments/1q6fqu8/in_2020_the_fed_increased_usd_money_supply_by_249/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my tr
 
 Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 23h ago
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -173,13 +173,13 @@ Investor's Business Daily • 1d ago
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
 **[Strategy rises as MSCI shelves plans to exclude crypto treasury firms from indexes](https://www.reuters.com/business/strategy-rises-msci-shelves-plans-exclude-crypto-treasury-firms-indexes-2026-01-07/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -209,7 +209,7 @@ The Block • 8h ago
 
 Riot Platforms has carried out the largest bitcoin selloff in its history, dumping $161.6 million worth of BTC in December as deteriorating mining economics forced a sharp shift in treasury strategy. The sale came despite Riot producing more bitcoin month over month, showing how pressure from collapsing hashprice is now ...
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -251,7 +251,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 7h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 8h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -301,23 +301,23 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
-**[BIG BITCOIN NEWS JUST IN!!!](https://www.youtube.com/watch?v=M53LACXtOgk)**
+**[BITCOIN THIS IS A HUGE CHANGE](https://www.youtube.com/watch?v=5b6I7SbYIhI)**
 
 CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 731 • 💬 257 • ⏱️ 6:15 • 22h ago
+👁️ 6K • 👍 415 • 💬 17 • ⏱️ 14:22 • 4h ago
 
 ---
 
-**[Why the World Will NEED Bitcoin in 2026 (It’s Not the Price)](https://www.youtube.com/watch?v=dcUGRquTkc8)**
+**[This SHOCKING Pattern Could CRASH BITCOIN! $103K MUST BREAK! Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=yjg3M5f2VxU)**
 
-Bitcoin is already on fire in 2026 — but it's not just about price. From billion-dollar fraud to property confiscation, the cracks in the ...
+A Rally to $103k, but then a major rejection could be around the corner for Bitcoin. Are you prepared for this?! Are you ready?
 
-📺 Simply Bitcoin
+📺 Crypto Jebb
 
-👁️ 18K • 👍 1K • 💬 218 • ⏱️ 11:24 • 21h ago
+👁️ 818 • 👍 101 • 💬 20 • ⏱️ 17:38 • 1h ago
 
 ---
 
@@ -327,37 +327,67 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 125 • ⏱️ 48:00 • 4h ago
+👁️ 20K • 👍 1K • 💬 126 • ⏱️ 48:00 • 4h ago
 
 ---
 
-**[Why Bitcoin is Set to hit $100,000 Soon](https://www.youtube.com/watch?v=D6cZyjLYXsQ)**
+**[BITCOIN IS DUMPING AS PREDICTED! (THIS IS NEXT)](https://www.youtube.com/watch?v=aOzdgxzJNBs)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+WEEX: https://cryptokid.io/WEEX TRADE CRYPTO Coinflare: https://cryptokid.io/Coinflare FREE REWARDS IN ...
 
-📺 CryptosRUs
+📺 Crypto Kid
 
-👁️ 21K • 👍 1K • 💬 551 • ⏱️ 8:36 • 19h ago
-
----
-
-**[Coinbase&#39;s John D&#39;Agostino on bitcoin: Retail sentiment is catching up to institutional momentum](https://www.youtube.com/watch?v=JEk3rseEYis)**
-
-John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to discuss the latest bitcoin price trends, what's ...
-
-📺 CNBC Television
-
-👁️ 41K • 👍 359 • 💬 289 • ⏱️ 8:25 • 1d ago
+👁️ 585 • 👍 77 • 💬 5 • ⏱️ 4:32 • 56m ago
 
 ---
 
-**[Crypto Czar David Sacks “All Hell Is Gonna Break Loose” Bitcoin &amp; Ethereum 2026 Clarity Act NEWS!](https://www.youtube.com/watch?v=CGXSyTtpiA0)**
+**[Phase 2 of This Bitcoin Pump Is Here! [Don’t Miss This Opportunity]](https://www.youtube.com/watch?v=uhPv4zNaIj4)**
 
-David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
+Bitcoin is on the doorstep of Phase 2 of this move, and this is the moment where preparation matters more than prediction. In this ...
 
-📺 Altcoin Daily
+📺 Crypto Banter
 
-👁️ 50K • 👍 3K • 💬 149 • ⏱️ 11:01 • 22h ago
+👁️ 7K • 👍 606 • 💬 22 • ⏱️ 25:29 • 51m ago
+
+---
+
+**[BITCOIN SUPER CYCLE CONFIRMED](https://www.youtube.com/watch?v=ebF1y1mHCHg)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/CoinflareCarl Make your ...
+
+📺 The Moon Show
+
+👁️ 10K • 👍 749 • 💬 52 • ⏱️ 7:10 • 7h ago
+
+---
+
+**[MSTR Couldn’t Be More BULLISH Than NOW](https://www.youtube.com/watch?v=s-0OWrTtZfQ)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 4K • 👍 509 • 💬 48 • ⏱️ 5:24 • 3h ago
+
+---
+
+**[Why the World Will NEED Bitcoin in 2026 (It’s Not the Price)](https://www.youtube.com/watch?v=dcUGRquTkc8)**
+
+Bitcoin is already on fire in 2026 — but it's not just about price. From billion-dollar fraud to property confiscation, the cracks in the ...
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:24 • 21h ago
+
+---
+
+**[BIG BITCOIN NEWS JUST IN!!!](https://www.youtube.com/watch?v=M53LACXtOgk)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 14K • 👍 732 • 💬 163 • ⏱️ 6:15 • 23h ago
 
 ---
 
@@ -367,37 +397,7 @@ Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are movi
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 660 • 💬 39 • ⏱️ 29:22 • 21h ago
-
----
-
-**[Why XRP is the new cryptocurrency darling](https://www.youtube.com/watch?v=ZyNJnv-63Lc)**
-
-CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quietly become the breakout trade of crypto's 2026 ...
-
-📺 CNBC Television
-
-👁️ 52K • 👍 1K • 💬 579 • ⏱️ 4:14 • 23h ago
-
----
-
-**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
-
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 78K • 👍 3K • 💬 227 • ⏱️ 9:17 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
-
-This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
-
-📺 Thomas Kralow
-
-👁️ 22K • 👍 3K • 💬 65 • ⏱️ 8:07 • 1d ago
+👁️ 9K • 👍 666 • 💬 39 • ⏱️ 29:22 • 22h ago
 
 ---
 

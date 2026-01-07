@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T20:28:08.124127+00:00'
+updated: '2026-01-07T20:50:13.746549+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 20:28 UTC  
+**Last Updated:** January 07, 2026 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ AI-Generated Ghost Player assistance would help out players who can’t progress
 
 Been on an AI book kick lately. Picked up AI 2041 by Kai-Fu Lee and Chen Qiufan—it came out in 2021, before ChatGPT launched. Wanted to see how the predictions held up. Quick background: Lee was president of Google China and is a major AI investor. Chen is an award-winning Chinese sci-fi author. The format is interesting—each chapter has a sci-fi story set in 2041, then Lee follows with technical analysis. My Scorecard ✅ Got It Right Deepfake explosion — Predicted massive growth. Reality: 500K in 2023 → 8M in 2025 (900% annual growth) Education AI — Predicted personalized learning would go mainstream. Reality: 57% of universities now prioritizing AI Voice cloning — Predicted it would become trivially easy. Reality: seconds of audio now creates convincing clones Insurance AI — Predicted deep learning would transform insurance pricing. Reality: happening now Job displacement pattern — Predicted gradual change hitting specific sectors first. Reality: exactly what we're seeing ❌ Got It Wrong AGI timeline — Lee was skeptical it would come soon. Industry leaders now say 2026-2028. Autonomous vehicles — Book suggested faster adoption than we've seen Chatbot capability — Didn't anticipate how fast LLMs would improve ⏳ Still TBD Quantum computing threats (book has a whole story about this) Full automation of routine jobs VR/AR immersive experiences Overall: Surprisingly accurate for a 2021 book. The fiction-plus-analysis format works well. Some stories drag and have dated cultural elements, but the predictions embedded in them keep hitting. Anyone else read this? Curious what other pre-ChatGPT AI books have aged well (or badly).
 
-23m ago
+45m ago
 
 ---
 
@@ -87,7 +87,7 @@ I documented a comprehensive guide for ACE-Step after testing various AI music t
 
 I need an editing app!!! One to like edit/generate faces onto other photos and make them look real, because I make edits and only being able to do 1 picture per day on chatgpt is making me go mad. Just tried to upgrade chatgpt but some 3d security god knows what that even is, messed it up and now it won’t accept my card at all So looking for other apps. Don’t even care if I have to pay, just as long as they’re good and get a high photo generating limit
 
-12m ago
+34m ago
 
 ---
 
@@ -95,13 +95,13 @@ I need an editing app!!! One to like edit/generate faces onto other photos and m
 
 Serious question for people working with ML systems that act autonomously. We often optimize for correctness, confidence, or expected reward. Yet many real incidents come from systems behaving exactly as designed, while still causing irreversible damage (deletions, lockouts, enforcement, shutdowns). Often these are bulk or automated actions, executed without a human explicitly deciding “this is safe to lose”. This doesn’t feel like a bug problem, but a missing signal between “the model is confident” and “this action is acceptable to execute without supervision”. Which leads me to a question I can’t quite place in existing frameworks: What if an automated system could recognize what deserves to be preserved, even if it can’t explain why? I’m not proposing a solution or a product, and I’m not claiming this is solvable. I’m genuinely trying to understand whether this failure mode is already well-addressed in the literature, or if we mostly patch it with heuristics and human-in-the-loop rules. If you’ve seen relevant work, or lived through incidents where automation was technically correct but practically destructive, I’d really appreciate pointers.
 
-20m ago
+42m ago
 
 ---
 
 **[Character.ai And Google Will Settle Lawsuits Over Teen Suicides](https://www.reddit.com/r/artificial/comments/1q6pgas/characterai_and_google_will_settle_lawsuits_over/)**
 
-🔗 [go.forbes.com](https://go.forbes.com/9ysYH8) • 44m ago
+🔗 [go.forbes.com](https://go.forbes.com/9ysYH8) • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Wall Street Journal • 22h ago
 
 Universal Music Group announced a deal Tuesday with AI chipmaker Nvidia in hopes of reshaping music discovery and creating a 'responsible AI' that artists can use while making music.
 
-Los Angeles Times • 26m ago
+Los Angeles Times • 48m ago
 
 ---
 
@@ -159,13 +159,13 @@ The Wall Street Journal • 2h ago
 
 **[Google, AI Firm Settle Florida Mother's Lawsuit Over Son's Suicide](https://www.usnews.com/news/top-news/articles/2026-01-07/google-ai-firm-settle-florida-mothers-lawsuit-over-sons-suicide)**
 
-U.S. News & World Report • 42m ago
+U.S. News & World Report • 1h ago
 
 ---
 
 **[Character.ai And Google Will Settle Lawsuits Over Teen Suicides](https://www.forbes.com/sites/zacharyfolk/2026/01/07/characterai-and-google-will-settle-lawsuits-over-teen-suicides/)**
 
-Forbes • 55m ago
+Forbes • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 117 • 💬 65 • 4h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 117 • 💬 65 • 5h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -267,23 +267,13 @@ A structural code search engine for Al agents. Contribute to marcoaapfortes/Mant
 
 ## YouTube Videos: "ai"
 
-**[At CES 2026, AI Takes Over Las Vegas](https://www.youtube.com/watch?v=nuivRxby208)**
+**[NEW Microsoft AI Update is INSANE!](https://www.youtube.com/watch?v=h3xjK3Lfi3A)**
 
-The world's largest tech show is back and AI is powering nearly every major reveal. Here's your first look! Connect with Cheddar!
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 Cheddar
+📺 Julian Goldie SEO
 
-👁️ 16K • 👍 169 • 💬 15 • ⏱️ 3:36 • 2d ago
-
----
-
-**[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
-
-Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
-
-📺 CBS News
-
-👁️ 8K • 👍 101 • 💬 53 • ⏱️ 3:21 • 1d ago
+👁️ 5K • 👍 112 • 💬 18 • ⏱️ 9:50 • 18h ago
 
 ---
 
@@ -293,7 +283,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 35K • 👍 2K • 💬 133 • ⏱️ 13:13 • 1d ago
+👁️ 38K • 👍 2K • 💬 127 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -303,7 +293,47 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 1.0M • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
+👁️ 1.1M • 👍 15K • 💬 4K • ⏱️ 13:17 • 2d ago
+
+---
+
+**[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
+
+Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
+
+📺 CBS News
+
+👁️ 8K • 👍 102 • 💬 54 • ⏱️ 3:21 • 1d ago
+
+---
+
+**[Manus AI: First-Ever General AI Super Agent IS INSANE! Automate Your Life!](https://www.youtube.com/watch?v=TYlgqulrpd0)**
+
+Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=WAI013M6 In this video, we take a deep dive ...
+
+📺 WorldofAI
+
+👁️ 7K • 👍 207 • 💬 19 • ⏱️ 12:11 • 15h ago
+
+---
+
+**[At CES 2026, AI Takes Over Las Vegas](https://www.youtube.com/watch?v=nuivRxby208)**
+
+The world's largest tech show is back and AI is powering nearly every major reveal. Here's your first look! Connect with Cheddar!
+
+📺 Cheddar
+
+👁️ 17K • 👍 172 • 💬 15 • ⏱️ 3:36 • 2d ago
+
+---
+
+**[New OpenAI GUMDROP AI Device Turns ChatGPT Physical](https://www.youtube.com/watch?v=cfFCmVVflfk)**
+
+OpenAI is quietly building its first real consumer hardware product, and it changes everything about how people access AI.
+
+📺 AI Revolution
+
+👁️ 125K • 👍 2K • 💬 449 • ⏱️ 11:17 • 2d ago
 
 ---
 
@@ -323,37 +353,7 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 163K • 👍 164 • 💬 1 • ⏱️ 0:47 • 15h ago
-
----
-
-**[Manus AI: First-Ever General AI Super Agent IS INSANE! Automate Your Life!](https://www.youtube.com/watch?v=TYlgqulrpd0)**
-
-Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=WAI013M6 In this video, we take a deep dive ...
-
-📺 WorldofAI
-
-👁️ 7K • 👍 193 • 💬 18 • ⏱️ 12:11 • 14h ago
-
----
-
-**[New OpenAI GUMDROP AI Device Turns ChatGPT Physical](https://www.youtube.com/watch?v=cfFCmVVflfk)**
-
-OpenAI is quietly building its first real consumer hardware product, and it changes everything about how people access AI.
-
-📺 AI Revolution
-
-👁️ 124K • 👍 2K • 💬 441 • ⏱️ 11:17 • 2d ago
-
----
-
-**[Israel’s $900M Robot Learned Like a Human #robotics #airobot #robot #ai #technology #futureofwork](https://www.youtube.com/watch?v=uc7vmuYT_K8)**
-
-Israel's most advanced humanoid robot learned to change other robots' batteries after watching just a single human ...
-
-📺 Kalil 4.0
-
-👁️ 334 • 👍 10 • ⏱️ 0:59 • 2h ago
+👁️ 386K • 👍 163 • 💬 1 • ⏱️ 0:47 • 16h ago
 
 ---
 
@@ -363,7 +363,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 106K • 👍 6K • 💬 1K • ⏱️ 7:02 • 1d ago
+👁️ 109K • 👍 6K • 💬 1K • ⏱️ 7:02 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 6,612 • ❤️ 650 • 6d ago
+⬇️ 6,612 • ❤️ 651 • 6d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 16,813 • ❤️ 508 • 7d ago
+⬇️ 16,813 • ❤️ 510 • 7d ago
 
 ---
 
@@ -403,7 +403,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,665 • ❤️ 420 • 1d ago
+⬇️ 2,665 • ❤️ 421 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 411 • 8h ago
+⬇️ 84,353 • ❤️ 419 • 9h ago
 
 ---
 
@@ -427,19 +427,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 6,324 • ❤️ 270 • 8h ago
-
----
-
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
-
-*MiniMax*
-
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 198,823 • ❤️ 944 • 11d ago
+⬇️ 6,324 • ❤️ 271 • 8h ago
 
 ---
 
@@ -451,7 +439,19 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 4,010 • ❤️ 245 • 4d ago
+⬇️ 4,010 • ❤️ 246 • 4d ago
+
+---
+
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+
+*MiniMax*
+
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 198,823 • ❤️ 945 • 11d ago
 
 ---
 
@@ -463,7 +463,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 231 • 22h ago
+⬇️ 77,452 • ❤️ 232 • 22h ago
 
 ---
 
@@ -475,7 +475,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 34,762 • ❤️ 1,490 • 15d ago
+⬇️ 34,762 • ❤️ 1,491 • 15d ago
 
 ---
 
@@ -487,7 +487,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 2,742 • ❤️ 388 • 1d ago
+⬇️ 2,742 • ❤️ 389 • 1d ago
 
 ---
 
@@ -501,7 +501,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 35 • 💬 0 • ⭐ 738 • 1d ago
+▲ 38 • 💬 0 • ⭐ 738 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -513,7 +513,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 166 • 💬 5 • ⭐ 2,350 • 1mo ago
+▲ 166 • 💬 5 • ⭐ 2,570 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -565,7 +565,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 139 • 💬 6 • ⭐ 20,050 • 4mo ago
+▲ 140 • 💬 6 • ⭐ 20,068 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -620,7 +620,7 @@ InfiniteVGGT enables continuous 3D visual geometry understanding through a causa
 
 NitroGen is a vision-action foundation model trained on extensive gameplay data that demonstrates strong cross-game generalization and effective transfer learning capabilities.
 
-▲ 21 • 💬 1 • ⭐ 1,437 • 3d ago
+▲ 22 • 💬 1 • ⭐ 1,437 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02427) • [💻 code](https://github.com/MineDojo/NitroGen) • [🔗 project](https://nitrogen.minedojo.org/)
 
@@ -636,7 +636,7 @@ NitroGen is a vision-action foundation model trained on extensive gameplay data 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.5k • 🔱 753 • 7h ago
+⭐ 6.5k • 🔱 755 • 7h ago
 
 ---
 
@@ -656,7 +656,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 3h ago
+⭐ 2.1k • 🔱 126 • 4h ago
 
 ---
 
@@ -666,7 +666,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 206 • 3d ago
+⭐ 1.9k • 🔱 208 • 3d ago
 
 ---
 
@@ -686,7 +686,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 13h ago
+⭐ 1.2k • 🔱 142 • 14h ago
 
 ---
 
