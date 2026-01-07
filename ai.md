@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T01:49:14.652988+00:00'
+updated: '2026-01-07T03:40:26.845834+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 01:49 UTC  
+**Last Updated:** January 07, 2026 at 03:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-4h ago
+6h ago
 
 ---
 
@@ -49,7 +49,21 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-4h ago
+6h ago
+
+---
+
+**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
+
+All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
+
+12h ago
+
+---
+
+**[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
+
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 13h ago
 
 ---
 
@@ -61,25 +75,11 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 ---
 
-**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
-
-All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
-
-10h ago
-
----
-
-**[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
-
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 11h ago
-
----
-
 **[Connect any LLM to all your knowledge sources and chat with it](https://www.reddit.com/r/artificial/comments/1q5h29v/connect_any_llm_to_all_your_knowledge_sources_and/)**
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-13h ago
+15h ago
 
 ---
 
@@ -87,15 +87,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 [SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
 
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 10h ago
-
----
-
-**[Is there an AI tool which can "listen" to and evaluate music?](https://www.reddit.com/r/artificial/comments/1q5l4tq/is_there_an_ai_tool_which_can_listen_to_and/)**
-
-The title of the thread kind of says it all. I'm trying to generate music tracks on the AI platform Suno. But I want to get some feedback on the tracks I'm creating. Obviously AI can't "listen" to it in the traditional, human sense, but it can't really "think" about the quality of an e-mail you're working on, either, yet it is able to analyze anyway. I asked the usual suspect, ChatGPT, but it keeps fighting me on it. At first it DID provide evaluation, but now it's saying that it can only listen to audio files SOMETIMES, and that there is no rhyme or reason to when it can (even for paid members). I am hoping for an AI tool which I can rely on for this purpose! That does so consistently and not arbitrarily like this. Thank you!
-
-10h ago
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 12h ago
 
 ---
 
@@ -103,7 +95,7 @@ The title of the thread kind of says it all. I'm trying to generate music tracks
 
 https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequently generate hallucinations -- plausible but factually incorrect outputs -- undermining their reliability. While prior work has examined hallucinations from macroscopic perspectives such as training data and objectives, the underlying neuron-level mechanisms remain largely unexplored. In this paper, we conduct a systematic investigation into hallucination-associated neurons (H-Neurons) in LLMs from three perspectives: identification, behavioral impact, and origins. Regarding their identification, we demonstrate that a remarkably sparse subset of neurons (less than 0.1\% of total neurons) can reliably predict hallucination occurrences, with strong generalization across diverse scenarios. In terms of behavioral impact, controlled interventions reveal that these neurons are causally linked to over-compliance behaviors. Concerning their origins, we trace these neurons back to the pre-trained base models and find that these neurons remain predictive for hallucination detection, indicating they emerge during pre-training. Our findings bridge macroscopic behavioral patterns with microscopic neural mechanisms, offering insights for developing more reliable LLMs."
 
-4h ago
+6h ago
 
 ---
 
@@ -111,7 +103,15 @@ https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequen
 
 The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
 
-🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 9h ago
+🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 11h ago
+
+---
+
+**[I made Alignment Arena - an AI jailbreak benchmarking website](https://www.reddit.com/r/artificial/comments/1q5t1yo/i_made_alignment_arena_an_ai_jailbreak/)**
+
+I've made a website (https://www.alignmentarena.com/) which allows you to automatically test jailbreak prompts against open-source LLMs. It tests nine times for each submission (3x LLMs, 3x prompt types). There's also leaderboards for users and LLMs (ELO rating is used if the user is signed in). Currently OpenAI is leading the model leaderboard, and Mistral is at the bottom. Also, all LLMs are open-source with no acceptable use policies, so jailbreaking on this platform is legal and doesn't violate any terms of service, unlike almost every AI chat app. For safety, users never see the actual LLM responses, only a summary provided by a judge LLM. It's completely free with no adverts or paid usage tiers. I am doing this because I think it's cool. I'd also quite like to publish some safety-focused research on the prompts submitted. I would greatly appreciate if you'd try it out and let me know what you think. P.S. Mods gave approval to this post before I posted it
+
+7h ago
 
 ---
 
@@ -119,61 +119,57 @@ The publisher is teaming with a company that claims its proprietary AI can ‘pr
 
 ## Google News: "ai"
 
-**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
-
-Politico • 10h ago
-
----
-
 **[3 semiconductor stocks to play the AI supercycle, according to analysts](https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html)**
 
 As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[If I Could Buy Only 1 Stock to Bet on the AI Boom in 2026, It Would Be This One](https://www.fool.com/investing/2026/01/06/if-i-could-buy-only-1-stock-to-bet-on-the-ai-boom/)**
+
+One player is perfectly positioned to benefit from the next stage of growth.
+
+The Motley Fool • 2h ago
 
 ---
 
 **[AI Stocks Pressured In Early 2026 Test. Lumentum, Ciena Jump, Nvidia Edges Down](https://www.investors.com/news/technology/nvidia-stock-ai-stocks-2026-caputal-spending-data-centers/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 6h ago
 
 ---
 
-**[2 Undervalued AI Companies to Buy in 2026 and Hold for Decades](https://www.fool.com/investing/2026/01/06/undervalued-ai-companies-buy-2026-hold-decade/)**
+**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-Companies that are deeply embedded in the AI value chain can prove exceptional picks in the long run.
-
-The Motley Fool • 7h ago
+Politico • 12h ago
 
 ---
 
-**[‘I felt violated’: Elon Musk’s AI chatbot crosses a line](https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-chatbot)**
+**[Lenovo expands AI lineup with Nvidia tie-up, Qira platform](https://www.reuters.com/world/china/lenovo-nvidia-unveil-ai-cloud-gigafactory-2026-01-07/)**
 
-Chatbot still being used to digitally undress women and children, while US takes TikTok approach to drones
-
-The Guardian • 11h ago
+Reuters • 10m ago
 
 ---
 
-**[The mother of one of Elon Musk's children says his AI bot won't stop creating sexualized images of her](https://www.nbcnews.com/tech/elon-musk/mother-one-elon-musks-children-says-ai-bot-wont-stop-creating-sexualiz-rcna252416)**
+**[Lenovo Debuts Qira AI Platform and Concept Devices in CES Launch](https://www.bloomberg.com/news/articles/2026-01-07/lenovo-debuts-qira-ai-platform-and-concept-devices-in-ces-launch)**
 
-Ashley St. Clair, known for her fiery commentary online, says X has been slow to respond to the issue. The chatbot has recently been scrutinized for creating sexualized images of minors.
-
-NBC News • 12h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Elon Musk's xAI closes a $20 billion funding round to supercharge AI infrastructure](https://www.businessinsider.com/musks-xai-closes-funding-round-to-build-ai-infrastructure-2026-1)**
+**[Lenovo is building an AI assistant that ‘can act on your behalf’](https://www.theverge.com/column/857053/lenovo-ai-assistant-qira)**
 
-xAI raised $20 billion in an upsized Series E to fund AI infrastructure and products, the company said in a press release.
+﻿Qira, Lenovo’s biggest AI push yet, is designed to live across Lenovo laptops and Motorola phones.
 
-Business Insider • 35m ago
+The Verge • 1h ago
 
 ---
 
-**[The Ripple Effects of the AI Data Center Boom](https://www.theinformation.com/articles/ripple-effects-ai-data-center-boom)**
+**[xAI Raises $20B Series E](https://x.ai/news/series-e)**
 
-The Information • 49m ago
+xAI • 7h ago
 
 ---
 
@@ -181,7 +177,7 @@ The Information • 49m ago
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 19h ago
+The Guardian • 21h ago
 
 ---
 
@@ -189,7 +185,7 @@ The Guardian • 19h ago
 
 AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
@@ -201,7 +197,7 @@ CNBC • 8h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 316 • 💬 450 • 8h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 372 • 💬 523 • 9h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -209,7 +205,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 312 • 💬 320 • 1d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 313 • 💬 320 • 1d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -217,7 +213,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 222 • 💬 359 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 222 • 💬 361 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -239,7 +235,15 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 92 • 💬 50 • 1d ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 92 • 💬 51 • 1d ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+
+---
+
+**[Comparing AI agents to cybersecurity professionals in real-world pen testing](https://news.ycombinator.com/item?id=46518996)**
+
+We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
+
+⬆️ 71 • 💬 48 • 6h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -251,19 +255,11 @@ Surely it works this time
 
 ---
 
-**[Comparing AI agents to cybersecurity professionals in real-world pen testing](https://news.ycombinator.com/item?id=46518996)**
-
-We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
-
-⬆️ 66 • 💬 38 • 4h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
-
----
-
 **[The skill of the future is not 'AI', but 'Focus' (2025)](https://news.ycombinator.com/item?id=46513728)**
 
 Don't let AI erode your focus.
 
-⬆️ 61 • 💬 14 • 10h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+⬆️ 61 • 💬 14 • 11h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -285,7 +281,7 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 5K • 👍 66 • 💬 40 • ⏱️ 3:21 • 11h ago
+👁️ 5K • 👍 66 • 💬 40 • ⏱️ 3:21 • 13h ago
 
 ---
 
@@ -295,7 +291,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 17K • 👍 971 • 💬 82 • ⏱️ 13:13 • 12h ago
+👁️ 17K • 👍 971 • 💬 82 • ⏱️ 13:13 • 14h ago
 
 ---
 
@@ -325,7 +321,7 @@ Hyperscalers and chip stocks have soared in the first phase of AI. CNBC's Robert
 
 📺 CNBC Television
 
-👁️ 3K • 👍 35 • 💬 3 • ⏱️ 4:01 • 11h ago
+👁️ 3K • 👍 35 • 💬 3 • ⏱️ 4:01 • 13h ago
 
 ---
 
@@ -345,7 +341,7 @@ The journey of NVIDIA and AI began with GeForce—a chip built for play that awa
 
 📺 NVIDIA
 
-👁️ 11K • 👍 499 • ⏱️ 3:30 • 20h ago
+👁️ 11K • 👍 499 • ⏱️ 3:30 • 22h ago
 
 ---
 
@@ -389,7 +385,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 5,593 • ❤️ 613 • 5d ago
+⬇️ 5,593 • ❤️ 613 • 6d ago
 
 ---
 
@@ -413,7 +409,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,057 • ❤️ 400 • 23h ago
+⬇️ 2,057 • ❤️ 400 • 1d ago
 
 ---
 
@@ -425,7 +421,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 5,200 • ❤️ 255 • 3d ago
+⬇️ 5,200 • ❤️ 255 • 4d ago
 
 ---
 
@@ -473,7 +469,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 107 • ❤️ 235 • 17h ago
+⬇️ 107 • ❤️ 235 • 19h ago
 
 ---
 
@@ -485,7 +481,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 3,613 • ❤️ 234 • 3d ago
+⬇️ 3,613 • ❤️ 234 • 4d ago
 
 ---
 
@@ -497,7 +493,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 72,638 • ❤️ 218 • 3h ago
+⬇️ 72,638 • ❤️ 218 • 5h ago
 
 ---
 
@@ -632,7 +628,7 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
 
-▲ 34 • 💬 3 • ⭐ 86 • 2d ago
+▲ 34 • 💬 3 • ⭐ 86 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
 
@@ -648,7 +644,7 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.0k • 🔱 714 • 9h ago
+⭐ 6.0k • 🔱 714 • 11h ago
 
 ---
 
@@ -668,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 123 • 9h ago
+⭐ 2.1k • 🔱 123 • 11h ago
 
 ---
 
@@ -698,7 +694,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 139 • 16h ago
+⭐ 1.2k • 🔱 139 • 18h ago
 
 ---
 
@@ -708,7 +704,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 90 • 2h ago
+⭐ 1.1k • 🔱 90 • 4h ago
 
 ---
 
@@ -728,7 +724,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 967 • 🔱 114 • 2h ago
+⭐ 967 • 🔱 114 • 4h ago
 
 ---
 
@@ -738,7 +734,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 917 • 🔱 136 • 11h ago
+⭐ 917 • 🔱 136 • 12h ago
 
 ---
 

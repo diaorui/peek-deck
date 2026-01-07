@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T01:49:14.661360+00:00'
+updated: '2026-01-07T03:40:26.854330+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 01:49 UTC  
+**Last Updated:** January 07, 2026 at 03:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,520.15
+### $92,984.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +4.0%  
-**30d:** -0.6%  
-**90d:** -18.4%  
-**1y:** -2.9%  
+**24h:** -1.3%  
+**7d:** +4.2%  
+**30d:** -0.4%  
+**90d:** -18.2%  
+**1y:** -2.7%  
 
 ---
 
@@ -77,35 +77,43 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[A famous Bitcoin quote that keeps resurfacing over time](https://www.reddit.com/r/Bitcoin/comments/1q5rz0c/a_famous_bitcoin_quote_that_keeps_resurfacing/)**
+**[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
-
-6h ago
-
----
-
-**[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
-
-11h ago
-
----
-
-**[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
-
-11h ago
+2h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-1h ago
+3h ago
+
+---
+
+**[A famous Bitcoin quote that keeps resurfacing over time](https://www.reddit.com/r/Bitcoin/comments/1q5rz0c/a_famous_bitcoin_quote_that_keeps_resurfacing/)**
+
+John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
+
+8h ago
+
+---
+
+**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
+
+2h ago
+
+---
+
+**[I own about .7 BTC. Should I blow my bonus to get me to an even 1 BTC?](https://www.reddit.com/r/Bitcoin/comments/1q60wd1/i_own_about_7_btc_should_i_blow_my_bonus_to_get/)**
+
+My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
+
+2h ago
 
 ---
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -113,21 +121,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 6h ago
-
----
-
-**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
-
-1h ago
-
----
-
-**[Strategy will not be removed from MSCI (confirmed)](https://www.reddit.com/r/Bitcoin/comments/1q5veb7/strategy_will_not_be_removed_from_msci_confirmed/)**
-
-It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=DD3Olh5uInk%3D
-
-4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 8h ago
 
 ---
 
@@ -135,7 +129,15 @@ It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet
 
 I hear this question a lot and see it asked all over social media. It sounds like a simple question, but not really because it depends on what you mean by “too late.” Are you too late for 20,000x? Are you too late for 10,000x? Are you too late for 1000x? Are you too late for 100x? Let’s break this down: Current Bitcoin Price $93,570 100x: $93,570 × 100 = $9,357,0001,000x: $93,570 × 1,000 = $93,570,00010,000x: $93,570 × 10,000 = $935,700,000 20,000x: $93,570 × 20,000 = $1,871,400,000 Short answer to “Am I too late?”: Hell no. Not at 93k. Not even at 500k. The people who got in at 3k thought they were late. The ones at 15k thought they missed it. History rhymes as it’s often said. If the thesis plays out the way it’s already doing (fixed supply vs. endless printing), these multiples aren’t crazy—they’re just what happens when sound money wins. You’re not late until it’s boring and everyone already uses it for daily use like groceries, gas, coffee. Very small group already do but not billions of people. Until then? Stack hard. 🚀 🙌🍊
 
-1h ago
+3h ago
+
+---
+
+**[Strategy will not be removed from MSCI (confirmed)](https://www.reddit.com/r/Bitcoin/comments/1q5veb7/strategy_will_not_be_removed_from_msci_confirmed/)**
+
+It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=DD3Olh5uInk%3D
+
+6h ago
 
 ---
 
@@ -143,7 +145,7 @@ I hear this question a lot and see it asked all over social media. It sounds lik
 
 Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
 
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 7h ago
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 9h ago
 
 ---
 
@@ -151,9 +153,25 @@ Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wa
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqfTZJmCHifTJdA3HN_ekRPMfRtrrNHqPrwvpr3SiCAdDvp0VMJJn7cR&gaa_ts=695dbf03&gaa_sig=ahvI692-C8wxmuEjqkKxsvmm6M5ng1BnhvpxBLTzTtaHRDJ8ikWYy33fKFoz26rGRrCkTi-YnUDvSKlQpdk9bw%3D%3D)**
+**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
 
-Barron's • 1d ago
+Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
+
+CNBC • 6h ago
+
+---
+
+**[Bitcoin's Price is Climbing. Did the U.S. Capture of Venezuela's Maduro Help?](https://www.investopedia.com/bitcoin-price-is-climbing-did-the-u-s-capture-of-venezuela-s-maduro-help-11879169)**
+
+The world's largest cryptocurrency is moving higher after the U.S. ousted Venezuelan president Nicolás Maduro over the weekend.
+
+Investopedia • 1d ago
+
+---
+
+**[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
+
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -161,31 +179,35 @@ Barron's • 1d ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://finance.yahoo.com/news/bitcoin-hoarder-strategy-reveals-17-224952376.html)**
+**[Asia Market Open: Bitcoin Holds Near $92K As Asia Rally Loses Steam](https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-024512591.html)**
 
-Michael Saylor's Strategy had a $17.44 billion unrealized loss on ​digital assets in the fourth ‌quarter tied to a decline in the value of ‌the company's cryptocurrency stockpile.  Shares of the largest corporate holder of bitcoin slumped about 47.5% in 2025 as investors reacted ⁠to swings in ‌cryptocurrency markets that impacted Strategy's balance sheet and earnings.  For the ‍year ended December 31, 2025, Startegy reported a $5.40 billion unrealized loss on digital assets.
+Bitcoin traded near $92,000 in early Asia on Wednesday, while regional equities eased after a record start to the year and traders shifted focus back to data risk and geopolitics. Japan set the tone for the pause. The Nikkei slipped in early trade and helped drag the MSCI Asia Pacific ...
 
-Yahoo Finance • 1d ago
-
----
-
-**[MSTR Stock: Strategy's Premium Nearly Gone As Bitcoin Rally Falters](https://www.investors.com/news/mstr-stock-strategy-premium-vanishes-bitcoin-price/)**
-
-MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
-
-Investor's Business Daily • 5h ago
+Yahoo Finance • 13m ago
 
 ---
 
-**[MicroStrategy Shares Fall Another 5% as Confidence Wanes in Saylor’s Bitcoin Playbook](https://finance.yahoo.com/news/microstrategy-shares-fall-another-5-000205535.html)**
+**[MSCI Keeps Strategy — For Now — But Won't Help It Buy Bitcoin](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-MicroStrategy’s stock slides despite another Bitcoin buy, raising fresh doubts about investor confidence and long-term sustainability.
+Investor's Business Daily • 4h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
+
+Reuters • 1d ago
+
+---
+
+**[Big Pain Is Ahead for MicroStrategy Stock as Bitcoin Losses Mount. How Should You Play MSTR for January 2026?](https://finance.yahoo.com/news/big-pain-ahead-microstrategy-stock-161811493.html)**
+
+Down 66% from all-time highs, MSTR stock is under pressure due to falling Bitcoin prices over the last few months.
+
+Yahoo Finance • 11h ago
 
 ---
 
@@ -193,7 +215,7 @@ Yahoo Finance • 1h ago
 
 Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
-ABC News • 4h ago
+ABC News • 6h ago
 
 ---
 
@@ -201,29 +223,7 @@ ABC News • 4h ago
 
 State officials say the consent agreement with Bitcoin Depot will be used to compensate consumers who were defrauded between 2022 and 2025.
 
-WGME • 23h ago
-
----
-
-**[Maine secures $1.9M settlement for bitcoin kiosk scam victims](https://www.centralmaine.com/2026/01/05/maine-secures-1-9m-settlement-for-bitcoin-kiosk-scam-victims/)**
-
-Bitcoin Depot has agreed to refund money that was taken through its kiosks by third-party scammers who defrauded Maine consumers.
-
-Centralmaine.com • 1d ago
-
----
-
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
-
-Reuters • 8h ago
-
----
-
-**[Morgan Stanley files for spot bitcoin and solana ETFs: CNBC Crypto World](https://www.cnbc.com/video/2026/01/06/morgan-stanley-files-for-spot-bitcoin-and-solana-etfs-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, Morgan Stanley filed with the SEC to launch a spot bitcoin and a spot solana ETF. And, Brian Dobson, senior analyst & managing director of disruptive technology at Clear Street, explains his outlook for bitcoin mining in 2026.
-
-CNBC • 6h ago
+WGME • 1d ago
 
 ---
 
@@ -313,7 +313,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 550 • 💬 105 • ⏱️ 6:15 • 4h ago
+👁️ 7K • 👍 550 • 💬 105 • ⏱️ 6:15 • 6h ago
 
 ---
 
@@ -323,7 +323,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 26K • 👍 319 • 💬 208 • ⏱️ 8:25 • 12h ago
+👁️ 26K • 👍 319 • 💬 208 • ⏱️ 8:25 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 3K • 💬 238 • ⏱️ 9:17 • 23h ago
+👁️ 72K • 👍 3K • 💬 238 • ⏱️ 9:17 • 1d ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 501 • 💬 64 • ⏱️ 11:24 • 2h ago
+👁️ 4K • 👍 501 • 💬 64 • ⏱️ 11:24 • 4h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 2K • 💬 50 • ⏱️ 31:55 • 10h ago
+👁️ 17K • 👍 2K • 💬 50 • ⏱️ 31:55 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 CNBC Television
 
-👁️ 12K • 👍 413 • 💬 259 • ⏱️ 4:14 • 5h ago
+👁️ 12K • 👍 413 • 💬 259 • ⏱️ 4:14 • 6h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 22K • 👍 1K • 💬 112 • ⏱️ 16:32 • 14h ago
+👁️ 22K • 👍 1K • 💬 112 • ⏱️ 16:32 • 16h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the b
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 606 • 💬 147 • ⏱️ 57:31 • 8h ago
+👁️ 13K • 👍 606 • 💬 147 • ⏱️ 57:31 • 10h ago
 
 ---
 
