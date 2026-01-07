@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T17:51:54.987393+00:00'
+updated: '2026-01-07T18:35:38.283715+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 17:51 UTC  
+**Last Updated:** January 07, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-6h ago
+7h ago
 
 ---
 
@@ -86,7 +86,7 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-32m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ At my last startup, I led a team to develop indoor localisation using SLAM. Ever
 
 This robot has open interfaces, allowing for DIY modifications and customizable skins.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 4h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Wall Street Journal • 20h ago
 
 LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -128,7 +128,7 @@ Yahoo Finance • 3h ago
 
 Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
 
-The Times of Israel • 3h ago
+The Times of Israel • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ Engadget • 1d ago
 
 New technique varies colour and texture to open up potential applications in display technologies
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -168,7 +168,7 @@ Financial Times • 1h ago
 
 More than a year after the Navy established its robotics warfare (RW) specialist rating, or job specialty, to manage its growing menagerie of small aerial drones and ground robots, the job field is thriving and growing — and other services are taking notice.
 
-USA Today • 51m ago
+USA Today • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ hyundai.com • 1d ago
 
 **[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -201,23 +201,13 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 ---
 
-**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
-
-Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
-
-📺 AI Revolution
-
-👁️ 40K • 👍 1K • 💬 179 • ⏱️ 9:33 • 18h ago
-
----
-
 **[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
 
 Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
 
 📺 PCMag
 
-👁️ 383K • 👍 9K • 💬 2K • ⏱️ 7:00 • 1d ago
+👁️ 400K • 👍 10K • 💬 2K • ⏱️ 7:00 • 1d ago
 
 ---
 
@@ -227,7 +217,17 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 20K • 👍 270 • 💬 11 • ⏱️ 7:38 • 2d ago
+👁️ 21K • 👍 274 • 💬 11 • ⏱️ 7:38 • 2d ago
+
+---
+
+**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
+
+Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 1K • 💬 183 • ⏱️ 9:33 • 19h ago
 
 ---
 
@@ -237,7 +237,17 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 371K • 👍 5K • 💬 892 • ⏱️ 5:49 • 2d ago
+👁️ 380K • 👍 6K • 💬 906 • ⏱️ 5:49 • 2d ago
+
+---
+
+**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
+
+CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
+
+📺 CNBC Television
+
+👁️ 5K • 👍 61 • 💬 16 • ⏱️ 2:58 • 22h ago
 
 ---
 
@@ -247,17 +257,17 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 10K • 👍 61 • 💬 2 • ⏱️ 1:06 • 14h ago
+👁️ 20K • 👍 72 • 💬 3 • ⏱️ 1:06 • 15h ago
 
 ---
 
-**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
+**[Israel’s $900M Robot Learned Like a Human #robotics #airobot #robot #ai #technology #futureofwork](https://www.youtube.com/watch?v=uc7vmuYT_K8)**
 
-Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
+Israel's most advanced humanoid robot learned to change other robots' batteries after watching just a single human ...
 
-📺 7NEWS Australia
+📺 Kalil 4.0
 
-👁️ 4K • 👍 22 • 💬 26 • ⏱️ 2:25 • 11h ago
+👁️ 334 • 👍 10 • ⏱️ 0:59 • 29m ago
 
 ---
 
@@ -267,27 +277,17 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 9K • 👍 227 • 💬 16 • ⏱️ 2:12 • 18h ago
+👁️ 10K • 👍 240 • 💬 17 • ⏱️ 2:12 • 18h ago
 
 ---
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition](https://www.youtube.com/watch?v=YTdr8qykkBA)**
 
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
 
-📺 AI Revolution
+📺 Hyundai Motor Group
 
-👁️ 107K • 👍 2K • 💬 282 • ⏱️ 11:42 • 6d ago
-
----
-
-**[New Atlas Humanoid Revealed! Boston Dynamics &amp; Hyundai Just Changed Robotics Forever](https://www.youtube.com/watch?v=e73kf_iLAP0)**
-
-Hyundai Motor Group and Boston Dynamics brought out their famous Atlas prototype robot for the first time in public to introduce ...
-
-📺 CNET
-
-👁️ 188K • 👍 4K • 💬 657 • ⏱️ 9:05 • 1d ago
+👁️ 36K • 👍 21 • 💬 3 • ⏱️ 2:16 • 15h ago
 
 ---
 

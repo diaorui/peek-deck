@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T17:51:54.978207+00:00'
+updated: '2026-01-07T18:35:38.274407+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 17:51 UTC  
+**Last Updated:** January 07, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1828.78B
+**Market Cap:** $1821.90B
 Rank #1
 
-**Circulating Supply:** 19,972,765 BTC
+**Circulating Supply:** 19,972,781 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.4%
+-27.6%
 
 **All-Time Low:** $67.81
-+134825.5%
++134560.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -107,13 +107,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 #Bitcoin Up, down, sideways… just vibes 😂
 
-1h ago
+2h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -121,7 +121,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 Waste heat from Bitcoin miners is being reused to power greenhouses, turning energy that would normally be lost into food production. Even the loudest skeptics did NOT see this one coming.
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ Waste heat from Bitcoin miners is being reused to power greenhouses, turning ene
 
 Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my trezor model t so u can transfer them in a safe spot! Do you think btc has a good price rn? I want to buy and hold them for a few years. Thank you Pls do not dm
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my tr
 
 **[Counting my profits from crypto](https://www.reddit.com/r/Bitcoin/comments/1q6e1re/counting_my_profits_from_crypto/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 21h ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 5h ago
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Fortune • 12m ago
+Fortune • 56m ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 12m ago
 
 Bitcoin has continued its decline today, having begun the year on a high, rising above $94,000 earlier this week. This latest decline comes despite the release of the November JOLTS job openings, which came in below expectations and strengthened the case for more rate cuts. Bitcoin Drops Amid JOLTS Job Openings Release Bitcoin briefly fell
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investor's Business Daily • 6h ago
 
 Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 7h ago
 
 Bitcoin has been struggling lately to move higher, even after the MSCI has made its decision on digital assets treasury (DATs) companies to remain in MSCI-related global indexes.While this eased fears of firms like Strategy forcefully selling Bitcoin. Yet Bitcoin’s price did not move higher, leavin…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 2h ago
 
 **[Riot sells $162 million in bitcoin as mining hashprice slumps back toward lows](https://www.theblock.co/post/384598/riot-sells-bitcoin-mining-hashprice-slump)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Block • 5h ago
 
 Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
-ABC News • 20h ago
+ABC News • 21h ago
 
 ---
 
@@ -241,7 +241,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 4 • 💬 3 • 4d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 4 • 💬 3 • 5d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -249,13 +249,13 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 5h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 6h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -283,7 +283,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 2h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 3h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -311,17 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 725 • 💬 239 • ⏱️ 6:15 • 20h ago
-
----
-
-**[Why Bitcoin is Set to hit $100,000 Soon](https://www.youtube.com/watch?v=D6cZyjLYXsQ)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 511 • ⏱️ 8:36 • 17h ago
+👁️ 13K • 👍 731 • 💬 257 • ⏱️ 6:15 • 20h ago
 
 ---
 
@@ -331,7 +321,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 193 • ⏱️ 11:24 • 18h ago
+👁️ 18K • 👍 1K • 💬 218 • ⏱️ 11:24 • 19h ago
 
 ---
 
@@ -341,17 +331,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 772 • 💬 67 • ⏱️ 48:00 • 1h ago
+👁️ 15K • 👍 1K • 💬 125 • ⏱️ 48:00 • 2h ago
 
 ---
 
-**[Urgent: Crypto Holders Need To Know About This…](https://www.youtube.com/watch?v=1JWVxZE6pl8)**
+**[Why Bitcoin is Set to hit $100,000 Soon](https://www.youtube.com/watch?v=D6cZyjLYXsQ)**
 
-Time and price are some of the most important things in markets. There is a key time pivot in 48-hours which Kyledoops will show ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 14K • 👍 1K • 💬 23 • ⏱️ 30:55 • 9h ago
+👁️ 21K • 👍 1K • 💬 551 • ⏱️ 8:36 • 18h ago
 
 ---
 
@@ -361,37 +351,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 39K • 👍 356 • 💬 289 • ⏱️ 8:25 • 1d ago
-
----
-
-**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
-
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 78K • 👍 3K • 💬 226 • ⏱️ 9:17 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
-
-This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
-
-📺 Thomas Kralow
-
-👁️ 22K • 👍 3K • 💬 48 • ⏱️ 8:07 • 1d ago
-
----
-
-**[&quot;Crypto Just Got an $8,000,000,000,000 GREEN LIGHT for 2026&quot; - Raoul Pal &amp; Michael Saylor](https://www.youtube.com/watch?v=gyBJQ7aYmA8)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 20K • 👍 622 • 💬 26 • ⏱️ 15:02 • 2d ago
+👁️ 41K • 👍 359 • 💬 289 • ⏱️ 8:25 • 1d ago
 
 ---
 
@@ -401,7 +361,47 @@ David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin 
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 149 • ⏱️ 11:01 • 19h ago
+👁️ 50K • 👍 3K • 💬 149 • ⏱️ 11:01 • 20h ago
+
+---
+
+**[7th Largest Bitcoin Inflow BUT Why The Price KEEPS DROPPING!](https://www.youtube.com/watch?v=U_wp50_lUAc)**
+
+Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are moving slow. Here could be the reason why... Follow Jeff ...
+
+📺 Digital Asset News
+
+👁️ 9K • 👍 660 • 💬 39 • ⏱️ 29:22 • 19h ago
+
+---
+
+**[Why XRP is the new cryptocurrency darling](https://www.youtube.com/watch?v=ZyNJnv-63Lc)**
+
+CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quietly become the breakout trade of crypto's 2026 ...
+
+📺 CNBC Television
+
+👁️ 52K • 👍 1K • 💬 579 • ⏱️ 4:14 • 21h ago
+
+---
+
+**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
+
+Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 78K • 👍 3K • 💬 227 • ⏱️ 9:17 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
+
+This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
+
+📺 Thomas Kralow
+
+👁️ 22K • 👍 3K • 💬 65 • ⏱️ 8:07 • 1d ago
 
 ---
 

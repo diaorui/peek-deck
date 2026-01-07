@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T17:51:54.984167+00:00'
+updated: '2026-01-07T18:35:38.280429+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 17:51 UTC  
+**Last Updated:** January 07, 2026 at 18:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $382.48B
+**Market Cap:** $380.17B
 Rank #2
 
 **Circulating Supply:** 120,694,786 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.0%
+-36.2%
 
 **All-Time Low:** $0.43
-+731014.0%
++729000.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 3h ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 4h ago
 
 ---
 
@@ -92,7 +92,7 @@ Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over
 
 **[Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems](https://www.reddit.com/r/ethereum/comments/1q6kmx8/timebucketed_balance_records_boundedstorage/)**
 
-🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 59m ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 1h ago
 
 ---
 
@@ -150,13 +150,13 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -172,7 +172,7 @@ CNBC • 1d ago
 
 The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ CCN.com • 1d ago
 
 **[Ethereum leads way as most big cryptocurrencies post declines](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-declines-70d11bcd-3880afa3796e?gaa_at=eafs&gaa_n=AWEtsqfpv-oXP76riw-YIHDsGD6ojzTwBliPaE0kT6G_Rx3BjC93aGGwovnT&gaa_ts=695ea09f&gaa_sig=eaxTQKUPJI5UqcFWtj8m0Xbr_6HJX-YJ62oUxaj0GAEfNqwCnxr2FBJeZSiN9_jd6lXKua_To0x8i0uXmjDObw%3D%3D)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -224,23 +224,13 @@ Seeking Alpha • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum News🚨: Morgan Stanley Bets On Huge ETH Pump](https://www.youtube.com/watch?v=02XiWeolYEY)**
-
-Ethereum is on the verge of a massive institutional breakout! In today's video, we're diving into the bombshell news that Morgan ...
-
-📺 Discover Crypto
-
-👁️ 2K • 👍 220 • 3h ago
-
----
-
 **[ETH Is ABOUT TO EXPLODE And ALTCOINS ARE NEXT!!](https://www.youtube.com/watch?v=R9fwVe0163s)**
 
 The crypto market has been rallying over the last few days, and this has everyone wondering which cryptos have the most ...
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 434 • 💬 41 • ⏱️ 10:20 • 4h ago
+👁️ 5K • 👍 552 • 💬 45 • ⏱️ 10:20 • 5h ago
 
 ---
 
@@ -250,17 +240,27 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 13K • 👍 575 • 💬 62 • ⏱️ 12:17 • 18h ago
+👁️ 13K • 👍 584 • 💬 63 • ⏱️ 12:17 • 19h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XO3zYMNVFeI)**
 
-This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Thomas Kralow
+📺 More Crypto Online
 
-👁️ 22K • 👍 3K • 💬 48 • ⏱️ 8:07 • 1d ago
+👁️ 573 • 👍 82 • 💬 5 • ⏱️ 4:16 • 1h ago
+
+---
+
+**[Ethereum News🚨: Morgan Stanley Bets On Huge ETH Pump](https://www.youtube.com/watch?v=02XiWeolYEY)**
+
+Ethereum is on the verge of a massive institutional breakout! In today's video, we're diving into the bombshell news that Morgan ...
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 337 • 💬 16 • ⏱️ 1:08:45 • 1h ago
 
 ---
 
@@ -270,7 +270,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 3 • ⏱️ 4:14 • 14h ago
+👁️ 2K • 👍 137 • 💬 3 • ⏱️ 4:14 • 15h ago
+
+---
+
+**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
+
+This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
+
+📺 Thomas Kralow
+
+👁️ 22K • 👍 3K • 💬 65 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -280,7 +290,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 3K • 💬 138 • ⏱️ 9:50 • 1d ago
+👁️ 54K • 👍 3K • 💬 138 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -290,7 +300,7 @@ Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It 
 
 📺 NextMove Stocks
 
-👁️ 388 • 👍 14 • 💬 1 • ⏱️ 6:53 • 23h ago
+👁️ 422 • 👍 14 • 💬 1 • ⏱️ 6:53 • 1d ago
 
 ---
 
@@ -300,27 +310,17 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 19K • 👍 689 • 💬 442 • ⏱️ 13:40 • 1d ago
+👁️ 19K • 👍 696 • 💬 442 • ⏱️ 13:40 • 1d ago
 
 ---
 
-**[Trader Who Predicted Latest Crypto Rally Gives His Next Major Forecast: BTC, ETH, XRP, SOL, ADA, SUI](https://www.youtube.com/watch?v=VjUFyoAilHo)**
+**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.youtube.com/watch?v=S1zL54voIBI)**
 
-Chief Market Strategist Gareth Soloway updates investors after his latest crypto rally came to fruition. A week ago he predicted a ...
+On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus ...
 
-📺 Gareth Soloway
+📺 CNBC Television
 
-👁️ 48K • 👍 3K • 💬 320 • ⏱️ 12:07 • 23h ago
-
----
-
-**[🚨 **BULLISH REVERSAL** 🚨 2026 🗓️ #BITCOIN #ETH $ALTS](https://www.youtube.com/watch?v=SuGS9-Le_QY)**
-
-BITCOIN, ETH & THE NEXT MAJOR CRYPTO MOVE In this video, we break down the New Year Effect, a weekly RSI breakout, ...
-
-📺 Kevin Svenson Crypto
-
-👁️ 7K • 👍 867 • 💬 188 • ⏱️ 13:24 • 17h ago
+👁️ 16K • 👍 258 • 💬 92 • ⏱️ 12:31 • 1d ago
 
 ---
 
