@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T10:26:20.493512+00:00'
+updated: '2026-01-07T10:50:23.512394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 10:26 UTC  
+**Last Updated:** January 07, 2026 at 10:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12
 
 Holding removes a lot of decision-making. Fewer trades, fewer chances to make mistakes, and fewer moments where you start doubting Bitcoin itself. That’s why buy-and-hold often feels less risky over long timeframes. At the same time, futures exist for a reason. I came across a discussion on Bitunix where some people argued futures aren’t really about beating buy-and-hold, but about shaping exposure and managing risk over time. That made me wonder whether either approach actually has a higher probability of working over years rather than months or cycles. Curious how others here see it?
 
-4h ago
+5h ago
 
 ---
 
@@ -155,7 +155,7 @@ Holding removes a lot of decision-making. Fewer trades, fewer chances to make mi
 
 Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -169,7 +169,7 @@ Barron's • 1d ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -199,7 +199,7 @@ Investor's Business Daily • 11h ago
 
 **[MSCI Shelves Crypto-Exclusion Plan But Signals Wider Review](https://www.bloomberg.com/news/articles/2026-01-06/msci-backs-off-on-crypto-exclusion-plan-but-signals-wider-review)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 4d ago
 
 Miners that look like infrastructure companies may win, while those that rely on pure mining margins face a tougher 2026.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -305,7 +305,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 698 • 💬 222 • ⏱️ 6:15 • 12h ago
+👁️ 12K • 👍 698 • 💬 222 • ⏱️ 6:15 • 13h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 436 • ⏱️ 8:36 • 9h ago
+👁️ 17K • 👍 1K • 💬 436 • ⏱️ 8:36 • 10h ago
 
 ---
 
@@ -345,7 +345,7 @@ Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are movi
 
 📺 Digital Asset News
 
-👁️ 7K • 👍 592 • 💬 30 • ⏱️ 29:22 • 11h ago
+👁️ 7K • 👍 592 • 💬 30 • ⏱️ 29:22 • 12h ago
 
 ---
 
@@ -375,7 +375,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 CNBC Television
 
-👁️ 36K • 👍 759 • 💬 460 • ⏱️ 4:14 • 13h ago
+👁️ 36K • 👍 759 • 💬 460 • ⏱️ 4:14 • 14h ago
 
 ---
 

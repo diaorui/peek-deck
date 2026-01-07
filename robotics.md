@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T10:26:20.503073+00:00'
+updated: '2026-01-07T10:50:23.521676+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 10:26 UTC  
+**Last Updated:** January 07, 2026 at 10:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-40m ago
+1h ago
 
 ---
 
@@ -60,13 +60,13 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 I’ve been constantly revising and reviewing my hexapod leg design for the past few weeks. And so far servos have been working great for most of the times when it comes to prototyping. However, I just realized after watching some YouTube videos regarding hexapod building that knockoffs are not exactly ideal when it comes to building this types of projects since there is a reliability issue. I was wondering where u guys get your servos since I need some reliable ones at a cheap price.
 
-2h ago
+3h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi all, If anyone needs help with a very basic braking (regenerative) resistor s
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 20h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 21h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and
 
 Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
 
-9h ago
+10h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 13h ago
 
 LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -270,7 +270,7 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 6K • 👍 182 • 💬 15 • ⏱️ 2:12 • 10h ago
+👁️ 6K • 👍 182 • 💬 15 • ⏱️ 2:12 • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 4K • 👍 51 • 💬 7 • ⏱️ 2:58 • 14h ago
+👁️ 4K • 👍 51 • 💬 7 • ⏱️ 2:58 • 15h ago
 
 ---
 
@@ -290,7 +290,7 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 2K • 👍 93 • 💬 19 • ⏱️ 25:02 • 3h ago
+👁️ 2K • 👍 93 • 💬 19 • ⏱️ 25:02 • 4h ago
 
 ---
 

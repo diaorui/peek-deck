@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T10:26:20.499709+00:00'
+updated: '2026-01-07T10:50:23.518459+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 10:26 UTC  
+**Last Updated:** January 07, 2026 at 10:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,7 +86,7 @@ Bitquery has released a new stream that delivers real-time, transaction-level pr
 
 **[Real time Prices for all tokens trading across 8 blockchains](https://www.reddit.com/r/ethereum/comments/1q6b3a3/real_time_prices_for_all_tokens_trading_across_8/)**
 
-49m ago
+1h ago
 
 ---
 
@@ -108,7 +108,7 @@ I haven't touched crypto in a minute. Got on a productivity bent yesterday and d
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -150,7 +150,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 23h ago
+CCN.com • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It 
 
 📺 NextMove Stocks
 
-👁️ 312 • 👍 10 • ⏱️ 6:53 • 15h ago
+👁️ 312 • 👍 10 • ⏱️ 6:53 • 16h ago
 
 ---
 
@@ -320,7 +320,7 @@ BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 365 • 💬 103 • ⏱️ 18:45 • 12h ago
+👁️ 9K • 👍 365 • 💬 103 • ⏱️ 18:45 • 13h ago
 
 ---
 
