@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T11:21:39.298032+00:00'
+updated: '2026-01-07T11:42:22.106685+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 11:21 UTC  
+**Last Updated:** January 07, 2026 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $389.24B
+**Market Cap:** $388.97B
 Rank #2
 
 **Circulating Supply:** 120,694,786 ETH
@@ -62,7 +62,7 @@ No max supply
 -34.8%
 
 **All-Time Low:** $0.43
-+744859.9%
++744319.5%
 
 ---
 
@@ -86,13 +86,13 @@ Bitquery has released a new stream that delivers real-time, transaction-level pr
 
 **[Real time Prices for all tokens trading across 8 blockchains](https://www.reddit.com/r/ethereum/comments/1q6b3a3/real_time_prices_for_all_tokens_trading_across_8/)**
 
-1h ago
+2h ago
 
 ---
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -150,7 +150,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -230,7 +230,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 9K • 👍 478 • 💬 53 • ⏱️ 12:17 • 12h ago
+👁️ 11K • 👍 532 • 💬 60 • ⏱️ 12:17 • 12h ago
 
 ---
 
@@ -240,17 +240,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 142 • ⏱️ 8:07 • 19h ago
-
----
-
-**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=YRXolt9wugU)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://www.benjamincowen.com/ Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 47K • 👍 3K • 💬 129 • ⏱️ 9:50 • 21h ago
+👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 19h ago
 
 ---
 
@@ -260,17 +250,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 2 • ⏱️ 4:14 • 8h ago
+👁️ 1K • 👍 105 • 💬 3 • ⏱️ 4:14 • 8h ago
 
 ---
 
-**[Tom Lee $250K Long-Term ETH – Why 2026 Starts the Run](https://www.youtube.com/watch?v=O2A1XJiOdWU)**
+**[Ethereum: Dubious Speculation](https://www.youtube.com/watch?v=YRXolt9wugU)**
 
-Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It sounds impossible, until you look at the ...
+Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://www.benjamincowen.com/ Into The Cryptoverse ...
 
-📺 NextMove Stocks
+📺 Benjamin Cowen
 
-👁️ 312 • 👍 10 • ⏱️ 6:53 • 16h ago
+👁️ 50K • 👍 3K • 💬 130 • ⏱️ 9:50 • 21h ago
 
 ---
 
@@ -280,7 +270,17 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 17K • 👍 654 • 💬 529 • ⏱️ 13:40 • 1d ago
+👁️ 18K • 👍 673 • 💬 470 • ⏱️ 13:40 • 1d ago
+
+---
+
+**[Tom Lee $250K Long-Term ETH – Why 2026 Starts the Run](https://www.youtube.com/watch?v=O2A1XJiOdWU)**
+
+Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It sounds impossible, until you look at the ...
+
+📺 NextMove Stocks
+
+👁️ 324 • 👍 11 • ⏱️ 6:53 • 17h ago
 
 ---
 
@@ -290,17 +290,17 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 16K • 👍 255 • 💬 92 • ⏱️ 12:31 • 1d ago
+👁️ 16K • 👍 256 • 💬 92 • ⏱️ 12:31 • 1d ago
 
 ---
 
-**[⚠️ BREAKING 🚀 Donald Trump BUYS Ethereum, SELLS Bitcoin !! (Major News) (Big Crypto Bill)](https://www.youtube.com/watch?v=n70CMGzbc0g)**
+**[BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=obXxDSK_UOc)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 🌟yourfriendsommi
+📺 Crypto World
 
-👁️ 1K • 👍 209 • 💬 18 • ⏱️ 16:11 • 6h ago
+👁️ 9K • 👍 377 • 💬 108 • ⏱️ 18:45 • 14h ago
 
 ---
 
@@ -314,13 +314,13 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 ---
 
-**[BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=obXxDSK_UOc)**
+**[🚨 **BULLISH REVERSAL** 🚨 2026 🗓️ #BITCOIN #ETH $ALTS](https://www.youtube.com/watch?v=SuGS9-Le_QY)**
 
-BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+BITCOIN, ETH & THE NEXT MAJOR CRYPTO MOVE In this video, we break down the New Year Effect, a weekly RSI breakout, ...
 
-📺 Crypto World
+📺 Kevin Svenson Crypto
 
-👁️ 9K • 👍 365 • 💬 103 • ⏱️ 18:45 • 13h ago
+👁️ 6K • 👍 727 • 💬 160 • ⏱️ 13:24 • 11h ago
 
 ---
 

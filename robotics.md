@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T11:21:39.301211+00:00'
+updated: '2026-01-07T11:42:22.109907+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 11:21 UTC  
+**Last Updated:** January 07, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,13 +52,13 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-24m ago
+45m ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-17m ago
+38m ago
 
 ---
 
@@ -66,13 +66,13 @@ Environment Description The Franka lift cube task environment is built based on 
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-42m ago
+1h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been constantly revising and reviewing my hexapod leg design for the past
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=DTxBZp_J5VQ) • 23m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=DTxBZp_J5VQ) • 44m ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/XxVtjtORXL0) • 56m ago
+🔗 [youtu.be](https://youtu.be/XxVtjtORXL0) • 1h ago
 
 ---
 
@@ -152,7 +152,7 @@ hyundai.com • 1d ago
 
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
@@ -194,7 +194,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 33K • 👍 822 • 💬 146 • ⏱️ 9:33 • 12h ago
+👁️ 36K • 👍 890 • 💬 155 • ⏱️ 9:33 • 12h ago
 
 ---
 
@@ -204,7 +204,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 979K • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
+👁️ 991K • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 19K • 👍 260 • 💬 11 • ⏱️ 7:38 • 2d ago
+👁️ 20K • 👍 261 • 💬 11 • ⏱️ 7:38 • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 327K • 👍 8K • 💬 1K • ⏱️ 7:00 • 1d ago
+👁️ 348K • 👍 8K • 💬 2K • ⏱️ 7:00 • 1d ago
 
 ---
 
@@ -234,27 +234,37 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 349K • 👍 5K • 💬 832 • ⏱️ 5:49 • 2d ago
+👁️ 355K • 👍 5K • 💬 851 • ⏱️ 5:49 • 2d ago
 
 ---
 
-**[Laundry-folding robot debuts at CES 2026](https://www.youtube.com/watch?v=W93GXR7jo5o)**
+**[CES 2026 | Atlas and Spot Leading AI Robotics](https://www.youtube.com/watch?v=yGGoEWjrxMg)**
 
-Technology leaders are gathering in Las Vegas for CES, one of the industry's biggest conferences of the year. CNET editor at ...
+Inside the core technologies shaping the AI Robotics ecosystem. From next-generation Atlas humanoids to Spot powered by Orbit ...
 
-📺 CBS News
+📺 Hyundai Motor Group
 
-👁️ 9K • 👍 63 • 💬 7 • ⏱️ 2:54 • 13h ago
+👁️ 9K • 👍 37 • 💬 1 • ⏱️ 1:06 • 8h ago
 
 ---
 
-**[Hyundai reveals humanoid robot Atlas and dancing robot dogs at CES 2026](https://www.youtube.com/watch?v=R2sBaJmxYic)**
+**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
 
-Robot dogs dancing to K-pop and the first public appearance of Boston Dynamic's product version of its Atlas humanoid robot are ...
+China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
 
-📺 Associated Press
+📺 China Fact Chasers
 
-👁️ 5K • 👍 50 • 💬 21 • ⏱️ 0:43 • 19h ago
+👁️ 16K • 👍 1K • 💬 77 • ⏱️ 8:39 • 6d ago
+
+---
+
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+
+📺 Hyundai Motor Group
+
+👁️ 8K • 👍 38 • ⏱️ 0:33 • 5h ago
 
 ---
 
@@ -264,27 +274,17 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 6K • 👍 182 • 💬 15 • ⏱️ 2:12 • 11h ago
+👁️ 7K • 👍 196 • 💬 15 • ⏱️ 2:12 • 12h ago
 
 ---
 
-**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
 
-CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
 
-📺 CNBC Television
+📺 AI Revolution
 
-👁️ 4K • 👍 51 • 💬 7 • ⏱️ 2:58 • 15h ago
-
----
-
-**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
-
-CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
-
-📺 The Laughing Lion
-
-👁️ 2K • 👍 93 • 💬 19 • ⏱️ 25:02 • 4h ago
+👁️ 106K • 👍 2K • 💬 281 • ⏱️ 11:42 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T11:21:39.292081+00:00'
+updated: '2026-01-07T11:42:22.100749+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 11:21 UTC  
+**Last Updated:** January 07, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1836.71B
+**Market Cap:** $1840.17B
 Rank #1
 
 **Circulating Supply:** 19,972,590 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.1%
+-26.9%
 
 **All-Time Low:** $67.81
-+135461.1%
++135776.7%
 
 ---
 
@@ -105,13 +105,13 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-50m ago
+1h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1h ago
 
 **[MSCI Shelves Crypto-Exclusion Plan But Signals Wider Review](https://www.bloomberg.com/news/articles/2026-01-06/msci-backs-off-on-crypto-exclusion-plan-but-signals-wider-review)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg.com • 12h ago
 
 Bitcoin's been rallying in the early days of 2026, but whether that will continue may depend on the economy.
 
-Yahoo Finance • 16m ago
+Yahoo Finance • 37m ago
 
 ---
 
@@ -289,7 +289,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 698 • 💬 222 • ⏱️ 6:15 • 13h ago
+👁️ 12K • 👍 701 • 💬 230 • ⏱️ 6:15 • 14h ago
 
 ---
 
@@ -299,7 +299,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 1K • 💬 436 • ⏱️ 8:36 • 10h ago
+👁️ 18K • 👍 1K • 💬 430 • ⏱️ 8:36 • 11h ago
 
 ---
 
@@ -309,7 +309,17 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 984 • 💬 182 • ⏱️ 11:24 • 11h ago
+👁️ 14K • 👍 1K • 💬 185 • ⏱️ 11:24 • 12h ago
+
+---
+
+**[Urgent: Crypto Holders Need To Know About This…](https://www.youtube.com/watch?v=1JWVxZE6pl8)**
+
+Time and price are some of the most important things in markets. There is a key time pivot in 48-hours which Kyledoops will show ...
+
+📺 Crypto Banter
+
+👁️ 8K • 👍 942 • 💬 23 • ⏱️ 30:55 • 3h ago
 
 ---
 
@@ -319,27 +329,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 35K • 👍 350 • 💬 268 • ⏱️ 8:25 • 22h ago
-
----
-
-**[7th Largest Bitcoin Inflow BUT Why The Price KEEPS DROPPING!](https://www.youtube.com/watch?v=U_wp50_lUAc)**
-
-Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are moving slow. Here could be the reason why... Follow Jeff ...
-
-📺 Digital Asset News
-
-👁️ 7K • 👍 592 • 💬 30 • ⏱️ 29:22 • 12h ago
-
----
-
-**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
-
-This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
-
-📺 Thomas Kralow
-
-👁️ 20K • 👍 3K • 💬 142 • ⏱️ 8:07 • 19h ago
+👁️ 36K • 👍 353 • 💬 270 • ⏱️ 8:25 • 22h ago
 
 ---
 
@@ -349,17 +339,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 3K • 💬 229 • ⏱️ 9:17 • 1d ago
-
----
-
-**[Why XRP is the new cryptocurrency darling](https://www.youtube.com/watch?v=ZyNJnv-63Lc)**
-
-CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quietly become the breakout trade of crypto's 2026 ...
-
-📺 CNBC Television
-
-👁️ 36K • 👍 759 • 💬 460 • ⏱️ 4:14 • 14h ago
+👁️ 76K • 👍 3K • 💬 226 • ⏱️ 9:17 • 1d ago
 
 ---
 
@@ -369,17 +349,37 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 19K • 👍 606 • 💬 26 • ⏱️ 15:02 • 1d ago
+👁️ 19K • 👍 612 • 💬 25 • ⏱️ 15:02 • 1d ago
 
 ---
 
-**[Crypto Czar David Sacks “All Hell Is Gonna Break Loose” Bitcoin &amp; Ethereum 2026 Clarity Act NEWS!](https://www.youtube.com/watch?v=CGXSyTtpiA0)**
+**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
 
-David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
+This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
 
-📺 Altcoin Daily
+📺 Thomas Kralow
 
-👁️ 38K • 👍 2K • 💬 158 • ⏱️ 11:01 • 13h ago
+👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 19h ago
+
+---
+
+**[BITCOIN: WATCH WITHIN 24 HOURS!!!](https://www.youtube.com/watch?v=AFRiCP3z0_U)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+
+📺 Crypto Rover
+
+👁️ 4K • 👍 369 • 💬 22 • ⏱️ 7:30 • 5h ago
+
+---
+
+**[BITCOIN DUMPING AGAIN... BUT A MASSIVE BULL SIGNAL JUST FLASHED.](https://www.youtube.com/watch?v=Z3ADUNMnWrQ)**
+
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+
+📺 Satoshi Stacker
+
+👁️ 4K • 👍 392 • 💬 26 • ⏱️ 14:23 • 3h ago
 
 ---
 
