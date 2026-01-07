@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T15:27:46.988520+00:00'
+updated: '2026-01-07T15:50:57.807005+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 15:27 UTC  
+**Last Updated:** January 07, 2026 at 15:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -131,7 +131,7 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 **[In 2020, the Fed increased USD money supply by 24.9%. Bitcoin issued exactly 1.8%, as scheduled a decade earlier.](https://www.reddit.com/r/Bitcoin/comments/1q6fqu8/in_2020_the_fed_increased_usd_money_supply_by_249/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -151,7 +151,7 @@ somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12
 
 Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 1h ago
 
 Funding will be used to build and scale Babylon Trustless BTCVaults, enabling native bitcoin to be used as on-chain collateral without custodians or wrapping.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 **[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -211,7 +211,7 @@ Investor's Business Daily • 3h ago
 
 MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -253,7 +253,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 2h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 3h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -281,7 +281,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 16m ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 39m ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -309,7 +309,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 500 • ⏱️ 8:36 • 14h ago
+👁️ 20K • 👍 1K • 💬 500 • ⏱️ 8:36 • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 713 • 💬 237 • ⏱️ 6:15 • 17h ago
+👁️ 13K • 👍 713 • 💬 237 • ⏱️ 6:15 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are movi
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 630 • 💬 38 • ⏱️ 29:22 • 16h ago
+👁️ 8K • 👍 630 • 💬 38 • ⏱️ 29:22 • 17h ago
 
 ---
 

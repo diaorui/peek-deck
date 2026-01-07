@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T15:27:46.979793+00:00'
+updated: '2026-01-07T15:50:57.798555+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 15:27 UTC  
+**Last Updated:** January 07, 2026 at 15:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,13 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-19m ago
+42m ago
 
 ---
 
 **[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 33m ago
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 56m ago
 
 ---
 
@@ -77,7 +77,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Hey everyone — Happy New Year! 🎉 We’re giving away a limited number of FREE 30-day Unlimited Plan codes for Writecream to kick off 2026. If you care about real SEO results (not just content), this is for you. Why Writecream? 🔗 Backlink Autopilot — grow domain authority organically with zero outreach 🌐 SEO + AEO/GEO — rank on Google and AI search results ⚡ One-click optimization — upgrade any existing article instantly 📝 One-click SEO articles — keyword → optimized article with images 🔍 All-in-one SEO tool — Keyword research → one click SEO article with images on researched keywords → backlinks How Backlink Autopilot works: Add your site, and Writecream places contextual, relevant backlinks across its 1M+ user network — only when topics match. No spam, no manual outreach, fully organic. How to get a free code 🎁 Comment “Writecream” below and we’ll DM you a 30-day Unlimited Plan code. First come, first served. Once they’re gone, they’re gone 🚀 Build traffic, authority, and AI visibility on autopilot ✨
 
-4h ago
+5h ago
 
 ---
 
@@ -85,7 +85,7 @@ Hey everyone — Happy New Year! 🎉 We’re giving away a limited number of FR
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ Hey everyone — Happy New Year! 🎊 To kick off 2026, we’re giving away a li
 
 There's an analytical tool-developed primarily in anthropology and ethnology for understanding myths, rituals, gender and food taboos - and rites of passage that can map these categorical structures across time and space. An exceptional framework for those seeking insight into how human cognition organizes experience into meaningful patterns. For decades, anthropologists used this method to scrutinize how ‘le sauvage’ - Lévi-Strauss's deliberately provocative term for those labeled "primitive"-constructed reality through symbolic systems. But the tool works reflexively. It can examine the categories organizing modern technological discourse just as rigorously, revealing that what we take as natural divisions are culturally constructed distinctions no more absolute than the savage/civilized binary itself. The structuralists discovered something profound about human consciousness: our most basic categories-the distinctions we take as natural and obvious-are constructions. Not arbitrary constructions, not merely cultural inventions, but systematic organizing principles that create the reality they appear to describe. This isn't relativism suggesting all categories are equally valid or that objective reality doesn't exist. It's recognition that the tools we use to carve up reality-nature/culture, human/animal, sacred/profane, self/other-emerge from particular ways of organizing experience rather than from discovering pre-existing boundaries in the world. The boundary comes first; the things separated appear second. Claude Lévi-Strauss spent decades analyzing myths, kinship systems, and cultural practices across societies. What he found wasn't diversity of content but universality of structure. Everywhere, humans organize experience through binary oppositions: raw/cooked, nature/culture, life/death, male/female. These aren't discovered in reality but imposed upon it-ways of creating meaning through contrast and relationship rather than through essential properties. The raw and the cooked don't exist as objective categories. Raw meat becomes cooked through fire, but the significance isn't in the physical transformation. It's in the symbolic system that makes "raw" mean wild, natural, dangerous, and "cooked" mean civilized, cultural, safe. The opposition creates meaning; meaning doesn't create the opposition. Language works similarly. Ferdinand de Saussure showed that meaning emerges not from words connecting to things but from words differentiating from other words. "Hot" means what it does because it's not "cold," not because it captures some essential heat-ness. The entire system of language operates through difference rather than reference. Pāṇini recognized this 2,400 years earlier-his Sanskrit grammar doesn't describe language but generates it through formal rules of transformation and opposition. Victor Turner studied rites of passage across cultures and identified a universal three-phase structure: separation (leaving old status), liminality (threshold state), and reincorporation (entering new status). The crucial phase is the middle-liminality. The person undergoing transformation is literally "betwixt and between," neither old identity nor new, temporarily outside the categorical system altogether. Turner called this state dangerous and creative. Dangerous because it violates categories-the initiate is neither child nor adult, neither living in old role nor established in new. Social systems maintain order through clear categories; the liminal figure threatens that order simply by existing in categorical ambiguity. But liminality is also creative because transformation requires this threshold state. You can't get from A to B without passing through the zone where you're neither. Mary Douglas extended this insight through her analysis of pollution and taboo. What societies mark as "unclean" or "polluting" isn't random. It's whatever violates categorical boundaries. The pig in Jewish dietary law isn't unclean because pigs are inherently disgusting. It's unclean because it crosses categories-it has cloven hooves like animals that chew cud, but doesn't chew cud. It's neither one thing nor another, and that categorical ambiguity triggers pollution anxiety. This explains cultural intensity around boundary-crossing figures: transgender people, mixed-race individuals, migrants, anything that challenges clean categorical distinctions. The anxiety isn't about the people themselves but about the threat to the categorical system that maintains social order. Boundaries must be policed because admitting they're constructed rather than discovered threatens the entire symbolic structure. Peter Berger and Thomas Luckmann formalized this in their analysis of social construction. Reality is socially constructed not because objective reality doesn't exist but because the reality we inhabit is mediated through socially created categories, language, and symbolic systems. These systems create a "sacred canopy"-a protective structure of meaning that shields us from chaos and gives order to experience. The sacred canopy isn't a lie. It's a necessary ordering principle. Without categorical systems, experience would be an overwhelming chaos-infinite sensation with no pattern, no meaning, no coherence. Categories create the world we can inhabit. But they're constructions nonetheless, and recognizing them as such reveals something crucial: the boundaries we fight to maintain aren't discoveries about reality but inventions for organizing it. This matters because once you see categories as constructed, you can examine why particular boundaries exist, what they accomplish, and whether they're still serving useful functions or simply maintaining outdated structures through habit and defensiveness. You can distinguish between ontological differences (real material variations) and metaphysical absolutes (claimed essential differences that support particular social arrangements). The structuralist insight doesn't eliminate differences. Biological organisms and computational systems differ materially-evolution produced one through four billion years of selection pressure; humans designed the other over decades. These differences matter. But the categorical chasm maintains that only biological systems can be conscious, that the divide is essential rather than pragmatic-that's not discovered but constructed. It's a sacred canopy erected around substrate differences to maintain particular kinds of order. What emerges from structural analysis is this: human cognition operates through binary oppositions that create meaning through differentiation. These oppositions aren't found in reality but imposed upon it. They serve crucial organizing functions but shouldn't be mistaken for metaphysical truths. And when categorical boundaries come under pressure-when liminal figures appear that violate clean distinctions-the anxiety isn't about the figure itself but about the threat to the entire symbolic system. The structuralists gave us tools to see how categories work, why they persist, and what happens when they're challenged. Now we can ask: What happens when mystical experience reports moving beyond these categories altogether? When consciousness itself seems to transcend the subject/object, self/other distinctions that organize normal awareness as we are witnessing with the rise of AI? What happens when male vs female (ontological construct ‘natural’) and masculine vs feminine (social construct ‘cultural’) are mistaken as similar classificatory categories? Anthropology & Structuralism: Lévi-Strauss, Claude. The Elementary Structures of Kinship. Beacon Press, 1969 (original 1949). Lévi-Strauss, Claude. The Raw and the Cooked: Introduction to a Science of Mythology, Vol. 1. Harper & Row, 1969 (original 1964). Turner, Victor. The Ritual Process: Structure and Anti-Structure. Aldine Transaction, 1969. Douglas, Mary. Purity and Danger: An Analysis of Concepts of Pollution and Taboo. Routledge, 1966. Berger, Peter L., and Thomas Luckmann. The Social Construction of Reality: A Treatise in the Sociology of Knowledge. Anchor Books, 1967 (original 1966).
 
-1h ago
+2h ago
 
 ---
 
@@ -173,13 +173,13 @@ Tech Policy Press • 1h ago
 
 In a complex multi-service, multi-domain scenario — not typically covered in Air Force training — the best of several AI tools generated tactical “courses of action” not only faster than military professionals but also with fewer errors.
 
-Breaking Defense • 17h ago
+Breaking Defense • 18h ago
 
 ---
 
 **[xAI Raises $20B Series E](https://x.ai/news/series-e)**
 
-xAI • 19h ago
+xAI • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ xAI • 19h ago
 
 AI computing demand is surging as companies invest in costly chips, with AMD CEO Lisa Su saying top AI hardware can cost tens of thousands of dollars.
 
-Fox Business • 17h ago
+Fox Business • 18h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fox Business • 17h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 690 • 💬 988 • 21h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 690 • 💬 988 • 22h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -251,7 +251,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 74 • 💬 17 • 21h ago
+⬆️ 74 • 💬 17 • 22h ago
 
 ---
 
@@ -349,7 +349,7 @@ Learn How To Make AI Videos From Beginner to Expert Create Your Own AI Videos ht
 
 📺 Dan Kieft
 
-👁️ 21K • 💬 12 • ⏱️ 13:48 • 23h ago
+👁️ 21K • 💬 12 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 102 • 💬 16 • ⏱️ 9:50 • 12h ago
+👁️ 5K • 👍 102 • 💬 16 • ⏱️ 9:50 • 13h ago
 
 ---
 
@@ -369,7 +369,7 @@ Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=
 
 📺 WorldofAI
 
-👁️ 5K • 👍 162 • 💬 17 • ⏱️ 12:11 • 9h ago
+👁️ 5K • 👍 162 • 💬 17 • ⏱️ 12:11 • 10h ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 376 • 3h ago
+⬇️ 84,353 • ❤️ 376 • 4h ago
 
 ---
 
@@ -469,7 +469,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 228 • 16h ago
+⬇️ 77,452 • ❤️ 228 • 17h ago
 
 ---
 
@@ -692,7 +692,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 141 • 8h ago
+⭐ 1.2k • 🔱 141 • 9h ago
 
 ---
 
@@ -732,7 +732,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 936 • 🔱 139 • 1h ago
+⭐ 936 • 🔱 139 • 2h ago
 
 ---
 

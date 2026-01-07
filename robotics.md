@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T15:27:46.997894+00:00'
+updated: '2026-01-07T15:50:57.816239+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 15:27 UTC  
+**Last Updated:** January 07, 2026 at 15:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-5h ago
+6h ago
 
 ---
 
@@ -66,13 +66,13 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-4h ago
+5h ago
 
 ---
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-39m ago
+1h ago
 
 ---
 
@@ -112,7 +112,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 **[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqeBlrRpctqbc6ezwGDFQ9Ws2ZDg-Bb681wpH0yvd68AAGof-xXDRBQe&gaa_ts=695e7ee0&gaa_sig=BfJGGxJQzmQ2epjh6cGmyflHHG4WleN8Fa8vHQsJouttvVepNGBTmtP5zyhHNyDHWjfOCjaAMzTmLi7W0WMFXw%3D%3D)**
 
-The Wall Street Journal • 17h ago
+The Wall Street Journal • 18h ago
 
 ---
 
@@ -255,7 +255,7 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 8K • 👍 213 • 💬 16 • ⏱️ 2:12 • 15h ago
+👁️ 8K • 👍 213 • 💬 16 • ⏱️ 2:12 • 16h ago
 
 ---
 
@@ -285,7 +285,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 5K • 👍 54 • 💬 9 • ⏱️ 2:58 • 19h ago
+👁️ 5K • 👍 54 • 💬 9 • ⏱️ 2:58 • 20h ago
 
 ---
 
