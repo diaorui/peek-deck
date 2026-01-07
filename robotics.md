@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T22:21:53.374364+00:00'
+updated: '2026-01-07T22:46:37.530908+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 22:21 UTC  
+**Last Updated:** January 07, 2026 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,9 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[The EngineAI T800 in Las Vegas at CES](https://www.reddit.com/r/robotics/comments/1q6b7w1/the_engineai_t800_in_las_vegas_at_ces/)**
+**[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
-
-12h ago
+1h ago
 
 ---
 
@@ -46,9 +44,11 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 ---
 
-**[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
+**[The EngineAI T800 in Las Vegas at CES](https://www.reddit.com/r/robotics/comments/1q6b7w1/the_engineai_t800_in_las_vegas_at_ces/)**
 
-1h ago
+From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
+
+13h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-1h ago
+2h ago
 
 ---
 
@@ -100,7 +100,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-11h ago
+12h ago
 
 ---
 
@@ -108,7 +108,7 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 ## Google News: "robotics"
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqc7f6Wx7fRZS9UwMaWysotCs9q2q6dy34-aueDjAEvI7CiRAh7q9KhS&gaa_ts=695ed6d9&gaa_sig=-Iq3h3yWzNiN4cJ2kyozegk_xRBH0jd2NuWsl7-KSa0SawHfdiUPz2lE2ad3zn_N-ntZ1ciUIBHC_otSFqSxBg%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqdoNBv-qZZ2BcPJgTVGgBfYAAA7PdZoNKiihp1XUoNMcquiodPcktcw&gaa_ts=695ee5b9&gaa_sig=bFB6OP8WCMh5VvvchQ734rdbIm_sGEaswUGUR2emelqSly1kP1mEvdPlf1N2bFivyFAlehLOCgsGHgViQzkjUA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -122,25 +122,15 @@ NVIDIA Newsroom • 2d ago
 
 ---
 
-**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
-
-Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
-
-TechCrunch • 1d ago
-
----
-
-**[Watch the NVIDIA CES 2026 keynote with CEO Jensen Huang live here: AI, robotics updates and more](https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html)**
-
-NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
-
-Engadget • 1d ago
-
----
-
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
 Reuters • 1h ago
+
+---
+
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -152,18 +142,18 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
 
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
 hyundai.com • 2d ago
+
+---
+
+**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -180,6 +170,14 @@ Interesting Engineering • 2d ago
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
 CNET • 2d ago
+
+---
+
+**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
+
+Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
+
+90.5 WESA • 12h ago
 
 ---
 
@@ -273,7 +271,7 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 386K • 👍 163 • 💬 1 • ⏱️ 0:47 • 17h ago
+👁️ 386K • 👍 163 • 💬 1 • ⏱️ 0:47 • 18h ago
 
 ---
 
@@ -283,7 +281,7 @@ I designed a self-balancing robot. It's Arduino based and 3D printed with zero s
 
 📺 Build Some Stuff
 
-👁️ 4K • 👍 365 • 💬 33 • ⏱️ 3:00 • 19h ago
+👁️ 4K • 👍 365 • 💬 33 • ⏱️ 3:00 • 20h ago
 
 ---
 

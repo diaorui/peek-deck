@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T22:21:53.353352+00:00'
+updated: '2026-01-07T22:46:37.513179+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 22:21 UTC  
+**Last Updated:** January 07, 2026 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,15 +55,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 17h ago
-
----
-
-**[Sony AI patent will see PlayStation games play themselves when players are stuck | AI-Generated 'Ghost Player' assistance would help out players who can’t progress in a game](https://www.reddit.com/r/artificial/comments/1q6n6gw/sony_ai_patent_will_see_playstation_games_play/)**
-
-AI-Generated Ghost Player assistance would help out players who can’t progress in a game…
-
-🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 3h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 18h ago
 
 ---
 
@@ -75,14 +67,6 @@ I’m exploring a design problem around how people find others to talk to about 
 
 ---
 
-**[ACE-Step: Generate AI music locally in 20 seconds (runs on 8GB VRAM)](https://www.reddit.com/r/artificial/comments/1q6mfoe/acestep_generate_ai_music_locally_in_20_seconds/)**
-
-I documented a comprehensive guide for ACE-Step after testing various AI music tools (MusicGen, Suno API, Stable Audio). Article with code: https://medium.com/gitconnected/i-generated-4-minutes-of-k-pop-in-20-seconds-using-pythons-fastest-music-ai-a9374733f8fc Why it's different: Runs completely locally (no API costs, no rate limits) Generates 4 minutes of music in ~20 seconds Works on budget GPUs (8GB VRAM with CPU offload) Supports vocals in 19 languages (English, Korean, etc.) Open-source and free Technical approach: Uses latent diffusion (27 denoising steps) instead of autoregressive generation 15× faster than token-based models like MusicGen Can run on RTX 4060, 3060, or similar 8GB cards What's covered in the guide: Complete installation (Windows troubleshooting included) Memory optimization for budget GPUs Batch generation for quality control Production deployment with FastAPI Two complete projects: Adaptive game music system (changes based on gameplay) DMCA-free music for YouTube/TikTok/Twitch Use cases: Game developers needing dynamic music Content creators needing copyright-free music Developers building music generation features Anyone wanting to experiment with AI audio locally All implementation code is included - you can set it up and start generating in ~30 minutes. Happy to answer questions about local AI music generation or deployment!
-
-4h ago
-
----
-
 **[I fact-checked "AI 2041" predictions from 2021. Here's what Kai-Fu Lee got right and wrong.](https://www.reddit.com/r/artificial/comments/1q6q1h8/i_factchecked_ai_2041_predictions_from_2021_heres/)**
 
 Been on an AI book kick lately. Picked up AI 2041 by Kai-Fu Lee and Chen Qiufan—it came out in 2021, before ChatGPT launched. Wanted to see how the predictions held up. Quick background: Lee was president of Google China and is a major AI investor. Chen is an award-winning Chinese sci-fi author. The format is interesting—each chapter has a sci-fi story set in 2041, then Lee follows with technical analysis. My Scorecard ✅ Got It Right Deepfake explosion — Predicted massive growth. Reality: 500K in 2023 → 8M in 2025 (900% annual growth) Education AI — Predicted personalized learning would go mainstream. Reality: 57% of universities now prioritizing AI Voice cloning — Predicted it would become trivially easy. Reality: seconds of audio now creates convincing clones Insurance AI — Predicted deep learning would transform insurance pricing. Reality: happening now Job displacement pattern — Predicted gradual change hitting specific sectors first. Reality: exactly what we're seeing ❌ Got It Wrong AGI timeline — Lee was skeptical it would come soon. Industry leaders now say 2026-2028. Autonomous vehicles — Book suggested faster adoption than we've seen Chatbot capability — Didn't anticipate how fast LLMs would improve ⏳ Still TBD Quantum computing threats (book has a whole story about this) Full automation of routine jobs VR/AR immersive experiences Overall: Surprisingly accurate for a 2021 book. The fiction-plus-analysis format works well. Some stories drag and have dated cultural elements, but the predictions embedded in them keep hitting. Anyone else read this? Curious what other pre-ChatGPT AI books have aged well (or badly).
@@ -91,11 +75,27 @@ Been on an AI book kick lately. Picked up AI 2041 by Kai-Fu Lee and Chen Qiufan�
 
 ---
 
+**[Sony AI patent will see PlayStation games play themselves when players are stuck | AI-Generated 'Ghost Player' assistance would help out players who can’t progress in a game](https://www.reddit.com/r/artificial/comments/1q6n6gw/sony_ai_patent_will_see_playstation_games_play/)**
+
+AI-Generated Ghost Player assistance would help out players who can’t progress in a game…
+
+🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 4h ago
+
+---
+
+**[ACE-Step: Generate AI music locally in 20 seconds (runs on 8GB VRAM)](https://www.reddit.com/r/artificial/comments/1q6mfoe/acestep_generate_ai_music_locally_in_20_seconds/)**
+
+I documented a comprehensive guide for ACE-Step after testing various AI music tools (MusicGen, Suno API, Stable Audio). Article with code: https://medium.com/gitconnected/i-generated-4-minutes-of-k-pop-in-20-seconds-using-pythons-fastest-music-ai-a9374733f8fc Why it's different: Runs completely locally (no API costs, no rate limits) Generates 4 minutes of music in ~20 seconds Works on budget GPUs (8GB VRAM with CPU offload) Supports vocals in 19 languages (English, Korean, etc.) Open-source and free Technical approach: Uses latent diffusion (27 denoising steps) instead of autoregressive generation 15× faster than token-based models like MusicGen Can run on RTX 4060, 3060, or similar 8GB cards What's covered in the guide: Complete installation (Windows troubleshooting included) Memory optimization for budget GPUs Batch generation for quality control Production deployment with FastAPI Two complete projects: Adaptive game music system (changes based on gameplay) DMCA-free music for YouTube/TikTok/Twitch Use cases: Game developers needing dynamic music Content creators needing copyright-free music Developers building music generation features Anyone wanting to experiment with AI audio locally All implementation code is included - you can set it up and start generating in ~30 minutes. Happy to answer questions about local AI music generation or deployment!
+
+4h ago
+
+---
+
 **[Which web tools to create high quality AI images?](https://www.reddit.com/r/artificial/comments/1q6s3u6/which_web_tools_to_create_high_quality_ai_images/)**
 
 Which tool do you use to create AI images? I tried Microsoft Designer website but the quality was very poor. The generator in free ChatGPT is a bit better but I am still not able to produce images without obvious artifacts. Are the images of the paid version better or is it just faster and you have move requests available? The descriptions in the "Upgrade you plan" dialogue are very vague. Are the any more alternatives? P.S. I do not want to install terabytes of data and install douzands of plugins and extensions for a local model. I prefer a web solution. Thank you in advance.
 
-59m ago
+1h ago
 
 ---
 
@@ -119,57 +119,35 @@ Serious question for people working with ML systems that act autonomously. We of
 
 ## Google News: "ai"
 
-**[Amazon AI Tool Blindsides Merchants by Offering Products Without Their Knowledge](https://www.bloomberg.com/news/articles/2026-01-06/amazon-ai-tool-blindsides-merchants-by-offering-products-without-their-knowledge)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
 Politico • 1d ago
 
 ---
 
-**[Will 2026 Be the Year That the AI Industry Stops Crowing About ‘AGI’?](https://gizmodo.com/will-2026-be-the-year-that-the-ai-industry-stops-crowing-about-agi-2000707012)**
+**[Amazon AI Tool Blindsides Merchants by Offering Products Without Their Knowledge](https://www.bloomberg.com/news/articles/2026-01-06/amazon-ai-tool-blindsides-merchants-by-offering-products-without-their-knowledge)**
 
-Surely it's not because AGI is simply unachievable with the current technology.
-
-Gizmodo • 56m ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Google, AI firm settle lawsuit over teen's suicide linked to Chatbot](https://www.reuters.com/world/google-ai-firm-settle-florida-mothers-lawsuit-over-sons-suicide-2026-01-07/)**
+**[Yes, LinkedIn banned AI agent startup Artisan, but now it’s back](https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/)**
 
-Reuters • 1h ago
+Several viral posts noticed that Artisan was banned. But the CEO tells us it wasn't for the reasons many thought.
 
----
-
-**[Google, Character.AI to settle suits involving minor suicides and AI chatbots](https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html)**
-
-Google and Character.AI are settling with families who sued the companies over alleged harm caused by AI chatbots.
-
-CNBC • 1h ago
+TechCrunch • 42m ago
 
 ---
 
-**[AI Chatbot Startup, Google to Settle Lawsuits Over Teen Suicides](https://www.wsj.com/tech/ai/ai-chatbot-startup-google-to-settle-lawsuits-over-teen-suicides-fb41a063?gaa_at=eafs&gaa_n=AWEtsqcYvNrg7DEabIFsCqqzFnhCNbj_b0Gv4Idplm439FWg6GbBVThX3cd5&gaa_ts=695ed6d4&gaa_sig=f027DqEAZ36tleicBNvRe4ETcL7JHIX6qslrjSseH52z3cudxJqDRX2BIR7IbB3THxJdp7_sLzsg5t-qiRxFjw%3D%3D)**
+**[Utah allows nation's first AI drug prescriptions](https://www.axios.com/local/salt-lake-city/2026/01/07/utah-ai-drug-prescriptions-doctronic)**
 
-The Wall Street Journal • 3h ago
-
----
-
-**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
-
-"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
-
-Fortune • 1h ago
+Axios • 35m ago
 
 ---
 
-**[‘Whata Bod’: An AI-generated NWS map invented fake towns in Idaho](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/)**
+**[Why Podcast Experts Say AI Won't Save You—But Consistency Will](https://www.forbes.com/sites/damiontaylor/2026/01/07/why-podcast-experts-say-ai-wont-save-you-but-consistency-will/)**
 
-The Washington Post • 16h ago
+Forbes • 42m ago
 
 ---
 
@@ -177,15 +155,37 @@ The Washington Post • 16h ago
 
 Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
 
-Quanta Magazine • 6h ago
+Quanta Magazine • 7h ago
 
 ---
 
-**[3 semiconductor stocks to play the AI supercycle, according to analysts](https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html)**
+**[Air Force says AI tools outperform human planners in ‘battle management’ experiment](https://breakingdefense.com/2026/01/air-force-says-ai-tools-outperform-human-planners-in-battle-management-experiment/)**
 
-As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
+In a complex multi-service, multi-domain scenario — not typically covered in Air Force training — the best of several AI tools generated tactical “courses of action” not only faster than military professionals but also with fewer errors.
 
-Yahoo Finance • 16h ago
+Breaking Defense • 1d ago
+
+---
+
+**[Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)**
+
+Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
+
+WIRED • 1d ago
+
+---
+
+**[Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x)**
+
+Bloomberg.com • 11h ago
+
+---
+
+**[Commons women and equalities committee to stop using X amid AI-altered images row](https://www.theguardian.com/technology/2026/jan/07/commons-women-equalities-committee-stop-using-x-ai-altered-grok-images)**
+
+Exclusive: Move follows outcry over use of Grok to digitally remove clothing from images of women and children
+
+The Guardian • 6h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 16h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 798 • 💬 1215 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 802 • 💬 1230 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -221,7 +221,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 136 • 💬 79 • 6h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 138 • 💬 83 • 7h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -229,7 +229,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 121 • 💬 89 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 121 • 💬 90 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -247,9 +247,17 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 ---
 
+**[LMArena is a cancer on AI](https://news.ycombinator.com/item?id=46522632)**
+
+Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
+
+⬆️ 80 • 💬 29 • 18h ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+
+---
+
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 75 • 💬 17 • 1d ago
+⬆️ 76 • 💬 17 • 1d ago
 
 ---
 
@@ -258,14 +266,6 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 A structural code search engine for Al agents. Contribute to marcoaapfortes/Mantic.sh development by creating an account on GitHub.
 
 ⬆️ 73 • 💬 34 • 1d ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
-
----
-
-**[The skill of the future is not 'AI', but 'Focus' (2025)](https://news.ycombinator.com/item?id=46513728)**
-
-Don't let AI erode your focus.
-
-⬆️ 66 • 💬 15 • 1d ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -279,7 +279,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 112 • 💬 18 • ⏱️ 9:50 • 19h ago
+👁️ 5K • 👍 112 • 💬 18 • ⏱️ 9:50 • 20h ago
 
 ---
 
@@ -319,7 +319,7 @@ Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=
 
 📺 WorldofAI
 
-👁️ 7K • 👍 207 • 💬 19 • ⏱️ 12:11 • 16h ago
+👁️ 7K • 👍 207 • 💬 19 • ⏱️ 12:11 • 17h ago
 
 ---
 
@@ -359,7 +359,7 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 386K • 👍 163 • 💬 1 • ⏱️ 0:47 • 17h ago
+👁️ 386K • 👍 163 • 💬 1 • ⏱️ 0:47 • 18h ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 419 • 10h ago
+⬇️ 84,353 • ❤️ 419 • 11h ago
 
 ---
 
@@ -469,7 +469,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 232 • 23h ago
+⬇️ 77,452 • ❤️ 232 • 1d ago
 
 ---
 
@@ -662,7 +662,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 5h ago
+⭐ 2.1k • 🔱 126 • 6h ago
 
 ---
 
@@ -692,7 +692,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 15h ago
+⭐ 1.2k • 🔱 142 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T22:21:53.363483+00:00'
+updated: '2026-01-07T22:46:37.521714+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 22:21 UTC  
+**Last Updated:** January 07, 2026 at 22:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** +2.4%  
-**30d:** -2.1%  
-**90d:** -19.6%  
-**1y:** -4.4%  
+**24h:** -2.7%  
+**7d:** +2.7%  
+**30d:** -1.8%  
+**90d:** -19.4%  
+**1y:** -4.1%  
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
+**[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-11h ago
+4h ago
 
 ---
 
@@ -91,15 +91,15 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 ---
 
-**[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
-
-3h ago
-
----
-
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
 5h ago
+
+---
+
+**[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
+
+12h ago
 
 ---
 
@@ -113,7 +113,15 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-13h ago
+14h ago
+
+---
+
+**[Almost finished wiping out longs](https://www.reddit.com/r/Bitcoin/comments/1q6rd4m/almost_finished_wiping_out_longs/)**
+
+Once these last longs are liquidated, I bet we rocket past $95k.
+
+1h ago
 
 ---
 
@@ -125,9 +133,11 @@ Waste heat from Bitcoin miners is being reused to power greenhouses, turning ene
 
 ---
 
-**[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
+**[I did it.](https://www.reddit.com/r/Bitcoin/comments/1q6snci/i_did_it/)**
 
-22h ago
+I have just bought my first 100$ worth of bitcoin!
+
+1h ago
 
 ---
 
@@ -135,13 +145,7 @@ Waste heat from Bitcoin miners is being reused to power greenhouses, turning ene
 
 Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my trezor model t so u can transfer them in a safe spot! Do you think btc has a good price rn? I want to buy and hold them for a few years. Thank you Pls do not dm
 
-5h ago
-
----
-
-**[In 2020, the Fed increased USD money supply by 24.9%. Bitcoin issued exactly 1.8%, as scheduled a decade earlier.](https://www.reddit.com/r/Bitcoin/comments/1q6fqu8/in_2020_the_fed_increased_usd_money_supply_by_249/)**
-
-8h ago
+6h ago
 
 ---
 
@@ -159,37 +163,23 @@ CNBC • 1d ago
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
-**[Big Pain Is Ahead for MicroStrategy Stock as Bitcoin Losses Mount. How Should You Play MSTR for January 2026?](https://finance.yahoo.com/news/big-pain-ahead-microstrategy-stock-161811493.html)**
+**[Strategy ($MSTR) Jumps 7% On Positive MSCI News](https://bitcoinmagazine.com/markets/strategy-mstr-jumps-7-after-msci-news)**
 
-Down 66% from all-time highs, MSTR stock is under pressure due to falling Bitcoin prices over the last few months.
+Strategy shares (MSTR) jumped after MSCI decided not to exclude bitcoin-heavy firms from its indexes.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
-
-Reuters • 1d ago
+Bitcoin Magazine • 4h ago
 
 ---
 
-**[Coinbase exec names 2 factors driving bitcoin back toward highs in 2026](https://finance.yahoo.com/news/coinbase-exec-names-2-factors-driving-bitcoin-back-toward-highs-in-2026-205653237.html)**
+**[Why Bitcoin Is Not Surging Despite Bullish MSCI News](https://www.tradingview.com/news/coinpedia:c19c0691f094b:0-why-bitcoin-is-not-surging-despite-bullish-msci-news/)**
 
-After a $19 billion liquidation stress test in October 2025, institutional building is creating a new floor for the digital asset, according to a Coinbase's John D'Agostino.
+Bitcoin has been struggling lately to move higher, even after the MSCI has made its decision on digital assets treasury (DATs) companies to remain in MSCI-related global indexes.While this eased fears of firms like Strategy forcefully selling Bitcoin. Yet Bitcoin’s price did not move higher, leavin…
 
-Yahoo Finance • 1h ago
-
----
-
-**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
-
-If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
-
-Bitcoin Magazine • 1h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -215,9 +205,23 @@ Forbes • 8h ago
 
 ---
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqeWkQqlIOPx5bNEewMagwWMd4NxhIh23K8FX89pSjte4SGa90ZIQScH&gaa_ts=695ed6d5&gaa_sig=DANdXFo0WPuer-3Dzr_i1RaEnp3jDVwomgfl8ScWJE0zW5m_5olNRmLK9OmfGhWgaR4Bpmpx_E8uybUc0VVmIA%3D%3D)**
+**[Bitcoin Drops. Why the Crypto Rally Is Taking a Pause Today.](https://www.barrons.com/articles/bitcoin-price-today-xrp-ethereum-cryptos-35636124?gaa_at=eafs&gaa_n=AWEtsqf_W2b8bg5h7hgkdZ7Lwtuzqg8ZINQrTR3FcvdzGzbamvpV6aQ4M9UI&gaa_ts=695ee5b6&gaa_sig=iK3MVE3tl7osvJksf5rAzpCckaasGClMac2zF5hChz9kco9bn2ottPgaLA7KTA8a59_qazVHskgcroodZ3wkoA%3D%3D)**
 
-Barron's • 2d ago
+Barron's • 8h ago
+
+---
+
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqeJbz3ltPaTK9_JfNqR2GgLb-n-vROtxfBL5JxaSxPwVNrxSIuR7FdY&gaa_ts=695ee5b6&gaa_sig=rMZBl7vuZIdj0QFbc3MuofM1yGRBiKf5UQ-JP1n26fxMxKs-q0Ouqyk06yBu_IOCx3uY_WkDAxSG9d88eIEy0w%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
+
+Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
+
+abcnews.go.com • 1d ago
 
 ---
 
@@ -251,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 9h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 10h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -307,7 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 415 • 💬 17 • ⏱️ 14:22 • 5h ago
+👁️ 6K • 👍 415 • 💬 17 • ⏱️ 14:22 • 6h ago
 
 ---
 
@@ -357,7 +361,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 10K • 👍 749 • 💬 52 • ⏱️ 7:10 • 8h ago
+👁️ 10K • 👍 749 • 💬 52 • ⏱️ 7:10 • 9h ago
 
 ---
 
@@ -377,7 +381,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:24 • 22h ago
+👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:24 • 23h ago
 
 ---
 
@@ -397,7 +401,7 @@ Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are movi
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 666 • 💬 39 • ⏱️ 29:22 • 23h ago
+👁️ 9K • 👍 666 • 💬 39 • ⏱️ 29:22 • 1d ago
 
 ---
 

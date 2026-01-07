@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T22:21:53.370944+00:00'
+updated: '2026-01-07T22:46:37.527720+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 22:21 UTC  
+**Last Updated:** January 07, 2026 at 22:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,10 +43,10 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -4.1%  
-**7d:** +4.7%  
-**30d:** -5.3%  
-**90d:** -18.5%  
-**1y:** -5.5%  
+**7d:** +5.2%  
+**30d:** -4.8%  
+**90d:** -18.1%  
+**1y:** -5.0%  
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 16h ago
+
+---
+
+**[Does a Cyberscope Audit Prove FortisX.fi Is Secure in Web3?](https://www.reddit.com/r/ethereum/comments/1q6smil/does_a_cyberscope_audit_prove_fortisxfi_is_secure/)**
+
+PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
+
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 1h ago
 
 ---
 
@@ -114,7 +122,7 @@ Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -129,14 +137,6 @@ Yet another data breach, this time involving payment processor Global-E, with cu
 **[Daily General Discussion January 05, 2026](https://www.reddit.com/r/ethereum/comments/1q4duem/daily_general_discussion_january_05_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
-**[why doesn't ethereum scaling for games get more attention, the ux problems are massive](https://www.reddit.com/r/ethereum/comments/1q4qi9z/why_doesnt_ethereum_scaling_for_games_get_more/)**
-
-Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
 2d ago
 
@@ -160,11 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum’s staking exit queue has no wait time, while the entrance line is over 25 days](https://sherwood.news/crypto/ethereums-staking-exit-queue-has-no-wait-time-while-the-entrance-line-is/)**
+**[Ethereum news: Staking queues drop to nearly zero, setting up bearish outlook for ETH](https://www.coindesk.com/markets/2026/01/06/ethereum-s-staking-queues-have-cleared-and-that-changes-the-eth-trade)**
 
-The imbalance is one sign of confidence among ethereum holders as ETFs and treasury firms incorporate staking....
+With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-Sherwood News • 4h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -174,19 +174,9 @@ The Block • 10h ago
 
 ---
 
-**[Morgan Stanley Files for Spot Ethereum ETFs as TradFi Deepens Crypto Exposure](https://finance.yahoo.com/news/morgan-stanley-files-spot-ethereum-183205032.html)**
+**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
-Morgan Stanley files Ethereum ETFs as Wall Street expands crypto exposure despite volatility and a weakening market backdrop.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Morgan Stanley Adds Ethereum Trust To Planned Crypto ETF Lineup](https://decrypt.co/353829/morgan-stanley-adds-ethereum-trust-to-planned-crypto-etf-lineup)**
-
-The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
-
-Decrypt • 9h ago
+The Block • 2d ago
 
 ---
 
@@ -198,25 +188,31 @@ CNBC • 2d ago
 
 ---
 
-**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-The Block • 2d ago
-
----
-
-**[Grayscale's Ethereum ETF Begins Paying Staking Rewards](https://decrypt.co/353677/grayscales-ethereum-etf-begins-paying-staking-rewards)**
-
-The Ethereum payout marks the first time a U.S. spot crypto product has distributed protocol-level income to investors.
-
-Decrypt • 1d ago
+CCN.com • 1d ago
 
 ---
 
-**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
+**[Ethereum: The Accumulation Addresses Catalyst (Cryptocurrency: ETH-USD)](https://seekingalpha.com/article/4857134-ethereum-the-accumulation-addresses-catalyst)**
 
-PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
+Ethereum is in an accumulation phase, with supply shifting to long-term holders, supporting a bullish medium- to long-term thesis. Read why I rate the ETH-USD stock a Buy.
 
-CoinDesk • 2d ago
+Seeking Alpha • 2d ago
+
+---
+
+**[Crypto Price News Jan. 5: Bitcoin, Ethereum, XRP, BNB, Solana, Dogecoin, Cardano, BCH](https://www.binance.com/en/square/post/01-05-2026-crypto-price-news-jan-5-bitcoin-ethereum-xrp-bnb-solana-dogecoin-cardano-bch-34687323684009)**
+
+Binance • 2d ago
+
+---
+
+**[Why Bitcoin, Ethereum & XRP Prices are Going Down Now?](https://www.tradingview.com/news/coinpedia:b3955e3e4094b:0-why-bitcoin-ethereum-xrp-prices-are-going-down-now/)**
+
+Why are Bitcoin, Ethereum, and XRP Prices going down at the same time? Every trader is currently looking for this answer, as the tokens dropped suddenly in the times when they were believed to maintain a bullish continuation. After a strong start to the year, the crypto market has turned defensive…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -230,7 +226,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 7K • 👍 628 • 💬 61 • ⏱️ 10:20 • 8h ago
+👁️ 7K • 👍 628 • 💬 61 • ⏱️ 10:20 • 9h ago
 
 ---
 
@@ -250,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 137 • 💬 7 • ⏱️ 4:16 • 4h ago
+👁️ 1K • 👍 137 • 💬 7 • ⏱️ 4:16 • 5h ago
 
 ---
 
@@ -260,7 +256,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 268 • 👍 21 • 💬 8 • ⏱️ 19:40 • 1h ago
+👁️ 268 • 👍 21 • 💬 8 • ⏱️ 19:40 • 2h ago
 
 ---
 
@@ -270,7 +266,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 370 • 💬 5 • ⏱️ 1:08:45 • 5h ago
+👁️ 5K • 👍 370 • 💬 5 • ⏱️ 1:08:45 • 6h ago
 
 ---
 
@@ -310,7 +306,7 @@ Welcome back ladies and gentlemen for another epic ripple XRP video! Become A Pa
 
 📺 AllinCrypto
 
-👁️ 2K • 👍 284 • 💬 60 • ⏱️ 11:33 • 3h ago
+👁️ 2K • 👍 284 • 💬 60 • ⏱️ 11:33 • 4h ago
 
 ---
 
