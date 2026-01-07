@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T12:49:20.041836+00:00'
+updated: '2026-01-07T13:40:24.907248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 12:49 UTC  
+**Last Updated:** January 07, 2026 at 13:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,19 +93,19 @@ Rank #1
 
 My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
 
-11h ago
+12h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12 to whomever.... its so crazy, i literally watched it happen over and over and don't know why or HOW. so i copy the address from the subject of my email and it pastes a different one. i copy from the subject and it pastes correctly... wtf?!? anyone ever heard of malware that changes clipboard bitcoin address???? CRAZY?!!? (video included)
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-17h ago
+18h ago
 
 ---
 
@@ -143,7 +143,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 Holding removes a lot of decision-making. Fewer trades, fewer chances to make mistakes, and fewer moments where you start doubting Bitcoin itself. That’s why buy-and-hold often feels less risky over long timeframes. At the same time, futures exist for a reason. I came across a discussion on Bitunix where some people argued futures aren’t really about beating buy-and-hold, but about shaping exposure and managing risk over time. That made me wonder whether either approach actually has a higher probability of working over years rather than months or cycles. Curious how others here see it?
 
-7h ago
+8h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 16h ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 48m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Barron's • 2d ago
 
 Bitcoin's been rallying in the early days of 2026, but whether that will continue may depend on the economy.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Investor's Business Daily • 1h ago
 
 **[MSCI Backs Off on Crypto-Exclusion Plan But Signals Wider Review](https://www.bloomberg.com/news/articles/2026-01-06/msci-backs-off-on-crypto-exclusion-plan-but-signals-wider-review)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 14h ago
 
 Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 1d ago
 
 **[The Daily: Morgan Stanley files for spot Bitcoin and Solana ETFs as inflows enter 2026 'like a lion,' and more](https://www.theblock.co/post/384512/the-daily-morgan-stanley-files-for-spot-bitcoin-and-solana-etfs-as-inflows-enter-2026-like-a-lion-and-more)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Block • 17h ago
 
 The Wall Street giant is widening its crypto push, following bitcoin and solana ETF filings with a potential Ethereum trust.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -245,7 +245,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 15m ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 1h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -259,7 +259,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 2 • 💬 0 • 3d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -301,7 +301,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 701 • 💬 230 • ⏱️ 6:15 • 15h ago
+👁️ 12K • 👍 701 • 💬 230 • ⏱️ 6:15 • 16h ago
 
 ---
 
@@ -311,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 430 • ⏱️ 8:36 • 12h ago
+👁️ 18K • 👍 1K • 💬 430 • ⏱️ 8:36 • 13h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 185 • ⏱️ 11:24 • 13h ago
+👁️ 14K • 👍 1K • 💬 185 • ⏱️ 11:24 • 14h ago
 
 ---
 
@@ -331,7 +331,7 @@ Time and price are some of the most important things in markets. There is a key 
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 942 • 💬 23 • ⏱️ 30:55 • 4h ago
+👁️ 8K • 👍 942 • 💬 23 • ⏱️ 30:55 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 36K • 👍 353 • 💬 270 • ⏱️ 8:25 • 23h ago
+👁️ 36K • 👍 353 • 💬 270 • ⏱️ 8:25 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 20h ago
+👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 21h ago
 
 ---
 
@@ -381,7 +381,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 369 • 💬 22 • ⏱️ 7:30 • 6h ago
+👁️ 4K • 👍 369 • 💬 22 • ⏱️ 7:30 • 7h ago
 
 ---
 
@@ -391,7 +391,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 4K • 👍 392 • 💬 26 • ⏱️ 14:23 • 4h ago
+👁️ 4K • 👍 392 • 💬 26 • ⏱️ 14:23 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T12:49:20.047793+00:00'
+updated: '2026-01-07T13:40:24.913183+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 12:49 UTC  
+**Last Updated:** January 07, 2026 at 13:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-12h ago
+13h ago
 
 ---
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -152,13 +152,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
 **['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -188,13 +188,13 @@ CNBC • 1d ago
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
 
-GlobeNewswire • 1d ago
+GlobeNewswire • 2d ago
 
 ---
 
 **[Can Ethereum Hit $5,000 In 2026? Prediction Markets Surge With Bullish Bets](https://www.ccn.com/news/crypto/can-ethereum-hit-5000-in-2026-prediction-markets-surge-with-bullish-bets/)**
 
-CCN.com • 43m ago
+CCN.com • 1h ago
 
 ---
 
@@ -230,7 +230,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 11K • 👍 532 • 💬 60 • ⏱️ 12:17 • 13h ago
+👁️ 11K • 👍 532 • 💬 60 • ⏱️ 12:17 • 14h ago
 
 ---
 
@@ -240,7 +240,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 20h ago
+👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 21h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 105 • 💬 3 • ⏱️ 4:14 • 9h ago
+👁️ 1K • 👍 105 • 💬 3 • ⏱️ 4:14 • 10h ago
 
 ---
 
@@ -260,7 +260,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 50K • 👍 3K • 💬 130 • ⏱️ 9:50 • 22h ago
+👁️ 50K • 👍 3K • 💬 130 • ⏱️ 9:50 • 23h ago
 
 ---
 
@@ -280,7 +280,7 @@ Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It 
 
 📺 NextMove Stocks
 
-👁️ 324 • 👍 11 • ⏱️ 6:53 • 18h ago
+👁️ 324 • 👍 11 • ⏱️ 6:53 • 19h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 377 • 💬 108 • ⏱️ 18:45 • 15h ago
+👁️ 9K • 👍 377 • 💬 108 • ⏱️ 18:45 • 16h ago
 
 ---
 
@@ -320,7 +320,7 @@ BITCOIN, ETH & THE NEXT MAJOR CRYPTO MOVE In this video, we break down the New Y
 
 📺 Kevin Svenson Crypto
 
-👁️ 6K • 👍 727 • 💬 160 • ⏱️ 13:24 • 12h ago
+👁️ 6K • 👍 727 • 💬 160 • ⏱️ 13:24 • 13h ago
 
 ---
 

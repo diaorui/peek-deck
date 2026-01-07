@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T12:49:20.051048+00:00'
+updated: '2026-01-07T13:40:24.916376+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 12:49 UTC  
+**Last Updated:** January 07, 2026 at 13:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-20h ago
+21h ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Environment Description The Franka lift cube task environment is built based on 
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-2h ago
+3h ago
 
 ---
 
@@ -74,13 +74,13 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-18h ago
+19h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=DTxBZp_J5VQ) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=DTxBZp_J5VQ) • 2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/XxVtjtORXL0) • 2h ago
+🔗 [youtu.be](https://youtu.be/XxVtjtORXL0) • 3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi all, If anyone needs help with a very basic braking (regenerative) resistor setup for a robot or motor system, I can help with simple cases only. This is not for detailed system design or complex edge cases. I can help with things like: Rough resistor value / power estimation Basic connection concept Sanity check for small or low-power setups Good fit for: Prototypes Small robots Lab / hobby / early-stage projects Probably not a good fit if you’re dealing with: High-power industrial drives Safety-critical or certified systems Production designs If you want to ask, please keep it simple and include: Motor power (rough is fine) DC bus voltage How braking happens (E-stop, decel, gravity, etc.) I won’t be able to reply to complex or long design requests, but happy to help where it’s straightforward. Cheers 👍
 
-3h ago
+4h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi all, If anyone needs help with a very basic braking (regenerative) resistor s
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -124,13 +124,13 @@ TechCrunch • 15h ago
 
 The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
 
-CTech • 15h ago
+CTech • 16h ago
 
 ---
 
 **[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqegONxbXyGgVqHeGGq8Z-gibVuwaomyoSWOAnkzGL4dyBSo-k8R5cHH&gaa_ts=695e59bc&gaa_sig=P5gaUQN5a5mY7MA9_nPPc-3ztMvXGgVHR5_fg0LW0UiVc6t7lIWyUC1imNlwofsVIwTyM0ytojb6nmELIBT9oQ%3D%3D)**
 
-The Wall Street Journal • 14h ago
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -196,7 +196,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 36K • 👍 890 • 💬 155 • ⏱️ 9:33 • 13h ago
+👁️ 36K • 👍 890 • 💬 155 • ⏱️ 9:33 • 14h ago
 
 ---
 
@@ -246,7 +246,7 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 9K • 👍 37 • 💬 1 • ⏱️ 1:06 • 9h ago
+👁️ 9K • 👍 37 • 💬 1 • ⏱️ 1:06 • 10h ago
 
 ---
 
@@ -266,7 +266,7 @@ At CES 2026, visitors experience AI Robotics through hands-on demonstrations on 
 
 📺 Hyundai Motor Group
 
-👁️ 8K • 👍 38 • ⏱️ 0:33 • 6h ago
+👁️ 8K • 👍 38 • ⏱️ 0:33 • 7h ago
 
 ---
 
