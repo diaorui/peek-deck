@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T15:50:57.813011+00:00'
+updated: '2026-01-07T16:33:17.396843+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 15:50 UTC  
+**Last Updated:** January 07, 2026 at 16:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** +5.1%  
-**30d:** -4.9%  
-**90d:** -18.2%  
-**1y:** -5.1%  
+**24h:** -0.5%  
+**7d:** +5.7%  
+**30d:** -4.4%  
+**90d:** -17.7%  
+**1y:** -4.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $385.29B
+**Market Cap:** $382.48B
 Rank #2
 
 **Circulating Supply:** 120,694,786 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.5%
+-36.0%
 
 **All-Time Low:** $0.43
-+736677.1%
++731014.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 1h ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 2h ago
+
+---
+
+**[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
+
+41m ago
 
 ---
 
@@ -136,29 +142,13 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 ---
 
-**[Dev Tools Guild December update | mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.](https://www.reddit.com/r/ethereum/comments/1q4hpvb/dev_tools_guild_december_update_mainnet/)**
-
-**TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
-
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum news: Staking queues drop to nearly zero, setting up bearish outlook for ETH](https://www.coindesk.com/markets/2026/01/06/ethereum-s-staking-queues-have-cleared-and-that-changes-the-eth-trade)**
+**[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
 
-With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
-
-CoinDesk • 23h ago
-
----
-
-**['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
-
-The Block • 18h ago
+The Block • 4h ago
 
 ---
 
@@ -166,15 +156,23 @@ The Block • 18h ago
 
 The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Hyperliquid Whale James Wynn Closes BTC Trade, Goes Long on Ethereum](https://finance.yahoo.com/news/hyperliquid-whale-james-wynn-closes-104755579.html)**
+**[Morgan Stanley Adds Ethereum Trust To Planned Crypto ETF Lineup](https://decrypt.co/353829/morgan-stanley-adds-ethereum-trust-to-planned-crypto-etf-lineup)**
 
-Prominent Hyperliquid whale James Wynn has closed a major Bitcoin BTC $91 762 24h volatility: 2.1% Market cap: $1.84 T Vol. 24h: $61.75 B trade in profit and shifted his focus to Ethereum ETH $3 194 24h volatility: 1.5% Market cap: $386.56 B Vol. 24h: $26.50 B . On-chain data ...
+The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
 
-Yahoo Finance • 5h ago
+Decrypt • 3h ago
+
+---
+
+**[Ethereum news: Staking queues drop to nearly zero, setting up bearish outlook for ETH](https://www.coindesk.com/markets/2026/01/06/ethereum-s-staking-queues-have-cleared-and-that-changes-the-eth-trade)**
+
+With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -186,17 +184,19 @@ CNBC • 1d ago
 
 ---
 
-**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
-
-The Block • 1d ago
-
----
-
 **[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
 
 GlobeNewswire • 2d ago
+
+---
+
+**[Grayscale's Ethereum ETF Begins Paying Staking Rewards](https://decrypt.co/353677/grayscales-ethereum-etf-begins-paying-staking-rewards)**
+
+The Ethereum payout marks the first time a U.S. spot crypto product has distributed protocol-level income to investors.
+
+Decrypt • 1d ago
 
 ---
 
@@ -214,11 +214,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum: The Accumulation Addresses Catalyst (Cryptocurrency: ETH-USD)](https://seekingalpha.com/article/4857134-ethereum-the-accumulation-addresses-catalyst)**
+**[XRP and Solana dethrone Bitcoin and Ethereum as institutional favorites in 2025](https://cryptoslate.com/xrp-and-solana-dethrone-bitcoin-and-ethereum-as-institutional-favorites-in-2025/)**
 
-Ethereum is in an accumulation phase, with supply shifting to long-term holders, supporting a bullish medium- to long-term thesis. Read why I rate the ETH-USD stock a Buy.
+XRP investment products skyrocket as the era of Bitcoin-only dominance fades into a diversified market landscape.
 
-Seeking Alpha • 2d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -226,13 +226,13 @@ Seeking Alpha • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Why You Never Need More Than 10 Ethereum](https://www.youtube.com/watch?v=wEjl1EnSmYI)**
+**[Ethereum News🚨: Morgan Stanley Bets On Huge ETH Pump](https://www.youtube.com/watch?v=02XiWeolYEY)**
 
-Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (available everywhere) $1000 DEPOSIT ...
+Ethereum is on the verge of a massive institutional breakout! In today's video, we're diving into the bombshell news that Morgan ...
 
-📺 Lark Davis
+📺 Discover Crypto
 
-👁️ 12K • 👍 558 • 💬 60 • ⏱️ 12:17 • 16h ago
+👁️ 2K • 👍 220 • 1h ago
 
 ---
 
@@ -242,7 +242,17 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 1K • 👍 182 • 💬 13 • ⏱️ 10:20 • 2h ago
+👁️ 3K • 👍 434 • 💬 41 • ⏱️ 10:20 • 3h ago
+
+---
+
+**[Why You Never Need More Than 10 Ethereum](https://www.youtube.com/watch?v=wEjl1EnSmYI)**
+
+Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (available everywhere) $1000 DEPOSIT ...
+
+📺 Lark Davis
+
+👁️ 13K • 👍 575 • 💬 62 • ⏱️ 12:17 • 17h ago
 
 ---
 
@@ -252,7 +262,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 3K • 💬 47 • ⏱️ 8:07 • 23h ago
+👁️ 22K • 👍 3K • 💬 48 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -262,7 +272,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 127 • 💬 3 • ⏱️ 4:14 • 12h ago
+👁️ 2K • 👍 132 • 💬 3 • ⏱️ 4:14 • 13h ago
 
 ---
 
@@ -272,7 +282,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 52K • 👍 3K • 💬 136 • ⏱️ 9:50 • 1d ago
+👁️ 53K • 👍 3K • 💬 138 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -282,7 +292,7 @@ Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It 
 
 📺 NextMove Stocks
 
-👁️ 386 • 👍 14 • 💬 1 • ⏱️ 6:53 • 21h ago
+👁️ 388 • 👍 14 • 💬 1 • ⏱️ 6:53 • 22h ago
 
 ---
 
@@ -292,37 +302,27 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 18K • 👍 682 • 💬 458 • ⏱️ 13:40 • 1d ago
+👁️ 19K • 👍 689 • 💬 442 • ⏱️ 13:40 • 1d ago
 
 ---
 
-**[BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=obXxDSK_UOc)**
+**[Trader Who Predicted Latest Crypto Rally Gives His Next Major Forecast: BTC, ETH, XRP, SOL, ADA, SUI](https://www.youtube.com/watch?v=VjUFyoAilHo)**
 
-BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Chief Market Strategist Gareth Soloway updates investors after his latest crypto rally came to fruition. A week ago he predicted a ...
 
-📺 Crypto World
+📺 Gareth Soloway
 
-👁️ 10K • 👍 391 • 💬 111 • ⏱️ 18:45 • 18h ago
-
----
-
-**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.youtube.com/watch?v=S1zL54voIBI)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus ...
-
-📺 CNBC Television
-
-👁️ 16K • 👍 257 • 💬 92 • ⏱️ 12:31 • 1d ago
+👁️ 48K • 👍 3K • 💬 320 • ⏱️ 12:07 • 22h ago
 
 ---
 
-**[Why BitMine Is Staking $2.1 Billion of Ethereum.](https://www.youtube.com/watch?v=2l_7mwpiBOI)**
+**[🚨 **BULLISH REVERSAL** 🚨 2026 🗓️ #BITCOIN #ETH $ALTS](https://www.youtube.com/watch?v=SuGS9-Le_QY)**
 
-Is BitMine Immersion (BMNR) strictly a holding company, or did it just become a cash-flow giant? It's not just about hoarding ...
+BITCOIN, ETH & THE NEXT MAJOR CRYPTO MOVE In this video, we break down the New Year Effect, a weekly RSI breakout, ...
 
-📺 Wall Street Stockcast
+📺 Kevin Svenson Crypto
 
-👁️ 616 • 👍 17 • 💬 31 • ⏱️ 6:28 • 1d ago
+👁️ 7K • 👍 867 • 💬 188 • ⏱️ 13:24 • 16h ago
 
 ---
 

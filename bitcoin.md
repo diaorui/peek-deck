@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T15:50:57.807005+00:00'
+updated: '2026-01-07T16:33:17.390646+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 15:50 UTC  
+**Last Updated:** January 07, 2026 at 16:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,224.04
+### $91,364.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +2.8%  
-**30d:** -1.7%  
-**90d:** -19.3%  
-**1y:** -4.0%  
+**24h:** -0.1%  
+**7d:** +3.2%  
+**30d:** -1.4%  
+**90d:** -19.0%  
+**1y:** -3.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1827.99B
+**Market Cap:** $1828.78B
 Rank #1
 
-**Circulating Supply:** 19,972,590 BTC
+**Circulating Supply:** 19,972,765 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -27.4%
 
 **All-Time Low:** $67.81
-+134821.1%
++134825.5%
 
 ---
 
@@ -79,6 +79,14 @@ Rank #1
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
+6h ago
+
+---
+
+**[WORLD'S LARGEST ASSET MANAGER BLACKROCK JUST SAID LIVE ON CNBC BITCOIN IS STILL "IN IT'S VERY EARLY DAYS"](https://www.reddit.com/r/Bitcoin/comments/1q6ck1w/worlds_largest_asset_manager_blackrock_just_said/)**
+
+THEY ARE TELLING US . BUCKLE UP 🚀
+
 5h ago
 
 ---
@@ -91,21 +99,21 @@ Rank #1
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-14h ago
-
----
-
-**[WORLD'S LARGEST ASSET MANAGER BLACKROCK JUST SAID LIVE ON CNBC BITCOIN IS STILL "IN IT'S VERY EARLY DAYS"](https://www.reddit.com/r/Bitcoin/comments/1q6ck1w/worlds_largest_asset_manager_blackrock_just_said/)**
-
-THEY ARE TELLING US . BUCKLE UP 🚀
-
-4h ago
+15h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-15h ago
+16h ago
+
+---
+
+**[bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6ja13/bitcoin/)**
+
+#Bitcoin Up, down, sideways… just vibes 😂
+
+30m ago
 
 ---
 
@@ -115,17 +123,17 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 ---
 
-**[I own about .7 BTC. Should I blow my bonus to get me to an even 1 BTC?](https://www.reddit.com/r/Bitcoin/comments/1q60wd1/i_own_about_7_btc_should_i_blow_my_bonus_to_get/)**
+**[🍅 Crypto critics asked for real utility. Now Bitcoin mining is growing tomatoes.](https://www.reddit.com/r/Bitcoin/comments/1q6dk1q/crypto_critics_asked_for_real_utility_now_bitcoin/)**
 
-My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
+Waste heat from Bitcoin miners is being reused to power greenhouses, turning energy that would normally be lost into food production. Even the loudest skeptics did NOT see this one coming.
 
-14h ago
+4h ago
 
 ---
 
 **[Counting my profits from crypto](https://www.reddit.com/r/Bitcoin/comments/1q6e1re/counting_my_profits_from_crypto/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -135,23 +143,13 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 ---
 
-**[F*cked.... its only $12 but still.... wtf?!](https://www.reddit.com/r/Bitcoin/comments/1q63rz8/fcked_its_only_12_but_still_wtf/)**
-
-somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12 to whomever.... its so crazy, i literally watched it happen over and over and don't know why or HOW. so i copy the address from the subject of my email and it pastes a different one. i copy from the subject and it pastes correctly... wtf?!? anyone ever heard of malware that changes clipboard bitcoin address???? CRAZY?!!? (video included)
-
-12h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
+**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqduvF5jib4vznbxufSvBu0Uectfnu67OGXCgJfk5pTf6gpMZjxv7FNc&gaa_ts=695e8e29&gaa_sig=Nfg9fb8XzTItDUUdwyhkZ2iyFccnmeTTsho9PWljmXoY0roHVbSF6CyLfT9WItfjSrFCRZfmpE503m0L70w-Qg%3D%3D)**
 
-Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
-
-CNBC • 19h ago
+Barron's • 2d ago
 
 ---
 
@@ -159,45 +157,37 @@ CNBC • 19h ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
+**[Bitcoin Hitting All-Time High Every Year Has ‘Good Odds,’ Says Galaxy Executive, Claims All Institutions Should Buy](https://www.ccn.com/news/crypto/bitcoin-all-time-high-every-year-good-odds-galaxy-executive/)**
 
-Forbes • 1h ago
-
----
-
-**[Bitcoin (BTC) news: Babylon Labs raises $15 million for Trustless BTCVaults](https://www.coindesk.com/business/2026/01/07/babylon-labs-raises-usd15-million-from-a16z-crypto-to-develop-bitcoin-collateral-infrastructure)**
-
-Funding will be used to build and scale Babylon Trustless BTCVaults, enabling native bitcoin to be used as on-chain collateral without custodians or wrapping.
-
-CoinDesk • 2h ago
+CCN.com • 1h ago
 
 ---
 
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
+**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
 
-Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
+Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Morgan Stanley files for ether trust after bitcoin and solana ETF push](https://www.coindesk.com/business/2026/01/07/morgan-stanley-files-for-ether-trust-after-bitcoin-and-solana-etf-push)**
-
-The Wall Street giant is widening its crypto push, following bitcoin and solana ETF filings with a potential Ethereum trust.
-
-CoinDesk • 4h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Bitcoin ETFs Shed $243M as Crypto Market Rally Cools](https://finance.yahoo.com/news/bitcoin-etfs-shed-243m-crypto-135445940.html)**
+**[Tom Lee says bitcoin has not peaked, calls for new all-time high by January 2026](https://www.coindesk.com/markets/2026/01/05/tom-lee-calls-for-a-new-bitcoin-ath-in-january-while-warning-of-a-volatile-2026)**
 
-Analysts called the outflows from spot Bitcoin ETFs a temporary repositioning rather than a structural shift in sentiment.
+After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
 
-Yahoo Finance • 1h ago
+CoinDesk • 1d ago
+
+---
+
+**[Cambodia Arrests Tycoon Tied to DOJ’s Record $15B Bitcoin Seizure, Extradites Him to China](https://www.financemagnates.com/cryptocurrency/cambodia-detains-tycoon-tied-to-dojs-record-15b-bitcoin-seizure-extradites-him-to-china/)**
+
+Police reportedly detained Chen Zhi, the founder and chairman of Prince Group, before deporting him to China for investigation by Chinese authorities.
+
+Finance Magnates • 1h ago
 
 ---
 
@@ -207,11 +197,11 @@ Investor's Business Daily • 4h ago
 
 ---
 
-**[MSCI Spares MicroStrategy — but the Market’s War Over Its Bitcoin Premium Remains](https://finance.yahoo.com/news/msci-spares-microstrategy-market-war-063933033.html)**
+**[Why Bitcoin Is Not Surging Despite Bullish MSCI News](https://www.tradingview.com/news/coinpedia:c19c0691f094b:0-why-bitcoin-is-not-surging-despite-bullish-msci-news/)**
 
-MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
+Bitcoin has been struggling lately to move higher, even after the MSCI has made its decision on digital assets treasury (DATs) companies to remain in MSCI-related global indexes.While this eased fears of firms like Strategy forcefully selling Bitcoin. Yet Bitcoin’s price did not move higher, leavin…
 
-Yahoo Finance • 9h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -219,7 +209,13 @@ Yahoo Finance • 9h ago
 
 Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
+
+Forbes • 2h ago
 
 ---
 
@@ -247,7 +243,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 2 • 💬 1 • 2h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 2 • 💬 1 • 3h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -281,7 +277,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 39m ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 1h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -303,23 +299,23 @@ Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Con
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Bitcoin is Set to hit $100,000 Soon](https://www.youtube.com/watch?v=D6cZyjLYXsQ)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 1K • 💬 500 • ⏱️ 8:36 • 15h ago
-
----
-
 **[BIG BITCOIN NEWS JUST IN!!!](https://www.youtube.com/watch?v=M53LACXtOgk)**
 
 CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 713 • 💬 237 • ⏱️ 6:15 • 18h ago
+👁️ 13K • 👍 725 • 💬 239 • ⏱️ 6:15 • 18h ago
+
+---
+
+**[Why Bitcoin is Set to hit $100,000 Soon](https://www.youtube.com/watch?v=D6cZyjLYXsQ)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 511 • ⏱️ 8:36 • 16h ago
 
 ---
 
@@ -329,27 +325,17 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 193 • ⏱️ 11:24 • 16h ago
+👁️ 17K • 👍 1K • 💬 193 • ⏱️ 11:24 • 17h ago
 
 ---
 
-**[Coinbase&#39;s John D&#39;Agostino on bitcoin: Retail sentiment is catching up to institutional momentum](https://www.youtube.com/watch?v=JEk3rseEYis)**
+**[Bitcoin Supply Squeeze...Exchanges Drained](https://www.youtube.com/watch?v=c-iu5WcovHU)**
 
-John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to discuss the latest bitcoin price trends, what's ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 CNBC Television
+📺 CryptosRUs
 
-👁️ 38K • 👍 356 • 💬 270 • ⏱️ 8:25 • 1d ago
-
----
-
-**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
-
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 77K • 👍 3K • 💬 226 • ⏱️ 9:17 • 1d ago
+👁️ 9K • 👍 772 • 💬 67 • ⏱️ 48:00 • 20m ago
 
 ---
 
@@ -359,7 +345,27 @@ Time and price are some of the most important things in markets. There is a key 
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 22 • ⏱️ 30:55 • 7h ago
+👁️ 14K • 👍 1K • 💬 23 • ⏱️ 30:55 • 8h ago
+
+---
+
+**[Coinbase&#39;s John D&#39;Agostino on bitcoin: Retail sentiment is catching up to institutional momentum](https://www.youtube.com/watch?v=JEk3rseEYis)**
+
+John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to discuss the latest bitcoin price trends, what's ...
+
+📺 CNBC Television
+
+👁️ 39K • 👍 356 • 💬 289 • ⏱️ 8:25 • 1d ago
+
+---
+
+**[The Trump Venezuela Bitcoin Problem Just Got Worse…](https://www.youtube.com/watch?v=s_AejD-za0A)**
+
+Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 78K • 👍 3K • 💬 226 • ⏱️ 9:17 • 1d ago
 
 ---
 
@@ -369,7 +375,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 3K • 💬 47 • ⏱️ 8:07 • 23h ago
+👁️ 22K • 👍 3K • 💬 48 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -379,27 +385,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 20K • 👍 618 • 💬 26 • ⏱️ 15:02 • 1d ago
+👁️ 20K • 👍 622 • 💬 26 • ⏱️ 15:02 • 2d ago
 
 ---
 
-**[6 Data Points That Prove This Bitcoin Pump Is Different!](https://www.youtube.com/watch?v=SZj0Dczanpw)**
+**[Crypto Czar David Sacks “All Hell Is Gonna Break Loose” Bitcoin &amp; Ethereum 2026 Clarity Act NEWS!](https://www.youtube.com/watch?v=CGXSyTtpiA0)**
 
-2026 has started with a violent bounce. Bitcoin has successfully held the bottom of the weekly range, and for the first time in ...
+David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin Daily on X: https://x.com/AltcoinDaily ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 22K • 👍 2K • 💬 57 • ⏱️ 31:55 • 1d ago
-
----
-
-**[7th Largest Bitcoin Inflow BUT Why The Price KEEPS DROPPING!](https://www.youtube.com/watch?v=U_wp50_lUAc)**
-
-Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are moving slow. Here could be the reason why... Follow Jeff ...
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 630 • 💬 38 • ⏱️ 29:22 • 17h ago
+👁️ 48K • 👍 3K • 💬 149 • ⏱️ 11:01 • 18h ago
 
 ---
 
