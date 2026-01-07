@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T19:21:12.587402+00:00'
+updated: '2026-01-07T19:41:35.786014+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 19:21 UTC  
+**Last Updated:** January 07, 2026 at 19:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -114,7 +114,7 @@ I haven't touched crypto in a minute. Got on a productivity bent yesterday and d
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -228,7 +228,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 5K • 👍 552 • 💬 45 • ⏱️ 10:20 • 5h ago
+👁️ 5K • 👍 552 • 💬 45 • ⏱️ 10:20 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 573 • 👍 82 • 💬 5 • ⏱️ 4:16 • 1h ago
+👁️ 573 • 👍 82 • 💬 5 • ⏱️ 4:16 • 2h ago
 
 ---
 

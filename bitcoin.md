@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T19:21:12.581292+00:00'
+updated: '2026-01-07T19:41:35.779900+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 19:21 UTC  
+**Last Updated:** January 07, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,13 +93,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ Waste heat from Bitcoin miners is being reused to power greenhouses, turning ene
 
 Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my trezor model t so u can transfer them in a safe spot! Do you think btc has a good price rn? I want to buy and hold them for a few years. Thank you Pls do not dm
 
-2h ago
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 22h ago
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ TradingView — Track All Markets • 6h ago
 
 Each month this year, an indoor cyclist using MyWhoosh will have the opportunity to find an in-app "treasure" worth 1/12th of a Bitcoin.
 
-GearJunkie • 41m ago
+GearJunkie • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ GearJunkie • 41m ago
 
 Bitcoin fell during Asian trading hours after failing to break above $94,500, dragging the wider crypto market lower.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -253,7 +253,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 6h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 7h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -309,7 +309,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 731 • 💬 257 • ⏱️ 6:15 • 21h ago
+👁️ 13K • 👍 731 • 💬 257 • ⏱️ 6:15 • 22h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 218 • ⏱️ 11:24 • 19h ago
+👁️ 18K • 👍 1K • 💬 218 • ⏱️ 11:24 • 20h ago
 
 ---
 
@@ -339,7 +339,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 551 • ⏱️ 8:36 • 18h ago
+👁️ 21K • 👍 1K • 💬 551 • ⏱️ 8:36 • 19h ago
 
 ---
 

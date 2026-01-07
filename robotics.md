@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T19:21:12.590668+00:00'
+updated: '2026-01-07T19:41:35.789319+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 19:21 UTC  
+**Last Updated:** January 07, 2026 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-8h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ At my last startup, I led a team to develop indoor localisation using SLAM. Ever
 
 Hello everyone! I’m a 12th class ICS student, and I’m very excited to begin my journey into robotics. I’ve been inspired by innovations from NVIDIA and Tesla 🤖 and I’m eager to understand both the fundamentals and practical applications of robotics. As a complete beginner, I’m looking for guidance on how to start. Any recommendations for beginner-friendly resources, books, online courses, or small projects would be greatly appreciated.I’m keen to learn and would value any advice or direction you can provide.
 
-45m ago
+1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 23h ago
 
 Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
 
-90.5 WESA • 8h ago
+90.5 WESA • 9h ago
 
 ---
 
@@ -215,7 +215,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 21K • 👍 274 • 💬 11 • ⏱️ 7:38 • 2d ago
+👁️ 21K • 👍 274 • 💬 11 • ⏱️ 7:38 • 3d ago
 
 ---
 
@@ -245,7 +245,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 5K • 👍 61 • 💬 16 • ⏱️ 2:58 • 23h ago
+👁️ 5K • 👍 61 • 💬 16 • ⏱️ 2:58 • 1d ago
 
 ---
 
@@ -285,7 +285,7 @@ Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robo
 
 📺 Hyundai Motor Group
 
-👁️ 36K • 👍 21 • 💬 3 • ⏱️ 2:16 • 16h ago
+👁️ 36K • 👍 21 • 💬 3 • ⏱️ 2:16 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T19:21:12.572530+00:00'
+updated: '2026-01-07T19:41:35.771313+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 19:21 UTC  
+**Last Updated:** January 07, 2026 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 14h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 15h ago
 
 ---
 
@@ -63,7 +63,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 AI-Generated Ghost Player assistance would help out players who can’t progress in a game…
 
-🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 58m ago
+🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 1h ago
 
 ---
 
@@ -103,7 +103,7 @@ With the recent news that Grok AI is being used to produce undressed images of v
 
 I’m an experienced marketer who’s recently gone all-in on the AI SaaS space. Currently exploring product, distribution, and growth angles around AI tools, and I’d love to connect with other founders / builders who are on a similar path.
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Hill • 2h ago
 
 A growing number of investors are now wagering that run, led by the Magnificent Seven, is about to end.  Mounting concerns about AI’s ability to deliver seismic changes on the American economy — and the fat profits that would come with them — has turned investor euphoria about the technology into agita.  “I call it ‘AI fatigue,’” said Ed Yardeni, president and chief investment strategist at the eponymous Yardeni Research.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Motley Fool • 9h ago
 
 **[These Lesser Known AI Stocks Are Reaching Record Highs](https://www.forbes.com/sites/aliciapark/2026/01/07/these-lesser-known-ai-stocks-are-reaching-record-highs/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -161,7 +161,7 @@ Forbes • 3h ago
 
 An AI model that learns without human input—by posing interesting queries for itself—might point the way to superintelligence.
 
-WIRED • 21m ago
+WIRED • 41m ago
 
 ---
 
@@ -169,7 +169,7 @@ WIRED • 21m ago
 
 Employees have to constantly reskill to stay afloat, says General Catalyst CEO Hemant Taneja.
 
-Fortune • 36m ago
+Fortune • 56m ago
 
 ---
 
@@ -227,7 +227,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 118 • 💬 86 • 21h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 118 • 💬 86 • 22h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -327,7 +327,7 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 163K • 👍 164 • 💬 1 • ⏱️ 0:47 • 14h ago
+👁️ 163K • 👍 164 • 💬 1 • ⏱️ 0:47 • 15h ago
 
 ---
 
@@ -337,7 +337,7 @@ Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=
 
 📺 WorldofAI
 
-👁️ 7K • 👍 193 • 💬 18 • ⏱️ 12:11 • 13h ago
+👁️ 7K • 👍 193 • 💬 18 • ⏱️ 12:11 • 14h ago
 
 ---
 
@@ -467,7 +467,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 231 • 20h ago
+⬇️ 77,452 • ❤️ 231 • 21h ago
 
 ---
 
@@ -660,7 +660,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 2h ago
+⭐ 2.1k • 🔱 126 • 3h ago
 
 ---
 
@@ -690,7 +690,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 12h ago
+⭐ 1.2k • 🔱 142 • 13h ago
 
 ---
 
