@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T07:27:01.884512+00:00'
+updated: '2026-01-07T07:46:44.705697+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 07:27 UTC  
+**Last Updated:** January 07, 2026 at 07:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 17h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 18h ago
 
 ---
 
@@ -274,7 +274,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 4K • 👍 50 • 💬 7 • ⏱️ 2:58 • 11h ago
+👁️ 4K • 👍 50 • 💬 7 • ⏱️ 2:58 • 12h ago
 
 ---
 

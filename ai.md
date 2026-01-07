@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T07:27:01.866607+00:00'
+updated: '2026-01-07T07:46:44.687762+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 07:27 UTC  
+**Last Updated:** January 07, 2026 at 07:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 [SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
 
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 15h ago
+🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 16h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New York Times • 14h ago
 
 Miners that look like infrastructure companies may win, while those that rely on pure mining margins face a tougher 2026.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 1h ago
 
 Chatbot still being used to digitally undress women and children, while US takes TikTok approach to drones
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -199,7 +199,7 @@ WIRED • 9h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 490 • 💬 662 • 13h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 490 • 💬 662 • 14h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -261,7 +261,7 @@ Surely it works this time
 
 Don't let AI erode your focus.
 
-⬆️ 62 • 💬 15 • 15h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+⬆️ 62 • 💬 15 • 16h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -303,7 +303,7 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 6K • 👍 84 • 💬 46 • ⏱️ 3:21 • 16h ago
+👁️ 6K • 👍 84 • 💬 46 • ⏱️ 3:21 • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ Substrate CEO James Proud joins 'Mornings with Maria' to sound the alarm on Chin
 
 📺 Fox Business Clips
 
-👁️ 62K • 👍 896 • 💬 681 • ⏱️ 5:40 • 16h ago
+👁️ 62K • 👍 896 • 💬 681 • ⏱️ 5:40 • 17h ago
 
 ---
 
@@ -353,7 +353,7 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 831 • 👍 16 • ⏱️ 0:47 • 2h ago
+👁️ 831 • 👍 16 • ⏱️ 0:47 • 3h ago
 
 ---
 
@@ -485,7 +485,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 72,638 • ❤️ 221 • 8h ago
+⬇️ 72,638 • ❤️ 221 • 9h ago
 
 ---
 
@@ -698,7 +698,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 140 • 58m ago
+⭐ 1.2k • 🔱 140 • 1h ago
 
 ---
 
@@ -738,7 +738,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 932 • 🔱 139 • 16h ago
+⭐ 932 • 🔱 139 • 17h ago
 
 ---
 

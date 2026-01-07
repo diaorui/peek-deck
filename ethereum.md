@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T07:27:01.881171+00:00'
+updated: '2026-01-07T07:46:44.702502+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 07:27 UTC  
+**Last Updated:** January 07, 2026 at 07:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -102,7 +102,7 @@ I haven't touched crypto in a minute. Got on a productivity bent yesterday and d
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -152,7 +152,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 10h ago
 
 Ethereum breaks out of a descending wedge, but heavy whale selling raises questions about whether ETH’s rally can extend toward $4,000.
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 46m ago
 
 ---
 
@@ -202,7 +202,7 @@ CCN.com • 20h ago
 
 Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 

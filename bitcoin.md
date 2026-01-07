@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T07:27:01.875066+00:00'
+updated: '2026-01-07T07:46:44.696496+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 07:27 UTC  
+**Last Updated:** January 07, 2026 at 07:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -129,7 +129,7 @@ I hear this question a lot and see it asked all over social media. It sounds lik
 
 Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 11h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, sign
 
 Holding removes a lot of decision-making. Fewer trades, fewer chances to make mistakes, and fewer moments where you start doubting Bitcoin itself. That’s why buy-and-hold often feels less risky over long timeframes. At the same time, futures exist for a reason. I came across a discussion on Bitunix where some people argued futures aren’t really about beating buy-and-hold, but about shaping exposure and managing risk over time. That made me wonder whether either approach actually has a higher probability of working over years rather than months or cycles. Curious how others here see it?
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet
 
 Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 15h ago
 
 The 90-day correlation between bitcoin and JPY has risen to a record high of over 0.85.
 
-CoinDesk • 37m ago
+CoinDesk • 57m ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 37m ago
 
 Miners that look like infrastructure companies may win, while those that rely on pure mining margins face a tougher 2026.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 17h ago
 
 **[Bitcoin price today: down to $92.7k as geopolitics, macro risks stall recovery](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-down-to-927k-as-geopolitics-macro-risks-stall-recovery-4433980)**
 
-Investing.com • 54m ago
+Investing.com • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ Investing.com • 54m ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -311,7 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 683 • 💬 219 • ⏱️ 6:15 • 9h ago
+👁️ 11K • 👍 683 • 💬 219 • ⏱️ 6:15 • 10h ago
 
 ---
 
@@ -321,7 +321,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 987 • 💬 428 • ⏱️ 8:36 • 6h ago
+👁️ 15K • 👍 987 • 💬 428 • ⏱️ 8:36 • 7h ago
 
 ---
 
@@ -361,7 +361,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 CNBC Television
 
-👁️ 32K • 👍 704 • 💬 415 • ⏱️ 4:14 • 10h ago
+👁️ 32K • 👍 704 • 💬 415 • ⏱️ 4:14 • 11h ago
 
 ---
 
