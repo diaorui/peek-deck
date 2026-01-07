@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T23:21:51.213554+00:00'
+updated: '2026-01-07T23:42:29.261983+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 23:21 UTC  
+**Last Updated:** January 07, 2026 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -99,7 +99,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -113,7 +113,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ I have just bought my first 100$ worth of bitcoin!
 
 Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my trezor model t so u can transfer them in a safe spot! Do you think btc has a good price rn? I want to buy and hold them for a few years. Thank you Pls do not dm
 
-6h ago
+7h ago
 
 ---
 
@@ -207,7 +207,7 @@ Forbes • 9h ago
 
 **[Bitcoin Drops. Why the Crypto Rally Is Taking a Pause Today.](https://www.barrons.com/articles/bitcoin-price-today-xrp-ethereum-cryptos-35636124?gaa_at=eafs&gaa_n=AWEtsqf_W2b8bg5h7hgkdZ7Lwtuzqg8ZINQrTR3FcvdzGzbamvpV6aQ4M9UI&gaa_ts=695ee5b6&gaa_sig=iK3MVE3tl7osvJksf5rAzpCckaasGClMac2zF5hChz9kco9bn2ottPgaLA7KTA8a59_qazVHskgcroodZ3wkoA%3D%3D)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 10h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 11h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -311,7 +311,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 19K • 👍 2K • 💬 179 • ⏱️ 19:29 • 2h ago
+👁️ 19K • 👍 2K • 💬 179 • ⏱️ 19:29 • 3h ago
 
 ---
 
@@ -321,7 +321,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 489 • 💬 17 • ⏱️ 14:22 • 6h ago
+👁️ 9K • 👍 489 • 💬 17 • ⏱️ 14:22 • 7h ago
 
 ---
 
@@ -341,7 +341,7 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 299 • 💬 14 • ⏱️ 1:29:43 • 1h ago
+👁️ 4K • 👍 299 • 💬 14 • ⏱️ 1:29:43 • 2h ago
 
 ---
 
@@ -371,7 +371,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 619 • 👍 86 • 💬 9 • ⏱️ 7:04 • 1h ago
+👁️ 619 • 👍 86 • 💬 9 • ⏱️ 7:04 • 2h ago
 
 ---
 

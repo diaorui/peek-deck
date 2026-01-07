@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T23:21:51.223050+00:00'
+updated: '2026-01-07T23:42:29.271178+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 23:21 UTC  
+**Last Updated:** January 07, 2026 at 23:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-2h ago
+3h ago
 
 ---
 
@@ -100,7 +100,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-12h ago
+13h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNET • 2d ago
 
 Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
 
-90.5 WESA • 12h ago
+90.5 WESA • 13h ago
 
 ---
 
@@ -201,7 +201,7 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 
 📺 CNET
 
-👁️ 348 • 👍 12 • 💬 3 • ⏱️ 5:07 • 25m ago
+👁️ 348 • 👍 12 • 💬 3 • ⏱️ 5:07 • 45m ago
 
 ---
 
@@ -281,7 +281,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 8K • 👍 362 • 💬 74 • ⏱️ 4:29 • 6h ago
+👁️ 8K • 👍 362 • 💬 74 • ⏱️ 4:29 • 7h ago
 
 ---
 

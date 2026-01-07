@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T23:21:51.219825+00:00'
+updated: '2026-01-07T23:42:29.267962+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 23:21 UTC  
+**Last Updated:** January 07, 2026 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -122,7 +122,7 @@ Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -226,7 +226,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 3K • 👍 173 • 💬 111 • ⏱️ 19:40 • 2h ago
+👁️ 3K • 👍 173 • 💬 111 • ⏱️ 19:40 • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 9K • 👍 674 • 💬 59 • ⏱️ 10:20 • 9h ago
+👁️ 9K • 👍 674 • 💬 59 • ⏱️ 10:20 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 172 • 💬 7 • ⏱️ 4:16 • 5h ago
+👁️ 2K • 👍 172 • 💬 7 • ⏱️ 4:16 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ Welcome back ladies and gentlemen for another epic ripple XRP video! Become A Pa
 
 📺 AllinCrypto
 
-👁️ 4K • 👍 374 • 💬 72 • ⏱️ 11:33 • 4h ago
+👁️ 4K • 👍 374 • 💬 72 • ⏱️ 11:33 • 5h ago
 
 ---
 

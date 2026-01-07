@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T23:21:51.205012+00:00'
+updated: '2026-01-07T23:42:29.253552+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 23:21 UTC  
+**Last Updated:** January 07, 2026 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 18h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 19h ago
 
 ---
 
@@ -79,7 +79,7 @@ Been on an AI book kick lately. Picked up AI 2041 by Kai-Fu Lee and Chen Qiufan�
 
 AI-Generated Ghost Player assistance would help out players who can’t progress in a game…
 
-🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 4h ago
+🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 5h ago
 
 ---
 
@@ -95,7 +95,7 @@ I documented a comprehensive guide for ACE-Step after testing various AI music t
 
 Which tool do you use to create AI images? I tried Microsoft Designer website but the quality was very poor. The generator in free ChatGPT is a bit better but I am still not able to produce images without obvious artifacts. Are the images of the paid version better or is it just faster and you have move requests available? The descriptions in the "Upgrade you plan" dialogue are very vague. Are the any more alternatives? P.S. I do not want to install terabytes of data and install douzands of plugins and extensions for a local model. I prefer a web solution. Thank you in advance.
 
-1h ago
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Forbes • 1h ago
 
 Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
 
-Quanta Magazine • 7h ago
+Quanta Magazine • 8h ago
 
 ---
 
@@ -251,7 +251,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 80 • 💬 29 • 18h ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 80 • 💬 29 • 19h ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -319,7 +319,7 @@ Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=
 
 📺 WorldofAI
 
-👁️ 8K • 👍 223 • 💬 19 • ⏱️ 12:11 • 17h ago
+👁️ 8K • 👍 223 • 💬 19 • ⏱️ 12:11 • 18h ago
 
 ---
 
@@ -357,7 +357,7 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 404K • 👍 167 • 💬 1 • ⏱️ 0:47 • 18h ago
+👁️ 404K • 👍 167 • 💬 1 • ⏱️ 0:47 • 19h ago
 
 ---
 
@@ -407,7 +407,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 430 • 11h ago
+⬇️ 84,353 • ❤️ 430 • 12h ago
 
 ---
 
@@ -660,7 +660,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 6h ago
+⭐ 2.1k • 🔱 126 • 7h ago
 
 ---
 
@@ -690,7 +690,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 16h ago
+⭐ 1.2k • 🔱 142 • 17h ago
 
 ---
 
