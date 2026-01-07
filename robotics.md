@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T03:40:26.863586+00:00'
+updated: '2026-01-07T04:42:15.940107+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 03:40 UTC  
+**Last Updated:** January 07, 2026 at 04:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-11h ago
+12h ago
 
 ---
 
@@ -44,15 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-9h ago
-
----
-
-**[Come check out Everbot at CES 2026!](https://www.reddit.com/r/robotics/comments/1q60qpf/come_check_out_everbot_at_ces_2026/)**
-
-Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
-
-2h ago
+10h ago
 
 ---
 
@@ -60,7 +52,7 @@ Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out wit
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 14h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 15h ago
 
 ---
 
@@ -74,13 +66,21 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-1h ago
+2h ago
+
+---
+
+**[Come check out Everbot at CES 2026!](https://www.reddit.com/r/robotics/comments/1q60qpf/come_check_out_everbot_at_ces_2026/)**
+
+Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
+
+3h ago
 
 ---
 
 **[Humanoid vs Special Purpose Robots](https://www.reddit.com/r/robotics/comments/1q5zrds/humanoid_vs_special_purpose_robots/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 20h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 21h ago
 
 ---
 
@@ -104,7 +104,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
 
-10h ago
+11h ago
 
 ---
 
@@ -136,6 +136,44 @@ TechCrunch • 1d ago
 
 ---
 
+**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://finance.yahoo.com/news/mobileye-acquire-humanoid-robotics-startup-211433670.html)**
+
+LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
+
+Yahoo Finance • 6h ago
+
+---
+
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcY0YOLFm0T4E8GBtLZzxJQOTxh9ngdgxvfYc0RkhPxXl_gukyue_O8&gaa_ts=695de795&gaa_sig=-7jnB4JEKHhd48mFlH1QV7txBMRPpXdKHs5m7KuRfRrBazPJI5QH_wr6x7JbvFRxKOMLvlGN42LRiQ1Rz-3oPg%3D%3D)**
+
+The Wall Street Journal • 6h ago
+
+---
+
+**[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
+
+Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
+
+TechCrunch • 7h ago
+
+---
+
+**[These Tiny Robots Are Smaller Than Grains of Salt and Can Think, Move and Swim](https://www.cnet.com/tech/these-tiny-robots-are-smaller-than-grains-of-salt-and-can-think-move-and-swim/)**
+
+Despite their size, the robots can navigate liquids, respond to their environment and operate without external control.
+
+CNET • 2h ago
+
+---
+
+**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
+
+Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
+
+Yahoo Finance • 13h ago
+
+---
+
 **[Hyundai unveils humanoid robotics strategy, aiming for 30,000 robots annually by 2028](https://www.autonews.com/technology/an-ces-2026-hyundai-robotics-strategy-0105/)**
 
 Hyundai said at CES 2026 that it plans to start using humanoid robots in its factories and is building a production system that could produce 30,000 robots annually by 2028.
@@ -144,45 +182,9 @@ Automotive News • 1d ago
 
 ---
 
-**[Watch Deep Robotics on Business Strategy, US Expansion](https://www.bloomberg.com/news/videos/2026-01-07/deep-robotics-on-business-strategy-us-expansion-video)**
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[These Tiny Robots Are Smaller Than Grains of Salt and Can Think, Move and Swim](https://www.cnet.com/tech/these-tiny-robots-are-smaller-than-grains-of-salt-and-can-think-move-and-swim/)**
-
-Despite their size, the robots can navigate liquids, respond to their environment and operate without external control.
-
-CNET • 1h ago
-
----
-
-**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
-
-Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
-
-Reuters • 6h ago
-
----
-
-**[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
-
-Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
-
-TechCrunch • 6h ago
-
----
-
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqffCCJsmwnoQJW_a0MR_hnscd5uTS2Xmw8qllPNOApN00TtHshJ-Aju&gaa_ts=695dd913&gaa_sig=ZE9wX2PZ7fWGlrXxve2OlH-NteoW9Q0yqXvJumkzxOoCtRtT_Iz71Q5r7CJx5XG83lJ5-ikWDlAiFpNTLQwT8g%3D%3D)**
-
-The Wall Street Journal • 5h ago
+Reuters • 16h ago
 
 ---
 
@@ -196,7 +198,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 867K • 👍 13K • 💬 3K • ⏱️ 13:17 • 1d ago
+👁️ 920K • 👍 13K • 💬 3K • ⏱️ 13:17 • 2d ago
 
 ---
 
@@ -206,17 +208,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 17K • 👍 232 • 💬 9 • ⏱️ 7:38 • 2d ago
-
----
-
-**[How Boston Dynamics upgraded the Atlas robot](https://www.youtube.com/watch?v=n6ISdRkS37I)**
-
-Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021 ...
-
-📺 60 Minutes
-
-👁️ 319K • 👍 5K • 💬 772 • ⏱️ 5:49 • 2d ago
+👁️ 18K • 👍 246 • 💬 10 • ⏱️ 7:38 • 2d ago
 
 ---
 
@@ -226,7 +218,17 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 224K • 👍 6K • 💬 1K • ⏱️ 7:00 • 1d ago
+👁️ 262K • 👍 7K • 💬 1K • ⏱️ 7:00 • 1d ago
+
+---
+
+**[How Boston Dynamics upgraded the Atlas robot](https://www.youtube.com/watch?v=n6ISdRkS37I)**
+
+Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021 ...
+
+📺 60 Minutes
+
+👁️ 333K • 👍 5K • 💬 798 • ⏱️ 5:49 • 2d ago
 
 ---
 
@@ -250,23 +252,23 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
-
-CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
-
-📺 CNBC Television
-
-👁️ 3K • 👍 43 • 💬 6 • ⏱️ 2:58 • 8h ago
-
----
-
 **[FULL CES 2026 EVENT: NVIDIA CEO Reveals Physical AI and Autonomous Robots Changing Industries | AI14](https://www.youtube.com/watch?v=UrMnOp2N9Kw)**
 
 Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales allowed. Watch the full NVIDIA CES 2026 event ...
 
 📺 DWS News
 
-👁️ 31K • 👍 546 • 💬 44 • ⏱️ 1:33:26 • 1d ago
+👁️ 38K • 👍 595 • 💬 49 • ⏱️ 1:33:26 • 1d ago
+
+---
+
+**[Nvidia CEO Jensen Huang: We&#39;ve been thinking about robotics for a long time](https://www.youtube.com/watch?v=mP-TyDeVoUU)**
+
+Nvidia CEO Jensen Huang joins CNBC's Jon Fortt at CES 2026 in Las Vegas to discuss the company's latest AI chips, open ...
+
+📺 CNBC Television
+
+👁️ 58K • 👍 563 • 💬 127 • ⏱️ 7:41 • 15h ago
 
 ---
 
@@ -276,7 +278,7 @@ Welcome to SwitchBot at CES 2026 Discover Smart Home 2.0, powered by AI robots, 
 
 📺 SwitchBot
 
-👁️ 2K • 👍 78 • 💬 20 • ⏱️ 3:29 • 12h ago
+👁️ 3K • 👍 86 • 💬 20 • ⏱️ 3:29 • 13h ago
 
 ---
 
@@ -286,7 +288,7 @@ Humanoid robots are about to take a massive leap forward in 2026 — and the com
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 98 • 💬 9 • ⏱️ 18:26 • 6d ago
+👁️ 5K • 👍 100 • 💬 9 • ⏱️ 18:26 • 6d ago
 
 ---
 
