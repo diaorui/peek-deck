@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T09:52:27.480874+00:00'
+updated: '2026-01-07T10:26:20.499709+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 09:52 UTC  
+**Last Updated:** January 07, 2026 at 10:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitquery has released a new stream that delivers real-time, transaction-level pre- and post-balance data for all Ethereum addresses involved in transactions, across all tokens. What use case can you think of for this product? https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/
 
-5h ago
+6h ago
 
 ---
 
 **[Real time Prices for all tokens trading across 8 blockchains](https://www.reddit.com/r/ethereum/comments/1q6b3a3/real_time_prices_for_all_tokens_trading_across_8/)**
 
-15m ago
+49m ago
 
 ---
 
@@ -156,7 +156,7 @@ CoinDesk • 18h ago
 
 **['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 12h ago
 
 Ethereum breaks out of a descending wedge, but heavy whale selling raises questions about whether ETH’s rally can extend toward $4,000.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 9K • 👍 478 • 💬 53 • ⏱️ 12:17 • 10h ago
+👁️ 9K • 👍 478 • 💬 53 • ⏱️ 12:17 • 11h ago
 
 ---
 
@@ -240,7 +240,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 142 • ⏱️ 8:07 • 17h ago
+👁️ 20K • 👍 3K • 💬 142 • ⏱️ 8:07 • 18h ago
 
 ---
 
@@ -250,7 +250,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 129 • ⏱️ 9:50 • 19h ago
+👁️ 47K • 👍 3K • 💬 129 • ⏱️ 9:50 • 20h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 2 • ⏱️ 4:14 • 6h ago
+👁️ 1K • 👍 94 • 💬 2 • ⏱️ 4:14 • 7h ago
 
 ---
 
@@ -300,7 +300,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 209 • 💬 18 • ⏱️ 16:11 • 4h ago
+👁️ 1K • 👍 209 • 💬 18 • ⏱️ 16:11 • 5h ago
 
 ---
 

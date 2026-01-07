@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T09:52:27.471324+00:00'
+updated: '2026-01-07T10:26:20.493512+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
+- videos
 - cryptocurrency
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 09:52 UTC  
+**Last Updated:** January 07, 2026 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
 
-8h ago
+9h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -113,13 +113,13 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-14h ago
+15h ago
 
 ---
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 I hear this question a lot and see it asked all over social media. It sounds like a simple question, but not really because it depends on what you mean by “too late.” Are you too late for 20,000x? Are you too late for 10,000x? Are you too late for 1000x? Are you too late for 100x? Let’s break this down: Current Bitcoin Price $93,570 100x: $93,570 × 100 = $9,357,0001,000x: $93,570 × 1,000 = $93,570,00010,000x: $93,570 × 10,000 = $935,700,000 20,000x: $93,570 × 20,000 = $1,871,400,000 Short answer to “Am I too late?”: Hell no. Not at 93k. Not even at 500k. The people who got in at 3k thought they were late. The ones at 15k thought they missed it. History rhymes as it’s often said. If the thesis plays out the way it’s already doing (fixed supply vs. endless printing), these multiples aren’t crazy—they’re just what happens when sound money wins. You’re not late until it’s boring and everyone already uses it for daily use like groceries, gas, coffee. Very small group already do but not billions of people. Until then? Stack hard. 🚀 🙌🍊
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ I hear this question a lot and see it asked all over social media. It sounds lik
 
 somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12 to whomever.... its so crazy, i literally watched it happen over and over and don't know why or HOW. so i copy the address from the subject of my email and it pastes a different one. i copy from the subject and it pastes correctly... wtf?!? anyone ever heard of malware that changes clipboard bitcoin address???? CRAZY?!!? (video included)
 
-6h ago
+7h ago
 
 ---
 
@@ -175,25 +175,25 @@ Bloomberg.com • 11h ago
 
 **[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
 **['Shocker': Morgan Stanley's Bitcoin and Solana ETF filings signal deep institutional commitment to crypto](https://www.theblock.co/post/384516/shocker-morgan-stanleys-in-house-bitcoin-solana-etf-signal-deeper-institutional-commitment-to-crypto)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
 **[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
 **[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 984 • 💬 182 • ⏱️ 11:24 • 10h ago
+👁️ 13K • 👍 984 • 💬 182 • ⏱️ 11:24 • 11h ago
 
 ---
 
@@ -335,7 +335,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 35K • 👍 350 • 💬 268 • ⏱️ 8:25 • 20h ago
+👁️ 35K • 👍 350 • 💬 268 • ⏱️ 8:25 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 142 • ⏱️ 8:07 • 17h ago
+👁️ 20K • 👍 3K • 💬 142 • ⏱️ 8:07 • 18h ago
 
 ---
 
@@ -395,7 +395,7 @@ David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin 
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 158 • ⏱️ 11:01 • 11h ago
+👁️ 38K • 👍 2K • 💬 158 • ⏱️ 11:01 • 12h ago
 
 ---
 

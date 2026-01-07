@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T09:52:27.458312+00:00'
+updated: '2026-01-07T10:26:20.484198+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 09:52 UTC  
+**Last Updated:** January 07, 2026 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 5h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-12h ago
+13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 Am I the only one still waiting for someone to finally build an Iron Man-like UI for desktop? Voice commands, floating panels, AI baked right into the experience instead of a separate chat window. We literally have the tech now. So who's actually working on this? Drop names if you know any
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 **[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 19h ago
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 20h ago
 
 ---
 
@@ -95,7 +95,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequently generate hallucinations -- plausible but factually incorrect outputs -- undermining their reliability. While prior work has examined hallucinations from macroscopic perspectives such as training data and objectives, the underlying neuron-level mechanisms remain largely unexplored. In this paper, we conduct a systematic investigation into hallucination-associated neurons (H-Neurons) in LLMs from three perspectives: identification, behavioral impact, and origins. Regarding their identification, we demonstrate that a remarkably sparse subset of neurons (less than 0.1\% of total neurons) can reliably predict hallucination occurrences, with strong generalization across diverse scenarios. In terms of behavioral impact, controlled interventions reveal that these neurons are causally linked to over-compliance behaviors. Concerning their origins, we trace these neurons back to the pre-trained base models and find that these neurons remain predictive for hallucination detection, indicating they emerge during pre-training. Our findings bridge macroscopic behavioral patterns with microscopic neural mechanisms, offering insights for developing more reliable LLMs."
 
-12h ago
+13h ago
 
 ---
 
@@ -103,7 +103,7 @@ https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequen
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 Nvidia and Broadcom are two top AI stocks to own in 2026 and beyond.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Motley Fool • 5h ago
 
 Most investors still see gains ahead for AI and tech stocks. If they're right, Nvidia shareholders will continue to prosper.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -139,31 +139,31 @@ The Motley Fool • 12h ago
 
 As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-Politico • 18h ago
+Politico • 19h ago
 
 ---
 
 **[Nvidia CEO Says Chinese Demand for Its AI Chips Is ‘Quite High’](https://www.wsj.com/tech/ai/nvidia-ceo-says-chinese-demand-for-its-ai-chips-is-quite-high-05c8d680?gaa_at=eafs&gaa_n=AWEtsqfATk5FtnfFLfIOzL-Y6Wv_uawexZNQYdGPVFwVRVc_da3lqRJxl_L6&gaa_ts=695e3042&gaa_sig=yDlBPUcTSKITh7yYZP3IL6-czOISJuJ9iLQMEufwW9jtkTF7fSWTY7Ci5JTMfCJDdCqWQgnwYa_uet_DqhFubg%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 12h ago
 
 ---
 
 **[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
 **[Nvidia Is Missing Out on the Latest AI Stock Surge. But This Catalyst Will Fix That.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-china-h200-dc00c411?gaa_at=eafs&gaa_n=AWEtsqcDIqohzljNsosEksQf-pYyAd_MntP6-oQj4dWR3_kxqWqsnnaqAJs8&gaa_ts=695e3042&gaa_sig=uxMgl5pPp6tXhpKkrrQBiIjtgsEapAh4aRV5XuuOi5kPZgiw2GrKBWEeZHJIwLKC52YPfM-q4DAFb0b4XE9Plw%3D%3D)**
 
-Barron's • 54m ago
+Barron's • 1h ago
 
 ---
 
@@ -227,7 +227,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 95 • 💬 62 • 12h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 95 • 💬 62 • 13h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -297,7 +297,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 26K • 👍 1K • 💬 118 • ⏱️ 13:13 • 20h ago
+👁️ 26K • 👍 1K • 💬 118 • ⏱️ 13:13 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ Socials, contact: https://beacons.ai/andrewrousso.
 
 📺 Andrew Rousso
 
-👁️ 329K • 👍 33K • 💬 431 • ⏱️ 1:50 • 13h ago
+👁️ 329K • 👍 33K • 💬 431 • ⏱️ 1:50 • 14h ago
 
 ---
 
@@ -642,7 +642,7 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.1k • 🔱 717 • 6h ago
+⭐ 6.1k • 🔱 717 • 7h ago
 
 ---
 
@@ -662,7 +662,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 125 • 7h ago
+⭐ 2.1k • 🔱 125 • 8h ago
 
 ---
 
@@ -702,7 +702,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 94 • 10h ago
+⭐ 1.1k • 🔱 94 • 11h ago
 
 ---
 
@@ -722,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 976 • 🔱 118 • 6h ago
+⭐ 976 • 🔱 118 • 7h ago
 
 ---
 
@@ -732,7 +732,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 933 • 🔱 139 • 1h ago
+⭐ 933 • 🔱 139 • 2h ago
 
 ---
 

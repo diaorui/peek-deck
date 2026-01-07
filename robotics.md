@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T09:52:27.485711+00:00'
+updated: '2026-01-07T10:26:20.503073+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 09:52 UTC  
+**Last Updated:** January 07, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-17h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-6m ago
+40m ago
 
 ---
 
@@ -52,7 +52,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’ve been constantly revising and reviewing my hexapod leg design for the past
 
 Hi all, If anyone needs help with a very basic braking (regenerative) resistor setup for a robot or motor system, I can help with simple cases only. This is not for detailed system design or complex edge cases. I can help with things like: Rough resistor value / power estimation Basic connection concept Sanity check for small or low-power setups Good fit for: Prototypes Small robots Lab / hobby / early-stage projects Probably not a good fit if you’re dealing with: High-power industrial drives Safety-critical or certified systems Production designs If you want to ask, please keep it simple and include: Motor power (rough is fine) DC bus voltage How braking happens (E-stop, decel, gravity, etc.) I won’t be able to reply to complex or long design requests, but happy to help where it’s straightforward. Cheers 👍
 
-59m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -118,7 +118,7 @@ Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out wit
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 12h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -134,7 +134,7 @@ Yahoo Finance • 12h ago
 
 The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
 
-CTech • 12h ago
+CTech • 13h ago
 
 ---
 
@@ -172,7 +172,7 @@ Automotive News • 1d ago
 
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 33K • 👍 822 • 💬 146 • ⏱️ 9:33 • 10h ago
+👁️ 33K • 👍 822 • 💬 146 • ⏱️ 9:33 • 11h ago
 
 ---
 
@@ -250,7 +250,7 @@ Technology leaders are gathering in Las Vegas for CES, one of the industry's big
 
 📺 CBS News
 
-👁️ 9K • 👍 63 • 💬 7 • ⏱️ 2:54 • 11h ago
+👁️ 9K • 👍 63 • 💬 7 • ⏱️ 2:54 • 12h ago
 
 ---
 
@@ -260,7 +260,7 @@ Robot dogs dancing to K-pop and the first public appearance of Boston Dynamic's 
 
 📺 Associated Press
 
-👁️ 5K • 👍 50 • 💬 21 • ⏱️ 0:43 • 17h ago
+👁️ 5K • 👍 50 • 💬 21 • ⏱️ 0:43 • 18h ago
 
 ---
 
