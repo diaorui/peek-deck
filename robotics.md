@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T20:50:13.764563+00:00'
+updated: '2026-01-07T21:21:25.735387+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 20:50 UTC  
+**Last Updated:** January 07, 2026 at 21:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -62,7 +62,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello everyone! I’m a 12th class ICS student, and I’m very excited to begin 
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-24m ago
+55m ago
 
 ---
 
@@ -156,7 +156,7 @@ Forbes • 4h ago
 
 **[Why a humanoid robot isn't ready to take your job](https://www.axios.com/2026/01/07/ai-nvidia-tesla-optimus-humanoid-robots)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -165,7 +165,7 @@ Axios • 3h ago
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
-hyundai.com • 1d ago
+hyundai.com • 2d ago
 
 ---
 
@@ -221,7 +221,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 183 • ⏱️ 9:33 • 21h ago
+👁️ 45K • 👍 1K • 💬 183 • ⏱️ 9:33 • 22h ago
 
 ---
 
@@ -241,7 +241,7 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 28K • 👍 81 • 💬 3 • ⏱️ 1:06 • 17h ago
+👁️ 28K • 👍 81 • 💬 3 • ⏱️ 1:06 • 18h ago
 
 ---
 

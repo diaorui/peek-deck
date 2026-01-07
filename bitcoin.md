@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T20:50:13.755301+00:00'
+updated: '2026-01-07T21:21:25.726194+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 20:50 UTC  
+**Last Updated:** January 07, 2026 at 21:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-3h ago
+4h ago
 
 ---
 
@@ -121,13 +121,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 Waste heat from Bitcoin miners is being reused to power greenhouses, turning energy that would normally be lost into food production. Even the loudest skeptics did NOT see this one coming.
 
-8h ago
+9h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -187,7 +187,7 @@ Reuters • 6h ago
 
 Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -195,13 +195,13 @@ CoinDesk • 10h ago
 
 If you are wondering whether GameStop's current share price lines up with its underlying value, you are not alone. This article is here to unpack that question in plain terms. GameStop last closed at US$20.66, with returns of 0.8% over 7 days, a 10.2% decline over 30 days, 0.2% year to date, a 37.4% decline over 1 year, a 17.6% return over 3 years and a very large gain over 5 years of roughly 3x. Recent headlines around GameStop continue to focus on its role as a heavily discussed retail...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Riot sells $162 million in bitcoin as mining hashprice slumps back toward lows](https://www.theblock.co/post/384598/riot-sells-bitcoin-mining-hashprice-slump)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -245,7 +245,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 8h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -279,7 +279,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -317,7 +317,7 @@ A Rally to $103k, but then a major rejection could be around the corner for Bitc
 
 📺 Crypto Jebb
 
-👁️ 818 • 👍 101 • 💬 20 • ⏱️ 17:38 • 1h ago
+👁️ 818 • 👍 101 • 💬 20 • ⏱️ 17:38 • 2h ago
 
 ---
 
@@ -327,7 +327,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 126 • ⏱️ 48:00 • 4h ago
+👁️ 20K • 👍 1K • 💬 126 • ⏱️ 48:00 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ WEEX: https://cryptokid.io/WEEX TRADE CRYPTO Coinflare: https://cryptokid.io/Coi
 
 📺 Crypto Kid
 
-👁️ 585 • 👍 77 • 💬 5 • ⏱️ 4:32 • 56m ago
+👁️ 585 • 👍 77 • 💬 5 • ⏱️ 4:32 • 1h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin is on the doorstep of Phase 2 of this move, and this is the moment where
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 606 • 💬 22 • ⏱️ 25:29 • 51m ago
+👁️ 7K • 👍 606 • 💬 22 • ⏱️ 25:29 • 1h ago
 
 ---
 
@@ -367,7 +367,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 509 • 💬 48 • ⏱️ 5:24 • 3h ago
+👁️ 4K • 👍 509 • 💬 48 • ⏱️ 5:24 • 4h ago
 
 ---
 
