@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T19:41:35.789319+00:00'
+updated: '2026-01-07T20:28:08.141631+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 19:41 UTC  
+**Last Updated:** January 07, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,25 +36,25 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-9h ago
+10h ago
 
 ---
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-8h ago
+9h ago
 
 ---
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -62,7 +62,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-8h ago
+9h ago
 
 ---
 
@@ -70,7 +70,7 @@ Environment Description The Franka lift cube task environment is built based on 
 
 I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
 
-3h ago
+4h ago
 
 ---
 
@@ -90,14 +90,6 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 ---
 
-**[Introducing i10e: Robot Intelligence Research Lab](https://www.reddit.com/r/robotics/comments/1q6itx7/introducing_i10e_robot_intelligence_research_lab/)**
-
-At my last startup, I led a team to develop indoor localisation using SLAM. Every other solution claimed precision, but when we spoke to customers we discovered that realistically everything they'd tried was at around 6 or 7m accuracy, and suffered from false estimates, scale issues, and drift. We achieved reliable 1m-accuracy on any phone, and eventually sold it to IKEA. In developing that technology, there was a lot of crossover with robotics -- another area which had a lot of promise but a clear bottleneck preventing growth. It got me curious about why robots weren't able to do more. The hardware is capable of far more than what the intelligence software is enabling. I believe it's a problem with the intelligence architecture. i10e is my new robot intelligence research lab. The name is a numeronym for intelligence. Our mission is to discover a new architecture for robot intelligence, more inspired by the brain. Something that will be able to understand the world, and learn from experience. This is a wide search space and almost everyone is narrowly focussed on one area. I'd like to see more competition and exploration in the industry. This is my contribution to that.
-
-🔗 [Andrew Hart](https://andrewhart.me/i10e/) • 3h ago
-
----
-
 **[Excited to Learn Robotics ,Seeking Guidance for Beginners](https://www.reddit.com/r/robotics/comments/1q6nk0d/excited_to_learn_robotics_seeking_guidance_for/)**
 
 Hello everyone! I’m a 12th class ICS student, and I’m very excited to begin my journey into robotics. I’ve been inspired by innovations from NVIDIA and Tesla 🤖 and I’m eager to understand both the fundamentals and practical applications of robotics. As a complete beginner, I’m looking for guidance on how to start. Any recommendations for beginner-friendly resources, books, online courses, or small projects would be greatly appreciated.I’m keen to learn and would value any advice or direction you can provide.
@@ -106,13 +98,21 @@ Hello everyone! I’m a 12th class ICS student, and I’m very excited to begin 
 
 ---
 
+**[Finalizing the controller](https://www.reddit.com/r/robotics/comments/1q6qm4x/finalizing_the_controller/)**
+
+Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
+
+2m ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqdp7PvqbUTZsRo6ppQY2DluoNE6KKC4DEdm8B85UjeXV3QkQNeA_OuA&gaa_ts=695eb591&gaa_sig=8CNxW7HF-AfUaw_mrD35_fO4jUYQSqCKJWtPcvfYptfDganVu_7crCwj3yVb9w1KtSzW4vMT3Ji1gQCwkV1rPg%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfTI1T6elD3MOiTxFpl2wikRHCwU_wAs__7iUqr_VxI4Oxa4GTy5MXM&gaa_ts=695ec52c&gaa_sig=7RIhYmhJUbIgvFfq8tNbDZwv63ZHQj1-OqHnavXV83dJMd3KDeGAB-q7B15Lv7subzFDNSS_6Ju08g8xCM4KzQ%3D%3D)**
 
-The Wall Street Journal • 21h ago
+The Wall Street Journal • 22h ago
 
 ---
 
@@ -140,25 +140,23 @@ TechCrunch • 1d ago
 
 ---
 
-**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
-
-New technique varies colour and texture to open up potential applications in display technologies
-
-Financial Times • 3h ago
-
----
-
 **[These robotic sneakers gave me a surprising boost at CES](https://www.engadget.com/wearables/these-robotic-sneakers-gave-me-a-surprising-boost-at-ces-174500005.html)**
 
 I took Dephy's robotic sneakers, called Sidekick, for a pin at CES 2026 and was surprised by the boost.
 
-Engadget • 1h ago
+Engadget • 2h ago
 
 ---
 
 **[Tesla’s Manufacturing Hangover Is Steering Musk Into Robotics](https://www.forbes.com/sites/alanohnsman/2026/01/07/teslas-manufacturing-hangover-is-steering-musk-into-robotics/)**
 
-Forbes • 2h ago
+Forbes • 3h ago
+
+---
+
+**[Why a humanoid robot isn't ready to take your job](https://www.axios.com/2026/01/07/ai-nvidia-tesla-optimus-humanoid-robots)**
+
+Axios • 3h ago
 
 ---
 
@@ -173,15 +171,13 @@ hyundai.com • 1d ago
 
 **[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
-
-90.5 WESA • 9h ago
+Reuters • 1d ago
 
 ---
 
@@ -225,7 +221,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 183 • ⏱️ 9:33 • 20h ago
+👁️ 43K • 👍 1K • 💬 183 • ⏱️ 9:33 • 21h ago
 
 ---
 
@@ -255,7 +251,7 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 20K • 👍 72 • 💬 3 • ⏱️ 1:06 • 16h ago
+👁️ 20K • 👍 72 • 💬 3 • ⏱️ 1:06 • 17h ago
 
 ---
 
@@ -265,7 +261,7 @@ Israel's most advanced humanoid robot learned to change other robots' batteries 
 
 📺 Kalil 4.0
 
-👁️ 334 • 👍 10 • ⏱️ 0:59 • 1h ago
+👁️ 334 • 👍 10 • ⏱️ 0:59 • 2h ago
 
 ---
 
@@ -275,7 +271,7 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 10K • 👍 240 • 💬 17 • ⏱️ 2:12 • 19h ago
+👁️ 10K • 👍 240 • 💬 17 • ⏱️ 2:12 • 20h ago
 
 ---
 

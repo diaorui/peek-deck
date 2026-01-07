@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T19:41:35.779900+00:00'
+updated: '2026-01-07T20:28:08.132499+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 19:41 UTC  
+**Last Updated:** January 07, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +2.2%  
-**30d:** -2.3%  
-**90d:** -19.8%  
-**1y:** -4.6%  
+**24h:** -2.5%  
+**7d:** +2.7%  
+**30d:** -1.9%  
+**90d:** -19.4%  
+**1y:** -4.1%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-2h ago
+3h ago
 
 ---
 
@@ -121,13 +121,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 Waste heat from Bitcoin miners is being reused to power greenhouses, turning energy that would normally be lost into food production. Even the loudest skeptics did NOT see this one coming.
 
-7h ago
+8h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my tr
 
 **[In 2020, the Fed increased USD money supply by 24.9%. Bitcoin issued exactly 1.8%, as scheduled a decade earlier.](https://www.reddit.com/r/Bitcoin/comments/1q6fqu8/in_2020_the_fed_increased_usd_money_supply_by_249/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my tr
 
 Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -173,7 +173,13 @@ Investor's Business Daily • 1d ago
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
+
+---
+
+**[Strategy rises as MSCI shelves plans to exclude crypto treasury firms from indexes](https://www.reuters.com/business/strategy-rises-msci-shelves-plans-exclude-crypto-treasury-firms-indexes-2026-01-07/)**
+
+Reuters • 5h ago
 
 ---
 
@@ -181,45 +187,37 @@ Investor's Business Daily • 1h ago
 
 Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Why Bitcoin Is Not Surging Despite Bullish MSCI News](https://www.tradingview.com/news/coinpedia:c19c0691f094b:0-why-bitcoin-is-not-surging-despite-bullish-msci-news/)**
+**[Is GameStop (GME) Pricing Reflect Its Cash, Bitcoin Holdings And Meme Stock Volatility](https://finance.yahoo.com/news/gamestop-gme-pricing-reflect-cash-191657042.html)**
 
-Bitcoin has been struggling lately to move higher, even after the MSCI has made its decision on digital assets treasury (DATs) companies to remain in MSCI-related global indexes.While this eased fears of firms like Strategy forcefully selling Bitcoin. Yet Bitcoin’s price did not move higher, leavin…
+If you are wondering whether GameStop's current share price lines up with its underlying value, you are not alone. This article is here to unpack that question in plain terms. GameStop last closed at US$20.66, with returns of 0.8% over 7 days, a 10.2% decline over 30 days, 0.2% year to date, a 37.4% decline over 1 year, a 17.6% return over 3 years and a very large gain over 5 years of roughly 3x. Recent headlines around GameStop continue to focus on its role as a heavily discussed retail...
 
-TradingView — Track All Markets • 6h ago
-
----
-
-**[Virtual Cycling Treasure Hunt: Explore MyWhoosh, Win Bitcoin](https://gearjunkie.com/biking/virtual-cycling-treasure-hunt-mywhoosh-bitcoin)**
-
-Each month this year, an indoor cyclist using MyWhoosh will have the opportunity to find an in-app "treasure" worth 1/12th of a Bitcoin.
-
-GearJunkie • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto Markets Today: Asia-session sell-off drags bitcoin, altcoins lower](https://www.coindesk.com/markets/2026/01/07/crypto-markets-today-bitcoin-slides-as-asia-led-sell-off-hits-altcoins)**
+**[Riot sells $162 million in bitcoin as mining hashprice slumps back toward lows](https://www.theblock.co/post/384598/riot-sells-bitcoin-mining-hashprice-slump)**
 
-Bitcoin fell during Asian trading hours after failing to break above $94,500, dragging the wider crypto market lower.
-
-CoinDesk • 8h ago
+The Block • 8h ago
 
 ---
 
-**[Bitcoin Faithful Still Missing Even After Token Reclaims $90,000](https://www.bloomberg.com/news/articles/2026-01-06/bitcoin-faithful-still-missing-even-after-token-reclaims-90-000)**
+**[Riot Dumps Record $162M in Bitcoin as Hashprice Crisis Forces Largest-Ever Selloff](https://finance.yahoo.com/news/riot-dumps-record-162m-bitcoin-193013352.html)**
 
-Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
+Riot Platforms has carried out the largest bitcoin selloff in its history, dumping $161.6 million worth of BTC in December as deteriorating mining economics forced a sharp shift in treasury strategy. The sale came despite Riot producing more bitcoin month over month, showing how pressure from collapsing hashprice is now ...
 
-Bloomberg.com • 7h ago
+Yahoo Finance • 57m ago
 
 ---
 
-**[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
+**[Bitcoin miner Riot Platforms (RIOT) raised $200 million via BTC sales](https://www.coindesk.com/markets/2026/01/06/riot-platforms-sold-usd200-million-of-bitcoin-in-2025-s-last-two-months)**
 
-Forbes • 5h ago
+VanEck’s head of digital assets said bitcoin sales and the AI trade are increasingly linked as miners fund infrastructure build-outs.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -247,7 +245,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -281,7 +279,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -319,7 +317,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 218 • ⏱️ 11:24 • 20h ago
+👁️ 18K • 👍 1K • 💬 218 • ⏱️ 11:24 • 21h ago
 
 ---
 
@@ -329,7 +327,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 125 • ⏱️ 48:00 • 3h ago
+👁️ 15K • 👍 1K • 💬 125 • ⏱️ 48:00 • 4h ago
 
 ---
 
@@ -359,7 +357,7 @@ David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin 
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 149 • ⏱️ 11:01 • 21h ago
+👁️ 50K • 👍 3K • 💬 149 • ⏱️ 11:01 • 22h ago
 
 ---
 
@@ -369,7 +367,7 @@ Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are movi
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 660 • 💬 39 • ⏱️ 29:22 • 20h ago
+👁️ 9K • 👍 660 • 💬 39 • ⏱️ 29:22 • 21h ago
 
 ---
 
@@ -379,7 +377,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 CNBC Television
 
-👁️ 52K • 👍 1K • 💬 579 • ⏱️ 4:14 • 22h ago
+👁️ 52K • 👍 1K • 💬 579 • ⏱️ 4:14 • 23h ago
 
 ---
 

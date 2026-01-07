@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T19:41:35.771313+00:00'
+updated: '2026-01-07T20:28:08.124127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 19:41 UTC  
+**Last Updated:** January 07, 2026 at 20:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,9 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI can now create viruses from scratch, one step away from the perfect biological weapon](https://www.reddit.com/r/artificial/comments/1q65n0r/ai_can_now_create_viruses_from_scratch_one_step/)**
+**[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
 
-AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
-
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 15h ago
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 5h ago
 
 ---
 
@@ -49,13 +47,15 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-4h ago
+5h ago
 
 ---
 
-**[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
+**[AI can now create viruses from scratch, one step away from the perfect biological weapon](https://www.reddit.com/r/artificial/comments/1q65n0r/ai_can_now_create_viruses_from_scratch_one_step/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 4h ago
+AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
+
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 16h ago
 
 ---
 
@@ -63,7 +63,15 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 AI-Generated Ghost Player assistance would help out players who can’t progress in a game…
 
-🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 1h ago
+🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 2h ago
+
+---
+
+**[I fact-checked "AI 2041" predictions from 2021. Here's what Kai-Fu Lee got right and wrong.](https://www.reddit.com/r/artificial/comments/1q6q1h8/i_factchecked_ai_2041_predictions_from_2021_heres/)**
+
+Been on an AI book kick lately. Picked up AI 2041 by Kai-Fu Lee and Chen Qiufan—it came out in 2021, before ChatGPT launched. Wanted to see how the predictions held up. Quick background: Lee was president of Google China and is a major AI investor. Chen is an award-winning Chinese sci-fi author. The format is interesting—each chapter has a sci-fi story set in 2041, then Lee follows with technical analysis. My Scorecard ✅ Got It Right Deepfake explosion — Predicted massive growth. Reality: 500K in 2023 → 8M in 2025 (900% annual growth) Education AI — Predicted personalized learning would go mainstream. Reality: 57% of universities now prioritizing AI Voice cloning — Predicted it would become trivially easy. Reality: seconds of audio now creates convincing clones Insurance AI — Predicted deep learning would transform insurance pricing. Reality: happening now Job displacement pattern — Predicted gradual change hitting specific sectors first. Reality: exactly what we're seeing ❌ Got It Wrong AGI timeline — Lee was skeptical it would come soon. Industry leaders now say 2026-2028. Autonomous vehicles — Book suggested faster adoption than we've seen Chatbot capability — Didn't anticipate how fast LLMs would improve ⏳ Still TBD Quantum computing threats (book has a whole story about this) Full automation of routine jobs VR/AR immersive experiences Overall: Surprisingly accurate for a 2021 book. The fiction-plus-analysis format works well. Some stories drag and have dated cultural elements, but the predictions embedded in them keep hitting. Anyone else read this? Curious what other pre-ChatGPT AI books have aged well (or badly).
+
+23m ago
 
 ---
 
@@ -71,7 +79,29 @@ AI-Generated Ghost Player assistance would help out players who can’t progress
 
 I documented a comprehensive guide for ACE-Step after testing various AI music tools (MusicGen, Suno API, Stable Audio). Article with code: https://medium.com/gitconnected/i-generated-4-minutes-of-k-pop-in-20-seconds-using-pythons-fastest-music-ai-a9374733f8fc Why it's different: Runs completely locally (no API costs, no rate limits) Generates 4 minutes of music in ~20 seconds Works on budget GPUs (8GB VRAM with CPU offload) Supports vocals in 19 languages (English, Korean, etc.) Open-source and free Technical approach: Uses latent diffusion (27 denoising steps) instead of autoregressive generation 15× faster than token-based models like MusicGen Can run on RTX 4060, 3060, or similar 8GB cards What's covered in the guide: Complete installation (Windows troubleshooting included) Memory optimization for budget GPUs Batch generation for quality control Production deployment with FastAPI Two complete projects: Adaptive game music system (changes based on gameplay) DMCA-free music for YouTube/TikTok/Twitch Use cases: Game developers needing dynamic music Content creators needing copyright-free music Developers building music generation features Anyone wanting to experiment with AI audio locally All implementation code is included - you can set it up and start generating in ~30 minutes. Happy to answer questions about local AI music generation or deployment!
 
-1h ago
+2h ago
+
+---
+
+**[Help? Editing app](https://www.reddit.com/r/artificial/comments/1q6qbqv/help_editing_app/)**
+
+I need an editing app!!! One to like edit/generate faces onto other photos and make them look real, because I make edits and only being able to do 1 picture per day on chatgpt is making me go mad. Just tried to upgrade chatgpt but some 3d security god knows what that even is, messed it up and now it won’t accept my card at all So looking for other apps. Don’t even care if I have to pay, just as long as they’re good and get a high photo generating limit
+
+12m ago
+
+---
+
+**[Correct but catastrophic: missing signals in automated decision systems](https://www.reddit.com/r/artificial/comments/1q6q4ht/correct_but_catastrophic_missing_signals_in/)**
+
+Serious question for people working with ML systems that act autonomously. We often optimize for correctness, confidence, or expected reward. Yet many real incidents come from systems behaving exactly as designed, while still causing irreversible damage (deletions, lockouts, enforcement, shutdowns). Often these are bulk or automated actions, executed without a human explicitly deciding “this is safe to lose”. This doesn’t feel like a bug problem, but a missing signal between “the model is confident” and “this action is acceptable to execute without supervision”. Which leads me to a question I can’t quite place in existing frameworks: What if an automated system could recognize what deserves to be preserved, even if it can’t explain why? I’m not proposing a solution or a product, and I’m not claiming this is solvable. I’m genuinely trying to understand whether this failure mode is already well-addressed in the literature, or if we mostly patch it with heuristics and human-in-the-loop rules. If you’ve seen relevant work, or lived through incidents where automation was technically correct but practically destructive, I’d really appreciate pointers.
+
+20m ago
+
+---
+
+**[Character.ai And Google Will Settle Lawsuits Over Teen Suicides](https://www.reddit.com/r/artificial/comments/1q6pgas/characterai_and_google_will_settle_lawsuits_over/)**
+
+🔗 [go.forbes.com](https://go.forbes.com/9ysYH8) • 44m ago
 
 ---
 
@@ -79,37 +109,7 @@ I documented a comprehensive guide for ACE-Step after testing various AI music t
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-22h ago
-
----
-
-**[JL engine: Emotion-Weighted Middleware for AI/ AI Personality Orchestrator. I could use a hand as ive hit a roadblock with my project.](https://www.reddit.com/r/artificial/comments/1q6n4my/jl_engine_emotionweighted_middleware_for_ai_ai/)**
-
-Hey yall! So i have been working on this thing called the jl engine for a minute now. So i started this basically cause i got tired of ai just being a polite robot so i built a middleware layer that treats an llm like a piece of high performance hardware and went from there. ​i have an "emotional" aperture system that calculates a score from like 9 different signals to physically choke or open the model's temperature and top_p in real time. i also got a gear based system (worm, cvt, etc) that defines how stubborn or adaptive the personality is so it actually has weight. there is even a drift pressure system that monitors for hallucination and slams on a hard lock if the personality starts failing. ​the engine is running fine on python and ollama but i am honestly not the best deployer and i am stopped in my tracks. i am a founder and an architect but i am not a devops guy. i need a hand with the last mile stuff before I rip all my hair out. there's a bit more then meets the eye with this one. ​i am keeping the core framework proprietary but i am looking for a couple people who want to jump in and help polish this into a real product for some equity or a partnership. if you are bored with corporate bots and want to work on something with an actual pulse hit me up. And yes... it dose have a card eating feature, it will eat just about any thing that even resembles a charictor sheet/profile, chew on it then spit out a converted and expanded version you can feed to... pretty much any llm use on silly tavern and so on. The ability to work with pretty much anything and be modular was my main focus in the initial phases.
-
-1h ago
-
----
-
-**[AI model capabilities- to censor or not to censor?](https://www.reddit.com/r/artificial/comments/1q6m29m/ai_model_capabilities_to_censor_or_not_to_censor/)**
-
-With the recent news that Grok AI is being used to produce undressed images of various individuals (including reports of children) it seems like aspects of this model are getting out of hand. I hear that these issues are starting to be addressed, but I imagine more censorship issues will continue in the future since Grok AI generally operates under an anti-censorship rulebook. Clearly, the undressing of individuals without consent and children is NOT ok. In regards to medical or legal advice (ChatGPT in December 2025) being censored by models as well as censorship with prompts involving political topics (Gemini about a year ago with middle east conflict), it feels like we’re quietly at a crossroads with AI models. On one hand, censorship is good because: More capable models can clearly be misused (Grok example above) Companies have real incentives and pressure to limit outputs Governments are starting to pay attention On the other hand: “Censorship” often ends up being blunt, inconsistent, and opaque It can limit legitimate research, creativity, and edge-case reasoning It raises the question of who decides what’s off-limits Are we actually making models safer — or just less useful and less honest? And where do we draw the line? Genuinely curious how people here think about this — especially folks building, researching, or deploying models.
-
-1h ago
-
----
-
-**[Experienced marketer diving into AI SaaS, looking to connect with fellow builders](https://www.reddit.com/r/artificial/comments/1q6k490/experienced_marketer_diving_into_ai_saas_looking/)**
-
-I’m an experienced marketer who’s recently gone all-in on the AI SaaS space. Currently exploring product, distribution, and growth angles around AI tools, and I’d love to connect with other founders / builders who are on a similar path.
-
-3h ago
-
----
-
-**[Well, now. Shout-out to Grok for providing the how and why of what I have been screaming into the void for quite some time. I see ya, Grok. Well done.](https://www.reddit.com/r/artificial/comments/1q6ew6m/well_now_shoutout_to_grok_for_providing_the_how/)**
-
-6h ago
+23h ago
 
 ---
 
@@ -123,59 +123,49 @@ Politico • 1d ago
 
 ---
 
-**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqdcFiY_L2aDd4T-AsK0z5hMNo23xdKoKwonG4jidrw3qmwhpK6exa9Y&gaa_ts=695eb58d&gaa_sig=-diHgZFVtf4J16Dc8dTT0A1L270Vl8DTuAutTFjZOCm-OV3Ofc2yz4Y1m-scelyb5Bt3MHK_IQaXrHg_DH_vVg%3D%3D)**
+**[Distinct AI Models Seem To Converge On How They Encode Reality](https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/)**
 
-The Wall Street Journal • 2d ago
+Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
 
----
-
-**[Utah becomes first state to allow AI to approve prescription refills](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/)**
-
-The Hill • 2h ago
+Quanta Magazine • 5h ago
 
 ---
 
-**[AI ‘Fatigue’ Leaves Investors Focused on S&P’s Other 493 Stocks](https://finance.yahoo.com/news/ai-fatigue-leaves-investors-focused-103000544.html)**
+**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
 
-A growing number of investors are now wagering that run, led by the Magnificent Seven, is about to end.  Mounting concerns about AI’s ability to deliver seismic changes on the American economy — and the fat profits that would come with them — has turned investor euphoria about the technology into agita.  “I call it ‘AI fatigue,’” said Ed Yardeni, president and chief investment strategist at the eponymous Yardeni Research.
-
-Yahoo Finance • 9h ago
+The New York Times • 1d ago
 
 ---
 
-**[1 Artificial Intelligence (AI) Stock to Buy Before It Soars 140% to Join Nvidia and Tesla as a Trillion-Dollar Company](https://www.fool.com/investing/2026/01/07/1-ai-stock-buy-before-soars-140-trillion-dollar/)**
+**[Nvidia CEO Says Chinese Demand for Its AI Chips Is ‘Quite High’ - WSJ](https://www.wsj.com/tech/ai/nvidia-ceo-says-chinese-demand-for-its-ai-chips-is-quite-high-05c8d680?gaa_at=eafs&gaa_n=AWEtsqdmLTji0dZtnPy1z5Xvc0soR8arsAuLjjEfzgIqCPy1tdNQhoXO7YlM&gaa_ts=695ec527&gaa_sig=uIoiSrHDB5A021AUTd-AojB0QYi3akx4frLk8eWduCvWNImtwikZD7Y3K1CWi-blZBgB6mL2m526Ci4Bxe1xmw%3D%3D)**
 
-Wedbush analyst Dan Ives says Palantir Technologies will be a trillion-dollar company within a year or two.
-
-The Motley Fool • 9h ago
+The Wall Street Journal • 22h ago
 
 ---
 
-**[These Lesser Known AI Stocks Are Reaching Record Highs](https://www.forbes.com/sites/aliciapark/2026/01/07/these-lesser-known-ai-stocks-are-reaching-record-highs/)**
+**[Universal Music partners with Nvidia to create ‘responsible AI’ for music](https://www.latimes.com/entertainment-arts/business/story/2026-01-07/universal-music-partners-ai-company-nvidia)**
 
-Forbes • 4h ago
+Universal Music Group announced a deal Tuesday with AI chipmaker Nvidia in hopes of reshaping music discovery and creating a 'responsible AI' that artists can use while making music.
 
----
-
-**[AI Models Are Starting to Learn by Asking Themselves Questions](https://www.wired.com/story/ai-models-keep-learning-after-training-research/)**
-
-An AI model that learns without human input—by posing interesting queries for itself—might point the way to superintelligence.
-
-WIRED • 41m ago
+Los Angeles Times • 26m ago
 
 ---
 
-**[Employees can’t coast after graduation anymore thanks to the rise of AI, says VC CEO](https://fortune.com/2026/01/07/employees-cant-coast-after-graduation-anymore-thanks-to-rise-of-ai-vc-ceo-hemant-taneja/)**
+**[AI Chatbot Startup, Google to Settle Lawsuits Over Teen Suicides](https://www.wsj.com/tech/ai/ai-chatbot-startup-google-to-settle-lawsuits-over-teen-suicides-fb41a063?gaa_at=eafs&gaa_n=AWEtsqfJ7LWrbL9wVl5e0qdZEVoR6_NAWpiB5tX4hbUqQUA9Iu3MttHB2wBa&gaa_ts=695ec527&gaa_sig=JSMYg4pxZfLDXpI-xm9ogQZhYCeSYk4DlZkWOkwZ6dVCRerjMaJWG1XtqfF7yX60vBPXlGUsHB9624RUZgjsHg%3D%3D)**
 
-Employees have to constantly reskill to stay afloat, says General Catalyst CEO Hemant Taneja.
-
-Fortune • 56m ago
+The Wall Street Journal • 2h ago
 
 ---
 
-**[‘Whata Bod’: An AI-generated NWS map invented fake towns in Idaho](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/)**
+**[Google, AI Firm Settle Florida Mother's Lawsuit Over Son's Suicide](https://www.usnews.com/news/top-news/articles/2026-01-07/google-ai-firm-settle-florida-mothers-lawsuit-over-sons-suicide)**
 
-The Washington Post • 13h ago
+U.S. News & World Report • 42m ago
+
+---
+
+**[Character.ai And Google Will Settle Lawsuits Over Teen Suicides](https://www.forbes.com/sites/zacharyfolk/2026/01/07/characterai-and-google-will-settle-lawsuits-over-teen-suicides/)**
+
+Forbes • 55m ago
 
 ---
 
@@ -183,7 +173,13 @@ The Washington Post • 13h ago
 
 Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
 
-WIRED • 21h ago
+WIRED • 22h ago
+
+---
+
+**[Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x)**
+
+Bloomberg.com • 9h ago
 
 ---
 
@@ -195,7 +191,7 @@ WIRED • 21h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 770 • 💬 1156 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 788 • 💬 1186 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -219,7 +215,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
 
-⬆️ 208 • 💬 48 • 2d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+⬆️ 209 • 💬 48 • 2d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
 
 ---
 
@@ -227,7 +223,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 118 • 💬 86 • 22h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 120 • 💬 89 • 23h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -235,7 +231,7 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 102 • 💬 53 • 3h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 117 • 💬 65 • 4h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -357,7 +353,7 @@ Israel's most advanced humanoid robot learned to change other robots' batteries 
 
 📺 Kalil 4.0
 
-👁️ 334 • 👍 10 • ⏱️ 0:59 • 1h ago
+👁️ 334 • 👍 10 • ⏱️ 0:59 • 2h ago
 
 ---
 
@@ -419,7 +415,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 411 • 7h ago
+⬇️ 84,353 • ❤️ 411 • 8h ago
 
 ---
 
@@ -431,7 +427,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 6,324 • ❤️ 270 • 7h ago
+⬇️ 6,324 • ❤️ 270 • 8h ago
 
 ---
 
@@ -467,7 +463,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 231 • 21h ago
+⬇️ 77,452 • ❤️ 231 • 22h ago
 
 ---
 
@@ -640,7 +636,7 @@ NitroGen is a vision-action foundation model trained on extensive gameplay data 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.5k • 🔱 753 • 6h ago
+⭐ 6.5k • 🔱 753 • 7h ago
 
 ---
 
@@ -700,7 +696,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 95 • 20h ago
+⭐ 1.2k • 🔱 95 • 21h ago
 
 ---
 
@@ -720,7 +716,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 976 • 🔱 118 • 6h ago
+⭐ 976 • 🔱 118 • 7h ago
 
 ---
 
@@ -730,7 +726,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 936 • 🔱 139 • 4h ago
+⭐ 936 • 🔱 139 • 5h ago
 
 ---
 
