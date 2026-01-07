@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T08:33:28.949959+00:00'
+updated: '2026-01-07T09:29:27.920967+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 08:33 UTC  
+**Last Updated:** January 07, 2026 at 09:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-16h ago
+17h ago
 
 ---
 
@@ -44,13 +44,13 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-14h ago
+15h ago
 
 ---
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 I’ve been constantly revising and reviewing my hexapod leg design for the past few weeks. And so far servos have been working great for most of the times when it comes to prototyping. However, I just realized after watching some YouTube videos regarding hexapod building that knockoffs are not exactly ideal when it comes to building this types of projects since there is a reliability issue. I was wondering where u guys get your servos since I need some reliable ones at a cheap price.
 
-47m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’ve been constantly revising and reviewing my hexapod leg design for the past
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 18h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 19h ago
 
 ---
 
@@ -82,13 +82,13 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
 
-7h ago
+8h ago
 
 ---
 
 **[Humanoid vs Special Purpose Robots](https://www.reddit.com/r/robotics/comments/1q5zrds/humanoid_vs_special_purpose_robots/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out wit
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
 
-12h ago
+13h ago
 
 ---
 
@@ -116,7 +116,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -124,13 +124,13 @@ Yahoo Finance • 10h ago
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 11h ago
+TechCrunch • 12h ago
 
 ---
 
 **[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqersyApmGObrGPBsrmRavHeYlP4FVCC-LrI5my4nbbK8cWaps0KDWZj&gaa_ts=695e1dbf&gaa_sig=69LrLlkp7EVXo9S7VcWHiFSG2gIYLuSr6mxKR0hSPgUKy1yD_PgRHLoqQGzs0_8vTCDXBYOl3LeAXPnW7snEdw%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -174,7 +174,7 @@ Bloomberg.com • 1d ago
 
 **[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -196,7 +196,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 29K • 👍 755 • 💬 133 • ⏱️ 9:33 • 9h ago
+👁️ 33K • 👍 822 • 💬 146 • ⏱️ 9:33 • 10h ago
 
 ---
 
@@ -206,17 +206,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 963K • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
-
----
-
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
-
-Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
-
-📺 PCMag
-
-👁️ 303K • 👍 8K • 💬 1K • ⏱️ 7:00 • 1d ago
+👁️ 979K • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
 
 ---
 
@@ -226,7 +216,17 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 19K • 👍 255 • 💬 10 • ⏱️ 7:38 • 2d ago
+👁️ 19K • 👍 260 • 💬 11 • ⏱️ 7:38 • 2d ago
+
+---
+
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+
+Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+
+📺 PCMag
+
+👁️ 327K • 👍 8K • 💬 1K • ⏱️ 7:00 • 1d ago
 
 ---
 
@@ -236,7 +236,17 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 343K • 👍 5K • 💬 805 • ⏱️ 5:49 • 2d ago
+👁️ 349K • 👍 5K • 💬 832 • ⏱️ 5:49 • 2d ago
+
+---
+
+**[Laundry-folding robot debuts at CES 2026](https://www.youtube.com/watch?v=W93GXR7jo5o)**
+
+Technology leaders are gathering in Las Vegas for CES, one of the industry's biggest conferences of the year. CNET editor at ...
+
+📺 CBS News
+
+👁️ 9K • 👍 63 • 💬 7 • ⏱️ 2:54 • 11h ago
 
 ---
 
@@ -246,27 +256,17 @@ Robot dogs dancing to K-pop and the first public appearance of Boston Dynamic's 
 
 📺 Associated Press
 
-👁️ 4K • 👍 48 • 💬 22 • ⏱️ 0:43 • 16h ago
+👁️ 5K • 👍 50 • 💬 21 • ⏱️ 0:43 • 17h ago
 
 ---
 
-**[China’s “Advanced” Robots Are Failing Spectacularly!](https://www.youtube.com/watch?v=IO-yTxvMoZM)**
+**[Taking the Tron 1 Robot for a Spin | What the Future](https://www.youtube.com/watch?v=PGULHNClLiw)**
 
-China always brags about its "advanced robots", but the reality is shocking! Watch the full show here: ...
+Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. Check out more from @lookingglassxr and ...
 
-📺 China Fact Chasers
+📺 CNET
 
-👁️ 16K • 👍 1K • 💬 77 • ⏱️ 8:39 • 6d ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 106K • 👍 2K • 💬 280 • ⏱️ 11:42 • 6d ago
+👁️ 6K • 👍 182 • 💬 15 • ⏱️ 2:12 • 9h ago
 
 ---
 
@@ -276,17 +276,17 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 4K • 👍 50 • 💬 7 • ⏱️ 2:58 • 12h ago
+👁️ 4K • 👍 51 • 💬 7 • ⏱️ 2:58 • 13h ago
 
 ---
 
-**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
+**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
 
-The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
+CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
 
-📺 Hyundai Motor Group
+📺 The Laughing Lion
 
-👁️ 102K • 👍 56 • ⏱️ 1:15 • 10h ago
+👁️ 2K • 👍 93 • 💬 19 • ⏱️ 25:02 • 2h ago
 
 ---
 
