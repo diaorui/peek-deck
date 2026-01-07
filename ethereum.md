@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T06:35:51.040284+00:00'
+updated: '2026-01-07T07:27:01.881171+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 06:35 UTC  
+**Last Updated:** January 07, 2026 at 07:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +8.2%  
-**30d:** -2.1%  
-**90d:** -15.7%  
-**1y:** -2.3%  
+**24h:** +1.1%  
+**7d:** +8.4%  
+**30d:** -1.9%  
+**90d:** -15.6%  
+**1y:** -2.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $393.24B
+**Market Cap:** $393.09B
 Rank #2
 
 **Circulating Supply:** 120,694,786 ETH
@@ -62,11 +62,27 @@ No max supply
 -34.2%
 
 **All-Time Low:** $0.43
-+751622.4%
++751964.2%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion January 07, 2026](https://www.reddit.com/r/ethereum/comments/1q67iu2/daily_general_discussion_january_07_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
+**[Transaction Level Pre and Post Balance for All Ethereum Transactions](https://www.reddit.com/r/ethereum/comments/1q657nh/transaction_level_pre_and_post_balance_for_all/)**
+
+Bitquery has released a new stream that delivers real-time, transaction-level pre- and post-balance data for all Ethereum addresses involved in transactions, across all tokens. What use case can you think of for this product? https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/
+
+3h ago
+
+---
 
 **[Daily General Discussion January 06, 2026](https://www.reddit.com/r/ethereum/comments/1q5anbq/daily_general_discussion_january_06_2026/)**
 
@@ -76,25 +92,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
-
-55m ago
-
----
-
-**[Transaction Level Pre and Post Balance for All Ethereum Transactions](https://www.reddit.com/r/ethereum/comments/1q657nh/transaction_level_pre_and_post_balance_for_all/)**
-
-Bitquery has released a new stream that delivers real-time, transaction-level pre- and post-balance data for all Ethereum addresses involved in transactions, across all tokens. What use case can you think of for this product? https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/
-
-2h ago
-
----
-
 **[Internal transaction not reflected in wallet balance](https://www.reddit.com/r/ethereum/comments/1q5zcx7/internal_transaction_not_reflected_in_wallet/)**
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-6h ago
+7h ago
+
+---
+
+**[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
+
+1h ago
 
 ---
 
@@ -102,7 +110,7 @@ I haven't touched crypto in a minute. Got on a productivity bent yesterday and d
 
 Yet another data breach, this time involving payment processor Global-E, with customer personal data reportedly exposed. We often talk about blockchain as a solution for privacy and transparency. But incidents like this show a hard truth: privacy failures still happen at the infrastructure and application layer, regardless of whether crypto or blockchain is involved. Decentralization doesn’t automatically mean privacy. Security practices, data minimization, and proper protection of user information still matter a lot. If sensitive data keeps leaking before it ever touches a blockchain, that’s a problem we shouldn’t ignore. Curious how others here see this are we focusing too much on decentralization while underestimating basic data security?
 
-23h ago
+1d ago
 
 ---
 
@@ -136,14 +144,6 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 ---
 
-**[Daily General Discussion January 04, 2026](https://www.reddit.com/r/ethereum/comments/1q3i656/daily_general_discussion_january_04_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -153,6 +153,20 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
 CoinDesk • 15h ago
+
+---
+
+**['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
+
+The Block • 10h ago
+
+---
+
+**[Ethereum Rally Faces Pressure After $970 Million in Whale Selling](https://finance.yahoo.com/news/ethereum-rally-faces-pressure-970-070000654.html)**
+
+Ethereum breaks out of a descending wedge, but heavy whale selling raises questions about whether ETH’s rally can extend toward $4,000.
+
+Yahoo Finance • 27m ago
 
 ---
 
@@ -170,23 +184,17 @@ CNBC • 1d ago
 
 ---
 
-**['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
+**[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
 
-The Block • 9h ago
+Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
 
----
-
-**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
-
-Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
-
-Yahoo Finance • 11h ago
+GlobeNewswire • 1d ago
 
 ---
 
-**[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
+**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 1d ago
+CCN.com • 20h ago
 
 ---
 
@@ -195,14 +203,6 @@ CCN.com • 1d ago
 Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
 
 Decrypt • 18h ago
-
----
-
-**[Ethereum's Blockchain Trilemma 'Solved': Vitalik Buterin](https://decrypt.co/353587/ethereums-blockchain-trilemma-solved-vitalik-buterin)**
-
-The Ethereum co-founder said upgrades allow the network to achieve decentralization, security and scalability at once.
-
-Decrypt • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 5K • 👍 336 • 💬 39 • ⏱️ 12:17 • 7h ago
+👁️ 8K • 👍 417 • 💬 49 • ⏱️ 12:17 • 8h ago
 
 ---
 
@@ -242,7 +242,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 138 • ⏱️ 8:07 • 14h ago
+👁️ 19K • 👍 3K • 💬 139 • ⏱️ 8:07 • 15h ago
 
 ---
 
@@ -252,7 +252,17 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 128 • ⏱️ 9:50 • 16h ago
+👁️ 46K • 👍 3K • 💬 129 • ⏱️ 9:50 • 17h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=VVCu-Ueh5TY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 800 • 👍 79 • 💬 2 • ⏱️ 4:14 • 4h ago
 
 ---
 
@@ -262,7 +272,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 16K • 👍 628 • 💬 534 • ⏱️ 13:40 • 1d ago
+👁️ 17K • 👍 645 • 💬 529 • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -272,7 +282,17 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 15K • 👍 255 • 💬 92 • ⏱️ 12:31 • 1d ago
+👁️ 16K • 👍 255 • 💬 92 • ⏱️ 12:31 • 1d ago
+
+---
+
+**[⚠️ BREAKING 🚀 Donald Trump BUYS Ethereum, SELLS Bitcoin !! (Major News) (Big Crypto Bill)](https://www.youtube.com/watch?v=n70CMGzbc0g)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 645 • 👍 151 • 💬 13 • ⏱️ 16:11 • 2h ago
 
 ---
 
@@ -282,27 +302,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 10K • 👍 163 • 💬 4 • ⏱️ 0:48 • 10h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=v1V_5kMAie4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 187 • 💬 22 • ⏱️ 5:19 • 15h ago
-
----
-
-**[BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=obXxDSK_UOc)**
-
-BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 321 • 💬 103 • ⏱️ 18:45 • 9h ago
+👁️ 11K • 👍 182 • 💬 4 • ⏱️ 0:48 • 11h ago
 
 ---
 
@@ -316,13 +316,13 @@ In this episode, we break down why today's weak price action may be hiding one o
 
 ---
 
-**[Elliott Wave Alert: Ethereum &amp; BMNR Forming RARE &quot;3 of 3&quot; Setup (Don&#39;t Miss This!](https://www.youtube.com/watch?v=VTqS3_KzgQk)**
+**[Several Pending Sell Signals Looming Over Bitcoin BTC + Updates on Ethereum ETH, Solana, XRP &amp; ADA](https://www.youtube.com/watch?v=pEVat6_kzKo)**
 
-In this video, we break down the explosive Elliott Wave setups forming for Ethereum (ETH) and BitMine Immersion Technologies ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 CryptoStock Lab
+📺 Doctor of Pump & Dump
 
-👁️ 389 • 👍 10 • 💬 15 • ⏱️ 12:46 • 14h ago
+👁️ 4K • 👍 380 • ⏱️ 36:52 • 11h ago
 
 ---
 
