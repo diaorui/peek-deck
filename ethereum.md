@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T10:50:23.518459+00:00'
+updated: '2026-01-07T11:21:39.298032+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 10:50 UTC  
+**Last Updated:** January 07, 2026 at 11:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,239.08
+### $3,211.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +6.6%  
-**30d:** -3.5%  
-**90d:** -17.0%  
-**1y:** -3.7%  
+**24h:** -0.7%  
+**7d:** +7.1%  
+**30d:** -3.1%  
+**90d:** -16.6%  
+**1y:** -3.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,13 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitquery has released a new stream that delivers real-time, transaction-level pre- and post-balance data for all Ethereum addresses involved in transactions, across all tokens. What use case can you think of for this product? https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/
 
-6h ago
+7h ago
 
 ---
 
 **[Real time Prices for all tokens trading across 8 blockchains](https://www.reddit.com/r/ethereum/comments/1q6b3a3/real_time_prices_for_all_tokens_trading_across_8/)**
 
 1h ago
+
+---
+
+**[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
+
+5h ago
 
 ---
 
@@ -102,13 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-10h ago
-
----
-
-**[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
-
-5h ago
+11h ago
 
 ---
 
@@ -156,7 +156,7 @@ CoinDesk • 19h ago
 
 **['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 13h ago
 
 Ethereum breaks out of a descending wedge, but heavy whale selling raises questions about whether ETH’s rally can extend toward $4,000.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -230,7 +230,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 9K • 👍 478 • 💬 53 • ⏱️ 12:17 • 11h ago
+👁️ 9K • 👍 478 • 💬 53 • ⏱️ 12:17 • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 142 • ⏱️ 8:07 • 18h ago
+👁️ 20K • 👍 3K • 💬 142 • ⏱️ 8:07 • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 129 • ⏱️ 9:50 • 20h ago
+👁️ 47K • 👍 3K • 💬 129 • ⏱️ 9:50 • 21h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 94 • 💬 2 • ⏱️ 4:14 • 7h ago
+👁️ 1K • 👍 94 • 💬 2 • ⏱️ 4:14 • 8h ago
 
 ---
 
@@ -300,7 +300,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 209 • 💬 18 • ⏱️ 16:11 • 5h ago
+👁️ 1K • 👍 209 • 💬 18 • ⏱️ 16:11 • 6h ago
 
 ---
 

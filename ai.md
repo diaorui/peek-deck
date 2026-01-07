@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T10:50:23.503860+00:00'
+updated: '2026-01-07T11:21:39.283655+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 10:50 UTC  
+**Last Updated:** January 07, 2026 at 11:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,15 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-13h ago
+14h ago
+
+---
+
+**[Writecream Giveaway 🎁: 30 Days FREE Unlimited – One-Click SEO Articles + Autopilot Backlinks](https://www.reddit.com/r/artificial/comments/1q6c9z3/writecream_giveaway_30_days_free_unlimited/)**
+
+Hey everyone — Happy New Year! 🎉 We’re giving away a limited number of FREE 30-day Unlimited Plan codes for Writecream to kick off 2026. If you care about real SEO results (not just content), this is for you. Why Writecream? 🔗 Backlink Autopilot — grow domain authority organically with zero outreach 🌐 SEO + AEO/GEO — rank on Google and AI search results ⚡ One-click optimization — upgrade any existing article instantly 📝 One-click SEO articles — keyword → optimized article with images 🔍 All-in-one SEO tool — Keyword research → one click SEO article with images on researched keywords → backlinks How Backlink Autopilot works: Add your site, and Writecream places contextual, relevant backlinks across its 1M+ user network — only when topics match. No spam, no manual outreach, fully organic. How to get a free code 🎁 Comment “Writecream” below and we’ll DM you a 30-day Unlimited Plan code. First come, first served. Once they’re gone, they’re gone 🚀 Build traffic, authority, and AI visibility on autopilot ✨
+
+32m ago
 
 ---
 
@@ -61,11 +69,19 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 ---
 
+**[🚨Limited FREE Codes: 30 Days Unlimited – Make AI Text Undetectable Forever 🎉](https://www.reddit.com/r/artificial/comments/1q6bkjz/limited_free_codes_30_days_unlimited_make_ai_text/)**
+
+Hey everyone — Happy New Year! 🎊 To kick off 2026, we’re giving away a limited batch of FREE 30-day Unlimited Plan codes for “HumanizeThat”. If you use AI tools for writing and worry about AI detection, this should help. What you get with the Unlimited Plan: ✍️ Unlimited humanizations for 30 days 🧠 Makes AI text sound natural and human 🛡️ Designed to pass major AI detectors 📄 Great for essays, assignments, blogs, and emails Trusted by 50,000+ users worldwide. How to get a free code 🎁 Just comment “Humanize” below and we’ll DM you a code. First come, first served — once they’re gone, they’re gone. Start the year with unlimited humanized writing ✨
+
+1h ago
+
+---
+
 **[Who is waiting for the first Iron man like UI experience?](https://www.reddit.com/r/artificial/comments/1q69gcz/who_is_waiting_for_the_first_iron_man_like_ui/)**
 
 Am I the only one still waiting for someone to finally build an Iron Man-like UI for desktop? Voice commands, floating panels, AI baked right into the experience instead of a separate chat window. We literally have the tech now. So who's actually working on this? Drop names if you know any
 
-2h ago
+3h ago
 
 ---
 
@@ -95,23 +111,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequently generate hallucinations -- plausible but factually incorrect outputs -- undermining their reliability. While prior work has examined hallucinations from macroscopic perspectives such as training data and objectives, the underlying neuron-level mechanisms remain largely unexplored. In this paper, we conduct a systematic investigation into hallucination-associated neurons (H-Neurons) in LLMs from three perspectives: identification, behavioral impact, and origins. Regarding their identification, we demonstrate that a remarkably sparse subset of neurons (less than 0.1\% of total neurons) can reliably predict hallucination occurrences, with strong generalization across diverse scenarios. In terms of behavioral impact, controlled interventions reveal that these neurons are causally linked to over-compliance behaviors. Concerning their origins, we trace these neurons back to the pre-trained base models and find that these neurons remain predictive for hallucination detection, indicating they emerge during pre-training. Our findings bridge macroscopic behavioral patterns with microscopic neural mechanisms, offering insights for developing more reliable LLMs."
 
-13h ago
-
----
-
-**[Connect any LLM to all your knowledge sources and chat with it](https://www.reddit.com/r/artificial/comments/1q5h29v/connect_any_llm_to_all_your_knowledge_sources_and/)**
-
-For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
-
-22h ago
-
----
-
-**[The Fog of AI: What the Technology Means for Deterrence and War](https://www.reddit.com/r/artificial/comments/1q5llqq/the_fog_of_ai_what_the_technology_means_for/)**
-
-[SS from essay by Brett V. Benson, Associate Professor of Political Science and Asian Studies at Vanderbilt University; and Brett J. Goldstein, Special Adviser to the Chancellor on National Security and Strategic Initiatives and a Research Professor in the School of Engineering at Vanderbilt University.] Artificial intelligence is rapidly becoming indispensable to national security decision-making. Militaries around the world already depend on AI models to sift through satellite imagery, assess adversaries’ capabilities, and generate recommendations for when, where, and how force should be deployed. As these systems advance, they promise to reshape how states respond to threats. But advanced AI platforms also threaten to undermine deterrence, which has long provided the overall basis for U.S. security strategy. Effective deterrence depends on a country being credibly able and willing to impose unacceptable harm on an adversary. AI strengthens some of the foundations of that credibility. Better intelligence, faster assessments, and more consistent decision-making can reinforce deterrence by more clearly communicating to adversaries a country’s defense capabilities as well as its apparent resolve to use them. Yet adversaries can also exploit AI to undermine these goals: they can poison the training data of models on which countries rely, thereby altering their output, or launch AI-enabled influence operations to sway the behavior of key officials. In a high-stakes crisis, such manipulation could limit a state’s ability to maintain credible deterrence and distort or even paralyze its leaders’ decision-making.
-
-🔗 [Foreign Affairs](https://www.foreignaffairs.com/china/fog-ai) • 19h ago
+14h ago
 
 ---
 
@@ -119,71 +119,81 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 ## Google News: "ai"
 
-**[90% of Investors Plan to Own AI Stocks in 2026: Here Are 2 That Should Be in Your Portfolio](https://www.fool.com/investing/2026/01/06/90-of-investors-plan-to-own-ai-stocks-in-2026-here/)**
-
-Nvidia and Broadcom are two top AI stocks to own in 2026 and beyond.
-
-The Motley Fool • 6h ago
-
----
-
-**[Survey: 9 in 10 AI Investors Plan to Hold or Buy More AI Stocks in 2026. Here's 1 That Should Be on Every Investor's Radar.](https://www.fool.com/investing/2026/01/06/survey-9-in-10-ai-investors-plan-to-hold-or-buy-mo/)**
-
-Most investors still see gains ahead for AI and tech stocks. If they're right, Nvidia shareholders will continue to prosper.
-
-The Motley Fool • 13h ago
-
----
-
 **[3 semiconductor stocks to play the AI supercycle, according to analysts](https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html)**
 
 As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
+**[90% of Investors Plan to Own AI Stocks in 2026: Here Are 2 That Should Be in Your Portfolio](https://www.fool.com/investing/2026/01/06/90-of-investors-plan-to-own-ai-stocks-in-2026-here/)**
 
-Politico • 19h ago
+Nvidia and Broadcom are two top AI stocks to own in 2026 and beyond.
 
----
-
-**[Nvidia CEO Says Chinese Demand for Its AI Chips Is ‘Quite High’](https://www.wsj.com/tech/ai/nvidia-ceo-says-chinese-demand-for-its-ai-chips-is-quite-high-05c8d680?gaa_at=eafs&gaa_n=AWEtsqfATk5FtnfFLfIOzL-Y6Wv_uawexZNQYdGPVFwVRVc_da3lqRJxl_L6&gaa_ts=695e3042&gaa_sig=yDlBPUcTSKITh7yYZP3IL6-czOISJuJ9iLQMEufwW9jtkTF7fSWTY7Ci5JTMfCJDdCqWQgnwYa_uet_DqhFubg%3D%3D)**
-
-The Wall Street Journal • 12h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
+**[AI ‘Fatigue’ Leaves Investors Focused on S&P’s Other 493 Stocks](https://finance.yahoo.com/news/ai-fatigue-leaves-investors-focused-103000544.html)**
 
-The New York Times • 17h ago
+A growing number of investors are now wagering that run, led by the Magnificent Seven, is about to end.  Mounting concerns about AI’s ability to deliver seismic changes on the American economy — and the fat profits that would come with them — has turned investor euphoria about the technology into agita.  “I call it ‘AI fatigue,’” said Ed Yardeni, president and chief investment strategist at the eponymous Yardeni Research.
 
----
-
-**[Nvidia Is Missing Out on the Latest AI Stock Surge. But This Catalyst Will Fix That.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-china-h200-dc00c411?gaa_at=eafs&gaa_n=AWEtsqcDIqohzljNsosEksQf-pYyAd_MntP6-oQj4dWR3_kxqWqsnnaqAJs8&gaa_ts=695e3042&gaa_sig=uxMgl5pPp6tXhpKkrrQBiIjtgsEapAh4aRV5XuuOi5kPZgiw2GrKBWEeZHJIwLKC52YPfM-q4DAFb0b4XE9Plw%3D%3D)**
-
-Barron's • 1h ago
+Yahoo Finance • 51m ago
 
 ---
 
-**[A.I. Images of Maduro Spread Rapidly, Despite Safeguards](https://www.nytimes.com/2026/01/05/technology/nicolas-maduro-ai-images-deepfakes.html)**
+**[China reviews Meta’s $2bn purchase of AI start-up Manus](https://www.ft.com/content/62f8f2c5-95c7-4437-b0f1-b8ecd507c330)**
 
-The New York Times • 1d ago
+Commerce ministry assessing whether deal for Chinese-founded group violates technology export controls
 
----
-
-**[AI images of Maduro capture reap millions of views on social media](https://www.theguardian.com/technology/2026/jan/05/maduro-venezuela-ai-images)**
-
-Lack of verified information and rapidly advanced AI tools make it difficult to separate fact from fiction on US attack
-
-The Guardian • 1d ago
+Financial Times • 9h ago
 
 ---
 
-**[AI, Outdated Visuals Fuel Misinformation After Maduro Capture](https://www.barrons.com/news/ai-outdated-visuals-fuel-misinformation-after-maduro-capture-00f2847a?gaa_at=eafs&gaa_n=AWEtsqdK8miBCGuDVTLEKj6crMsV6rq32v28BC0QWK5qPFRUpAK7KxwOCE4R&gaa_ts=695e3042&gaa_sig=ivlrVSLV0j8BwypUdanANVT4xJ2AgYh30V6-xf4lWSod4dcyZ37pjuNeoQFQk4razIxksW75mn_SPlrCRjT5hA%3D%3D)**
+**[China reviews Meta's purchase of AI startup Manus, FT reports](https://www.reuters.com/world/china/china-reviews-metas-purchase-ai-startup-manus-ft-reports-2026-01-07/)**
 
-Barron's • 11h ago
+Reuters • 9h ago
+
+---
+
+**[I Quit My Job at Meta to Build an AI Company; Leaving Wasn't Easy](https://www.businessinsider.com/quit-job-meta-build-ai-company-leaving-wasnt-easy-2026-1)**
+
+Ruchir Baronia left behind an incredible salary, stock refreshers, and interesting problems at Meta after a year and a half to build his AI business.
+
+Business Insider • 1h ago
+
+---
+
+**[Indiana bill targets nonconsensual AI porn amid recent scandals](https://www.indystar.com/story/news/politics/2026/01/07/ai-porn-penalties-statehouse/88035802007/)**
+
+The issue became personal for the bill's bipartisan authors last year.
+
+IndyStar • 19m ago
+
+---
+
+**[‘I felt violated’: Elon Musk’s AI chatbot crosses a line](https://www.theguardian.com/technology/2026/jan/05/elon-musk-grok-ai-chatbot)**
+
+Chatbot still being used to digitally undress women and children, while US takes TikTok approach to drones
+
+The Guardian • 20h ago
+
+---
+
+**[Government demands Musk's X deals with 'appalling' Grok AI](https://www.bbc.com/news/articles/crrn054nxe7o)**
+
+Grok is being used to digitally remove women's clothing - something victims describe as "dehumanising".
+
+BBC • 18h ago
+
+---
+
+**[Elon Musk’s xAI Raises $20B Amid Backlash Over Grok AI Deepfakes](https://deadline.com/2026/01/xai-funding-raise-grok-ai-deepfake-backlash-1236666307/)**
+
+Elon Musk's xAI has raised $20B in its latest funding around, amid backlash over chatbot Grok creating sexualized imagery of women and children.
+
+Deadline • 1h ago
 
 ---
 
@@ -195,7 +205,7 @@ Barron's • 11h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 549 • 💬 746 • 17h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 581 • 💬 796 • 17h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -211,7 +221,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 226 • 💬 366 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 226 • 💬 369 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -227,7 +237,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 95 • 💬 62 • 13h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 104 • 💬 67 • 13h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -245,25 +255,25 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 ---
 
+**[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
+
+⬆️ 69 • 💬 17 • 17h ago
+
+---
+
+**[Show HN: Mantic.sh – A structural code search engine for AI agents](https://news.ycombinator.com/item?id=46512182)**
+
+A structural code search engine for Al agents. Contribute to marcoaapfortes/Mantic.sh development by creating an account on GitHub.
+
+⬆️ 67 • 💬 28 • 21h ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
+
+---
+
 **[Microsoft CEO resorts to blogging in defense of AI](https://news.ycombinator.com/item?id=46489890)**
 
 Surely it works this time
 
 ⬆️ 66 • 💬 72 • 2d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
-
----
-
-**[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
-
-⬆️ 66 • 💬 17 • 17h ago
-
----
-
-**[The skill of the future is not 'AI', but 'Focus' (2025)](https://news.ycombinator.com/item?id=46513728)**
-
-Don't let AI erode your focus.
-
-⬆️ 64 • 💬 15 • 19h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -297,7 +307,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 26K • 👍 1K • 💬 118 • ⏱️ 13:13 • 21h ago
+👁️ 26K • 👍 1K • 💬 118 • ⏱️ 13:13 • 22h ago
 
 ---
 
@@ -347,7 +357,7 @@ Socials, contact: https://beacons.ai/andrewrousso.
 
 📺 Andrew Rousso
 
-👁️ 329K • 👍 33K • 💬 431 • ⏱️ 1:50 • 14h ago
+👁️ 329K • 👍 33K • 💬 431 • ⏱️ 1:50 • 15h ago
 
 ---
 
@@ -642,7 +652,7 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.1k • 🔱 717 • 7h ago
+⭐ 6.1k • 🔱 717 • 8h ago
 
 ---
 
@@ -662,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 125 • 8h ago
+⭐ 2.1k • 🔱 125 • 9h ago
 
 ---
 
@@ -702,7 +712,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 94 • 11h ago
+⭐ 1.1k • 🔱 94 • 12h ago
 
 ---
 
@@ -722,7 +732,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 976 • 🔱 118 • 7h ago
+⭐ 976 • 🔱 118 • 8h ago
 
 ---
 
@@ -732,7 +742,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 933 • 🔱 139 • 2h ago
+⭐ 933 • 🔱 139 • 3h ago
 
 ---
 

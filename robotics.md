@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T10:50:23.521676+00:00'
+updated: '2026-01-07T11:21:39.301211+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 10:50 UTC  
+**Last Updated:** January 07, 2026 at 11:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,14 +32,6 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**["we don't have any wires that go across those moving parts" How is that possible?](https://www.reddit.com/r/robotics/comments/1q5mdlt/we_dont_have_any_wires_that_go_across_those/)**
-
-In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
-
-18h ago
-
----
-
 **[The EngineAI T800 in Las Vegas at CES](https://www.reddit.com/r/robotics/comments/1q6b7w1/the_engineai_t800_in_las_vegas_at_ces/)**
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
@@ -48,11 +40,47 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 ---
 
+**["we don't have any wires that go across those moving parts" How is that possible?](https://www.reddit.com/r/robotics/comments/1q5mdlt/we_dont_have_any_wires_that_go_across_those/)**
+
+In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
+
+19h ago
+
+---
+
+**[Robot Arm Lift the Cube in simualtion enviroment](https://www.reddit.com/r/robotics/comments/1q6cetr/robot_arm_lift_the_cube_in_simualtion_enviroment/)**
+
+Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
+
+24m ago
+
+---
+
+**[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
+
+17m ago
+
+---
+
+**[The Construction Robotics Boom: From $1.3B to $11.1B by 2040](https://www.reddit.com/r/robotics/comments/1q6c3ev/the_construction_robotics_boom_from_13b_to_111b/)**
+
+According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
+
+42m ago
+
+---
+
+**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
+
+8h ago
+
+---
+
 **[Unitree GO1 Complex Terrain Locomotion](https://www.reddit.com/r/robotics/comments/1q5psj2/unitree_go1_complex_terrain_locomotion/)**
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-16h ago
+17h ago
 
 ---
 
@@ -64,49 +92,19 @@ I’ve been constantly revising and reviewing my hexapod leg design for the past
 
 ---
 
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-8h ago
-
----
-
-**[Can help with very basic braking resistor (regen resistor) design for robots](https://www.reddit.com/r/robotics/comments/1q6ae58/can_help_with_very_basic_braking_resistor_regen/)**
-
-Hi all, If anyone needs help with a very basic braking (regenerative) resistor setup for a robot or motor system, I can help with simple cases only. This is not for detailed system design or complex edge cases. I can help with things like: Rough resistor value / power estimation Basic connection concept Sanity check for small or low-power setups Good fit for: Prototypes Small robots Lab / hobby / early-stage projects Probably not a good fit if you’re dealing with: High-power industrial drives Safety-critical or certified systems Production designs If you want to ask, please keep it simple and include: Motor power (rough is fine) DC bus voltage How braking happens (E-stop, decel, gravity, etc.) I won’t be able to reply to complex or long design requests, but happy to help where it’s straightforward. Cheers 👍
-
-1h ago
-
----
-
-**[Italian startup Generative Bionics announced his first humanoid robot GENE.01](https://www.reddit.com/r/robotics/comments/1q5iusr/italian_startup_generative_bionics_announced_his/)**
+**[Setting up the first electric robot with floppy disk drive, terminal, and original controller and teach pendant](https://www.reddit.com/r/robotics/comments/1q6cf55/setting_up_the_first_electric_robot_with_floppy/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 21h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=DTxBZp_J5VQ) • 23m ago
 
 ---
 
-**[Boston Dynamics Announces Atlas for Consumers](https://www.reddit.com/r/robotics/comments/1q4zixk/boston_dynamics_announces_atlas_for_consumers/)**
+**[MenteeBot follows verbal instruction (No Teleoperation)](https://www.reddit.com/r/robotics/comments/1q6bv57/menteebot_follows_verbal_instruction_no/)**
 
-No price immediately made public. Also announced a partnership with Google DeepMind for model training. What do you think the demand will be?
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/sd8ivhpjI6g?si=2jyPRnsKdDTz0HAr) • 1d ago
-
----
-
-**[First Robotics Project](https://www.reddit.com/r/robotics/comments/1q5tdr0/first_robotics_project/)**
-
-Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
-
-14h ago
-
----
-
-**[Come check out Everbot at CES 2026!](https://www.reddit.com/r/robotics/comments/1q60qpf/come_check_out_everbot_at_ces_2026/)**
-
-Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
-
-10h ago
+🔗 [youtu.be](https://youtu.be/XxVtjtORXL0) • 56m ago
 
 ---
 
@@ -118,15 +116,7 @@ Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out wit
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 13h ago
-
----
-
-**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://finance.yahoo.com/news/mobileye-acquire-humanoid-robotics-startup-211433670.html)**
-
-LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
-
-Yahoo Finance • 13h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -134,7 +124,13 @@ Yahoo Finance • 13h ago
 
 The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
 
-CTech • 13h ago
+CTech • 14h ago
+
+---
+
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcjMoO4_8_2kiSrZmFtNx9oOOVvr_puwarnAAXx8unpjotXo2AGKaLi&gaa_ts=695e452a&gaa_sig=cYLE5MpMr78y54SXNgXxkQ__zj3ut7ZCEHNGVl4H3dV0CUfiQR2Qu21kxjaUDT1Tp69YO8uGyjBMlVhvP26bZw%3D%3D)**
+
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -146,27 +142,11 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
-**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
+**[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)**
 
-Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
+HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
 
-TechCrunch • 1d ago
-
----
-
-**[Watch the NVIDIA CES 2026 keynote with CEO Jensen Huang live here: AI, robotics updates and more](https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html)**
-
-NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
-
-Engadget • 1d ago
-
----
-
-**[Hyundai unveils humanoid robotics strategy, aiming for 30,000 robots annually by 2028](https://www.autonews.com/technology/an-ces-2026-hyundai-robotics-strategy-0105/)**
-
-Hyundai said at CES 2026 that it plans to start using humanoid robots in its factories and is building a production system that could produce 30,000 robots annually by 2028.
-
-Automotive News • 1d ago
+hyundai.com • 1d ago
 
 ---
 
@@ -190,6 +170,20 @@ CNET • 1d ago
 
 ---
 
+**[Unitree’s tall humanoid robot stuns with flying kicks and backflips](https://interestingengineering.com/ai-robotics/unitrees-humanoid-robot-knocks-down-sandbags)**
+
+Unitree’s H2 humanoid shows flying kicks, backflips, and strikes in a new training video, highlighting rapid advances in robot agility.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[BCSC’s VEX IQ robotics teams teams qualify for state](https://www.therepublic.com/2026/01/06/bcscs-vex-iq-robotics-teams-teams-qualify-for-state/)**
+
+The Republic News • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +194,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 33K • 👍 822 • 💬 146 • ⏱️ 9:33 • 11h ago
+👁️ 33K • 👍 822 • 💬 146 • ⏱️ 9:33 • 12h ago
 
 ---
 
@@ -250,7 +244,7 @@ Technology leaders are gathering in Las Vegas for CES, one of the industry's big
 
 📺 CBS News
 
-👁️ 9K • 👍 63 • 💬 7 • ⏱️ 2:54 • 12h ago
+👁️ 9K • 👍 63 • 💬 7 • ⏱️ 2:54 • 13h ago
 
 ---
 
@@ -260,7 +254,7 @@ Robot dogs dancing to K-pop and the first public appearance of Boston Dynamic's 
 
 📺 Associated Press
 
-👁️ 5K • 👍 50 • 💬 21 • ⏱️ 0:43 • 18h ago
+👁️ 5K • 👍 50 • 💬 21 • ⏱️ 0:43 • 19h ago
 
 ---
 
