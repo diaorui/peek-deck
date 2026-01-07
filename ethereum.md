@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T22:46:37.527720+00:00'
+updated: '2026-01-07T23:21:51.219825+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 22:46 UTC  
+**Last Updated:** January 07, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.25B
+**Market Cap:** $381.13B
 Rank #2
 
 **Circulating Supply:** 120,694,786 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.6%
+-36.0%
 
 **All-Time Low:** $0.43
-+723842.7%
++731455.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -86,13 +86,13 @@ PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments a
 
 **[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems](https://www.reddit.com/r/ethereum/comments/1q6kmx8/timebucketed_balance_records_boundedstorage/)**
 
-🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 5h ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 6h ago
 
 ---
 
@@ -108,7 +108,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-22h ago
+23h ago
 
 ---
 
@@ -116,7 +116,7 @@ I haven't touched crypto in a minute. Got on a productivity bent yesterday and d
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 8h ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 **[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ Binance • 2d ago
 
 Why are Bitcoin, Ethereum, and XRP Prices going down at the same time? Every trader is currently looking for this answer, as the tokens dropped suddenly in the times when they were believed to maintain a bullish continuation. After a strong start to the year, the crypto market has turned defensive…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -220,13 +220,23 @@ TradingView — Track All Markets • 2h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN WARNING: It&#39;s Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4ny16LfS50k)**
+
+BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 173 • 💬 111 • ⏱️ 19:40 • 2h ago
+
+---
+
 **[ETH Is ABOUT TO EXPLODE And ALTCOINS ARE NEXT!!](https://www.youtube.com/watch?v=R9fwVe0163s)**
 
 The crypto market has been rallying over the last few days, and this has everyone wondering which cryptos have the most ...
 
 📺 Coin Bureau Trading
 
-👁️ 7K • 👍 628 • 💬 61 • ⏱️ 10:20 • 9h ago
+👁️ 9K • 👍 674 • 💬 59 • ⏱️ 10:20 • 9h ago
 
 ---
 
@@ -236,7 +246,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 13K • 👍 596 • 💬 65 • ⏱️ 12:17 • 23h ago
+👁️ 14K • 👍 609 • 💬 65 • ⏱️ 12:17 • 1d ago
 
 ---
 
@@ -246,17 +256,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 137 • 💬 7 • ⏱️ 4:16 • 5h ago
+👁️ 2K • 👍 172 • 💬 7 • ⏱️ 4:16 • 5h ago
 
 ---
 
-**[BITCOIN WARNING: It&#39;s Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4ny16LfS50k)**
+**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
 
-BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
 
-📺 Crypto World
+📺 Thomas Kralow
 
-👁️ 268 • 👍 21 • 💬 8 • ⏱️ 19:40 • 2h ago
+👁️ 23K • 👍 3K • 💬 50 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -266,17 +276,17 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 370 • 💬 5 • ⏱️ 1:08:45 • 6h ago
+👁️ 5K • 👍 393 • 💬 6 • ⏱️ 1:08:45 • 6h ago
 
 ---
 
-**[Ethereum Is Rejecting HARD At This Level, Crash Incoming?](https://www.youtube.com/watch?v=M5QNby6YBoc)**
+**[Ripple XRP To Outperform Bitcoin, Ethereum And Solana In 2026!! CNBC Call It &#39;The New Darling&#39; !!!](https://www.youtube.com/watch?v=kl4zy4YSVDo)**
 
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+Welcome back ladies and gentlemen for another epic ripple XRP video! Become A Patreon and Community Member: ...
 
-📺 Trade Confident
+📺 AllinCrypto
 
-👁️ 117 • 👍 13 • 💬 5 • ⏱️ 3:54 • 2h ago
+👁️ 4K • 👍 374 • 💬 72 • ⏱️ 11:33 • 4h ago
 
 ---
 
@@ -290,23 +300,13 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 ---
 
-**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
+**[Ethereum Is Rejecting HARD At This Level, Crash Incoming?](https://www.youtube.com/watch?v=M5QNby6YBoc)**
 
-This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
 
-📺 Thomas Kralow
+📺 Trade Confident
 
-👁️ 23K • 👍 3K • 💬 51 • ⏱️ 8:07 • 1d ago
-
----
-
-**[Ripple XRP To Outperform Bitcoin, Ethereum And Solana In 2026!! CNBC Call It &#39;The New Darling&#39; !!!](https://www.youtube.com/watch?v=kl4zy4YSVDo)**
-
-Welcome back ladies and gentlemen for another epic ripple XRP video! Become A Patreon and Community Member: ...
-
-📺 AllinCrypto
-
-👁️ 2K • 👍 284 • 💬 60 • ⏱️ 11:33 • 4h ago
+👁️ 238 • 👍 15 • 💬 7 • ⏱️ 3:54 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 3 • ⏱️ 4:14 • 19h ago
+👁️ 2K • 👍 140 • 💬 3 • ⏱️ 4:14 • 20h ago
 
 ---
 
