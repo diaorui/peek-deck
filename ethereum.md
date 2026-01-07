@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T11:42:22.106685+00:00'
+updated: '2026-01-07T12:49:20.047793+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 11:42 UTC  
+**Last Updated:** January 07, 2026 at 12:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +7.1%  
-**30d:** -3.1%  
-**90d:** -16.6%  
-**1y:** -3.3%  
+**24h:** -0.4%  
+**7d:** +7.3%  
+**30d:** -2.9%  
+**90d:** -16.4%  
+**1y:** -3.1%  
 
 ---
 
@@ -72,26 +72,6 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
-
----
-
-**[Transaction Level Pre and Post Balance for All Ethereum Transactions](https://www.reddit.com/r/ethereum/comments/1q657nh/transaction_level_pre_and_post_balance_for_all/)**
-
-Bitquery has released a new stream that delivers real-time, transaction-level pre- and post-balance data for all Ethereum addresses involved in transactions, across all tokens. What use case can you think of for this product? https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/
-
-7h ago
-
----
-
-**[Real time Prices for all tokens trading across 8 blockchains](https://www.reddit.com/r/ethereum/comments/1q6b3a3/real_time_prices_for_all_tokens_trading_across_8/)**
-
-2h ago
-
----
-
-**[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
-
 6h ago
 
 ---
@@ -108,7 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-11h ago
+12h ago
+
+---
+
+**[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
+
+7h ago
 
 ---
 
@@ -142,6 +128,22 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 ---
 
+**[Dev Tools Guild December update | mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.](https://www.reddit.com/r/ethereum/comments/1q4hpvb/dev_tools_guild_december_update_mainnet/)**
+
+**TL;DR**: mainnet successfully upgraded to Fusaka & BPO1, Optimism's Retro Funding continues to support member projects and Octant's StreamVote supports ethers.js, Solidity & Vyper.
+
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-december-update) • 2d ago
+
+---
+
+**[Daily General Discussion January 04, 2026](https://www.reddit.com/r/ethereum/comments/1q3i656/daily_general_discussion_january_04_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -150,21 +152,27 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
 **['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
-**[Ethereum Rally Faces Pressure After $970 Million in Whale Selling](https://finance.yahoo.com/news/ethereum-rally-faces-pressure-970-070000654.html)**
+**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://finance.yahoo.com/news/tom-lee-predicts-250k-ethereum-155617532.html)**
 
-Ethereum breaks out of a descending wedge, but heavy whale selling raises questions about whether ETH’s rally can extend toward $4,000.
+BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+
+The Block • 1d ago
 
 ---
 
@@ -176,12 +184,6 @@ CNBC • 1d ago
 
 ---
 
-**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
-
-The Block • 1d ago
-
----
-
 **[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
@@ -190,33 +192,31 @@ GlobeNewswire • 1d ago
 
 ---
 
-**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
+**[Can Ethereum Hit $5,000 In 2026? Prediction Markets Surge With Bullish Bets](https://www.ccn.com/news/crypto/can-ethereum-hit-5000-in-2026-prediction-markets-surge-with-bullish-bets/)**
 
-PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
-
-CoinDesk • 1d ago
+CCN.com • 43m ago
 
 ---
 
-**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
+**[Ethereum Network Usage Hits Record High—But Traders More Bullish on Gold](https://decrypt.co/353688/ethereum-network-usage-hits-record-high-but-traders-more-bullish-on-gold)**
 
-Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
+Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
 
-Fortune • 1d ago
-
----
-
-**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
-
-Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
-
-Yahoo Finance • 2d ago
+Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+**[Ethereum: The Accumulation Addresses Catalyst (Cryptocurrency: ETH-USD)](https://seekingalpha.com/article/4857134-ethereum-the-accumulation-addresses-catalyst)**
 
-CCN.com • 1d ago
+Ethereum is in an accumulation phase, with supply shifting to long-term holders, supporting a bullish medium- to long-term thesis. Read why I rate the ETH-USD stock a Buy.
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqdfgs1HaWpeAlk4j_eQf9KQWbk-B_fN6c5SQjIQ1lU0lq_rmiWH0aeY&gaa_ts=695e59bb&gaa_sig=xZvffLJ23lgm3KxAvccFruV-IsT2Ko8yjhkmXj936uoF0eacWAAGp8cnl4m9YjWMvDr1tSVrKYctpQEVeidqNQ%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 11K • 👍 532 • 💬 60 • ⏱️ 12:17 • 12h ago
+👁️ 11K • 👍 532 • 💬 60 • ⏱️ 12:17 • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 19h ago
+👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 105 • 💬 3 • ⏱️ 4:14 • 8h ago
+👁️ 1K • 👍 105 • 💬 3 • ⏱️ 4:14 • 9h ago
 
 ---
 
@@ -260,7 +260,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 50K • 👍 3K • 💬 130 • ⏱️ 9:50 • 21h ago
+👁️ 50K • 👍 3K • 💬 130 • ⏱️ 9:50 • 22h ago
 
 ---
 
@@ -280,7 +280,7 @@ Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It 
 
 📺 NextMove Stocks
 
-👁️ 324 • 👍 11 • ⏱️ 6:53 • 17h ago
+👁️ 324 • 👍 11 • ⏱️ 6:53 • 18h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 377 • 💬 108 • ⏱️ 18:45 • 14h ago
+👁️ 9K • 👍 377 • 💬 108 • ⏱️ 18:45 • 15h ago
 
 ---
 
@@ -320,7 +320,7 @@ BITCOIN, ETH & THE NEXT MAJOR CRYPTO MOVE In this video, we break down the New Y
 
 📺 Kevin Svenson Crypto
 
-👁️ 6K • 👍 727 • 💬 160 • ⏱️ 13:24 • 11h ago
+👁️ 6K • 👍 727 • 💬 160 • ⏱️ 13:24 • 12h ago
 
 ---
 
