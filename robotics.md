@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-06T23:42:11.482232+00:00'
+updated: '2026-01-07T01:49:14.670519+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 06, 2026 at 23:42 UTC  
+**Last Updated:** January 07, 2026 at 01:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-7h ago
+9h ago
 
 ---
 
@@ -44,7 +44,15 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-5h ago
+7h ago
+
+---
+
+**[Come check out Everbot at CES 2026!](https://www.reddit.com/r/robotics/comments/1q60qpf/come_check_out_everbot_at_ces_2026/)**
+
+Will upload more pics and videos: VENETIAN Hall G booth #62248 Come work out with us, try out Everbot's: gym bot features Inventory tracking Security Talk to Eva, our voice assistance. Will post links, photos, videos We bootstrapped a robot in 8 months and now we are at CES.
+
+1h ago
 
 ---
 
@@ -52,7 +60,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 10h ago
+🔗 [youtu.be](https://youtu.be/zYRz1uIIpwQ?si=xsf9qo13kg0Ndnuo) • 12h ago
 
 ---
 
@@ -64,19 +72,17 @@ No price immediately made public. Also announced a partnership with Google DeepM
 
 ---
 
+**[Humanoid vs Special Purpose Robots](https://www.reddit.com/r/robotics/comments/1q5zrds/humanoid_vs_special_purpose_robots/)**
+
+1h ago
+
+---
+
 **[First Robotics Project](https://www.reddit.com/r/robotics/comments/1q5tdr0/first_robotics_project/)**
 
 Hi guys, I’ve recently dismantled my old ender 3 to scrap the motors on it and thought I could maybe make an arm out of the 4 stepper motors. Not really sure where to start and was wondering if there were any good start points for learning this stuff. I’m a design engineer so I’ve got experience in everything necessary (CAD, coding, hardware design, electronics etc) just no directions haha. Thanks!
 
-3h ago
-
----
-
-**[VR controlled robots?](https://www.reddit.com/r/robotics/comments/1q5onsq/vr_controlled_robots/)**
-
-Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
-
-6h ago
+5h ago
 
 ---
 
@@ -84,7 +90,15 @@ Why arent there any small sized VR controlled mechs akin to the flying drones? I
 
 It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger television or a faster car. It is a partnership that sounds...
 
-🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 16h ago
+🔗 [cklabsai.blogspot.com](https://cklabsai.blogspot.com/2026/01/boston-dynamics-and-google-deepmind.html?m=1) • 18h ago
+
+---
+
+**[VR controlled robots?](https://www.reddit.com/r/robotics/comments/1q5onsq/vr_controlled_robots/)**
+
+Why arent there any small sized VR controlled mechs akin to the flying drones? I hoped at some point those would be released and I could play Mech Warrior IRL.
+
+8h ago
 
 ---
 
@@ -92,21 +106,7 @@ It is officially 2026 in Las Vegas and the biggest news from CES is not a bigger
 
 Hi there, Lately I have been interested getting into VR teleoperation for research purposes as I really like the teleoperation smoothness and ergonomy to move the robot and manipulate things, based on some videos I have seen in different places and some papers I have read so far. I think it could be a nice add to my current work and I would like to at least give it a try. I have downloaded a framework called OpenVR to try and play but as the framework is quite "old" I'm not able to set up and play with my panda robot. I used this paper cause because some hardware limitations I have btw. https://arxiv.org/pdf/2305.09765 I would like to get into this world as a side project but I'm not being lucky enough to find any information, resources or tutorials to start, apart from the meta horizon tutorials, which are not exactly focused on robotics... To anyone who has been playing with this VR teleoperation systems and created a fun project, can you give me any hint about where to start? Thanks in advance!
 
-2h ago
-
----
-
-**[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot designed to actually do full household chores.](https://www.reddit.com/r/robotics/comments/1q4t6de/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
-
-1d ago
-
----
-
-**[Looking for AI/Full-Stack SW people for an affordable & open Industrial Robotic Arm project (preferably EU)](https://www.reddit.com/r/robotics/comments/1q5o31y/looking_for_aifullstack_sw_people_for_an/)**
-
-Hello everyone, we are a group of two engineers with combined experience in mechatronics, aerospace and robotics research, and also some experience creating tech startups and fundraising. We have been working hard creating our own affordable Industrial Robotic Arm from scratch with focus on maintainability and repairability, and feel confident with our current prototype. We are looking for passionate builders that want to join us in our journey, collaborating with your current skills and learn whatever else is needed, particularly to help in the areas we are missing right now (AI/ML and general Full-Stack SW development). We strongly believe in the principles of open-source and are located in the EU, with the goal of sourcing and assembling all the parts inside our common market. If my message caught your attention, feel free to DM me and we can talk more in Discord or email. For obvious reasons, we don't want to show our prototype here, but I would be happy showing it personally. You can see some stuff we have done in the past here: Autonomous shelf stocking & charging.
-
-6h ago
+5h ago
 
 ---
 
@@ -122,6 +122,14 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
+**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
+
+NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
+
+NVIDIA Developer • 1d ago
+
+---
+
 **[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
@@ -130,9 +138,37 @@ TechCrunch • 1d ago
 
 ---
 
-**[Nvidia Stock Shrugs as CEO Jensen Huang Pushes ‘Physical AI’ at CES](https://www.barrons.com/articles/nvidia-stock-price-ces-ai-robotics-huang-645e9c96?gaa_at=eafs&gaa_n=AWEtsqfmV-_NBBkFbNfT89hAhh5HB0AWyi5q67UEC6iM0N0dHN1M6M9AIOl2&gaa_ts=695da13b&gaa_sig=QEjt9GCflBMqckgg-8nP-rh5xS1_xK9A_tuC64Ur9u4tvjLnQhe0YDWRaPHvDMKNhoy_S0wmr3Ps0vSdHD8tNg%3D%3D)**
+**[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)**
 
-Barron's • 8h ago
+HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
+
+hyundai.com • 1d ago
+
+---
+
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
+
+Reuters • 13h ago
+
+---
+
+**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
+
+A new wave of humanoids are coming. Qualcomm is ready to power them.
+
+CNET • 1d ago
+
+---
+
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -140,51 +176,15 @@ Barron's • 8h ago
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 2h ago
+TechCrunch • 4h ago
 
 ---
 
-**[The AI and robotics industries fuel each other: Kindred Ventures founder](https://www.foxbusiness.com/video/6387318895112)**
+**[Mobileye acquires Shashua’s robotics startup for $900 million](https://www.calcalistech.com/ctechnews/article/hjgfeesnzx)**
 
-Kindred Ventures founder and managing partner Steven Jang discusses how the rise of artificial intelligence is benefiting the robotics industry on ‘The Claman Countdown.’
+The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
 
-Fox Business • 51m ago
-
----
-
-**[Assessing Serve Robotics (SERV) Valuation After A Tough Year And Recent Short Term Share Price Rebound](https://finance.yahoo.com/news/assessing-serve-robotics-serv-valuation-221847261.html)**
-
-Key context for Serve Robotics Serve Robotics (SERV) has drawn investor attention after recent trading moves, with the stock last closing at US$12.68. The company operates self-driving food delivery robots in the United States, a niche that raises clear questions about growth, scale and ongoing losses. See our latest analysis for Serve Robotics. The recent 7-day share price return of 25.54% and 1-day gain of 7.19% at a last close of US$12.68 sit against a 1-year total shareholder return...
-
-Yahoo Finance • 1h ago
-
----
-
-**[CES 2026: Here Are the Best Robots So Far for Housework, Fun and More](https://www.cnet.com/tech/ces-2026-here-are-the-best-robots-so-far-for-housework-fun-and-more/)**
-
-Robots at CES 2026 are smarter, more helpful and more fun. Here are our favorites so far.
-
-CNET • 1h ago
-
----
-
-**[Hyundai unveils humanoid robotics strategy, aiming for 30,000 robots annually by 2028](https://www.autonews.com/technology/an-ces-2026-hyundai-robotics-strategy-0105/)**
-
-Hyundai said at CES 2026 that it plans to start using humanoid robots in its factories and is building a production system that could produce 30,000 robots annually by 2028.
-
-Automotive News • 1d ago
-
----
-
-**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
-
-Reuters • 11h ago
-
----
-
-**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
-
-Bloomberg.com • 3h ago
+CTech • 4h ago
 
 ---
 
@@ -198,17 +198,7 @@ Engineers and computer scientists are developing AI-powered robots that look and
 
 📺 60 Minutes
 
-👁️ 826K • 👍 12K • 💬 3K • ⏱️ 13:17 • 1d ago
-
----
-
-**[How Boston Dynamics upgraded the Atlas robot](https://www.youtube.com/watch?v=n6ISdRkS37I)**
-
-Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021 ...
-
-📺 60 Minutes
-
-👁️ 301K • 👍 5K • 💬 743 • ⏱️ 5:49 • 1d ago
+👁️ 867K • 👍 13K • 💬 3K • ⏱️ 13:17 • 1d ago
 
 ---
 
@@ -218,7 +208,17 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 16K • 👍 223 • 💬 8 • ⏱️ 7:38 • 2d ago
+👁️ 17K • 👍 232 • 💬 9 • ⏱️ 7:38 • 2d ago
+
+---
+
+**[How Boston Dynamics upgraded the Atlas robot](https://www.youtube.com/watch?v=n6ISdRkS37I)**
+
+Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgraded from a version 60 Minutes saw in 2021 ...
+
+📺 60 Minutes
+
+👁️ 319K • 👍 5K • 💬 772 • ⏱️ 5:49 • 2d ago
 
 ---
 
@@ -228,7 +228,17 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 188K • 👍 6K • 💬 957 • ⏱️ 7:00 • 1d ago
+👁️ 224K • 👍 6K • 💬 1K • ⏱️ 7:00 • 1d ago
+
+---
+
+**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+
+A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+
+📺 AI Revolution
+
+👁️ 105K • 👍 2K • 💬 280 • ⏱️ 11:42 • 6d ago
 
 ---
 
@@ -242,23 +252,13 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
+**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
 
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
+CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
 
-📺 AI Revolution
+📺 CNBC Television
 
-👁️ 104K • 👍 2K • 💬 278 • ⏱️ 11:42 • 5d ago
-
----
-
-**[SwitchBot CES 2026 - Smart home 2.0 powered by AI robots.](https://www.youtube.com/watch?v=btJxyrtR9M8)**
-
-Welcome to SwitchBot at CES 2026 Discover Smart Home 2.0, powered by AI robots, where intelligent automation goes ...
-
-📺 SwitchBot
-
-👁️ 2K • 👍 63 • 💬 17 • ⏱️ 3:29 • 8h ago
+👁️ 3K • 👍 43 • 💬 6 • ⏱️ 2:58 • 6h ago
 
 ---
 
@@ -268,17 +268,17 @@ Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales a
 
 📺 DWS News
 
-👁️ 27K • 👍 453 • 💬 36 • ⏱️ 1:33:26 • 1d ago
+👁️ 31K • 👍 546 • 💬 44 • ⏱️ 1:33:26 • 1d ago
 
 ---
 
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+**[SwitchBot CES 2026 - Smart home 2.0 powered by AI robots.](https://www.youtube.com/watch?v=btJxyrtR9M8)**
 
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+Welcome to SwitchBot at CES 2026 Discover Smart Home 2.0, powered by AI robots, where intelligent automation goes ...
 
-📺 Unitree Robotics
+📺 SwitchBot
 
-👁️ 204K • 👍 3K • 💬 777 • ⏱️ 0:32 • 2d ago
+👁️ 2K • 👍 78 • 💬 20 • ⏱️ 3:29 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ Humanoid robots are about to take a massive leap forward in 2026 — and the com
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 97 • 💬 9 • ⏱️ 18:26 • 5d ago
+👁️ 5K • 👍 98 • 💬 9 • ⏱️ 18:26 • 5d ago
 
 ---
 

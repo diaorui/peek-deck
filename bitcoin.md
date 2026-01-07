@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-06T23:42:11.474219+00:00'
+updated: '2026-01-07T01:49:14.661360+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 23:42 UTC  
+**Last Updated:** January 07, 2026 at 01:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,68 +38,74 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,216.17
+### $92,520.15
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.2%  
-**7d:** +6.0%  
-**30d:** +2.4%  
-**90d:** -23.6%  
-**1y:** -4.0%  
+**7d:** +4.0%  
+**30d:** -0.6%  
+**90d:** -18.4%  
+**1y:** -2.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1857.07B
+**Market Cap:** $1846.35B
 Rank #1
 
-**Circulating Supply:** 19,972,434 BTC
+**Circulating Supply:** 19,972,468 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.2%
+-26.7%
 
 **All-Time Low:** $67.81
-+137070.0%
++136191.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 44
+### 42
 **FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
-
-10h ago
-
----
-
 **[A famous Bitcoin quote that keeps resurfacing over time](https://www.reddit.com/r/Bitcoin/comments/1q5rz0c/a_famous_bitcoin_quote_that_keeps_resurfacing/)**
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-4h ago
+6h ago
 
 ---
 
 **[Off to a strong start in 2026 🤑](https://www.reddit.com/r/Bitcoin/comments/1q5kh32/off_to_a_strong_start_in_2026/)**
 
-8h ago
+11h ago
 
 ---
 
 **[Do you believe in miracles!](https://www.reddit.com/r/Bitcoin/comments/1q5jvzz/do_you_believe_in_miracles/)**
 
-9h ago
+11h ago
+
+---
+
+**[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
+
+1h ago
+
+---
+
+**[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
+
+12h ago
 
 ---
 
@@ -107,15 +113,13 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, signaling growing institutional confidence in regulated bitcoin investment products.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/morgan-stanley-sec-approval-bitcoin-etf) • 6h ago
 
 ---
 
-**[Do not update to the latest Bitcoin Core v30.0 client. It might delete your wallet which is irrecoverable without a backup.](https://www.reddit.com/r/Bitcoin/comments/1q5qnfa/do_not_update_to_the_latest_bitcoin_core_v300/)**
+**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
-Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
-
-🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 5h ago
+1h ago
 
 ---
 
@@ -123,29 +127,23 @@ Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wa
 
 It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=DD3Olh5uInk%3D
 
-2h ago
-
----
-
-**[Keep em guessing](https://www.reddit.com/r/Bitcoin/comments/1q5f9om/keep_em_guessing/)**
-
-13h ago
-
----
-
-**[3% vs -30%: Different Worlds](https://www.reddit.com/r/Bitcoin/comments/1q5jj69/3_vs_30_different_worlds/)**
-
-BTC up 5% and people already celebrating Meanwhile: we’ve seen worse on a Tuesday 😄
-
-9h ago
-
----
-
-**[Heating my house with ASIC miners](https://www.reddit.com/r/Bitcoin/comments/1q5rq90/heating_my_house_with_asic_miners/)**
-
-Hello. I heat my house with electric system and I find it stupid to use electricity only for heating, knowing that whatever we are using electricity for, it becomes heat at the end anyway. So I was thinking about changing my heaters for ASIC miners (That are changing 100% of the electric power in heat, just like an heater). But is it worth it to buy ASIC just to use it 4-5 months in the year? Did one of you already tried?
-
 4h ago
+
+---
+
+**[“Am I Too Late For Bitcoin!”](https://www.reddit.com/r/Bitcoin/comments/1q601te/am_i_too_late_for_bitcoin/)**
+
+I hear this question a lot and see it asked all over social media. It sounds like a simple question, but not really because it depends on what you mean by “too late.” Are you too late for 20,000x? Are you too late for 10,000x? Are you too late for 1000x? Are you too late for 100x? Let’s break this down: Current Bitcoin Price $93,570 100x: $93,570 × 100 = $9,357,0001,000x: $93,570 × 1,000 = $93,570,00010,000x: $93,570 × 10,000 = $935,700,000 20,000x: $93,570 × 20,000 = $1,871,400,000 Short answer to “Am I too late?”: Hell no. Not at 93k. Not even at 500k. The people who got in at 3k thought they were late. The ones at 15k thought they missed it. History rhymes as it’s often said. If the thesis plays out the way it’s already doing (fixed supply vs. endless printing), these multiples aren’t crazy—they’re just what happens when sound money wins. You’re not late until it’s boring and everyone already uses it for daily use like groceries, gas, coffee. Very small group already do but not billions of people. Until then? Stack hard. 🚀 🙌🍊
+
+1h ago
+
+---
+
+**[Do not update to the latest Bitcoin Core v30.0 client. It might delete your wallet which is irrecoverable without a backup.](https://www.reddit.com/r/Bitcoin/comments/1q5qnfa/do_not_update_to_the_latest_bitcoin_core_v300/)**
+
+Bitcoin Core has warned users of versions 30.0 and 30.1 not to migrate legacy wallet due to possible fund caused by a bug that can delete all files.
+
+🔗 [Cointelegraph](https://cointelegraph.com/news/bitcoin-core-v30-wallet-bug-upgrade) • 7h ago
 
 ---
 
@@ -153,31 +151,9 @@ Hello. I heat my house with electric system and I find it stupid to use electric
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqeIUFqj6WkHxdKnfp2PuP12Np_hwjtTG-qe2J4P4wKqE5aJGGuOiIej&gaa_ts=695da138&gaa_sig=SrYSsZ1QqlJLwh5ykP3kwQVt6EFzvYKVYGC3dOmkpmQxxbPSmUa0yXMNGeMcKU7_zj6PaQYMq4r_ilaUFActIQ%3D%3D)**
+**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqfTZJmCHifTJdA3HN_ekRPMfRtrrNHqPrwvpr3SiCAdDvp0VMJJn7cR&gaa_ts=695dbf03&gaa_sig=ahvI692-C8wxmuEjqkKxsvmm6M5ng1BnhvpxBLTzTtaHRDJ8ikWYy33fKFoz26rGRrCkTi-YnUDvSKlQpdk9bw%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
-
-Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
-
-Investor's Business Daily • 2h ago
-
----
-
-**[Morgan Stanley files for spot bitcoin and solana ETFs: CNBC Crypto World](https://www.cnbc.com/video/2026/01/06/morgan-stanley-files-for-spot-bitcoin-and-solana-etfs-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, Morgan Stanley filed with the SEC to launch a spot bitcoin and a spot solana ETF. And, Brian Dobson, senior analyst & managing director of disruptive technology at Clear Street, explains his outlook for bitcoin mining in 2026.
-
-CNBC • 3h ago
 
 ---
 
@@ -185,13 +161,15 @@ CNBC • 3h ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
+**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://finance.yahoo.com/news/bitcoin-hoarder-strategy-reveals-17-224952376.html)**
 
-Reuters • 1d ago
+Michael Saylor's Strategy had a $17.44 billion unrealized loss on ​digital assets in the fourth ‌quarter tied to a decline in the value of ‌the company's cryptocurrency stockpile.  Shares of the largest corporate holder of bitcoin slumped about 47.5% in 2025 as investors reacted ⁠to swings in ‌cryptocurrency markets that impacted Strategy's balance sheet and earnings.  For the ‍year ended December 31, 2025, Startegy reported a $5.40 billion unrealized loss on digital assets.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -199,21 +177,15 @@ Reuters • 1d ago
 
 MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 5h ago
 
 ---
 
-**[MSCI Keeps Strategy — For Now — But Won't Help It Buy Bitcoin](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
+**[MicroStrategy Shares Fall Another 5% as Confidence Wanes in Saylor’s Bitcoin Playbook](https://finance.yahoo.com/news/microstrategy-shares-fall-another-5-000205535.html)**
 
-Investor's Business Daily • 28m ago
+MicroStrategy’s stock slides despite another Bitcoin buy, raising fresh doubts about investor confidence and long-term sustainability.
 
----
-
-**[Bitcoin and broader crypto markets 'have bottomed,' Bernstein analysts say](https://finance.yahoo.com/news/bitcoin-and-broader-crypto-markets-have-bottomed-bernstein-analysts-say-182315482.html)**
-
-Bitcoin has entered 2026 with gains following a disastrous quarter. Bernstein says the cryptocurrency has hit a bottom.
-
-Yahoo Finance • 5h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -221,7 +193,37 @@ Yahoo Finance • 5h ago
 
 Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
-ABC News • 2h ago
+ABC News • 4h ago
+
+---
+
+**[Maine consumers scammed through Bitcoin ATMs could get refunds under $1.9M deal](https://wgme.com/news/i-team/maine-consumers-scammed-through-bitcoin-atms-could-get-refunds-under-19m-deal)**
+
+State officials say the consent agreement with Bitcoin Depot will be used to compensate consumers who were defrauded between 2022 and 2025.
+
+WGME • 23h ago
+
+---
+
+**[Maine secures $1.9M settlement for bitcoin kiosk scam victims](https://www.centralmaine.com/2026/01/05/maine-secures-1-9m-settlement-for-bitcoin-kiosk-scam-victims/)**
+
+Bitcoin Depot has agreed to refund money that was taken through its kiosks by third-party scammers who defrauded Maine consumers.
+
+Centralmaine.com • 1d ago
+
+---
+
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
+
+Reuters • 8h ago
+
+---
+
+**[Morgan Stanley files for spot bitcoin and solana ETFs: CNBC Crypto World](https://www.cnbc.com/video/2026/01/06/morgan-stanley-files-for-spot-bitcoin-and-solana-etfs-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, Morgan Stanley filed with the SEC to launch a spot bitcoin and a spot solana ETF. And, Brian Dobson, senior analyst & managing director of disruptive technology at Clear Street, explains his outlook for bitcoin mining in 2026.
+
+CNBC • 6h ago
 
 ---
 
@@ -233,7 +235,7 @@ ABC News • 2h ago
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 3 • 2d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 3 • 3d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -267,7 +269,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
-⬆️ 9 • 💬 2 • 4d ago
+⬆️ 9 • 💬 2 • 5d ago
 
 ---
 
@@ -305,13 +307,23 @@ A free, open source desktop app that detects nail biting in real time using your
 
 ## YouTube Videos: "bitcoin"
 
+**[BIG BITCOIN NEWS JUST IN!!!](https://www.youtube.com/watch?v=M53LACXtOgk)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 550 • 💬 105 • ⏱️ 6:15 • 4h ago
+
+---
+
 **[Coinbase&#39;s John D&#39;Agostino on bitcoin: Retail sentiment is catching up to institutional momentum](https://www.youtube.com/watch?v=JEk3rseEYis)**
 
 John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to discuss the latest bitcoin price trends, what's ...
 
 📺 CNBC Television
 
-👁️ 23K • 👍 298 • 💬 194 • ⏱️ 8:25 • 10h ago
+👁️ 26K • 👍 319 • 💬 208 • ⏱️ 8:25 • 12h ago
 
 ---
 
@@ -321,17 +333,17 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 213 • ⏱️ 9:17 • 21h ago
+👁️ 72K • 👍 3K • 💬 238 • ⏱️ 9:17 • 23h ago
 
 ---
 
-**[&quot;Crypto Just Got an $8,000,000,000,000 GREEN LIGHT for 2026&quot; - Raoul Pal &amp; Michael Saylor](https://www.youtube.com/watch?v=gyBJQ7aYmA8)**
+**[Why the World Will NEED Bitcoin in 2026 (It’s Not the Price)](https://www.youtube.com/watch?v=dcUGRquTkc8)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Bitcoin is already on fire in 2026 — but it's not just about price. From billion-dollar fraud to property confiscation, the cracks in the ...
 
-📺 Savvy Finance
+📺 Simply Bitcoin
 
-👁️ 18K • 👍 577 • 💬 26 • ⏱️ 15:02 • 1d ago
+👁️ 4K • 👍 501 • 💬 64 • ⏱️ 11:24 • 2h ago
 
 ---
 
@@ -341,27 +353,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 1K • 💬 46 • ⏱️ 31:55 • 8h ago
+👁️ 17K • 👍 2K • 💬 50 • ⏱️ 31:55 • 10h ago
 
 ---
 
-**[Bitcoin Inflows SURGE! HIDDEN Strategic Reserve Revealed?](https://www.youtube.com/watch?v=7CT_1FJmzps)**
+**[&quot;Crypto Just Got an $8,000,000,000,000 GREEN LIGHT for 2026&quot; - Raoul Pal &amp; Michael Saylor](https://www.youtube.com/watch?v=gyBJQ7aYmA8)**
 
-Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the biggest daily haul since October), with traders ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 The Wolf Of All Streets
+📺 Savvy Finance
 
-👁️ 11K • 👍 572 • 💬 153 • ⏱️ 57:31 • 6h ago
-
----
-
-**[Bitcoin &amp; Crypto Flips Green In 2026…Why the Bulls are Back](https://www.youtube.com/watch?v=mhBzAYLIlfM)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 1K • 💬 179 • ⏱️ 37:49 • 7h ago
+👁️ 18K • 👍 586 • 💬 26 • ⏱️ 15:02 • 1d ago
 
 ---
 
@@ -371,7 +373,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 CNBC Television
 
-👁️ 4K • 👍 139 • 💬 110 • ⏱️ 4:14 • 2h ago
+👁️ 12K • 👍 413 • 💬 259 • ⏱️ 4:14 • 5h ago
 
 ---
 
@@ -381,27 +383,27 @@ Bitcoin flows flip, SOL, memecoins, and DOGECOIN trade. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 21K • 👍 1K • 💬 100 • ⏱️ 16:32 • 12h ago
+👁️ 22K • 👍 1K • 💬 112 • ⏱️ 16:32 • 14h ago
 
 ---
 
-**[WOAH THIS is LARGE!!! sit down before watching this bitcoin video....](https://www.youtube.com/watch?v=IdVzHx2wKg4)**
+**[Bitcoin Inflows SURGE! HIDDEN Strategic Reserve Revealed?](https://www.youtube.com/watch?v=7CT_1FJmzps)**
 
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+Bitcoin #Crypto #Finance Bitcoin ripped higher as spot ETF inflows surged (the biggest daily haul since October), with traders ...
 
-📺 Tyler S
+📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 983 • 💬 180 • ⏱️ 10:52 • 1d ago
+👁️ 13K • 👍 606 • 💬 147 • ⏱️ 57:31 • 8h ago
 
 ---
 
-**[🎯 My New Bitcoin Target For 2026!](https://www.youtube.com/watch?v=Tw5fwbnAO54)**
+**[&quot;This Secret $8 Trillion Liquidity Injection Is Coming For Bitcoin In 2026!&quot; Raoul Pal](https://www.youtube.com/watch?v=nslN690Odh0)**
 
-My New Bitcoin Target For 2026! I'm revealing my new Bitcoin price target for 2026 and the key data that led me to update it.
+Bitcoin #Crypto #Finance 2025 may not have been a failure for Bitcoin but a crucial setup for a massive liquidity-driven surge in ...
 
-📺 Tim Warren
+📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 293 • 💬 104 • ⏱️ 19:54 • 3h ago
+👁️ 88K • 👍 3K • 💬 664 • ⏱️ 54:37 • 2d ago
 
 ---
 

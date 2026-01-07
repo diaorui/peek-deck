@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-06T23:42:11.479448+00:00'
+updated: '2026-01-07T01:49:14.667336+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 06, 2026 at 23:42 UTC  
+**Last Updated:** January 07, 2026 at 01:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,285.59
+### $3,259.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +9.9%  
-**30d:** +4.6%  
-**90d:** -25.1%  
-**1y:** -3.3%  
+**24h:** +1.0%  
+**7d:** +8.0%  
+**30d:** -2.3%  
+**90d:** -15.9%  
+**1y:** -2.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $394.52B
+**Market Cap:** $391.81B
 Rank #2
 
-**Circulating Supply:** 120,694,829 ETH
+**Circulating Supply:** 120,694,786 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.9%
+-34.4%
 
 **All-Time Low:** $0.43
-+754982.8%
++749456.0%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
+
+---
+
+**[Internal transaction not reflected in wallet balance](https://www.reddit.com/r/ethereum/comments/1q5zcx7/internal_transaction_not_reflected_in_wallet/)**
+
+I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
+
+1h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 12h ago
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 14h ago
 
 ---
 
@@ -88,7 +96,7 @@ FAQ answering developer questions about calculating necessary slippage before ex
 
 Yet another data breach, this time involving payment processor Global-E, with customer personal data reportedly exposed. We often talk about blockchain as a solution for privacy and transparency. But incidents like this show a hard truth: privacy failures still happen at the infrastructure and application layer, regardless of whether crypto or blockchain is involved. Decentralization doesn’t automatically mean privacy. Security practices, data minimization, and proper protection of user information still matter a lot. If sensitive data keeps leaking before it ever touches a blockchain, that’s a problem we shouldn’t ignore. Curious how others here see this are we focusing too much on decentralization while underestimating basic data security?
 
-16h ago
+18h ago
 
 ---
 
@@ -138,14 +146,6 @@ Just published a retrospective on smart contract hacks of 2025, even audited and
 
 ---
 
-**[Daily General Discussion January 03, 2026](https://www.reddit.com/r/ethereum/comments/1q2mteo/daily_general_discussion_january_03_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
+
+---
+
+**[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://finance.yahoo.com/news/ethereum-250-000-tom-lee-124353479.html)**
+
+Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://finance.yahoo.com/news/tom-lee-predicts-250k-ethereum-155617532.html)**
+
+BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee’s Bitmine (BMNR) Increases Ethereum Holdings to $13.3 Billion](https://www.tipranks.com/news/tom-lees-bitmine-bmnr-increases-ethereum-holdings-to-13-3-billion)**
+
+TipRanks • 6h ago
 
 ---
 
@@ -180,40 +202,6 @@ GlobeNewswire • 1d ago
 
 ---
 
-**['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
-
-The Block • 2h ago
-
----
-
-**[Ethereum to $250,000? Tom Lee charts targets as Bitmine stock price jumps](https://finance.yahoo.com/news/ethereum-250-000-tom-lee-124353479.html)**
-
-Lee makes his boldest call yet, targeting $250,000 Ethereum and $5,000 Bitmine share price. Bitmine shares jump 15% after stock split proposal. Shareholders urged to vote by January 14.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://finance.yahoo.com/news/tom-lee-predicts-250k-ethereum-155617532.html)**
-
-BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee’s Bitmine (BMNR) Increases Ethereum Holdings to $13.3 Billion](https://www.tipranks.com/news/tom-lees-bitmine-bmnr-increases-ethereum-holdings-to-13-3-billion)**
-
-TipRanks • 4h ago
-
----
-
-**[Ethereum Price Soars Above $3200 as Jeff Bezos Announces Space Travel Payment — Can It Rocket Higher?](https://www.ccn.com/news/crypto/ethereum-price-3200-jeff-bezos-space-travel-payment/)**
-
-CCN.com • 1d ago
-
----
-
 **[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
 
 PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
@@ -222,9 +210,35 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
+
+Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
+
+Fortune • 1d ago
+
+---
+
+**[Vitalik Says Ethereum Just Solved Crypto’s Biggest Problem](https://finance.yahoo.com/news/vitalik-says-ethereum-just-solved-150745120.html)**
+
+Ethereum co-founder Vitalik Buterin declared that the network has finally cracked blockchain’s fundamental trilemma through the combination of zero-knowledge Ethereum Virtual Machines and PeerDAS technology now running on mainnet.The breakthrough marks the culmination of a decade-long technical journey that began with Buterin’s first data availability sampling commit in 2015 and ...
+
+Yahoo Finance • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Why You Never Need More Than 10 Ethereum](https://www.youtube.com/watch?v=wEjl1EnSmYI)**
+
+Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (available everywhere) $1000 DEPOSIT ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 230 • 💬 27 • ⏱️ 12:17 • 2h ago
+
+---
 
 **[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
 
@@ -232,7 +246,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 3K • 💬 65 • ⏱️ 8:07 • 7h ago
+👁️ 17K • 👍 3K • 💬 88 • ⏱️ 8:07 • 9h ago
 
 ---
 
@@ -242,17 +256,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 33K • 👍 2K • 💬 112 • ⏱️ 9:50 • 9h ago
-
----
-
-**[BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=obXxDSK_UOc)**
-
-BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 148 • 💬 17 • ⏱️ 18:45 • 2h ago
+👁️ 39K • 👍 2K • 💬 125 • ⏱️ 9:50 • 11h ago
 
 ---
 
@@ -262,7 +266,17 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 556 • 💬 279 • ⏱️ 13:40 • 18h ago
+👁️ 14K • 👍 590 • 💬 452 • ⏱️ 13:40 • 20h ago
+
+---
+
+**[BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=obXxDSK_UOc)**
+
+BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 263 • 💬 68 • ⏱️ 18:45 • 4h ago
 
 ---
 
@@ -272,7 +286,7 @@ On today's episode of CNBC Crypto World, major cryptocurrencies move higher to k
 
 📺 CNBC Television
 
-👁️ 15K • 👍 246 • 💬 92 • ⏱️ 12:31 • 1d ago
+👁️ 15K • 👍 251 • 💬 92 • ⏱️ 12:31 • 1d ago
 
 ---
 
@@ -282,17 +296,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 173 • 💬 7 • ⏱️ 5:19 • 8h ago
+👁️ 3K • 👍 183 • 💬 22 • ⏱️ 5:19 • 11h ago
 
 ---
 
-**[Several Pending Sell Signals Looming Over Bitcoin BTC + Updates on Ethereum ETH, Solana, XRP &amp; ADA](https://www.youtube.com/watch?v=pEVat6_kzKo)**
+**[In The Short Term, How High Can Ethereum Go? Looking At The BMSB...](https://www.youtube.com/watch?v=-kzbhS02-gA)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
 
-📺 Doctor of Pump & Dump
+📺 Benjamin Cowen
 
-👁️ 1K • 👍 218 • ⏱️ 36:52 • 3h ago
+👁️ 7K • 👍 140 • 💬 4 • ⏱️ 0:48 • 5h ago
 
 ---
 
@@ -302,27 +316,17 @@ Crypto News: XRP ETFs are the top-performing crypto ETFs today, and recorded the
 
 📺 Thinking Crypto
 
-👁️ 7K • 👍 663 • 💬 75 • ⏱️ 16:00 • 19h ago
+👁️ 7K • 👍 673 • 💬 90 • ⏱️ 16:00 • 22h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Bitr1X6GkL4)**
+**[Several Pending Sell Signals Looming Over Bitcoin BTC + Updates on Ethereum ETH, Solana, XRP &amp; ADA](https://www.youtube.com/watch?v=pEVat6_kzKo)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 More Crypto Online
+📺 Doctor of Pump & Dump
 
-👁️ 3K • 👍 156 • 💬 15 • ⏱️ 4:05 • 18h ago
-
----
-
-**[ETH &amp; SOL WAKE UP, Bitcoin Reclaims $92K, Crypto Turns Bullish &amp; More!](https://www.youtube.com/watch?v=6sKKOrNVsk8)**
-
-Ethereum and Solana are starting to show signs of life as markets perk up, with momentum shifting back toward major altcoins ...
-
-📺 Coin Bureau
-
-👁️ 24K • 👍 2K • 💬 65 • ⏱️ 46:18 • 1d ago
+👁️ 3K • 👍 298 • ⏱️ 36:52 • 5h ago
 
 ---
 
