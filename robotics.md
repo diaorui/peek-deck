@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T13:40:24.916376+00:00'
+updated: '2026-01-07T14:25:53.326183+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 13:40 UTC  
+**Last Updated:** January 07, 2026 at 14:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,6 +36,12 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
+4h ago
+
+---
+
+**[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
+
 3h ago
 
 ---
@@ -44,13 +50,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 In this clip, the head of robotics mentions that with a lot of robots, the biggest issue for reliability is that over time the wires that exist within the joints begin to degrade and then he proceeds to say that Atlas doesn't have any wires. How is that possible?
 
-21h ago
-
----
-
-**[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
-
-2h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-2h ago
+3h ago
 
 ---
 
@@ -70,11 +70,33 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 ---
 
+**[Continuation of the project.](https://www.reddit.com/r/robotics/comments/1q6go19/continuation_of_the_project/)**
+
+Here are the modifications made to the controller, where it will now be possible to control 4 possible directions. Now I will finish the wiring to the motors and rebuild the car because it broke.
+
+1m ago
+
+---
+
+**[UR10e vision-guided sorting (eye-in-hand) — only used teach pendant so far, confused about URScript & PC control](https://www.reddit.com/r/robotics/comments/1q6ggi6/ur10e_visionguided_sorting_eyeinhand_only_used/)**
+
+10m ago
+
+---
+
+**[It can be put in a backpack and used for DIY robot projects.](https://www.reddit.com/r/robotics/comments/1q6fwt7/it_can_be_put_in_a_backpack_and_used_for_diy/)**
+
+This robot has open interfaces, allowing for DIY modifications and customizable skins.
+
+🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 33m ago
+
+---
+
 **[Unitree GO1 Complex Terrain Locomotion](https://www.reddit.com/r/robotics/comments/1q5psj2/unitree_go1_complex_terrain_locomotion/)**
 
 The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinforcement learning task designed to train robots to achieve stable walking on challenging terrain. This environment includes two main terrain types: rough terrain and stairs terrain. Task Description Train the Unitree GO1 quadruped robot to achieve stable and efficient quadruped walking on complex terrain. This environment uses MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. The agent controls target positions of each joint to achieve velocity tracking and attitude stability while adapting to different terrain challenges. Task Objectives Velocity Tracking: Accurately track given linear and angular velocity commands Attitude Stability: Maintain body attitude stability under various terrain conditions Energy Efficiency: Achieve walking tasks with minimal energy consumption Terrain Adaptability: Adapt to different challenges of rough terrain and stairs terrain
 
-19h ago
+20h ago
 
 ---
 
@@ -84,39 +106,21 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 ---
 
-**[Setting up the first electric robot with floppy disk drive, terminal, and original controller and teach pendant](https://www.reddit.com/r/robotics/comments/1q6cf55/setting_up_the_first_electric_robot_with_floppy/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=DTxBZp_J5VQ) • 2h ago
-
----
-
-**[MenteeBot follows verbal instruction (No Teleoperation)](https://www.reddit.com/r/robotics/comments/1q6bv57/menteebot_follows_verbal_instruction_no/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/XxVtjtORXL0) • 3h ago
-
----
-
-**[Can help with very basic braking resistor (regen resistor) design for robots](https://www.reddit.com/r/robotics/comments/1q6ae58/can_help_with_very_basic_braking_resistor_regen/)**
-
-Hi all, If anyone needs help with a very basic braking (regenerative) resistor setup for a robot or motor system, I can help with simple cases only. This is not for detailed system design or complex edge cases. I can help with things like: Rough resistor value / power estimation Basic connection concept Sanity check for small or low-power setups Good fit for: Prototypes Small robots Lab / hobby / early-stage projects Probably not a good fit if you’re dealing with: High-power industrial drives Safety-critical or certified systems Production designs If you want to ask, please keep it simple and include: Motor power (rough is fine) DC bus voltage How braking happens (E-stop, decel, gravity, etc.) I won’t be able to reply to complex or long design requests, but happy to help where it’s straightforward. Cheers 👍
-
-4h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcVH-IM0x3TK3P_aLvIx5T52JMTaal-JFiYE_3EDgl42GIZJnqy_91t&gaa_ts=695e7060&gaa_sig=YKy5Ci8PwyL9HLwwd7LE6PU5HR97RKeoWQ78yso3WWD3i1-8duUdt46ifdLIHeM8ArFhjv65Vrl0wIA4YI0DqQ%3D%3D)**
+
+The Wall Street Journal • 16h ago
+
+---
 
 **[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
 
 Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
-TechCrunch • 16h ago
+TechCrunch • 17h ago
 
 ---
 
@@ -124,13 +128,7 @@ TechCrunch • 16h ago
 
 The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
 
-CTech • 16h ago
-
----
-
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqegONxbXyGgVqHeGGq8Z-gibVuwaomyoSWOAnkzGL4dyBSo-k8R5cHH&gaa_ts=695e59bc&gaa_sig=P5gaUQN5a5mY7MA9_nPPc-3ztMvXGgVHR5_fg0LW0UiVc6t7lIWyUC1imNlwofsVIwTyM0ytojb6nmELIBT9oQ%3D%3D)**
-
-The Wall Street Journal • 15h ago
+CTech • 17h ago
 
 ---
 
@@ -166,15 +164,15 @@ hyundai.com • 1d ago
 
 ---
 
-**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
+**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
 
-Reuters • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Former Apple Engineers Launch 'Visual Brain' to Help Robots See](https://www.bloomberg.com/news/articles/2026-01-05/three-former-apple-face-id-engineers-launch-robotics-startup-out-of-stealth)**
+**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
 
-Bloomberg.com • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -182,7 +180,7 @@ Bloomberg.com • 1d ago
 
 A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-CNET • 1d ago
+CNET • 2d ago
 
 ---
 
@@ -190,33 +188,23 @@ CNET • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
-
-Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
-
-📺 AI Revolution
-
-👁️ 36K • 👍 890 • 💬 155 • ⏱️ 9:33 • 14h ago
-
----
-
 **[Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)**
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 ...
 
 📺 60 Minutes
 
-👁️ 991K • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
+👁️ 1.0M • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
 
 ---
 
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
 
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
 
-📺 Technology Now
+📺 AI Revolution
 
-👁️ 20K • 👍 261 • 💬 11 • ⏱️ 7:38 • 2d ago
+👁️ 39K • 👍 964 • 💬 166 • ⏱️ 9:33 • 15h ago
 
 ---
 
@@ -226,7 +214,17 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 348K • 👍 8K • 💬 2K • ⏱️ 7:00 • 1d ago
+👁️ 368K • 👍 9K • 💬 2K • ⏱️ 7:00 • 1d ago
+
+---
+
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+
+📺 Technology Now
+
+👁️ 20K • 👍 268 • 💬 11 • ⏱️ 7:38 • 2d ago
 
 ---
 
@@ -236,7 +234,7 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 355K • 👍 5K • 💬 851 • ⏱️ 5:49 • 2d ago
+👁️ 364K • 👍 5K • 💬 882 • ⏱️ 5:49 • 2d ago
 
 ---
 
@@ -246,7 +244,27 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 9K • 👍 37 • 💬 1 • ⏱️ 1:06 • 10h ago
+👁️ 9K • 👍 47 • 💬 2 • ⏱️ 1:06 • 11h ago
+
+---
+
+**[Taking the Tron 1 Robot for a Spin | What the Future](https://www.youtube.com/watch?v=PGULHNClLiw)**
+
+Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. Check out more from @lookingglassxr and ...
+
+📺 CNET
+
+👁️ 8K • 👍 213 • 💬 16 • ⏱️ 2:12 • 14h ago
+
+---
+
+**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
+
+Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
+
+📺 7NEWS Australia
+
+👁️ 3K • 👍 19 • 💬 24 • ⏱️ 2:25 • 8h ago
 
 ---
 
@@ -260,33 +278,13 @@ China always brags about its "advanced robots", but the reality is shocking! Wat
 
 ---
 
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
 
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
 
-📺 Hyundai Motor Group
+📺 CNBC Television
 
-👁️ 8K • 👍 38 • ⏱️ 0:33 • 7h ago
-
----
-
-**[Taking the Tron 1 Robot for a Spin | What the Future](https://www.youtube.com/watch?v=PGULHNClLiw)**
-
-Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. Check out more from @lookingglassxr and ...
-
-📺 CNET
-
-👁️ 7K • 👍 196 • 💬 15 • ⏱️ 2:12 • 13h ago
-
----
-
-**[China&#39;s Shocking New AI Robot Able To Harm Humans](https://www.youtube.com/watch?v=6-s6hJynIDc)**
-
-A humanoid AI robot is now walking public streets in China, moving with confidence, precision, and real physical capability. This is ...
-
-📺 AI Revolution
-
-👁️ 106K • 👍 2K • 💬 281 • ⏱️ 11:42 • 6d ago
+👁️ 5K • 👍 54 • 💬 9 • ⏱️ 2:58 • 18h ago
 
 ---
 

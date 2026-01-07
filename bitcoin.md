@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T13:40:24.907248+00:00'
+updated: '2026-01-07T14:25:53.317045+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 13:40 UTC  
+**Last Updated:** January 07, 2026 at 14:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +3.7%  
-**30d:** -0.9%  
-**90d:** -18.6%  
-**1y:** -3.2%  
+**24h:** -1.9%  
+**7d:** +3.3%  
+**30d:** -1.2%  
+**90d:** -18.9%  
+**1y:** -3.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1840.17B
+**Market Cap:** $1827.99B
 Rank #1
 
 **Circulating Supply:** 19,972,590 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.9%
+-27.4%
 
 **All-Time Low:** $67.81
-+135776.7%
++134821.1%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
+
+3h ago
+
+---
+
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
 5h ago
@@ -85,33 +91,13 @@ Rank #1
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-12h ago
-
----
-
-**[I own about .7 BTC. Should I blow my bonus to get me to an even 1 BTC?](https://www.reddit.com/r/Bitcoin/comments/1q60wd1/i_own_about_7_btc_should_i_blow_my_bonus_to_get/)**
-
-My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
-
-12h ago
+13h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-13h ago
-
----
-
-**[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
-
-3h ago
-
----
-
-**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
-
-12h ago
+14h ago
 
 ---
 
@@ -119,7 +105,27 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-2h ago
+3h ago
+
+---
+
+**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
+
+13h ago
+
+---
+
+**[I own about .7 BTC. Should I blow my bonus to get me to an even 1 BTC?](https://www.reddit.com/r/Bitcoin/comments/1q60wd1/i_own_about_7_btc_should_i_blow_my_bonus_to_get/)**
+
+My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
+
+13h ago
+
+---
+
+**[Counting my profits from crypto](https://www.reddit.com/r/Bitcoin/comments/1q6e1re/counting_my_profits_from_crypto/)**
+
+1h ago
 
 ---
 
@@ -127,7 +133,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12 to whomever.... its so crazy, i literally watched it happen over and over and don't know why or HOW. so i copy the address from the subject of my email and it pastes a different one. i copy from the subject and it pastes correctly... wtf?!? anyone ever heard of malware that changes clipboard bitcoin address???? CRAZY?!!? (video included)
 
-10h ago
+11h ago
 
 ---
 
@@ -135,15 +141,7 @@ somehow??!?!? my clipboard copied another bitcoin address and i sent my last $12
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-18h ago
-
----
-
-**[Over the long run, does simply holding Bitcoin outperform trading it?](https://www.reddit.com/r/Bitcoin/comments/1q670ry/over_the_long_run_does_simply_holding_bitcoin/)**
-
-Holding removes a lot of decision-making. Fewer trades, fewer chances to make mistakes, and fewer moments where you start doubting Bitcoin itself. That’s why buy-and-hold often feels less risky over long timeframes. At the same time, futures exist for a reason. I came across a discussion on Bitunix where some people argued futures aren’t really about beating buy-and-hold, but about shaping exposure and managing risk over time. That made me wonder whether either approach actually has a higher probability of working over years rather than months or cycles. Curious how others here see it?
-
-8h ago
+19h ago
 
 ---
 
@@ -151,11 +149,11 @@ Holding removes a lot of decision-making. Fewer trades, fewer chances to make mi
 
 ## Google News: "bitcoin"
 
-**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
+**[Bitcoin Options Traders Eye $100,000 Following Year-End Meltdown](https://www.bloomberg.com/news/articles/2026-01-05/bitcoin-options-traders-eye-100-000-following-year-end-meltdown)**
 
-Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
+Bitcoin options are showing that traders are setting their sights on a return to the $100,000 price level amid optimism that investors will turn back to digital assets following the crypto market’s crash in the fourth quarter.
 
-CNBC • 16h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -163,33 +161,35 @@ CNBC • 16h ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqcvTYwXBpR2O6PrudJ660e3_BApcF1X8AWoopa3BcVEyHZd9zYlnQAw&gaa_ts=695e59b9&gaa_sig=sOFmU54DuljP-M9t-P9QGTJCBmf128HoZbqVWAAs1G4Ka1BZdu9G3Uq-0Ww_ahBJPN5_EoHsrr6tzkd2q4Ew7Q%3D%3D)**
+**[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
 
-Barron's • 2d ago
+Forbes • 27m ago
 
 ---
 
-**[Can Bitcoin Bounce Back in 2026?](https://finance.yahoo.com/news/bitcoin-bounce-back-2026-110500831.html)**
+**[Stanford professor raises $15 million for Babylon, a decentralized protocol to turn Bitcoin into collateral](https://fortune.com/2026/01/07/stanford-professor-raises-15-million-for-babylon/)**
 
-Bitcoin's been rallying in the early days of 2026, but whether that will continue may depend on the economy.
+The startup aims to provide an alternative to platforms like Coinbase and Tether for those seeking to put their Bitcoin to work.
 
-Yahoo Finance • 2h ago
+Fortune • 1h ago
 
 ---
 
 **[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
-**[MSCI Backs Off on Crypto-Exclusion Plan But Signals Wider Review](https://www.bloomberg.com/news/articles/2026-01-06/msci-backs-off-on-crypto-exclusion-plan-but-signals-wider-review)**
+**[MSCI Spares MicroStrategy — but the Market’s War Over Its Bitcoin Premium Remains](https://finance.yahoo.com/news/msci-spares-microstrategy-market-war-063933033.html)**
 
-Bloomberg.com • 15h ago
+MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
+
+Yahoo Finance • 7h ago
 
 ---
 
@@ -197,29 +197,31 @@ Bloomberg.com • 15h ago
 
 Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
+**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
 
-Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
+Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
-Yahoo Finance • 1d ago
-
----
-
-**[The Daily: Morgan Stanley files for spot Bitcoin and Solana ETFs as inflows enter 2026 'like a lion,' and more](https://www.theblock.co/post/384512/the-daily-morgan-stanley-files-for-spot-bitcoin-and-solana-etfs-as-inflows-enter-2026-like-a-lion-and-more)**
-
-The Block • 18h ago
+ABC News • 17h ago
 
 ---
 
-**[Morgan Stanley files for ether trust after bitcoin and solana ETF push](https://www.coindesk.com/business/2026/01/07/morgan-stanley-files-for-ether-trust-after-bitcoin-and-solana-etf-push)**
+**[Maine consumers scammed through Bitcoin ATMs could get refunds under $1.9M deal](https://wgme.com/news/i-team/maine-consumers-scammed-through-bitcoin-atms-could-get-refunds-under-19m-deal)**
 
-The Wall Street giant is widening its crypto push, following bitcoin and solana ETF filings with a potential Ethereum trust.
+State officials say the consent agreement with Bitcoin Depot will be used to compensate consumers who were defrauded between 2022 and 2025.
 
-CoinDesk • 2h ago
+WGME • 1d ago
+
+---
+
+**[Maine to get $1.9M in settlement with Bitcoin kiosk operator](https://www.bangordailynews.com/2026/01/05/state/state-police-courts/maine-settlement-bitcoin-depot/)**
+
+The Maine Bureau of Consumer Credit Protection announced the consent agreement with Bitcoin Depot on Monday.
+
+Bangor Daily News • 1d ago
 
 ---
 
@@ -269,6 +271,14 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ---
 
+**[Bitcoin still hasn't hit $100k when adjusted for inflation](https://news.ycombinator.com/item?id=46526070)**
+
+The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
+
+⬆️ 1 • 💬 0 • 1h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+
+---
+
 **[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
 
 ⬆️ 9 • 💬 2 • 5d ago
@@ -295,23 +305,23 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
-**[BIG BITCOIN NEWS JUST IN!!!](https://www.youtube.com/watch?v=M53LACXtOgk)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 12K • 👍 701 • 💬 230 • ⏱️ 6:15 • 16h ago
-
----
-
 **[Why Bitcoin is Set to hit $100,000 Soon](https://www.youtube.com/watch?v=D6cZyjLYXsQ)**
 
 Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 430 • ⏱️ 8:36 • 13h ago
+👁️ 20K • 👍 1K • 💬 500 • ⏱️ 8:36 • 13h ago
+
+---
+
+**[BIG BITCOIN NEWS JUST IN!!!](https://www.youtube.com/watch?v=M53LACXtOgk)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 13K • 👍 713 • 💬 237 • ⏱️ 6:15 • 16h ago
 
 ---
 
@@ -321,17 +331,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 185 • ⏱️ 11:24 • 14h ago
-
----
-
-**[Urgent: Crypto Holders Need To Know About This…](https://www.youtube.com/watch?v=1JWVxZE6pl8)**
-
-Time and price are some of the most important things in markets. There is a key time pivot in 48-hours which Kyledoops will show ...
-
-📺 Crypto Banter
-
-👁️ 8K • 👍 942 • 💬 23 • ⏱️ 30:55 • 5h ago
+👁️ 16K • 👍 1K • 💬 193 • ⏱️ 11:24 • 15h ago
 
 ---
 
@@ -341,7 +341,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 36K • 👍 353 • 💬 270 • ⏱️ 8:25 • 1d ago
+👁️ 38K • 👍 356 • 💬 270 • ⏱️ 8:25 • 1d ago
 
 ---
 
@@ -351,17 +351,17 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 3K • 💬 226 • ⏱️ 9:17 • 1d ago
+👁️ 77K • 👍 3K • 💬 226 • ⏱️ 9:17 • 1d ago
 
 ---
 
-**[&quot;Crypto Just Got an $8,000,000,000,000 GREEN LIGHT for 2026&quot; - Raoul Pal &amp; Michael Saylor](https://www.youtube.com/watch?v=gyBJQ7aYmA8)**
+**[Urgent: Crypto Holders Need To Know About This…](https://www.youtube.com/watch?v=1JWVxZE6pl8)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Time and price are some of the most important things in markets. There is a key time pivot in 48-hours which Kyledoops will show ...
 
-📺 Savvy Finance
+📺 Crypto Banter
 
-👁️ 19K • 👍 612 • 💬 25 • ⏱️ 15:02 • 1d ago
+👁️ 12K • 👍 1K • 💬 22 • ⏱️ 30:55 • 6h ago
 
 ---
 
@@ -371,27 +371,37 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 21h ago
+👁️ 21K • 👍 3K • 💬 47 • ⏱️ 8:07 • 22h ago
 
 ---
 
-**[BITCOIN: WATCH WITHIN 24 HOURS!!!](https://www.youtube.com/watch?v=AFRiCP3z0_U)**
+**[&quot;Crypto Just Got an $8,000,000,000,000 GREEN LIGHT for 2026&quot; - Raoul Pal &amp; Michael Saylor](https://www.youtube.com/watch?v=gyBJQ7aYmA8)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Crypto Rover
+📺 Savvy Finance
 
-👁️ 4K • 👍 369 • 💬 22 • ⏱️ 7:30 • 7h ago
+👁️ 20K • 👍 618 • 💬 26 • ⏱️ 15:02 • 1d ago
 
 ---
 
-**[BITCOIN DUMPING AGAIN... BUT A MASSIVE BULL SIGNAL JUST FLASHED.](https://www.youtube.com/watch?v=Z3ADUNMnWrQ)**
+**[6 Data Points That Prove This Bitcoin Pump Is Different!](https://www.youtube.com/watch?v=SZj0Dczanpw)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+2026 has started with a violent bounce. Bitcoin has successfully held the bottom of the weekly range, and for the first time in ...
 
-📺 Satoshi Stacker
+📺 Crypto Banter
 
-👁️ 4K • 👍 392 • 💬 26 • ⏱️ 14:23 • 5h ago
+👁️ 22K • 👍 2K • 💬 57 • ⏱️ 31:55 • 23h ago
+
+---
+
+**[7th Largest Bitcoin Inflow BUT Why The Price KEEPS DROPPING!](https://www.youtube.com/watch?v=U_wp50_lUAc)**
+
+Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are moving slow. Here could be the reason why... Follow Jeff ...
+
+📺 Digital Asset News
+
+👁️ 8K • 👍 630 • 💬 38 • ⏱️ 29:22 • 15h ago
 
 ---
 

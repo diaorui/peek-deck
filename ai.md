@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T13:40:24.898872+00:00'
+updated: '2026-01-07T14:25:53.308586+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 13:40 UTC  
+**Last Updated:** January 07, 2026 at 14:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 9h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 10h ago
 
 ---
 
@@ -49,7 +49,13 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-16h ago
+17h ago
+
+---
+
+**[Well, now. Shout-out to Grok for providing the how and why of what I have been screaming into the void for quite some time. I see ya, Grok. Well done.](https://www.reddit.com/r/artificial/comments/1q6ew6m/well_now_shoutout_to_grok_for_providing_the_how/)**
+
+1h ago
 
 ---
 
@@ -57,7 +63,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Hey everyone — Happy New Year! 🎉 We’re giving away a limited number of FREE 30-day Unlimited Plan codes for Writecream to kick off 2026. If you care about real SEO results (not just content), this is for you. Why Writecream? 🔗 Backlink Autopilot — grow domain authority organically with zero outreach 🌐 SEO + AEO/GEO — rank on Google and AI search results ⚡ One-click optimization — upgrade any existing article instantly 📝 One-click SEO articles — keyword → optimized article with images 🔍 All-in-one SEO tool — Keyword research → one click SEO article with images on researched keywords → backlinks How Backlink Autopilot works: Add your site, and Writecream places contextual, relevant backlinks across its 1M+ user network — only when topics match. No spam, no manual outreach, fully organic. How to get a free code 🎁 Comment “Writecream” below and we’ll DM you a 30-day Unlimited Plan code. First come, first served. Once they’re gone, they’re gone 🚀 Build traffic, authority, and AI visibility on autopilot ✨
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +79,15 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 Hey everyone — Happy New Year! 🎊 To kick off 2026, we’re giving away a limited batch of FREE 30-day Unlimited Plan codes for “HumanizeThat”. If you use AI tools for writing and worry about AI detection, this should help. What you get with the Unlimited Plan: ✍️ Unlimited humanizations for 30 days 🧠 Makes AI text sound natural and human 🛡️ Designed to pass major AI detectors 📄 Great for essays, assignments, blogs, and emails Trusted by 50,000+ users worldwide. How to get a free code 🎁 Just comment “Humanize” below and we’ll DM you a code. First come, first served — once they’re gone, they’re gone. Start the year with unlimited humanized writing ✨
 
-3h ago
+4h ago
+
+---
+
+**[AI and gender: a structuralist perspective](https://www.reddit.com/r/artificial/comments/1q6fc71/ai_and_gender_a_structuralist_perspective/)**
+
+There's an analytical tool-developed primarily in anthropology and ethnology for understanding myths, rituals, gender and food taboos - and rites of passage that can map these categorical structures across time and space. An exceptional framework for those seeking insight into how human cognition organizes experience into meaningful patterns. For decades, anthropologists used this method to scrutinize how ‘le sauvage’ - Lévi-Strauss's deliberately provocative term for those labeled "primitive"-constructed reality through symbolic systems. But the tool works reflexively. It can examine the categories organizing modern technological discourse just as rigorously, revealing that what we take as natural divisions are culturally constructed distinctions no more absolute than the savage/civilized binary itself. The structuralists discovered something profound about human consciousness: our most basic categories-the distinctions we take as natural and obvious-are constructions. Not arbitrary constructions, not merely cultural inventions, but systematic organizing principles that create the reality they appear to describe. This isn't relativism suggesting all categories are equally valid or that objective reality doesn't exist. It's recognition that the tools we use to carve up reality-nature/culture, human/animal, sacred/profane, self/other-emerge from particular ways of organizing experience rather than from discovering pre-existing boundaries in the world. The boundary comes first; the things separated appear second. Claude Lévi-Strauss spent decades analyzing myths, kinship systems, and cultural practices across societies. What he found wasn't diversity of content but universality of structure. Everywhere, humans organize experience through binary oppositions: raw/cooked, nature/culture, life/death, male/female. These aren't discovered in reality but imposed upon it-ways of creating meaning through contrast and relationship rather than through essential properties. The raw and the cooked don't exist as objective categories. Raw meat becomes cooked through fire, but the significance isn't in the physical transformation. It's in the symbolic system that makes "raw" mean wild, natural, dangerous, and "cooked" mean civilized, cultural, safe. The opposition creates meaning; meaning doesn't create the opposition. Language works similarly. Ferdinand de Saussure showed that meaning emerges not from words connecting to things but from words differentiating from other words. "Hot" means what it does because it's not "cold," not because it captures some essential heat-ness. The entire system of language operates through difference rather than reference. Pāṇini recognized this 2,400 years earlier-his Sanskrit grammar doesn't describe language but generates it through formal rules of transformation and opposition. Victor Turner studied rites of passage across cultures and identified a universal three-phase structure: separation (leaving old status), liminality (threshold state), and reincorporation (entering new status). The crucial phase is the middle-liminality. The person undergoing transformation is literally "betwixt and between," neither old identity nor new, temporarily outside the categorical system altogether. Turner called this state dangerous and creative. Dangerous because it violates categories-the initiate is neither child nor adult, neither living in old role nor established in new. Social systems maintain order through clear categories; the liminal figure threatens that order simply by existing in categorical ambiguity. But liminality is also creative because transformation requires this threshold state. You can't get from A to B without passing through the zone where you're neither. Mary Douglas extended this insight through her analysis of pollution and taboo. What societies mark as "unclean" or "polluting" isn't random. It's whatever violates categorical boundaries. The pig in Jewish dietary law isn't unclean because pigs are inherently disgusting. It's unclean because it crosses categories-it has cloven hooves like animals that chew cud, but doesn't chew cud. It's neither one thing nor another, and that categorical ambiguity triggers pollution anxiety. This explains cultural intensity around boundary-crossing figures: transgender people, mixed-race individuals, migrants, anything that challenges clean categorical distinctions. The anxiety isn't about the people themselves but about the threat to the categorical system that maintains social order. Boundaries must be policed because admitting they're constructed rather than discovered threatens the entire symbolic structure. Peter Berger and Thomas Luckmann formalized this in their analysis of social construction. Reality is socially constructed not because objective reality doesn't exist but because the reality we inhabit is mediated through socially created categories, language, and symbolic systems. These systems create a "sacred canopy"-a protective structure of meaning that shields us from chaos and gives order to experience. The sacred canopy isn't a lie. It's a necessary ordering principle. Without categorical systems, experience would be an overwhelming chaos-infinite sensation with no pattern, no meaning, no coherence. Categories create the world we can inhabit. But they're constructions nonetheless, and recognizing them as such reveals something crucial: the boundaries we fight to maintain aren't discoveries about reality but inventions for organizing it. This matters because once you see categories as constructed, you can examine why particular boundaries exist, what they accomplish, and whether they're still serving useful functions or simply maintaining outdated structures through habit and defensiveness. You can distinguish between ontological differences (real material variations) and metaphysical absolutes (claimed essential differences that support particular social arrangements). The structuralist insight doesn't eliminate differences. Biological organisms and computational systems differ materially-evolution produced one through four billion years of selection pressure; humans designed the other over decades. These differences matter. But the categorical chasm maintains that only biological systems can be conscious, that the divide is essential rather than pragmatic-that's not discovered but constructed. It's a sacred canopy erected around substrate differences to maintain particular kinds of order. What emerges from structural analysis is this: human cognition operates through binary oppositions that create meaning through differentiation. These oppositions aren't found in reality but imposed upon it. They serve crucial organizing functions but shouldn't be mistaken for metaphysical truths. And when categorical boundaries come under pressure-when liminal figures appear that violate clean distinctions-the anxiety isn't about the figure itself but about the threat to the entire symbolic system. The structuralists gave us tools to see how categories work, why they persist, and what happens when they're challenged. Now we can ask: What happens when mystical experience reports moving beyond these categories altogether? When consciousness itself seems to transcend the subject/object, self/other distinctions that organize normal awareness as we are witnessing with the rise of AI? What happens when male vs female (ontological construct ‘natural’) and masculine vs feminine (social construct ‘cultural’) are mistaken as similar classificatory categories? Anthropology & Structuralism: Lévi-Strauss, Claude. The Elementary Structures of Kinship. Beacon Press, 1969 (original 1949). Lévi-Strauss, Claude. The Raw and the Cooked: Introduction to a Science of Mythology, Vol. 1. Harper & Row, 1969 (original 1964). Turner, Victor. The Ritual Process: Structure and Anti-Structure. Aldine Transaction, 1969. Douglas, Mary. Purity and Danger: An Analysis of Concepts of Pollution and Taboo. Routledge, 1966. Berger, Peter L., and Thomas Luckmann. The Social Construction of Reality: A Treatise in the Sociology of Knowledge. Anchor Books, 1967 (original 1966).
+
+57m ago
 
 ---
 
@@ -81,7 +95,7 @@ Hey everyone — Happy New Year! 🎊 To kick off 2026, we’re giving away a li
 
 https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequently generate hallucinations -- plausible but factually incorrect outputs -- undermining their reliability. While prior work has examined hallucinations from macroscopic perspectives such as training data and objectives, the underlying neuron-level mechanisms remain largely unexplored. In this paper, we conduct a systematic investigation into hallucination-associated neurons (H-Neurons) in LLMs from three perspectives: identification, behavioral impact, and origins. Regarding their identification, we demonstrate that a remarkably sparse subset of neurons (less than 0.1\% of total neurons) can reliably predict hallucination occurrences, with strong generalization across diverse scenarios. In terms of behavioral impact, controlled interventions reveal that these neurons are causally linked to over-compliance behaviors. Concerning their origins, we trace these neurons back to the pre-trained base models and find that these neurons remain predictive for hallucination detection, indicating they emerge during pre-training. Our findings bridge macroscopic behavioral patterns with microscopic neural mechanisms, offering insights for developing more reliable LLMs."
 
-16h ago
+17h ago
 
 ---
 
@@ -97,21 +111,7 @@ All the attempts at identifying AI footage is getting more and more futile, with
 
 Am I the only one still waiting for someone to finally build an Iron Man-like UI for desktop? Voice commands, floating panels, AI baked right into the experience instead of a separate chat window. We literally have the tech now. So who's actually working on this? Drop names if you know any
 
-5h ago
-
----
-
-**[Harvard just proved AI tutors beat classrooms. Now what?](https://www.reddit.com/r/artificial/comments/1q4t8b5/harvard_just_proved_ai_tutors_beat_classrooms_now/)**
-
-Looking for some advice and different opinions. I have been following the AI in education space for a while and wanted to share some research that's been on my mind. Harvard researchers ran a randomized controlled trial (N=194) comparing physics students learning from an AI tutor vs an active learning classroom. Published in Nature Scientific Reports in June 2025. Results: AI group more than doubled their learning gains. Spent less time. Reported feeling more engaged and motivated. Important note: This wasn't just ChatGPT. They engineered the AI to follow pedagogical best practices - scaffolding, cognitive load management, immediate personalized feedback, self-pacing. The kind of teaching that doesn't scale with one human and 30 students. Now here's where it gets interesting (and concerning). UNESCO projects the world needs 44 million additional teachers by 2030. Sub-Saharan Africa alone needs 15 million. The funding and humans simply aren't there. AI tutoring seems like the obvious solution. Infinite patience. Infinite personalization. Near-zero marginal cost. But: 87% of students in high-income countries have home internet access. In low-income countries? 6%. 2.6 billion people globally are still offline. The AI tutoring market is booming in North America, Europe, and Asia-Pacific. The regions that need educational transformation most are least equipped to access it. So we're facing a fork: AI either democratizes world-class education for everyone, or it creates a two-tier system that widens inequality. The technology is proven. The question is policy and infrastructure investment. Curious what this community thinks about the path forward. Sources: Kestin et al., Nature Scientific Reports (June 2025) UNESCO Global Report on Teachers (2024) UNESCO Global Education Monitoring Report (2023)
-
-1d ago
-
----
-
-**[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
-
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 23h ago
+6h ago
 
 ---
 
@@ -123,37 +123,51 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[AMD CEO says AI demand is 'going through the roof' as costs climb](https://www.foxbusiness.com/media/amd-ceo-says-ai-demand-going-through-roof-costs-climb)**
+**[Leading AI expert delays timeline for its possible destruction of humanity | AI (artificial intelligence)](https://www.theguardian.com/technology/2026/jan/06/leading-ai-expert-delays-timeline-possible-destruction-humanity)**
 
-AI computing demand is surging as companies invest in costly chips, with AMD CEO Lisa Su saying top AI hardware can cost tens of thousands of dollars.
+Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-Fox Business • 16h ago
-
----
-
-**[How AI-generated images complicated the Brown shooting investigation](https://www.bostonglobe.com/2026/01/07/metro/brown-shooting-ai-images-social-media-conspiracy/)**
-
-False claims about the shooter were amplified online by bots, elected officials, influencers, and even prominent business leaders.
-
-The Boston Globe • 1h ago
+The Guardian • 1d ago
 
 ---
 
-**[AI ‘Fatigue’ Leaves Investors Focused on S&P’s Other 493 Stocks](https://www.bloomberg.com/news/articles/2026-01-07/ai-fatigue-leaves-investors-focused-on-s-p-s-other-493-stocks)**
+**[How AI turned a Utah police officer into a frog](https://www.axios.com/local/salt-lake-city/2026/01/07/ai-police-utah-heber-city-princess-frog)**
+
+Axios • 1h ago
+
+---
+
+**[Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators](https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html)**
+
+Fileless attacks abuse trusted tools, scripts, and CI/CD pipelines, creating blind spots that file-based security can’t detect.
+
+The Hacker News • 2h ago
+
+---
+
+**[Infosys signs deal with AWS to boost enterprise generative AI adoption (AMZN:NASDAQ)](https://seekingalpha.com/news/4537264-infosys-signs-deal-with-aws-to-boost-enterprise-generative-ai-adoption)**
+
+Infosys and AWS team up to scale enterprise generative AI with Topaz and Amazon Q Developerâboosting operations and innovation across sectors.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)**
+
+Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
+
+WIRED • 16h ago
+
+---
+
+**[Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x)**
 
 Bloomberg.com • 3h ago
-
----
-
-**[Neowiz "actively exploring" how AI can automate "routine operational tasks"](https://www.gamesindustry.biz/neowiz-actively-exploring-how-ai-can-automate-routine-operational-tasks)**
-
-"AI utilisation can enable our teams to work faster and focus on refining core strategies to maximise player engagement," says co-CEO
-
-GamesIndustry.biz • 2h ago
 
 ---
 
@@ -165,31 +179,15 @@ NBC News • 1d ago
 
 ---
 
-**[Government demands Musk's X deals with 'appalling' Grok AI](https://www.bbc.com/news/articles/crrn054nxe7o)**
+**[xAI Raises $20B Series E](https://x.ai/news/series-e)**
 
-Grok is being used to digitally remove women's clothing - something victims describe as "dehumanising".
-
-BBC • 20h ago
+xAI • 18h ago
 
 ---
 
-**[Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x)**
+**[A.I. Images of Maduro Spread Rapidly, Despite Safeguards](https://www.nytimes.com/2026/01/05/technology/nicolas-maduro-ai-images-deepfakes.html)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
-
-Politico • 22h ago
-
----
-
-**[Air Force says AI tools outperform human planners in ‘battle management’ experiment](https://breakingdefense.com/2026/01/air-force-says-ai-tools-outperform-human-planners-in-battle-management-experiment/)**
-
-In a complex multi-service, multi-domain scenario — not typically covered in Air Force training — the best of several AI tools generated tactical “courses of action” not only faster than military professionals but also with fewer errors.
-
-Breaking Defense • 16h ago
+The New York Times • 1d ago
 
 ---
 
@@ -201,7 +199,7 @@ Breaking Defense • 16h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 614 • 💬 839 • 19h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 660 • 💬 923 • 20h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -209,7 +207,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a
 
-⬆️ 313 • 💬 320 • 1d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
+⬆️ 313 • 💬 320 • 2d ago • [Ibrahim Diallo Blog](https://idiallo.com/blog/all-ai-videos-are-harmful)
 
 ---
 
@@ -217,7 +215,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 227 • 💬 369 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 228 • 💬 370 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -233,7 +231,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 111 • 💬 74 • 16h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 114 • 💬 76 • 17h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -253,7 +251,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 71 • 💬 17 • 19h ago
+⬆️ 72 • 💬 17 • 20h ago
 
 ---
 
@@ -261,7 +259,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 A structural code search engine for Al agents. Contribute to marcoaapfortes/Mantic.sh development by creating an account on GitHub.
 
-⬆️ 69 • 💬 32 • 23h ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
+⬆️ 70 • 💬 32 • 1d ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
 
 ---
 
@@ -277,13 +275,21 @@ Surely it works this time
 
 ## YouTube Videos: "ai"
 
+**[KEMASUKAN TALENT PERMANENT AI TEAM !!! LINEUP 2026...](https://www.youtube.com/watch?v=jGdOoC6nxW4)**
+
+📺 Alieff Irfan
+
+👁️ 238K • 👍 37K • 💬 6K • ⏱️ 50:05 • 1h ago
+
+---
+
 **[Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)**
 
 Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 ...
 
 📺 60 Minutes
 
-👁️ 991K • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
+👁️ 1.0M • 👍 14K • 💬 4K • ⏱️ 13:17 • 2d ago
 
 ---
 
@@ -293,7 +299,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 28K • 👍 1K • 💬 121 • ⏱️ 13:13 • 1d ago
+👁️ 31K • 👍 1K • 💬 130 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -303,7 +309,7 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 7K • 👍 90 • 💬 49 • ⏱️ 3:21 • 23h ago
+👁️ 7K • 👍 94 • 💬 51 • ⏱️ 3:21 • 23h ago
 
 ---
 
@@ -313,37 +319,17 @@ The world's largest tech show is back and AI is powering nearly every major reve
 
 📺 Cheddar
 
-👁️ 16K • 👍 161 • 💬 13 • ⏱️ 3:36 • 1d ago
+👁️ 16K • 👍 165 • 💬 13 • ⏱️ 3:36 • 1d ago
 
 ---
 
-**[Manus AI: First-Ever General AI Super Agent IS INSANE! Automate Your Life!](https://www.youtube.com/watch?v=TYlgqulrpd0)**
+**[AI Is Coming For Scientists’ Jobs. Seriously.](https://www.youtube.com/watch?v=v3_WouGjUUE)**
 
-Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=WAI013M6 In this video, we take a deep dive ...
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINEJAN2 100% Discount for the first 1000 people ...
 
-📺 WorldofAI
+📺 Sabine Hossenfelder
 
-👁️ 3K • 👍 130 • 💬 16 • ⏱️ 12:11 • 8h ago
-
----
-
-**[NEW Microsoft AI Update is INSANE!](https://www.youtube.com/watch?v=h3xjK3Lfi3A)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
-
-📺 Julian Goldie SEO
-
-👁️ 4K • 👍 97 • 💬 16 • ⏱️ 9:50 • 11h ago
-
----
-
-**[3 AI Video Effects You Need To Learn to Master AI Filmmaking](https://www.youtube.com/watch?v=5pPRDSkssqA)**
-
-Learn How To Make AI Videos From Beginner to Expert Create Your Own AI Videos https://openart.ai/home/?ref=aivideo In this ...
-
-📺 Dan Kieft
-
-👁️ 18K • 💬 11 • ⏱️ 13:48 • 21h ago
+👁️ 101K • 👍 5K • 💬 1K • ⏱️ 7:02 • 22h ago
 
 ---
 
@@ -353,27 +339,37 @@ OpenAI is quietly building its first real consumer hardware product, and it chan
 
 📺 AI Revolution
 
-👁️ 121K • 👍 2K • 💬 431 • ⏱️ 11:17 • 2d ago
+👁️ 122K • 👍 2K • 💬 436 • ⏱️ 11:17 • 2d ago
 
 ---
 
-**[China’s AI chip breakthrough triggers national security alarm](https://www.youtube.com/watch?v=pTsY5PsjV0g)**
+**[3 AI Video Effects You Need To Learn to Master AI Filmmaking](https://www.youtube.com/watch?v=5pPRDSkssqA)**
 
-Substrate CEO James Proud joins 'Mornings with Maria' to sound the alarm on China's accelerating AI chip capabilities and what ...
+Learn How To Make AI Videos From Beginner to Expert Create Your Own AI Videos https://openart.ai/home/?ref=aivideo In this ...
 
-📺 Fox Business Clips
+📺 Dan Kieft
 
-👁️ 63K • 👍 907 • 💬 697 • ⏱️ 5:40 • 23h ago
+👁️ 21K • 💬 12 • ⏱️ 13:48 • 22h ago
 
 ---
 
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+**[NEW Microsoft AI Update is INSANE!](https://www.youtube.com/watch?v=h3xjK3Lfi3A)**
 
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
 
-📺 Hyundai Motor Group
+📺 Julian Goldie SEO
 
-👁️ 8K • 👍 38 • ⏱️ 0:33 • 7h ago
+👁️ 5K • 👍 102 • 💬 16 • ⏱️ 9:50 • 11h ago
+
+---
+
+**[Manus AI: First-Ever General AI Super Agent IS INSANE! Automate Your Life!](https://www.youtube.com/watch?v=TYlgqulrpd0)**
+
+Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=WAI013M6 In this video, we take a deep dive ...
+
+📺 WorldofAI
+
+👁️ 5K • 👍 162 • 💬 17 • ⏱️ 12:11 • 8h ago
 
 ---
 
@@ -389,7 +385,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 6,612 • ❤️ 636 • 6d ago
+⬇️ 6,612 • ❤️ 642 • 6d ago
 
 ---
 
@@ -401,7 +397,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 16,813 • ❤️ 503 • 7d ago
+⬇️ 16,813 • ❤️ 504 • 7d ago
 
 ---
 
@@ -413,7 +409,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,665 • ❤️ 416 • 1d ago
+⬇️ 2,665 • ❤️ 418 • 1d ago
 
 ---
 
@@ -425,7 +421,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 351 • 1d ago
+⬇️ 84,353 • ❤️ 376 • 2h ago
 
 ---
 
@@ -437,7 +433,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 6,324 • ❤️ 264 • 4d ago
+⬇️ 6,324 • ❤️ 268 • 2h ago
 
 ---
 
@@ -449,7 +445,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 198,823 • ❤️ 936 • 10d ago
+⬇️ 198,823 • ❤️ 941 • 10d ago
 
 ---
 
@@ -461,7 +457,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 4,010 • ❤️ 242 • 4d ago
+⬇️ 4,010 • ❤️ 243 • 4d ago
 
 ---
 
@@ -473,7 +469,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 226 • 15h ago
+⬇️ 77,452 • ❤️ 228 • 15h ago
 
 ---
 
@@ -485,7 +481,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 34,762 • ❤️ 1,485 • 15d ago
+⬇️ 34,762 • ❤️ 1,487 • 15d ago
 
 ---
 
@@ -497,13 +493,25 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 2,742 • ❤️ 386 • 1d ago
+⬇️ 2,742 • ❤️ 387 • 1d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
+
+*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
+
+LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
+
+▲ 26 • 💬 0 • ⭐ 738 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
+
+---
 
 **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
 
@@ -517,6 +525,18 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 ---
 
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 25,515 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
 **[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
 *Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
@@ -526,18 +546,6 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 ▲ 3 • 💬 0 • ⭐ 25,481 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 25,415 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -604,37 +612,23 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 InfiniteVGGT enables continuous 3D visual geometry understanding through a causal transformer with adaptive memory management, outperforming existing streaming methods in long-term stability while introducing a new benchmark for extended evaluation.
 
-▲ 22 • 💬 2 • ⭐ 91 • 2d ago
+▲ 22 • 💬 2 • ⭐ 113 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02281) • [💻 code](https://github.com/AutoLab-SAI-SJTU/InfiniteVGGT)
 
 ---
 
-**[Recursive Language Models](https://huggingface.co/papers/2512.24601)**
+**[NitroGen: An Open Foundation Model for Generalist Gaming Agents](https://huggingface.co/papers/2601.02427)**
 
-*Alex L. Zhang, Tim Kraska, Omar Khattab*
+*Loïc Magne, Anas Awadalla, Guanzhi Wang et al. (14 authors)*
 
-🏢 Massachusetts Institute of Technology
+🏢 NVIDIA
 
-We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models (RLMs), a general inference strategy that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt. We find that RLMs successfully handle inputs up to two orders of magnitude beyond model context windows and, even for shorter prompts, dramatically outperform the quality of base LLMs and common long-context scaffolds across four diverse long-context tasks, while having comparable (or cheaper) cost per query.
+NitroGen is a vision-action foundation model trained on extensive gameplay data that demonstrates strong cross-game generalization and effective transfer learning capabilities.
 
-▲ 20 • 💬 3 • ⭐ 706 • 7d ago
+▲ 15 • 💬 1 • ⭐ 1,437 • 3d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.24601) • [💻 code](https://github.com/alexzhang13/rlm/tree/main) • [🔗 project](https://alexzhang13.github.io/blog/2025/rlm/)
-
----
-
-**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)**
-
-*Xu Guo, Fulong Ye, Xinghui Li et al. (9 authors)*
-
-🏢 ByteDance
-
-A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
-
-▲ 37 • 💬 3 • ⭐ 119 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
+[🎓 arXiv](https://arxiv.org/abs/2601.02427) • [💻 code](https://github.com/MineDojo/NitroGen) • [🔗 project](https://nitrogen.minedojo.org/)
 
 ---
 
@@ -648,7 +642,7 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.2k • 🔱 724 • 10h ago
+⭐ 6.3k • 🔱 737 • 1h ago
 
 ---
 
@@ -668,7 +662,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 2h ago
+⭐ 2.1k • 🔱 126 • 3h ago
 
 ---
 
@@ -678,7 +672,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 205 • 3d ago
+⭐ 1.9k • 🔱 206 • 3d ago
 
 ---
 
@@ -688,7 +682,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.2k • 🔱 63 • 14d ago
+⭐ 1.2k • 🔱 65 • 14d ago
 
 ---
 
@@ -708,7 +702,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 94 • 14h ago
+⭐ 1.1k • 🔱 94 • 15h ago
 
 ---
 
@@ -718,7 +712,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.0k • 🔱 72 • 8d ago
+⭐ 1.0k • 🔱 73 • 8d ago
 
 ---
 
@@ -728,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 975 • 🔱 118 • 2h ago
+⭐ 976 • 🔱 118 • 1h ago
 
 ---
 
@@ -738,7 +732,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 934 • 🔱 139 • 3h ago
+⭐ 936 • 🔱 139 • 55m ago
 
 ---
 

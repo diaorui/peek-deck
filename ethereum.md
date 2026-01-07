@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T13:40:24.913183+00:00'
+updated: '2026-01-07T14:25:53.322978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 13:40 UTC  
+**Last Updated:** January 07, 2026 at 14:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +7.3%  
-**30d:** -2.9%  
-**90d:** -16.4%  
-**1y:** -3.1%  
+**24h:** -2.3%  
+**7d:** +6.5%  
+**30d:** -3.6%  
+**90d:** -17.0%  
+**1y:** -3.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $388.97B
+**Market Cap:** $385.29B
 Rank #2
 
 **Circulating Supply:** 120,694,786 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--34.8%
+-35.5%
 
 **All-Time Low:** $0.43
-+744319.5%
++736677.1%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
+
+---
+
+**[Chainlink secures 80% of Ethereum's DeFi. Its Chief Scientist co-formalized Proof of Work in 1999.](https://www.reddit.com/r/ethereum/comments/1q6gej8/chainlink_secures_80_of_ethereums_defi_its_chief/)**
+
+Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
+
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 12m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-13h ago
+14h ago
 
 ---
 
@@ -136,14 +144,6 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 ---
 
-**[Daily General Discussion January 04, 2026](https://www.reddit.com/r/ethereum/comments/1q3i656/daily_general_discussion_january_04_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,27 +152,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 22h ago
+CoinDesk • 21h ago
 
 ---
 
 **['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
-**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://finance.yahoo.com/news/tom-lee-predicts-250k-ethereum-155617532.html)**
+**[Morgan Stanley Adds Ethereum Trust To Planned Crypto ETF Lineup](https://finance.yahoo.com/news/morgan-stanley-adds-ethereum-trust-130318959.html)**
 
-BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
+The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+**[Ethereum Staking Queue Jumps to 1.4M ETH, ETH USDT To $4,000?](https://finance.yahoo.com/news/ethereum-staking-queue-jumps-1-102735630.html)**
 
-The Block • 1d ago
+As we see in the news, the crypto market is showing subtle shifts today. Bitcoin price is holding $92,500 level after running from low $87,000 to $94,000 earlier in the week. This is happening as Bitcoin dominance is slowly dropping, and the new season of altcoin run is becoming a ...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -184,6 +186,12 @@ CNBC • 1d ago
 
 ---
 
+**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+
+The Block • 1d ago
+
+---
+
 **[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
 
 Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
@@ -192,9 +200,9 @@ GlobeNewswire • 2d ago
 
 ---
 
-**[Can Ethereum Hit $5,000 In 2026? Prediction Markets Surge With Bullish Bets](https://www.ccn.com/news/crypto/can-ethereum-hit-5000-in-2026-prediction-markets-surge-with-bullish-bets/)**
+**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 1h ago
+CCN.com • 1d ago
 
 ---
 
@@ -214,12 +222,6 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqdfgs1HaWpeAlk4j_eQf9KQWbk-B_fN6c5SQjIQ1lU0lq_rmiWH0aeY&gaa_ts=695e59bb&gaa_sig=xZvffLJ23lgm3KxAvccFruV-IsT2Ko8yjhkmXj936uoF0eacWAAGp8cnl4m9YjWMvDr1tSVrKYctpQEVeidqNQ%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -230,7 +232,17 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 11K • 👍 532 • 💬 60 • ⏱️ 12:17 • 14h ago
+👁️ 12K • 👍 558 • 💬 60 • ⏱️ 12:17 • 15h ago
+
+---
+
+**[ETH Is ABOUT TO EXPLODE And ALTCOINS ARE NEXT!!](https://www.youtube.com/watch?v=R9fwVe0163s)**
+
+The crypto market has been rallying over the last few days, and this has everyone wondering which cryptos have the most ...
+
+📺 Coin Bureau Trading
+
+👁️ 1K • 👍 182 • 💬 13 • ⏱️ 10:20 • 54m ago
 
 ---
 
@@ -240,7 +252,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 148 • ⏱️ 8:07 • 21h ago
+👁️ 21K • 👍 3K • 💬 47 • ⏱️ 8:07 • 22h ago
 
 ---
 
@@ -250,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 105 • 💬 3 • ⏱️ 4:14 • 10h ago
+👁️ 2K • 👍 127 • 💬 3 • ⏱️ 4:14 • 11h ago
 
 ---
 
@@ -260,17 +272,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 50K • 👍 3K • 💬 130 • ⏱️ 9:50 • 23h ago
-
----
-
-**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 18K • 👍 673 • 💬 470 • ⏱️ 13:40 • 1d ago
+👁️ 52K • 👍 3K • 💬 136 • ⏱️ 9:50 • 1d ago
 
 ---
 
@@ -280,17 +282,17 @@ Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It 
 
 📺 NextMove Stocks
 
-👁️ 324 • 👍 11 • ⏱️ 6:53 • 19h ago
+👁️ 386 • 👍 14 • 💬 1 • ⏱️ 6:53 • 19h ago
 
 ---
 
-**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.youtube.com/watch?v=S1zL54voIBI)**
+**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
 
-On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus ...
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 CNBC Television
+📺 Library Of Wealth
 
-👁️ 16K • 👍 256 • 💬 92 • ⏱️ 12:31 • 1d ago
+👁️ 18K • 👍 682 • 💬 458 • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -300,27 +302,27 @@ BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 377 • 💬 108 • ⏱️ 18:45 • 16h ago
+👁️ 10K • 👍 391 • 💬 111 • ⏱️ 18:45 • 16h ago
 
 ---
 
-**[Why Ethereum’s Price Looks Broken, But the Bull Case Has Never Been Stronger](https://www.youtube.com/watch?v=jiBKJcEOFi8)**
+**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.youtube.com/watch?v=S1zL54voIBI)**
 
-In this episode, we break down why today's weak price action may be hiding one of the most powerful long-term setups in all of ...
+On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus ...
 
-📺 Milk Road
+📺 CNBC Television
 
-👁️ 5K • 👍 153 • 💬 11 • ⏱️ 8:15 • 2d ago
+👁️ 16K • 👍 257 • 💬 92 • ⏱️ 12:31 • 1d ago
 
 ---
 
-**[🚨 **BULLISH REVERSAL** 🚨 2026 🗓️ #BITCOIN #ETH $ALTS](https://www.youtube.com/watch?v=SuGS9-Le_QY)**
+**[Why BitMine Is Staking $2.1 Billion of Ethereum.](https://www.youtube.com/watch?v=2l_7mwpiBOI)**
 
-BITCOIN, ETH & THE NEXT MAJOR CRYPTO MOVE In this video, we break down the New Year Effect, a weekly RSI breakout, ...
+Is BitMine Immersion (BMNR) strictly a holding company, or did it just become a cash-flow giant? It's not just about hoarding ...
 
-📺 Kevin Svenson Crypto
+📺 Wall Street Stockcast
 
-👁️ 6K • 👍 727 • 💬 160 • ⏱️ 13:24 • 13h ago
+👁️ 616 • 👍 17 • 💬 31 • ⏱️ 6:28 • 23h ago
 
 ---
 
