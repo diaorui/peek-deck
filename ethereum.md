@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T18:35:38.280429+00:00'
+updated: '2026-01-07T19:21:12.587402+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 18:35 UTC  
+**Last Updated:** January 07, 2026 at 19:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,166.73
+### $3,152.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** +5.0%  
-**30d:** -5.0%  
-**90d:** -18.2%  
-**1y:** -5.2%  
+**24h:** -3.6%  
+**7d:** +4.2%  
+**30d:** -5.7%  
+**90d:** -18.9%  
+**1y:** -5.9%  
 
 ---
 
@@ -72,7 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
+
+---
+
+**[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
+
+3h ago
+
+---
+
+**[Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems](https://www.reddit.com/r/ethereum/comments/1q6kmx8/timebucketed_balance_records_boundedstorage/)**
+
+🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 2h ago
 
 ---
 
@@ -80,19 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 4h ago
-
----
-
-**[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
-
-2h ago
-
----
-
-**[Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems](https://www.reddit.com/r/ethereum/comments/1q6kmx8/timebucketed_balance_records_boundedstorage/)**
-
-🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 1h ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 5h ago
 
 ---
 
@@ -108,13 +108,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-18h ago
+19h ago
 
 ---
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -150,13 +150,19 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
 
-The Block • 6h ago
+The Block • 7h ago
+
+---
+
+**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+
+The Block • 2d ago
 
 ---
 
@@ -168,47 +174,39 @@ CNBC • 1d ago
 
 ---
 
-**[Morgan Stanley Adds Ethereum Trust To Planned Crypto ETF Lineup](https://decrypt.co/353829/morgan-stanley-adds-ethereum-trust-to-planned-crypto-etf-lineup)**
+**[Ethereum’s staking exit queue has no wait time, while the entrance line is over 25 days](https://sherwood.news/crypto/ethereums-staking-exit-queue-has-no-wait-time-while-the-entrance-line-is/)**
 
-The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
+The imbalance is one sign of confidence among ethereum holders as ETFs and treasury firms incorporate staking....
 
-Decrypt • 5h ago
+Sherwood News • 1h ago
 
 ---
 
-**[Ethereum news: Staking queues drop to nearly zero, setting up bearish outlook for ETH](https://www.coindesk.com/markets/2026/01/06/ethereum-s-staking-queues-have-cleared-and-that-changes-the-eth-trade)**
+**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
 
-With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
+PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
+
+---
+
+**[Ethereum Network Usage Hits Record High—But Traders More Bullish on Gold](https://decrypt.co/353688/ethereum-network-usage-hits-record-high-but-traders-more-bullish-on-gold)**
+
+Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
+
+Decrypt • 1d ago
+
+---
+
+**[Ethereum leads way as most big cryptocurrencies post declines](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-declines-70d11bcd-3880afa3796e?gaa_at=eafs&gaa_n=AWEtsqdHvwiN2Ids6lg9-cbB7hE4uICAzmV3jMfPEOGuYz6ZfNtOqLZg00Z_&gaa_ts=695eb590&gaa_sig=VH3wA3Nqd-LtKYtkk66LKjfb3-tj8eMlSLsdd8gtSL1V647SVSRkDgnzDW3v8TJcXLSNivbl5EQa4ru_US33Lw%3D%3D)**
+
+MarketWatch • 4h ago
 
 ---
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
 CCN.com • 1d ago
-
----
-
-**[Ethereum leads way as most big cryptocurrencies post declines](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-declines-70d11bcd-3880afa3796e?gaa_at=eafs&gaa_n=AWEtsqfpv-oXP76riw-YIHDsGD6ojzTwBliPaE0kT6G_Rx3BjC93aGGwovnT&gaa_ts=695ea09f&gaa_sig=eaxTQKUPJI5UqcFWtj8m0Xbr_6HJX-YJ62oUxaj0GAEfNqwCnxr2FBJeZSiN9_jd6lXKua_To0x8i0uXmjDObw%3D%3D)**
-
-MarketWatch • 3h ago
-
----
-
-**[Ethereum's Blockchain Trilemma 'Solved': Vitalik Buterin](https://decrypt.co/353587/ethereums-blockchain-trilemma-solved-vitalik-buterin)**
-
-The Ethereum co-founder said upgrades allow the network to achieve decentralization, security and scalability at once.
-
-Decrypt • 2d ago
-
----
-
-**[XRP and Solana dethrone Bitcoin and Ethereum as institutional favorites in 2025](https://cryptoslate.com/xrp-and-solana-dethrone-bitcoin-and-ethereum-as-institutional-favorites-in-2025/)**
-
-XRP investment products skyrocket as the era of Bitcoin-only dominance fades into a diversified market landscape.
-
-CryptoSlate • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 13K • 👍 584 • 💬 63 • ⏱️ 12:17 • 19h ago
+👁️ 13K • 👍 584 • 💬 63 • ⏱️ 12:17 • 20h ago
 
 ---
 
@@ -260,7 +258,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 337 • 💬 16 • ⏱️ 1:08:45 • 1h ago
+👁️ 3K • 👍 337 • 💬 16 • ⏱️ 1:08:45 • 2h ago
 
 ---
 
@@ -270,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 137 • 💬 3 • ⏱️ 4:14 • 15h ago
+👁️ 2K • 👍 137 • 💬 3 • ⏱️ 4:14 • 16h ago
 
 ---
 

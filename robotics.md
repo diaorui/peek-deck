@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T18:35:38.283715+00:00'
+updated: '2026-01-07T19:21:12.590668+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 18:35 UTC  
+**Last Updated:** January 07, 2026 at 19:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,25 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-8h ago
+9h ago
+
+---
+
+**[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
+
+2h ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-7h ago
+8h ago
 
 ---
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -56,7 +62,15 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-7h ago
+8h ago
+
+---
+
+**[Simulate the robot straight from Arduino code - Furuta Pendulum](https://www.reddit.com/r/robotics/comments/1q6iusj/simulate_the_robot_straight_from_arduino_code/)**
+
+I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
+
+3h ago
 
 ---
 
@@ -68,25 +82,11 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 ---
 
-**[Simulate the robot straight from Arduino code - Furuta Pendulum](https://www.reddit.com/r/robotics/comments/1q6iusj/simulate_the_robot_straight_from_arduino_code/)**
-
-I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
-
-2h ago
-
----
-
 **[The Construction Robotics Boom: From $1.3B to $11.1B by 2040](https://www.reddit.com/r/robotics/comments/1q6c3ev/the_construction_robotics_boom_from_13b_to_111b/)**
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-7h ago
-
----
-
-**[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
-
-1h ago
+8h ago
 
 ---
 
@@ -94,15 +94,15 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 At my last startup, I led a team to develop indoor localisation using SLAM. Every other solution claimed precision, but when we spoke to customers we discovered that realistically everything they'd tried was at around 6 or 7m accuracy, and suffered from false estimates, scale issues, and drift. We achieved reliable 1m-accuracy on any phone, and eventually sold it to IKEA. In developing that technology, there was a lot of crossover with robotics -- another area which had a lot of promise but a clear bottleneck preventing growth. It got me curious about why robots weren't able to do more. The hardware is capable of far more than what the intelligence software is enabling. I believe it's a problem with the intelligence architecture. i10e is my new robot intelligence research lab. The name is a numeronym for intelligence. Our mission is to discover a new architecture for robot intelligence, more inspired by the brain. Something that will be able to understand the world, and learn from experience. This is a wide search space and almost everyone is narrowly focussed on one area. I'd like to see more competition and exploration in the industry. This is my contribution to that.
 
-🔗 [Andrew Hart](https://andrewhart.me/i10e/) • 2h ago
+🔗 [Andrew Hart](https://andrewhart.me/i10e/) • 3h ago
 
 ---
 
-**[It can be put in a backpack and used for DIY robot projects.](https://www.reddit.com/r/robotics/comments/1q6fwt7/it_can_be_put_in_a_backpack_and_used_for_diy/)**
+**[Excited to Learn Robotics ,Seeking Guidance for Beginners](https://www.reddit.com/r/robotics/comments/1q6nk0d/excited_to_learn_robotics_seeking_guidance_for/)**
 
-This robot has open interfaces, allowing for DIY modifications and customizable skins.
+Hello everyone! I’m a 12th class ICS student, and I’m very excited to begin my journey into robotics. I’ve been inspired by innovations from NVIDIA and Tesla 🤖 and I’m eager to understand both the fundamentals and practical applications of robotics. As a complete beginner, I’m looking for guidance on how to start. Any recommendations for beginner-friendly resources, books, online courses, or small projects would be greatly appreciated.I’m keen to learn and would value any advice or direction you can provide.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 4h ago
+45m ago
 
 ---
 
@@ -110,25 +110,9 @@ This robot has open interfaces, allowing for DIY modifications and customizable 
 
 ## Google News: "robotics"
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqeairanQm47rsxXeemgkKP5GgNuWxdhrqwNNoOCxI7n3guVBHd-2v6t&gaa_ts=695ea0a1&gaa_sig=Dv79MBp4qAra0Brqlto_k1AP19gRzurdQN4yhqGhdgVZtWuycX4AKTTahVKojMS4E82pT7KaeTuRB5fCyzmSjA%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqdp7PvqbUTZsRo6ppQY2DluoNE6KKC4DEdm8B85UjeXV3QkQNeA_OuA&gaa_ts=695eb591&gaa_sig=8CNxW7HF-AfUaw_mrD35_fO4jUYQSqCKJWtPcvfYptfDganVu_7crCwj3yVb9w1KtSzW4vMT3Ji1gQCwkV1rPg%3D%3D)**
 
-The Wall Street Journal • 20h ago
-
----
-
-**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://finance.yahoo.com/news/mobileye-acquire-humanoid-robotics-startup-211433670.html)**
-
-LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
-
-Yahoo Finance • 4h ago
-
----
-
-**[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
-
-Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
-
-The Times of Israel • 4h ago
+The Wall Street Journal • 21h ago
 
 ---
 
@@ -140,6 +124,14 @@ NVIDIA Newsroom • 1d ago
 
 ---
 
+**[Nvidia’s Jensen Huang says the “ChatGPT moment” for robotics is nearly here — but is it?](https://fortune.com/2026/01/06/nvidia-jensen-huang-chatgpt-moment-for-robotics/)**
+
+Huang says advances in models, simulation, and compute have pushed robotics to a long-awaited inflection point — but turning platforms into real-world machines remains the hard part.
+
+Fortune • 1d ago
+
+---
+
 **[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
 
 Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
@@ -148,27 +140,25 @@ TechCrunch • 1d ago
 
 ---
 
-**[Watch the NVIDIA CES 2026 keynote with CEO Jensen Huang live here: AI, robotics updates and more](https://www.engadget.com/computing/watch-the-nvidia-ces-2026-keynote-with-ceo-jensen-huang-live-here-ai-robotics-updates-and-more-130028170.html)**
-
-NVIDIA is showcasing robotics, simulation, gaming and more at CES 2026.
-
-Engadget • 1d ago
-
----
-
 **[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
 
 New technique varies colour and texture to open up potential applications in display technologies
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
-**[Innovative Edge: New tech-focused military jobs level up the fight](https://www.usatoday.com/story/studiog/news/military/2026/01/07/new-tech-focused-military-jobs-level-up-the-fight/86834343007/)**
+**[These robotic sneakers gave me a surprising boost at CES](https://www.engadget.com/wearables/these-robotic-sneakers-gave-me-a-surprising-boost-at-ces-174500005.html)**
 
-More than a year after the Navy established its robotics warfare (RW) specialist rating, or job specialty, to manage its growing menagerie of small aerial drones and ground robots, the job field is thriving and growing — and other services are taking notice.
+I took Dephy's robotic sneakers, called Sidekick, for a pin at CES 2026 and was surprised by the boost.
 
-USA Today • 1h ago
+Engadget • 1h ago
+
+---
+
+**[Tesla’s Manufacturing Hangover Is Steering Musk Into Robotics](https://www.forbes.com/sites/alanohnsman/2026/01/07/teslas-manufacturing-hangover-is-steering-musk-into-robotics/)**
+
+Forbes • 2h ago
 
 ---
 
@@ -183,7 +173,15 @@ hyundai.com • 1d ago
 
 **[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
+
+---
+
+**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
+
+Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
+
+90.5 WESA • 8h ago
 
 ---
 
@@ -227,7 +225,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 183 • ⏱️ 9:33 • 19h ago
+👁️ 43K • 👍 1K • 💬 183 • ⏱️ 9:33 • 20h ago
 
 ---
 
@@ -247,7 +245,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 5K • 👍 61 • 💬 16 • ⏱️ 2:58 • 22h ago
+👁️ 5K • 👍 61 • 💬 16 • ⏱️ 2:58 • 23h ago
 
 ---
 
@@ -257,7 +255,7 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 20K • 👍 72 • 💬 3 • ⏱️ 1:06 • 15h ago
+👁️ 20K • 👍 72 • 💬 3 • ⏱️ 1:06 • 16h ago
 
 ---
 
@@ -267,7 +265,7 @@ Israel's most advanced humanoid robot learned to change other robots' batteries 
 
 📺 Kalil 4.0
 
-👁️ 334 • 👍 10 • ⏱️ 0:59 • 29m ago
+👁️ 334 • 👍 10 • ⏱️ 0:59 • 1h ago
 
 ---
 
@@ -277,7 +275,7 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 10K • 👍 240 • 💬 17 • ⏱️ 2:12 • 18h ago
+👁️ 10K • 👍 240 • 💬 17 • ⏱️ 2:12 • 19h ago
 
 ---
 
@@ -287,7 +285,7 @@ Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robo
 
 📺 Hyundai Motor Group
 
-👁️ 36K • 👍 21 • 💬 3 • ⏱️ 2:16 • 15h ago
+👁️ 36K • 👍 21 • 💬 3 • ⏱️ 2:16 • 16h ago
 
 ---
 
