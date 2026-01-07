@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T14:25:53.326183+00:00'
+updated: '2026-01-07T14:50:54.318941+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 14:25 UTC  
+**Last Updated:** January 07, 2026 at 14:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ Environment Description The Franka lift cube task environment is built based on 
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-3h ago
+4h ago
 
 ---
 
@@ -74,13 +74,13 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 Here are the modifications made to the controller, where it will now be possible to control 4 possible directions. Now I will finish the wiring to the motors and rebuild the car because it broke.
 
-1m ago
+26m ago
 
 ---
 
 **[UR10e vision-guided sorting (eye-in-hand) — only used teach pendant so far, confused about URScript & PC control](https://www.reddit.com/r/robotics/comments/1q6ggi6/ur10e_visionguided_sorting_eyeinhand_only_used/)**
 
-10m ago
+35m ago
 
 ---
 
@@ -88,7 +88,7 @@ Here are the modifications made to the controller, where it will now be possible
 
 This robot has open interfaces, allowing for DIY modifications and customizable skins.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 33m ago
+🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 58m ago
 
 ---
 
@@ -102,7 +102,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 **[LG Electronics just unveiled CLOiD at CES 2026, a humanoid robot](https://www.reddit.com/r/robotics/comments/1q639y2/lg_electronics_just_unveiled_cloid_at_ces_2026_a/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ The Unitree GO1 Complex Terrain Walking Environment is a quadruped robot reinfor
 
 **[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcVH-IM0x3TK3P_aLvIx5T52JMTaal-JFiYE_3EDgl42GIZJnqy_91t&gaa_ts=695e7060&gaa_sig=YKy5Ci8PwyL9HLwwd7LE6PU5HR97RKeoWQ78yso3WWD3i1-8duUdt46ifdLIHeM8ArFhjv65Vrl0wIA4YI0DqQ%3D%3D)**
 
-The Wall Street Journal • 16h ago
+The Wall Street Journal • 17h ago
 
 ---
 
@@ -254,7 +254,7 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 8K • 👍 213 • 💬 16 • ⏱️ 2:12 • 14h ago
+👁️ 8K • 👍 213 • 💬 16 • ⏱️ 2:12 • 15h ago
 
 ---
 
@@ -284,7 +284,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 5K • 👍 54 • 💬 9 • ⏱️ 2:58 • 18h ago
+👁️ 5K • 👍 54 • 💬 9 • ⏱️ 2:58 • 19h ago
 
 ---
 

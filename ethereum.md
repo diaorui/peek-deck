@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T14:25:53.322978+00:00'
+updated: '2026-01-07T14:50:54.315641+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 14:25 UTC  
+**Last Updated:** January 07, 2026 at 14:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 12m ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 37m ago
 
 ---
 
@@ -96,13 +96,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-14h ago
+15h ago
 
 ---
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -152,7 +152,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1h ago
 
 As we see in the news, the crypto market is showing subtle shifts today. Bitcoin price is holding $92,500 level after running from low $87,000 to $94,000 earlier in the week. This is happening as Bitcoin dominance is slowly dropping, and the new season of altcoin run is becoming a ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 1K • 👍 182 • 💬 13 • ⏱️ 10:20 • 54m ago
+👁️ 1K • 👍 182 • 💬 13 • ⏱️ 10:20 • 1h ago
 
 ---
 
@@ -282,7 +282,7 @@ Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It 
 
 📺 NextMove Stocks
 
-👁️ 386 • 👍 14 • 💬 1 • ⏱️ 6:53 • 19h ago
+👁️ 386 • 👍 14 • 💬 1 • ⏱️ 6:53 • 20h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN PRICE DUMP IS A TRAP (Urgent Update)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 10K • 👍 391 • 💬 111 • ⏱️ 18:45 • 16h ago
+👁️ 10K • 👍 391 • 💬 111 • ⏱️ 18:45 • 17h ago
 
 ---
 

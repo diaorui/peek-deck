@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T14:25:53.317045+00:00'
+updated: '2026-01-07T14:50:54.309416+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 14:25 UTC  
+**Last Updated:** January 07, 2026 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 **[Counting my profits from crypto](https://www.reddit.com/r/Bitcoin/comments/1q6e1re/counting_my_profits_from_crypto/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 2h ago
 
 **[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
 
-Forbes • 27m ago
+Forbes • 52m ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 1h ago
 
 **[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ Investor's Business Daily • 2h ago
 
 MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -247,7 +247,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 1h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 2h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -311,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 500 • ⏱️ 8:36 • 13h ago
+👁️ 20K • 👍 1K • 💬 500 • ⏱️ 8:36 • 14h ago
 
 ---
 
@@ -321,7 +321,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 713 • 💬 237 • ⏱️ 6:15 • 16h ago
+👁️ 13K • 👍 713 • 💬 237 • ⏱️ 6:15 • 17h ago
 
 ---
 
@@ -401,7 +401,7 @@ Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are movi
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 630 • 💬 38 • ⏱️ 29:22 • 15h ago
+👁️ 8K • 👍 630 • 💬 38 • ⏱️ 29:22 • 16h ago
 
 ---
 
