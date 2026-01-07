@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T17:27:16.873655+00:00'
+updated: '2026-01-07T17:51:54.984167+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 17:27 UTC  
+**Last Updated:** January 07, 2026 at 17:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,194.58
+### $3,166.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +5.7%  
-**30d:** -4.4%  
-**90d:** -17.7%  
-**1y:** -4.6%  
+**24h:** -1.9%  
+**7d:** +5.0%  
+**30d:** -5.0%  
+**90d:** -18.2%  
+**1y:** -5.2%  
 
 ---
 
@@ -86,7 +86,13 @@ Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over
 
 **[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
 
-1h ago
+2h ago
+
+---
+
+**[Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems](https://www.reddit.com/r/ethereum/comments/1q6kmx8/timebucketed_balance_records_boundedstorage/)**
+
+🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 59m ago
 
 ---
 
@@ -102,13 +108,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-17h ago
+18h ago
 
 ---
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -136,15 +142,17 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 ---
 
-**[Ens Team member James Beck: how are people thinking about ensv2?](https://www.reddit.com/r/ethereum/comments/1q4yq3h/ens_team_member_james_beck_how_are_people/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
+
+Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
+
+Yahoo Finance • 22h ago
+
+---
 
 **[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
 
@@ -152,11 +160,11 @@ The Block • 5h ago
 
 ---
 
-**[Morgan Stanley Adds Ethereum Trust To Planned Crypto ETF Lineup](https://finance.yahoo.com/news/morgan-stanley-adds-ethereum-trust-130318959.html)**
+**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
 
-The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
+On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
-Yahoo Finance • 4h ago
+CNBC • 1d ago
 
 ---
 
@@ -176,41 +184,23 @@ CoinDesk • 1d ago
 
 ---
 
-**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
-
-CNBC • 1d ago
-
----
-
-**[Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards](https://www.globenewswire.com/news-release/2026/01/05/3212772/0/en/Grayscale-Ethereum-Staking-ETF-Ticker-ETHE-Becomes-First-U-S-Ethereum-ETP-to-Distribute-Staking-Rewards.html)**
-
-Grayscale Ethereum Staking ETF (Ticker: ETHE) Becomes First U.S. Ethereum ETP to Distribute Staking Rewards ...
-
-GlobeNewswire • 2d ago
-
----
-
-**[Grayscale's Ethereum ETF Begins Paying Staking Rewards](https://decrypt.co/353677/grayscales-ethereum-etf-begins-paying-staking-rewards)**
-
-The Ethereum payout marks the first time a U.S. spot crypto product has distributed protocol-level income to investors.
-
-Decrypt • 1d ago
-
----
-
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
 CCN.com • 1d ago
 
 ---
 
-**[Ethereum Network Usage Hits Record High—But Traders More Bullish on Gold](https://decrypt.co/353688/ethereum-network-usage-hits-record-high-but-traders-more-bullish-on-gold)**
+**[Ethereum leads way as most big cryptocurrencies post declines](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-declines-70d11bcd-3880afa3796e?gaa_at=eafs&gaa_n=AWEtsqfpv-oXP76riw-YIHDsGD6ojzTwBliPaE0kT6G_Rx3BjC93aGGwovnT&gaa_ts=695ea09f&gaa_sig=eaxTQKUPJI5UqcFWtj8m0Xbr_6HJX-YJ62oUxaj0GAEfNqwCnxr2FBJeZSiN9_jd6lXKua_To0x8i0uXmjDObw%3D%3D)**
 
-Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
+MarketWatch • 2h ago
 
-Decrypt • 1d ago
+---
+
+**[Ethereum's Blockchain Trilemma 'Solved': Vitalik Buterin](https://decrypt.co/353587/ethereums-blockchain-trilemma-solved-vitalik-buterin)**
+
+The Ethereum co-founder said upgrades allow the network to achieve decentralization, security and scalability at once.
+
+Decrypt • 2d ago
 
 ---
 
@@ -219,6 +209,14 @@ Decrypt • 1d ago
 XRP investment products skyrocket as the era of Bitcoin-only dominance fades into a diversified market landscape.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Ethereum: The Accumulation Addresses Catalyst (Cryptocurrency: ETH-USD)](https://seekingalpha.com/article/4857134-ethereum-the-accumulation-addresses-catalyst)**
+
+Ethereum is in an accumulation phase, with supply shifting to long-term holders, supporting a bullish medium- to long-term thesis. Read why I rate the ETH-USD stock a Buy.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -232,7 +230,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 220 • 2h ago
+👁️ 2K • 👍 220 • 3h ago
 
 ---
 
@@ -242,7 +240,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 434 • 💬 41 • ⏱️ 10:20 • 3h ago
+👁️ 3K • 👍 434 • 💬 41 • ⏱️ 10:20 • 4h ago
 
 ---
 
@@ -292,7 +290,7 @@ Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It 
 
 📺 NextMove Stocks
 
-👁️ 388 • 👍 14 • 💬 1 • ⏱️ 6:53 • 22h ago
+👁️ 388 • 👍 14 • 💬 1 • ⏱️ 6:53 • 23h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T17:27:16.876855+00:00'
+updated: '2026-01-07T17:51:54.987393+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 17:27 UTC  
+**Last Updated:** January 07, 2026 at 17:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,19 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-7h ago
+8h ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
 6h ago
+
+---
+
+**[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
+
+3h ago
 
 ---
 
@@ -62,7 +68,9 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 ---
 
-**[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
+**[Simulate the robot straight from Arduino code - Furuta Pendulum](https://www.reddit.com/r/robotics/comments/1q6iusj/simulate_the_robot_straight_from_arduino_code/)**
+
+I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
 
 2h ago
 
@@ -72,15 +80,13 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-6h ago
+7h ago
 
 ---
 
-**[Simulate the robot straight from Arduino code - Furuta Pendulum](https://www.reddit.com/r/robotics/comments/1q6iusj/simulate_the_robot_straight_from_arduino_code/)**
+**[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
-
-1h ago
+32m ago
 
 ---
 
@@ -88,21 +94,15 @@ I am building a robot simulator that can take your Arduino code, CAD files, circ
 
 At my last startup, I led a team to develop indoor localisation using SLAM. Every other solution claimed precision, but when we spoke to customers we discovered that realistically everything they'd tried was at around 6 or 7m accuracy, and suffered from false estimates, scale issues, and drift. We achieved reliable 1m-accuracy on any phone, and eventually sold it to IKEA. In developing that technology, there was a lot of crossover with robotics -- another area which had a lot of promise but a clear bottleneck preventing growth. It got me curious about why robots weren't able to do more. The hardware is capable of far more than what the intelligence software is enabling. I believe it's a problem with the intelligence architecture. i10e is my new robot intelligence research lab. The name is a numeronym for intelligence. Our mission is to discover a new architecture for robot intelligence, more inspired by the brain. Something that will be able to understand the world, and learn from experience. This is a wide search space and almost everyone is narrowly focussed on one area. I'd like to see more competition and exploration in the industry. This is my contribution to that.
 
-🔗 [Andrew Hart](https://andrewhart.me/i10e/) • 1h ago
+🔗 [Andrew Hart](https://andrewhart.me/i10e/) • 2h ago
 
 ---
 
-**[Continuation of the project.](https://www.reddit.com/r/robotics/comments/1q6go19/continuation_of_the_project/)**
+**[It can be put in a backpack and used for DIY robot projects.](https://www.reddit.com/r/robotics/comments/1q6fwt7/it_can_be_put_in_a_backpack_and_used_for_diy/)**
 
-Here are the modifications made to the controller, where it will now be possible to control 4 possible directions. Now I will finish the wiring to the motors and rebuild the car because it broke.
+This robot has open interfaces, allowing for DIY modifications and customizable skins.
 
-3h ago
-
----
-
-**[UR10e vision-guided sorting (eye-in-hand) — only used teach pendant so far, confused about URScript & PC control](https://www.reddit.com/r/robotics/comments/1q6ggi6/ur10e_visionguided_sorting_eyeinhand_only_used/)**
-
-3h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/whcMqbowt4o) • 3h ago
 
 ---
 
@@ -110,9 +110,25 @@ Here are the modifications made to the controller, where it will now be possible
 
 ## Google News: "robotics"
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfSw_cOOmMcVkXBfTRSAebt5qbLB8z0-wMXMxb2LDilucIa-mh07VGV&gaa_ts=695e8e2d&gaa_sig=yirAoc551dm505R9a9X5pO7N3ApZ7nFfKtWYlB2o2YFeFsFlfMI_KC-2Iv8SUCqQdSXdQwrUlDcW6HLg8SuOhg%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqeairanQm47rsxXeemgkKP5GgNuWxdhrqwNNoOCxI7n3guVBHd-2v6t&gaa_ts=695ea0a1&gaa_sig=Dv79MBp4qAra0Brqlto_k1AP19gRzurdQN4yhqGhdgVZtWuycX4AKTTahVKojMS4E82pT7KaeTuRB5fCyzmSjA%3D%3D)**
 
-The Wall Street Journal • 19h ago
+The Wall Street Journal • 20h ago
+
+---
+
+**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://finance.yahoo.com/news/mobileye-acquire-humanoid-robotics-startup-211433670.html)**
+
+LAS VEGAS, Jan 6 (Reuters) - Mobileye Global on Tuesday said it would acquire humanoid robotics startup Mentee Robotics for about $900 million, as the Israeli self-driving technology firm bets on what
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
+
+Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
+
+The Times of Israel • 3h ago
 
 ---
 
@@ -148,9 +164,11 @@ Financial Times • 1h ago
 
 ---
 
-**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
+**[Innovative Edge: New tech-focused military jobs level up the fight](https://www.usatoday.com/story/studiog/news/military/2026/01/07/new-tech-focused-military-jobs-level-up-the-fight/86834343007/)**
 
-Bloomberg.com • 21h ago
+More than a year after the Navy established its robotics warfare (RW) specialist rating, or job specialty, to manage its growing menagerie of small aerial drones and ground robots, the job field is thriving and growing — and other services are taking notice.
+
+USA Today • 51m ago
 
 ---
 
@@ -163,25 +181,9 @@ hyundai.com • 1d ago
 
 ---
 
-**[Grab acquires AI robotics firm Infermove to boost delivery capabilities](https://www.reuters.com/world/china/grab-acquires-ai-robotics-firm-infermove-boost-delivery-capabilities-2026-01-06/)**
+**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
 
-Reuters • 1d ago
-
----
-
-**[Unitree’s tall humanoid robot stuns with flying kicks and backflips](https://interestingengineering.com/ai-robotics/unitrees-humanoid-robot-knocks-down-sandbags)**
-
-Unitree’s H2 humanoid shows flying kicks, backflips, and strikes in a new training video, highlighting rapid advances in robot agility.
-
-Interesting Engineering • 2d ago
-
----
-
-**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
-
-A new wave of humanoids are coming. Qualcomm is ready to power them.
-
-CNET • 2d ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -265,7 +267,7 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 9K • 👍 227 • 💬 16 • ⏱️ 2:12 • 17h ago
+👁️ 9K • 👍 227 • 💬 16 • ⏱️ 2:12 • 18h ago
 
 ---
 

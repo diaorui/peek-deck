@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T17:27:16.859261+00:00'
+updated: '2026-01-07T17:51:54.969733+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 17:27 UTC  
+**Last Updated:** January 07, 2026 at 17:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,6 +45,12 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 ---
 
+**[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
+
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 2h ago
+
+---
+
 **[It's been a big week for AI ; Here are 10 massive developments you might've missed:](https://www.reddit.com/r/artificial/comments/1q6hsl5/its_been_a_big_week_for_ai_here_are_10_massive/)**
 
 First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
@@ -53,23 +59,27 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 ---
 
-**[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
-
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 2h ago
-
----
-
-**[Grok is the legend🔥](https://www.reddit.com/r/artificial/comments/1q6jzkq/grok_is_the_legend/)**
-
-58m ago
-
----
-
 **[Am I the only one who finds Microsoft Copilot painfully behind?](https://www.reddit.com/r/artificial/comments/1q5utth/am_i_the_only_one_who_finds_microsoft_copilot/)**
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
 20h ago
+
+---
+
+**[AI model capabilities- to censor or not to censor?](https://www.reddit.com/r/artificial/comments/1q6m29m/ai_model_capabilities_to_censor_or_not_to_censor/)**
+
+With the recent news that Grok AI is being used to produce undressed images of various individuals (including reports of children) it seems like aspects of this model are getting out of hand. I hear that these issues are starting to be addressed, but I imagine more censorship issues will continue in the future since Grok AI generally operates under an anti-censorship rulebook. Clearly, the undressing of individuals without consent and children is NOT ok. In regards to medical or legal advice (ChatGPT in December 2025) being censored by models as well as censorship with prompts involving political topics (Gemini about a year ago with middle east conflict), it feels like we’re quietly at a crossroads with AI models. On one hand, censorship is good because: More capable models can clearly be misused (Grok example above) Companies have real incentives and pressure to limit outputs Governments are starting to pay attention On the other hand: “Censorship” often ends up being blunt, inconsistent, and opaque It can limit legitimate research, creativity, and edge-case reasoning It raises the question of who decides what’s off-limits Are we actually making models safer — or just less useful and less honest? And where do we draw the line? Genuinely curious how people here think about this — especially folks building, researching, or deploying models.
+
+8m ago
+
+---
+
+**[Experienced marketer diving into AI SaaS, looking to connect with fellow builders](https://www.reddit.com/r/artificial/comments/1q6k490/experienced_marketer_diving_into_ai_saas_looking/)**
+
+I’m an experienced marketer who’s recently gone all-in on the AI SaaS space. Currently exploring product, distribution, and growth angles around AI tools, and I’d love to connect with other founders / builders who are on a similar path.
+
+1h ago
 
 ---
 
@@ -83,23 +93,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-19h ago
-
----
-
-**[Writecream Giveaway 🎁: 30 Days FREE Unlimited – One-Click SEO Articles + Autopilot Backlinks](https://www.reddit.com/r/artificial/comments/1q6c9z3/writecream_giveaway_30_days_free_unlimited/)**
-
-Hey everyone — Happy New Year! 🎉 We’re giving away a limited number of FREE 30-day Unlimited Plan codes for Writecream to kick off 2026. If you care about real SEO results (not just content), this is for you. Why Writecream? 🔗 Backlink Autopilot — grow domain authority organically with zero outreach 🌐 SEO + AEO/GEO — rank on Google and AI search results ⚡ One-click optimization — upgrade any existing article instantly 📝 One-click SEO articles — keyword → optimized article with images 🔍 All-in-one SEO tool — Keyword research → one click SEO article with images on researched keywords → backlinks How Backlink Autopilot works: Add your site, and Writecream places contextual, relevant backlinks across its 1M+ user network — only when topics match. No spam, no manual outreach, fully organic. How to get a free code 🎁 Comment “Writecream” below and we’ll DM you a 30-day Unlimited Plan code. First come, first served. Once they’re gone, they’re gone 🚀 Build traffic, authority, and AI visibility on autopilot ✨
-
-6h ago
-
----
-
-**[AI and gender: a structuralist perspective](https://www.reddit.com/r/artificial/comments/1q6fc71/ai_and_gender_a_structuralist_perspective/)**
-
-There's an analytical tool-developed primarily in anthropology and ethnology for understanding myths, rituals, gender and food taboos - and rites of passage that can map these categorical structures across time and space. An exceptional framework for those seeking insight into how human cognition organizes experience into meaningful patterns. For decades, anthropologists used this method to scrutinize how ‘le sauvage’ - Lévi-Strauss's deliberately provocative term for those labeled "primitive"-constructed reality through symbolic systems. But the tool works reflexively. It can examine the categories organizing modern technological discourse just as rigorously, revealing that what we take as natural divisions are culturally constructed distinctions no more absolute than the savage/civilized binary itself. The structuralists discovered something profound about human consciousness: our most basic categories-the distinctions we take as natural and obvious-are constructions. Not arbitrary constructions, not merely cultural inventions, but systematic organizing principles that create the reality they appear to describe. This isn't relativism suggesting all categories are equally valid or that objective reality doesn't exist. It's recognition that the tools we use to carve up reality-nature/culture, human/animal, sacred/profane, self/other-emerge from particular ways of organizing experience rather than from discovering pre-existing boundaries in the world. The boundary comes first; the things separated appear second. Claude Lévi-Strauss spent decades analyzing myths, kinship systems, and cultural practices across societies. What he found wasn't diversity of content but universality of structure. Everywhere, humans organize experience through binary oppositions: raw/cooked, nature/culture, life/death, male/female. These aren't discovered in reality but imposed upon it-ways of creating meaning through contrast and relationship rather than through essential properties. The raw and the cooked don't exist as objective categories. Raw meat becomes cooked through fire, but the significance isn't in the physical transformation. It's in the symbolic system that makes "raw" mean wild, natural, dangerous, and "cooked" mean civilized, cultural, safe. The opposition creates meaning; meaning doesn't create the opposition. Language works similarly. Ferdinand de Saussure showed that meaning emerges not from words connecting to things but from words differentiating from other words. "Hot" means what it does because it's not "cold," not because it captures some essential heat-ness. The entire system of language operates through difference rather than reference. Pāṇini recognized this 2,400 years earlier-his Sanskrit grammar doesn't describe language but generates it through formal rules of transformation and opposition. Victor Turner studied rites of passage across cultures and identified a universal three-phase structure: separation (leaving old status), liminality (threshold state), and reincorporation (entering new status). The crucial phase is the middle-liminality. The person undergoing transformation is literally "betwixt and between," neither old identity nor new, temporarily outside the categorical system altogether. Turner called this state dangerous and creative. Dangerous because it violates categories-the initiate is neither child nor adult, neither living in old role nor established in new. Social systems maintain order through clear categories; the liminal figure threatens that order simply by existing in categorical ambiguity. But liminality is also creative because transformation requires this threshold state. You can't get from A to B without passing through the zone where you're neither. Mary Douglas extended this insight through her analysis of pollution and taboo. What societies mark as "unclean" or "polluting" isn't random. It's whatever violates categorical boundaries. The pig in Jewish dietary law isn't unclean because pigs are inherently disgusting. It's unclean because it crosses categories-it has cloven hooves like animals that chew cud, but doesn't chew cud. It's neither one thing nor another, and that categorical ambiguity triggers pollution anxiety. This explains cultural intensity around boundary-crossing figures: transgender people, mixed-race individuals, migrants, anything that challenges clean categorical distinctions. The anxiety isn't about the people themselves but about the threat to the categorical system that maintains social order. Boundaries must be policed because admitting they're constructed rather than discovered threatens the entire symbolic structure. Peter Berger and Thomas Luckmann formalized this in their analysis of social construction. Reality is socially constructed not because objective reality doesn't exist but because the reality we inhabit is mediated through socially created categories, language, and symbolic systems. These systems create a "sacred canopy"-a protective structure of meaning that shields us from chaos and gives order to experience. The sacred canopy isn't a lie. It's a necessary ordering principle. Without categorical systems, experience would be an overwhelming chaos-infinite sensation with no pattern, no meaning, no coherence. Categories create the world we can inhabit. But they're constructions nonetheless, and recognizing them as such reveals something crucial: the boundaries we fight to maintain aren't discoveries about reality but inventions for organizing it. This matters because once you see categories as constructed, you can examine why particular boundaries exist, what they accomplish, and whether they're still serving useful functions or simply maintaining outdated structures through habit and defensiveness. You can distinguish between ontological differences (real material variations) and metaphysical absolutes (claimed essential differences that support particular social arrangements). The structuralist insight doesn't eliminate differences. Biological organisms and computational systems differ materially-evolution produced one through four billion years of selection pressure; humans designed the other over decades. These differences matter. But the categorical chasm maintains that only biological systems can be conscious, that the divide is essential rather than pragmatic-that's not discovered but constructed. It's a sacred canopy erected around substrate differences to maintain particular kinds of order. What emerges from structural analysis is this: human cognition operates through binary oppositions that create meaning through differentiation. These oppositions aren't found in reality but imposed upon it. They serve crucial organizing functions but shouldn't be mistaken for metaphysical truths. And when categorical boundaries come under pressure-when liminal figures appear that violate clean distinctions-the anxiety isn't about the figure itself but about the threat to the entire symbolic system. The structuralists gave us tools to see how categories work, why they persist, and what happens when they're challenged. Now we can ask: What happens when mystical experience reports moving beyond these categories altogether? When consciousness itself seems to transcend the subject/object, self/other distinctions that organize normal awareness as we are witnessing with the rise of AI? What happens when male vs female (ontological construct ‘natural’) and masculine vs feminine (social construct ‘cultural’) are mistaken as similar classificatory categories? Anthropology & Structuralism: Lévi-Strauss, Claude. The Elementary Structures of Kinship. Beacon Press, 1969 (original 1949). Lévi-Strauss, Claude. The Raw and the Cooked: Introduction to a Science of Mythology, Vol. 1. Harper & Row, 1969 (original 1964). Turner, Victor. The Ritual Process: Structure and Anti-Structure. Aldine Transaction, 1969. Douglas, Mary. Purity and Danger: An Analysis of Concepts of Pollution and Taboo. Routledge, 1966. Berger, Peter L., and Thomas Luckmann. The Social Construction of Reality: A Treatise in the Sociology of Knowledge. Anchor Books, 1967 (original 1966).
-
-3h ago
+20h ago
 
 ---
 
@@ -111,15 +105,33 @@ https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequen
 
 ---
 
+**[Content verification such as C2PA is gonna be the only way to distinguish real from AI. When will it come to smartphones?](https://www.reddit.com/r/artificial/comments/1q5ll02/content_verification_such_as_c2pa_is_gonna_be_the/)**
+
+All the attempts at identifying AI footage is getting more and more futile, with tons of false positives and false negatives. And while some services like nanobanana add a hidden watermark to AI images, we can't expect everyone to do that. The only approach that's gonna work is the other way around, instead of detecting AI generated footage, we need to start verifying real camera footage, making this setting default-on, so that in the future, any footage without this proof should be considered in doubt. For those who don't know, C2PA is essentially a cryptographic proof-of-origin for images and video, it essentially hashes the image and gives it a certificate, proving that it came from a real camera and hasn't been tampered. All the camera manufacturers already support it, like Canon, Nikon, Sony etc. But the VAST majority of content social media is shot on smartphones, so Apple etc is gonna have to take the lead on this. Anyone know if Apple/Samsung etc are working on this?
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[3 semiconductor stocks to play the AI supercycle, according to analysts](https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html)**
+**[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
+Politico • 1d ago
 
-Yahoo Finance • 11h ago
+---
+
+**[Utah becomes first state to allow AI to approve prescription refills](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/)**
+
+The Hill • 55m ago
+
+---
+
+**[Hospitals Are a Proving Ground for What AI Can Do, and What It Can’t](https://www.wsj.com/tech/ai/hospitals-are-a-proving-ground-for-what-ai-can-do-and-what-it-cant-60e4020c?gaa_at=eafs&gaa_n=AWEtsqd7vDawYyDp3XJQabNxkJMqfFpHc-5NPReiPT4IuH8bgx361sypR5I2&gaa_ts=695ea09c&gaa_sig=cFVpW08d2YEZKoJltZtPpL5HC6_vTdiH0NZAnD9WYUgBLwOx3mzRErA0bfe6LuP48Zej1cU8gM-JDY3Es6Kh5g%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -131,63 +143,47 @@ NBC News • 1d ago
 
 ---
 
-**[Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x)**
+**[Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)**
 
-Bloomberg.com • 6h ago
+Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
 
----
-
-**[Commons women and equalities committee to stop using X amid AI-altered images row](https://www.theguardian.com/technology/2026/jan/07/commons-women-equalities-committee-stop-using-x-ai-altered-grok-images)**
-
-Exclusive: Move follows outcry over use of Grok to digitally remove clothing from images of women and children
-
-The Guardian • 1h ago
+WIRED • 19h ago
 
 ---
 
-**[Utah Becomes First State to Let AI Prescribe Medication](https://gizmodo.com/utah-becomes-first-state-to-let-ai-prescribe-medication-2000706729)**
+**[Grok's explicit images reveal AI's legal ambiguities](https://www.axios.com/2026/01/07/grok-bikini-images-legal-elon-musk)**
 
-The startup offering the renewals is eyeing nationwide approval.
-
-Gizmodo • 1h ago
+Axios • 3h ago
 
 ---
 
-**[Applications of AI in urology](https://www.nature.com/articles/s41585-025-01120-9)**
+**[Nestlé’s CIO says the value of the food giant’s AI investments goes well beyond efficiency](https://fortune.com/2026/01/07/nestles-cio-says-value-of-ai-investments-beyond-efficiency/)**
 
-Artificial intelligence (AI) could transform the field of urology from student education through clinical procedures to writing and reporting. In this Focus issue on the applications of AI in urology, we present articles covering a broad range of the potential uses in the field.
+The world’s largest food and beverage company is using AI to rethink pricing, factories, sales, but the company's chief information officer isn't just focused on squeezing out efficiency gains.
 
-Nature • 1h ago
+Fortune • 12m ago
 
 ---
 
-**[Why humans might win the battle against AI slop after all](https://www.businessinsider.com/ai-slop-photos-videos-instagram-chatgpt-humans-2026-1)**
+**[Xgimi’s New AI-First Smart Glasses Will Come in Three Tiers](https://gizmodo.com/xgimis-new-ai-first-smart-glasses-will-come-in-three-tiers-2000706628)**
 
-AI slop is everywhere — except it's not so sloppy anymore. Just take a look at Instagram or TikTok. A lot of it looks real. That's where you come in.
+All three feature multiple AI assistants.
 
-Business Insider • 1h ago
+Gizmodo • 6m ago
+
+---
+
+**[FIFA to use ‘3D avatars’ powered by AI to improve offside calls at World Cup](https://www.nytimes.com/athletic/6949920/2026/01/07/fifa-ai-offside-world-cup/)**
+
+"AI-enabled 3D avatars" will be used to track players "during fast or obscured movements" and improve offside calls, FIFA said.
+
+The New York Times • 34m ago
 
 ---
 
 **[‘Whata Bod’: An AI-generated NWS map invented fake towns in Idaho](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/)**
 
-The Washington Post • 11h ago
-
----
-
-**[Air Force says AI tools outperform human planners in ‘battle management’ experiment](https://breakingdefense.com/2026/01/air-force-says-ai-tools-outperform-human-planners-in-battle-management-experiment/)**
-
-In a complex multi-service, multi-domain scenario — not typically covered in Air Force training — the best of several AI tools generated tactical “courses of action” not only faster than military professionals but also with fewer errors.
-
-Breaking Defense • 19h ago
-
----
-
-**[Wall Street clashes on Nvidia's AI cycle expiration date following Jensen Huang's CES keynote](https://finance.yahoo.com/news/wall-street-clashes-on-nvidias-ai-cycle-expiration-date-following-jensen-huangs-ces-keynote-174045521.html)**
-
-Wedbush's Dan Ives sees a $6 trillion path for the chip giant, but DA Davidson's Gil Luria warns that the "AI party" could face a hangover if the data center cycle begins to roll over.
-
-Yahoo Finance • 18h ago
+The Washington Post • 12h ago
 
 ---
 
@@ -199,7 +195,7 @@ Yahoo Finance • 18h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 723 • 💬 1035 • 23h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 750 • 💬 1087 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -215,7 +211,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 229 • 💬 374 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 230 • 💬 375 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -231,7 +227,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 116 • 💬 82 • 20h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 116 • 💬 83 • 20h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -251,7 +247,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 74 • 💬 17 • 23h ago
+⬆️ 74 • 💬 17 • 1d ago
 
 ---
 
@@ -259,15 +255,15 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 A structural code search engine for Al agents. Contribute to marcoaapfortes/Mantic.sh development by creating an account on GitHub.
 
-⬆️ 70 • 💬 33 • 1d ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
+⬆️ 73 • 💬 34 • 1d ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
 
 ---
 
-**[Microsoft CEO resorts to blogging in defense of AI](https://news.ycombinator.com/item?id=46489890)**
+**[The skill of the future is not 'AI', but 'Focus' (2025)](https://news.ycombinator.com/item?id=46513728)**
 
-Surely it works this time
+Don't let AI erode your focus.
 
-⬆️ 66 • 💬 72 • 3d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 65 • 💬 15 • 1d ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -319,7 +315,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 106 • 💬 17 • ⏱️ 9:50 • 14h ago
+👁️ 5K • 👍 106 • 💬 17 • ⏱️ 9:50 • 15h ago
 
 ---
 
@@ -349,7 +345,7 @@ Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=
 
 📺 WorldofAI
 
-👁️ 6K • 👍 177 • 💬 18 • ⏱️ 12:11 • 11h ago
+👁️ 6K • 👍 177 • 💬 18 • ⏱️ 12:11 • 12h ago
 
 ---
 
@@ -421,7 +417,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 394 • 5h ago
+⬇️ 84,353 • ❤️ 394 • 6h ago
 
 ---
 
@@ -469,7 +465,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 230 • 18h ago
+⬇️ 77,452 • ❤️ 230 • 19h ago
 
 ---
 
@@ -692,7 +688,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 10h ago
+⭐ 1.2k • 🔱 142 • 11h ago
 
 ---
 

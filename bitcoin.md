@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T17:27:16.867713+00:00'
+updated: '2026-01-07T17:51:54.978207+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 17:27 UTC  
+**Last Updated:** January 07, 2026 at 17:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,364.97
+### $91,205.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** -0.5%  
 **7d:** +3.2%  
 **30d:** -1.4%  
 **90d:** -19.0%  
-**1y:** -3.6%  
+**1y:** -3.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,19 +93,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
 16h ago
-
----
-
-**[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
-
-17h ago
 
 ---
 
@@ -117,9 +111,9 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 ---
 
-**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
+**[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -131,15 +125,23 @@ Waste heat from Bitcoin miners is being reused to power greenhouses, turning ene
 
 ---
 
-**[Counting my profits from crypto](https://www.reddit.com/r/Bitcoin/comments/1q6e1re/counting_my_profits_from_crypto/)**
+**[I am in the btc club now😎](https://www.reddit.com/r/Bitcoin/comments/1q6k4oo/i_am_in_the_btc_club_now/)**
 
-5h ago
+Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my trezor model t so u can transfer them in a safe spot! Do you think btc has a good price rn? I want to buy and hold them for a few years. Thank you Pls do not dm
+
+1h ago
 
 ---
 
-**[In 2020, the Fed increased USD money supply by 24.9%. Bitcoin issued exactly 1.8%, as scheduled a decade earlier.](https://www.reddit.com/r/Bitcoin/comments/1q6fqu8/in_2020_the_fed_increased_usd_money_supply_by_249/)**
+**[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
-3h ago
+17h ago
+
+---
+
+**[Counting my profits from crypto](https://www.reddit.com/r/Bitcoin/comments/1q6e1re/counting_my_profits_from_crypto/)**
+
+5h ago
 
 ---
 
@@ -147,9 +149,11 @@ Waste heat from Bitcoin miners is being reused to power greenhouses, turning ene
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqduvF5jib4vznbxufSvBu0Uectfnu67OGXCgJfk5pTf6gpMZjxv7FNc&gaa_ts=695e8e29&gaa_sig=Nfg9fb8XzTItDUUdwyhkZ2iyFccnmeTTsho9PWljmXoY0roHVbSF6CyLfT9WItfjSrFCRZfmpE503m0L70w-Qg%3D%3D)**
+**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
 
-Barron's • 2d ago
+Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
+
+CNBC • 21h ago
 
 ---
 
@@ -161,47 +165,25 @@ Bloomberg.com • 5h ago
 
 ---
 
-**[Bitcoin Hitting All-Time High Every Year Has ‘Good Odds,’ Says Galaxy Executive, Claims All Institutions Should Buy](https://www.ccn.com/news/crypto/bitcoin-all-time-high-every-year-good-odds-galaxy-executive/)**
+**[Venezuela rumored to hold $60B Bitcoin ‘shadow reserve’](https://fortune.com/2026/01/07/corruption-embezzlement-missing-money-venezuela-rumored-60-billion-bitcoin-shadow-reserve/)**
 
-CCN.com • 2h ago
+If true, the claim could significantly reshape the global bitcoin market.
 
----
-
-**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
-
-Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
-
-Yahoo Finance • 22h ago
+Fortune • 12m ago
 
 ---
 
-**[Tom Lee says bitcoin has not peaked, calls for new all-time high by January 2026](https://www.coindesk.com/markets/2026/01/05/tom-lee-calls-for-a-new-bitcoin-ath-in-january-while-warning-of-a-volatile-2026)**
+**[Bitcoin Falls Despite JOLTS Job Openings Missing Expectations](https://finance.yahoo.com/news/bitcoin-falls-despite-jolts-job-161315061.html)**
 
-After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
+Bitcoin has continued its decline today, having begun the year on a high, rising above $94,000 earlier this week. This latest decline comes despite the release of the November JOLTS job openings, which came in below expectations and strengthened the case for more rate cuts. Bitcoin Drops Amid JOLTS Job Openings Release Bitcoin briefly fell
 
-CoinDesk • 2d ago
-
----
-
-**[Cambodia Arrests Tycoon Tied to DOJ’s Record $15B Bitcoin Seizure, Extradites Him to China](https://www.financemagnates.com/cryptocurrency/cambodia-detains-tycoon-tied-to-dojs-record-15b-bitcoin-seizure-extradites-him-to-china/)**
-
-Police reportedly detained Chen Zhi, the founder and chairman of Prince Group, before deporting him to China for investigation by Chinese authorities.
-
-Finance Magnates • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 5h ago
-
----
-
-**[Why Bitcoin Is Not Surging Despite Bullish MSCI News](https://www.tradingview.com/news/coinpedia:c19c0691f094b:0-why-bitcoin-is-not-surging-despite-bullish-msci-news/)**
-
-Bitcoin has been struggling lately to move higher, even after the MSCI has made its decision on digital assets treasury (DATs) companies to remain in MSCI-related global indexes.While this eased fears of firms like Strategy forcefully selling Bitcoin. Yet Bitcoin’s price did not move higher, leavin…
-
-TradingView — Track All Markets • 4h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -213,9 +195,33 @@ CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
+**[Why Bitcoin Is Not Surging Despite Bullish MSCI News](https://www.tradingview.com/news/coinpedia:c19c0691f094b:0-why-bitcoin-is-not-surging-despite-bullish-msci-news/)**
 
-Forbes • 3h ago
+Bitcoin has been struggling lately to move higher, even after the MSCI has made its decision on digital assets treasury (DATs) companies to remain in MSCI-related global indexes.While this eased fears of firms like Strategy forcefully selling Bitcoin. Yet Bitcoin’s price did not move higher, leavin…
+
+TradingView — Track All Markets • 4h ago
+
+---
+
+**[Bitcoin price news: BTC appears aimed at re-testing the $90,000 level](https://www.coindesk.com/markets/2026/01/07/crypto-selloff-accelerates-sending-bitcoin-back-to-usd91-000)**
+
+Strategy is an outperformer following MSCI's decision not to exclude the stock from its indices, but any positive reaction was muted by the decline in BTC.
+
+CoinDesk • 2h ago
+
+---
+
+**[Riot sells $162 million in bitcoin as mining hashprice slumps back toward lows](https://www.theblock.co/post/384598/riot-sells-bitcoin-mining-hashprice-slump)**
+
+The Block • 5h ago
+
+---
+
+**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
+
+Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
+
+ABC News • 20h ago
 
 ---
 
@@ -243,13 +249,13 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 2 • 💬 1 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 4h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 5h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -287,11 +293,11 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ---
 
-**[Show HN: HexoRama – client-side crypto address decoder and debugger](https://news.ycombinator.com/item?id=46445948)**
+**[CNBC: Walmart to Accept Crypto](https://news.ycombinator.com/item?id=46503251)**
 
-Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
+According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 1 • 💬 1 • 7d ago • [HexoRama](https://hexorama.com/)
+⬆️ 2 • 💬 0 • 1d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -305,7 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 725 • 💬 239 • ⏱️ 6:15 • 19h ago
+👁️ 13K • 👍 725 • 💬 239 • ⏱️ 6:15 • 20h ago
 
 ---
 
@@ -315,7 +321,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 511 • ⏱️ 8:36 • 16h ago
+👁️ 21K • 👍 1K • 💬 511 • ⏱️ 8:36 • 17h ago
 
 ---
 
