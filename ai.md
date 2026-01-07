@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T04:42:15.922348+00:00'
+updated: '2026-01-07T05:26:46.502872+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 04:42 UTC  
+**Last Updated:** January 07, 2026 at 05:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 18m ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 **[Rentosertib … is an investigational new drug that is being evaluated for the treatment of idiopathic pulmonary fibrosis … the first drug generated entirely by generative artificial intelligence to reach mid-stage human clinical trials, and the first to target a novel AI-discovered biological pathway](https://www.reddit.com/r/artificial/comments/1q5jy3r/rentosertib_is_an_investigational_new_drug_that/)**
 
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 14h ago
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Rentosertib) • 15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Looking for some advice and different opinions. I have been following the AI in 
 
 For those of you who aren't familiar with SurfSense, it aims to be OSS alternative to NotebookLM, Perplexity, and Glean. In short, Connect any LLM to your internal knowledge sources (Search Engines, Drive, Calendar, Notion and 15+ other connectors) and chat with it in real time alongside your team. I'm looking for contributors. If you're interested in AI agents, RAG, browser extensions, or building open-source research tools, this is a great place to jump in. Here's a quick look at what SurfSense offers right now: Features Deep Agentic Agent RBAC (Role Based Access for Teams) Supports 100+ LLMs Supports local Ollama or vLLM setups 6000+ Embedding Models 50+ File extensions supported (Added Docling recently) Local TTS/STT support. Connects with 15+ external sources such as Search Engines, Slack, Notion, Gmail, Notion, Confluence etc Cross-Browser Extension to let you save any dynamic webpage you want, including authenticated content. Upcoming Planned Features Multi Collaborative Chats Multi Collaborative Documents Real Time Features GitHub: https://github.com/MODSetter/SurfSense
 
-16h ago
+17h ago
 
 ---
 
@@ -103,7 +103,7 @@ For those of you who aren't familiar with SurfSense, it aims to be OSS alternati
 
 https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequently generate hallucinations -- plausible but factually incorrect outputs -- undermining their reliability. While prior work has examined hallucinations from macroscopic perspectives such as training data and objectives, the underlying neuron-level mechanisms remain largely unexplored. In this paper, we conduct a systematic investigation into hallucination-associated neurons (H-Neurons) in LLMs from three perspectives: identification, behavioral impact, and origins. Regarding their identification, we demonstrate that a remarkably sparse subset of neurons (less than 0.1\% of total neurons) can reliably predict hallucination occurrences, with strong generalization across diverse scenarios. In terms of behavioral impact, controlled interventions reveal that these neurons are causally linked to over-compliance behaviors. Concerning their origins, we trace these neurons back to the pre-trained base models and find that these neurons remain predictive for hallucination detection, indicating they emerge during pre-training. Our findings bridge macroscopic behavioral patterns with microscopic neural mechanisms, offering insights for developing more reliable LLMs."
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +111,7 @@ https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequen
 
 The publisher is teaming with a company that claims its proprietary AI can ‘provide 2 to 3 times higher quality translations’ than other large language models.
 
-🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 12h ago
+🔗 [404 Media](https://www.404media.co/harpercollins-will-use-ai-to-translate-harlequin-romance-novels/) • 13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Yahoo Finance • 8h ago
 
 One player is perfectly positioned to benefit from the next stage of growth.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -139,19 +139,19 @@ The Motley Fool • 3h ago
 
 An AI bubble and policy uncertainty could complicate 2026 for investors.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
 **[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
-Politico • 13h ago
+Politico • 14h ago
 
 ---
 
 **[Baidu’s AI Chip Arm Kunlunxin Is Said to Pick Banks for $2 Billion Hong Kong IPO](https://www.bloomberg.com/news/articles/2026-01-07/baidu-ai-chip-unit-kunlunxin-is-said-to-pick-banks-for-2-billion-hong-kong-ipo)**
 
-Bloomberg.com • 53m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 53m ago
 
 Liz Kendall calls on X to ‘deal with this urgently’ while expert criticises ‘worryingly slow’ government response
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -167,13 +167,13 @@ The Guardian • 8h ago
 
 Grok is being used to digitally remove women's clothing - something victims describe as "dehumanising".
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
 **[Musk Won’t Fix Grok’s Fake AI Nudes. A Ban Would](https://www.bloomberg.com/opinion/articles/2026-01-07/musk-will-not-fix-fake-ai-nudes-made-by-grok-a-ban-would)**
 
-Bloomberg.com • 12m ago
+Bloomberg.com • 56m ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg.com • 12m ago
 
 Former OpenAI employee Daniel Kokotajlo says progress to AGI is ‘somewhat slower’ than first predicted
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 22h ago
 
 AMD CEO Lisa Su said AI has not slowed the pace of hiring at the company.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 11h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 409 • 💬 573 • 10h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 409 • 💬 573 • 11h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -231,7 +231,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 **[Building a Rust-style static analyzer for C++ with AI](https://news.ycombinator.com/item?id=46495539)**
 
-⬆️ 92 • 💬 57 • 1d ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
+⬆️ 92 • 💬 57 • 2d ago • [Home](http://mpaxos.com/blog/rusty-cpp.html)
 
 ---
 
@@ -247,7 +247,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 76 • 💬 52 • 7h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 76 • 💬 52 • 8h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -263,7 +263,7 @@ Surely it works this time
 
 Don't let AI erode your focus.
 
-⬆️ 61 • 💬 15 • 12h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+⬆️ 61 • 💬 15 • 13h ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 
 ---
 
@@ -285,7 +285,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 21K • 👍 1K • 💬 112 • ⏱️ 13:13 • 15h ago
+👁️ 21K • 👍 1K • 💬 112 • ⏱️ 13:13 • 16h ago
 
 ---
 
@@ -345,7 +345,7 @@ Create AI Ads with Arcads https://roboverse-ai.com/consistent-ads In this video,
 
 📺 Roboverse
 
-👁️ 6K • 💬 3 • ⏱️ 13:07 • 13h ago
+👁️ 6K • 💬 3 • ⏱️ 13:07 • 14h ago
 
 ---
 
@@ -355,7 +355,7 @@ Socials, contact: https://beacons.ai/andrewrousso.
 
 📺 Andrew Rousso
 
-👁️ 218K • 👍 25K • 💬 359 • ⏱️ 1:50 • 8h ago
+👁️ 218K • 👍 25K • 💬 359 • ⏱️ 1:50 • 9h ago
 
 ---
 
@@ -427,7 +427,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 107 • ❤️ 274 • 20h ago
+⬇️ 107 • ❤️ 274 • 21h ago
 
 ---
 
@@ -650,7 +650,7 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.0k • 🔱 713 • 1h ago
+⭐ 6.0k • 🔱 713 • 2h ago
 
 ---
 
@@ -670,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 123 • 2h ago
+⭐ 2.1k • 🔱 123 • 3h ago
 
 ---
 
@@ -700,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 139 • 19h ago
+⭐ 1.2k • 🔱 139 • 20h ago
 
 ---
 
@@ -710,7 +710,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 92 • 5h ago
+⭐ 1.1k • 🔱 92 • 6h ago
 
 ---
 
@@ -730,7 +730,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 971 • 🔱 116 • 1h ago
+⭐ 971 • 🔱 116 • 2h ago
 
 ---
 

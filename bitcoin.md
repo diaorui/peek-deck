@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T04:42:15.930891+00:00'
+updated: '2026-01-07T05:26:46.511299+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 04:42 UTC  
+**Last Updated:** January 07, 2026 at 05:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-3h ago
+4h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 million.” Not as a price prediction, but as an expression of long-term conviction in Bitcoin’s trajectory. Quotes like this tend to resurface as adoption grows and the ecosystem matures. Do you see statements like this as pure hype, or reflections of long-term belief in Bitcoin’s role?
 
-9h ago
+10h ago
 
 ---
 
 **[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -107,13 +107,13 @@ John McAfee once said: “If Bitcoin breaks $100K, you can bet it will hit $1 mi
 
 My bonus will be about $20K this year - about enough to get me to 1BTC (I know that they take a bunch of tax from bonuses but I can also add some savings). The alternative is to invest it in brokerage/retirement accounts. On one hand, it would be really desirable to have exactly 1 BTC. On the other hand, things are feeling really uncertain regarding bitcoin’s future. what would you do? For context, I’m 48 yrs old. I am doing well financially but could always do better, especially because I’m an older dad (I have a 2 yr old) and want to be sure my son is well provided for. My net worth is maybe 350K-400K right now, not including the value of my business, which I may be able to sell one day.
 
-3h ago
+4h ago
 
 ---
 
 **[It's Never too late 😁](https://www.reddit.com/r/Bitcoin/comments/1q5i580/its_never_too_late/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ My bonus will be about $20K this year - about enough to get me to 1BTC (I know t
 
 I hear this question a lot and see it asked all over social media. It sounds like a simple question, but not really because it depends on what you mean by “too late.” Are you too late for 20,000x? Are you too late for 10,000x? Are you too late for 1000x? Are you too late for 100x? Let’s break this down: Current Bitcoin Price $93,570 100x: $93,570 × 100 = $9,357,0001,000x: $93,570 × 1,000 = $93,570,00010,000x: $93,570 × 10,000 = $935,700,000 20,000x: $93,570 × 20,000 = $1,871,400,000 Short answer to “Am I too late?”: Hell no. Not at 93k. Not even at 500k. The people who got in at 3k thought they were late. The ones at 15k thought they missed it. History rhymes as it’s often said. If the thesis plays out the way it’s already doing (fixed supply vs. endless printing), these multiples aren’t crazy—they’re just what happens when sound money wins. You’re not late until it’s boring and everyone already uses it for daily use like groceries, gas, coffee. Very small group already do but not billions of people. Until then? Stack hard. 🚀 🙌🍊
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Morgan Stanley has filed with U.S. regulators to launch a spot bitcoin ETF, sign
 
 It has been just confirmed Source: https://app2.msci.com/webapp/index_ann/DocGet?format=html&lang=en&pub_key=DD3Olh5uInk%3D
 
-7h ago
+8h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg.com • 6h ago
 
 Bitcoin has slipped from highs near $94,000 as selling pressure returned, exposing the rally’s thin leverage despite improving liquidity.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Investor's Business Daily • 8h ago
 
 MicroStrategy’s stock slides despite another Bitcoin buy, raising fresh doubts about investor confidence and long-term sustainability.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 4h ago
 
 Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
-ABC News • 7h ago
+ABC News • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ Centralmaine.com • 1d ago
 
 **[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 772 • 💬 170 • ⏱️ 11:24 • 5h ago
+👁️ 8K • 👍 772 • 💬 170 • ⏱️ 11:24 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ John D'Agostino, Coinbase head of institutional strategy, joins 'Squawk Box' to 
 
 📺 CNBC Television
 
-👁️ 31K • 👍 332 • 💬 265 • ⏱️ 8:25 • 15h ago
+👁️ 31K • 👍 332 • 💬 265 • ⏱️ 8:25 • 16h ago
 
 ---
 
@@ -363,7 +363,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 2K • 💬 53 • ⏱️ 31:55 • 13h ago
+👁️ 19K • 👍 2K • 💬 53 • ⏱️ 31:55 • 14h ago
 
 ---
 
@@ -373,7 +373,7 @@ CNBC's MacKenzie Sigalos reports on XRP, the payments-focused token that's quiet
 
 📺 CNBC Television
 
-👁️ 25K • 👍 607 • 💬 390 • ⏱️ 4:14 • 7h ago
+👁️ 25K • 👍 607 • 💬 390 • ⏱️ 4:14 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin 
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 127 • ⏱️ 11:01 • 6h ago
+👁️ 27K • 👍 2K • 💬 127 • ⏱️ 11:01 • 7h ago
 
 ---
 
@@ -403,7 +403,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 138 • ⏱️ 8:07 • 12h ago
+👁️ 18K • 👍 3K • 💬 138 • ⏱️ 8:07 • 13h ago
 
 ---
 

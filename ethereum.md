@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T04:42:15.936902+00:00'
+updated: '2026-01-07T05:26:46.517294+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 04:42 UTC  
+**Last Updated:** January 07, 2026 at 05:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitquery has released a new stream that delivers real-time, transaction-level pre- and post-balance data for all Ethereum addresses involved in transactions, across all tokens. What use case can you think of for this product? https://docs.bitquery.io/docs/blockchain/Ethereum/balances/transaction-balance-tracker/
 
-39m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Bitquery has released a new stream that delivers real-time, transaction-level pr
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ I haven't touched crypto in a minute. Got on a productivity bent yesterday and d
 
 FAQ answering developer questions about calculating necessary slippage before executing DEX swaps from smart contracts. Learn how to use Bitquery DEXPool stream data to programmatically determine slippage tolerance instead of guessing or trial-and-error.
 
-🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 17h ago
+🔗 [docs.bitquery.io](https://docs.bitquery.io/docs/API-Blog/slippage-faq-using-dexpool-stream/) • 18h ago
 
 ---
 
@@ -104,7 +104,7 @@ FAQ answering developer questions about calculating necessary slippage before ex
 
 Yet another data breach, this time involving payment processor Global-E, with customer personal data reportedly exposed. We often talk about blockchain as a solution for privacy and transparency. But incidents like this show a hard truth: privacy failures still happen at the infrastructure and application layer, regardless of whether crypto or blockchain is involved. Decentralization doesn’t automatically mean privacy. Security practices, data minimization, and proper protection of user information still matter a lot. If sensitive data keeps leaking before it ever touches a blockchain, that’s a problem we shouldn’t ignore. Curious how others here see this are we focusing too much on decentralization while underestimating basic data security?
 
-21h ago
+22h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Block • 1d ago
 
 **['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 1d ago
 
 **[Tom Lee’s Bitmine (BMNR) Increases Ethereum Holdings to $13.3 Billion](https://www.tipranks.com/news/tom-lees-bitmine-bmnr-increases-ethereum-holdings-to-13-3-billion)**
 
-TipRanks • 9h ago
+TipRanks • 10h ago
 
 ---
 
@@ -232,7 +232,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 5K • 👍 336 • 💬 39 • ⏱️ 12:17 • 5h ago
+👁️ 5K • 👍 336 • 💬 39 • ⏱️ 12:17 • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 138 • ⏱️ 8:07 • 12h ago
+👁️ 18K • 👍 3K • 💬 138 • ⏱️ 8:07 • 13h ago
 
 ---
 
@@ -252,7 +252,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 43K • 👍 3K • 💬 128 • ⏱️ 9:50 • 14h ago
+👁️ 43K • 👍 3K • 💬 128 • ⏱️ 9:50 • 15h ago
 
 ---
 
@@ -262,7 +262,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 16K • 👍 628 • 💬 534 • ⏱️ 13:40 • 23h ago
+👁️ 16K • 👍 628 • 💬 534 • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -282,7 +282,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 10K • 👍 163 • 💬 4 • ⏱️ 0:48 • 8h ago
+👁️ 10K • 👍 163 • 💬 4 • ⏱️ 0:48 • 9h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 187 • 💬 22 • ⏱️ 5:19 • 13h ago
+👁️ 3K • 👍 187 • 💬 22 • ⏱️ 5:19 • 14h ago
 
 ---
 
@@ -322,7 +322,7 @@ In this video, we break down the explosive Elliott Wave setups forming for Ether
 
 📺 CryptoStock Lab
 
-👁️ 389 • 👍 10 • 💬 15 • ⏱️ 12:46 • 12h ago
+👁️ 389 • 👍 10 • 💬 15 • ⏱️ 12:46 • 13h ago
 
 ---
 
