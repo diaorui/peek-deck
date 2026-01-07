@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T21:21:25.732168+00:00'
+updated: '2026-01-07T21:43:12.739812+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 21:21 UTC  
+**Last Updated:** January 07, 2026 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
-**7d:** +4.2%  
-**30d:** -5.7%  
-**90d:** -18.9%  
-**1y:** -5.9%  
+**24h:** -4.1%  
+**7d:** +4.7%  
+**30d:** -5.3%  
+**90d:** -18.5%  
+**1y:** -5.5%  
 
 ---
 
@@ -88,14 +88,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Chainlink secures 80% of Ethereum's DeFi. Its Chief Scientist co-formalized Proof of Work in 1999.](https://www.reddit.com/r/ethereum/comments/1q6gej8/chainlink_secures_80_of_ethereums_defi_its_chief/)**
-
-Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
-
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 7h ago
-
----
-
 **[Daily General Discussion January 06, 2026](https://www.reddit.com/r/ethereum/comments/1q5anbq/daily_general_discussion_january_06_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -112,9 +104,17 @@ I haven't touched crypto in a minute. Got on a productivity bent yesterday and d
 
 ---
 
+**[Chainlink secures 80% of Ethereum's DeFi. Its Chief Scientist co-formalized Proof of Work in 1999.](https://www.reddit.com/r/ethereum/comments/1q6gej8/chainlink_secures_80_of_ethereums_defi_its_chief/)**
+
+Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
+
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 7h ago
+
+---
+
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -154,11 +154,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum news: Staking queues drop to nearly zero, setting up bearish outlook for ETH](https://www.coindesk.com/markets/2026/01/06/ethereum-s-staking-queues-have-cleared-and-that-changes-the-eth-trade)**
+**['The year of revenue, assets, and trading': Ethereum and Solana boast growth in 2025](https://www.theblock.co/post/384535/the-year-of-revenue-assets-and-trading-ethereum-and-solana-boast-growth-in-2025)**
 
-With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
-
-CoinDesk • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -176,45 +174,49 @@ The Block • 9h ago
 
 ---
 
+**[Morgan Stanley Files for Spot Ethereum ETFs as TradFi Deepens Crypto Exposure](https://finance.yahoo.com/news/morgan-stanley-files-spot-ethereum-183205032.html)**
+
+Morgan Stanley files Ethereum ETFs as Wall Street expands crypto exposure despite volatility and a weakening market backdrop.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Morgan Stanley Adds Ethereum Trust To Planned Crypto ETF Lineup](https://decrypt.co/353829/morgan-stanley-adds-ethereum-trust-to-planned-crypto-etf-lineup)**
+
+The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
+
+Decrypt • 8h ago
+
+---
+
+**[Grayscale Ethereum ETF becomes first in the U.S. to distribute staking rewards: CNBC Crypto World](https://www.cnbc.com/video/2026/01/05/grayscale-ethereum-etf-becomes-first-in-the-us-to-distribute-staking-rewards-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
+
+CNBC • 2d ago
+
+---
+
 **[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
 
 The Block • 2d ago
 
 ---
 
-**[Morgan Stanley Files for Spot Ethereum ETFs as TradFi Deepens Crypto Exposure](https://finance.yahoo.com/news/morgan-stanley-files-spot-ethereum-183205032.html)**
+**[Grayscale's Ethereum ETF Begins Paying Staking Rewards](https://decrypt.co/353677/grayscales-ethereum-etf-begins-paying-staking-rewards)**
 
-Morgan Stanley files Ethereum ETFs as Wall Street expands crypto exposure despite volatility and a weakening market backdrop.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Network Usage Hits Record High—But Traders More Bullish on Gold](https://decrypt.co/353688/ethereum-network-usage-hits-record-high-but-traders-more-bullish-on-gold)**
-
-Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
+The Ethereum payout marks the first time a U.S. spot crypto product has distributed protocol-level income to investors.
 
 Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
 
-CCN.com • 1d ago
+PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
 
----
-
-**[Ethereum leads way as most big cryptocurrencies post declines](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-declines-70d11bcd-3880afa3796e?gaa_at=eafs&gaa_n=AWEtsqdOsxnBXi2uj9Asf-mN7ddhuk29Kp_MpXG_hf1MH6zwXbzEn9Jgzay3&gaa_ts=695ec52a&gaa_sig=UL0aHWp5CHI2FxM1XaPybUVIKPlQXvUGaYrrA-_T3yQXL-ptxG9FDzbIdnQZRo6ujwpHqnbMvkBpY0s8fXCumg%3D%3D)**
-
-MarketWatch • 6h ago
-
----
-
-**[Ethereum: The Accumulation Addresses Catalyst (Cryptocurrency: ETH-USD)](https://seekingalpha.com/article/4857134-ethereum-the-accumulation-addresses-catalyst)**
-
-Ethereum is in an accumulation phase, with supply shifting to long-term holders, supporting a bullish medium- to long-term thesis. Read why I rate the ETH-USD stock a Buy.
-
-Seeking Alpha • 2d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -228,7 +230,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 7K • 👍 628 • 💬 61 • ⏱️ 10:20 • 7h ago
+👁️ 7K • 👍 628 • 💬 61 • ⏱️ 10:20 • 8h ago
 
 ---
 
@@ -248,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 137 • 💬 7 • ⏱️ 4:16 • 3h ago
+👁️ 1K • 👍 137 • 💬 7 • ⏱️ 4:16 • 4h ago
 
 ---
 
@@ -258,7 +260,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 268 • 👍 21 • 💬 8 • ⏱️ 19:40 • 39m ago
+👁️ 268 • 👍 21 • 💬 8 • ⏱️ 19:40 • 1h ago
 
 ---
 
@@ -308,7 +310,7 @@ Welcome back ladies and gentlemen for another epic ripple XRP video! Become A Pa
 
 📺 AllinCrypto
 
-👁️ 2K • 👍 284 • 💬 60 • ⏱️ 11:33 • 2h ago
+👁️ 2K • 👍 284 • 💬 60 • ⏱️ 11:33 • 3h ago
 
 ---
 

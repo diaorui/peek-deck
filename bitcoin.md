@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T21:21:25.726194+00:00'
+updated: '2026-01-07T21:43:12.733822+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 21:21 UTC  
+**Last Updated:** January 07, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,352.78
+### $91,178.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.5%  
-**7d:** +2.7%  
-**30d:** -1.9%  
-**90d:** -19.4%  
-**1y:** -4.1%  
+**24h:** -2.6%  
+**7d:** +2.4%  
+**30d:** -2.1%  
+**90d:** -19.6%  
+**1y:** -4.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -91,15 +91,9 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 ---
 
-**[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
-
-12h ago
-
----
-
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -114,6 +108,12 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
 4h ago
+
+---
+
+**[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
+
+13h ago
 
 ---
 
@@ -135,7 +135,7 @@ Waste heat from Bitcoin miners is being reused to power greenhouses, turning ene
 
 Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my trezor model t so u can transfer them in a safe spot! Do you think btc has a good price rn? I want to buy and hold them for a few years. Thank you Pls do not dm
 
-4h ago
+5h ago
 
 ---
 
@@ -157,67 +157,67 @@ CNBC • 1d ago
 
 ---
 
-**[Venezuela rumored to hold $60B Bitcoin ‘shadow reserve’](https://fortune.com/2026/01/07/corruption-embezzlement-missing-money-venezuela-rumored-60-billion-bitcoin-shadow-reserve/)**
-
-If true, the claim could significantly reshape the global bitcoin market.
-
-Fortune • 3h ago
-
----
-
-**[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
-
-Investor's Business Daily • 1d ago
-
----
-
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
 Investor's Business Daily • 3h ago
 
 ---
 
-**[Strategy rises as MSCI shelves plans to exclude crypto treasury firms from indexes](https://www.reuters.com/business/strategy-rises-msci-shelves-plans-exclude-crypto-treasury-firms-indexes-2026-01-07/)**
+**[Big Pain Is Ahead for MicroStrategy Stock as Bitcoin Losses Mount. How Should You Play MSTR for January 2026?](https://finance.yahoo.com/news/big-pain-ahead-microstrategy-stock-161811493.html)**
 
-Reuters • 6h ago
+Down 66% from all-time highs, MSTR stock is under pressure due to falling Bitcoin prices over the last few months.
 
----
-
-**[Metaplanet (3350) extends rally to over 20% year to date after MSCI index decision](https://www.coindesk.com/markets/2026/01/07/metplanet-valued-at-three-month-high-relative-to-bitcoin-holdings-after-msci-decision)**
-
-Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
-
-CoinDesk • 11h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Is GameStop (GME) Pricing Reflect Its Cash, Bitcoin Holdings And Meme Stock Volatility](https://finance.yahoo.com/news/gamestop-gme-pricing-reflect-cash-191657042.html)**
+**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-If you are wondering whether GameStop's current share price lines up with its underlying value, you are not alone. This article is here to unpack that question in plain terms. GameStop last closed at US$20.66, with returns of 0.8% over 7 days, a 10.2% decline over 30 days, 0.2% year to date, a 37.4% decline over 1 year, a 17.6% return over 3 years and a very large gain over 5 years of roughly 3x. Recent headlines around GameStop continue to focus on its role as a heavily discussed retail...
-
-Yahoo Finance • 2h ago
+Reuters • 1d ago
 
 ---
 
-**[Riot sells $162 million in bitcoin as mining hashprice slumps back toward lows](https://www.theblock.co/post/384598/riot-sells-bitcoin-mining-hashprice-slump)**
+**[Coinbase exec names 2 factors driving bitcoin back toward highs in 2026](https://finance.yahoo.com/news/coinbase-exec-names-2-factors-driving-bitcoin-back-toward-highs-in-2026-205653237.html)**
 
-The Block • 9h ago
+After a $19 billion liquidation stress test in October 2025, institutional building is creating a new floor for the digital asset, according to a Coinbase's John D'Agostino.
 
----
-
-**[Riot Dumps Record $162M in Bitcoin as Hashprice Crisis Forces Largest-Ever Selloff](https://finance.yahoo.com/news/riot-dumps-record-162m-bitcoin-193013352.html)**
-
-Riot Platforms has carried out the largest bitcoin selloff in its history, dumping $161.6 million worth of BTC in December as deteriorating mining economics forced a sharp shift in treasury strategy. The sale came despite Riot producing more bitcoin month over month, showing how pressure from collapsing hashprice is now ...
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 46m ago
 
 ---
 
-**[Bitcoin miner Riot Platforms (RIOT) raised $200 million via BTC sales](https://www.coindesk.com/markets/2026/01/06/riot-platforms-sold-usd200-million-of-bitcoin-in-2025-s-last-two-months)**
+**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
 
-VanEck’s head of digital assets said bitcoin sales and the AI trade are increasingly linked as miners fund infrastructure build-outs.
+If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
 
-CoinDesk • 1d ago
+Bitcoin Magazine • 1h ago
+
+---
+
+**[Crypto: How bitcoin is starting 2026 off on the right foot](https://finance.yahoo.com/video/crypto-bitcoin-starting-2026-off-211306754.html)**
+
+Bitcoin (BTC-USD) falls below $91,000 per token on Wednesday as the cryptocurrency tries to find its footing in 2026 after selling off from a record high reached back in October. Yahoo Finance senior markets reporter Ines Ferré breaks down crypto investors' sentiment around a January recovery for bitcoin, going on to comment on price trajectories for crypto asset ethereum (ETH-USD) and precious metals commodity gold (GC=F) and which could reach $5,000 first. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination Overtime.
+
+Yahoo Finance • 30m ago
+
+---
+
+**[Bitcoin Faithful Still Missing Even After Token Reclaims $90,000](https://www.bloomberg.com/news/articles/2026-01-06/bitcoin-faithful-still-missing-even-after-token-reclaims-90-000)**
+
+Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
+
+Bloomberg.com • 9h ago
+
+---
+
+**[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
+
+Forbes • 7h ago
+
+---
+
+**[Bitcoin Price, XRP, Ethereum Jump. What's Driving Cryptos' Strong Start to 2026.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-stocks-venezuela-ad98c49c?gaa_at=eafs&gaa_n=AWEtsqeWkQqlIOPx5bNEewMagwWMd4NxhIh23K8FX89pSjte4SGa90ZIQScH&gaa_ts=695ed6d5&gaa_sig=DANdXFo0WPuer-3Dzr_i1RaEnp3jDVwomgfl8ScWJE0zW5m_5olNRmLK9OmfGhWgaR4Bpmpx_E8uybUc0VVmIA%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -251,7 +251,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 8h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 9h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -275,6 +275,14 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ---
 
+**[Water Heater Mines Bitcoin. It Could Help Solve AI's Energy Problem](https://news.ycombinator.com/item?id=46532869)**
+
+What do you do with the waste heat from computing? Superheat says just take a shower.
+
+⬆️ 1 • 💬 0 • 32m ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+
+---
+
 **[In 2025, Bitcoin showed how spectacularly wrong price forecasts can be](https://news.ycombinator.com/item?id=46527258)**
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
@@ -289,14 +297,6 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ---
 
-**[CNBC: Walmart to Accept Crypto](https://news.ycombinator.com/item?id=46503251)**
-
-According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
-
-⬆️ 2 • 💬 0 • 2d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,7 +307,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 415 • 💬 17 • ⏱️ 14:22 • 4h ago
+👁️ 6K • 👍 415 • 💬 17 • ⏱️ 14:22 • 5h ago
 
 ---
 
@@ -357,7 +357,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 10K • 👍 749 • 💬 52 • ⏱️ 7:10 • 7h ago
+👁️ 10K • 👍 749 • 💬 52 • ⏱️ 7:10 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:24 • 21h ago
+👁️ 19K • 👍 1K • 💬 146 • ⏱️ 11:24 • 22h ago
 
 ---
 
@@ -387,7 +387,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 14K • 👍 732 • 💬 163 • ⏱️ 6:15 • 23h ago
+👁️ 14K • 👍 732 • 💬 163 • ⏱️ 6:15 • 1d ago
 
 ---
 

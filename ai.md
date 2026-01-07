@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T21:21:25.717799+00:00'
+updated: '2026-01-07T21:43:12.725340+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - repositories
 - social
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 21:21 UTC  
+**Last Updated:** January 07, 2026 at 21:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 16h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 17h ago
 
 ---
 
@@ -63,7 +63,23 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 AI-Generated Ghost Player assistance would help out players who can’t progress in a game…
 
-🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 2h ago
+🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 3h ago
+
+---
+
+**[App that connects people having the same conversation](https://www.reddit.com/r/artificial/comments/1q6rprm/app_that_connects_people_having_the_same/)**
+
+I’m exploring a design problem around how people find others to talk to about the same thing at the same moment, without relying on forums, tags, or scrolling feeds. Most discussion platforms ask users to choose the right place to post, such as a subreddit, forum, or channel, or to search and scroll through existing threads. This works well for organizing information, but it can be slow and awkward when someone just wants to talk through an idea in real time. The concept I’m exploring is simple: You start any conversation (question, rant, brainstorm, etc.), and an AI instantly connects you with others talking about the same thing — no forums, no tags, just live context-based matching using LLMs. Would this be useful or chaotic? What features or limits would make it work?
+
+35m ago
+
+---
+
+**[ACE-Step: Generate AI music locally in 20 seconds (runs on 8GB VRAM)](https://www.reddit.com/r/artificial/comments/1q6mfoe/acestep_generate_ai_music_locally_in_20_seconds/)**
+
+I documented a comprehensive guide for ACE-Step after testing various AI music tools (MusicGen, Suno API, Stable Audio). Article with code: https://medium.com/gitconnected/i-generated-4-minutes-of-k-pop-in-20-seconds-using-pythons-fastest-music-ai-a9374733f8fc Why it's different: Runs completely locally (no API costs, no rate limits) Generates 4 minutes of music in ~20 seconds Works on budget GPUs (8GB VRAM with CPU offload) Supports vocals in 19 languages (English, Korean, etc.) Open-source and free Technical approach: Uses latent diffusion (27 denoising steps) instead of autoregressive generation 15× faster than token-based models like MusicGen Can run on RTX 4060, 3060, or similar 8GB cards What's covered in the guide: Complete installation (Windows troubleshooting included) Memory optimization for budget GPUs Batch generation for quality control Production deployment with FastAPI Two complete projects: Adaptive game music system (changes based on gameplay) DMCA-free music for YouTube/TikTok/Twitch Use cases: Game developers needing dynamic music Content creators needing copyright-free music Developers building music generation features Anyone wanting to experiment with AI audio locally All implementation code is included - you can set it up and start generating in ~30 minutes. Happy to answer questions about local AI music generation or deployment!
+
+3h ago
 
 ---
 
@@ -75,11 +91,11 @@ Been on an AI book kick lately. Picked up AI 2041 by Kai-Fu Lee and Chen Qiufan�
 
 ---
 
-**[ACE-Step: Generate AI music locally in 20 seconds (runs on 8GB VRAM)](https://www.reddit.com/r/artificial/comments/1q6mfoe/acestep_generate_ai_music_locally_in_20_seconds/)**
+**[Which web tools to create high quality AI images?](https://www.reddit.com/r/artificial/comments/1q6s3u6/which_web_tools_to_create_high_quality_ai_images/)**
 
-I documented a comprehensive guide for ACE-Step after testing various AI music tools (MusicGen, Suno API, Stable Audio). Article with code: https://medium.com/gitconnected/i-generated-4-minutes-of-k-pop-in-20-seconds-using-pythons-fastest-music-ai-a9374733f8fc Why it's different: Runs completely locally (no API costs, no rate limits) Generates 4 minutes of music in ~20 seconds Works on budget GPUs (8GB VRAM with CPU offload) Supports vocals in 19 languages (English, Korean, etc.) Open-source and free Technical approach: Uses latent diffusion (27 denoising steps) instead of autoregressive generation 15× faster than token-based models like MusicGen Can run on RTX 4060, 3060, or similar 8GB cards What's covered in the guide: Complete installation (Windows troubleshooting included) Memory optimization for budget GPUs Batch generation for quality control Production deployment with FastAPI Two complete projects: Adaptive game music system (changes based on gameplay) DMCA-free music for YouTube/TikTok/Twitch Use cases: Game developers needing dynamic music Content creators needing copyright-free music Developers building music generation features Anyone wanting to experiment with AI audio locally All implementation code is included - you can set it up and start generating in ~30 minutes. Happy to answer questions about local AI music generation or deployment!
+Which tool do you use to create AI images? I tried Microsoft Designer website but the quality was very poor. The generator in free ChatGPT is a bit better but I am still not able to produce images without obvious artifacts. Are the images of the paid version better or is it just faster and you have move requests available? The descriptions in the "Upgrade you plan" dialogue are very vague. Are the any more alternatives? P.S. I do not want to install terabytes of data and install douzands of plugins and extensions for a local model. I prefer a web solution. Thank you in advance.
 
-3h ago
+21m ago
 
 ---
 
@@ -99,23 +115,15 @@ Serious question for people working with ML systems that act autonomously. We of
 
 ---
 
-**[Character.ai And Google Will Settle Lawsuits Over Teen Suicides](https://www.reddit.com/r/artificial/comments/1q6pgas/characterai_and_google_will_settle_lawsuits_over/)**
-
-🔗 [go.forbes.com](https://go.forbes.com/9ysYH8) • 1h ago
-
----
-
-**[Am I the only one who finds Microsoft Copilot painfully behind?](https://www.reddit.com/r/artificial/comments/1q5utth/am_i_the_only_one_who_finds_microsoft_copilot/)**
-
-I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Amazon AI Tool Blindsides Merchants by Offering Products Without Their Knowledge](https://www.bloomberg.com/news/articles/2026-01-06/amazon-ai-tool-blindsides-merchants-by-offering-products-without-their-knowledge)**
+
+Bloomberg.com • 1d ago
+
+---
 
 **[Artificial intelligence begins prescribing medications in Utah](https://www.politico.com/news/2026/01/06/artificial-intelligence-prescribing-medications-utah-00709122)**
 
@@ -123,63 +131,61 @@ Politico • 1d ago
 
 ---
 
+**[Will 2026 Be the Year That the AI Industry Stops Crowing About ‘AGI’?](https://gizmodo.com/will-2026-be-the-year-that-the-ai-industry-stops-crowing-about-agi-2000707012)**
+
+Surely it's not because AGI is simply unachievable with the current technology.
+
+Gizmodo • 17m ago
+
+---
+
+**[Google, AI firm settle lawsuit over teen's suicide linked to Chatbot](https://www.reuters.com/world/google-ai-firm-settle-florida-mothers-lawsuit-over-sons-suicide-2026-01-07/)**
+
+Reuters • 54m ago
+
+---
+
+**[Google, Character.AI to settle suits involving minor suicides and AI chatbots](https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html)**
+
+Google and Character.AI are settling with families who sued the companies over alleged harm caused by AI chatbots.
+
+CNBC • 33m ago
+
+---
+
+**[AI Chatbot Startup, Google to Settle Lawsuits Over Teen Suicides](https://www.wsj.com/tech/ai/ai-chatbot-startup-google-to-settle-lawsuits-over-teen-suicides-fb41a063?gaa_at=eafs&gaa_n=AWEtsqcYvNrg7DEabIFsCqqzFnhCNbj_b0Gv4Idplm439FWg6GbBVThX3cd5&gaa_ts=695ed6d4&gaa_sig=f027DqEAZ36tleicBNvRe4ETcL7JHIX6qslrjSseH52z3cudxJqDRX2BIR7IbB3THxJdp7_sLzsg5t-qiRxFjw%3D%3D)**
+
+The Wall Street Journal • 3h ago
+
+---
+
+**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
+
+"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
+
+Fortune • 34m ago
+
+---
+
+**[‘Whata Bod’: An AI-generated NWS map invented fake towns in Idaho](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/)**
+
+The Washington Post • 15h ago
+
+---
+
 **[Distinct AI Models Seem To Converge On How They Encode Reality](https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/)**
 
 Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
 
-Quanta Magazine • 5h ago
+Quanta Magazine • 6h ago
 
 ---
 
-**[Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes](https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html)**
+**[3 semiconductor stocks to play the AI supercycle, according to analysts](https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html)**
 
-The New York Times • 1d ago
+As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
 
----
-
-**[Nvidia CEO Says Chinese Demand for Its AI Chips Is ‘Quite High’ - WSJ](https://www.wsj.com/tech/ai/nvidia-ceo-says-chinese-demand-for-its-ai-chips-is-quite-high-05c8d680?gaa_at=eafs&gaa_n=AWEtsqdmLTji0dZtnPy1z5Xvc0soR8arsAuLjjEfzgIqCPy1tdNQhoXO7YlM&gaa_ts=695ec527&gaa_sig=uIoiSrHDB5A021AUTd-AojB0QYi3akx4frLk8eWduCvWNImtwikZD7Y3K1CWi-blZBgB6mL2m526Ci4Bxe1xmw%3D%3D)**
-
-The Wall Street Journal • 23h ago
-
----
-
-**[Universal Music partners with Nvidia to create ‘responsible AI’ for music](https://www.latimes.com/entertainment-arts/business/story/2026-01-07/universal-music-partners-ai-company-nvidia)**
-
-Universal Music Group announced a deal Tuesday with AI chipmaker Nvidia in hopes of reshaping music discovery and creating a 'responsible AI' that artists can use while making music.
-
-Los Angeles Times • 1h ago
-
----
-
-**[AI Chatbot Startup, Google to Settle Lawsuits Over Teen Suicides](https://www.wsj.com/tech/ai/ai-chatbot-startup-google-to-settle-lawsuits-over-teen-suicides-fb41a063?gaa_at=eafs&gaa_n=AWEtsqfJ7LWrbL9wVl5e0qdZEVoR6_NAWpiB5tX4hbUqQUA9Iu3MttHB2wBa&gaa_ts=695ec527&gaa_sig=JSMYg4pxZfLDXpI-xm9ogQZhYCeSYk4DlZkWOkwZ6dVCRerjMaJWG1XtqfF7yX60vBPXlGUsHB9624RUZgjsHg%3D%3D)**
-
-The Wall Street Journal • 2h ago
-
----
-
-**[Google, AI Firm Settle Florida Mother's Lawsuit Over Son's Suicide](https://www.usnews.com/news/top-news/articles/2026-01-07/google-ai-firm-settle-florida-mothers-lawsuit-over-sons-suicide)**
-
-U.S. News & World Report • 1h ago
-
----
-
-**[Character.ai And Google Will Settle Lawsuits Over Teen Suicides](https://www.forbes.com/sites/zacharyfolk/2026/01/07/characterai-and-google-will-settle-lawsuits-over-teen-suicides/)**
-
-Forbes • 1h ago
-
----
-
-**[Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)**
-
-Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
-
-WIRED • 23h ago
-
----
-
-**[Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x)**
-
-Bloomberg.com • 10h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -191,7 +197,7 @@ Bloomberg.com • 10h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 788 • 💬 1186 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 798 • 💬 1215 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -207,23 +213,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 230 • 💬 375 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
-
----
-
-**[Eurostar AI vulnerability: When a chatbot goes off the rails](https://news.ycombinator.com/item?id=46492063)**
-
-TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar customer while planning a trip. When it opened, it clearly told me that “the answers in this chatbot are generated by AI”, which is good disclosure but immediately raised my curiosity about how it worked and what its limits were. Eurostar publishes a […]
-
-⬆️ 209 • 💬 48 • 3d ago • [Pen Test Partners](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
-
----
-
-**[Comparing AI agents to cybersecurity professionals in real-world pen testing](https://news.ycombinator.com/item?id=46518996)**
-
-We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
-
-⬆️ 120 • 💬 89 • 23h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 231 • 💬 375 • 1d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -231,7 +221,15 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 117 • 💬 65 • 5h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 136 • 💬 79 • 5h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+
+---
+
+**[Comparing AI agents to cybersecurity professionals in real-world pen testing](https://news.ycombinator.com/item?id=46518996)**
+
+We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
+
+⬆️ 121 • 💬 89 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -239,7 +237,7 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
 
-⬆️ 93 • 💬 52 • 2d ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
+⬆️ 94 • 💬 52 • 2d ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
 
 ---
 
@@ -263,6 +261,14 @@ A structural code search engine for Al agents. Contribute to marcoaapfortes/Mant
 
 ---
 
+**[The skill of the future is not 'AI', but 'Focus' (2025)](https://news.ycombinator.com/item?id=46513728)**
+
+Don't let AI erode your focus.
+
+⬆️ 66 • 💬 15 • 1d ago • [A journey into a wild pointer](https://carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -273,7 +279,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 5K • 👍 112 • 💬 18 • ⏱️ 9:50 • 18h ago
+👁️ 5K • 👍 112 • 💬 18 • ⏱️ 9:50 • 19h ago
 
 ---
 
@@ -313,7 +319,7 @@ Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=
 
 📺 WorldofAI
 
-👁️ 7K • 👍 207 • 💬 19 • ⏱️ 12:11 • 15h ago
+👁️ 7K • 👍 207 • 💬 19 • ⏱️ 12:11 • 16h ago
 
 ---
 
@@ -353,7 +359,7 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 386K • 👍 163 • 💬 1 • ⏱️ 0:47 • 16h ago
+👁️ 386K • 👍 163 • 💬 1 • ⏱️ 0:47 • 17h ago
 
 ---
 
@@ -415,7 +421,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 419 • 9h ago
+⬇️ 84,353 • ❤️ 419 • 10h ago
 
 ---
 
@@ -463,7 +469,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 232 • 22h ago
+⬇️ 77,452 • ❤️ 232 • 23h ago
 
 ---
 
@@ -656,7 +662,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 4h ago
+⭐ 2.1k • 🔱 126 • 5h ago
 
 ---
 
@@ -686,7 +692,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 14h ago
+⭐ 1.2k • 🔱 142 • 15h ago
 
 ---
 
