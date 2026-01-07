@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-07T16:33:17.400176+00:00'
+updated: '2026-01-07T17:27:16.876855+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 07, 2026 at 16:33 UTC  
+**Last Updated:** January 07, 2026 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-6h ago
+7h ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-5h ago
+6h ago
 
 ---
 
@@ -64,7 +64,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ In this clip, the head of robotics mentions that with a lot of robots, the bigge
 
 According to a new market forecast from Roots Analysis, construction robots are poised for massive growth. The sector, valued at $1.3 billion in 2026, is projected to exceed $11 billion by 2040. This surge is driven by critical industry needs: tackling labor shortages, boosting productivity, and improving on-site safety. Robots are now active in bricklaying, demolition, 3D concrete printing, and autonomous inspections. The Roots Analysis report highlights exciting tech trends, including the development of AI-powered humanoid robots for collaboration and specialized machines for tasks like painting and road work. While high upfront costs and complex site integration remain hurdles, significant funding and partnerships (like ABB's collaboration with Cosmic Buildings) are accelerating adoption. We seem to be at a tipping point where robotics could fundamentally change construction. Which specific application—from 3D printing to AI site management—are you most excited to see develop?
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ According to a new market forecast from Roots Analysis, construction robots are 
 
 I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
 
-45m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ I am building a robot simulator that can take your Arduino code, CAD files, circ
 
 At my last startup, I led a team to develop indoor localisation using SLAM. Every other solution claimed precision, but when we spoke to customers we discovered that realistically everything they'd tried was at around 6 or 7m accuracy, and suffered from false estimates, scale issues, and drift. We achieved reliable 1m-accuracy on any phone, and eventually sold it to IKEA. In developing that technology, there was a lot of crossover with robotics -- another area which had a lot of promise but a clear bottleneck preventing growth. It got me curious about why robots weren't able to do more. The hardware is capable of far more than what the intelligence software is enabling. I believe it's a problem with the intelligence architecture. i10e is my new robot intelligence research lab. The name is a numeronym for intelligence. Our mission is to discover a new architecture for robot intelligence, more inspired by the brain. Something that will be able to understand the world, and learn from experience. This is a wide search space and almost everyone is narrowly focussed on one area. I'd like to see more competition and exploration in the industry. This is my contribution to that.
 
-🔗 [Andrew Hart](https://andrewhart.me/i10e/) • 46m ago
+🔗 [Andrew Hart](https://andrewhart.me/i10e/) • 1h ago
 
 ---
 
@@ -96,13 +96,13 @@ At my last startup, I led a team to develop indoor localisation using SLAM. Ever
 
 Here are the modifications made to the controller, where it will now be possible to control 4 possible directions. Now I will finish the wiring to the motors and rebuild the car because it broke.
 
-2h ago
+3h ago
 
 ---
 
 **[UR10e vision-guided sorting (eye-in-hand) — only used teach pendant so far, confused about URScript & PC control](https://www.reddit.com/r/robotics/comments/1q6ggi6/ur10e_visionguided_sorting_eyeinhand_only_used/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -112,7 +112,7 @@ Here are the modifications made to the controller, where it will now be possible
 
 **[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfSw_cOOmMcVkXBfTRSAebt5qbLB8z0-wMXMxb2LDilucIa-mh07VGV&gaa_ts=695e8e2d&gaa_sig=yirAoc551dm505R9a9X5pO7N3ApZ7nFfKtWYlB2o2YFeFsFlfMI_KC-2Iv8SUCqQdSXdQwrUlDcW6HLg8SuOhg%3D%3D)**
 
-The Wall Street Journal • 18h ago
+The Wall Street Journal • 19h ago
 
 ---
 
@@ -144,13 +144,13 @@ Engadget • 1d ago
 
 New technique varies colour and texture to open up potential applications in display technologies
 
-Financial Times • 33m ago
+Financial Times • 1h ago
 
 ---
 
 **[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -205,7 +205,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 40K • 👍 1K • 💬 179 • ⏱️ 9:33 • 17h ago
+👁️ 40K • 👍 1K • 💬 179 • ⏱️ 9:33 • 18h ago
 
 ---
 
@@ -245,7 +245,7 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 10K • 👍 61 • 💬 2 • ⏱️ 1:06 • 13h ago
+👁️ 10K • 👍 61 • 💬 2 • ⏱️ 1:06 • 14h ago
 
 ---
 
@@ -255,7 +255,7 @@ Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in La
 
 📺 7NEWS Australia
 
-👁️ 4K • 👍 22 • 💬 26 • ⏱️ 2:25 • 10h ago
+👁️ 4K • 👍 22 • 💬 26 • ⏱️ 2:25 • 11h ago
 
 ---
 
@@ -265,7 +265,7 @@ Check out our hands-on exclusive demo of the $20000 Tron 1 from LimX Dynamics. C
 
 📺 CNET
 
-👁️ 9K • 👍 227 • 💬 16 • ⏱️ 2:12 • 16h ago
+👁️ 9K • 👍 227 • 💬 16 • ⏱️ 2:12 • 17h ago
 
 ---
 

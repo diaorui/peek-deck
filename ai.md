@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-07T16:33:17.381545+00:00'
+updated: '2026-01-07T17:27:16.859261+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 07, 2026 at 16:33 UTC  
+**Last Updated:** January 07, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI can now create genome viruses in laboratories and redesign toxins to evade controls, raising biosafety alert and rise of phage therapy.
 
-🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 12h ago
+🔗 [Earth.com](https://www.earth.com/news/ai-can-now-create-viruses-from-scratch-one-step-from-perfect-biological-weapon/) • 13h ago
 
 ---
 
@@ -49,19 +49,19 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-1h ago
+2h ago
 
 ---
 
 **[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 2h ago
 
 ---
 
 **[Grok is the legend🔥](https://www.reddit.com/r/artificial/comments/1q6jzkq/grok_is_the_legend/)**
 
-4m ago
+58m ago
 
 ---
 
@@ -69,13 +69,13 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 I really wanted to like it. It’s built into Windows, it’s free, and Microsoft is throwing everything at AI. But after giving Copilot a solid try for the last few months, I’ve come to a frustrating conclusion: it feels like it’s a good 12 months behind the curve compared to models like ChatGPT, Claude, Perplexity and Gemini. My main gripes: The “Helpfulness” Filter is Aggressive to a Fault: I ask for a slightly creative or edgy rewrite of an email, and it falls over itself with “I can’t assist with that.” I’m not asking for anything crazy! Other models understand nuance and intent way better. Output is Just… Weaker: The responses often feel generic, shorter, and lack the depth or insightful “spark” I get elsewhere. It’s like talking to a very cautious, middle-management AI. Context Gets Lost: I’ll have a back-and-forth and it seems to forget the core of what we’re discussing way faster than its competitors. The conversation threading feels brittle. Integration is Its Only Win: Sure, pulling data from my PC or summarizing a PDF in Edge is neat, but if the core brain isn’t as capable, the fancy integrations feel like a faster horse and carriage when everyone else is testing cars. It just has this overall vibe of an AI that was amazing in early 2023 but hasn’t evolved at the same pace. The refusal mechanisms are clunkier, the creativity is muted, and it doesn’t feel like a “thinking partner.” I keep checking in hoping an update will flip a switch, but so far, it’s my last-choice LLM. Anyone else having this experience, or am I using it wrong? Gave Copilot a fair shot, but it feels outdated and overly restricted compared to the current leading AI models. Its best feature is Windows integration, not its intelligence.
 
-19h ago
+20h ago
 
 ---
 
 **[Well, now. Shout-out to Grok for providing the how and why of what I have been screaming into the void for quite some time. I see ya, Grok. Well done.](https://www.reddit.com/r/artificial/comments/1q6ew6m/well_now_shoutout_to_grok_for_providing_the_how/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -83,7 +83,7 @@ I really wanted to like it. It’s built into Windows, it’s free, and Microsof
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus ( Would appreciate a ⭐) This is the crux of how it works: Repo parsed into Graph using AST -> Embeddings model running in browser creates the embeddings -> Everything is stored in a graph DB ( this also runs in browser through webassembly ) -> user sees UI visualization -> AI gets tools to query graph (cyfer query tool), semantic search, grep and node highlight. So therefore we get a quick code intelligence engine that works fully client sided 100% private. Except the LLM provider there is no external data outlet. ( working on ollama support ) Would really appreciate any cool ideas / inputs / etc. This is what I m aiming for right now: 1> Case 1 is quick way to chat with a repo, but then deepwiki is already there. But gitnexus has graph tools+ui so should be more accurate on audits and UI can help in visualize. 2> Downstream potential usecase will be MCP server exposed from browser itself, windsurf / cursor, etc can use it to perform codebase wise audits, blast radius detection of code changes, etc. 3> Another case might be since its fully private, devs having severe restrictions can use it with ollama or their own inference
 
-18h ago
+19h ago
 
 ---
 
@@ -91,7 +91,7 @@ Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which wo
 
 Hey everyone — Happy New Year! 🎉 We’re giving away a limited number of FREE 30-day Unlimited Plan codes for Writecream to kick off 2026. If you care about real SEO results (not just content), this is for you. Why Writecream? 🔗 Backlink Autopilot — grow domain authority organically with zero outreach 🌐 SEO + AEO/GEO — rank on Google and AI search results ⚡ One-click optimization — upgrade any existing article instantly 📝 One-click SEO articles — keyword → optimized article with images 🔍 All-in-one SEO tool — Keyword research → one click SEO article with images on researched keywords → backlinks How Backlink Autopilot works: Add your site, and Writecream places contextual, relevant backlinks across its 1M+ user network — only when topics match. No spam, no manual outreach, fully organic. How to get a free code 🎁 Comment “Writecream” below and we’ll DM you a 30-day Unlimited Plan code. First come, first served. Once they’re gone, they’re gone 🚀 Build traffic, authority, and AI visibility on autopilot ✨
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ There's an analytical tool-developed primarily in anthropology and ethnology for
 
 https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequently generate hallucinations -- plausible but factually incorrect outputs -- undermining their reliability. While prior work has examined hallucinations from macroscopic perspectives such as training data and objectives, the underlying neuron-level mechanisms remain largely unexplored. In this paper, we conduct a systematic investigation into hallucination-associated neurons (H-Neurons) in LLMs from three perspectives: identification, behavioral impact, and origins. Regarding their identification, we demonstrate that a remarkably sparse subset of neurons (less than 0.1\% of total neurons) can reliably predict hallucination occurrences, with strong generalization across diverse scenarios. In terms of behavioral impact, controlled interventions reveal that these neurons are causally linked to over-compliance behaviors. Concerning their origins, we trace these neurons back to the pre-trained base models and find that these neurons remain predictive for hallucination detection, indicating they emerge during pre-training. Our findings bridge macroscopic behavioral patterns with microscopic neural mechanisms, offering insights for developing more reliable LLMs."
 
-19h ago
+20h ago
 
 ---
 
@@ -119,7 +119,7 @@ https://arxiv.org/abs/2512.01797 Abstract: "Large language models (LLMs) frequen
 
 As memory stocks like Micron trade at a steep discount to the S&P 500, analysts debate whether a historic "bottleneck" in AI hardware has created the ultimate value play or a classic commodity trap.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -133,7 +133,7 @@ NBC News • 1d ago
 
 **[Musk’s Grok AI Generated Thousands of Undressed Images Per Hour on X](https://www.bloomberg.com/news/articles/2026-01-07/musk-s-grok-ai-generated-thousands-of-undressed-images-per-hour-on-x)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bloomberg.com • 5h ago
 
 Exclusive: Move follows outcry over use of Grok to digitally remove clothing from images of women and children
 
-The Guardian • 32m ago
+The Guardian • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Guardian • 32m ago
 
 The startup offering the renewals is eyeing nationwide approval.
 
-Gizmodo • 41m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Gizmodo • 41m ago
 
 Artificial intelligence (AI) could transform the field of urology from student education through clinical procedures to writing and reporting. In this Focus issue on the applications of AI in urology, we present articles covering a broad range of the potential uses in the field.
 
-Nature • 46m ago
+Nature • 1h ago
 
 ---
 
@@ -165,13 +165,13 @@ Nature • 46m ago
 
 AI slop is everywhere — except it's not so sloppy anymore. Just take a look at Instagram or TikTok. A lot of it looks real. That's where you come in.
 
-Business Insider • 37m ago
+Business Insider • 1h ago
 
 ---
 
 **[‘Whata Bod’: An AI-generated NWS map invented fake towns in Idaho](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/)**
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Washington Post • 10h ago
 
 In a complex multi-service, multi-domain scenario — not typically covered in Air Force training — the best of several AI tools generated tactical “courses of action” not only faster than military professionals but also with fewer errors.
 
-Breaking Defense • 18h ago
+Breaking Defense • 19h ago
 
 ---
 
@@ -187,7 +187,7 @@ Breaking Defense • 18h ago
 
 Wedbush's Dan Ives sees a $6 trillion path for the chip giant, but DA Davidson's Gil Luria warns that the "AI party" could face a hangover if the data center cycle begins to roll over.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 17h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 723 • 💬 1035 • 22h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 723 • 💬 1035 • 23h ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -231,7 +231,7 @@ TL;DR  Introduction  I first encountered the chatbot as a normal Eurostar cust
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 116 • 💬 82 • 19h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 116 • 💬 82 • 20h ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -251,7 +251,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 74 • 💬 17 • 22h ago
+⬆️ 74 • 💬 17 • 23h ago
 
 ---
 
@@ -267,7 +267,7 @@ A structural code search engine for Al agents. Contribute to marcoaapfortes/Mant
 
 Surely it works this time
 
-⬆️ 66 • 💬 72 • 2d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
+⬆️ 66 • 💬 72 • 3d ago • [GamesRadar+](https://www.gamesradar.com/games/microsoft-ceo-resorts-to-blogging-in-defense-of-ai-says-we-need-to-get-beyond-the-arguments-of-slop-exactly-what-id-say-if-i-was-tired-of-losing-the-arguments-of-slop/)
 
 ---
 
@@ -279,7 +279,7 @@ Surely it works this time
 
 📺 Alieff Irfan
 
-👁️ 595K • 👍 58K • 💬 8K • ⏱️ 50:05 • 3h ago
+👁️ 595K • 👍 58K • 💬 8K • ⏱️ 50:05 • 4h ago
 
 ---
 
@@ -359,7 +359,7 @@ At CES 2026, visitors experience AI Robotics through hands-on demonstrations on 
 
 📺 Hyundai Motor Group
 
-👁️ 12K • 👍 74 • 💬 1 • ⏱️ 0:33 • 10h ago
+👁️ 12K • 👍 74 • 💬 1 • ⏱️ 0:33 • 11h ago
 
 ---
 
@@ -421,7 +421,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 394 • 4h ago
+⬇️ 84,353 • ❤️ 394 • 5h ago
 
 ---
 
@@ -433,7 +433,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 6,324 • ❤️ 268 • 4h ago
+⬇️ 6,324 • ❤️ 268 • 5h ago
 
 ---
 
@@ -642,7 +642,7 @@ NitroGen is a vision-action foundation model trained on extensive gameplay data 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.4k • 🔱 747 • 3h ago
+⭐ 6.4k • 🔱 747 • 4h ago
 
 ---
 
@@ -662,7 +662,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 14m ago
+⭐ 2.1k • 🔱 126 • 1h ago
 
 ---
 
@@ -702,7 +702,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 95 • 17h ago
+⭐ 1.1k • 🔱 95 • 18h ago
 
 ---
 
@@ -722,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 976 • 🔱 118 • 3h ago
+⭐ 976 • 🔱 118 • 4h ago
 
 ---
 
@@ -732,7 +732,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 936 • 🔱 139 • 1h ago
+⭐ 936 • 🔱 139 • 2h ago
 
 ---
 

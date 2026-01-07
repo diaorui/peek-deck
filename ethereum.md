@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-07T16:33:17.396843+00:00'
+updated: '2026-01-07T17:27:16.873655+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 16:33 UTC  
+**Last Updated:** January 07, 2026 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 2h ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 3h ago
 
 ---
 
 **[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -102,13 +102,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't touched crypto in a minute. Got on a productivity bent yesterday and decided to move my Coinbase balance to my Ledger. I used the same address I last used and I see it as an internal transaction for the wallet on etherscan. However, my eth balance did not increase. Based on the reading I have done, I may not see the internal transaction in Ledget Wallet app, but the balance should show the addition. Last time I transferred from Coinbase it didn't do the smart contract thing so I'm at a loss. I probably screwed something up. I do admit that I didn't look at my Ledger wallet balance before the transaction, but Ledger Wallet app shows that the eth balance (0.589944 eth) hasn't changed since 2022. Can you experts take a look and advise me on what's going on? Wallet: https://etherscan.io/address/0xf3ee89d4e31669d14fedb724f5e47d241543dc1b#internaltx Transaction: https://etherscan.io/tx/0xf10772bd09a3723478ffe89f73bfdd4aa67f36afea94e1f7d3f3f5e3daf0b115
 
-16h ago
+17h ago
 
 ---
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been following web3 gaming and honestly confused why more people aren't talking about how broken the experience is on mainnet. Tried playing a few different blockchain games and the transaction confirmation times make everything feel laggy even when the game itself runs smooth. Like you'll be playing something that needs quick decisions and you make a move then have to wait 10-15 seconds for it to confirm on-chain. Completely kills any sense of real-time gameplay, your brain just registers it as the game being slow and broken even though technically it's working fine. I get that L2s exist but seems like most games are still launching on mainnet or shared infrastructure where they're competing with DeFi and NFT traffic during peak hours. Gaming traffic patterns are so different, you get these huge spikes during events and tournaments, not the steady load that most blockchain apps have. Is this just something gamers are supposed to accept or are there actually solutions that make web3 games feel as responsive as normal games? Because right now it seems like blockchain gaming has a fundamental UX problem that nobody's really solving.
 
-1d ago
+2d ago
 
 ---
 
@@ -148,7 +148,7 @@ Been following web3 gaming and honestly confused why more people aren't talking 
 
 **[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Block • 4h ago
 
 The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 3h ago
 
 The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -232,7 +232,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 220 • 1h ago
+👁️ 2K • 👍 220 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 13K • 👍 575 • 💬 62 • ⏱️ 12:17 • 17h ago
+👁️ 13K • 👍 575 • 💬 62 • ⏱️ 12:17 • 18h ago
 
 ---
 
@@ -272,7 +272,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 3 • ⏱️ 4:14 • 13h ago
+👁️ 2K • 👍 132 • 💬 3 • ⏱️ 4:14 • 14h ago
 
 ---
 
@@ -312,7 +312,7 @@ Chief Market Strategist Gareth Soloway updates investors after his latest crypto
 
 📺 Gareth Soloway
 
-👁️ 48K • 👍 3K • 💬 320 • ⏱️ 12:07 • 22h ago
+👁️ 48K • 👍 3K • 💬 320 • ⏱️ 12:07 • 23h ago
 
 ---
 
@@ -322,7 +322,7 @@ BITCOIN, ETH & THE NEXT MAJOR CRYPTO MOVE In this video, we break down the New Y
 
 📺 Kevin Svenson Crypto
 
-👁️ 7K • 👍 867 • 💬 188 • ⏱️ 13:24 • 16h ago
+👁️ 7K • 👍 867 • 💬 188 • ⏱️ 13:24 • 17h ago
 
 ---
 

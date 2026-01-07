@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T16:33:17.390646+00:00'
+updated: '2026-01-07T17:27:16.867713+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 16:33 UTC  
+**Last Updated:** January 07, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,25 +87,25 @@ Rank #1
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-5h ago
+6h ago
 
 ---
 
 **[Never Sell Your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q6a60d/never_sell_your_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
 **[People who sold at $84k](https://www.reddit.com/r/Bitcoin/comments/1q6168v/people_who_sold_at_84k/)**
 
-15h ago
+16h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -113,13 +113,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 #Bitcoin Up, down, sideways… just vibes 😂
 
-30m ago
+1h ago
 
 ---
 
 **[Watch 4 people in Europe send 15k sats to and from each other over the lightning network⚡ The 4th person sends those 15k sats to someone in El Salvadоr who then buys a coffee☕](https://www.reddit.com/r/Bitcoin/comments/1q60qm2/watch_4_people_in_europe_send_15k_sats_to_and/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -127,19 +127,19 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 Waste heat from Bitcoin miners is being reused to power greenhouses, turning energy that would normally be lost into food production. Even the loudest skeptics did NOT see this one coming.
 
-4h ago
+5h ago
 
 ---
 
 **[Counting my profits from crypto](https://www.reddit.com/r/Bitcoin/comments/1q6e1re/counting_my_profits_from_crypto/)**
 
-4h ago
+5h ago
 
 ---
 
 **[In 2020, the Fed increased USD money supply by 24.9%. Bitcoin issued exactly 1.8%, as scheduled a decade earlier.](https://www.reddit.com/r/Bitcoin/comments/1q6fqu8/in_2020_the_fed_increased_usd_money_supply_by_249/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -157,13 +157,13 @@ Barron's • 2d ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
 **[Bitcoin Hitting All-Time High Every Year Has ‘Good Odds,’ Says Galaxy Executive, Claims All Institutions Should Buy](https://www.ccn.com/news/crypto/bitcoin-all-time-high-every-year-good-odds-galaxy-executive/)**
 
-CCN.com • 1h ago
+CCN.com • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ CCN.com • 1h ago
 
 Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 21h ago
 
 After a late-2025 pullback, Fundstrat’s Tom Lee says crypto has not peaked, predicts a January Bitcoin breakout, and argues that Ethereum is entering a supercycle as markets digest years of outsized gains.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -187,13 +187,13 @@ CoinDesk • 1d ago
 
 Police reportedly detained Chen Zhi, the founder and chairman of Prince Group, before deporting him to China for investigation by Chinese authorities.
 
-Finance Magnates • 1h ago
+Finance Magnates • 2h ago
 
 ---
 
 **[MSCI Keeps Strategy — For Now — But Handcuffs Bitcoin Buying](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -201,7 +201,7 @@ Investor's Business Daily • 4h ago
 
 Bitcoin has been struggling lately to move higher, even after the MSCI has made its decision on digital assets treasury (DATs) companies to remain in MSCI-related global indexes.While this eased fears of firms like Strategy forcefully selling Bitcoin. Yet Bitcoin’s price did not move higher, leavin…
 
-TradingView — Track All Markets • 3h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -209,13 +209,13 @@ TradingView — Track All Markets • 3h ago
 
 Select bitcoin treasury equities gained after MSCI removed near-term index exclusion risk.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
 **[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -243,19 +243,19 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 2 • 💬 1 • 3h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 2 • 💬 1 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 3h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 4h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 3d ago
+⬆️ 2 • 💬 0 • 4d ago
 
 ---
 
@@ -277,7 +277,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 1h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 2h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -291,7 +291,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Free online tool to decode, validate and debug Bitcoin & Ethereum addresses. Convert Base58 to Hex, view Public Key Hash, decode Bech32, verify checksums, and analyze address structure. Privacy-first: all validation runs locally.
 
-⬆️ 1 • 💬 1 • 6d ago • [HexoRama](https://hexorama.com/)
+⬆️ 1 • 💬 1 • 7d ago • [HexoRama](https://hexorama.com/)
 
 ---
 
@@ -305,7 +305,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 725 • 💬 239 • ⏱️ 6:15 • 18h ago
+👁️ 13K • 👍 725 • 💬 239 • ⏱️ 6:15 • 19h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin is already on fire in 2026 — but it's not just about price. From billi
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 193 • ⏱️ 11:24 • 17h ago
+👁️ 17K • 👍 1K • 💬 193 • ⏱️ 11:24 • 18h ago
 
 ---
 
@@ -335,7 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 772 • 💬 67 • ⏱️ 48:00 • 20m ago
+👁️ 9K • 👍 772 • 💬 67 • ⏱️ 48:00 • 1h ago
 
 ---
 
@@ -345,7 +345,7 @@ Time and price are some of the most important things in markets. There is a key 
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 1K • 💬 23 • ⏱️ 30:55 • 8h ago
+👁️ 14K • 👍 1K • 💬 23 • ⏱️ 30:55 • 9h ago
 
 ---
 
@@ -395,7 +395,7 @@ David Sacks SPILLS THE BEANS on Crypto in 2026 Clarity Act!! ⭐ Follow Altcoin 
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 149 • ⏱️ 11:01 • 18h ago
+👁️ 48K • 👍 3K • 💬 149 • ⏱️ 11:01 • 19h ago
 
 ---
 
