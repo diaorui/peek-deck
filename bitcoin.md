@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-07T21:43:12.733822+00:00'
+updated: '2026-01-07T22:21:53.363483+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 07, 2026 at 21:43 UTC  
+**Last Updated:** January 07, 2026 at 22:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-10h ago
+11h ago
 
 ---
 
@@ -99,7 +99,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-4h ago
+5h ago
 
 ---
 
@@ -121,13 +121,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 Waste heat from Bitcoin miners is being reused to power greenhouses, turning energy that would normally be lost into food production. Even the loudest skeptics did NOT see this one coming.
 
-9h ago
+10h ago
 
 ---
 
 **[In all the years I’ve been coming to this mall, I don’t think I’ve ever seen anyone use this.](https://www.reddit.com/r/Bitcoin/comments/1q5zi93/in_all_the_years_ive_been_coming_to_this_mall_i/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi, I'm 15 and today I bought my first btc!(0.003) And tomorrow I will get my tr
 
 **[In 2020, the Fed increased USD money supply by 24.9%. Bitcoin issued exactly 1.8%, as scheduled a decade earlier.](https://www.reddit.com/r/Bitcoin/comments/1q6fqu8/in_2020_the_fed_increased_usd_money_supply_by_249/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNBC • 1d ago
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Reuters • 1d ago
 
 After a $19 billion liquidation stress test in October 2025, institutional building is creating a new floor for the digital asset, according to a Coinbase's John D'Agostino.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bitcoin Magazine • 1h ago
 
 Bitcoin (BTC-USD) falls below $91,000 per token on Wednesday as the cryptocurrency tries to find its footing in 2026 after selling off from a record high reached back in October. Yahoo Finance senior markets reporter Ines Ferré breaks down crypto investors' sentiment around a January recovery for bitcoin, going on to comment on price trajectories for crypto asset ethereum (ETH-USD) and precious metals commodity gold (GC=F) and which could reach $5,000 first. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Domination Overtime.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,13 +205,13 @@ Yahoo Finance • 30m ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
 **[Bitcoin: What Comes Next, Boom Or Doom?](https://www.forbes.com/sites/digital-assets/2026/01/07/bitcoin-what-comes-next-boom-or-doom/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -245,7 +245,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 8h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 9h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -279,7 +279,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 32m ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 1h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -287,7 +287,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -317,7 +317,7 @@ A Rally to $103k, but then a major rejection could be around the corner for Bitc
 
 📺 Crypto Jebb
 
-👁️ 818 • 👍 101 • 💬 20 • ⏱️ 17:38 • 2h ago
+👁️ 818 • 👍 101 • 💬 20 • ⏱️ 17:38 • 3h ago
 
 ---
 
@@ -327,7 +327,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 126 • ⏱️ 48:00 • 5h ago
+👁️ 20K • 👍 1K • 💬 126 • ⏱️ 48:00 • 6h ago
 
 ---
 
@@ -337,7 +337,7 @@ WEEX: https://cryptokid.io/WEEX TRADE CRYPTO Coinflare: https://cryptokid.io/Coi
 
 📺 Crypto Kid
 
-👁️ 585 • 👍 77 • 💬 5 • ⏱️ 4:32 • 1h ago
+👁️ 585 • 👍 77 • 💬 5 • ⏱️ 4:32 • 2h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin is on the doorstep of Phase 2 of this move, and this is the moment where
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 606 • 💬 22 • ⏱️ 25:29 • 1h ago
+👁️ 7K • 👍 606 • 💬 22 • ⏱️ 25:29 • 2h ago
 
 ---
 
@@ -367,7 +367,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 509 • 💬 48 • ⏱️ 5:24 • 4h ago
+👁️ 4K • 👍 509 • 💬 48 • ⏱️ 5:24 • 5h ago
 
 ---
 
@@ -397,7 +397,7 @@ Inflows are bullish, Liquidity is bullish, Regulation is bullish BUT we are movi
 
 📺 Digital Asset News
 
-👁️ 9K • 👍 666 • 💬 39 • ⏱️ 29:22 • 22h ago
+👁️ 9K • 👍 666 • 💬 39 • ⏱️ 29:22 • 23h ago
 
 ---
 
