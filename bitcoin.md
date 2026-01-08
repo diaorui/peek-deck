@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T03:40:42.766561+00:00'
+updated: '2026-01-08T04:40:27.652048+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 03:40 UTC  
+**Last Updated:** January 08, 2026 at 04:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1823.54B
+**Market Cap:** $1817.03B
 Rank #1
 
-**Circulating Supply:** 19,972,909 BTC
+**Circulating Supply:** 19,972,981 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.9%
 
 **All-Time Low:** $67.81
-+134551.2%
++134002.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-10h ago
+11h ago
 
 ---
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 Q3 was meant to be bullish Q4 was meant to be bullish It’s getting hard to trust
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Q3 was meant to be bullish Q4 was meant to be bullish It’s getting hard to tru
 
 People who bought Bitcoin before the ETFs
 
-2h ago
+3h ago
 
 ---
 
@@ -117,13 +117,13 @@ People who bought Bitcoin before the ETFs
 
 Once these last longs are liquidated, I bet we rocket past $95k.
 
-6h ago
+7h ago
 
 ---
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ Once these last longs are liquidated, I bet we rocket past $95k.
 
 THEY ARE TELLING US . BUCKLE UP 🚀
 
-16h ago
+17h ago
 
 ---
 
@@ -139,13 +139,13 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 I have just bought my first 100$ worth of bitcoin!
 
-5h ago
+6h ago
 
 ---
 
 **[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ I have just bought my first 100$ worth of bitcoin!
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ Investor's Business Daily • 2d ago
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ Investor's Business Daily • 9h ago
 
 Strategy shares (MSTR) jumped after MSCI decided not to exclude bitcoin-heavy firms from its indexes.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bitcoin Magazine • 9h ago
 
 MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 21h ago
 
 Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -251,13 +251,13 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 14h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 15h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 15h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 16h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -285,7 +285,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 6h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 7h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -293,7 +293,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 12h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 13h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -313,7 +313,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 5K • 👍 359 • 💬 5 • ⏱️ 43:55 • 5h ago
+👁️ 10K • 👍 512 • 💬 5 • ⏱️ 43:55 • 6h ago
 
 ---
 
@@ -323,7 +323,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 513 • 💬 20 • ⏱️ 14:22 • 11h ago
+👁️ 11K • 👍 533 • 💬 25 • ⏱️ 14:22 • 12h ago
 
 ---
 
@@ -333,17 +333,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 34K • 👍 3K • 💬 250 • ⏱️ 19:29 • 6h ago
-
----
-
-**[This CONFIRMS It: Wall Street’s Bitcoin Attack Was ALL Planned!! | EP 1413](https://www.youtube.com/watch?v=fzH-RDVq458)**
-
-The Wall St attack on bitcoin is finally exposed for what it is!
-
-📺 Simply Bitcoin
-
-👁️ 5K • 👍 326 • 💬 65 • ⏱️ 1:29:43 • 6h ago
+👁️ 46K • 👍 3K • 💬 309 • ⏱️ 19:29 • 7h ago
 
 ---
 
@@ -353,27 +343,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 752 • 💬 38 • ⏱️ 9:00 • 4h ago
-
----
-
-**[BITCOIN: DO NOT GET TRICKED!!! #BTC Price Prediction &amp; Crypto News Today](https://www.youtube.com/watch?v=k_b6y2zXFxs)**
-
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
-
-📺 Road To $1 Million USD
-
-👁️ 2K • 👍 131 • 💬 14 • ⏱️ 7:04 • 6h ago
-
----
-
-**[🚨 BITCOIN IS NOW FORCED INTO PORTFOLIOS... QUIETLY 🤫](https://www.youtube.com/watch?v=Brb3JHU5xZs)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 10K • 👍 719 • 💬 41 • ⏱️ 8:43 • 12h ago
+👁️ 16K • 👍 1K • 💬 54 • ⏱️ 9:00 • 5h ago
 
 ---
 
@@ -383,27 +353,57 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 Swan Bitcoin
 
-👁️ 18K • 👍 1K • 💬 101 • ⏱️ 13:35 • 13h ago
+👁️ 20K • 👍 1K • 💬 107 • ⏱️ 13:35 • 14h ago
 
 ---
 
-**[BITCOIN IS DUMPING AS PREDICTED! (THIS IS NEXT)](https://www.youtube.com/watch?v=aOzdgxzJNBs)**
+**[Bitcoin Supply Squeeze...Exchanges Drained](https://www.youtube.com/watch?v=c-iu5WcovHU)**
 
-WEEX: https://cryptokid.io/WEEX TRADE CRYPTO Coinflare: https://cryptokid.io/Coinflare FREE REWARDS IN ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Crypto Kid
+📺 CryptosRUs
 
-👁️ 3K • 👍 200 • 💬 17 • ⏱️ 4:32 • 7h ago
+👁️ 26K • 👍 1K • 💬 316 • ⏱️ 48:00 • 12h ago
 
 ---
 
-**[This SHOCKING Pattern Could CRASH BITCOIN! $103K MUST BREAK! Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=yjg3M5f2VxU)**
+**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
 
-A Rally to $103k, but then a major rejection could be around the corner for Bitcoin. Are you prepared for this?! Are you ready?
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 Crypto Jebb
+📺 Library Of Wealth
 
-👁️ 3K • 👍 188 • 💬 115 • ⏱️ 17:38 • 8h ago
+👁️ 21K • 👍 724 • 💬 326 • ⏱️ 13:40 • 1d ago
+
+---
+
+**[This CONFIRMS It: Wall Street’s Bitcoin Attack Was ALL Planned!! | EP 1413](https://www.youtube.com/watch?v=fzH-RDVq458)**
+
+The Wall St attack on bitcoin is finally exposed for what it is!
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 344 • 💬 20 • ⏱️ 1:29:43 • 7h ago
+
+---
+
+**[BITCOIN SUPER CYCLE CONFIRMED](https://www.youtube.com/watch?v=ebF1y1mHCHg)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/CoinflareCarl Make your ...
+
+📺 The Moon Show
+
+👁️ 14K • 👍 939 • 💬 76 • ⏱️ 7:10 • 15h ago
+
+---
+
+**[🚨 BITCOIN IS NOW FORCED INTO PORTFOLIOS... QUIETLY 🤫](https://www.youtube.com/watch?v=Brb3JHU5xZs)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 10K • 👍 753 • 💬 41 • ⏱️ 8:43 • 13h ago
 
 ---
 

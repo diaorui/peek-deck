@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T03:40:42.775960+00:00'
+updated: '2026-01-08T04:40:27.660186+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 03:40 UTC  
+**Last Updated:** January 08, 2026 at 04:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -48,25 +48,25 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-17h ago
+18h ago
 
 ---
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-19m ago
+1h ago
 
 ---
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +82,7 @@ Here's the construction of the car's control panel that I'll be making later! Th
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-16h ago
+17h ago
 
 ---
 
@@ -90,7 +90,7 @@ Environment Description The Franka lift cube task environment is built based on 
 
 I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
 
-11h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ hyundai.com • 2d ago
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -147,13 +147,13 @@ Reuters • 4h ago
 
 Chip technology company Arm Holdings has reorganized the company to create a Physical AI unit to expand its presence in the robotics market, company executives told Reuters at CES, where robots are a theme of the year.  The decision to create a ​unit that specializes in robotics arrives amid a flurry of announcements and activity at CES around humanoid robots.  At the sprawling Las Vegas trade show, large ‌and small companies demonstrated robots that could help build cars, clean toilets and deal games of poker - at a glacial pace.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Arm Holdings Creates New ‘Physical AI’ Unit to Expand into Robotics](https://www.tipranks.com/news/arm-holdings-creates-new-physical-ai-unit-to-expand-into-robotics)**
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
 
-90.5 WESA • 17h ago
+90.5 WESA • 18h ago
 
 ---
 
@@ -183,6 +183,36 @@ NVIDIA Newsroom • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
+
+Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
+
+📺 AI Revolution
+
+👁️ 49K • 👍 1K • 💬 201 • ⏱️ 9:33 • 1d ago
+
+---
+
+**[Realbotix Are Back: Now With Dude Robot](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+
+We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+
+📺 CNET
+
+👁️ 4K • 👍 109 • 💬 38 • ⏱️ 5:07 • 5h ago
+
+---
+
+**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
+
+This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
+
+📺 Cybernews
+
+👁️ 22K • 👍 699 • 💬 111 • ⏱️ 4:29 • 12h ago
+
+---
+
 **[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
 
 CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
@@ -193,43 +223,23 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 ---
 
-**[Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)**
-
-Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 ...
-
-📺 60 Minutes
-
-👁️ 1.1M • 👍 15K • 💬 4K • ⏱️ 13:17 • 2d ago
-
----
-
-**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
-
-Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 1K • 💬 197 • ⏱️ 9:33 • 1d ago
-
----
-
-**[Realbotix Are Back: Now With Dude Robot](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
-
-We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
-
-📺 CNET
-
-👁️ 2K • 👍 64 • 💬 23 • ⏱️ 5:07 • 4h ago
-
----
-
 **[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
 
 CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
 
 📺 CNBC Television
 
-👁️ 6K • 👍 66 • 💬 17 • ⏱️ 2:58 • 1d ago
+👁️ 6K • 👍 67 • 💬 17 • ⏱️ 2:58 • 1d ago
+
+---
+
+**[Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)**
+
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 ...
+
+📺 60 Minutes
+
+👁️ 1.1M • 👍 15K • 💬 4K • ⏱️ 13:17 • 3d ago
 
 ---
 
@@ -239,7 +249,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 468K • 👍 10K • 💬 2K • ⏱️ 7:00 • 2d ago
+👁️ 485K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
 
 ---
 
@@ -249,37 +259,27 @@ Atlas, a humanoid robot made by robotics company Boston Dynamics, has been upgra
 
 📺 60 Minutes
 
-👁️ 412K • 👍 6K • 💬 961 • ⏱️ 5:49 • 3d ago
+👁️ 421K • 👍 6K • 💬 976 • ⏱️ 5:49 • 3d ago
 
 ---
 
-**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
+**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
 
-This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
-
-📺 Cybernews
-
-👁️ 14K • 👍 531 • 💬 94 • ⏱️ 4:29 • 11h ago
-
----
-
-**[These New AI Robots Are About to Become Real in 2026](https://www.youtube.com/watch?v=t-GeDuS3qWw)**
-
-Humanoid robots are about to take a massive leap forward in 2026 — and the companies behind them are moving faster than ...
-
-📺 The AI Nexus
-
-👁️ 5K • 👍 103 • 💬 9 • ⏱️ 18:26 • 7d ago
-
----
-
-**[Robot vs Human at CES 2026 Las Vegas](https://www.youtube.com/watch?v=1q4SQlyPWX8)**
-
-Robot plays ping pong against a human. Explore the future of technology in this in-depth long-form coverage of CES 2026 in Las ...
+CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
 
 📺 The Laughing Lion
 
-👁️ 3K • 👍 18 • 💬 2 • ⏱️ 0:15 • 10h ago
+👁️ 86K • 👍 2K • 💬 245 • ⏱️ 25:02 • 21h ago
+
+---
+
+**[New Atlas Humanoid Revealed! Boston Dynamics &amp; Hyundai Just Changed Robotics Forever](https://www.youtube.com/watch?v=e73kf_iLAP0)**
+
+Hyundai Motor Group and Boston Dynamics brought out their famous Atlas prototype robot for the first time in public to introduce ...
+
+📺 CNET
+
+👁️ 226K • 👍 4K • 💬 730 • ⏱️ 9:05 • 2d ago
 
 ---
 
