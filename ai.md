@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T16:32:25.415649+00:00'
+updated: '2026-01-08T17:27:29.931024+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 16:32 UTC  
+**Last Updated:** January 08, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 5h ago
 
 ---
 
@@ -55,7 +55,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 11h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 12h ago
 
 ---
 
@@ -69,13 +69,13 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 20m ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
 
 ---
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 5h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 6h ago
 
 ---
 
@@ -83,7 +83,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-10h ago
+11h ago
 
 ---
 
@@ -91,7 +91,7 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 The title pretty much sums it up. I'm looking for people that actually paid for the tool and why. I've tried multiple tools like Chatpdf, notegpt and chattube but overall they kind of all feel the same. Although Chatpdf has a pretty decent UI. Really interested to know if some of you liked one of these enough to pay for it and would like to know why.
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 Now you can run AI models on your mobile phone Recently, I found this awesome open source app called Maid, which allow you to run AI models on your phone. I am from Gaza and during the war, most of the time I am offline, and I wanted to play around with AI and try things, I tried to install ollama on termux but no use. But maid is very easy, you open the app and download a model from a list of models of different sizes, and you are set. It might be slow on some devices. Dowload it and have fun.
 
-7h ago
+8h ago
 
 ---
 
@@ -119,19 +119,19 @@ Now you can run AI models on your mobile phone Recently, I found this awesome op
 
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
 **[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
 
-The Washington Post • 30m ago
+The Washington Post • 1h ago
 
 ---
 
 **[From Covid To AI: Inside The Exodus Of Retail CEOs](https://www.forbes.com/sites/gregpetro/2026/01/08/from-covid-to-ai-inside-the-exodus-of-retail-ceos/)**
 
-Forbes • 21m ago
+Forbes • 1h ago
 
 ---
 
@@ -139,13 +139,13 @@ Forbes • 21m ago
 
 Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Meta’s big Manus AI purchase hits a Chinese regulatory wall](https://qz.com/meta-manus-chinese-government-investigation-ai-agents)**
 
-qz.com • 19m ago
+qz.com • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ qz.com • 19m ago
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -161,13 +161,13 @@ CNN • 4h ago
 
 Donald Trump is all in on the transformative technology. The American people? Not so much.
 
-The Free Press • 21h ago
+The Free Press • 22h ago
 
 ---
 
 **[Jeffries to meet with new House Dem AI commission](https://www.politico.com/live-updates/2026/01/08/congress/jeffries-to-meet-with-new-house-dem-ai-working-group-00715720)**
 
-Politico • 2h ago
+Politico • 3h ago
 
 ---
 
@@ -175,13 +175,13 @@ Politico • 2h ago
 
 Datavault AI Inc. announced it will deliver enterprise-grade AI performance at the edge in New York and Philadelphia through an expanded collaboration with IBM using the SanQtum AI platform.
 
-IBM Newsroom • 4h ago
+IBM Newsroom • 5h ago
 
 ---
 
 **[Can A.I. Match Molière’s Wit? These Researchers Think So.](https://www.nytimes.com/2026/01/08/theater/moliere-ai-sorbonne-the-astrologer.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -217,7 +217,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 189 • 💬 32 • 20h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 189 • 💬 32 • 21h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -233,7 +233,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 135 • 💬 66 • 9h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 135 • 💬 66 • 10h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -257,7 +257,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 93 • 💬 116 • 1h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 93 • 💬 116 • 2h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -277,7 +277,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 60K • 👍 2K • 💬 112 • ⏱️ 13:08 • 17h ago
+👁️ 60K • 👍 2K • 💬 112 • ⏱️ 13:08 • 18h ago
 
 ---
 
@@ -395,7 +395,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 538 • 9h ago
+⬇️ 187,937 • ❤️ 538 • 10h ago
 
 ---
 
@@ -491,7 +491,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,506 • 12h ago
+⬇️ 38,529 • ❤️ 1,506 • 13h ago
 
 ---
 
@@ -638,7 +638,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.0k • 🔱 835 • 54m ago
+⭐ 7.0k • 🔱 835 • 1h ago
 
 ---
 
@@ -658,7 +658,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 127 • 2h ago
+⭐ 2.2k • 🔱 127 • 3h ago
 
 ---
 
@@ -688,7 +688,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 100 • 4h ago
+⭐ 1.2k • 🔱 100 • 5h ago
 
 ---
 
@@ -698,7 +698,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 11h ago
+⭐ 1.2k • 🔱 142 • 12h ago
 
 ---
 
@@ -718,7 +718,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 91 • 11h ago
+⭐ 1.1k • 🔱 91 • 12h ago
 
 ---
 

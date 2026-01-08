@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T16:32:25.424090+00:00'
+updated: '2026-01-08T17:27:29.939546+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 16:32 UTC  
+**Last Updated:** January 08, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 It will be 🔥💪 actually I heard rumours China has been buying lots of Gold and Bitcoin all along.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ It will be 🔥💪 actually I heard rumours China has been buying lots of Gold 
 
 BTC
 
-51m ago
+1h ago
 
 ---
 
@@ -103,19 +103,19 @@ BTC
 
 Bitcoin around 1 million dollars now seems crazy and too much for 2030. Now is the begging of 2026 and Bitcoin is in 90k.
 
-4h ago
+5h ago
 
 ---
 
 **[How it does](https://www.reddit.com/r/Bitcoin/comments/1q7d2zo/how_it_does/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Bitcoin around 1 million dollars now seems crazy and too much for 2030. Now is t
 
 People who bought Bitcoin before the ETFs
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ People who bought Bitcoin before the ETFs
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-23h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ People who bought Bitcoin before the ETFs
 
 How much $BTC did you add last year? https://preview.redd.it/7i8wab6h54cg1.jpg?width=1272&format=pjpg&auto=webp&s=cfd46f8ab14717a5059ebe0f46d7c328425e8034
 
-4h ago
+5h ago
 
 ---
 
@@ -173,7 +173,7 @@ Fortune • 1d ago
 
 Representative Snyder is pushing a bill to establish a bitcoin reserve in Florida.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 1d ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Motley Fool • 5h ago
 
 Chen Zhi, chairman of Prince Group, was arrested by law enforcement officials in Cambodia and extradited to China, government officials said.
 
-New York Post • 20h ago
+New York Post • 21h ago
 
 ---
 
@@ -221,13 +221,13 @@ abcnews.go.com • 1d ago
 
 The alleged mastermind of a major crypto scam ring that stole billions was arrested in Cambodia this week and extradited to China.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
 **[Bitcoin Miners Shift From Crypto to AI Data Centers](https://www.etftrends.com/coinshares-content-hub/bitcoin-miners-shift-crypto-ai-data-centers/)**
 
-ETF Trends • 20h ago
+ETF Trends • 21h ago
 
 ---
 
@@ -237,7 +237,7 @@ ETF Trends • 20h ago
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 5 • 💬 1 • 4h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 5 • 💬 1 • 5h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -273,7 +273,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 4d ago
+⬆️ 2 • 💬 0 • 5d ago
 
 ---
 
@@ -295,7 +295,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 1 • 💬 0 • 6h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 1 • 💬 0 • 7h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -303,7 +303,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 19h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 20h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://yout
 
 📺 MMCrypto
 
-👁️ 13K • 👍 1K • 💬 273 • ⏱️ 4:15 • 4h ago
+👁️ 13K • 👍 1K • 💬 273 • ⏱️ 4:15 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 8K • 👍 510 • 💬 58 • ⏱️ 10:03 • 8h ago
+👁️ 8K • 👍 510 • 💬 58 • ⏱️ 10:03 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 486 • 💬 67 • ⏱️ 7:28 • 9h ago
+👁️ 8K • 👍 486 • 💬 67 • ⏱️ 7:28 • 10h ago
 
 ---
 
@@ -357,7 +357,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 80K • 👍 5K • 💬 424 • ⏱️ 19:29 • 19h ago
+👁️ 80K • 👍 5K • 💬 424 • ⏱️ 19:29 • 20h ago
 
 ---
 
@@ -367,7 +367,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 8K • 👍 1K • 💬 105 • ⏱️ 17:35 • 2h ago
+👁️ 8K • 👍 1K • 💬 105 • ⏱️ 17:35 • 3h ago
 
 ---
 
@@ -377,7 +377,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 123 • ⏱️ 9:00 • 17h ago
+👁️ 34K • 👍 2K • 💬 123 • ⏱️ 9:00 • 18h ago
 
 ---
 
@@ -387,7 +387,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 KUDA VIBE
 
-👁️ 9K • 👍 4 • 5h ago
+👁️ 9K • 👍 4 • 6h ago
 
 ---
 
@@ -397,7 +397,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 819 • 💬 5 • ⏱️ 43:55 • 18h ago
+👁️ 19K • 👍 819 • 💬 5 • ⏱️ 43:55 • 19h ago
 
 ---
 
@@ -407,7 +407,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 429 • 💬 27 • ⏱️ 14:22 • 23h ago
+👁️ 12K • 👍 429 • 💬 27 • ⏱️ 14:22 • 1d ago
 
 ---
 
