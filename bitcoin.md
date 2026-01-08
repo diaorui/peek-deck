@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T14:27:15.322318+00:00'
+updated: '2026-01-08T14:53:50.075264+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 14:27 UTC  
+**Last Updated:** January 08, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ It will be 🔥💪 actually I heard rumours China has been buying lots of Gold 
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -115,7 +115,7 @@ People who bought Bitcoin before the ETFs
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -131,7 +131,7 @@ People who bought Bitcoin before the ETFs
 
 How much $BTC did you add last year? https://preview.redd.it/7i8wab6h54cg1.jpg?width=1272&format=pjpg&auto=webp&s=cfd46f8ab14717a5059ebe0f46d7c328425e8034
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 9h ago
 
 Strategy is an outperformer following MSCI's decision not to exclude the stock from its indices, but any positive reaction was muted by the decline in BTC.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -187,7 +187,7 @@ Barron's • 2h ago
 
 Institutional demand through U.S.-listed spot XRP ETFs remains strong, with net inflows continuing into early January.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ Coinpedia Fintech News • 18h ago
 
 A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ Bloomberg.com • 2d ago
 
 Morgan Stanley’s filings to launch Bitcoin and Solana ETFs mark a significant step by a major U.S. bank into crypto markets. Prominent Bitcoin advocates are ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -235,7 +235,7 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 5 • 💬 1 • 2h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 5 • 💬 1 • 3h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 380 • 💬 257 • ⏱️ 9:41 • 13h ago
+👁️ 7K • 👍 380 • 💬 257 • ⏱️ 9:41 • 14h ago
 
 ---
 
@@ -325,7 +325,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 76K • 👍 5K • 💬 393 • ⏱️ 19:29 • 17h ago
+👁️ 76K • 👍 5K • 💬 393 • ⏱️ 19:29 • 18h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://yout
 
 📺 MMCrypto
 
-👁️ 8K • 👍 1K • 💬 221 • ⏱️ 4:15 • 2h ago
+👁️ 8K • 👍 1K • 💬 221 • ⏱️ 4:15 • 3h ago
 
 ---
 
@@ -355,7 +355,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 463 • 💬 63 • ⏱️ 7:28 • 7h ago
+👁️ 7K • 👍 463 • 💬 63 • ⏱️ 7:28 • 8h ago
 
 ---
 
@@ -365,7 +365,7 @@ Let's talk about #Bitcoin in 2026! Subscribe to Guy: https://www.youtube.com/@mo
 
 📺 Benjamin Cowen
 
-👁️ 2K • 👍 180 • 40m ago
+👁️ 2K • 👍 180 • 1h ago
 
 ---
 
@@ -385,7 +385,7 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 366 • 💬 39 • ⏱️ 1:29:43 • 16h ago
+👁️ 7K • 👍 366 • 💬 39 • ⏱️ 1:29:43 • 17h ago
 
 ---
 
@@ -405,7 +405,7 @@ Bitcoin #Crypto #Finance Today we're diving into Canton Network with Digital Ass
 
 📺 The Wolf Of All Streets
 
-👁️ 744 • 👍 74 • 58m ago
+👁️ 744 • 👍 74 • 1h ago
 
 ---
 

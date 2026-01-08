@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T14:27:15.313939+00:00'
+updated: '2026-01-08T14:53:50.066881+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 14:27 UTC  
+**Last Updated:** January 08, 2026 at 14:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 3h ago
 
 ---
 
@@ -67,7 +67,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Last year's premium Gmail AI features are also rolling out to free users.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/google-announces-ai-overviews-in-gmail-search-experimental-ai-organized-inbox/) • 12m ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/google-announces-ai-overviews-in-gmail-search-experimental-ai-organized-inbox/) • 38m ago
 
 ---
 
@@ -125,7 +125,7 @@ Fortune • 17h ago
 
 **[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
 
-The Washington Post • 8m ago
+The Washington Post • 35m ago
 
 ---
 
@@ -133,13 +133,13 @@ The Washington Post • 8m ago
 
 Last year's big cybersecurity deals include Google's $32 billion Wiz acquisition and Palo Alto Networks' $25 billion CyberArk takeover.
 
-CNBC • 27m ago
+CNBC • 53m ago
 
 ---
 
 **[AI and military needs could worsen looming copper supply gap, study says](https://www.axios.com/2026/01/08/copper-demand-supply-ai-robots)**
 
-Axios • 29m ago
+Axios • 56m ago
 
 ---
 
@@ -147,13 +147,13 @@ Axios • 29m ago
 
 No-Headquarters/BOZEMAN, Mont., January 08, 2026--Snowflake (NYSE: SNOW), the AI Data Cloud company, today announced it has signed a definitive agreement to acquire Observe, a leader in AI-powered observability. With this acquisition, Snowflake will deliver the next generation of AI-powered observability, built on open standards and designed for the scale, complexity, and economics required by modern AI-driven enterprises.
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 53m ago
 
 ---
 
 **[Jeffries to meet with new House Dem AI commission](https://www.politico.com/live-updates/2026/01/08/congress/jeffries-to-meet-with-new-house-dem-ai-working-group-00715720)**
 
-Politico • 54m ago
+Politico • 1h ago
 
 ---
 
@@ -175,13 +175,13 @@ The New York Times • 3h ago
 
 China to probe Meta's acquisition of artificial intelligence startup Manus to assess its compliance with export control laws.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[China to assess, investigate Meta's acquisition of AI startup Manus](https://www.reuters.com/business/media-telecom/china-assess-investigate-metas-acquisition-ai-startup-manus-2026-01-08/)**
 
-Reuters • 3h ago
+Reuters • 4h ago
 
 ---
 
@@ -217,7 +217,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 184 • 💬 28 • 18h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 184 • 💬 28 • 19h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -225,7 +225,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 176 • 💬 110 • 22h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 176 • 💬 110 • 23h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -241,7 +241,7 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 123 • 💬 62 • 7h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 123 • 💬 62 • 8h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -287,7 +287,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.1M • 👍 53K • 💬 7K • ⏱️ 17:14 • 19h ago
+👁️ 1.1M • 👍 53K • 💬 7K • ⏱️ 17:14 • 20h ago
 
 ---
 
@@ -489,7 +489,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,506 • 10h ago
+⬇️ 38,529 • ❤️ 1,506 • 11h ago
 
 ---
 
@@ -656,7 +656,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 9m ago
+⭐ 2.1k • 🔱 126 • 36m ago
 
 ---
 
@@ -686,7 +686,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 100 • 2h ago
+⭐ 1.2k • 🔱 100 • 3h ago
 
 ---
 
@@ -726,7 +726,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 991 • 🔱 119 • 56m ago
+⭐ 991 • 🔱 119 • 1h ago
 
 ---
 

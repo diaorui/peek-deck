@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T14:27:15.331511+00:00'
+updated: '2026-01-08T14:53:50.084380+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 14:27 UTC  
+**Last Updated:** January 08, 2026 at 14:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -52,7 +52,7 @@ Robotics research and industry news
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -66,13 +66,13 @@ Robotics research and industry news
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-5h ago
+6h ago
 
 ---
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -106,7 +106,7 @@ Humanoid robots have been getting a lot of attention lately, with recent demos l
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -122,7 +122,7 @@ Seeking Alpha • 4h ago
 
 The move highlights how expanding enterprise robotics deployments are forcing CIOs to rethink where AI systems run.
 
-Computerworld • 3h ago
+Computerworld • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ CNET • 3d ago
 
 The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
 
-International Federation of Robotics • 7h ago
+International Federation of Robotics • 8h ago
 
 ---
 
@@ -200,7 +200,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 55K • 👍 1K • 💬 218 • ⏱️ 4:29 • 21h ago
+👁️ 55K • 👍 1K • 💬 218 • ⏱️ 4:29 • 22h ago
 
 ---
 
