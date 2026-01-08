@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T22:22:14.710561+00:00'
+updated: '2026-01-08T22:47:41.232283+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 22:22 UTC  
+**Last Updated:** January 08, 2026 at 22:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ Recently graduated with 1 year experience(Intern). Do I have chance of landing j
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
@@ -130,11 +130,27 @@ hyundai.com • 3d ago
 
 ---
 
+**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
+
+Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Why Serve Robotics Stock Skyrocketed Higher This Week](https://www.fool.com/investing/2026/01/08/why-serve-robotics-stock-skyrocketed-higher-this-w/)**
 
 Serve Robotics had an incredible news week.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
+
+---
+
+**[Kraken Robotics (CVE:PNG) Sets New 1-Year High - Here's Why](https://www.marketbeat.com/instant-alerts/kraken-robotics-cvepng-sets-new-1-year-high-heres-why-2026-01-08/)**
+
+Kraken Robotics (CVE:PNG) Sets New 52-Week High  - What's Next?
+
+MarketBeat • 6h ago
 
 ---
 
@@ -142,7 +158,7 @@ The Motley Fool • 2h ago
 
 Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -154,27 +170,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Nvidia wants to be the Android of generalist robotics](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/)**
+**[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
 
-Nvidia unveiled a full-stack robotics ecosystem at CES 2026, including foundation models, simulation tools, and hardware. It wants to be the default platform for robotics.
+Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
 
 TechCrunch • 2d ago
-
----
-
-**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
-
-The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
-
-International Federation of Robotics • 15h ago
-
----
-
-**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
-
-A new wave of humanoids are coming. Qualcomm is ready to power them.
-
-CNET • 3d ago
 
 ---
 
@@ -218,7 +218,7 @@ Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with it
 
 📺 Kalil 4.0
 
-👁️ 566 • 👍 18 • ⏱️ 0:48 • 4h ago
+👁️ 566 • 👍 18 • ⏱️ 0:48 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 34K • 👍 2K • 💬 90 • ⏱️ 0:39 • 4h ago
+👁️ 34K • 👍 2K • 💬 90 • ⏱️ 0:39 • 5h ago
 
 ---
 

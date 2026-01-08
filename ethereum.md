@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T22:22:14.707327+00:00'
+updated: '2026-01-08T22:47:41.229026+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 22:22 UTC  
+**Last Updated:** January 08, 2026 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,098.85
+### $3,120.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
+**24h:** -1.7%  
 **7d:** -0.3%  
 **30d:** -6.2%  
 **90d:** -17.2%  
@@ -88,7 +88,13 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires, Argentina, building and operating self-custodial decentralized finance strategies for people and organizations that want real exposure to DeFi without having to become protocol experts. We started years ago doing algorithmic market making and Protocol Owned Liquidity (PoL), and have grown into a broader on-chain asset manager serving institutions, DAOs, and companies alike. We believe DeFi is converging toward professional operators, much like traditional finance did — and that this only works if it’s built for the long term, not short-term incentives or hype. What We Do (at a Glance) Tokenized Investment Funds On-chain, non-custodial, discretional, partially-algorithmic DAMMstable Market-neutral strategies for USD stablecoins. DAMMeth Market-neutral strategies for ETH holders. DAMMop OP-denominated algorithmic strategies. DAMMbtc (upcoming) BTC-focused strategies deployed via Ethereum and L2s. DeFi-as-a-Service (DaaS) DeFi execution for institutions, DAOs, and protocols. Treasury management, liquidity strategy design, and Protocol Owned Liquidity. Clients retain full ownership and control at all times. Our Values We believe in the values of Ethereum. Our team is fully crypto-native and has been for years. We operate with a strict set of principles: no centralized exchanges, no off-chain custody, no opaque structures, and no token or emissions theater. Everything we do is transparent, verifiable, and non-custodial, designed so clients always retain control of their capital. We focus on risk-adjusted returns, build for the long term, and remain independent and aligned with the people who trust us with their capital. Links Email: team@dammcap.finance Website: https://dammcap.finance Twitter / X: https://x.com/DAMM_Capital LinkedIn: https://www.linkedin.com/company/damm-capital/ Docs & Research: https://docs.dammcap.finance AMA — happy to answer questions.
 
-4h ago
+5h ago
+
+---
+
+**[Polymarket And Delphi Digital Make History With Tradable Research](https://www.reddit.com/r/ethereum/comments/1q7g8gh/polymarket_and_delphi_digital_make_history_with/)**
+
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 6h ago
 
 ---
 
@@ -98,15 +104,9 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 ---
 
-**[Polymarket And Delphi Digital Make History With Tradable Research](https://www.reddit.com/r/ethereum/comments/1q7g8gh/polymarket_and_delphi_digital_make_history_with/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 5h ago
-
----
-
 **[2026 Web3 Events Repository](https://www.reddit.com/r/ethereum/comments/1q7dmjf/2026_web3_events_repository/)**
 
-🔗 [thrilldlabs.io](https://www.thrilldlabs.io/blog-posts/2026-web3-event-repository) • 7h ago
+🔗 [thrilldlabs.io](https://www.thrilldlabs.io/blog-posts/2026-web3-event-repository) • 8h ago
 
 ---
 
@@ -148,11 +148,27 @@ The Block • 21h ago
 
 ---
 
+**[Ethereum's Blockchain Trilemma 'Solved': Vitalik Buterin](https://decrypt.co/353587/ethereums-blockchain-trilemma-solved-vitalik-buterin)**
+
+The Ethereum co-founder said upgrades allow the network to achieve decentralization, security and scalability at once.
+
+Decrypt • 3d ago
+
+---
+
 **[Fidelity Let’s You Go Full YOLO On Ethereum, but Should You?](https://finance.yahoo.com/news/fidelity-let-full-yolo-ethereum-192632422.html)**
 
 Crypto speculation has moved from exchanges to brokerage accounts. Spot Ethereum ETFs let investors bet on the second-largest cryptocurrency without managing wallets or private keys. But easy access doesn’t mean you should add Ethereum exposure. What FETH Actually Does Fidelity Ethereum Fund (NYSE:FETH) holds actual Ether tokens and tracks their price. When Ethereum rises or ... Fidelity Let’s You Go Full YOLO On Ethereum, but Should You?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://finance.yahoo.com/news/ethereum-treasury-firm-sharplink-stakes-215216000.html)**
+
+Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
+
+Yahoo Finance • 55m ago
 
 ---
 
@@ -160,7 +176,7 @@ Yahoo Finance • 2h ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -202,22 +218,6 @@ Finance Magnates • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum And Solana Rebound Strongly To Start 2026 - Crypto Overview](https://seekingalpha.com/article/4857497-bitcoin-ethereum-solana-rebound-strongly-to-start-2026-crypto-overview)**
-
-Despite growth in stock indexes and metals, the YoY performance for Bitcoin in 2025 was actually negative. But YoY change fails to capture the total volatility and opportunity in the period.
-
-Seeking Alpha • 2d ago
-
----
-
-**[Ethereum’s staking queues have cleared and that changes the ETH trade](https://finance.yahoo.com/news/ethereum-staking-queues-cleared-changes-153000116.html)**
-
-With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
-
-Yahoo Finance • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -228,7 +228,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 116 • 💬 14 • ⏱️ 11:47 • 9h ago
+👁️ 2K • 👍 116 • 💬 14 • ⏱️ 11:47 • 10h ago
 
 ---
 

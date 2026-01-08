@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T22:22:14.692727+00:00'
+updated: '2026-01-08T22:47:41.214581+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 22:22 UTC  
+**Last Updated:** January 08, 2026 at 22:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 6h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 7h ago
 
 ---
 
@@ -71,7 +71,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 5h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 6h ago
 
 ---
 
@@ -139,49 +139,55 @@ blog.google • 9h ago
 
 ---
 
+**[AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)**
+
+One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
+
+IEEE Spectrum • 9h ago
+
+---
+
+**[Cyera's newest raise shows how AI is boosting data security dealmaking](https://www.axios.com/pro/enterprise-software-deals/2026/01/08/ai-cybersecurity-deals-cyera)**
+
+Axios • 48m ago
+
+---
+
+**[The uncharted territory of AI doctors](https://www.politico.com/newsletters/digital-future-daily/2026/01/08/the-uncharted-territory-of-ai-doctors-00717215)**
+
+Politico • 57m ago
+
+---
+
+**[Google and AI startup to settle lawsuits alleging chatbots led to teen suicide](https://www.theguardian.com/technology/2026/jan/08/google-character-ai-settlement-teen-suicide)**
+
+Lawsuit accuses AI chatbots of harming minors and includes case of Sewell Setzer III, who killed himself in 2024
+
+The Guardian • 4h ago
+
+---
+
+**[Character.AI and Google agree to settle lawsuits over teen mental health harms and suicides](https://www.cnn.com/2026/01/07/business/character-ai-google-settle-teen-suicide-lawsuit)**
+
+Character.AI has agreed to settle multiple lawsuits alleging the artificial intelligence chatbot maker contributed to mental health crises and suicides among young people, including a case brought by Florida mother Megan Garcia.
+
+CNN • 23h ago
+
+---
+
+**[Teen's Mom Settles with Google and AI Company After Claiming His Suicide Was Fueled by Love of Chatbot](https://people.com/teens-mom-settles-with-google-and-ai-company-after-claiming-his-suicide-was-fueled-by-love-of-chatbot-11881597)**
+
+Google and Character.AI agreed to settle a wrongful death suit from a Florida mom after her 14-year-old son died by suicide in 2024.
+
+People.com • 41m ago
+
+---
+
 **[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
 
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
 Fortune • 1d ago
-
----
-
-**[A New Year’s Resolution For Leaders: Redesign Work For People And AI](https://www.forbes.com/sites/kweilinellingrud/2026/01/08/a-new-years-resolution-for-leaders-redesign-work-for-people-and-ai/)**
-
-Forbes • 1h ago
-
----
-
-**[Market Bubbles Go Way Beyond AI, Says Richard Bernstein Advisors](https://www.bloomberg.com/news/articles/2026-01-08/market-bubbles-go-way-beyond-ai-says-richard-bernstein-advisors)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Meta and Nvidia show just how messy AI geopolitics is getting](https://qz.com/ai-policy-us-china-eu-nvidia-meta-manus)**
-
-qz.com • 1h ago
-
----
-
-**[Jeffries to meet with new House Dem AI commission](https://www.politico.com/live-updates/2026/01/08/congress/jeffries-to-meet-with-new-house-dem-ai-working-group-00715720)**
-
-Politico • 8h ago
-
----
-
-**[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
-
-The Washington Post • 4h ago
-
----
-
-**[Intel hopes its new chip can be the future of AI. An executive explains how](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces)**
-
-Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
-
-CNN • 10h ago
 
 ---
 
@@ -193,7 +199,7 @@ CNN • 10h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 838 • 💬 1317 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 839 • 💬 1318 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -201,13 +207,13 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 299 • 💬 220 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 333 • 💬 251 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 262 • 💬 80 • 3h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 324 • 💬 116 • 3h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -215,15 +221,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 236 • 💬 97 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
-
----
-
-**[Why didn't AI “join the workforce” in 2025?](https://news.ycombinator.com/item?id=46505735)**
-
-Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
-
-⬆️ 233 • 💬 380 • 3d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 237 • 💬 97 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -231,7 +229,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 207 • 💬 98 • 4h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 215 • 💬 103 • 4h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -239,7 +237,15 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 198 • 💬 33 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 200 • 💬 34 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+
+---
+
+**[AI coding assistants are getting worse?](https://news.ycombinator.com/item?id=46542036)**
+
+One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
+
+⬆️ 156 • 💬 198 • 7h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -247,15 +253,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 143 • 💬 79 • 15h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
-
----
-
-**[AI Coding Assistants Are Getting Worse](https://news.ycombinator.com/item?id=46542036)**
-
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-⬆️ 136 • 💬 180 • 7h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 145 • 💬 80 • 16h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -264,6 +262,12 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
 ⬆️ 124 • 💬 91 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+
+---
+
+**[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
+
+⬆️ 81 • 💬 20 • 2d ago
 
 ---
 
@@ -383,7 +387,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 572 • 14h ago
+⬇️ 187,937 • ❤️ 572 • 15h ago
 
 ---
 
@@ -639,7 +643,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.1k • 🔱 842 • 4h ago
+⭐ 7.1k • 🔱 842 • 5h ago
 
 ---
 
@@ -719,7 +723,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 92 • 4h ago
+⭐ 1.1k • 🔱 92 • 5h ago
 
 ---
 
@@ -729,7 +733,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 995 • 🔱 120 • 8h ago
+⭐ 995 • 🔱 120 • 9h ago
 
 ---
 
