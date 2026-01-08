@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T17:52:58.874022+00:00'
+updated: '2026-01-08T18:30:19.068572+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 17:52 UTC  
+**Last Updated:** January 08, 2026 at 18:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Youtube and X. Friday Jan. 9th - 2pmET - "Blockchain and Belief" - Princeton Professors Roundtable tl:dr: Go to dailydoots.com and subscribe wherever you get your podcasts. This is a discussion about all things money, blockchain, religion, economics, and even a dash of the occult. We have some INCREDIBLE guests lined up from DeCenter of Princeton University led by Dr. Michael Maizels. Guests have wide ranging accolades from Dartmouth, Princeton, Yale, Geneva and more. I had the opportunity to be a guest at DeCenter/Princeton's "Blockchain and Belief" Conference back in November and had the privilege to represent our r/ethereum and EVMavericks community with a deep dive on our Daily Doots system and our history of Hodlercons, Culture, Memes, and More. I promise...we're definitely not a cult.....definitely. If you missed it, this was my presentation at Princeton: https://youtu.be/0lLC9AJg6s0 Got questions? Ask em right here on this thread! Carolyn Biltoft Carolyn Biltoft holds a PhD from Princeton University and is an Associate Professor of International History and Politics at the Geneva Graduate Institute. Carolyn writes and writes on the relationship between the history of epistemology and economic thought since the 18th century. Her acclaimed book A Violent Peace: Truth, Media and Power at the League of Nations explores media, propaganda, and truth claims in early global institutions and contains a chapter on counterfeit currency in the age of fascism. Carolyn is a founding editor of Capitalism: a journal of history and economics https://www.pennpress.org/journals/journal/capitalism/ Andrew Chignell Andrew Chignell is a professor at Princeton University's Center for Human Values, with appointments in Religion and Philosophy. His research spans Kant, philosophy of religion, ethics of belief, and topics like hope and despair. Recently, he has directed the Princeton Project in Philosophy and Religion and led efforts for a major cross-disciplinary grant on optimism, pessimism, hope, and despair. chignell.net Devin P. Singh Devin P. Singh holds a PhD from Yale University and is an Associate Professor of Religion at Dartmouth College. His work examines intersections of Christian thought with economy, politics, money, and secularization. Recent publications include the book Economy and Modern Christian Thought and an ongoing project on the religious and social roles of debt. devinsingh.com Gordon Grant is a seasoned cryptocurrency trader and derivatives expert. Graduating from Princeton University with a focus on econometrics and quantitative finance, he built his early career as a derivatives portfolio manager before he discovered Bitcoin in 2013 and made a full pivot to digital assets, He played a pivotal role at Genesis Trading from 2019 to 2023 and Today Gordon serves as Principal at ChiSquared Technologies Mike W Maizels Mike Maizels (Michael Maizels) is the Executive Director of Princeton University's DeCenter for blockchain and decentralization research. With a background in interdisciplinary technology and societal change, he leads efforts to advance education, research, and policy around blockchain's potential to shift power structures. He co-directs major events like the DeCenter's annual Spring Conference on decentralization's infrastructure and implications. decenter.princeton.edu
 
-3h ago
+4h ago
 
 ---
 
 **[Lost Your Validator Mnemonic? A Community Proposal to Recover BLS-Locked ETH](https://www.reddit.com/r/ethereum/comments/1q7b9ce/lost_your_validator_mnemonic_a_community_proposal/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Polymarket And Delphi Digital Make History With Tradable Research](https://www.reddit.com/r/ethereum/comments/1q7g8gh/polymarket_and_delphi_digital_make_history_with/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 1h ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 2h ago
 
 ---
 
@@ -142,7 +142,7 @@ PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments a
 
 **[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 2d ago
 
 Cyvers flags a suspected $26 million Ethereum transaction linked to Truebit Protocol, as questions emerge over a potential security breach.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,7 +188,7 @@ Fortune • 3d ago
 
 Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -212,7 +212,7 @@ Decrypt • 2d ago
 
 Why are Bitcoin, Ethereum, and XRP Prices going down at the same time? Every trader is currently looking for this answer, as the tokens dropped suddenly in the times when they were believed to maintain a bullish continuation. After a strong start to the year, the crypto market has turned defensive…
 
-TradingView — Track All Markets • 21h ago
+TradingView — Track All Markets • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 695 • 👍 105 • 💬 5 • ⏱️ 6:11 • 3h ago
+👁️ 695 • 👍 105 • 💬 5 • ⏱️ 6:11 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ In this video, we analyze the monumental shift in Japan's cryptocurrency taxatio
 
 📺 CryptoStock Lab
 
-👁️ 2K • 👍 57 • 💬 2 • ⏱️ 14:27 • 19h ago
+👁️ 2K • 👍 57 • 💬 2 • ⏱️ 14:27 • 20h ago
 
 ---
 

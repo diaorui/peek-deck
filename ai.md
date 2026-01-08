@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T17:52:58.859564+00:00'
+updated: '2026-01-08T18:30:19.053410+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 17:52 UTC  
+**Last Updated:** January 08, 2026 at 18:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 12h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 13h ago
 
 ---
 
@@ -63,7 +63,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup of the best AI links and the discussions around them from Hacker News. See below 5/35 links shared in this issue: US Job Openings Decline to Lowest Level in More Than a Year - HN link Why didn't AI “join the workforce” in 2025? - HN link The suck is why we're here - HN link The creator of Claude Code's Claude setup - HN link AI misses nearly one-third of breast cancers, study finds - HN link If you enjoy such content, please consider subscribing to the newsletter here: https://hackernewsai.com/
 
-41m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup o
 
 Just a thought I have been having, wouldn’t the blind devotion to building more data centers, removing regulation and insane stock prices for AI companies be the exact way a covert AGI or rouge system would operate and incentivize us to serve its interests? Not saying it’s actually happening Edit: Rogue not rouge
 
-36m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Just a thought I have been having, wouldn’t the blind devotion to building mor
 
 Tailwind's CEO said that while AI made the web tool more popular, it also led to cratering revenue and difficulty converting paid users.
 
-🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 1m ago
+🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 38m ago
 
 ---
 
@@ -101,13 +101,13 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
 
 ---
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 6h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 7h ago
 
 ---
 
@@ -119,7 +119,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 4h ago
+blog.google • 5h ago
 
 ---
 
@@ -127,7 +127,7 @@ blog.google • 4h ago
 
 Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Gizmodo • 1h ago
 
 **[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
 
-The Washington Post • 21m ago
+The Washington Post • 58m ago
 
 ---
 
@@ -149,7 +149,7 @@ The Washington Post • 21m ago
 
 Clinical evidence is always evolving, but traditional clinical process map development and EHR build cycles often take months. In his upcoming HIMSS26 session, one informatics leader will show how to safely speed development to deliver evidence-based care at scale.
 
-Healthcare IT News • 19m ago
+Healthcare IT News • 57m ago
 
 ---
 
@@ -157,7 +157,7 @@ Healthcare IT News • 19m ago
 
 State officials see the pilot expands healthcare access, but the American Medical Association warns that removing physicians from clinical decisions puts patients at risk.
 
-Fortune • 23m ago
+Fortune • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fortune • 23m ago
 
 Tailwind's CEO said that while AI made the web tool more popular, it also led to cratering revenue and difficulty converting paid users.
 
-Business Insider • 36m ago
+Business Insider • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Business Insider • 36m ago
 
 AI strategist Denise Turley shares the times when she knows it would be "more valuable and effective" to be hands on, rather than use an AI tool.
 
-CNBC • 59m ago
+CNBC • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Politico • 4h ago
 
 DeepSeek, the Chinese tech startup that rivals OpenAI's ChatGPT, has been gaining ground in many developing nations in a trend that could narrow the gap of artificial intelligence adoption with advanced economies, a new report suggested.  In the Thursday report, researchers from Microsoft said global adoption of generative AI tools reached 16.3% of the world’s population in the three months to December, up from 15.1% in the previous three months.  “We are seeing a divide and we are concerned that that divide will continue to widen,” said Juan Lavista Ferres, chief data scientist for Microsoft's AI for Good Lab, which used anonymized “telemetry” to help track global device usage.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -255,7 +255,7 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 118 • 💬 160 • 2h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 118 • 💬 160 • 3h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -283,7 +283,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 60K • 👍 2K • 💬 112 • ⏱️ 13:08 • 18h ago
+👁️ 60K • 👍 2K • 💬 112 • ⏱️ 13:08 • 19h ago
 
 ---
 
@@ -401,7 +401,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 538 • 10h ago
+⬇️ 187,937 • ❤️ 538 • 11h ago
 
 ---
 
@@ -437,7 +437,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 200,391 • ❤️ 957 • 11d ago
+⬇️ 200,391 • ❤️ 957 • 12d ago
 
 ---
 
@@ -664,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 127 • 3h ago
+⭐ 2.2k • 🔱 127 • 4h ago
 
 ---
 
@@ -704,7 +704,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 12h ago
+⭐ 1.2k • 🔱 142 • 13h ago
 
 ---
 
@@ -724,7 +724,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 91 • 12h ago
+⭐ 1.1k • 🔱 91 • 13h ago
 
 ---
 

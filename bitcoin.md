@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T17:52:58.868014+00:00'
+updated: '2026-01-08T18:30:19.062604+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 17:52 UTC  
+**Last Updated:** January 08, 2026 at 18:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 It will be 🔥💪 actually I heard rumours China has been buying lots of Gold and Bitcoin all along.
 
-6h ago
+7h ago
 
 ---
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -103,19 +103,19 @@ BTC
 
 Bitcoin around 1 million dollars now seems crazy and too much for 2030. Now is the begging of 2026 and Bitcoin is in 90k.
 
-5h ago
+6h ago
 
 ---
 
 **[How it does](https://www.reddit.com/r/Bitcoin/comments/1q7d2zo/how_it_does/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -123,13 +123,13 @@ Bitcoin around 1 million dollars now seems crazy and too much for 2030. Now is t
 
 People who bought Bitcoin before the ETFs
 
-16h ago
+17h ago
 
 ---
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -197,13 +197,13 @@ Bloomberg.com • 1d ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
 **[Bitcoin Miners Shift From Crypto to AI Data Centers](https://www.etftrends.com/coinshares-content-hub/bitcoin-miners-shift-crypto-ai-data-centers/)**
 
-ETF Trends • 21h ago
+ETF Trends • 22h ago
 
 ---
 
@@ -225,7 +225,7 @@ thestreet.com • 23h ago
 
 Chen Zhi, chairman of Prince Group, was arrested by law enforcement officials in Cambodia and extradited to China, government officials said.
 
-New York Post • 21h ago
+New York Post • 22h ago
 
 ---
 
@@ -237,7 +237,7 @@ New York Post • 21h ago
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 5 • 💬 3 • 5d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 5 • 💬 3 • 6d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -293,7 +293,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 1 • 💬 0 • 7h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 1 • 💬 0 • 8h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -301,7 +301,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 20h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 21h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -335,7 +335,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 8K • 👍 510 • 💬 58 • ⏱️ 10:03 • 9h ago
+👁️ 8K • 👍 510 • 💬 58 • ⏱️ 10:03 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 8K • 👍 1K • 💬 105 • ⏱️ 17:35 • 3h ago
+👁️ 8K • 👍 1K • 💬 105 • ⏱️ 17:35 • 4h ago
 
 ---
 
@@ -375,7 +375,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 123 • ⏱️ 9:00 • 18h ago
+👁️ 34K • 👍 2K • 💬 123 • ⏱️ 9:00 • 19h ago
 
 ---
 
@@ -385,7 +385,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 KUDA VIBE
 
-👁️ 9K • 👍 4 • 6h ago
+👁️ 9K • 👍 4 • 7h ago
 
 ---
 
@@ -395,7 +395,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 819 • 💬 5 • ⏱️ 43:55 • 19h ago
+👁️ 19K • 👍 819 • 💬 5 • ⏱️ 43:55 • 20h ago
 
 ---
 
