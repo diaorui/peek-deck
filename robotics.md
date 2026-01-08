@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T10:26:13.903658+00:00'
+updated: '2026-01-08T10:51:27.006094+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 10:26 UTC  
+**Last Updated:** January 08, 2026 at 10:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ Humanoid robots have been getting a lot of attention lately, with recent demos l
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -82,7 +82,7 @@ Humanoid robots have been getting a lot of attention lately, with recent demos l
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-1h ago
+2h ago
 
 ---
 
@@ -106,39 +106,30 @@ Here's the construction of the car's control panel that I'll be making later! Th
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
-**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
+**[Arm Holdings Creates New ‘Physical AI’ Unit to Expand into Robotics](https://www.tipranks.com/news/arm-holdings-creates-new-physical-ai-unit-to-expand-into-robotics)**
 
-NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
-
-NVIDIA Newsroom • 2d ago
+TipRanks • 13h ago
 
 ---
 
-**[Nvidia’s Jensen Huang says the “ChatGPT moment” for robotics is nearly here — but is it?](https://fortune.com/2026/01/06/nvidia-jensen-huang-chatgpt-moment-for-robotics/)**
+**[Arm reorganizes to launch Physical AI unit amid robotics rush: report](https://seekingalpha.com/news/4537591-arm-reorganizes-to-launch-physical-ai-unit-amid-robotics-rush)**
 
-Huang says advances in models, simulation, and compute have pushed robotics to a long-awaited inflection point — but turning platforms into real-world machines remains the hard part.
+Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Fortune • 1d ago
-
----
-
-**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
-
-Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
-
-90.5 WESA • 23h ago
+Seeking Alpha • 36m ago
 
 ---
 
-**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
+**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
 
-The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
+At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
+people and production.
 
-International Federation of Robotics • 3h ago
+hyundai.com • 2d ago
 
 ---
 
@@ -150,7 +141,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfOWPqzYswfY7ThlPqskkD6Mo34Du5kS0KeZS5noi9_7FShrXqA7wxv&gaa_ts=695f7c7e&gaa_sig=_sA77bWspOqvB9xK415b1fPAqII6sMsfH34B83NEtu4i8mRmLkib6pLY7lA2RaOU_D7FceO5iRgrUmNwSvLw_Q%3D%3D)**
+**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
+
+Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
+
+90.5 WESA • 1d ago
+
+---
+
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcwXW8YcRryrHNs1vQWX1LxCtsj45b_AiAYpoMAGZqOj717me48PXT-&gaa_ts=695f8f97&gaa_sig=oA3pETfoG-ipZ94DeQQexO2UTX4q4f1L7fofd_zzFfLGjp7K4ce6e59ik9Kv2J4yjILBN4t06bZ8SNMJYfP4MA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -170,12 +169,11 @@ CTech • 1d ago
 
 ---
 
-**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
+**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
 
-At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
-people and production.
+A new wave of humanoids are coming. Qualcomm is ready to power them.
 
-hyundai.com • 2d ago
+CNET • 2d ago
 
 ---
 
@@ -199,7 +197,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 37K • 👍 957 • 💬 161 • ⏱️ 4:29 • 17h ago
+👁️ 37K • 👍 957 • 💬 161 • ⏱️ 4:29 • 18h ago
 
 ---
 

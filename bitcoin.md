@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T10:26:13.895750+00:00'
+updated: '2026-01-08T10:51:26.996501+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 10:26 UTC  
+**Last Updated:** January 08, 2026 at 10:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,062.21
+### $90,153.62
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.0%  
-**7d:** +0.1%  
-**30d:** -2.1%  
-**90d:** -18.5%  
-**1y:** -2.5%  
+**7d:** +0.5%  
+**30d:** -1.7%  
+**90d:** -18.2%  
+**1y:** -2.2%  
 
 ---
 
@@ -77,13 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
+**[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
+
+2h ago
+
+---
+
+**[You open the Bitcoin chart and it’s just… vibes 😂](https://www.reddit.com/r/Bitcoin/comments/1q735l0/you_open_the_bitcoin_chart_and_its_just_vibes/)**
 
 5h ago
 
 ---
 
-**[You open the Bitcoin chart and it’s just… vibes 😂](https://www.reddit.com/r/Bitcoin/comments/1q735l0/you_open_the_bitcoin_chart_and_its_just_vibes/)**
+**[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
 5h ago
 
@@ -99,7 +105,7 @@ People who bought Bitcoin before the ETFs
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -111,21 +117,15 @@ People who bought Bitcoin before the ETFs
 
 ---
 
-**[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
+**[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
 
-1h ago
+8h ago
 
 ---
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
 17h ago
-
----
-
-**[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
-
-8h ago
 
 ---
 
@@ -141,7 +141,7 @@ Once these last longs are liquidated, I bet we rocket past $95k.
 
 I have just bought my first 100$ worth of bitcoin!
 
-12h ago
+13h ago
 
 ---
 
@@ -149,19 +149,19 @@ I have just bought my first 100$ worth of bitcoin!
 
 ## Google News: "bitcoin"
 
-**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
+**[Bitcoin price news: BTC appears aimed at re-testing the $90,000 level](https://www.coindesk.com/markets/2026/01/07/crypto-selloff-accelerates-sending-bitcoin-back-to-usd91-000)**
 
-Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
+Strategy is an outperformer following MSCI's decision not to exclude the stock from its indices, but any positive reaction was muted by the decline in BTC.
 
-CNBC • 10h ago
+CoinDesk • 19h ago
 
 ---
 
-**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
+**[Venezuela rumored to hold $60B Bitcoin ‘shadow reserve’](https://fortune.com/2026/01/07/corruption-embezzlement-missing-money-venezuela-rumored-60-billion-bitcoin-shadow-reserve/)**
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Yahoo Finance • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -179,25 +179,25 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**[Crypto Latecomer Morgan Stanley Files for Bitcoin, Solana ETFs](https://www.bloomberg.com/news/articles/2026-01-06/crypto-latecomer-morgan-stanley-files-for-bitcoin-solana-etfs)**
+**[Why Larry Fink Has Changed His View of Bitcoin](https://finance.yahoo.com/news/why-larry-fink-changed-view-092000708.html)**
 
-Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
+Bitcoin has matured and become a more widely accepted investment option over the years, even among institutional investors.
 
-Bloomberg.com • 22h ago
-
----
-
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
-
-Reuters • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Morgan Stanley’s Bitcoin ETF Offers Value Even if It Underperforms, Expert Says](https://finance.yahoo.com/news/morgan-stanley-bitcoin-etf-offers-074646725.html)**
+**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2026/01/08/should-you-buy-bitcoin-while-its-under-100000/)**
 
-Morgan Stanley may be pursuing its newly announced spot Bitcoin exchange-traded fund as a strategic foothold rather than a pure asset-gathering play, according to ProCap chief investment officer Jeff Park. Key Takeaways: Morgan Stanley’s Bitcoin ETF is a strategic move that delivers reputational and long-term benefits beyond inflows. The bank’s ...
+Bitcoin dropped by more than 20% during the 2025 fourth quarter.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 21m ago
+
+---
+
+**[Why Larry Fink has changed his view of Bitcoin](https://www.msn.com/en-us/money/savingandinvesting/why-larry-fink-has-changed-his-view-of-bitcoin/ar-AA1TOb1P?ocid=finance-verthp-feeds)**
+
+MSN • 51m ago
 
 ---
 
@@ -211,13 +211,15 @@ Bloomberg.com • 22h ago
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
-**[MSCI Backs Off on Crypto-Exclusion Plan But Signals Wider Review](https://www.bloomberg.com/news/articles/2026-01-06/msci-backs-off-on-crypto-exclusion-plan-but-signals-wider-review)**
+**[MSCI Spares MicroStrategy — but the Market’s War Over Its Bitcoin Premium Remains](https://finance.yahoo.com/news/msci-spares-microstrategy-market-war-063933033.html)**
 
-Bloomberg.com • 1d ago
+MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -251,7 +253,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 21h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 22h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -275,6 +277,14 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ---
 
+**[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46539263)**
+
+Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
+
+⬆️ 1 • 💬 0 • 53m ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+
+---
+
 **[Water Heater Mines Bitcoin. It Could Help Solve AI's Energy Problem](https://news.ycombinator.com/item?id=46532869)**
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
@@ -291,12 +301,6 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ---
 
-**[Ask HN: Is YC funding sanctions evasion? The case of Kontigo Inc in Venezuela](https://news.ycombinator.com/item?id=46459710)**
-
-⬆️ 9 • 💬 2 • 6d ago
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 327 • 💬 167 • ⏱️ 9:41 • 9h ago
+👁️ 5K • 👍 327 • 💬 167 • ⏱️ 9:41 • 10h ago
 
 ---
 
@@ -317,7 +321,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 360 • ⏱️ 19:29 • 13h ago
+👁️ 62K • 👍 4K • 💬 360 • ⏱️ 19:29 • 14h ago
 
 ---
 
@@ -327,7 +331,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 287 • 💬 32 • ⏱️ 7:28 • 3h ago
+👁️ 3K • 👍 287 • 💬 32 • ⏱️ 7:28 • 4h ago
 
 ---
 
@@ -367,7 +371,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 415 • 💬 25 • ⏱️ 14:22 • 17h ago
+👁️ 12K • 👍 415 • 💬 25 • ⏱️ 14:22 • 18h ago
 
 ---
 
@@ -387,7 +391,7 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 351 • 💬 20 • ⏱️ 1:29:43 • 12h ago
+👁️ 6K • 👍 351 • 💬 20 • ⏱️ 1:29:43 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T10:26:13.900914+00:00'
+updated: '2026-01-08T10:51:27.002727+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 10:26 UTC  
+**Last Updated:** January 08, 2026 at 10:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,121.94
+### $3,121.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -0.4%  
-**30d:** -6.4%  
-**90d:** -17.3%  
-**1y:** -3.5%  
+**24h:** -3.3%  
+**7d:** -0.0%  
+**30d:** -6.0%  
+**90d:** -17.0%  
+**1y:** -3.1%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 12h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -173,6 +173,20 @@ CoinDesk • 5h ago
 Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Tom Lee Predicts $250K Ethereum Price as BitMine Adds to $13 Billion Stash](https://decrypt.co/353585/tom-lee-predicts-250k-ethereum-price-bitmine-adds-13-billion-stash)**
+
+BitMine Immersion Technologies added to its industry-leading Ethereum stash as chairman Tom Lee made major price predictions for ETH and BMNR.
+
+Decrypt • 2d ago
+
+---
+
+**[Tom Lee’s Bitmine (BMNR) Increases Ethereum Holdings to $13.3 Billion](https://www.tipranks.com/news/tom-lees-bitmine-bmnr-increases-ethereum-holdings-to-13-3-billion)**
+
+TipRanks • 1d ago
 
 ---
 
@@ -198,25 +212,9 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Price Latest Push Raises Question: Has a Short-Term Top Formed?](https://www.tradingview.com/news/newsbtc:cfd501f23094b:0-ethereum-price-latest-push-raises-question-has-a-short-term-top-formed/)**
-
-Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
-
-TradingView — Track All Markets • 7h ago
-
----
-
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 1d ago
-
----
-
-**[Bitcoin, Ethereum And Solana Rebound Strongly To Start 2026 - Crypto Overview](https://seekingalpha.com/article/4857497-bitcoin-ethereum-solana-rebound-strongly-to-start-2026-crypto-overview)**
-
-Despite growth in stock indexes and metals, the YoY performance for Bitcoin in 2025 was actually negative. But YoY change fails to capture the total volatility and opportunity in the period.
-
-Seeking Alpha • 1d ago
+CCN.com • 2d ago
 
 ---
 
@@ -230,7 +228,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 11K • 👍 692 • 💬 55 • ⏱️ 10:20 • 20h ago
+👁️ 11K • 👍 692 • 💬 55 • ⏱️ 10:20 • 21h ago
 
 ---
 
@@ -280,7 +278,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 340 • 💬 8 • ⏱️ 1:08:45 • 17h ago
+👁️ 6K • 👍 340 • 💬 8 • ⏱️ 1:08:45 • 18h ago
 
 ---
 
@@ -290,7 +288,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 199 • ⏱️ 19:40 • 13h ago
+👁️ 8K • 👍 298 • 💬 199 • ⏱️ 19:40 • 14h ago
 
 ---
 
@@ -300,7 +298,7 @@ Is BMNR setting up for a major inflection point — or a volatility trap? BitMin
 
 📺 Darren Steves
 
-👁️ 576 • 👍 29 • 💬 8 • ⏱️ 13:54 • 9h ago
+👁️ 576 • 👍 29 • 💬 8 • ⏱️ 13:54 • 10h ago
 
 ---
 

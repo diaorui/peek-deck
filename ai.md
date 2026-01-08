@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T10:26:13.888337+00:00'
+updated: '2026-01-08T10:51:26.987471+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 10:26 UTC  
+**Last Updated:** January 08, 2026 at 10:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,11 +49,19 @@ AI news, discussions, and developments
 
 ---
 
+**[Imagine AI picking who gets promoted at your job. Should it just suggest or decide?](https://www.reddit.com/r/artificial/comments/1q75yio/imagine_ai_picking_who_gets_promoted_at_your_job/)**
+
+Hey everyone, imagine logging into work and finding out an AI system just picked who gets promoted, based on your emails, typing speed, or based on performance or even how often you check news sites. Sounds wild, right? But a recent survey shows 60% of managers already use AI for stuff like raises and promotions. It could cut out human bias, but what if it misses the real story behind your hard work? Should AI just suggest options, or actually decide? Like, assist with data but let humans call the shots? Or go full auto?
+
+2h ago
+
+---
+
 **[Run AI models on your mobile phone](https://www.reddit.com/r/artificial/comments/1q76sgz/run_ai_models_on_your_mobile_phone/)**
 
 Now you can run AI models on your mobile phone Recently, I found this awesome open source app called Maid, which allow you to run AI models on your phone. I am from Gaza and during the war, most of the time I am offline, and I wanted to play around with AI and try things, I tried to install ollama on termux but no use. But maid is very easy, you open the app and download a model from a list of models of different sizes, and you are set. It might be slow on some devices. Dowload it and have fun.
 
-1h ago
+2h ago
 
 ---
 
@@ -69,15 +77,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 I keep noticing how many outdated tech beliefs are still floating around, especially around privacy, batteries, and device performance. Things like: Incognito mode makes you anonymous Macs don’t get malware Charging overnight kills battery health More specs always means faster devices Public WiFi with a password is safe Most of these made sense years ago, but technology has changed a lot. Curious what tech myth you still hear most often?
 
-🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 6h ago
-
----
-
-**[Imagine AI picking who gets promoted at your job. Should it just suggest or decide?](https://www.reddit.com/r/artificial/comments/1q75yio/imagine_ai_picking_who_gets_promoted_at_your_job/)**
-
-Hey everyone, imagine logging into work and finding out an AI system just picked who gets promoted, based on your emails, typing speed, or based on performance or even how often you check news sites. Sounds wild, right? But a recent survey shows 60% of managers already use AI for stuff like raises and promotions. It could cut out human bias, but what if it misses the real story behind your hard work? Should AI just suggest options, or actually decide? Like, assist with data but let humans call the shots? Or go full auto?
-
-2h ago
+🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 7h ago
 
 ---
 
@@ -105,11 +105,11 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 ---
 
-**[Which web tools to create high quality AI images?](https://www.reddit.com/r/artificial/comments/1q6s3u6/which_web_tools_to_create_high_quality_ai_images/)**
+**[ACE-Step: Generate AI music locally in 20 seconds (runs on 8GB VRAM)](https://www.reddit.com/r/artificial/comments/1q6mfoe/acestep_generate_ai_music_locally_in_20_seconds/)**
 
-Which tool do you use to create AI images? I tried Microsoft Designer website but the quality was very poor. The generator in free ChatGPT is a bit better but I am still not able to produce images without obvious artifacts. Are the images of the paid version better or is it just faster and you have move requests available? The descriptions in the "Upgrade you plan" dialogue are very vague. Are the any more alternatives? P.S. I do not want to install terabytes of data and install douzands of plugins and extensions for a local model. I prefer a web solution. Thank you in advance.
+I documented a comprehensive guide for ACE-Step after testing various AI music tools (MusicGen, Suno API, Stable Audio). Article with code: https://medium.com/gitconnected/i-generated-4-minutes-of-k-pop-in-20-seconds-using-pythons-fastest-music-ai-a9374733f8fc Why it's different: Runs completely locally (no API costs, no rate limits) Generates 4 minutes of music in ~20 seconds Works on budget GPUs (8GB VRAM with CPU offload) Supports vocals in 19 languages (English, Korean, etc.) Open-source and free Technical approach: Uses latent diffusion (27 denoising steps) instead of autoregressive generation 15× faster than token-based models like MusicGen Can run on RTX 4060, 3060, or similar 8GB cards What's covered in the guide: Complete installation (Windows troubleshooting included) Memory optimization for budget GPUs Batch generation for quality control Production deployment with FastAPI Two complete projects: Adaptive game music system (changes based on gameplay) DMCA-free music for YouTube/TikTok/Twitch Use cases: Game developers needing dynamic music Content creators needing copyright-free music Developers building music generation features Anyone wanting to experiment with AI audio locally All implementation code is included - you can set it up and start generating in ~30 minutes. Happy to answer questions about local AI music generation or deployment!
 
-13h ago
+16h ago
 
 ---
 
@@ -133,47 +133,49 @@ Quanta Magazine • 19h ago
 
 ---
 
-**[AI Spending Boom Fuels 24-Year High for Convertible Bond Deals](https://www.bloomberg.com/news/articles/2026-01-08/ai-spending-boom-fuels-24-year-high-for-convertible-bond-deals)**
+**[Inside the major split for Democrats over AI](https://www.axios.com/2026/01/08/democrats-jeffries-ai-trump)**
 
-Companies around the world are issuing convertible bonds at the fastest pace in 24 years, as the development of artificial intelligence spurs a hunt for cheaper financing.
-
-Bloomberg.com • 2h ago
+Axios • 49m ago
 
 ---
 
-**[Meta faces China probe over acquisition of AI agent startup Manus](https://www.cnbc.com/2026/01/08/china-investigate-meta-acquisition-manus-export.html)**
+**[AI web browsers are here. Are they safe?](https://qz.com/ai-web-browsers-privacy-security)**
 
-China to probe Meta's acquisition of artificial intelligence startup Manus to assess its compliance with export control laws.
-
-CNBC • 2h ago
+qz.com • 48m ago
 
 ---
 
-**[China to assess, investigate Meta's acquisition of AI startup Manus](https://www.reuters.com/business/media-telecom/china-assess-investigate-metas-acquisition-ai-startup-manus-2026-01-08/)**
+**[Can A.I. Match Molière’s Wit? These Researchers Think So.](https://www.nytimes.com/2026/01/08/theater/moliere-ai-sorbonne-the-astrologer.html)**
 
-Reuters • 2h ago
-
----
-
-**[China Reviews Meta’s $2 Billion Deal to Buy AI Startup Manus](https://www.bloomberg.com/news/articles/2026-01-07/china-reviews-meta-s-2-billion-deal-to-buy-ai-startup-manus)**
-
-Chinese officials are looking into whether Meta Platforms Inc.’s acquisition of artificial intelligence startup Manus violated regulations, an initial review that could hinder the deal down the road if officials determine wrongdoing.
-
-Bloomberg.com • 2h ago
+The New York Times • 48m ago
 
 ---
 
-**[AI Is Being Used to Find Valuable Commodities in Our Trash](https://www.wsj.com/business/ai-is-being-used-to-find-valuable-commodities-in-our-trash-6b7de5d7?gaa_at=eafs&gaa_n=AWEtsqceboFVreCR_ZSotG_lPPo4CrCiqqjge0AhYJ_by2mLSbcRoEMsoiSr&gaa_ts=695f7c79&gaa_sig=hk3PLt569AyqXq_n8PdvrlHq1xNHnVTz4ZrWlocJ10_FKb7F3VGLd4eBhoKY_6bZJl19BLxFpLdVEwBqn4gVug%3D%3D)**
+**[AI Is Being Used to Find Valuable Commodities in Our Trash](https://www.wsj.com/business/ai-is-being-used-to-find-valuable-commodities-in-our-trash-6b7de5d7?gaa_at=eafs&gaa_n=AWEtsqe5hwHz_CQiKrUKRCRekUhxuxsvyHejwC7eXLT3tdIuhzKViBSa7ZIx&gaa_ts=695f8f92&gaa_sig=zw_xFbLsh7acX-DL2B6ZuhfuMQNb2R8MnN3oRWTXqcnxOxrjEYwxln3JWXa3MXoDRvhZlP5ANzirCin3cCPmXQ%3D%3D)**
 
 The Wall Street Journal • 17h ago
 
 ---
 
-**[AI chatbot Grok used to create child sexual abuse imagery, watchdog says](https://www.theguardian.com/technology/2026/jan/08/ai-chatbot-grok-used-to-create-child-sexual-abuse-imagery-watchdog-says)**
+**[China’s Zhipu Says AI Price War Will Spread Internationally](https://www.bloomberg.com/news/articles/2026-01-08/china-s-zhipu-says-ai-price-war-will-spread-internationally)**
 
-Internet Watch Foundation warns Elon Musk-owned AI risks bringing sexualised imagery of children into the mainstream
+One of China’s earliest OpenAI rivals expects US artificial intelligence developers to succumb to the same price-based competition that has forced Chinese companies to forgo profits.
 
-The Guardian • 4h ago
+Bloomberg.com • 4h ago
+
+---
+
+**[Chinese tech firms rise in Hong Kong debut as US-China rivalry heats up](https://www.reuters.com/world/asia-pacific/chinese-tech-companies-led-by-zhipu-ai-climb-hong-kong-debut-2026-01-08/)**
+
+Reuters • 1h ago
+
+---
+
+**[The first of China’s 'AI tigers' goes public as Zhipu climbs in Hong Kong debut](https://www.cnbc.com/2026/01/08/china-ai-tiger-goes-ipo-zhipu-hong-kong-debut-openai-knowledge-atlas-hsi-hang-seng-listing.html)**
+
+Shares of China-backed Zhipu made small gains on their Hong Kong debut, following a $558 million initial public offering.
+
+CNBC • 6h ago
 
 ---
 
@@ -185,12 +187,6 @@ WIRED • 1d ago
 
 ---
 
-**[Grok's explicit images reveal AI's legal ambiguities](https://www.axios.com/2026/01/07/grok-bikini-images-legal-elon-musk)**
-
-Axios • 20h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +195,7 @@ Axios • 20h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 818 • 💬 1271 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 821 • 💬 1272 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -215,7 +211,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 232 • 💬 377 • 2d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 232 • 💬 378 • 2d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -223,7 +219,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 220 • 💬 89 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 223 • 💬 92 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -231,7 +227,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 169 • 💬 105 • 18h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 171 • 💬 108 • 19h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -239,7 +235,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 163 • 💬 22 • 14h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 170 • 💬 26 • 15h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -259,17 +255,17 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 ---
 
-**[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
+**[AI misses nearly one-third of breast cancers, study finds](https://news.ycombinator.com/item?id=46537983)**
 
-⬆️ 78 • 💬 19 • 1d ago
+Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
+
+⬆️ 90 • 💬 45 • 4h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
-**[Show HN: Mantic.sh – A structural code search engine for AI agents](https://news.ycombinator.com/item?id=46512182)**
+**[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-A structural code search engine for Al agents. Contribute to marcoaapfortes/Mantic.sh development by creating an account on GitHub.
-
-⬆️ 76 • 💬 36 • 1d ago • [GitHub](https://github.com/marcoaapfortes/Mantic.sh)
+⬆️ 78 • 💬 19 • 1d ago
 
 ---
 
@@ -293,7 +289,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 976K • 👍 49K • 💬 7K • ⏱️ 17:14 • 15h ago
+👁️ 976K • 👍 49K • 💬 7K • ⏱️ 17:14 • 16h ago
 
 ---
 
@@ -495,7 +491,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,499 • 6h ago
+⬇️ 38,529 • ❤️ 1,499 • 7h ago
 
 ---
 
@@ -644,7 +640,7 @@ NitroGen is a vision-action foundation model trained on extensive gameplay data 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.8k • 🔱 810 • 4h ago
+⭐ 6.8k • 🔱 810 • 5h ago
 
 ---
 
@@ -664,7 +660,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 17h ago
+⭐ 2.1k • 🔱 126 • 18h ago
 
 ---
 
@@ -724,7 +720,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 987 • 🔱 119 • 1h ago
+⭐ 987 • 🔱 119 • 2h ago
 
 ---
 
