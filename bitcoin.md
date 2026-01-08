@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T09:52:38.076723+00:00'
+updated: '2026-01-08T10:26:13.895750+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 09:52 UTC  
+**Last Updated:** January 08, 2026 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-4h ago
+5h ago
 
 ---
 
 **[You open the Bitcoin chart and it’s just… vibes 😂](https://www.reddit.com/r/Bitcoin/comments/1q735l0/you_open_the_bitcoin_chart_and_its_just_vibes/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 People who bought Bitcoin before the ETFs
 
-8h ago
+9h ago
 
 ---
 
@@ -107,7 +107,7 @@ People who bought Bitcoin before the ETFs
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-16h ago
+17h ago
 
 ---
 
@@ -119,13 +119,13 @@ People who bought Bitcoin before the ETFs
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ People who bought Bitcoin before the ETFs
 
 Once these last longs are liquidated, I bet we rocket past $95k.
 
-12h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ I have just bought my first 100$ worth of bitcoin!
 
 Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -245,7 +245,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 20h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 21h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -279,7 +279,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 12h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 13h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -287,7 +287,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 18h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 19h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -337,7 +337,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 618 • 💬 5 • ⏱️ 43:55 • 11h ago
+👁️ 14K • 👍 618 • 💬 5 • ⏱️ 43:55 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Thanks to iTrustCapital for sponsoring this video. Sign Up With iTrustCapital $1
 
 📺 Dan Gambardello
 
-👁️ 29K • 👍 2K • 💬 315 • ⏱️ 12:06 • 15h ago
+👁️ 29K • 👍 2K • 💬 315 • ⏱️ 12:06 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ The market is misreading the MicroStrategy decision. A major downside risk has b
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 2K • 💬 30 • ⏱️ 29:02 • 1h ago
+👁️ 21K • 👍 2K • 💬 30 • ⏱️ 29:02 • 2h ago
 
 ---
 
@@ -377,7 +377,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 109 • ⏱️ 9:00 • 10h ago
+👁️ 26K • 👍 2K • 💬 109 • ⏱️ 9:00 • 11h ago
 
 ---
 

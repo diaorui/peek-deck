@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T09:52:38.068261+00:00'
+updated: '2026-01-08T10:26:13.888337+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 09:52 UTC  
+**Last Updated:** January 08, 2026 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 4h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 5h ago
 
 ---
 
 **[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 18h ago
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 19h ago
 
 ---
 
@@ -61,7 +61,7 @@ Now you can run AI models on your mobile phone Recently, I found this awesome op
 
 First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-18h ago
+19h ago
 
 ---
 
@@ -77,7 +77,7 @@ I keep noticing how many outdated tech beliefs are still floating around, especi
 
 Hey everyone, imagine logging into work and finding out an AI system just picked who gets promoted, based on your emails, typing speed, or based on performance or even how often you check news sites. Sounds wild, right? But a recent survey shows 60% of managers already use AI for stuff like raises and promotions. It could cut out human bias, but what if it misses the real story behind your hard work? Should AI just suggest options, or actually decide? Like, assist with data but let humans call the shots? Or go full auto?
 
-1h ago
+2h ago
 
 ---
 
@@ -85,7 +85,7 @@ Hey everyone, imagine logging into work and finding out an AI system just picked
 
 I’m exploring a design problem around how people find others to talk to about the same thing at the same moment, without relying on forums, tags, or scrolling feeds. Most discussion platforms ask users to choose the right place to post, such as a subreddit, forum, or channel, or to search and scroll through existing threads. This works well for organizing information, but it can be slow and awkward when someone just wants to talk through an idea in real time. The concept I’m exploring is simple: You start any conversation (question, rant, brainstorm, etc.), and an AI instantly connects you with others talking about the same thing — no forums, no tags, just live context-based matching using LLMs. Would this be useful or chaotic? What features or limits would make it work?
 
-12h ago
+13h ago
 
 ---
 
@@ -101,7 +101,7 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 Which tool do you use to create AI images? I tried Microsoft Designer website but the quality was very poor. The generator in free ChatGPT is a bit better but I am still not able to produce images without obvious artifacts. Are the images of the paid version better or is it just faster and you have move requests available? The descriptions in the "Upgrade you plan" dialogue are very vague. Are the any more alternatives? P.S. I do not want to install terabytes of data and install douzands of plugins and extensions for a local model. I prefer a web solution. Thank you in advance.
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ Which tool do you use to create AI images? I tried Microsoft Designer website bu
 
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -129,7 +129,7 @@ Fortune • 12h ago
 
 Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
 
-Quanta Magazine • 18h ago
+Quanta Magazine • 19h ago
 
 ---
 
@@ -137,7 +137,7 @@ Quanta Magazine • 18h ago
 
 Companies around the world are issuing convertible bonds at the fastest pace in 24 years, as the development of artificial intelligence spurs a hunt for cheaper financing.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -159,13 +159,13 @@ Reuters • 2h ago
 
 Chinese officials are looking into whether Meta Platforms Inc.’s acquisition of artificial intelligence startup Manus violated regulations, an initial review that could hinder the deal down the road if officials determine wrongdoing.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[AI Is Being Used to Find Valuable Commodities in Our Trash](https://www.wsj.com/business/ai-is-being-used-to-find-valuable-commodities-in-our-trash-6b7de5d7?gaa_at=eafs&gaa_n=AWEtsqceboFVreCR_ZSotG_lPPo4CrCiqqjge0AhYJ_by2mLSbcRoEMsoiSr&gaa_ts=695f7c79&gaa_sig=hk3PLt569AyqXq_n8PdvrlHq1xNHnVTz4ZrWlocJ10_FKb7F3VGLd4eBhoKY_6bZJl19BLxFpLdVEwBqn4gVug%3D%3D)**
 
-The Wall Street Journal • 16h ago
+The Wall Street Journal • 17h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Wall Street Journal • 16h ago
 
 Internet Watch Foundation warns Elon Musk-owned AI risks bringing sexualised imagery of children into the mainstream
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ WIRED • 1d ago
 
 **[Grok's explicit images reveal AI's legal ambiguities](https://www.axios.com/2026/01/07/grok-bikini-images-legal-elon-musk)**
 
-Axios • 19h ago
+Axios • 20h ago
 
 ---
 
@@ -283,7 +283,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 46K • 👍 1K • 💬 81 • ⏱️ 13:08 • 10h ago
+👁️ 46K • 👍 1K • 💬 81 • ⏱️ 13:08 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Bes
 
 📺 AI Search
 
-👁️ 27K • 👍 2K • 💬 347 • ⏱️ 38:57 • 6h ago
+👁️ 27K • 👍 2K • 💬 347 • ⏱️ 38:57 • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ This is a funny meme mixed with storytelling style video about how i have 2 cats
 
 📺 Tyler Vitelli
 
-👁️ 1.8M • 👍 61K • 💬 4K • ⏱️ 0:10 • 17h ago
+👁️ 1.8M • 👍 61K • 💬 4K • ⏱️ 0:10 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 📺 Mira AI
 
-👁️ 8K • 💬 10 • ⏱️ 7:28 • 17h ago
+👁️ 8K • 💬 10 • ⏱️ 7:28 • 18h ago
 
 ---
 
@@ -371,7 +371,7 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 📺 Bob Reese
 
-👁️ 706K • 👍 14K • 💬 261 • ⏱️ 0:19 • 17h ago
+👁️ 706K • 👍 14K • 💬 261 • ⏱️ 0:19 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 501 • 2h ago
+⬇️ 187,937 • ❤️ 501 • 3h ago
 
 ---
 
@@ -435,7 +435,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 9,648 • ❤️ 277 • 21h ago
+⬇️ 9,648 • ❤️ 277 • 22h ago
 
 ---
 
@@ -704,7 +704,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 4h ago
+⭐ 1.2k • 🔱 142 • 5h ago
 
 ---
 
@@ -734,7 +734,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 940 • 🔱 141 • 35m ago
+⭐ 940 • 🔱 141 • 1h ago
 
 ---
 

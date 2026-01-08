@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T09:52:38.085911+00:00'
+updated: '2026-01-08T10:26:13.903658+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 09:52 UTC  
+**Last Updated:** January 08, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-6h ago
+7h ago
 
 ---
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -68,7 +68,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Humanoid robots have been getting a lot of attention lately, with recent demos like Unitree Robotics and NEO home robot pushing toward general-purpose capability. At the same time, assistive exoskeletons seem to be making quieter progress. Just saw a news that a Korean institute KAIST has created an exoskeleton that helps paralyzed people stand, walk, also some consumer-level devices such as dnsysX1 target mobility support for older adults rather than full autonomy. Humanoids aim for versatility, but translating demos into real-world deployment is still unclear. Questions around cost, safety, maintenance, reliability, and clear use cases remain largely unresolved outside controlled environments. Exoskeletons, by contrast, tend to slot into existing workflows more easily by targeting narrow, well-defined problems and keeping humans in control. Curious how people here see it. Which do you think has more development potential over the next 10-15 years, and why?
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-13h ago
+14h ago
 
 ---
 
@@ -229,7 +229,7 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 
 📺 CNET
 
-👁️ 7K • 👍 149 • 💬 63 • ⏱️ 5:07 • 10h ago
+👁️ 7K • 👍 149 • 💬 63 • ⏱️ 5:07 • 11h ago
 
 ---
 
