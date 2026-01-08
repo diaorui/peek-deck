@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T21:44:20.487071+00:00'
+updated: '2026-01-08T22:22:14.701240+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 21:44 UTC  
+**Last Updated:** January 08, 2026 at 22:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ BTC
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,19 +107,19 @@ BTC
 
 Bitcoin mining continued growing after the halving. Miners’ revenue reached $17.2B in 2025, up from $14.7B the year before. Post-halving economics is Bitcoin mining at work, not a bug. Source: @TheBlock__
 
-3h ago
+4h ago
 
 ---
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-16h ago
+17h ago
 
 ---
 
 **[The Great Distraction: Why You Are Missing the Point of Bitcoin. Stop Staring at the Charts. Start Building the Life You Bought Them For.](https://www.reddit.com/r/Bitcoin/comments/1q7foom/the_great_distraction_why_you_are_missing_the/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-distraction-why-you-are) • 5h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-distraction-why-you-are) • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the 
 
 People who bought Bitcoin before the ETFs
 
-20h ago
+21h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 President Donald Trump‘s Venezuela gambit is bullish for Bitcoin, BitMEX founder and Maelstrom investment chief Arthur Hayes says. “The price of Bitcoin and certain cryptos will skyrocket,” Hayes said in a Tuesday blog post addressing the potential impact of the...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fortune • 1d ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Motley Fool • 10h ago
 
 Institutional demand through U.S.-listed spot XRP ETFs remains strong, with net inflows continuing into early January.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 16h ago
 
 XRP ETFs steal the spotlight in 2026 as a 25% January surge leaves Bitcoin behind.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -235,7 +235,7 @@ Bitcoin Magazine • 1d ago
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 9h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 10h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -267,7 +267,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 11h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 12h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://yout
 
 📺 MMCrypto
 
-👁️ 23K • 👍 2K • 💬 325 • ⏱️ 4:15 • 9h ago
+👁️ 23K • 👍 2K • 💬 325 • ⏱️ 4:15 • 10h ago
 
 ---
 
@@ -335,7 +335,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 28K • 👍 2K • 💬 192 • ⏱️ 17:35 • 7h ago
+👁️ 28K • 👍 2K • 💬 192 • ⏱️ 17:35 • 8h ago
 
 ---
 
@@ -355,7 +355,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 218 • 💬 26 • ⏱️ 16:32 • 2h ago
+👁️ 2K • 👍 218 • 💬 26 • ⏱️ 16:32 • 3h ago
 
 ---
 
@@ -365,7 +365,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 1K • 👍 220 • 💬 38 • ⏱️ 4:51 • 4h ago
+👁️ 1K • 👍 220 • 💬 38 • ⏱️ 4:51 • 5h ago
 
 ---
 
@@ -375,7 +375,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 9K • 👍 543 • 💬 58 • ⏱️ 10:03 • 13h ago
+👁️ 9K • 👍 543 • 💬 58 • ⏱️ 10:03 • 14h ago
 
 ---
 
@@ -385,7 +385,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 734 • 👍 68 • 💬 11 • ⏱️ 10:06 • 3h ago
+👁️ 734 • 👍 68 • 💬 11 • ⏱️ 10:06 • 4h ago
 
 ---
 
@@ -405,7 +405,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 896 • 💬 28 • ⏱️ 43:55 • 23h ago
+👁️ 23K • 👍 896 • 💬 28 • ⏱️ 43:55 • 1d ago
 
 ---
 
