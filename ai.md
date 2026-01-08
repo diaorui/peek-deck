@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T08:32:53.055081+00:00'
+updated: '2026-01-08T09:29:55.058294+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 08:32 UTC  
+**Last Updated:** January 08, 2026 at 09:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,21 @@ AI news, discussions, and developments
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 3h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 4h ago
 
 ---
 
 **[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 17h ago
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 18h ago
+
+---
+
+**[Run AI models on your mobile phone](https://www.reddit.com/r/artificial/comments/1q76sgz/run_ai_models_on_your_mobile_phone/)**
+
+Now you can run AI models on your mobile phone Recently, I found this awesome open source app called Maid, which allow you to run AI models on your phone. I am from Gaza and during the war, most of the time I am offline, and I wanted to play around with AI and try things, I tried to install ollama on termux but no use. But maid is very easy, you open the app and download a model from a list of models of different sizes, and you are set. It might be slow on some devices. Dowload it and have fun.
+
+40m ago
 
 ---
 
@@ -53,7 +61,7 @@ AI news, discussions, and developments
 
 First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-17h ago
+18h ago
 
 ---
 
@@ -61,7 +69,15 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 I keep noticing how many outdated tech beliefs are still floating around, especially around privacy, batteries, and device performance. Things like: Incognito mode makes you anonymous Macs don’t get malware Charging overnight kills battery health More specs always means faster devices Public WiFi with a password is safe Most of these made sense years ago, but technology has changed a lot. Curious what tech myth you still hear most often?
 
-🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 4h ago
+🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 5h ago
+
+---
+
+**[Imagine AI picking who gets promoted at your job. Should it just suggest or decide?](https://www.reddit.com/r/artificial/comments/1q75yio/imagine_ai_picking_who_gets_promoted_at_your_job/)**
+
+Hey everyone, imagine logging into work and finding out an AI system just picked who gets promoted, based on your emails, typing speed, or based on performance or even how often you check news sites. Sounds wild, right? But a recent survey shows 60% of managers already use AI for stuff like raises and promotions. It could cut out human bias, but what if it misses the real story behind your hard work? Should AI just suggest options, or actually decide? Like, assist with data but let humans call the shots? Or go full auto?
+
+1h ago
 
 ---
 
@@ -69,7 +85,7 @@ I keep noticing how many outdated tech beliefs are still floating around, especi
 
 I’m exploring a design problem around how people find others to talk to about the same thing at the same moment, without relying on forums, tags, or scrolling feeds. Most discussion platforms ask users to choose the right place to post, such as a subreddit, forum, or channel, or to search and scroll through existing threads. This works well for organizing information, but it can be slow and awkward when someone just wants to talk through an idea in real time. The concept I’m exploring is simple: You start any conversation (question, rant, brainstorm, etc.), and an AI instantly connects you with others talking about the same thing — no forums, no tags, just live context-based matching using LLMs. Would this be useful or chaotic? What features or limits would make it work?
 
-11h ago
+12h ago
 
 ---
 
@@ -85,15 +101,7 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-2h ago
-
----
-
-**[ACE-Step: Generate AI music locally in 20 seconds (runs on 8GB VRAM)](https://www.reddit.com/r/artificial/comments/1q6mfoe/acestep_generate_ai_music_locally_in_20_seconds/)**
-
-I documented a comprehensive guide for ACE-Step after testing various AI music tools (MusicGen, Suno API, Stable Audio). Article with code: https://medium.com/gitconnected/i-generated-4-minutes-of-k-pop-in-20-seconds-using-pythons-fastest-music-ai-a9374733f8fc Why it's different: Runs completely locally (no API costs, no rate limits) Generates 4 minutes of music in ~20 seconds Works on budget GPUs (8GB VRAM with CPU offload) Supports vocals in 19 languages (English, Korean, etc.) Open-source and free Technical approach: Uses latent diffusion (27 denoising steps) instead of autoregressive generation 15× faster than token-based models like MusicGen Can run on RTX 4060, 3060, or similar 8GB cards What's covered in the guide: Complete installation (Windows troubleshooting included) Memory optimization for budget GPUs Batch generation for quality control Production deployment with FastAPI Two complete projects: Adaptive game music system (changes based on gameplay) DMCA-free music for YouTube/TikTok/Twitch Use cases: Game developers needing dynamic music Content creators needing copyright-free music Developers building music generation features Anyone wanting to experiment with AI audio locally All implementation code is included - you can set it up and start generating in ~30 minutes. Happy to answer questions about local AI music generation or deployment!
-
-14h ago
+3h ago
 
 ---
 
@@ -101,15 +109,7 @@ I documented a comprehensive guide for ACE-Step after testing various AI music t
 
 Which tool do you use to create AI images? I tried Microsoft Designer website but the quality was very poor. The generator in free ChatGPT is a bit better but I am still not able to produce images without obvious artifacts. Are the images of the paid version better or is it just faster and you have move requests available? The descriptions in the "Upgrade you plan" dialogue are very vague. Are the any more alternatives? P.S. I do not want to install terabytes of data and install douzands of plugins and extensions for a local model. I prefer a web solution. Thank you in advance.
 
-11h ago
-
----
-
-**[Sony AI patent will see PlayStation games play themselves when players are stuck | AI-Generated 'Ghost Player' assistance would help out players who can’t progress in a game](https://www.reddit.com/r/artificial/comments/1q6n6gw/sony_ai_patent_will_see_playstation_games_play/)**
-
-AI-Generated Ghost Player assistance would help out players who can’t progress in a game…
-
-🔗 [VGC](https://www.videogameschronicle.com/news/sony-ai-patent-will-see-playstation-games-play-themselves-when-players-are-stuck/) • 14h ago
+12h ago
 
 ---
 
@@ -121,7 +121,7 @@ AI-Generated Ghost Player assistance would help out players who can’t progress
 
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
@@ -129,49 +129,51 @@ Fortune • 11h ago
 
 Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
 
-Quanta Magazine • 17h ago
+Quanta Magazine • 18h ago
 
 ---
 
-**[Clean Energy Stocks Extend Rally on AI Demand as Oil Falters](https://www.bloomberg.com/news/articles/2026-01-08/clean-energy-stocks-extend-rally-on-ai-demand-as-oil-falters)**
+**[AI Spending Boom Fuels 24-Year High for Convertible Bond Deals](https://www.bloomberg.com/news/articles/2026-01-08/ai-spending-boom-fuels-24-year-high-for-convertible-bond-deals)**
+
+Companies around the world are issuing convertible bonds at the fastest pace in 24 years, as the development of artificial intelligence spurs a hunt for cheaper financing.
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[AI Is Being Used to Find Valuable Commodities in Our Trash](https://www.wsj.com/business/ai-is-being-used-to-find-valuable-commodities-in-our-trash-6b7de5d7?gaa_at=eafs&gaa_n=AWEtsqdHk8qC46hbWavjkEBQXA3Gfv964tY-ynW6CdRanBBV4IAq53fSE78F&gaa_ts=695f641b&gaa_sig=UnpkP8cKiTd6fTx-4FELIp32IMfLeciaSrjsGHZlm5fM-tHgbu2RXC8f3ojUeiwWw4IAfMPAS1TrIE_4R9ccEA%3D%3D)**
+**[Meta faces China probe over acquisition of AI agent startup Manus](https://www.cnbc.com/2026/01/08/china-investigate-meta-acquisition-manus-export.html)**
 
-The Wall Street Journal • 15h ago
+China to probe Meta's acquisition of artificial intelligence startup Manus to assess its compliance with export control laws.
 
----
-
-**[China’s first 'AI tiger' goes public as Zhipu climbs in Hong Kong debut](https://www.cnbc.com/2026/01/08/china-ai-tiger-goes-ipo-zhipu-hong-kong-debut-openai-knowledge-atlas-hsi-hang-seng-listing.html)**
-
-Shares of China-backed Zhipu made small gains on their Hong Kong debut, following a $558 million initial public offering.
-
-CNBC • 4h ago
+CNBC • 1h ago
 
 ---
 
-**[China’s Zhipu Says AI Price War Will Spread Internationally](https://www.bloomberg.com/news/articles/2026-01-08/china-s-zhipu-says-ai-price-war-will-spread-internationally)**
+**[China to assess, investigate Meta's acquisition of AI startup Manus](https://www.reuters.com/business/media-telecom/china-assess-investigate-metas-acquisition-ai-startup-manus-2026-01-08/)**
 
-One of China’s earliest OpenAI rivals expects US artificial intelligence developers to succumb to the same price-based competition that has forced Chinese companies to forgo profits.
-
-Bloomberg.com • 7h ago
+Reuters • 1h ago
 
 ---
 
-**[Chinese tech firms rise in Hong Kong debut as US-China tech race heats up](https://www.reuters.com/world/asia-pacific/chinese-tech-companies-led-by-zhipu-ai-climb-hong-kong-debut-2026-01-08/)**
+**[China Reviews Meta’s $2 Billion Deal to Buy AI Startup Manus](https://www.bloomberg.com/news/articles/2026-01-07/china-reviews-meta-s-2-billion-deal-to-buy-ai-startup-manus)**
 
-Reuters • 4h ago
+Chinese officials are looking into whether Meta Platforms Inc.’s acquisition of artificial intelligence startup Manus violated regulations, an initial review that could hinder the deal down the road if officials determine wrongdoing.
+
+Bloomberg.com • 1h ago
 
 ---
 
-**[Christopher Caldwell: Here Comes the AI Backlash](https://www.thefp.com/p/christopher-caldwell-here-comes-the)**
+**[AI Is Being Used to Find Valuable Commodities in Our Trash](https://www.wsj.com/business/ai-is-being-used-to-find-valuable-commodities-in-our-trash-6b7de5d7?gaa_at=eafs&gaa_n=AWEtsqceboFVreCR_ZSotG_lPPo4CrCiqqjge0AhYJ_by2mLSbcRoEMsoiSr&gaa_ts=695f7c79&gaa_sig=hk3PLt569AyqXq_n8PdvrlHq1xNHnVTz4ZrWlocJ10_FKb7F3VGLd4eBhoKY_6bZJl19BLxFpLdVEwBqn4gVug%3D%3D)**
 
-Donald Trump is all in on the transformative technology. The American people? Not so much.
+The Wall Street Journal • 16h ago
 
-The Free Press • 13h ago
+---
+
+**[AI chatbot Grok used to create child sexual abuse imagery, watchdog says](https://www.theguardian.com/technology/2026/jan/08/ai-chatbot-grok-used-to-create-child-sexual-abuse-imagery-watchdog-says)**
+
+Internet Watch Foundation warns Elon Musk-owned AI risks bringing sexualised imagery of children into the mainstream
+
+The Guardian • 3h ago
 
 ---
 
@@ -183,11 +185,9 @@ WIRED • 1d ago
 
 ---
 
-**[AI chatbot Grok used to create child sexual abuse imagery, watchdog says](https://www.theguardian.com/technology/2026/jan/08/ai-chatbot-grok-used-to-create-child-sexual-abuse-imagery-watchdog-says)**
+**[Grok's explicit images reveal AI's legal ambiguities](https://www.axios.com/2026/01/07/grok-bikini-images-legal-elon-musk)**
 
-Internet Watch Foundation warns Elon Musk-owned AI risks bringing sexualised imagery of children into the mainstream
-
-The Guardian • 2h ago
+Axios • 19h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Guardian • 2h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 817 • 💬 1266 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 818 • 💬 1271 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -215,7 +215,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 232 • 💬 376 • 2d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 232 • 💬 377 • 2d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -223,7 +223,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 217 • 💬 88 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 220 • 💬 89 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -231,7 +231,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 167 • 💬 102 • 16h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 169 • 💬 105 • 17h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -239,7 +239,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 154 • 💬 19 • 12h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 163 • 💬 22 • 13h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -283,17 +283,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 71 • ⏱️ 13:08 • 9h ago
-
----
-
-**[Top 6 AI Trends That Will Define 2026 (backed by data)](https://www.youtube.com/watch?v=B23W1gRT9eY)**
-
-Most #AI predictions are speculation. This video covers six trends backed by data from McKinsey, Stanford, #OpenAI, and Epoch ...
-
-📺 Jeff Su
-
-👁️ 55K • 👍 2K • 💬 168 • ⏱️ 13:13 • 1d ago
+👁️ 46K • 👍 1K • 💬 81 • ⏱️ 13:08 • 10h ago
 
 ---
 
@@ -303,7 +293,17 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 928K • 👍 47K • 💬 7K • ⏱️ 17:14 • 14h ago
+👁️ 976K • 👍 49K • 💬 7K • ⏱️ 17:14 • 14h ago
+
+---
+
+**[Top 6 AI Trends That Will Define 2026 (backed by data)](https://www.youtube.com/watch?v=B23W1gRT9eY)**
+
+Most #AI predictions are speculation. This video covers six trends backed by data from McKinsey, Stanford, #OpenAI, and Epoch ...
+
+📺 Jeff Su
+
+👁️ 57K • 👍 2K • 💬 173 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -313,35 +313,17 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 9K • 👍 105 • 💬 55 • ⏱️ 3:21 • 1d ago
+👁️ 9K • 👍 107 • 💬 56 • ⏱️ 3:21 • 1d ago
 
 ---
 
-**[5 Ai Video Generators You Didn&#39;t Know Were ACTUALLY FREE in 2026](https://www.youtube.com/watch?v=gbHhoM7a_YA)**
+**[New #1 open-source AI video generator is here! Fast + 4K + audio + low vram](https://www.youtube.com/watch?v=I_b2QN-B1W0)**
 
-In this video, I'm showing you 5 FREE AI Video Generator tools in 2026 that let you create amazing videos using text to video, ...
+LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Best open source video generator. #ai #aitools ...
 
-📺 Tech Rush
+📺 AI Search
 
-👁️ 5K • 👍 315 • 💬 101 • ⏱️ 11:01 • 19h ago
-
----
-
-**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
-
-This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
-
-📺 Tyler Vitelli
-
-👁️ 1.7M • 👍 58K • 💬 4K • ⏱️ 0:10 • 16h ago
-
----
-
-**[I bought 2 AI-generated products.. here’s what they REALLY look like. 🥴](https://www.youtube.com/watch?v=oI0urN9aOTk)**
-
-📺 Maggie McGaugh
-
-👁️ 312K • 👍 9K • 💬 169 • ⏱️ 0:47 • 1d ago
+👁️ 27K • 👍 2K • 💬 347 • ⏱️ 38:57 • 6h ago
 
 ---
 
@@ -351,17 +333,27 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 115K • 👍 6K • 💬 1K • ⏱️ 7:02 • 1d ago
+👁️ 116K • 👍 6K • 💬 1K • ⏱️ 7:02 • 1d ago
 
 ---
 
-**[LinkedIn’s Jobs on the Rise for 2026: AI Roles, Self-Directed Jobs](https://www.youtube.com/watch?v=mAmP5hQ4-8g)**
+**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
 
-The new year has many people thinking about a fresh start and that sometimes includes a job change so LinkedIn editor-in-chief ...
+This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
 
-📺 TODAY
+📺 Tyler Vitelli
 
-👁️ 8K • 👍 110 • 💬 14 • ⏱️ 4:44 • 17h ago
+👁️ 1.8M • 👍 61K • 💬 4K • ⏱️ 0:10 • 17h ago
+
+---
+
+**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
+
+CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
+
+📺 The Laughing Lion
+
+👁️ 99K • 👍 2K • 💬 271 • ⏱️ 25:02 • 1d ago
 
 ---
 
@@ -371,7 +363,15 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 📺 Mira AI
 
-👁️ 8K • 💬 8 • ⏱️ 7:28 • 16h ago
+👁️ 8K • 💬 10 • ⏱️ 7:28 • 17h ago
+
+---
+
+**[“AI VIDEOS ARE GETTING TOO GOOD” 😂](https://www.youtube.com/watch?v=b6Fuwd5ZGdo)**
+
+📺 Bob Reese
+
+👁️ 706K • 👍 14K • 💬 261 • ⏱️ 0:19 • 17h ago
 
 ---
 
@@ -387,7 +387,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 6,612 • ❤️ 664 • 7d ago
+⬇️ 7,287 • ❤️ 664 • 7d ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 479 • 1h ago
+⬇️ 187,937 • ❤️ 501 • 2h ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 16,813 • ❤️ 517 • 7d ago
+⬇️ 18,440 • ❤️ 520 • 7d ago
 
 ---
 
@@ -423,7 +423,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 2,665 • ❤️ 428 • 2d ago
+⬇️ 3,233 • ❤️ 431 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 6,324 • ❤️ 276 • 20h ago
+⬇️ 9,648 • ❤️ 277 • 21h ago
 
 ---
 
@@ -447,7 +447,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 4,010 • ❤️ 250 • 5d ago
+⬇️ 4,353 • ❤️ 250 • 5d ago
 
 ---
 
@@ -459,7 +459,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 198,823 • ❤️ 947 • 11d ago
+⬇️ 200,391 • ❤️ 949 • 11d ago
 
 ---
 
@@ -471,7 +471,7 @@ This is a GGUF quantized text-to-image model optimized for performance, capable 
 
 `text-to-image` `20.4B`
 
-⬇️ 77,452 • ❤️ 234 • 1d ago
+⬇️ 81,553 • ❤️ 235 • 1d ago
 
 ---
 
@@ -483,7 +483,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 2,742 • ❤️ 396 • 2d ago
+⬇️ 3,107 • ❤️ 398 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 34,762 • ❤️ 1,497 • 4h ago
+⬇️ 38,529 • ❤️ 1,499 • 5h ago
 
 ---
 
@@ -509,7 +509,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 53 • 💬 1 • ⭐ 922 • 1d ago
+▲ 55 • 💬 1 • ⭐ 1,152 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -606,20 +606,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[Recursive Language Models](https://huggingface.co/papers/2512.24601)**
-
-*Alex L. Zhang, Tim Kraska, Omar Khattab*
-
-🏢 Massachusetts Institute of Technology
-
-We study allowing large language models (LLMs) to process arbitrarily long prompts through the lens of inference-time scaling. We propose Recursive Language Models (RLMs), a general inference strategy that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt. We find that RLMs successfully handle inputs up to two orders of magnitude beyond model context windows and, even for shorter prompts, dramatically outperform the quality of base LLMs and common long-context scaffolds across four diverse long-context tasks, while having comparable (or cheaper) cost per query.
-
-▲ 33 • 💬 4 • ⭐ 747 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.24601) • [💻 code](https://github.com/alexzhang13/rlm/tree/main) • [🔗 project](https://alexzhang13.github.io/blog/2025/rlm/)
-
----
-
 **[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)**
 
 *Xu Guo, Fulong Ye, Xinghui Li et al. (9 authors)*
@@ -628,9 +614,23 @@ We study allowing large language models (LLMs) to process arbitrarily long promp
 
 A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
 
-▲ 40 • 💬 5 • ⭐ 188 • 4d ago
+▲ 41 • 💬 5 • ⭐ 188 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
+
+---
+
+**[NitroGen: An Open Foundation Model for Generalist Gaming Agents](https://huggingface.co/papers/2601.02427)**
+
+*Loïc Magne, Anas Awadalla, Guanzhi Wang et al. (14 authors)*
+
+🏢 NVIDIA
+
+NitroGen is a vision-action foundation model trained on extensive gameplay data that demonstrates strong cross-game generalization and effective transfer learning capabilities.
+
+▲ 25 • 💬 2 • ⭐ 1,479 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02427) • [💻 code](https://github.com/MineDojo/NitroGen) • [🔗 project](https://nitrogen.minedojo.org/)
 
 ---
 
@@ -644,7 +644,7 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.8k • 🔱 804 • 2h ago
+⭐ 6.8k • 🔱 810 • 3h ago
 
 ---
 
@@ -664,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 15h ago
+⭐ 2.1k • 🔱 126 • 16h ago
 
 ---
 
@@ -674,7 +674,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 210 • 3d ago
+⭐ 1.9k • 🔱 212 • 3d ago
 
 ---
 
@@ -704,7 +704,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 3h ago
+⭐ 1.2k • 🔱 142 • 4h ago
 
 ---
 
@@ -724,7 +724,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 985 • 🔱 119 • 2h ago
+⭐ 987 • 🔱 119 • 43m ago
 
 ---
 
@@ -734,7 +734,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 938 • 🔱 139 • 3h ago
+⭐ 940 • 🔱 141 • 12m ago
 
 ---
 

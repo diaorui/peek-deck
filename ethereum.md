@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T08:32:53.070120+00:00'
+updated: '2026-01-08T09:29:55.073213+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 08:32 UTC  
+**Last Updated:** January 08, 2026 at 09:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,116.35
+### $3,121.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.9%  
-**7d:** +0.1%  
-**30d:** -5.8%  
-**90d:** -16.8%  
-**1y:** -3.0%  
+**24h:** -3.4%  
+**7d:** -0.4%  
+**30d:** -6.4%  
+**90d:** -17.3%  
+**1y:** -3.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.38B
+**Market Cap:** $375.03B
 Rank #2
 
 **Circulating Supply:** 120,694,767 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-37.2%
 
 **All-Time Low:** $0.43
-+719362.1%
++717110.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -88,19 +88,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 10h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 11h ago
 
 ---
 
 **[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems](https://www.reddit.com/r/ethereum/comments/1q6kmx8/timebucketed_balance_records_boundedstorage/)**
 
-🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 15h ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 16h ago
 
 ---
 
@@ -130,7 +130,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 18h ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 19h ago
 
 ---
 
@@ -160,19 +160,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Is Bit Digital's (BTBT) Dual Leadership Quietly Redefining Its Ethereum and AI Infrastructure Strategy?](https://finance.yahoo.com/news/bit-digitals-btbt-dual-leadership-043214896.html)**
-
-In recent months, Bit Digital, led by CEO Samir “Sam” Tabar, has accelerated its push into digital asset infrastructure and more sustainable, efficient Bitcoin mining. An interesting angle is Tabar’s simultaneous leadership of WhiteFiber, an AI and high‑performance computing infrastructure firm, which links Bit Digital’s mining ambitions with broader compute and energy-efficiency trends. We’ll now examine how Tabar’s dual role across Bit Digital and WhiteFiber could reshape the company’s...
-
-Yahoo Finance • 3h ago
-
----
-
 **[Ethereum (ETH) news: bumps blob capacity ahead of Fusaka upgrade](https://www.coindesk.com/tech/2026/01/08/ethereum-bumps-blob-capacity-as-it-gears-for-fusaka-upgrade)**
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
+
+---
+
+**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
+
+Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,25 +198,25 @@ Decrypt • 2d ago
 
 ---
 
+**[Ethereum Price Latest Push Raises Question: Has a Short-Term Top Formed?](https://www.tradingview.com/news/newsbtc:cfd501f23094b:0-ethereum-price-latest-push-raises-question-has-a-short-term-top-formed/)**
+
+Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
+
+TradingView — Track All Markets • 6h ago
+
+---
+
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
 CCN.com • 1d ago
 
 ---
 
-**[Ethereum Price Latest Push Raises Question: Has a Short-Term Top Formed?](https://www.tradingview.com/news/newsbtc:cfd501f23094b:0-ethereum-price-latest-push-raises-question-has-a-short-term-top-formed/)**
+**[Bitcoin, Ethereum And Solana Rebound Strongly To Start 2026 - Crypto Overview](https://seekingalpha.com/article/4857497-bitcoin-ethereum-solana-rebound-strongly-to-start-2026-crypto-overview)**
 
-Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
+Despite growth in stock indexes and metals, the YoY performance for Bitcoin in 2025 was actually negative. But YoY change fails to capture the total volatility and opportunity in the period.
 
-TradingView — Track All Markets • 5h ago
-
----
-
-**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
-
-Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
-
-Yahoo Finance • 1d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -230,17 +230,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 10K • 👍 684 • 💬 64 • ⏱️ 10:20 • 19h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XO3zYMNVFeI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 195 • 💬 8 • ⏱️ 4:16 • 15h ago
+👁️ 11K • 👍 692 • 💬 55 • ⏱️ 10:20 • 19h ago
 
 ---
 
@@ -250,17 +240,17 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 15K • 👍 614 • 💬 66 • ⏱️ 12:17 • 1d ago
+👁️ 15K • 👍 616 • 💬 67 • ⏱️ 12:17 • 1d ago
 
 ---
 
-**[Ethereum News🚨: Morgan Stanley Bets On Huge ETH Pump](https://www.youtube.com/watch?v=02XiWeolYEY)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XO3zYMNVFeI)**
 
-Ethereum is on the verge of a massive institutional breakout! In today's video, we're diving into the bombshell news that Morgan ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Discover Crypto
+📺 More Crypto Online
 
-👁️ 6K • 👍 337 • 💬 8 • ⏱️ 1:08:45 • 15h ago
+👁️ 3K • 👍 201 • 💬 8 • ⏱️ 4:16 • 16h ago
 
 ---
 
@@ -274,13 +264,23 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 ---
 
-**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
+**[Ethereum Is Rejecting HARD At This Level, Crash Incoming?](https://www.youtube.com/watch?v=M5QNby6YBoc)**
 
-This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
 
-📺 Thomas Kralow
+📺 Trade Confident
 
-👁️ 23K • 👍 3K • 💬 50 • ⏱️ 8:07 • 1d ago
+👁️ 379 • 👍 18 • 💬 11 • ⏱️ 3:54 • 13h ago
+
+---
+
+**[Ethereum News🚨: Morgan Stanley Bets On Huge ETH Pump](https://www.youtube.com/watch?v=02XiWeolYEY)**
+
+Ethereum is on the verge of a massive institutional breakout! In today's video, we're diving into the bombshell news that Morgan ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 340 • 💬 8 • ⏱️ 1:08:45 • 16h ago
 
 ---
 
@@ -290,17 +290,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 290 • 💬 207 • ⏱️ 19:40 • 11h ago
-
----
-
-**[Ethereum Is Rejecting HARD At This Level, Crash Incoming?](https://www.youtube.com/watch?v=M5QNby6YBoc)**
-
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 372 • 👍 18 • 💬 11 • ⏱️ 3:54 • 12h ago
+👁️ 8K • 👍 298 • 💬 199 • ⏱️ 19:40 • 12h ago
 
 ---
 
@@ -310,17 +300,27 @@ Is BMNR setting up for a major inflection point — or a volatility trap? BitMin
 
 📺 Darren Steves
 
-👁️ 406 • 👍 25 • 💬 6 • ⏱️ 13:54 • 8h ago
+👁️ 576 • 👍 29 • 💬 8 • ⏱️ 13:54 • 8h ago
 
 ---
 
-**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
+**[Are Banks Making ETH Stronger? TradFi Will Work With Crypto In 2026 +$90,500 BTC &amp; $3,100 ETH-Ep#900](https://www.youtube.com/watch?v=9G8_r4VHmKA)**
 
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+Today we discuss why Ethereum (ETH) has some of the strongest fundamentals from both TradFi aka Wall Street & DeFi, whether ...
 
-📺 Library Of Wealth
+📺 Cultivate Crypto
 
-👁️ 21K • 👍 724 • 💬 346 • ⏱️ 13:40 • 2d ago
+👁️ 792 • 👍 98 • 💬 4 • ⏱️ 2:28:36 • 6h ago
+
+---
+
+**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
+
+This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
+
+📺 Thomas Kralow
+
+👁️ 24K • 👍 3K • 💬 50 • ⏱️ 8:07 • 1d ago
 
 ---
 
