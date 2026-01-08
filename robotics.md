@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T14:53:50.084380+00:00'
+updated: '2026-01-08T15:28:11.196340+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 14:53 UTC  
+**Last Updated:** January 08, 2026 at 15:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,21 +32,21 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
-
-11h ago
-
----
-
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
 1h ago
 
 ---
 
+**[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
+
+12h ago
+
+---
+
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Robotics research and industry news
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ Robotics research and industry news
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-6h ago
+7h ago
 
 ---
 
@@ -88,15 +88,15 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 2h ago
 
 ---
 
-**[Humanoid robots or assistive exoskeletons, which has more real potential?](https://www.reddit.com/r/robotics/comments/1q73yj5/humanoid_robots_or_assistive_exoskeletons_which/)**
+**[How to hack](https://www.reddit.com/r/robotics/comments/1q7db8m/how_to_hack/)**
 
-Humanoid robots have been getting a lot of attention lately, with recent demos like Unitree Robotics and NEO home robot pushing toward general-purpose capability. At the same time, assistive exoskeletons seem to be making quieter progress. Just saw a news that a Korean institute KAIST has created an exoskeleton that helps paralyzed people stand, walk, also some consumer-level devices such as dnsysX1 target mobility support for older adults rather than full autonomy. Humanoids aim for versatility, but translating demos into real-world deployment is still unclear. Questions around cost, safety, maintenance, reliability, and clear use cases remain largely unresolved outside controlled environments. Exoskeletons, by contrast, tend to slot into existing workflows more easily by targeting narrow, well-defined problems and keeping humans in control. Curious how people here see it. Which do you think has more development potential over the next 10-15 years, and why?
+I have a old dash robot from some time ago It was used to teach young kids to code and program, but now I want to hack it so I can use it for other projects is there any way I could do that
 
-8h ago
+55m ago
 
 ---
 
@@ -114,7 +114,7 @@ Reuters • 15h ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -134,28 +134,6 @@ hyundai.com • 2d ago
 
 ---
 
-**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
-
-Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
-
-A new wave of humanoids are coming. Qualcomm is ready to power them.
-
-CNET • 3d ago
-
----
-
 **[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
 
 The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
@@ -172,11 +150,31 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
+**[Nvidia's Jensen Huang said he loves this company. The shares could nearly double this year, says one analyst](https://www.cnbc.com/2026/01/07/nvidias-jensen-huang-said-he-loves-this-company-shares-could-nearly-double-says-one-analyst.html)**
 
-NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
+Analysts have gotten increasingly bullish on this company since announcing it has deployed the largest sidewalk delivery fleet in the U.S.
 
-NVIDIA Newsroom • 2d ago
+CNBC • 19h ago
+
+---
+
+**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
+
+A new wave of humanoids are coming. Qualcomm is ready to power them.
+
+CNET • 3d ago
+
+---
+
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfEriCsSL1tnHZ17HsXfs3aeWjvQRXhuTP9Flnnb85Pe2u5fn9khWo_&gaa_ts=695fd074&gaa_sig=WoHCmWwOL7WaBcUPQaHxGe7GFbVVybgDGFbTHuJHk4q6xUwRKrb8vHEdnJFf0uaFc8vteZmMblPC_DYaY027Fw%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 
 📺 CNET
 
-👁️ 14K • 👍 195 • 💬 99 • ⏱️ 5:07 • 15h ago
+👁️ 14K • 👍 195 • 💬 99 • ⏱️ 5:07 • 16h ago
 
 ---
 
@@ -250,7 +248,7 @@ LG has a mind blowingly cool setup here at #CES2026 There are next generation Wa
 
 📺 JerryRigEverything
 
-👁️ 91K • 👍 5K • 💬 603 • ⏱️ 7:45 • 13h ago
+👁️ 91K • 👍 5K • 💬 603 • ⏱️ 7:45 • 14h ago
 
 ---
 
