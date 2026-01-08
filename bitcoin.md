@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T19:21:19.497367+00:00'
+updated: '2026-01-08T19:40:43.914826+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 19:21 UTC  
+**Last Updated:** January 08, 2026 at 19:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,13 +95,13 @@ It will be 🔥💪 actually I heard rumours China has been buying lots of Gold 
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-22m ago
+42m ago
 
 ---
 
@@ -135,7 +135,7 @@ People who bought Bitcoin before the ETFs
 
 I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the best option for me. I am trying to learn more about Bitcoin on YouTube, so I invested $3,000 and plan to invest more. I am not taking big risks; I am just experimenting. Is it good or bad that I am sticking only with Bitcoin? This is not advice seeking Post (just for discussion)
 
-8h ago
+9h ago
 
 ---
 
@@ -195,7 +195,7 @@ Fortune • 1h ago
 
 Bitcoin could face heightened volatility if the Supreme Court rules against Trump on his global tariffs, impacting markets across crypto, equities, and bonds.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ abcnews.go.com • 1d ago
 
 Security researchers found 3 npm packages that installed NodeCordRAT malware, stealing browser data, crypto wallet secrets & tokens using Discord C2.
 
-The Hacker News • 8h ago
+The Hacker News • 9h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 394 • 💬 336 • ⏱️ 9:41 • 18h ago
+👁️ 8K • 👍 394 • 💬 336 • ⏱️ 9:41 • 19h ago
 
 ---
 
@@ -405,7 +405,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 504 • 💬 62 • ⏱️ 7:28 • 12h ago
+👁️ 9K • 👍 504 • 💬 62 • ⏱️ 7:28 • 13h ago
 
 ---
 

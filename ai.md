@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T19:21:19.488906+00:00'
+updated: '2026-01-08T19:40:43.906289+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 19:21 UTC  
+**Last Updated:** January 08, 2026 at 19:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 3h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 4h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup o
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 2h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 3h ago
 
 ---
 
@@ -127,7 +127,7 @@ CNBC • 6h ago
 
 Google is souping up Gmail with features from its Gemini 3 AI app. Here's what to know — including how to opt out.
 
-CBS News • 16m ago
+CBS News • 36m ago
 
 ---
 
@@ -149,7 +149,7 @@ Fortune • 22h ago
 
 New resource hub features curated AI tools to help marketers gain insight, create faster, and optimize independently without handoffs or delaysNew York, Jan. 08, 2026 (GLOBE NEWSWIRE) -- Optimove, the creator of Positionless Marketing, today announced the launch of its AI Marketing Tools Hub, a comprehensive resource designed to help marketers unlock the full potential of artificial intelligence and operate with greater speed, precision, and autonomy. Positionless Marketing frees marketing teams
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Yahoo Finance • 51m ago
 
 As AI technology grows, South Carolina is examining the technology with three pre-filed bills, while a national policy framework is also being developed.
 
-WYFF News 4 • 18m ago
+WYFF News 4 • 37m ago
 
 ---
 
@@ -177,7 +177,7 @@ CNN • 7h ago
 
 **[Jeffries to meet with new House Dem AI commission](https://www.politico.com/live-updates/2026/01/08/congress/jeffries-to-meet-with-new-house-dem-ai-working-group-00715720)**
 
-Politico • 5h ago
+Politico • 6h ago
 
 ---
 
@@ -387,7 +387,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 557 • 11h ago
+⬇️ 187,937 • ❤️ 557 • 12h ago
 
 ---
 
@@ -495,7 +495,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,509 • 15h ago
+⬇️ 38,529 • ❤️ 1,509 • 16h ago
 
 ---
 
@@ -642,7 +642,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.0k • 🔱 840 • 1h ago
+⭐ 7.0k • 🔱 840 • 2h ago
 
 ---
 
@@ -722,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 92 • 1h ago
+⭐ 1.1k • 🔱 92 • 2h ago
 
 ---
 
@@ -732,7 +732,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 995 • 🔱 120 • 5h ago
+⭐ 995 • 🔱 120 • 6h ago
 
 ---
 
