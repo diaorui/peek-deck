@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T20:27:39.598337+00:00'
+updated: '2026-01-08T20:48:44.383281+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 20:27 UTC  
+**Last Updated:** January 08, 2026 at 20:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 4h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 3h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 4h ago
 
 ---
 
@@ -151,13 +151,13 @@ Fortune • 23h ago
 
 Artificial intelligence took center stage at this year's CES gadget show, but not always for the right reasons. On Thursday, the “Worst in Show” awards highlighted products seen as invasive, fragile or wasteful. Samsung's “Bespoke AI Family Hub” fridge was criticized for its complexity and poor v...
 
-WRAL • 22m ago
+WRAL • 43m ago
 
 ---
 
 **[Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026](https://www.marketwatch.com/story/why-alphabets-stock-can-further-reign-as-king-of-the-ai-trade-in-2026-18bedf6f?gaa_at=eafs&gaa_n=AWEtsqeUbVeGuYlikYlhvSnNItIcaGLtZ_Dsi4NXublWmTaIuljtnGiarqSQ&gaa_ts=696016a4&gaa_sig=z8iqjH8tuxR6VMgoEzI2jmL19G8I499o7b3a_zO80Bcr_H7c5guC1jgVxGhxhiaZPe0Sq_nz8354yRxp1TSajQ%3D%3D)**
 
-MarketWatch • 17m ago
+MarketWatch • 38m ago
 
 ---
 
@@ -249,7 +249,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 142 • 💬 77 • 13h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 142 • 💬 77 • 14h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -493,7 +493,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,509 • 16h ago
+⬇️ 38,529 • ❤️ 1,509 • 17h ago
 
 ---
 
@@ -640,7 +640,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.0k • 🔱 840 • 2h ago
+⭐ 7.0k • 🔱 840 • 3h ago
 
 ---
 
@@ -720,7 +720,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 92 • 2h ago
+⭐ 1.1k • 🔱 92 • 3h ago
 
 ---
 
@@ -730,7 +730,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 995 • 🔱 120 • 6h ago
+⭐ 995 • 🔱 120 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T20:27:39.608049+00:00'
+updated: '2026-01-08T20:48:44.391618+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 20:27 UTC  
+**Last Updated:** January 08, 2026 at 20:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 BTC
 
-4h ago
+5h ago
 
 ---
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -135,7 +135,7 @@ People who bought Bitcoin before the ETFs
 
 I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the best option for me. I am trying to learn more about Bitcoin on YouTube, so I invested $3,000 and plan to invest more. I am not taking big risks; I am just experimenting. Is it good or bad that I am sticking only with Bitcoin? This is not advice seeking Post (just for discussion)
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the 
 
 How much $BTC did you add last year? https://preview.redd.it/7i8wab6h54cg1.jpg?width=1272&format=pjpg&auto=webp&s=cfd46f8ab14717a5059ebe0f46d7c328425e8034
 
-8h ago
+9h ago
 
 ---
 
@@ -209,7 +209,7 @@ ETF Trends • 1d ago
 
 Security researchers found 3 npm packages that installed NodeCordRAT malware, stealing browser data, crypto wallet secrets & tokens using Discord C2.
 
-The Hacker News • 9h ago
+The Hacker News • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 394 • 💬 336 • ⏱️ 9:41 • 19h ago
+👁️ 8K • 👍 394 • 💬 336 • ⏱️ 9:41 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 85K • 👍 6K • 💬 443 • ⏱️ 19:29 • 23h ago
+👁️ 85K • 👍 6K • 💬 443 • ⏱️ 19:29 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 504 • 💬 62 • ⏱️ 7:28 • 13h ago
+👁️ 9K • 👍 504 • 💬 62 • ⏱️ 7:28 • 14h ago
 
 ---
 

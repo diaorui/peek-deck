@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T20:27:39.616630+00:00'
+updated: '2026-01-08T20:48:44.400841+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 20:27 UTC  
+**Last Updated:** January 08, 2026 at 20:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -86,7 +86,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ Recently graduated with 1 year experience(Intern). Do I have chance of landing j
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -134,7 +134,7 @@ hyundai.com • 2d ago
 
 Local team of STEM middle & high school students from Folsom, Rancho Cordova, Sacramento is hosting one of Northern California's largest youth robotics tournaments on Jan 24-25.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -158,7 +158,7 @@ TechCrunch • 2d ago
 
 The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
 
-International Federation of Robotics • 13h ago
+International Federation of Robotics • 14h ago
 
 ---
 
@@ -218,7 +218,7 @@ Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with it
 
 📺 Kalil 4.0
 
-👁️ 272 • 👍 12 • ⏱️ 0:48 • 2h ago
+👁️ 272 • 👍 12 • ⏱️ 0:48 • 3h ago
 
 ---
 
