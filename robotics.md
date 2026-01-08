@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T05:49:15.672285+00:00'
+updated: '2026-01-08T06:36:43.735526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 05:49 UTC  
+**Last Updated:** January 08, 2026 at 06:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-8h ago
+9h ago
 
 ---
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,13 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-18h ago
+19h ago
+
+---
+
+**[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
+
+50m ago
 
 ---
 
@@ -74,7 +80,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-9h ago
+10h ago
 
 ---
 
@@ -82,23 +88,15 @@ Here's the construction of the car's control panel that I'll be making later! Th
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-18h ago
+19h ago
 
 ---
 
-**[Simulate the robot straight from Arduino code - Furuta Pendulum](https://www.reddit.com/r/robotics/comments/1q6iusj/simulate_the_robot_straight_from_arduino_code/)**
+**[Humanoid robots or assistive exoskeletons, which has more real potential?](https://www.reddit.com/r/robotics/comments/1q73yj5/humanoid_robots_or_assistive_exoskeletons_which/)**
 
-I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
+Humanoid robots have been getting a lot of attention lately, with recent demos like Unitree Robotics and NEO home robot pushing toward general-purpose capability. At the same time, assistive exoskeletons seem to be making quieter progress. Just saw a news that a Korean institute KAIST has created an exoskeleton that helps paralyzed people stand, walk, also some consumer-level devices such as dnsysX1 target mobility support for older adults rather than full autonomy. Humanoids aim for versatility, but translating demos into real-world deployment is still unclear. Questions around cost, safety, maintenance, reliability, and clear use cases remain largely unresolved outside controlled environments. Exoskeletons, by contrast, tend to slot into existing workflows more easily by targeting narrow, well-defined problems and keeping humans in control. Curious how people here see it. Which do you think has more development potential over the next 10-15 years, and why?
 
-14h ago
-
----
-
-**[Need eyes expressions for my robot](https://www.reddit.com/r/robotics/comments/1q71k6x/need_eyes_expressions_for_my_robot/)**
-
-Hi I am building a robot using esp 32 S3 and my I have chosen lcd ST7789 TFT for display can anyone help me how to make this , I have no idea please guide me I need different expressions like Happy, surprised, listening, talking etc. Please help
-
-1h ago
+36m ago
 
 ---
 
@@ -108,7 +106,7 @@ Hi I am building a robot using esp 32 S3 and my I have chosen lcd ST7789 TFT for
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -116,17 +114,17 @@ Reuters • 6h ago
 
 Chip technology company Arm Holdings has reorganized the company to create a Physical AI unit to expand its presence in the robotics market, company executives told Reuters at CES, where robots are a theme of the year.  The decision to create a ​unit that specializes in robotics arrives amid a flurry of announcements and activity at CES around humanoid robots.  At the sprawling Las Vegas trade show, large ‌and small companies demonstrated robots that could help build cars, clean toilets and deal games of poker - at a glacial pace.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
 **[Arm Holdings Creates New ‘Physical AI’ Unit to Expand into Robotics](https://www.tipranks.com/news/arm-holdings-creates-new-physical-ai-unit-to-expand-into-robotics)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcsvsJk0f7_a--448C0VbcX21BEH68kPNIFr4BPLi3CZ8IX6yR2WCDV&gaa_ts=695f436e&gaa_sig=G-K30gfQlXT2UI8lPivexAN54kkXWFtbT8vCuXuLkQzKeEtQWo6StaP4mtKMsTONXHLRxGz9Gl47tZDxTVy_vA%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqc87_67lKPBrrVAZHPw_wl1_2RmAFbD2TsS4pzu6QivklWjAT10Suge&gaa_ts=695f53e6&gaa_sig=vKIfQkzcAbuq2GhgXsYyTKlCJHLjNyWJydSnrO2CHTlvqvMjwWzhHs-kgbKkaU1Kncl9uwp0CXu3gugLbRTi2w%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -157,27 +155,27 @@ hyundai.com • 2d ago
 
 ---
 
-**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
+**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
 
-NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
+The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
 
-NVIDIA Developer • 2d ago
-
----
-
-**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
-
-NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
-
-NVIDIA Newsroom • 2d ago
+International Federation of Robotics • 3m ago
 
 ---
 
-**[Nvidia’s Jensen Huang says the “ChatGPT moment” for robotics is nearly here — but is it?](https://fortune.com/2026/01/06/nvidia-jensen-huang-chatgpt-moment-for-robotics/)**
+**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
 
-Huang says advances in models, simulation, and compute have pushed robotics to a long-awaited inflection point — but turning platforms into real-world machines remains the hard part.
+Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
 
-Fortune • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
+
+Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+
+Interesting Engineering • 12h ago
 
 ---
 
@@ -201,7 +199,7 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 
 📺 CNET
 
-👁️ 4K • 👍 109 • 💬 38 • ⏱️ 5:07 • 6h ago
+👁️ 4K • 👍 109 • 💬 38 • ⏱️ 5:07 • 7h ago
 
 ---
 
@@ -211,7 +209,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 22K • 👍 699 • 💬 111 • ⏱️ 4:29 • 13h ago
+👁️ 22K • 👍 699 • 💬 111 • ⏱️ 4:29 • 14h ago
 
 ---
 
