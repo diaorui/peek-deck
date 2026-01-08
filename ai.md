@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T18:30:19.053410+00:00'
+updated: '2026-01-08T19:21:19.488906+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 18:30 UTC  
+**Last Updated:** January 08, 2026 at 19:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 7h ago
 
 ---
 
@@ -49,29 +49,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 2h ago
-
----
-
-**[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
-
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 13h ago
-
----
-
-**[Why didn't AI “join the workforce” in 2025?, US Job Openings Decline to Lowest Level in More Than a Year and many other AI links from Hacker News](https://www.reddit.com/r/artificial/comments/1q7hhuv/why_didnt_ai_join_the_workforce_in_2025_us_job/)**
-
-Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup of the best AI links and the discussions around them from Hacker News. See below 5/35 links shared in this issue: US Job Openings Decline to Lowest Level in More Than a Year - HN link Why didn't AI “join the workforce” in 2025? - HN link The suck is why we're here - HN link The creator of Claude Code's Claude setup - HN link AI misses nearly one-third of breast cancers, study finds - HN link If you enjoy such content, please consider subscribing to the newsletter here: https://hackernewsai.com/
-
-1h ago
-
----
-
-**[Wouldn’t a rouge AGI or ASI accumulating resources covertly for computation look just like our current AI bubble?](https://www.reddit.com/r/artificial/comments/1q7hmqa/wouldnt_a_rouge_agi_or_asi_accumulating_resources/)**
-
-Just a thought I have been having, wouldn’t the blind devotion to building more data centers, removing regulation and insane stock prices for AI companies be the exact way a covert AGI or rouge system would operate and incentivize us to serve its interests? Not saying it’s actually happening Edit: Rogue not rouge
-
-1h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 3h ago
 
 ---
 
@@ -79,7 +57,45 @@ Just a thought I have been having, wouldn’t the blind devotion to building mor
 
 Tailwind's CEO said that while AI made the web tool more popular, it also led to cratering revenue and difficulty converting paid users.
 
-🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 38m ago
+🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 1h ago
+
+---
+
+**[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
+
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 14h ago
+
+---
+
+**[Why didn't AI “join the workforce” in 2025?, US Job Openings Decline to Lowest Level in More Than a Year and many other AI links from Hacker News](https://www.reddit.com/r/artificial/comments/1q7hhuv/why_didnt_ai_join_the_workforce_in_2025_us_job/)**
+
+Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup of the best AI links and the discussions around them from Hacker News. See below 5/35 links shared in this issue: US Job Openings Decline to Lowest Level in More Than a Year - HN link Why didn't AI “join the workforce” in 2025? - HN link The suck is why we're here - HN link The creator of Claude Code's Claude setup - HN link AI misses nearly one-third of breast cancers, study finds - HN link If you enjoy such content, please consider subscribing to the newsletter here: https://hackernewsai.com/
+
+2h ago
+
+---
+
+**[AI detects stomach cancer risk from upper endoscopic images in remote communities](https://www.reddit.com/r/artificial/comments/1q7gmqp/ai_detects_stomach_cancer_risk_from_upper/)**
+
+Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
+
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 2h ago
+
+---
+
+**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
+
+Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
+
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 3h ago
+
+---
+
+**[iRobot I Love You](https://www.reddit.com/r/artificial/comments/1q7iux7/irobot_i_love_you/)**
+
+As we look toward the next 30 years, the conversation is shifting from "Can robots think?" to "Can robots belong?" Research into social robotics and the emerging field of "robosexuality" suggests that by 2055, our legal systems will face unprecedented pressure to recognize non-biological partnerships. If an AI is specifically programmed to "love" or "desire" a human, is it actually capable of genuine consent? David Levy has famously predicted that legal human-robot marriage could be a reality by 2050. By 2055, this could necessitate entirely new "Post-Biological" family laws to handle estates and next-of-kin rights.
+
+1h ago
 
 ---
 
@@ -89,25 +105,9 @@ Tailwind's CEO said that while AI made the web tool more popular, it also led to
 
 ---
 
-**[AI detects stomach cancer risk from upper endoscopic images in remote communities](https://www.reddit.com/r/artificial/comments/1q7gmqp/ai_detects_stomach_cancer_risk_from_upper/)**
-
-Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
-
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 1h ago
-
----
-
-**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
-
-Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
-
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
-
----
-
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 7h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 8h ago
 
 ---
 
@@ -115,57 +115,69 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 ## Google News: "ai"
 
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
-
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
-
-blog.google • 5h ago
-
----
-
 **[Google is unleashing Gemini AI features on Gmail. Users will have to opt out](https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html)**
 
 Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[Google Just Stuffed a Bunch of New AI Into Your Gmail](https://gizmodo.com/google-just-stuffed-a-bunch-of-new-ai-into-your-gmail-2000707529)**
+**[Gmail now uses AI to help you write messages and keep track of your inbox](https://www.cbsnews.com/news/gmail-ai-google-help-write-messages-track-inbox/)**
 
-Heard you like inboxes. Well, you're getting an "AI Inbox" in your inbox.
+Google is souping up Gmail with features from its Gemini 3 AI app. Here's what to know — including how to opt out.
 
-Gizmodo • 1h ago
+CBS News • 16m ago
+
+---
+
+**[Google Adds More Gemini AI Features to Gmail to Leverage Its Massive User Base](https://www.tipranks.com/news/google-adds-more-gemini-ai-features-to-gmail-to-leverage-its-massive-user-base)**
+
+TipRanks • 1h ago
+
+---
+
+**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
+
+"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
+
+Fortune • 22h ago
+
+---
+
+**[Optimove Launches Comprehensive AI Marketing Tools Hub to Power Positionless Marketing](https://finance.yahoo.com/news/optimove-launches-comprehensive-ai-marketing-183000105.html)**
+
+New resource hub features curated AI tools to help marketers gain insight, create faster, and optimize independently without handoffs or delaysNew York, Jan. 08, 2026 (GLOBE NEWSWIRE) -- Optimove, the creator of Positionless Marketing, today announced the launch of its AI Marketing Tools Hub, a comprehensive resource designed to help marketers unlock the full potential of artificial intelligence and operate with greater speed, precision, and autonomy. Positionless Marketing frees marketing teams
+
+Yahoo Finance • 51m ago
+
+---
+
+**[South Carolina considers AI regulation amid national de-regulation efforts](https://www.wyff4.com/article/south-carolina-considers-ai-regulation/69934314)**
+
+As AI technology grows, South Carolina is examining the technology with three pre-filed bills, while a national policy framework is also being developed.
+
+WYFF News 4 • 18m ago
 
 ---
 
 **[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
 
-The Washington Post • 58m ago
+The Washington Post • 1h ago
 
 ---
 
-**[Modernizing clinical process maps with AI](https://www.healthcareitnews.com/news/modernizing-clinical-process-maps-ai)**
+**[Intel hopes its new chip can be the future of AI. An executive explains how](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces)**
 
-Clinical evidence is always evolving, but traditional clinical process map development and EHR build cycles often take months. In his upcoming HIMSS26 session, one informatics leader will show how to safely speed development to deliver evidence-based care at scale.
+Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-Healthcare IT News • 57m ago
-
----
-
-**[As Utah gives the AI power to prescribe some drugs, physicians warn of patient risks](https://fortune.com/2026/01/08/ai-prescription-renewals-doctronic-utah-doctors-warn-puts-patients-at-risk/)**
-
-State officials see the pilot expands healthcare access, but the American Medical Association warns that removing physicians from clinical decisions puts patients at risk.
-
-Fortune • 1h ago
+CNN • 7h ago
 
 ---
 
-**[Tailwind lays off 75% of its 4-person engineering team, citing 'brutal impact AI has had on our business'](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1)**
+**[Jeffries to meet with new House Dem AI commission](https://www.politico.com/live-updates/2026/01/08/congress/jeffries-to-meet-with-new-house-dem-ai-working-group-00715720)**
 
-Tailwind's CEO said that while AI made the web tool more popular, it also led to cratering revenue and difficulty converting paid users.
-
-Business Insider • 1h ago
+Politico • 5h ago
 
 ---
 
@@ -173,21 +185,7 @@ Business Insider • 1h ago
 
 AI strategist Denise Turley shares the times when she knows it would be "more valuable and effective" to be hands on, rather than use an AI tool.
 
-CNBC • 1h ago
-
----
-
-**[Jeffries to meet with new House Dem AI commission](https://www.politico.com/live-updates/2026/01/08/congress/jeffries-to-meet-with-new-house-dem-ai-working-group-00715720)**
-
-Politico • 4h ago
-
----
-
-**[DeepSeek's AI gains traction in developing nations, Microsoft report says](https://finance.yahoo.com/news/deepseeks-ai-gains-traction-developing-155326571.html)**
-
-DeepSeek, the Chinese tech startup that rivals OpenAI's ChatGPT, has been gaining ground in many developing nations in a trend that could narrow the gap of artificial intelligence adoption with advanced economies, a new report suggested.  In the Thursday report, researchers from Microsoft said global adoption of generative AI tools reached 16.3% of the world’s population in the three months to December, up from 15.1% in the previous three months.  “We are seeing a divide and we are concerned that that divide will continue to widen,” said Juan Lavista Ferres, chief data scientist for Microsoft's AI for Good Lab, which used anonymized “telemetry” to help track global device usage.
-
-Yahoo Finance • 2h ago
+CNBC • 2h ago
 
 ---
 
@@ -199,7 +197,7 @@ Yahoo Finance • 2h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 832 • 💬 1306 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 834 • 💬 1309 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -207,7 +205,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 236 • 💬 95 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 236 • 💬 96 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -215,7 +213,15 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 233 • 💬 381 • 2d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 233 • 💬 380 • 2d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+
+---
+
+**[Dell admits consumers don't care about AI PCs](https://news.ycombinator.com/item?id=46527706)**
+
+"What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
+
+⬆️ 196 • 💬 127 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -223,15 +229,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 190 • 💬 33 • 22h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
-
----
-
-**[Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in 5 years](https://news.ycombinator.com/item?id=46527706)**
-
-"What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
-
-⬆️ 178 • 💬 112 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 194 • 💬 33 • 23h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -239,7 +237,15 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 139 • 💬 74 • 11h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 139 • 💬 75 • 12h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+
+---
+
+**[AI Coding Assistants Are Getting Worse](https://news.ycombinator.com/item?id=46542036)**
+
+One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
+
+⬆️ 128 • 💬 169 • 4h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -248,14 +254,6 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
 ⬆️ 124 • 💬 91 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
-
----
-
-**[AI Coding Assistants Are Getting Worse](https://news.ycombinator.com/item?id=46542036)**
-
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-⬆️ 118 • 💬 160 • 3h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -283,7 +281,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 60K • 👍 2K • 💬 112 • ⏱️ 13:08 • 19h ago
+👁️ 67K • 👍 2K • 💬 115 • ⏱️ 13:08 • 20h ago
 
 ---
 
@@ -293,17 +291,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 64K • 👍 2K • 💬 181 • ⏱️ 13:13 • 2d ago
-
----
-
-**[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
-
-Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
-
-📺 CBS News
-
-👁️ 10K • 👍 110 • 💬 56 • ⏱️ 3:21 • 2d ago
+👁️ 68K • 👍 2K • 💬 190 • ⏱️ 13:13 • 2d ago
 
 ---
 
@@ -313,7 +301,17 @@ In this Video I shared how to create Ai Influencer Videos Using Free method. We 
 
 📺 Planet Ai
 
-👁️ 9K • 👍 630 • 💬 44 • ⏱️ 2:57 • 1d ago
+👁️ 10K • 👍 681 • 💬 44 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
+
+Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
+
+📺 CBS News
+
+👁️ 10K • 👍 113 • 💬 56 • ⏱️ 3:21 • 2d ago
 
 ---
 
@@ -323,47 +321,27 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.1M • 👍 55K • 💬 8K • ⏱️ 17:14 • 23h ago
+👁️ 1.2M • 👍 57K • 💬 8K • ⏱️ 17:14 • 1d ago
 
 ---
 
-**[AI Is Coming For Scientists’ Jobs. Seriously.](https://www.youtube.com/watch?v=v3_WouGjUUE)**
+**[The Most Important AI Shift Is Happening Right Now](https://www.youtube.com/watch?v=WEXBGMY224I)**
 
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINEJAN2 100% Discount for the first 1000 people ...
+What happens when AI stops answering questions and starts taking action? In this episode, I sit down with Peter Lee, President of ...
 
-📺 Sabine Hossenfelder
+📺 Tiff In Tech
 
-👁️ 119K • 👍 6K • 💬 1K • ⏱️ 7:02 • 2d ago
-
----
-
-**[What Happens if AI Becomes President](https://www.youtube.com/watch?v=abxiWwOjBa8)**
-
-Visit https://lumalabs.ai/theinfographicsshow to try Ray 3 Modify In today's episode of The Infographics Show, the future arrives ...
-
-📺 The Infographics Show
-
-👁️ 49K • 👍 1K • 💬 355 • ⏱️ 16:21 • 1d ago
+👁️ 6K • 👍 309 • 💬 35 • ⏱️ 6:50 • 1d ago
 
 ---
 
-**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
 
-This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
 
-📺 Tyler Vitelli
+📺 Hyundai Motor Group
 
-👁️ 2.1M • 👍 73K • 💬 5K • ⏱️ 0:10 • 1d ago
-
----
-
-**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
-
-CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
-
-📺 The Laughing Lion
-
-👁️ 106K • 👍 2K • 💬 281 • ⏱️ 25:02 • 1d ago
+👁️ 100K • 👍 99 • 💬 1 • ⏱️ 0:33 • 1d ago
 
 ---
 
@@ -373,25 +351,33 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 408K • 👍 148 • 💬 2 • ⏱️ 0:47 • 1d ago
+👁️ 435K • 👍 152 • 💬 2 • ⏱️ 0:47 • 1d ago
+
+---
+
+**[What Happens if AI Becomes President](https://www.youtube.com/watch?v=abxiWwOjBa8)**
+
+Visit https://lumalabs.ai/theinfographicsshow to try Ray 3 Modify In today's episode of The Infographics Show, the future arrives ...
+
+📺 The Infographics Show
+
+👁️ 49K • 👍 1K • 💬 357 • ⏱️ 16:21 • 1d ago
+
+---
+
+**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
+
+This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
+
+📺 Tyler Vitelli
+
+👁️ 2.2M • 👍 74K • 💬 5K • ⏱️ 0:10 • 1d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
-
-*Tencent*
-
-HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
-
-`translation` `2.0B`
-
-⬇️ 7,287 • ❤️ 676 • 7d ago
-
----
 
 **[LTX-2](https://huggingface.co/Lightricks/LTX-2)**
 
@@ -401,7 +387,19 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 538 • 11h ago
+⬇️ 187,937 • ❤️ 557 • 11h ago
+
+---
+
+**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
+
+*Tencent*
+
+HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
+
+`translation` `2.0B`
+
+⬇️ 7,287 • ❤️ 677 • 7d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 18,440 • ❤️ 527 • 8d ago
+⬇️ 18,440 • ❤️ 529 • 8d ago
 
 ---
 
@@ -425,7 +423,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 9,648 • ❤️ 286 • 1d ago
+⬇️ 9,648 • ❤️ 287 • 1d ago
 
 ---
 
@@ -437,7 +435,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 200,391 • ❤️ 957 • 12d ago
+⬇️ 200,391 • ❤️ 960 • 12d ago
 
 ---
 
@@ -461,7 +459,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 4,353 • ❤️ 253 • 5d ago
+⬇️ 4,353 • ❤️ 254 • 5d ago
 
 ---
 
@@ -473,7 +471,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 547 • ❤️ 195 • 2d ago
+⬇️ 547 • ❤️ 200 • 2d ago
 
 ---
 
@@ -497,7 +495,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,506 • 14h ago
+⬇️ 38,529 • ❤️ 1,509 • 15h ago
 
 ---
 
@@ -511,7 +509,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 60 • 💬 1 • ⭐ 1,152 • 2d ago
+▲ 63 • 💬 1 • ⭐ 1,321 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -526,18 +524,6 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 ▲ 169 • 💬 5 • ⭐ 3,266 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
-
----
-
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 25,556 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -567,6 +553,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 25,583 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -588,7 +586,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 129 • 💬 18 • ⭐ 49,384 • 10mo ago
+▲ 130 • 💬 18 • ⭐ 49,384 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -602,7 +600,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
 
-▲ 42 • 💬 5 • ⭐ 277 • 4d ago
+▲ 43 • 💬 5 • ⭐ 277 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
 
@@ -628,7 +626,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-▲ 175 • 💬 6 • ⭐ 65,223 • 21mo ago
+▲ 176 • 💬 6 • ⭐ 65,223 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
@@ -644,7 +642,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.0k • 🔱 835 • 2h ago
+⭐ 7.0k • 🔱 840 • 1h ago
 
 ---
 
@@ -664,7 +662,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 127 • 4h ago
+⭐ 2.2k • 🔱 127 • 5h ago
 
 ---
 
@@ -694,7 +692,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 100 • 6h ago
+⭐ 1.2k • 🔱 101 • 7h ago
 
 ---
 
@@ -704,7 +702,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 13h ago
+⭐ 1.2k • 🔱 142 • 14h ago
 
 ---
 
@@ -724,7 +722,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 91 • 13h ago
+⭐ 1.1k • 🔱 92 • 1h ago
 
 ---
 
@@ -734,7 +732,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 993 • 🔱 119 • 4h ago
+⭐ 995 • 🔱 120 • 5h ago
 
 ---
 

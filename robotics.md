@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T18:30:19.071781+00:00'
+updated: '2026-01-08T19:21:19.506606+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 18:30 UTC  
+**Last Updated:** January 08, 2026 at 19:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,6 +38,12 @@ Robotics research and industry news
 
 ---
 
+**[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
+
+1h ago
+
+---
+
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
 15h ago
@@ -54,13 +60,13 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +86,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -88,15 +94,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 Recently graduated with 1 year experience(Intern). Do I have chance of landing job anywhere in this cooked economy? Feel free to roast and dissect my resume and give as much advice as possible. If someone really wants to give in depth review of my resume I can also dm the original pdf so that you can access all the links.
 
-10h ago
-
----
-
-**[The EngineAI T800 in Las Vegas at CES](https://www.reddit.com/r/robotics/comments/1q6b7w1/the_engineai_t800_in_las_vegas_at_ces/)**
-
-From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
-
-1d ago
+11h ago
 
 ---
 
@@ -106,7 +104,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -114,13 +112,13 @@ Reuters • 18h ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
 **[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
 
-TipRanks • 13h ago
+TipRanks • 14h ago
 
 ---
 
@@ -136,15 +134,35 @@ hyundai.com • 2d ago
 
 Fox News gets an exclusive look at RobotLAB, a company using AI-powered robots to boost efficiency, fill labor gaps and reshape industries nationwide.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
-**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqfUEn1aClo4LlV4vRKcmqqtjYmi9tc02o63vJ6qhI9S_CrynjieqJy8&gaa_ts=6960071a&gaa_sig=qCnlE-_dJuFETWUCePE8QPY9xbHkXrqIJkQh3j81ITuNYP5Y6MiUNb9r7YhgCrekY-TqN0V9KNGOhclP3u9_3g%3D%3D)**
 
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+The Wall Street Journal • 1h ago
 
-NVIDIA Developer • 59m ago
+---
+
+**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
+
+Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
+
+Fortune • 6h ago
+
+---
+
+**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
+
+Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
+
+90.5 WESA • 1d ago
+
+---
+
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqeFZB9KPn4Cf0L73FzI8QZ_2zs3m-fYQaoTWOXkbWaKGegfjHpFSriy&gaa_ts=6960071a&gaa_sig=vUVTEp-DFCyXIkENi3Wjq0dvCzLbVVcTOSLaxzPL1Q19Jac6R0JJfB7YFPjpIpGYKkHOP2naGrvZ7pyI3YUy2A%3D%3D)**
+
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -152,29 +170,7 @@ NVIDIA Developer • 59m ago
 
 Mobileye has $1.7 billion in cash, so even after the transaction it will hold over $1 billion in cash
 
-The Jerusalem Post • 9h ago
-
----
-
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqddC9RP3-NuUG23iplNet6xiw8GeHGvvvPsv34B8xAVYdCc72m9dzTY&gaa_ts=695ff266&gaa_sig=u3qa7AKhSQeh7Q-JB3kt9UZ--l7H2mjjCTcyagGWJKTsgf5oEEse-1lUOnSHS081dQuN8eLbK1nJqEusbl1qZA%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
-
-Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
-
-TechCrunch • 1d ago
-
----
-
-**[Nvidia's Jensen Huang said he loves this company. The shares could nearly double this year, says one analyst](https://www.cnbc.com/2026/01/07/nvidias-jensen-huang-said-he-loves-this-company-shares-could-nearly-double-says-one-analyst.html)**
-
-Analysts have gotten increasingly bullish on this company since announcing it has deployed the largest sidewalk delivery fleet in the U.S.
-
-CNBC • 22h ago
+The Jerusalem Post • 10h ago
 
 ---
 
@@ -188,7 +184,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 53K • 👍 1K • 💬 209 • ⏱️ 9:33 • 1d ago
+👁️ 54K • 👍 1K • 💬 210 • ⏱️ 9:33 • 1d ago
 
 ---
 
@@ -198,57 +194,27 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 64K • 👍 2K • 💬 258 • ⏱️ 4:29 • 1d ago
+👁️ 77K • 👍 2K • 💬 303 • ⏱️ 4:29 • 1d ago
 
 ---
 
-**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
+**[Boston Dynamics x Hyundai: Inside the Most Advanced ROBOTICS Exhibit at CES 2026](https://www.youtube.com/watch?v=wuPa_xhw3n4)**
 
-CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
-
-📺 CNBC Television
-
-👁️ 7K • 👍 70 • 💬 17 • ⏱️ 2:58 • 1d ago
-
----
-
-**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
-
-CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
+Experience the future of mobility and robotics as we go inside the joint Hyundai Motor Group and Boston Dynamics exhibit at CES ...
 
 📺 The Laughing Lion
 
-👁️ 106K • 👍 2K • 💬 281 • ⏱️ 25:02 • 1d ago
+👁️ 4K • 👍 99 • 💬 27 • ⏱️ 10:08 • 14h ago
 
 ---
 
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+**[SharpaWave&#39;s Crazy Robotic Hands #ces2026 #robotics #airobot #ai #humanoidrobot](https://www.youtube.com/watch?v=mgrs7nkQHgU)**
 
-Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with its new humanoid robot and its highly ...
 
-📺 PCMag
+📺 Kalil 4.0
 
-👁️ 532K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
-
----
-
-**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
-
-Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
-
-📺 7NEWS Australia
-
-👁️ 6K • 👍 38 • 💬 12 • ⏱️ 2:25 • 1d ago
-
----
-
-**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
-
-We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
-
-📺 CNET
-
-👁️ 20K • 👍 215 • 💬 122 • ⏱️ 5:07 • 19h ago
+👁️ 272 • 👍 12 • ⏱️ 0:48 • 1h ago
 
 ---
 
@@ -258,7 +224,37 @@ LG has a mind blowingly cool setup here at #CES2026 There are next generation Wa
 
 📺 JerryRigEverything
 
-👁️ 101K • 👍 6K • 💬 651 • ⏱️ 7:45 • 17h ago
+👁️ 118K • 👍 6K • 💬 694 • ⏱️ 7:45 • 18h ago
+
+---
+
+**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
+
+CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
+
+📺 CNBC Television
+
+👁️ 7K • 👍 70 • 💬 18 • ⏱️ 2:58 • 1d ago
+
+---
+
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+
+Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+
+📺 PCMag
+
+👁️ 543K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
+
+---
+
+**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
+
+CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
+
+📺 The Laughing Lion
+
+👁️ 109K • 👍 2K • 💬 305 • ⏱️ 25:02 • 1d ago
 
 ---
 
@@ -268,17 +264,17 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 22K • 👍 288 • 💬 15 • ⏱️ 7:38 • 3d ago
+👁️ 22K • 👍 291 • 💬 15 • ⏱️ 7:38 • 3d ago
 
 ---
 
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
 
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
 
-📺 Hyundai Motor Group
+📺 CNET
 
-👁️ 98K • 👍 97 • 💬 1 • ⏱️ 0:33 • 1d ago
+👁️ 30K • 👍 252 • 💬 162 • ⏱️ 5:07 • 20h ago
 
 ---
 
