@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T09:29:55.073213+00:00'
+updated: '2026-01-08T09:52:38.082718+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 09:29 UTC  
+**Last Updated:** January 08, 2026 at 09:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 11h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 12h ago
 
 ---
 
 **[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -230,7 +230,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 11K • 👍 692 • 💬 55 • ⏱️ 10:20 • 19h ago
+👁️ 11K • 👍 692 • 💬 55 • ⏱️ 10:20 • 20h ago
 
 ---
 
@@ -280,7 +280,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 340 • 💬 8 • ⏱️ 1:08:45 • 16h ago
+👁️ 6K • 👍 340 • 💬 8 • ⏱️ 1:08:45 • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 199 • ⏱️ 19:40 • 12h ago
+👁️ 8K • 👍 298 • 💬 199 • ⏱️ 19:40 • 13h ago
 
 ---
 
@@ -300,7 +300,7 @@ Is BMNR setting up for a major inflection point — or a volatility trap? BitMin
 
 📺 Darren Steves
 
-👁️ 576 • 👍 29 • 💬 8 • ⏱️ 13:54 • 8h ago
+👁️ 576 • 👍 29 • 💬 8 • ⏱️ 13:54 • 9h ago
 
 ---
 

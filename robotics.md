@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T09:29:55.076495+00:00'
+updated: '2026-01-08T09:52:38.085911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 09:29 UTC  
+**Last Updated:** January 08, 2026 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,13 +54,13 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-23h ago
+1d ago
 
 ---
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Humanoid robots have been getting a lot of attention lately, with recent demos l
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -106,7 +106,7 @@ Here's the construction of the car's control panel that I'll be making later! Th
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -130,7 +130,7 @@ Fortune • 1d ago
 
 Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
 
-90.5 WESA • 22h ago
+90.5 WESA • 23h ago
 
 ---
 
@@ -138,7 +138,7 @@ Robotics research and spin-off companies has been a constant in Pittsburgh, but 
 
 The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
 
-International Federation of Robotics • 2h ago
+International Federation of Robotics • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 37K • 👍 957 • 💬 161 • ⏱️ 4:29 • 16h ago
+👁️ 37K • 👍 957 • 💬 161 • ⏱️ 4:29 • 17h ago
 
 ---
 
@@ -279,7 +279,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 4.4M • 👍 3K • 💬 903 • ⏱️ 0:32 • 3d ago
+👁️ 4.4M • 👍 3K • 💬 903 • ⏱️ 0:32 • 4d ago
 
 ---
 

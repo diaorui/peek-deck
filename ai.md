@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T09:29:55.058294+00:00'
+updated: '2026-01-08T09:52:38.068261+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 09:29 UTC  
+**Last Updated:** January 08, 2026 at 09:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,7 +53,7 @@ AI news, discussions, and developments
 
 Now you can run AI models on your mobile phone Recently, I found this awesome open source app called Maid, which allow you to run AI models on your phone. I am from Gaza and during the war, most of the time I am offline, and I wanted to play around with AI and try things, I tried to install ollama on termux but no use. But maid is very easy, you open the app and download a model from a list of models of different sizes, and you are set. It might be slow on some devices. Dowload it and have fun.
 
-40m ago
+1h ago
 
 ---
 
@@ -69,7 +69,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 I keep noticing how many outdated tech beliefs are still floating around, especially around privacy, batteries, and device performance. Things like: Incognito mode makes you anonymous Macs don’t get malware Charging overnight kills battery health More specs always means faster devices Public WiFi with a password is safe Most of these made sense years ago, but technology has changed a lot. Curious what tech myth you still hear most often?
 
-🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 5h ago
+🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 6h ago
 
 ---
 
@@ -145,13 +145,13 @@ Bloomberg.com • 1h ago
 
 China to probe Meta's acquisition of artificial intelligence startup Manus to assess its compliance with export control laws.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[China to assess, investigate Meta's acquisition of AI startup Manus](https://www.reuters.com/business/media-telecom/china-assess-investigate-metas-acquisition-ai-startup-manus-2026-01-08/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -231,7 +231,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 169 • 💬 105 • 17h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 169 • 💬 105 • 18h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -239,7 +239,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 163 • 💬 22 • 13h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 163 • 💬 22 • 14h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -293,7 +293,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 976K • 👍 49K • 💬 7K • ⏱️ 17:14 • 14h ago
+👁️ 976K • 👍 49K • 💬 7K • ⏱️ 17:14 • 15h ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 18,440 • ❤️ 520 • 7d ago
+⬇️ 18,440 • ❤️ 520 • 8d ago
 
 ---
 
@@ -495,7 +495,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,499 • 5h ago
+⬇️ 38,529 • ❤️ 1,499 • 6h ago
 
 ---
 
@@ -644,7 +644,7 @@ NitroGen is a vision-action foundation model trained on extensive gameplay data 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.8k • 🔱 810 • 3h ago
+⭐ 6.8k • 🔱 810 • 4h ago
 
 ---
 
@@ -664,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 16h ago
+⭐ 2.1k • 🔱 126 • 17h ago
 
 ---
 
@@ -724,7 +724,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 987 • 🔱 119 • 43m ago
+⭐ 987 • 🔱 119 • 1h ago
 
 ---
 
@@ -734,7 +734,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 940 • 🔱 141 • 12m ago
+⭐ 940 • 🔱 141 • 35m ago
 
 ---
 

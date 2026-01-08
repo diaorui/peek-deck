@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T09:29:55.067025+00:00'
+updated: '2026-01-08T09:52:38.076723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 09:29 UTC  
+**Last Updated:** January 08, 2026 at 09:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -141,7 +141,7 @@ Once these last longs are liquidated, I bet we rocket past $95k.
 
 I have just bought my first 100$ worth of bitcoin!
 
-11h ago
+12h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 9h ago
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -183,7 +183,7 @@ Investor's Business Daily • 2d ago
 
 Morgan Stanley filed for Bitcoin and Solana exchange-traded funds, marking its first foray into the popular corner of the funds world two years after the explosion of crypto-focused ETFs in the US brought them into the mainstream.
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -197,7 +197,7 @@ Reuters • 1d ago
 
 Morgan Stanley may be pursuing its newly announced spot Bitcoin exchange-traded fund as a strategic foothold rather than a pure asset-gathering play, according to ProCap chief investment officer Jeff Park. Key Takeaways: Morgan Stanley’s Bitcoin ETF is a strategic move that delivers reputational and long-term benefits beyond inflows. The bank’s ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ Bloomberg.com • 21h ago
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 16h ago
 
 ---
 
@@ -251,7 +251,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 20h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 21h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -307,7 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 327 • 💬 167 • ⏱️ 9:41 • 8h ago
+👁️ 5K • 👍 327 • 💬 167 • ⏱️ 9:41 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 360 • ⏱️ 19:29 • 12h ago
+👁️ 62K • 👍 4K • 💬 360 • ⏱️ 19:29 • 13h ago
 
 ---
 
@@ -327,7 +327,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 287 • 💬 32 • ⏱️ 7:28 • 2h ago
+👁️ 3K • 👍 287 • 💬 32 • ⏱️ 7:28 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 415 • 💬 25 • ⏱️ 14:22 • 16h ago
+👁️ 12K • 👍 415 • 💬 25 • ⏱️ 14:22 • 17h ago
 
 ---
 
@@ -387,7 +387,7 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 351 • 💬 20 • ⏱️ 1:29:43 • 11h ago
+👁️ 6K • 👍 351 • 💬 20 • ⏱️ 1:29:43 • 12h ago
 
 ---
 
