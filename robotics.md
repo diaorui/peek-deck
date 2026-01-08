@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T15:51:30.844887+00:00'
+updated: '2026-01-08T16:32:25.433315+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 15:51 UTC  
+**Last Updated:** January 08, 2026 at 16:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-2h ago
+3h ago
 
 ---
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-12h ago
+13h ago
 
 ---
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -56,23 +56,31 @@ Robotics research and industry news
 
 ---
 
-**[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
-
-22h ago
-
----
-
 **[Should robots use screen faces, or skip faces altogether?](https://www.reddit.com/r/robotics/comments/1q76ge0/should_robots_use_screen_faces_or_skip_faces/)**
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-7h ago
+8h ago
+
+---
+
+**[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
+
+23h ago
 
 ---
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
 10h ago
+
+---
+
+**[Saw the Brand-new Narwal Flow 2 at CES](https://www.reddit.com/r/robotics/comments/1q7gak8/saw_the_brandnew_narwal_flow_2_at_ces/)**
+
+I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
+
+4m ago
 
 ---
 
@@ -88,15 +96,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 2h ago
-
----
-
-**[How to hack](https://www.reddit.com/r/robotics/comments/1q7db8m/how_to_hack/)**
-
-I have a old dash robot from some time ago It was used to teach young kids to code and program, but now I want to hack it so I can use it for other projects is there any way I could do that
-
-1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 3h ago
 
 ---
 
@@ -114,7 +114,7 @@ Reuters • 16h ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -134,11 +134,11 @@ hyundai.com • 2d ago
 
 ---
 
-**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
+**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
 
-The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
+Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
 
-International Federation of Robotics • 9h ago
+Fortune • 4h ago
 
 ---
 
@@ -150,6 +150,14 @@ NVIDIA Developer • 2d ago
 
 ---
 
+**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
+
+NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
+
+NVIDIA Newsroom • 2d ago
+
+---
+
 **[Nvidia's Jensen Huang said he loves this company. The shares could nearly double this year, says one analyst](https://www.cnbc.com/2026/01/07/nvidias-jensen-huang-said-he-loves-this-company-shares-could-nearly-double-says-one-analyst.html)**
 
 Analysts have gotten increasingly bullish on this company since announcing it has deployed the largest sidewalk delivery fleet in the U.S.
@@ -158,23 +166,17 @@ CNBC • 20h ago
 
 ---
 
-**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
+**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
 
-A new wave of humanoids are coming. Qualcomm is ready to power them.
+The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
 
-CNET • 3d ago
+International Federation of Robotics • 9h ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfEriCsSL1tnHZ17HsXfs3aeWjvQRXhuTP9Flnnb85Pe2u5fn9khWo_&gaa_ts=695fd074&gaa_sig=WoHCmWwOL7WaBcUPQaHxGe7GFbVVybgDGFbTHuJHk4q6xUwRKrb8vHEdnJFf0uaFc8vteZmMblPC_DYaY027Fw%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfBSqQifT_5kZrjcUYfbs4s3qR6uycBqnA6pke2s4A-JpsGlNWsEEAJ&gaa_ts=695fdf86&gaa_sig=tSSeaiDShRmwUR7m3d0SYtb6wnWxUsjK7kk_-N8ChK-Wysy5POi-803n0o1SMGzxshVTWSh_IAwddBfBEe1Nyw%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
-
-Reuters • 1d ago
 
 ---
 
@@ -188,7 +190,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 210 • ⏱️ 9:33 • 1d ago
+👁️ 53K • 👍 1K • 💬 209 • ⏱️ 9:33 • 1d ago
 
 ---
 
@@ -198,7 +200,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 55K • 👍 1K • 💬 218 • ⏱️ 4:29 • 23h ago
+👁️ 64K • 👍 2K • 💬 258 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -208,17 +210,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 7K • 👍 69 • 💬 17 • ⏱️ 2:58 • 1d ago
-
----
-
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
-
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
-
-📺 Technology Now
-
-👁️ 22K • 👍 286 • 💬 15 • ⏱️ 7:38 • 3d ago
+👁️ 7K • 👍 70 • 💬 17 • ⏱️ 2:58 • 1d ago
 
 ---
 
@@ -228,37 +220,7 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 104K • 👍 2K • 💬 277 • ⏱️ 25:02 • 1d ago
-
----
-
-**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
-
-We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
-
-📺 CNET
-
-👁️ 14K • 👍 195 • 💬 99 • ⏱️ 5:07 • 16h ago
-
----
-
-**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
-
-LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
-
-📺 JerryRigEverything
-
-👁️ 91K • 👍 5K • 💬 603 • ⏱️ 7:45 • 14h ago
-
----
-
-**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
-
-Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
-
-📺 7NEWS Australia
-
-👁️ 6K • 👍 37 • 💬 13 • ⏱️ 2:25 • 1d ago
+👁️ 106K • 👍 2K • 💬 281 • ⏱️ 25:02 • 1d ago
 
 ---
 
@@ -268,17 +230,57 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 524K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
+👁️ 532K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
 
 ---
 
-**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
+**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
 
-The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
+Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
 
-📺 Dip Knows
+📺 7NEWS Australia
 
-👁️ 424K • 👍 2K • 💬 14 • ⏱️ 0:24 • 4d ago
+👁️ 6K • 👍 38 • 💬 12 • ⏱️ 2:25 • 1d ago
+
+---
+
+**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+
+We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+
+📺 CNET
+
+👁️ 20K • 👍 215 • 💬 122 • ⏱️ 5:07 • 17h ago
+
+---
+
+**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
+
+LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
+
+📺 JerryRigEverything
+
+👁️ 101K • 👍 6K • 💬 651 • ⏱️ 7:45 • 15h ago
+
+---
+
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+
+📺 Technology Now
+
+👁️ 22K • 👍 288 • 💬 15 • ⏱️ 7:38 • 3d ago
+
+---
+
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+
+📺 Hyundai Motor Group
+
+👁️ 98K • 👍 97 • 💬 1 • ⏱️ 0:33 • 1d ago
 
 ---
 

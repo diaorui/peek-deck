@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T15:51:30.835455+00:00'
+updated: '2026-01-08T16:32:25.424090+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 15:51 UTC  
+**Last Updated:** January 08, 2026 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,538.65
+### $90,583.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
+**24h:** -1.3%  
 **7d:** +0.6%  
 **30d:** -1.6%  
 **90d:** -18.1%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1790.69B
+**Market Cap:** $1806.91B
 Rank #1
 
-**Circulating Supply:** 19,973,146 BTC
+**Circulating Supply:** 19,973,168 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.2%
 
 **All-Time Low:** $67.81
-+132076.7%
++133390.6%
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 It will be 🔥💪 actually I heard rumours China has been buying lots of Gold and Bitcoin all along.
 
-4h ago
+5h ago
 
 ---
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-7h ago
+8h ago
+
+---
+
+**[Bitcoin rn](https://www.reddit.com/r/Bitcoin/comments/1q7f1y7/bitcoin_rn/)**
+
+BTC
+
+51m ago
 
 ---
 
@@ -95,19 +103,19 @@ It will be 🔥💪 actually I heard rumours China has been buying lots of Gold 
 
 Bitcoin around 1 million dollars now seems crazy and too much for 2030. Now is the begging of 2026 and Bitcoin is in 90k.
 
-3h ago
+4h ago
 
 ---
 
 **[How it does](https://www.reddit.com/r/Bitcoin/comments/1q7d2zo/how_it_does/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -115,13 +123,13 @@ Bitcoin around 1 million dollars now seems crazy and too much for 2030. Now is t
 
 People who bought Bitcoin before the ETFs
 
-14h ago
+15h ago
 
 ---
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -129,7 +137,7 @@ People who bought Bitcoin before the ETFs
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-22h ago
+23h ago
 
 ---
 
@@ -138,12 +146,6 @@ People who bought Bitcoin before the ETFs
 How much $BTC did you add last year? https://preview.redd.it/7i8wab6h54cg1.jpg?width=1272&format=pjpg&auto=webp&s=cfd46f8ab14717a5059ebe0f46d7c328425e8034
 
 4h ago
-
----
-
-**[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
-
-22h ago
 
 ---
 
@@ -159,27 +161,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tom Lee Dusts Off Failed 2025 Bitcoin Prediction, Sees BTC Hitting $250K In 2026](https://finance.yahoo.com/news/tom-lee-dusts-off-failed-130110540.html)**
-
-Fundstrat investment chief Tom Lee is bringing back his Bitcoin price prediction from last year. Bitcoin could reach between $200,000 and $250,000 this year, Lee told CNBC on Monday, dusting off his failed call for the asset last year. The...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Florida Lawmakers Want To Create A Bitcoin Reserve In 2026](https://bitcoinmagazine.com/news/florida-revives-bitcoin-reserve-push)**
-
-Florida lawmakers filed new legislation for the 2026 session that would create a state-run crypto reserve after a similar effort stalled last year.
-
-Bitcoin Magazine • 1h ago
-
----
-
 **[Stanford professor raises $15 million for Babylon, a decentralized protocol to turn Bitcoin into collateral](https://fortune.com/2026/01/07/stanford-professor-raises-15-million-for-babylon/)**
 
 The startup aims to provide an alternative to platforms like Coinbase and Tether for those seeking to put their Bitcoin to work.
 
 Fortune • 1d ago
+
+---
+
+**[Florida lawmaker files bill to establish strategic bitcoin reserve](https://finance.yahoo.com/news/florida-lawmaker-files-bill-establish-152214757.html)**
+
+Representative Snyder is pushing a bill to establish a bitcoin reserve in Florida.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
+
+If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
+
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -195,7 +197,7 @@ Bloomberg.com • 1d ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -203,7 +205,7 @@ The Motley Fool • 4h ago
 
 Chen Zhi, chairman of Prince Group, was arrested by law enforcement officials in Cambodia and extradited to China, government officials said.
 
-New York Post • 19h ago
+New York Post • 20h ago
 
 ---
 
@@ -215,15 +217,17 @@ abcnews.go.com • 1d ago
 
 ---
 
-**[Alleged crypto scam boss linked to $15 billion bitcoin haul deported to China after Cambodia arrest](https://www.theblock.co/post/384674/alleged-crypto-scam-boss-linked-15-billion-bitcoin-deported-china-cambodia-arrest)**
+**[Alleged Crypto Scam Kingpin Arrested in Cambodia After $12 Billion Bitcoin Seizure](https://decrypt.co/353897/alleged-crypto-scam-kingpin-arrested-cambodia-12-billion-bitcoin-seizure)**
 
-The Block • 22h ago
+The alleged mastermind of a major crypto scam ring that stole billions was arrested in Cambodia this week and extradited to China.
+
+Decrypt • 20h ago
 
 ---
 
 **[Bitcoin Miners Shift From Crypto to AI Data Centers](https://www.etftrends.com/coinshares-content-hub/bitcoin-miners-shift-crypto-ai-data-centers/)**
 
-ETF Trends • 19h ago
+ETF Trends • 20h ago
 
 ---
 
@@ -291,7 +295,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 1 • 💬 0 • 5h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 1 • 💬 0 • 6h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -299,7 +303,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 18h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 19h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -307,63 +311,23 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 ## YouTube Videos: "bitcoin"
 
-**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRus Extra
-
-👁️ 7K • 👍 380 • 💬 257 • ⏱️ 9:41 • 15h ago
-
----
-
-**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
-
-Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 76K • 👍 5K • 💬 393 • ⏱️ 19:29 • 19h ago
-
----
-
 **[Bitcoin 2026… Why everyone is WRONG!](https://www.youtube.com/watch?v=GUts2pFuQcs)**
 
 Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://youtu.be/CsBco1AJVQE (click)
 
 📺 MMCrypto
 
-👁️ 8K • 👍 1K • 💬 221 • ⏱️ 4:15 • 4h ago
+👁️ 13K • 👍 1K • 💬 273 • ⏱️ 4:15 • 4h ago
 
 ---
 
-**[Bitcoin: Stuck for 2 more weeks :(](https://www.youtube.com/watch?v=CiVVglIpECQ)**
+**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
 
-Bitcoin: Stuck for 2 more weeks :( Stocks Loading a Moonshot Bitcoin charts Congress stock ban TA & Live Trades Get the CF ...
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Camel Finance
+📺 CryptosRus Extra
 
-👁️ 4K • 👍 461 • 💬 76 • ⏱️ 9:03 • 4h ago
-
----
-
-**[THIS IS WHY BITCOIN IS DUMPING...](https://www.youtube.com/watch?v=KKM4cnsfYeM)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
-
-📺 Crypto Rover
-
-👁️ 7K • 👍 463 • 💬 63 • ⏱️ 7:28 • 9h ago
-
----
-
-**[NFA Live! Bitcoin in 2026](https://www.youtube.com/watch?v=GR2QVvVwD2Y)**
-
-Let's talk about #Bitcoin in 2026! Subscribe to Guy: https://www.youtube.com/@morecoinbureau Subscribe to Rob: ...
-
-📺 Benjamin Cowen
-
-👁️ 2K • 👍 180 • 2h ago
+👁️ 7K • 👍 388 • 💬 246 • ⏱️ 9:41 • 16h ago
 
 ---
 
@@ -373,17 +337,37 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 479 • 💬 54 • ⏱️ 10:03 • 7h ago
+👁️ 8K • 👍 510 • 💬 58 • ⏱️ 10:03 • 8h ago
 
 ---
 
-**[This CONFIRMS It: Wall Street’s Bitcoin Attack Was ALL Planned!! | EP 1413](https://www.youtube.com/watch?v=fzH-RDVq458)**
+**[THIS IS WHY BITCOIN IS DUMPING...](https://www.youtube.com/watch?v=KKM4cnsfYeM)**
 
-The Wall St attack on bitcoin is finally exposed for what it is!
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
 
-📺 Simply Bitcoin
+📺 Crypto Rover
 
-👁️ 7K • 👍 366 • 💬 39 • ⏱️ 1:29:43 • 18h ago
+👁️ 8K • 👍 486 • 💬 67 • ⏱️ 7:28 • 9h ago
+
+---
+
+**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
+
+Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 80K • 👍 5K • 💬 424 • ⏱️ 19:29 • 19h ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 8K • 👍 1K • 💬 105 • ⏱️ 17:35 • 2h ago
 
 ---
 
@@ -393,17 +377,37 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 138 • ⏱️ 9:00 • 16h ago
+👁️ 34K • 👍 2K • 💬 123 • ⏱️ 9:00 • 17h ago
 
 ---
 
-**[“QUADRILLIONS” Are HERE! Bitcoin &amp; Crypto Are About to Change Forever](https://www.youtube.com/watch?v=jfpTKWKh1lA)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=nsf78TMzcKM)**
 
-Bitcoin #Crypto #Finance Today we're diving into Canton Network with Digital Asset CEO Yuval Rooz—and why it's suddenly at ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 The Wolf Of All Streets
+📺 KUDA VIBE
 
-👁️ 744 • 👍 74 • 2h ago
+👁️ 9K • 👍 4 • 5h ago
+
+---
+
+**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
+
+📺 Anthony Pompliano
+
+👁️ 19K • 👍 819 • 💬 5 • ⏱️ 43:55 • 18h ago
+
+---
+
+**[BITCOIN THIS IS A HUGE CHANGE](https://www.youtube.com/watch?v=5b6I7SbYIhI)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 12K • 👍 429 • 💬 27 • ⏱️ 14:22 • 23h ago
 
 ---
 
