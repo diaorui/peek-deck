@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T22:47:41.222993+00:00'
+updated: '2026-01-08T23:19:22.139726+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 22:47 UTC  
+**Last Updated:** January 08, 2026 at 23:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ BTC
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -121,13 +121,13 @@ Bitcoin mining continued growing after the halving. Miners’ revenue reached $1
 
 **[The Great Distraction: Why You Are Missing the Point of Bitcoin. Stop Staring at the Charts. Start Building the Life You Bought Them For.](https://www.reddit.com/r/Bitcoin/comments/1q7foom/the_great_distraction_why_you_are_missing_the/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-distraction-why-you-are) • 6h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-distraction-why-you-are) • 7h ago
 
 ---
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 3h ago
 
 President Donald Trump‘s Venezuela gambit is bullish for Bitcoin, BitMEX founder and Maelstrom investment chief Arthur Hayes says. “The price of Bitcoin and certain cryptos will skyrocket,” Hayes said in a Tuesday blog post addressing the potential impact of the...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 2h ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -231,7 +231,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 10h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 11h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -263,7 +263,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 12h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 13h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -289,7 +289,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 3d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 4d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://yout
 
 📺 MMCrypto
 
-👁️ 23K • 👍 2K • 💬 325 • ⏱️ 4:15 • 10h ago
+👁️ 23K • 👍 2K • 💬 325 • ⏱️ 4:15 • 11h ago
 
 ---
 
@@ -331,7 +331,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 28K • 👍 2K • 💬 192 • ⏱️ 17:35 • 8h ago
+👁️ 28K • 👍 2K • 💬 192 • ⏱️ 17:35 • 9h ago
 
 ---
 
@@ -351,7 +351,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 218 • 💬 26 • ⏱️ 16:32 • 3h ago
+👁️ 2K • 👍 218 • 💬 26 • ⏱️ 16:32 • 4h ago
 
 ---
 
@@ -361,7 +361,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 1K • 👍 220 • 💬 38 • ⏱️ 4:51 • 5h ago
+👁️ 1K • 👍 220 • 💬 38 • ⏱️ 4:51 • 6h ago
 
 ---
 
@@ -371,7 +371,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 9K • 👍 543 • 💬 58 • ⏱️ 10:03 • 14h ago
+👁️ 9K • 👍 543 • 💬 58 • ⏱️ 10:03 • 15h ago
 
 ---
 
@@ -381,7 +381,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 734 • 👍 68 • 💬 11 • ⏱️ 10:06 • 4h ago
+👁️ 734 • 👍 68 • 💬 11 • ⏱️ 10:06 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T22:47:41.214581+00:00'
+updated: '2026-01-08T23:19:22.130869+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 22:47 UTC  
+**Last Updated:** January 08, 2026 at 23:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 11h ago
 
 ---
 
@@ -55,7 +55,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 17h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 18h ago
 
 ---
 
@@ -63,7 +63,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 6h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 7h ago
 
 ---
 
@@ -83,7 +83,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 11h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 12h ago
 
 ---
 
@@ -91,7 +91,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-16h ago
+17h ago
 
 ---
 
@@ -99,7 +99,7 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 The title pretty much sums it up. I'm looking for people that actually paid for the tool and why. I've tried multiple tools like Chatpdf, notegpt and chattube but overall they kind of all feel the same. Although Chatpdf has a pretty decent UI. Really interested to know if some of you liked one of these enough to pay for it and would like to know why.
 
-11h ago
+12h ago
 
 ---
 
@@ -107,7 +107,7 @@ The title pretty much sums it up. I'm looking for people that actually paid for 
 
 Now you can run AI models on your mobile phone Recently, I found this awesome open source app called Maid, which allow you to run AI models on your phone. I am from Gaza and during the war, most of the time I am offline, and I wanted to play around with AI and try things, I tried to install ollama on termux but no use. But maid is very easy, you open the app and download a model from a list of models of different sizes, and you are set. It might be slow on some devices. Dowload it and have fun.
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ Now you can run AI models on your mobile phone Recently, I found this awesome op
 
 New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
 
-WIRED • 9h ago
+WIRED • 10h ago
 
 ---
 
@@ -127,7 +127,7 @@ WIRED • 9h ago
 
 AI Mode but for Gmail.
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Verge • 9h ago
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 9h ago
+blog.google • 10h ago
 
 ---
 
@@ -143,19 +143,19 @@ blog.google • 9h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-IEEE Spectrum • 9h ago
+IEEE Spectrum • 10h ago
 
 ---
 
 **[Cyera's newest raise shows how AI is boosting data security dealmaking](https://www.axios.com/pro/enterprise-software-deals/2026/01/08/ai-cybersecurity-deals-cyera)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
 **[The uncharted territory of AI doctors](https://www.politico.com/newsletters/digital-future-daily/2026/01/08/the-uncharted-territory-of-ai-doctors-00717215)**
 
-Politico • 57m ago
+Politico • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Politico • 57m ago
 
 Lawsuit accuses AI chatbots of harming minors and includes case of Sewell Setzer III, who killed himself in 2024
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 4h ago
 
 Character.AI has agreed to settle multiple lawsuits alleging the artificial intelligence chatbot maker contributed to mental health crises and suicides among young people, including a case brought by Florida mother Megan Garcia.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -179,7 +179,7 @@ CNN • 23h ago
 
 Google and Character.AI agreed to settle a wrongful death suit from a Florida mom after her 14-year-old son died by suicide in 2024.
 
-People.com • 41m ago
+People.com • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 324 • 💬 116 • 3h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 324 • 💬 116 • 4h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -229,7 +229,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 215 • 💬 103 • 4h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 215 • 💬 103 • 5h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -281,7 +281,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 71K • 👍 2K • 💬 120 • ⏱️ 13:08 • 23h ago
+👁️ 71K • 👍 2K • 💬 120 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Bes
 
 📺 AI Search
 
-👁️ 69K • 👍 4K • 💬 748 • ⏱️ 38:57 • 19h ago
+👁️ 69K • 👍 4K • 💬 748 • ⏱️ 38:57 • 20h ago
 
 ---
 
@@ -483,7 +483,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 3,107 • ❤️ 404 • 2d ago
+⬇️ 3,107 • ❤️ 404 • 3d ago
 
 ---
 
@@ -663,7 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 127 • 8h ago
+⭐ 2.2k • 🔱 127 • 9h ago
 
 ---
 
@@ -693,7 +693,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 101 • 10h ago
+⭐ 1.2k • 🔱 101 • 11h ago
 
 ---
 
@@ -703,7 +703,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 17h ago
+⭐ 1.2k • 🔱 142 • 18h ago
 
 ---
 

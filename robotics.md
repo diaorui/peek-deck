@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T22:47:41.232283+00:00'
+updated: '2026-01-08T23:19:22.149443+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 22:47 UTC  
+**Last Updated:** January 08, 2026 at 23:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 Recently graduated with 1 year experience(Intern). Do I have chance of landing job anywhere in this cooked economy? Feel free to roast and dissect my resume and give as much advice as possible. If someone really wants to give in depth review of my resume I can also dm the original pdf so that you can access all the links.
 
-14h ago
+15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Reuters • 23h ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Motley Fool • 3h ago
 
 Kraken Robotics (CVE:PNG) Sets New 52-Week High  - What's Next?
 
-MarketBeat • 6h ago
+MarketBeat • 7h ago
 
 ---
 
@@ -188,7 +188,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 215 • ⏱️ 9:33 • 1d ago
+👁️ 54K • 👍 1K • 💬 215 • ⏱️ 9:33 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ LG has a mind blowingly cool setup here at #CES2026 There are next generation Wa
 
 📺 JerryRigEverything
 
-👁️ 129K • 👍 7K • 💬 724 • ⏱️ 7:45 • 21h ago
+👁️ 129K • 👍 7K • 💬 724 • ⏱️ 7:45 • 22h ago
 
 ---
 
@@ -278,7 +278,7 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 552K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
+👁️ 552K • 👍 11K • 💬 2K • ⏱️ 7:00 • 3d ago
 
 ---
 
