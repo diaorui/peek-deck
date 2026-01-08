@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T10:51:26.987471+00:00'
+updated: '2026-01-08T11:21:38.725312+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 10:51 UTC  
+**Last Updated:** January 08, 2026 at 11:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 5h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 6h ago
 
 ---
 
 **[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 19h ago
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 20h ago
 
 ---
 
@@ -53,7 +53,7 @@ AI news, discussions, and developments
 
 Hey everyone, imagine logging into work and finding out an AI system just picked who gets promoted, based on your emails, typing speed, or based on performance or even how often you check news sites. Sounds wild, right? But a recent survey shows 60% of managers already use AI for stuff like raises and promotions. It could cut out human bias, but what if it misses the real story behind your hard work? Should AI just suggest options, or actually decide? Like, assist with data but let humans call the shots? Or go full auto?
 
-2h ago
+3h ago
 
 ---
 
@@ -69,7 +69,7 @@ Now you can run AI models on your mobile phone Recently, I found this awesome op
 
 First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-19h ago
+20h ago
 
 ---
 
@@ -85,7 +85,7 @@ I keep noticing how many outdated tech beliefs are still floating around, especi
 
 I’m exploring a design problem around how people find others to talk to about the same thing at the same moment, without relying on forums, tags, or scrolling feeds. Most discussion platforms ask users to choose the right place to post, such as a subreddit, forum, or channel, or to search and scroll through existing threads. This works well for organizing information, but it can be slow and awkward when someone just wants to talk through an idea in real time. The concept I’m exploring is simple: You start any conversation (question, rant, brainstorm, etc.), and an AI instantly connects you with others talking about the same thing — no forums, no tags, just live context-based matching using LLMs. Would this be useful or chaotic? What features or limits would make it work?
 
-13h ago
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ AI can now create genome viruses in laboratories and redesign toxins to evade co
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 I documented a comprehensive guide for ACE-Step after testing various AI music tools (MusicGen, Suno API, Stable Audio). Article with code: https://medium.com/gitconnected/i-generated-4-minutes-of-k-pop-in-20-seconds-using-pythons-fastest-music-ai-a9374733f8fc Why it's different: Runs completely locally (no API costs, no rate limits) Generates 4 minutes of music in ~20 seconds Works on budget GPUs (8GB VRAM with CPU offload) Supports vocals in 19 languages (English, Korean, etc.) Open-source and free Technical approach: Uses latent diffusion (27 denoising steps) instead of autoregressive generation 15× faster than token-based models like MusicGen Can run on RTX 4060, 3060, or similar 8GB cards What's covered in the guide: Complete installation (Windows troubleshooting included) Memory optimization for budget GPUs Batch generation for quality control Production deployment with FastAPI Two complete projects: Adaptive game music system (changes based on gameplay) DMCA-free music for YouTube/TikTok/Twitch Use cases: Game developers needing dynamic music Content creators needing copyright-free music Developers building music generation features Anyone wanting to experiment with AI audio locally All implementation code is included - you can set it up and start generating in ~30 minutes. Happy to answer questions about local AI music generation or deployment!
 
-16h ago
+17h ago
 
 ---
 
@@ -121,7 +121,7 @@ I documented a comprehensive guide for ACE-Step after testing various AI music t
 
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -135,25 +135,25 @@ Quanta Magazine • 19h ago
 
 **[Inside the major split for Democrats over AI](https://www.axios.com/2026/01/08/democrats-jeffries-ai-trump)**
 
-Axios • 49m ago
+Axios • 1h ago
 
 ---
 
 **[AI web browsers are here. Are they safe?](https://qz.com/ai-web-browsers-privacy-security)**
 
-qz.com • 48m ago
+qz.com • 1h ago
 
 ---
 
 **[Can A.I. Match Molière’s Wit? These Researchers Think So.](https://www.nytimes.com/2026/01/08/theater/moliere-ai-sorbonne-the-astrologer.html)**
 
-The New York Times • 48m ago
+The New York Times • 1h ago
 
 ---
 
 **[AI Is Being Used to Find Valuable Commodities in Our Trash](https://www.wsj.com/business/ai-is-being-used-to-find-valuable-commodities-in-our-trash-6b7de5d7?gaa_at=eafs&gaa_n=AWEtsqe5hwHz_CQiKrUKRCRekUhxuxsvyHejwC7eXLT3tdIuhzKViBSa7ZIx&gaa_ts=695f8f92&gaa_sig=zw_xFbLsh7acX-DL2B6ZuhfuMQNb2R8MnN3oRWTXqcnxOxrjEYwxln3JWXa3MXoDRvhZlP5ANzirCin3cCPmXQ%3D%3D)**
 
-The Wall Street Journal • 17h ago
+The Wall Street Journal • 18h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 4h ago
 
 **[Chinese tech firms rise in Hong Kong debut as US-China rivalry heats up](https://www.reuters.com/world/asia-pacific/chinese-tech-companies-led-by-zhipu-ai-climb-hong-kong-debut-2026-01-08/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -279,7 +279,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 46K • 👍 1K • 💬 81 • ⏱️ 13:08 • 11h ago
+👁️ 46K • 👍 1K • 💬 81 • ⏱️ 13:08 • 12h ago
 
 ---
 
@@ -319,7 +319,7 @@ LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Bes
 
 📺 AI Search
 
-👁️ 27K • 👍 2K • 💬 347 • ⏱️ 38:57 • 7h ago
+👁️ 27K • 👍 2K • 💬 347 • ⏱️ 38:57 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 📺 Mira AI
 
-👁️ 8K • 💬 10 • ⏱️ 7:28 • 18h ago
+👁️ 8K • 💬 10 • ⏱️ 7:28 • 19h ago
 
 ---
 
@@ -367,7 +367,7 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 📺 Bob Reese
 
-👁️ 706K • 👍 14K • 💬 261 • ⏱️ 0:19 • 18h ago
+👁️ 706K • 👍 14K • 💬 261 • ⏱️ 0:19 • 19h ago
 
 ---
 
@@ -431,7 +431,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 9,648 • ❤️ 277 • 22h ago
+⬇️ 9,648 • ❤️ 277 • 23h ago
 
 ---
 
@@ -700,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 5h ago
+⭐ 1.2k • 🔱 142 • 6h ago
 
 ---
 
@@ -730,7 +730,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 940 • 🔱 141 • 1h ago
+⭐ 940 • 🔱 141 • 2h ago
 
 ---
 

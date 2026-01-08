@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T10:51:26.996501+00:00'
+updated: '2026-01-08T11:21:38.733888+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 10:51 UTC  
+**Last Updated:** January 08, 2026 at 11:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,13 @@ Rank #1
 
 **[You open the Bitcoin chart and it’s just… vibes 😂](https://www.reddit.com/r/Bitcoin/comments/1q735l0/you_open_the_bitcoin_chart_and_its_just_vibes/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 People who bought Bitcoin before the ETFs
 
-9h ago
+10h ago
 
 ---
 
@@ -113,19 +113,19 @@ People who bought Bitcoin before the ETFs
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-17h ago
+18h ago
 
 ---
 
 **[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ People who bought Bitcoin before the ETFs
 
 Once these last longs are liquidated, I bet we rocket past $95k.
 
-13h ago
+14h ago
 
 ---
 
@@ -183,7 +183,7 @@ Investor's Business Daily • 2d ago
 
 Bitcoin has matured and become a more widely accepted investment option over the years, even among institutional investors.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,13 +191,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin dropped by more than 20% during the 2025 fourth quarter.
 
-The Motley Fool • 21m ago
+The Motley Fool • 51m ago
 
 ---
 
 **[Why Larry Fink has changed his view of Bitcoin](https://www.msn.com/en-us/money/savingandinvesting/why-larry-fink-has-changed-his-view-of-bitcoin/ar-AA1TOb1P?ocid=finance-verthp-feeds)**
 
-MSN • 51m ago
+MSN • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ MSN • 51m ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -247,7 +247,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 21h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 22h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -281,7 +281,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 1 • 💬 0 • 53m ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 1 • 💬 0 • 1h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -289,7 +289,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 13h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 14h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -297,7 +297,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 19h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 20h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -341,7 +341,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 618 • 💬 5 • ⏱️ 43:55 • 12h ago
+👁️ 14K • 👍 618 • 💬 5 • ⏱️ 43:55 • 13h ago
 
 ---
 
@@ -351,7 +351,7 @@ Thanks to iTrustCapital for sponsoring this video. Sign Up With iTrustCapital $1
 
 📺 Dan Gambardello
 
-👁️ 29K • 👍 2K • 💬 315 • ⏱️ 12:06 • 16h ago
+👁️ 29K • 👍 2K • 💬 315 • ⏱️ 12:06 • 17h ago
 
 ---
 
@@ -361,7 +361,7 @@ The market is misreading the MicroStrategy decision. A major downside risk has b
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 2K • 💬 30 • ⏱️ 29:02 • 2h ago
+👁️ 21K • 👍 2K • 💬 30 • ⏱️ 29:02 • 3h ago
 
 ---
 
@@ -381,7 +381,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 109 • ⏱️ 9:00 • 11h ago
+👁️ 26K • 👍 2K • 💬 109 • ⏱️ 9:00 • 12h ago
 
 ---
 
