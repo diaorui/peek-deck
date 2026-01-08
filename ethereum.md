@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T21:22:49.296432+00:00'
+updated: '2026-01-08T21:44:20.493521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 21:22 UTC  
+**Last Updated:** January 08, 2026 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -0.9%  
-**30d:** -6.8%  
-**90d:** -17.7%  
-**1y:** -4.0%  
+**24h:** -1.4%  
+**7d:** -0.3%  
+**30d:** -6.2%  
+**90d:** -17.2%  
+**1y:** -3.4%  
 
 ---
 
@@ -100,7 +100,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 **[Polymarket And Delphi Digital Make History With Tradable Research](https://www.reddit.com/r/ethereum/comments/1q7g8gh/polymarket_and_delphi_digital_make_history_with/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 4h ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 5h ago
 
 ---
 
@@ -122,7 +122,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 23h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 1d ago
 
 ---
 
@@ -148,19 +148,11 @@ The Block • 20h ago
 
 ---
 
-**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
+**[Fidelity Let’s You Go Full YOLO On Ethereum, but Should You?](https://finance.yahoo.com/news/fidelity-let-full-yolo-ethereum-192632422.html)**
 
-Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
+Crypto speculation has moved from exchanges to brokerage accounts. Spot Ethereum ETFs let investors bet on the second-largest cryptocurrency without managing wallets or private keys. But easy access doesn’t mean you should add Ethereum exposure. What FETH Actually Does Fidelity Ethereum Fund (NYSE:FETH) holds actual Ether tokens and tracks their price. When Ethereum rises or ... Fidelity Let’s You Go Full YOLO On Ethereum, but Should You?
 
-Yahoo Finance • 2d ago
-
----
-
-**[Truebit Protocol Hit by Suspected $26 Million Ethereum Hack](https://finance.yahoo.com/news/truebit-protocol-hit-suspected-26-172207725.html)**
-
-Cyvers flags a suspected $26 million Ethereum transaction linked to Truebit Protocol, as questions emerge over a potential security breach.
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -168,7 +160,7 @@ Yahoo Finance • 4h ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -202,19 +194,27 @@ TradingView — Track All Markets • 18h ago
 
 ---
 
-**[Ethereum Network Usage Hits Record High—But Traders More Bullish on Gold](https://decrypt.co/353688/ethereum-network-usage-hits-record-high-but-traders-more-bullish-on-gold)**
+**[How High Will XRP Price Go In 2026? XRP Just Crushed Bitcoin and Ethereum Returns, Gains 25%](https://www.financemagnates.com/trending/how-high-will-xrp-price-go-in-2026-xrp-just-crushed-bitcoin-and-ethereum-returns-gains-25/)**
 
-Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
+XRP climbed 25% in the first week of January, reaching approximately $2.40 on Tuesday before pulling back to test key support levels today (Wednesday), 7 January 2026.
 
-Decrypt • 2d ago
+Finance Magnates • 1d ago
 
 ---
 
-**[Why Bitcoin, Ethereum & XRP Prices are Going Down Now?](https://www.tradingview.com/news/coinpedia:b3955e3e4094b:0-why-bitcoin-ethereum-xrp-prices-are-going-down-now/)**
+**[Bitcoin, Ethereum And Solana Rebound Strongly To Start 2026 - Crypto Overview](https://seekingalpha.com/article/4857497-bitcoin-ethereum-solana-rebound-strongly-to-start-2026-crypto-overview)**
 
-Why are Bitcoin, Ethereum, and XRP Prices going down at the same time? Every trader is currently looking for this answer, as the tokens dropped suddenly in the times when they were believed to maintain a bullish continuation. After a strong start to the year, the crypto market has turned defensive…
+Despite growth in stock indexes and metals, the YoY performance for Bitcoin in 2025 was actually negative. But YoY change fails to capture the total volatility and opportunity in the period.
 
-TradingView — Track All Markets • 1d ago
+Seeking Alpha • 2d ago
+
+---
+
+**[Ethereum’s staking queues have cleared and that changes the ETH trade](https://finance.yahoo.com/news/ethereum-staking-queues-cleared-changes-153000116.html)**
+
+With queues cleared and staking yields near 3%, the “supply shock” narrative is fading even as Ethereum remains the largest DeFi base layer.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 116 • 💬 14 • ⏱️ 11:47 • 8h ago
+👁️ 2K • 👍 116 • 💬 14 • ⏱️ 11:47 • 9h ago
 
 ---
 

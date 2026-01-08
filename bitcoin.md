@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T21:22:49.290260+00:00'
+updated: '2026-01-08T21:44:20.487071+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 21:22 UTC  
+**Last Updated:** January 08, 2026 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,140.89
+### $91,120.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.9%  
-**30d:** -1.3%  
-**90d:** -17.9%  
-**1y:** -1.8%  
+**24h:** +0.4%  
+**7d:** +1.4%  
+**30d:** -0.8%  
+**90d:** -17.4%  
+**1y:** -1.2%  
 
 ---
 
@@ -81,13 +81,7 @@ Rank #1
 
 BTC
 
-5h ago
-
----
-
-**[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
-
-12h ago
+6h ago
 
 ---
 
@@ -103,6 +97,20 @@ BTC
 
 ---
 
+**[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
+
+13h ago
+
+---
+
+**[Bitcoin mining continued growing after the halving.⛏️🪙](https://www.reddit.com/r/Bitcoin/comments/1q7jhax/bitcoin_mining_continued_growing_after_the_halving/)**
+
+Bitcoin mining continued growing after the halving. Miners’ revenue reached $17.2B in 2025, up from $14.7B the year before. Post-halving economics is Bitcoin mining at work, not a bug. Source: @TheBlock__
+
+3h ago
+
+---
+
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
 16h ago
@@ -115,11 +123,17 @@ BTC
 
 ---
 
-**[Bitcoin mining continued growing after the halving.⛏️🪙](https://www.reddit.com/r/Bitcoin/comments/1q7jhax/bitcoin_mining_continued_growing_after_the_halving/)**
+**[I only invest in bitcoin ? Is it good for me?](https://www.reddit.com/r/Bitcoin/comments/1q78h8s/i_only_invest_in_bitcoin_is_it_good_for_me/)**
 
-Bitcoin mining continued growing after the halving. Miners’ revenue reached $17.2B in 2025, up from $14.7B the year before. Post-halving economics is Bitcoin mining at work, not a bug. Source: @TheBlock__
+I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the best option for me. I am trying to learn more about Bitcoin on YouTube, so I invested $3,000 and plan to invest more. I am not taking big risks; I am just experimenting. Is it good or bad that I am sticking only with Bitcoin? This is not advice seeking Post (just for discussion)
 
-3h ago
+11h ago
+
+---
+
+**[Bitcoin Ashtray / Handmade🎁](https://www.reddit.com/r/Bitcoin/comments/1q7gk1e/bitcoin_ashtray_handmade/)**
+
+5h ago
 
 ---
 
@@ -128,22 +142,6 @@ Bitcoin mining continued growing after the halving. Miners’ revenue reached $1
 People who bought Bitcoin before the ETFs
 
 20h ago
-
----
-
-**[I only invest in bitcoin ? Is it good for me?](https://www.reddit.com/r/Bitcoin/comments/1q78h8s/i_only_invest_in_bitcoin_is_it_good_for_me/)**
-
-I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the best option for me. I am trying to learn more about Bitcoin on YouTube, so I invested $3,000 and plan to invest more. I am not taking big risks; I am just experimenting. Is it good or bad that I am sticking only with Bitcoin? This is not advice seeking Post (just for discussion)
-
-10h ago
-
----
-
-**[Top 21 Bitcoin Holderes Accumulated $40B worth of $BTC in 2025](https://www.reddit.com/r/Bitcoin/comments/1q79q5o/top_21_bitcoin_holderes_accumulated_40b_worth_of/)**
-
-How much $BTC did you add last year? https://preview.redd.it/7i8wab6h54cg1.jpg?width=1272&format=pjpg&auto=webp&s=cfd46f8ab14717a5059ebe0f46d7c328425e8034
-
-9h ago
 
 ---
 
@@ -159,11 +157,35 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[What to look for in crypto in 2026: Bitcoin, Trump, and the battle for DeFi](https://fortune.com/2026/01/08/cryptocurrency-predictions-2026-trump-bitcoin-stablecoin-polymarket/)**
+**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
 
-After a pivotal 2025, the blockchain industry is still waiting for its mainstream breakthrough—but that could come this year.
+Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
-Fortune • 3h ago
+CNBC • 2d ago
+
+---
+
+**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
+
+If true, the claim could significantly reshape the global bitcoin market.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Trump's Move To Seize Control of Venezuela Means 'Bitcoin And Certain Cryptos Will Skyrocket,' Arthur Hayes Says](https://finance.yahoo.com/news/trumps-move-seize-control-venezuela-201055355.html)**
+
+President Donald Trump‘s Venezuela gambit is bullish for Bitcoin, BitMEX founder and Maelstrom investment chief Arthur Hayes says. “The price of Bitcoin and certain cryptos will skyrocket,” Hayes said in a Tuesday blog post addressing the potential impact of the...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Stanford professor raises $15 million for Babylon, a decentralized protocol to turn Bitcoin into collateral](https://fortune.com/2026/01/07/stanford-professor-raises-15-million-for-babylon/)**
+
+The startup aims to provide an alternative to platforms like Coinbase and Tether for those seeking to put their Bitcoin to work.
+
+Fortune • 1d ago
 
 ---
 
@@ -172,6 +194,22 @@ Fortune • 3h ago
 XRP is an emerging player in the cryptocurrency landscape.
 
 The Motley Fool • 10h ago
+
+---
+
+**[XRP slips 5% as CNBC terms it 'hottest trade' of 2026 over bitcoin and ether](https://www.coindesk.com/markets/2026/01/08/xrp-slips-5-as-cnbc-terms-it-hottest-trade-of-2026-over-bitcoin-and-ether)**
+
+Institutional demand through U.S.-listed spot XRP ETFs remains strong, with net inflows continuing into early January.
+
+CoinDesk • 16h ago
+
+---
+
+**[The Hottest Trade of 2026 Isn't Bitcoin - It's XRP ETFs](https://finance.yahoo.com/news/hottest-trade-2026-isnt-bitcoin-145800838.html)**
+
+XRP ETFs steal the spotlight in 2026 as a 25% January surge leaves Bitcoin behind.
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -188,44 +226,6 @@ Bloomberg.com • 1d ago
 If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
 
 Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
-
-Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
-
-abcnews.go.com • 2d ago
-
----
-
-**[Bitcoin Miners Shift From Crypto to AI Data Centers](https://www.etftrends.com/coinshares-content-hub/bitcoin-miners-shift-crypto-ai-data-centers/)**
-
-ETF Trends • 1d ago
-
----
-
-**[Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages](https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html)**
-
-Security researchers found 3 npm packages that installed NodeCordRAT malware, stealing browser data, crypto wallet secrets & tokens using Discord C2.
-
-The Hacker News • 10h ago
-
----
-
-**[Chinese tycoon tied to $11B ‘pig butchering’ bitcoin scam taken into custody](https://nypost.com/2026/01/07/business/chinese-tycoon-tied-to-11b-pig-butchering-bitcoin-scam-taken-into-custody/)**
-
-Chen Zhi, chairman of Prince Group, was arrested by law enforcement officials in Cambodia and extradited to China, government officials said.
-
-New York Post • 1d ago
-
----
-
-**[Bitcoin extends retreat to below $90K as ETF outflows swell (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4537715-bitcoin-extends-retreat-to-below-90k-as-etf-outflows-swell)**
-
-Bitcoin slips below $90K as spot BTC ETF outflows hit their highest since November, dragging altcoins and crypto stocks.
-
-Seeking Alpha • 6h ago
 
 ---
 
@@ -325,7 +325,7 @@ Stay informed with the latest insights on **btc**, focusing on effective **tradi
 
 📺 Krown
 
-👁️ 3K • 👍 425 • 💬 149 • ⏱️ 13:56 • 3h ago
+👁️ 3K • 👍 425 • 💬 149 • ⏱️ 13:56 • 4h ago
 
 ---
 
@@ -345,7 +345,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 399 • 💬 319 • ⏱️ 9:41 • 20h ago
+👁️ 8K • 👍 399 • 💬 319 • ⏱️ 9:41 • 21h ago
 
 ---
 
@@ -395,7 +395,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 509 • 💬 63 • ⏱️ 7:28 • 14h ago
+👁️ 10K • 👍 509 • 💬 63 • ⏱️ 7:28 • 15h ago
 
 ---
 

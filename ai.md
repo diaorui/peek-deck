@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T21:22:49.281764+00:00'
+updated: '2026-01-08T21:44:20.478088+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 21:22 UTC  
+**Last Updated:** January 08, 2026 at 21:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,29 +49,13 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 5h ago
-
----
-
-**[Tailwind lays off 75% of its 4-person engineering team, citing 'brutal impact AI has had on our business'](https://www.reddit.com/r/artificial/comments/1q7im7a/tailwind_lays_off_75_of_its_4person_engineering/)**
-
-Tailwind's CEO said that while AI made the web tool more popular, it also led to cratering revenue and difficulty converting paid users.
-
-🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 3h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 6h ago
 
 ---
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
 🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 16h ago
-
----
-
-**[Why didn't AI “join the workforce” in 2025?, US Job Openings Decline to Lowest Level in More Than a Year and many other AI links from Hacker News](https://www.reddit.com/r/artificial/comments/1q7hhuv/why_didnt_ai_join_the_workforce_in_2025_us_job/)**
-
-Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup of the best AI links and the discussions around them from Hacker News. See below 5/35 links shared in this issue: US Job Openings Decline to Lowest Level in More Than a Year - HN link Why didn't AI “join the workforce” in 2025? - HN link The suck is why we're here - HN link The creator of Claude Code's Claude setup - HN link AI misses nearly one-third of breast cancers, study finds - HN link If you enjoy such content, please consider subscribing to the newsletter here: https://hackernewsai.com/
-
-4h ago
 
 ---
 
@@ -87,7 +71,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 4h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 5h ago
 
 ---
 
@@ -111,17 +95,25 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 ---
 
+**[What's the best AI youtube video chabot you actually paid for and why ?](https://www.reddit.com/r/artificial/comments/1q793q5/whats_the_best_ai_youtube_video_chabot_you/)**
+
+The title pretty much sums it up. I'm looking for people that actually paid for the tool and why. I've tried multiple tools like Chatpdf, notegpt and chattube but overall they kind of all feel the same. Although Chatpdf has a pretty decent UI. Really interested to know if some of you liked one of these enough to pay for it and would like to know why.
+
+10h ago
+
+---
+
+**[Run AI models on your mobile phone](https://www.reddit.com/r/artificial/comments/1q76sgz/run_ai_models_on_your_mobile_phone/)**
+
+Now you can run AI models on your mobile phone Recently, I found this awesome open source app called Maid, which allow you to run AI models on your phone. I am from Gaza and during the war, most of the time I am offline, and I wanted to play around with AI and try things, I tried to install ollama on termux but no use. But maid is very easy, you open the app and download a model from a list of models of different sizes, and you are set. It might be slow on some devices. Dowload it and have fun.
+
+12h ago
+
+---
+
 ---
 
 ## Google News: "ai"
-
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
-
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
-
-blog.google • 8h ago
-
----
 
 **[Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)**
 
@@ -131,11 +123,19 @@ WIRED • 8h ago
 
 ---
 
-**[Gmail now uses AI to help you write messages and keep track of your inbox](https://www.cbsnews.com/news/gmail-ai-google-help-write-messages-track-inbox/)**
+**[Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews)**
 
-Google is souping up Gmail with features from its Gemini 3 AI app. Here's what to know — including how to opt out.
+AI Mode but for Gmail.
 
-CBS News • 2h ago
+The Verge • 8h ago
+
+---
+
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
+
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
+
+blog.google • 8h ago
 
 ---
 
@@ -147,23 +147,27 @@ Fortune • 1d ago
 
 ---
 
-**['Worst in Show' CES products include AI refrigerators, AI companions and AI doorbells](https://www.wral.com/news/ap/0ce7f-worst-in-show-ces-products-include-ai-refrigerators-ai-companions-and-ai-doorbells/)**
+**[A New Year’s Resolution For Leaders: Redesign Work For People And AI](https://www.forbes.com/sites/kweilinellingrud/2026/01/08/a-new-years-resolution-for-leaders-redesign-work-for-people-and-ai/)**
 
-Artificial intelligence took center stage at this year's CES gadget show, but not always for the right reasons. On Thursday, the “Worst in Show” awards highlighted products seen as invasive, fragile or wasteful. Samsung's “Bespoke AI Family Hub” fridge was criticized for its complexity and poor v...
-
-WRAL • 1h ago
+Forbes • 37m ago
 
 ---
 
-**[Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026](https://www.marketwatch.com/story/why-alphabets-stock-can-further-reign-as-king-of-the-ai-trade-in-2026-18bedf6f?gaa_at=eafs&gaa_n=AWEtsqeUbVeGuYlikYlhvSnNItIcaGLtZ_Dsi4NXublWmTaIuljtnGiarqSQ&gaa_ts=696016a4&gaa_sig=z8iqjH8tuxR6VMgoEzI2jmL19G8I499o7b3a_zO80Bcr_H7c5guC1jgVxGhxhiaZPe0Sq_nz8354yRxp1TSajQ%3D%3D)**
+**[Market Bubbles Go Way Beyond AI, Says Richard Bernstein Advisors](https://www.bloomberg.com/news/articles/2026-01-08/market-bubbles-go-way-beyond-ai-says-richard-bernstein-advisors)**
 
-MarketWatch • 1h ago
+Bloomberg.com • 27m ago
 
 ---
 
-**[Watch AI Policy Remains an Open Question at CES](https://www.bloomberg.com/news/videos/2026-01-08/ai-policy-remains-an-open-question-at-ces-video)**
+**[Meta and Nvidia show just how messy AI geopolitics is getting](https://qz.com/ai-policy-us-china-eu-nvidia-meta-manus)**
 
-Bloomberg.com • 1h ago
+qz.com • 47m ago
+
+---
+
+**[Jeffries to meet with new House Dem AI commission](https://www.politico.com/live-updates/2026/01/08/congress/jeffries-to-meet-with-new-house-dem-ai-working-group-00715720)**
+
+Politico • 8h ago
 
 ---
 
@@ -181,12 +185,6 @@ CNN • 9h ago
 
 ---
 
-**[China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus](https://www.nytimes.com/2026/01/08/business/meta-manus-china-ai.html)**
-
-The New York Times • 10h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -195,7 +193,7 @@ The New York Times • 10h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 836 • 💬 1311 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 838 • 💬 1317 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -203,7 +201,13 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 250 • 💬 165 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 299 • 💬 220 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+
+---
+
+**[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
+
+⬆️ 262 • 💬 80 • 2h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -223,25 +227,19 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 ---
 
-**[Notion AI: Unpatched data exfiltration](https://news.ycombinator.com/item?id=46531565)**
-
-Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
-
-⬆️ 196 • 💬 33 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
-
----
-
 **[IBM AI ('Bob') Downloads and Executes Malware](https://news.ycombinator.com/item?id=46544454)**
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 151 • 💬 74 • 3h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 207 • 💬 98 • 3h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
-**[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
+**[Notion AI: Unpatched data exfiltration](https://news.ycombinator.com/item?id=46531565)**
 
-⬆️ 143 • 💬 34 • 2h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
+
+⬆️ 198 • 💬 33 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -249,7 +247,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 142 • 💬 77 • 14h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 143 • 💬 79 • 15h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -257,7 +255,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 133 • 💬 174 • 6h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 136 • 💬 180 • 6h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -265,7 +263,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
-⬆️ 124 • 💬 91 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
+⬆️ 124 • 💬 91 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
 
 ---
 
@@ -385,7 +383,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 572 • 13h ago
+⬇️ 187,937 • ❤️ 572 • 14h ago
 
 ---
 
@@ -641,7 +639,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.1k • 🔱 842 • 3h ago
+⭐ 7.1k • 🔱 842 • 4h ago
 
 ---
 
@@ -721,7 +719,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 92 • 3h ago
+⭐ 1.1k • 🔱 92 • 4h ago
 
 ---
 
@@ -731,7 +729,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 995 • 🔱 120 • 7h ago
+⭐ 995 • 🔱 120 • 8h ago
 
 ---
 
