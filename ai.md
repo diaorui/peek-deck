@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T15:28:11.178695+00:00'
+updated: '2026-01-08T15:51:30.827070+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 15:28 UTC  
+**Last Updated:** January 08, 2026 at 15:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -107,7 +107,7 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 Now you can run AI models on your mobile phone Recently, I found this awesome open source app called Maid, which allow you to run AI models on your phone. I am from Gaza and during the war, most of the time I am offline, and I wanted to play around with AI and try things, I tried to install ollama on termux but no use. But maid is very easy, you open the app and download a model from a list of models of different sizes, and you are set. It might be slow on some devices. Dowload it and have fun.
 
-6h ago
+7h ago
 
 ---
 
@@ -149,25 +149,25 @@ Axios • 2h ago
 
 Even if an AI bubble were to burst, you could still feel comfortable owning these AI titans.
 
-The Motley Fool • 15m ago
+The Motley Fool • 38m ago
 
 ---
 
 **[AI Agents Fail Without Human Oversight, Here’s Why](https://www.forbes.com/sites/garydrenik/2026/01/08/ai-agents-fail-without-human-oversight-heres-why/)**
 
-Forbes • 28m ago
+Forbes • 51m ago
 
 ---
 
 **[Microsoft launches Copilot Checkout, joining the AI shopping race against Amazon, Google and OpenAI](https://www.geekwire.com/2026/microsoft-launches-copilot-checkout-joining-the-ai-shopping-race-against-amazon-google-and-openai/)**
 
-GeekWire • 23m ago
+GeekWire • 46m ago
 
 ---
 
 **[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
 
-The Washington Post • 56m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 187 • 💬 28 • 19h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 187 • 💬 28 • 20h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -225,7 +225,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 177 • 💬 110 • 23h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 177 • 💬 110 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -233,7 +233,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 131 • 💬 63 • 8h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 131 • 💬 63 • 9h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -287,7 +287,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.1M • 👍 53K • 💬 7K • ⏱️ 17:14 • 20h ago
+👁️ 1.1M • 👍 53K • 💬 7K • ⏱️ 17:14 • 21h ago
 
 ---
 
@@ -489,7 +489,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,506 • 11h ago
+⬇️ 38,529 • ❤️ 1,506 • 12h ago
 
 ---
 
@@ -686,7 +686,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 100 • 3h ago
+⭐ 1.2k • 🔱 100 • 4h ago
 
 ---
 
@@ -726,7 +726,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 991 • 🔱 119 • 1h ago
+⭐ 991 • 🔱 119 • 2h ago
 
 ---
 

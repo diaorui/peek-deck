@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T15:28:11.196340+00:00'
+updated: '2026-01-08T15:51:30.844887+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 15:28 UTC  
+**Last Updated:** January 08, 2026 at 15:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Robotics research and industry news
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I have a old dash robot from some time ago It was used to teach young kids to code and program, but now I want to hack it so I can use it for other projects is there any way I could do that
 
-55m ago
+1h ago
 
 ---
 
@@ -106,7 +106,7 @@ I have a old dash robot from some time ago It was used to teach young kids to co
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -122,7 +122,7 @@ Seeking Alpha • 5h ago
 
 The move highlights how expanding enterprise robotics deployments are forcing CIOs to rethink where AI systems run.
 
-Computerworld • 4h ago
+Computerworld • 5h ago
 
 ---
 
@@ -138,7 +138,7 @@ hyundai.com • 2d ago
 
 The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
 
-International Federation of Robotics • 8h ago
+International Federation of Robotics • 9h ago
 
 ---
 
@@ -154,7 +154,7 @@ NVIDIA Developer • 2d ago
 
 Analysts have gotten increasingly bullish on this company since announcing it has deployed the largest sidewalk delivery fleet in the U.S.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -198,7 +198,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 55K • 👍 1K • 💬 218 • ⏱️ 4:29 • 22h ago
+👁️ 55K • 👍 1K • 💬 218 • ⏱️ 4:29 • 23h ago
 
 ---
 
