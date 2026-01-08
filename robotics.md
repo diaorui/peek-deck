@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T13:41:01.386395+00:00'
+updated: '2026-01-08T14:27:15.331511+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 13:41 UTC  
+**Last Updated:** January 08, 2026 at 14:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,25 +34,31 @@ Robotics research and industry news
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-10h ago
+11h ago
+
+---
+
+**[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
+
+57m ago
 
 ---
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +72,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -78,25 +84,19 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 ---
 
+**[I Made a "One Button Microwave" Because I Don't like Typing Numbers into the Keypad](https://www.reddit.com/r/robotics/comments/1q7b288/i_made_a_one_button_microwave_because_i_dont_like/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 1h ago
+
+---
+
 **[Humanoid robots or assistive exoskeletons, which has more real potential?](https://www.reddit.com/r/robotics/comments/1q73yj5/humanoid_robots_or_assistive_exoskeletons_which/)**
 
 Humanoid robots have been getting a lot of attention lately, with recent demos like Unitree Robotics and NEO home robot pushing toward general-purpose capability. At the same time, assistive exoskeletons seem to be making quieter progress. Just saw a news that a Korean institute KAIST has created an exoskeleton that helps paralyzed people stand, walk, also some consumer-level devices such as dnsysX1 target mobility support for older adults rather than full autonomy. Humanoids aim for versatility, but translating demos into real-world deployment is still unclear. Questions around cost, safety, maintenance, reliability, and clear use cases remain largely unresolved outside controlled environments. Exoskeletons, by contrast, tend to slot into existing workflows more easily by targeting narrow, well-defined problems and keeping humans in control. Curious how people here see it. Which do you think has more development potential over the next 10-15 years, and why?
 
-7h ago
-
----
-
-**[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
-
-22h ago
-
----
-
-**[Nova 5 vs UR5](https://www.reddit.com/r/robotics/comments/1q79bwi/nova_5_vs_ur5/)**
-
-I was looking to buy a 6dof robotic arm. But turns out UR5 is at least 4 times more expensive than Dobot's Nova 5. Any idea as to why the difference, what's the pros and cons of going with either of them. Would appreciate the help.
-
-2h ago
+8h ago
 
 ---
 
@@ -110,47 +110,33 @@ Reuters • 14h ago
 
 ---
 
-**[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
+**[Arm reorganizes to launch Physical AI unit amid robotics rush](https://seekingalpha.com/news/4537591-arm-reorganizes-to-launch-physical-ai-unit-amid-robotics-rush)**
 
-TipRanks • 8h ago
+Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
----
-
-**[Exclusive-Arm launches 'Physical AI' division to expand in robotics market](https://finance.yahoo.com/news/exclusive-arm-launches-physical-ai-193509035.html)**
-
-Chip technology company Arm Holdings has reorganized the company to create a Physical AI unit to expand its presence in the robotics market, company executives told Reuters at CES, where robots are a theme of the year.  The decision to create a ​unit that specializes in robotics arrives amid a flurry of announcements and activity at CES around humanoid robots.  At the sprawling Las Vegas trade show, large ‌and small companies demonstrated robots that could help build cars, clean toilets and deal games of poker - at a glacial pace.
-
-Yahoo Finance • 17h ago
+Seeking Alpha • 4h ago
 
 ---
 
-**[Car giant Hyundai to use human-like robots in factories](https://www.bbc.com/news/articles/cvgjm5x54ldo)**
+**[Arm reorganizes around Physical AI as enterprise robotics gains momentum](https://www.computerworld.com/article/4114329/arm-reorganizes-around-physical-ai-as-enterprise-robotics-gains-momentum.html)**
 
-The firm plans to deploy the technology at the same plant that was involved in a huge immigration raid in 2025.
+The move highlights how expanding enterprise robotics deployments are forcing CIOs to rethink where AI systems run.
 
-BBC • 2d ago
-
----
-
-**[AI can see. AI can hear. Now, AI can feel too. At CES 2026, Haply Robotics is teaming up with NVIDIA to bring the sense of touch into AI training & simulation. This haptic technology lets humans & machines feel pressure, force, & resistance in virtual environme](https://www.linkedin.com/posts/cnbc-tv18_ces2026-nvidia-physicalai-activity-7415000197065474048-ZObW)**
-
-AI can see. AI can hear. Now, AI can feel too.
-
-At CES 2026, Haply Robotics is teaming up with NVIDIA to bring the sense of touch into AI training & simulation. This haptic technology lets humans & machines feel pressure, force, & resistance in virtual environments — a key step toward more realistic robotics & physical AI. Aishwarya Anand reports from CES
-
-Aishwarya Anand
-
-#CES2026 #NVIDIA #PhysicalAI #Haptics #FutureOfAI #Robotics #XR #CNBCTV18Digital
-
-LinkedIn • 1h ago
+Computerworld • 3h ago
 
 ---
 
-**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
+**[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)**
 
-Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
+HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
 
-90.5 WESA • 1d ago
+hyundai.com • 2d ago
+
+---
+
+**[Watch Qualcomm CEO Sees Robotics as the 'Next Big Wave of AI'](https://www.bloomberg.com/news/videos/2026-01-06/qualcomm-ceo-sees-robotics-as-the-next-big-wave-of-ai-video)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -162,23 +148,35 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcNL8S-bEmmFepYfJv8rBMeOtBjquOwvNcj_8LC4MnRPffzFyHOzeR9&gaa_ts=695fab4c&gaa_sig=m1YS4YLu8Olcu-Mjzt_1aiYKGtbpPwXXAOdLOB8UwbJ5sPPPnIKlaMUJz_UmhG9WsBbg6g1GOXE2RHn0OaKexw%3D%3D)**
+**[Qualcomm Bets Big on Robotics, Beginning With This Bendy-Backed Humanoid](https://www.cnet.com/tech/qualcomm-announces-dragonwing-iq10-humanoid-robotics-platform-at-ces-2026/)**
 
-The Wall Street Journal • 1d ago
+A new wave of humanoids are coming. Qualcomm is ready to power them.
 
----
-
-**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
-
-Reuters • 1d ago
+CNET • 3d ago
 
 ---
 
-**[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
+**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
 
-Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
+The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
 
-TechCrunch • 1d ago
+International Federation of Robotics • 7h ago
+
+---
+
+**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
+
+NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
+
+NVIDIA Developer • 2d ago
+
+---
+
+**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
+
+NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
+
+NVIDIA Newsroom • 2d ago
 
 ---
 
@@ -192,7 +190,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 209 • ⏱️ 9:33 • 1d ago
+👁️ 52K • 👍 1K • 💬 210 • ⏱️ 9:33 • 1d ago
 
 ---
 
@@ -202,17 +200,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 43K • 👍 1K • 💬 184 • ⏱️ 4:29 • 21h ago
-
----
-
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
-
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
-
-📺 Technology Now
-
-👁️ 22K • 👍 283 • 💬 14 • ⏱️ 7:38 • 3d ago
+👁️ 55K • 👍 1K • 💬 218 • ⏱️ 4:29 • 21h ago
 
 ---
 
@@ -222,17 +210,17 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 7K • 👍 66 • 💬 17 • ⏱️ 2:58 • 1d ago
+👁️ 7K • 👍 69 • 💬 17 • ⏱️ 2:58 • 1d ago
 
 ---
 
-**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
 
-We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
 
-📺 CNET
+📺 Technology Now
 
-👁️ 9K • 👍 168 • 💬 73 • ⏱️ 5:07 • 14h ago
+👁️ 22K • 👍 286 • 💬 15 • ⏱️ 7:38 • 3d ago
 
 ---
 
@@ -242,7 +230,17 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 101K • 👍 2K • 💬 279 • ⏱️ 25:02 • 1d ago
+👁️ 104K • 👍 2K • 💬 277 • ⏱️ 25:02 • 1d ago
+
+---
+
+**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+
+We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+
+📺 CNET
+
+👁️ 14K • 👍 195 • 💬 99 • ⏱️ 5:07 • 15h ago
 
 ---
 
@@ -252,7 +250,17 @@ LG has a mind blowingly cool setup here at #CES2026 There are next generation Wa
 
 📺 JerryRigEverything
 
-👁️ 75K • 👍 5K • 💬 540 • ⏱️ 7:45 • 12h ago
+👁️ 91K • 👍 5K • 💬 603 • ⏱️ 7:45 • 13h ago
+
+---
+
+**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
+
+Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
+
+📺 7NEWS Australia
+
+👁️ 6K • 👍 37 • 💬 13 • ⏱️ 2:25 • 1d ago
 
 ---
 
@@ -262,27 +270,17 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 513K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
+👁️ 524K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
 
 ---
 
-**[Robots Are Fighting at CES 2026 (In 3D VR180)](https://www.youtube.com/watch?v=8z_CAxDwr0Y)**
+**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
 
-Robots are fighting at CES 2026 and you're not just watching… you're inside the action. This immersive 3D VR180 video brings ...
+The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
 
-📺 Hugh Hou
+📺 Dip Knows
 
-👁️ 972 • 👍 28 • 💬 8 • ⏱️ 10:39 • 15h ago
-
----
-
-**[New Atlas Humanoid Revealed! Boston Dynamics &amp; Hyundai Just Changed Robotics Forever](https://www.youtube.com/watch?v=e73kf_iLAP0)**
-
-Hyundai Motor Group and Boston Dynamics brought out their famous Atlas prototype robot for the first time in public to introduce ...
-
-📺 CNET
-
-👁️ 238K • 👍 4K • 💬 766 • ⏱️ 9:05 • 2d ago
+👁️ 424K • 👍 2K • 💬 14 • ⏱️ 0:24 • 4d ago
 
 ---
 
