@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T19:40:43.906289+00:00'
+updated: '2026-01-08T20:27:39.598337+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 19:40 UTC  
+**Last Updated:** January 08, 2026 at 20:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 7h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 8h ago
 
 ---
 
@@ -57,13 +57,13 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Tailwind's CEO said that while AI made the web tool more popular, it also led to cratering revenue and difficulty converting paid users.
 
-🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 2h ago
 
 ---
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 14h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 15h ago
 
 ---
 
@@ -71,7 +71,15 @@ Tailwind's CEO said that while AI made the web tool more popular, it also led to
 
 Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup of the best AI links and the discussions around them from Hacker News. See below 5/35 links shared in this issue: US Job Openings Decline to Lowest Level in More Than a Year - HN link Why didn't AI “join the workforce” in 2025? - HN link The suck is why we're here - HN link The creator of Claude Code's Claude setup - HN link AI misses nearly one-third of breast cancers, study finds - HN link If you enjoy such content, please consider subscribing to the newsletter here: https://hackernewsai.com/
 
-2h ago
+3h ago
+
+---
+
+**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
+
+Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
+
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
 
 ---
 
@@ -83,22 +91,6 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 ---
 
-**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
-
-Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
-
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 3h ago
-
----
-
-**[iRobot I Love You](https://www.reddit.com/r/artificial/comments/1q7iux7/irobot_i_love_you/)**
-
-As we look toward the next 30 years, the conversation is shifting from "Can robots think?" to "Can robots belong?" Research into social robotics and the emerging field of "robosexuality" suggests that by 2055, our legal systems will face unprecedented pressure to recognize non-biological partnerships. If an AI is specifically programmed to "love" or "desire" a human, is it actually capable of genuine consent? David Levy has famously predicted that legal human-robot marriage could be a reality by 2050. By 2055, this could necessitate entirely new "Post-Biological" family laws to handle estates and next-of-kin rights.
-
-1h ago
-
----
-
 **[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
 
 🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 1d ago
@@ -107,7 +99,15 @@ As we look toward the next 30 years, the conversation is shifting from "Can robo
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 8h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 9h ago
+
+---
+
+**[One-Minute Daily AI News 1/7/2026](https://www.reddit.com/r/artificial/comments/1q73vim/oneminute_daily_ai_news_172026/)**
+
+Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
+
+14h ago
 
 ---
 
@@ -115,11 +115,19 @@ As we look toward the next 30 years, the conversation is shifting from "Can robo
 
 ## Google News: "ai"
 
-**[Google is unleashing Gemini AI features on Gmail. Users will have to opt out](https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html)**
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
 
-Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-CNBC • 6h ago
+blog.google • 7h ago
+
+---
+
+**[Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)**
+
+New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
+
+WIRED • 7h ago
 
 ---
 
@@ -127,13 +135,7 @@ CNBC • 6h ago
 
 Google is souping up Gmail with features from its Gemini 3 AI app. Here's what to know — including how to opt out.
 
-CBS News • 36m ago
-
----
-
-**[Google Adds More Gemini AI Features to Gmail to Leverage Its Massive User Base](https://www.tipranks.com/news/google-adds-more-gemini-ai-features-to-gmail-to-leverage-its-massive-user-base)**
-
-TipRanks • 1h ago
+CBS News • 1h ago
 
 ---
 
@@ -141,29 +143,33 @@ TipRanks • 1h ago
 
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
-**[Optimove Launches Comprehensive AI Marketing Tools Hub to Power Positionless Marketing](https://finance.yahoo.com/news/optimove-launches-comprehensive-ai-marketing-183000105.html)**
+**['Worst in Show' CES products include AI refrigerators, AI companions and AI doorbells](https://www.wral.com/news/ap/0ce7f-worst-in-show-ces-products-include-ai-refrigerators-ai-companions-and-ai-doorbells/)**
 
-New resource hub features curated AI tools to help marketers gain insight, create faster, and optimize independently without handoffs or delaysNew York, Jan. 08, 2026 (GLOBE NEWSWIRE) -- Optimove, the creator of Positionless Marketing, today announced the launch of its AI Marketing Tools Hub, a comprehensive resource designed to help marketers unlock the full potential of artificial intelligence and operate with greater speed, precision, and autonomy. Positionless Marketing frees marketing teams
+Artificial intelligence took center stage at this year's CES gadget show, but not always for the right reasons. On Thursday, the “Worst in Show” awards highlighted products seen as invasive, fragile or wasteful. Samsung's “Bespoke AI Family Hub” fridge was criticized for its complexity and poor v...
 
-Yahoo Finance • 1h ago
+WRAL • 22m ago
 
 ---
 
-**[South Carolina considers AI regulation amid national de-regulation efforts](https://www.wyff4.com/article/south-carolina-considers-ai-regulation/69934314)**
+**[Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026](https://www.marketwatch.com/story/why-alphabets-stock-can-further-reign-as-king-of-the-ai-trade-in-2026-18bedf6f?gaa_at=eafs&gaa_n=AWEtsqeUbVeGuYlikYlhvSnNItIcaGLtZ_Dsi4NXublWmTaIuljtnGiarqSQ&gaa_ts=696016a4&gaa_sig=z8iqjH8tuxR6VMgoEzI2jmL19G8I499o7b3a_zO80Bcr_H7c5guC1jgVxGhxhiaZPe0Sq_nz8354yRxp1TSajQ%3D%3D)**
 
-As AI technology grows, South Carolina is examining the technology with three pre-filed bills, while a national policy framework is also being developed.
+MarketWatch • 17m ago
 
-WYFF News 4 • 37m ago
+---
+
+**[Watch AI Policy Remains an Open Question at CES](https://www.bloomberg.com/news/videos/2026-01-08/ai-policy-remains-an-open-question-at-ces-video)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -171,21 +177,13 @@ The Washington Post • 1h ago
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
-**[Jeffries to meet with new House Dem AI commission](https://www.politico.com/live-updates/2026/01/08/congress/jeffries-to-meet-with-new-house-dem-ai-working-group-00715720)**
+**[China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus](https://www.nytimes.com/2026/01/08/business/meta-manus-china-ai.html)**
 
-Politico • 6h ago
-
----
-
-**[I'm an AI strategist. Here are 4 things you'll never catch me using AI for](https://www.cnbc.com/2026/01/08/im-an-ai-strategist-here-are-4-things-youll-never-catch-me-using-ai-for.html)**
-
-AI strategist Denise Turley shares the times when she knows it would be "more valuable and effective" to be hands on, rather than use an AI tool.
-
-CNBC • 2h ago
+The New York Times • 9h ago
 
 ---
 
@@ -197,7 +195,15 @@ CNBC • 2h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 834 • 💬 1309 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 836 • 💬 1311 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+
+---
+
+**[Dell admits consumers don't care about AI PCs](https://news.ycombinator.com/item?id=46527706)**
+
+"What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
+
+⬆️ 250 • 💬 165 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -205,7 +211,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 236 • 💬 96 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 236 • 💬 97 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -217,19 +223,25 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 ---
 
-**[Dell admits consumers don't care about AI PCs](https://news.ycombinator.com/item?id=46527706)**
-
-"What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
-
-⬆️ 196 • 💬 127 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
-
----
-
 **[Notion AI: Unpatched data exfiltration](https://news.ycombinator.com/item?id=46531565)**
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 194 • 💬 33 • 23h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 196 • 💬 33 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+
+---
+
+**[IBM AI ('Bob') Downloads and Executes Malware](https://news.ycombinator.com/item?id=46544454)**
+
+IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
+
+⬆️ 151 • 💬 74 • 2h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+
+---
+
+**[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
+
+⬆️ 143 • 💬 34 • 1h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -237,7 +249,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 139 • 💬 75 • 12h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 142 • 💬 77 • 13h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -245,7 +257,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 128 • 💬 169 • 4h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 133 • 💬 174 • 5h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -254,20 +266,6 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
 ⬆️ 124 • 💬 91 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
-
----
-
-**[Boston Dynamics and DeepMind form new AI partnership](https://news.ycombinator.com/item?id=46504966)**
-
-A new robotics partnership aims to combine Boston Dynamics’ athletic intelligence with Google DeepMind’s foundational capabilities
-
-⬆️ 94 • 💬 52 • 2d ago • [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-google-deepmind-form-new-ai-partnership/)
-
----
-
-**[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
-
-⬆️ 81 • 💬 20 • 2d ago
 
 ---
 
@@ -281,7 +279,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 67K • 👍 2K • 💬 115 • ⏱️ 13:08 • 20h ago
+👁️ 67K • 👍 2K • 💬 115 • ⏱️ 13:08 • 21h ago
 
 ---
 
@@ -331,7 +329,7 @@ What happens when AI stops answering questions and starts taking action? In this
 
 📺 Tiff In Tech
 
-👁️ 6K • 👍 309 • 💬 35 • ⏱️ 6:50 • 1d ago
+👁️ 6K • 👍 309 • 💬 35 • ⏱️ 6:50 • 2d ago
 
 ---
 
@@ -387,7 +385,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 557 • 12h ago
+⬇️ 187,937 • ❤️ 557 • 13h ago
 
 ---
 
@@ -662,7 +660,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 127 • 5h ago
+⭐ 2.2k • 🔱 127 • 6h ago
 
 ---
 
@@ -692,7 +690,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 101 • 7h ago
+⭐ 1.2k • 🔱 101 • 8h ago
 
 ---
 
@@ -702,7 +700,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 14h ago
+⭐ 1.2k • 🔱 142 • 15h ago
 
 ---
 
