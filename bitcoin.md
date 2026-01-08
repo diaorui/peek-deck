@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T11:21:38.733888+00:00'
+updated: '2026-01-08T11:43:08.274886+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 11:21 UTC  
+**Last Updated:** January 08, 2026 at 11:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.36B
+**Market Cap:** $1798.48B
 Rank #1
 
-**Circulating Supply:** 19,973,081 BTC
+**Circulating Supply:** 19,973,109 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.6%
 
 **All-Time Low:** $67.81
-+132594.3%
++132654.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ People who bought Bitcoin before the ETFs
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 19h ago
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin dropped by more than 20% during the 2025 fourth quarter.
 
-The Motley Fool • 51m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -253,7 +253,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 22h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 23h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -311,17 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 327 • 💬 167 • ⏱️ 9:41 • 10h ago
-
----
-
-**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
-
-Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 62K • 👍 4K • 💬 360 • ⏱️ 19:29 • 14h ago
+👁️ 6K • 👍 353 • 💬 182 • ⏱️ 9:41 • 11h ago
 
 ---
 
@@ -331,7 +321,17 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 3K • 👍 287 • 💬 32 • ⏱️ 7:28 • 4h ago
+👁️ 5K • 👍 387 • 💬 50 • ⏱️ 7:28 • 5h ago
+
+---
+
+**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
+
+Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 68K • 👍 5K • 💬 377 • ⏱️ 19:29 • 15h ago
 
 ---
 
@@ -341,7 +341,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 14K • 👍 618 • 💬 5 • ⏱️ 43:55 • 13h ago
+👁️ 15K • 👍 673 • 💬 5 • ⏱️ 43:55 • 13h ago
 
 ---
 
@@ -351,7 +351,7 @@ Thanks to iTrustCapital for sponsoring this video. Sign Up With iTrustCapital $1
 
 📺 Dan Gambardello
 
-👁️ 29K • 👍 2K • 💬 315 • ⏱️ 12:06 • 17h ago
+👁️ 30K • 👍 2K • 💬 332 • ⏱️ 12:06 • 17h ago
 
 ---
 
@@ -361,7 +361,7 @@ The market is misreading the MicroStrategy decision. A major downside risk has b
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 2K • 💬 30 • ⏱️ 29:02 • 3h ago
+👁️ 21K • 👍 2K • 💬 31 • ⏱️ 29:02 • 3h ago
 
 ---
 
@@ -371,17 +371,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 415 • 💬 25 • ⏱️ 14:22 • 18h ago
+👁️ 12K • 👍 418 • 💬 25 • ⏱️ 14:22 • 19h ago
 
 ---
 
-**[Morgan Stanley Reveals Big News For Bitcoin, Solana &amp; XRP (top 5 altcoins)](https://www.youtube.com/watch?v=Iw0ZDWCMkkI)**
+**[THESE WHALES ARE DUMPING BITCOIN AGAIN...](https://www.youtube.com/watch?v=z594IVCNR0Y)**
 
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Altcoin Daily
+📺 Satoshi Stacker
 
-👁️ 26K • 👍 2K • 💬 109 • ⏱️ 9:00 • 12h ago
+👁️ 3K • 👍 333 • 💬 35 • ⏱️ 10:03 • 3h ago
 
 ---
 
@@ -391,17 +391,17 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 351 • 💬 20 • ⏱️ 1:29:43 • 13h ago
+👁️ 6K • 👍 362 • 💬 20 • ⏱️ 1:29:43 • 14h ago
 
 ---
 
-**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Analysis](https://www.youtube.com/watch?v=nsf78TMzcKM)**
 
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Library Of Wealth
+📺 KUDA VIBE
 
-👁️ 21K • 👍 728 • 💬 346 • ⏱️ 13:40 • 2d ago
+👁️ 3K • 👍 3K • 38m ago
 
 ---
 

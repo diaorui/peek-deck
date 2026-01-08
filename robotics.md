@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T11:21:38.743244+00:00'
+updated: '2026-01-08T11:43:08.284098+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 11:21 UTC  
+**Last Updated:** January 08, 2026 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ Humanoid robots have been getting a lot of attention lately, with recent demos l
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-14h ago
+15h ago
 
 ---
 
@@ -106,7 +106,7 @@ Here's the construction of the car's control panel that I'll be making later! Th
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -187,7 +187,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 207 • ⏱️ 9:33 • 1d ago
+👁️ 51K • 👍 1K • 💬 209 • ⏱️ 9:33 • 1d ago
 
 ---
 
@@ -197,7 +197,17 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 37K • 👍 957 • 💬 161 • ⏱️ 4:29 • 18h ago
+👁️ 43K • 👍 1K • 💬 184 • ⏱️ 4:29 • 19h ago
+
+---
+
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+
+📺 Technology Now
+
+👁️ 22K • 👍 283 • 💬 14 • ⏱️ 7:38 • 3d ago
 
 ---
 
@@ -211,23 +221,13 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 ---
 
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
-
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
-
-📺 Technology Now
-
-👁️ 22K • 👍 280 • 💬 12 • ⏱️ 7:38 • 3d ago
-
----
-
 **[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
 
 We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
 
 📺 CNET
 
-👁️ 7K • 👍 149 • 💬 63 • ⏱️ 5:07 • 12h ago
+👁️ 9K • 👍 168 • 💬 73 • ⏱️ 5:07 • 12h ago
 
 ---
 
@@ -237,7 +237,17 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 99K • 👍 2K • 💬 271 • ⏱️ 25:02 • 1d ago
+👁️ 101K • 👍 2K • 💬 279 • ⏱️ 25:02 • 1d ago
+
+---
+
+**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
+
+LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
+
+📺 JerryRigEverything
+
+👁️ 75K • 👍 5K • 💬 540 • ⏱️ 7:45 • 10h ago
 
 ---
 
@@ -247,17 +257,17 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 507K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
+👁️ 513K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
 
 ---
 
-**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
+**[Robots Are Fighting at CES 2026 (In 3D VR180)](https://www.youtube.com/watch?v=8z_CAxDwr0Y)**
 
-The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
+Robots are fighting at CES 2026 and you're not just watching… you're inside the action. This immersive 3D VR180 video brings ...
 
-📺 Dip Knows
+📺 Hugh Hou
 
-👁️ 409K • 👍 2K • 💬 14 • ⏱️ 0:24 • 4d ago
+👁️ 972 • 👍 28 • 💬 8 • ⏱️ 10:39 • 13h ago
 
 ---
 
@@ -267,17 +277,7 @@ Hyundai Motor Group and Boston Dynamics brought out their famous Atlas prototype
 
 📺 CNET
 
-👁️ 235K • 👍 4K • 💬 756 • ⏱️ 9:05 • 2d ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 4.4M • 👍 3K • 💬 903 • ⏱️ 0:32 • 4d ago
+👁️ 238K • 👍 4K • 💬 766 • ⏱️ 9:05 • 2d ago
 
 ---
 

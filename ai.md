@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T11:21:38.725312+00:00'
+updated: '2026-01-08T11:43:08.266283+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 11:21 UTC  
+**Last Updated:** January 08, 2026 at 11:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,7 +77,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 I keep noticing how many outdated tech beliefs are still floating around, especially around privacy, batteries, and device performance. Things like: Incognito mode makes you anonymous Macs don’t get malware Charging overnight kills battery health More specs always means faster devices Public WiFi with a password is safe Most of these made sense years ago, but technology has changed a lot. Curious what tech myth you still hear most often?
 
-🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 7h ago
+🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Fortune • 14h ago
 
 Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
 
-Quanta Magazine • 19h ago
+Quanta Magazine • 20h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Wall Street Journal • 18h ago
 
 One of China’s earliest OpenAI rivals expects US artificial intelligence developers to succumb to the same price-based competition that has forced Chinese companies to forgo profits.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -175,7 +175,7 @@ Reuters • 2h ago
 
 Shares of China-backed Zhipu made small gains on their Hong Kong debut, following a $558 million initial public offering.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -259,7 +259,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 90 • 💬 45 • 4h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 90 • 💬 45 • 5h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -279,7 +279,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 46K • 👍 1K • 💬 81 • ⏱️ 13:08 • 12h ago
+👁️ 50K • 👍 1K • 💬 85 • ⏱️ 13:08 • 12h ago
 
 ---
 
@@ -289,7 +289,17 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 976K • 👍 49K • 💬 7K • ⏱️ 17:14 • 16h ago
+👁️ 1.0M • 👍 51K • 💬 7K • ⏱️ 17:14 • 17h ago
+
+---
+
+**[New #1 open-source AI video generator is here! Fast + 4K + audio + low vram](https://www.youtube.com/watch?v=I_b2QN-B1W0)**
+
+LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Best open source video generator. #ai #aitools ...
+
+📺 AI Search
+
+👁️ 36K • 👍 3K • 💬 417 • ⏱️ 38:57 • 8h ago
 
 ---
 
@@ -299,7 +309,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 57K • 👍 2K • 💬 173 • ⏱️ 13:13 • 1d ago
+👁️ 59K • 👍 2K • 💬 175 • ⏱️ 13:13 • 1d ago
 
 ---
 
@@ -313,13 +323,21 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 ---
 
-**[New #1 open-source AI video generator is here! Fast + 4K + audio + low vram](https://www.youtube.com/watch?v=I_b2QN-B1W0)**
+**[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
 
-LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Best open source video generator. #ai #aitools ...
+MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
 
-📺 AI Search
+📺 Hyundai Motor Group
 
-👁️ 27K • 👍 2K • 💬 347 • ⏱️ 38:57 • 8h ago
+👁️ 407K • 👍 142 • 💬 1 • ⏱️ 0:47 • 1d ago
+
+---
+
+**[I bought 2 AI-generated products.. here’s what they REALLY look like. 🥴](https://www.youtube.com/watch?v=oI0urN9aOTk)**
+
+📺 Maggie McGaugh
+
+👁️ 322K • 👍 9K • 💬 168 • ⏱️ 0:47 • 1d ago
 
 ---
 
@@ -333,26 +351,6 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 ---
 
-**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
-
-This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
-
-📺 Tyler Vitelli
-
-👁️ 1.8M • 👍 61K • 💬 4K • ⏱️ 0:10 • 18h ago
-
----
-
-**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
-
-CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
-
-📺 The Laughing Lion
-
-👁️ 99K • 👍 2K • 💬 271 • ⏱️ 25:02 • 1d ago
-
----
-
 **[I Made the Same AI Animation in Every AI Video Generator](https://www.youtube.com/watch?v=AosPAC_GmuY)**
 
 Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡️ https://openart.ai/home/?ref=mira9 Hey friends, ...
@@ -363,11 +361,13 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 ---
 
-**[“AI VIDEOS ARE GETTING TOO GOOD” 😂](https://www.youtube.com/watch?v=b6Fuwd5ZGdo)**
+**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
 
-📺 Bob Reese
+This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
 
-👁️ 706K • 👍 14K • 💬 261 • ⏱️ 0:19 • 19h ago
+📺 Tyler Vitelli
+
+👁️ 1.9M • 👍 65K • 💬 5K • ⏱️ 0:10 • 19h ago
 
 ---
 
@@ -383,7 +383,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 7,287 • ❤️ 664 • 7d ago
+⬇️ 7,287 • ❤️ 669 • 7d ago
 
 ---
 
@@ -395,7 +395,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 501 • 3h ago
+⬇️ 187,937 • ❤️ 513 • 4h ago
 
 ---
 
@@ -407,7 +407,31 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 18,440 • ❤️ 520 • 8d ago
+⬇️ 18,440 • ❤️ 524 • 8d ago
+
+---
+
+**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
+
+*IQuest*
+
+IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
+
+`text-generation` `39.8B`
+
+⬇️ 9,648 • ❤️ 279 • 23h ago
+
+---
+
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+
+*MiniMax*
+
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 200,391 • ❤️ 955 • 11d ago
 
 ---
 
@@ -423,18 +447,6 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 ---
 
-**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
-
-*IQuest*
-
-IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
-
-`text-generation` `39.8B`
-
-⬇️ 9,648 • ❤️ 277 • 23h ago
-
----
-
 **[IQuest-Coder-V1-40B-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct)**
 
 *IQuest*
@@ -443,31 +455,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 4,353 • ❤️ 250 • 5d ago
-
----
-
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
-
-*MiniMax*
-
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 200,391 • ❤️ 949 • 11d ago
-
----
-
-**[Qwen-Image-2512-GGUF](https://huggingface.co/unsloth/Qwen-Image-2512-GGUF)**
-
-*Unsloth AI*
-
-This is a GGUF quantized text-to-image model optimized for performance, capable of generating realistic human subjects, detailed natural scenes, and accurate text rendering. It's primarily used for high-quality image generation with tools like ComfyUI and stable-diffusion.cpp.
-
-`text-to-image` `20.4B`
-
-⬇️ 81,553 • ❤️ 235 • 1d ago
+⬇️ 4,353 • ❤️ 251 • 5d ago
 
 ---
 
@@ -479,7 +467,19 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 3,107 • ❤️ 398 • 2d ago
+⬇️ 3,107 • ❤️ 400 • 2d ago
+
+---
+
+**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
+
+*NVIDIA*
+
+Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
+
+`automatic-speech-recognition`
+
+⬇️ 547 • ❤️ 177 • 2d ago
 
 ---
 
@@ -491,7 +491,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,499 • 7h ago
+⬇️ 38,529 • ❤️ 1,501 • 8h ago
 
 ---
 
@@ -505,7 +505,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 55 • 💬 1 • ⭐ 1,152 • 1d ago
+▲ 56 • 💬 1 • ⭐ 1,152 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -520,18 +520,6 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 ▲ 167 • 💬 5 • ⭐ 2,819 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
-
----
-
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 25,535 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -561,18 +549,15 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
 
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
 
-🏢 IBM Granite
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
 
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+▲ 81 • 💬 2 • ⭐ 25,556 • 8mo ago
 
-▲ 129 • 💬 18 • ⭐ 49,334 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -582,9 +567,24 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 17 • 💬 2 • ⭐ 14,566 • 1mo ago
+▲ 17 • 💬 2 • ⭐ 14,627 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 129 • 💬 18 • ⭐ 49,384 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
 ---
 
@@ -610,23 +610,21 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
 
-▲ 41 • 💬 5 • ⭐ 188 • 4d ago
+▲ 42 • 💬 5 • ⭐ 188 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
 
 ---
 
-**[NitroGen: An Open Foundation Model for Generalist Gaming Agents](https://huggingface.co/papers/2601.02427)**
+**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
 
-*Loïc Magne, Anas Awadalla, Guanzhi Wang et al. (14 authors)*
+*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
 
-🏢 NVIDIA
+LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-NitroGen is a vision-action foundation model trained on extensive gameplay data that demonstrates strong cross-game generalization and effective transfer learning capabilities.
+▲ 175 • 💬 6 • ⭐ 65,223 • 21mo ago
 
-▲ 25 • 💬 2 • ⭐ 1,479 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02427) • [💻 code](https://github.com/MineDojo/NitroGen) • [🔗 project](https://nitrogen.minedojo.org/)
+[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
 ---
 
@@ -640,7 +638,7 @@ NitroGen is a vision-action foundation model trained on extensive gameplay data 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.8k • 🔱 810 • 5h ago
+⭐ 6.9k • 🔱 819 • 4m ago
 
 ---
 
@@ -660,7 +658,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 18h ago
+⭐ 2.1k • 🔱 126 • 19h ago
 
 ---
 
@@ -670,7 +668,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 212 • 3d ago
+⭐ 1.9k • 🔱 213 • 4d ago
 
 ---
 
@@ -680,7 +678,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.2k • 🔱 66 • 15d ago
+⭐ 1.2k • 🔱 67 • 15d ago
 
 ---
 
@@ -690,7 +688,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 97 • 1d ago
+⭐ 1.2k • 🔱 99 • 14m ago
 
 ---
 
@@ -720,17 +718,17 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 987 • 🔱 119 • 2h ago
+⭐ 988 • 🔱 119 • 27m ago
 
 ---
 
-**[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)**
+**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
 
-AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式
+从 0 到 1 学会 vibe coding，项目制学习
 
-`Python`
+`ai` `course` `vibe-coding`
 
-⭐ 940 • 🔱 141 • 2h ago
+⭐ 955 • 🔱 82 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T11:21:38.740005+00:00'
+updated: '2026-01-08T11:43:08.280885+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 11:21 UTC  
+**Last Updated:** January 08, 2026 at 11:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.03B
+**Market Cap:** $375.44B
 Rank #2
 
 **Circulating Supply:** 120,694,767 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.1%
 
 **All-Time Low:** $0.43
-+717110.3%
++718835.6%
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 11K • 👍 692 • 💬 55 • ⏱️ 10:20 • 21h ago
+👁️ 11K • 👍 706 • 💬 57 • ⏱️ 10:20 • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 15K • 👍 616 • 💬 67 • ⏱️ 12:17 • 1d ago
+👁️ 15K • 👍 620 • 💬 68 • ⏱️ 12:17 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 8 • ⏱️ 4:16 • 17h ago
+👁️ 3K • 👍 206 • 💬 8 • ⏱️ 4:16 • 18h ago
 
 ---
 
@@ -262,23 +262,13 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 ---
 
-**[Ethereum Is Rejecting HARD At This Level, Crash Incoming?](https://www.youtube.com/watch?v=M5QNby6YBoc)**
+**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
 
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
 
-📺 Trade Confident
+📺 Thomas Kralow
 
-👁️ 379 • 👍 18 • 💬 11 • ⏱️ 3:54 • 15h ago
-
----
-
-**[Ethereum News🚨: Morgan Stanley Bets On Huge ETH Pump](https://www.youtube.com/watch?v=02XiWeolYEY)**
-
-Ethereum is on the verge of a massive institutional breakout! In today's video, we're diving into the bombshell news that Morgan ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 340 • 💬 8 • ⏱️ 1:08:45 • 18h ago
+👁️ 24K • 👍 3K • 💬 50 • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -288,17 +278,17 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 199 • ⏱️ 19:40 • 14h ago
+👁️ 9K • 👍 312 • 💬 201 • ⏱️ 19:40 • 15h ago
 
 ---
 
-**[BMNR Stock: The Jan 14 Vote That Could Change Everything (Ethereum Treasury Explained)](https://www.youtube.com/watch?v=P49RlD5mqkU)**
+**[Ethereum News🚨: Morgan Stanley Bets On Huge ETH Pump](https://www.youtube.com/watch?v=02XiWeolYEY)**
 
-Is BMNR setting up for a major inflection point — or a volatility trap? BitMine Immersion Technologies (BMNR) has evolved from a ...
+Ethereum is on the verge of a massive institutional breakout! In today's video, we're diving into the bombshell news that Morgan ...
 
-📺 Darren Steves
+📺 Discover Crypto
 
-👁️ 576 • 👍 29 • 💬 8 • ⏱️ 13:54 • 10h ago
+👁️ 6K • 👍 343 • 💬 8 • ⏱️ 1:08:45 • 18h ago
 
 ---
 
@@ -308,17 +298,27 @@ Today we discuss why Ethereum (ETH) has some of the strongest fundamentals from 
 
 📺 Cultivate Crypto
 
-👁️ 792 • 👍 98 • 💬 4 • ⏱️ 2:28:36 • 8h ago
+👁️ 847 • 👍 105 • 💬 4 • ⏱️ 2:28:36 • 8h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: EXTREMELY URGENT UPDATE!!!!!!](https://www.youtube.com/watch?v=XwOC4A8m3ko)**
+**[Tom Lee $250K Long-Term ETH – Why 2026 Starts the Run](https://www.youtube.com/watch?v=O2A1XJiOdWU)**
 
-This is changing the game for bitcoin, ethereum and the rest of crypto and most are not seeing it right now!!!!!! ---------- AI-based ...
+Why does Tom Lee see Ethereum potentially reaching $250000 in the long term? It sounds impossible, until you look at the ...
 
-📺 Thomas Kralow
+📺 NextMove Stocks
 
-👁️ 24K • 👍 3K • 💬 50 • ⏱️ 8:07 • 1d ago
+👁️ 489 • 👍 16 • 💬 2 • ⏱️ 6:53 • 1d ago
+
+---
+
+**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
+
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+
+📺 Library Of Wealth
+
+👁️ 21K • 👍 731 • 💬 328 • ⏱️ 13:40 • 2d ago
 
 ---
 
