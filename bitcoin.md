@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T07:25:52.800594+00:00'
+updated: '2026-01-08T07:46:01.077091+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 07:25 UTC  
+**Last Updated:** January 08, 2026 at 07:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,262.59
+### $90,028.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** +0.4%  
-**30d:** -1.8%  
-**90d:** -18.3%  
-**1y:** -2.2%  
+**24h:** -2.3%  
+**7d:** +0.3%  
+**30d:** -1.7%  
+**90d:** -18.2%  
+**1y:** -2.1%  
 
 ---
 
@@ -77,17 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin after Testing 94k](https://www.reddit.com/r/Bitcoin/comments/1q6y3db/bitcoin_after_testing_94k/)**
+**[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-Q3 was meant to be bullish Q4 was meant to be bullish It’s getting hard to trust
-
-6h ago
+2h ago
 
 ---
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -99,12 +97,6 @@ People who bought Bitcoin before the ETFs
 
 ---
 
-**[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
-
-2h ago
-
----
-
 **[Bitcoin fixes this*](https://www.reddit.com/r/Bitcoin/comments/1q6kwkl/bitcoin_fixes_this/)**
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
@@ -113,9 +105,21 @@ People who bought Bitcoin before the ETFs
 
 ---
 
+**[You open the Bitcoin chart and it’s just… vibes 😂](https://www.reddit.com/r/Bitcoin/comments/1q735l0/you_open_the_bitcoin_chart_and_its_just_vibes/)**
+
+2h ago
+
+---
+
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
 14h ago
+
+---
+
+**[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
+
+5h ago
 
 ---
 
@@ -127,23 +131,17 @@ Once these last longs are liquidated, I bet we rocket past $95k.
 
 ---
 
-**[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
-
-5h ago
-
----
-
 **[I did it.](https://www.reddit.com/r/Bitcoin/comments/1q6snci/i_did_it/)**
 
 I have just bought my first 100$ worth of bitcoin!
 
-9h ago
+10h ago
 
 ---
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -161,15 +159,13 @@ CNBC • 7h ago
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
-**[MSCI Spares MicroStrategy — but the Market’s War Over Its Bitcoin Premium Remains](https://finance.yahoo.com/news/msci-spares-microstrategy-market-war-063933033.html)**
+**[MSCI Backs Off on Crypto-Exclusion Plan But Signals Wider Review](https://www.bloomberg.com/news/articles/2026-01-06/msci-backs-off-on-crypto-exclusion-plan-but-signals-wider-review)**
 
-MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
-
-Yahoo Finance • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -181,33 +177,33 @@ Bitcoin Magazine • 13h ago
 
 ---
 
-**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://www.reuters.com/business/morgan-stanley-files-bitcoin-etf-2026-01-06/)**
 
-If true, the claim could significantly reshape the global bitcoin market.
-
-Yahoo Finance • 13h ago
+Reuters • 1d ago
 
 ---
 
-**[Stanford professor raises $15 million for Babylon, a decentralized protocol to turn Bitcoin into collateral](https://fortune.com/2026/01/07/stanford-professor-raises-15-million-for-babylon/)**
+**[Morgan Stanley files for bitcoin and solana ETFs, deepening crypto push](https://www.coindesk.com/markets/2026/01/06/morgan-stanley-eyes-the-spot-bitcoin-etf-market)**
 
-The startup aims to provide an alternative to platforms like Coinbase and Tether for those seeking to put their Bitcoin to work.
+Wall Street heavyweight files for bitcoin trust amid rising institutional demand.
 
-Fortune • 18h ago
-
----
-
-**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
-
-If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
-
-Bitcoin Magazine • 11h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
+**[How Investors Are Reacting To Morgan Stanley (MS) Launching In-House Bitcoin and Solana Spot Trusts](https://finance.yahoo.com/news/investors-reacting-morgan-stanley-ms-061040915.html)**
 
-Reuters • 2d ago
+Morgan Stanley recently filed S-1 registration statements with the U.S. Securities and Exchange Commission to launch the Morgan Stanley Bitcoin Trust and Morgan Stanley Solana Trust, exchange-traded products designed to track the prices of Bitcoin and Solana and offer regulated crypto exposure to investors. This move makes Morgan Stanley the first major U.S. bank with a large wealth management arm to sponsor its own spot crypto ETFs, signaling a deeper commitment to digital assets and a bid...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Likely to Stall in Q1 2026 as Capital Flows Dry Up, CryptoQuant Says](https://finance.yahoo.com/news/bitcoin-likely-stall-q1-2026-055420587.html)**
+
+CryptoQuant chief executive Ki Young Ju expects Bitcoin to trade sideways through the first quarter of 2026, warning that capital inflows into the asset have slowed as investors rotate back into traditional markets. Key Takeaways: CryptoQuant’s Ki Young Ju expects Bitcoin to trade sideways in early 2026 as capital flows ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -219,11 +215,9 @@ Bloomberg.com • 19h ago
 
 ---
 
-**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
+**[Bitcoin hoarder Strategy reveals $17.44 billion unrealized loss in fourth quarter](https://www.reuters.com/business/bitcoin-hoarder-strategy-reveals-1744-billion-unrealized-loss-fourth-quarter-2026-01-05/)**
 
-Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
-
-abcnews.go.com • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -257,7 +251,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 18h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 19h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -333,7 +327,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 292 • 💬 142 • ⏱️ 9:41 • 6h ago
+👁️ 4K • 👍 292 • 💬 142 • ⏱️ 9:41 • 7h ago
 
 ---
 
@@ -343,7 +337,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 55K • 👍 4K • 💬 345 • ⏱️ 19:29 • 10h ago
+👁️ 55K • 👍 4K • 💬 345 • ⏱️ 19:29 • 11h ago
 
 ---
 
@@ -363,7 +357,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 1K • 👍 133 • 💬 18 • ⏱️ 7:28 • 51m ago
+👁️ 1K • 👍 133 • 💬 18 • ⏱️ 7:28 • 1h ago
 
 ---
 
@@ -373,7 +367,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 414 • 💬 24 • ⏱️ 14:22 • 14h ago
+👁️ 12K • 👍 414 • 💬 24 • ⏱️ 14:22 • 15h ago
 
 ---
 
@@ -383,7 +377,7 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 344 • 💬 19 • ⏱️ 1:29:43 • 9h ago
+👁️ 6K • 👍 344 • 💬 19 • ⏱️ 1:29:43 • 10h ago
 
 ---
 

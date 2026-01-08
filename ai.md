@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T07:25:52.791673+00:00'
+updated: '2026-01-08T07:46:01.068182+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 07:25 UTC  
+**Last Updated:** January 08, 2026 at 07:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,15 +37,15 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
-
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 16h ago
-
----
-
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
 🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 2h ago
+
+---
+
+**[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
+
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 16h ago
 
 ---
 
@@ -57,19 +57,19 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 ---
 
+**[Common Tech Myths That Still Mislead People](https://www.reddit.com/r/artificial/comments/1q7155s/common_tech_myths_that_still_mislead_people/)**
+
+I keep noticing how many outdated tech beliefs are still floating around, especially around privacy, batteries, and device performance. Things like: Incognito mode makes you anonymous Macs don’t get malware Charging overnight kills battery health More specs always means faster devices Public WiFi with a password is safe Most of these made sense years ago, but technology has changed a lot. Curious what tech myth you still hear most often?
+
+🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 4h ago
+
+---
+
 **[App that connects people having the same conversation](https://www.reddit.com/r/artificial/comments/1q6rprm/app_that_connects_people_having_the_same/)**
 
 I’m exploring a design problem around how people find others to talk to about the same thing at the same moment, without relying on forums, tags, or scrolling feeds. Most discussion platforms ask users to choose the right place to post, such as a subreddit, forum, or channel, or to search and scroll through existing threads. This works well for organizing information, but it can be slow and awkward when someone just wants to talk through an idea in real time. The concept I’m exploring is simple: You start any conversation (question, rant, brainstorm, etc.), and an AI instantly connects you with others talking about the same thing — no forums, no tags, just live context-based matching using LLMs. Would this be useful or chaotic? What features or limits would make it work?
 
 10h ago
-
----
-
-**[Common Tech Myths That Still Mislead People](https://www.reddit.com/r/artificial/comments/1q7155s/common_tech_myths_that_still_mislead_people/)**
-
-I keep noticing how many outdated tech beliefs are still floating around, especially around privacy, batteries, and device performance. Things like: Incognito mode makes you anonymous Macs don’t get malware Charging overnight kills battery health More specs always means faster devices Public WiFi with a password is safe Most of these made sense years ago, but technology has changed a lot. Curious what tech myth you still hear most often?
-
-🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 3h ago
 
 ---
 
@@ -125,49 +125,21 @@ Fortune • 10h ago
 
 ---
 
-**[Christopher Caldwell: Here Comes the AI Backlash](https://www.thefp.com/p/christopher-caldwell-here-comes-the)**
+**[Distinct AI Models Seem To Converge On How They Encode Reality](https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/)**
 
-Donald Trump is all in on the transformative technology. The American people? Not so much.
+Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular “Platonic” way to represent the world.
 
-The Free Press • 12h ago
-
----
-
-**[AI to boost copper demand 50% by 2040, but more mines needed to ensure supply, S&P says](https://www.reuters.com/business/energy/ai-boost-copper-demand-50-by-2040-more-mines-needed-ensure-supply-sp-says-2026-01-08/)**
-
-Reuters • 2h ago
+Quanta Magazine • 16h ago
 
 ---
 
-**[Google and Character.AI to Settle Lawsuit Over Teenager’s Death](https://www.nytimes.com/2026/01/07/technology/google-characterai-teenager-lawsuit.html)**
+**[Clean Energy Stocks Extend Rally on AI Demand as Oil Falters](https://www.bloomberg.com/news/articles/2026-01-08/clean-energy-stocks-extend-rally-on-ai-demand-as-oil-falters)**
 
-The New York Times • 8h ago
-
----
-
-**[AI company, Google settle lawsuit over Florida teen's suicide linked to Character.AI chatbot](https://www.cbsnews.com/news/google-settle-lawsuit-florida-teens-suicide-character-ai-chatbot/)**
-
-The terms of the settlement, which was filed in the U.S. District Court in the Middle District of Florida, were not disclosed.
-
-CBS News • 7h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Google and chatbot startup Character.AI are settling lawsuits over teen suicides](https://www.businessinsider.com/google-character-ai-settling-lawsuits-teen-suicides-new-york-texas-2026-1)**
-
-Google and Character.AI have agreed to settle multiple lawsuits over chatbot-linked teen suicides.
-
-Business Insider • 1h ago
-
----
-
-**[The World’s Copper Squeeze Is Set to Intensify on AI and Defense Spending, S&P Says](https://www.bloomberg.com/news/articles/2026-01-08/global-copper-shortage-is-set-to-intensify-on-ai-and-defense-spending-s-p-says)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[AI Is Being Used to Find Valuable Commodities in Our Trash](https://www.wsj.com/business/ai-is-being-used-to-find-valuable-commodities-in-our-trash-6b7de5d7?gaa_at=eafs&gaa_n=AWEtsqe-N-5KYWPhlIKxKcmRA5aMlFV2DhlRtu7iZWqxtc-B3gPbMpX59QJB&gaa_ts=695f53e2&gaa_sig=nqBkBtlsiB8CuMA0ArwXy0CieDiPSf4dV2kv5ArbLbtr6icOnCpTpxqXLlz2p-nnDXidWEE-tbbabOtO9oCg7w%3D%3D)**
+**[AI Is Being Used to Find Valuable Commodities in Our Trash](https://www.wsj.com/business/ai-is-being-used-to-find-valuable-commodities-in-our-trash-6b7de5d7?gaa_at=eafs&gaa_n=AWEtsqdHk8qC46hbWavjkEBQXA3Gfv964tY-ynW6CdRanBBV4IAq53fSE78F&gaa_ts=695f641b&gaa_sig=UnpkP8cKiTd6fTx-4FELIp32IMfLeciaSrjsGHZlm5fM-tHgbu2RXC8f3ojUeiwWw4IAfMPAS1TrIE_4R9ccEA%3D%3D)**
 
 The Wall Street Journal • 14h ago
 
@@ -177,7 +149,7 @@ The Wall Street Journal • 14h ago
 
 Shares of China-backed Zhipu made small gains on their Hong Kong debut, following a $558 million initial public offering.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -185,7 +157,37 @@ CNBC • 2h ago
 
 One of China’s earliest OpenAI rivals expects US artificial intelligence developers to succumb to the same price-based competition that has forced Chinese companies to forgo profits.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Chinese tech firms rise in Hong Kong debut as US-China tech race heats up](https://www.reuters.com/world/asia-pacific/chinese-tech-companies-led-by-zhipu-ai-climb-hong-kong-debut-2026-01-08/)**
+
+Reuters • 4h ago
+
+---
+
+**[Christopher Caldwell: Here Comes the AI Backlash](https://www.thefp.com/p/christopher-caldwell-here-comes-the)**
+
+Donald Trump is all in on the transformative technology. The American people? Not so much.
+
+The Free Press • 12h ago
+
+---
+
+**[Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)**
+
+Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
+
+WIRED • 1d ago
+
+---
+
+**[AI chatbot Grok used to create child sexual abuse imagery, watchdog says](https://www.theguardian.com/technology/2026/jan/08/ai-chatbot-grok-used-to-create-child-sexual-abuse-imagery-watchdog-says)**
+
+Internet Watch Foundation warns Elon Musk-owned AI risks bringing sexualised imagery of children into the mainstream
+
+The Guardian • 1h ago
 
 ---
 
@@ -197,7 +199,7 @@ Bloomberg.com • 5h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 817 • 💬 1263 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 817 • 💬 1266 • 1d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
@@ -213,7 +215,7 @@ When OpenAI released the first version of Sora, I was excited. For years, I'd ha
 
 Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ ... Read more
 
-⬆️ 232 • 💬 375 • 2d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
+⬆️ 232 • 💬 376 • 2d ago • [Cal Newport](https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/)
 
 ---
 
@@ -221,7 +223,7 @@ Exactly one year ago, Sam Altman ​made a bold prediction​: “We believe tha
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 214 • 💬 88 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 217 • 💬 88 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -229,7 +231,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 166 • 💬 101 • 15h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 167 • 💬 102 • 15h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -237,7 +239,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 148 • 💬 18 • 11h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 154 • 💬 19 • 11h ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -259,7 +261,7 @@ A new robotics partnership aims to combine Boston Dynamics’ athletic intellige
 
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 77 • 💬 18 • 1d ago
+⬆️ 78 • 💬 19 • 1d ago
 
 ---
 
@@ -301,7 +303,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 928K • 👍 47K • 💬 7K • ⏱️ 17:14 • 12h ago
+👁️ 928K • 👍 47K • 💬 7K • ⏱️ 17:14 • 13h ago
 
 ---
 
@@ -397,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 479 • 2m ago
+⬇️ 84,353 • ❤️ 479 • 23m ago
 
 ---
 
@@ -493,7 +495,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 34,762 • ❤️ 1,497 • 3h ago
+⬇️ 34,762 • ❤️ 1,497 • 4h ago
 
 ---
 
@@ -662,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 14h ago
+⭐ 2.1k • 🔱 126 • 15h ago
 
 ---
 
@@ -732,7 +734,7 @@ AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈�
 
 `Python`
 
-⭐ 938 • 🔱 139 • 1h ago
+⭐ 938 • 🔱 139 • 2h ago
 
 ---
 

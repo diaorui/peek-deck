@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T07:25:52.806772+00:00'
+updated: '2026-01-08T07:46:01.083509+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 07:25 UTC  
+**Last Updated:** January 08, 2026 at 07:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,140.11
+### $3,116.35
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** -0.2%  
-**30d:** -6.1%  
-**90d:** -17.1%  
-**1y:** -3.3%  
+**24h:** -3.9%  
+**7d:** +0.1%  
+**30d:** -5.8%  
+**90d:** -16.8%  
+**1y:** -3.0%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 9h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 10h ago
 
 ---
 
@@ -160,19 +160,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum (ETH) news: bumps blob capacity ahead of Fusaka upgrade](https://www.coindesk.com/tech/2026/01/08/ethereum-bumps-blob-capacity-as-it-gears-for-fusaka-upgrade)**
-
-Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
-
-CoinDesk • 2h ago
-
----
-
 **[Is Bit Digital's (BTBT) Dual Leadership Quietly Redefining Its Ethereum and AI Infrastructure Strategy?](https://finance.yahoo.com/news/bit-digitals-btbt-dual-leadership-043214896.html)**
 
 In recent months, Bit Digital, led by CEO Samir “Sam” Tabar, has accelerated its push into digital asset infrastructure and more sustainable, efficient Bitcoin mining. An interesting angle is Tabar’s simultaneous leadership of WhiteFiber, an AI and high‑performance computing infrastructure firm, which links Bit Digital’s mining ambitions with broader compute and energy-efficiency trends. We’ll now examine how Tabar’s dual role across Bit Digital and WhiteFiber could reshape the company’s...
 
 Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum (ETH) news: bumps blob capacity ahead of Fusaka upgrade](https://www.coindesk.com/tech/2026/01/08/ethereum-bumps-blob-capacity-as-it-gears-for-fusaka-upgrade)**
+
+Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
+
+CoinDesk • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 10K • 👍 684 • 💬 64 • ⏱️ 10:20 • 17h ago
+👁️ 10K • 👍 684 • 💬 64 • ⏱️ 10:20 • 18h ago
 
 ---
 
@@ -260,7 +260,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 337 • 💬 8 • ⏱️ 1:08:45 • 14h ago
+👁️ 6K • 👍 337 • 💬 8 • ⏱️ 1:08:45 • 15h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 290 • 💬 207 • ⏱️ 19:40 • 10h ago
+👁️ 8K • 👍 290 • 💬 207 • ⏱️ 19:40 • 11h ago
 
 ---
 
@@ -310,7 +310,7 @@ Is BMNR setting up for a major inflection point — or a volatility trap? BitMin
 
 📺 Darren Steves
 
-👁️ 406 • 👍 25 • 💬 6 • ⏱️ 13:54 • 6h ago
+👁️ 406 • 👍 25 • 💬 6 • ⏱️ 13:54 • 7h ago
 
 ---
 

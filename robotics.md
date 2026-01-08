@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T07:25:52.810099+00:00'
+updated: '2026-01-08T07:46:01.086989+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 07:25 UTC  
+**Last Updated:** January 08, 2026 at 07:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,19 +54,7 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-21h ago
-
----
-
-**[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
-
-16h ago
-
----
-
-**[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
-
-20h ago
+22h ago
 
 ---
 
@@ -76,19 +64,9 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 ---
 
-**[Finalizing the controller](https://www.reddit.com/r/robotics/comments/1q6qm4x/finalizing_the_controller/)**
+**[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
-
-10h ago
-
----
-
-**[Robot Arm Lift the Cube in simualtion enviroment](https://www.reddit.com/r/robotics/comments/1q6cetr/robot_arm_lift_the_cube_in_simualtion_enviroment/)**
-
-Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
-
-20h ago
+16h ago
 
 ---
 
@@ -100,13 +78,35 @@ Humanoid robots have been getting a lot of attention lately, with recent demos l
 
 ---
 
+**[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
+
+20h ago
+
+---
+
+**[Finalizing the controller](https://www.reddit.com/r/robotics/comments/1q6qm4x/finalizing_the_controller/)**
+
+Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
+
+11h ago
+
+---
+
+**[Robot Arm Lift the Cube in simualtion enviroment](https://www.reddit.com/r/robotics/comments/1q6cetr/robot_arm_lift_the_cube_in_simualtion_enviroment/)**
+
+Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
+
+20h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -124,9 +124,15 @@ TipRanks • 10h ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqc87_67lKPBrrVAZHPw_wl1_2RmAFbD2TsS4pzu6QivklWjAT10Suge&gaa_ts=695f53e6&gaa_sig=vKIfQkzcAbuq2GhgXsYyTKlCJHLjNyWJydSnrO2CHTlvqvMjwWzhHs-kgbKkaU1Kncl9uwp0CXu3gugLbRTi2w%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqclGYYfrvoelmTGCYRV7VvJpSxT06A2-2wARpD8oq4ETPQVXh7d6NX9&gaa_ts=695f641f&gaa_sig=lXn9MhKw2TczJJL3OMMzh3QkDUKqZfgCsyxUKEjS_vxqCtccdqf1lMbRvotA-T7aHCcVhD0RilaNrQW-7-3TDw%3D%3D)**
 
 The Wall Street Journal • 1d ago
+
+---
+
+**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
+
+Reuters • 1d ago
 
 ---
 
@@ -138,20 +144,9 @@ CTech • 1d ago
 
 ---
 
-**[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
+**[Dancing Isn't Enough: Industry Pushes For Practical Robots](https://www.barrons.com/articles/dancing-isn-t-enough-industry-pushes-for-practical-robots-36bed794?gaa_at=eafs&gaa_n=AWEtsqfNi6Lzi7yLYgMqwiVD8GgOGGJnBEAbMX5pKNsU6mhO9mdv1LZlTxST&gaa_ts=695f641f&gaa_sig=8eNSj3QoD5CykDcHvOMsM8s1j0Ci_hDQV8kXvT2ecYjklY7RpEhCNSAyCDSC8hJaQqJ7jGfdLmhiSdoBnitD2Q%3D%3D)**
 
-Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
-
-TechCrunch • 1d ago
-
----
-
-**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
-
-At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
-people and production.
-
-hyundai.com • 2d ago
+Barron's • 23m ago
 
 ---
 
@@ -159,7 +154,7 @@ hyundai.com • 2d ago
 
 The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
 
-International Federation of Robotics • 52m ago
+International Federation of Robotics • 1h ago
 
 ---
 
@@ -171,11 +166,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
+**[Hyundai Motor Group brings AI Robotics to life at the CES 2026](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-exhibition)**
 
-Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+All CES 2026 visitors who enter Hyundai's on-site exhibition get a fascinating demonstration of smart robotic innovation designed to enhance lives.
 
-Interesting Engineering • 13h ago
+hyundai.com • 1d ago
 
 ---
 
@@ -199,7 +194,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 31K • 👍 819 • 💬 130 • ⏱️ 4:29 • 14h ago
+👁️ 31K • 👍 819 • 💬 130 • ⏱️ 4:29 • 15h ago
 
 ---
 
@@ -279,7 +274,7 @@ Hyundai Motor Group shares its approach to AI Robotics at CES 2026, connecting i
 
 📺 Hyundai Motor Group
 
-👁️ 487K • 👍 42 • 💬 1 • ⏱️ 0:29 • 22h ago
+👁️ 487K • 👍 42 • 💬 1 • ⏱️ 0:29 • 23h ago
 
 ---
 
