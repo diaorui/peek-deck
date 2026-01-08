@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T23:19:22.145982+00:00'
+updated: '2026-01-08T23:40:46.222617+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 23:19 UTC  
+**Last Updated:** January 08, 2026 at 23:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.93B
+**Market Cap:** $375.05B
 Rank #2
 
 **Circulating Supply:** 120,694,767 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.2%
 
 **All-Time Low:** $0.43
-+717440.6%
++717837.8%
 
 ---
 
@@ -94,7 +94,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 **[Polymarket And Delphi Digital Make History With Tradable Research](https://www.reddit.com/r/ethereum/comments/1q7g8gh/polymarket_and_delphi_digital_make_history_with/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 6h ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 7h ago
 
 ---
 
@@ -160,7 +160,7 @@ Decrypt • 3d ago
 
 Crypto speculation has moved from exchanges to brokerage accounts. Spot Ethereum ETFs let investors bet on the second-largest cryptocurrency without managing wallets or private keys. But easy access doesn’t mean you should add Ethereum exposure. What FETH Actually Does Fidelity Ethereum Fund (NYSE:FETH) holds actual Ether tokens and tracks their price. When Ethereum rises or ... Fidelity Let’s You Go Full YOLO On Ethereum, but Should You?
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1h ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -228,17 +228,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 116 • 💬 14 • ⏱️ 11:47 • 10h ago
+👁️ 2K • 👍 118 • 💬 17 • ⏱️ 11:47 • 11h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Sc_bit_dm8I)**
+**[ETH Ethereum $4K Prices INCOMING](https://www.youtube.com/watch?v=DzWB6-6WLkw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 More Crypto Online
+📺 C-Zar Gets Crypto 
 
-👁️ 2K • 👍 166 • 💬 6 • ⏱️ 6:11 • 9h ago
+👁️ 47 • 👍 9 • 💬 22 • ⏱️ 9:03 • 27m ago
 
 ---
 
@@ -252,13 +252,43 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 ---
 
+**[BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B7lBfK36Huc)**
+
+BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 565 • 👍 40 • 💬 12 • ⏱️ 19:16 • 21m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=mM-aiXJDmdk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 280 • 👍 29 • 💬 3 • ⏱️ 8:41 • 29m ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Sc_bit_dm8I)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 174 • 💬 7 • ⏱️ 6:11 • 9h ago
+
+---
+
 **[ETH Is ABOUT TO EXPLODE And ALTCOINS ARE NEXT!!](https://www.youtube.com/watch?v=R9fwVe0163s)**
 
 The crypto market has been rallying over the last few days, and this has everyone wondering which cryptos have the most ...
 
 📺 Coin Bureau Trading
 
-👁️ 12K • 👍 716 • 💬 59 • ⏱️ 10:20 • 1d ago
+👁️ 12K • 👍 720 • 💬 59 • ⏱️ 10:20 • 1d ago
 
 ---
 
@@ -268,37 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 208 • 💬 8 • ⏱️ 4:16 • 1d ago
-
----
-
-**[The &quot;Japan Catalyst&quot;: Why ETH &amp; BitMine Immersion Are Ready to Soar](https://www.youtube.com/watch?v=FSZNtuGi7Ac)**
-
-In this video, we analyze the monumental shift in Japan's cryptocurrency taxation as the country debates moving to a flat 20% ...
-
-📺 CryptoStock Lab
-
-👁️ 2K • 👍 58 • 💬 2 • ⏱️ 14:27 • 1d ago
-
----
-
-**[BITCOIN WARNING: It&#39;s Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4ny16LfS50k)**
-
-BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 331 • 💬 207 • ⏱️ 19:40 • 1d ago
-
----
-
-**[Ethereum Splurge Phase Explained | Trade New Projects NOW #OrangX Bonus](https://www.youtube.com/watch?v=IVytUXOPV4M)**
-
-Ethereum is entering its 'Splurge' phase, an "ethereum purge" designed to drastically lower "ethereum gas fees" and improve ...
-
-📺 ReferCoin Lab
-
-👁️ 3K • ⏱️ 0:34 • 6h ago
+👁️ 3K • 👍 209 • 💬 8 • ⏱️ 4:16 • 1d ago
 
 ---
 
@@ -308,7 +308,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 3K • 💬 144 • ⏱️ 9:50 • 2d ago
+👁️ 59K • 👍 3K • 💬 142 • ⏱️ 9:50 • 2d ago
 
 ---
 
@@ -318,7 +318,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 354 • 💬 7 • ⏱️ 1:08:45 • 1d ago
+👁️ 7K • 👍 355 • 💬 7 • ⏱️ 1:08:45 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T23:19:22.139726+00:00'
+updated: '2026-01-08T23:40:46.216602+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 23:19 UTC  
+**Last Updated:** January 08, 2026 at 23:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1818.81B
+**Market Cap:** $1819.30B
 Rank #1
 
-**Circulating Supply:** 19,973,287 BTC
+**Circulating Supply:** 19,973,328 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.8%
+-27.7%
 
 **All-Time Low:** $67.81
-+134102.9%
++134263.7%
 
 ---
 
@@ -99,7 +99,7 @@ BTC
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -107,7 +107,7 @@ BTC
 
 Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ Central banks reported record-breaking Gold accumulation throughout 2025, but th
 
 Bitcoin mining continued growing after the halving. Miners’ revenue reached $17.2B in 2025, up from $14.7B the year before. Post-halving economics is Bitcoin mining at work, not a bug. Source: @TheBlock__
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bitcoin mining continued growing after the halving. Miners’ revenue reached $1
 
 **[Bitcoin Ashtray / Handmade🎁](https://www.reddit.com/r/Bitcoin/comments/1q7gk1e/bitcoin_ashtray_handmade/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bitcoin mining continued growing after the halving. Miners’ revenue reached $1
 
 I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the best option for me. I am trying to learn more about Bitcoin on YouTube, so I invested $3,000 and plan to invest more. I am not taking big risks; I am just experimenting. Is it good or bad that I am sticking only with Bitcoin? This is not advice seeking Post (just for discussion)
 
-12h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the 
 
 Experts say the next major rally may come only when long-term holders are exhausted, and true institutional capital enters the market.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -305,43 +305,13 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin 2026… Why everyone is WRONG!](https://www.youtube.com/watch?v=GUts2pFuQcs)**
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
 
-Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://youtu.be/CsBco1AJVQE (click)
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
 
-📺 MMCrypto
+📺 Paul Barron Network
 
-👁️ 23K • 👍 2K • 💬 325 • ⏱️ 4:15 • 11h ago
-
----
-
-**[Bitcoin Price Target | What The Charts Reveal](https://www.youtube.com/watch?v=r9ZsA0BSeFo)**
-
-Stay informed with the latest insights on **btc**, focusing on effective **trading strategy** and essential **technical analysis**.
-
-📺 Krown
-
-👁️ 3K • 👍 425 • 💬 149 • ⏱️ 13:56 • 5h ago
-
----
-
-**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
-
-📺 Crypto Crew University
-
-👁️ 28K • 👍 2K • 💬 192 • ⏱️ 17:35 • 9h ago
-
----
-
-**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRus Extra
-
-👁️ 8K • 👍 399 • 💬 319 • ⏱️ 9:41 • 22h ago
+👁️ 12K • 👍 1K • 💬 125 • ⏱️ 16:13 • 3h ago
 
 ---
 
@@ -351,27 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 218 • 💬 26 • ⏱️ 16:32 • 4h ago
-
----
-
-**[IS YOUR BITCOIN SAFE? The HONEST Truth About Quantum Computing](https://www.youtube.com/watch?v=1NdgJ695eM4)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 1K • 👍 220 • 💬 38 • ⏱️ 4:51 • 6h ago
-
----
-
-**[THESE WHALES ARE DUMPING BITCOIN AGAIN...](https://www.youtube.com/watch?v=z594IVCNR0Y)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 9K • 👍 543 • 💬 58 • ⏱️ 10:03 • 15h ago
+👁️ 5K • 👍 338 • 💬 23 • ⏱️ 16:32 • 4h ago
 
 ---
 
@@ -381,27 +331,77 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 734 • 👍 68 • 💬 11 • ⏱️ 10:06 • 5h ago
+👁️ 1K • 👍 116 • 💬 23 • ⏱️ 10:06 • 5h ago
 
 ---
 
-**[THIS IS WHY BITCOIN IS DUMPING...](https://www.youtube.com/watch?v=KKM4cnsfYeM)**
+**[BITCOIN: LIQUIDATIONS COMING!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=rF8oUK1PBzw)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
 
-📺 Crypto Rover
+📺 Road To $1 Million USD
 
-👁️ 10K • 👍 509 • 💬 63 • ⏱️ 7:28 • 16h ago
+👁️ 971 • 👍 116 • 💬 6 • ⏱️ 5:34 • 2h ago
 
 ---
 
-**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
+**[Bitcoin Price Target | What The Charts Reveal](https://www.youtube.com/watch?v=r9ZsA0BSeFo)**
 
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
+Stay informed with the latest insights on **btc**, focusing on effective **trading strategy** and essential **technical analysis**.
 
-📺 Anthony Pompliano
+📺 Krown
 
-👁️ 23K • 👍 896 • 💬 28 • ⏱️ 43:55 • 1d ago
+👁️ 5K • 👍 518 • 💬 223 • ⏱️ 13:56 • 6h ago
+
+---
+
+**[YOU MUST SELF-CUSTODY YOUR BITCOIN NOW BEFORE IT&#39;S TOO LATE!](https://www.youtube.com/watch?v=0NYxgEtcWOs)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 2K • 👍 266 • 💬 46 • ⏱️ 18:38 • 2h ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 34K • 👍 2K • 💬 215 • ⏱️ 17:35 • 9h ago
+
+---
+
+**[Bitcoin 2026… Why everyone is WRONG!](https://www.youtube.com/watch?v=GUts2pFuQcs)**
+
+Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://youtu.be/CsBco1AJVQE (click)
+
+📺 MMCrypto
+
+👁️ 26K • 👍 2K • 💬 423 • ⏱️ 4:15 • 11h ago
+
+---
+
+**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
+
+Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 91K • 👍 6K • 💬 458 • ⏱️ 19:29 • 1d ago
+
+---
+
+**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRus Extra
+
+👁️ 8K • 👍 400 • 💬 319 • ⏱️ 9:41 • 23h ago
 
 ---
 

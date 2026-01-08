@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T23:19:22.130869+00:00'
+updated: '2026-01-08T23:40:46.208043+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 23:19 UTC  
+**Last Updated:** January 08, 2026 at 23:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 7h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 8h ago
 
 ---
 
@@ -71,7 +71,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 6h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 7h ago
 
 ---
 
@@ -245,7 +245,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 156 • 💬 198 • 7h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 156 • 💬 198 • 8h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -281,7 +281,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 71K • 👍 2K • 💬 120 • ⏱️ 13:08 • 1d ago
+👁️ 77K • 👍 2K • 💬 125 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -291,17 +291,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 70K • 👍 2K • 💬 197 • ⏱️ 13:13 • 2d ago
-
----
-
-**[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
-
-Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
-
-📺 CBS News
-
-👁️ 10K • 👍 115 • 💬 56 • ⏱️ 3:21 • 2d ago
+👁️ 73K • 👍 2K • 💬 204 • ⏱️ 13:13 • 2d ago
 
 ---
 
@@ -311,7 +301,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.2M • 👍 58K • 💬 8K • ⏱️ 17:14 • 1d ago
+👁️ 1.2M • 👍 59K • 💬 8K • ⏱️ 17:14 • 1d ago
 
 ---
 
@@ -321,47 +311,17 @@ In this Video I shared how to create Ai Influencer Videos Using Free method. We 
 
 📺 Planet Ai
 
-👁️ 11K • 👍 711 • 💬 45 • ⏱️ 2:57 • 1d ago
+👁️ 12K • 👍 738 • 💬 45 • ⏱️ 2:57 • 1d ago
 
 ---
 
-**[New #1 open-source AI video generator is here! Fast + 4K + audio + low vram](https://www.youtube.com/watch?v=I_b2QN-B1W0)**
+**[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
 
-LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Best open source video generator. #ai #aitools ...
+Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
 
-📺 AI Search
+📺 CBS News
 
-👁️ 69K • 👍 4K • 💬 748 • ⏱️ 38:57 • 20h ago
-
----
-
-**[The Most Important AI Shift Is Happening Right Now](https://www.youtube.com/watch?v=WEXBGMY224I)**
-
-What happens when AI stops answering questions and starts taking action? In this episode, I sit down with Peter Lee, President of ...
-
-📺 Tiff In Tech
-
-👁️ 6K • 👍 313 • 💬 35 • ⏱️ 6:50 • 2d ago
-
----
-
-**[What Happens if AI Becomes President](https://www.youtube.com/watch?v=abxiWwOjBa8)**
-
-Visit https://lumalabs.ai/theinfographicsshow to try Ray 3 Modify In today's episode of The Infographics Show, the future arrives ...
-
-📺 The Infographics Show
-
-👁️ 50K • 👍 1K • 💬 357 • ⏱️ 16:21 • 1d ago
-
----
-
-**[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
-
-MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
-
-📺 Hyundai Motor Group
-
-👁️ 436K • 👍 152 • 💬 2 • ⏱️ 0:47 • 1d ago
+👁️ 10K • 👍 116 • 💬 56 • ⏱️ 3:21 • 2d ago
 
 ---
 
@@ -371,7 +331,47 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 112K • 👍 2K • 💬 308 • ⏱️ 25:02 • 1d ago
+👁️ 114K • 👍 2K • 💬 307 • ⏱️ 25:02 • 1d ago
+
+---
+
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+
+📺 Hyundai Motor Group
+
+👁️ 100K • 👍 100 • 💬 1 • ⏱️ 0:33 • 1d ago
+
+---
+
+**[AI Brings This 1969 Camaro Back to Life in Garnet Red #shorts #viralshorts #automobile](https://www.youtube.com/watch?v=nG0X4hK0gMU)**
+
+Enjoy a full AI ASMR restoration of a 1969 Chevrolet Camaro, perfectly refinished in a deep Garnet Red Metallic. From the dusty ...
+
+📺 Automorph AI
+
+👁️ 729 • 👍 7 • ⏱️ 0:49 • 1h ago
+
+---
+
+**[I Made the Same AI Animation in Every AI Video Generator](https://www.youtube.com/watch?v=AosPAC_GmuY)**
+
+Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡️ https://openart.ai/home/?ref=mira9 Hey friends, ...
+
+📺 Mira AI
+
+👁️ 9K • 💬 10 • ⏱️ 7:28 • 1d ago
+
+---
+
+**[Cursor AI Tutorial for Beginners: Build App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)**
+
+Submit your Cursor app to the App Store: https://mikeyno-code.com/Skool-cursor Join my exclusive newsletter: ...
+
+📺 Mikey No Code
+
+👁️ 6K • ⏱️ 23:08 • 4h ago
 
 ---
 
@@ -387,7 +387,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 572 • 15h ago
+⬇️ 187,937 • ❤️ 587 • 16h ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 18,440 • ❤️ 530 • 8d ago
+⬇️ 18,440 • ❤️ 533 • 8d ago
 
 ---
 
@@ -423,7 +423,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 9,648 • ❤️ 288 • 1d ago
+⬇️ 9,648 • ❤️ 290 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,233 • ❤️ 433 • 2d ago
+⬇️ 3,233 • ❤️ 434 • 2d ago
 
 ---
 
@@ -471,7 +471,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 547 • ❤️ 204 • 2d ago
+⬇️ 547 • ❤️ 206 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 4,203 • ❤️ 181 • 1d ago
+⬇️ 4,203 • ❤️ 184 • 1d ago
 
 ---
 
@@ -527,20 +527,6 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 ---
 
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
-
-*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
-
-🏢 Microsoft Research
-
-BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
-
-▲ 57 • 💬 5 • ⭐ 25,564 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
-
----
-
 **[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
 *Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
@@ -562,6 +548,20 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 ▲ 81 • 💬 2 • ⭐ 25,583 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
+**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
+
+*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
+
+🏢 Microsoft Research
+
+BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
+
+▲ 57 • 💬 5 • ⭐ 25,590 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -592,20 +592,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)**
-
-*Xu Guo, Fulong Ye, Xinghui Li et al. (9 authors)*
-
-🏢 ByteDance
-
-A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
-
-▲ 43 • 💬 5 • ⭐ 277 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
-
----
-
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -617,6 +603,20 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 ▲ 141 • 💬 6 • ⭐ 20,091 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)**
+
+*Xu Guo, Fulong Ye, Xinghui Li et al. (9 authors)*
+
+🏢 ByteDance
+
+A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
+
+▲ 43 • 💬 5 • ⭐ 293 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
 
 ---
 
@@ -643,7 +643,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.1k • 🔱 842 • 5h ago
+⭐ 7.1k • 🔱 846 • 6h ago
 
 ---
 
@@ -663,7 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 127 • 9h ago
+⭐ 2.2k • 🔱 126 • 9h ago
 
 ---
 
@@ -673,7 +673,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 213 • 4d ago
+⭐ 1.9k • 🔱 214 • 4d ago
 
 ---
 
@@ -723,7 +723,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 92 • 5h ago
+⭐ 1.1k • 🔱 93 • 6h ago
 
 ---
 
@@ -733,7 +733,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 995 • 🔱 120 • 9h ago
+⭐ 994 • 🔱 120 • 10h ago
 
 ---
 

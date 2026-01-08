@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T23:19:22.149443+00:00'
+updated: '2026-01-08T23:40:46.225841+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 23:19 UTC  
+**Last Updated:** January 08, 2026 at 23:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -46,7 +46,7 @@ Robotics research and industry news
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ Recently graduated with 1 year experience(Intern). Do I have chance of landing j
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 2d ago
 
 Serve Robotics had an incredible news week.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -158,7 +158,7 @@ MarketBeat • 7h ago
 
 Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -188,7 +188,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 215 • ⏱️ 9:33 • 2d ago
+👁️ 55K • 👍 1K • 💬 216 • ⏱️ 9:33 • 2d ago
 
 ---
 
@@ -198,27 +198,37 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 86K • 👍 2K • 💬 321 • ⏱️ 4:29 • 1d ago
+👁️ 99K • 👍 2K • 💬 338 • ⏱️ 4:29 • 1d ago
 
 ---
 
-**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
+**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
 
-LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
+CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
 
-📺 JerryRigEverything
+📺 CNBC Television
 
-👁️ 129K • 👍 7K • 💬 724 • ⏱️ 7:45 • 22h ago
+👁️ 8K • 👍 73 • 💬 19 • ⏱️ 2:58 • 2d ago
 
 ---
 
-**[SharpaWave&#39;s Crazy Robotic Hands #ces2026 #robotics #airobot #ai #humanoidrobot](https://www.youtube.com/watch?v=mgrs7nkQHgU)**
+**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
 
-Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with its new humanoid robot and its highly ...
+CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
 
-📺 Kalil 4.0
+📺 The Laughing Lion
 
-👁️ 566 • 👍 18 • ⏱️ 0:48 • 5h ago
+👁️ 114K • 👍 2K • 💬 307 • ⏱️ 25:02 • 1d ago
+
+---
+
+**[Atlas Has Left the Lab! In-Person Demo of Boston Dynamics Humanoid | What The Future](https://www.youtube.com/watch?v=q2rR_aXjqnI)**
+
+Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where it showcased autonomy, teleoperation, and how ...
+
+📺 CNET
+
+👁️ 67K • 👍 1K • 💬 251 • ⏱️ 4:01 • 10h ago
 
 ---
 
@@ -232,43 +242,13 @@ Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in La
 
 ---
 
-**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
+**[SharpaWave&#39;s Crazy Robotic Hands #ces2026 #robotics #airobot #ai #humanoidrobot](https://www.youtube.com/watch?v=mgrs7nkQHgU)**
 
-CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
+Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with its new humanoid robot and its highly ...
 
-📺 CNBC Television
+📺 Kalil 4.0
 
-👁️ 7K • 👍 73 • 💬 18 • ⏱️ 2:58 • 2d ago
-
----
-
-**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
-
-CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
-
-📺 The Laughing Lion
-
-👁️ 112K • 👍 2K • 💬 308 • ⏱️ 25:02 • 1d ago
-
----
-
-**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
-
-I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
-
-📺 mryeester
-
-👁️ 34K • 👍 2K • 💬 90 • ⏱️ 0:39 • 5h ago
-
----
-
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
-
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
-
-📺 Technology Now
-
-👁️ 22K • 👍 292 • 💬 15 • ⏱️ 7:38 • 4d ago
+👁️ 844 • 👍 28 • ⏱️ 0:48 • 6h ago
 
 ---
 
@@ -278,7 +258,27 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 552K • 👍 11K • 💬 2K • ⏱️ 7:00 • 3d ago
+👁️ 565K • 👍 12K • 💬 2K • ⏱️ 7:00 • 3d ago
+
+---
+
+**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
+
+LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
+
+📺 JerryRigEverything
+
+👁️ 140K • 👍 7K • 💬 755 • ⏱️ 7:45 • 22h ago
+
+---
+
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+
+📺 Technology Now
+
+👁️ 23K • 👍 292 • 💬 15 • ⏱️ 7:38 • 4d ago
 
 ---
 
