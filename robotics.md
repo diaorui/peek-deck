@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T05:26:29.079829+00:00'
+updated: '2026-01-08T05:49:15.672285+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 05:26 UTC  
+**Last Updated:** January 08, 2026 at 05:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,13 +54,13 @@ Robotics research and industry news
 
 From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2008698411512647705
 
-19h ago
+20h ago
 
 ---
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -90,7 +90,7 @@ Environment Description The Franka lift cube task environment is built based on 
 
 I am building a robot simulator that can take your Arduino code, CAD files, circuit connection, and then simulate the robot with physics as if it is actually built. A working version for the Furuta pendulum is demo-ed above. I think it has the potential to save a lot of time, money and space when developing a robot. Still require some manual work to import the robot design, and I have a more detailed description of the project in this substack post: https://substack.com/@lijay/p-182517313 Code for different parts of this project are all open-source if you are interested: Physics engine: https://github.com/one-for-all/gorilla-physics Arduino & motor & sensor simulator: https://github.com/one-for-all/avr8rs Furuta pendulum: https://github.com/one-for-all/furuta-sim If you want to follow future developments of this project, you can join this discord channel: https://discord.gg/p4DfNWac You can also vote for what you want to see next with this google form: https://forms.gle/5QSyYBBi7GCGRt5CA Otherwise, Happy New Year!
 
-13h ago
+14h ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi I am building a robot using esp 32 S3 and my I have chosen lcd ST7789 TFT for
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 5h ago
+Reuters • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 22K • 👍 699 • 💬 111 • ⏱️ 4:29 • 12h ago
+👁️ 22K • 👍 699 • 💬 111 • ⏱️ 4:29 • 13h ago
 
 ---
 
@@ -271,7 +271,7 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 86K • 👍 2K • 💬 245 • ⏱️ 25:02 • 22h ago
+👁️ 86K • 👍 2K • 💬 245 • ⏱️ 25:02 • 23h ago
 
 ---
 

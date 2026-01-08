@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T05:26:29.076444+00:00'
+updated: '2026-01-08T05:49:15.668993+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 05:26 UTC  
+**Last Updated:** January 08, 2026 at 05:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 7h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 8h ago
 
 ---
 
@@ -98,7 +98,7 @@ PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments a
 
 **[🛡️ Web3 Security in 2025: Losses of $2.54 Billion](https://www.reddit.com/r/ethereum/comments/1q6752d/web3_security_in_2025_losses_of_254_billion/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 53m ago
 
 In recent months, Bit Digital, led by CEO Samir “Sam” Tabar, has accelerated its push into digital asset infrastructure and more sustainable, efficient Bitcoin mining. An interesting angle is Tabar’s simultaneous leadership of WhiteFiber, an AI and high‑performance computing infrastructure firm, which links Bit Digital’s mining ambitions with broader compute and energy-efficiency trends. We’ll now examine how Tabar’s dual role across Bit Digital and WhiteFiber could reshape the company’s...
 
-Yahoo Finance • 19m ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -228,7 +228,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 10K • 👍 719 • 💬 62 • ⏱️ 10:20 • 15h ago
+👁️ 10K • 👍 719 • 💬 62 • ⏱️ 10:20 • 16h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 271 • 💬 206 • ⏱️ 19:40 • 8h ago
+👁️ 6K • 👍 271 • 💬 206 • ⏱️ 19:40 • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 409 • 💬 8 • ⏱️ 1:08:45 • 12h ago
+👁️ 6K • 👍 409 • 💬 8 • ⏱️ 1:08:45 • 13h ago
 
 ---
 
@@ -298,7 +298,7 @@ Is BMNR setting up for a major inflection point — or a volatility trap? BitMin
 
 📺 Darren Steves
 
-👁️ 186 • 👍 18 • 💬 6 • ⏱️ 13:54 • 4h ago
+👁️ 186 • 👍 18 • 💬 6 • ⏱️ 13:54 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ Welcome back ladies and gentlemen for another epic ripple XRP video! Become A Pa
 
 📺 AllinCrypto
 
-👁️ 6K • 👍 418 • 💬 126 • ⏱️ 11:33 • 10h ago
+👁️ 6K • 👍 418 • 💬 126 • ⏱️ 11:33 • 11h ago
 
 ---
 

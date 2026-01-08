@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T05:26:29.070350+00:00'
+updated: '2026-01-08T05:49:15.662904+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 05:26 UTC  
+**Last Updated:** January 08, 2026 at 05:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ Once these last longs are liquidated, I bet we rocket past $95k.
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -131,7 +131,7 @@ Once these last longs are liquidated, I bet we rocket past $95k.
 
 I have just bought my first 100$ worth of bitcoin!
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ THEY ARE TELLING US . BUCKLE UP 🚀
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-23m ago
+46m ago
 
 ---
 
@@ -165,13 +165,13 @@ CNBC • 5h ago
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 16h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 17h ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -321,7 +321,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 533 • 💬 25 • ⏱️ 14:22 • 12h ago
+👁️ 11K • 👍 533 • 💬 25 • ⏱️ 14:22 • 13h ago
 
 ---
 
@@ -331,7 +331,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 3K • 💬 309 • ⏱️ 19:29 • 8h ago
+👁️ 46K • 👍 3K • 💬 309 • ⏱️ 19:29 • 9h ago
 
 ---
 
@@ -381,7 +381,7 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 344 • 💬 20 • ⏱️ 1:29:43 • 7h ago
+👁️ 6K • 👍 344 • 💬 20 • ⏱️ 1:29:43 • 8h ago
 
 ---
 
@@ -391,7 +391,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 14K • 👍 939 • 💬 76 • ⏱️ 7:10 • 15h ago
+👁️ 14K • 👍 939 • 💬 76 • ⏱️ 7:10 • 16h ago
 
 ---
 

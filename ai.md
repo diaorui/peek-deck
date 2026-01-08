@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T05:26:29.061699+00:00'
+updated: '2026-01-08T05:49:15.654318+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 05:26 UTC  
+**Last Updated:** January 08, 2026 at 05:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,7 +45,7 @@ AI news, discussions, and developments
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 23m ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 46m ago
 
 ---
 
@@ -69,7 +69,7 @@ I’m exploring a design problem around how people find others to talk to about 
 
 I keep noticing how many outdated tech beliefs are still floating around, especially around privacy, batteries, and device performance. Things like: Incognito mode makes you anonymous Macs don’t get malware Charging overnight kills battery health More specs always means faster devices Public WiFi with a password is safe Most of these made sense years ago, but technology has changed a lot. Curious what tech myth you still hear most often?
 
-🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 1h ago
+🔗 [techputs](https://techputs.com/tech-myths-everyone-still-believes/) • 2h ago
 
 ---
 
@@ -101,7 +101,7 @@ Which tool do you use to create AI images? I tried Microsoft Designer website bu
 
 Many people grew up with subpar educators and terrible google results. Few have the time or capacity to read research papers. We have a $20/mo superhuman assistant that is getting billions of dollars of funding to constantly improve accuracy. This is a massive upgrade for everyone's learning. Those who proudly proclaim they aren't "dumbing themselves down with AI" are intellectual elitists drinking copium as the world catches up and passes them.
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ Quanta Magazine • 14h ago
 
 Shares of China-backed Zhipu made small gains on their Hong Kong debut, following a $558 million initial public offering.
 
-CNBC • 56m ago
+CNBC • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 6h ago
 
 The terms of the settlement, which was filed in the U.S. District Court in the Middle District of Florida, were not disclosed.
 
-CBS News • 5h ago
+CBS News • 6h ago
 
 ---
 
@@ -233,7 +233,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 163 • 💬 100 • 13h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 163 • 💬 100 • 14h ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -315,7 +315,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 834K • 👍 44K • 💬 6K • ⏱️ 17:14 • 10h ago
+👁️ 834K • 👍 44K • 💬 6K • ⏱️ 17:14 • 11h ago
 
 ---
 
@@ -373,7 +373,7 @@ Try Manus AI free → Get 1000 credits using my link: https://manus.im/redeem?c=
 
 📺 WorldofAI
 
-👁️ 9K • 👍 240 • 💬 26 • ⏱️ 12:11 • 23h ago
+👁️ 9K • 👍 240 • 💬 26 • ⏱️ 12:11 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 84,353 • ❤️ 461 • 17h ago
+⬇️ 84,353 • ❤️ 461 • 18h ago
 
 ---
 
@@ -497,7 +497,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 34,762 • ❤️ 1,494 • 1h ago
+⬇️ 34,762 • ❤️ 1,494 • 2h ago
 
 ---
 
@@ -666,7 +666,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 12h ago
+⭐ 2.1k • 🔱 126 • 13h ago
 
 ---
 
@@ -706,7 +706,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 22h ago
+⭐ 1.2k • 🔱 142 • 23h ago
 
 ---
 
@@ -726,7 +726,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 983 • 🔱 119 • 4h ago
+⭐ 983 • 🔱 119 • 5h ago
 
 ---
 
