@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T20:48:44.397629+00:00'
+updated: '2026-01-08T21:22:49.296432+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 20:48 UTC  
+**Last Updated:** January 08, 2026 at 21:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.35B
+**Market Cap:** $374.93B
 Rank #2
 
 **Circulating Supply:** 120,694,767 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.2%
 
 **All-Time Low:** $0.43
-+718415.2%
++717440.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Youtube and X. Friday Jan. 9th - 2pmET - "Blockchain and Belief" - Princeton Professors Roundtable tl:dr: Go to dailydoots.com and subscribe wherever you get your podcasts. This is a discussion about all things money, blockchain, religion, economics, and even a dash of the occult. We have some INCREDIBLE guests lined up from DeCenter of Princeton University led by Dr. Michael Maizels. Guests have wide ranging accolades from Dartmouth, Princeton, Yale, Geneva and more. I had the opportunity to be a guest at DeCenter/Princeton's "Blockchain and Belief" Conference back in November and had the privilege to represent our r/ethereum and EVMavericks community with a deep dive on our Daily Doots system and our history of Hodlercons, Culture, Memes, and More. I promise...we're definitely not a cult.....definitely. If you missed it, this was my presentation at Princeton: https://youtu.be/0lLC9AJg6s0 Got questions? Ask em right here on this thread! Carolyn Biltoft Carolyn Biltoft holds a PhD from Princeton University and is an Associate Professor of International History and Politics at the Geneva Graduate Institute. Carolyn writes and writes on the relationship between the history of epistemology and economic thought since the 18th century. Her acclaimed book A Violent Peace: Truth, Media and Power at the League of Nations explores media, propaganda, and truth claims in early global institutions and contains a chapter on counterfeit currency in the age of fascism. Carolyn is a founding editor of Capitalism: a journal of history and economics https://www.pennpress.org/journals/journal/capitalism/ Andrew Chignell Andrew Chignell is a professor at Princeton University's Center for Human Values, with appointments in Religion and Philosophy. His research spans Kant, philosophy of religion, ethics of belief, and topics like hope and despair. Recently, he has directed the Princeton Project in Philosophy and Religion and led efforts for a major cross-disciplinary grant on optimism, pessimism, hope, and despair. chignell.net Devin P. Singh Devin P. Singh holds a PhD from Yale University and is an Associate Professor of Religion at Dartmouth College. His work examines intersections of Christian thought with economy, politics, money, and secularization. Recent publications include the book Economy and Modern Christian Thought and an ongoing project on the religious and social roles of debt. devinsingh.com Gordon Grant is a seasoned cryptocurrency trader and derivatives expert. Graduating from Princeton University with a focus on econometrics and quantitative finance, he built his early career as a derivatives portfolio manager before he discovered Bitcoin in 2013 and made a full pivot to digital assets, He played a pivotal role at Genesis Trading from 2019 to 2023 and Today Gordon serves as Principal at ChiSquared Technologies Mike W Maizels Mike Maizels (Michael Maizels) is the Executive Director of Princeton University's DeCenter for blockchain and decentralization research. With a background in interdisciplinary technology and societal change, he leads efforts to advance education, research, and policy around blockchain's potential to shift power structures. He co-directs major events like the DeCenter's annual Spring Conference on decentralization's infrastructure and implications. decenter.princeton.edu
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 **[Lost Your Validator Mnemonic? A Community Proposal to Recover BLS-Locked ETH](https://www.reddit.com/r/ethereum/comments/1q7b9ce/lost_your_validator_mnemonic_a_community_proposal/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -144,7 +144,7 @@ PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments a
 
 **[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 2d ago
 
 Cyvers flags a suspected $26 million Ethereum transaction linked to Truebit Protocol, as questions emerge over a potential security breach.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -198,7 +198,7 @@ CNBC • 3d ago
 
 Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -228,7 +228,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 105 • 💬 13 • ⏱️ 11:47 • 8h ago
+👁️ 2K • 👍 116 • 💬 14 • ⏱️ 11:47 • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 150 • 💬 6 • ⏱️ 6:11 • 6h ago
+👁️ 2K • 👍 166 • 💬 6 • ⏱️ 6:11 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 15K • 👍 633 • 💬 71 • ⏱️ 12:17 • 1d ago
+👁️ 15K • 👍 636 • 💬 73 • ⏱️ 12:17 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 11K • 👍 715 • 💬 59 • ⏱️ 10:20 • 1d ago
+👁️ 12K • 👍 716 • 💬 59 • ⏱️ 10:20 • 1d ago
 
 ---
 
@@ -268,7 +268,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 208 • 💬 7 • ⏱️ 4:16 • 1d ago
+👁️ 3K • 👍 208 • 💬 8 • ⏱️ 4:16 • 1d ago
+
+---
+
+**[The &quot;Japan Catalyst&quot;: Why ETH &amp; BitMine Immersion Are Ready to Soar](https://www.youtube.com/watch?v=FSZNtuGi7Ac)**
+
+In this video, we analyze the monumental shift in Japan's cryptocurrency taxation as the country debates moving to a flat 20% ...
+
+📺 CryptoStock Lab
+
+👁️ 2K • 👍 58 • 💬 2 • ⏱️ 14:27 • 23h ago
+
+---
+
+**[BITCOIN WARNING: It&#39;s Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4ny16LfS50k)**
+
+BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 331 • 💬 207 • ⏱️ 19:40 • 1d ago
+
+---
+
+**[Ethereum Splurge Phase Explained | Trade New Projects NOW #OrangX Bonus](https://www.youtube.com/watch?v=IVytUXOPV4M)**
+
+Ethereum is entering its 'Splurge' phase, an "ethereum purge" designed to drastically lower "ethereum gas fees" and improve ...
+
+📺 ReferCoin Lab
+
+👁️ 3K • ⏱️ 0:34 • 4h ago
 
 ---
 
@@ -282,43 +312,13 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Reach out: https://
 
 ---
 
-**[BITCOIN WARNING: It&#39;s Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4ny16LfS50k)**
-
-BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 330 • 💬 212 • ⏱️ 19:40 • 1d ago
-
----
-
-**[Ethereum Splurge Phase Explained | Trade New Projects NOW #OrangX Bonus](https://www.youtube.com/watch?v=IVytUXOPV4M)**
-
-Ethereum is entering its 'Splurge' phase, an "ethereum purge" designed to drastically lower "ethereum gas fees" and improve ...
-
-📺 ReferCoin Lab
-
-👁️ 3K • ⏱️ 0:34 • 3h ago
-
----
-
 **[Ethereum News🚨: Morgan Stanley Bets On Huge ETH Pump](https://www.youtube.com/watch?v=02XiWeolYEY)**
 
 Ethereum is on the verge of a massive institutional breakout! In today's video, we're diving into the bombshell news that Morgan ...
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 352 • 💬 8 • ⏱️ 1:08:45 • 1d ago
-
----
-
-**[The &quot;Japan Catalyst&quot;: Why ETH &amp; BitMine Immersion Are Ready to Soar](https://www.youtube.com/watch?v=FSZNtuGi7Ac)**
-
-In this video, we analyze the monumental shift in Japan's cryptocurrency taxation as the country debates moving to a flat 20% ...
-
-📺 CryptoStock Lab
-
-👁️ 2K • 👍 58 • 💬 2 • ⏱️ 14:27 • 22h ago
+👁️ 7K • 👍 354 • 💬 7 • ⏱️ 1:08:45 • 1d ago
 
 ---
 

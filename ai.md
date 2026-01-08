@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T20:48:44.383281+00:00'
+updated: '2026-01-08T21:22:49.281764+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 20:48 UTC  
+**Last Updated:** January 08, 2026 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 8h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 9h ago
 
 ---
 
@@ -57,13 +57,13 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Tailwind's CEO said that while AI made the web tool more popular, it also led to cratering revenue and difficulty converting paid users.
 
-🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 3h ago
 
 ---
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 15h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 16h ago
 
 ---
 
@@ -71,7 +71,7 @@ Tailwind's CEO said that while AI made the web tool more popular, it also led to
 
 Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup of the best AI links and the discussions around them from Hacker News. See below 5/35 links shared in this issue: US Job Openings Decline to Lowest Level in More Than a Year - HN link Why didn't AI “join the workforce” in 2025? - HN link The suck is why we're here - HN link The creator of Claude Code's Claude setup - HN link AI misses nearly one-third of breast cancers, study finds - HN link If you enjoy such content, please consider subscribing to the newsletter here: https://hackernewsai.com/
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey everyone, I just sent issue #15 of the Hacker New AI newsletter, a roundup o
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5h ago
 
 ---
 
@@ -99,7 +99,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 9h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 10h ago
 
 ---
 
@@ -107,7 +107,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-14h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 7h ago
+blog.google • 8h ago
 
 ---
 
@@ -127,7 +127,7 @@ blog.google • 7h ago
 
 New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
 
-WIRED • 7h ago
+WIRED • 8h ago
 
 ---
 
@@ -135,7 +135,7 @@ WIRED • 7h ago
 
 Google is souping up Gmail with features from its Gemini 3 AI app. Here's what to know — including how to opt out.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ CBS News • 1h ago
 
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -151,13 +151,13 @@ Fortune • 23h ago
 
 Artificial intelligence took center stage at this year's CES gadget show, but not always for the right reasons. On Thursday, the “Worst in Show” awards highlighted products seen as invasive, fragile or wasteful. Samsung's “Bespoke AI Family Hub” fridge was criticized for its complexity and poor v...
 
-WRAL • 43m ago
+WRAL • 1h ago
 
 ---
 
 **[Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026](https://www.marketwatch.com/story/why-alphabets-stock-can-further-reign-as-king-of-the-ai-trade-in-2026-18bedf6f?gaa_at=eafs&gaa_n=AWEtsqeUbVeGuYlikYlhvSnNItIcaGLtZ_Dsi4NXublWmTaIuljtnGiarqSQ&gaa_ts=696016a4&gaa_sig=z8iqjH8tuxR6VMgoEzI2jmL19G8I499o7b3a_zO80Bcr_H7c5guC1jgVxGhxhiaZPe0Sq_nz8354yRxp1TSajQ%3D%3D)**
 
-MarketWatch • 38m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1h ago
 
 **[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Washington Post • 2h ago
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
 **[China Is Investigating Meta’s Acquisition of the AI Start-Ip Manus](https://www.nytimes.com/2026/01/08/business/meta-manus-china-ai.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -235,13 +235,13 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 151 • 💬 74 • 2h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 151 • 💬 74 • 3h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 143 • 💬 34 • 1h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 143 • 💬 34 • 2h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -257,7 +257,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 133 • 💬 174 • 5h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 133 • 💬 174 • 6h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -279,7 +279,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 67K • 👍 2K • 💬 115 • ⏱️ 13:08 • 21h ago
+👁️ 71K • 👍 2K • 💬 120 • ⏱️ 13:08 • 22h ago
 
 ---
 
@@ -289,17 +289,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 68K • 👍 2K • 💬 190 • ⏱️ 13:13 • 2d ago
-
----
-
-**[Free Method To Create Realistic Ai Influencer Videos](https://www.youtube.com/watch?v=E3UvlDqJppo)**
-
-In this Video I shared how to create Ai Influencer Videos Using Free method. We Used nano banana pro and wan 2.2 motion ...
-
-📺 Planet Ai
-
-👁️ 10K • 👍 681 • 💬 44 • ⏱️ 2:57 • 1d ago
+👁️ 70K • 👍 2K • 💬 197 • ⏱️ 13:13 • 2d ago
 
 ---
 
@@ -309,7 +299,7 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 10K • 👍 113 • 💬 56 • ⏱️ 3:21 • 2d ago
+👁️ 10K • 👍 115 • 💬 56 • ⏱️ 3:21 • 2d ago
 
 ---
 
@@ -319,7 +309,27 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.2M • 👍 57K • 💬 8K • ⏱️ 17:14 • 1d ago
+👁️ 1.2M • 👍 58K • 💬 8K • ⏱️ 17:14 • 1d ago
+
+---
+
+**[Free Method To Create Realistic Ai Influencer Videos](https://www.youtube.com/watch?v=E3UvlDqJppo)**
+
+In this Video I shared how to create Ai Influencer Videos Using Free method. We Used nano banana pro and wan 2.2 motion ...
+
+📺 Planet Ai
+
+👁️ 11K • 👍 711 • 💬 45 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[New #1 open-source AI video generator is here! Fast + 4K + audio + low vram](https://www.youtube.com/watch?v=I_b2QN-B1W0)**
+
+LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Best open source video generator. #ai #aitools ...
+
+📺 AI Search
+
+👁️ 69K • 👍 4K • 💬 748 • ⏱️ 38:57 • 18h ago
 
 ---
 
@@ -329,27 +339,7 @@ What happens when AI stops answering questions and starts taking action? In this
 
 📺 Tiff In Tech
 
-👁️ 6K • 👍 309 • 💬 35 • ⏱️ 6:50 • 2d ago
-
----
-
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
-
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
-
-📺 Hyundai Motor Group
-
-👁️ 100K • 👍 99 • 💬 1 • ⏱️ 0:33 • 1d ago
-
----
-
-**[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
-
-MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
-
-📺 Hyundai Motor Group
-
-👁️ 435K • 👍 152 • 💬 2 • ⏱️ 0:47 • 1d ago
+👁️ 6K • 👍 313 • 💬 35 • ⏱️ 6:50 • 2d ago
 
 ---
 
@@ -359,17 +349,27 @@ Visit https://lumalabs.ai/theinfographicsshow to try Ray 3 Modify In today's epi
 
 📺 The Infographics Show
 
-👁️ 49K • 👍 1K • 💬 357 • ⏱️ 16:21 • 1d ago
+👁️ 50K • 👍 1K • 💬 357 • ⏱️ 16:21 • 1d ago
 
 ---
 
-**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
+**[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
 
-This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
+MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
 
-📺 Tyler Vitelli
+📺 Hyundai Motor Group
 
-👁️ 2.2M • 👍 74K • 💬 5K • ⏱️ 0:10 • 1d ago
+👁️ 436K • 👍 152 • 💬 2 • ⏱️ 0:47 • 1d ago
+
+---
+
+**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
+
+CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
+
+📺 The Laughing Lion
+
+👁️ 112K • 👍 2K • 💬 308 • ⏱️ 25:02 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 557 • 13h ago
+⬇️ 187,937 • ❤️ 572 • 13h ago
 
 ---
 
@@ -397,7 +397,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 7,287 • ❤️ 677 • 7d ago
+⬇️ 7,287 • ❤️ 679 • 7d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 18,440 • ❤️ 529 • 8d ago
+⬇️ 18,440 • ❤️ 530 • 8d ago
 
 ---
 
@@ -421,7 +421,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 9,648 • ❤️ 287 • 1d ago
+⬇️ 9,648 • ❤️ 288 • 1d ago
 
 ---
 
@@ -433,7 +433,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 200,391 • ❤️ 960 • 12d ago
+⬇️ 200,391 • ❤️ 961 • 12d ago
 
 ---
 
@@ -457,7 +457,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 4,353 • ❤️ 254 • 5d ago
+⬇️ 4,353 • ❤️ 255 • 5d ago
 
 ---
 
@@ -469,7 +469,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 547 • ❤️ 200 • 2d ago
+⬇️ 547 • ❤️ 204 • 2d ago
 
 ---
 
@@ -481,19 +481,19 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 3,107 • ❤️ 401 • 2d ago
+⬇️ 3,107 • ❤️ 404 • 2d ago
 
 ---
 
-**[GLM-4.7](https://huggingface.co/zai-org/GLM-4.7)**
+**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
 
-*Z.ai*
+*Liquid AI*
 
-GLM-4.7 is a multilingual text generation model excelling in agentic coding, complex reasoning, and tool usage, with significant improvements in UI generation and web browsing capabilities.
+LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
 
-`text-generation` `358.3B`
+`text-generation` `1.2B`
 
-⬇️ 38,529 • ❤️ 1,509 • 17h ago
+⬇️ 4,203 • ❤️ 181 • 1d ago
 
 ---
 
@@ -507,7 +507,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 63 • 💬 1 • ⭐ 1,321 • 2d ago
+▲ 65 • 💬 1 • ⭐ 1,321 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -563,18 +563,6 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 ---
 
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 17 • 💬 2 • ⭐ 14,627 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -584,9 +572,21 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 130 • 💬 18 • ⭐ 49,384 • 10mo ago
+▲ 130 • 💬 18 • ⭐ 49,436 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 17 • 💬 2 • ⭐ 14,669 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -618,15 +618,16 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
+**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
+  Videos](https://huggingface.co/papers/2502.01549)**
 
-*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
+*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
 
-LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
+VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-▲ 176 • 💬 6 • ⭐ 65,223 • 21mo ago
+▲ 2 • 💬 0 • ⭐ 1,951 • 11mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
+[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
 ---
 
@@ -640,7 +641,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.0k • 🔱 840 • 3h ago
+⭐ 7.1k • 🔱 842 • 3h ago
 
 ---
 
@@ -660,7 +661,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 127 • 6h ago
+⭐ 2.2k • 🔱 127 • 7h ago
 
 ---
 
@@ -690,7 +691,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 101 • 8h ago
+⭐ 1.2k • 🔱 101 • 9h ago
 
 ---
 
@@ -700,7 +701,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 15h ago
+⭐ 1.2k • 🔱 142 • 16h ago
 
 ---
 

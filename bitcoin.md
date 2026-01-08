@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T20:48:44.391618+00:00'
+updated: '2026-01-08T21:22:49.290260+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 20:48 UTC  
+**Last Updated:** January 08, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1816.15B
+**Market Cap:** $1818.81B
 Rank #1
 
-**Circulating Supply:** 19,973,231 BTC
+**Circulating Supply:** 19,973,287 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -27.8%
 
 **All-Time Low:** $67.81
-+134049.8%
++134102.9%
 
 ---
 
@@ -93,25 +93,25 @@ BTC
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-15h ago
+16h ago
 
 ---
 
 **[The Great Distraction: Why You Are Missing the Point of Bitcoin. Stop Staring at the Charts. Start Building the Life You Bought Them For.](https://www.reddit.com/r/Bitcoin/comments/1q7foom/the_great_distraction_why_you_are_missing_the/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-distraction-why-you-are) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-distraction-why-you-are) • 5h ago
 
 ---
 
@@ -119,7 +119,7 @@ BTC
 
 Bitcoin mining continued growing after the halving. Miners’ revenue reached $17.2B in 2025, up from $14.7B the year before. Post-halving economics is Bitcoin mining at work, not a bug. Source: @TheBlock__
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ Bitcoin mining continued growing after the halving. Miners’ revenue reached $1
 
 People who bought Bitcoin before the ETFs
 
-19h ago
+20h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 1d ago
 
 After a pivotal 2025, the blockchain industry is still waiting for its mainstream breakthrough—but that could come this year.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ Fortune • 2h ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bitcoin Magazine • 1d ago
 
 Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
 
-abcnews.go.com • 1d ago
+abcnews.go.com • 2d ago
 
 ---
 
@@ -235,7 +235,7 @@ Seeking Alpha • 6h ago
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 8h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 9h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -267,7 +267,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 10h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 11h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -301,7 +301,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 23h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 1d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -309,23 +309,23 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 ## YouTube Videos: "bitcoin"
 
-**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRus Extra
-
-👁️ 8K • 👍 394 • 💬 336 • ⏱️ 9:41 • 20h ago
-
----
-
 **[Bitcoin 2026… Why everyone is WRONG!](https://www.youtube.com/watch?v=GUts2pFuQcs)**
 
 Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://youtu.be/CsBco1AJVQE (click)
 
 📺 MMCrypto
 
-👁️ 19K • 👍 2K • 💬 372 • ⏱️ 4:15 • 8h ago
+👁️ 23K • 👍 2K • 💬 325 • ⏱️ 4:15 • 9h ago
+
+---
+
+**[Bitcoin Price Target | What The Charts Reveal](https://www.youtube.com/watch?v=r9ZsA0BSeFo)**
+
+Stay informed with the latest insights on **btc**, focusing on effective **trading strategy** and essential **technical analysis**.
+
+📺 Krown
+
+👁️ 3K • 👍 425 • 💬 149 • ⏱️ 13:56 • 3h ago
 
 ---
 
@@ -335,7 +335,37 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 21K • 👍 2K • 💬 171 • ⏱️ 17:35 • 6h ago
+👁️ 28K • 👍 2K • 💬 192 • ⏱️ 17:35 • 7h ago
+
+---
+
+**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRus Extra
+
+👁️ 8K • 👍 399 • 💬 319 • ⏱️ 9:41 • 20h ago
+
+---
+
+**[This Crash Is Not NORMAL! This Is Pure Crypto Manipulation - Michael Saylor](https://www.youtube.com/watch?v=rSYUHAJtRaE)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 218 • 💬 26 • ⏱️ 16:32 • 2h ago
+
+---
+
+**[IS YOUR BITCOIN SAFE? The HONEST Truth About Quantum Computing](https://www.youtube.com/watch?v=1NdgJ695eM4)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 1K • 👍 220 • 💬 38 • ⏱️ 4:51 • 4h ago
 
 ---
 
@@ -345,57 +375,17 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 9K • 👍 535 • 💬 64 • ⏱️ 10:03 • 12h ago
+👁️ 9K • 👍 543 • 💬 58 • ⏱️ 10:03 • 13h ago
 
 ---
 
-**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
+**[Why 2026 Will Surprise Bitcoin Investors](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
 
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
+In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
 
-📺 Anthony Pompliano
+📺 Coinsider
 
-👁️ 21K • 👍 863 • 💬 28 • ⏱️ 43:55 • 22h ago
-
----
-
-**[Morgan Stanley Reveals Big News For Bitcoin, Solana &amp; XRP (top 5 altcoins)](https://www.youtube.com/watch?v=Iw0ZDWCMkkI)**
-
-Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 127 • ⏱️ 9:00 • 21h ago
-
----
-
-**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
-
-Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 85K • 👍 6K • 💬 443 • ⏱️ 19:29 • 1d ago
-
----
-
-**[CRITICAL NEWS COMING!🚨 (Bitcoin Update, ZEC Crash &amp; Tariffs News)](https://www.youtube.com/watch?v=6FsTdfu2jyw)**
-
-CRYPTO MARKET UPDATE Join the Premium Signal Group for trade setups, mentorship & a community focused on real ...
-
-📺 Cilinix Crypto
-
-👁️ 632 • 👍 88 • 💬 20 • ⏱️ 10:11 • 3h ago
-
----
-
-**[Mathematician Fred Krueger: My Crypto Price Prediction For 2026 Is INSANE Now](https://www.youtube.com/watch?v=2nDFUWCSxm0)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 22K • 👍 739 • 💬 333 • ⏱️ 13:40 • 2d ago
+👁️ 734 • 👍 68 • 💬 11 • ⏱️ 10:06 • 3h ago
 
 ---
 
@@ -405,7 +395,17 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 504 • 💬 62 • ⏱️ 7:28 • 14h ago
+👁️ 10K • 👍 509 • 💬 63 • ⏱️ 7:28 • 14h ago
+
+---
+
+**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
+
+📺 Anthony Pompliano
+
+👁️ 23K • 👍 896 • 💬 28 • ⏱️ 43:55 • 23h ago
 
 ---
 

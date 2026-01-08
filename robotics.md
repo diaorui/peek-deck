@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T20:48:44.400841+00:00'
+updated: '2026-01-08T21:22:49.299788+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 20:48 UTC  
+**Last Updated:** January 08, 2026 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,13 +40,13 @@ Robotics research and industry news
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-2h ago
+3h ago
 
 ---
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -60,13 +60,13 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-8h ago
+9h ago
 
 ---
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 Recently graduated with 1 year experience(Intern). Do I have chance of landing job anywhere in this cooked economy? Feel free to roast and dissect my resume and give as much advice as possible. If someone really wants to give in depth review of my resume I can also dm the original pdf so that you can access all the links.
 
-12h ago
+13h ago
 
 ---
 
@@ -112,13 +112,13 @@ Reuters • 21h ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
 **[Arm Holdings Creates New ‘Physical AI’ Unit to Expand into Robotics](https://www.tipranks.com/news/arm-holdings-creates-new-physical-ai-unit-to-expand-into-robotics)**
 
-TipRanks • 23h ago
+TipRanks • 1d ago
 
 ---
 
@@ -126,7 +126,7 @@ TipRanks • 23h ago
 
 HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
 
-hyundai.com • 2d ago
+hyundai.com • 3d ago
 
 ---
 
@@ -188,7 +188,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 210 • ⏱️ 9:33 • 1d ago
+👁️ 54K • 👍 1K • 💬 215 • ⏱️ 9:33 • 1d ago
 
 ---
 
@@ -198,27 +198,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 77K • 👍 2K • 💬 303 • ⏱️ 4:29 • 1d ago
-
----
-
-**[Boston Dynamics x Hyundai: Inside the Most Advanced ROBOTICS Exhibit at CES 2026](https://www.youtube.com/watch?v=wuPa_xhw3n4)**
-
-Experience the future of mobility and robotics as we go inside the joint Hyundai Motor Group and Boston Dynamics exhibit at CES ...
-
-📺 The Laughing Lion
-
-👁️ 4K • 👍 99 • 💬 27 • ⏱️ 10:08 • 15h ago
-
----
-
-**[SharpaWave&#39;s Crazy Robotic Hands #ces2026 #robotics #airobot #ai #humanoidrobot](https://www.youtube.com/watch?v=mgrs7nkQHgU)**
-
-Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with its new humanoid robot and its highly ...
-
-📺 Kalil 4.0
-
-👁️ 272 • 👍 12 • ⏱️ 0:48 • 3h ago
+👁️ 86K • 👍 2K • 💬 321 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -228,7 +208,27 @@ LG has a mind blowingly cool setup here at #CES2026 There are next generation Wa
 
 📺 JerryRigEverything
 
-👁️ 118K • 👍 6K • 💬 694 • ⏱️ 7:45 • 19h ago
+👁️ 129K • 👍 7K • 💬 724 • ⏱️ 7:45 • 20h ago
+
+---
+
+**[SharpaWave&#39;s Crazy Robotic Hands #ces2026 #robotics #airobot #ai #humanoidrobot](https://www.youtube.com/watch?v=mgrs7nkQHgU)**
+
+Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with its new humanoid robot and its highly ...
+
+📺 Kalil 4.0
+
+👁️ 566 • 👍 18 • ⏱️ 0:48 • 3h ago
+
+---
+
+**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
+
+Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
+
+📺 7NEWS Australia
+
+👁️ 6K • 👍 39 • 💬 14 • ⏱️ 2:25 • 1d ago
 
 ---
 
@@ -238,17 +238,7 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 7K • 👍 70 • 💬 18 • ⏱️ 2:58 • 2d ago
-
----
-
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
-
-Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
-
-📺 PCMag
-
-👁️ 543K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
+👁️ 7K • 👍 73 • 💬 18 • ⏱️ 2:58 • 2d ago
 
 ---
 
@@ -258,7 +248,17 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 109K • 👍 2K • 💬 305 • ⏱️ 25:02 • 1d ago
+👁️ 112K • 👍 2K • 💬 308 • ⏱️ 25:02 • 1d ago
+
+---
+
+**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+
+I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+
+📺 mryeester
+
+👁️ 34K • 👍 2K • 💬 90 • ⏱️ 0:39 • 3h ago
 
 ---
 
@@ -268,17 +268,17 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 22K • 👍 291 • 💬 15 • ⏱️ 7:38 • 4d ago
+👁️ 22K • 👍 292 • 💬 15 • ⏱️ 7:38 • 4d ago
 
 ---
 
-**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
 
-We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
 
-📺 CNET
+📺 PCMag
 
-👁️ 30K • 👍 252 • 💬 162 • ⏱️ 5:07 • 21h ago
+👁️ 552K • 👍 11K • 💬 2K • ⏱️ 7:00 • 2d ago
 
 ---
 
