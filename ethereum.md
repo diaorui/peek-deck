@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T12:49:57.053788+00:00'
+updated: '2026-01-08T13:41:01.383161+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 12:49 UTC  
+**Last Updated:** January 08, 2026 at 13:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -94,13 +94,13 @@ PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments a
 
 **[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems](https://www.reddit.com/r/ethereum/comments/1q6kmx8/timebucketed_balance_records_boundedstorage/)**
 
-🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 19h ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 20h ago
 
 ---
 
@@ -130,7 +130,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 22h ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Decrypt • 2d ago
 
 **[Why Bitmine Immersion Technologies (BMNR) Is Up 11.8% After Massive Share Authorization And Ethereum Build-Out](https://finance.yahoo.com/news/why-bitmine-immersion-technologies-bmnr-110924956.html)**
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1h ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 1d ago
 
 The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -186,7 +186,7 @@ Decrypt • 23h ago
 
 Morgan Stanley has submitted a registration statement to the US Securities and Exchange Commission (SEC) for a spot Ethereum Trust.This filing, which aims to create an exchange-traded fund directly holding Ethereum (ETH), comes shortly after the bank’s applications for spot Bitcoin and Solana ETFs…
 
-TradingView — Track All Markets • 21h ago
+TradingView — Track All Markets • 22h ago
 
 ---
 
@@ -228,7 +228,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 11K • 👍 706 • 💬 57 • ⏱️ 10:20 • 23h ago
+👁️ 11K • 👍 706 • 💬 57 • ⏱️ 10:20 • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 206 • 💬 8 • ⏱️ 4:16 • 19h ago
+👁️ 3K • 👍 206 • 💬 8 • ⏱️ 4:16 • 20h ago
 
 ---
 
@@ -298,7 +298,7 @@ Today we discuss why Ethereum (ETH) has some of the strongest fundamentals from 
 
 📺 Cultivate Crypto
 
-👁️ 847 • 👍 105 • 💬 4 • ⏱️ 2:28:36 • 9h ago
+👁️ 847 • 👍 105 • 💬 4 • ⏱️ 2:28:36 • 10h ago
 
 ---
 

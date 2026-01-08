@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T12:49:57.057050+00:00'
+updated: '2026-01-08T13:41:01.386395+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 12:49 UTC  
+**Last Updated:** January 08, 2026 at 13:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-9h ago
+10h ago
 
 ---
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ Robotics research and industry news
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ Robotics research and industry news
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Humanoid robots have been getting a lot of attention lately, with recent demos like Unitree Robotics and NEO home robot pushing toward general-purpose capability. At the same time, assistive exoskeletons seem to be making quieter progress. Just saw a news that a Korean institute KAIST has created an exoskeleton that helps paralyzed people stand, walk, also some consumer-level devices such as dnsysX1 target mobility support for older adults rather than full autonomy. Humanoids aim for versatility, but translating demos into real-world deployment is still unclear. Questions around cost, safety, maintenance, reliability, and clear use cases remain largely unresolved outside controlled environments. Exoskeletons, by contrast, tend to slot into existing workflows more easily by targeting narrow, well-defined problems and keeping humans in control. Curious how people here see it. Which do you think has more development potential over the next 10-15 years, and why?
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Humanoid robots have been getting a lot of attention lately, with recent demos l
 
 I was looking to buy a 6dof robotic arm. But turns out UR5 is at least 4 times more expensive than Dobot's Nova 5. Any idea as to why the difference, what's the pros and cons of going with either of them. Would appreciate the help.
 
-1h ago
+2h ago
 
 ---
 
@@ -106,13 +106,13 @@ I was looking to buy a 6dof robotic arm. But turns out UR5 is at least 4 times m
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
 **[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
 
-TipRanks • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -120,7 +120,7 @@ TipRanks • 7h ago
 
 Chip technology company Arm Holdings has reorganized the company to create a Physical AI unit to expand its presence in the robotics market, company executives told Reuters at CES, where robots are a theme of the year.  The decision to create a ​unit that specializes in robotics arrives amid a flurry of announcements and activity at CES around humanoid robots.  At the sprawling Las Vegas trade show, large ‌and small companies demonstrated robots that could help build cars, clean toilets and deal games of poker - at a glacial pace.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -142,7 +142,7 @@ Aishwarya Anand
 
 #CES2026 #NVIDIA #PhysicalAI #Haptics #FutureOfAI #Robotics #XR #CNBCTV18Digital
 
-LinkedIn • 46m ago
+LinkedIn • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 43K • 👍 1K • 💬 184 • ⏱️ 4:29 • 20h ago
+👁️ 43K • 👍 1K • 💬 184 • ⏱️ 4:29 • 21h ago
 
 ---
 
@@ -232,7 +232,7 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 
 📺 CNET
 
-👁️ 9K • 👍 168 • 💬 73 • ⏱️ 5:07 • 13h ago
+👁️ 9K • 👍 168 • 💬 73 • ⏱️ 5:07 • 14h ago
 
 ---
 
@@ -252,7 +252,7 @@ LG has a mind blowingly cool setup here at #CES2026 There are next generation Wa
 
 📺 JerryRigEverything
 
-👁️ 75K • 👍 5K • 💬 540 • ⏱️ 7:45 • 11h ago
+👁️ 75K • 👍 5K • 💬 540 • ⏱️ 7:45 • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ Robots are fighting at CES 2026 and you're not just watching… you're inside th
 
 📺 Hugh Hou
 
-👁️ 972 • 👍 28 • 💬 8 • ⏱️ 10:39 • 14h ago
+👁️ 972 • 👍 28 • 💬 8 • ⏱️ 10:39 • 15h ago
 
 ---
 

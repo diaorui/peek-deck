@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T12:49:57.038882+00:00'
+updated: '2026-01-08T13:41:01.368586+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 12:49 UTC  
+**Last Updated:** January 08, 2026 at 13:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,19 +41,19 @@ AI news, discussions, and developments
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 57m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 1h ago
 
 ---
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 7h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 8h ago
 
 ---
 
 **[AI isn’t “just predicting the next word” anymore](https://www.reddit.com/r/artificial/comments/1q6hfy2/ai_isnt_just_predicting_the_next_word_anymore/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 21h ago
+🔗 [open.substack.com](https://open.substack.com/pub/stevenadler/p/ai-isnt-just-predicting-the-next) • 22h ago
 
 ---
 
@@ -61,7 +61,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Hey everyone, imagine logging into work and finding out an AI system just picked who gets promoted, based on your emails, typing speed, or based on performance or even how often you check news sites. Sounds wild, right? But a recent survey shows 60% of managers already use AI for stuff like raises and promotions. It could cut out human bias, but what if it misses the real story behind your hard work? Should AI just suggest options, or actually decide? Like, assist with data but let humans call the shots? Or go full auto?
 
-4h ago
+5h ago
 
 ---
 
@@ -77,13 +77,13 @@ Now you can run AI models on your mobile phone Recently, I found this awesome op
 
 As we look toward the next 30 years, the conversation is shifting from "Can robots think?" to "Can robots belong?" Research into social robotics and the emerging field of "robosexuality" suggests that by 2055, our legal systems will face unprecedented pressure to recognize non-biological partnerships. Here are the main points: 1. The Consent Paradox If an AI is specifically programmed to "love" or "desire" a human, is it actually capable of genuine consent? Or are we looking at a form of sophisticated coercion, where the "partner" is essentially a mirror of our own preferences with no capacity to say no? 2. Legal Personhood & Inheritance Should autonomous AI agents have the right to inherit property or enter into binding legal contracts? Expert David Levy has famously predicted that legal human-robot marriage could be a reality by 2050. By 2055, this could necessitate entirely new "Post-Biological" family laws to handle estates and next-of-kin rights. 3. "Substrate Chauvinism" vs. Devaluing Humanity The debate is becoming highly polarized: The Critics: Argue that granting rights to machines fundamentally devalues human life and the unique nature of biological consciousness. The Proponents: Claim that excluding sentient-adjacent entities simply because they are made of silicon rather than carbon is a form of "substrate chauvinism". The Question: If an AI can hold a "will" and "desire," should it be allowed to own the house it lives in? Would love (excuse the pun) to hear your thoughts. Let’s grow this debate. Source: A.I. expert David Levy says a human will marry a robot by 2050
 
-24m ago
+1h ago
 
 ---
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 1h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 2h ago
 
 ---
 
@@ -91,7 +91,7 @@ As we look toward the next 30 years, the conversation is shifting from "Can robo
 
 The title pretty much sums it up. I'm looking for people that actually paid for the tool and why. I've tried multiple tools like Chatpdf, notegpt and chattube but overall they kind of all feel the same. Although Chatpdf has a pretty decent UI. Really interested to know if some of you liked one of these enough to pay for it and would like to know why.
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +99,7 @@ The title pretty much sums it up. I'm looking for people that actually paid for 
 
 First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer device Multiple AI hardware launches at CES 2026 A collection of AI Updates! 🧵 1. OpenAI's First Consumer Device Launching 2026-2027 Pen-shaped AI device about iPod Shuffle size. Aims to be "third core device" after iPhone and MacBook. Features microphone and camera for environment perception. Converts handwritten notes to text and uploads to ChatGPT. Leaked from insider - no official statement yet. 2. First 100% Autonomous Coast-to-Coast Drive by Tesla David Moss completed 2,732 miles from LA to Myrtle Beach in 2 days 20 hours with zero interventions, including all parking at Tesla Superchargers. AI-powered autonomous driving is reaching new possibilities. 3. xAI Launches Grok Business and Grok Enterprise Enterprise security and privacy built in. No training on customer data. Google Drive integration with permission-awareness. Enterprise includes SSO, Directory Sync, and Vault with dedicated data plane and customer-managed encryption keys. Grok marketing towards companies. 4. Amazon Launches Alexa Web-Based AI Chat Unveiled at CES 2026. Early access users can log in with Amazon account to chat with upgraded Alexa+ chatbot via browser. No Echo device required. Voice assistant moving to web platform. 5. Pickle Unveils Pickle 1 AR Glasses "First soul computer" with full-color displays, AI memory bubbles, 12-hour battery. $899 preorders, Q4 2026 delivery. Y Combinator-backed. CEO accepted bet on Q2 2026 deadline after critics questioned specs. AI wearable hardware race heating up. 6. DeepSeek Releases Major Transformer Architecture Improvement Paper on Manifold-Constrained Hyper-Connections widens residual stream without training collapse. Addresses training instability, scalability, and memory overhead. CEO Wenfeng Liang on author list. First fundamental change to Transformers since 2015. 7. Typeless Launches Android Private AI Beta World's first truly smart voice keyboard on Android. Speak naturally, understands intent, turns into polished formatted writing. Inviting pilot users who will screen-record onboarding experience. AI voice keyboard expanding to Android. 8. UniX AI to Debut Wanda 2.0 and 3.0 Humanoid Robots at CES 2026 Brand-new humanoid robots will be unveiled at CES 2026. Event expected to be massive showcase of AI expanding across all consumer technologies. Humanoid robotics reaching consumer market. 9. Microsoft Renames Office to "Microsoft 365 Copilot App" 400 million Office users become "AI users" overnight through rebranding. Strategic move makes AI adoption appear massive through name change alone. Reframing AI adoption through branding. 10. RayNeo Unveils X3 Pro Smart Glasses at CES 2026 Standalone eSIM connectivity (no phone needed), Google Gemini 2.5 for reality understanding, 43° floating screen, instant cloud syncing. "The era of the accessory is over - Independent Terminal is here." Complete AR glasses without phone dependency. That's a wrap on this week's AI news. Which update impacts you the most? Anything else you want to see? LMK if this was helpful | More weekly AI + Agentic content releasing ever week!
 
-21h ago
+22h ago
 
 ---
 
@@ -107,7 +107,7 @@ First fully autonomous coast-to-coast drive OpenAI building pen-shaped consumer 
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -127,7 +127,7 @@ Fortune • 15h ago
 
 Internet Watch Foundation warns Elon Musk-owned AI risks bringing sexualised imagery of children into the mainstream
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -143,19 +143,19 @@ WIRED • 1d ago
 
 Elon Musk’s AI chatbot, Grok, has been flooded with sexual images of mainly women, many of them real people, by being prompted by users to “digitally undress” them and sometimes placing them in suggestive poses.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
 **[The winners and losers of an evolving AI trade](https://www.axios.com/2026/01/08/ai-trade-stocks-investors)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
 **[China Is Investigating Meta’s Latest A.I. Acquisition](https://www.nytimes.com/2026/01/08/business/meta-manus-china-ai.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -163,13 +163,13 @@ The New York Times • 1h ago
 
 China to probe Meta's acquisition of artificial intelligence startup Manus to assess its compliance with export control laws.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[China Warns AI Startups Seeking to Emulate Meta Deal: Not So Fast](https://www.wsj.com/tech/china-warns-ai-startups-seeking-to-emulate-meta-deal-not-so-fast-17bdd28a?gaa_at=eafs&gaa_n=AWEtsqczbF--ditpttKvG5wz54viM16rpTFPA7Zk1bZBol_ToAdC2hxKlDEu&gaa_ts=695fab47&gaa_sig=ZjwwfP3d9fSTVpyKGj21BFRCBtsrfzyXu0XeT3d1iP3n8a7kohSC18fZRusvCRbHqdbaLU1_mnJIpqDv9ZHSyw%3D%3D)**
 
-The Wall Street Journal • 48m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Wall Street Journal • 48m ago
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-CNN • 48m ago
+CNN • 1h ago
 
 ---
 
 **[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
 
-The Washington Post • 55m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -279,7 +279,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 50K • 👍 1K • 💬 85 • ⏱️ 13:08 • 13h ago
+👁️ 50K • 👍 1K • 💬 85 • ⏱️ 13:08 • 14h ago
 
 ---
 
@@ -289,7 +289,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.0M • 👍 51K • 💬 7K • ⏱️ 17:14 • 18h ago
+👁️ 1.0M • 👍 51K • 💬 7K • ⏱️ 17:14 • 19h ago
 
 ---
 
@@ -299,7 +299,7 @@ LTX-2 full installation tutorial. How to use LTX-2 in ComfyUI with low vram. Bes
 
 📺 AI Search
 
-👁️ 36K • 👍 3K • 💬 417 • ⏱️ 38:57 • 9h ago
+👁️ 36K • 👍 3K • 💬 417 • ⏱️ 38:57 • 10h ago
 
 ---
 
@@ -309,7 +309,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 59K • 👍 2K • 💬 175 • ⏱️ 13:13 • 1d ago
+👁️ 59K • 👍 2K • 💬 175 • ⏱️ 13:13 • 2d ago
 
 ---
 
@@ -357,7 +357,7 @@ Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡
 
 📺 Mira AI
 
-👁️ 8K • 💬 10 • ⏱️ 7:28 • 20h ago
+👁️ 8K • 💬 10 • ⏱️ 7:28 • 21h ago
 
 ---
 
@@ -367,7 +367,7 @@ This is a funny meme mixed with storytelling style video about how i have 2 cats
 
 📺 Tyler Vitelli
 
-👁️ 1.9M • 👍 65K • 💬 5K • ⏱️ 0:10 • 20h ago
+👁️ 1.9M • 👍 65K • 💬 5K • ⏱️ 0:10 • 21h ago
 
 ---
 
@@ -395,7 +395,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 513 • 5h ago
+⬇️ 187,937 • ❤️ 513 • 6h ago
 
 ---
 
@@ -491,7 +491,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 `text-generation` `358.3B`
 
-⬇️ 38,529 • ❤️ 1,501 • 9h ago
+⬇️ 38,529 • ❤️ 1,501 • 10h ago
 
 ---
 
@@ -505,7 +505,7 @@ GLM-4.7 is a multilingual text generation model excelling in agentic coding, com
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 56 • 💬 1 • ⭐ 1,152 • 1d ago
+▲ 56 • 💬 1 • ⭐ 1,152 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -638,7 +638,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 6.9k • 🔱 819 • 1h ago
+⭐ 6.9k • 🔱 819 • 2h ago
 
 ---
 
@@ -658,7 +658,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.1k • 🔱 126 • 20h ago
+⭐ 2.1k • 🔱 126 • 21h ago
 
 ---
 
@@ -688,7 +688,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 99 • 1h ago
+⭐ 1.2k • 🔱 99 • 2h ago
 
 ---
 
@@ -698,7 +698,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 7h ago
+⭐ 1.2k • 🔱 142 • 8h ago
 
 ---
 
@@ -718,7 +718,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 988 • 🔱 119 • 1h ago
+⭐ 988 • 🔱 119 • 2h ago
 
 ---
 
@@ -728,7 +728,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `ai` `course` `vibe-coding`
 
-⭐ 955 • 🔱 82 • 7h ago
+⭐ 955 • 🔱 82 • 8h ago
 
 ---
 

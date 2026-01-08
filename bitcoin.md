@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T12:49:57.047381+00:00'
+updated: '2026-01-08T13:41:01.377155+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 12:49 UTC  
+**Last Updated:** January 08, 2026 at 13:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,25 +81,25 @@ Rank #1
 
 It will be 🔥💪 actually I heard rumours China has been buying lots of Gold and Bitcoin all along.
 
-1h ago
+2h ago
 
 ---
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-4h ago
+5h ago
 
 ---
 
 **[You open the Bitcoin chart and it’s just… vibes 😂](https://www.reddit.com/r/Bitcoin/comments/1q735l0/you_open_the_bitcoin_chart_and_its_just_vibes/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -107,13 +107,13 @@ It will be 🔥💪 actually I heard rumours China has been buying lots of Gold 
 
 People who bought Bitcoin before the ETFs
 
-11h ago
+12h ago
 
 ---
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -121,13 +121,13 @@ People who bought Bitcoin before the ETFs
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-19h ago
+20h ago
 
 ---
 
 **[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -135,13 +135,13 @@ People who bought Bitcoin before the ETFs
 
 Bitcoin around 1 million dollars now seems crazy and too much for 2030. Now is the begging of 2026 and Bitcoin is in 90k.
 
-27m ago
+1h ago
 
 ---
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bitcoin around 1 million dollars now seems crazy and too much for 2030. Now is t
 
 The crypto market's movements are influenced by expectations of Federal Reserve rate cuts and a rally in global government bonds.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 7h ago
 
 If true, the claim could significantly reshape the global bitcoin market.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -181,7 +181,7 @@ thestreet.com • 2d ago
 
 **[American Bitcoin (ABTC) Is Up 12.4% After Rapidly Expanding Its Bitcoin Treasury Reserves To 5,427 BTC – Has The Bull Case Changed?](https://finance.yahoo.com/news/american-bitcoin-abtc-12-4-110832624.html)**
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1h ago
 
 The coin's lackluster 2025 might actually make 2026 a strong year.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -205,13 +205,13 @@ Bloomberg.com • 1d ago
 
 Strategy shares (MSTR) jumped after MSCI decided not to exclude bitcoin-heavy firms from its indexes.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
 **[Bitcoin Falls, Strategy Wavers After Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -243,7 +243,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 4 • 💬 1 • 59m ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 4 • 💬 1 • 1h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -251,7 +251,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 23h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -271,7 +271,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 2 • 💬 0 • 4d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -285,7 +285,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 1 • 💬 0 • 2h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 1 • 💬 0 • 3h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -293,7 +293,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 15h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 16h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -307,7 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 353 • 💬 182 • ⏱️ 9:41 • 12h ago
+👁️ 6K • 👍 353 • 💬 182 • ⏱️ 9:41 • 13h ago
 
 ---
 
@@ -317,7 +317,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 387 • 💬 50 • ⏱️ 7:28 • 6h ago
+👁️ 5K • 👍 387 • 💬 50 • ⏱️ 7:28 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 15K • 👍 673 • 💬 5 • ⏱️ 43:55 • 14h ago
+👁️ 15K • 👍 673 • 💬 5 • ⏱️ 43:55 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ Thanks to iTrustCapital for sponsoring this video. Sign Up With iTrustCapital $1
 
 📺 Dan Gambardello
 
-👁️ 30K • 👍 2K • 💬 332 • ⏱️ 12:06 • 18h ago
+👁️ 30K • 👍 2K • 💬 332 • ⏱️ 12:06 • 19h ago
 
 ---
 
@@ -357,7 +357,7 @@ The market is misreading the MicroStrategy decision. A major downside risk has b
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 2K • 💬 31 • ⏱️ 29:02 • 4h ago
+👁️ 21K • 👍 2K • 💬 31 • ⏱️ 29:02 • 5h ago
 
 ---
 
@@ -367,7 +367,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 418 • 💬 25 • ⏱️ 14:22 • 20h ago
+👁️ 12K • 👍 418 • 💬 25 • ⏱️ 14:22 • 21h ago
 
 ---
 
@@ -377,7 +377,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 3K • 👍 333 • 💬 35 • ⏱️ 10:03 • 4h ago
+👁️ 3K • 👍 333 • 💬 35 • ⏱️ 10:03 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 362 • 💬 20 • ⏱️ 1:29:43 • 15h ago
+👁️ 6K • 👍 362 • 💬 20 • ⏱️ 1:29:43 • 16h ago
 
 ---
 
@@ -397,7 +397,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 KUDA VIBE
 
-👁️ 3K • 👍 3K • 1h ago
+👁️ 3K • 👍 3K • 2h ago
 
 ---
 
