@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T04:40:27.652048+00:00'
+updated: '2026-01-08T05:26:29.070350+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 04:40 UTC  
+**Last Updated:** January 08, 2026 at 05:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,065.73
+### $91,027.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +1.3%  
-**30d:** -0.9%  
-**90d:** -17.5%  
-**1y:** -1.3%  
+**24h:** -1.6%  
+**7d:** +1.1%  
+**30d:** -1.1%  
+**90d:** -17.7%  
+**1y:** -1.6%  
 
 ---
 
@@ -83,25 +83,11 @@ Rank #1
 
 ---
 
-**[Bitcoin fixes this*](https://www.reddit.com/r/Bitcoin/comments/1q6kwkl/bitcoin_fixes_this/)**
-
-\ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
-
-11h ago
-
----
-
-**[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
-
-11h ago
-
----
-
 **[Bitcoin after Testing 94k](https://www.reddit.com/r/Bitcoin/comments/1q6y3db/bitcoin_after_testing_94k/)**
 
 Q3 was meant to be bullish Q4 was meant to be bullish It’s getting hard to trust
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +95,21 @@ Q3 was meant to be bullish Q4 was meant to be bullish It’s getting hard to tru
 
 People who bought Bitcoin before the ETFs
 
-3h ago
+4h ago
+
+---
+
+**[Bitcoin fixes this*](https://www.reddit.com/r/Bitcoin/comments/1q6kwkl/bitcoin_fixes_this/)**
+
+\ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
+
+12h ago
+
+---
+
+**[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
+
+12h ago
 
 ---
 
@@ -117,7 +117,7 @@ People who bought Bitcoin before the ETFs
 
 Once these last longs are liquidated, I bet we rocket past $95k.
 
-7h ago
+8h ago
 
 ---
 
@@ -127,31 +127,39 @@ Once these last longs are liquidated, I bet we rocket past $95k.
 
 ---
 
-**[WORLD'S LARGEST ASSET MANAGER BLACKROCK JUST SAID LIVE ON CNBC BITCOIN IS STILL "IN IT'S VERY EARLY DAYS"](https://www.reddit.com/r/Bitcoin/comments/1q6ck1w/worlds_largest_asset_manager_blackrock_just_said/)**
-
-THEY ARE TELLING US . BUCKLE UP 🚀
-
-17h ago
-
----
-
 **[I did it.](https://www.reddit.com/r/Bitcoin/comments/1q6snci/i_did_it/)**
 
 I have just bought my first 100$ worth of bitcoin!
 
-6h ago
+7h ago
 
 ---
 
-**[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
+**[WORLD'S LARGEST ASSET MANAGER BLACKROCK JUST SAID LIVE ON CNBC BITCOIN IS STILL "IN IT'S VERY EARLY DAYS"](https://www.reddit.com/r/Bitcoin/comments/1q6ck1w/worlds_largest_asset_manager_blackrock_just_said/)**
 
-2h ago
+THEY ARE TELLING US . BUCKLE UP 🚀
+
+18h ago
+
+---
+
+**[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
+
+23m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
+
+Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
+
+CNBC • 5h ago
+
+---
 
 **[Venezuela rumored to hold $60B Bitcoin ‘shadow reserve’](https://fortune.com/2026/01/07/corruption-embezzlement-missing-money-venezuela-rumored-60-billion-bitcoin-shadow-reserve/)**
 
@@ -161,47 +169,9 @@ Fortune • 11h ago
 
 ---
 
-**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
-
-Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin Up Amid Venezuela Operation; 'Shadow Reserve' Rumors Swirl](https://www.investors.com/news/bitcoin-price-venezuela-cryptocurrency-prices-oil/)**
-
-Investor's Business Daily • 2d ago
-
----
-
 **[Bitcoin Slips As Strategy Jumps Despite Negative MSCI Rule](https://www.investors.com/news/msci-index-decision-mstr-stock-strategy-bitcoin-price-digital-asset-treasury/)**
 
-Investor's Business Daily • 10h ago
-
----
-
-**[Strategy ($MSTR) Jumps 7% On Positive MSCI News](https://bitcoinmagazine.com/markets/strategy-mstr-jumps-7-after-msci-news)**
-
-Strategy shares (MSTR) jumped after MSCI decided not to exclude bitcoin-heavy firms from its indexes.
-
-Bitcoin Magazine • 10h ago
-
----
-
-**[MSCI Spares MicroStrategy — but the Market’s War Over Its Bitcoin Premium Remains](https://finance.yahoo.com/news/msci-spares-microstrategy-market-war-063933033.html)**
-
-MSCI keeps MicroStrategy in its indexes, but debate intensifies over whether MSTR is equity or a leveraged Bitcoin vehicle.
-
-Yahoo Finance • 22h ago
-
----
-
-**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
-
-Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
-
-CNBC • 4h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -219,11 +189,39 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[MSTR Stock: Strategy's Premium Nearly Gone As Bitcoin Rally Falters](https://www.investors.com/news/mstr-stock-strategy-premium-vanishes-bitcoin-price/)**
+**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
 
-MSTR stock fell with bitcoin's price. Strategy's premium to the value of its bitcoin holdings is nearly gone, making it harder to buy bitcoin.
+If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
 
-Investor's Business Daily • 1d ago
+Bitcoin Magazine • 9h ago
+
+---
+
+**[Bitcoin Faithful Still Missing Even After Token Reclaims $90,000](https://www.bloomberg.com/news/articles/2026-01-06/bitcoin-faithful-still-missing-even-after-token-reclaims-90-000)**
+
+Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
+
+Bloomberg.com • 17h ago
+
+---
+
+**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
+
+Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
+
+abcnews.go.com • 1d ago
+
+---
+
+**[American Bitcoin Stock Jumps After Buying From Eric Trump, Other Insiders](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-05-2026/card/american-bitcoin-stock-jumps-after-buying-from-eric-trump-other-insiders-WRn4HK0q2WE4dtS7Ce1O?gaa_at=eafs&gaa_n=AWEtsqdESUv2oXSMJDCN2N-WBvruR_LlcVAsxtvjeWOy91p7gZcnH9UveDjr&gaa_ts=695f436b&gaa_sig=MfpoDyxpevLLbV1ZJUhd_3lpNZpXc-ZhIeGseQg8mFcyLHbVyf_bfsidTN-KinRoOEQVBa1xAm4lqvuiwh9-tw%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
+
+**[Riot sells $162 million in bitcoin as mining hashprice slumps back toward lows](https://www.theblock.co/post/384598/riot-sells-bitcoin-mining-hashprice-slump)**
+
+The Block • 17h ago
 
 ---
 
@@ -251,7 +249,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 15h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 16h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -285,7 +283,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 7h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 8h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -293,7 +291,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 13h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 14h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -313,7 +311,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 512 • 💬 5 • ⏱️ 43:55 • 6h ago
+👁️ 10K • 👍 512 • 💬 5 • ⏱️ 43:55 • 7h ago
 
 ---
 
@@ -333,7 +331,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 3K • 💬 309 • ⏱️ 19:29 • 7h ago
+👁️ 46K • 👍 3K • 💬 309 • ⏱️ 19:29 • 8h ago
 
 ---
 
@@ -343,7 +341,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 54 • ⏱️ 9:00 • 5h ago
+👁️ 16K • 👍 1K • 💬 54 • ⏱️ 9:00 • 6h ago
 
 ---
 
@@ -353,7 +351,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Swan Bitcoin
 
-👁️ 20K • 👍 1K • 💬 107 • ⏱️ 13:35 • 14h ago
+👁️ 20K • 👍 1K • 💬 107 • ⏱️ 13:35 • 15h ago
 
 ---
 
@@ -363,7 +361,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 316 • ⏱️ 48:00 • 12h ago
+👁️ 26K • 👍 1K • 💬 316 • ⏱️ 48:00 • 13h ago
 
 ---
 
@@ -373,7 +371,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 21K • 👍 724 • 💬 326 • ⏱️ 13:40 • 1d ago
+👁️ 21K • 👍 724 • 💬 326 • ⏱️ 13:40 • 2d ago
 
 ---
 
@@ -403,7 +401,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 10K • 👍 753 • 💬 41 • ⏱️ 8:43 • 13h ago
+👁️ 10K • 👍 753 • 💬 41 • ⏱️ 8:43 • 14h ago
 
 ---
 

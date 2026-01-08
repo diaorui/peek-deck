@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T04:40:27.657314+00:00'
+updated: '2026-01-08T05:26:29.076444+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 04:40 UTC  
+**Last Updated:** January 08, 2026 at 05:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,155.13
+### $3,140.11
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** +0.9%  
-**30d:** -5.1%  
-**90d:** -16.2%  
-**1y:** -2.2%  
+**24h:** -2.7%  
+**7d:** +1.3%  
+**30d:** -4.8%  
+**90d:** -15.9%  
+**1y:** -1.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 6h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 7h ago
 
 ---
 
 **[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems](https://www.reddit.com/r/ethereum/comments/1q6kmx8/timebucketed_balance_records_boundedstorage/)**
 
-🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 11h ago
+🔗 [arxiv.org](https://arxiv.org/pdf/2512.20962) • 12h ago
 
 ---
 
@@ -122,7 +122,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Chainlink started as an ERC-677 token on Ethereum in 2017. Today it secures over 80% of Ethereum's DeFi by Total Value Secured. Aave's $50B+ TVL in lending markets runs on Chainlink price feeds. Lido's $24B+ in liquid staked ETH relies on Chainlink oracles. Hundreds of other Ethereum protocols depend on Chainlink to function. The Chief Scientist behind it is Ari Juels, who co-formalized Proof of Work in a 1999 paper, NINE years before Bitcoin existed. SWIFT (11,500 partnering banks, $150 trillion moved annually) is building their onchain infrastructure using Chainlink. UBS completed the first production tokenized fund workflow with it. JPMorgan settled tokenized treasuries cross-chain through it. Yet Chainlink ranks outside the top 10 by market cap. In fact, they sit #20. Memecoins (yes, I include Ripple here) with no fundamental utility rank higher ☠️ As an admitted Chainlink rabbit hole explorer, I have my biases. But I’ve spent considerable effort looking at the tech and the partnerships to understand why their decentralized oracle networks could be the missing link to institutional adoption of Ethereum and crypto writ large. I hope you won’t mind that I made an enthusiastic 28 minute video about it. Full disclosure: This is unpaid content but admittedly, I lean hyper bullish and the video shows it. I didn’t cover downside arguments such as the centralization concerns because I wanted to present the strongest possible case. Happy to take any comments and foster constructive discussion here! Watch my explainer here: https://youtu.be/dHiHR9jeuF8 ————— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, I started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so!
 
-🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 14h ago
+🔗 [youtu.be](https://youtu.be/dHiHR9jeuF8) • 15h ago
 
 ---
 
@@ -152,22 +152,6 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin](https://www.coindesk.com/markets/2026/01/05/ethereum-can-move-beyond-bitcoin-style-limits-as-new-scaling-tools-mature-vitalik-buterin)**
-
-PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.
-
-CoinDesk • 2d ago
-
----
-
-**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
-
-Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
-
-Fortune • 2d ago
-
----
-
 **[Ethereum's Blockchain Trilemma 'Solved': Vitalik Buterin](https://decrypt.co/353587/ethereums-blockchain-trilemma-solved-vitalik-buterin)**
 
 The Ethereum co-founder said upgrades allow the network to achieve decentralization, security and scalability at once.
@@ -176,23 +160,25 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade?utm_source=news.xml&utm_medium=rss)**
+**[Ethereum (ETH) news: bumps blob capacity ahead of Fusaka upgrade](https://www.coindesk.com/tech/2026/01/08/ethereum-bumps-blob-capacity-as-it-gears-for-fusaka-upgrade)**
 
-The Block • 3h ago
+Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
+
+CoinDesk • 53m ago
 
 ---
 
-**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
+**[Is Bit Digital's (BTBT) Dual Leadership Quietly Redefining Its Ethereum and AI Infrastructure Strategy?](https://finance.yahoo.com/news/bit-digitals-btbt-dual-leadership-043214896.html)**
 
-Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
+In recent months, Bit Digital, led by CEO Samir “Sam” Tabar, has accelerated its push into digital asset infrastructure and more sustainable, efficient Bitcoin mining. An interesting angle is Tabar’s simultaneous leadership of WhiteFiber, an AI and high‑performance computing infrastructure firm, which links Bit Digital’s mining ambitions with broader compute and energy-efficiency trends. We’ll now examine how Tabar’s dual role across Bit Digital and WhiteFiber could reshape the company’s...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 19m ago
 
 ---
 
 **[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -213,6 +199,22 @@ CNBC • 2d ago
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
 CCN.com • 1d ago
+
+---
+
+**[Why Bitcoin, Ethereum & XRP Prices are Going Down Now?](https://www.tradingview.com/news/coinpedia:b3955e3e4094b:0-why-bitcoin-ethereum-xrp-prices-are-going-down-now/)**
+
+Why are Bitcoin, Ethereum, and XRP Prices going down at the same time? Every trader is currently looking for this answer, as the tokens dropped suddenly in the times when they were believed to maintain a bullish continuation. After a strong start to the year, the crypto market has turned defensive…
+
+TradingView — Track All Markets • 9h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP steady as ETF inflows surge](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-uptrend-cools-amid-surging-etf-inflows-202601061200)**
+
+Bitcoin (BTC) is retracing toward support at $93,000 at the time of writing on Tuesday, after reaching a previous day’s high of $94,789. Ethereum (ETH) and Ripple (XRP) uptrend has cooled after several days of persistent gains, suggesting potential profit-taking.
+
+FXStreet • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 191 • 💬 6 • ⏱️ 4:16 • 11h ago
+👁️ 2K • 👍 191 • 💬 6 • ⏱️ 4:16 • 12h ago
 
 ---
 
@@ -266,7 +268,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 271 • 💬 206 • ⏱️ 19:40 • 7h ago
+👁️ 6K • 👍 271 • 💬 206 • ⏱️ 19:40 • 8h ago
 
 ---
 
@@ -276,7 +278,7 @@ Ethereum is on the verge of a massive institutional breakout! In today's video, 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 409 • 💬 8 • ⏱️ 1:08:45 • 11h ago
+👁️ 6K • 👍 409 • 💬 8 • ⏱️ 1:08:45 • 12h ago
 
 ---
 
@@ -316,7 +318,7 @@ Get Daily Bitcoin & Crypto Signals (VIP Discord) https://www.patreon.com/ThomasB
 
 📺 Thomas Boleto – Bitcoin Insights
 
-👁️ 83 • 👍 12 • 💬 3 • ⏱️ 12:49 • 2h ago
+👁️ 83 • 👍 12 • 💬 3 • ⏱️ 12:49 • 3h ago
 
 ---
 
