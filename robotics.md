@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T17:27:29.948899+00:00'
+updated: '2026-01-08T17:52:58.877213+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 17:27 UTC  
+**Last Updated:** January 08, 2026 at 17:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,21 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-3h ago
+4h ago
 
 ---
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
 14h ago
+
+---
+
+**[Saw the Brand-new Narwal Flow 2 at CES](https://www.reddit.com/r/robotics/comments/1q7gak8/saw_the_brandnew_narwal_flow_2_at_ces/)**
+
+I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
+
+1h ago
 
 ---
 
@@ -52,7 +60,7 @@ Robotics research and industry news
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -72,15 +80,15 @@ I’ve been noticing how differently people react to robots depending on whether
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-11h ago
+12h ago
 
 ---
 
-**[Saw the Brand-new Narwal Flow 2 at CES](https://www.reddit.com/r/robotics/comments/1q7gak8/saw_the_brandnew_narwal_flow_2_at_ces/)**
+**[How is my resume??](https://www.reddit.com/r/robotics/comments/1q76azl/how_is_my_resume/)**
 
-I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
+Recently graduated with 1 year experience(Intern). Do I have chance of landing job anywhere in this cooked economy? Feel free to roast and dissect my resume and give as much advice as possible. If someone really wants to give in depth review of my resume I can also dm the original pdf so that you can access all the links.
 
-59m ago
+9h ago
 
 ---
 
@@ -92,21 +100,13 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 ---
 
-**[I Made a "One Button Microwave" Because I Don't like Typing Numbers into the Keypad](https://www.reddit.com/r/robotics/comments/1q7b288/i_made_a_one_button_microwave_because_i_dont_like/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=eePztvQnwJQ) • 4h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 17h ago
+Reuters • 18h ago
 
 ---
 
@@ -118,11 +118,9 @@ Seeking Alpha • 7h ago
 
 ---
 
-**[Arm reorganizes around Physical AI as enterprise robotics gains momentum](https://www.computerworld.com/article/4114329/arm-reorganizes-around-physical-ai-as-enterprise-robotics-gains-momentum.html)**
+**[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
 
-The move highlights how expanding enterprise robotics deployments are forcing CIOs to rethink where AI systems run.
-
-Computerworld • 6h ago
+TipRanks • 12h ago
 
 ---
 
@@ -134,27 +132,41 @@ hyundai.com • 2d ago
 
 ---
 
-**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
+**[Inside RobotLAB: How Texas company is helping businesses nationwide fill labor gaps with AI](https://www.foxbusiness.com/technology/inside-robotlab-how-texas-company-helping-businesses-nationwide-fill-labor-gaps-ai)**
 
-Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
+Fox News gets an exclusive look at RobotLAB, a company using AI-powered robots to boost efficiency, fill labor gaps and reshape industries nationwide.
 
-Fortune • 4h ago
-
----
-
-**[Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1](https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/)**
-
-NVIDIA is introducing the NVIDIA Jetson T4000, bringing high-performance AI and real-time reasoning to a wider range of robotics and edge AI applications. Optimized for tighter power and thermal…
-
-NVIDIA Developer • 2d ago
+Fox Business • 1h ago
 
 ---
 
-**[NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots](https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots)**
+**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
 
-NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.
+Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
 
-NVIDIA Newsroom • 2d ago
+NVIDIA Developer • 22m ago
+
+---
+
+**[Mobileye buys Shashua's Mentee Robotics for $900m](https://www.jpost.com/business-and-innovation/article-882710)**
+
+Mobileye has $1.7 billion in cash, so even after the transaction it will hold over $1 billion in cash
+
+The Jerusalem Post • 8h ago
+
+---
+
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqddC9RP3-NuUG23iplNet6xiw8GeHGvvvPsv34B8xAVYdCc72m9dzTY&gaa_ts=695ff266&gaa_sig=u3qa7AKhSQeh7Q-JB3kt9UZ--l7H2mjjCTcyagGWJKTsgf5oEEse-1lUOnSHS081dQuN8eLbK1nJqEusbl1qZA%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/)**
+
+Mentee Robotics was co-founded by Mobileye president Amnon Shashua.
+
+TechCrunch • 1d ago
 
 ---
 
@@ -162,21 +174,7 @@ NVIDIA Newsroom • 2d ago
 
 Analysts have gotten increasingly bullish on this company since announcing it has deployed the largest sidewalk delivery fleet in the U.S.
 
-CNBC • 21h ago
-
----
-
-**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
-
-The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
-
-International Federation of Robotics • 10h ago
-
----
-
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfBSqQifT_5kZrjcUYfbs4s3qR6uycBqnA6pke2s4A-JpsGlNWsEEAJ&gaa_ts=695fdf86&gaa_sig=tSSeaiDShRmwUR7m3d0SYtb6wnWxUsjK7kk_-N8ChK-Wysy5POi-803n0o1SMGzxshVTWSh_IAwddBfBEe1Nyw%3D%3D)**
-
-The Wall Street Journal • 1d ago
+CNBC • 22h ago
 
 ---
 

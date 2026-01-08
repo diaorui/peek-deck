@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T17:27:29.939546+00:00'
+updated: '2026-01-08T17:52:58.868014+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 17:27 UTC  
+**Last Updated:** January 08, 2026 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,583.07
+### $91,085.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +0.6%  
-**30d:** -1.6%  
-**90d:** -18.1%  
-**1y:** -2.1%  
+**24h:** +0.6%  
+**7d:** +1.5%  
+**30d:** -0.7%  
+**90d:** -17.4%  
+**1y:** -1.1%  
 
 ---
 
@@ -87,7 +87,7 @@ It will be 🔥💪 actually I heard rumours China has been buying lots of Gold 
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ It will be 🔥💪 actually I heard rumours China has been buying lots of Gold 
 
 BTC
 
-1h ago
+2h ago
 
 ---
 
@@ -129,15 +129,15 @@ People who bought Bitcoin before the ETFs
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-22h ago
+23h ago
 
 ---
 
-**[Bitcoin fixes this*](https://www.reddit.com/r/Bitcoin/comments/1q6kwkl/bitcoin_fixes_this/)**
+**[I only invest in bitcoin ? Is it good for me?](https://www.reddit.com/r/Bitcoin/comments/1q78h8s/i_only_invest_in_bitcoin_is_it_good_for_me/)**
 
-\ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
+I don’t want to try any other stocks, ETFs, or crypto. I think Bitcoin is the best option for me. I am trying to learn more about Bitcoin on YouTube, so I invested $3,000 and plan to invest more. I am not taking big risks; I am just experimenting. Is it good or bad that I am sticking only with Bitcoin? This is not advice seeking Post (just for discussion)
 
-1d ago
+7h ago
 
 ---
 
@@ -145,7 +145,7 @@ People who bought Bitcoin before the ETFs
 
 How much $BTC did you add last year? https://preview.redd.it/7i8wab6h54cg1.jpg?width=1272&format=pjpg&auto=webp&s=cfd46f8ab14717a5059ebe0f46d7c328425e8034
 
-5h ago
+6h ago
 
 ---
 
@@ -169,19 +169,19 @@ Fortune • 1d ago
 
 ---
 
-**[Florida lawmaker files bill to establish strategic bitcoin reserve](https://finance.yahoo.com/news/florida-lawmaker-files-bill-establish-152214757.html)**
+**[​​Bitcoin mining stocks rise as bitcoin flirts with $90,000](https://finance.yahoo.com/news/bitcoin-mining-stocks-rise-bitcoin-154538827.html)**
 
-Representative Snyder is pushing a bill to establish a bitcoin reserve in Florida.
+Bitcoin mining stock prices opened in the green on Thursday despite volatility with bitcoin's price.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
+**[Will a Supreme Court Ruling Against Trump Cause a Bitcoin Crash?](https://bitcoinmagazine.com/politics/supreme-court-cause-a-bitcoin-crash)**
 
-If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
+Bitcoin could face heightened volatility if the Supreme Court rules against Trump on his global tariffs, impacting markets across crypto, equities, and bonds.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -201,6 +201,26 @@ The Motley Fool • 6h ago
 
 ---
 
+**[Bitcoin Miners Shift From Crypto to AI Data Centers](https://www.etftrends.com/coinshares-content-hub/bitcoin-miners-shift-crypto-ai-data-centers/)**
+
+ETF Trends • 21h ago
+
+---
+
+**[Bitcoin miners chase AI demand as Nvidia says Rubin is already in production](https://www.coindesk.com/markets/2026/01/07/bitcoin-miners-chase-ai-demand-as-nvidia-says-rubin-is-already-in-production)**
+
+Miners that look like infrastructure companies may win, while those that rely on pure mining margins face a tougher 2026.
+
+CoinDesk • 1d ago
+
+---
+
+**[Popular AI stock jumps 30% as Bitcoin treasury exceeds market cap](https://www.thestreet.com/crypto/markets/popular-ai-stock-jumps-30-as-bitcoin-holdings-exceed-market-cap)**
+
+thestreet.com • 23h ago
+
+---
+
 **[Chinese tycoon tied to $11B ‘pig butchering’ bitcoin scam taken into custody](https://nypost.com/2026/01/07/business/chinese-tycoon-tied-to-11b-pig-butchering-bitcoin-scam-taken-into-custody/)**
 
 Chen Zhi, chairman of Prince Group, was arrested by law enforcement officials in Cambodia and extradited to China, government officials said.
@@ -209,35 +229,21 @@ New York Post • 21h ago
 
 ---
 
-**[Bitcoin Depot, a top crypto ATM vendor, to pay nearly $2M to compensate fraud victims](https://abcnews.go.com/US/bitcoin-depot-top-crypto-kiosk-vendor-pay-2m/story?id=128951890)**
-
-Cryptocurrency kiosk vendor Bitcoin Depot has agreed to pay the state of Maine nearly $2 million as part of a settlement to compensate victims of fraud.
-
-abcnews.go.com • 1d ago
-
----
-
-**[Alleged Crypto Scam Kingpin Arrested in Cambodia After $12 Billion Bitcoin Seizure](https://decrypt.co/353897/alleged-crypto-scam-kingpin-arrested-cambodia-12-billion-bitcoin-seizure)**
-
-The alleged mastermind of a major crypto scam ring that stole billions was arrested in Cambodia this week and extradited to China.
-
-Decrypt • 21h ago
-
----
-
-**[Bitcoin Miners Shift From Crypto to AI Data Centers](https://www.etftrends.com/coinshares-content-hub/bitcoin-miners-shift-crypto-ai-data-centers/)**
-
-ETF Trends • 21h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
+**[Bitcoin Security](https://news.ycombinator.com/item?id=46467633)**
+
+A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
+
+⬆️ 5 • 💬 3 • 5d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+
+---
+
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 5 • 💬 1 • 5h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 5 • 💬 1 • 6h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -246,14 +252,6 @@ ETF Trends • 21h ago
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
 ⬆️ 4 • 💬 3 • 4d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
-
----
-
-**[Bitcoin Security](https://news.ycombinator.com/item?id=46467633)**
-
-A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
-
-⬆️ 4 • 💬 3 • 5d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -317,7 +315,7 @@ Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://yout
 
 📺 MMCrypto
 
-👁️ 13K • 👍 1K • 💬 273 • ⏱️ 4:15 • 5h ago
+👁️ 13K • 👍 1K • 💬 273 • ⏱️ 4:15 • 6h ago
 
 ---
 
@@ -327,7 +325,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 388 • 💬 246 • ⏱️ 9:41 • 16h ago
+👁️ 7K • 👍 388 • 💬 246 • ⏱️ 9:41 • 17h ago
 
 ---
 
@@ -347,7 +345,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 486 • 💬 67 • ⏱️ 7:28 • 10h ago
+👁️ 8K • 👍 486 • 💬 67 • ⏱️ 7:28 • 11h ago
 
 ---
 
@@ -357,7 +355,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 80K • 👍 5K • 💬 424 • ⏱️ 19:29 • 20h ago
+👁️ 80K • 👍 5K • 💬 424 • ⏱️ 19:29 • 21h ago
 
 ---
 

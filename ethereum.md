@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-08T17:27:29.945620+00:00'
+updated: '2026-01-08T17:52:58.874022+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 17:27 UTC  
+**Last Updated:** January 08, 2026 at 17:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,097.92
+### $3,125.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -0.4%  
-**30d:** -6.4%  
-**90d:** -17.3%  
-**1y:** -3.5%  
+**24h:** -0.1%  
+**7d:** +0.3%  
+**30d:** -5.7%  
+**90d:** -16.7%  
+**1y:** -2.8%  
 
 ---
 
@@ -98,7 +98,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 **[2026 Web3 Events Repository](https://www.reddit.com/r/ethereum/comments/1q7dmjf/2026_web3_events_repository/)**
 
-🔗 [thrilldlabs.io](https://www.thrilldlabs.io/blog-posts/2026-web3-event-repository) • 2h ago
+🔗 [thrilldlabs.io](https://www.thrilldlabs.io/blog-posts/2026-web3-event-repository) • 3h ago
 
 ---
 
@@ -114,7 +114,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments and overpromising startups,
 
-🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 19h ago
+🔗 [Bitcoin Insider](https://www.bitcoininsider.org/article/290237/independent-review-fortisxfi-strengthens-its-position-successful-cyberscope-audit) • 20h ago
 
 ---
 
@@ -140,33 +140,25 @@ PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments a
 
 ## Google News: "ethereum"
 
-**[BitMine makes smallest purchase of ethereum as asset rises in the new year](https://sherwood.news/crypto/bitmine-makes-smallest-purchase-of-ethereum-as-asset-rises-in-the-new-year/)**
-
-Last week, BitMine accrued 32,977 ethereum tokens, bringing its total to over 4.1 million, more than  double the combined stockpile of the next...
-
-Sherwood News • 3d ago
-
----
-
-**[Ethereum's Blockchain Trilemma 'Solved': Vitalik Buterin](https://decrypt.co/353587/ethereums-blockchain-trilemma-solved-vitalik-buterin)**
-
-The Ethereum co-founder said upgrades allow the network to achieve decentralization, security and scalability at once.
-
-Decrypt • 3d ago
-
----
-
 **[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
 
 The Block • 16h ago
 
 ---
 
-**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
+**[Ethereum Staking Demand Spikes with Tom Lee’s BitMine Leading](https://finance.yahoo.com/news/ethereum-staking-demand-spikes-tom-101856437.html)**
 
-Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
+Ethereum ETH $3 227 24h volatility: 1.9% Market cap: $389.53 B Vol. 24h: $24.29 B staking demand is once again on the rise, with a major drop in the exit queue for the first time since July 2025. Market analysts noted that this could ease the near-term selling pressure on ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Truebit Protocol Hit by Suspected $26 Million Ethereum Hack](https://finance.yahoo.com/news/truebit-protocol-hit-suspected-26-172207725.html)**
+
+Cyvers flags a suspected $26 million Ethereum transaction linked to Truebit Protocol, as questions emerge over a potential security breach.
+
+Yahoo Finance • 30m ago
 
 ---
 
@@ -174,13 +166,29 @@ Yahoo Finance • 1d ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
 CCN.com • 2d ago
+
+---
+
+**[Ethereum has long talked a big game. Now it’s time for the second biggest blockchain to deliver](https://fortune.com/crypto/2026/01/05/ethereum-2026-vitalik-buterin-fork-in-the-road/)**
+
+Cofounder Vitalik Buterin offers a bracing wake-up message for 2026.
+
+Fortune • 3d ago
+
+---
+
+**[Ethereum Price Latest Push Raises Question: Has a Short-Term Top Formed?](https://www.tradingview.com/news/newsbtc:cfd501f23094b:0-ethereum-price-latest-push-raises-question-has-a-short-term-top-formed/)**
+
+Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
+
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -192,25 +200,19 @@ CNBC • 2d ago
 
 ---
 
-**[Grayscale begins distributing staking rewards to Ethereum ETF investors in 'landmark moment'](https://www.theblock.co/post/384337/grayscale-begins-staking-rewards-ethereum-etf-investors-landmark-moment)**
+**[Ethereum Network Usage Hits Record High—But Traders More Bullish on Gold](https://decrypt.co/353688/ethereum-network-usage-hits-record-high-but-traders-more-bullish-on-gold)**
 
-The Block • 3d ago
-
----
-
-**[Grayscale's Ethereum ETF Begins Paying Staking Rewards](https://decrypt.co/353677/grayscales-ethereum-etf-begins-paying-staking-rewards)**
-
-The Ethereum payout marks the first time a U.S. spot crypto product has distributed protocol-level income to investors.
+Ethereum's daily transactions hit a record 2.02M driven by RWA tokenization, yet prediction markets show traders are more bullish on gold.
 
 Decrypt • 2d ago
 
 ---
 
-**[Ethereum Price Latest Push Raises Question: Has a Short-Term Top Formed?](https://www.tradingview.com/news/newsbtc:cfd501f23094b:0-ethereum-price-latest-push-raises-question-has-a-short-term-top-formed/)**
+**[Why Bitcoin, Ethereum & XRP Prices are Going Down Now?](https://www.tradingview.com/news/coinpedia:b3955e3e4094b:0-why-bitcoin-ethereum-xrp-prices-are-going-down-now/)**
 
-Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
+Why are Bitcoin, Ethereum, and XRP Prices going down at the same time? Every trader is currently looking for this answer, as the tokens dropped suddenly in the times when they were believed to maintain a bullish continuation. After a strong start to the year, the crypto market has turned defensive…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 21h ago
 
 ---
 
@@ -224,7 +226,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 855 • 👍 86 • 💬 9 • ⏱️ 11:47 • 4h ago
+👁️ 855 • 👍 86 • 💬 9 • ⏱️ 11:47 • 5h ago
 
 ---
 
@@ -284,7 +286,7 @@ BITCOIN WARNING: It's Happening AGAIN (Get Ready)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 10K • 👍 326 • 💬 208 • ⏱️ 19:40 • 20h ago
+👁️ 10K • 👍 326 • 💬 208 • ⏱️ 19:40 • 21h ago
 
 ---
 
