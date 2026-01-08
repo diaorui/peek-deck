@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-08T07:46:01.086989+00:00'
+updated: '2026-01-08T08:32:53.073411+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 08, 2026 at 07:46 UTC  
+**Last Updated:** January 08, 2026 at 08:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
-10h ago
+11h ago
 
 ---
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Closer look at the new Atlas model from Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q6ldex/closer_look_at_the_new_atlas_model_from_boston/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -60,13 +60,13 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 **[Walking robot 3d printed](https://www.reddit.com/r/robotics/comments/1q73p67/walking_robot_3d_printed/)**
 
-1h ago
+2h ago
 
 ---
 
 **[I got to box a robot at CES](https://www.reddit.com/r/robotics/comments/1q6h9zt/i_got_to_box_a_robot_at_ces/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -74,13 +74,13 @@ From Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/200869841151264770
 
 Humanoid robots have been getting a lot of attention lately, with recent demos like Unitree Robotics and NEO home robot pushing toward general-purpose capability. At the same time, assistive exoskeletons seem to be making quieter progress. Just saw a news that a Korean institute KAIST has created an exoskeleton that helps paralyzed people stand, walk, also some consumer-level devices such as dnsysX1 target mobility support for older adults rather than full autonomy. Humanoids aim for versatility, but translating demos into real-world deployment is still unclear. Questions around cost, safety, maintenance, reliability, and clear use cases remain largely unresolved outside controlled environments. Exoskeletons, by contrast, tend to slot into existing workflows more easily by targeting narrow, well-defined problems and keeping humans in control. Curious how people here see it. Which do you think has more development potential over the next 10-15 years, and why?
 
-1h ago
+2h ago
 
 ---
 
 **[Day 107 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q6cj57/day_107_of_building_asimov_an_opensource_humanoid/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Humanoid robots have been getting a lot of attention lately, with recent demos l
 
 Here's the construction of the car's control panel that I'll be making later! The car only needs one of the tires and some wires to be finished, as I don't have enough of them.
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Here's the construction of the car's control panel that I'll be making later! Th
 
 Environment Description The Franka lift cube task environment is built based on the real Franka Emika Panda 7-DOF robotic arm, designed to train robots to grasp a cube on a table and lift it to a specified target position. Robot Structure Franka Emika Panda is a 7-DOF robotic arm composed of the following main parts: Base: Robot base fixed to the table 7 Joints: joint1 ~ joint4: Shoulder and arm rotation joints joint5 ~ joint7: Wrist rotation joints Gripper: Two-finger gripper, containing two finger joints finger_joint1: Left finger joint finger_joint2: Right finger joint End Effector (TCP): Center point of gripper, used for grasping operations Task Objective The robot needs to complete the following operation objectives: Approach Target: Move from initial position to cube position Grasp Cube: Close gripper to grasp cube Lift Cube: Lift cube to target height Precise Positioning: Move cube to specified target position (XYZ 3D coordinates) The environment provides visualization aids: Cube: Red cube that can be grasped, initially at random position on table Target Position: 3D position where the cube should finally reach
 
-20h ago
+21h ago
 
 ---
 
@@ -114,13 +114,13 @@ Reuters • 8h ago
 
 Chip technology company Arm Holdings has reorganized the company to create a Physical AI unit to expand its presence in the robotics market, company executives told Reuters at CES, where robots are a theme of the year.  The decision to create a ​unit that specializes in robotics arrives amid a flurry of announcements and activity at CES around humanoid robots.  At the sprawling Las Vegas trade show, large ‌and small companies demonstrated robots that could help build cars, clean toilets and deal games of poker - at a glacial pace.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Arm Holdings Creates New ‘Physical AI’ Unit to Expand into Robotics](https://www.tipranks.com/news/arm-holdings-creates-new-physical-ai-unit-to-expand-into-robotics)**
 
-TipRanks • 10h ago
+TipRanks • 11h ago
 
 ---
 
@@ -146,7 +146,7 @@ CTech • 1d ago
 
 **[Dancing Isn't Enough: Industry Pushes For Practical Robots](https://www.barrons.com/articles/dancing-isn-t-enough-industry-pushes-for-practical-robots-36bed794?gaa_at=eafs&gaa_n=AWEtsqfNi6Lzi7yLYgMqwiVD8GgOGGJnBEAbMX5pKNsU6mhO9mdv1LZlTxST&gaa_ts=695f641f&gaa_sig=8eNSj3QoD5CykDcHvOMsM8s1j0Ci_hDQV8kXvT2ecYjklY7RpEhCNSAyCDSC8hJaQqJ7jGfdLmhiSdoBnitD2Q%3D%3D)**
 
-Barron's • 23m ago
+Barron's • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 31K • 👍 819 • 💬 130 • ⏱️ 4:29 • 15h ago
+👁️ 31K • 👍 819 • 💬 130 • ⏱️ 4:29 • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 
 📺 CNET
 
-👁️ 6K • 👍 137 • 💬 53 • ⏱️ 5:07 • 8h ago
+👁️ 6K • 👍 137 • 💬 53 • ⏱️ 5:07 • 9h ago
 
 ---
 

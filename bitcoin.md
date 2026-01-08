@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-08T07:46:01.077091+00:00'
+updated: '2026-01-08T08:32:53.063875+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 08, 2026 at 07:46 UTC  
+**Last Updated:** January 08, 2026 at 08:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Devin Vassell from the San Antonio Spurs knows what's up](https://www.reddit.com/r/Bitcoin/comments/1q72vfh/devin_vassell_from_the_san_antonio_spurs_knows/)**
 
-2h ago
+3h ago
 
 ---
 
 **[JACK DORSEY : Buy Bitcoin from an exchange and move it to a hardware key you control.](https://www.reddit.com/r/Bitcoin/comments/1q6ndnj/jack_dorsey_buy_bitcoin_from_an_exchange_and_move/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 People who bought Bitcoin before the ETFs
 
-6h ago
+7h ago
 
 ---
 
@@ -101,25 +101,25 @@ People who bought Bitcoin before the ETFs
 
 \ real bitcoin, not stocks, not IOUs, not ETFs, not "bitcoin" on another blockchain*
 
-14h ago
+15h ago
 
 ---
 
 **[You open the Bitcoin chart and it’s just… vibes 😂](https://www.reddit.com/r/Bitcoin/comments/1q735l0/you_open_the_bitcoin_chart_and_its_just_vibes/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Chose a custom private key instead of randomly generated one and why are there so many transactions on it?](https://www.reddit.com/r/Bitcoin/comments/1q6l3j2/chose_a_custom_private_key_instead_of_randomly/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Where will bitcoin run to next. 100k?](https://www.reddit.com/r/Bitcoin/comments/1q6zckv/where_will_bitcoin_run_to_next_100k/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ People who bought Bitcoin before the ETFs
 
 Once these last longs are liquidated, I bet we rocket past $95k.
 
-10h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ I have just bought my first 100$ worth of bitcoin!
 
 **[Mining](https://www.reddit.com/r/Bitcoin/comments/1q6byr2/mining/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -153,7 +153,7 @@ I have just bought my first 100$ worth of bitcoin!
 
 Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 1d ago
 
 Strategy shares (MSTR) jumped after MSCI decided not to exclude bitcoin-heavy firms from its indexes.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 1d ago
 
 Morgan Stanley recently filed S-1 registration statements with the U.S. Securities and Exchange Commission to launch the Morgan Stanley Bitcoin Trust and Morgan Stanley Solana Trust, exchange-traded products designed to track the prices of Bitcoin and Solana and offer regulated crypto exposure to investors. This move makes Morgan Stanley the first major U.S. bank with a large wealth management arm to sponsor its own spot crypto ETFs, signaling a deeper commitment to digital assets and a bid...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 CryptoQuant chief executive Ki Young Ju expects Bitcoin to trade sideways through the first quarter of 2026, warning that capital inflows into the asset have slowed as investors rotate back into traditional markets. Key Takeaways: CryptoQuant’s Ki Young Ju expects Bitcoin to trade sideways in early 2026 as capital flows ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -245,7 +245,7 @@ A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives cre
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 18h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 19h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -279,7 +279,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 10h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 0 • 11h ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -287,7 +287,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 16h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 17h ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -307,7 +307,7 @@ Thanks to iTrustCapital for sponsoring this video. Sign Up With iTrustCapital $1
 
 📺 Dan Gambardello
 
-👁️ 27K • 👍 2K • 💬 291 • ⏱️ 12:06 • 13h ago
+👁️ 27K • 👍 2K • 💬 291 • ⏱️ 12:06 • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 13K • 👍 575 • 💬 5 • ⏱️ 43:55 • 9h ago
+👁️ 13K • 👍 575 • 💬 5 • ⏱️ 43:55 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 292 • 💬 142 • ⏱️ 9:41 • 7h ago
+👁️ 4K • 👍 292 • 💬 142 • ⏱️ 9:41 • 8h ago
 
 ---
 
@@ -347,7 +347,7 @@ Buy, Sell, Trade Crypto (limited time): ✓ Bitunix (no kyc, $100000 bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 81 • ⏱️ 9:00 • 8h ago
+👁️ 22K • 👍 1K • 💬 81 • ⏱️ 9:00 • 9h ago
 
 ---
 
@@ -387,7 +387,7 @@ The Wall St attack on bitcoin is finally exposed for what it is!
 
 📺 Swan Bitcoin
 
-👁️ 22K • 👍 1K • 💬 108 • ⏱️ 13:35 • 17h ago
+👁️ 22K • 👍 1K • 💬 108 • ⏱️ 13:35 • 18h ago
 
 ---
 
