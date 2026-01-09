@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T06:36:43.992560+00:00'
+updated: '2026-01-09T07:26:46.381433+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 06:36 UTC  
+**Last Updated:** January 09, 2026 at 07:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
+**24h:** +1.0%  
 **7d:** +0.5%  
 **30d:** -1.6%  
 **90d:** -20.9%  
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1815.34B
+**Market Cap:** $1816.16B
 Rank #1
 
 **Circulating Supply:** 19,973,353 BTC
@@ -64,7 +64,7 @@ Rank #1
 -27.9%
 
 **All-Time Low:** $67.81
-+133946.6%
++133993.8%
 
 ---
 
@@ -79,21 +79,7 @@ Rank #1
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-4h ago
-
----
-
-**[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
-
-11h ago
-
----
-
-**[Bitcoin rn](https://www.reddit.com/r/Bitcoin/comments/1q7f1y7/bitcoin_rn/)**
-
-BTC
-
-14h ago
+5h ago
 
 ---
 
@@ -101,13 +87,21 @@ BTC
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-2h ago
+3h ago
+
+---
+
+**[Bitcoin rn](https://www.reddit.com/r/Bitcoin/comments/1q7f1y7/bitcoin_rn/)**
+
+BTC
+
+15h ago
 
 ---
 
 **[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,19 +109,31 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 Anything I should know about?
 
-3h ago
+4h ago
+
+---
+
+**[Tax it, or print it?](https://www.reddit.com/r/Bitcoin/comments/1q80fbk/tax_it_or_print_it/)**
+
+1h ago
+
+---
+
+**[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
+
+12h ago
 
 ---
 
 **[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -139,31 +145,27 @@ Central banks reported record-breaking Gold accumulation throughout 2025, but th
 
 ---
 
-**[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/Bitcoin/comments/1q7sdbu/built_a_tool_to_resist_coercitive_seizure_of_my/)**
-
-Key features: - 3-layer architecture: decoy/hidden/panic - Cryptographically indistinguishable layers (like VeraCrypt hidden volumes) - Client-side XChaCha20-Poly1305 encryption - IPFS decentralized storage - RAM-only key storage (forensics-resistant) - 100% free, all the code is open https://github.com/Teycir/Sanctum
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[‘Deeply undervalued’ bitcoin faces continued bear market with no clear upside catalyst](https://www.coindesk.com/markets/2026/01/08/bitcoin-may-be-in-for-a-more-boring-but-nevertheless-positive-year)**
+**[Bitcoin Price Falls. Cryptos Are Fizzling Again.](https://www.barrons.com/articles/bitcoin-price-today-crypto-selloff-434a0257?gaa_at=eafs&gaa_n=AWEtsqfJVV_mgBmABrGCBYDB81urussCVb7oQWqZ6a3Tpll4NqpkrESjRgJr&gaa_ts=6960b120&gaa_sig=J-sx1i320eXS_yMLDPt9akgyxEJhV-t0j-_8qOiimRZMMxndGRaiaxBSGO7RgZi1mhbv7iBK1McjwhjWql2EIw%3D%3D)**
 
-Experts say the next major rally may come only when long-term holders are exhausted, and true institutional capital enters the market.
-
-CoinDesk • 11h ago
+Barron's • 22h ago
 
 ---
 
-**[3 Key Signals Suggest Bitcoin Could Be Primed for a Short Squeeze](https://finance.yahoo.com/news/3-key-signals-suggest-bitcoin-044141949.html)**
+**[Spot bitcoin ETFs shift to negative flows, posting $243 million in outflows](https://www.theblock.co/post/384566/spot-bitcoin-etfs-shift-to-negative)**
 
-Bitcoin sees volatility in early 2026 as key indicators signal a potential BTC short squeeze as bearish positioning rises.
+The Block • 2d ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
+
+Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
+
+CoinDesk • 34m ago
 
 ---
 
@@ -171,7 +173,7 @@ Yahoo Finance • 1h ago
 
 Tactical de-risking and declining investor sentiment are the reasons behind the recent spot U.S. ETF outflows, Decrypt was told.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -179,35 +181,7 @@ Yahoo Finance • 2h ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 19h ago
-
----
-
-**[Stanford professor raises $15 million for Babylon, a decentralized protocol to turn Bitcoin into collateral](https://fortune.com/2026/01/07/stanford-professor-raises-15-million-for-babylon/)**
-
-The startup aims to provide an alternative to platforms like Coinbase and Tether for those seeking to put their Bitcoin to work.
-
-Fortune • 1d ago
-
----
-
-**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
-
-If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
-
-The Block • 1d ago
-
----
-
-**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
-
-Investor's Business Daily • 2d ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -219,9 +193,33 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Miners Shift From Crypto to AI Data Centers](https://www.etftrends.com/coinshares-content-hub/bitcoin-miners-shift-crypto-ai-data-centers/)**
+**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
 
-ETF Trends • 1d ago
+Investor's Business Daily • 2d ago
+
+---
+
+**[Morgan Stanley files for ether trust after bitcoin and solana ETF push](https://www.coindesk.com/business/2026/01/07/morgan-stanley-files-for-ether-trust-after-bitcoin-and-solana-etf-push)**
+
+The Wall Street giant is widening its crypto push, following bitcoin and solana ETF filings with a potential Ethereum trust.
+
+CoinDesk • 1d ago
+
+---
+
+**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
+
+If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Venezuela rumored to hold $60B Bitcoin ‘shadow reserve’](https://fortune.com/2026/01/07/corruption-embezzlement-missing-money-venezuela-rumored-60-billion-bitcoin-shadow-reserve/)**
+
+If true, the claim could significantly reshape the global bitcoin market.
+
+Fortune • 1d ago
 
 ---
 
@@ -233,13 +231,13 @@ ETF Trends • 1d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 43 • 💬 3 • 7h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 8h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 18h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 19h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -271,7 +269,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 20h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 21h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -311,7 +309,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 35K • 👍 2K • 💬 242 • ⏱️ 16:13 • 9h ago
+👁️ 42K • 👍 2K • 💬 265 • ⏱️ 16:13 • 10h ago
 
 ---
 
@@ -321,57 +319,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 3K • 👍 205 • 💬 38 • ⏱️ 10:06 • 12h ago
-
----
-
-**[You’re Reading Bitcoin’s Price Wrong (Here’s Why)](https://www.youtube.com/watch?v=8DtGkJ0xYJI)**
-
-Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream using elite strategies that unlock Bitcoin's true ...
-
-📺 Mark Moss
-
-👁️ 15K • 👍 936 • 💬 53 • ⏱️ 13:19 • 9h ago
-
----
-
-**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
-
-📺 Crypto Crew University
-
-👁️ 42K • 👍 3K • 💬 228 • ⏱️ 17:35 • 16h ago
-
----
-
-**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
-
-Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 11K • 👍 1K • 💬 92 • ⏱️ 11:14 • 5h ago
-
----
-
-**[This Crash Is Not NORMAL! This Is Pure Crypto Manipulation - Michael Saylor](https://www.youtube.com/watch?v=rSYUHAJtRaE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 485 • 💬 46 • ⏱️ 16:32 • 11h ago
-
----
-
-**[Bitcoin Suicide Rally (what this means)](https://www.youtube.com/watch?v=aU3SfYnwvO8)**
-
-NEW WEEKLY REPORTS, NEW SUBSCRIBERS GET ACCESS HERE → https://tiainvestor.com/subscribe/ NAVIGATE YOUR ...
-
-📺 Michael Pizzino
-
-👁️ 2K • 👍 306 • 💬 38 • ⏱️ 8:08 • 4h ago
+👁️ 4K • 👍 237 • 💬 36 • ⏱️ 10:06 • 13h ago
 
 ---
 
@@ -381,27 +329,77 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 71 • ⏱️ 25:57 • 6h ago
+👁️ 16K • 👍 2K • 💬 133 • ⏱️ 25:57 • 7h ago
 
 ---
 
-**[YOU MUST SELF-CUSTODY YOUR BITCOIN NOW BEFORE IT&#39;S TOO LATE!](https://www.youtube.com/watch?v=0NYxgEtcWOs)**
+**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
 
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
 
-📺 Adam Livingston
+📺 Crypto Crew University
 
-👁️ 4K • 👍 431 • 💬 113 • ⏱️ 18:38 • 9h ago
+👁️ 44K • 👍 3K • 💬 244 • ⏱️ 17:35 • 17h ago
 
 ---
 
-**[Bitcoin 2026… Why everyone is WRONG!](https://www.youtube.com/watch?v=GUts2pFuQcs)**
+**[This Crash Is Not NORMAL! This Is Pure Crypto Manipulation - Michael Saylor](https://www.youtube.com/watch?v=rSYUHAJtRaE)**
 
-Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://youtu.be/CsBco1AJVQE (click)
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 MMCrypto
+📺 Savvy Finance
 
-👁️ 29K • 👍 2K • 💬 403 • ⏱️ 4:15 • 18h ago
+👁️ 12K • 👍 534 • 💬 38 • ⏱️ 16:32 • 12h ago
+
+---
+
+**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
+
+Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 20K • 👍 1K • 💬 139 • ⏱️ 11:14 • 6h ago
+
+---
+
+**[Bitcoin Price Target | What The Charts Reveal](https://www.youtube.com/watch?v=r9ZsA0BSeFo)**
+
+Stay informed with the latest insights on **btc**, focusing on effective **trading strategy** and essential **technical analysis**.
+
+📺 Krown
+
+👁️ 8K • 👍 641 • 💬 197 • ⏱️ 13:56 • 13h ago
+
+---
+
+**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
+
+📺 Anthony Pompliano
+
+👁️ 25K • 👍 946 • 💬 28 • ⏱️ 43:55 • 1d ago
+
+---
+
+**[Selling Silver for Bitcoin! Is Now a Good Time?](https://www.youtube.com/watch?v=VEzCWwdR0pw)**
+
+Gold and Silver are up HUGE this year! Hitting new all time highs almost every week. Is now a good time to transition some of that ...
+
+📺 The Bitcoin Broadcast - Vince HodlFlorida
+
+👁️ 4K • 👍 54 • 💬 5 • ⏱️ 0:52 • 18h ago
+
+---
+
+**[You’re Reading Bitcoin’s Price Wrong (Here’s Why)](https://www.youtube.com/watch?v=8DtGkJ0xYJI)**
+
+Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream using elite strategies that unlock Bitcoin's true ...
+
+📺 Mark Moss
+
+👁️ 18K • 👍 1K • 💬 48 • ⏱️ 13:19 • 10h ago
 
 ---
 

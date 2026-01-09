@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T06:36:44.001925+00:00'
+updated: '2026-01-09T07:26:46.390633+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 06:36 UTC  
+**Last Updated:** January 09, 2026 at 07:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,21 +40,21 @@ Robotics research and industry news
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-12h ago
+13h ago
+
+---
+
+**[Hyundai’s Atlas humanoid wins Best Robot award at CES 2026](https://www.reddit.com/r/robotics/comments/1q81pmo/hyundais_atlas_humanoid_wins_best_robot_award_at/)**
+
+Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
+
+11m ago
 
 ---
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
 1d ago
-
----
-
-**[Smarter tomato-picking robots learn to judge each fruit before harvest](https://www.reddit.com/r/robotics/comments/1q7w8vo/smarter_tomatopicking_robots_learn_to_judge_each/)**
-
-New research shows robots can predict harvest success and change approach angles, reaching an 81% tomato-picking success rate.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 3h ago
 
 ---
 
@@ -68,7 +68,7 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -80,25 +80,25 @@ I’ve been noticing how differently people react to robots depending on whether
 
 ---
 
+**[Smarter tomato-picking robots learn to judge each fruit before harvest](https://www.reddit.com/r/robotics/comments/1q7w8vo/smarter_tomatopicking_robots_learn_to_judge_each/)**
+
+New research shows robots can predict harvest success and change approach angles, reaching an 81% tomato-picking success rate.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 4h ago
+
+---
+
+**[World's oldest working robotic bartender](https://www.reddit.com/r/robotics/comments/1q80tmi/worlds_oldest_working_robotic_bartender/)**
+
+We finally put our 1979 Unimate PUMA 260 to work - serving drinks! The Unimate 200 and 500 series robots were the first commercially available electric robots. Prior to then, Unimation, the first and leading robotics company, manufactured and sold hydraulic robots. VAL was the custom programming language developed by Unimation to control the PUMA robots. It is incredibly advanced and includes kinematics. This robot is using an original controller and the VAL language loaded from a 5 1/4" floppy disk that also stores the program. We were successful on the first try! If you want to see how the robot was set up - watch this video: https://www.youtube.com/watch?v=DTxBZp_J5VQ If anyone has a hydraulic Unimate, please contact me at [info@stepaudio.net](mailto:info@stepaudio.net) Cheers!
+
+🔗 [youtu.be](https://youtu.be/P0Ws43gnkgQ) • 1h ago
+
+---
+
 **[This robot behaves a little too human](https://www.reddit.com/r/robotics/comments/1q6revi/this_robot_behaves_a_little_too_human/)**
 
 1d ago
-
----
-
-**[Does anyone have an idea why pur HD Hex motor makes this noise??](https://www.reddit.com/r/robotics/comments/1q7xp0n/does_anyone_have_an_idea_why_pur_hd_hex_motor/)**
-
-After many attempts with our defective launcher we were finally able to make it launch the ball properly but it makes this really weird and loud noise. Does anyone know what causes this or how it can be fixed?
-
-2h ago
-
----
-
-**[Soy un niño de 12 años solo quería decir mi idea ya q mis familiares no me escuchan y creo que no les importa mis ideas mi idea es](https://www.reddit.com/r/robotics/comments/1q7xcbf/soy_un_niño_de_12_años_solo_quería_decir_mi_idea/)**
-
-PROYECTO: "TITÁN DE VIENTO" (Súper-Humano Robótico Clase Interceptor) Diseñador Jefe: (garfare/el vientos xd ) Año de Concepción: 2026 1. Concepto General Un robot humanoide de 4 metros de altura diseñado para el combate ágil (Karate/Artes Marciales) y misiones de precisión, controlado por un piloto humano en una cabina blindada sin puntos ciegos. 2. Sistema de Energía: "Cosecha de Energía por Aire de Impacto" Mecánica: El robot no usa combustibles fósiles tradicionales. Utiliza turbinas internas conectadas a entradas de aire en el pecho y hombros. Ventaja: Al correr o volar, absorbe viento que genera electricidad. Además, succiona humo y gases del campo de batalla para limpiar la visión del piloto. Arma de Emergencia: El polvo y los residuos atrapados en los filtros pueden ser disparados a alta presión como una cortina de humo o ataque de distracción. 3. Cabina y Control: "Cúpula de Levitación Magnética" Protección: En lugar de ventanas de vidrio, el piloto está dentro de una cúpula de metal sólido e imanes. Movimiento: La silla del piloto flota mediante levitación magnética y un sistema de giro (Gimbal) de 3 ejes. Si el robot da una voltereta, el piloto siempre se mantiene derecho, eliminando el mareo y las náuseas. Visión: El piloto usa gafas de Realidad Virtual conectadas a millones de micro-cámaras externas, eliminando los puntos ciegos. 4. IA Maestra de Asistencia (Copiloto Cognitivo) Modo Novato: Si el piloto es un principiante (detectado por escaneo de retina), la IA asiste en el equilibrio y mantenimiento preventivo. Modo Experto: Desbloquea maniobras de alta velocidad y acrobacias. Seguridad: La IA da consejos tácticos pero el control final siempre es del humano para evitar rebeliones de las máquinas. 5. Movilidad y Combate Propulsores: Motores de empuje en espalda, manos y pies para vuelo estilo "Iron Man" y cambios de dirección instantáneos. Estructura: Esqueleto de fibra de carbono ligero (menos peso que un deportivo) para permitir movimientos de Karate fluidos y ultra-veloces. Comunicación: Señales inalámbricas internas protegidas (Jaula de Faraday) para que nadie pueda hackear o bloquear el robot desde afuera. 6. Protocolo de Seguridad y Sucesión Reloj de Mando: El comandante tiene un reloj vinculado. Si este muere, el reloj selecciona automáticamente al siguiente soldado en la lista de mando para que el robot nunca quede sin control. Kill Switch: Botón de apagado remoto para inutilizar el robot si cae en manos enemigas, borrando su memoria pero salvando el hardware.
-
-3h ago
 
 ---
 
@@ -124,7 +124,7 @@ Reuters • 1d ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Wall Street Journal • 2d ago
 
 Mobileye has $1.7 billion in cash, so even after the transaction it will hold over $1 billion in cash
 
-The Jerusalem Post • 21h ago
+The Jerusalem Post • 22h ago
 
 ---
 
@@ -190,7 +190,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 118K • 👍 2K • 💬 374 • ⏱️ 4:29 • 1d ago
+👁️ 127K • 👍 2K • 💬 382 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -204,63 +204,23 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 ---
 
-**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
-
-CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
-
-📺 CNBC Television
-
-👁️ 8K • 👍 74 • 💬 19 • ⏱️ 2:58 • 2d ago
-
----
-
-**[Atlas Has Left the Lab! In-Person Demo of Boston Dynamics Humanoid | What The Future](https://www.youtube.com/watch?v=q2rR_aXjqnI)**
-
-Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where it showcased autonomy, teleoperation, and how ...
-
-📺 CNET
-
-👁️ 85K • 👍 2K • 💬 268 • ⏱️ 4:01 • 17h ago
-
----
-
 **[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
 
 I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
 
 📺 mryeester
 
-👁️ 152K • 👍 5K • 💬 204 • ⏱️ 0:39 • 12h ago
+👁️ 173K • 👍 6K • 💬 231 • ⏱️ 0:39 • 13h ago
 
 ---
 
-**[Humanoid robots steal the show at CES tech event in Las Vegas](https://www.youtube.com/watch?v=DbPg-t6m2Mg)**
+**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
 
-Excitement from the commercial AI boom and new technical advances have helped pour huge amounts of money into robotics ...
+CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
 
-📺 ShanghaiEye魔都眼
+📺 CNBC Television
 
-👁️ 6K • 👍 112 • 💬 20 • ⏱️ 4:25 • 19h ago
-
----
-
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
-
-Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
-
-📺 PCMag
-
-👁️ 588K • 👍 12K • 💬 2K • ⏱️ 7:00 • 3d ago
-
----
-
-**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
-
-Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
-
-📺 7NEWS Australia
-
-👁️ 7K • 👍 39 • 💬 14 • ⏱️ 2:25 • 2d ago
+👁️ 8K • 👍 75 • 💬 19 • ⏱️ 2:58 • 2d ago
 
 ---
 
@@ -270,17 +230,57 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 23K • 👍 294 • 💬 15 • ⏱️ 7:38 • 4d ago
+👁️ 23K • 👍 295 • 💬 15 • ⏱️ 7:38 • 4d ago
 
 ---
 
-**[SharpaWave&#39;s Crazy Robotic Hands #ces2026 #robotics #airobot #ai #humanoidrobot](https://www.youtube.com/watch?v=mgrs7nkQHgU)**
+**[Atlas Has Left the Lab! In-Person Demo of Boston Dynamics Humanoid | What The Future](https://www.youtube.com/watch?v=q2rR_aXjqnI)**
 
-Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with its new humanoid robot and its highly ...
+Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where it showcased autonomy, teleoperation, and how ...
 
-📺 Kalil 4.0
+📺 CNET
 
-👁️ 1K • 👍 36 • 💬 1 • ⏱️ 0:48 • 13h ago
+👁️ 89K • 👍 2K • 💬 272 • ⏱️ 4:01 • 18h ago
+
+---
+
+**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
+
+LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
+
+📺 JerryRigEverything
+
+👁️ 157K • 👍 7K • 💬 778 • ⏱️ 7:45 • 1d ago
+
+---
+
+**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
+
+The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
+
+📺 Dip Knows
+
+👁️ 451K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
+
+---
+
+**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
+
+Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
+
+📺 7NEWS Australia
+
+👁️ 7K • 👍 39 • 💬 13 • ⏱️ 2:25 • 2d ago
+
+---
+
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+
+📺 Unitree Robotics
+
+👁️ 4.9M • 👍 4K • 💬 954 • ⏱️ 0:32 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T06:36:43.984043+00:00'
+updated: '2026-01-09T07:26:46.372973+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 06:36 UTC  
+**Last Updated:** January 09, 2026 at 07:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-5h ago
-
----
-
-**[Linus Torvalds: "The AI slop issue is *NOT* going to be solved with documentation"](https://www.reddit.com/r/artificial/comments/1q79tmh/linus_torvalds_the_ai_slop_issue_is_not_going_to/)**
-
-The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 18h ago
+6h ago
 
 ---
 
@@ -58,6 +50,22 @@ The Linux kernel developers for months now have been debating proposed guideline
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
 🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 15h ago
+
+---
+
+**[Linus Torvalds: "The AI slop issue is *NOT* going to be solved with documentation"](https://www.reddit.com/r/artificial/comments/1q79tmh/linus_torvalds_the_ai_slop_issue_is_not_going_to/)**
+
+The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 19h ago
+
+---
+
+**[One-Minute Daily AI News 1/8/2026](https://www.reddit.com/r/artificial/comments/1q808hn/oneminute_daily_ai_news_182026/)**
+
+Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
+
+1h ago
 
 ---
 
@@ -71,7 +79,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 14h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 15h ago
 
 ---
 
@@ -79,7 +87,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +95,7 @@ I used to think “better prompt” would fix everything. Then I watched my syst
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 13h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 14h ago
 
 ---
 
@@ -99,15 +107,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 19h ago
-
----
-
-**[One-Minute Daily AI News 1/7/2026](https://www.reddit.com/r/artificial/comments/1q73vim/oneminute_daily_ai_news_172026/)**
-
-Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
-
-1d ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 20h ago
 
 ---
 
@@ -119,7 +119,7 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -127,7 +127,7 @@ CNBC • 17h ago
 
 New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
 
-WIRED • 17h ago
+WIRED • 18h ago
 
 ---
 
@@ -135,7 +135,7 @@ WIRED • 17h ago
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 17h ago
+blog.google • 18h ago
 
 ---
 
@@ -143,7 +143,7 @@ blog.google • 17h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-IEEE Spectrum • 17h ago
+IEEE Spectrum • 18h ago
 
 ---
 
@@ -151,7 +151,7 @@ IEEE Spectrum • 17h ago
 
 Deluge of ‘nudified’ images on social media platform X raises questions about regulation of use of AI technologies
 
-The Guardian • 36m ago
+The Guardian • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ The Guardian • 36m ago
 
 Elon Musk’s AI chatbot, Grok, has been flooded with sexual images of mainly women, many of them real people, by being prompted by users to “digitally undress” them and sometimes placing them in suggestive poses.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
 **[Italy’s privacy watchdog warns Grok over deepfake AI content](https://www.reuters.com/legal/litigation/italys-privacy-watchdog-warns-grok-over-deepfake-ai-content-2026-01-08/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -173,13 +173,13 @@ Reuters • 11h ago
 
 Melissa Sims said her nightmare began after she called police during an argument with her boyfriend, when she said he allegedly ransacked her home.
 
-6abc Philadelphia • 1h ago
+6abc Philadelphia • 2h ago
 
 ---
 
 **[Chinese automaker Xpeng touts AI pivot in face of fierce competition](https://www.reuters.com/business/autos-transportation/chinese-automaker-xpeng-touts-ai-pivot-face-fierce-competition-2026-01-09/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -199,13 +199,13 @@ Fortune • 1d ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 841 • 💬 1318 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 843 • 💬 1318 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 563 • 💬 192 • 11h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 603 • 💬 199 • 12h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -213,7 +213,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 476 • 💬 343 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 490 • 💬 346 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -221,15 +221,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 270 • 💬 417 • 15h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
-
----
-
-**[LMArena is a cancer on AI](https://news.ycombinator.com/item?id=46522632)**
-
-Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
-
-⬆️ 239 • 💬 98 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 287 • 💬 448 • 16h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -237,7 +229,15 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 237 • 💬 112 • 12h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 242 • 💬 113 • 13h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+
+---
+
+**[LMArena is a cancer on AI](https://news.ycombinator.com/item?id=46522632)**
+
+Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
+
+⬆️ 239 • 💬 99 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -245,15 +245,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 202 • 💬 37 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
-
----
-
-**[AI misses nearly one-third of breast cancers, study finds](https://news.ycombinator.com/item?id=46537983)**
-
-Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
-
-⬆️ 150 • 💬 83 • 23h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 204 • 💬 37 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -261,7 +253,15 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 “I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
 
-⬆️ 132 • 💬 155 • 12h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+⬆️ 154 • 💬 178 • 13h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+
+---
+
+**[AI misses nearly one-third of breast cancers, study finds](https://news.ycombinator.com/item?id=46537983)**
+
+Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
+
+⬆️ 150 • 💬 84 • 1d ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -283,7 +283,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 12K • 👍 485 • 💬 22 • ⏱️ 17:54 • 6h ago
+👁️ 24K • 👍 698 • 💬 34 • ⏱️ 17:54 • 6h ago
 
 ---
 
@@ -293,17 +293,17 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 85K • 👍 2K • 💬 132 • ⏱️ 13:08 • 1d ago
+👁️ 88K • 👍 2K • 💬 134 • ⏱️ 13:08 • 1d ago
 
 ---
 
-**[NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](https://www.youtube.com/watch?v=5Kp-Gj5qXL0)**
+**[AI Short Film | So Low - 4K](https://www.youtube.com/watch?v=xbwGK_z9_cU)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+I was playing around with a bunch of different #midjourney style ref codes and found this beautiful teal and olive tinted one. I made ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Kelly Boesch AI Art
 
-👁️ 26K • 👍 1K • 💬 169 • ⏱️ 18:37 • 15h ago
+👁️ 8K • 👍 536 • 💬 58 • ⏱️ 2:42 • 16h ago
 
 ---
 
@@ -313,17 +313,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 78K • 👍 3K • 💬 226 • ⏱️ 13:13 • 2d ago
-
----
-
-**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
-
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
-
-📺 Matthew Berman
-
-👁️ 13K • 👍 536 • 💬 44 • ⏱️ 14:35 • 8h ago
+👁️ 81K • 👍 3K • 💬 234 • ⏱️ 13:13 • 2d ago
 
 ---
 
@@ -337,13 +327,23 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 ---
 
+**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 17K • 👍 639 • 💬 82 • ⏱️ 14:35 • 9h ago
+
+---
+
 **[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
 
 Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
 
 📺 CBS News
 
-👁️ 10K • 👍 117 • 💬 56 • ⏱️ 3:21 • 2d ago
+👁️ 10K • 👍 118 • 💬 56 • ⏱️ 3:21 • 2d ago
 
 ---
 
@@ -363,7 +363,7 @@ This is a funny meme mixed with storytelling style video about how i have 2 cats
 
 📺 Tyler Vitelli
 
-👁️ 2.4M • 👍 76K • 💬 6K • ⏱️ 0:10 • 1d ago
+👁️ 2.4M • 👍 77K • 💬 6K • ⏱️ 0:10 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 120K • 👍 2K • 💬 323 • ⏱️ 25:02 • 1d ago
+👁️ 122K • 👍 2K • 💬 324 • ⏱️ 25:02 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 615 • 23h ago
+⬇️ 187,937 • ❤️ 632 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 7,287 • ❤️ 680 • 8d ago
+⬇️ 7,287 • ❤️ 683 • 8d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 18,440 • ❤️ 534 • 8d ago
+⬇️ 18,440 • ❤️ 537 • 8d ago
 
 ---
 
@@ -425,7 +425,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 9,648 • ❤️ 291 • 1d ago
+⬇️ 9,648 • ❤️ 293 • 1d ago
 
 ---
 
@@ -437,7 +437,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 200,391 • ❤️ 963 • 12d ago
+⬇️ 200,391 • ❤️ 966 • 12d ago
 
 ---
 
@@ -449,19 +449,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,233 • ❤️ 438 • 3d ago
-
----
-
-**[IQuest-Coder-V1-40B-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct)**
-
-*IQuest*
-
-IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flow paradigm for autonomous software engineering, excelling in benchmarks like SWE-Bench and BigCodeBench with native 128K context length.
-
-`text-generation` `39.8B`
-
-⬇️ 4,353 • ❤️ 257 • 6d ago
+⬇️ 3,233 • ❤️ 442 • 3d ago
 
 ---
 
@@ -473,7 +461,19 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 547 • ❤️ 222 • 3d ago
+⬇️ 547 • ❤️ 228 • 3d ago
+
+---
+
+**[IQuest-Coder-V1-40B-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct)**
+
+*IQuest*
+
+IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flow paradigm for autonomous software engineering, excelling in benchmarks like SWE-Bench and BigCodeBench with native 128K context length.
+
+`text-generation` `39.8B`
+
+⬇️ 4,353 • ❤️ 258 • 6d ago
 
 ---
 
@@ -485,7 +485,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 4,203 • ❤️ 197 • 1d ago
+⬇️ 4,203 • ❤️ 201 • 1h ago
 
 ---
 
@@ -497,7 +497,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 `text-generation` `102.7B`
 
-⬇️ 3,107 • ❤️ 407 • 3d ago
+⬇️ 3,107 • ❤️ 408 • 3d ago
 
 ---
 
@@ -511,7 +511,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 70 • 💬 1 • ⭐ 1,468 • 2d ago
+▲ 71 • 💬 1 • ⭐ 1,468 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -526,18 +526,6 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 ▲ 169 • 💬 5 • ⭐ 3,440 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
-
----
-
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 25,583 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -567,6 +555,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 25,597 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -576,7 +576,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 130 • 💬 18 • ⭐ 49,436 • 10mo ago
+▲ 130 • 💬 18 • ⭐ 49,477 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -588,7 +588,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 17 • 💬 2 • ⭐ 14,669 • 1mo ago
+▲ 17 • 💬 2 • ⭐ 14,698 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
@@ -615,7 +615,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
 
-▲ 44 • 💬 5 • ⭐ 293 • 5d ago
+▲ 46 • 💬 5 • ⭐ 293 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
 
@@ -645,7 +645,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.1k • 🔱 857 • 3h ago
+⭐ 7.2k • 🔱 864 • 56m ago
 
 ---
 
@@ -665,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 16h ago
+⭐ 2.2k • 🔱 130 • 17h ago
 
 ---
 
@@ -675,7 +675,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 216 • 4d ago
+⭐ 1.9k • 🔱 217 • 4d ago
 
 ---
 
@@ -685,7 +685,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.3k • 🔱 68 • 16d ago
+⭐ 1.3k • 🔱 69 • 16d ago
 
 ---
 
@@ -695,7 +695,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 101 • 18h ago
+⭐ 1.3k • 🔱 102 • 19h ago
 
 ---
 
@@ -705,7 +705,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 1d ago
+⭐ 1.2k • 🔱 142 • 47m ago
 
 ---
 
@@ -715,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 99 • 1h ago
+⭐ 1.2k • 🔱 101 • 55m ago
 
 ---
 
@@ -725,7 +725,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.1k • 🔱 77 • 10d ago
+⭐ 1.1k • 🔱 78 • 10d ago
 
 ---
 
@@ -735,7 +735,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 998 • 🔱 120 • 2h ago
+⭐ 998 • 🔱 120 • 3h ago
 
 ---
 
