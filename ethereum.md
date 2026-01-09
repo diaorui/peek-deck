@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T22:22:34.303165+00:00'
+updated: '2026-01-09T22:46:05.927379+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 22:22 UTC  
+**Last Updated:** January 09, 2026 at 22:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
+**24h:** -1.1%  
 **7d:** -1.7%  
 **30d:** -4.9%  
 **90d:** -26.0%  
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 9h ago
-
----
-
-**[Many product decisions are made blindly. Prediction surveys as an early market signal](https://www.reddit.com/r/ethereum/comments/1q86d6a/many_product_decisions_are_made_blindly/)**
-
-Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
-
-10h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 10h ago
 
 ---
 
@@ -100,6 +92,14 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 ---
 
+**[Many product decisions are made blindly. Prediction surveys as an early market signal](https://www.reddit.com/r/ethereum/comments/1q86d6a/many_product_decisions_are_made_blindly/)**
+
+Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
+
+10h ago
+
+---
+
 **[something that bothered me about on-chain settlement semantics](https://www.reddit.com/r/ethereum/comments/1q7zfvc/something_that_bothered_me_about_onchain/)**
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
@@ -108,11 +108,19 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 ---
 
+**[Is EIP-7702 really a step forward?](https://www.reddit.com/r/ethereum/comments/1q83fyz/is_eip7702_really_a_step_forward/)**
+
+Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
+
+13h ago
+
+---
+
 **[Need ETH to pay fees](https://www.reddit.com/r/ethereum/comments/1q8eqq6/need_eth_to_pay_fees/)**
 
 If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw
 
-4h ago
+5h ago
 
 ---
 
@@ -134,15 +142,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-19h ago
-
----
-
-**[AMA: We’re DAMM Capital — a crypto-native DeFi asset manager](https://www.reddit.com/r/ethereum/comments/1q7ih76/ama_were_damm_capital_a_cryptonative_defi_asset/)**
-
-DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires, Argentina, building and operating self-custodial decentralized finance strategies for people and organizations that want real exposure to DeFi without having to become protocol experts. We started years ago doing algorithmic market making and Protocol Owned Liquidity (PoL), and have grown into a broader on-chain asset manager serving institutions, DAOs, and companies alike. We believe DeFi is converging toward professional operators, much like traditional finance did — and that this only works if it’s built for the long term, not short-term incentives or hype. What We Do (at a Glance) Tokenized Investment Funds On-chain, non-custodial, discretional, partially-algorithmic DAMMstable Market-neutral strategies for USD stablecoins. DAMMeth Market-neutral strategies for ETH holders. DAMMop OP-denominated algorithmic strategies. DAMMbtc (upcoming) BTC-focused strategies deployed via Ethereum and L2s. DeFi-as-a-Service (DaaS) DeFi execution for institutions, DAOs, and protocols. Treasury management, liquidity strategy design, and Protocol Owned Liquidity. Clients retain full ownership and control at all times. Our Values We believe in the values of Ethereum. Our team is fully crypto-native and has been for years. We operate with a strict set of principles: no centralized exchanges, no off-chain custody, no opaque structures, and no token or emissions theater. Everything we do is transparent, verifiable, and non-custodial, designed so clients always retain control of their capital. We focus on risk-adjusted returns, build for the long term, and remain independent and aligned with the people who trust us with their capital. Links Email: team@dammcap.finance Website: https://dammcap.finance Twitter / X: https://x.com/DAMM_Capital LinkedIn: https://www.linkedin.com/company/damm-capital/ Docs & Research: https://docs.dammcap.finance AMA — happy to answer questions.
-
-1d ago
+20h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Block • 2d ago
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ Bit Digital • 2d ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 3h ago
+Coinpedia Fintech News • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ CCN.com • 3d ago
 
 📺 Stock Moe
 
-👁️ 11K • 👍 729 • 💬 74 • ⏱️ 12:30 • 8h ago
+👁️ 11K • 👍 729 • 💬 74 • ⏱️ 12:30 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 4K • 👍 216 • 💬 38 • ⏱️ 52:02 • 10h ago
+👁️ 4K • 👍 216 • 💬 38 • ⏱️ 52:02 • 11h ago
 
 ---
 
@@ -296,7 +296,7 @@ In this episode of The Milk Road Show, we're joined by Eliezer Ndinga, Global He
 
 📺 Milk Road
 
-👁️ 115 • 👍 11 • 💬 23 • ⏱️ 34:39 • 2h ago
+👁️ 115 • 👍 11 • 💬 23 • ⏱️ 34:39 • 3h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T22:22:34.306407+00:00'
+updated: '2026-01-09T22:46:05.930597+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 22:22 UTC  
+**Last Updated:** January 09, 2026 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-12h ago
+13h ago
 
 ---
 
@@ -68,6 +68,22 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 ---
 
+**[Those with 3D Printers: ABS yes or no?](https://www.reddit.com/r/robotics/comments/1q8lee2/those_with_3d_printers_abs_yes_or_no/)**
+
+Hi, I’m looking to get into robotics as a hobby. I’m currently learning Arduino using a starter kit, and I’m planning to buy a 3D printer (I have some experience with an Ender 3 Pro V1). For those who build prototypes and robots using 3D printing: do you really need to print in ABS? Back when I started, it was considered one of the strongest materials, but I’m not sure if that’s still the case or if it’s still the standard. From what I’ve seen, most people seem to use PLA or, even more often, PETG. This is mainly to help me decide whether it’s worth getting an open or an enclosed printer, which makes a big difference in the budget where I live.
+
+57m ago
+
+---
+
+**[Build vs. Buy](https://www.reddit.com/r/robotics/comments/1q8lc77/build_vs_buy/)**
+
+Are we finally at the point where buying QDD actuators is cheaper/better than building them? I just watched a video by Kayden Knapik on the Robstride QDD actuators. For a long time, if you wanted a dynamic walking robot (like Spot or the Disney robot), you had two choices: Spend a fortune on industrial actuators ($500+ each). Build your own 3D printed cycloidal drives (painful assembly, reliability issues). The test results from the video were surprisingly solid: Model: Robstride 02 Specs: Rated 6Nm continuous / 17Nm stall. Reality: The bench test with a 50cm arm actually confirmed these numbers (holding ~3.4kg at 50cm). Control: Simple CAN bus setup. It seems we are hitting the sweet spot where hardware is becoming accessible for hobbyists. Are you still printing your own actuators, or are you switching to these commercial QDDs?
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=yhRF3-3SX4Y) • 1h ago
+
+---
+
 **[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
 13h ago
@@ -85,22 +101,6 @@ Rodney Brooks explains that one of the most important features in many robots is
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
 15h ago
-
----
-
-**[Introducing a Free Python Skill Library for Agentic Robotics](https://www.reddit.com/r/robotics/comments/1q8d0zx/introducing_a_free_python_skill_library_for/)**
-
-Robotics software is messy. Different perception, planning, and control libraries rarely talk to each other, making experiments and real deployments painfully slow. Telekinesis AI is exploring a different path: reusable “Skills” for perception, motion, control, and logic, combined with AI agents that can sequence and adapt them in real time. Instead of rewriting glue code, you can focus on building complex behaviors and testing new ideas safely. Curious about the problem this is designed to solve? Check out the deep dive Medium article. Want to see the building blocks in action? The Skill Library is ready to explore. All links are in the comments — read about the problem first, then dive into the library and see what you can build.
-
-5h ago
-
----
-
-**[ROS News for the Week of January 5th, 2026 🎉 - Community News](https://www.reddit.com/r/robotics/comments/1q8j7vk/ros_news_for_the_week_of_january_5th_2026/)**
-
-ROS News for the Week of January 5th, 2026 🎉     TARS ROS 2: A recreation of the robot TARS from Interstellar, featuring AI capabilities..      Our brilliant colleague @youtalk just released his Conduit iOS app which transforms your Apple devices into ROS 2 sensor publishers so you can have access to its fantastic cameras and ToF sensor.. I smell a lot of phone-based ROS 2 robots in our future.       Comau has introduced their new MyCo line of cobot products with ROS 2 support out of the bo...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-5th-2026/51728) • 1h ago
 
 ---
 

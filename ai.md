@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T22:22:34.288884+00:00'
+updated: '2026-01-09T22:46:05.912555+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 22:22 UTC  
+**Last Updated:** January 09, 2026 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -50,14 +50,6 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
 21h ago
-
----
-
-**[The Attogram Miracle](https://www.reddit.com/r/artificial/comments/1q8kzby/the_attogram_miracle/)**
-
-I did a thought experiment with my AI of choice and I'm absolutely flabbergasted! I always have been fascinated by what can be done with AI so today I sat down and made up a thought experiment about popcorn (because I literally was eating popcorn) and this is how ot went: Imagine that since the dawn of humanity (about 5 million years ago), every hominid, Neanderthal, and human had access to a microwave. Every single day, everyone pops exactly one bag of popcorn (50 kernels). To make it a pure physics experiment, we eliminate all "noise": No dust, no skin flakes, identical humidity everywhere, and we let the popcorn cool for 24 hours so all steam has evaporated. We are looking for two bowls of popcorn that weigh exactly the same. We calculated that throughout history, there would have been roughly 2 quintillion (2 * 10{18}) bags of popcorn made. If we measure in Micrograms (10{-6}g): There would be billions of identical pairs. If we measure in Nanograms (10{-9}g): Still millions of perfect matches. The "Attogram Miracle": I pushed the experiment to the limit: The Attogram (10{-18}g). An attogram is so small that it’s roughly the mass of just 50 carbon atoms. At this level, the number of possible weight increments (2 grams divided by 1 attogram) is exactly 2 quintillion. According to the "Birthday Paradox" in statistics, since the number of bags made (2 * 10{18}) matches the number of possible weight steps (2 * 10{18}), the probability hits a tipping point. Statistically, it is highly likely that exactly ONCE in human history, two bowls of popcorn were physically identical at the attogram level. One might have been popped by a caveman 3 million years ago, and the other by a college student in 2024. They would be "weight-twins" down to a scale finer than anything we can measure today—a perfect symmetry across time, separated only by the mass of a few atoms. TL;DR: If humans had been popping popcorn since we were apes, we would have produced enough bags to guarantee a 1-in-a-quintillion "Attogram Miracle"—two bowls weighing exactly the same down to the mass of 50 atoms.
-
-50m ago
 
 ---
 
@@ -109,6 +101,14 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 ---
 
+**[The Attogram Miracle](https://www.reddit.com/r/artificial/comments/1q8kzby/the_attogram_miracle/)**
+
+I did a thought experiment with my AI of choice and I'm absolutely flabbergasted! I always have been fascinated by what can be done with AI so today I sat down and made up a thought experiment about popcorn (because I literally was eating popcorn) and this is how ot went: Imagine that since the dawn of humanity (about 5 million years ago), every hominid, Neanderthal, and human had access to a microwave. Every single day, everyone pops exactly one bag of popcorn (50 kernels). To make it a pure physics experiment, we eliminate all "noise": No dust, no skin flakes, identical humidity everywhere, and we let the popcorn cool for 24 hours so all steam has evaporated. We are looking for two bowls of popcorn that weigh exactly the same. We calculated that throughout history, there would have been roughly 2 quintillion (2 * 10{18}) bags of popcorn made. If we measure in Micrograms (10{-6}g): There would be billions of identical pairs. If we measure in Nanograms (10{-9}g): Still millions of perfect matches. The "Attogram Miracle": I pushed the experiment to the limit: The Attogram (10{-18}g). An attogram is so small that it’s roughly the mass of just 50 carbon atoms. At this level, the number of possible weight increments (2 grams divided by 1 attogram) is exactly 2 quintillion. According to the "Birthday Paradox" in statistics, since the number of bags made (2 * 10{18}) matches the number of possible weight steps (2 * 10{18}), the probability hits a tipping point. Statistically, it is highly likely that exactly ONCE in human history, two bowls of popcorn were physically identical at the attogram level. One might have been popped by a caveman 3 million years ago, and the other by a college student in 2024. They would be "weight-twins" down to a scale finer than anything we can measure today—a perfect symmetry across time, separated only by the mass of a few atoms. TL;DR: If humans had been popping popcorn since we were apes, we would have produced enough bags to guarantee a 1-in-a-quintillion "Attogram Miracle"—two bowls weighing exactly the same down to the mass of 50 atoms.
+
+1h ago
+
+---
+
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
 🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 1d ago
@@ -153,7 +153,7 @@ NBC News • 12h ago
 
 These tech leaders are playing crucial roles in bringing AI to the masses.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ BBC • 12h ago
 
 While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
 
-NPR • 22h ago
+NPR • 23h ago
 
 ---
 
@@ -193,7 +193,7 @@ NPR • 22h ago
 
 Melissa Sims said her nightmare began after she called police during an argument with her boyfriend, when she said he allegedly ransacked her home.
 
-6abc Philadelphia • 17h ago
+6abc Philadelphia • 18h ago
 
 ---
 
@@ -203,7 +203,7 @@ Melissa Sims said her nightmare began after she called police during an argument
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 742 • 💬 281 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 747 • 💬 281 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -211,7 +211,7 @@ Melissa Sims said her nightmare began after she called police during an argument
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 539 • 💬 380 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 540 • 💬 380 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -219,7 +219,7 @@ Melissa Sims said her nightmare began after she called police during an argument
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 429 • 💬 684 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 431 • 💬 694 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -271,11 +271,11 @@ Since 2023, every model at the frontier of AI capabilities, as measured by the E
 
 ---
 
-**[Nvidia Kicks Off the Next Generation of AI with Rubin](https://news.ycombinator.com/item?id=46544016)**
+**[AI Zealotry](https://news.ycombinator.com/item?id=46557057)**
 
-NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer.
+Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 55 • 💬 44 • 1d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
+⬆️ 55 • 💬 93 • 4h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -299,7 +299,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 50 • ⏱️ 17:54 • 21h ago
+👁️ 61K • 👍 1K • 💬 50 • ⏱️ 17:54 • 22h ago
 
 ---
 
@@ -369,7 +369,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 102 • 💬 7 • ⏱️ 9:21 • 11h ago
+👁️ 2K • 👍 102 • 💬 7 • ⏱️ 9:21 • 12h ago
 
 ---
 
@@ -709,7 +709,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 103 • 7h ago
+⭐ 1.2k • 🔱 103 • 8h ago
 
 ---
 
