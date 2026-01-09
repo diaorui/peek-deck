@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T17:28:07.820446+00:00'
+updated: '2026-01-09T17:49:39.164292+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 17:28 UTC  
+**Last Updated:** January 09, 2026 at 17:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[After ‘digital undressing’ criticism, Elon Musk’s Grok limits some image generation to paid subscribers](https://www.reddit.com/r/artificial/comments/1q8crl6/after_digital_undressing_criticism_elon_musks/)**
+
+Elon Musk’s Grok chatbot has limited some aspects of its Imagine image generation features to paid subscribers on X, days after international uproar over the AI tool “digitally undressing” people, including children, upon user requests on X.
+
+🔗 [CNN](https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
+
+---
+
 **[Why Yann LeCun left Meta for World Models](https://www.reddit.com/r/artificial/comments/1q7ugtz/why_yann_lecun_left_meta_for_world_models/)**
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
@@ -53,27 +61,11 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 ---
 
-**[After ‘digital undressing’ criticism, Elon Musk’s Grok limits some image generation to paid subscribers](https://www.reddit.com/r/artificial/comments/1q8crl6/after_digital_undressing_criticism_elon_musks/)**
-
-Elon Musk’s Grok chatbot has limited some aspects of its Imagine image generation features to paid subscribers on X, days after international uproar over the AI tool “digitally undressing” people, including children, upon user requests on X.
-
-🔗 [CNN](https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
-
----
-
 **[Elon Musk's Grok AI image editing limited to paid users after deepfakes](https://www.reddit.com/r/artificial/comments/1q83cyi/elon_musks_grok_ai_image_editing_limited_to_paid/)**
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
 🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 8h ago
-
----
-
-**[A practical 2026 roadmap for modern AI search & RAG systems](https://www.reddit.com/r/artificial/comments/1q87y8e/a_practical_2026_roadmap_for_modern_ai_search_rag/)**
-
-I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
-
-4h ago
 
 ---
 
@@ -85,19 +77,19 @@ I've been working on a problem: AI agents confidently claim to understand things
 
 ---
 
+**[A practical 2026 roadmap for modern AI search & RAG systems](https://www.reddit.com/r/artificial/comments/1q87y8e/a_practical_2026_roadmap_for_modern_ai_search_rag/)**
+
+I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
+
+4h ago
+
+---
+
 **[Nvidia CEO says it's "within the realms of possibility" to bring AI improvements to older graphics cards](https://www.reddit.com/r/artificial/comments/1q7esfp/nvidia_ceo_says_its_within_the_realms_of/)**
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
 🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 1d ago
-
----
-
-**[Linus Torvalds: "The AI slop issue is *NOT* going to be solved with documentation"](https://www.reddit.com/r/artificial/comments/1q79tmh/linus_torvalds_the_ai_slop_issue_is_not_going_to/)**
-
-The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 1d ago
 
 ---
 
@@ -109,11 +101,19 @@ Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1]
 
 ---
 
+**[Linus Torvalds: "The AI slop issue is *NOT* going to be solved with documentation"](https://www.reddit.com/r/artificial/comments/1q79tmh/linus_torvalds_the_ai_slop_issue_is_not_going_to/)**
+
+The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 1d ago
+
+---
+
 **[Hitting rock bottom (Hand-drawn vs. AI-generated drawing)](https://www.reddit.com/r/artificial/comments/1q89whn/hitting_rock_bottom_handdrawn_vs_aigenerated/)**
 
 I ask an AI to create a drawing with the same description as the one that would describe my drawing. The result is very interesting because it's comparable to the drawing I created. I like to express my feelings through drawings mixing Zentangle, doodle and tangle techniques. HI try to find patterns that allow me to draw new designs. Through my drawings, I express my feelings related to my phobia and social anxiety. This type of art helps me relieve my stress and anxiety. socialphobia socialanxiety pixeldoodleart zentangle doodleart AI artificialintelligence
 
-2h ago
+3h ago
 
 ---
 
@@ -169,13 +169,13 @@ OpenAI • 21h ago
 
 A physician AI expert walks through the correct ways for hospitals and health systems to handle artificial intelligence and where responsible AI can make the biggest near-term impact without creating new burdens.
 
-Healthcare IT News • 44m ago
+Healthcare IT News • 1h ago
 
 ---
 
 **[17 Years After Its Founding, Kickstarter Is Seeing an AI-Fueled ‘Explosion’](https://www.inc.com/chris-morris/17-years-after-its-founding-kickstarter-is-seeing-an-ai-fueled-explosion/91286437)**
 
-inc.com • 54m ago
+inc.com • 1h ago
 
 ---
 
@@ -199,17 +199,9 @@ Nasdaq • 7h ago
 
 ## HackerNews: "ai"
 
-**[Opus 4.5 is not the normal AI agent experience that I have had thus far](https://news.ycombinator.com/item?id=46515696)**
-
-Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
-
-⬆️ 852 • 💬 1326 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
-
----
-
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 720 • 💬 269 • 22h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 728 • 💬 274 • 22h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -217,7 +209,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 525 • 💬 364 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 530 • 💬 368 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -225,7 +217,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 386 • 💬 618 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 405 • 💬 640 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -233,7 +225,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 255 • 💬 116 • 23h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 256 • 💬 116 • 23h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -241,7 +233,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 241 • 💬 99 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 242 • 💬 99 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -275,6 +267,14 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 ---
 
+**[Grok turns off image generator for most after outcry over sexualised AI imagery](https://news.ycombinator.com/item?id=46551238)**
+
+X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
+
+⬆️ 67 • 💬 82 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -285,7 +285,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 46 • ⏱️ 17:54 • 16h ago
+👁️ 51K • 👍 1K • 💬 46 • ⏱️ 17:54 • 17h ago
 
 ---
 
@@ -315,7 +315,7 @@ Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The wo
 
 📺 Ishan Sharma
 
-👁️ 3K • 👍 385 • 💬 31 • ⏱️ 10:52 • 3h ago
+👁️ 3K • 👍 385 • 💬 31 • ⏱️ 10:52 • 4h ago
 
 ---
 
@@ -645,7 +645,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.3k • 🔱 878 • 58m ago
+⭐ 7.3k • 🔱 878 • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 120 • 6h ago
+⭐ 1.0k • 🔱 120 • 7h ago
 
 ---
 

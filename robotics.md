@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T17:28:07.838789+00:00'
+updated: '2026-01-09T17:49:39.181642+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 17:28 UTC  
+**Last Updated:** January 09, 2026 at 17:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,21 +42,7 @@ Robotics research and industry news
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-7h ago
-
----
-
-**[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
-
 8h ago
-
----
-
-**[Hyundai’s Atlas humanoid wins Best Robot award at CES 2026](https://www.reddit.com/r/robotics/comments/1q81pmo/hyundais_atlas_humanoid_wins_best_robot_award_at/)**
-
-Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
-
-10h ago
 
 ---
 
@@ -68,11 +54,33 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 ---
 
+**[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
+
+8h ago
+
+---
+
+**[I made world simplest quadruped Robot](https://www.reddit.com/r/robotics/comments/1q8dqhe/i_made_world_simplest_quadruped_robot/)**
+
+I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
+
+49m ago
+
+---
+
+**[Hyundai’s Atlas humanoid wins Best Robot award at CES 2026](https://www.reddit.com/r/robotics/comments/1q81pmo/hyundais_atlas_humanoid_wins_best_robot_award_at/)**
+
+Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
+
+10h ago
+
+---
+
 **[Every single humanoid at CES this year](https://www.reddit.com/r/robotics/comments/1q88edi/every_single_humanoid_at_ces_this_year/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/5bKaiNxt1KM) • 3h ago
+🔗 [youtu.be](https://youtu.be/5bKaiNxt1KM) • 4h ago
 
 ---
 
@@ -82,25 +90,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Humanoid robots are starting pilot deployments in factories and logistics — the shift from demos to real workloads](https://www.reddit.com/r/robotics/comments/1q824ex/humanoid_robots_are_starting_pilot_deployments_in/)**
+**[Do you use libraries or right your own code??](https://www.reddit.com/r/robotics/comments/1q8exvi/do_you_use_libraries_or_right_your_own_code/)**
 
-We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
+For reading encoder values of motors do you guys use libraries or write your own code?? Which is good Is it good to use pid tuning libraries or using your own custom code in esp32 position controlling a motor
 
-9h ago
-
----
-
-**[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
-
-23h ago
+5m ago
 
 ---
 
-**[Second MSc (Mechanical Engineering spec. Robotics & Mechatronics) at 26 after Biotechnology, smart pivot or bad idea?](https://www.reddit.com/r/robotics/comments/1q86hng/second_msc_mechanical_engineering_spec_robotics/)**
+**[Introducing a Free Python Skill Library for Agentic Robotics](https://www.reddit.com/r/robotics/comments/1q8d0zx/introducing_a_free_python_skill_library_for/)**
 
-Note: Text has been made with help of AI. Hi all, I hope this is the right place to ask something like this. I’m 26 and currently finishing an MSc in Biotechnology in the Netherlands. During my MSc I discovered, pretty late, that I do not enjoy wet-lab biology, but I do enjoy robotics, automation, and engineering. I’m seriously considering doing a second MSc in Mechanical Engineering (Robotics, Mechatronics & Smart Systems) at the University of Groningen. Because of how the Dutch education system works, I cannot finish my current MSc and then start another one without paying around €20k per year. To get normal tuition of about €2.5k per year I would have to postpone graduation, meaning this is a real three-year commitment including the pre-master. I’m trying to decide if this is a smart pivot or an expensive mistake. Long-term goal: Work in space robotics and automation, ideally at ESA, DLR or a space contractor Focus on autonomous systems for spacecraft, lab experiments, or rovers I am open to other sectors since space will be extremely competitive but should be similar such as autonomous defense robotics Background: BSc and MSc in Biotechnology MSc robotics/automation experience: 6-DOF robotic arm, object detection, path planning Machine vision and ML-based classification Software engineering in Java with Git Current internship in lab automation (Python, industrial robot control) Self-study: ROS2, C++, Linux, PyTorch, mobile robot project Passion: robotics and automation, even though degree is biotech Gaps in knowledge compared to traditional robotics engineers: Multibody dynamics Control theory Vibrations and stability System modeling Mechatronics and hardware-level engineering Options I’m considering: Option A – Skip second MSc: Work in robotics or automation in industry Self-study dynamics and control Try to pivot into space robotics later via PhD or industry Risks: may be filtered out from PhDs and ESA because of degree background Option B – Do second MSc in Mechanical Engineering at Groningen: Three-year commitment including pre-master Graduate at 28–29 with little money Gain formal Mechanical Engineering degree with Robotics & Mechatronics specialization Opens doors to PhDs, ESA, and other space robotics opportunities Questions for the community: Is doing a second MSc in Mechanical Engineering a smart pivot into robotics/space, or could strong industry experience plus self-study realistically get me there? Are there alternative routes that work for people switching late into space robotics? Thanks in advance for any advice or insights!
+Robotics software is messy. Different perception, planning, and control libraries rarely talk to each other, making experiments and real deployments painfully slow. Telekinesis AI is exploring a different path: reusable “Skills” for perception, motion, control, and logic, combined with AI agents that can sequence and adapt them in real time. Instead of rewriting glue code, you can focus on building complex behaviors and testing new ideas safely. Curious about the problem this is designed to solve? Check out the deep dive Medium article. Want to see the building blocks in action? The Skill Library is ready to explore. All links are in the comments — read about the problem first, then dive into the library and see what you can build.
 
-5h ago
+1h ago
 
 ---
 
@@ -156,7 +158,7 @@ Yahoo Finance • 3d ago
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
 
-NVIDIA Developer • 23h ago
+NVIDIA Developer • 1d ago
 
 ---
 
@@ -212,7 +214,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 273K • 👍 9K • 💬 310 • ⏱️ 0:39 • 23h ago
+👁️ 273K • 👍 9K • 💬 310 • ⏱️ 0:39 • 1d ago
 
 ---
 
