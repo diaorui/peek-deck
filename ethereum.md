@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T14:50:15.299827+00:00'
+updated: '2026-01-09T15:25:55.746804+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 14:50 UTC  
+**Last Updated:** January 09, 2026 at 15:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,084.95
+### $3,105.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.3%  
-**30d:** -4.6%  
-**90d:** -25.7%  
-**1y:** -5.6%  
+**24h:** -0.4%  
+**7d:** -0.7%  
+**30d:** -4.0%  
+**90d:** -25.2%  
+**1y:** -4.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -84,19 +84,19 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 ---
 
-**[Many product decisions are made blindly. Prediction surveys as an early market signal](https://www.reddit.com/r/ethereum/comments/1q86d6a/many_product_decisions_are_made_blindly/)**
+**[Was the Fusaka upgrade successful](https://www.reddit.com/r/ethereum/comments/1q87f54/was_the_fusaka_upgrade_successful/)**
 
-Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
+I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
 2h ago
 
 ---
 
-**[Was the Fusaka upgrade successful](https://www.reddit.com/r/ethereum/comments/1q87f54/was_the_fusaka_upgrade_successful/)**
+**[Many product decisions are made blindly. Prediction surveys as an early market signal](https://www.reddit.com/r/ethereum/comments/1q86d6a/many_product_decisions_are_made_blindly/)**
 
-I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
+Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-1h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
 
-5h ago
+6h ago
 
 ---
 
@@ -126,7 +126,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -142,7 +142,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-9h ago
+10h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 5h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 16h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 16h ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) steadied above key support levels on Friday after being rejected at mid-week resistance zones. The short-term recovery prospects remain intact if the top three cryptocurrencies by market capitalization hold these support zones.
 
-FXStreet • 10h ago
+FXStreet • 11h ago
 
 ---
 
@@ -186,7 +186,7 @@ FXStreet • 10h ago
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Motley Fool • 3h ago
 
 Will crypto assets defend their key short-term support levels?
 
-AMBCrypto • 9h ago
+AMBCrypto • 10h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Block • 2d ago
 
 **[Key facts: Morgan Stanley launches Ethereum Trust; Coinbase Premium Gap drops; Ethereum hits 58,786 TPS](https://www.tradingview.com/news/tradingview:78e73e7f8c21c:0-key-facts-morgan-stanley-launches-ethereum-trust-coinbase-premium-gap-drops-ethereum-hits-58-786-tps/)**
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView — Track All Markets • 14h ago
 
 Ethereum and Solana ETF trading accelerated sharply in early January amid increasing institutional interest in crypto assets.
 
-CryptoPotato • 2h ago
+CryptoPotato • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 173 • 💬 41 • ⏱️ 4:20 • 14h ago
+👁️ 3K • 👍 173 • 💬 41 • ⏱️ 4:20 • 15h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 141 • 💬 10 • ⏱️ 8:41 • 15h ago
+👁️ 2K • 👍 141 • 💬 10 • ⏱️ 8:41 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 630 • 👍 42 • 💬 35 • ⏱️ 9:03 • 15h ago
+👁️ 630 • 👍 42 • 💬 35 • ⏱️ 9:03 • 16h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 7K • 👍 293 • 💬 109 • ⏱️ 19:16 • 15h ago
+👁️ 7K • 👍 293 • 💬 109 • ⏱️ 19:16 • 16h ago
 
 ---
 

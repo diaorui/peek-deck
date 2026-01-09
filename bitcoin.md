@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T14:50:15.293803+00:00'
+updated: '2026-01-09T15:25:55.740826+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 14:50 UTC  
+**Last Updated:** January 09, 2026 at 15:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,619.87
+### $90,901.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -0.5%  
-**30d:** -2.5%  
-**90d:** -21.7%  
-**1y:** -4.7%  
+**24h:** +0.1%  
+**7d:** +0.2%  
+**30d:** -1.8%  
+**90d:** -21.1%  
+**1y:** -4.0%  
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
+
+4h ago
+
+---
+
 **[Taking profits](https://www.reddit.com/r/Bitcoin/comments/1q7xnak/taking_profits/)**
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
@@ -91,9 +97,17 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 ---
 
-**[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
+**[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-3h ago
+30m ago
+
+---
+
+**[The BTC Halving Spiral still hasn't crossed itself](https://www.reddit.com/r/Bitcoin/comments/1q89rhe/the_btc_halving_spiral_still_hasnt_crossed_itself/)**
+
+https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
+
+54m ago
 
 ---
 
@@ -107,7 +121,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 Anything I should know about?
 
-11h ago
+12h ago
 
 ---
 
@@ -127,19 +141,7 @@ BTC
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-19h ago
-
----
-
-**[2026 bitcoin journey ( Let’s see where we land )](https://www.reddit.com/r/Bitcoin/comments/1q86bxu/2026_bitcoin_journey_lets_see_where_we_land/)**
-
-2h ago
-
----
-
-**[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
-
-19h ago
+20h ago
 
 ---
 
@@ -165,7 +167,7 @@ The Block • 14h ago
 
 Cathie Wood, ARK Invest’s founder and CEO, said she expects the Trump administration could move beyond simply holding seized bitcoin and begin purchasing BTC to build a US strategic reserve, a shift she argued could become a catalytic signal for markets and other governments.Speaking on ARK’s “Bitc…
 
-TradingView — Track All Markets • 1h ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -179,7 +181,7 @@ CCN.com • 3h ago
 
 Samson Mow called the mass resignation of Zcash’s core developers a warning for investors. Electric Coin Company’s entire team resigned on Jan. 7 following what ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -227,7 +229,7 @@ The Block • 2d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 15h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 16h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -307,7 +309,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 214 • ⏱️ 25:57 • 14h ago
+👁️ 23K • 👍 2K • 💬 214 • ⏱️ 25:57 • 15h ago
 
 ---
 
@@ -327,7 +329,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 214 • ⏱️ 11:14 • 13h ago
+👁️ 34K • 👍 2K • 💬 214 • ⏱️ 11:14 • 14h ago
 
 ---
 
@@ -347,7 +349,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 6K • 👍 312 • 💬 69 • ⏱️ 10:06 • 20h ago
+👁️ 6K • 👍 312 • 💬 69 • ⏱️ 10:06 • 21h ago
 
 ---
 
@@ -367,7 +369,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 23K • 👍 1K • 💬 118 • ⏱️ 13:19 • 17h ago
+👁️ 23K • 👍 1K • 💬 118 • ⏱️ 13:19 • 18h ago
 
 ---
 
