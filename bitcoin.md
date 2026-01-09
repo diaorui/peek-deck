@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T09:53:17.970727+00:00'
+updated: '2026-01-09T10:25:15.742115+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 09:53 UTC  
+**Last Updated:** January 09, 2026 at 10:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -103,13 +103,13 @@ BTC
 
 Anything I should know about?
 
-6h ago
+7h ago
 
 ---
 
 **[Tax it, or print it?](https://www.reddit.com/r/Bitcoin/comments/1q80fbk/tax_it_or_print_it/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -127,13 +127,13 @@ Anything I should know about?
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 1d ago
 
 Ethereum Layer-2 network Polygon is reportedly looking to acquire US Bitcoin ATM provider Coinme for a purchase price between $100 million and $125 million.Sources familiar with the matter told CoinDesk that the ETH scaling network is “close to” acquiring the BTC ATM company, with Architect Partners serving as its financial ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 2h ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -201,7 +201,7 @@ Fortune • 1d ago
 
 If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
 
-Bitcoin Magazine • 33m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ CoinDesk • 21h ago
 
 **[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Block • 13h ago
 
 Florida lawmakers filed new legislation for the 2026 session that would create a state-run crypto reserve after a similar effort stalled last year.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -281,7 +281,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 23h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 1d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -325,7 +325,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 158 • ⏱️ 25:57 • 9h ago
+👁️ 19K • 👍 2K • 💬 158 • ⏱️ 25:57 • 10h ago
 
 ---
 
@@ -335,7 +335,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 5K • 👍 260 • 💬 41 • ⏱️ 10:06 • 15h ago
+👁️ 5K • 👍 260 • 💬 41 • ⏱️ 10:06 • 16h ago
 
 ---
 
@@ -355,7 +355,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 186 • ⏱️ 11:14 • 8h ago
+👁️ 25K • 👍 2K • 💬 186 • ⏱️ 11:14 • 9h ago
 
 ---
 
@@ -385,7 +385,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 45K • 👍 3K • 💬 242 • ⏱️ 17:35 • 19h ago
+👁️ 45K • 👍 3K • 💬 242 • ⏱️ 17:35 • 20h ago
 
 ---
 
@@ -395,7 +395,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 20K • 👍 1K • 💬 57 • ⏱️ 13:19 • 12h ago
+👁️ 20K • 👍 1K • 💬 57 • ⏱️ 13:19 • 13h ago
 
 ---
 
@@ -405,7 +405,7 @@ Gold and Silver are up HUGE this year! Hitting new all time highs almost every w
 
 📺 The Bitcoin Broadcast - Vince HodlFlorida
 
-👁️ 4K • 👍 53 • 💬 5 • ⏱️ 0:52 • 20h ago
+👁️ 4K • 👍 53 • 💬 5 • ⏱️ 0:52 • 21h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T09:53:17.980067+00:00'
+updated: '2026-01-09T10:25:15.750568+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 09:53 UTC  
+**Last Updated:** January 09, 2026 at 10:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-2h ago
+3h ago
 
 ---
 
@@ -48,7 +48,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 **[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
-46m ago
+1h ago
 
 ---
 
@@ -56,13 +56,13 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-9m ago
+41m ago
 
 ---
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -124,7 +124,7 @@ Reuters • 1d ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -251,7 +251,7 @@ Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where i
 
 📺 CNET
 
-👁️ 91K • 👍 2K • 💬 293 • ⏱️ 4:01 • 20h ago
+👁️ 91K • 👍 2K • 💬 293 • ⏱️ 4:01 • 21h ago
 
 ---
 
@@ -271,7 +271,7 @@ Excitement from the commercial AI boom and new technical advances have helped po
 
 📺 ShanghaiEye魔都眼
 
-👁️ 8K • 👍 118 • 💬 21 • ⏱️ 4:25 • 22h ago
+👁️ 8K • 👍 118 • 💬 21 • ⏱️ 4:25 • 23h ago
 
 ---
 
