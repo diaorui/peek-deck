@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T20:47:36.668614+00:00'
+updated: '2026-01-09T21:21:42.406936+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 20:47 UTC  
+**Last Updated:** January 09, 2026 at 21:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growing narrative suggesting that large institutions could somehow change it. To be clear, scarcity is one of Bitcoin’s foundational properties and a core reason it represents the hardest money humanity has ever known. I run a Bitcoin full node (I'm just one part of a large and globally distributed group of individuals) and I would never accept a change to the 21M cap. If any institution (Nation, BlackRock or otherwise) attempted to fork Bitcoin by increasing the supply to more coins, I would continue validating the 21 million–cap chain without hesitation. I’m confident tens of thousands of other node operators would do the same. This is how Bitcoin protects itself: its monetary policy cannot be changed unilaterally. Any supply change requires broad, voluntary consensus across the network. Even in an extreme scenario where institutions attempted to flood the network with nodes to create the appearance of consensus for say a 30 million–coin (or inflating) fork, anyone remains free to run software that enforces the 21M hard cap. In practice, the chain that preserves scarcity would retain the trust of users and holders, making it the economically relevant chain. Miners ultimately follow the chain that nodes validate, exchanges support, and the market values. This is why, while Bitcoin’s supply cap can be changed in theory, it will not be changed in reality. Bitcoin’s decentralized governance ensures that no single actor... or coordinated group... can impose a monetary rule change without overwhelming consensus. Bitcoin is protected because individuals run nodes and independently choose the rules they believe are best. If you want a vote, run a node. It’s effectively free. If you want to help protect Bitcoin’s core rules, consider running your own node. A full node currently requires just under 1TB of storage, while a pruned node requires only a fraction of that. Both consume minimal power and only a few hundred MB of network traffic per day after the initial sync... while giving you direct participation in Bitcoin’s validation and security.
 
-3h ago
+4h ago
 
 ---
 
@@ -125,13 +125,13 @@ I am tired boss
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
 
-2h ago
+3h ago
 
 ---
 
 **[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 Anything I should know about?
 
-17h ago
+18h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 12h ago
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 13h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 1d ago
 
 On today's episode of CNBC Crypto World, bitcoin ends the week above $91,000. Plus, Bank of America upgrades Coinbase to a buy rating from neutral, while leaving its $340 price target unchanged. And, Roger Bayston, head of digital assets at Franklin Templeton, discusses the investment firm's partnership with Wyoming on the state's stable token.
 
-CNBC • 35m ago
+CNBC • 1h ago
 
 ---
 
@@ -225,7 +225,7 @@ Bitcoin Magazine • 1d ago
 
 Bitcoin treasuries have been in a slump for months.  More than 60% are sitting in unrealised losses from their last Bitcoin buys.  There’s only one way to turn things around, says crypto investor Mike Novogratz.
 
-dlnews.com • 7h ago
+dlnews.com • 8h ago
 
 ---
 
@@ -237,7 +237,7 @@ dlnews.com • 7h ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 21h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 22h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -267,7 +267,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 11h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 12h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -315,7 +315,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 📺 Crypto Insider
 
-👁️ 16K • 👍 2K • 💬 61 • ⏱️ 21:00 • 6h ago
+👁️ 16K • 👍 2K • 💬 61 • ⏱️ 21:00 • 7h ago
 
 ---
 
@@ -345,7 +345,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 146 • ⏱️ 25:57 • 20h ago
+👁️ 28K • 👍 2K • 💬 146 • ⏱️ 25:57 • 21h ago
 
 ---
 
@@ -385,7 +385,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 4K • 👍 570 • 💬 81 • ⏱️ 10:43 • 4h ago
+👁️ 4K • 👍 570 • 💬 81 • ⏱️ 10:43 • 5h ago
 
 ---
 

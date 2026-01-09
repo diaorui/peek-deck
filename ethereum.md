@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T20:47:36.674607+00:00'
+updated: '2026-01-09T21:21:42.413016+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 20:47 UTC  
+**Last Updated:** January 09, 2026 at 21:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-15h ago
+16h ago
 
 ---
 
@@ -154,7 +154,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 22h ago
 
 Will crypto assets defend their key short-term support levels?
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ AMBCrypto • 15h ago
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -222,7 +222,7 @@ CCN.com • 3d ago
 
 This asset will look more appealing than before for two reasons in particular.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -246,7 +246,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 200 • 💬 52 • ⏱️ 4:20 • 20h ago
+👁️ 4K • 👍 200 • 💬 52 • ⏱️ 4:20 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 876 • 👍 81 • 💬 7 • ⏱️ 5:13 • 3h ago
+👁️ 876 • 👍 81 • 💬 7 • ⏱️ 5:13 • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 72 • 👍 5 • 💬 2 • ⏱️ 5:53 • 48m ago
+👁️ 72 • 👍 5 • 💬 2 • ⏱️ 5:53 • 1h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 11 • ⏱️ 8:41 • 21h ago
+👁️ 2K • 👍 146 • 💬 11 • ⏱️ 8:41 • 22h ago
 
 ---
 
@@ -326,7 +326,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 21h ago
+👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 22h ago
 
 ---
 
