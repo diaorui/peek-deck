@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T04:41:27.672218+00:00'
+updated: '2026-01-09T05:27:02.779060+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 04:41 UTC  
+**Last Updated:** January 09, 2026 at 05:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 After many attempts with our defective launcher we were finally able to make it launch the ball properly but it makes this really weird and loud noise. Does anyone know what causes this or how it can be fixed?
 
-55m ago
+1h ago
 
 ---
 
@@ -114,7 +114,7 @@ Reuters • 1d ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -132,11 +132,11 @@ hyundai.com • 3d ago
 
 ---
 
-**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
+**[Car giant Hyundai to use human-like robots in factories](https://www.bbc.com/news/articles/cvgjm5x54ldo)**
 
-Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+The firm plans to deploy the technology at the same plant that was involved in a huge immigration raid in 2025.
 
-Interesting Engineering • 22h ago
+BBC • 3d ago
 
 ---
 
@@ -156,7 +156,7 @@ Financial Times • 1d ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqdulTgOnBaSnRoPx08rDbjxUWJrzrhGi2CgfCHj6pJ6FXpGLm7xA0Lo&gaa_ts=69607c43&gaa_sig=dLoXRAEjK5C-PL01sNtL1tGrdioJxK0i04nRj0SudbNZfB2Vy3kSJMSWdHLqlcEpWz3qbiUvsRblnfurAddvSg%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqc-x6rA8TxA6nyd-BM7fgk1F3nZzlU_bXm74R8NFfNcsXy2r0phH9h5&gaa_ts=69609514&gaa_sig=mSh4VAd7X6qpMR6gAryOslzzB7LYeUNrJCDABKS1m2cuEZAr13CPPYoMZCplHec9j2XbLUsUn8YDDJhhx2uVLw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -174,7 +174,7 @@ TechCrunch • 2d ago
 
 Mobileye has $1.7 billion in cash, so even after the transaction it will hold over $1 billion in cash
 
-The Jerusalem Post • 19h ago
+The Jerusalem Post • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where i
 
 📺 CNET
 
-👁️ 85K • 👍 2K • 💬 268 • ⏱️ 4:01 • 15h ago
+👁️ 85K • 👍 2K • 💬 268 • ⏱️ 4:01 • 16h ago
 
 ---
 
@@ -228,7 +228,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 152K • 👍 5K • 💬 204 • ⏱️ 0:39 • 10h ago
+👁️ 152K • 👍 5K • 💬 204 • ⏱️ 0:39 • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ Excitement from the commercial AI boom and new technical advances have helped po
 
 📺 ShanghaiEye魔都眼
 
-👁️ 6K • 👍 112 • 💬 20 • ⏱️ 4:25 • 17h ago
+👁️ 6K • 👍 112 • 💬 20 • ⏱️ 4:25 • 18h ago
 
 ---
 

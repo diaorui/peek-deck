@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T04:41:27.654759+00:00'
+updated: '2026-01-09T05:27:02.761288+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 04:41 UTC  
+**Last Updated:** January 09, 2026 at 05:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 16h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 17h ago
 
 ---
 
@@ -63,7 +63,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 23h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 1d ago
 
 ---
 
@@ -71,7 +71,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 12h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 13h ago
 
 ---
 
@@ -99,7 +99,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 17h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 18h ago
 
 ---
 
@@ -107,7 +107,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-22h ago
+23h ago
 
 ---
 
@@ -115,27 +115,19 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 ## Google News: "ai"
 
-**[AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)**
-
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-IEEE Spectrum • 15h ago
-
----
-
-**[Google is unleashing Gemini AI features on Gmail. Users will have to opt out](https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html)**
-
-Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
-
-CNBC • 15h ago
-
----
-
 **[Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)**
 
 New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
 
-WIRED • 15h ago
+WIRED • 16h ago
+
+---
+
+**[Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews)**
+
+AI Mode but for Gmail.
+
+The Verge • 16h ago
 
 ---
 
@@ -143,45 +135,47 @@ WIRED • 15h ago
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 15h ago
+blog.google • 16h ago
 
 ---
 
-**[Watch Doosan Bobcat CEO on AI in Manufacturing](https://www.bloomberg.com/news/videos/2026-01-09/doosan-bobcat-ceo-on-ai-in-manufacturing-video)**
+**[AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)**
 
-Bloomberg.com • 2h ago
+One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
----
-
-**[Singapore-based startup founder Anand Roy thinks generative AI can help fix a broken music sector](https://fortune.com/2026/01/08/wubble-ai-singapore-anand-roy-music/)**
-
-Roy started Wubble in 2024; now his generated tunes are used by global giants and even the Taipei Metro, to soothe harried commuters.
-
-Fortune • 2h ago
+IEEE Spectrum • 16h ago
 
 ---
 
-**[3 Millionaire-Maker Artificial Intelligence (AI) Stocks](https://www.fool.com/investing/2026/01/08/millionaire-maker-artificial-intelligence-ai-stock/)**
+**['No one verified the evidence': Woman says AI-generated deepfake text sent her to jail | Action News Investigation](https://6abc.com/post/no-verified-evidence-woman-says-ai-generated-deepfake-text-sent-jail-action-news-investigation/18373467/)**
 
-You don't have to buy risky stocks to invest in the AI boom.
+Melissa Sims said her nightmare began after she called police during an argument with her boyfriend, when she said he allegedly ransacked her home.
 
-The Motley Fool • 4h ago
-
----
-
-**[Top 10 Tech Stocks of 2025: How the AI Trade Defied the Skeptics](https://io-fund.com/ai-stocks/top-10-tech-stocks-2025)**
-
-The stock market in 2025 was a high-stakes tug-of-war between geopolitical tensions and the AI trade. Headlines were dominated by the DeepSeek fears, trade wars, tariffs, and persistent whispers of the AI bubble. However, the AI trade proved to be more than just hype; it became a cornerstone of the market.
-
-IO Fund • 17h ago
+6abc Philadelphia • 45m ago
 
 ---
 
-**[Is It Time To Reassess Rezolve AI (RZLV) After Its Recent Share Price Surge](https://finance.yahoo.com/news/time-reassess-rezolve-ai-rzlv-021132663.html)**
+**[Inside the brand and agency scramble for first-party data in the AI era](https://digiday.com/marketing/inside-the-brand-and-agency-scramble-for-first-party-data-in-the-ai-era/)**
 
-If you are wondering whether Rezolve AI is attractively priced or already running ahead of itself, you are not alone. That is exactly what this article is here to unpack. The stock last closed at US$3.71, with returns of 44.4% over 7 days, 34.4% over 30 days, 29.3% year to date, 24.9% over 1 year, and a 63.5% decline over 3 years, which raises questions about how much risk and recovery potential is already reflected in the price. Recent attention on Rezolve AI has centered on its position in...
+Brands are moving faster to own first-party data as AI and privacy changes alter the digital advertising landscape.
 
-Yahoo Finance • 2h ago
+Digiday • 24m ago
+
+---
+
+**[3 Questions: How AI could optimize the power grid](https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109)**
+
+MIT researchers are working on AI tools to optimize the power grid, which could improve efficiency, increase resilience to extreme weather, and enable the integration of more renewable energy.
+
+MIT News • 27m ago
+
+---
+
+**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
+
+"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
+
+Fortune • 1d ago
 
 ---
 
@@ -189,7 +183,15 @@ Yahoo Finance • 2h ago
 
 While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
 
-NPR • 5h ago
+NPR • 6h ago
+
+---
+
+**[People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good](https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/)**
+
+Online detectives are inaccurately claiming to have identified the federal agent who shot and killed a 37-year-old woman in Minnesota based on AI-manipulated images.
+
+WIRED • 12h ago
 
 ---
 
@@ -207,7 +209,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 539 • 💬 189 • 9h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 539 • 💬 189 • 10h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -223,7 +225,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 259 • 💬 408 • 13h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 259 • 💬 408 • 14h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -239,7 +241,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 236 • 💬 112 • 10h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 236 • 💬 112 • 11h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -255,7 +257,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 150 • 💬 83 • 21h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 150 • 💬 83 • 22h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -271,7 +273,7 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 “I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
 
-⬆️ 118 • 💬 137 • 10h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+⬆️ 118 • 💬 137 • 11h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -305,7 +307,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 26K • 👍 1K • 💬 169 • ⏱️ 18:37 • 13h ago
+👁️ 26K • 👍 1K • 💬 169 • ⏱️ 18:37 • 14h ago
 
 ---
 
@@ -325,7 +327,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 13K • 👍 536 • 💬 44 • ⏱️ 14:35 • 6h ago
+👁️ 13K • 👍 536 • 💬 44 • ⏱️ 14:35 • 7h ago
 
 ---
 
@@ -391,7 +393,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 615 • 21h ago
+⬇️ 187,937 • ❤️ 615 • 22h ago
 
 ---
 
@@ -647,7 +649,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.1k • 🔱 857 • 1h ago
+⭐ 7.1k • 🔱 857 • 2h ago
 
 ---
 
@@ -667,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 14h ago
+⭐ 2.2k • 🔱 129 • 15h ago
 
 ---
 
@@ -697,7 +699,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 101 • 16h ago
+⭐ 1.3k • 🔱 101 • 17h ago
 
 ---
 
@@ -707,7 +709,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 23h ago
+⭐ 1.2k • 🔱 142 • 1d ago
 
 ---
 
@@ -717,7 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 99 • 57s ago
+⭐ 1.1k • 🔱 99 • 46m ago
 
 ---
 
@@ -737,7 +739,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 998 • 🔱 120 • 50m ago
+⭐ 998 • 🔱 120 • 1h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T04:41:27.663069+00:00'
+updated: '2026-01-09T05:27:02.769825+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 04:41 UTC  
+**Last Updated:** January 09, 2026 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 28
+### 27
 **FEAR**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ BTC
 
 **[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -107,19 +107,19 @@ BTC
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-57m ago
+1h ago
 
 ---
 
 **[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
-52m ago
+1h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ Central banks reported record-breaking Gold accumulation throughout 2025, but th
 
 Anything I should know about?
 
-1h ago
+2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Anything I should know about?
 
 Experts say the next major rally may come only when long-term holders are exhausted, and true institutional capital enters the market.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bitcoin Magazine • 12h ago
 
 Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 2h ago
 
 Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 49m ago
 
 Tactical de-risking and declining investor sentiment are the reasons behind the recent spot U.S. ETF outflows, Decrypt was told.
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 22m ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -235,13 +235,13 @@ CoinDesk • 1d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 42 • 💬 3 • 5h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 42 • 💬 3 • 6h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 16h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 17h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -273,7 +273,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 18h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 19h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -323,7 +323,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 3K • 👍 205 • 💬 38 • ⏱️ 10:06 • 10h ago
+👁️ 3K • 👍 205 • 💬 38 • ⏱️ 10:06 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 15K • 👍 936 • 💬 53 • ⏱️ 13:19 • 7h ago
+👁️ 15K • 👍 936 • 💬 53 • ⏱️ 13:19 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 42K • 👍 3K • 💬 228 • ⏱️ 17:35 • 14h ago
+👁️ 42K • 👍 3K • 💬 228 • ⏱️ 17:35 • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 1K • 💬 92 • ⏱️ 11:14 • 3h ago
+👁️ 11K • 👍 1K • 💬 92 • ⏱️ 11:14 • 4h ago
 
 ---
 
@@ -363,7 +363,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 485 • 💬 46 • ⏱️ 16:32 • 9h ago
+👁️ 10K • 👍 485 • 💬 46 • ⏱️ 16:32 • 10h ago
 
 ---
 
@@ -373,7 +373,7 @@ NEW WEEKLY REPORTS, NEW SUBSCRIBERS GET ACCESS HERE → https://tiainvestor.com/
 
 📺 Michael Pizzino
 
-👁️ 2K • 👍 306 • 💬 38 • ⏱️ 8:08 • 2h ago
+👁️ 2K • 👍 306 • 💬 38 • ⏱️ 8:08 • 3h ago
 
 ---
 
@@ -383,7 +383,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 71 • ⏱️ 25:57 • 4h ago
+👁️ 11K • 👍 1K • 💬 71 • ⏱️ 25:57 • 5h ago
 
 ---
 
@@ -393,7 +393,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 4K • 👍 431 • 💬 113 • ⏱️ 18:38 • 7h ago
+👁️ 4K • 👍 431 • 💬 113 • ⏱️ 18:38 • 8h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://yout
 
 📺 MMCrypto
 
-👁️ 29K • 👍 2K • 💬 403 • ⏱️ 4:15 • 16h ago
+👁️ 29K • 👍 2K • 💬 403 • ⏱️ 4:15 • 17h ago
 
 ---
 
