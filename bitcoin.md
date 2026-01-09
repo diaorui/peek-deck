@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T05:50:32.330087+00:00'
+updated: '2026-01-09T06:36:43.992560+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 05:50 UTC  
+**Last Updated:** January 09, 2026 at 06:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -115,7 +115,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 Anything I should know about?
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ Anything I should know about?
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ Anything I should know about?
 
 Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
 
-8h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ Central banks reported record-breaking Gold accumulation throughout 2025, but th
 
 Key features: - 3-layer architecture: decoy/hidden/panic - Cryptographically indistinguishable layers (like VeraCrypt hidden volumes) - Client-side XChaCha20-Poly1305 encryption - IPFS decentralized storage - RAM-only key storage (forensics-resistant) - 100% free, all the code is open https://github.com/Teycir/Sanctum
 
-5h ago
+6h ago
 
 ---
 
@@ -155,7 +155,7 @@ Key features: - 3-layer architecture: decoy/hidden/panic - Cryptographically ind
 
 Experts say the next major rally may come only when long-term holders are exhausted, and true institutional capital enters the market.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 10h ago
 
 Bitcoin sees volatility in early 2026 as key indicators signal a potential BTC short squeeze as bearish positioning rises.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 57m ago
 
 Tactical de-risking and declining investor sentiment are the reasons behind the recent spot U.S. ETF outflows, Decrypt was told.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1h ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -233,7 +233,7 @@ ETF Trends • 1d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 43 • 💬 3 • 6h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 43 • 💬 3 • 7h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -271,7 +271,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 19h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 20h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -321,7 +321,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 3K • 👍 205 • 💬 38 • ⏱️ 10:06 • 11h ago
+👁️ 3K • 👍 205 • 💬 38 • ⏱️ 10:06 • 12h ago
 
 ---
 
@@ -331,7 +331,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 15K • 👍 936 • 💬 53 • ⏱️ 13:19 • 8h ago
+👁️ 15K • 👍 936 • 💬 53 • ⏱️ 13:19 • 9h ago
 
 ---
 
@@ -341,7 +341,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 42K • 👍 3K • 💬 228 • ⏱️ 17:35 • 15h ago
+👁️ 42K • 👍 3K • 💬 228 • ⏱️ 17:35 • 16h ago
 
 ---
 
@@ -351,7 +351,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 1K • 💬 92 • ⏱️ 11:14 • 4h ago
+👁️ 11K • 👍 1K • 💬 92 • ⏱️ 11:14 • 5h ago
 
 ---
 
@@ -361,7 +361,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 485 • 💬 46 • ⏱️ 16:32 • 10h ago
+👁️ 10K • 👍 485 • 💬 46 • ⏱️ 16:32 • 11h ago
 
 ---
 
@@ -381,7 +381,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 71 • ⏱️ 25:57 • 5h ago
+👁️ 11K • 👍 1K • 💬 71 • ⏱️ 25:57 • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 4K • 👍 431 • 💬 113 • ⏱️ 18:38 • 8h ago
+👁️ 4K • 👍 431 • 💬 113 • ⏱️ 18:38 • 9h ago
 
 ---
 

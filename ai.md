@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T05:50:32.321519+00:00'
+updated: '2026-01-09T06:36:43.984043+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 05:50 UTC  
+**Last Updated:** January 09, 2026 at 06:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 18h ago
 
 ---
 
@@ -57,7 +57,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 14h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 13h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 14h ago
 
 ---
 
@@ -79,7 +79,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 18h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 19h ago
 
 ---
 
@@ -107,7 +107,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-23h ago
+1d ago
 
 ---
 
@@ -115,19 +115,19 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 ## Google News: "ai"
 
+**[Google is unleashing Gemini AI features on Gmail. Users will have to opt out](https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html)**
+
+Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
+
+CNBC • 17h ago
+
+---
+
 **[Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)**
 
 New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
 
-WIRED • 16h ago
-
----
-
-**[Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews)**
-
-AI Mode but for Gmail.
-
-The Verge • 16h ago
+WIRED • 17h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Verge • 16h ago
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 16h ago
+blog.google • 17h ago
 
 ---
 
@@ -143,7 +143,29 @@ blog.google • 16h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-IEEE Spectrum • 16h ago
+IEEE Spectrum • 17h ago
+
+---
+
+**[Grok AI: is it legal to produce or post undressed images of people without their consent?](https://www.theguardian.com/technology/2026/jan/09/grok-ai-x-explainer-legal-regulation-nudified-images-social-media)**
+
+Deluge of ‘nudified’ images on social media platform X raises questions about regulation of use of AI technologies
+
+The Guardian • 36m ago
+
+---
+
+**[Elon Musk’s xAI under fire for failing to rein in ‘digital undressing’](https://www.cnn.com/2026/01/08/tech/elon-musk-xai-digital-undressing)**
+
+Elon Musk’s AI chatbot, Grok, has been flooded with sexual images of mainly women, many of them real people, by being prompted by users to “digitally undress” them and sometimes placing them in suggestive poses.
+
+CNN • 21h ago
+
+---
+
+**[Italy’s privacy watchdog warns Grok over deepfake AI content](https://www.reuters.com/legal/litigation/italys-privacy-watchdog-warns-grok-over-deepfake-ai-content-2026-01-08/)**
+
+Reuters • 11h ago
 
 ---
 
@@ -155,19 +177,9 @@ Melissa Sims said her nightmare began after she called police during an argument
 
 ---
 
-**[Inside the brand and agency scramble for first-party data in the AI era](https://digiday.com/marketing/inside-the-brand-and-agency-scramble-for-first-party-data-in-the-ai-era/)**
+**[Chinese automaker Xpeng touts AI pivot in face of fierce competition](https://www.reuters.com/business/autos-transportation/chinese-automaker-xpeng-touts-ai-pivot-face-fierce-competition-2026-01-09/)**
 
-Brands are moving faster to own first-party data as AI and privacy changes alter the digital advertising landscape.
-
-Digiday • 47m ago
-
----
-
-**[3 Questions: How AI could optimize the power grid](https://news.mit.edu/2026/3-questions-how-ai-could-optimize-power-grid-0109)**
-
-MIT researchers are working on AI tools to optimize the power grid, which could improve efficiency, increase resilience to extreme weather, and enable the integration of more renewable energy.
-
-MIT News • 50m ago
+Reuters • 1h ago
 
 ---
 
@@ -176,22 +188,6 @@ MIT News • 50m ago
 "Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
 Fortune • 1d ago
-
----
-
-**[AI images and internet rumors spread confusion about ICE agent involved in shooting](https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good)**
-
-While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
-
-NPR • 6h ago
-
----
-
-**[People Are Using AI to Falsely Identify the Federal Agent Who Shot Renee Good](https://www.wired.com/story/people-are-using-ai-to-falsely-identify-the-federal-agent-who-shot-renee-good/)**
-
-Online detectives are inaccurately claiming to have identified the federal agent who shot and killed a 37-year-old woman in Minnesota based on AI-manipulated images.
-
-WIRED • 13h ago
 
 ---
 
@@ -209,7 +205,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 563 • 💬 192 • 10h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 563 • 💬 192 • 11h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -225,7 +221,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 270 • 💬 417 • 14h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 270 • 💬 417 • 15h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -241,7 +237,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 237 • 💬 112 • 11h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 237 • 💬 112 • 12h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -265,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 “I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
 
-⬆️ 132 • 💬 155 • 11h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+⬆️ 132 • 💬 155 • 12h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -287,7 +283,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 12K • 👍 485 • 💬 22 • ⏱️ 17:54 • 5h ago
+👁️ 12K • 👍 485 • 💬 22 • ⏱️ 17:54 • 6h ago
 
 ---
 
@@ -307,7 +303,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 26K • 👍 1K • 💬 169 • ⏱️ 18:37 • 14h ago
+👁️ 26K • 👍 1K • 💬 169 • ⏱️ 18:37 • 15h ago
 
 ---
 
@@ -357,7 +353,7 @@ At CES 2026, visitors experience AI Robotics through hands-on demonstrations on 
 
 📺 Hyundai Motor Group
 
-👁️ 101K • 👍 100 • 💬 1 • ⏱️ 0:33 • 1d ago
+👁️ 101K • 👍 100 • 💬 1 • ⏱️ 0:33 • 2d ago
 
 ---
 
@@ -393,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 615 • 22h ago
+⬇️ 187,937 • ❤️ 615 • 23h ago
 
 ---
 
@@ -669,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 15h ago
+⭐ 2.2k • 🔱 129 • 16h ago
 
 ---
 
@@ -739,7 +735,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 998 • 🔱 120 • 1h ago
+⭐ 998 • 🔱 120 • 2h ago
 
 ---
 
