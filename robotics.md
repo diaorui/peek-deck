@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T20:26:48.431954+00:00'
+updated: '2026-01-09T20:47:36.677803+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 20:26 UTC  
+**Last Updated:** January 09, 2026 at 20:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-10h ago
+11h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 Robotics software is messy. Different perception, planning, and control libraries rarely talk to each other, making experiments and real deployments painfully slow. Telekinesis AI is exploring a different path: reusable “Skills” for perception, motion, control, and logic, combined with AI agents that can sequence and adapt them in real time. Instead of rewriting glue code, you can focus on building complex behaviors and testing new ideas safely. Curious about the problem this is designed to solve? Check out the deep dive Medium article. Want to see the building blocks in action? The Skill Library is ready to explore. All links are in the comments — read about the problem first, then dive into the library and see what you can build.
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Robotics software is messy. Different perception, planning, and control librarie
 
 ROS News for the Week of January 5th, 2026 🎉     TARS ROS 2: A recreation of the robot TARS from Interstellar, featuring AI capabilities..      Our brilliant colleague @youtalk just released his Conduit iOS app which transforms your Apple devices into ROS 2 sensor publishers so you can have access to its fantastic cameras and ToF sensor.. I smell a lot of phone-based ROS 2 robots in our future.       Comau has introduced their new MyCo line of cobot products with ROS 2 support out of the bo...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-5th-2026/51728) • 2m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-5th-2026/51728) • 23m ago
 
 ---
 
@@ -130,11 +130,9 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[AI chip unicorn Hailo to lay off nearly 10% of staff as it refocuses on robotics and Physical AI](https://www.calcalistech.com/ctechnews/article/hyzk11etvwx)**
+**[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
 
-Cuts come as the $344 million-funded startup prepares a new, significant fundraising round.
-
-CTech • 1d ago
+TipRanks • 1d ago
 
 ---
 
@@ -162,25 +160,23 @@ The Times of Israel • 2d ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcnY1N0SFSz3OeRPaoeusTSDYbTTGm-g7JUVR6Pcb4cBsstUjg2vgVw&gaa_ts=69615d53&gaa_sig=v2fKaT0M5LlrC8A3-s_HCMQJmKLD9zEGkGLehrgBKXYNlgUBu41CZxg-iawAcre267YkLGrW0G2QliW600Ta7Q%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcv7RX0oBF3GR7LgryyaSxbTfATILy9T1RToXyrSmlyEXHyNBjUz3g3&gaa_ts=69616cd5&gaa_sig=96U09YhRENhFJg7p9EuVXwrAueBI3JMZfwkGl0uZpFLor_xgMlqsRSKvX69HS9BDkTe1clYNAd0p092cFYvpGg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Mobileye's Mentee Robotics acquisition seen by analysts as broadening scope of company](https://seekingalpha.com/news/4537376-mobileyes-mentee-robotics-acquisition-seen-by-analysts-as-broadening-scope-of-company)**
+**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
 
-Mobileye's (MBLY) plans to acquire humanoid robotics startup Mentee Robotics draw largely positive reactions from analysts.
-
-Seeking Alpha • 2d ago
+Reuters • 2d ago
 
 ---
 
-**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
 
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
 
-NVIDIA Developer • 1d ago
+90.5 WESA • 2d ago
 
 ---
 
@@ -194,7 +190,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 168K • 👍 3K • 💬 453 • ⏱️ 4:29 • 2d ago
+👁️ 176K • 👍 3K • 💬 461 • ⏱️ 4:29 • 2d ago
 
 ---
 
@@ -204,17 +200,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 60K • 👍 1K • 💬 224 • ⏱️ 9:33 • 2d ago
-
----
-
-**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
-
-The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
-
-📺 Dip Knows
-
-👁️ 457K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
+👁️ 61K • 👍 1K • 💬 224 • ⏱️ 9:33 • 2d ago
 
 ---
 
@@ -234,7 +220,17 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 294K • 👍 9K • 💬 322 • ⏱️ 0:39 • 1d ago
+👁️ 307K • 👍 9K • 💬 334 • ⏱️ 0:39 • 1d ago
+
+---
+
+**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
+
+The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
+
+📺 Dip Knows
+
+👁️ 458K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -244,17 +240,17 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 5.1M • 👍 4K • 💬 975 • ⏱️ 0:32 • 5d ago
+👁️ 5.3M • 👍 4K • 💬 978 • ⏱️ 0:32 • 5d ago
 
 ---
 
-**[Why humanoid robots still can’t match humans - and what&#39;s holding them back](https://www.youtube.com/watch?v=lwbSvRZh5_E)**
+**[At CES 2026, AI Takes Over Las Vegas](https://www.youtube.com/watch?v=nuivRxby208)**
 
-Sky's Rowland Manthorpe is at the biggest tech conference in the world in Las Vegas, seeing first-hand just how close robots ...
+The world's largest tech show is back and AI is powering nearly every major reveal. Here's your first look! Connect with Cheddar!
 
-📺 Sky News
+📺 Cheddar
 
-👁️ 828 • 👍 18 • 💬 13 • ⏱️ 11:07 • 3h ago
+👁️ 18K • 👍 184 • 💬 19 • ⏱️ 3:36 • 4d ago
 
 ---
 
@@ -264,7 +260,7 @@ Robots are no longer what we only see in sci-fi movies. Today, they can be seen 
 
 📺 CNA
 
-👁️ 33K • 👍 323 • 💬 162 • ⏱️ 3:47 • 2d ago
+👁️ 34K • 👍 326 • 💬 165 • ⏱️ 3:47 • 2d ago
 
 ---
 
@@ -278,13 +274,13 @@ Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robo
 
 ---
 
-**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
 
-LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
 
-📺 JerryRigEverything
+📺 Hyundai Motor Group
 
-👁️ 168K • 👍 8K • 💬 814 • ⏱️ 7:45 • 1d ago
+👁️ 101K • 👍 102 • 💬 1 • ⏱️ 0:33 • 2d ago
 
 ---
 

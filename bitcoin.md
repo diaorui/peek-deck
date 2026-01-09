@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T20:26:48.422735+00:00'
+updated: '2026-01-09T20:47:36.668614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 20:26 UTC  
+**Last Updated:** January 09, 2026 at 20:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1804.33B
+**Market Cap:** $1802.39B
 Rank #1
 
-**Circulating Supply:** 19,973,659 BTC
+**Circulating Supply:** 19,973,681 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.5%
 
 **All-Time Low:** $67.81
-+133109.0%
++132915.8%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-16h ago
+17h ago
 
 ---
 
@@ -117,7 +117,7 @@ Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growi
 
 I am tired boss
 
-4h ago
+5h ago
 
 ---
 
@@ -137,7 +137,7 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -155,7 +155,7 @@ Anything I should know about?
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -183,35 +183,33 @@ VanEck • 1d ago
 
 ---
 
-**[Bitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters](https://bitcoinmagazine.com/markets/bitcoin-price-holds-90000-tariff-delay)**
+**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
 
-The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
+Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
-
-If true, the claim could significantly reshape the global bitcoin market.
-
-Yahoo Finance • 2d ago
+CNBC • 1d ago
 
 ---
 
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+**[Bitcoin heads positive week after unemployment rate falls: CNBC Crypto World](https://www.cnbc.com/video/2026/01/09/bitcoin-heads-positive-week-after-unemployment-rate-falls-cnbc-crypto-world.html)**
 
-What we know about the South American country’s crypto holdings.
+On today's episode of CNBC Crypto World, bitcoin ends the week above $91,000. Plus, Bank of America upgrades Coinbase to a buy rating from neutral, while leaving its $340 price target unchanged. And, Roger Bayston, head of digital assets at Franklin Templeton, discusses the investment firm's partnership with Wyoming on the state's stable token.
 
-Fortune • 2h ago
+CNBC • 35m ago
 
 ---
 
-**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
+**[Florida revives push for bitcoin reserve with new 2026 bill](https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill)**
 
-Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
+A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
 
-CNBC • 2d ago
+CoinDesk • 1d ago
+
+---
+
+**[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
+
+The Block • 1d ago
 
 ---
 
@@ -223,9 +221,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
+**[Distressed Bitcoin treasury? This is the only way to turn things around, says Mike Novogratz](https://www.dlnews.com/articles/markets/this-is-the-only-way-to-save-a-bitcoin-treasury-mike-novogratz/)**
 
-The Block • 1d ago
+Bitcoin treasuries have been in a slump for months.  More than 60% are sitting in unrealised losses from their last Bitcoin buys.  There’s only one way to turn things around, says crypto investor Mike Novogratz.
+
+dlnews.com • 7h ago
 
 ---
 
@@ -309,33 +309,13 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ## YouTube Videos: "bitcoin"
 
-**[I’ve Never Been More Confident in Bitcoin Than 2026 [Proof]](https://www.youtube.com/watch?v=E9qoWoIalW4)**
+**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
 
 2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
 
 📺 Crypto Insider
 
-👁️ 11K • 👍 1K • 💬 50 • ⏱️ 21:00 • 6h ago
-
----
-
-**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
-
-While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 237 • ⏱️ 25:57 • 20h ago
-
----
-
-**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
-
-Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 235 • ⏱️ 11:14 • 19h ago
+👁️ 16K • 👍 2K • 💬 61 • ⏱️ 21:00 • 6h ago
 
 ---
 
@@ -345,7 +325,37 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 56K • 👍 2K • 💬 307 • ⏱️ 16:13 • 23h ago
+👁️ 59K • 👍 3K • 💬 312 • ⏱️ 16:13 • 1d ago
+
+---
+
+**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
+
+Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 2K • 💬 240 • ⏱️ 11:14 • 19h ago
+
+---
+
+**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
+
+While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 146 • ⏱️ 25:57 • 20h ago
+
+---
+
+**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
+
+📺 Anthony Pompliano
+
+👁️ 27K • 👍 1K • 💬 28 • ⏱️ 43:55 • 1d ago
 
 ---
 
@@ -355,7 +365,7 @@ Bitcoin, Trump, SOL, ETH, Tesla, stocks, and altcoin trade updates! BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 14K • 👍 846 • 💬 60 • ⏱️ 15:20 • 10h ago
+👁️ 16K • 👍 916 • 💬 68 • ⏱️ 15:20 • 11h ago
 
 ---
 
@@ -365,17 +375,17 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 7K • 👍 330 • 💬 63 • ⏱️ 10:06 • 1d ago
+👁️ 7K • 👍 337 • 💬 63 • ⏱️ 10:06 • 1d ago
 
 ---
 
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
 
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
 
-📺 Vortex Bitcoin
+📺 BTC Isla
 
-👁️ 554 • 👍 14 • 💬 3 • ⏱️ 0:49 • 5h ago
+👁️ 4K • 👍 570 • 💬 81 • ⏱️ 10:43 • 4h ago
 
 ---
 
@@ -385,17 +395,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 98K • 👍 6K • 💬 474 • ⏱️ 19:29 • 1d ago
-
----
-
-**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRus Extra
-
-👁️ 9K • 👍 408 • 💬 335 • ⏱️ 9:41 • 1d ago
+👁️ 99K • 👍 6K • 💬 477 • ⏱️ 19:29 • 2d ago
 
 ---
 
@@ -405,7 +405,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 50K • 👍 3K • 💬 253 • ⏱️ 17:35 • 1d ago
+👁️ 51K • 👍 3K • 💬 268 • ⏱️ 17:35 • 1d ago
 
 ---
 

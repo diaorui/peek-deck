@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T20:26:48.428749+00:00'
+updated: '2026-01-09T20:47:36.674607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 20:26 UTC  
+**Last Updated:** January 09, 2026 at 20:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.26B
+**Market Cap:** $371.52B
 Rank #2
 
 **Circulating Supply:** 120,694,747 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.7%
+-37.8%
 
 **All-Time Low:** $0.43
-+711267.1%
++710403.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 7h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 8h ago
 
 ---
 
@@ -112,7 +112,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw
 
-2h ago
+3h ago
 
 ---
 
@@ -150,33 +150,11 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 ## Google News: "ethereum"
 
-**[Ethereum (ETH) treasury news: SharpLink stakes $170 million ether on Linea](https://www.coindesk.com/markets/2026/01/09/ethereum-treasury-firm-sharplink-stakes-usd170m-eth-on-linea-network)**
-
-The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
-
-CoinDesk • 10h ago
-
----
-
-**[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://finance.yahoo.com/news/ethereum-treasury-firm-sharplink-stakes-215216000.html)**
-
-Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
-
-Yahoo Finance • 22h ago
-
----
-
 **[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://decrypt.co/354058/ethereum-treasury-firm-sharplink-gaming-stakes-170-million-eth-linea)**
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
 Decrypt • 22h ago
-
----
-
-**[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
-
-The Block • 2d ago
 
 ---
 
@@ -188,33 +166,11 @@ AMBCrypto • 15h ago
 
 ---
 
-**[Key facts: Morgan Stanley launches Ethereum Trust; Coinbase Premium Gap drops; Ethereum hits 58,786 TPS](https://www.tradingview.com/news/tradingview:78e73e7f8c21c:0-key-facts-morgan-stanley-launches-ethereum-trust-coinbase-premium-gap-drops-ethereum-hits-58-786-tps/)**
+**[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
 
-TradingView — Track All Markets • 20h ago
+Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
----
-
-**[Ethereum Founder Vitalik Buterin Backs Convicted Dev, Calls Privacy 'Essential Protection'](https://finance.yahoo.com/news/ethereum-founder-vitalik-buterin-backs-163137978.html)**
-
-Ethereum co-founder Vitalik Buterin publicly backed convicted Tornado Cash developer Roman Storm, calling privacy tools a human right.
-
-Yahoo Finance • 3h ago
-
----
-
-**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
-
-Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
-
-AMBCrypto • 18h ago
-
----
-
-**[Vitalik Buterin Compares Ethereum to Linux and BitTorrent, and It Explains Everything](https://www.tradingview.com/news/u_today:3c441e14b094b:0-vitalik-buterin-compares-ethereum-to-linux-and-bittorrent-and-it-explains-everything/)**
-
-Ethereum is not just another blockchain, and Vitalik Buterin wants to make sure people understand that. In a recent post, the Ethereum cofounder used two metaphors that really cut through all the crypto jargon: Ethereum is similar to BitTorrent, and Ethereum is like Linux.From his point of view, th…
-
-TradingView — Track All Markets • 1d ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -226,19 +182,53 @@ CoinDesk • 1d ago
 
 ---
 
+**[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
+
+The Block • 2d ago
+
+---
+
+**[Ethereum Steadies Near $3,100, But Trend Remains Under Pressure (Technical Analysis)](https://seekingalpha.com/article/4858443-ethereum-steadies-near-3100-trend-remains-under-pressure-technical-analysis)**
+
+Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
+
+Seeking Alpha • 2h ago
+
+---
+
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
+
+Bit Digital • 2d ago
+
+---
+
+**[Ethereum price prediction: top reasons ETH may soar in 2026](https://www.tradingview.com/news/invezz:b688b0910094b:0-ethereum-price-prediction-top-reasons-eth-may-soar-in-2026/)**
+
+Ethereum price retreated for three consecutive days, erasing some of the gains made earlier this month. ETH dropped to $3,152, down from this year’s high of $3,300. This article explores the top reasons why ETH price will eventually rebound this year.BitMine Ethereum purchasesOne main reason why th…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+
+CCN.com • 3d ago
+
+---
+
+**[Prediction: Ethereum Will Hit $4,000 in 2026](https://www.fool.com/investing/2026/01/09/prediction-ethereum-will-hit-4000-in-2026/)**
+
+This asset will look more appealing than before for two reasons in particular.
+
+The Motley Fool • 11h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
-
-Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 192 • 💬 35 • ⏱️ 4:20 • 20h ago
-
----
 
 **[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
 
@@ -246,7 +236,17 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 8K • 👍 642 • 💬 72 • ⏱️ 12:30 • 6h ago
+👁️ 11K • 👍 729 • 💬 74 • ⏱️ 12:30 • 7h ago
+
+---
+
+**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
+
+Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 200 • 💬 52 • ⏱️ 4:20 • 20h ago
 
 ---
 
@@ -256,7 +256,27 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 3K • 👍 191 • 💬 35 • ⏱️ 52:02 • 8h ago
+👁️ 4K • 👍 216 • 💬 38 • ⏱️ 52:02 • 9h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-gcev5s6aPI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 876 • 👍 81 • 💬 7 • ⏱️ 5:13 • 3h ago
+
+---
+
+**[This Signal Could Drop Ethereum Below $2000](https://www.youtube.com/watch?v=oXSsK9-6W3c)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 72 • 👍 5 • 💬 2 • ⏱️ 5:53 • 48m ago
 
 ---
 
@@ -270,13 +290,13 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=mM-aiXJDmdk)**
+**[Why Most Ethereum Layer 2s Are About to Disappear w/ Eliezer Ndinga](https://www.youtube.com/watch?v=k2kuuyfWyd4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+In this episode of The Milk Road Show, we're joined by Eliezer Ndinga, Global Head of Research at 21Shares, to break down a ...
 
-📺 More Crypto Online
+📺 Milk Road
 
-👁️ 2K • 👍 144 • 💬 11 • ⏱️ 8:41 • 21h ago
+👁️ 115 • 👍 11 • 💬 23 • ⏱️ 34:39 • 1h ago
 
 ---
 
@@ -286,17 +306,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 151 • 💬 48 • ⏱️ 11:47 • 1d ago
+👁️ 3K • 👍 154 • 💬 60 • ⏱️ 11:47 • 1d ago
 
 ---
 
-**[Nobody Can Save Crypto (Bitcoin PulseChain Ethereum)](https://www.youtube.com/watch?v=vvl3Ph5tEZ0)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=mM-aiXJDmdk)**
 
-how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Coffee
+📺 More Crypto Online
 
-👁️ 167 • 👍 38 • 💬 51 • ⏱️ 12:13 • 2h ago
+👁️ 2K • 👍 146 • 💬 11 • ⏱️ 8:41 • 21h ago
 
 ---
 
@@ -307,26 +327,6 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 📺 C-Zar Gets Crypto 
 
 👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 21h ago
-
----
-
-**[ETH Is ABOUT TO EXPLODE And ALTCOINS ARE NEXT!!](https://www.youtube.com/watch?v=R9fwVe0163s)**
-
-The crypto market has been rallying over the last few days, and this has everyone wondering which cryptos have the most ...
-
-📺 Coin Bureau Trading
-
-👁️ 12K • 👍 737 • 💬 60 • ⏱️ 10:20 • 2d ago
-
----
-
-**[XRP Price Chart Hits the Retrace, Bitcoin, Ethereum &amp; Altcoins Hope for Their Chance, Looking Ahead](https://www.youtube.com/watch?v=Ksr5wQfGSc0)**
-
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
-
-📺 Blockchain Backer
-
-👁️ 7K • 👍 1K • 💬 3 • ⏱️ 17:43 • 4h ago
 
 ---
 
