@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T21:42:41.356767+00:00'
+updated: '2026-01-09T22:22:34.288884+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 21:42 UTC  
+**Last Updated:** January 09, 2026 at 22:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-20h ago
+21h ago
 
 ---
 
@@ -57,7 +57,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I did a thought experiment with my AI of choice and I'm absolutely flabbergasted! I always have been fascinated by what can be done with AI so today I sat down and made up a thought experiment about popcorn (because I literally was eating popcorn) and this is how ot went: Imagine that since the dawn of humanity (about 5 million years ago), every hominid, Neanderthal, and human had access to a microwave. Every single day, everyone pops exactly one bag of popcorn (50 kernels). To make it a pure physics experiment, we eliminate all "noise": No dust, no skin flakes, identical humidity everywhere, and we let the popcorn cool for 24 hours so all steam has evaporated. We are looking for two bowls of popcorn that weigh exactly the same. We calculated that throughout history, there would have been roughly 2 quintillion (2 * 10{18}) bags of popcorn made. If we measure in Micrograms (10{-6}g): There would be billions of identical pairs. If we measure in Nanograms (10{-9}g): Still millions of perfect matches. The "Attogram Miracle": I pushed the experiment to the limit: The Attogram (10{-18}g). An attogram is so small that it’s roughly the mass of just 50 carbon atoms. At this level, the number of possible weight increments (2 grams divided by 1 attogram) is exactly 2 quintillion. According to the "Birthday Paradox" in statistics, since the number of bags made (2 * 10{18}) matches the number of possible weight steps (2 * 10{18}), the probability hits a tipping point. Statistically, it is highly likely that exactly ONCE in human history, two bowls of popcorn were physically identical at the attogram level. One might have been popped by a caveman 3 million years ago, and the other by a college student in 2024. They would be "weight-twins" down to a scale finer than anything we can measure today—a perfect symmetry across time, separated only by the mass of a few atoms. TL;DR: If humans had been popping popcorn since we were apes, we would have produced enough bags to guarantee a 1-in-a-quintillion "Attogram Miracle"—two bowls weighing exactly the same down to the mass of 50 atoms.
 
-10m ago
+50m ago
 
 ---
 
@@ -65,7 +65,7 @@ I did a thought experiment with my AI of choice and I'm absolutely flabbergasted
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 12h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 13h ago
 
 ---
 
@@ -73,7 +73,7 @@ It comes after government urged Ofcom to use all its powers – up to and includ
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-15h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 4h ago
+The New York Times • 1h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 4h ago
 
 Technology editor Zoe Kleinman explains the row over changes made by X to it's Grok AI image edits, after the UK government called it "insulting".
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 4h ago
 
 Spokesperson says limiting access to paying subscribers just makes ability to generate unlawful images a premium service
 
-The Guardian • 8h ago
+The Guardian • 1d ago
 
 ---
 
@@ -145,43 +145,39 @@ The Guardian • 8h ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 11h ago
+NBC News • 12h ago
 
 ---
 
-**[Amazon Has Big Hopes for Wearable AI — Starting With This $50 Gadget](https://www.bloomberg.com/news/articles/2026-01-09/amazon-has-big-hopes-for-wearable-ai-starting-with-this-50-gadget)**
+**[2 Brilliant AI Stocks to Buy in January and Hold for the Long Term](https://www.fool.com/investing/2026/01/09/2-brilliant-ai-stocks-buy-january-hold-long-term/)**
 
-Bloomberg.com • 1h ago
+These tech leaders are playing crucial roles in bringing AI to the masses.
 
----
-
-**[Opinion | Letting AI process refills is the wrong solution to a pressing problem](https://www.ms.now/opinion/utah-ai-prescription-program-health-care-problems)**
-
-Dr. Owais Durrani: The human element of medicine shouldn't be optional.
-
-MS NOW • 1h ago
+The Motley Fool • 5h ago
 
 ---
 
-**[‘Worst in Show’ CES products include AI refrigerators, AI companions and AI doorbells](https://ksltv.com/national-news/worst-in-show-ces-products-ai/865178/)**
+**[3 Millionaire-Maker Artificial Intelligence (AI) Stocks](https://www.fool.com/investing/2026/01/08/millionaire-maker-artificial-intelligence-ai-stock/)**
 
-The promise of AI was front and center at this year's CES gadget show. But spicing up a simple machine like a refrigerator with unnecessary AI was also a surefire way to win the “Worst in Show.”
+You don't have to buy risky stocks to invest in the AI boom.
 
-KSLTV.com • 4h ago
-
----
-
-**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
-
-Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
-
-CNBC • 8h ago
+The Motley Fool • 22h ago
 
 ---
 
-**[Brew, Smell, And Serve: AI Steals The Show At CES 2026](https://www.barrons.com/articles/brew-smell-and-serve-ai-steals-the-show-at-ces-2026-f0fe5675?gaa_at=eafs&gaa_n=AWEtsqfFuEIdfHexDCyIWpeZIAdootXut-yF_EEG6oxkQlDjSIRLRBZBtxEi&gaa_ts=69616cd0&gaa_sig=kFauZ7LvlaRmuZ7-veu5yjwG4UYQgVocQqGKMnL4G709t68qK8BDrX5lqWg2q1AkOT4KznmAWLN3xMFvlSKmUg%3D%3D)**
+**[What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://finance.yahoo.com/news/3-top-artificial-intelligence-ai-212100195.html)**
 
-Barron's • 1h ago
+Nvidia, Broadcom, and Amazon are all solid long-term plays on the AI boom.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
+
+Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
+
+BBC • 12h ago
 
 ---
 
@@ -190,6 +186,14 @@ Barron's • 1h ago
 While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
 
 NPR • 22h ago
+
+---
+
+**['No one verified the evidence': Woman says AI-generated deepfake text sent her to jail | Action News Investigation](https://6abc.com/post/no-verified-evidence-woman-says-ai-generated-deepfake-text-sent-jail-action-news-investigation/18373467/)**
+
+Melissa Sims said her nightmare began after she called police during an argument with her boyfriend, when she said he allegedly ransacked her home.
+
+6abc Philadelphia • 17h ago
 
 ---
 
@@ -255,7 +259,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 72 • 💬 89 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 72 • 💬 89 • 14h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -285,7 +289,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 17K • 👍 1K • 💬 134 • ⏱️ 19:15 • 7h ago
+👁️ 17K • 👍 1K • 💬 134 • ⏱️ 19:15 • 8h ago
 
 ---
 
@@ -315,7 +319,7 @@ An anonymous Reddit user's claims of fraud and theft by an unnamed food delivery
 
 📺 NBC News
 
-👁️ 19K • 👍 335 • 💬 104 • ⏱️ 3:18 • 17h ago
+👁️ 19K • 👍 335 • 💬 104 • ⏱️ 3:18 • 18h ago
 
 ---
 
@@ -325,7 +329,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 58K • 👍 4K • 💬 1K • ⏱️ 14:48 • 8h ago
+👁️ 58K • 👍 4K • 💬 1K • ⏱️ 14:48 • 9h ago
 
 ---
 
@@ -345,7 +349,7 @@ Create Music Videos with OpenArt https://www.openart.ai/home/?ref=cartoon-music-
 
 📺 Roboverse
 
-👁️ 7K • 💬 1 • ⏱️ 9:30 • 6h ago
+👁️ 7K • 💬 1 • ⏱️ 9:30 • 7h ago
 
 ---
 
@@ -375,7 +379,7 @@ Elon Musk's platform X has limited Grok Artificial Intelligence (AI) image edits
 
 📺 BBC News
 
-👁️ 8K • 👍 246 • 💬 123 • ⏱️ 3:03 • 5h ago
+👁️ 8K • 👍 246 • 💬 123 • ⏱️ 3:03 • 6h ago
 
 ---
 
@@ -475,7 +479,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 222 • 15h ago
+⬇️ 5,785 • ❤️ 222 • 16h ago
 
 ---
 
@@ -645,7 +649,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 880 • 3h ago
+⭐ 7.4k • 🔱 880 • 4h ago
 
 ---
 
@@ -665,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 3h ago
+⭐ 2.2k • 🔱 130 • 4h ago
 
 ---
 
@@ -695,7 +699,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 105 • 6h ago
+⭐ 1.3k • 🔱 105 • 7h ago
 
 ---
 
@@ -715,7 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 11h ago
+⭐ 1.2k • 🔱 143 • 12h ago
 
 ---
 
@@ -725,7 +729,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.1k • 🔱 79 • 10d ago
+⭐ 1.1k • 🔱 79 • 11d ago
 
 ---
 

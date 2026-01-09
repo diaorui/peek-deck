@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T21:42:41.365277+00:00'
+updated: '2026-01-09T22:22:34.297216+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 21:42 UTC  
+**Last Updated:** January 09, 2026 at 22:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-17h ago
+18h ago
 
 ---
 
@@ -109,7 +109,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growing narrative suggesting that large institutions could somehow change it. To be clear, scarcity is one of Bitcoin’s foundational properties and a core reason it represents the hardest money humanity has ever known. I run a Bitcoin full node (I'm just one part of a large and globally distributed group of individuals) and I would never accept a change to the 21M cap. If any institution (Nation, BlackRock or otherwise) attempted to fork Bitcoin by increasing the supply to more coins, I would continue validating the 21 million–cap chain without hesitation. I’m confident tens of thousands of other node operators would do the same. This is how Bitcoin protects itself: its monetary policy cannot be changed unilaterally. Any supply change requires broad, voluntary consensus across the network. Even in an extreme scenario where institutions attempted to flood the network with nodes to create the appearance of consensus for say a 30 million–coin (or inflating) fork, anyone remains free to run software that enforces the 21M hard cap. In practice, the chain that preserves scarcity would retain the trust of users and holders, making it the economically relevant chain. Miners ultimately follow the chain that nodes validate, exchanges support, and the market values. This is why, while Bitcoin’s supply cap can be changed in theory, it will not be changed in reality. Bitcoin’s decentralized governance ensures that no single actor... or coordinated group... can impose a monetary rule change without overwhelming consensus. Bitcoin is protected because individuals run nodes and independently choose the rules they believe are best. If you want a vote, run a node. It’s effectively free. If you want to help protect Bitcoin’s core rules, consider running your own node. A full node currently requires just under 1TB of storage, while a pruned node requires only a fraction of that. Both consume minimal power and only a few hundred MB of network traffic per day after the initial sync... while giving you direct participation in Bitcoin’s validation and security.
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,7 @@ Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growi
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
 
-3h ago
+4h ago
 
 ---
 
@@ -131,13 +131,13 @@ I am tired boss
 
 **[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ I am tired boss
 
 Anything I should know about?
 
-18h ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 13h ago
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -171,31 +171,7 @@ CoinDesk • 14h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 9h ago
-
----
-
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
-
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
-
-VanEck • 1d ago
-
----
-
-**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
-
-Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
-
-CNBC • 1d ago
-
----
-
-**[Bitcoin heads positive week after unemployment rate falls: CNBC Crypto World](https://www.cnbc.com/video/2026/01/09/bitcoin-heads-positive-week-after-unemployment-rate-falls-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, bitcoin ends the week above $91,000. Plus, Bank of America upgrades Coinbase to a buy rating from neutral, while leaving its $340 price target unchanged. And, Roger Bayston, head of digital assets at Franklin Templeton, discusses the investment firm's partnership with Wyoming on the state's stable token.
-
-CNBC • 1h ago
+CNBC • 10h ago
 
 ---
 
@@ -213,19 +189,41 @@ The Block • 1d ago
 
 ---
 
-**[Florida Lawmakers Want To Create A Bitcoin Reserve In 2026](https://bitcoinmagazine.com/news/florida-revives-bitcoin-reserve-push)**
+**[Brazilian presidential hopeful calls for launch of national Bitcoin reserve](https://www.dlnews.com/articles/people-culture/brazilian-presidential-hopeful-wants-bitcoin-reserve/)**
 
-Florida lawmakers filed new legislation for the 2026 session that would create a state-run crypto reserve after a similar effort stalled last year.
+Politician Renan Santos aims to become the Brazilian Bukele. He says a Brazilian Bitcoin reserve is already “feasible.” Santos says blockchain technology is a “cool tool” for fighting corruption.
 
-Bitcoin Magazine • 1d ago
+dlnews.com • 2d ago
 
 ---
 
-**[Distressed Bitcoin treasury? This is the only way to turn things around, says Mike Novogratz](https://www.dlnews.com/articles/markets/this-is-the-only-way-to-save-a-bitcoin-treasury-mike-novogratz/)**
+**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-Bitcoin treasuries have been in a slump for months.  More than 60% are sitting in unrealised losses from their last Bitcoin buys.  There’s only one way to turn things around, says crypto investor Mike Novogratz.
+Bloomberg.com • 1h ago
 
-dlnews.com • 8h ago
+---
+
+**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
+
+Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
+
+CoinDesk • 20h ago
+
+---
+
+**[Bitcoin price clings to $90K as traders eye US Supreme Court tariff ruling](https://www.tradingview.com/news/cointelegraph:9108a7809094b:0-bitcoin-price-clings-to-90k-as-traders-eye-us-supreme-court-tariff-ruling/)**
+
+Bitcoin BITSTAMP:BTCUSD hovered at $90,000 around Friday’s Wall Street open as markets braced for US trade tariff news.Key points:US tariff ruling could come FridayData from TradingView showed indecisive BTC price action ahead of a potential Supreme Court ruling over the tariffs, known as a risk-as…
+
+TradingView — Track All Markets • 7h ago
+
+---
+
+**[Bitcoin Whales Keep Buying as 100+ BTC Addresses Set New Record](https://bitcoinmagazine.com/news/bitcoin-whales-keep-buying-bitcoin)**
+
+Bitcoin whale accumulation hit a record high as 100+ BTC addresses surged, even as bitcoin consolidates near $90,000 amid easing macro uncertainty.
+
+Bitcoin Magazine • 36m ago
 
 ---
 
@@ -237,7 +235,7 @@ dlnews.com • 8h ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 22h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 23h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -267,7 +265,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 12h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 13h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -315,7 +313,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 📺 Crypto Insider
 
-👁️ 16K • 👍 2K • 💬 61 • ⏱️ 21:00 • 7h ago
+👁️ 16K • 👍 2K • 💬 61 • ⏱️ 21:00 • 8h ago
 
 ---
 
@@ -335,7 +333,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 240 • ⏱️ 11:14 • 20h ago
+👁️ 43K • 👍 2K • 💬 240 • ⏱️ 11:14 • 21h ago
 
 ---
 
@@ -345,7 +343,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 146 • ⏱️ 25:57 • 21h ago
+👁️ 28K • 👍 2K • 💬 146 • ⏱️ 25:57 • 22h ago
 
 ---
 
@@ -355,7 +353,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 1K • 💬 28 • ⏱️ 43:55 • 1d ago
+👁️ 27K • 👍 1K • 💬 28 • ⏱️ 43:55 • 2d ago
 
 ---
 
@@ -385,7 +383,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 4K • 👍 570 • 💬 81 • ⏱️ 10:43 • 5h ago
+👁️ 4K • 👍 570 • 💬 81 • ⏱️ 10:43 • 6h ago
 
 ---
 

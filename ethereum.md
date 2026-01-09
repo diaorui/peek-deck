@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T21:42:41.371287+00:00'
+updated: '2026-01-09T22:22:34.303165+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 21:42 UTC  
+**Last Updated:** January 09, 2026 at 22:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 8h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 9h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-16h ago
+17h ago
 
 ---
 
@@ -154,7 +154,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 23h ago
 
 Will crypto assets defend their key short-term support levels?
 
-AMBCrypto • 16h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -170,7 +170,7 @@ AMBCrypto • 16h ago
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -196,14 +196,6 @@ Seeking Alpha • 3h ago
 
 ---
 
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
-
-Bit Digital • 2d ago
-
----
-
 **[Ethereum price prediction: top reasons ETH may soar in 2026](https://www.tradingview.com/news/invezz:b688b0910094b:0-ethereum-price-prediction-top-reasons-eth-may-soar-in-2026/)**
 
 Ethereum price retreated for three consecutive days, erasing some of the gains made earlier this month. ETH dropped to $3,152, down from this year’s high of $3,300. This article explores the top reasons why ETH price will eventually rebound this year.BitMine Ethereum purchasesOne main reason why th…
@@ -212,17 +204,25 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
 
-CCN.com • 3d ago
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
+
+Bit Digital • 2d ago
 
 ---
 
-**[Prediction: Ethereum Will Hit $4,000 in 2026](https://www.fool.com/investing/2026/01/09/prediction-ethereum-will-hit-4000-in-2026/)**
+**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
 
-This asset will look more appealing than before for two reasons in particular.
+Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-The Motley Fool • 12h ago
+Coinpedia Fintech News • 3h ago
+
+---
+
+**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+
+CCN.com • 3d ago
 
 ---
 
@@ -246,7 +246,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 200 • 💬 52 • ⏱️ 4:20 • 21h ago
+👁️ 4K • 👍 200 • 💬 52 • ⏱️ 4:20 • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 876 • 👍 81 • 💬 7 • ⏱️ 5:13 • 4h ago
+👁️ 876 • 👍 81 • 💬 7 • ⏱️ 5:13 • 5h ago
 
 ---
 
@@ -276,7 +276,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 72 • 👍 5 • 💬 2 • ⏱️ 5:53 • 1h ago
+👁️ 72 • 👍 5 • 💬 2 • ⏱️ 5:53 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ In this episode of The Milk Road Show, we're joined by Eliezer Ndinga, Global He
 
 📺 Milk Road
 
-👁️ 115 • 👍 11 • 💬 23 • ⏱️ 34:39 • 1h ago
+👁️ 115 • 👍 11 • 💬 23 • ⏱️ 34:39 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 11 • ⏱️ 8:41 • 22h ago
+👁️ 2K • 👍 146 • 💬 11 • ⏱️ 8:41 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 22h ago
+👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 23h ago
 
 ---
 
