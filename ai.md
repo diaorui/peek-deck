@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T11:20:51.288351+00:00'
+updated: '2026-01-09T11:42:21.968678+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - videos
 - social
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 11:20 UTC  
+**Last Updated:** January 09, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 19h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 20h ago
 
 ---
 
@@ -81,7 +81,7 @@ Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1]
 
 Humanity may have gained a few extra years. The AI Futures Project, led by former OpenAI researcher Daniel Kokotajlo, has revised its forecast for superintelligent AI, concluding that the technological breakthroughs once expected by 2027 are now more likely to arrive in the early 2030s.
 
-🔗 [Hungarian Conservative](https://www.hungarianconservative.com/articles/tech/ai-futures-project-ai-2027-apocalypse-timeline-superintelligence-daniel-kokotajlo/) • 1h ago
+🔗 [Hungarian Conservative](https://www.hungarianconservative.com/articles/tech/ai-futures-project-ai-2027-apocalypse-timeline-superintelligence-daniel-kokotajlo/) • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ IEEE Spectrum • 22h ago
 
 MiniMax joins wave of technology companies in China going public
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
@@ -163,25 +163,25 @@ Financial Times • 4h ago
 
 Shares of MiniMax surged in their first day of trading in Hong Kong, in what represents the second major Chinese LLM company to go public.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[Founder Of Chinese AI Model Developer MiniMax Becomes A Billionaire As Shares Surge On Listing](https://www.forbes.com/sites/ywang/2026/01/09/founder-of-chinese-ai-model-developer-minimax-becomes-a-billionaire-as-shares-surge-on-listing/)**
 
-Forbes • 56m ago
+Forbes • 1h ago
 
 ---
 
 **[Is AI Is Killing Entry-Level Hiring? Not at Shopify](https://www.inc.com/jessica-stillman/is-ai-is-killing-entry-level-hiring-not-at-shopify/91285290)**
 
-inc.com • 37m ago
+inc.com • 58m ago
 
 ---
 
 **[Our AI Future Is Already Here, It’s Just Not Evenly Distributed](https://www.wsj.com/tech/ai/our-ai-future-is-already-here-its-just-not-evenly-distributed-cf7a6f35?gaa_at=eafs&gaa_n=AWEtsqfMRFRsSlaE9veO24ir6Ewn9Mmw3vyw7GEOIjLlIM1snEuAztX0UXes&gaa_ts=6960e0ca&gaa_sig=6uh2-Q5_O3A3rmFBQ8IMFUaQl8wl5TUICSLHupYsXv5N0wht3PErFuVxTO4xnuvTjTozHnZDJwCNjF_CYR-ktg%3D%3D)**
 
-The Wall Street Journal • 50m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -285,7 +285,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 30K • 👍 825 • 💬 36 • ⏱️ 17:54 • 10h ago
+👁️ 37K • 👍 934 • 💬 39 • ⏱️ 17:54 • 11h ago
 
 ---
 
@@ -295,17 +295,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 89K • 👍 2K • 💬 134 • ⏱️ 13:08 • 1d ago
-
----
-
-**[AI Short Film | So Low - 4K](https://www.youtube.com/watch?v=xbwGK_z9_cU)**
-
-I was playing around with a bunch of different #midjourney style ref codes and found this beautiful teal and olive tinted one. I made ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 9K • 👍 567 • 💬 58 • ⏱️ 2:42 • 20h ago
+👁️ 90K • 👍 2K • 💬 138 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -315,7 +305,27 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 83K • 👍 3K • 💬 236 • ⏱️ 13:13 • 2d ago
+👁️ 84K • 👍 3K • 💬 240 • ⏱️ 13:13 • 2d ago
+
+---
+
+**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
+
+Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
+
+📺 TED
+
+👁️ 12K • 👍 415 • 💬 36 • ⏱️ 12:52 • 19h ago
+
+---
+
+**[AI Short Film | So Low - 4K](https://www.youtube.com/watch?v=xbwGK_z9_cU)**
+
+I was playing around with a bunch of different #midjourney style ref codes and found this beautiful teal and olive tinted one. I made ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 9K • 👍 595 • 💬 60 • ⏱️ 2:42 • 20h ago
 
 ---
 
@@ -329,16 +339,6 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 ---
 
-**[Google&#39;s Gmail unveils new AI features powered by Gemini](https://www.youtube.com/watch?v=nzlFoQmMSBk)**
-
-CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
-
-📺 CNBC Television
-
-👁️ 8K • 👍 110 • 💬 13 • ⏱️ 3:43 • 16h ago
-
----
-
 **[Nvidia unveils new &quot;revolutionary&quot; AI tech](https://www.youtube.com/watch?v=WcWffmAzlPw)**
 
 Artificial intelligence technology giant Nvidia announced a new endeavor that it says will be revolutionary. Emily Bary ...
@@ -349,23 +349,13 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 ---
 
-**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
+**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
 
-This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
+CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
 
-📺 Tyler Vitelli
+📺 The Laughing Lion
 
-👁️ 2.4M • 👍 77K • 💬 6K • ⏱️ 0:10 • 1d ago
-
----
-
-**[AI Psychosis](https://www.youtube.com/watch?v=gmgiSV-b-Qc)**
-
-Does AI make you delusional? #ai #aipsychology #gpt #gemini #chatgpt #copilot #grok #psychologyfacts #psychology ...
-
-📺 Psych2Go
-
-👁️ 2K • 👍 415 • 💬 42 • ⏱️ 1:54 • 3h ago
+👁️ 125K • 👍 2K • 💬 327 • ⏱️ 25:02 • 2d ago
 
 ---
 
@@ -376,6 +366,16 @@ At CES 2026, visitors experience AI Robotics through hands-on demonstrations on 
 📺 Hyundai Motor Group
 
 👁️ 101K • 👍 101 • 💬 1 • ⏱️ 0:33 • 2d ago
+
+---
+
+**[AI Psychosis](https://www.youtube.com/watch?v=gmgiSV-b-Qc)**
+
+Does AI make you delusional? #ai #aipsychology #gpt #gemini #chatgpt #copilot #grok #psychologyfacts #psychology ...
+
+📺 Psych2Go
+
+👁️ 4K • 👍 677 • 💬 50 • ⏱️ 1:54 • 3h ago
 
 ---
 
@@ -391,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 330,354 • ❤️ 640 • 1d ago
+⬇️ 330,354 • ❤️ 648 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 8,048 • ❤️ 684 • 8d ago
+⬇️ 8,048 • ❤️ 685 • 8d ago
 
 ---
 
@@ -415,7 +415,55 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 19,738 • ❤️ 541 • 9d ago
+⬇️ 19,738 • ❤️ 542 • 9d ago
+
+---
+
+**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
+
+*NVIDIA*
+
+Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
+
+`automatic-speech-recognition`
+
+⬇️ 1,074 • ❤️ 240 • 3d ago
+
+---
+
+**[HyperCLOVAX-SEED-Think-32B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B)**
+
+*HyperCLOVA X*
+
+HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of multimodal understanding (text, image, video) with a 128K token context length. It excels at Korean-centric reasoning and offers an optional 'thinking mode' for deep, controllable analysis, making it suitable for complex agentic tasks and advanced multimodal QA.
+
+`text-generation` `33.3B`
+
+⬇️ 30,216 • ❤️ 318 • 3d ago
+
+---
+
+**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+
+*MiniMax*
+
+MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 202,948 • ❤️ 974 • 12d ago
+
+---
+
+**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
+
+*Liquid AI*
+
+LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
+
+`text-generation` `1.2B`
+
+⬇️ 5,785 • ❤️ 211 • 5h ago
 
 ---
 
@@ -431,15 +479,15 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 ---
 
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
 
-*MiniMax*
+*fal*
 
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
 
-`text-generation` `228.7B`
+`image-to-image`
 
-⬇️ 202,948 • ❤️ 973 • 12d ago
+⬇️ 3,149 • ❤️ 183 • 1d ago
 
 ---
 
@@ -451,55 +499,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,644 • ❤️ 443 • 3d ago
-
----
-
-**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
-
-*NVIDIA*
-
-Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
-
-`automatic-speech-recognition`
-
-⬇️ 1,074 • ❤️ 234 • 3d ago
-
----
-
-**[HyperCLOVAX-SEED-Think-32B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B)**
-
-*HyperCLOVA X*
-
-HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of multimodal understanding (text, image, video) with a 128K token context length. It excels at Korean-centric reasoning and offers an optional 'thinking mode' for deep, controllable analysis, making it suitable for complex agentic tasks and advanced multimodal QA.
-
-`text-generation` `33.3B`
-
-⬇️ 30,216 • ❤️ 311 • 3d ago
-
----
-
-**[IQuest-Coder-V1-40B-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct)**
-
-*IQuest*
-
-IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flow paradigm for autonomous software engineering, excelling in benchmarks like SWE-Bench and BigCodeBench with native 128K context length.
-
-`text-generation` `39.8B`
-
-⬇️ 4,662 • ❤️ 260 • 6d ago
-
----
-
-**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
-
-*Liquid AI*
-
-LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
-
-`text-generation` `1.2B`
-
-⬇️ 5,785 • ❤️ 205 • 5h ago
+⬇️ 3,644 • ❤️ 443 • 4h ago
 
 ---
 
@@ -507,27 +507,40 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
-
-*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
-
-LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
-
-▲ 74 • 💬 1 • ⭐ 1,468 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
-
----
-
 **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://huggingface.co/papers/2511.11793)**
 
 *MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)*
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 169 • 💬 5 • ⭐ 3,440 • 1mo ago
+▲ 169 • 💬 5 • ⭐ 3,767 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
+
+---
+
+**[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://huggingface.co/papers/2601.03233)**
+
+*Yoav HaCohen, Benny Brazowski, Nisan Chiprut et al. (29 authors)*
+
+LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
+
+▲ 75 • 💬 1 • ⭐ 1,468 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
+
+---
+
+**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
+  Videos](https://huggingface.co/papers/2502.01549)**
+
+*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
+
+VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
+
+▲ 2 • 💬 0 • ⭐ 2,205 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
 ---
 
@@ -590,36 +603,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 17 • 💬 2 • ⭐ 14,698 • 1mo ago
+▲ 18 • 💬 2 • ⭐ 14,698 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
-  Videos](https://huggingface.co/papers/2502.01549)**
-
-*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
-
-VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
-
-▲ 2 • 💬 0 • ⭐ 2,040 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 141 • 💬 6 • ⭐ 20,104 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -637,6 +623,20 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 141 • 💬 6 • ⭐ 20,118 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -647,7 +647,7 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.2k • 🔱 866 • 2h ago
+⭐ 7.3k • 🔱 867 • 3h ago
 
 ---
 
@@ -677,7 +677,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 217 • 4d ago
+⭐ 1.9k • 🔱 218 • 5d ago
 
 ---
 
@@ -697,7 +697,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 102 • 23h ago
+⭐ 1.3k • 🔱 103 • 23h ago
 
 ---
 
@@ -707,7 +707,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 101 • 4h ago
+⭐ 1.2k • 🔱 101 • 32m ago
 
 ---
 
@@ -717,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 4h ago
+⭐ 1.2k • 🔱 143 • 1h ago
 
 ---
 
@@ -727,7 +727,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.1k • 🔱 78 • 10d ago
+⭐ 1.1k • 🔱 79 • 10d ago
 
 ---
 
@@ -737,7 +737,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 120 • 7h ago
+⭐ 1.0k • 🔱 120 • 56m ago
 
 ---
 

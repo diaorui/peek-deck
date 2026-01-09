@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T11:20:51.306905+00:00'
+updated: '2026-01-09T11:42:21.986397+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 11:20 UTC  
+**Last Updated:** January 09, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-39m ago
+1h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ We’re seeing the first humanoid pilots in factories, logistics hubs, and inspe
 
 I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
 
-18h ago
+19h ago
 
 ---
 
@@ -147,7 +147,7 @@ Because even the future of AI has off days.
 
 Aishwarya Anand
 
-LinkedIn • 1h ago
+LinkedIn • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 133K • 👍 2K • 💬 399 • ⏱️ 4:29 • 1d ago
+👁️ 139K • 👍 2K • 💬 410 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 58K • 👍 1K • 💬 215 • ⏱️ 9:33 • 2d ago
+👁️ 58K • 👍 1K • 💬 220 • ⏱️ 9:33 • 2d ago
 
 ---
 
@@ -224,23 +224,13 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 ---
 
-**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
-
-I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
-
-📺 mryeester
-
-👁️ 196K • 👍 7K • 💬 253 • ⏱️ 0:39 • 17h ago
-
----
-
 **[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
 
 Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
 
 📺 PCMag
 
-👁️ 604K • 👍 12K • 💬 2K • ⏱️ 7:00 • 3d ago
+👁️ 607K • 👍 12K • 💬 2K • ⏱️ 7:00 • 3d ago
 
 ---
 
@@ -254,13 +244,23 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 ---
 
+**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+
+I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+
+📺 mryeester
+
+👁️ 220K • 👍 7K • 💬 269 • ⏱️ 0:39 • 17h ago
+
+---
+
 **[Atlas Has Left the Lab! In-Person Demo of Boston Dynamics Humanoid | What The Future](https://www.youtube.com/watch?v=q2rR_aXjqnI)**
 
 Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where it showcased autonomy, teleoperation, and how ...
 
 📺 CNET
 
-👁️ 91K • 👍 2K • 💬 293 • ⏱️ 4:01 • 22h ago
+👁️ 93K • 👍 2K • 💬 295 • ⏱️ 4:01 • 22h ago
 
 ---
 
@@ -274,23 +274,23 @@ Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in La
 
 ---
 
-**[Humanoid robots steal the show at CES tech event in Las Vegas](https://www.youtube.com/watch?v=DbPg-t6m2Mg)**
-
-Excitement from the commercial AI boom and new technical advances have helped pour huge amounts of money into robotics ...
-
-📺 ShanghaiEye魔都眼
-
-👁️ 8K • 👍 118 • 💬 21 • ⏱️ 4:25 • 1d ago
-
----
-
 **[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
 
 Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
 
 📺 Unitree Robotics
 
-👁️ 5.0M • 👍 4K • 💬 956 • ⏱️ 0:32 • 5d ago
+👁️ 5.0M • 👍 4K • 💬 960 • ⏱️ 0:32 • 5d ago
+
+---
+
+**[Humanoid robots steal the show at CES tech event in Las Vegas](https://www.youtube.com/watch?v=DbPg-t6m2Mg)**
+
+Excitement from the commercial AI boom and new technical advances have helped pour huge amounts of money into robotics ...
+
+📺 ShanghaiEye魔都眼
+
+👁️ 8K • 👍 124 • 💬 21 • ⏱️ 4:25 • 1d ago
 
 ---
 

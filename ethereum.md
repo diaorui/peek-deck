@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T11:20:51.303489+00:00'
+updated: '2026-01-09T11:42:21.983182+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 11:20 UTC  
+**Last Updated:** January 09, 2026 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.44B
+**Market Cap:** $373.42B
 Rank #2
 
 **Circulating Supply:** 120,694,747 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.4%
 
 **All-Time Low:** $0.43
-+714932.4%
++714458.9%
 
 ---
 
@@ -118,13 +118,13 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Polymarket And Delphi Digital Make History With Tradable Research](https://www.reddit.com/r/ethereum/comments/1q7g8gh/polymarket_and_delphi_digital_make_history_with/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 18h ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 19h ago
 
 ---
 
@@ -156,7 +156,7 @@ Decrypt • 13h ago
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1h ago
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -230,7 +230,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 138 • 💬 20 • ⏱️ 4:20 • 11h ago
+👁️ 3K • 👍 153 • 💬 36 • ⏱️ 4:20 • 11h ago
 
 ---
 
@@ -240,17 +240,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 143 • 💬 34 • ⏱️ 11:47 • 22h ago
+👁️ 3K • 👍 145 • 💬 33 • ⏱️ 11:47 • 23h ago
 
 ---
 
-**[ETH Ethereum $4K Prices INCOMING](https://www.youtube.com/watch?v=DzWB6-6WLkw)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=mM-aiXJDmdk)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 C-Zar Gets Crypto 
+📺 More Crypto Online
 
-👁️ 510 • 👍 37 • 💬 15 • ⏱️ 9:03 • 12h ago
+👁️ 2K • 👍 136 • 💬 10 • ⏱️ 8:41 • 12h ago
 
 ---
 
@@ -264,33 +264,23 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Sc_bit_dm8I)**
+**[ETH Ethereum $4K Prices INCOMING](https://www.youtube.com/watch?v=DzWB6-6WLkw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 More Crypto Online
+📺 C-Zar Gets Crypto 
 
-👁️ 2K • 👍 176 • 💬 11 • ⏱️ 6:11 • 21h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=mM-aiXJDmdk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 129 • 💬 18 • ⏱️ 8:41 • 12h ago
+👁️ 564 • 👍 41 • 💬 16 • ⏱️ 9:03 • 12h ago
 
 ---
 
-**[BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B7lBfK36Huc)**
+**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
 
-BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
 
-📺 Crypto World
+📺 Bankless
 
-👁️ 6K • 👍 278 • 💬 81 • ⏱️ 19:16 • 12h ago
+👁️ 75 • 👍 5 • 💬 2 • ⏱️ 52:02 • 11m ago
 
 ---
 
@@ -300,7 +290,17 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 12K • 👍 730 • 💬 53 • ⏱️ 10:20 • 1d ago
+👁️ 12K • 👍 731 • 💬 53 • ⏱️ 10:20 • 1d ago
+
+---
+
+**[BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B7lBfK36Huc)**
+
+BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 283 • 💬 81 • ⏱️ 19:16 • 12h ago
 
 ---
 
@@ -310,17 +310,17 @@ This is changing the game for bitcoin, ethereum and the rest of crypto and most 
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 50 • ⏱️ 8:07 • 2d ago
+👁️ 25K • 👍 3K • 💬 50 • ⏱️ 8:07 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Gehts von hier doch nochmal Richtung 96k? DAS wird JETZT wichtig!](https://www.youtube.com/watch?v=yf9S0xH9ddo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Sc_bit_dm8I)**
 
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Krypto Trading & Investing
+📺 More Crypto Online
 
-👁️ 2K • 👍 531 • 💬 74 • ⏱️ 8:03 • 7h ago
+👁️ 2K • 👍 177 • 💬 5 • ⏱️ 6:11 • 21h ago
 
 ---
 

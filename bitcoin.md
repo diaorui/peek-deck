@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T11:20:51.297248+00:00'
+updated: '2026-01-09T11:42:21.977168+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 11:20 UTC  
+**Last Updated:** January 09, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.66B
+**Market Cap:** $1805.52B
 Rank #1
 
-**Circulating Supply:** 19,973,484 BTC
+**Circulating Supply:** 19,973,540 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.3%
 
 **All-Time Low:** $67.81
-+133079.5%
++133207.8%
 
 ---
 
@@ -95,7 +95,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 BTC
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ Anything I should know about?
 
 Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
 
-13h ago
+14h ago
 
 ---
 
@@ -161,13 +161,13 @@ CNBC • 1d ago
 
 There's going to be a lot going on in 2026, but the crypto probably won't go to the moon.
 
-Yahoo Finance • 15m ago
+Yahoo Finance • 37m ago
 
 ---
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 2h ago
 
 Bitcoin ETFs also suffered on Wednesday....
 
-Sherwood News • 20h ago
+Sherwood News • 21h ago
 
 ---
 
@@ -313,17 +313,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 273 • ⏱️ 16:13 • 14h ago
-
----
-
-**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
-
-While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 2K • 💬 158 • ⏱️ 25:57 • 11h ago
+👁️ 48K • 👍 2K • 💬 282 • ⏱️ 16:13 • 15h ago
 
 ---
 
@@ -333,17 +323,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 5K • 👍 260 • 💬 41 • ⏱️ 10:06 • 17h ago
-
----
-
-**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
-
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
-
-📺 Anthony Pompliano
-
-👁️ 26K • 👍 951 • 💬 28 • ⏱️ 43:55 • 1d ago
+👁️ 5K • 👍 287 • 💬 44 • ⏱️ 10:06 • 17h ago
 
 ---
 
@@ -353,17 +333,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 25K • 👍 2K • 💬 186 • ⏱️ 11:14 • 9h ago
-
----
-
-**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRus Extra
-
-👁️ 9K • 👍 405 • 💬 323 • ⏱️ 9:41 • 1d ago
+👁️ 30K • 👍 2K • 💬 191 • ⏱️ 11:14 • 10h ago
 
 ---
 
@@ -373,17 +343,7 @@ Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://i
 
 📺 Benjamin Cowen
 
-👁️ 94K • 👍 6K • 💬 461 • ⏱️ 19:29 • 1d ago
-
----
-
-**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
-
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
-
-📺 Crypto Crew University
-
-👁️ 45K • 👍 3K • 💬 242 • ⏱️ 17:35 • 21h ago
+👁️ 95K • 👍 6K • 💬 463 • ⏱️ 19:29 • 1d ago
 
 ---
 
@@ -393,17 +353,57 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 20K • 👍 1K • 💬 57 • ⏱️ 13:19 • 14h ago
+👁️ 21K • 👍 1K • 💬 131 • ⏱️ 13:19 • 14h ago
 
 ---
 
-**[Selling Silver for Bitcoin! Is Now a Good Time?](https://www.youtube.com/watch?v=VEzCWwdR0pw)**
+**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
 
-Gold and Silver are up HUGE this year! Hitting new all time highs almost every week. Is now a good time to transition some of that ...
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
 
-📺 The Bitcoin Broadcast - Vince HodlFlorida
+📺 Anthony Pompliano
 
-👁️ 4K • 👍 53 • 💬 5 • ⏱️ 0:52 • 22h ago
+👁️ 26K • 👍 959 • 💬 28 • ⏱️ 43:55 • 1d ago
+
+---
+
+**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRus Extra
+
+👁️ 9K • 👍 406 • 💬 319 • ⏱️ 9:41 • 1d ago
+
+---
+
+**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
+
+While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 2K • 💬 153 • ⏱️ 25:57 • 11h ago
+
+---
+
+**[Watch Out Bitcoin Holders...](https://www.youtube.com/watch?v=yp01SfJ7DhM)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 1K • 💬 72 • ⏱️ 5:09 • 10h ago
+
+---
+
+**[BITCOIN WILL FALL TO $49,000 !!!!](https://www.youtube.com/watch?v=Lko3ecKV7Cg)**
+
+BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 15K • 👍 803 • 💬 100 • ⏱️ 12:34 • 21h ago
 
 ---
 
