@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-09T18:34:51.437469+00:00"
+          "dateModified": "2026-01-09T19:20:46.374037+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,56 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q8crl6/after_digital_undressing_criticism_elon_musks/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/_Z24MBctHou_2etfwYI9S9Ou3bmV3FzCmM_MhbxxBx0.jpeg?width=640&crop=smart&auto=webp&s=44ec69301ce08026e233149bfff80a22f8b36183" alt="After ‘digital undressing’ criticism, Elon Musk’s Grok limits some image generation to paid subscribers" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1q8crl6/after_digital_undressing_criticism_elon_musks/" target="_blank" onclick="event.stopPropagation();">After ‘digital undressing’ criticism, Elon Musk’s Grok limits some image generation to paid subscribers</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Elon Musk’s Grok chatbot has limited some aspects of its Imagine image generation features to paid subscribers on X, days after international uproar over the AI tool “digitally undressing” people, including children, upon user requests on X.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1767975911.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.cnn.com/media/sites/cnn/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>CNN</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q7ugtz/why_yann_lecun_left_meta_for_world_models/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -747,6 +697,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/txTIifzZ5aW4dZhGY5OQokzbMpFC16VoiJhpJ_vRvCs.png?width=640&crop=smart&auto=webp&s=4e9a6f745176efd82a44606703ef650eb0f305d3" alt="Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/" target="_blank" onclick="event.stopPropagation();">Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1767971158.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q83cyi/elon_musks_grok_ai_image_editing_limited_to_paid/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -791,41 +776,6 @@
                                         <span>bbc.com</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/txTIifzZ5aW4dZhGY5OQokzbMpFC16VoiJhpJ_vRvCs.png?width=640&crop=smart&auto=webp&s=4e9a6f745176efd82a44606703ef650eb0f305d3" alt="Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/" target="_blank" onclick="event.stopPropagation();">Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1767971158.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -998,23 +948,68 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q89whn/hitting_rock_bottom_handdrawn_vs_aigenerated/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/YW1xYXN3OXM0Y2NnMZWbluvgkpZqZ_xneEQin1LWcOsZ7N8C2URY5drcT49b.png?width=640&crop=smart&auto=webp&s=7af320d2b486d83dd08f6e7037c10045e4762762" alt="Hitting rock bottom (Hand-drawn vs. AI-generated drawing)" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/9ucmbbiUmFa14_HNmF3M7HWqoeSzwuOE3Ip12boHJyo.jpeg?width=640&crop=smart&auto=webp&s=75cfd8276ba69bbf87a8d3525feabdd51cfe7a9e" alt="Utah becomes first state to allow AI to approve prescription refills" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1q89whn/hitting_rock_bottom_handdrawn_vs_aigenerated/" target="_blank" onclick="event.stopPropagation();">Hitting rock bottom (Hand-drawn vs. AI-generated drawing)</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/" target="_blank" onclick="event.stopPropagation();">Utah becomes first state to allow AI to approve prescription refills</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1767848556.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>thehill.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/r9RV9JOJpRYMnC57iPmsOiP5WjzzaUYOW8NkjScmGBE.jpeg?width=640&crop=smart&auto=webp&s=9bc9e9ec7168b19c1a56594cfba827f33281259b" alt="Intel hopes its new chip can be the future of AI" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/" target="_blank" onclick="event.stopPropagation();">Intel hopes its new chip can be the future of AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I ask an AI to create a drawing with the same description as the one that would describe my drawing. The result is very interesting because it's comparable to the drawing I created. I like to express my feelings through drawings mixing Zentangle, doodle and tangle techniques. HI try to find patterns that allow me to draw new designs. Through my drawings, I express my feelings related to my phobia and social anxiety. This type of art helps me relieve my stress and anxiety. socialphobia socialanxiety pixeldoodleart zentangle doodleart AI artificialintelligence
+                            Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
                         </div>
                         
 
@@ -1023,10 +1018,25 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1767969429.0"></span>
+                                    <span data-timestamp="1767888731.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.cnn.com/media/sites/cnn/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>CNN</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -1056,7 +1066,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-09T17:49:29.002951+00:00">Updated 2026-01-09T17:49:29.002951+00:00</small>
+        <small data-timestamp="2026-01-09T19:20:36.743472+00:00">Updated 2026-01-09T19:20:36.743472+00:00</small>
     </div>
 </div>
 
@@ -1885,10 +1895,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 728</span>
+                                    <span class="post-points">▲ 732</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 274</span>
+                                    <span style="color: #9ca3af;">💬 276</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1934,10 +1944,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 530</span>
+                                    <span class="post-points">▲ 535</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 368</span>
+                                    <span style="color: #9ca3af;">💬 372</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1983,10 +1993,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 405</span>
+                                    <span class="post-points">▲ 425</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 640</span>
+                                    <span style="color: #9ca3af;">💬 661</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2035,7 +2045,7 @@
                                     <span class="post-points">▲ 256</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 116</span>
+                                    <span style="color: #9ca3af;">💬 117</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2081,7 +2091,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 242</span>
+                                    <span class="post-points">▲ 243</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 99</span>
@@ -2256,40 +2266,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46515777', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46515777" target="_blank" onclick="event.stopPropagation();">Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 81</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 20</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-01-06T17:49:56Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46551238', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/5602890ef620af5b8c02784d85062ad26bfaa4a7/308_0_3083_2467/master/3083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4925f43d7d0ea5a6b634e63b07f06559');"></div>
@@ -2311,10 +2287,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 67</span>
+                                    <span class="post-points">▲ 69</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 82</span>
+                                    <span style="color: #9ca3af;">💬 84</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2331,6 +2307,55 @@
                                             
                                         
                                         <span>the Guardian</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46543933', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://epoch.ai/assets/images/data-insights/us-vs-china-eci.png');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46543933" target="_blank" onclick="event.stopPropagation();">Chinese AI models have lagged the US frontier by 7 months on average since 2023</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Since 2023, every model at the frontier of AI capabilities, as measured by the Epoch Capabilities Index, has been developed in the United States. Over that same period, Chinese models have trailed US capabilities by an average of seven months, with a minimum gap of four months and a maximum gap of 14.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 58</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 87</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-01-08T17:40:02Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://epoch.ai/data-insights/us-vs-china-eci" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://epoch.ai/assets/images/favicon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Epoch AI</span>
                                     </a>
                                 </div>
                                 
@@ -2359,7 +2384,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-09T17:49:28.945078+00:00">Updated 2026-01-09T17:49:28.945078+00:00</small>
+        <small data-timestamp="2026-01-09T19:20:37.301119+00:00">Updated 2026-01-09T19:20:37.301119+00:00</small>
     </div>
 </div>
 

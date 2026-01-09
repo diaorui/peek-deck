@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T18:34:51.941171+00:00'
+updated: '2026-01-09T19:20:46.883366+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 18:34 UTC  
+**Last Updated:** January 09, 2026 at 19:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-8h ago
+9h ago
 
 ---
 
@@ -50,13 +50,7 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
 
-2h ago
-
----
-
-**[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
-
-9h ago
+3h ago
 
 ---
 
@@ -64,7 +58,19 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
+2h ago
+
+---
+
+**[Robot soccer](https://www.reddit.com/r/robotics/comments/1q8fqtb/robot_soccer/)**
+
 1h ago
+
+---
+
+**[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
+
+10h ago
 
 ---
 
@@ -72,29 +78,15 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-11h ago
+12h ago
 
 ---
 
-**[Every single humanoid at CES this year](https://www.reddit.com/r/robotics/comments/1q88edi/every_single_humanoid_at_ces_this_year/)**
+**[A Hopeful Case for Returning to Prototype-Style Actuators at Boston Dynamics](https://www.reddit.com/r/robotics/comments/1q8hap2/a_hopeful_case_for_returning_to_prototypestyle/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+A Hopeful Case for Returning to Prototype-Style Actuators at Boston Dynamics Boston Dynamics has long stood at the frontier of robotics, shaping how the world imagines machines that move, balance, and interact with physical reality. Every new reveal—especially of humanoid robots—sparks excitement not just because of what the robot can do, but how it does it. Looking at recent designs, one can’t help but hope that Boston Dynamics will reconsider a return to the prototype-style actuators that once defined the company’s most iconic machines. Early prototypes from Boston Dynamics were unapologetically mechanical. Their exposed or semi-exposed actuators conveyed strength, precision, and honesty of function. You could see how force traveled through the robot’s limbs. These actuators didn’t just perform—they told a story of engineering confidence, where form followed function without excessive cosmetic smoothing. The newer, more refined designs clearly aim for integration, protection, and manufacturability. These goals matter, especially as robots move from labs to real-world deployment. Yet, in the process, something subtly powerful risks being lost: the modular clarity and performance-forward philosophy embodied in the prototype-style actuators. Prototype-style actuators offer several compelling advantages: 1. Performance Transparency Engineers, researchers, and even the public gain a clearer understanding of motion, load paths, and dynamic behavior when actuators are visually and structurally legible. This transparency fosters trust and accelerates iteration. 2. Modularity and Repairability Prototypes often emphasize modular actuator units that can be swapped, upgraded, or tuned independently. This is invaluable not only for R&D but also for long-term field maintenance and rapid innovation. 3. Aesthetic Honesty There is a unique beauty in machines that look powerful because they are powerful. The prototype actuator style communicates capability, not concealment. It reinforces Boston Dynamics’ identity as an engineering-first company. 4. Innovation Signaling Boston Dynamics has never been about playing it safe. Retaining or evolving prototype-style actuators would signal that the company continues to prioritize groundbreaking mechanical solutions over purely polished appearances. This is not an argument against progress, safety, or refinement. Rather, it is a hopeful suggestion: that the future designs might blend the robustness and clarity of prototype actuators with the reliability and protection required for deployment. A hybrid approach—where advanced actuators remain visually and structurally expressive—could set a new standard for humanoid robotics. Boston Dynamics has always inspired the world by showing what is possible. By revisiting the spirit of its prototype-style actuators, it has an opportunity to inspire once again—not just with motion, but with mechanical philosophy.
 
-🔗 [youtu.be](https://youtu.be/5bKaiNxt1KM) • 4h ago
-
----
-
-**[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
-
-1d ago
-
----
-
-**[Do you use libraries or right your own code??](https://www.reddit.com/r/robotics/comments/1q8exvi/do_you_use_libraries_or_right_your_own_code/)**
-
-For reading encoder values of motors do you guys use libraries or write your own code?? Which is good Is it good to use pid tuning libraries or using your own custom code in esp32 position controlling a motor
-
-50m ago
+10m ago
 
 ---
 
@@ -103,6 +95,12 @@ For reading encoder values of motors do you guys use libraries or write your own
 Robotics software is messy. Different perception, planning, and control libraries rarely talk to each other, making experiments and real deployments painfully slow. Telekinesis AI is exploring a different path: reusable “Skills” for perception, motion, control, and logic, combined with AI agents that can sequence and adapt them in real time. Instead of rewriting glue code, you can focus on building complex behaviors and testing new ideas safely. Curious about the problem this is designed to solve? Check out the deep dive Medium article. Want to see the building blocks in action? The Skill Library is ready to explore. All links are in the comments — read about the problem first, then dive into the library and see what you can build.
 
 2h ago
+
+---
+
+**[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
+
+1d ago
 
 ---
 
@@ -254,7 +252,7 @@ Sky's Rowland Manthorpe is at the biggest tech conference in the world in Las Ve
 
 📺 Sky News
 
-👁️ 828 • 👍 18 • 💬 13 • ⏱️ 11:07 • 1h ago
+👁️ 828 • 👍 18 • 💬 13 • ⏱️ 11:07 • 2h ago
 
 ---
 

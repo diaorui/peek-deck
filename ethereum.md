@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T18:34:51.937908+00:00'
+updated: '2026-01-09T19:20:46.880110+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 18:34 UTC  
+**Last Updated:** January 09, 2026 at 19:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -0.8%  
-**30d:** -4.1%  
-**90d:** -25.3%  
-**1y:** -5.0%  
+**24h:** -0.6%  
+**7d:** -1.6%  
+**30d:** -4.8%  
+**90d:** -25.9%  
+**1y:** -5.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,21 +80,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 5h ago
-
----
-
-**[Was the Fusaka upgrade successful](https://www.reddit.com/r/ethereum/comments/1q87f54/was_the_fusaka_upgrade_successful/)**
-
-I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
-
-5h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 6h ago
 
 ---
 
 **[Many product decisions are made blindly. Prediction surveys as an early market signal](https://www.reddit.com/r/ethereum/comments/1q86d6a/many_product_decisions_are_made_blindly/)**
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
+
+7h ago
+
+---
+
+**[Was the Fusaka upgrade successful](https://www.reddit.com/r/ethereum/comments/1q87f54/was_the_fusaka_upgrade_successful/)**
+
+I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
 6h ago
 
@@ -104,7 +104,15 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-13h ago
+14h ago
+
+---
+
+**[Need ETH to pay fees](https://www.reddit.com/r/ethereum/comments/1q8eqq6/need_eth_to_pay_fees/)**
+
+If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw
+
+1h ago
 
 ---
 
@@ -138,14 +146,6 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 ---
 
-**[Is EIP-7702 really a step forward?](https://www.reddit.com/r/ethereum/comments/1q83fyz/is_eip7702_really_a_step_forward/)**
-
-Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
-
-9h ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,7 +162,7 @@ CoinDesk • 9h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 20h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 20h ago
 
 Will crypto assets defend their key short-term support levels?
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 2h ago
 
 Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
 
-AMBCrypto • 16h ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 2d ago
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 192 • 💬 35 • ⏱️ 4:20 • 18h ago
+👁️ 4K • 👍 192 • 💬 35 • ⏱️ 4:20 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 11 • ⏱️ 8:41 • 19h ago
+👁️ 2K • 👍 144 • 💬 11 • ⏱️ 8:41 • 20h ago
 
 ---
 
@@ -308,7 +308,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 19h ago
+👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 7K • 👍 1K • 💬 3 • ⏱️ 17:43 • 2h ago
+👁️ 7K • 👍 1K • 💬 3 • ⏱️ 17:43 • 3h ago
 
 ---
 
