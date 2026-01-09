@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T17:49:39.172585+00:00'
+updated: '2026-01-09T18:34:51.931645+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 17:49 UTC  
+**Last Updated:** January 09, 2026 at 18:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1824.92B
+**Market Cap:** $1804.33B
 Rank #1
 
-**Circulating Supply:** 19,973,618 BTC
+**Circulating Supply:** 19,973,659 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-28.4%
 
 **All-Time Low:** $67.81
-+134517.3%
++133109.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ I am tired boss
 
 Anything I should know about?
 
-14h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ BTC
 
 Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growing narrative suggesting that large institutions could somehow change it. To be clear, scarcity is one of Bitcoin’s foundational properties and a core reason it represents the hardest money humanity has ever known. I run a Bitcoin full node (I'm just one part of a large and globally distributed group of individuals) and I would never accept a change to the 21M cap. If any institution (Nation, BlackRock or otherwise) attempted to fork Bitcoin by increasing the supply to more coins, I would continue validating the 21 million–cap chain without hesitation. I’m confident tens of thousands of other node operators would do the same. This is how Bitcoin protects itself: its monetary policy cannot be changed unilaterally. Any supply change requires broad, voluntary consensus across the network. Even in an extreme scenario where institutions attempted to flood the network with nodes to create the appearance of consensus for say a 30 million–coin (or inflating) fork, anyone remains free to run software that enforces the 21M hard cap. In practice, the chain that preserves scarcity would retain the trust of users and holders, making it the economically relevant chain. Miners ultimately follow the chain that nodes validate, exchanges support, and the market values. This is why, while Bitcoin’s supply cap can be changed in theory, it will not be changed in reality. Bitcoin’s decentralized governance ensures that no single actor... or coordinated group... can impose a monetary rule change without overwhelming consensus. Bitcoin is protected because individuals run nodes and independently choose the rules they believe are best. If you want a vote, run a node. It’s effectively free. If you want to help protect Bitcoin’s core rules, consider running your own node. A full node currently requires just under 1TB of storage, while a pruned node requires only a fraction of that. Both consume minimal power and only a few hundred MB of network traffic per day after the initial sync... while giving you direct participation in Bitcoin’s validation and security.
 
-37m ago
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growi
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 9h ago
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 10h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -183,19 +183,27 @@ VanEck • 1d ago
 
 ---
 
-**[Bitcoin mining news: Hut 8 eyes 500 MW site, Cipher makes new hires, Riot revamps exec comp](https://finance.yahoo.com/news/bitcoin-mining-news-hut-8-162535454.html)**
+**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
 
-In bitcoin mining news this week, AI-focused miners like Riot and Cipher make hiring moves as Hut 8 waits for a 500 MW site approval.
+If true, the claim could significantly reshape the global bitcoin market.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Analysts see “signs of stabilization” for bitcoin ETFs, previous crypto position reduction “behind us”](https://sherwood.news/crypto/analysts-see-signs-of-stabilization-for-bitcoin-etfs-previous-crypto/)**
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
 
-Bitcoin ETFs have seen over $1.1 billion leave the funds in the past three days, but the worst may be over, JPMorgan analysts say....
+What we know about the South American country’s crypto holdings.
 
-Sherwood News • 1h ago
+Fortune • 14m ago
+
+---
+
+**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
+
+Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
+
+CNBC • 2d ago
 
 ---
 
@@ -207,25 +215,17 @@ CNBC • 1d ago
 
 ---
 
-**[Florida revives push for bitcoin reserve with new 2026 bill](https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill)**
+**[Florida Lawmakers Want To Create A Bitcoin Reserve In 2026](https://bitcoinmagazine.com/news/florida-revives-bitcoin-reserve-push)**
 
-A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
+Florida lawmakers filed new legislation for the 2026 session that would create a state-run crypto reserve after a similar effort stalled last year.
 
-CoinDesk • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
 **[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
 
-The Block • 21h ago
-
----
-
-**[Brazilian presidential hopeful calls for launch of national Bitcoin reserve](https://www.dlnews.com/articles/people-culture/brazilian-presidential-hopeful-wants-bitcoin-reserve/)**
-
-Politician Renan Santos aims to become the Brazilian Bukele. He says a Brazilian Bitcoin reserve is already “feasible.” Santos says blockchain technology is a “cool tool” for fighting corruption.
-
-dlnews.com • 2d ago
+The Block • 22h ago
 
 ---
 
@@ -237,7 +237,7 @@ dlnews.com • 2d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 18h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 19h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -251,7 +251,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 A 2024 paper calculates $6.77B buys majority hash power. Bitcoin derivatives create profit incentives for block-reverting attacks.
 
-⬆️ 5 • 💬 3 • 6d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
+⬆️ 5 • 💬 3 • 7d ago • [Philipp D. Dubach - Macro & Tech Thought Leadership](https://philippdubach.com/posts/bitcoin-security/)
 
 ---
 
@@ -311,13 +311,13 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ## YouTube Videos: "bitcoin"
 
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+**[I’ve Never Been More Confident in Bitcoin Than 2026 [Proof]](https://www.youtube.com/watch?v=E9qoWoIalW4)**
 
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
 
-📺 Paul Barron Network
+📺 Crypto Insider
 
-👁️ 54K • 👍 2K • 💬 297 • ⏱️ 16:13 • 21h ago
+👁️ 11K • 👍 1K • 💬 50 • ⏱️ 21:00 • 4h ago
 
 ---
 
@@ -327,7 +327,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 222 • ⏱️ 25:57 • 17h ago
+👁️ 26K • 👍 2K • 💬 237 • ⏱️ 25:57 • 18h ago
 
 ---
 
@@ -337,37 +337,27 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 224 • ⏱️ 11:14 • 16h ago
+👁️ 40K • 👍 2K • 💬 235 • ⏱️ 11:14 • 17h ago
 
 ---
 
-**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
 
-📺 CryptosRus Extra
+📺 Paul Barron Network
 
-👁️ 9K • 👍 408 • 💬 317 • ⏱️ 9:41 • 1d ago
-
----
-
-**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
-
-Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 97K • 👍 6K • 💬 469 • ⏱️ 19:29 • 1d ago
+👁️ 56K • 👍 2K • 💬 307 • ⏱️ 16:13 • 21h ago
 
 ---
 
-**[You’re Reading Bitcoin’s Price Wrong (Here’s Why)](https://www.youtube.com/watch?v=8DtGkJ0xYJI)**
+**[Trump’s Surprise Move Could Explode Bitcoin](https://www.youtube.com/watch?v=FArjhEbF1rQ)**
 
-Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream using elite strategies that unlock Bitcoin's true ...
+Bitcoin, Trump, SOL, ETH, Tesla, stocks, and altcoin trade updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Mark Moss
+📺 Lark Davis
 
-👁️ 25K • 👍 1K • 💬 118 • ⏱️ 13:19 • 20h ago
+👁️ 14K • 👍 846 • 💬 60 • ⏱️ 15:20 • 9h ago
 
 ---
 
@@ -377,7 +367,37 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 7K • 👍 322 • 💬 68 • ⏱️ 10:06 • 23h ago
+👁️ 7K • 👍 330 • 💬 63 • ⏱️ 10:06 • 1d ago
+
+---
+
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+
+📺 Vortex Bitcoin
+
+👁️ 554 • 👍 14 • 💬 3 • ⏱️ 0:49 • 3h ago
+
+---
+
+**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
+
+Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 98K • 👍 6K • 💬 474 • ⏱️ 19:29 • 1d ago
+
+---
+
+**[Why MicroStrategy &amp; Nvidia Are Going All In on Bitcoin!](https://www.youtube.com/watch?v=p8Kdz9MVHbI)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRus Extra
+
+👁️ 9K • 👍 408 • 💬 335 • ⏱️ 9:41 • 1d ago
 
 ---
 
@@ -387,27 +407,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 49K • 👍 3K • 💬 249 • ⏱️ 17:35 • 1d ago
-
----
-
-**[TRUMP’S TARIFF VERDICT COULD CONFIRM THE BITCOIN BOTTOM (URGENT)](https://www.youtube.com/watch?v=nhwRhHwCUHk)**
-
-Join The Community: https://bit.ly/FefeCommunity LIMITED BITFUNDED OFFER: Buy ...
-
-📺 100XClub
-
-👁️ 8K • 👍 802 • 💬 237 • ⏱️ 10:24 • 8h ago
-
----
-
-**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
-
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
-
-📺 Anthony Pompliano
-
-👁️ 27K • 👍 995 • 💬 28 • ⏱️ 43:55 • 1d ago
+👁️ 50K • 👍 3K • 💬 253 • ⏱️ 17:35 • 1d ago
 
 ---
 

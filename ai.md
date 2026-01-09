@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T17:49:39.164292+00:00'
+updated: '2026-01-09T18:34:51.922508+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 17:49 UTC  
+**Last Updated:** January 09, 2026 at 18:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Elon Musk’s Grok chatbot has limited some aspects of its Imagine image generation features to paid subscribers on X, days after international uproar over the AI tool “digitally undressing” people, including children, upon user requests on X.
 
-🔗 [CNN](https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
+🔗 [CNN](https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Elon Musk’s Grok chatbot has limited some aspects of its Imagine image generat
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-16h ago
+17h ago
 
 ---
 
@@ -57,7 +57,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 9h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 10h ago
 
 ---
 
@@ -65,7 +65,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 8h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 9h ago
 
 ---
 
@@ -73,7 +73,7 @@ It comes after government urged Ofcom to use all its powers – up to and includ
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ I've been working on a problem: AI agents confidently claim to understand things
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-11h ago
+12h ago
 
 ---
 
@@ -123,23 +123,23 @@ I ask an AI to create a drawing with the same description as the one that would 
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
-**[Changes to Elon Musk's AI Grok 'insulting' to victims, says No 10](https://www.bbc.com/news/articles/c99kn52nx9do)**
+**[Elon Musk's X limits some sexual deepfakes after backlash, but xAI's Grok still makes them](https://www.nbcnews.com/tech/internet/x-paywall-ai-image-grok-app-bikini-allows-sexual-deepfakes-rcna252647)**
 
-It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
+Musk was facing mounting pressure from regulators, lawmakers and some users.
 
-BBC • 2h ago
+NBC News • 1h ago
 
 ---
 
-**[U.K. says ban on Elon Musk's X platform "on the table" over Grok AI sexualized images](https://www.cbsnews.com/news/uk-x-elon-musk-grok-ai-sexualized-images-fake-nudes-starmer/)**
+**[No 10 condemns ‘insulting’ move by X to restrict Grok AI image tool](https://www.theguardian.com/technology/2026/jan/09/no-10-condemns-move-by-x-to-restrict-grok-ai-image-creation-tool-as-insulting)**
 
-Britain's leader says all options on the table if Musk's X platform doesn't stop Grok AI tool being used to generate non-consensual sexualized images.
+Spokesperson says limiting access to paying subscribers just makes ability to generate unlawful images a premium service
 
-CBS News • 1h ago
+The Guardian • 1d ago
 
 ---
 
@@ -147,51 +147,53 @@ CBS News • 1h ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
-**[Your next primary care doctor could be online only, accessed through an AI tool : Shots - Health News](https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis)**
+**[‘Clock Is Ticking’ For Creators On AI Content Copyright Claims, Warn Experts](https://www.forbes.com/sites/robsalkowitz/2026/01/09/clock-is-ticking-for-creators-on-ai-content-copyright-claims-warn-experts/)**
 
-The shortage of primary care doctors is a national problem. To cope, a large health system in Massachusetts is using an AI tool to screen patients and refer them to other care.
-
-NPR • 7h ago
+Forbes • 49m ago
 
 ---
 
-**[Introducing OpenAI for Healthcare](https://openai.com/index/openai-for-healthcare/)**
+**[10 CES 2026 showstopping innovations featured in AI Newsletter](https://www.foxnews.com/tech/ai-newsletter-10-ces-showstopping-innovations)**
 
-OpenAI • 21h ago
+The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
 
----
-
-**[How to get 'responsible AI' right](https://www.healthcareitnews.com/news/how-get-responsible-ai-right)**
-
-A physician AI expert walks through the correct ways for hospitals and health systems to handle artificial intelligence and where responsible AI can make the biggest near-term impact without creating new burdens.
-
-Healthcare IT News • 1h ago
+Fox News • 2h ago
 
 ---
 
-**[17 Years After Its Founding, Kickstarter Is Seeing an AI-Fueled ‘Explosion’](https://www.inc.com/chris-morris/17-years-after-its-founding-kickstarter-is-seeing-an-ai-fueled-explosion/91286437)**
+**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
 
-inc.com • 1h ago
+Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
----
-
-**[3 Brilliant AI Stocks That Could Double in 2026](https://www.fool.com/investing/2026/01/09/3-brilliant-ai-stocks-that-could-double-in-2026/)**
-
-The AI investment realm is full of great opportunities in 2026.
-
-The Motley Fool • 7h ago
+CNBC • 5h ago
 
 ---
 
-**[3 Brilliant AI Stocks That Could Double in 2026](https://www.nasdaq.com/articles/3-brilliant-ai-stocks-could-double-2026)**
+**[Agencies woo clients with AI tools, but implementation hurdles remain—plus other marketing trends from CES](https://adage.com/events-awards/ces/aa-2026-ai-agencies-marketing-trends/)**
 
-Key PointsNebius and Applied Digital are both data center plays.
+Agentic AI, commerce media networks and sports marketing were among the topics that dominated at CES 2026.
 
-Nasdaq • 7h ago
+Ad Age • 40m ago
+
+---
+
+**[Emmys Address AI in Slate of New Rule Changes for 2026 Awards](https://www.thewrap.com/industry-news/awards/emmys-rule-changes-2026-tv-academy-ai/)**
+
+Artificial intelligence was among the subjects addressed by the Television Academy in a slate of rule changes for the 78th annual Emmy Awards
+
+TheWrap • 31m ago
+
+---
+
+**[AI images and internet rumors spread confusion about ICE agent involved in shooting](https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good)**
+
+While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
+
+NPR • 19h ago
 
 ---
 
@@ -201,7 +203,7 @@ Nasdaq • 7h ago
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 728 • 💬 274 • 22h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 728 • 💬 274 • 23h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -225,7 +227,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 256 • 💬 116 • 23h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 256 • 💬 116 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -263,7 +265,7 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 **[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
 
-⬆️ 81 • 💬 20 • 2d ago
+⬆️ 81 • 💬 20 • 3d ago
 
 ---
 
@@ -271,7 +273,7 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 67 • 💬 82 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 67 • 💬 82 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -285,7 +287,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 46 • ⏱️ 17:54 • 17h ago
+👁️ 56K • 👍 1K • 💬 48 • ⏱️ 17:54 • 18h ago
 
 ---
 
@@ -295,7 +297,27 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 93K • 👍 2K • 💬 140 • ⏱️ 13:08 • 1d ago
+👁️ 94K • 👍 2K • 💬 143 • ⏱️ 13:08 • 1d ago
+
+---
+
+**[Reddit user uses AI to fool the internet in a viral posting](https://www.youtube.com/watch?v=4zDd4aVnPY8)**
+
+An anonymous Reddit user's claims of fraud and theft by an unnamed food delivery company appear to have been an AI-fueled ...
+
+📺 NBC News
+
+👁️ 14K • 👍 269 • 💬 89 • ⏱️ 3:18 • 14h ago
+
+---
+
+**[Build Anything with Google Stitch + Google AI Studio, Here&#39;s How](https://www.youtube.com/watch?v=CAjoyKxhGdg)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+
+📺 Julian Goldie SEO
+
+👁️ 1K • 👍 91 • 💬 6 • ⏱️ 9:21 • 8h ago
 
 ---
 
@@ -305,7 +327,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.3M • 👍 63K • 💬 8K • ⏱️ 17:14 • 1d ago
+👁️ 1.4M • 👍 64K • 💬 9K • ⏱️ 17:14 • 2d ago
 
 ---
 
@@ -315,7 +337,37 @@ Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The wo
 
 📺 Ishan Sharma
 
-👁️ 3K • 👍 385 • 💬 31 • ⏱️ 10:52 • 4h ago
+👁️ 5K • 👍 582 • 💬 37 • ⏱️ 10:52 • 5h ago
+
+---
+
+**[AI Psychosis](https://www.youtube.com/watch?v=gmgiSV-b-Qc)**
+
+Does AI make you delusional? #ai #aipsychology #gpt #gemini #chatgpt #copilot #grok #psychologyfacts #psychology ...
+
+📺 Psych2Go
+
+👁️ 11K • 👍 1K • 💬 90 • ⏱️ 1:54 • 10h ago
+
+---
+
+**[AI Short Film | So Low - 4K](https://www.youtube.com/watch?v=xbwGK_z9_cU)**
+
+I was playing around with a bunch of different #midjourney style ref codes and found this beautiful teal and olive tinted one. I made ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 11K • 👍 646 • 💬 65 • ⏱️ 2:42 • 1d ago
+
+---
+
+**[Elon Musk&#39;s platform X limits Grok AI image edits to paid users | BBC News](https://www.youtube.com/watch?v=wlxbayQPmTk)**
+
+Elon Musk's platform X has limited Grok Artificial Intelligence (AI) image edits to paid users after significant backlash over people ...
+
+📺 BBC News
+
+👁️ 4K • 👍 202 • 💬 86 • ⏱️ 3:03 • 2h ago
 
 ---
 
@@ -325,57 +377,7 @@ This is a funny meme mixed with storytelling style video about how i have 2 cats
 
 📺 Tyler Vitelli
 
-👁️ 2.5M • 👍 79K • 💬 6K • ⏱️ 0:10 • 2d ago
-
----
-
-**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
-
-Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
-
-📺 TED
-
-👁️ 14K • 👍 493 • 💬 41 • ⏱️ 12:52 • 1d ago
-
----
-
-**[How I Created Unlimited AI Videos in Bulk (One Click) | FREE Text-to-Video Automation (2026)](https://www.youtube.com/watch?v=K13A_vtKJpk)**
-
-How I created unlimited AI videos in bulk using a FREE text-to-video automation workflow — all in one click, powered by Auto ...
-
-📺 zapiwala ai
-
-👁️ 25K • 👍 2K • 💬 165 • ⏱️ 9:49 • 1d ago
-
----
-
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
-
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
-
-📺 Hyundai Motor Group
-
-👁️ 101K • 👍 102 • 💬 1 • ⏱️ 0:33 • 2d ago
-
----
-
-**[I Made the Same AI Animation in Every AI Video Generator](https://www.youtube.com/watch?v=AosPAC_GmuY)**
-
-Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡️ https://openart.ai/home/?ref=mira9 Hey friends, ...
-
-📺 Mira AI
-
-👁️ 9K • 💬 11 • ⏱️ 7:28 • 2d ago
-
----
-
-**[Motorola Learned Nothing From Humane AI... #Shorts](https://www.youtube.com/watch?v=E3PRNqNpyMs)**
-
-Repair Tools I Use (Updated Regularly – Includes Soldering Gear): https://www.phonerepairguru.com/tools Ask a Question ...
-
-📺 Phone Repair Guru
-
-👁️ 171K • 👍 6K • 💬 107 • ⏱️ 0:21 • 12h ago
+👁️ 2.5M • 👍 80K • 💬 6K • ⏱️ 0:10 • 2d ago
 
 ---
 
@@ -391,7 +393,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 330,354 • ❤️ 675 • 1d ago
+⬇️ 330,354 • ❤️ 686 • 1d ago
 
 ---
 
@@ -403,7 +405,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 8,048 • ❤️ 688 • 8d ago
+⬇️ 8,048 • ❤️ 689 • 8d ago
 
 ---
 
@@ -415,7 +417,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 19,738 • ❤️ 547 • 9d ago
+⬇️ 19,738 • ❤️ 549 • 9d ago
 
 ---
 
@@ -427,7 +429,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,074 • ❤️ 246 • 3d ago
+⬇️ 1,074 • ❤️ 251 • 3d ago
 
 ---
 
@@ -443,6 +445,18 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 ---
 
+**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
+
+*fal*
+
+This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
+
+`image-to-image`
+
+⬇️ 3,149 • ❤️ 224 • 2d ago
+
+---
+
 **[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
 
 *MiniMax*
@@ -451,7 +465,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 202,948 • ❤️ 981 • 12d ago
+⬇️ 202,948 • ❤️ 982 • 13d ago
 
 ---
 
@@ -463,19 +477,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 219 • 11h ago
-
----
-
-**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
-
-*fal*
-
-This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
-
-`image-to-image`
-
-⬇️ 3,149 • ❤️ 214 • 2d ago
+⬇️ 5,785 • ❤️ 219 • 12h ago
 
 ---
 
@@ -499,7 +501,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,644 • ❤️ 444 • 10h ago
+⬇️ 3,644 • ❤️ 444 • 11h ago
 
 ---
 
@@ -525,7 +527,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 77 • 💬 1 • ⭐ 1,631 • 3d ago
+▲ 78 • 💬 1 • ⭐ 1,631 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -541,20 +543,6 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 ▲ 2 • 💬 0 • ⭐ 2,205 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
-
----
-
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
-
-*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
-
-🏢 Microsoft Research
-
-BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
-
-▲ 57 • 💬 5 • ⭐ 25,604 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -579,6 +567,20 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 ▲ 81 • 💬 2 • ⭐ 25,604 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
+**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
+
+*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
+
+🏢 Microsoft Research
+
+BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
+
+▲ 57 • 💬 5 • ⭐ 25,603 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -629,7 +631,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-▲ 80 • 💬 3 • ⭐ 43 • 1d ago
+▲ 90 • 💬 4 • ⭐ 43 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
@@ -645,7 +647,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.3k • 🔱 878 • 1h ago
+⭐ 7.3k • 🔱 880 • 40m ago
 
 ---
 
@@ -665,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 1h ago
+⭐ 2.2k • 🔱 130 • 38m ago
 
 ---
 
@@ -675,7 +677,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 218 • 5d ago
+⭐ 1.9k • 🔱 217 • 5d ago
 
 ---
 
@@ -695,7 +697,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 103 • 2h ago
+⭐ 1.3k • 🔱 104 • 3h ago
 
 ---
 
@@ -705,7 +707,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 102 • 3h ago
+⭐ 1.2k • 🔱 102 • 4h ago
 
 ---
 
@@ -715,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 7h ago
+⭐ 1.2k • 🔱 143 • 8h ago
 
 ---
 
@@ -735,7 +737,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 120 • 7h ago
+⭐ 1.0k • 🔱 121 • 7h ago
 
 ---
 

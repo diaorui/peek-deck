@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T17:49:39.178475+00:00'
+updated: '2026-01-09T18:34:51.937908+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 17:49 UTC  
+**Last Updated:** January 09, 2026 at 18:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.10B
+**Market Cap:** $371.26B
 Rank #2
 
 **Circulating Supply:** 120,694,747 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.8%
+-37.7%
 
 **All-Time Low:** $0.43
-+721438.5%
++711267.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-12h ago
+13h ago
 
 ---
 
@@ -126,7 +126,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -142,7 +142,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
 
-8h ago
+9h ago
 
 ---
 
@@ -154,7 +154,7 @@ Correct me if I'm wrong, maybe I've been out of touch with recent developments b
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 8h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 19h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -178,15 +178,31 @@ Decrypt • 19h ago
 
 Will crypto assets defend their key short-term support levels?
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
-**[ETH Hits $3,300 Wall: Is Ethereum Price Cooling After the Rally?](https://finance.yahoo.com/news/eth-hits-3-300-wall-120940975.html)**
+**[Ethereum Founder Vitalik Buterin Backs Convicted Dev, Calls Privacy 'Essential Protection'](https://finance.yahoo.com/news/ethereum-founder-vitalik-buterin-backs-163137978.html)**
 
-Ethereum Treasury Company BitMine ($BMNR) has added another 32,977 ETH at a value of around $105 million, in the first 8 days of 2026 alone. Now, the company’s total ETH exposure has pushed past $13.2 billion, out of which the company has staked ETH worth $2.62 billion, making it one ...
+Ethereum co-founder Vitalik Buterin publicly backed convicted Tornado Cash developer Roman Storm, calling privacy tools a human right.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
+
+Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
+
+AMBCrypto • 16h ago
+
+---
+
+**[Vitalik Buterin Compares Ethereum to Linux and BitTorrent, and It Explains Everything](https://www.tradingview.com/news/u_today:3c441e14b094b:0-vitalik-buterin-compares-ethereum-to-linux-and-bittorrent-and-it-explains-everything/)**
+
+Ethereum is not just another blockchain, and Vitalik Buterin wants to make sure people understand that. In a recent post, the Ethereum cofounder used two metaphors that really cut through all the crypto jargon: Ethereum is similar to BitTorrent, and Ethereum is like Linux.From his point of view, th…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -208,23 +224,7 @@ The Block • 2d ago
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-The Motley Fool • 6h ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
-
-Bit Digital • 1d ago
-
----
-
-**[Bearish Signal Emerges For Ethereum As US Spot Demand Fades](https://www.tradingview.com/news/newsbtc:7d3093583094b:0-bearish-signal-emerges-for-ethereum-as-us-spot-demand-fades/)**
-
-Ethereum has once again failed to hold above a critical resistance zone, retracing from the $3,300 level back toward the $3,100 area. The pullback highlights the market’s ongoing struggle to establish a sustainable recovery, as bullish momentum continues to fade near key technical thresholds. While…
-
-TradingView — Track All Markets • 21h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 188 • 💬 42 • ⏱️ 4:20 • 17h ago
+👁️ 4K • 👍 192 • 💬 35 • ⏱️ 4:20 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 5K • 👍 524 • 💬 57 • ⏱️ 12:30 • 4h ago
+👁️ 8K • 👍 642 • 💬 72 • ⏱️ 12:30 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 2K • 👍 155 • 💬 66 • ⏱️ 52:02 • 6h ago
+👁️ 3K • 👍 191 • 💬 35 • ⏱️ 52:02 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (avail
 
 📺 Lark Davis
 
-👁️ 16K • 👍 642 • 💬 74 • ⏱️ 12:17 • 2d ago
+👁️ 16K • 👍 641 • 💬 74 • ⏱️ 12:17 • 2d ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 11 • ⏱️ 8:41 • 18h ago
+👁️ 2K • 👍 144 • 💬 11 • ⏱️ 8:41 • 19h ago
 
 ---
 
@@ -288,17 +288,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 148 • 💬 49 • ⏱️ 11:47 • 1d ago
+👁️ 3K • 👍 151 • 💬 48 • ⏱️ 11:47 • 1d ago
 
 ---
 
-**[BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B7lBfK36Huc)**
+**[Nobody Can Save Crypto (Bitcoin PulseChain Ethereum)](https://www.youtube.com/watch?v=vvl3Ph5tEZ0)**
 
-BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
 
-📺 Crypto World
+📺 Crypto Coffee
 
-👁️ 7K • 👍 302 • 💬 110 • ⏱️ 19:16 • 18h ago
+👁️ 167 • 👍 38 • 💬 51 • ⏱️ 12:13 • 1h ago
 
 ---
 
@@ -308,7 +308,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 689 • 👍 44 • 💬 38 • ⏱️ 9:03 • 18h ago
+👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 19h ago
 
 ---
 
@@ -318,7 +318,7 @@ The crypto market has been rallying over the last few days, and this has everyon
 
 📺 Coin Bureau Trading
 
-👁️ 12K • 👍 737 • 💬 53 • ⏱️ 10:20 • 2d ago
+👁️ 12K • 👍 737 • 💬 60 • ⏱️ 10:20 • 2d ago
 
 ---
 
@@ -328,7 +328,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 3K • 👍 509 • 💬 2 • ⏱️ 17:43 • 1h ago
+👁️ 7K • 👍 1K • 💬 3 • ⏱️ 17:43 • 2h ago
 
 ---
 

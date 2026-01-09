@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T17:49:39.181642+00:00'
+updated: '2026-01-09T18:34:51.941171+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 17:49 UTC  
+**Last Updated:** January 09, 2026 at 18:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,13 +50,13 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
 
-1h ago
+2h ago
 
 ---
 
 **[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
-49m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 For reading encoder values of motors do you guys use libraries or write your own code?? Which is good Is it good to use pid tuning libraries or using your own custom code in esp32 position controlling a motor
 
-5m ago
+50m ago
 
 ---
 
@@ -102,13 +102,21 @@ For reading encoder values of motors do you guys use libraries or write your own
 
 Robotics software is messy. Different perception, planning, and control libraries rarely talk to each other, making experiments and real deployments painfully slow. Telekinesis AI is exploring a different path: reusable “Skills” for perception, motion, control, and logic, combined with AI agents that can sequence and adapt them in real time. Instead of rewriting glue code, you can focus on building complex behaviors and testing new ideas safely. Curious about the problem this is designed to solve? Check out the deep dive Medium article. Want to see the building blocks in action? The Skill Library is ready to explore. All links are in the comments — read about the problem first, then dive into the library and see what you can build.
 
-1h ago
+2h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
+
+The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
+
+International Federation of Robotics • 1d ago
+
+---
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
@@ -124,17 +132,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
+**[Arm Stock In Spotlight -- A New Push Into Robotics Is Driving the Move](https://finance.yahoo.com/news/arm-stock-spotlight-push-robotics-165453695.html)**
 
-TipRanks • 1d ago
+Arm's Stock Is Moving After a Strategic Shake-Up
 
----
-
-**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
-
-The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
-
-International Federation of Robotics • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -162,7 +164,7 @@ NVIDIA Developer • 1d ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfCJdoy5hFVYE-N7AowiL50m9TmfBC-y5yznzwhXD6WG9pCN4pQ5Ceo&gaa_ts=696136ec&gaa_sig=v9-ygPKH-vgdZ1BpkbEPg6RTS1UzHApy7CCN6Vi1H5XRrfziOdejim-buTRZ_GEkvDMmTbpmWpVjxgX-RYJ9tw%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcgx0kov70D0xnRQcFmgJZRmzqvBO70HpFToD81A_cpoALp6X6L6_6s&gaa_ts=69614dbb&gaa_sig=WCQreQVrq5sNYiqu0K_6cGXzQ_pbi5Ccdp_qgBIZRg5Iz_Drk8xVYWzcT4Ioj6BtxqWD6IJ902by7rIIuhrrHg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -176,11 +178,9 @@ The Times of Israel • 2d ago
 
 ---
 
-**[Mobileye's Mentee Robotics acquisition seen by analysts as broadening scope of company](https://seekingalpha.com/news/4537376-mobileyes-mentee-robotics-acquisition-seen-by-analysts-as-broadening-scope-of-company)**
+**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
 
-Mobileye's (MBLY) plans to acquire humanoid robotics startup Mentee Robotics draw largely positive reactions from analysts.
-
-Seeking Alpha • 2d ago
+Reuters • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 159K • 👍 3K • 💬 443 • ⏱️ 4:29 • 2d ago
+👁️ 168K • 👍 3K • 💬 453 • ⏱️ 4:29 • 2d ago
 
 ---
 
@@ -208,13 +208,13 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 ---
 
-**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
 
-I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
 
-📺 mryeester
+📺 Dip Knows
 
-👁️ 273K • 👍 9K • 💬 310 • ⏱️ 0:39 • 1d ago
+👁️ 457K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -228,33 +228,13 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 ---
 
-**[CES 2026: Chinese firms dominate robotics sector at tech convention in Las Vegas](https://www.youtube.com/watch?v=Jkzg8qc48JY)**
+**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
 
-Robots are no longer what we only see in sci-fi movies. Today, they can be seen walking, dancing and even serving snacks at this ...
+I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
 
-📺 CNA
+📺 mryeester
 
-👁️ 31K • 👍 318 • 💬 158 • ⏱️ 3:47 • 2d ago
-
----
-
-**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
-
-The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
-
-📺 Dip Knows
-
-👁️ 457K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
-
----
-
-**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
-
-Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
-
-📺 7NEWS Australia
-
-👁️ 7K • 👍 39 • 💬 13 • ⏱️ 2:25 • 2d ago
+👁️ 294K • 👍 9K • 💬 322 • ⏱️ 0:39 • 1d ago
 
 ---
 
@@ -264,27 +244,47 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 5.1M • 👍 4K • 💬 972 • ⏱️ 0:32 • 5d ago
+👁️ 5.1M • 👍 4K • 💬 975 • ⏱️ 0:32 • 5d ago
 
 ---
 
-**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+**[Why humanoid robots still can’t match humans - and what&#39;s holding them back](https://www.youtube.com/watch?v=lwbSvRZh5_E)**
 
-We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+Sky's Rowland Manthorpe is at the biggest tech conference in the world in Las Vegas, seeing first-hand just how close robots ...
 
-📺 CNET
+📺 Sky News
 
-👁️ 89K • 👍 361 • 💬 254 • ⏱️ 5:07 • 1d ago
+👁️ 828 • 👍 18 • 💬 13 • ⏱️ 11:07 • 1h ago
 
 ---
 
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+**[CES 2026: Chinese firms dominate robotics sector at tech convention in Las Vegas](https://www.youtube.com/watch?v=Jkzg8qc48JY)**
 
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+Robots are no longer what we only see in sci-fi movies. Today, they can be seen walking, dancing and even serving snacks at this ...
+
+📺 CNA
+
+👁️ 33K • 👍 323 • 💬 162 • ⏱️ 3:47 • 2d ago
+
+---
+
+**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
+
+Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
 
 📺 Hyundai Motor Group
 
-👁️ 101K • 👍 102 • 💬 1 • ⏱️ 0:33 • 2d ago
+👁️ 570K • 👍 22 • 💬 1 • ⏱️ 0:59 • 2d ago
+
+---
+
+**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
+
+LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
+
+📺 JerryRigEverything
+
+👁️ 168K • 👍 8K • 💬 814 • ⏱️ 7:45 • 1d ago
 
 ---
 
