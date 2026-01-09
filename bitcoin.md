@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T07:46:38.005488+00:00'
+updated: '2026-01-09T08:32:57.265657+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 07:46 UTC  
+**Last Updated:** January 09, 2026 at 08:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,018.53
+### $90,612.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.5%  
-**30d:** -1.6%  
-**90d:** -20.9%  
-**1y:** -3.8%  
+**24h:** +0.4%  
+**7d:** -0.1%  
+**30d:** -2.2%  
+**90d:** -21.4%  
+**1y:** -4.4%  
 
 ---
 
@@ -99,41 +99,41 @@ BTC
 
 ---
 
-**[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
-
-4h ago
-
----
-
 **[Starting the journey (New to bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1q7wv4t/starting_the_journey_new_to_bitcoin/)**
 
 Anything I should know about?
 
-4h ago
+5h ago
 
 ---
 
 **[Tax it, or print it?](https://www.reddit.com/r/Bitcoin/comments/1q80fbk/tax_it_or_print_it/)**
 
-1h ago
+2h ago
+
+---
+
+**[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
+
+5h ago
 
 ---
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ Anything I should know about?
 
 Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
 
-10h ago
+11h ago
 
 ---
 
@@ -149,31 +149,11 @@ Central banks reported record-breaking Gold accumulation throughout 2025, but th
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Falls. Cryptos Are Fizzling Again.](https://www.barrons.com/articles/bitcoin-price-today-crypto-selloff-434a0257?gaa_at=eafs&gaa_n=AWEtsqfJVV_mgBmABrGCBYDB81urussCVb7oQWqZ6a3Tpll4NqpkrESjRgJr&gaa_ts=6960b120&gaa_sig=J-sx1i320eXS_yMLDPt9akgyxEJhV-t0j-_8qOiimRZMMxndGRaiaxBSGO7RgZi1mhbv7iBK1McjwhjWql2EIw%3D%3D)**
+**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
 
-Barron's • 22h ago
+Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
 
----
-
-**[Spot bitcoin ETFs shift to negative flows, posting $243 million in outflows](https://www.theblock.co/post/384566/spot-bitcoin-etfs-shift-to-negative)**
-
-The Block • 2d ago
-
----
-
-**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
-
-Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
-
-CoinDesk • 53m ago
-
----
-
-**[US Bitcoin ETFs Clock Three-Day Outflow Streak as Risk Appetite Cools](https://finance.yahoo.com/news/us-bitcoin-etfs-clock-three-034647633.html)**
-
-Tactical de-risking and declining investor sentiment are the reasons behind the recent spot U.S. ETF outflows, Decrypt was told.
-
-Yahoo Finance • 3h ago
+CNBC • 1d ago
 
 ---
 
@@ -181,37 +161,23 @@ Yahoo Finance • 3h ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
+**[XRP jumps 20% in a week as traders rotate beyond bitcoin and ether](https://www.cnbc.com/video/2026/01/06/xrp-jumps-20percent-in-a-week-as-traders-rotate-beyond-bitcoin-and-ether.html)**
 
-Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
+CNBC’s MacKenzie Sigalos reports on why XRP is leading crypto’s early-2026 rally, with investors treating it as a targeted alternative to bitcoin and ether — drawn by its cross-border payments pitch and steady inflows that held up even through the Q4 dip.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
-
-Investor's Business Daily • 2d ago
+CNBC • 2d ago
 
 ---
 
-**[Morgan Stanley files for ether trust after bitcoin and solana ETF push](https://www.coindesk.com/business/2026/01/07/morgan-stanley-files-for-ether-trust-after-bitcoin-and-solana-etf-push)**
+**[XRP slips 5% as CNBC terms it 'hottest trade' of 2026 over bitcoin and ether](https://www.coindesk.com/markets/2026/01/08/xrp-slips-5-as-cnbc-terms-it-hottest-trade-of-2026-over-bitcoin-and-ether)**
 
-The Wall Street giant is widening its crypto push, following bitcoin and solana ETF filings with a potential Ethereum trust.
+Institutional demand through U.S.-listed spot XRP ETFs remains strong, with net inflows continuing into early January.
 
 CoinDesk • 1d ago
-
----
-
-**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
-
-If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
-
-Bitcoin Magazine • 1d ago
 
 ---
 
@@ -223,6 +189,44 @@ Fortune • 1d ago
 
 ---
 
+**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
+
+If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
+
+The Block • 12h ago
+
+---
+
+**[Florida revives push for bitcoin reserve with new 2026 bill](https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill)**
+
+A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
+
+CoinDesk • 19h ago
+
+---
+
+**[Florida Lawmakers Want To Create A Bitcoin Reserve In 2026](https://bitcoinmagazine.com/news/florida-revives-bitcoin-reserve-push)**
+
+Florida lawmakers filed new legislation for the 2026 session that would create a state-run crypto reserve after a similar effort stalled last year.
+
+Bitcoin Magazine • 18h ago
+
+---
+
+**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
+
+Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
+
+Yahoo Finance • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -231,13 +235,13 @@ Fortune • 1d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 8h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 9h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 19h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 20h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -269,7 +273,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 21h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 22h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -319,7 +323,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 4K • 👍 237 • 💬 36 • ⏱️ 10:06 • 13h ago
+👁️ 4K • 👍 237 • 💬 36 • ⏱️ 10:06 • 14h ago
 
 ---
 
@@ -329,7 +333,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 2K • 💬 133 • ⏱️ 25:57 • 7h ago
+👁️ 16K • 👍 2K • 💬 133 • ⏱️ 25:57 • 8h ago
 
 ---
 
@@ -339,7 +343,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 44K • 👍 3K • 💬 244 • ⏱️ 17:35 • 17h ago
+👁️ 44K • 👍 3K • 💬 244 • ⏱️ 17:35 • 18h ago
 
 ---
 
@@ -349,7 +353,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 12K • 👍 534 • 💬 38 • ⏱️ 16:32 • 12h ago
+👁️ 12K • 👍 534 • 💬 38 • ⏱️ 16:32 • 13h ago
 
 ---
 
@@ -359,7 +363,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 139 • ⏱️ 11:14 • 6h ago
+👁️ 20K • 👍 1K • 💬 139 • ⏱️ 11:14 • 7h ago
 
 ---
 
@@ -369,7 +373,7 @@ Stay informed with the latest insights on **btc**, focusing on effective **tradi
 
 📺 Krown
 
-👁️ 8K • 👍 641 • 💬 197 • ⏱️ 13:56 • 14h ago
+👁️ 8K • 👍 641 • 💬 197 • ⏱️ 13:56 • 15h ago
 
 ---
 
@@ -389,7 +393,7 @@ Gold and Silver are up HUGE this year! Hitting new all time highs almost every w
 
 📺 The Bitcoin Broadcast - Vince HodlFlorida
 
-👁️ 4K • 👍 54 • 💬 5 • ⏱️ 0:52 • 18h ago
+👁️ 4K • 👍 54 • 💬 5 • ⏱️ 0:52 • 19h ago
 
 ---
 
@@ -399,7 +403,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 18K • 👍 1K • 💬 48 • ⏱️ 13:19 • 10h ago
+👁️ 18K • 👍 1K • 💬 48 • ⏱️ 13:19 • 11h ago
 
 ---
 

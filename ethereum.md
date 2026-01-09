@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T07:46:38.011586+00:00'
+updated: '2026-01-09T08:32:57.271729+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 07:46 UTC  
+**Last Updated:** January 09, 2026 at 08:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** -0.1%  
-**30d:** -3.4%  
-**90d:** -24.8%  
-**1y:** -4.4%  
+**24h:** +0.1%  
+**7d:** -0.3%  
+**30d:** -3.6%  
+**90d:** -25.0%  
+**1y:** -4.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Youtube and X. Friday Jan. 9th - 2pmET - "Blockchain and Belief" - Princeton Professors Roundtable tl:dr: Go to dailydoots.com and subscribe wherever you get your podcasts. This is a discussion about all things money, blockchain, religion, economics, and even a dash of the occult. We have some INCREDIBLE guests lined up from DeCenter of Princeton University led by Dr. Michael Maizels. Guests have wide ranging accolades from Dartmouth, Princeton, Yale, Geneva and more. I had the opportunity to be a guest at DeCenter/Princeton's "Blockchain and Belief" Conference back in November and had the privilege to represent our r/ethereum and EVMavericks community with a deep dive on our Daily Doots system and our history of Hodlercons, Culture, Memes, and More. I promise...we're definitely not a cult.....definitely. If you missed it, this was my presentation at Princeton: https://youtu.be/0lLC9AJg6s0 Got questions? Ask em right here on this thread! Carolyn Biltoft Carolyn Biltoft holds a PhD from Princeton University and is an Associate Professor of International History and Politics at the Geneva Graduate Institute. Carolyn writes and writes on the relationship between the history of epistemology and economic thought since the 18th century. Her acclaimed book A Violent Peace: Truth, Media and Power at the League of Nations explores media, propaganda, and truth claims in early global institutions and contains a chapter on counterfeit currency in the age of fascism. Carolyn is a founding editor of Capitalism: a journal of history and economics https://www.pennpress.org/journals/journal/capitalism/ Andrew Chignell Andrew Chignell is a professor at Princeton University's Center for Human Values, with appointments in Religion and Philosophy. His research spans Kant, philosophy of religion, ethics of belief, and topics like hope and despair. Recently, he has directed the Princeton Project in Philosophy and Religion and led efforts for a major cross-disciplinary grant on optimism, pessimism, hope, and despair. chignell.net Devin P. Singh Devin P. Singh holds a PhD from Yale University and is an Associate Professor of Religion at Dartmouth College. His work examines intersections of Christian thought with economy, politics, money, and secularization. Recent publications include the book Economy and Modern Christian Thought and an ongoing project on the religious and social roles of debt. devinsingh.com Gordon Grant is a seasoned cryptocurrency trader and derivatives expert. Graduating from Princeton University with a focus on econometrics and quantitative finance, he built his early career as a derivatives portfolio manager before he discovered Bitcoin in 2013 and made a full pivot to digital assets, He played a pivotal role at Genesis Trading from 2019 to 2023 and Today Gordon serves as Principal at ChiSquared Technologies Mike W Maizels Mike Maizels (Michael Maizels) is the Executive Director of Princeton University's DeCenter for blockchain and decentralization research. With a background in interdisciplinary technology and societal change, he leads efforts to advance education, research, and policy around blockchain's potential to shift power structures. He co-directs major events like the DeCenter's annual Spring Conference on decentralization's infrastructure and implications. decenter.princeton.edu
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-2h ago
+3h ago
 
 ---
 
@@ -104,25 +104,25 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires, Argentina, building and operating self-custodial decentralized finance strategies for people and organizations that want real exposure to DeFi without having to become protocol experts. We started years ago doing algorithmic market making and Protocol Owned Liquidity (PoL), and have grown into a broader on-chain asset manager serving institutions, DAOs, and companies alike. We believe DeFi is converging toward professional operators, much like traditional finance did — and that this only works if it’s built for the long term, not short-term incentives or hype. What We Do (at a Glance) Tokenized Investment Funds On-chain, non-custodial, discretional, partially-algorithmic DAMMstable Market-neutral strategies for USD stablecoins. DAMMeth Market-neutral strategies for ETH holders. DAMMop OP-denominated algorithmic strategies. DAMMbtc (upcoming) BTC-focused strategies deployed via Ethereum and L2s. DeFi-as-a-Service (DaaS) DeFi execution for institutions, DAOs, and protocols. Treasury management, liquidity strategy design, and Protocol Owned Liquidity. Clients retain full ownership and control at all times. Our Values We believe in the values of Ethereum. Our team is fully crypto-native and has been for years. We operate with a strict set of principles: no centralized exchanges, no off-chain custody, no opaque structures, and no token or emissions theater. Everything we do is transparent, verifiable, and non-custodial, designed so clients always retain control of their capital. We focus on risk-adjusted returns, build for the long term, and remain independent and aligned with the people who trust us with their capital. Links Email: team@dammcap.finance Website: https://dammcap.finance Twitter / X: https://x.com/DAMM_Capital LinkedIn: https://www.linkedin.com/company/damm-capital/ Docs & Research: https://docs.dammcap.finance AMA — happy to answer questions.
 
-13h ago
+14h ago
 
 ---
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Polymarket And Delphi Digital Make History With Tradable Research](https://www.reddit.com/r/ethereum/comments/1q7g8gh/polymarket_and_delphi_digital_make_history_with/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 15h ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 16h ago
 
 ---
 
 **[Lost Your Validator Mnemonic? A Community Proposal to Recover BLS-Locked ETH](https://www.reddit.com/r/ethereum/comments/1q7b9ce/lost_your_validator_mnemonic_a_community_proposal/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -148,7 +148,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
 
 ---
 
@@ -156,15 +156,7 @@ Decrypt • 9h ago
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Truebit Token Plunges After Protocol Confirms $26M Ethereum Exploit](https://finance.yahoo.com/news/truebit-token-plunges-protocol-confirms-051654199.html)**
-
-Truebit’s TRU token went into free fall Thursday after the protocol disclosed a security incident tied to one of its Ethereum smart contracts, with on-chain trackers pointing to a haul of about 8,535 ETH, roughly $26M at recent prices.Truebit said the incident involved “involving one or more malicious actors” and ...
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -190,6 +182,30 @@ CNBC • 3d ago
 
 ---
 
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP find key support, reviving rally hopes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-find-key-support-reviving-rally-hopes-202601090359)**
+
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) steadied above key support levels on Friday after being rejected at mid-week resistance zones. The short-term recovery prospects remain intact if the top three cryptocurrencies by market capitalization hold these support zones.
+
+FXStreet • 4h ago
+
+---
+
+**[2026 Breakout Alert: CNBC Picks XRP Over Bitcoin and Ethereum](https://coinpaper.com/13590/2026-breakout-alert-cnbc-picks-xrp-over-bitcoin-and-ethereum)**
+
+CNBC names XRP, not Bitcoin or Ethereum, as 2026’s breakout crypto after a 25% surge to $2.40, sparking renewed investor interest.
+
+Coinpaper • 1d ago
+
+---
+
+**[Why are Bitcoin, Ethereum, and XRP’s prices down? ETF flows, Fed rates, and more…](https://ambcrypto.com/why-are-bitcoin-ethereum-and-xrps-prices-down-etf-flows-fed-rates-and-more/)**
+
+Will crypto assets defend their key short-term support levels?
+
+AMBCrypto • 3h ago
+
+---
+
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
 CCN.com • 2d ago
@@ -204,22 +220,6 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[How High Will XRP Price Go In 2026? XRP Just Crushed Bitcoin and Ethereum Returns, Gains 25%](https://www.financemagnates.com/trending/how-high-will-xrp-price-go-in-2026-xrp-just-crushed-bitcoin-and-ethereum-returns-gains-25/)**
-
-XRP climbed 25% in the first week of January, reaching approximately $2.40 on Tuesday before pulling back to test key support levels today (Wednesday), 7 January 2026.
-
-Finance Magnates • 1d ago
-
----
-
-**[Why Bitcoin, Ethereum, and XRP Prices Are Falling Amid Morgan Stanley Developments](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-crashing-today/)**
-
-Cryptocurrency prices fell broadly on Tuesday, with Bitcoin, Ethereum and XRP all trading lower as investors locked in recent gains and overall market
-
-Coinpedia Fintech News • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -230,7 +230,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 127 • 💬 7 • ⏱️ 4:20 • 7h ago
+👁️ 2K • 👍 127 • 💬 7 • ⏱️ 4:20 • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 454 • 👍 35 • 💬 14 • ⏱️ 9:03 • 8h ago
+👁️ 454 • 👍 35 • 💬 14 • ⏱️ 9:03 • 9h ago
 
 ---
 
@@ -250,7 +250,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 139 • 💬 56 • ⏱️ 11:47 • 19h ago
+👁️ 2K • 👍 139 • 💬 56 • ⏱️ 11:47 • 20h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 252 • 💬 80 • ⏱️ 19:16 • 8h ago
+👁️ 5K • 👍 252 • 💬 80 • ⏱️ 19:16 • 9h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 176 • 💬 15 • ⏱️ 6:11 • 17h ago
+👁️ 2K • 👍 176 • 💬 15 • ⏱️ 6:11 • 18h ago
 
 ---
 
@@ -290,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 115 • 💬 25 • ⏱️ 8:41 • 8h ago
+👁️ 1K • 👍 115 • 💬 25 • ⏱️ 8:41 • 9h ago
 
 ---
 
