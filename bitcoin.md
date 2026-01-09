@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T10:25:15.742115+00:00'
+updated: '2026-01-09T10:50:12.107845+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 10:25 UTC  
+**Last Updated:** January 09, 2026 at 10:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +95,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 BTC
 
-18h ago
+19h ago
 
 ---
 
@@ -115,13 +115,13 @@ Anything I should know about?
 
 **[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -141,7 +141,7 @@ Anything I should know about?
 
 Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
 
-12h ago
+13h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bitcoin Magazine • 1h ago
 
 A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -273,7 +273,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 1h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 2h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -315,7 +315,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 273 • ⏱️ 16:13 • 13h ago
+👁️ 45K • 👍 2K • 💬 273 • ⏱️ 16:13 • 14h ago
 
 ---
 

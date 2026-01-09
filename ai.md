@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T10:25:15.734353+00:00'
+updated: '2026-01-09T10:50:12.099424+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 10:25 UTC  
+**Last Updated:** January 09, 2026 at 10:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 18h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 19h ago
 
 ---
 
@@ -123,61 +123,23 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[Elon Musk’s xAI under fire for failing to rein in ‘digital undressing’](https://www.cnn.com/2026/01/08/tech/elon-musk-xai-digital-undressing)**
+**[Elon Musk's Grok AI image editing limited to paid users after deepfakes](https://www.bbc.com/news/articles/c99kn52nx9do)**
 
-Elon Musk’s AI chatbot, Grok, has been flooded with sexual images of mainly women, many of them real people, by being prompted by users to “digitally undress” them and sometimes placing them in suggestive poses.
+It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-CNN • 1d ago
-
----
-
-**[Ofcom urged to use 'banning' powers over X AI deepfakes](https://www.bbc.com/news/articles/ckgjzknepvzo)**
-
-It follows an ongoing backlash against the use of X's AI Grok to digitally remove clothing from images.
-
-BBC • 4h ago
+BBC • 1h ago
 
 ---
 
-**[Google is unleashing Gemini AI features on Gmail. Users will have to opt out](https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html)**
+**[Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)**
 
-Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
+Paid tools that “strip” clothes from photos have been available on the darker corners of the internet for years. Elon Musk’s X is now removing barriers to entry—and making the results public.
 
-CNBC • 21h ago
-
----
-
-**[Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)**
-
-New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
-
-WIRED • 21h ago
-
----
-
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
-
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
-
-blog.google • 21h ago
-
----
-
-**[Taiwan’s Exports Hit Record in 2025 on AI-Fueled Demand](https://www.wsj.com/economy/trade/taiwans-exports-hit-record-in-2025-on-ai-fueled-demand-bf1f8258?gaa_at=eafs&gaa_n=AWEtsqeA9R498oJNtBzOdz-xamx51G2M-KCQdGcfIk9SwIbNUTCBB45XqGlc&gaa_ts=6960cdea&gaa_sig=RG6i5TcX2cyh4S_50DqxjCljz43UO9LQOWLiC9r_o6GjGlwz17fBf7ZdcXrK51jhnQ3efAfuTxGd0hwpJur1BA%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
-
-**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
-
-"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
-
-Fortune • 1d ago
+WIRED • 2d ago
 
 ---
 
@@ -189,9 +151,45 @@ IEEE Spectrum • 21h ago
 
 ---
 
-**[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
+**[DeepSeek rival’s shares double in debut as Chinese AI companies rush to list](https://www.ft.com/content/a4fc6106-5a61-4a89-9400-c17c87fb1920)**
 
-The Washington Post • 16h ago
+MiniMax joins wave of technology companies in China going public
+
+Financial Times • 4h ago
+
+---
+
+**[MiniMax doubles in Hong Kong debut, marking yet another Chinese AI listing](https://www.cnbc.com/2026/01/09/minimax-hong-kong-ipo-ai-tigers-zhipu.html)**
+
+Shares of MiniMax surged in their first day of trading in Hong Kong, in what represents the second major Chinese LLM company to go public.
+
+CNBC • 4h ago
+
+---
+
+**[Founder Of Chinese AI Model Developer MiniMax Becomes A Billionaire As Shares Surge On Listing](https://www.forbes.com/sites/ywang/2026/01/09/founder-of-chinese-ai-model-developer-minimax-becomes-a-billionaire-as-shares-surge-on-listing/)**
+
+Forbes • 25m ago
+
+---
+
+**[Is AI Is Killing Entry-Level Hiring? Not at Shopify](https://www.inc.com/jessica-stillman/is-ai-is-killing-entry-level-hiring-not-at-shopify/91285290)**
+
+inc.com • 6m ago
+
+---
+
+**[Our AI Future Is Already Here, It’s Just Not Evenly Distributed](https://www.wsj.com/tech/ai/our-ai-future-is-already-here-its-just-not-evenly-distributed-cf7a6f35?gaa_at=eafs&gaa_n=AWEtsqfMRFRsSlaE9veO24ir6Ewn9Mmw3vyw7GEOIjLlIM1snEuAztX0UXes&gaa_ts=6960e0ca&gaa_sig=6uh2-Q5_O3A3rmFBQ8IMFUaQl8wl5TUICSLHupYsXv5N0wht3PErFuVxTO4xnuvTjTozHnZDJwCNjF_CYR-ktg%3D%3D)**
+
+The Wall Street Journal • 20m ago
+
+---
+
+**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
+
+"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
+
+Fortune • 1d ago
 
 ---
 
@@ -287,7 +285,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 30K • 👍 825 • 💬 36 • ⏱️ 17:54 • 9h ago
+👁️ 30K • 👍 825 • 💬 36 • ⏱️ 17:54 • 10h ago
 
 ---
 
@@ -307,7 +305,7 @@ I was playing around with a bunch of different #midjourney style ref codes and f
 
 📺 Kelly Boesch AI Art
 
-👁️ 9K • 👍 567 • 💬 58 • ⏱️ 2:42 • 19h ago
+👁️ 9K • 👍 567 • 💬 58 • ⏱️ 2:42 • 20h ago
 
 ---
 
@@ -649,7 +647,7 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.2k • 🔱 866 • 1h ago
+⭐ 7.2k • 🔱 866 • 2h ago
 
 ---
 
@@ -699,7 +697,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 102 • 22h ago
+⭐ 1.3k • 🔱 102 • 23h ago
 
 ---
 
@@ -709,7 +707,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 101 • 3h ago
+⭐ 1.2k • 🔱 101 • 4h ago
 
 ---
 
@@ -719,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 3h ago
+⭐ 1.2k • 🔱 143 • 4h ago
 
 ---
 

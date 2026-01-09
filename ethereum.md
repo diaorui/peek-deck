@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T10:25:15.747617+00:00'
+updated: '2026-01-09T10:50:12.113798+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 10:25 UTC  
+**Last Updated:** January 09, 2026 at 10:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -104,7 +104,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires, Argentina, building and operating self-custodial decentralized finance strategies for people and organizations that want real exposure to DeFi without having to become protocol experts. We started years ago doing algorithmic market making and Protocol Owned Liquidity (PoL), and have grown into a broader on-chain asset manager serving institutions, DAOs, and companies alike. We believe DeFi is converging toward professional operators, much like traditional finance did — and that this only works if it’s built for the long term, not short-term incentives or hype. What We Do (at a Glance) Tokenized Investment Funds On-chain, non-custodial, discretional, partially-algorithmic DAMMstable Market-neutral strategies for USD stablecoins. DAMMeth Market-neutral strategies for ETH holders. DAMMop OP-denominated algorithmic strategies. DAMMbtc (upcoming) BTC-focused strategies deployed via Ethereum and L2s. DeFi-as-a-Service (DaaS) DeFi execution for institutions, DAOs, and protocols. Treasury management, liquidity strategy design, and Protocol Owned Liquidity. Clients retain full ownership and control at all times. Our Values We believe in the values of Ethereum. Our team is fully crypto-native and has been for years. We operate with a strict set of principles: no centralized exchanges, no off-chain custody, no opaque structures, and no token or emissions theater. Everything we do is transparent, verifiable, and non-custodial, designed so clients always retain control of their capital. We focus on risk-adjusted returns, build for the long term, and remain independent and aligned with the people who trust us with their capital. Links Email: team@dammcap.finance Website: https://dammcap.finance Twitter / X: https://x.com/DAMM_Capital LinkedIn: https://www.linkedin.com/company/damm-capital/ Docs & Research: https://docs.dammcap.finance AMA — happy to answer questions.
 
-16h ago
+17h ago
 
 ---
 
@@ -124,7 +124,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 **[Polymarket And Delphi Digital Make History With Tradable Research](https://www.reddit.com/r/ethereum/comments/1q7g8gh/polymarket_and_delphi_digital_make_history_with/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 17h ago
+🔗 [forbes.com](https://www.forbes.com/sites/digital-assets/2026/01/08/polymarket-and-delphi-digital-make-history-with-tradable-research/) • 18h ago
 
 ---
 
@@ -136,7 +136,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 **[2026 Web3 Events Repository](https://www.reddit.com/r/ethereum/comments/1q7dmjf/2026_web3_events_repository/)**
 
-🔗 [thrilldlabs.io](https://www.thrilldlabs.io/blog-posts/2026-web3-event-repository) • 19h ago
+🔗 [thrilldlabs.io](https://www.thrilldlabs.io/blog-posts/2026-web3-event-repository) • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ Decrypt • 12h ago
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 52m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ TradingView — Track All Markets • 1d ago
 
 **[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
 
-CCN.com • 2d ago
+CCN.com • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 143 • 💬 34 • ⏱️ 11:47 • 21h ago
+👁️ 2K • 👍 143 • 💬 34 • ⏱️ 11:47 • 22h ago
 
 ---
 

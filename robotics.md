@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T10:25:15.750568+00:00'
+updated: '2026-01-09T10:50:12.117047+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 10:25 UTC  
+**Last Updated:** January 09, 2026 at 10:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-41m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +90,7 @@ We’re seeing the first humanoid pilots in factories, logistics hubs, and inspe
 
 I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
 
-17h ago
+18h ago
 
 ---
 
@@ -105,14 +105,6 @@ I’ve been noticing how differently people react to robots depending on whether
 ---
 
 ## Google News: "robotics"
-
-**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
-
-The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
-
-International Federation of Robotics • 1d ago
-
----
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
@@ -134,6 +126,33 @@ TipRanks • 1d ago
 
 ---
 
+**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
+
+The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
+
+International Federation of Robotics • 1d ago
+
+---
+
+**[Robots got a new brain at CES 🤖🧠 Qualcomm just unveiled Dragonwing IQ10, its robotics platform designed to power humanoid & autonomous robots — helping them see, think, & move in real time. The demo? Ambitious The robot? Very human… it briefly glit](https://www.linkedin.com/posts/cnbc-tv18_ces2026-qualcomm-dragonwingiq10-activity-7415326963575455745-EtAS)**
+
+Robots got a new brain at CES 🤖🧠
+
+Qualcomm just unveiled Dragonwing IQ10, its robotics platform designed to power humanoid & autonomous robots — helping them see, think, & move in real time.
+
+The demo? Ambitious
+The robot? Very human… it briefly glitched 😅
+Because even the future of AI has off days.
+📍 Aishwarya Anand reports from CES
+
+#CES2026 #Qualcomm #DragonwingIQ10 #Robotics #PhysicalAI #FutureOfTech #CNBCTV18Digital
+
+Aishwarya Anand
+
+LinkedIn • 1h ago
+
+---
+
 **[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)**
 
 HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
@@ -147,7 +166,7 @@ hyundai.com • 3d ago
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
-hyundai.com • 2h ago
+hyundai.com • 6h ago
 
 ---
 
@@ -159,7 +178,7 @@ Automotive News • 3d ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqdtuA4L_fNV2IfopCvBM7koReikjGBdD4IUtcwSvR7V9uZcxuH7KSHX&gaa_ts=6960cdec&gaa_sig=hasZuRrloYwA5Jspq-0fm0c9Fq8RJbpeEmq8aYdrkYMjFwt97Yf25hB6lytioPjrW-XwODn4DrRf4tAyjEatBQ%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqf2gHPIf6rNtZjrv8H7aciojuV7bE5goe5Ox40rnHH9wqPdWXg6f12F&gaa_ts=6960e0cb&gaa_sig=dBbA5mGLBAOk0fZ8DiV9EXqQTnQhsLZAdiynHmLWKEXwJUJAw0bhPkuoR3LwgFc8jSlHO36JLR4ATaKXnLKiUg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -170,14 +189,6 @@ The Wall Street Journal • 2d ago
 Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
 
 The Times of Israel • 1d ago
-
----
-
-**[Mobileye acquires Shashua’s robotics startup for $900 million](https://www.calcalistech.com/ctechnews/article/hjgfeesnzx)**
-
-The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
-
-CTech • 2d ago
 
 ---
 
@@ -221,7 +232,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 196K • 👍 7K • 💬 253 • ⏱️ 0:39 • 16h ago
+👁️ 196K • 👍 7K • 💬 253 • ⏱️ 0:39 • 17h ago
 
 ---
 
