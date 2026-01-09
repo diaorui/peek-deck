@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T22:46:05.912555+00:00'
+updated: '2026-01-09T23:21:35.351389+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 22:46 UTC  
+**Last Updated:** January 09, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 14h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 13h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ It comes after government urged Ofcom to use all its powers – up to and includ
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-9h ago
+10h ago
 
 ---
 
@@ -73,7 +73,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-16h ago
+17h ago
 
 ---
 
@@ -121,7 +121,7 @@ I did a thought experiment with my AI of choice and I'm absolutely flabbergasted
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 1h ago
 
 Technology editor Zoe Kleinman explains the row over changes made by X to it's Grok AI image edits, after the UK government called it "insulting".
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 1d ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 12h ago
+NBC News • 13h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Motley Fool • 6h ago
 
 You don't have to buy risky stocks to invest in the AI boom.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Motley Fool • 22h ago
 
 Nvidia, Broadcom, and Amazon are all solid long-term plays on the AI boom.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1h ago
 
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -259,7 +259,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 72 • 💬 89 • 14h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 72 • 💬 89 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -275,7 +275,7 @@ Since 2023, every model at the frontier of AI capabilities, as measured by the E
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 55 • 💬 93 • 4h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 55 • 💬 93 • 5h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -289,7 +289,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 17K • 👍 1K • 💬 134 • ⏱️ 19:15 • 8h ago
+👁️ 23K • 👍 2K • 💬 173 • ⏱️ 19:15 • 9h ago
 
 ---
 
@@ -299,7 +299,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 50 • ⏱️ 17:54 • 22h ago
+👁️ 66K • 👍 1K • 💬 52 • ⏱️ 17:54 • 22h ago
 
 ---
 
@@ -309,47 +309,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 96K • 👍 2K • 💬 143 • ⏱️ 13:08 • 1d ago
-
----
-
-**[Reddit user uses AI to fool the internet in a viral posting](https://www.youtube.com/watch?v=4zDd4aVnPY8)**
-
-An anonymous Reddit user's claims of fraud and theft by an unnamed food delivery company appear to have been an AI-fueled ...
-
-📺 NBC News
-
-👁️ 19K • 👍 335 • 💬 104 • ⏱️ 3:18 • 18h ago
-
----
-
-**[AI bubble just popped on Elon](https://www.youtube.com/watch?v=Z0WUTBoDHhM)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 58K • 👍 4K • 💬 1K • ⏱️ 14:48 • 9h ago
-
----
-
-**[NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](https://www.youtube.com/watch?v=5Kp-Gj5qXL0)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 44K • 👍 2K • 💬 252 • ⏱️ 18:37 • 1d ago
-
----
-
-**[How to Make Cartoon Music Videos with AI - Step by Step](https://www.youtube.com/watch?v=EKhX5b3OZ0c)**
-
-Create Music Videos with OpenArt https://www.openart.ai/home/?ref=cartoon-music-video In this video, I show you the full ...
-
-📺 Roboverse
-
-👁️ 7K • 💬 1 • ⏱️ 9:30 • 7h ago
+👁️ 97K • 👍 2K • 💬 144 • ⏱️ 13:08 • 2d ago
 
 ---
 
@@ -359,17 +319,27 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.4M • 👍 64K • 💬 9K • ⏱️ 17:14 • 2d ago
+👁️ 1.4M • 👍 65K • 💬 9K • ⏱️ 17:14 • 2d ago
 
 ---
 
-**[Build Anything with Google Stitch + Google AI Studio, Here&#39;s How](https://www.youtube.com/watch?v=CAjoyKxhGdg)**
+**[How to Make Cartoon Music Videos with AI - Step by Step](https://www.youtube.com/watch?v=EKhX5b3OZ0c)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses https://juliangoldieai.com/07L1kg Get a ...
+Create Music Videos with OpenArt https://www.openart.ai/home/?ref=cartoon-music-video In this video, I show you the full ...
 
-📺 Julian Goldie SEO
+📺 Roboverse
 
-👁️ 2K • 👍 102 • 💬 7 • ⏱️ 9:21 • 12h ago
+👁️ 8K • 💬 1 • ⏱️ 9:30 • 8h ago
+
+---
+
+**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
+
+Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
+
+📺 TED
+
+👁️ 16K • 👍 519 • 💬 43 • ⏱️ 12:52 • 1d ago
 
 ---
 
@@ -379,7 +349,37 @@ Elon Musk's platform X has limited Grok Artificial Intelligence (AI) image edits
 
 📺 BBC News
 
-👁️ 8K • 👍 246 • 💬 123 • ⏱️ 3:03 • 6h ago
+👁️ 11K • 👍 273 • 💬 133 • ⏱️ 3:03 • 6h ago
+
+---
+
+**[How I Created Unlimited AI Videos in Bulk (One Click) | FREE Text-to-Video Automation (2026)](https://www.youtube.com/watch?v=K13A_vtKJpk)**
+
+How I created unlimited AI videos in bulk using a FREE text-to-video automation workflow — all in one click, powered by Auto ...
+
+📺 zapiwala ai
+
+👁️ 29K • 👍 2K • 💬 177 • ⏱️ 9:49 • 1d ago
+
+---
+
+**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 31K • 👍 1K • 💬 89 • ⏱️ 14:35 • 1d ago
+
+---
+
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+
+📺 Hyundai Motor Group
+
+👁️ 101K • 👍 109 • 💬 1 • ⏱️ 0:33 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 330,354 • ❤️ 693 • 1d ago
+⬇️ 330,354 • ❤️ 698 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 8,048 • ❤️ 689 • 8d ago
+⬇️ 8,048 • ❤️ 691 • 8d ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 19,738 • ❤️ 549 • 9d ago
+⬇️ 19,738 • ❤️ 551 • 9d ago
 
 ---
 
@@ -443,7 +443,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,216 • ❤️ 328 • 3d ago
+⬇️ 30,216 • ❤️ 331 • 3d ago
 
 ---
 
@@ -455,7 +455,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 3,149 • ❤️ 231 • 2d ago
+⬇️ 3,149 • ❤️ 242 • 2d ago
 
 ---
 
@@ -467,7 +467,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 202,948 • ❤️ 983 • 13d ago
+⬇️ 202,948 • ❤️ 986 • 13d ago
 
 ---
 
@@ -479,7 +479,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 222 • 16h ago
+⬇️ 5,785 • ❤️ 222 • 17h ago
 
 ---
 
@@ -491,7 +491,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 14,705 • ❤️ 295 • 2d ago
+⬇️ 14,705 • ❤️ 296 • 2d ago
 
 ---
 
@@ -503,7 +503,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 308 • ❤️ 180 • 3d ago
+⬇️ 308 • ❤️ 183 • 3d ago
 
 ---
 
@@ -529,7 +529,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 78 • 💬 1 • ⭐ 1,631 • 3d ago
+▲ 79 • 💬 1 • ⭐ 1,631 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -542,7 +542,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-▲ 2 • 💬 0 • ⭐ 2,205 • 11mo ago
+▲ 2 • 💬 0 • ⭐ 2,227 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
@@ -619,23 +619,21 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 17 • 💬 2 • ⭐ 341 • 4d ago
+▲ 17 • 💬 2 • ⭐ 428 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
 ---
 
-**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)**
+**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
 
-*Shih-Yang Liu, Xin Dong, Ximing Lu et al. (13 authors)*
+*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
 
-🏢 NVIDIA
+LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
+▲ 176 • 💬 6 • ⭐ 65,326 • 22mo ago
 
-▲ 91 • 💬 4 • ⭐ 43 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
+[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
 ---
 
@@ -649,7 +647,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 880 • 4h ago
+⭐ 7.4k • 🔱 884 • 5h ago
 
 ---
 
@@ -669,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 4h ago
+⭐ 2.2k • 🔱 129 • 5h ago
 
 ---
 
@@ -699,7 +697,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 105 • 7h ago
+⭐ 1.3k • 🔱 104 • 45m ago
 
 ---
 
@@ -709,7 +707,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 103 • 8h ago
+⭐ 1.2k • 🔱 104 • 8h ago
 
 ---
 
@@ -719,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 12h ago
+⭐ 1.2k • 🔱 143 • 13h ago
 
 ---
 
@@ -739,7 +737,7 @@ Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD item
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 179 • 2d ago
+⭐ 1.1k • 🔱 183 • 2d ago
 
 ---
 

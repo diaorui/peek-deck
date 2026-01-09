@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T22:46:05.930597+00:00'
+updated: '2026-01-09T23:21:35.368911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 22:46 UTC  
+**Last Updated:** January 09, 2026 at 23:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
-5h ago
+6h ago
 
 ---
 
@@ -58,13 +58,13 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
 
-6h ago
+7h ago
 
 ---
 
 **[Robot soccer](https://www.reddit.com/r/robotics/comments/1q8fqtb/robot_soccer/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -72,7 +72,7 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 Hi, I’m looking to get into robotics as a hobby. I’m currently learning Arduino using a starter kit, and I’m planning to buy a 3D printer (I have some experience with an Ender 3 Pro V1). For those who build prototypes and robots using 3D printing: do you really need to print in ABS? Back when I started, it was considered one of the strongest materials, but I’m not sure if that’s still the case or if it’s still the standard. From what I’ve seen, most people seem to use PLA or, even more often, PETG. This is mainly to help me decide whether it’s worth getting an open or an enclosed printer, which makes a big difference in the budget where I live.
 
-57m ago
+1h ago
 
 ---
 
@@ -86,13 +86,13 @@ Are we finally at the point where buying QDD actuators is cheaper/better than bu
 
 **[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Dueling Pianos with Humanoids @ CES](https://www.reddit.com/r/robotics/comments/1q8gpa5/dueling_pianos_with_humanoids_ces/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Are we finally at the point where buying QDD actuators is cheaper/better than bu
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-15h ago
+16h ago
 
 ---
 
@@ -194,7 +194,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 176K • 👍 3K • 💬 461 • ⏱️ 4:29 • 2d ago
+👁️ 184K • 👍 3K • 💬 469 • ⏱️ 4:29 • 2d ago
 
 ---
 
@@ -204,7 +204,17 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 224 • ⏱️ 9:33 • 2d ago
+👁️ 61K • 👍 1K • 💬 221 • ⏱️ 9:33 • 3d ago
+
+---
+
+**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+
+I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+
+📺 mryeester
+
+👁️ 319K • 👍 10K • 💬 346 • ⏱️ 0:39 • 1d ago
 
 ---
 
@@ -218,13 +228,23 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 ---
 
-**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
 
-I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
 
-📺 mryeester
+📺 Hyundai Motor Group
 
-👁️ 307K • 👍 9K • 💬 334 • ⏱️ 0:39 • 1d ago
+👁️ 246K • 👍 59 • ⏱️ 1:15 • 3d ago
+
+---
+
+**[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
+
+MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
+
+📺 Hyundai Motor Group
+
+👁️ 438K • 👍 183 • 💬 2 • ⏱️ 0:47 • 2d ago
 
 ---
 
@@ -238,23 +258,23 @@ The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mo
 
 ---
 
+**[Minos Is Taking Over War Robots | Stronger Than Ever Before](https://www.youtube.com/watch?v=yECli9SR6pw)**
+
+Minos is one of the best titans in the game right now. After the rebalance the Minos has become one of the best titans in War ...
+
+📺 PREDATOR WR
+
+👁️ 5K • 👍 303 • 💬 71 • ⏱️ 15:49 • 10h ago
+
+---
+
 **[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
 
 Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
 
 📺 Unitree Robotics
 
-👁️ 5.3M • 👍 4K • 💬 978 • ⏱️ 0:32 • 5d ago
-
----
-
-**[At CES 2026, AI Takes Over Las Vegas](https://www.youtube.com/watch?v=nuivRxby208)**
-
-The world's largest tech show is back and AI is powering nearly every major reveal. Here's your first look! Connect with Cheddar!
-
-📺 Cheddar
-
-👁️ 18K • 👍 184 • 💬 19 • ⏱️ 3:36 • 4d ago
+👁️ 5.4M • 👍 4K • 💬 981 • ⏱️ 0:32 • 5d ago
 
 ---
 
@@ -264,27 +284,7 @@ Robots are no longer what we only see in sci-fi movies. Today, they can be seen 
 
 📺 CNA
 
-👁️ 34K • 👍 326 • 💬 165 • ⏱️ 3:47 • 2d ago
-
----
-
-**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
-
-Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
-
-📺 Hyundai Motor Group
-
-👁️ 570K • 👍 22 • 💬 1 • ⏱️ 0:59 • 2d ago
-
----
-
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
-
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
-
-📺 Hyundai Motor Group
-
-👁️ 101K • 👍 102 • 💬 1 • ⏱️ 0:33 • 2d ago
+👁️ 35K • 👍 335 • 💬 166 • ⏱️ 3:47 • 2d ago
 
 ---
 

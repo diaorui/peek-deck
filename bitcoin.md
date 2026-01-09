@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T22:46:05.921085+00:00'
+updated: '2026-01-09T23:21:35.359719+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 22:46 UTC  
+**Last Updated:** January 09, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.39B
+**Market Cap:** $1808.59B
 Rank #1
 
-**Circulating Supply:** 19,973,681 BTC
+**Circulating Supply:** 19,973,746 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.2%
 
 **All-Time Low:** $67.81
-+132915.8%
++133467.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growing narrative suggesting that large institutions could somehow change it. To be clear, scarcity is one of Bitcoin’s foundational properties and a core reason it represents the hardest money humanity has ever known. I run a Bitcoin full node (I'm just one part of a large and globally distributed group of individuals) and I would never accept a change to the 21M cap. If any institution (Nation, BlackRock or otherwise) attempted to fork Bitcoin by increasing the supply to more coins, I would continue validating the 21 million–cap chain without hesitation. I’m confident tens of thousands of other node operators would do the same. This is how Bitcoin protects itself: its monetary policy cannot be changed unilaterally. Any supply change requires broad, voluntary consensus across the network. Even in an extreme scenario where institutions attempted to flood the network with nodes to create the appearance of consensus for say a 30 million–coin (or inflating) fork, anyone remains free to run software that enforces the 21M hard cap. In practice, the chain that preserves scarcity would retain the trust of users and holders, making it the economically relevant chain. Miners ultimately follow the chain that nodes validate, exchanges support, and the market values. This is why, while Bitcoin’s supply cap can be changed in theory, it will not be changed in reality. Bitcoin’s decentralized governance ensures that no single actor... or coordinated group... can impose a monetary rule change without overwhelming consensus. Bitcoin is protected because individuals run nodes and independently choose the rules they believe are best. If you want a vote, run a node. It’s effectively free. If you want to help protect Bitcoin’s core rules, consider running your own node. A full node currently requires just under 1TB of storage, while a pruned node requires only a fraction of that. Both consume minimal power and only a few hundred MB of network traffic per day after the initial sync... while giving you direct participation in Bitcoin’s validation and security.
 
-5h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ I am tired boss
 
 **[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 14h ago
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 15h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -199,7 +199,7 @@ dlnews.com • 2d ago
 
 **[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -215,7 +215,7 @@ CoinDesk • 21h ago
 
 Bitcoin BITSTAMP:BTCUSD hovered at $90,000 around Friday’s Wall Street open as markets braced for US trade tariff news.Key points:US tariff ruling could come FridayData from TradingView showed indecisive BTC price action ahead of a potential Supreme Court ruling over the tariffs, known as a risk-as…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ TradingView — Track All Markets • 7h ago
 
 Bitcoin whale accumulation hit a record high as 100+ BTC addresses surged, even as bitcoin consolidates near $90,000 amid easing macro uncertainty.
 
-Bitcoin Magazine • 59m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -235,7 +235,7 @@ Bitcoin Magazine • 59m ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 45 • 💬 3 • 23h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 45 • 💬 3 • 1d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -265,7 +265,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 13h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 14h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -299,7 +299,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 4d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 5d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -313,17 +313,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 📺 Crypto Insider
 
-👁️ 16K • 👍 2K • 💬 61 • ⏱️ 21:00 • 8h ago
-
----
-
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
-
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
-
-📺 Paul Barron Network
-
-👁️ 59K • 👍 3K • 💬 312 • ⏱️ 16:13 • 1d ago
+👁️ 21K • 👍 2K • 💬 73 • ⏱️ 21:00 • 9h ago
 
 ---
 
@@ -333,47 +323,17 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 240 • ⏱️ 11:14 • 21h ago
+👁️ 45K • 👍 2K • 💬 311 • ⏱️ 11:14 • 21h ago
 
 ---
 
-**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
 
-While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
 
-📺 Simply Bitcoin
+📺 Paul Barron Network
 
-👁️ 28K • 👍 2K • 💬 146 • ⏱️ 25:57 • 22h ago
-
----
-
-**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
-
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
-
-📺 Anthony Pompliano
-
-👁️ 27K • 👍 1K • 💬 28 • ⏱️ 43:55 • 2d ago
-
----
-
-**[Trump’s Surprise Move Could Explode Bitcoin](https://www.youtube.com/watch?v=FArjhEbF1rQ)**
-
-Bitcoin, Trump, SOL, ETH, Tesla, stocks, and altcoin trade updates! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 16K • 👍 916 • 💬 68 • ⏱️ 15:20 • 13h ago
-
----
-
-**[Why 2026 Will Shock Every Bitcoin Bear](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
-
-In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
-
-📺 Coinsider
-
-👁️ 7K • 👍 337 • 💬 63 • ⏱️ 10:06 • 1d ago
+👁️ 61K • 👍 3K • 💬 315 • ⏱️ 16:13 • 1d ago
 
 ---
 
@@ -383,17 +343,37 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 4K • 👍 570 • 💬 81 • ⏱️ 10:43 • 6h ago
+👁️ 7K • 👍 788 • 💬 168 • ⏱️ 10:43 • 7h ago
 
 ---
 
-**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
+**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
 
-Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
+While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 99K • 👍 6K • 💬 477 • ⏱️ 19:29 • 2d ago
+👁️ 28K • 👍 2K • 💬 148 • ⏱️ 25:57 • 23h ago
+
+---
+
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+
+📺 Vortex Bitcoin
+
+👁️ 1K • 👍 26 • 💬 8 • ⏱️ 0:49 • 8h ago
+
+---
+
+**[Why 2026 Will Shock Every Bitcoin Bear](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
+
+In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
+
+📺 Coinsider
+
+👁️ 7K • 👍 342 • 💬 63 • ⏱️ 10:06 • 1d ago
 
 ---
 
@@ -403,7 +383,27 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 51K • 👍 3K • 💬 268 • ⏱️ 17:35 • 1d ago
+👁️ 51K • 👍 3K • 💬 259 • ⏱️ 17:35 • 1d ago
+
+---
+
+**[Watch Out Bitcoin Holders...](https://www.youtube.com/watch?v=yp01SfJ7DhM)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 91 • ⏱️ 5:09 • 21h ago
+
+---
+
+**[You’re Reading Bitcoin’s Price Wrong (Here’s Why)](https://www.youtube.com/watch?v=8DtGkJ0xYJI)**
+
+Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream using elite strategies that unlock Bitcoin's true ...
+
+📺 Mark Moss
+
+👁️ 29K • 👍 2K • 💬 134 • ⏱️ 13:19 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T22:46:05.927379+00:00'
+updated: '2026-01-09T23:21:35.365701+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 22:46 UTC  
+**Last Updated:** January 09, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.52B
+**Market Cap:** $372.35B
 Rank #2
 
 **Circulating Supply:** 120,694,747 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.8%
+-37.7%
 
 **All-Time Low:** $0.43
-+710403.3%
++711992.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-17h ago
+18h ago
 
 ---
 
@@ -112,7 +112,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
 
-13h ago
+14h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 1d ago
 
 Will crypto assets defend their key short-term support levels?
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ AMBCrypto • 17h ago
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -236,17 +236,7 @@ CCN.com • 3d ago
 
 📺 Stock Moe
 
-👁️ 11K • 👍 729 • 💬 74 • ⏱️ 12:30 • 9h ago
-
----
-
-**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
-
-Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
-
-📺 Discover Crypto
-
-👁️ 4K • 👍 200 • 💬 52 • ⏱️ 4:20 • 22h ago
+👁️ 12K • 👍 781 • 💬 76 • ⏱️ 12:30 • 9h ago
 
 ---
 
@@ -256,7 +246,17 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 4K • 👍 216 • 💬 38 • ⏱️ 52:02 • 11h ago
+👁️ 5K • 👍 233 • 💬 39 • ⏱️ 52:02 • 11h ago
+
+---
+
+**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
+
+Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
+
+📺 Discover Crypto
+
+👁️ 5K • 👍 206 • 💬 65 • ⏱️ 4:20 • 23h ago
 
 ---
 
@@ -266,27 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 876 • 👍 81 • 💬 7 • ⏱️ 5:13 • 5h ago
-
----
-
-**[This Signal Could Drop Ethereum Below $2000](https://www.youtube.com/watch?v=oXSsK9-6W3c)**
-
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 72 • 👍 5 • 💬 2 • ⏱️ 5:53 • 2h ago
-
----
-
-**[Why You Never Need More Than 10 Ethereum](https://www.youtube.com/watch?v=wEjl1EnSmYI)**
-
-Tom Lee's wild ETH price prediction, ETH upgrades, and ETH charts. PHEMEX (available everywhere) $1000 DEPOSIT ...
-
-📺 Lark Davis
-
-👁️ 16K • 👍 641 • 💬 74 • ⏱️ 12:17 • 2d ago
+👁️ 1K • 👍 96 • 💬 8 • ⏱️ 5:13 • 6h ago
 
 ---
 
@@ -296,7 +276,27 @@ In this episode of The Milk Road Show, we're joined by Eliezer Ndinga, Global He
 
 📺 Milk Road
 
-👁️ 115 • 👍 11 • 💬 23 • ⏱️ 34:39 • 3h ago
+👁️ 302 • 👍 20 • 💬 17 • ⏱️ 34:39 • 3h ago
+
+---
+
+**[This Signal Could Drop Ethereum Below $2000](https://www.youtube.com/watch?v=oXSsK9-6W3c)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 166 • 👍 8 • 💬 3 • ⏱️ 5:53 • 3h ago
+
+---
+
+**[FUD &amp; FOMO: Bitcoin, Zcash &amp; ETH on the Brink After NFP Numbers!](https://www.youtube.com/watch?v=m_BxqDIBoQ0)**
+
+Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-to crypto livestream breaking down the latest in ...
+
+📺 Coin Bureau
+
+👁️ 10K • 👍 586 • 💬 31 • ⏱️ 46:21 • 18h ago
 
 ---
 
@@ -306,27 +306,27 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 154 • 💬 60 • ⏱️ 11:47 • 1d ago
+👁️ 3K • 👍 156 • 💬 60 • ⏱️ 11:47 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=mM-aiXJDmdk)**
+**[Why Is Crypto Revenue Down? Solana &amp; Ethereum Analysis](https://www.youtube.com/watch?v=JS6NFZlxgrE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+MAIN YOUTUBE CHANNEL: https://www.youtube.com/investanswers JOIN THE FAMILY: ...
 
-📺 More Crypto Online
+📺 InvestAnswers Clips
 
-👁️ 2K • 👍 146 • 💬 11 • ⏱️ 8:41 • 23h ago
+👁️ 182 • 👍 23 • 💬 48 • ⏱️ 4:03 • 7h ago
 
 ---
 
-**[ETH Ethereum $4K Prices INCOMING](https://www.youtube.com/watch?v=DzWB6-6WLkw)**
+**[ETH Is ABOUT TO EXPLODE And ALTCOINS ARE NEXT!!](https://www.youtube.com/watch?v=R9fwVe0163s)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+The crypto market has been rallying over the last few days, and this has everyone wondering which cryptos have the most ...
 
-📺 C-Zar Gets Crypto 
+📺 Coin Bureau Trading
 
-👁️ 738 • 👍 48 • 💬 36 • ⏱️ 9:03 • 23h ago
+👁️ 12K • 👍 737 • 💬 59 • ⏱️ 10:20 • 2d ago
 
 ---
 
