@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T21:21:42.416318+00:00'
+updated: '2026-01-09T21:42:41.374499+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 21:21 UTC  
+**Last Updated:** January 09, 2026 at 21:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -46,19 +46,19 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 ---
 
-**[Rodney Brooks on why “pick it up and move it” matters more than humanoid hype](https://www.reddit.com/r/robotics/comments/1q8cjty/rodney_brooks_on_why_pick_it_up_and_move_it/)**
-
-Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
-
-5h ago
-
----
-
 **[I made world simplest quadruped Robot](https://www.reddit.com/r/robotics/comments/1q8dqhe/i_made_world_simplest_quadruped_robot/)**
 
 I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
 4h ago
+
+---
+
+**[Rodney Brooks on why “pick it up and move it” matters more than humanoid hype](https://www.reddit.com/r/robotics/comments/1q8cjty/rodney_brooks_on_why_pick_it_up_and_move_it/)**
+
+Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
+
+5h ago
 
 ---
 
@@ -74,6 +74,12 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 ---
 
+**[Dueling Pianos with Humanoids @ CES](https://www.reddit.com/r/robotics/comments/1q8gpa5/dueling_pianos_with_humanoids_ces/)**
+
+2h ago
+
+---
+
 **[Hyundai’s Atlas humanoid wins Best Robot award at CES 2026](https://www.reddit.com/r/robotics/comments/1q81pmo/hyundais_atlas_humanoid_wins_best_robot_award_at/)**
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
@@ -82,17 +88,11 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 ---
 
-**[Dueling Pianos with Humanoids @ CES](https://www.reddit.com/r/robotics/comments/1q8gpa5/dueling_pianos_with_humanoids_ces/)**
-
-2h ago
-
----
-
 **[Introducing a Free Python Skill Library for Agentic Robotics](https://www.reddit.com/r/robotics/comments/1q8d0zx/introducing_a_free_python_skill_library_for/)**
 
 Robotics software is messy. Different perception, planning, and control libraries rarely talk to each other, making experiments and real deployments painfully slow. Telekinesis AI is exploring a different path: reusable “Skills” for perception, motion, control, and logic, combined with AI agents that can sequence and adapt them in real time. Instead of rewriting glue code, you can focus on building complex behaviors and testing new ideas safely. Curious about the problem this is designed to solve? Check out the deep dive Medium article. Want to see the building blocks in action? The Skill Library is ready to explore. All links are in the comments — read about the problem first, then dive into the library and see what you can build.
 
-4h ago
+5h ago
 
 ---
 
@@ -100,7 +100,7 @@ Robotics software is messy. Different perception, planning, and control librarie
 
 ROS News for the Week of January 5th, 2026 🎉     TARS ROS 2: A recreation of the robot TARS from Interstellar, featuring AI capabilities..      Our brilliant colleague @youtalk just released his Conduit iOS app which transforms your Apple devices into ROS 2 sensor publishers so you can have access to its fantastic cameras and ToF sensor.. I smell a lot of phone-based ROS 2 robots in our future.       Comau has introduced their new MyCo line of cobot products with ROS 2 support out of the bo...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-5th-2026/51728) • 57m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-january-5th-2026/51728) • 1h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Wall Street Journal • 2d ago
 
 **[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
 
-Reuters • 2d ago
+Reuters • 3d ago
 
 ---
 

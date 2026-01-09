@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T21:21:42.406936+00:00'
+updated: '2026-01-09T21:42:41.365277+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 21:21 UTC  
+**Last Updated:** January 09, 2026 at 21:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,423.24
+### $90,434.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -0.2%  
-**30d:** -2.2%  
-**90d:** -21.5%  
-**1y:** -4.4%  
+**24h:** -0.6%  
+**7d:** -0.1%  
+**30d:** -2.1%  
+**90d:** -21.4%  
+**1y:** -4.3%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,14 +113,6 @@ Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growi
 
 ---
 
-**[Bitcoin BDSM](https://www.reddit.com/r/Bitcoin/comments/1q8bg3y/bitcoin_bdsm/)**
-
-I am tired boss
-
-5h ago
-
----
-
 **[You're Welcome](https://www.reddit.com/r/Bitcoin/comments/1q8f8ey/youre_welcome/)**
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
@@ -129,9 +121,17 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 ---
 
-**[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
+**[Bitcoin BDSM](https://www.reddit.com/r/Bitcoin/comments/1q8bg3y/bitcoin_bdsm/)**
 
-17h ago
+I am tired boss
+
+6h ago
+
+---
+
+**[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
+
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Anything I should know about?
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -335,7 +335,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 240 • ⏱️ 11:14 • 19h ago
+👁️ 43K • 👍 2K • 💬 240 • ⏱️ 11:14 • 20h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin, Trump, SOL, ETH, Tesla, stocks, and altcoin trade updates! BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 16K • 👍 916 • 💬 68 • ⏱️ 15:20 • 11h ago
+👁️ 16K • 👍 916 • 💬 68 • ⏱️ 15:20 • 12h ago
 
 ---
 

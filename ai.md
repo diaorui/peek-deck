@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T21:21:42.398331+00:00'
+updated: '2026-01-09T21:42:41.356767+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 21:21 UTC  
+**Last Updated:** January 09, 2026 at 21:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Why Yann LeCun left Meta for World Models](https://www.reddit.com/r/artificial/comments/1q7ugtz/why_yann_lecun_left_meta_for_world_models/)**
-
-As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
-
-19h ago
-
----
-
 **[Musk lawsuit over OpenAI for-profit conversion can go to trial, US judge says](https://www.reddit.com/r/artificial/comments/1q82r2v/musk_lawsuit_over_openai_forprofit_conversion_can/)**
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
@@ -53,11 +45,19 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 ---
 
-**[Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs](https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/)**
+**[Why Yann LeCun left Meta for World Models](https://www.reddit.com/r/artificial/comments/1q7ugtz/why_yann_lecun_left_meta_for_world_models/)**
 
-I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
+As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-6h ago
+20h ago
+
+---
+
+**[The Attogram Miracle](https://www.reddit.com/r/artificial/comments/1q8kzby/the_attogram_miracle/)**
+
+I did a thought experiment with my AI of choice and I'm absolutely flabbergasted! I always have been fascinated by what can be done with AI so today I sat down and made up a thought experiment about popcorn (because I literally was eating popcorn) and this is how ot went: Imagine that since the dawn of humanity (about 5 million years ago), every hominid, Neanderthal, and human had access to a microwave. Every single day, everyone pops exactly one bag of popcorn (50 kernels). To make it a pure physics experiment, we eliminate all "noise": No dust, no skin flakes, identical humidity everywhere, and we let the popcorn cool for 24 hours so all steam has evaporated. We are looking for two bowls of popcorn that weigh exactly the same. We calculated that throughout history, there would have been roughly 2 quintillion (2 * 10{18}) bags of popcorn made. If we measure in Micrograms (10{-6}g): There would be billions of identical pairs. If we measure in Nanograms (10{-9}g): Still millions of perfect matches. The "Attogram Miracle": I pushed the experiment to the limit: The Attogram (10{-18}g). An attogram is so small that it’s roughly the mass of just 50 carbon atoms. At this level, the number of possible weight increments (2 grams divided by 1 attogram) is exactly 2 quintillion. According to the "Birthday Paradox" in statistics, since the number of bags made (2 * 10{18}) matches the number of possible weight steps (2 * 10{18}), the probability hits a tipping point. Statistically, it is highly likely that exactly ONCE in human history, two bowls of popcorn were physically identical at the attogram level. One might have been popped by a caveman 3 million years ago, and the other by a college student in 2024. They would be "weight-twins" down to a scale finer than anything we can measure today—a perfect symmetry across time, separated only by the mass of a few atoms. TL;DR: If humans had been popping popcorn since we were apes, we would have produced enough bags to guarantee a 1-in-a-quintillion "Attogram Miracle"—two bowls weighing exactly the same down to the mass of 50 atoms.
+
+10m ago
 
 ---
 
@@ -74,6 +74,14 @@ It comes after government urged Ofcom to use all its powers – up to and includ
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
 8h ago
+
+---
+
+**[Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs](https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/)**
+
+I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
+
+6h ago
 
 ---
 
@@ -104,14 +112,6 @@ The Linux kernel developers for months now have been debating proposed guideline
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
 🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 1d ago
-
----
-
-**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
-
-Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
-
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1d ago
 
 ---
 
@@ -167,7 +167,7 @@ MS NOW • 1h ago
 
 The promise of AI was front and center at this year's CES gadget show. But spicing up a simple machine like a refrigerator with unnecessary AI was also a surefire way to win the “Worst in Show.”
 
-KSLTV.com • 3h ago
+KSLTV.com • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ CNBC • 8h ago
 
 **[Brew, Smell, And Serve: AI Steals The Show At CES 2026](https://www.barrons.com/articles/brew-smell-and-serve-ai-steals-the-show-at-ces-2026-f0fe5675?gaa_at=eafs&gaa_n=AWEtsqfFuEIdfHexDCyIWpeZIAdootXut-yF_EEG6oxkQlDjSIRLRBZBtxEi&gaa_ts=69616cd0&gaa_sig=kFauZ7LvlaRmuZ7-veu5yjwG4UYQgVocQqGKMnL4G709t68qK8BDrX5lqWg2q1AkOT4KznmAWLN3xMFvlSKmUg%3D%3D)**
 
-Barron's • 41m ago
+Barron's • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Barron's • 41m ago
 
 While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
 
-NPR • 21h ago
+NPR • 22h ago
 
 ---
 
@@ -199,7 +199,7 @@ NPR • 21h ago
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 737 • 💬 278 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 742 • 💬 281 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -207,7 +207,7 @@ NPR • 21h ago
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 538 • 💬 376 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 539 • 💬 380 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -215,7 +215,7 @@ NPR • 21h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 426 • 💬 670 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 429 • 💬 684 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -223,7 +223,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 256 • 💬 117 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 257 • 💬 117 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -251,19 +251,11 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 ---
 
-**[Comparing AI agents to cybersecurity professionals in real-world pen testing](https://news.ycombinator.com/item?id=46518996)**
-
-We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
-
-⬆️ 125 • 💬 91 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
-
----
-
 **[Grok turns off image generator for most after outcry over sexualised AI imagery](https://news.ycombinator.com/item?id=46551238)**
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 70 • 💬 87 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 72 • 💬 89 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -272,6 +264,14 @@ X to limit editing function to paying subscribers after platform threatened with
 Since 2023, every model at the frontier of AI capabilities, as measured by the Epoch Capabilities Index, has been developed in the United States. Over that same period, Chinese models have trailed US capabilities by an average of seven months, with a minimum gap of four months and a maximum gap of 14.
 
 ⬆️ 58 • 💬 87 • 1d ago • [Epoch AI](https://epoch.ai/data-insights/us-vs-china-eci)
+
+---
+
+**[Nvidia Kicks Off the Next Generation of AI with Rubin](https://news.ycombinator.com/item?id=46544016)**
+
+NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer.
+
+⬆️ 55 • 💬 44 • 1d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
 
 ---
 
@@ -295,7 +295,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 50 • ⏱️ 17:54 • 20h ago
+👁️ 61K • 👍 1K • 💬 50 • ⏱️ 17:54 • 21h ago
 
 ---
 
@@ -365,7 +365,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 102 • 💬 7 • ⏱️ 9:21 • 10h ago
+👁️ 2K • 👍 102 • 💬 7 • ⏱️ 9:21 • 11h ago
 
 ---
 
@@ -375,7 +375,7 @@ Elon Musk's platform X has limited Grok Artificial Intelligence (AI) image edits
 
 📺 BBC News
 
-👁️ 8K • 👍 246 • 💬 123 • ⏱️ 3:03 • 4h ago
+👁️ 8K • 👍 246 • 💬 123 • ⏱️ 3:03 • 5h ago
 
 ---
 
@@ -705,7 +705,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 103 • 6h ago
+⭐ 1.2k • 🔱 103 • 7h ago
 
 ---
 

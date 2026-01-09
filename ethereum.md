@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T21:21:42.413016+00:00'
+updated: '2026-01-09T21:42:41.371287+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 21:21 UTC  
+**Last Updated:** January 09, 2026 at 21:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -1.2%  
-**30d:** -4.4%  
-**90d:** -25.6%  
-**1y:** -5.4%  
+**24h:** -1.4%  
+**7d:** -1.7%  
+**30d:** -4.9%  
+**90d:** -26.0%  
+**1y:** -5.9%  
 
 ---
 
@@ -112,7 +112,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw
 
-3h ago
+4h ago
 
 ---
 
@@ -134,7 +134,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Block • 2d ago
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ The Motley Fool • 12h ago
 
 📺 Stock Moe
 
-👁️ 11K • 👍 729 • 💬 74 • ⏱️ 12:30 • 7h ago
+👁️ 11K • 👍 729 • 💬 74 • ⏱️ 12:30 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 4K • 👍 216 • 💬 38 • ⏱️ 52:02 • 9h ago
+👁️ 4K • 👍 216 • 💬 38 • ⏱️ 52:02 • 10h ago
 
 ---
 
