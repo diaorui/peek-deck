@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T19:20:46.865525+00:00'
+updated: '2026-01-09T19:41:26.793168+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 19:20 UTC  
+**Last Updated:** January 09, 2026 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-17h ago
+18h ago
 
 ---
 
@@ -121,15 +121,15 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 5h ago
+The New York Times • 2h ago
 
 ---
 
-**[Elon Musk's X limits some sexual deepfakes after backlash, but xAI's Grok still makes them](https://www.nbcnews.com/tech/internet/x-paywall-ai-image-grok-app-bikini-allows-sexual-deepfakes-rcna252647)**
+**[Watch: Backlash against Musk's Grok AI explained](https://www.bbc.com/news/videos/c8x94zr8yxvo)**
 
-Musk was facing mounting pressure from regulators, lawmakers and some users.
+Technology editor Zoe Kleinman explains the row over changes made by X to it's Grok AI image edits, after the UK government called it "insulting".
 
-NBC News • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ NBC News • 1h ago
 
 Spokesperson says limiting access to paying subscribers just makes ability to generate unlawful images a premium service
 
-The Guardian • 1d ago
+The Guardian • 6h ago
 
 ---
 
@@ -149,41 +149,23 @@ NBC News • 9h ago
 
 ---
 
-**[‘Clock Is Ticking’ For Creators On AI Content Copyright Claims, Warn Experts](https://www.forbes.com/sites/robsalkowitz/2026/01/09/clock-is-ticking-for-creators-on-ai-content-copyright-claims-warn-experts/)**
+**[SAG-AFTRA’s Likely Strategy: Make AI Performers as Expensive as Humans](https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiator-ai-strategy-make-it-expensive-1236468436/)**
 
-Forbes • 1h ago
+Chief negotiator Duncan Crabtree-Ireland's remarks came just a month before the union enters its latest round of negotiations with studios and streamers on Feb. 9.
 
----
-
-**[10 CES 2026 showstopping innovations featured in AI Newsletter](https://www.foxnews.com/tech/ai-newsletter-10-ces-showstopping-innovations)**
-
-The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.
-
-Fox News • 3h ago
+The Hollywood Reporter • 44m ago
 
 ---
 
-**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+**[Washington state looks to protect kids from AI chatbot risks](https://www.axios.com/local/seattle/2026/01/09/washington-ai-regulation-chatbots-kids-deepfakes)**
 
-Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
-
-CNBC • 6h ago
+Axios • 48m ago
 
 ---
 
-**[Agencies woo clients with AI tools, but implementation hurdles remain—plus other marketing trends from CES](https://adage.com/events-awards/ces/aa-2026-ai-agencies-marketing-trends/)**
+**[IBM, UAlbany AI collaboration fueling research on campus](https://www.timesunion.com/business/article/ibm-ualbany-ai-collaboration-fueling-research-21281211.php)**
 
-Agentic AI, commerce media networks and sports marketing were among the topics that dominated at CES 2026.
-
-Ad Age • 1h ago
-
----
-
-**[Emmys Address AI in Slate of New Rule Changes for 2026 Awards](https://www.thewrap.com/industry-news/awards/emmys-rule-changes-2026-tv-academy-ai/)**
-
-Artificial intelligence was among the subjects addressed by the Television Academy in a slate of rule changes for the 78th annual Emmy Awards
-
-TheWrap • 1h ago
+Times Union • 21m ago
 
 ---
 
@@ -191,7 +173,23 @@ TheWrap • 1h ago
 
 While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
 
-NPR • 19h ago
+NPR • 20h ago
+
+---
+
+**[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
+
+Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
+
+BBC • 9h ago
+
+---
+
+**['No one verified the evidence': Woman says AI-generated deepfake text sent her to jail | Action News Investigation](https://6abc.com/post/no-verified-evidence-woman-says-ai-generated-deepfake-text-sent-jail-action-news-investigation/18373467/)**
+
+Melissa Sims said her nightmare began after she called police during an argument with her boyfriend, when she said he allegedly ransacked her home.
+
+6abc Philadelphia • 14h ago
 
 ---
 
@@ -287,7 +285,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 56K • 👍 1K • 💬 48 • ⏱️ 17:54 • 18h ago
+👁️ 56K • 👍 1K • 💬 48 • ⏱️ 17:54 • 19h ago
 
 ---
 
@@ -317,7 +315,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses htt
 
 📺 Julian Goldie SEO
 
-👁️ 1K • 👍 91 • 💬 6 • ⏱️ 9:21 • 8h ago
+👁️ 1K • 👍 91 • 💬 6 • ⏱️ 9:21 • 9h ago
 
 ---
 
@@ -337,7 +335,7 @@ Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The wo
 
 📺 Ishan Sharma
 
-👁️ 5K • 👍 582 • 💬 37 • ⏱️ 10:52 • 5h ago
+👁️ 5K • 👍 582 • 💬 37 • ⏱️ 10:52 • 6h ago
 
 ---
 
@@ -367,7 +365,7 @@ Elon Musk's platform X has limited Grok Artificial Intelligence (AI) image edits
 
 📺 BBC News
 
-👁️ 4K • 👍 202 • 💬 86 • ⏱️ 3:03 • 2h ago
+👁️ 4K • 👍 202 • 💬 86 • ⏱️ 3:03 • 3h ago
 
 ---
 
@@ -707,7 +705,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 102 • 4h ago
+⭐ 1.2k • 🔱 102 • 5h ago
 
 ---
 

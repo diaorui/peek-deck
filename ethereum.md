@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T19:20:46.880110+00:00'
+updated: '2026-01-09T19:41:26.807719+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 19:20 UTC  
+**Last Updated:** January 09, 2026 at 19:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -112,7 +112,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw
 
-1h ago
+2h ago
 
 ---
 
@@ -134,7 +134,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -150,11 +150,11 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 ## Google News: "ethereum"
 
-**[Ethereum treasury firm SharpLink stakes $170M ETH on Linea network](https://www.coindesk.com/markets/2026/01/09/ethereum-treasury-firm-sharplink-stakes-usd170m-eth-on-linea-network)**
+**[Ethereum (ETH) treasury news: SharpLink stakes $170 million ether on Linea](https://www.coindesk.com/markets/2026/01/09/ethereum-treasury-firm-sharplink-stakes-usd170m-eth-on-linea-network)**
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -174,6 +174,12 @@ Decrypt • 21h ago
 
 ---
 
+**[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
+
+The Block • 2d ago
+
+---
+
 **[Why are Bitcoin, Ethereum, and XRP’s prices down? ETF flows, Fed rates, and more…](https://ambcrypto.com/why-are-bitcoin-ethereum-and-xrps-prices-down-etf-flows-fed-rates-and-more/)**
 
 Will crypto assets defend their key short-term support levels?
@@ -182,11 +188,17 @@ AMBCrypto • 14h ago
 
 ---
 
+**[Key facts: Morgan Stanley launches Ethereum Trust; Coinbase Premium Gap drops; Ethereum hits 58,786 TPS](https://www.tradingview.com/news/tradingview:78e73e7f8c21c:0-key-facts-morgan-stanley-launches-ethereum-trust-coinbase-premium-gap-drops-ethereum-hits-58-786-tps/)**
+
+TradingView — Track All Markets • 19h ago
+
+---
+
 **[Ethereum Founder Vitalik Buterin Backs Convicted Dev, Calls Privacy 'Essential Protection'](https://finance.yahoo.com/news/ethereum-founder-vitalik-buterin-backs-163137978.html)**
 
 Ethereum co-founder Vitalik Buterin publicly backed convicted Tornado Cash developer Roman Storm, calling privacy tools a human right.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -214,20 +226,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
-
-The Block • 2d ago
-
----
-
-**[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
-
-Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
-
-The Motley Fool • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -248,7 +246,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 8K • 👍 642 • 💬 72 • ⏱️ 12:30 • 5h ago
+👁️ 8K • 👍 642 • 💬 72 • ⏱️ 12:30 • 6h ago
 
 ---
 
@@ -258,7 +256,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 3K • 👍 191 • 💬 35 • ⏱️ 52:02 • 7h ago
+👁️ 3K • 👍 191 • 💬 35 • ⏱️ 52:02 • 8h ago
 
 ---
 
@@ -298,7 +296,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 167 • 👍 38 • 💬 51 • ⏱️ 12:13 • 1h ago
+👁️ 167 • 👍 38 • 💬 51 • ⏱️ 12:13 • 2h ago
 
 ---
 

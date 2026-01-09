@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T19:20:46.874052+00:00'
+updated: '2026-01-09T19:41:26.801539+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 19:20 UTC  
+**Last Updated:** January 09, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Rank #1
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,7 @@ Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growi
 
 I am tired boss
 
-3h ago
+4h ago
 
 ---
 
@@ -155,7 +155,7 @@ Anything I should know about?
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -183,6 +183,14 @@ VanEck • 1d ago
 
 ---
 
+**[Bitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters](https://bitcoinmagazine.com/markets/bitcoin-price-holds-90000-tariff-delay)**
+
+The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
+
+Bitcoin Magazine • 32m ago
+
+---
+
 **[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
 
 If true, the claim could significantly reshape the global bitcoin market.
@@ -204,14 +212,6 @@ Fortune • 1h ago
 Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
 
 CNBC • 2d ago
-
----
-
-**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
-
-Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
-
-CNBC • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 235 • ⏱️ 11:14 • 17h ago
+👁️ 40K • 👍 2K • 💬 235 • ⏱️ 11:14 • 18h ago
 
 ---
 
@@ -345,7 +345,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 56K • 👍 2K • 💬 307 • ⏱️ 16:13 • 22h ago
+👁️ 56K • 👍 2K • 💬 307 • ⏱️ 16:13 • 23h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin, Trump, SOL, ETH, Tesla, stocks, and altcoin trade updates! BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 14K • 👍 846 • 💬 60 • ⏱️ 15:20 • 9h ago
+👁️ 14K • 👍 846 • 💬 60 • ⏱️ 15:20 • 10h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T19:20:46.883366+00:00'
+updated: '2026-01-09T19:41:26.810978+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 19:20 UTC  
+**Last Updated:** January 09, 2026 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 A Hopeful Case for Returning to Prototype-Style Actuators at Boston Dynamics Boston Dynamics has long stood at the frontier of robotics, shaping how the world imagines machines that move, balance, and interact with physical reality. Every new reveal—especially of humanoid robots—sparks excitement not just because of what the robot can do, but how it does it. Looking at recent designs, one can’t help but hope that Boston Dynamics will reconsider a return to the prototype-style actuators that once defined the company’s most iconic machines. Early prototypes from Boston Dynamics were unapologetically mechanical. Their exposed or semi-exposed actuators conveyed strength, precision, and honesty of function. You could see how force traveled through the robot’s limbs. These actuators didn’t just perform—they told a story of engineering confidence, where form followed function without excessive cosmetic smoothing. The newer, more refined designs clearly aim for integration, protection, and manufacturability. These goals matter, especially as robots move from labs to real-world deployment. Yet, in the process, something subtly powerful risks being lost: the modular clarity and performance-forward philosophy embodied in the prototype-style actuators. Prototype-style actuators offer several compelling advantages: 1. Performance Transparency Engineers, researchers, and even the public gain a clearer understanding of motion, load paths, and dynamic behavior when actuators are visually and structurally legible. This transparency fosters trust and accelerates iteration. 2. Modularity and Repairability Prototypes often emphasize modular actuator units that can be swapped, upgraded, or tuned independently. This is invaluable not only for R&D but also for long-term field maintenance and rapid innovation. 3. Aesthetic Honesty There is a unique beauty in machines that look powerful because they are powerful. The prototype actuator style communicates capability, not concealment. It reinforces Boston Dynamics’ identity as an engineering-first company. 4. Innovation Signaling Boston Dynamics has never been about playing it safe. Retaining or evolving prototype-style actuators would signal that the company continues to prioritize groundbreaking mechanical solutions over purely polished appearances. This is not an argument against progress, safety, or refinement. Rather, it is a hopeful suggestion: that the future designs might blend the robustness and clarity of prototype actuators with the reliability and protection required for deployment. A hybrid approach—where advanced actuators remain visually and structurally expressive—could set a new standard for humanoid robotics. Boston Dynamics has always inspired the world by showing what is possible. By revisiting the spirit of its prototype-style actuators, it has an opportunity to inspire once again—not just with motion, but with mechanical philosophy.
 
-10m ago
+30m ago
 
 ---
 
@@ -94,7 +94,7 @@ A Hopeful Case for Returning to Prototype-Style Actuators at Boston Dynamics Bos
 
 Robotics software is messy. Different perception, planning, and control libraries rarely talk to each other, making experiments and real deployments painfully slow. Telekinesis AI is exploring a different path: reusable “Skills” for perception, motion, control, and logic, combined with AI agents that can sequence and adapt them in real time. Instead of rewriting glue code, you can focus on building complex behaviors and testing new ideas safely. Curious about the problem this is designed to solve? Check out the deep dive Medium article. Want to see the building blocks in action? The Skill Library is ready to explore. All links are in the comments — read about the problem first, then dive into the library and see what you can build.
 
-2h ago
+3h ago
 
 ---
 
@@ -130,11 +130,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Arm Stock In Spotlight -- A New Push Into Robotics Is Driving the Move](https://finance.yahoo.com/news/arm-stock-spotlight-push-robotics-165453695.html)**
+**[AI chip unicorn Hailo to lay off nearly 10% of staff as it refocuses on robotics and Physical AI](https://www.calcalistech.com/ctechnews/article/hyzk11etvwx)**
 
-Arm's Stock Is Moving After a Strategic Shake-Up
+Cuts come as the $344 million-funded startup prepares a new, significant fundraising round.
 
-Yahoo Finance • 1d ago
+CTech • 1d ago
 
 ---
 
@@ -154,20 +154,6 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
-
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
-
-NVIDIA Developer • 1d ago
-
----
-
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcgx0kov70D0xnRQcFmgJZRmzqvBO70HpFToD81A_cpoALp6X6L6_6s&gaa_ts=69614dbb&gaa_sig=WCQreQVrq5sNYiqu0K_6cGXzQ_pbi5Ccdp_qgBIZRg5Iz_Drk8xVYWzcT4Ioj6BtxqWD6IJ902by7rIIuhrrHg%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
 **[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
 
 Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
@@ -176,9 +162,25 @@ The Times of Israel • 2d ago
 
 ---
 
-**[Mobileye to acquire humanoid robotics startup Mentee for $900 million](https://www.reuters.com/world/asia-pacific/mobileye-acquire-humanoid-robotics-startup-mentee-900-million-2026-01-06/)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcnY1N0SFSz3OeRPaoeusTSDYbTTGm-g7JUVR6Pcb4cBsstUjg2vgVw&gaa_ts=69615d53&gaa_sig=v2fKaT0M5LlrC8A3-s_HCMQJmKLD9zEGkGLehrgBKXYNlgUBu41CZxg-iawAcre267YkLGrW0G2QliW600Ta7Q%3D%3D)**
 
-Reuters • 2d ago
+The Wall Street Journal • 2d ago
+
+---
+
+**[Mobileye's Mentee Robotics acquisition seen by analysts as broadening scope of company](https://seekingalpha.com/news/4537376-mobileyes-mentee-robotics-acquisition-seen-by-analysts-as-broadening-scope-of-company)**
+
+Mobileye's (MBLY) plans to acquire humanoid robotics startup Mentee Robotics draw largely positive reactions from analysts.
+
+Seeking Alpha • 2d ago
+
+---
+
+**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+
+Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+
+NVIDIA Developer • 1d ago
 
 ---
 
@@ -222,7 +224,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 23K • 👍 295 • 💬 15 • ⏱️ 7:38 • 4d ago
+👁️ 23K • 👍 295 • 💬 15 • ⏱️ 7:38 • 5d ago
 
 ---
 
