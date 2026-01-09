@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T16:57:37.099030+00:00'
+updated: '2026-01-09T17:28:07.820446+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - repositories
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 16:57 UTC  
+**Last Updated:** January 09, 2026 at 17:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-15h ago
+16h ago
 
 ---
 
@@ -49,7 +49,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 8h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 Elon Musk’s Grok chatbot has limited some aspects of its Imagine image generation features to paid subscribers on X, days after international uproar over the AI tool “digitally undressing” people, including children, upon user requests on X.
 
-🔗 [CNN](https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 32m ago
+🔗 [CNN](https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ It comes after government urged Ofcom to use all its powers – up to and includ
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ I ask an AI to create a drawing with the same description as the one that would 
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 2h ago
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 1h ago
 
 Britain's leader says all options on the table if Musk's X platform doesn't stop Grok AI tool being used to generate non-consensual sexualized images.
 
-CBS News • 39m ago
+CBS News • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ CBS News • 39m ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 6h ago
+NBC News • 7h ago
 
 ---
 
@@ -155,13 +155,13 @@ NBC News • 6h ago
 
 The shortage of primary care doctors is a national problem. To cope, a large health system in Massachusetts is using an AI tool to screen patients and refer them to other care.
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 
 **[Introducing OpenAI for Healthcare](https://openai.com/index/openai-for-healthcare/)**
 
-OpenAI • 20h ago
+OpenAI • 21h ago
 
 ---
 
@@ -169,13 +169,13 @@ OpenAI • 20h ago
 
 A physician AI expert walks through the correct ways for hospitals and health systems to handle artificial intelligence and where responsible AI can make the biggest near-term impact without creating new burdens.
 
-Healthcare IT News • 13m ago
+Healthcare IT News • 44m ago
 
 ---
 
 **[17 Years After Its Founding, Kickstarter Is Seeing an AI-Fueled ‘Explosion’](https://www.inc.com/chris-morris/17-years-after-its-founding-kickstarter-is-seeing-an-ai-fueled-explosion/91286437)**
 
-inc.com • 23m ago
+inc.com • 54m ago
 
 ---
 
@@ -183,7 +183,7 @@ inc.com • 23m ago
 
 The AI investment realm is full of great opportunities in 2026.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Motley Fool • 6h ago
 
 Key PointsNebius and Applied Digital are both data center plays.
 
-Nasdaq • 6h ago
+Nasdaq • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 720 • 💬 269 • 21h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 720 • 💬 269 • 22h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -233,7 +233,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 255 • 💬 116 • 22h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 255 • 💬 116 • 23h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -475,7 +475,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 3,149 • ❤️ 214 • 1d ago
+⬇️ 3,149 • ❤️ 214 • 2d ago
 
 ---
 
@@ -499,7 +499,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,644 • ❤️ 444 • 9h ago
+⬇️ 3,644 • ❤️ 444 • 10h ago
 
 ---
 
@@ -645,7 +645,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.3k • 🔱 878 • 28m ago
+⭐ 7.3k • 🔱 878 • 58m ago
 
 ---
 
@@ -665,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 32m ago
+⭐ 2.2k • 🔱 130 • 1h ago
 
 ---
 
@@ -705,7 +705,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 102 • 2h ago
+⭐ 1.2k • 🔱 102 • 3h ago
 
 ---
 

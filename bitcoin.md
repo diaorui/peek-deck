@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T16:57:37.107789+00:00'
+updated: '2026-01-09T17:28:07.829265+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 16:57 UTC  
+**Last Updated:** January 09, 2026 at 17:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ I am tired boss
 
 Anything I should know about?
 
-13h ago
+14h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 10h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -185,7 +185,7 @@ VanEck • 1d ago
 
 In bitcoin mining news this week, AI-focused miners like Riot and Cipher make hiring moves as Hut 8 waits for a 500 MW site approval.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 32m ago
 
 Bitcoin ETFs have seen over $1.1 billion leave the funds in the past three days, but the worst may be over, JPMorgan analysts say....
 
-Sherwood News • 55m ago
+Sherwood News • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ CoinDesk • 1d ago
 
 **[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -293,7 +293,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 5d ago
+⬆️ 2 • 💬 0 • 6d ago
 
 ---
 
@@ -325,7 +325,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 222 • ⏱️ 25:57 • 16h ago
+👁️ 25K • 👍 2K • 💬 222 • ⏱️ 25:57 • 17h ago
 
 ---
 
@@ -335,7 +335,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 224 • ⏱️ 11:14 • 15h ago
+👁️ 38K • 👍 2K • 💬 224 • ⏱️ 11:14 • 16h ago
 
 ---
 
@@ -365,7 +365,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 25K • 👍 1K • 💬 118 • ⏱️ 13:19 • 19h ago
+👁️ 25K • 👍 1K • 💬 118 • ⏱️ 13:19 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 7K • 👍 322 • 💬 68 • ⏱️ 10:06 • 22h ago
+👁️ 7K • 👍 322 • 💬 68 • ⏱️ 10:06 • 23h ago
 
 ---
 

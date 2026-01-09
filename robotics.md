@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T16:57:37.117331+00:00'
+updated: '2026-01-09T17:28:07.838789+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 16:57 UTC  
+**Last Updated:** January 09, 2026 at 17:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 **[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
 
-40m ago
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ We’re seeing the first humanoid pilots in factories, logistics hubs, and inspe
 
 Note: Text has been made with help of AI. Hi all, I hope this is the right place to ask something like this. I’m 26 and currently finishing an MSc in Biotechnology in the Netherlands. During my MSc I discovered, pretty late, that I do not enjoy wet-lab biology, but I do enjoy robotics, automation, and engineering. I’m seriously considering doing a second MSc in Mechanical Engineering (Robotics, Mechatronics & Smart Systems) at the University of Groningen. Because of how the Dutch education system works, I cannot finish my current MSc and then start another one without paying around €20k per year. To get normal tuition of about €2.5k per year I would have to postpone graduation, meaning this is a real three-year commitment including the pre-master. I’m trying to decide if this is a smart pivot or an expensive mistake. Long-term goal: Work in space robotics and automation, ideally at ESA, DLR or a space contractor Focus on autonomous systems for spacecraft, lab experiments, or rovers I am open to other sectors since space will be extremely competitive but should be similar such as autonomous defense robotics Background: BSc and MSc in Biotechnology MSc robotics/automation experience: 6-DOF robotic arm, object detection, path planning Machine vision and ML-based classification Software engineering in Java with Git Current internship in lab automation (Python, industrial robot control) Self-study: ROS2, C++, Linux, PyTorch, mobile robot project Passion: robotics and automation, even though degree is biotech Gaps in knowledge compared to traditional robotics engineers: Multibody dynamics Control theory Vibrations and stability System modeling Mechatronics and hardware-level engineering Options I’m considering: Option A – Skip second MSc: Work in robotics or automation in industry Self-study dynamics and control Try to pivot into space robotics later via PhD or industry Risks: may be filtered out from PhDs and ESA because of degree background Option B – Do second MSc in Mechanical Engineering at Groningen: Three-year commitment including pre-master Graduate at 28–29 with little money Gain formal Mechanical Engineering degree with Robotics & Mechatronics specialization Opens doors to PhDs, ESA, and other space robotics opportunities Questions for the community: Is doing a second MSc in Mechanical Engineering a smart pivot into robotics/space, or could strong industry experience plus self-study realistically get me there? Are there alternative routes that work for people switching late into space robotics? Thanks in advance for any advice or insights!
 
-4h ago
+5h ago
 
 ---
 

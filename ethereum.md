@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T16:57:37.114017+00:00'
+updated: '2026-01-09T17:28:07.835467+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 16:57 UTC  
+**Last Updated:** January 09, 2026 at 17:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-11h ago
+12h ago
 
 ---
 
@@ -126,7 +126,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -142,7 +142,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
 
-7h ago
+8h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 19h ago
 
 Will crypto assets defend their key short-term support levels?
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -186,7 +186,7 @@ AMBCrypto • 11h ago
 
 Ethereum Treasury Company BitMine ($BMNR) has added another 32,977 ETH at a value of around $105 million, in the first 8 days of 2026 alone. Now, the company’s total ETH exposure has pushed past $13.2 billion, out of which the company has staked ETH worth $2.62 billion, making it one ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Block • 2d ago
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -224,7 +224,7 @@ Bit Digital • 1d ago
 
 Ethereum has once again failed to hold above a critical resistance zone, retracing from the $3,300 level back toward the $3,100 area. The pullback highlights the market’s ongoing struggle to establish a sustainable recovery, as bullish momentum continues to fade near key technical thresholds. While…
 
-TradingView — Track All Markets • 20h ago
+TradingView — Track All Markets • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 188 • 💬 42 • ⏱️ 4:20 • 16h ago
+👁️ 4K • 👍 188 • 💬 42 • ⏱️ 4:20 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 11 • ⏱️ 8:41 • 17h ago
+👁️ 2K • 👍 144 • 💬 11 • ⏱️ 8:41 • 18h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN PRICE DUMP JUST FLIPPED (This is Next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 7K • 👍 302 • 💬 110 • ⏱️ 19:16 • 17h ago
+👁️ 7K • 👍 302 • 💬 110 • ⏱️ 19:16 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 689 • 👍 44 • 💬 38 • ⏱️ 9:03 • 17h ago
+👁️ 689 • 👍 44 • 💬 38 • ⏱️ 9:03 • 18h ago
 
 ---
 
