@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T12:48:15.579260+00:00'
+updated: '2026-01-09T13:38:32.321508+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 12:48 UTC  
+**Last Updated:** January 09, 2026 at 13:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,19 +93,19 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 **[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Tax it, or print it?](https://www.reddit.com/r/Bitcoin/comments/1q80fbk/tax_it_or_print_it/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 Anything I should know about?
 
-9h ago
+10h ago
 
 ---
 
@@ -127,19 +127,19 @@ BTC
 
 **[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -171,7 +171,7 @@ CCN.com • 1h ago
 
 Bitcoin could face heightened volatility if the Supreme Court rules against Trump on his global tariffs, impacting markets across crypto, equities, and bonds.
 
-Bitcoin Magazine • 20h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bitcoin Magazine • 20h ago
 
 A new Digital Asset Act will regulate stablecoins, requiring 100% reserve backing and user redemption rights.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 1h ago
 
 It's important to be realistic about what's actually predictable and what's not.
 
-The Motley Fool • 18m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 18m ago
 
 There's going to be a lot going on in 2026, but the crypto probably won't go to the moon.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
 
-VanEck • 20h ago
+VanEck • 21h ago
 
 ---
 
@@ -229,7 +229,7 @@ Investor's Business Daily • 2d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 13h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 14h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -259,7 +259,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -267,7 +267,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 3h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 4h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -295,7 +295,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
 
-⬆️ 2 • 💬 0 • 5d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
+⬆️ 2 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
 
 ---
 
@@ -309,7 +309,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 48K • 👍 2K • 💬 282 • ⏱️ 16:13 • 16h ago
+👁️ 48K • 👍 2K • 💬 282 • ⏱️ 16:13 • 17h ago
 
 ---
 
@@ -319,7 +319,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 5K • 👍 287 • 💬 44 • ⏱️ 10:06 • 18h ago
+👁️ 5K • 👍 287 • 💬 44 • ⏱️ 10:06 • 19h ago
 
 ---
 
@@ -329,7 +329,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 191 • ⏱️ 11:14 • 11h ago
+👁️ 30K • 👍 2K • 💬 191 • ⏱️ 11:14 • 12h ago
 
 ---
 
@@ -349,7 +349,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 21K • 👍 1K • 💬 131 • ⏱️ 13:19 • 15h ago
+👁️ 21K • 👍 1K • 💬 131 • ⏱️ 13:19 • 16h ago
 
 ---
 
@@ -379,7 +379,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 153 • ⏱️ 25:57 • 12h ago
+👁️ 21K • 👍 2K • 💬 153 • ⏱️ 25:57 • 13h ago
 
 ---
 
@@ -389,7 +389,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 72 • ⏱️ 5:09 • 11h ago
+👁️ 20K • 👍 1K • 💬 72 • ⏱️ 5:09 • 12h ago
 
 ---
 

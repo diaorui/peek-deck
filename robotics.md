@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T12:48:15.588536+00:00'
+updated: '2026-01-09T13:38:32.330721+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 12:48 UTC  
+**Last Updated:** January 09, 2026 at 13:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,25 +50,25 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-5h ago
+6h ago
 
 ---
 
 **[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
-3h ago
+4h ago
 
 ---
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-23h ago
+1d ago
 
 ---
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -76,7 +76,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 Note: Text has been made with help of AI. Hi all, I hope this is the right place to ask something like this. I’m 26 and currently finishing an MSc in Biotechnology in the Netherlands. During my MSc I discovered, pretty late, that I do not enjoy wet-lab biology, but I do enjoy robotics, automation, and engineering. I’m seriously considering doing a second MSc in Mechanical Engineering (Robotics, Mechatronics & Smart Systems) at the University of Groningen. Because of how the Dutch education system works, I cannot finish my current MSc and then start another one without paying around €20k per year. To get normal tuition of about €2.5k per year I would have to postpone graduation, meaning this is a real three-year commitment including the pre-master. I’m trying to decide if this is a smart pivot or an expensive mistake. Long-term goal: Work in space robotics and automation, ideally at ESA, DLR or a space contractor Focus on autonomous systems for spacecraft, lab experiments, or rovers I am open to other sectors since space will be extremely competitive but should be similar such as autonomous defense robotics Background: BSc and MSc in Biotechnology MSc robotics/automation experience: 6-DOF robotic arm, object detection, path planning Machine vision and ML-based classification Software engineering in Java with Git Current internship in lab automation (Python, industrial robot control) Self-study: ROS2, C++, Linux, PyTorch, mobile robot project Passion: robotics and automation, even though degree is biotech Gaps in knowledge compared to traditional robotics engineers: Multibody dynamics Control theory Vibrations and stability System modeling Mechatronics and hardware-level engineering Options I’m considering: Option A – Skip second MSc: Work in robotics or automation in industry Self-study dynamics and control Try to pivot into space robotics later via PhD or industry Risks: may be filtered out from PhDs and ESA because of degree background Option B – Do second MSc in Mechanical Engineering at Groningen: Three-year commitment including pre-master Graduate at 28–29 with little money Gain formal Mechanical Engineering degree with Robotics & Mechatronics specialization Opens doors to PhDs, ESA, and other space robotics opportunities Questions for the community: Is doing a second MSc in Mechanical Engineering a smart pivot into robotics/space, or could strong industry experience plus self-study realistically get me there? Are there alternative routes that work for people switching late into space robotics? Thanks in advance for any advice or insights!
 
-45m ago
+1h ago
 
 ---
 
@@ -84,7 +84,7 @@ Note: Text has been made with help of AI. Hi all, I hope this is the right place
 
 Hi I am building a robot using esp 32 S3 and my I have chosen lcd ST7789 TFT for display can anyone help me how to make this , I have no idea please guide me I need different expressions like Happy, surprised, listening, talking etc. Please help. I have just started , I am not able to find any resources to learn it I dont want to use ai for everythinh onnly for some help because i know it will build shit graphics PS: this is a product I want to make and sell I I want something that is copyright/patent free.
 
-49m ago
+1h ago
 
 ---
 
@@ -174,13 +174,13 @@ hyundai.com • 3d ago
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
-hyundai.com • 4h ago
+hyundai.com • 5h ago
 
 ---
 
 **[Google DeepMind and Boston Dynamics to Trial Gemini-Powered Robots in Hyundai Factories](https://www.extremetech.com/computing/google-deepmind-and-boston-dynamics-to-trial-gemini-powered-robots-in-hyundai)**
 
-extremetech.com • 15h ago
+extremetech.com • 16h ago
 
 ---
 
@@ -260,7 +260,7 @@ Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where i
 
 📺 CNET
 
-👁️ 93K • 👍 2K • 💬 295 • ⏱️ 4:01 • 23h ago
+👁️ 93K • 👍 2K • 💬 295 • ⏱️ 4:01 • 1d ago
 
 ---
 

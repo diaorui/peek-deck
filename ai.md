@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T12:48:15.570831+00:00'
+updated: '2026-01-09T13:38:32.313231+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - social
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 12:48 UTC  
+**Last Updated:** January 09, 2026 at 13:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-11h ago
+12h ago
 
 ---
 
@@ -49,7 +49,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 4h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 21h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 22h ago
 
 ---
 
@@ -65,7 +65,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Humanity may have gained a few extra years. The AI Futures Project, led by former OpenAI researcher Daniel Kokotajlo, has revised its forecast for superintelligent AI, concluding that the technological breakthroughs once expected by 2027 are now more likely to arrive in the early 2030s.
 
-🔗 [Hungarian Conservative](https://www.hungarianconservative.com/articles/tech/ai-futures-project-ai-2027-apocalypse-timeline-superintelligence-daniel-kokotajlo/) • 3h ago
+🔗 [Hungarian Conservative](https://www.hungarianconservative.com/articles/tech/ai-futures-project-ai-2027-apocalypse-timeline-superintelligence-daniel-kokotajlo/) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1]
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 3h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 4h ago
 
 ---
 
@@ -103,7 +103,7 @@ It comes after government urged Ofcom to use all its powers – up to and includ
 
 I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +111,7 @@ I used to think “better prompt” would fix everything. Then I watched my syst
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 20h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 21h ago
 
 ---
 
@@ -123,13 +123,13 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Meta said it secured agreements with energy companies Vistra, TerraPower and Oklo, which are all working on nuclear power technologies.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://www.bloomberg.com/news/articles/2026-01-09/meta-signs-multi-gigawatt-nuclear-deals-to-power-ai-data-centers)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bloomberg.com • 1h ago
 
 Meta unveiled deals with Vistra, Oklo and TerraPower to secure up to 6.6 GW of nuclear power for its data centers that are among the most sweeping between tech firms and nuclear power firms.
 
-Seeking Alpha • 25m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Seeking Alpha • 25m ago
 
 The shortage of primary care doctors is a national problem. To cope, a large health system in Massachusetts is using an AI tool to screen patients and refer them to other care.
 
-NPR • 2h ago
+NPR • 3h ago
 
 ---
 
@@ -153,7 +153,7 @@ NPR • 2h ago
 
 The World Economic Forum found that AI will reshape most jobs by 2030, with only one path limiting major displacement.
 
-Business Insider • 37m ago
+Business Insider • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Business Insider • 37m ago
 
 Cisco Systems’ latest fair value estimate has edged to US$85.43 from US$85.24, with the discount rate assumption now 8.32% versus 8.26% previously and long term revenue growth essentially unchanged at about 5.87%. These fine tuned inputs reflect how recent research is weighing solid networking execution and growing artificial intelligence related orders against questions about security and the durability of the product mix. Continue with this article to see how you can keep tracking these...
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 1d ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ NBC News • 2h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-IEEE Spectrum • 23h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -211,7 +211,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 678 • 💬 236 • 17h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 678 • 💬 236 • 18h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -227,7 +227,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 340 • 💬 531 • 21h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 340 • 💬 531 • 22h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -235,7 +235,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 251 • 💬 113 • 18h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 251 • 💬 113 • 19h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -251,7 +251,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 “I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
 
-⬆️ 205 • 💬 272 • 18h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+⬆️ 205 • 💬 272 • 19h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -289,7 +289,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 37K • 👍 934 • 💬 39 • ⏱️ 17:54 • 12h ago
+👁️ 37K • 👍 934 • 💬 39 • ⏱️ 17:54 • 13h ago
 
 ---
 
@@ -309,7 +309,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 84K • 👍 3K • 💬 240 • ⏱️ 13:13 • 2d ago
+👁️ 84K • 👍 3K • 💬 240 • ⏱️ 13:13 • 3d ago
 
 ---
 
@@ -319,7 +319,7 @@ Scientists estimate that 80 percent of life on Earth is still unknown to humanit
 
 📺 TED
 
-👁️ 12K • 👍 415 • 💬 36 • ⏱️ 12:52 • 20h ago
+👁️ 12K • 👍 415 • 💬 36 • ⏱️ 12:52 • 21h ago
 
 ---
 
@@ -329,7 +329,7 @@ I was playing around with a bunch of different #midjourney style ref codes and f
 
 📺 Kelly Boesch AI Art
 
-👁️ 9K • 👍 595 • 💬 60 • ⏱️ 2:42 • 21h ago
+👁️ 9K • 👍 595 • 💬 60 • ⏱️ 2:42 • 22h ago
 
 ---
 
@@ -379,7 +379,7 @@ Does AI make you delusional? #ai #aipsychology #gpt #gemini #chatgpt #copilot #g
 
 📺 Psych2Go
 
-👁️ 4K • 👍 677 • 💬 50 • ⏱️ 1:54 • 4h ago
+👁️ 4K • 👍 677 • 💬 50 • ⏱️ 1:54 • 5h ago
 
 ---
 
@@ -467,7 +467,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 211 • 6h ago
+⬇️ 5,785 • ❤️ 211 • 7h ago
 
 ---
 
@@ -503,7 +503,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,644 • ❤️ 443 • 5h ago
+⬇️ 3,644 • ❤️ 443 • 6h ago
 
 ---
 
@@ -529,7 +529,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 75 • 💬 1 • ⭐ 1,468 • 2d ago
+▲ 75 • 💬 1 • ⭐ 1,468 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -651,7 +651,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.3k • 🔱 867 • 4h ago
+⭐ 7.3k • 🔱 867 • 5h ago
 
 ---
 
@@ -671,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 22h ago
+⭐ 2.2k • 🔱 130 • 23h ago
 
 ---
 
@@ -711,7 +711,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 101 • 1h ago
+⭐ 1.2k • 🔱 101 • 2h ago
 
 ---
 
@@ -721,7 +721,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 2h ago
+⭐ 1.2k • 🔱 143 • 3h ago
 
 ---
 
