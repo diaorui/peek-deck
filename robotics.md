@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T03:41:09.001090+00:00'
+updated: '2026-01-09T04:41:27.672218+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 03:41 UTC  
+**Last Updated:** January 09, 2026 at 04:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-14h ago
+15h ago
 
 ---
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Para aprender a identificar la soldadura](https://www.reddit.com/r/robotics/comments/1q7tf47/para_aprender_a_identificar_la_soldadura/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -60,13 +60,13 @@ Robotics research and industry news
 
 I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
 
-11h ago
+12h ago
 
 ---
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 New research shows robots can predict harvest success and change approach angles, reaching an 81% tomato-picking success rate.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 1h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 2h ago
 
 ---
 
@@ -88,15 +88,15 @@ New research shows robots can predict harvest success and change approach angles
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-19h ago
+20h ago
 
 ---
 
-**[Soy un niño de 12 años solo quería decir mi idea ya q mis familiares no me escuchan y creo que no les importa mis ideas mi idea es](https://www.reddit.com/r/robotics/comments/1q7xcbf/soy_un_niño_de_12_años_solo_quería_decir_mi_idea/)**
+**[Does anyone have an idea why pur HD Hex motor makes this noise??](https://www.reddit.com/r/robotics/comments/1q7xp0n/does_anyone_have_an_idea_why_pur_hd_hex_motor/)**
 
-PROYECTO: "TITÁN DE VIENTO" (Súper-Humano Robótico Clase Interceptor) Diseñador Jefe: (garfare/el vientos xd ) Año de Concepción: 2026 1. Concepto General Un robot humanoide de 4 metros de altura diseñado para el combate ágil (Karate/Artes Marciales) y misiones de precisión, controlado por un piloto humano en una cabina blindada sin puntos ciegos. 2. Sistema de Energía: "Cosecha de Energía por Aire de Impacto" Mecánica: El robot no usa combustibles fósiles tradicionales. Utiliza turbinas internas conectadas a entradas de aire en el pecho y hombros. Ventaja: Al correr o volar, absorbe viento que genera electricidad. Además, succiona humo y gases del campo de batalla para limpiar la visión del piloto. Arma de Emergencia: El polvo y los residuos atrapados en los filtros pueden ser disparados a alta presión como una cortina de humo o ataque de distracción. 3. Cabina y Control: "Cúpula de Levitación Magnética" Protección: En lugar de ventanas de vidrio, el piloto está dentro de una cúpula de metal sólido e imanes. Movimiento: La silla del piloto flota mediante levitación magnética y un sistema de giro (Gimbal) de 3 ejes. Si el robot da una voltereta, el piloto siempre se mantiene derecho, eliminando el mareo y las náuseas. Visión: El piloto usa gafas de Realidad Virtual conectadas a millones de micro-cámaras externas, eliminando los puntos ciegos. 4. IA Maestra de Asistencia (Copiloto Cognitivo) Modo Novato: Si el piloto es un principiante (detectado por escaneo de retina), la IA asiste en el equilibrio y mantenimiento preventivo. Modo Experto: Desbloquea maniobras de alta velocidad y acrobacias. Seguridad: La IA da consejos tácticos pero el control final siempre es del humano para evitar rebeliones de las máquinas. 5. Movilidad y Combate Propulsores: Motores de empuje en espalda, manos y pies para vuelo estilo "Iron Man" y cambios de dirección instantáneos. Estructura: Esqueleto de fibra de carbono ligero (menos peso que un deportivo) para permitir movimientos de Karate fluidos y ultra-veloces. Comunicación: Señales inalámbricas internas protegidas (Jaula de Faraday) para que nadie pueda hackear o bloquear el robot desde afuera. 6. Protocolo de Seguridad y Sucesión Reloj de Mando: El comandante tiene un reloj vinculado. Si este muere, el reloj selecciona automáticamente al siguiente soldado en la lista de mando para que el robot nunca quede sin control. Kill Switch: Botón de apagado remoto para inutilizar el robot si cae en manos enemigas, borrando su memoria pero salvando el hardware.
+After many attempts with our defective launcher we were finally able to make it launch the ball properly but it makes this really weird and loud noise. Does anyone know what causes this or how it can be fixed?
 
-11m ago
+55m ago
 
 ---
 
@@ -114,7 +114,7 @@ Reuters • 1d ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -136,7 +136,7 @@ hyundai.com • 3d ago
 
 Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -174,7 +174,7 @@ TechCrunch • 2d ago
 
 Mobileye has $1.7 billion in cash, so even after the transaction it will hold over $1 billion in cash
 
-The Jerusalem Post • 18h ago
+The Jerusalem Post • 19h ago
 
 ---
 
@@ -182,23 +182,23 @@ The Jerusalem Post • 18h ago
 
 ## YouTube Videos: "robotics"
 
-**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
-
-Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
-
-📺 AI Revolution
-
-👁️ 56K • 👍 1K • 💬 212 • ⏱️ 9:33 • 2d ago
-
----
-
 **[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
 
 This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
 
 📺 Cybernews
 
-👁️ 107K • 👍 2K • 💬 349 • ⏱️ 4:29 • 1d ago
+👁️ 118K • 👍 2K • 💬 374 • ⏱️ 4:29 • 1d ago
+
+---
+
+**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
+
+Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
+
+📺 AI Revolution
+
+👁️ 57K • 👍 1K • 💬 218 • ⏱️ 9:33 • 2d ago
 
 ---
 
@@ -208,37 +208,37 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 
 📺 CNBC Television
 
-👁️ 8K • 👍 72 • 💬 19 • ⏱️ 2:58 • 2d ago
+👁️ 8K • 👍 74 • 💬 19 • ⏱️ 2:58 • 2d ago
 
 ---
 
-**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
+**[Atlas Has Left the Lab! In-Person Demo of Boston Dynamics Humanoid | What The Future](https://www.youtube.com/watch?v=q2rR_aXjqnI)**
 
-CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
+Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where it showcased autonomy, teleoperation, and how ...
 
-📺 The Laughing Lion
+📺 CNET
 
-👁️ 117K • 👍 2K • 💬 309 • ⏱️ 25:02 • 1d ago
-
----
-
-**[SharpaWave&#39;s Crazy Robotic Hands #ces2026 #robotics #airobot #ai #humanoidrobot](https://www.youtube.com/watch?v=mgrs7nkQHgU)**
-
-Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with its new humanoid robot and its highly ...
-
-📺 Kalil 4.0
-
-👁️ 982 • 👍 32 • ⏱️ 0:48 • 10h ago
+👁️ 85K • 👍 2K • 💬 268 • ⏱️ 4:01 • 15h ago
 
 ---
 
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
 
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
 
-📺 Technology Now
+📺 mryeester
 
-👁️ 23K • 👍 293 • 💬 15 • ⏱️ 7:38 • 4d ago
+👁️ 152K • 👍 5K • 💬 204 • ⏱️ 0:39 • 10h ago
+
+---
+
+**[Humanoid robots steal the show at CES tech event in Las Vegas](https://www.youtube.com/watch?v=DbPg-t6m2Mg)**
+
+Excitement from the commercial AI boom and new technical advances have helped pour huge amounts of money into robotics ...
+
+📺 ShanghaiEye魔都眼
+
+👁️ 6K • 👍 112 • 💬 20 • ⏱️ 4:25 • 17h ago
 
 ---
 
@@ -248,37 +248,37 @@ Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all
 
 📺 PCMag
 
-👁️ 576K • 👍 12K • 💬 2K • ⏱️ 7:00 • 3d ago
+👁️ 588K • 👍 12K • 💬 2K • ⏱️ 7:00 • 3d ago
 
 ---
 
-**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
+**[Humanoid robots become blackjack dealers at CES Vegas | 7NEWS](https://www.youtube.com/watch?v=LlH1Z5bWjYM)**
 
-LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
+Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in Las Vegas, Nevada, with multiple companies ...
 
-📺 JerryRigEverything
+📺 7NEWS Australia
 
-👁️ 147K • 👍 7K • 💬 763 • ⏱️ 7:45 • 1d ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 4.8M • 👍 4K • 💬 944 • ⏱️ 0:32 • 4d ago
+👁️ 7K • 👍 39 • 💬 14 • ⏱️ 2:25 • 1d ago
 
 ---
 
-**[CES 2026: Chinese firms dominate robotics sector at tech convention in Las Vegas](https://www.youtube.com/watch?v=Jkzg8qc48JY)**
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
 
-Robots are no longer what we only see in sci-fi movies. Today, they can be seen walking, dancing and even serving snacks at this ...
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
 
-📺 CNA
+📺 Technology Now
 
-👁️ 21K • 👍 239 • 💬 108 • ⏱️ 3:47 • 1d ago
+👁️ 23K • 👍 294 • 💬 15 • ⏱️ 7:38 • 4d ago
+
+---
+
+**[SharpaWave&#39;s Crazy Robotic Hands #ces2026 #robotics #airobot #ai #humanoidrobot](https://www.youtube.com/watch?v=mgrs7nkQHgU)**
+
+Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with its new humanoid robot and its highly ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 36 • 💬 1 • ⏱️ 0:48 • 11h ago
 
 ---
 
