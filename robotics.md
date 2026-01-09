@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T08:32:57.274986+00:00'
+updated: '2026-01-09T09:29:36.481641+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 08:32 UTC  
+**Last Updated:** January 09, 2026 at 09:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-1h ago
+2h ago
 
 ---
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
 
-52m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ We’re seeing the first humanoid pilots in factories, logistics hubs, and inspe
 
 I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
 
-16h ago
+17h ago
 
 ---
 
@@ -84,7 +84,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 **[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -92,7 +92,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 New research shows robots can predict harvest success and change approach angles, reaching an 81% tomato-picking success rate.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 5h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 6h ago
 
 ---
 
@@ -100,7 +100,7 @@ New research shows robots can predict harvest success and change approach angles
 
 We finally put our 1979 Unimate PUMA 260 to work - serving drinks! The Unimate 200 and 500 series robots were the first commercially available electric robots. Prior to then, Unimation, the first and leading robotics company, manufactured and sold hydraulic robots. VAL was the custom programming language developed by Unimation to control the PUMA robots. It is incredibly advanced and includes kinematics. This robot is using an original controller and the VAL language loaded from a 5 1/4" floppy disk that also stores the program. We were successful on the first try! If you want to see how the robot was set up - watch this video: https://www.youtube.com/watch?v=DTxBZp_J5VQ If anyone has a hydraulic Unimate, please contact me at [info@stepaudio.net](mailto:info@stepaudio.net) Cheers!
 
-🔗 [youtu.be](https://youtu.be/P0Ws43gnkgQ) • 2h ago
+🔗 [youtu.be](https://youtu.be/P0Ws43gnkgQ) • 3h ago
 
 ---
 
@@ -126,7 +126,7 @@ Reuters • 1d ago
 
 Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -149,7 +149,7 @@ hyundai.com • 3d ago
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
-hyundai.com • 3h ago
+hyundai.com • 1h ago
 
 ---
 
@@ -161,15 +161,7 @@ Automotive News • 3d ago
 
 ---
 
-**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
-
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
-
-NVIDIA Developer • 15h ago
-
----
-
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqdtIKApulXJGpp7JmdpJ8TwD_XxVzPB1cX0veBVQ-SkXeiMXTmr8Y6h&gaa_ts=6960b5c8&gaa_sig=D2vBIzJRVSWSfXZTgNdFmTmoefP_s8YgGKQ5ATM85iwkKznfuILs0yFBjsGGEAfTlOgn2HrGtjh8vr9DhB_rCQ%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqdtuA4L_fNV2IfopCvBM7koReikjGBdD4IUtcwSvR7V9uZcxuH7KSHX&gaa_ts=6960cdec&gaa_sig=hasZuRrloYwA5Jspq-0fm0c9Fq8RJbpeEmq8aYdrkYMjFwt97Yf25hB6lytioPjrW-XwODn4DrRf4tAyjEatBQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -183,6 +175,14 @@ The Times of Israel • 1d ago
 
 ---
 
+**[Mobileye acquires Shashua’s robotics startup for $900 million](https://www.calcalistech.com/ctechnews/article/hjgfeesnzx)**
+
+The Intel-controlled company, founded by Shashua, moves into humanoid robots with the acquisition of Mentee Robotics, also founded by Shashua.
+
+CTech • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -193,7 +193,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 127K • 👍 2K • 💬 382 • ⏱️ 4:29 • 1d ago
+👁️ 133K • 👍 2K • 💬 399 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -203,17 +203,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 57K • 👍 1K • 💬 218 • ⏱️ 9:33 • 2d ago
-
----
-
-**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
-
-I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
-
-📺 mryeester
-
-👁️ 173K • 👍 6K • 💬 231 • ⏱️ 0:39 • 14h ago
+👁️ 58K • 👍 1K • 💬 215 • ⏱️ 9:33 • 2d ago
 
 ---
 
@@ -224,6 +214,26 @@ CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well a
 📺 CNBC Television
 
 👁️ 8K • 👍 75 • 💬 19 • ⏱️ 2:58 • 2d ago
+
+---
+
+**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+
+I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+
+📺 mryeester
+
+👁️ 196K • 👍 7K • 💬 253 • ⏱️ 0:39 • 15h ago
+
+---
+
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+
+Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+
+📺 PCMag
+
+👁️ 604K • 👍 12K • 💬 2K • ⏱️ 7:00 • 3d ago
 
 ---
 
@@ -243,27 +253,7 @@ Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where i
 
 📺 CNET
 
-👁️ 89K • 👍 2K • 💬 272 • ⏱️ 4:01 • 19h ago
-
----
-
-**[I was not ready for LG&#39;s new Robot](https://www.youtube.com/watch?v=TlMHxNDd1X0)**
-
-LG has a mind blowingly cool setup here at #CES2026 There are next generation Wallpaper TV's hanging from the ceiling, ...
-
-📺 JerryRigEverything
-
-👁️ 157K • 👍 7K • 💬 778 • ⏱️ 7:45 • 1d ago
-
----
-
-**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
-
-The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
-
-📺 Dip Knows
-
-👁️ 451K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
+👁️ 91K • 👍 2K • 💬 293 • ⏱️ 4:01 • 20h ago
 
 ---
 
@@ -277,13 +267,23 @@ Humanoid robotics took centre stage at the Consumer Electronics Show (CES) in La
 
 ---
 
+**[Humanoid robots steal the show at CES tech event in Las Vegas](https://www.youtube.com/watch?v=DbPg-t6m2Mg)**
+
+Excitement from the commercial AI boom and new technical advances have helped pour huge amounts of money into robotics ...
+
+📺 ShanghaiEye魔都眼
+
+👁️ 8K • 👍 118 • 💬 21 • ⏱️ 4:25 • 22h ago
+
+---
+
 **[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
 
 Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
 
 📺 Unitree Robotics
 
-👁️ 4.9M • 👍 4K • 💬 954 • ⏱️ 0:32 • 4d ago
+👁️ 5.0M • 👍 4K • 💬 956 • ⏱️ 0:32 • 4d ago
 
 ---
 

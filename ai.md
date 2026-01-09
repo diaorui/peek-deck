@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T08:32:57.257347+00:00'
+updated: '2026-01-09T09:29:36.464334+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 08:32 UTC  
+**Last Updated:** January 09, 2026 at 09:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 13m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 20h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 21h ago
 
 ---
 
@@ -73,7 +73,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1]
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 16h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 17h ago
 
 ---
 
@@ -95,7 +95,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ I used to think “better prompt” would fix everything. Then I watched my syst
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 15h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 16h ago
 
 ---
 
@@ -117,43 +117,11 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 ## Google News: "ai"
 
-**[Gmail now uses AI to help you write messages and keep track of your inbox](https://www.cbsnews.com/news/gmail-ai-google-help-write-messages-track-inbox/)**
+**[Grok turns off image generator for most users after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)**
 
-Google is souping up Gmail with features from its Gemini 3 AI app. Here's what to know — including how to opt out.
+X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-CBS News • 13h ago
-
----
-
-**[Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)**
-
-New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
-
-WIRED • 19h ago
-
----
-
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
-
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
-
-blog.google • 19h ago
-
----
-
-**[AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)**
-
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-IEEE Spectrum • 19h ago
-
----
-
-**[Grok AI: is it legal to produce or post undressed images of people without their consent?](https://www.theguardian.com/technology/2026/jan/09/grok-ai-x-explainer-legal-regulation-nudified-images-social-media)**
-
-Deluge of ‘nudified’ images on social media platform X raises questions about regulation of use of AI technologies
-
-The Guardian • 2h ago
+The Guardian • 1h ago
 
 ---
 
@@ -161,7 +129,7 @@ The Guardian • 2h ago
 
 Elon Musk’s AI chatbot, Grok, has been flooded with sexual images of mainly women, many of them real people, by being prompted by users to “digitally undress” them and sometimes placing them in suggestive poses.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -169,27 +137,59 @@ CNN • 23h ago
 
 It follows an ongoing backlash against the use of X's AI Grok to digitally remove clothing from images.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
-**[MiniMax, China's second 'AI tiger' to go public, soars in Hong Kong debut](https://www.reuters.com/world/asia-pacific/china-ai-firm-minimax-set-surge-hong-kong-debut-2026-01-09/)**
+**[Google is unleashing Gemini AI features on Gmail. Users will have to opt out](https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html)**
 
-Reuters • 3h ago
+Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
 
----
-
-**[AI Firm MiniMax Set for Hong Kong Debut After $619 million IPO](https://www.bloomberg.com/news/articles/2026-01-08/ai-firm-minimax-set-for-hong-kong-debut-after-619-million-ipo)**
-
-Bloomberg.com • 2h ago
+CNBC • 20h ago
 
 ---
 
-**[MiniMax surges in Hong Kong debut, marking yet another Chinese AI listing](https://www.cnbc.com/2026/01/09/minimax-hong-kong-ipo-ai-tigers-zhipu.html)**
+**[Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)**
 
-Shares of MiniMax surged in their first day of trading in Hong Kong, in what represents the second major Chinese LLM company to go public.
+New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
 
-CNBC • 1h ago
+WIRED • 20h ago
+
+---
+
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
+
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
+
+blog.google • 20h ago
+
+---
+
+**[Taiwan’s Exports Hit Record in 2025 on AI-Fueled Demand](https://www.wsj.com/economy/trade/taiwans-exports-hit-record-in-2025-on-ai-fueled-demand-bf1f8258?gaa_at=eafs&gaa_n=AWEtsqeA9R498oJNtBzOdz-xamx51G2M-KCQdGcfIk9SwIbNUTCBB45XqGlc&gaa_ts=6960cdea&gaa_sig=RG6i5TcX2cyh4S_50DqxjCljz43UO9LQOWLiC9r_o6GjGlwz17fBf7ZdcXrK51jhnQ3efAfuTxGd0hwpJur1BA%3D%3D)**
+
+The Wall Street Journal • 18m ago
+
+---
+
+**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
+
+"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
+
+Fortune • 1d ago
+
+---
+
+**[AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)**
+
+One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
+
+IEEE Spectrum • 20h ago
+
+---
+
+**[Analysis | Can AI do your job? See the results from hundreds of tests.](https://www.washingtonpost.com/technology/interactive/2026/ai-jobs-automation/)**
+
+The Washington Post • 15h ago
 
 ---
 
@@ -207,7 +207,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 623 • 💬 204 • 13h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 623 • 💬 204 • 14h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -223,7 +223,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 298 • 💬 469 • 17h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 298 • 💬 469 • 18h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -231,7 +231,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 247 • 💬 113 • 14h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 247 • 💬 113 • 15h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -255,7 +255,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 “I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
 
-⬆️ 163 • 💬 191 • 14h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+⬆️ 163 • 💬 191 • 15h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -285,7 +285,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 24K • 👍 698 • 💬 34 • ⏱️ 17:54 • 8h ago
+👁️ 30K • 👍 825 • 💬 36 • ⏱️ 17:54 • 8h ago
 
 ---
 
@@ -295,7 +295,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 88K • 👍 2K • 💬 134 • ⏱️ 13:08 • 1d ago
+👁️ 89K • 👍 2K • 💬 134 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -305,7 +305,7 @@ I was playing around with a bunch of different #midjourney style ref codes and f
 
 📺 Kelly Boesch AI Art
 
-👁️ 8K • 👍 536 • 💬 58 • ⏱️ 2:42 • 17h ago
+👁️ 9K • 👍 567 • 💬 58 • ⏱️ 2:42 • 18h ago
 
 ---
 
@@ -315,7 +315,7 @@ Most #AI predictions are speculation. This video covers six trends backed by dat
 
 📺 Jeff Su
 
-👁️ 81K • 👍 3K • 💬 234 • ⏱️ 13:13 • 2d ago
+👁️ 83K • 👍 3K • 💬 236 • ⏱️ 13:13 • 2d ago
 
 ---
 
@@ -325,17 +325,17 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.3M • 👍 61K • 💬 8K • ⏱️ 17:14 • 1d ago
+👁️ 1.3M • 👍 62K • 💬 8K • ⏱️ 17:14 • 1d ago
 
 ---
 
-**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
+**[Google&#39;s Gmail unveils new AI features powered by Gemini](https://www.youtube.com/watch?v=nzlFoQmMSBk)**
 
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
 
-📺 Matthew Berman
+📺 CNBC Television
 
-👁️ 17K • 👍 639 • 💬 82 • ⏱️ 14:35 • 10h ago
+👁️ 8K • 👍 110 • 💬 13 • ⏱️ 3:43 • 14h ago
 
 ---
 
@@ -349,16 +349,6 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 ---
 
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
-
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
-
-📺 Hyundai Motor Group
-
-👁️ 101K • 👍 100 • 💬 1 • ⏱️ 0:33 • 2d ago
-
----
-
 **[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
 
 This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
@@ -369,13 +359,23 @@ This is a funny meme mixed with storytelling style video about how i have 2 cats
 
 ---
 
-**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
+**[AI Psychosis](https://www.youtube.com/watch?v=gmgiSV-b-Qc)**
 
-CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
+Does AI make you delusional? #ai #aipsychology #gpt #gemini #chatgpt #copilot #grok #psychologyfacts #psychology ...
 
-📺 The Laughing Lion
+📺 Psych2Go
 
-👁️ 122K • 👍 2K • 💬 324 • ⏱️ 25:02 • 2d ago
+👁️ 2K • 👍 415 • 💬 42 • ⏱️ 1:54 • 1h ago
+
+---
+
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+
+📺 Hyundai Motor Group
+
+👁️ 101K • 👍 101 • 💬 1 • ⏱️ 0:33 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 632 • 1d ago
+⬇️ 330,354 • ❤️ 640 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 7,287 • ❤️ 683 • 8d ago
+⬇️ 8,048 • ❤️ 684 • 8d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 18,440 • ❤️ 537 • 8d ago
+⬇️ 19,738 • ❤️ 541 • 8d ago
 
 ---
 
@@ -427,7 +427,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 9,648 • ❤️ 293 • 1d ago
+⬇️ 14,705 • ❤️ 295 • 1d ago
 
 ---
 
@@ -439,7 +439,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 200,391 • ❤️ 966 • 12d ago
+⬇️ 202,948 • ❤️ 973 • 12d ago
 
 ---
 
@@ -451,7 +451,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,233 • ❤️ 442 • 3d ago
+⬇️ 3,644 • ❤️ 443 • 3d ago
 
 ---
 
@@ -463,7 +463,19 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 547 • ❤️ 228 • 3d ago
+⬇️ 1,074 • ❤️ 234 • 3d ago
+
+---
+
+**[HyperCLOVAX-SEED-Think-32B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B)**
+
+*HyperCLOVA X*
+
+HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of multimodal understanding (text, image, video) with a 128K token context length. It excels at Korean-centric reasoning and offers an optional 'thinking mode' for deep, controllable analysis, making it suitable for complex agentic tasks and advanced multimodal QA.
+
+`text-generation` `33.3B`
+
+⬇️ 30,216 • ❤️ 311 • 3d ago
 
 ---
 
@@ -475,7 +487,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 4,353 • ❤️ 258 • 6d ago
+⬇️ 4,662 • ❤️ 260 • 6d ago
 
 ---
 
@@ -487,19 +499,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 4,203 • ❤️ 201 • 2h ago
-
----
-
-**[Solar-Open-100B](https://huggingface.co/upstage/Solar-Open-100B)**
-
-*upstage*
-
-Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7T tokens, offering enterprise-grade reasoning and instruction-following with 12B active parameters for efficient inference. It excels in both Korean and English benchmarks, supporting a 128k context length and is suitable for complex agentic tasks.
-
-`text-generation` `102.7B`
-
-⬇️ 3,107 • ❤️ 408 • 3d ago
+⬇️ 5,785 • ❤️ 205 • 3h ago
 
 ---
 
@@ -513,7 +513,7 @@ Solar Open 100B is a 102B-parameter Mixture-of-Experts (MoE) LLM trained on 19.7
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 71 • 💬 1 • ⭐ 1,468 • 2d ago
+▲ 74 • 💬 1 • ⭐ 1,468 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -531,6 +531,18 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 ---
 
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 25,597 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
 **[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
 
 *Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
@@ -539,7 +551,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
 
-▲ 57 • 💬 5 • ⭐ 25,590 • 2mo ago
+▲ 57 • 💬 5 • ⭐ 25,604 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
@@ -551,21 +563,9 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
 
-▲ 3 • 💬 0 • ⭐ 25,592 • 10mo ago
+▲ 3 • 💬 0 • ⭐ 25,600 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 25,597 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -609,20 +609,6 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 ---
 
-**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)**
-
-*Xu Guo, Fulong Ye, Xinghui Li et al. (9 authors)*
-
-🏢 ByteDance
-
-A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
-
-▲ 46 • 💬 5 • ⭐ 293 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
-
----
-
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -637,6 +623,20 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)**
+
+*Xu Guo, Fulong Ye, Xinghui Li et al. (9 authors)*
+
+🏢 ByteDance
+
+A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
+
+▲ 46 • 💬 5 • ⭐ 307 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -647,7 +647,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.2k • 🔱 864 • 2h ago
+⭐ 7.2k • 🔱 866 • 57m ago
 
 ---
 
@@ -667,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 18h ago
+⭐ 2.2k • 🔱 130 • 19h ago
 
 ---
 
@@ -687,7 +687,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.3k • 🔱 69 • 16d ago
+⭐ 1.3k • 🔱 70 • 16d ago
 
 ---
 
@@ -697,17 +697,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 102 • 20h ago
-
----
-
-**[aiflowy/aiflowy](https://github.com/aiflowy/aiflowy)**
-
-AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.
-
-`Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
-
-⭐ 1.2k • 🔱 142 • 1h ago
+⭐ 1.3k • 🔱 102 • 21h ago
 
 ---
 
@@ -718,6 +708,16 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 `ai` `course` `vibe-coding`
 
 ⭐ 1.2k • 🔱 101 • 2h ago
+
+---
+
+**[aiflowy/aiflowy](https://github.com/aiflowy/aiflowy)**
+
+AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.
+
+`Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
+
+⭐ 1.2k • 🔱 143 • 2h ago
 
 ---
 
@@ -737,7 +737,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 998 • 🔱 120 • 4h ago
+⭐ 1.0k • 🔱 120 • 5h ago
 
 ---
 
