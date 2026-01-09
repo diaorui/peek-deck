@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-08T23:40:46.208043+00:00'
+updated: '2026-01-09T01:50:22.235419+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 08, 2026 at 23:40 UTC  
+**Last Updated:** January 09, 2026 at 01:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 11h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 13h ago
 
 ---
 
@@ -49,13 +49,29 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 8h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 10h ago
+
+---
+
+**[Why Yann LeCun left Meta for World Models](https://www.reddit.com/r/artificial/comments/1q7ugtz/why_yann_lecun_left_meta_for_world_models/)**
+
+As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
+
+28m ago
 
 ---
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 18h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 20h ago
+
+---
+
+**[Quick reliability lesson: if your agent output isn’t enforceable, your system is just improvising](https://www.reddit.com/r/artificial/comments/1q7sbtb/quick_reliability_lesson_if_your_agent_output/)**
+
+I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
+
+1h ago
 
 ---
 
@@ -63,7 +79,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 7h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 9h ago
 
 ---
 
@@ -71,7 +87,7 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 7h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 9h ago
 
 ---
 
@@ -83,7 +99,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 12h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 14h ago
 
 ---
 
@@ -91,23 +107,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-17h ago
-
----
-
-**[What's the best AI youtube video chabot you actually paid for and why ?](https://www.reddit.com/r/artificial/comments/1q793q5/whats_the_best_ai_youtube_video_chabot_you/)**
-
-The title pretty much sums it up. I'm looking for people that actually paid for the tool and why. I've tried multiple tools like Chatpdf, notegpt and chattube but overall they kind of all feel the same. Although Chatpdf has a pretty decent UI. Really interested to know if some of you liked one of these enough to pay for it and would like to know why.
-
-12h ago
-
----
-
-**[Run AI models on your mobile phone](https://www.reddit.com/r/artificial/comments/1q76sgz/run_ai_models_on_your_mobile_phone/)**
-
-Now you can run AI models on your mobile phone Recently, I found this awesome open source app called Maid, which allow you to run AI models on your phone. I am from Gaza and during the war, most of the time I am offline, and I wanted to play around with AI and try things, I tried to install ollama on termux but no use. But maid is very easy, you open the app and download a model from a list of models of different sizes, and you are set. It might be slow on some devices. Dowload it and have fun.
-
-14h ago
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ Now you can run AI models on your mobile phone Recently, I found this awesome op
 
 New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
 
-WIRED • 10h ago
+WIRED • 12h ago
 
 ---
 
@@ -127,7 +127,7 @@ WIRED • 10h ago
 
 AI Mode but for Gmail.
 
-The Verge • 10h ago
+The Verge • 12h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Verge • 10h ago
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 10h ago
+blog.google • 12h ago
 
 ---
 
@@ -143,43 +143,37 @@ blog.google • 10h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-IEEE Spectrum • 10h ago
+IEEE Spectrum • 12h ago
 
 ---
 
-**[Cyera's newest raise shows how AI is boosting data security dealmaking](https://www.axios.com/pro/enterprise-software-deals/2026/01/08/ai-cybersecurity-deals-cyera)**
+**[Construction giant unveils AI to help prevent job site accidents: ‘It’s essentially a personal assistant’](https://www.foxbusiness.com/fox-news-tech/construction-giant-unveils-ai-help-prevent-job-site-accidents-essentially-personal-assistant)**
 
-Axios • 1h ago
+Caterpillar has unveiled an AI assistant to boost construction safety and cut training time amid labor shortages. A voice-activated tool helps prevent accidents.
 
----
-
-**[The uncharted territory of AI doctors](https://www.politico.com/newsletters/digital-future-daily/2026/01/08/the-uncharted-territory-of-ai-doctors-00717215)**
-
-Politico • 1h ago
+Fox Business • 1h ago
 
 ---
 
-**[Google and AI startup to settle lawsuits alleging chatbots led to teen suicide](https://www.theguardian.com/technology/2026/jan/08/google-character-ai-settlement-teen-suicide)**
+**[3 Millionaire-Maker Artificial Intelligence (AI) Stocks](https://finance.yahoo.com/news/3-millionaire-maker-artificial-intelligence-000700866.html)**
 
-Lawsuit accuses AI chatbots of harming minors and includes case of Sewell Setzer III, who killed himself in 2024
+You don't have to buy risky stocks to invest in the AI boom.
 
-The Guardian • 5h ago
-
----
-
-**[Character.AI and Google agree to settle lawsuits over teen mental health harms and suicides](https://www.cnn.com/2026/01/07/business/character-ai-google-settle-teen-suicide-lawsuit)**
-
-Character.AI has agreed to settle multiple lawsuits alleging the artificial intelligence chatbot maker contributed to mental health crises and suicides among young people, including a case brought by Florida mother Megan Garcia.
-
-CNN • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Teen's Mom Settles with Google and AI Company After Claiming His Suicide Was Fueled by Love of Chatbot](https://people.com/teens-mom-settles-with-google-and-ai-company-after-claiming-his-suicide-was-fueled-by-love-of-chatbot-11881597)**
+**[Survey: 41% Think AI Stocks Are in a Bubble, but Investors Keep Buying Anyway. Here Are 3 That Could Weather the Storm.](https://www.fool.com/investing/2026/01/08/survey-41-think-ai-stocks-are-in-a-bubble-but-inve/)**
 
-Google and Character.AI agreed to settle a wrongful death suit from a Florida mom after her 14-year-old son died by suicide in 2024.
+Even if an AI bubble were to burst, you could still feel comfortable owning these AI titans.
 
-People.com • 1h ago
+The Motley Fool • 10h ago
+
+---
+
+**[Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026](https://www.marketwatch.com/story/why-alphabets-stock-can-further-reign-as-king-of-the-ai-trade-in-2026-18bedf6f?gaa_at=eafs&gaa_n=AWEtsqfu-4x_8Vrz21I519ny7kYvtySgLQrX_6cbS1ZrEM2Gil04QASBqWXz&gaa_ts=69606246&gaa_sig=-bw7RpBNEUdOi1CIkapsG4GLiOJBEivlsDkgIrIO7q-Ld0ICEkd83ZDtAzeJlhIam50xMkFdWEhXmNCe7e36yA%3D%3D)**
+
+MarketWatch • 5h ago
 
 ---
 
@@ -191,6 +185,14 @@ Fortune • 1d ago
 
 ---
 
+**[AI images and internet rumors spread confusion about ICE agent involved in shooting](https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good)**
+
+While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
+
+NPR • 2h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -199,7 +201,13 @@ Fortune • 1d ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 839 • 💬 1318 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 840 • 💬 1318 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+
+---
+
+**[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
+
+⬆️ 459 • 💬 161 • 6h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -207,13 +215,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 333 • 💬 251 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
-
----
-
-**[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
-
-⬆️ 324 • 💬 116 • 4h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 404 • 💬 301 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -221,7 +223,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 237 • 💬 97 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 238 • 💬 97 • 1d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -229,15 +231,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 215 • 💬 103 • 5h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
-
----
-
-**[Notion AI: Unpatched data exfiltration](https://news.ycombinator.com/item?id=46531565)**
-
-Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
-
-⬆️ 200 • 💬 34 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 231 • 💬 108 • 7h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -245,7 +239,15 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 156 • 💬 198 • 8h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 222 • 💬 349 • 10h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+
+---
+
+**[Notion AI: Unpatched data exfiltration](https://news.ycombinator.com/item?id=46531565)**
+
+Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
+
+⬆️ 202 • 💬 36 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -253,7 +255,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 145 • 💬 80 • 16h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 146 • 💬 82 • 19h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -275,33 +277,23 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 ## YouTube Videos: "ai"
 
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
+
+Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From NEURA's refined humanoids and AgiBot's full ...
+
+📺 AI Revolution
+
+👁️ 3K • 👍 174 • 💬 6 • ⏱️ 17:54 • 1h ago
+
+---
+
 **[The Shocking AI Reveals That Stunned CES 2026 (DAY 1)](https://www.youtube.com/watch?v=zEYIcaQwn6s)**
 
 CES 2026 opened with a clear message: AI has moved out of apps and into physical systems. Robots, home machines, energy ...
 
 📺 AI Revolution
 
-👁️ 77K • 👍 2K • 💬 125 • ⏱️ 13:08 • 1d ago
-
----
-
-**[Top 6 AI Trends That Will Define 2026 (backed by data)](https://www.youtube.com/watch?v=B23W1gRT9eY)**
-
-Most #AI predictions are speculation. This video covers six trends backed by data from McKinsey, Stanford, #OpenAI, and Epoch ...
-
-📺 Jeff Su
-
-👁️ 73K • 👍 2K • 💬 204 • ⏱️ 13:13 • 2d ago
-
----
-
-**[Useless AI Trash](https://www.youtube.com/watch?v=FGFO-EvGVRw)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 1.2M • 👍 59K • 💬 8K • ⏱️ 17:14 • 1d ago
+👁️ 80K • 👍 2K • 💬 129 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -311,7 +303,47 @@ In this Video I shared how to create Ai Influencer Videos Using Free method. We 
 
 📺 Planet Ai
 
-👁️ 12K • 👍 738 • 💬 45 • ⏱️ 2:57 • 1d ago
+👁️ 12K • 👍 756 • 💬 43 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[Top 6 AI Trends That Will Define 2026 (backed by data)](https://www.youtube.com/watch?v=B23W1gRT9eY)**
+
+Most #AI predictions are speculation. This video covers six trends backed by data from McKinsey, Stanford, #OpenAI, and Epoch ...
+
+📺 Jeff Su
+
+👁️ 76K • 👍 2K • 💬 193 • ⏱️ 13:13 • 2d ago
+
+---
+
+**[NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](https://www.youtube.com/watch?v=5Kp-Gj5qXL0)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 23K • 👍 1K • 💬 157 • ⏱️ 18:37 • 10h ago
+
+---
+
+**[Useless AI Trash](https://www.youtube.com/watch?v=FGFO-EvGVRw)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 1.3M • 👍 60K • 💬 8K • ⏱️ 17:14 • 1d ago
+
+---
+
+**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
+
+Try Greptile for free for 14 days! https://bit.ly/3Yg0C84 Download The Subtle Art of Not Being Replaced http://bit.ly/3WLNzdV ...
+
+📺 Matthew Berman
+
+👁️ 8K • 👍 385 • 💬 33 • ⏱️ 14:35 • 4h ago
 
 ---
 
@@ -325,13 +357,13 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 ---
 
-**[CES 2026 Las Vegas: Mind-Blowing Robotics &amp; AI Innovations](https://www.youtube.com/watch?v=zxWF848GVu4)**
+**[Cursor AI Tutorial for Beginners: Build App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)**
 
-CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore the future of technology in this in-depth ...
+Submit your Cursor app to the App Store: https://mikeyno-code.com/Skool-cursor Join my exclusive newsletter: ...
 
-📺 The Laughing Lion
+📺 Mikey No Code
 
-👁️ 114K • 👍 2K • 💬 307 • ⏱️ 25:02 • 1d ago
+👁️ 9K • ⏱️ 23:08 • 7h ago
 
 ---
 
@@ -341,37 +373,7 @@ At CES 2026, visitors experience AI Robotics through hands-on demonstrations on 
 
 📺 Hyundai Motor Group
 
-👁️ 100K • 👍 100 • 💬 1 • ⏱️ 0:33 • 1d ago
-
----
-
-**[AI Brings This 1969 Camaro Back to Life in Garnet Red #shorts #viralshorts #automobile](https://www.youtube.com/watch?v=nG0X4hK0gMU)**
-
-Enjoy a full AI ASMR restoration of a 1969 Chevrolet Camaro, perfectly refinished in a deep Garnet Red Metallic. From the dusty ...
-
-📺 Automorph AI
-
-👁️ 729 • 👍 7 • ⏱️ 0:49 • 1h ago
-
----
-
-**[I Made the Same AI Animation in Every AI Video Generator](https://www.youtube.com/watch?v=AosPAC_GmuY)**
-
-Learn how to turn ONE image into multiple Ai Animated stories AI tool I used ➡️ https://openart.ai/home/?ref=mira9 Hey friends, ...
-
-📺 Mira AI
-
-👁️ 9K • 💬 10 • ⏱️ 7:28 • 1d ago
-
----
-
-**[Cursor AI Tutorial for Beginners: Build App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)**
-
-Submit your Cursor app to the App Store: https://mikeyno-code.com/Skool-cursor Join my exclusive newsletter: ...
-
-📺 Mikey No Code
-
-👁️ 6K • ⏱️ 23:08 • 4h ago
+👁️ 101K • 👍 100 • 💬 1 • ⏱️ 0:33 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 587 • 16h ago
+⬇️ 187,937 • ❤️ 595 • 18h ago
 
 ---
 
@@ -399,7 +401,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 7,287 • ❤️ 679 • 7d ago
+⬇️ 7,287 • ❤️ 680 • 7d ago
 
 ---
 
@@ -411,7 +413,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 18,440 • ❤️ 533 • 8d ago
+⬇️ 18,440 • ❤️ 534 • 8d ago
 
 ---
 
@@ -447,7 +449,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,233 • ❤️ 434 • 2d ago
+⬇️ 3,233 • ❤️ 435 • 2d ago
 
 ---
 
@@ -471,7 +473,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 547 • ❤️ 206 • 2d ago
+⬇️ 547 • ❤️ 211 • 3d ago
 
 ---
 
@@ -495,7 +497,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 4,203 • ❤️ 184 • 1d ago
+⬇️ 4,203 • ❤️ 186 • 1d ago
 
 ---
 
@@ -509,7 +511,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 65 • 💬 1 • ⭐ 1,321 • 2d ago
+▲ 67 • 💬 1 • ⭐ 1,321 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -521,21 +523,9 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 169 • 💬 5 • ⭐ 3,266 • 1mo ago
+▲ 169 • 💬 5 • ⭐ 3,440 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
-
----
-
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 3 • 💬 0 • ⭐ 25,571 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -562,6 +552,18 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 ▲ 57 • 💬 5 • ⭐ 25,590 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 3 • 💬 0 • ⭐ 25,592 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -592,17 +594,16 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
+  Videos](https://huggingface.co/papers/2502.01549)**
 
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
 
-🏢 Microsoft Research
+VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+▲ 2 • 💬 0 • ⭐ 2,040 • 11mo ago
 
-▲ 141 • 💬 6 • ⭐ 20,091 • 4mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
 ---
 
@@ -620,16 +621,17 @@ A novel video face swapping framework combines image face swapping techniques wi
 
 ---
 
-**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
-  Videos](https://huggingface.co/papers/2502.01549)**
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
-*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
 
-VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
+🏢 Microsoft Research
 
-▲ 2 • 💬 0 • ⭐ 1,951 • 11mo ago
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
+▲ 141 • 💬 6 • ⭐ 20,104 • 4mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -643,7 +645,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.1k • 🔱 846 • 6h ago
+⭐ 7.1k • 🔱 850 • 5m ago
 
 ---
 
@@ -663,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 126 • 9h ago
+⭐ 2.2k • 🔱 126 • 11h ago
 
 ---
 
@@ -673,7 +675,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 214 • 4d ago
+⭐ 1.9k • 🔱 215 • 4d ago
 
 ---
 
@@ -683,7 +685,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.2k • 🔱 67 • 16d ago
+⭐ 1.3k • 🔱 67 • 16d ago
 
 ---
 
@@ -693,7 +695,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 101 • 11h ago
+⭐ 1.2k • 🔱 101 • 14h ago
 
 ---
 
@@ -703,7 +705,17 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 18h ago
+⭐ 1.2k • 🔱 142 • 20h ago
+
+---
+
+**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
+
+从 0 到 1 学会 vibe coding，项目制学习
+
+`ai` `course` `vibe-coding`
+
+⭐ 1.1k • 🔱 95 • 8h ago
 
 ---
 
@@ -717,23 +729,13 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 ---
 
-**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
-
-从 0 到 1 学会 vibe coding，项目制学习
-
-`ai` `course` `vibe-coding`
-
-⭐ 1.1k • 🔱 93 • 6h ago
-
----
-
 **[aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast)**
 
 让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
 
 `Rust` `claude` `kiro`
 
-⭐ 994 • 🔱 120 • 10h ago
+⭐ 994 • 🔱 120 • 12h ago
 
 ---
 
