@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T14:26:03.999220+00:00'
+updated: '2026-01-09T14:50:15.293803+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 14:26 UTC  
+**Last Updated:** January 09, 2026 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-10h ago
+11h ago
 
 ---
 
 **[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,7 +99,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -115,13 +115,13 @@ Anything I should know about?
 
 BTC
 
-22h ago
+23h ago
 
 ---
 
 **[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 1d ago
 
 **[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ TradingView — Track All Markets • 1h ago
 
 **[Donald Trump May Start Buying Bitcoin in 2026, Says Cathie Wood — Can Price Surge to Her $1.2 Million Target?](https://www.ccn.com/news/crypto/donald-trump-may-start-buying-bitcoin-in-2026-says-cathie-wood-can-price-surge-to-her-1-2-million-target/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
 
-VanEck • 21h ago
+VanEck • 22h ago
 
 ---
 
@@ -265,7 +265,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 5h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 6h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -317,7 +317,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 51K • 👍 2K • 💬 284 • ⏱️ 16:13 • 17h ago
+👁️ 51K • 👍 2K • 💬 284 • ⏱️ 16:13 • 18h ago
 
 ---
 
@@ -397,7 +397,7 @@ Stay informed with the latest insights on **btc**, focusing on effective **tradi
 
 📺 Krown
 
-👁️ 9K • 👍 714 • 💬 239 • ⏱️ 13:56 • 20h ago
+👁️ 9K • 👍 714 • 💬 239 • ⏱️ 13:56 • 21h ago
 
 ---
 

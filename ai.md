@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T14:26:03.991857+00:00'
+updated: '2026-01-09T14:50:15.285497+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - social
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 14:26 UTC  
+**Last Updated:** January 09, 2026 at 14:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472) • 12m ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472) • 36m ago
 
 ---
 
@@ -81,7 +81,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 22h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 23h ago
 
 ---
 
@@ -89,7 +89,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 When I ask google stuff in AI, the answer that is given is sometimes wrong because it's ignoring information that is currently known. It is like talking to a person in the past and, that person is certain there is nothing the future could know that changes their answer on subjects!
 
-27m ago
+51m ago
 
 ---
 
@@ -133,13 +133,13 @@ The Guardian • 1h ago
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
 **[Elon Musk’s A.I. Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 15m ago
+The New York Times • 39m ago
 
 ---
 
@@ -153,7 +153,7 @@ CNBC • 3h ago
 
 **[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://www.bloomberg.com/news/articles/2026-01-09/meta-signs-multi-gigawatt-nuclear-deals-to-power-ai-data-centers)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -161,13 +161,13 @@ Bloomberg.com • 1h ago
 
 Facebook parent Meta has reached nuclear power deals with three companies as it continues to look for electricity sources for its artificial intelligence data...
 
-10TV • 29m ago
+10TV • 53m ago
 
 ---
 
 **[Exclusive: Standard AI acquires Pathr.ai for computer vision analytics](https://www.axios.com/pro/retail-deals/2026/01/09/standard-ai-pathrai-acquisition-computer-vision-analytics)**
 
-Axios • 22m ago
+Axios • 46m ago
 
 ---
 
@@ -175,7 +175,7 @@ Axios • 22m ago
 
 AI productivity gains are now showing up in GDP, unit labor costs, and earnings at AI adopter firms. Click here to read what investors need to know.
 
-Seeking Alpha • 12m ago
+Seeking Alpha • 36m ago
 
 ---
 
@@ -287,7 +287,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 43 • ⏱️ 17:54 • 13h ago
+👁️ 45K • 👍 1K • 💬 43 • ⏱️ 17:54 • 14h ago
 
 ---
 
@@ -307,7 +307,7 @@ I was playing around with a bunch of different #midjourney style ref codes and f
 
 📺 Kelly Boesch AI Art
 
-👁️ 10K • 👍 617 • 💬 64 • ⏱️ 2:42 • 23h ago
+👁️ 10K • 👍 617 • 💬 64 • ⏱️ 2:42 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 10K • 👍 119 • 💬 57 • ⏱️ 3:21 • 2d ago
+👁️ 10K • 👍 119 • 💬 57 • ⏱️ 3:21 • 3d ago
 
 ---
 
@@ -645,7 +645,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.3k • 🔱 873 • 1m ago
+⭐ 7.3k • 🔱 873 • 25m ago
 
 ---
 
@@ -665,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 131 • 18m ago
+⭐ 2.2k • 🔱 131 • 42m ago
 
 ---
 
@@ -695,7 +695,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 103 • 26m ago
+⭐ 1.3k • 🔱 103 • 50m ago
 
 ---
 
@@ -735,7 +735,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 120 • 3h ago
+⭐ 1.0k • 🔱 120 • 4h ago
 
 ---
 
