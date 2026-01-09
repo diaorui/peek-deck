@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T23:21:35.351389+00:00'
+updated: '2026-01-09T23:42:30.149223+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 23:21 UTC  
+**Last Updated:** January 09, 2026 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 I did a thought experiment with my AI of choice and I'm absolutely flabbergasted! I always have been fascinated by what can be done with AI so today I sat down and made up a thought experiment about popcorn (because I literally was eating popcorn) and this is how ot went: Imagine that since the dawn of humanity (about 5 million years ago), every hominid, Neanderthal, and human had access to a microwave. Every single day, everyone pops exactly one bag of popcorn (50 kernels). To make it a pure physics experiment, we eliminate all "noise": No dust, no skin flakes, identical humidity everywhere, and we let the popcorn cool for 24 hours so all steam has evaporated. We are looking for two bowls of popcorn that weigh exactly the same. We calculated that throughout history, there would have been roughly 2 quintillion (2 * 10{18}) bags of popcorn made. If we measure in Micrograms (10{-6}g): There would be billions of identical pairs. If we measure in Nanograms (10{-9}g): Still millions of perfect matches. The "Attogram Miracle": I pushed the experiment to the limit: The Attogram (10{-18}g). An attogram is so small that it’s roughly the mass of just 50 carbon atoms. At this level, the number of possible weight increments (2 grams divided by 1 attogram) is exactly 2 quintillion. According to the "Birthday Paradox" in statistics, since the number of bags made (2 * 10{18}) matches the number of possible weight steps (2 * 10{18}), the probability hits a tipping point. Statistically, it is highly likely that exactly ONCE in human history, two bowls of popcorn were physically identical at the attogram level. One might have been popped by a caveman 3 million years ago, and the other by a college student in 2024. They would be "weight-twins" down to a scale finer than anything we can measure today—a perfect symmetry across time, separated only by the mass of a few atoms. TL;DR: If humans had been popping popcorn since we were apes, we would have produced enough bags to guarantee a 1-in-a-quintillion "Attogram Miracle"—two bowls weighing exactly the same down to the mass of 50 atoms.
 
-1h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ I did a thought experiment with my AI of choice and I'm absolutely flabbergasted
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 2h ago
+The New York Times • 9h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 6h ago
 
 Spokesperson says limiting access to paying subscribers just makes ability to generate unlawful images a premium service
 
-The Guardian • 1d ago
+The Guardian • 10h ago
 
 ---
 
@@ -149,27 +149,27 @@ NBC News • 13h ago
 
 ---
 
-**[2 Brilliant AI Stocks to Buy in January and Hold for the Long Term](https://www.fool.com/investing/2026/01/09/2-brilliant-ai-stocks-buy-january-hold-long-term/)**
+**[DOJ creates task force to challenge state AI regulations](https://www.cbsnews.com/news/doj-creates-task-force-to-challenge-state-ai-regulations/)**
 
-These tech leaders are playing crucial roles in bringing AI to the masses.
+A new group within the Justice Department will target state artificial intelligence laws that it says hinder innovation, according to a memo.
 
-The Motley Fool • 6h ago
-
----
-
-**[3 Millionaire-Maker Artificial Intelligence (AI) Stocks](https://www.fool.com/investing/2026/01/08/millionaire-maker-artificial-intelligence-ai-stock/)**
-
-You don't have to buy risky stocks to invest in the AI boom.
-
-The Motley Fool • 23h ago
+cbsnews.com • 40m ago
 
 ---
 
-**[What Are the 3 Top Artificial Intelligence (AI) Stocks to Buy Right Now?](https://finance.yahoo.com/news/3-top-artificial-intelligence-ai-212100195.html)**
+**[AI is coming for collectibles next](https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026)**
 
-Nvidia, Broadcom, and Amazon are all solid long-term plays on the AI boom.
+Funko Pops, but make it AI.
 
-Yahoo Finance • 2h ago
+The Verge • 49m ago
+
+---
+
+**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?utm_source=feed)**
+
+Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
+
+The Atlantic • 1h ago
 
 ---
 
@@ -185,15 +185,13 @@ BBC • 13h ago
 
 While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
 
-NPR • 23h ago
+NPR • 1d ago
 
 ---
 
-**['No one verified the evidence': Woman says AI-generated deepfake text sent her to jail | Action News Investigation](https://6abc.com/post/no-verified-evidence-woman-says-ai-generated-deepfake-text-sent-jail-action-news-investigation/18373467/)**
+**[Physical AI dominates CES but humanity will still have to wait a while for humanoid servants](https://www.reuters.com/world/china/physical-ai-dominates-ces-humanity-will-still-have-wait-while-humanoid-servants-2026-01-09/)**
 
-Melissa Sims said her nightmare began after she called police during an argument with her boyfriend, when she said he allegedly ransacked her home.
-
-6abc Philadelphia • 18h ago
+Reuters • 12h ago
 
 ---
 
@@ -299,7 +297,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 66K • 👍 1K • 💬 52 • ⏱️ 17:54 • 22h ago
+👁️ 66K • 👍 1K • 💬 52 • ⏱️ 17:54 • 23h ago
 
 ---
 
@@ -349,7 +347,7 @@ Elon Musk's platform X has limited Grok Artificial Intelligence (AI) image edits
 
 📺 BBC News
 
-👁️ 11K • 👍 273 • 💬 133 • ⏱️ 3:03 • 6h ago
+👁️ 11K • 👍 273 • 💬 133 • ⏱️ 3:03 • 7h ago
 
 ---
 
@@ -697,7 +695,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 104 • 45m ago
+⭐ 1.3k • 🔱 104 • 1h ago
 
 ---
 
@@ -707,7 +705,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 104 • 8h ago
+⭐ 1.2k • 🔱 104 • 9h ago
 
 ---
 

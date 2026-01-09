@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T23:21:35.368911+00:00'
+updated: '2026-01-09T23:42:30.166892+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 23:21 UTC  
+**Last Updated:** January 09, 2026 at 23:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -118,23 +118,7 @@ International Federation of Robotics • 1d ago
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 1d ago
-
----
-
-**[Arm reorganizes to launch Physical AI unit amid robotics rush](https://seekingalpha.com/news/4537591-arm-reorganizes-to-launch-physical-ai-unit-amid-robotics-rush)**
-
-Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Arm Stock In Spotlight -- A New Push Into Robotics Is Driving the Move](https://finance.yahoo.com/news/arm-stock-spotlight-push-robotics-165453695.html)**
-
-Arm's Stock Is Moving After a Strategic Shake-Up
-
-Yahoo Finance • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -154,6 +138,14 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+
+Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+
+NVIDIA Developer • 1d ago
+
+---
+
 **[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
 
 Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
@@ -162,25 +154,36 @@ The Times of Israel • 2d ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcO1VZmiOR6VXSG0nKxvCu0-kg0SeCjeKFYegxg2ScIUF8j-dCIDmLz&gaa_ts=6961831a&gaa_sig=wapMIA2RfZY18-pSjukg8jlYn_H3q4mOBFT7iwZg-hG8g2F5e7jGxxpC3WDyxZQi_MDIiQUo6zJo4hgFWmgrsQ%3D%3D)**
+**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
 
-The Wall Street Journal • 3d ago
+At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
+people and production.
 
----
-
-**[Mobileye buys Shashua's Mentee Robotics for $900m](https://www.jpost.com/business-and-innovation/article-882710)**
-
-Mobileye has $1.7 billion in cash, so even after the transaction it will hold over $1 billion in cash
-
-The Jerusalem Post • 1d ago
+hyundai.com • 17h ago
 
 ---
 
-**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+**[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)**
 
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
 
-NVIDIA Developer • 1d ago
+hyundai.com • 4d ago
+
+---
+
+**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
+
+Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+
+Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+
+CNBC • 10h ago
 
 ---
 

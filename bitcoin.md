@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T23:21:35.359719+00:00'
+updated: '2026-01-09T23:42:30.157676+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 23:21 UTC  
+**Last Updated:** January 09, 2026 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Rank #1
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 I am tired boss
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ I am tired boss
 
 FIX THE MONEY, FIX THE FAMILY: HOW BITCOIN RESTORES THE HOME THE PROBLEM: THE "FIAT FAMILY" WHAT IS FIAT MONEY? It is money issued by governments that loses value over time due to inflation. 1.1 INFLATION PUNISHES SAVING 1.2 THE TWO-INCOME TRAP 1.3 EXTERNALIZED CHILD-REARING 1.4 DEGRADED FOOD AND HEALTH 1.5 THE CYCLE OF STRESS AND DEBT THE SOLUTION: BITCOIN, THE CHAMPION OF THE FAMILY WHAT IS BITCOIN? It is digital money with a fixed supply of 21 million. No government can print more, so it protects your purchasing power in the long term. 2.1 RESTORES LONG-TERM THINKING 2.2 PROMOTES "PEACEFUL PARENTING" 2.3 ENABLES THE SINGLE-INCOME HOUSEHOLD 2.4 TEACHES SOVEREIGNTY AND CRITICAL THINKING 2.5 BUILD YOUR FAMILY FORTRESS
 
-5h ago
+6h ago
 
 ---
 
@@ -153,9 +153,31 @@ FIX THE MONEY, FIX THE FAMILY: HOW BITCOIN RESTORES THE HOME THE PROBLEM: THE "F
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
+
+Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
+
+CoinDesk • 21h ago
+
+---
+
+**[Will a Supreme Court Ruling Against Trump Cause a Bitcoin Crash?](https://bitcoinmagazine.com/politics/supreme-court-cause-a-bitcoin-crash)**
+
+Bitcoin could face heightened volatility if the Supreme Court rules against Trump on his global tariffs, impacting markets across crypto, equities, and bonds.
+
+Bitcoin Magazine • 1d ago
+
+---
+
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -175,6 +197,22 @@ CNBC • 11h ago
 
 ---
 
+**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
+
+If true, the claim could significantly reshape the global bitcoin market.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
+
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
+
+VanEck • 1d ago
+
+---
+
 **[Florida revives push for bitcoin reserve with new 2026 bill](https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill)**
 
 A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
@@ -186,44 +224,6 @@ CoinDesk • 1d ago
 **[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
 
 The Block • 1d ago
-
----
-
-**[Brazilian presidential hopeful calls for launch of national Bitcoin reserve](https://www.dlnews.com/articles/people-culture/brazilian-presidential-hopeful-wants-bitcoin-reserve/)**
-
-Politician Renan Santos aims to become the Brazilian Bukele. He says a Brazilian Bitcoin reserve is already “feasible.” Santos says blockchain technology is a “cool tool” for fighting corruption.
-
-dlnews.com • 2d ago
-
----
-
-**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
-
-Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
-
-CoinDesk • 21h ago
-
----
-
-**[Bitcoin price clings to $90K as traders eye US Supreme Court tariff ruling](https://www.tradingview.com/news/cointelegraph:9108a7809094b:0-bitcoin-price-clings-to-90k-as-traders-eye-us-supreme-court-tariff-ruling/)**
-
-Bitcoin BITSTAMP:BTCUSD hovered at $90,000 around Friday’s Wall Street open as markets braced for US trade tariff news.Key points:US tariff ruling could come FridayData from TradingView showed indecisive BTC price action ahead of a potential Supreme Court ruling over the tariffs, known as a risk-as…
-
-TradingView — Track All Markets • 8h ago
-
----
-
-**[Bitcoin Whales Keep Buying as 100+ BTC Addresses Set New Record](https://bitcoinmagazine.com/news/bitcoin-whales-keep-buying-bitcoin)**
-
-Bitcoin whale accumulation hit a record high as 100+ BTC addresses surged, even as bitcoin consolidates near $90,000 amid easing macro uncertainty.
-
-Bitcoin Magazine • 1h ago
 
 ---
 
@@ -323,7 +323,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 311 • ⏱️ 11:14 • 21h ago
+👁️ 45K • 👍 2K • 💬 311 • ⏱️ 11:14 • 22h ago
 
 ---
 
@@ -393,7 +393,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 91 • ⏱️ 5:09 • 21h ago
+👁️ 23K • 👍 1K • 💬 91 • ⏱️ 5:09 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T23:21:35.365701+00:00'
+updated: '2026-01-09T23:42:30.163669+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 23:21 UTC  
+**Last Updated:** January 09, 2026 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -120,7 +120,7 @@ Correct me if I'm wrong, maybe I've been out of touch with recent developments b
 
 If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw
 
-5h ago
+6h ago
 
 ---
 
@@ -142,7 +142,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -158,11 +158,9 @@ Decrypt • 1d ago
 
 ---
 
-**[Why are Bitcoin, Ethereum, and XRP’s prices down? ETF flows, Fed rates, and more…](https://ambcrypto.com/why-are-bitcoin-ethereum-and-xrps-prices-down-etf-flows-fed-rates-and-more/)**
+**[Tom Lee’s Bitmine (BMNR) Increases Ethereum Holdings to $13.3 Billion](https://www.tipranks.com/news/tom-lees-bitmine-bmnr-increases-ethereum-holdings-to-13-3-billion)**
 
-Will crypto assets defend their key short-term support levels?
-
-AMBCrypto • 18h ago
+TipRanks • 3d ago
 
 ---
 
@@ -192,7 +190,7 @@ The Block • 2d ago
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -216,13 +214,15 @@ Bit Digital • 2d ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 4h ago
+Coinpedia Fintech News • 5h ago
 
 ---
 
-**[Bitcoin and Ethereum to $250,000? Here's Why Tom Lee Just Gave His Most Bullish Predictions Yet](https://www.ccn.com/news/crypto/bitcoin-ethereum-250000-tom-lee-most-bullish-predictions-yet/)**
+**[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
 
-CCN.com • 3d ago
+Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
+
+The Motley Fool • 12h ago
 
 ---
 
@@ -236,7 +236,7 @@ CCN.com • 3d ago
 
 📺 Stock Moe
 
-👁️ 12K • 👍 781 • 💬 76 • ⏱️ 12:30 • 9h ago
+👁️ 12K • 👍 781 • 💬 76 • ⏱️ 12:30 • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 5K • 👍 233 • 💬 39 • ⏱️ 52:02 • 11h ago
+👁️ 5K • 👍 233 • 💬 39 • ⏱️ 52:02 • 12h ago
 
 ---
 
