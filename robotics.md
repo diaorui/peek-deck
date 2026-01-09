@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T09:29:36.481641+00:00'
+updated: '2026-01-09T09:53:17.980067+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 09:29 UTC  
+**Last Updated:** January 09, 2026 at 09:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,31 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Hyundai’s Atlas humanoid wins Best Robot award at CES 2026](https://www.reddit.com/r/robotics/comments/1q81pmo/hyundais_atlas_humanoid_wins_best_robot_award_at/)**
+
+Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
+
+2h ago
+
+---
+
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
 20h ago
 
 ---
 
-**[Hyundai’s Atlas humanoid wins Best Robot award at CES 2026](https://www.reddit.com/r/robotics/comments/1q81pmo/hyundais_atlas_humanoid_wins_best_robot_award_at/)**
+**[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
-Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
+46m ago
 
-2h ago
+---
+
+**[Sherpa autonomous windmill assembly demo shown at CES 2026](https://www.reddit.com/r/robotics/comments/1q843j8/sherpa_autonomous_windmill_assembly_demo_shown_at/)**
+
+From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
+
+9m ago
 
 ---
 
@@ -56,13 +70,19 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
 
-1h ago
+2h ago
 
 ---
 
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
 1d ago
+
+---
+
+**[Tips for applying to Master’s in Space Technology and Business at Uni lu](https://www.reddit.com/r/robotics/comments/1q839kj/tips_for_applying_to_masters_in_space_technology/)**
+
+1h ago
 
 ---
 
@@ -79,28 +99,6 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
 1d ago
-
----
-
-**[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
-
-21h ago
-
----
-
-**[Smarter tomato-picking robots learn to judge each fruit before harvest](https://www.reddit.com/r/robotics/comments/1q7w8vo/smarter_tomatopicking_robots_learn_to_judge_each/)**
-
-New research shows robots can predict harvest success and change approach angles, reaching an 81% tomato-picking success rate.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 6h ago
-
----
-
-**[World's oldest working robotic bartender](https://www.reddit.com/r/robotics/comments/1q80tmi/worlds_oldest_working_robotic_bartender/)**
-
-We finally put our 1979 Unimate PUMA 260 to work - serving drinks! The Unimate 200 and 500 series robots were the first commercially available electric robots. Prior to then, Unimation, the first and leading robotics company, manufactured and sold hydraulic robots. VAL was the custom programming language developed by Unimation to control the PUMA robots. It is incredibly advanced and includes kinematics. This robot is using an original controller and the VAL language loaded from a 5 1/4" floppy disk that also stores the program. We were successful on the first try! If you want to see how the robot was set up - watch this video: https://www.youtube.com/watch?v=DTxBZp_J5VQ If anyone has a hydraulic Unimate, please contact me at [info@stepaudio.net](mailto:info@stepaudio.net) Cheers!
-
-🔗 [youtu.be](https://youtu.be/P0Ws43gnkgQ) • 3h ago
 
 ---
 
@@ -149,7 +147,7 @@ hyundai.com • 3d ago
 At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
 people and production.
 
-hyundai.com • 1h ago
+hyundai.com • 2h ago
 
 ---
 
@@ -223,7 +221,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 196K • 👍 7K • 💬 253 • ⏱️ 0:39 • 15h ago
+👁️ 196K • 👍 7K • 💬 253 • ⏱️ 0:39 • 16h ago
 
 ---
 
@@ -283,7 +281,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 5.0M • 👍 4K • 💬 956 • ⏱️ 0:32 • 4d ago
+👁️ 5.0M • 👍 4K • 💬 956 • ⏱️ 0:32 • 5d ago
 
 ---
 

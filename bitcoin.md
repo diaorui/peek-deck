@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T09:29:36.472560+00:00'
+updated: '2026-01-09T09:53:17.970727+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 09:29 UTC  
+**Last Updated:** January 09, 2026 at 09:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,612.67
+### $90,378.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.1%  
-**30d:** -2.2%  
-**90d:** -21.4%  
-**1y:** -4.4%  
+**24h:** -0.2%  
+**7d:** -0.5%  
+**30d:** -2.5%  
+**90d:** -21.7%  
+**1y:** -4.7%  
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
-
-7h ago
-
----
-
 **[Taking profits](https://www.reddit.com/r/Bitcoin/comments/1q7xnak/taking_profits/)**
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
+
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 BTC
 
-17h ago
+18h ago
 
 ---
 
@@ -113,21 +113,21 @@ Anything I should know about?
 
 ---
 
-**[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
+**[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
 6h ago
+
+---
+
+**[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
+
+7h ago
 
 ---
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
 14h ago
-
----
-
-**[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
-
-5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Anything I should know about?
 
 Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
 
-11h ago
+12h ago
 
 ---
 
@@ -154,6 +154,14 @@ Central banks reported record-breaking Gold accumulation throughout 2025, but th
 Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
 
 CNBC • 1d ago
+
+---
+
+**[Polygon Eyes Bitcoin ATM Provider Coinme Acquisition for $100M to $125M: Report](https://finance.yahoo.com/news/polygon-eyes-bitcoin-atm-provider-070327550.html)**
+
+Ethereum Layer-2 network Polygon is reportedly looking to acquire US Bitcoin ATM provider Coinme for a purchase price between $100 million and $125 million.Sources familiar with the matter told CoinDesk that the ETH scaling network is “close to” acquiring the BTC ATM company, with Architect Partners serving as its financial ...
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,13 +201,7 @@ Fortune • 1d ago
 
 If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
-
-The Block • 13h ago
+Bitcoin Magazine • 33m ago
 
 ---
 
@@ -207,7 +209,13 @@ The Block • 13h ago
 
 A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
+
+---
+
+**[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
+
+The Block • 13h ago
 
 ---
 
@@ -219,14 +227,6 @@ Bitcoin Magazine • 19h ago
 
 ---
 
-**[Morgan Stanley files for bitcoin, solana ETFs in digital assets push](https://finance.yahoo.com/news/morgan-stanley-files-bitcoin-solana-111504913.html)**
-
-Morgan Stanley is seeking regulatory approval to launch exchange-traded funds tied to the price of cryptocurrency tokens, ​according to filings with the U.S. Securities and Exchange Commission ‌on Tuesday, the first such move by a big U.S. bank.  Regulatory clarity under U.S. President Donald Trump has encouraged mainstream finance companies ⁠to embrace digital assets, which ‌were once considered merely speculative instruments.  In December, the Office of the Comptroller of the Currency also allowed banks ‍to act as intermediaries on crypto transactions, narrowing the gap between the traditional sector and digital assets.
-
-Yahoo Finance • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -235,13 +235,13 @@ Yahoo Finance • 2d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 10h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 11h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 21h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 22h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -266,6 +266,14 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
 ⬆️ 3 • 💬 1 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+
+---
+
+**[How to Hypothetically Secure $1B in Bitcoin](https://news.ycombinator.com/item?id=46551501)**
+
+Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
+
+⬆️ 2 • 💬 1 • 1h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -297,12 +305,6 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ---
 
-**[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
-
-⬆️ 1 • 💬 1 • 4d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -313,7 +315,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 273 • ⏱️ 16:13 • 12h ago
+👁️ 45K • 👍 2K • 💬 273 • ⏱️ 16:13 • 13h ago
 
 ---
 
