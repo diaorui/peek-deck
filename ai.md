@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T10:50:12.099424+00:00'
+updated: '2026-01-09T11:20:51.288351+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 10:50 UTC  
+**Last Updated:** January 09, 2026 at 11:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 22h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 23h ago
 
 ---
 
@@ -65,7 +65,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Humanity may have gained a few extra years. The AI Futures Project, led by forme
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 1h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 2h ago
 
 ---
 
@@ -103,7 +103,7 @@ It comes after government urged Ofcom to use all its powers – up to and includ
 
 I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ I used to think “better prompt” would fix everything. Then I watched my syst
 
 Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
 
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 18h ago
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 19h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 3h ago
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ WIRED • 2d ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-IEEE Spectrum • 21h ago
+IEEE Spectrum • 22h ago
 
 ---
 
@@ -169,19 +169,19 @@ CNBC • 4h ago
 
 **[Founder Of Chinese AI Model Developer MiniMax Becomes A Billionaire As Shares Surge On Listing](https://www.forbes.com/sites/ywang/2026/01/09/founder-of-chinese-ai-model-developer-minimax-becomes-a-billionaire-as-shares-surge-on-listing/)**
 
-Forbes • 25m ago
+Forbes • 56m ago
 
 ---
 
 **[Is AI Is Killing Entry-Level Hiring? Not at Shopify](https://www.inc.com/jessica-stillman/is-ai-is-killing-entry-level-hiring-not-at-shopify/91285290)**
 
-inc.com • 6m ago
+inc.com • 37m ago
 
 ---
 
 **[Our AI Future Is Already Here, It’s Just Not Evenly Distributed](https://www.wsj.com/tech/ai/our-ai-future-is-already-here-its-just-not-evenly-distributed-cf7a6f35?gaa_at=eafs&gaa_n=AWEtsqfMRFRsSlaE9veO24ir6Ewn9Mmw3vyw7GEOIjLlIM1snEuAztX0UXes&gaa_ts=6960e0ca&gaa_sig=6uh2-Q5_O3A3rmFBQ8IMFUaQl8wl5TUICSLHupYsXv5N0wht3PErFuVxTO4xnuvTjTozHnZDJwCNjF_CYR-ktg%3D%3D)**
 
-The Wall Street Journal • 20m ago
+The Wall Street Journal • 50m ago
 
 ---
 
@@ -201,13 +201,13 @@ Fortune • 1d ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 844 • 💬 1318 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 844 • 💬 1320 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 641 • 💬 207 • 15h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 662 • 💬 214 • 16h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -215,7 +215,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 499 • 💬 353 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 506 • 💬 355 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -223,7 +223,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 309 • 💬 495 • 19h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 325 • 💬 511 • 20h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -231,7 +231,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 248 • 💬 113 • 16h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 250 • 💬 113 • 17h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -255,7 +255,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 “I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
 
-⬆️ 174 • 💬 208 • 16h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+⬆️ 186 • 💬 242 • 17h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -263,7 +263,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 152 • 💬 84 • 1d ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 152 • 💬 85 • 1d ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -335,7 +335,7 @@ CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
 
 📺 CNBC Television
 
-👁️ 8K • 👍 110 • 💬 13 • ⏱️ 3:43 • 15h ago
+👁️ 8K • 👍 110 • 💬 13 • ⏱️ 3:43 • 16h ago
 
 ---
 
@@ -365,7 +365,7 @@ Does AI make you delusional? #ai #aipsychology #gpt #gemini #chatgpt #copilot #g
 
 📺 Psych2Go
 
-👁️ 2K • 👍 415 • 💬 42 • ⏱️ 1:54 • 2h ago
+👁️ 2K • 👍 415 • 💬 42 • ⏱️ 1:54 • 3h ago
 
 ---
 
@@ -499,7 +499,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 205 • 4h ago
+⬇️ 5,785 • ❤️ 205 • 5h ago
 
 ---
 
@@ -667,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 20h ago
+⭐ 2.2k • 🔱 130 • 21h ago
 
 ---
 
@@ -737,7 +737,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 120 • 6h ago
+⭐ 1.0k • 🔱 120 • 7h ago
 
 ---
 

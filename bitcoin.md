@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T10:50:12.107845+00:00'
+updated: '2026-01-09T11:20:51.297248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 10:50 UTC  
+**Last Updated:** January 09, 2026 at 11:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.5%  
-**30d:** -2.5%  
-**90d:** -21.7%  
-**1y:** -4.7%  
+**24h:** +0.6%  
+**7d:** -0.1%  
+**30d:** -2.2%  
+**90d:** -21.4%  
+**1y:** -4.3%  
 
 ---
 
@@ -99,17 +99,17 @@ BTC
 
 ---
 
+**[Tax it, or print it?](https://www.reddit.com/r/Bitcoin/comments/1q80fbk/tax_it_or_print_it/)**
+
+5h ago
+
+---
+
 **[Starting the journey (New to bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1q7wv4t/starting_the_journey_new_to_bitcoin/)**
 
 Anything I should know about?
 
-7h ago
-
----
-
-**[Tax it, or print it?](https://www.reddit.com/r/Bitcoin/comments/1q80fbk/tax_it_or_print_it/)**
-
-4h ago
+8h ago
 
 ---
 
@@ -127,13 +127,13 @@ Anything I should know about?
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -157,11 +157,17 @@ CNBC • 1d ago
 
 ---
 
-**[Polygon Eyes Bitcoin ATM Provider Coinme Acquisition for $100M to $125M: Report](https://finance.yahoo.com/news/polygon-eyes-bitcoin-atm-provider-070327550.html)**
+**[3 Predictions for Bitcoin in 2026](https://finance.yahoo.com/news/3-predictions-bitcoin-2026-110500279.html)**
 
-Ethereum Layer-2 network Polygon is reportedly looking to acquire US Bitcoin ATM provider Coinme for a purchase price between $100 million and $125 million.Sources familiar with the matter told CoinDesk that the ETH scaling network is “close to” acquiring the BTC ATM company, with Architect Partners serving as its financial ...
+There's going to be a lot going on in 2026, but the crypto probably won't go to the moon.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 15m ago
+
+---
+
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak?utm_source=markets.xml&utm_medium=rss)**
+
+The Block • 2h ago
 
 ---
 
@@ -169,7 +175,7 @@ Yahoo Finance • 3h ago
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -201,29 +207,21 @@ Fortune • 1d ago
 
 If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
-**[Florida revives push for bitcoin reserve with new 2026 bill](https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill)**
+**[Citi analysts reiterate bitcoin $143,000 base case projection despite bitcoin tumbling](https://sherwood.news/crypto/citi-analysts-reiterate-bitcoin-usd143-000-base-case-projection-despite/)**
 
-A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
+Bitcoin ETFs also suffered on Wednesday....
 
-CoinDesk • 22h ago
-
----
-
-**[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
-
-The Block • 14h ago
+Sherwood News • 20h ago
 
 ---
 
-**[Florida Lawmakers Want To Create A Bitcoin Reserve In 2026](https://bitcoinmagazine.com/news/florida-revives-bitcoin-reserve-push)**
+**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
 
-Florida lawmakers filed new legislation for the 2026 session that would create a state-run crypto reserve after a similar effort stalled last year.
-
-Bitcoin Magazine • 20h ago
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -235,13 +233,13 @@ Bitcoin Magazine • 20h ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 11h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 12h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 22h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 23h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -325,7 +323,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 158 • ⏱️ 25:57 • 10h ago
+👁️ 19K • 👍 2K • 💬 158 • ⏱️ 25:57 • 11h ago
 
 ---
 
@@ -335,7 +333,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 5K • 👍 260 • 💬 41 • ⏱️ 10:06 • 16h ago
+👁️ 5K • 👍 260 • 💬 41 • ⏱️ 10:06 • 17h ago
 
 ---
 
@@ -385,7 +383,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 45K • 👍 3K • 💬 242 • ⏱️ 17:35 • 20h ago
+👁️ 45K • 👍 3K • 💬 242 • ⏱️ 17:35 • 21h ago
 
 ---
 
@@ -395,7 +393,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 20K • 👍 1K • 💬 57 • ⏱️ 13:19 • 13h ago
+👁️ 20K • 👍 1K • 💬 57 • ⏱️ 13:19 • 14h ago
 
 ---
 
@@ -405,7 +403,7 @@ Gold and Silver are up HUGE this year! Hitting new all time highs almost every w
 
 📺 The Bitcoin Broadcast - Vince HodlFlorida
 
-👁️ 4K • 👍 53 • 💬 5 • ⏱️ 0:52 • 21h ago
+👁️ 4K • 👍 53 • 💬 5 • ⏱️ 0:52 • 22h ago
 
 ---
 
