@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T05:27:02.761288+00:00'
+updated: '2026-01-09T05:50:32.321519+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 05:27 UTC  
+**Last Updated:** January 09, 2026 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,13 +57,21 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 13h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 14h ago
 
 ---
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
 🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 1d ago
+
+---
+
+**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
+
+Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
+
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 13h ago
 
 ---
 
@@ -79,15 +87,7 @@ I used to think “better prompt” would fix everything. Then I watched my syst
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 12h ago
-
----
-
-**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
-
-Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
-
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 13h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 13h ago
 
 ---
 
@@ -151,7 +151,7 @@ IEEE Spectrum • 16h ago
 
 Melissa Sims said her nightmare began after she called police during an argument with her boyfriend, when she said he allegedly ransacked her home.
 
-6abc Philadelphia • 45m ago
+6abc Philadelphia • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Melissa Sims said her nightmare began after she called police during an argument
 
 Brands are moving faster to own first-party data as AI and privacy changes alter the digital advertising landscape.
 
-Digiday • 24m ago
+Digiday • 47m ago
 
 ---
 
@@ -167,7 +167,7 @@ Digiday • 24m ago
 
 MIT researchers are working on AI tools to optimize the power grid, which could improve efficiency, increase resilience to extreme weather, and enable the integration of more renewable energy.
 
-MIT News • 27m ago
+MIT News • 50m ago
 
 ---
 
@@ -191,7 +191,7 @@ NPR • 6h ago
 
 Online detectives are inaccurately claiming to have identified the federal agent who shot and killed a 37-year-old woman in Minnesota based on AI-manipulated images.
 
-WIRED • 12h ago
+WIRED • 13h ago
 
 ---
 
@@ -209,7 +209,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 539 • 💬 189 • 10h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 563 • 💬 192 • 10h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -217,7 +217,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 460 • 💬 335 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 476 • 💬 343 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -225,7 +225,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 259 • 💬 408 • 14h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 270 • 💬 417 • 14h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -233,7 +233,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 238 • 💬 98 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 239 • 💬 98 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -241,7 +241,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 236 • 💬 112 • 11h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 237 • 💬 112 • 11h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -257,7 +257,15 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 150 • 💬 83 • 22h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 150 • 💬 83 • 23h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+
+---
+
+**[He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://news.ycombinator.com/item?id=46544276)**
+
+“I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
+
+⬆️ 132 • 💬 155 • 11h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -266,14 +274,6 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 We present the first comprehensive evaluation of AI agents against human cybersecurity professionals in a live enterprise environment. We evaluate ten cybersecurity professionals alongside six existing AI agents and ARTEMIS, our new agent scaffold, on a large university network consisting of ~8,000 hosts across 12 subnets. ARTEMIS is a multi-agent framework featuring dynamic prompt generation, arbitrary sub-agents, and automatic vulnerability triaging. In our comparative study, ARTEMIS placed second overall, discovering 9 valid vulnerabilities with an 82% valid submission rate and outperforming 9 of 10 human participants. While existing scaffolds such as Codex and CyAgent underperformed relative to most human participants, ARTEMIS demonstrated technical sophistication and submission quality comparable to the strongest participants. We observe that AI agents offer advantages in systematic enumeration, parallel exploitation, and cost -- certain ARTEMIS variants cost $18/hour versus $60/hour for professional penetration testers. We also identify key capability gaps: AI agents exhibit higher false-positive rates and struggle with GUI-based tasks.
 
 ⬆️ 124 • 💬 91 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.09882)
-
----
-
-**[He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://news.ycombinator.com/item?id=46544276)**
-
-“I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
-
-⬆️ 118 • 💬 137 • 11h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -287,7 +287,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 12K • 👍 485 • 💬 22 • ⏱️ 17:54 • 4h ago
+👁️ 12K • 👍 485 • 💬 22 • ⏱️ 17:54 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 13K • 👍 536 • 💬 44 • ⏱️ 14:35 • 7h ago
+👁️ 13K • 👍 536 • 💬 44 • ⏱️ 14:35 • 8h ago
 
 ---
 
@@ -649,7 +649,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.1k • 🔱 857 • 2h ago
+⭐ 7.1k • 🔱 857 • 3h ago
 
 ---
 
@@ -699,7 +699,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 101 • 17h ago
+⭐ 1.3k • 🔱 101 • 18h ago
 
 ---
 
@@ -719,7 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 99 • 46m ago
+⭐ 1.1k • 🔱 99 • 1h ago
 
 ---
 

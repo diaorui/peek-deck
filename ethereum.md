@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T05:27:02.775795+00:00'
+updated: '2026-01-09T05:50:32.336212+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 05:27 UTC  
+**Last Updated:** January 09, 2026 at 05:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -0.4%  
-**30d:** -3.7%  
-**90d:** -25.0%  
-**1y:** -4.6%  
+**24h:** +0.3%  
+**7d:** -0.5%  
+**30d:** -3.8%  
+**90d:** -25.1%  
+**1y:** -4.8%  
 
 ---
 
@@ -84,11 +84,19 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 ---
 
+**[something that bothered me about on-chain settlement semantics](https://www.reddit.com/r/ethereum/comments/1q7zfvc/something_that_bothered_me_about_onchain/)**
+
+this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
+
+40m ago
+
+---
+
 **[AMA: We’re DAMM Capital — a crypto-native DeFi asset manager](https://www.reddit.com/r/ethereum/comments/1q7ih76/ama_were_damm_capital_a_cryptonative_defi_asset/)**
 
 DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires, Argentina, building and operating self-custodial decentralized finance strategies for people and organizations that want real exposure to DeFi without having to become protocol experts. We started years ago doing algorithmic market making and Protocol Owned Liquidity (PoL), and have grown into a broader on-chain asset manager serving institutions, DAOs, and companies alike. We believe DeFi is converging toward professional operators, much like traditional finance did — and that this only works if it’s built for the long term, not short-term incentives or hype. What We Do (at a Glance) Tokenized Investment Funds On-chain, non-custodial, discretional, partially-algorithmic DAMMstable Market-neutral strategies for USD stablecoins. DAMMeth Market-neutral strategies for ETH holders. DAMMop OP-denominated algorithmic strategies. DAMMbtc (upcoming) BTC-focused strategies deployed via Ethereum and L2s. DeFi-as-a-Service (DaaS) DeFi execution for institutions, DAOs, and protocols. Treasury management, liquidity strategy design, and Protocol Owned Liquidity. Clients retain full ownership and control at all times. Our Values We believe in the values of Ethereum. Our team is fully crypto-native and has been for years. We operate with a strict set of principles: no centralized exchanges, no off-chain custody, no opaque structures, and no token or emissions theater. Everything we do is transparent, verifiable, and non-custodial, designed so clients always retain control of their capital. We focus on risk-adjusted returns, build for the long term, and remain independent and aligned with the people who trust us with their capital. Links Email: team@dammcap.finance Website: https://dammcap.finance Twitter / X: https://x.com/DAMM_Capital LinkedIn: https://www.linkedin.com/company/damm-capital/ Docs & Research: https://docs.dammcap.finance AMA — happy to answer questions.
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +120,7 @@ DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires
 
 **[2026 Web3 Events Repository](https://www.reddit.com/r/ethereum/comments/1q7dmjf/2026_web3_events_repository/)**
 
-🔗 [thrilldlabs.io](https://www.thrilldlabs.io/blog-posts/2026-web3-event-repository) • 14h ago
+🔗 [thrilldlabs.io](https://www.thrilldlabs.io/blog-posts/2026-web3-event-repository) • 15h ago
 
 ---
 
@@ -132,21 +140,9 @@ PRESS RELEASEIn a digital landscape filled with short-lived crypto experiments a
 
 ---
 
-**[Options, futures, 0% interest loans, P2P Lending, personal AMM's, trading immune to sandwhich attacks via a new market structure - all no oracles or liquidation risk. Looking for feedback](https://www.reddit.com/r/ethereum/comments/1q6iz01/options_futures_0_interest_loans_p2p_lending/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
-
-The Block • 1d ago
-
----
 
 **[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://decrypt.co/354058/ethereum-treasury-firm-sharplink-gaming-stakes-170-million-eth-linea)**
 
@@ -156,11 +152,17 @@ Decrypt • 7h ago
 
 ---
 
+**[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
+
+The Block • 1d ago
+
+---
+
 **[Bitmine Continues To Stake Ethereum, Adds Another $344.4M Worth ETH](https://finance.yahoo.com/news/bitmine-continues-stake-ethereum-adds-074515125.html)**
 
 Tom Lee’s Bitmine has added nearly 100,000 ETH, valued at about $344.4 million on Thursday, lifting its Ethereum holdings to 908,192 ETH, worth $2.95 billion.The additional staking comes hours after the leading ETH accumulator reported staking 19,200 ETH, worth $60.85 million.Bitmine Holds 3.43% of Current ETH Circulating SupplyAs reported earlier, ...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -177,22 +179,6 @@ CoinDesk • 1d ago
 On today's episode of CNBC Crypto World, major cryptocurrencies move higher to kick off the first full week of 2026. Plus, Fundstrat's Tom Lee explains why he thinks bitcoin could hit $250,000 in the new year. And, Yuval Rooz, CEO and co-founder of Digital Asset, discusses the Depository Trust & Clearing Corporation teaming up with Digital Asset and the Canton Network to enable the tokenization of The Depository Trust Company-custodied assets on the network.
 
 CNBC • 3d ago
-
----
-
-**[2026 Breakout Alert: CNBC Picks XRP Over Bitcoin and Ethereum](https://coinpaper.com/13590/2026-breakout-alert-cnbc-picks-xrp-over-bitcoin-and-ethereum)**
-
-CNBC names XRP, not Bitcoin or Ethereum, as 2026’s breakout crypto after a 25% surge to $2.40, sparking renewed investor interest.
-
-Coinpaper • 1d ago
-
----
-
-**[How High Will XRP Price Go In 2026? XRP Just Crushed Bitcoin and Ethereum Returns, Gains 25%](https://www.financemagnates.com/trending/how-high-will-xrp-price-go-in-2026-xrp-just-crushed-bitcoin-and-ethereum-returns-gains-25/)**
-
-XRP climbed 25% in the first week of January, reaching approximately $2.40 on Tuesday before pulling back to test key support levels today (Wednesday), 7 January 2026.
-
-Finance Magnates • 1d ago
 
 ---
 
@@ -218,6 +204,22 @@ AMBCrypto • 3h ago
 
 ---
 
+**[XRP and Solana dethrone Bitcoin and Ethereum as institutional favorites in 2025](https://cryptoslate.com/xrp-and-solana-dethrone-bitcoin-and-ethereum-as-institutional-favorites-in-2025/)**
+
+XRP investment products skyrocket as the era of Bitcoin-only dominance fades into a diversified market landscape.
+
+CryptoSlate • 3d ago
+
+---
+
+**[2026 Breakout Alert: CNBC Picks XRP Over Bitcoin and Ethereum](https://coinpaper.com/13590/2026-breakout-alert-cnbc-picks-xrp-over-bitcoin-and-ethereum)**
+
+CNBC names XRP, not Bitcoin or Ethereum, as 2026’s breakout crypto after a 25% surge to $2.40, sparking renewed investor interest.
+
+Coinpaper • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +240,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 128 • 💬 31 • ⏱️ 11:47 • 16h ago
+👁️ 2K • 👍 128 • 💬 31 • ⏱️ 11:47 • 17h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T05:27:02.779060+00:00'
+updated: '2026-01-09T05:50:32.339532+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 05:27 UTC  
+**Last Updated:** January 09, 2026 at 05:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -44,29 +44,9 @@ Robotics research and industry news
 
 ---
 
-**[Para aprender a identificar la soldadura](https://www.reddit.com/r/robotics/comments/1q7tf47/para_aprender_a_identificar_la_soldadura/)**
-
-4h ago
-
----
-
 **[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
 
 1d ago
-
----
-
-**[Saw the Brand-new Narwal Flow 2 at CES](https://www.reddit.com/r/robotics/comments/1q7gak8/saw_the_brandnew_narwal_flow_2_at_ces/)**
-
-I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
-
-12h ago
-
----
-
-**[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
-
-17h ago
 
 ---
 
@@ -74,7 +54,29 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 New research shows robots can predict harvest success and change approach angles, reaching an 81% tomato-picking success rate.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 2h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 3h ago
+
+---
+
+**[Saw the Brand-new Narwal Flow 2 at CES](https://www.reddit.com/r/robotics/comments/1q7gak8/saw_the_brandnew_narwal_flow_2_at_ces/)**
+
+I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
+
+13h ago
+
+---
+
+**[Day 108 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q79rs6/day_108_of_building_asimov_an_opensource_humanoid/)**
+
+18h ago
+
+---
+
+**[Should robots use screen faces, or skip faces altogether?](https://www.reddit.com/r/robotics/comments/1q76ge0/should_robots_use_screen_faces_or_skip_faces/)**
+
+I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
+
+21h ago
 
 ---
 
@@ -84,19 +86,19 @@ New research shows robots can predict harvest success and change approach angles
 
 ---
 
-**[Should robots use screen faces, or skip faces altogether?](https://www.reddit.com/r/robotics/comments/1q76ge0/should_robots_use_screen_faces_or_skip_faces/)**
-
-I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
-
-20h ago
-
----
-
 **[Does anyone have an idea why pur HD Hex motor makes this noise??](https://www.reddit.com/r/robotics/comments/1q7xp0n/does_anyone_have_an_idea_why_pur_hd_hex_motor/)**
 
 After many attempts with our defective launcher we were finally able to make it launch the ball properly but it makes this really weird and loud noise. Does anyone know what causes this or how it can be fixed?
 
-1h ago
+2h ago
+
+---
+
+**[Soy un niño de 12 años solo quería decir mi idea ya q mis familiares no me escuchan y creo que no les importa mis ideas mi idea es](https://www.reddit.com/r/robotics/comments/1q7xcbf/soy_un_niño_de_12_años_solo_quería_decir_mi_idea/)**
+
+PROYECTO: "TITÁN DE VIENTO" (Súper-Humano Robótico Clase Interceptor) Diseñador Jefe: (garfare/el vientos xd ) Año de Concepción: 2026 1. Concepto General Un robot humanoide de 4 metros de altura diseñado para el combate ágil (Karate/Artes Marciales) y misiones de precisión, controlado por un piloto humano en una cabina blindada sin puntos ciegos. 2. Sistema de Energía: "Cosecha de Energía por Aire de Impacto" Mecánica: El robot no usa combustibles fósiles tradicionales. Utiliza turbinas internas conectadas a entradas de aire en el pecho y hombros. Ventaja: Al correr o volar, absorbe viento que genera electricidad. Además, succiona humo y gases del campo de batalla para limpiar la visión del piloto. Arma de Emergencia: El polvo y los residuos atrapados en los filtros pueden ser disparados a alta presión como una cortina de humo o ataque de distracción. 3. Cabina y Control: "Cúpula de Levitación Magnética" Protección: En lugar de ventanas de vidrio, el piloto está dentro de una cúpula de metal sólido e imanes. Movimiento: La silla del piloto flota mediante levitación magnética y un sistema de giro (Gimbal) de 3 ejes. Si el robot da una voltereta, el piloto siempre se mantiene derecho, eliminando el mareo y las náuseas. Visión: El piloto usa gafas de Realidad Virtual conectadas a millones de micro-cámaras externas, eliminando los puntos ciegos. 4. IA Maestra de Asistencia (Copiloto Cognitivo) Modo Novato: Si el piloto es un principiante (detectado por escaneo de retina), la IA asiste en el equilibrio y mantenimiento preventivo. Modo Experto: Desbloquea maniobras de alta velocidad y acrobacias. Seguridad: La IA da consejos tácticos pero el control final siempre es del humano para evitar rebeliones de las máquinas. 5. Movilidad y Combate Propulsores: Motores de empuje en espalda, manos y pies para vuelo estilo "Iron Man" y cambios de dirección instantáneos. Estructura: Esqueleto de fibra de carbono ligero (menos peso que un deportivo) para permitir movimientos de Karate fluidos y ultra-veloces. Comunicación: Señales inalámbricas internas protegidas (Jaula de Faraday) para que nadie pueda hackear o bloquear el robot desde afuera. 6. Protocolo de Seguridad y Sucesión Reloj de Mando: El comandante tiene un reloj vinculado. Si este muere, el reloj selecciona automáticamente al siguiente soldado en la lista de mando para que el robot nunca quede sin control. Kill Switch: Botón de apagado remoto para inutilizar el robot si cae en manos enemigas, borrando su memoria pero salvando el hardware.
+
+2h ago
 
 ---
 
@@ -228,7 +230,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 152K • 👍 5K • 💬 204 • ⏱️ 0:39 • 11h ago
+👁️ 152K • 👍 5K • 💬 204 • ⏱️ 0:39 • 12h ago
 
 ---
 
@@ -278,7 +280,7 @@ Singapore-based startup Sharpa Robotics generated major buzz at CES 2026 with it
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 36 • 💬 1 • ⏱️ 0:48 • 11h ago
+👁️ 1K • 👍 36 • 💬 1 • ⏱️ 0:48 • 12h ago
 
 ---
 
