@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T16:30:10.304055+00:00'
+updated: '2026-01-09T16:57:37.107789+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 16:30 UTC  
+**Last Updated:** January 09, 2026 at 16:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-12h ago
+13h ago
 
 ---
 
@@ -101,19 +101,19 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 I am tired boss
 
-53m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ BTC
 
 **[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -153,7 +153,7 @@ BTC
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Block • 7h ago
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -170,6 +170,38 @@ CoinDesk • 9h ago
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
 CNBC • 4h ago
+
+---
+
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
+
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
+
+VanEck • 1d ago
+
+---
+
+**[Bitcoin mining news: Hut 8 eyes 500 MW site, Cipher makes new hires, Riot revamps exec comp](https://finance.yahoo.com/news/bitcoin-mining-news-hut-8-162535454.html)**
+
+In bitcoin mining news this week, AI-focused miners like Riot and Cipher make hiring moves as Hut 8 waits for a 500 MW site approval.
+
+Yahoo Finance • 32m ago
+
+---
+
+**[Analysts see “signs of stabilization” for bitcoin ETFs, previous crypto position reduction “behind us”](https://sherwood.news/crypto/analysts-see-signs-of-stabilization-for-bitcoin-etfs-previous-crypto/)**
+
+Bitcoin ETFs have seen over $1.1 billion leave the funds in the past three days, but the worst may be over, JPMorgan analysts say....
+
+Sherwood News • 55m ago
+
+---
+
+**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
+
+Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
+
+CNBC • 1d ago
 
 ---
 
@@ -187,41 +219,11 @@ The Block • 20h ago
 
 ---
 
-**[Florida Lawmakers Want To Create A Bitcoin Reserve In 2026](https://bitcoinmagazine.com/news/florida-revives-bitcoin-reserve-push)**
+**[Brazilian presidential hopeful calls for launch of national Bitcoin reserve](https://www.dlnews.com/articles/people-culture/brazilian-presidential-hopeful-wants-bitcoin-reserve/)**
 
-Florida lawmakers filed new legislation for the 2026 session that would create a state-run crypto reserve after a similar effort stalled last year.
+Politician Renan Santos aims to become the Brazilian Bukele. He says a Brazilian Bitcoin reserve is already “feasible.” Santos says blockchain technology is a “cool tool” for fighting corruption.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Gloom, Boom and Doom author recommends buying gold but not bitcoin](https://www.marketwatch.com/story/gloom-boom-and-doom-author-recommends-buying-gold-but-not-bitcoin-b2d969c1?gaa_at=eafs&gaa_n=AWEtsqdeJN_d5UeFhx_f60547hQMjlNhhbdOS7dRnZj8VfrfU4ucDtlTzl_4&gaa_ts=696126ac&gaa_sig=0k2qJe2__rkz95NPQSvtDVZH_jtmnzlz0XuHU1efPCjzxc_YQnAZSLWW9_5CDtpU_gmX1XBOwwdyt_tDFXChdg%3D%3D)**
-
-MarketWatch • 1h ago
-
----
-
-**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
-
-If true, the claim could significantly reshape the global bitcoin market.
-
-Yahoo Finance • 1d ago
-
----
-
-**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
-
-Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
-
-CNBC • 1d ago
-
----
-
-**[Is XRP (Ripple) the Next Bitcoin?](https://www.fool.com/investing/2026/01/08/is-xrp-ripple-the-next-bitcoin/)**
-
-XRP is an emerging player in the cryptocurrency landscape.
-
-The Motley Fool • 1d ago
+dlnews.com • 2d ago
 
 ---
 
@@ -233,7 +235,7 @@ The Motley Fool • 1d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 17h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 18h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -271,7 +273,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 7h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 8h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -313,7 +315,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 54K • 👍 2K • 💬 297 • ⏱️ 16:13 • 19h ago
+👁️ 54K • 👍 2K • 💬 297 • ⏱️ 16:13 • 20h ago
 
 ---
 
@@ -393,7 +395,7 @@ Join The Community: https://bit.ly/FefeCommunity LIMITED BITFUNDED OFFER: Buy ..
 
 📺 100XClub
 
-👁️ 8K • 👍 802 • 💬 237 • ⏱️ 10:24 • 6h ago
+👁️ 8K • 👍 802 • 💬 237 • ⏱️ 10:24 • 7h ago
 
 ---
 

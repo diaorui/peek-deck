@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T16:30:10.310116+00:00'
+updated: '2026-01-09T16:57:37.114017+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 16:30 UTC  
+**Last Updated:** January 09, 2026 at 16:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 3h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-4h ago
+5h ago
 
 ---
 
@@ -134,7 +134,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires, Argentina, building and operating self-custodial decentralized finance strategies for people and organizations that want real exposure to DeFi without having to become protocol experts. We started years ago doing algorithmic market making and Protocol Owned Liquidity (PoL), and have grown into a broader on-chain asset manager serving institutions, DAOs, and companies alike. We believe DeFi is converging toward professional operators, much like traditional finance did — and that this only works if it’s built for the long term, not short-term incentives or hype. What We Do (at a Glance) Tokenized Investment Funds On-chain, non-custodial, discretional, partially-algorithmic DAMMstable Market-neutral strategies for USD stablecoins. DAMMeth Market-neutral strategies for ETH holders. DAMMop OP-denominated algorithmic strategies. DAMMbtc (upcoming) BTC-focused strategies deployed via Ethereum and L2s. DeFi-as-a-Service (DaaS) DeFi execution for institutions, DAOs, and protocols. Treasury management, liquidity strategy design, and Protocol Owned Liquidity. Clients retain full ownership and control at all times. Our Values We believe in the values of Ethereum. Our team is fully crypto-native and has been for years. We operate with a strict set of principles: no centralized exchanges, no off-chain custody, no opaque structures, and no token or emissions theater. Everything we do is transparent, verifiable, and non-custodial, designed so clients always retain control of their capital. We focus on risk-adjusted returns, build for the long term, and remain independent and aligned with the people who trust us with their capital. Links Email: team@dammcap.finance Website: https://dammcap.finance Twitter / X: https://x.com/DAMM_Capital LinkedIn: https://www.linkedin.com/company/damm-capital/ Docs & Research: https://docs.dammcap.finance AMA — happy to answer questions.
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Correct me if I'm wrong, maybe I've been out of touch with recent developments b
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 6h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 18h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -179,6 +179,14 @@ Decrypt • 18h ago
 Will crypto assets defend their key short-term support levels?
 
 AMBCrypto • 11h ago
+
+---
+
+**[ETH Hits $3,300 Wall: Is Ethereum Price Cooling After the Rally?](https://finance.yahoo.com/news/eth-hits-3-300-wall-120940975.html)**
+
+Ethereum Treasury Company BitMine ($BMNR) has added another 32,977 ETH at a value of around $105 million, in the first 8 days of 2026 alone. Now, the company’s total ETH exposure has pushed past $13.2 billion, out of which the company has staked ETH worth $2.62 billion, making it one ...
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -196,33 +204,27 @@ The Block • 2d ago
 
 ---
 
-**[Key facts: Morgan Stanley launches Ethereum Trust; Coinbase Premium Gap drops; Ethereum hits 58,786 TPS](https://www.tradingview.com/news/tradingview:78e73e7f8c21c:0-key-facts-morgan-stanley-launches-ethereum-trust-coinbase-premium-gap-drops-ethereum-hits-58-786-tps/)**
-
-TradingView — Track All Markets • 16h ago
-
----
-
-**[Ethereum and Solana ETFs Record Historic Trading Volumes in Early 2026](https://cryptopotato.com/ethereum-and-solana-etfs-record-historic-trading-volumes-in-early-2026/)**
-
-Ethereum and Solana ETF trading accelerated sharply in early January amid increasing institutional interest in crypto assets.
-
-CryptoPotato • 2d ago
-
----
-
-**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
-
-Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
-
-Yahoo Finance • 2d ago
-
----
-
 **[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
 The Motley Fool • 5h ago
+
+---
+
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
+
+Bit Digital • 1d ago
+
+---
+
+**[Bearish Signal Emerges For Ethereum As US Spot Demand Fades](https://www.tradingview.com/news/newsbtc:7d3093583094b:0-bearish-signal-emerges-for-ethereum-as-us-spot-demand-fades/)**
+
+Ethereum has once again failed to hold above a critical resistance zone, retracing from the $3,300 level back toward the $3,100 area. The pullback highlights the market’s ongoing struggle to establish a sustainable recovery, as bullish momentum continues to fade near key technical thresholds. While…
+
+TradingView — Track All Markets • 20h ago
 
 ---
 
@@ -246,7 +248,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 5K • 👍 524 • 💬 57 • ⏱️ 12:30 • 2h ago
+👁️ 5K • 👍 524 • 💬 57 • ⏱️ 12:30 • 3h ago
 
 ---
 
@@ -256,7 +258,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 2K • 👍 155 • 💬 66 • ⏱️ 52:02 • 4h ago
+👁️ 2K • 👍 155 • 💬 66 • ⏱️ 52:02 • 5h ago
 
 ---
 
@@ -326,7 +328,7 @@ Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain 
 
 📺 Blockchain Backer
 
-👁️ 3K • 👍 509 • 💬 2 • ⏱️ 17:43 • 39m ago
+👁️ 3K • 👍 509 • 💬 2 • ⏱️ 17:43 • 1h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T16:30:10.313352+00:00'
+updated: '2026-01-09T16:57:37.117331+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 16:30 UTC  
+**Last Updated:** January 09, 2026 at 16:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-6h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
 
-12m ago
+40m ago
 
 ---
 
@@ -72,7 +72,7 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/5bKaiNxt1KM) • 2h ago
+🔗 [youtu.be](https://youtu.be/5bKaiNxt1KM) • 3h ago
 
 ---
 
@@ -86,13 +86,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
 
-8h ago
+9h ago
 
 ---
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -122,11 +122,9 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Arm Stock In Spotlight -- A New Push Into Robotics Is Driving the Move](https://finance.yahoo.com/news/arm-stock-spotlight-push-robotics-165453695.html)**
+**[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
 
-Arm's Stock Is Moving After a Strategic Shake-Up
-
-Yahoo Finance • 23h ago
+TipRanks • 1d ago
 
 ---
 
@@ -158,11 +156,11 @@ Yahoo Finance • 3d ago
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
 
-NVIDIA Developer • 22h ago
+NVIDIA Developer • 23h ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqewmTdjzn0PMUB2ViAR2iwQpkjdQlREI-YICK7rtFGDhkwDlVSxzcyI&gaa_ts=696126af&gaa_sig=z42vDFikMOYpF0SDzbUEkorJDSZ8paPvxMagsLtXB47ImHH5BNs8VJLn3WGOl1KBW4KlWsyxujI4w4uvxufM_g%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfCJdoy5hFVYE-N7AowiL50m9TmfBC-y5yznzwhXD6WG9pCN4pQ5Ceo&gaa_ts=696136ec&gaa_sig=v9-ygPKH-vgdZ1BpkbEPg6RTS1UzHApy7CCN6Vi1H5XRrfziOdejim-buTRZ_GEkvDMmTbpmWpVjxgX-RYJ9tw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -194,7 +192,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 159K • 👍 3K • 💬 443 • ⏱️ 4:29 • 1d ago
+👁️ 159K • 👍 3K • 💬 443 • ⏱️ 4:29 • 2d ago
 
 ---
 
@@ -214,7 +212,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 273K • 👍 9K • 💬 310 • ⏱️ 0:39 • 22h ago
+👁️ 273K • 👍 9K • 💬 310 • ⏱️ 0:39 • 23h ago
 
 ---
 

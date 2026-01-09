@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T16:30:10.295429+00:00'
+updated: '2026-01-09T16:57:37.099030+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 16:30 UTC  
+**Last Updated:** January 09, 2026 at 16:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 Elon Musk’s Grok chatbot has limited some aspects of its Imagine image generation features to paid subscribers on X, days after international uproar over the AI tool “digitally undressing” people, including children, upon user requests on X.
 
-🔗 [CNN](https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4m ago
+🔗 [CNN](https://www.cnn.com/2026/01/09/business/grok-image-generation-undressing-deepfake?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 32m ago
 
 ---
 
@@ -65,7 +65,7 @@ Elon Musk’s Grok chatbot has limited some aspects of its Imagine image generat
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 7h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 8h ago
 
 ---
 
@@ -105,7 +105,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1]
 
 I ask an AI to create a drawing with the same description as the one that would describe my drawing. The result is very interesting because it's comparable to the drawing I created. I like to express my feelings through drawings mixing Zentangle, doodle and tangle techniques. HI try to find patterns that allow me to draw new designs. Through my drawings, I express my feelings related to my phobia and social anxiety. This type of art helps me relieve my stress and anxiety. socialphobia socialanxiety pixeldoodleart zentangle doodleart AI artificialintelligence
 
-1h ago
+2h ago
 
 ---
 
@@ -135,67 +135,63 @@ BBC • 1h ago
 
 ---
 
-**[Elon Musk’s xAI tells investors it will build AI for Tesla Optimus, amid breach of fiduciary duty lawsuit](https://electrek.co/2026/01/09/elon-musk-xai-build-ai-tesla-optimus-amid-breach-of-fiduciary-duty-lawsuit/)**
+**[U.K. says ban on Elon Musk's X platform "on the table" over Grok AI sexualized images](https://www.cbsnews.com/news/uk-x-elon-musk-grok-ai-sexualized-images-fake-nudes-starmer/)**
 
-In a move that completely undermines the “Tesla is an AI company” narrative, Elon Musk’s private startup, xAI, has reportedly...
+Britain's leader says all options on the table if Musk's X platform doesn't stop Grok AI tool being used to generate non-consensual sexualized images.
 
-Electrek • 1h ago
-
----
-
-**[Meta signs nuclear energy deals to power Prometheus AI supercluster](https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html)**
-
-Meta said it secured agreements with energy companies Vistra, TerraPower and Oklo, which are all working on nuclear power technologies.
-
-CNBC • 5h ago
+CBS News • 39m ago
 
 ---
 
-**[Meta's latest deal to power its AI ambitions is sending nuclear stocks soaring](https://www.businessinsider.com/oklo-stock-price-meta-ai-nuclear-power-deal-vst-ceg-2026-1)**
+**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
 
-Meta Platforms announced a deal with Oklo, Vista, and TerraPower to power its AI buildout. Nuclear energy stocks surged on the news.
+From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-Business Insider • 1h ago
-
----
-
-**[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://finance.yahoo.com/news/meta-signs-multi-gigawatt-nuclear-112234780.html)**
-
-The agreements could end up totaling more than 6 gigawatts, enough to power a city of about 5 million homes.  While Meta didn’t disclose the value of the contracts, agreements of this size can easily represent billions of dollars in total revenue for electricity generators.  Meta said Friday it will purchase electricity from three existing Vistra Corp. plants and support several small reactors that Sam Altman-backed Oklo Inc. and Bill Gates-backed TerraPower LLC are planning to build over the next decade.
-
-Yahoo Finance • 5h ago
+NBC News • 6h ago
 
 ---
 
-**[Nokia AI Chief Pallavi Mahajan on AI-native networks and the future of automation](https://www.fiercewireless.com/sponsored/nokia-ai-chief-pallavi-mahajan-ai-native-networks-and-future-automation)**
+**[Your next primary care doctor could be online only, accessed through an AI tool : Shots - Health News](https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis)**
 
-As artificial intelligence moves from applications into the fabric of networks themselves, telecom infrastructure is undergoing a fundamental shift. | AI-native traffic is changing how networks are designed, automated, and powered. Nokia Chief Technology and AI Officer Pallavi Mahajan explains why AI-native networks, industrial AI, and power efficiency are central to the next phase of telecom.
+The shortage of primary care doctors is a national problem. To cope, a large health system in Massachusetts is using an AI tool to screen patients and refer them to other care.
 
-Fierce Network • 1h ago
-
----
-
-**[Likely AI-generated bomb threat to private schools deemed 'non-credible'](https://www.tallahassee.com/story/news/2026/01/09/likely-ai-generated-bomb-threat-to-private-schools-deemed-non-credible/88099876007/)**
-
-The Tallahassee Police Department is investigating after an unspecified number of Tallahassee private schools received what law enforcement is calling "a non-credible" and possibly AI generated bomb threat.
-
-Tallahassee Democrat • 56m ago
+NPR • 6h ago
 
 ---
 
-**[AI images and internet rumors spread confusion about ICE agent involved in shooting](https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good)**
+**[Introducing OpenAI for Healthcare](https://openai.com/index/openai-for-healthcare/)**
 
-While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
-
-NPR • 17h ago
+OpenAI • 20h ago
 
 ---
 
-**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
+**[How to get 'responsible AI' right](https://www.healthcareitnews.com/news/how-get-responsible-ai-right)**
 
-"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
+A physician AI expert walks through the correct ways for hospitals and health systems to handle artificial intelligence and where responsible AI can make the biggest near-term impact without creating new burdens.
 
-Fortune • 1d ago
+Healthcare IT News • 13m ago
+
+---
+
+**[17 Years After Its Founding, Kickstarter Is Seeing an AI-Fueled ‘Explosion’](https://www.inc.com/chris-morris/17-years-after-its-founding-kickstarter-is-seeing-an-ai-fueled-explosion/91286437)**
+
+inc.com • 23m ago
+
+---
+
+**[3 Brilliant AI Stocks That Could Double in 2026](https://www.fool.com/investing/2026/01/09/3-brilliant-ai-stocks-that-could-double-in-2026/)**
+
+The AI investment realm is full of great opportunities in 2026.
+
+The Motley Fool • 6h ago
+
+---
+
+**[3 Brilliant AI Stocks That Could Double in 2026](https://www.nasdaq.com/articles/3-brilliant-ai-stocks-could-double-2026)**
+
+Key PointsNebius and Applied Digital are both data center plays.
+
+Nasdaq • 6h ago
 
 ---
 
@@ -319,7 +315,7 @@ Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The wo
 
 📺 Ishan Sharma
 
-👁️ 3K • 👍 385 • 💬 31 • ⏱️ 10:52 • 2h ago
+👁️ 3K • 👍 385 • 💬 31 • ⏱️ 10:52 • 3h ago
 
 ---
 
@@ -379,7 +375,7 @@ Repair Tools I Use (Updated Regularly – Includes Soldering Gear): https://www.
 
 📺 Phone Repair Guru
 
-👁️ 171K • 👍 6K • 💬 107 • ⏱️ 0:21 • 11h ago
+👁️ 171K • 👍 6K • 💬 107 • ⏱️ 0:21 • 12h ago
 
 ---
 
@@ -467,7 +463,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 219 • 10h ago
+⬇️ 5,785 • ❤️ 219 • 11h ago
 
 ---
 
@@ -649,7 +645,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.3k • 🔱 878 • 33s ago
+⭐ 7.3k • 🔱 878 • 28m ago
 
 ---
 
@@ -669,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 5m ago
+⭐ 2.2k • 🔱 130 • 32m ago
 
 ---
 
@@ -699,7 +695,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 103 • 1h ago
+⭐ 1.3k • 🔱 103 • 2h ago
 
 ---
 
@@ -719,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 6h ago
+⭐ 1.2k • 🔱 143 • 7h ago
 
 ---
 
@@ -739,7 +735,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 120 • 5h ago
+⭐ 1.0k • 🔱 120 • 6h ago
 
 ---
 
