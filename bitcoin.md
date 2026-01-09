@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T01:50:22.244621+00:00'
+updated: '2026-01-09T03:41:08.991934+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 01:50 UTC  
+**Last Updated:** January 09, 2026 at 03:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,957.78
+### $91,377.16
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +0.4%  
-**30d:** -1.6%  
-**90d:** -21.0%  
-**1y:** -3.8%  
+**24h:** +0.1%  
+**7d:** +0.3%  
+**30d:** -1.7%  
+**90d:** -21.1%  
+**1y:** -3.9%  
 
 ---
 
@@ -81,19 +81,31 @@ Rank #1
 
 BTC
 
-10h ago
+11h ago
 
 ---
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-6h ago
+8h ago
+
+---
+
+**[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
+
+1h ago
+
+---
+
+**[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
+
+52m ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -101,21 +113,21 @@ BTC
 
 Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
 
-4h ago
+6h ago
 
 ---
 
 **[Let's learn from our lesson, always the same.](https://www.reddit.com/r/Bitcoin/comments/1q76hm8/lets_learn_from_our_lesson_always_the_same/)**
 
-17h ago
+19h ago
 
 ---
 
-**[Fundamentally, bitcoin will increase in value over the next 5 years](https://www.reddit.com/r/Bitcoin/comments/1q7qt2h/fundamentally_bitcoin_will_increase_in_value_over/)**
+**[Starting the journey (New to bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1q7wv4t/starting_the_journey_new_to_bitcoin/)**
 
-There's three scenarios when people put money into something and then pull out winners and losers. Positive sum, Negative sum and Zero sum. There’s a zero sum game. That means that everybody puts money into a pile, some win more of it, some win less of it, but if you add it all up, there was no money made or lost as a full group. Example of zero sum game: six of you guys put in a dollar, whoever rolls their number gets all six dollars the rest lose a dollar. Even though some people won, and some people lost, it all adds up to a wash of 0$ total gained by the group. A positive SUM game is something where everybody puts in a dollar, some people win some money, some people lose some money, but the pile grows and the total pot that’s divided among the winners is larger than the money initially put in. Think of something like owning a business with somebody, maybe you each put in 100 K, it makes profit that you split and at the end of it, you can sell it. A negative sum game is something that there is still winners and losers in, but if you add up all the losers and all the winners, the pile of money at the end is small smaller. Playing at a casino is an example of this. Some people may win big, but if you add up all the winning and losing, somehow the house always wins a percentage. Crypto is a negative sum game. For every single person that makes a profit, someone has to lose money. If it ended there, it would be a zero sum game. But bitcoin mining takes a ton of infrastructure and energy. That’s the loss that makes it a negative SUM game. In general, you want to be rolling dice in a positive SUM game. I put all my money in the stock market. I might lose money some years and might win money some years but we know that there’s a positive expected return over the long haul. Bitcoin produces wallets of value. This is why we expect it to go up.
+Anything I should know about?
 
-2h ago
+33m ago
 
 ---
 
@@ -123,27 +135,15 @@ There's three scenarios when people put money into something and then pull out w
 
 Key features: - 3-layer architecture: decoy/hidden/panic - Cryptographically indistinguishable layers (like VeraCrypt hidden volumes) - Client-side XChaCha20-Poly1305 encryption - IPFS decentralized storage - RAM-only key storage (forensics-resistant) - 100% free, all the code is open https://github.com/Teycir/Sanctum
 
-1h ago
+3h ago
 
 ---
 
-**[Bitcoin mining continued growing after the halving.⛏️🪙](https://www.reddit.com/r/Bitcoin/comments/1q7jhax/bitcoin_mining_continued_growing_after_the_halving/)**
+**[Fundamentally, bitcoin will increase in value over the next 5 years](https://www.reddit.com/r/Bitcoin/comments/1q7qt2h/fundamentally_bitcoin_will_increase_in_value_over/)**
 
-Bitcoin mining continued growing after the halving. Miners’ revenue reached $17.2B in 2025, up from $14.7B the year before. Post-halving economics is Bitcoin mining at work, not a bug. Source: @TheBlock__
+There's three scenarios when people put money into something and then pull out winners and losers. Positive sum, Negative sum and Zero sum. There’s a zero sum game. That means that everybody puts money into a pile, some win more of it, some win less of it, but if you add it all up, there was no money made or lost as a full group. Example of zero sum game: six of you guys put in a dollar, whoever rolls their number gets all six dollars the rest lose a dollar. Even though some people won, and some people lost, it all adds up to a wash of 0$ total gained by the group. A positive SUM game is something where everybody puts in a dollar, some people win some money, some people lose some money, but the pile grows and the total pot that’s divided among the winners is larger than the money initially put in. Think of something like owning a business with somebody, maybe you each put in 100 K, it makes profit that you split and at the end of it, you can sell it. A negative sum game is something that there is still winners and losers in, but if you add up all the losers and all the winners, the pile of money at the end is small smaller. Playing at a casino is an example of this. Some people may win big, but if you add up all the winning and losing, somehow the house always wins a percentage. Crypto is a negative sum game. For every single person that makes a profit, someone has to lose money. If it ended there, it would be a zero sum game. But bitcoin mining takes a ton of infrastructure and energy. That’s the loss that makes it a negative SUM game. In general, you want to be rolling dice in a positive SUM game. I put all my money in the stock market. I might lose money some years and might win money some years but we know that there’s a positive expected return over the long haul. Bitcoin produces wallets of value. This is why we expect it to go up.
 
-7h ago
-
----
-
-**[The Great Distraction: Why You Are Missing the Point of Bitcoin. Stop Staring at the Charts. Start Building the Life You Bought Them For.](https://www.reddit.com/r/Bitcoin/comments/1q7foom/the_great_distraction_why_you_are_missing_the/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-distraction-why-you-are) • 9h ago
-
----
-
-**[Bitcoin Ashtray / Handmade🎁](https://www.reddit.com/r/Bitcoin/comments/1q7gk1e/bitcoin_ashtray_handmade/)**
-
-9h ago
+4h ago
 
 ---
 
@@ -151,11 +151,11 @@ Bitcoin mining continued growing after the halving. Miners’ revenue reached $1
 
 ## Google News: "bitcoin"
 
-**[Bitcoin and broader crypto markets 'have bottomed,' Bernstein analysts say](https://finance.yahoo.com/news/bitcoin-and-broader-crypto-markets-have-bottomed-bernstein-analysts-say-182315482.html)**
+**[Bitcoin price outlook: BTC's 'boring' price action likely to continue, say analysts](https://www.coindesk.com/markets/2026/01/08/bitcoin-may-be-in-for-a-more-boring-but-nevertheless-positive-year)**
 
-Bitcoin has entered 2026 with gains following a disastrous quarter. Bernstein says the cryptocurrency has hit a bottom.
+Experts say the next major rally may come only when long-term holders are exhausted, and true institutional capital enters the market.
 
-Yahoo Finance • 1d ago
+CoinDesk • 8h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 1d ago
 
 Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
 
-CoinDesk • 4m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -175,27 +175,43 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Venezuela could be sitting on a big Bitcoin stash, experts say. Here's what could happen next](https://www.cnbc.com/2026/01/06/venezuela-could-be-sitting-on-a-big-bitcoin-stash-experts-say-heres-what-could-happen-next-.html)**
+
+Although it's hard to say how much bitcoin could be held by Venezuela, it's likely the regime has amassed considerable holdings of the token, experts said.
+
+CNBC • 2d ago
+
+---
+
+**[Don’t hold your breath for Venezuela’s bitcoin](https://www.coindesk.com/opinion/2026/01/06/don-t-hold-your-breath-for-venezuela-s-bitcoin)**
+
+Ledn co-founder Mauricio Di Bartolomeo, born and raised in Venezuela, argues that the country’s government is simply too corrupt and incompetent to have accumulated a rumored $60 billion stash of bitcoin.
+
+CoinDesk • 2d ago
+
+---
+
 **[Is XRP (Ripple) the Next Bitcoin?](https://www.fool.com/investing/2026/01/08/is-xrp-ripple-the-next-bitcoin/)**
 
 XRP is an emerging player in the cryptocurrency landscape.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[Citi analysts reiterate bitcoin $143,000 base case projection despite bitcoin tumbling](https://sherwood.news/crypto/citi-analysts-reiterate-bitcoin-usd143-000-base-case-projection-despite/)**
+**[XRP slips 5% as CNBC terms it 'hottest trade' of 2026 over bitcoin and ether](https://www.coindesk.com/markets/2026/01/08/xrp-slips-5-as-cnbc-terms-it-hottest-trade-of-2026-over-bitcoin-and-ether)**
 
-Bitcoin ETFs also suffered on Wednesday....
+Institutional demand through U.S.-listed spot XRP ETFs remains strong, with net inflows continuing into early January.
 
-Sherwood News • 11h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Bitcoin Faithful Still Missing Even After Token Reclaims $90,000](https://www.bloomberg.com/news/articles/2026-01-06/bitcoin-faithful-still-missing-even-after-token-reclaims-90-000)**
+**[XRP jumps 20% in a week as traders rotate beyond bitcoin and ether](https://www.cnbc.com/video/2026/01/06/xrp-jumps-20percent-in-a-week-as-traders-rotate-beyond-bitcoin-and-ether.html)**
 
-Bitcoin has reclaimed the $90,000 level, but the foundations beneath the rally remain fragile as traders stay on the defensive.
+CNBC’s MacKenzie Sigalos reports on why XRP is leading crypto’s early-2026 rally, with investors treating it as a targeted alternative to bitcoin and ether — drawn by its cross-border payments pitch and steady inflows that held up even through the Q4 dip.
 
-Bloomberg.com • 2d ago
+CNBC • 2d ago
 
 ---
 
@@ -213,22 +229,6 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Morgan Stanley files for ether trust after bitcoin and solana ETF push](https://www.coindesk.com/business/2026/01/07/morgan-stanley-files-for-ether-trust-after-bitcoin-and-solana-etf-push)**
-
-The Wall Street giant is widening its crypto push, following bitcoin and solana ETF filings with a potential Ethereum trust.
-
-CoinDesk • 1d ago
-
----
-
-**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
-
-If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
-
-Bitcoin Magazine • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -237,13 +237,13 @@ Bitcoin Magazine • 1d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 42 • 💬 3 • 2h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 42 • 💬 3 • 4h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 14h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 15h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -275,7 +275,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 15h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 17h ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -315,7 +315,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 24K • 👍 1K • 💬 194 • ⏱️ 16:13 • 5h ago
+👁️ 24K • 👍 1K • 💬 194 • ⏱️ 16:13 • 7h ago
 
 ---
 
@@ -325,7 +325,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 152 • 💬 13 • ⏱️ 5:34 • 4h ago
+👁️ 2K • 👍 152 • 💬 13 • ⏱️ 5:34 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 3K • 👍 358 • 💬 114 • ⏱️ 18:38 • 4h ago
+👁️ 3K • 👍 358 • 💬 114 • ⏱️ 18:38 • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 12K • 👍 687 • 💬 90 • ⏱️ 12:34 • 12h ago
+👁️ 12K • 👍 687 • 💬 90 • ⏱️ 12:34 • 13h ago
 
 ---
 
@@ -355,7 +355,7 @@ Stay informed with the latest insights on **btc**, focusing on effective **tradi
 
 📺 Krown
 
-👁️ 6K • 👍 572 • 💬 267 • ⏱️ 13:56 • 8h ago
+👁️ 6K • 👍 572 • 💬 267 • ⏱️ 13:56 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 38K • 👍 3K • 💬 231 • ⏱️ 17:35 • 11h ago
+👁️ 38K • 👍 3K • 💬 231 • ⏱️ 17:35 • 13h ago
 
 ---
 
@@ -375,7 +375,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 2K • 👍 163 • 💬 53 • ⏱️ 10:06 • 7h ago
+👁️ 2K • 👍 163 • 💬 53 • ⏱️ 10:06 • 9h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin what now This Carb is KILLING You Slowly.. [it's not Sugar] https://yout
 
 📺 MMCrypto
 
-👁️ 27K • 👍 2K • 💬 451 • ⏱️ 4:15 • 14h ago
+👁️ 27K • 👍 2K • 💬 451 • ⏱️ 4:15 • 15h ago
 
 ---
 
@@ -405,7 +405,7 @@ I dive deep into the latest xrp news today, exploring its potential dominance al
 
 📺 3T Warrior Academy 
 
-👁️ 16K • 👍 1K • 💬 280 • ⏱️ 22:16 • 11h ago
+👁️ 16K • 👍 1K • 💬 280 • ⏱️ 22:16 • 13h ago
 
 ---
 

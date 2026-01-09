@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T01:50:22.235419+00:00'
+updated: '2026-01-09T03:41:08.983471+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 01:50 UTC  
+**Last Updated:** January 09, 2026 at 03:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Why Yann LeCun left Meta for World Models](https://www.reddit.com/r/artificial/comments/1q7ugtz/why_yann_lecun_left_meta_for_world_models/)**
+
+As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
+
+2h ago
+
+---
+
 **[Linus Torvalds: "The AI slop issue is *NOT* going to be solved with documentation"](https://www.reddit.com/r/artificial/comments/1q79tmh/linus_torvalds_the_ai_slop_issue_is_not_going_to/)**
 
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 15h ago
 
 ---
 
@@ -49,21 +57,13 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 10h ago
-
----
-
-**[Why Yann LeCun left Meta for World Models](https://www.reddit.com/r/artificial/comments/1q7ugtz/why_yann_lecun_left_meta_for_world_models/)**
-
-As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
-
-28m ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 12h ago
 
 ---
 
 **[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
 
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 20h ago
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 22h ago
 
 ---
 
@@ -71,15 +71,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
 
-1h ago
-
----
-
-**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
-
-Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
-
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 9h ago
+3h ago
 
 ---
 
@@ -87,7 +79,15 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 9h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 11h ago
+
+---
+
+**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
+
+Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
+
+🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 11h ago
 
 ---
 
@@ -99,7 +99,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 **[Running Large Language Models on the NVIDIA DGX Spark and connecting to them in MATLAB](https://www.reddit.com/r/artificial/comments/1q7967z/running_large_language_models_on_the_nvidia_dgx/)**
 
-🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 14h ago
+🔗 [blogs.mathworks.com](https://blogs.mathworks.com/matlab/2026/01/05/running-large-language-models-on-the-nvidia-dgx-spark-and-connecting-to-them-in-matlab/) • 16h ago
 
 ---
 
@@ -107,7 +107,7 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Google and Character.AI to settle lawsuits alleging chatbots harmed teens.[2] Caterpillar taps Nvidia to bring AI to its construction equipment.[3] Farming robots tackle labor shortages using AI.[4] Sources: [1] https://www.youtube.com/watch?v=2NzwQUe6Ngk [2] https://www.yahoo.com/news/articles/google-character-ai-agree-settle-043755584.html [3] https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/ [4] https://news.asu.edu/20260107-business-and-entrepreneurship-farming-robots-tackle-labor-shortages-using-ai
 
-19h ago
+21h ago
 
 ---
 
@@ -115,19 +115,27 @@ Lego unveils an interactive ‘Smart Brick’ at CES 2026 in Las Vegas.[1] Googl
 
 ## Google News: "ai"
 
+**[AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)**
+
+One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
+
+IEEE Spectrum • 14h ago
+
+---
+
+**[Google is unleashing Gemini AI features on Gmail. Users will have to opt out](https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html)**
+
+Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
+
+CNBC • 14h ago
+
+---
+
 **[Google Is Adding an ‘AI Inbox’ to Gmail That Summarizes Emails](https://www.wired.com/story/google-ai-inbox-gmail/)**
 
 New Gmail features, powered by the Gemini model, are part of Google’s continued push for users to incorporate AI into their daily life and conversations.
 
-WIRED • 12h ago
-
----
-
-**[Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews)**
-
-AI Mode but for Gmail.
-
-The Verge • 12h ago
+WIRED • 14h ago
 
 ---
 
@@ -135,53 +143,45 @@ The Verge • 12h ago
 
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-blog.google • 12h ago
+blog.google • 14h ago
 
 ---
 
-**[AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)**
+**[Watch Doosan Bobcat CEO on AI in Manufacturing](https://www.bloomberg.com/news/videos/2026-01-09/doosan-bobcat-ceo-on-ai-in-manufacturing-video)**
 
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-IEEE Spectrum • 12h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Construction giant unveils AI to help prevent job site accidents: ‘It’s essentially a personal assistant’](https://www.foxbusiness.com/fox-news-tech/construction-giant-unveils-ai-help-prevent-job-site-accidents-essentially-personal-assistant)**
+**[Singapore-based startup founder Anand Roy thinks generative AI can help fix a broken music sector](https://fortune.com/2026/01/08/wubble-ai-singapore-anand-roy-music/)**
 
-Caterpillar has unveiled an AI assistant to boost construction safety and cut training time amid labor shortages. A voice-activated tool helps prevent accidents.
+Roy started Wubble in 2024; now his generated tunes are used by global giants and even the Taipei Metro, to soothe harried commuters.
 
-Fox Business • 1h ago
+Fortune • 1h ago
 
 ---
 
-**[3 Millionaire-Maker Artificial Intelligence (AI) Stocks](https://finance.yahoo.com/news/3-millionaire-maker-artificial-intelligence-000700866.html)**
+**[3 Millionaire-Maker Artificial Intelligence (AI) Stocks](https://www.fool.com/investing/2026/01/08/millionaire-maker-artificial-intelligence-ai-stock/)**
 
 You don't have to buy risky stocks to invest in the AI boom.
 
+The Motley Fool • 3h ago
+
+---
+
+**[Top 10 Tech Stocks of 2025: How the AI Trade Defied the Skeptics](https://io-fund.com/ai-stocks/top-10-tech-stocks-2025)**
+
+The stock market in 2025 was a high-stakes tug-of-war between geopolitical tensions and the AI trade. Headlines were dominated by the DeepSeek fears, trade wars, tariffs, and persistent whispers of the AI bubble. However, the AI trade proved to be more than just hype; it became a cornerstone of the market.
+
+IO Fund • 16h ago
+
+---
+
+**[Is It Time To Reassess Rezolve AI (RZLV) After Its Recent Share Price Surge](https://finance.yahoo.com/news/time-reassess-rezolve-ai-rzlv-021132663.html)**
+
+If you are wondering whether Rezolve AI is attractively priced or already running ahead of itself, you are not alone. That is exactly what this article is here to unpack. The stock last closed at US$3.71, with returns of 44.4% over 7 days, 34.4% over 30 days, 29.3% year to date, 24.9% over 1 year, and a 63.5% decline over 3 years, which raises questions about how much risk and recovery potential is already reflected in the price. Recent attention on Rezolve AI has centered on its position in...
+
 Yahoo Finance • 1h ago
-
----
-
-**[Survey: 41% Think AI Stocks Are in a Bubble, but Investors Keep Buying Anyway. Here Are 3 That Could Weather the Storm.](https://www.fool.com/investing/2026/01/08/survey-41-think-ai-stocks-are-in-a-bubble-but-inve/)**
-
-Even if an AI bubble were to burst, you could still feel comfortable owning these AI titans.
-
-The Motley Fool • 10h ago
-
----
-
-**[Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026](https://www.marketwatch.com/story/why-alphabets-stock-can-further-reign-as-king-of-the-ai-trade-in-2026-18bedf6f?gaa_at=eafs&gaa_n=AWEtsqfu-4x_8Vrz21I519ny7kYvtySgLQrX_6cbS1ZrEM2Gil04QASBqWXz&gaa_ts=69606246&gaa_sig=-bw7RpBNEUdOi1CIkapsG4GLiOJBEivlsDkgIrIO7q-Ld0ICEkd83ZDtAzeJlhIam50xMkFdWEhXmNCe7e36yA%3D%3D)**
-
-MarketWatch • 5h ago
-
----
-
-**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
-
-"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
-
-Fortune • 1d ago
 
 ---
 
@@ -189,7 +189,7 @@ Fortune • 1d ago
 
 While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
 
-NPR • 2h ago
+NPR • 4h ago
 
 ---
 
@@ -201,13 +201,13 @@ NPR • 2h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 840 • 💬 1318 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 841 • 💬 1318 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 459 • 💬 161 • 6h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 519 • 💬 182 • 8h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -215,7 +215,15 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 404 • 💬 301 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 441 • 💬 327 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+
+---
+
+**[AI coding assistants are getting worse?](https://news.ycombinator.com/item?id=46542036)**
+
+One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
+
+⬆️ 245 • 💬 394 • 12h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -231,15 +239,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 231 • 💬 108 • 7h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
-
----
-
-**[AI coding assistants are getting worse?](https://news.ycombinator.com/item?id=46542036)**
-
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-⬆️ 222 • 💬 349 • 10h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 234 • 💬 112 • 9h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -247,7 +247,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 202 • 💬 36 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 202 • 💬 37 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -255,7 +255,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 146 • 💬 82 • 19h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 149 • 💬 83 • 20h ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -267,9 +267,11 @@ We present the first comprehensive evaluation of AI agents against human cyberse
 
 ---
 
-**[Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery](https://news.ycombinator.com/item?id=46515777)**
+**[He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B](https://news.ycombinator.com/item?id=46544276)**
 
-⬆️ 81 • 💬 20 • 2d ago
+“I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
+
+⬆️ 107 • 💬 127 • 9h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -283,7 +285,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 3K • 👍 174 • 💬 6 • ⏱️ 17:54 • 1h ago
+👁️ 3K • 👍 174 • 💬 6 • ⏱️ 17:54 • 3h ago
 
 ---
 
@@ -323,7 +325,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 23K • 👍 1K • 💬 157 • ⏱️ 18:37 • 10h ago
+👁️ 23K • 👍 1K • 💬 157 • ⏱️ 18:37 • 12h ago
 
 ---
 
@@ -343,7 +345,7 @@ Try Greptile for free for 14 days! https://bit.ly/3Yg0C84 Download The Subtle Ar
 
 📺 Matthew Berman
 
-👁️ 8K • 👍 385 • 💬 33 • ⏱️ 14:35 • 4h ago
+👁️ 8K • 👍 385 • 💬 33 • ⏱️ 14:35 • 5h ago
 
 ---
 
@@ -363,7 +365,7 @@ Submit your Cursor app to the App Store: https://mikeyno-code.com/Skool-cursor J
 
 📺 Mikey No Code
 
-👁️ 9K • ⏱️ 23:08 • 7h ago
+👁️ 9K • ⏱️ 23:08 • 8h ago
 
 ---
 
@@ -389,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 187,937 • ❤️ 595 • 18h ago
+⬇️ 187,937 • ❤️ 595 • 20h ago
 
 ---
 
@@ -401,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 7,287 • ❤️ 680 • 7d ago
+⬇️ 7,287 • ❤️ 680 • 8d ago
 
 ---
 
@@ -449,7 +451,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,233 • ❤️ 435 • 2d ago
+⬇️ 3,233 • ❤️ 435 • 3d ago
 
 ---
 
@@ -461,7 +463,7 @@ IQuest-Coder-V1-40B-Instruct is a 40B parameter code LLM trained with a code-flo
 
 `text-generation` `39.8B`
 
-⬇️ 4,353 • ❤️ 255 • 5d ago
+⬇️ 4,353 • ❤️ 255 • 6d ago
 
 ---
 
@@ -615,7 +617,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
 
-▲ 43 • 💬 5 • ⭐ 293 • 4d ago
+▲ 43 • 💬 5 • ⭐ 293 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
 
@@ -645,7 +647,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.1k • 🔱 850 • 5m ago
+⭐ 7.1k • 🔱 850 • 1h ago
 
 ---
 
@@ -665,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 126 • 11h ago
+⭐ 2.2k • 🔱 126 • 13h ago
 
 ---
 
@@ -695,7 +697,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 101 • 14h ago
+⭐ 1.2k • 🔱 101 • 15h ago
 
 ---
 
@@ -705,7 +707,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 20h ago
+⭐ 1.2k • 🔱 142 • 22h ago
 
 ---
 
@@ -715,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.1k • 🔱 95 • 8h ago
+⭐ 1.1k • 🔱 95 • 10h ago
 
 ---
 
@@ -735,7 +737,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 994 • 🔱 120 • 12h ago
+⭐ 994 • 🔱 120 • 14h ago
 
 ---
 
