@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-09T15:25:55.746804+00:00'
+updated: '2026-01-09T15:48:17.729095+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 15:25 UTC  
+**Last Updated:** January 09, 2026 at 15:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 2h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 3h ago
 
 ---
 
@@ -134,7 +134,7 @@ Happy New Year r/ethereum! We have a BANGER of an epsidode dropping LIVE on Yout
 
 DAMM Capital — DeFi Frontier Lab We’re a DeFi frontier lab from Buenos Aires, Argentina, building and operating self-custodial decentralized finance strategies for people and organizations that want real exposure to DeFi without having to become protocol experts. We started years ago doing algorithmic market making and Protocol Owned Liquidity (PoL), and have grown into a broader on-chain asset manager serving institutions, DAOs, and companies alike. We believe DeFi is converging toward professional operators, much like traditional finance did — and that this only works if it’s built for the long term, not short-term incentives or hype. What We Do (at a Glance) Tokenized Investment Funds On-chain, non-custodial, discretional, partially-algorithmic DAMMstable Market-neutral strategies for USD stablecoins. DAMMeth Market-neutral strategies for ETH holders. DAMMop OP-denominated algorithmic strategies. DAMMbtc (upcoming) BTC-focused strategies deployed via Ethereum and L2s. DeFi-as-a-Service (DaaS) DeFi execution for institutions, DAOs, and protocols. Treasury management, liquidity strategy design, and Protocol Owned Liquidity. Clients retain full ownership and control at all times. Our Values We believe in the values of Ethereum. Our team is fully crypto-native and has been for years. We operate with a strict set of principles: no centralized exchanges, no off-chain custody, no opaque structures, and no token or emissions theater. Everything we do is transparent, verifiable, and non-custodial, designed so clients always retain control of their capital. We focus on risk-adjusted returns, build for the long term, and remain independent and aligned with the people who trust us with their capital. Links Email: team@dammcap.finance Website: https://dammcap.finance Twitter / X: https://x.com/DAMM_Capital LinkedIn: https://www.linkedin.com/company/damm-capital/ Docs & Research: https://docs.dammcap.finance AMA — happy to answer questions.
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -171,22 +171,6 @@ Yahoo Finance • 17h ago
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
 Decrypt • 17h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP find key support, reviving rally hopes](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-find-key-support-reviving-rally-hopes-202601090359)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) steadied above key support levels on Friday after being rejected at mid-week resistance zones. The short-term recovery prospects remain intact if the top three cryptocurrencies by market capitalization hold these support zones.
-
-FXStreet • 11h ago
-
----
-
-**[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
-
-Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
-
-The Motley Fool • 4h ago
 
 ---
 
@@ -222,7 +206,23 @@ TradingView — Track All Markets • 15h ago
 
 Ethereum and Solana ETF trading accelerated sharply in early January amid increasing institutional interest in crypto assets.
 
-CryptoPotato • 3h ago
+CryptoPotato • 2d ago
+
+---
+
+**['If Bitcoin Gets To $1 Million, That Will Value Ethereum At $250,000': Tom Lee Resurrects Ambitious ETH Call Amid Major Bitmine Shareholder Vote](https://finance.yahoo.com/news/bitcoin-gets-1-million-value-190201056.html)**
+
+Fundstrat investment chief Tom Lee has reiterated his prediction that Ethereum could hit $250,000 in the near future. "If Bitcoin gets to $1 Million, that will value Ethereum at $250,000," Lee, who also doubles as chair of Ethereum treasury company...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
+
+Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 1K • 👍 102 • 💬 67 • ⏱️ 52:02 • 3h ago
+👁️ 1K • 👍 102 • 💬 67 • ⏱️ 52:02 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Stock Moe
 
-👁️ 2K • 👍 281 • 💬 19 • ⏱️ 12:30 • 1h ago
+👁️ 2K • 👍 281 • 💬 19 • ⏱️ 12:30 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ Join 2 Month A to Z Crypto SMC LIVE classes for FREE - Just open account using b
 
 📺 Fearless Trader Shivam
 
-👁️ 2K • 👍 134 • 2h ago
+👁️ 2K • 👍 134 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T15:25:55.740826+00:00'
+updated: '2026-01-09T15:48:17.722935+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 15:25 UTC  
+**Last Updated:** January 09, 2026 at 15:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-11h ago
+12h ago
 
 ---
 
@@ -99,7 +99,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-30m ago
+52m ago
 
 ---
 
@@ -107,13 +107,13 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-54m ago
+1h ago
 
 ---
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ Anything I should know about?
 
 BTC
 
-23h ago
+1d ago
 
 ---
 
@@ -149,6 +149,64 @@ BTC
 
 ## Google News: "bitcoin"
 
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+
+The Block • 7h ago
+
+---
+
+**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
+
+Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
+
+CoinDesk • 8h ago
+
+---
+
+**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
+
+It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
+
+CNBC • 3h ago
+
+---
+
+**[Florida revives push for bitcoin reserve with new 2026 bill](https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill)**
+
+A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
+
+CoinDesk • 1d ago
+
+---
+
+**[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
+
+The Block • 19h ago
+
+---
+
+**[Florida Lawmakers Want To Create A Bitcoin Reserve In 2026](https://bitcoinmagazine.com/news/florida-revives-bitcoin-reserve-push)**
+
+Florida lawmakers filed new legislation for the 2026 session that would create a state-run crypto reserve after a similar effort stalled last year.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Gloom, Boom and Doom author recommends buying gold but not bitcoin](https://www.marketwatch.com/story/gloom-boom-and-doom-author-recommends-buying-gold-but-not-bitcoin-b2d969c1?gaa_at=eafs&gaa_n=AWEtsqdeJN_d5UeFhx_f60547hQMjlNhhbdOS7dRnZj8VfrfU4ucDtlTzl_4&gaa_ts=696126ac&gaa_sig=0k2qJe2__rkz95NPQSvtDVZH_jtmnzlz0XuHU1efPCjzxc_YQnAZSLWW9_5CDtpU_gmX1XBOwwdyt_tDFXChdg%3D%3D)**
+
+MarketWatch • 36m ago
+
+---
+
+**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
+
+If true, the claim could significantly reshape the global bitcoin market.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
 
 Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
@@ -157,67 +215,11 @@ CNBC • 1d ago
 
 ---
 
-**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
-
-The Block • 14h ago
-
----
-
-**[Cathie Wood: Trump May Buy Bitcoin For US Reserve Ahead Of Midterms](https://www.tradingview.com/news/newsbtc:2d0f88b73094b:0-cathie-wood-trump-may-buy-bitcoin-for-us-reserve-ahead-of-midterms/)**
-
-Cathie Wood, ARK Invest’s founder and CEO, said she expects the Trump administration could move beyond simply holding seized bitcoin and begin purchasing BTC to build a US strategic reserve, a shift she argued could become a catalytic signal for markets and other governments.Speaking on ARK’s “Bitc…
-
-TradingView — Track All Markets • 2h ago
-
----
-
-**[Donald Trump May Start Buying Bitcoin in 2026, Says Cathie Wood — Can Price Surge to Her $1.2 Million Target?](https://www.ccn.com/news/crypto/donald-trump-may-start-buying-bitcoin-in-2026-says-cathie-wood-can-price-surge-to-her-1-2-million-target/)**
-
-CCN.com • 3h ago
-
----
-
-**[Zcash Mass Resignation Highlights Bitcoin’s Importance, Says Samson Mow — Here’s Why](https://finance.yahoo.com/news/zcash-mass-resignation-highlights-bitcoin-130215144.html)**
-
-Samson Mow called the mass resignation of Zcash’s core developers a warning for investors. Electric Coin Company’s entire team resigned on Jan. 7 following what ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
-
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
-
-VanEck • 22h ago
-
----
-
 **[Is XRP (Ripple) the Next Bitcoin?](https://www.fool.com/investing/2026/01/08/is-xrp-ripple-the-next-bitcoin/)**
 
 XRP is an emerging player in the cryptocurrency landscape.
 
 The Motley Fool • 1d ago
-
----
-
-**[Venezuela rumored to hold $60B Bitcoin ‘shadow reserve’](https://fortune.com/2026/01/07/corruption-embezzlement-missing-money-venezuela-rumored-60-billion-bitcoin-shadow-reserve/)**
-
-If true, the claim could significantly reshape the global bitcoin market.
-
-Fortune • 1d ago
-
----
-
-**[Morgan Stanley Files For Bitcoin ETF, Goldman Names Top 2026 Crypto Picks](https://www.investors.com/news/bitcoin-morgan-stanley-etf-goldman-crypto-picks-2026-coinbase/)**
-
-Investor's Business Daily • 2d ago
-
----
-
-**[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
-
-The Block • 2d ago
 
 ---
 
@@ -319,7 +321,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 51K • 👍 2K • 💬 284 • ⏱️ 16:13 • 18h ago
+👁️ 51K • 👍 2K • 💬 284 • ⏱️ 16:13 • 19h ago
 
 ---
 
@@ -399,7 +401,7 @@ Stay informed with the latest insights on **btc**, focusing on effective **tradi
 
 📺 Krown
 
-👁️ 9K • 👍 714 • 💬 239 • ⏱️ 13:56 • 21h ago
+👁️ 9K • 👍 714 • 💬 239 • ⏱️ 13:56 • 22h ago
 
 ---
 

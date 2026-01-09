@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T15:25:55.749984+00:00'
+updated: '2026-01-09T15:48:17.732514+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 15:25 UTC  
+**Last Updated:** January 09, 2026 at 15:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-5h ago
+6h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/5bKaiNxt1KM) • 1h ago
+🔗 [youtu.be](https://youtu.be/5bKaiNxt1KM) • 2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Note: Text has been made with help of AI. Hi all, I hope this is the right place
 
 We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
 
-7h ago
+8h ago
 
 ---
 
@@ -138,30 +138,6 @@ International Federation of Robotics • 1d ago
 
 ---
 
-**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
-
-Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
-
-CNBC • 2h ago
-
----
-
-**[Surface-based manipulation with modular foldable robots](https://www.nature.com/articles/s44182-025-00069-6)**
-
-npj Robotics - Surface-based manipulation with modular foldable robots
-
-Nature • 2h ago
-
----
-
-**[Why robots still can't match humans - and what's holding them back](https://news.sky.com/story/why-robots-still-cant-match-humans-and-whats-holding-them-back-13492374)**
-
-At the biggest tech conference in the world in Las Vegas, Sky News looks at just how close robots really are to becoming like us.
-
-Sky News • 1h ago
-
----
-
 **[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
 
 New technique varies colour and texture to open up potential applications in display technologies
@@ -178,9 +154,33 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqclUlui2vVhkX9rAhFP8PaXjdSLRSFq0GGbs3kUUq9Ffgu3gMAXvIMi&gaa_ts=69611364&gaa_sig=Uo5VbmxPe74VYDQjUyCvkHIDJMhy26iFuSvzv67rT7fBJShP47tFw9tjzmdDrWQ4YeuII8lYGIuathmvAk6Y4Q%3D%3D)**
+**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+
+Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+
+NVIDIA Developer • 22h ago
+
+---
+
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqewmTdjzn0PMUB2ViAR2iwQpkjdQlREI-YICK7rtFGDhkwDlVSxzcyI&gaa_ts=696126af&gaa_sig=z42vDFikMOYpF0SDzbUEkorJDSZ8paPvxMagsLtXB47ImHH5BNs8VJLn3WGOl1KBW4KlWsyxujI4w4uvxufM_g%3D%3D)**
 
 The Wall Street Journal • 2d ago
+
+---
+
+**[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
+
+Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
+
+The Times of Israel • 2d ago
+
+---
+
+**[Mobileye's Mentee Robotics acquisition seen by analysts as broadening scope of company](https://seekingalpha.com/news/4537376-mobileyes-mentee-robotics-acquisition-seen-by-analysts-as-broadening-scope-of-company)**
+
+Mobileye's (MBLY) plans to acquire humanoid robotics startup Mentee Robotics draw largely positive reactions from analysts.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 252K • 👍 8K • 💬 289 • ⏱️ 0:39 • 21h ago
+👁️ 252K • 👍 8K • 💬 289 • ⏱️ 0:39 • 22h ago
 
 ---
 

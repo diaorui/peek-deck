@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T15:25:55.732453+00:00'
+updated: '2026-01-09T15:48:17.714103+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 15:25 UTC  
+**Last Updated:** January 09, 2026 at 15:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-19m ago
+42m ago
 
 ---
 
@@ -81,7 +81,7 @@ I've been working on a problem: AI agents confidently claim to understand things
 
 I ask an AI to create a drawing with the same description as the one that would describe my drawing. The result is very interesting because it's comparable to the drawing I created. I like to express my feelings through drawings mixing Zentangle, doodle and tangle techniques. HI try to find patterns that allow me to draw new designs. Through my drawings, I express my feelings related to my phobia and social anxiety. This type of art helps me relieve my stress and anxiety. socialphobia socialanxiety pixeldoodleart zentangle doodleart AI artificialintelligence
 
-48m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I ask an AI to create a drawing with the same description as the one that would 
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 23h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 1d ago
 
 ---
 
@@ -121,25 +121,25 @@ Humanity may have gained a few extra years. The AI Futures Project, led by forme
 
 ## Google News: "ai"
 
-**[No 10 condemns move by X to restrict Grok AI image creation tool as insulting](https://www.theguardian.com/technology/2026/jan/09/no-10-condemns-move-by-x-to-restrict-grok-ai-image-creation-tool-as-insulting)**
+**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-Spokesperson says limiting access to paying subscribers just makes ability to generate unlawful images a premium service
-
-The Guardian • 2h ago
+The New York Times • 1h ago
 
 ---
 
-**[Elon Musk's Grok AI image editing limited to paid X users after deepfakes](https://www.bbc.com/news/articles/c99kn52nx9do)**
+**[Changes to Elon Musk's AI Grok 'insulting' to victims, says No 10](https://www.bbc.com/news/articles/c99kn52nx9do)**
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-BBC • 4h ago
+BBC • 43m ago
 
 ---
 
-**[Elon Musk’s A.I. Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+**[Elon Musk’s xAI tells investors it will build AI for Tesla Optimus, amid breach of fiduciary duty lawsuit](https://electrek.co/2026/01/09/elon-musk-xai-build-ai-tesla-optimus-amid-breach-of-fiduciary-duty-lawsuit/)**
 
-The New York Times • 1h ago
+In a move that completely undermines the “Tesla is an AI company” narrative, Elon Musk’s private startup, xAI, has reportedly...
+
+Electrek • 53m ago
 
 ---
 
@@ -151,31 +151,35 @@ CNBC • 4h ago
 
 ---
 
-**[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://www.bloomberg.com/news/articles/2026-01-09/meta-signs-multi-gigawatt-nuclear-deals-to-power-ai-data-centers)**
+**[Meta's latest deal to power its AI ambitions is sending nuclear stocks soaring](https://www.businessinsider.com/oklo-stock-price-meta-ai-nuclear-power-deal-vst-ceg-2026-1)**
 
-Bloomberg.com • 2h ago
+Meta Platforms announced a deal with Oklo, Vista, and TerraPower to power its AI buildout. Nuclear energy stocks surged on the news.
 
----
-
-**[Meta signs three nuclear power deals to help support its AI data centers](https://www.10tv.com/article/syndication/associatedpress/meta-signs-three-nuclear-power-deals-to-help-support-its-ai-data-centers/616-ac606161-0fff-44b5-b736-e9f43f8666a3)**
-
-Facebook parent Meta has reached nuclear power deals with three companies as it continues to look for electricity sources for its artificial intelligence data...
-
-10TV • 1h ago
+Business Insider • 26m ago
 
 ---
 
-**[Exclusive: Standard AI acquires Pathr.ai for computer vision analytics](https://www.axios.com/pro/retail-deals/2026/01/09/standard-ai-pathrai-acquisition-computer-vision-analytics)**
+**[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://finance.yahoo.com/news/meta-signs-multi-gigawatt-nuclear-112234780.html)**
 
-Axios • 1h ago
+The agreements could end up totaling more than 6 gigawatts, enough to power a city of about 5 million homes.  While Meta didn’t disclose the value of the contracts, agreements of this size can easily represent billions of dollars in total revenue for electricity generators.  Meta said Friday it will purchase electricity from three existing Vistra Corp. plants and support several small reactors that Sam Altman-backed Oklo Inc. and Bill Gates-backed TerraPower LLC are planning to build over the next decade.
+
+Yahoo Finance • 4h ago
 
 ---
 
-**[I Was Wrong About AI Productivity (SPX)](https://seekingalpha.com/article/4858337-i-was-wrong-about-ai-productivity)**
+**[Nokia AI Chief Pallavi Mahajan on AI-native networks and the future of automation](https://www.fiercewireless.com/sponsored/nokia-ai-chief-pallavi-mahajan-ai-native-networks-and-future-automation)**
 
-AI productivity gains are now showing up in GDP, unit labor costs, and earnings at AI adopter firms. Click here to read what investors need to know.
+As artificial intelligence moves from applications into the fabric of networks themselves, telecom infrastructure is undergoing a fundamental shift. | AI-native traffic is changing how networks are designed, automated, and powered. Nokia Chief Technology and AI Officer Pallavi Mahajan explains why AI-native networks, industrial AI, and power efficiency are central to the next phase of telecom.
 
-Seeking Alpha • 1h ago
+Fierce Network • 33m ago
+
+---
+
+**[Likely AI-generated bomb threat to private schools deemed 'non-credible'](https://www.tallahassee.com/story/news/2026/01/09/likely-ai-generated-bomb-threat-to-private-schools-deemed-non-credible/88099876007/)**
+
+The Tallahassee Police Department is investigating after an unspecified number of Tallahassee private schools received what law enforcement is calling "a non-credible" and possibly AI generated bomb threat.
+
+Tallahassee Democrat • 14m ago
 
 ---
 
@@ -187,11 +191,11 @@ NPR • 16h ago
 
 ---
 
-**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
+**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
 
-From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
+"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
 
-NBC News • 5h ago
+Fortune • 1d ago
 
 ---
 
@@ -217,7 +221,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 521 • 💬 362 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 521 • 💬 362 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -285,7 +289,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 43 • ⏱️ 17:54 • 14h ago
+👁️ 45K • 👍 1K • 💬 43 • ⏱️ 17:54 • 15h ago
 
 ---
 
@@ -733,7 +737,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 120 • 4h ago
+⭐ 1.0k • 🔱 120 • 5h ago
 
 ---
 
