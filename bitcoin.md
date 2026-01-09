@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T11:42:21.977168+00:00'
+updated: '2026-01-09T12:48:15.579260+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 11:42 UTC  
+**Last Updated:** January 09, 2026 at 12:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.1%  
-**30d:** -2.2%  
-**90d:** -21.4%  
-**1y:** -4.3%  
+**24h:** +0.7%  
+**7d:** -0.3%  
+**30d:** -2.3%  
+**90d:** -21.5%  
+**1y:** -4.5%  
 
 ---
 
@@ -81,11 +81,37 @@ Rank #1
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-7h ago
+9h ago
 
 ---
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
+
+11h ago
+
+---
+
+**[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
+
+8h ago
+
+---
+
+**[Tax it, or print it?](https://www.reddit.com/r/Bitcoin/comments/1q80fbk/tax_it_or_print_it/)**
+
+6h ago
+
+---
+
+**[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
+
+1h ago
+
+---
+
+**[Starting the journey (New to bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1q7wv4t/starting_the_journey_new_to_bitcoin/)**
+
+Anything I should know about?
 
 9h ago
 
@@ -95,53 +121,25 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 BTC
 
-20h ago
-
----
-
-**[Tax it, or print it?](https://www.reddit.com/r/Bitcoin/comments/1q80fbk/tax_it_or_print_it/)**
-
-5h ago
-
----
-
-**[Starting the journey (New to bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1q7wv4t/starting_the_journey_new_to_bitcoin/)**
-
-Anything I should know about?
-
-8h ago
-
----
-
-**[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
-
-7h ago
+21h ago
 
 ---
 
 **[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Never too late](https://www.reddit.com/r/Bitcoin/comments/1q7l3s7/never_too_late/)**
 
-16h ago
-
----
-
-**[The rotation from analog to digital scarcity is a one-way street](https://www.reddit.com/r/Bitcoin/comments/1q7onnb/the_rotation_from_analog_to_digital_scarcity_is_a/)**
-
-Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
-
-14h ago
+17h ago
 
 ---
 
@@ -157,41 +155,55 @@ CNBC • 1d ago
 
 ---
 
+**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
+
+The Block • 12h ago
+
+---
+
+**[Donald Trump May Start Buying Bitcoin in 2026, Says Cathie Wood — Can Price Surge to Her $1.2 Million Target?](https://www.ccn.com/news/crypto/donald-trump-may-start-buying-bitcoin-in-2026-says-cathie-wood-can-price-surge-to-her-1-2-million-target/)**
+
+CCN.com • 1h ago
+
+---
+
+**[Will a Supreme Court Ruling Against Trump Cause a Bitcoin Crash?](https://bitcoinmagazine.com/politics/supreme-court-cause-a-bitcoin-crash)**
+
+Bitcoin could face heightened volatility if the Supreme Court rules against Trump on his global tariffs, impacting markets across crypto, equities, and bonds.
+
+Bitcoin Magazine • 20h ago
+
+---
+
+**[South Korea to flip bitcoin ETF stance as part of broader crypto push](https://www.coindesk.com/policy/2026/01/09/south-korea-to-flip-bitcoin-etf-stance-as-part-of-broader-crypto-push)**
+
+A new Digital Asset Act will regulate stablecoins, requiring 100% reserve backing and user redemption rights.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Has Dropped 28% Since Its Peak in October. Will It Continue to Fall in 2026?](https://www.fool.com/investing/2026/01/09/bitcoin-has-dropped-28-since-its-peak-in-oct/)**
+
+It's important to be realistic about what's actually predictable and what's not.
+
+The Motley Fool • 18m ago
+
+---
+
 **[3 Predictions for Bitcoin in 2026](https://finance.yahoo.com/news/3-predictions-bitcoin-2026-110500279.html)**
 
 There's going to be a lot going on in 2026, but the crypto probably won't go to the moon.
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak?utm_source=markets.xml&utm_medium=rss)**
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
 
-The Block • 3h ago
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
 
----
-
-**[Is XRP (Ripple) the Next Bitcoin?](https://www.fool.com/investing/2026/01/08/is-xrp-ripple-the-next-bitcoin/)**
-
-XRP is an emerging player in the cryptocurrency landscape.
-
-The Motley Fool • 1d ago
-
----
-
-**[XRP jumps 20% in a week as traders rotate beyond bitcoin and ether](https://www.cnbc.com/video/2026/01/06/xrp-jumps-20percent-in-a-week-as-traders-rotate-beyond-bitcoin-and-ether.html)**
-
-CNBC’s MacKenzie Sigalos reports on why XRP is leading crypto’s early-2026 rally, with investors treating it as a targeted alternative to bitcoin and ether — drawn by its cross-border payments pitch and steady inflows that held up even through the Q4 dip.
-
-CNBC • 2d ago
-
----
-
-**[XRP slips 5% as CNBC terms it 'hottest trade' of 2026 over bitcoin and ether](https://www.coindesk.com/markets/2026/01/08/xrp-slips-5-as-cnbc-terms-it-hottest-trade-of-2026-over-bitcoin-and-ether)**
-
-Institutional demand through U.S.-listed spot XRP ETFs remains strong, with net inflows continuing into early January.
-
-CoinDesk • 1d ago
+VanEck • 20h ago
 
 ---
 
@@ -200,22 +212,6 @@ CoinDesk • 1d ago
 If true, the claim could significantly reshape the global bitcoin market.
 
 Fortune • 1d ago
-
----
-
-**[Are You Still Trusting Exchanges? The 2026 Wallets That Finally Make Self-Custody Easy](https://bitcoinmagazine.com/business/top-self-custody-bitcoin-wallets-for-2026)**
-
-If you've ever worried "not your keys, not your coins," these 2026 wallets—like the ultra-secure Coldcard Q and privacy-packed Bull Bitcoin—put you back in full control without the hassle.
-
-Bitcoin Magazine • 2h ago
-
----
-
-**[Citi analysts reiterate bitcoin $143,000 base case projection despite bitcoin tumbling](https://sherwood.news/crypto/citi-analysts-reiterate-bitcoin-usd143-000-base-case-projection-despite/)**
-
-Bitcoin ETFs also suffered on Wednesday....
-
-Sherwood News • 21h ago
 
 ---
 
@@ -233,13 +229,13 @@ Investor's Business Daily • 2d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 12h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 13h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 23h ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 1d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -271,7 +267,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 2h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 3h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -285,7 +281,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 1d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 2d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -313,7 +309,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 48K • 👍 2K • 💬 282 • ⏱️ 16:13 • 15h ago
+👁️ 48K • 👍 2K • 💬 282 • ⏱️ 16:13 • 16h ago
 
 ---
 
@@ -323,7 +319,7 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 5K • 👍 287 • 💬 44 • ⏱️ 10:06 • 17h ago
+👁️ 5K • 👍 287 • 💬 44 • ⏱️ 10:06 • 18h ago
 
 ---
 
@@ -333,7 +329,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 191 • ⏱️ 11:14 • 10h ago
+👁️ 30K • 👍 2K • 💬 191 • ⏱️ 11:14 • 11h ago
 
 ---
 
@@ -353,7 +349,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 21K • 👍 1K • 💬 131 • ⏱️ 13:19 • 14h ago
+👁️ 21K • 👍 1K • 💬 131 • ⏱️ 13:19 • 15h ago
 
 ---
 
@@ -383,7 +379,7 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 153 • ⏱️ 25:57 • 11h ago
+👁️ 21K • 👍 2K • 💬 153 • ⏱️ 25:57 • 12h ago
 
 ---
 
@@ -393,7 +389,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 72 • ⏱️ 5:09 • 10h ago
+👁️ 20K • 👍 1K • 💬 72 • ⏱️ 5:09 • 11h ago
 
 ---
 
@@ -403,7 +399,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 15K • 👍 803 • 💬 100 • ⏱️ 12:34 • 21h ago
+👁️ 15K • 👍 803 • 💬 100 • ⏱️ 12:34 • 23h ago
 
 ---
 
