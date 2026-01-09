@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T07:26:46.381433+00:00'
+updated: '2026-01-09T07:46:38.005488+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - news
 - videos
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 07:26 UTC  
+**Last Updated:** January 09, 2026 at 07:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 BTC
 
-15h ago
+16h ago
 
 ---
 
@@ -141,7 +141,7 @@ Anything I should know about?
 
 Central banks reported record-breaking Gold accumulation throughout 2025, but the market is starting to see this for what it is: a desperate hedge against a global debt spiral that is reaching its final stage. While Gold remains the classic analog refuge, it lacks the protocol-level transparency and perfect inelasticity that a digital age requires. In my view, we are watching the start of the final rotation. Gold has an elastic supply—higher prices lead to more mining. Bitcoin’s supply is governed by math, making it the only asset in human history with a truly fixed issuance schedule that anyone can audit with a simple node. The transition from a speculative "tech" asset to a global reserve standard is happening in the institutional order books right now. Every satoshi vacuumed up by sovereign or institutional mandates is a unit of wealth that will never return to the legacy fiat system. Curious to see if anyone here still finds a logical reason to hold physical metals as a primary hedge, or if the auditability of the network has made that entire analog model feel like a relic.
 
-9h ago
+10h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 2d ago
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 34m ago
+CoinDesk • 53m ago
 
 ---
 
@@ -309,7 +309,7 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 265 • ⏱️ 16:13 • 10h ago
+👁️ 42K • 👍 2K • 💬 265 • ⏱️ 16:13 • 11h ago
 
 ---
 
@@ -369,7 +369,7 @@ Stay informed with the latest insights on **btc**, focusing on effective **tradi
 
 📺 Krown
 
-👁️ 8K • 👍 641 • 💬 197 • ⏱️ 13:56 • 13h ago
+👁️ 8K • 👍 641 • 💬 197 • ⏱️ 13:56 • 14h ago
 
 ---
 

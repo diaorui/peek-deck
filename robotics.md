@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T07:26:46.390633+00:00'
+updated: '2026-01-09T07:46:38.014870+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 07:26 UTC  
+**Last Updated:** January 09, 2026 at 07:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A thousand simulated years produced a single brain that could adapt to almost anything](https://www.reddit.com/r/robotics/comments/1q7bt30/a_thousand_simulated_years_produced_a_single/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-11m ago
+31m ago
 
 ---
 
@@ -62,7 +62,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 I’m walking the floor at CES Las Vegas today and spent some time at the Narwal booth. They’re about to release their next-gen robot, the Flow 2. From what I gathered talking to the reps, Narwal really leans into the fact that they pioneered the "auto-dock mop washing" thing. They didn't necessarily invent the first mop robot, but they definitely defined the category. Here’s a quick summary of the technical "catch points" I noted during the demo (trying to cut through the marketing fluff): Power & Endurance Massive 7000mAh battery: They're using 99W high output charging now. AI Battery Management: They claim this helps with battery aging and stability in extreme temps. Smart Recharging: It’s designed to top up during the self cleaning cycle to minimize downtime. The AI Brain (NarMind 2.0) VLM based Vision: It’s more than just dual cameras; it uses a Vision Language Model for open ended object recognition. Specific Modes: They’ve got Pet Care, Baby Care, and even particle detection (it knows if it's hitting sand vs. dust). Obstacle Avoidance: TwinAI Dodge 2.0 uses dual RGB cameras for millimeter-level precision. 3D Mapping: New TrueColor mapping that you can actually control in 3D on the app. Self-Maintenance (The Gross Stuff) 100°C Hot Water Cycle: This is for the dock. It disinfects the mops, tanks, and the internal fluid paths. That’s a high temp for a home bot. Real-time Scraper: There’s a built-in scraper that clears debris while it's mopping. Design: Anti-clog nozzles and tangle-resistant mop designs (always a big promise, let's see). Cleaning Performance Mopping: Uses 60°C water during operation, 100°C for the dock wash, and 60°C hot air for drying. Suction: Claims 30,000pa. That's huge should theoretically pull dirt out of deep floor gaps or pet litter from mats. Form Factor: It's only 95mm thin. Surprisingly quiet for that much suction power. My Take: On paper? The specs are beastly. My big questions are always about real-world performance. What’s the actual runtime on mixed hardwood/carpet? How does the AI truly handle a floor covered in kids’ toys or "pet accidents" without making a bigger mess? If it actually hits these numbers, it could be a new benchmark for the year. Curious to see the independent hands-on reviews once these ship. Anyone else at CES see this yet? Or have thoughts on Narwal vs. Roborock?
 
-14h ago
+15h ago
 
 ---
 
@@ -76,7 +76,7 @@ I’m walking the floor at CES Las Vegas today and spent some time at the Narwal
 
 I’ve been noticing how differently people react to robots depending on whether there’s a screen face or not. A lot of small robots I see online, especially ones made for kids, use screens. Eyes, icons, battery indicators. It’s practical. You can tell right away if the robot is awake, charging, or about to move. Some even add touch input, which feels intuitive. But once there’s a face, expectations change. People read intent into it. A pause feels like hesitation. A turn feels like attention. Even when the robot is doing something very basic. Other robots go the opposite direction. Some humanoid robots and robot dogs don’t really have faces at all. They rely on motion, distance, lights, and timing. You lose some explicit feedback, but people seem less likely to project emotion onto them. I’m curious how this plays out in real environments, not demos. Around pets. Around kids. Indoors and outside. In those situations, does a screen actually help, or does it complicate how people interpret what the robot is doing?
 
-22h ago
+23h ago
 
 ---
 
@@ -84,7 +84,7 @@ I’ve been noticing how differently people react to robots depending on whether
 
 New research shows robots can predict harvest success and change approach angles, reaching an 81% tomato-picking success rate.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 4h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/smarter-tomato-picking-robots-learn-to-judge-each-fruit-before-harvest) • 5h ago
 
 ---
 
@@ -142,25 +142,34 @@ hyundai.com • 3d ago
 
 ---
 
+**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
+
+At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
+people and production.
+
+hyundai.com • 2h ago
+
+---
+
+**[Hyundai unveils humanoid robotics strategy, aiming for 30,000 robots annually by 2028](https://www.autonews.com/technology/an-ces-2026-hyundai-robotics-strategy-0105/)**
+
+Hyundai said at CES 2026 that it plans to start using humanoid robots in its factories and is building a production system that could produce 30,000 robots annually by 2028.
+
+Automotive News • 3d ago
+
+---
+
 **[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
 
-NVIDIA Developer • 13h ago
+NVIDIA Developer • 14h ago
 
 ---
 
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqfKm8w7blR-d9MZxxxomk66CaAp0WSCB9f8sdp121VHwPbfD7d9rCdZ&gaa_ts=6960a567&gaa_sig=2EQvR7cuP-JbfyNlHm3jmeLHbpChx9glBLvNsCqbmAZ6rRcPQAN67xP0nC3YUJ-WULmOky38U9pfJ8otP4dXwg%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqdtIKApulXJGpp7JmdpJ8TwD_XxVzPB1cX0veBVQ-SkXeiMXTmr8Y6h&gaa_ts=6960b5c8&gaa_sig=D2vBIzJRVSWSfXZTgNdFmTmoefP_s8YgGKQ5ATM85iwkKznfuILs0yFBjsGGEAfTlOgn2HrGtjh8vr9DhB_rCQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
-
----
-
-**[Mobileye buys Shashua's Mentee Robotics for $900m](https://www.jpost.com/business-and-innovation/article-882710)**
-
-Mobileye has $1.7 billion in cash, so even after the transaction it will hold over $1 billion in cash
-
-The Jerusalem Post • 22h ago
 
 ---
 
@@ -169,14 +178,6 @@ The Jerusalem Post • 22h ago
 Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
 
 The Times of Israel • 1d ago
-
----
-
-**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
-
-New technique varies colour and texture to open up potential applications in display technologies
-
-Financial Times • 1d ago
 
 ---
 
@@ -210,7 +211,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 173K • 👍 6K • 💬 231 • ⏱️ 0:39 • 13h ago
+👁️ 173K • 👍 6K • 💬 231 • ⏱️ 0:39 • 14h ago
 
 ---
 

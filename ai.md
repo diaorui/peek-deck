@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T07:26:46.372973+00:00'
+updated: '2026-01-09T07:46:37.996792+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - news
 - videos
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 07:26 UTC  
+**Last Updated:** January 09, 2026 at 07:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 But it would require a lot of engineering. And probably won't happen, let's be honest.
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 15h ago
+🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 16h ago
 
 ---
 
@@ -95,7 +95,7 @@ I used to think “better prompt” would fix everything. Then I watched my syst
 
 Researchers at National Taiwan University Hospital and the Department of Computer Science & Information Engineering at National Taiwan University developed an AI system made up of several models working together to read stomach images. Trained using doctors’ expertise and pathology results, the system learns how specialists recognize stomach disease. It automatically selects clear images, focuses on the correct areas of the stomach, and highlights important surface and vascular details. The system can quickly identify signs of Helicobacter pylori infection and early changes in the stomach lining that are linked to a higher risk of stomach cancer. The study is published in Endoscopy. For frontline physicians, this support can be important. AI can help them feel more confident in what they see and what to do next. By providing timely and standardized assessments, it helps physicians determine whether additional diagnostic testing, H. pylori eradication therapy, or follow-up endoscopic surveillance is warranted. As a result, potential problems can be detected earlier, even when specialist care is far away. “By learning from large numbers of endoscopic images that have been matched with expert-interpreted histopathology, AI can describe gastric findings more accurately and consistently. This helps doctors move beyond vague terms like “gastritis”, which are often written in results but don’t give enough information to guide proper care,” says first author Associate Professor Tsung-Hsien Chiang. “AI is not meant to replace doctors,” says corresponding author Professor Yi-Chia Lee. “It acts as a digital assistant that supports clinical judgment. By fitting into routine care, AI helps bring more consistent medical quality to reduce the gap between well-resourced hospitals and remote communities.” "AI detects stomach cancer risk from upper endoscopic images in remote communities", Asia Research News, 02 Jan 2026
 
-🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 14h ago
+🔗 [asiaresearchnews.com](https://www.asiaresearchnews.com/content/ai-detects-stomach-cancer-risk-upper-endoscopic-images-remote-communitiesResearchers) • 15h ago
 
 ---
 
@@ -115,11 +115,11 @@ Researchers at National Taiwan University Hospital and the Department of Compute
 
 ## Google News: "ai"
 
-**[Google is unleashing Gemini AI features on Gmail. Users will have to opt out](https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html)**
+**[Gmail now uses AI to help you write messages and keep track of your inbox](https://www.cbsnews.com/news/gmail-ai-google-help-write-messages-track-inbox/)**
 
-Google is adding more Gemini features to Gmail, the company's latest effort to spread its core AI product across its product portfolio.
+Google is souping up Gmail with features from its Gemini 3 AI app. Here's what to know — including how to opt out.
 
-CNBC • 18h ago
+CBS News • 12h ago
 
 ---
 
@@ -163,31 +163,31 @@ CNN • 22h ago
 
 ---
 
-**[Italy’s privacy watchdog warns Grok over deepfake AI content](https://www.reuters.com/legal/litigation/italys-privacy-watchdog-warns-grok-over-deepfake-ai-content-2026-01-08/)**
+**[Ofcom urged to use 'banning' powers over X AI deepfakes](https://www.bbc.com/news/articles/ckgjzknepvzo)**
 
-Reuters • 12h ago
+It follows an ongoing backlash against the use of X's AI Grok to digitally remove clothing from images.
 
----
-
-**['No one verified the evidence': Woman says AI-generated deepfake text sent her to jail | Action News Investigation](https://6abc.com/post/no-verified-evidence-woman-says-ai-generated-deepfake-text-sent-jail-action-news-investigation/18373467/)**
-
-Melissa Sims said her nightmare began after she called police during an argument with her boyfriend, when she said he allegedly ransacked her home.
-
-6abc Philadelphia • 2h ago
+BBC • 1h ago
 
 ---
 
-**[Chinese automaker Xpeng touts AI pivot in face of fierce competition](https://www.reuters.com/business/autos-transportation/chinese-automaker-xpeng-touts-ai-pivot-face-fierce-competition-2026-01-09/)**
+**[MiniMax, China's second 'AI tiger' to go public, soars in Hong Kong debut](https://www.reuters.com/world/asia-pacific/china-ai-firm-minimax-set-surge-hong-kong-debut-2026-01-09/)**
 
 Reuters • 2h ago
 
 ---
 
-**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
+**[AI Firm MiniMax Set for Hong Kong Debut After $619 million IPO](https://www.bloomberg.com/news/articles/2026-01-08/ai-firm-minimax-set-for-hong-kong-debut-after-619-million-ipo)**
 
-"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
+Bloomberg.com • 1h ago
 
-Fortune • 1d ago
+---
+
+**[MiniMax surges in Hong Kong debut, marking yet another Chinese AI listing](https://www.cnbc.com/2026/01/09/minimax-hong-kong-ipo-ai-tigers-zhipu.html)**
+
+Shares of MiniMax surged in their first day of trading in Hong Kong, in what represents the second major Chinese LLM company to go public.
+
+CNBC • 1h ago
 
 ---
 
@@ -283,7 +283,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 24K • 👍 698 • 💬 34 • ⏱️ 17:54 • 6h ago
+👁️ 24K • 👍 698 • 💬 34 • ⏱️ 17:54 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 17K • 👍 639 • 💬 82 • ⏱️ 14:35 • 9h ago
+👁️ 17K • 👍 639 • 💬 82 • ⏱️ 14:35 • 10h ago
 
 ---
 
@@ -645,7 +645,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.2k • 🔱 864 • 56m ago
+⭐ 7.2k • 🔱 864 • 1h ago
 
 ---
 
@@ -705,7 +705,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 142 • 47m ago
+⭐ 1.2k • 🔱 142 • 1h ago
 
 ---
 
@@ -715,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 101 • 55m ago
+⭐ 1.2k • 🔱 101 • 1h ago
 
 ---
 
