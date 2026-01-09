@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T13:38:32.330721+00:00'
+updated: '2026-01-09T14:26:04.007121+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 13:38 UTC  
+**Last Updated:** January 09, 2026 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-3h ago
+4h ago
 
 ---
 
@@ -50,13 +50,21 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-6h ago
+7h ago
 
 ---
 
 **[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
-4h ago
+5h ago
+
+---
+
+**[Every single humanoid at CES this year](https://www.reddit.com/r/robotics/comments/1q88edi/every_single_humanoid_at_ces_this_year/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/5bKaiNxt1KM) • 50m ago
 
 ---
 
@@ -66,9 +74,17 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 ---
 
+**[Humanoid robots are starting pilot deployments in factories and logistics — the shift from demos to real workloads](https://www.reddit.com/r/robotics/comments/1q824ex/humanoid_robots_are_starting_pilot_deployments_in/)**
+
+We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
+
+6h ago
+
+---
+
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -76,7 +92,7 @@ Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at C
 
 Note: Text has been made with help of AI. Hi all, I hope this is the right place to ask something like this. I’m 26 and currently finishing an MSc in Biotechnology in the Netherlands. During my MSc I discovered, pretty late, that I do not enjoy wet-lab biology, but I do enjoy robotics, automation, and engineering. I’m seriously considering doing a second MSc in Mechanical Engineering (Robotics, Mechatronics & Smart Systems) at the University of Groningen. Because of how the Dutch education system works, I cannot finish my current MSc and then start another one without paying around €20k per year. To get normal tuition of about €2.5k per year I would have to postpone graduation, meaning this is a real three-year commitment including the pre-master. I’m trying to decide if this is a smart pivot or an expensive mistake. Long-term goal: Work in space robotics and automation, ideally at ESA, DLR or a space contractor Focus on autonomous systems for spacecraft, lab experiments, or rovers I am open to other sectors since space will be extremely competitive but should be similar such as autonomous defense robotics Background: BSc and MSc in Biotechnology MSc robotics/automation experience: 6-DOF robotic arm, object detection, path planning Machine vision and ML-based classification Software engineering in Java with Git Current internship in lab automation (Python, industrial robot control) Self-study: ROS2, C++, Linux, PyTorch, mobile robot project Passion: robotics and automation, even though degree is biotech Gaps in knowledge compared to traditional robotics engineers: Multibody dynamics Control theory Vibrations and stability System modeling Mechatronics and hardware-level engineering Options I’m considering: Option A – Skip second MSc: Work in robotics or automation in industry Self-study dynamics and control Try to pivot into space robotics later via PhD or industry Risks: may be filtered out from PhDs and ESA because of degree background Option B – Do second MSc in Mechanical Engineering at Groningen: Three-year commitment including pre-master Graduate at 28–29 with little money Gain formal Mechanical Engineering degree with Robotics & Mechatronics specialization Opens doors to PhDs, ESA, and other space robotics opportunities Questions for the community: Is doing a second MSc in Mechanical Engineering a smart pivot into robotics/space, or could strong industry experience plus self-study realistically get me there? Are there alternative routes that work for people switching late into space robotics? Thanks in advance for any advice or insights!
 
-1h ago
+2h ago
 
 ---
 
@@ -84,21 +100,7 @@ Note: Text has been made with help of AI. Hi all, I hope this is the right place
 
 Hi I am building a robot using esp 32 S3 and my I have chosen lcd ST7789 TFT for display can anyone help me how to make this , I have no idea please guide me I need different expressions like Happy, surprised, listening, talking etc. Please help. I have just started , I am not able to find any resources to learn it I dont want to use ai for everythinh onnly for some help because i know it will build shit graphics PS: this is a product I want to make and sell I I want something that is copyright/patent free.
 
-1h ago
-
----
-
-**[Humanoid robots are starting pilot deployments in factories and logistics — the shift from demos to real workloads](https://www.reddit.com/r/robotics/comments/1q824ex/humanoid_robots_are_starting_pilot_deployments_in/)**
-
-We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
-
-5h ago
-
----
-
-**[The Bonston Dynamics Atlas Demo at CES2026](https://www.reddit.com/r/robotics/comments/1q70sat/the_bonston_dynamics_atlas_demo_at_ces2026/)**
-
-1d ago
+2h ago
 
 ---
 
@@ -120,9 +122,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Arm Holdings Creates New ‘Physical AI’ Unit to Expand into Robotics](https://www.tipranks.com/news/arm-holdings-creates-new-physical-ai-unit-to-expand-into-robotics)**
+**[Arm Stock In Spotlight -- A New Push Into Robotics Is Driving the Move](https://finance.yahoo.com/news/arm-stock-spotlight-push-robotics-165453695.html)**
 
-TipRanks • 1d ago
+Arm's Stock Is Moving After a Strategic Shake-Up
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -134,22 +138,27 @@ International Federation of Robotics • 1d ago
 
 ---
 
-**[Robots got a new brain at CES 🤖🧠 Qualcomm just unveiled Dragonwing IQ10, its robotics platform designed to power humanoid & autonomous robots — helping them see, think, & move in real time. The demo? Ambitious The robot? Very human… it briefly glit](https://www.linkedin.com/posts/cnbc-tv18_ces2026-qualcomm-dragonwingiq10-activity-7415326963575455745-EtAS)**
+**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
 
-Robots got a new brain at CES 🤖🧠
+Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
-Qualcomm just unveiled Dragonwing IQ10, its robotics platform designed to power humanoid & autonomous robots — helping them see, think, & move in real time.
+CNBC • 1h ago
 
-The demo? Ambitious
-The robot? Very human… it briefly glitched 😅
-Because even the future of AI has off days.
-📍 Aishwarya Anand reports from CES
+---
 
-#CES2026 #Qualcomm #DragonwingIQ10 #Robotics #PhysicalAI #FutureOfTech #CNBCTV18Digital
+**[Surface-based manipulation with modular foldable robots](https://www.nature.com/articles/s44182-025-00069-6)**
 
-Aishwarya Anand
+npj Robotics - Surface-based manipulation with modular foldable robots
 
-LinkedIn • 3h ago
+Nature • 1h ago
+
+---
+
+**[Why robots still can't match humans - and what's holding them back](https://news.sky.com/story/why-robots-still-cant-match-humans-and-whats-holding-them-back-13492374)**
+
+At the biggest tech conference in the world in Las Vegas, Sky News looks at just how close robots really are to becoming like us.
+
+Sky News • 41m ago
 
 ---
 
@@ -161,30 +170,15 @@ Financial Times • 1d ago
 
 ---
 
-**[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)**
+**[Top Robotics Stocks That Could Drive Impressive Returns in 2026](https://finance.yahoo.com/news/top-robotics-stocks-could-drive-151200525.html)**
 
-HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
+Robotics is poised for steady growth in 2026. Consider PATH, NVDA, CDNS and ISRG for potential market dominance across sectors.
 
-hyundai.com • 3d ago
-
----
-
-**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
-
-At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
-people and production.
-
-hyundai.com • 5h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Google DeepMind and Boston Dynamics to Trial Gemini-Powered Robots in Hyundai Factories](https://www.extremetech.com/computing/google-deepmind-and-boston-dynamics-to-trial-gemini-powered-robots-in-hyundai)**
-
-extremetech.com • 16h ago
-
----
-
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqe0aW2gbq-1VD5AI7R1RVJbSAABgte9IWIWw4ltPxc9YdI9uHoKD1cB&gaa_ts=6960fc7a&gaa_sig=3Cn1RWztswUyBsUtn0hIyUQ41N3aHB1MmGG--GD1T3SoSKg7m6ojll_fDo3JTByvgD8uq7CSNrAcxQUJ2qiVEA%3D%3D)**
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqclUlui2vVhkX9rAhFP8PaXjdSLRSFq0GGbs3kUUq9Ffgu3gMAXvIMi&gaa_ts=69611364&gaa_sig=Uo5VbmxPe74VYDQjUyCvkHIDJMhy26iFuSvzv67rT7fBJShP47tFw9tjzmdDrWQ4YeuII8lYGIuathmvAk6Y4Q%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -200,7 +194,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 139K • 👍 2K • 💬 410 • ⏱️ 4:29 • 1d ago
+👁️ 149K • 👍 3K • 💬 428 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -210,27 +204,17 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 58K • 👍 1K • 💬 220 • ⏱️ 9:33 • 2d ago
+👁️ 59K • 👍 1K • 💬 224 • ⏱️ 9:33 • 2d ago
 
 ---
 
-**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
+**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
 
-CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
+I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
 
-📺 CNBC Television
+📺 mryeester
 
-👁️ 8K • 👍 75 • 💬 19 • ⏱️ 2:58 • 2d ago
-
----
-
-**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
-
-Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
-
-📺 PCMag
-
-👁️ 607K • 👍 12K • 💬 2K • ⏱️ 7:00 • 3d ago
+👁️ 252K • 👍 8K • 💬 289 • ⏱️ 0:39 • 20h ago
 
 ---
 
@@ -244,23 +228,23 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 ---
 
-**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
 
-I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
 
-📺 mryeester
+📺 CNBC Television
 
-👁️ 220K • 👍 7K • 💬 269 • ⏱️ 0:39 • 19h ago
+👁️ 8K • 👍 75 • 💬 19 • ⏱️ 2:58 • 2d ago
 
 ---
 
-**[Atlas Has Left the Lab! In-Person Demo of Boston Dynamics Humanoid | What The Future](https://www.youtube.com/watch?v=q2rR_aXjqnI)**
+**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
 
-Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where it showcased autonomy, teleoperation, and how ...
+The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
 
-📺 CNET
+📺 Dip Knows
 
-👁️ 93K • 👍 2K • 💬 295 • ⏱️ 4:01 • 1d ago
+👁️ 456K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -280,17 +264,27 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 5.0M • 👍 4K • 💬 960 • ⏱️ 0:32 • 5d ago
+👁️ 5.0M • 👍 4K • 💬 968 • ⏱️ 0:32 • 5d ago
 
 ---
 
-**[Humanoid robots steal the show at CES tech event in Las Vegas](https://www.youtube.com/watch?v=DbPg-t6m2Mg)**
+**[CES 2026: Chinese firms dominate robotics sector at tech convention in Las Vegas](https://www.youtube.com/watch?v=Jkzg8qc48JY)**
 
-Excitement from the commercial AI boom and new technical advances have helped pour huge amounts of money into robotics ...
+Robots are no longer what we only see in sci-fi movies. Today, they can be seen walking, dancing and even serving snacks at this ...
 
-📺 ShanghaiEye魔都眼
+📺 CNA
 
-👁️ 8K • 👍 124 • 💬 21 • ⏱️ 4:25 • 1d ago
+👁️ 30K • 👍 304 • 💬 147 • ⏱️ 3:47 • 1d ago
+
+---
+
+**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+
+We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+
+📺 CNET
+
+👁️ 81K • 👍 346 • 💬 247 • ⏱️ 5:07 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-09T13:38:32.313231+00:00'
+updated: '2026-01-09T14:26:03.991857+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 09, 2026 at 13:38 UTC  
+**Last Updated:** January 09, 2026 at 14:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI is intensifying a 'collapse' of trust online, experts say](https://www.reddit.com/r/artificial/comments/1q89bm4/ai_is_intensifying_a_collapse_of_trust_online/)**
+
+From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
+
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472) • 12m ago
+
+---
+
 **[Why Yann LeCun left Meta for World Models](https://www.reddit.com/r/artificial/comments/1q7ugtz/why_yann_lecun_left_meta_for_world_models/)**
 
 As we know, one of the godfathers of AI recently left Meta to found his own lab AMI and the the underlying theme is his longstanding focus on world modelling. This is still a relatively underexplored concept however the recent surge of research suggests why it is gaining traction. For example, Marble demonstrates how multimodal models that encode a sense of the world can achieve far greater efficiency and reasoning capability than LLMs, which are inherently limited to predicting the next token. Genie illustrates how 3D interactive environments can be learned and simulated to support agent planning and reasoning. Other recent work includes SCOPE, which leverages world modelling to match frontier LLM performance (GPT-4-level) with far smaller models (millions versus trillions of parameters), and HunyuanWorld, which scored ~77 on the WorldScore benchmark. There are also new models being developed that push the boundaries of world modelling further. It seems the AI research community is beginning to recognize the practical and theoretical advantages of world models for reasoning, planning, and multimodal understanding. Curious, who else has explored this domain recently? Are there emerging techniques or results in world modelling that you find particularly compelling? Let us discuss. ps: See the comments for references to all the models mentioned above.
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +57,23 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 5h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 6h ago
+
+---
+
+**[Elon Musk's Grok AI image editing limited to paid users after deepfakes](https://www.reddit.com/r/artificial/comments/1q83cyi/elon_musks_grok_ai_image_editing_limited_to_paid/)**
+
+It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 5h ago
+
+---
+
+**[A practical 2026 roadmap for modern AI search & RAG systems](https://www.reddit.com/r/artificial/comments/1q87y8e/a_practical_2026_roadmap_for_modern_ai_search_rag/)**
+
+I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
+
+1h ago
 
 ---
 
@@ -61,11 +85,11 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 ---
 
-**[AI Futures Project Delays Timeline of 2030 Human Apocalypse Scenario](https://www.reddit.com/r/artificial/comments/1q83rhw/ai_futures_project_delays_timeline_of_2030_human/)**
+**[How come AI answers seem to be given by someone stuck in the past.](https://www.reddit.com/r/artificial/comments/1q88y34/how_come_ai_answers_seem_to_be_given_by_someone/)**
 
-Humanity may have gained a few extra years. The AI Futures Project, led by former OpenAI researcher Daniel Kokotajlo, has revised its forecast for superintelligent AI, concluding that the technological breakthroughs once expected by 2027 are now more likely to arrive in the early 2030s.
+When I ask google stuff in AI, the answer that is given is sometimes wrong because it's ignoring information that is currently known. It is like talking to a person in the past and, that person is certain there is nothing the future could know that changes their answer on subjects!
 
-🔗 [Hungarian Conservative](https://www.hungarianconservative.com/articles/tech/ai-futures-project-ai-2027-apocalypse-timeline-superintelligence-daniel-kokotajlo/) • 4h ago
+27m ago
 
 ---
 
@@ -81,37 +105,15 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-7h ago
+8h ago
 
 ---
 
-**[Elon Musk's Grok AI image editing limited to paid users after deepfakes](https://www.reddit.com/r/artificial/comments/1q83cyi/elon_musks_grok_ai_image_editing_limited_to_paid/)**
+**[AI Futures Project Delays Timeline of 2030 Human Apocalypse Scenario](https://www.reddit.com/r/artificial/comments/1q83rhw/ai_futures_project_delays_timeline_of_2030_human/)**
 
-It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
+Humanity may have gained a few extra years. The AI Futures Project, led by former OpenAI researcher Daniel Kokotajlo, has revised its forecast for superintelligent AI, concluding that the technological breakthroughs once expected by 2027 are now more likely to arrive in the early 2030s.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 4h ago
-
----
-
-**[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
-
-🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 1d ago
-
----
-
-**[Quick reliability lesson: if your agent output isn’t enforceable, your system is just improvising](https://www.reddit.com/r/artificial/comments/1q7sbtb/quick_reliability_lesson_if_your_agent_output/)**
-
-I used to think “better prompt” would fix everything. Then I watched my system break because the agent returned: Sure! { "route": "PLAN", } So now I treat agent outputs like API responses: Strict JSON only (no “helpful” prose) Exact schema (keys + types) No extra keys Validate before the next step reads it Retry with validator errors (max 2) If missing info -> return unknown instead of guessing It’s not glamorous, but it’s what turns “cool demo” into “works in production.” If you’ve built agents: what’s your biggest source of failures, format drift, tool errors, or retrieval/routing?
-
-13h ago
-
----
-
-**[Intel hopes its new chip can be the future of AI](https://www.reddit.com/r/artificial/comments/1q7fvnp/intel_hopes_its_new_chip_can_be_the_future_of_ai/)**
-
-Once the dominant player in chips, Intel has struggled to keep pace with rivals over the past decade. An executive discussed the company’s AI strategy and future direction, driven by the launch of its new Core Ultra 3 chips.
-
-🔗 [CNN](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 21h ago
+🔗 [Hungarian Conservative](https://www.hungarianconservative.com/articles/tech/ai-futures-project-ai-2027-apocalypse-timeline-superintelligence-daniel-kokotajlo/) • 5h ago
 
 ---
 
@@ -119,73 +121,11 @@ Once the dominant player in chips, Intel has struggled to keep pace with rivals 
 
 ## Google News: "ai"
 
-**[Meta signs nuclear energy deals to power Prometheus AI supercluster](https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html)**
+**[No 10 condemns move by X to restrict Grok AI image creation tool as insulting](https://www.theguardian.com/technology/2026/jan/09/no-10-condemns-move-by-x-to-restrict-grok-ai-image-creation-tool-as-insulting)**
 
-Meta said it secured agreements with energy companies Vistra, TerraPower and Oklo, which are all working on nuclear power technologies.
+Spokesperson says limiting access to paying subscribers just makes ability to generate unlawful images a premium service
 
-CNBC • 2h ago
-
----
-
-**[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://www.bloomberg.com/news/articles/2026-01-09/meta-signs-multi-gigawatt-nuclear-deals-to-power-ai-data-centers)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Meta strikes three big nuclear power deals to support AI ambitions; Vistra, Oklo shares surge](https://seekingalpha.com/news/4537984-meta-strikes-three-big-nuclear-power-deals-to-support-ai-ambitions)**
-
-Meta unveiled deals with Vistra, Oklo and TerraPower to secure up to 6.6 GW of nuclear power for its data centers that are among the most sweeping between tech firms and nuclear power firms.
-
-Seeking Alpha • 1h ago
-
----
-
-**[Your next primary care doctor could be online only, accessed through an AI tool : Shots - Health News](https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis)**
-
-The shortage of primary care doctors is a national problem. To cope, a large health system in Massachusetts is using an AI tool to screen patients and refer them to other care.
-
-NPR • 3h ago
-
----
-
-**[WEF mapped out 4 AI-driven futures for jobs by 2030, and only one looks good for humanity](https://www.businessinsider.com/wef-sees-4-ai-futures-for-jobs-by-2030-only-one-limits-disruption-2026-1)**
-
-The World Economic Forum found that AI will reshape most jobs by 2030, with only one path limiting major displacement.
-
-Business Insider • 1h ago
-
----
-
-**[Looking At The Cisco Systems (CSCO) Narrative As Networking And AI Redefine The Story](https://finance.yahoo.com/news/looking-cisco-systems-csco-narrative-120930917.html)**
-
-Cisco Systems’ latest fair value estimate has edged to US$85.43 from US$85.24, with the discount rate assumption now 8.32% versus 8.26% previously and long term revenue growth essentially unchanged at about 5.87%. These fine tuned inputs reflect how recent research is weighing solid networking execution and growing artificial intelligence related orders against questions about security and the durability of the product mix. Continue with this article to see how you can keep tracking these...
-
-Yahoo Finance • 1h ago
-
----
-
-**[AI layoffs are looking more and more like corporate fiction that's masking a darker reality, Oxford Economics suggests](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)**
-
-"Firms don't appear to be replacing workers with AI on a significant scale," the firm said. It suspects some are trying to "dress up layoffs" as good news.
-
-Fortune • 1d ago
-
----
-
-**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
-
-From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
-
-NBC News • 3h ago
-
----
-
-**[AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)**
-
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-IEEE Spectrum • 1d ago
+The Guardian • 1h ago
 
 ---
 
@@ -193,7 +133,65 @@ IEEE Spectrum • 1d ago
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-BBC • 2h ago
+BBC • 3h ago
+
+---
+
+**[Elon Musk’s A.I. Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+
+The New York Times • 15m ago
+
+---
+
+**[Meta signs nuclear energy deals to power Prometheus AI supercluster](https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html)**
+
+Meta said it secured agreements with energy companies Vistra, TerraPower and Oklo, which are all working on nuclear power technologies.
+
+CNBC • 3h ago
+
+---
+
+**[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://www.bloomberg.com/news/articles/2026-01-09/meta-signs-multi-gigawatt-nuclear-deals-to-power-ai-data-centers)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Meta signs three nuclear power deals to help support its AI data centers](https://www.10tv.com/article/syndication/associatedpress/meta-signs-three-nuclear-power-deals-to-help-support-its-ai-data-centers/616-ac606161-0fff-44b5-b736-e9f43f8666a3)**
+
+Facebook parent Meta has reached nuclear power deals with three companies as it continues to look for electricity sources for its artificial intelligence data...
+
+10TV • 29m ago
+
+---
+
+**[Exclusive: Standard AI acquires Pathr.ai for computer vision analytics](https://www.axios.com/pro/retail-deals/2026/01/09/standard-ai-pathrai-acquisition-computer-vision-analytics)**
+
+Axios • 22m ago
+
+---
+
+**[I Was Wrong About AI Productivity (SPX)](https://seekingalpha.com/article/4858337-i-was-wrong-about-ai-productivity)**
+
+AI productivity gains are now showing up in GDP, unit labor costs, and earnings at AI adopter firms. Click here to read what investors need to know.
+
+Seeking Alpha • 12m ago
+
+---
+
+**[AI images and internet rumors spread confusion about ICE agent involved in shooting](https://www.npr.org/2026/01/08/nx-s1-5671740/ice-minneapolis-grok-ai-renee-nicole-good)**
+
+While the agent wore a mask in videos taken of the event, he appeared to be unmasked in many social media posts. That image appeared to have been generated by xAI's generative AI chatbot, Grok.
+
+NPR • 15h ago
+
+---
+
+**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
+
+From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
+
+NBC News • 4h ago
 
 ---
 
@@ -205,13 +203,13 @@ BBC • 2h ago
 
 Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.
 
-⬆️ 845 • 💬 1323 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+⬆️ 848 • 💬 1324 • 2d ago • [Burke Holland](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 
 ---
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 678 • 💬 236 • 18h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 703 • 💬 256 • 19h ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -219,7 +217,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 510 • 💬 359 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 517 • 💬 361 • 1d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -227,7 +225,7 @@ Three months ago I would have dismissed claims that AI could replace developers.
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 340 • 💬 531 • 22h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 355 • 💬 572 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -235,7 +233,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 251 • 💬 113 • 19h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 253 • 💬 115 • 20h ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -243,7 +241,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Would you trust a medical system whose only metric was âwhich doctor wins the Internet?â No, you'd call that malpractice. Yet that's LMArena.
 
-⬆️ 239 • 💬 99 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
+⬆️ 241 • 💬 99 • 2d ago • [surgehq.ai](https://surgehq.ai/blog/lmarena-is-a-plague-on-ai)
 
 ---
 
@@ -251,7 +249,7 @@ Would you trust a medical system whose only metric was âwhich doctor wins t
 
 “I must apologize to — absolutely nobody”: Replit founder Amjad Masad isn’t afraid of Silicon Valley.
 
-⬆️ 205 • 💬 272 • 19h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
+⬆️ 232 • 💬 304 • 20h ago • [sfstandard.com](https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/)
 
 ---
 
@@ -289,7 +287,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 37K • 👍 934 • 💬 39 • ⏱️ 17:54 • 13h ago
+👁️ 45K • 👍 1K • 💬 43 • ⏱️ 17:54 • 13h ago
 
 ---
 
@@ -299,27 +297,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 90K • 👍 2K • 💬 138 • ⏱️ 13:08 • 1d ago
-
----
-
-**[Top 6 AI Trends That Will Define 2026 (backed by data)](https://www.youtube.com/watch?v=B23W1gRT9eY)**
-
-Most #AI predictions are speculation. This video covers six trends backed by data from McKinsey, Stanford, #OpenAI, and Epoch ...
-
-📺 Jeff Su
-
-👁️ 84K • 👍 3K • 💬 240 • ⏱️ 13:13 • 3d ago
-
----
-
-**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
-
-Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
-
-📺 TED
-
-👁️ 12K • 👍 415 • 💬 36 • ⏱️ 12:52 • 21h ago
+👁️ 92K • 👍 2K • 💬 140 • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -329,7 +307,17 @@ I was playing around with a bunch of different #midjourney style ref codes and f
 
 📺 Kelly Boesch AI Art
 
-👁️ 9K • 👍 595 • 💬 60 • ⏱️ 2:42 • 22h ago
+👁️ 10K • 👍 617 • 💬 64 • ⏱️ 2:42 • 23h ago
+
+---
+
+**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
+
+Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
+
+📺 TED
+
+👁️ 13K • 👍 455 • 💬 38 • ⏱️ 12:52 • 22h ago
 
 ---
 
@@ -339,7 +327,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.3M • 👍 62K • 💬 8K • ⏱️ 17:14 • 1d ago
+👁️ 1.3M • 👍 63K • 💬 8K • ⏱️ 17:14 • 1d ago
 
 ---
 
@@ -349,7 +337,17 @@ Artificial intelligence technology giant Nvidia announced a new endeavor that it
 
 📺 CBS News
 
-👁️ 10K • 👍 118 • 💬 56 • ⏱️ 3:21 • 2d ago
+👁️ 10K • 👍 119 • 💬 57 • ⏱️ 3:21 • 2d ago
+
+---
+
+**[Real or AI? 🤔](https://www.youtube.com/watch?v=9sRJM3xGMqo)**
+
+This is a funny meme mixed with storytelling style video about how i have 2 cats on the screen and i let the viewers decide which ...
+
+📺 Tyler Vitelli
+
+👁️ 2.5M • 👍 79K • 💬 6K • ⏱️ 0:10 • 1d ago
 
 ---
 
@@ -359,7 +357,7 @@ CES 2026 Las Vegas Day 1 Highlights featuring AI Robotics and much more. Explore
 
 📺 The Laughing Lion
 
-👁️ 125K • 👍 2K • 💬 327 • ⏱️ 25:02 • 2d ago
+👁️ 126K • 👍 2K • 💬 326 • ⏱️ 25:02 • 2d ago
 
 ---
 
@@ -369,17 +367,15 @@ At CES 2026, visitors experience AI Robotics through hands-on demonstrations on 
 
 📺 Hyundai Motor Group
 
-👁️ 101K • 👍 101 • 💬 1 • ⏱️ 0:33 • 2d ago
+👁️ 101K • 👍 102 • 💬 1 • ⏱️ 0:33 • 2d ago
 
 ---
 
-**[AI Psychosis](https://www.youtube.com/watch?v=gmgiSV-b-Qc)**
+**[All of those pictures of that ICE agent’s face are AI. Here’s the proof.](https://www.youtube.com/watch?v=RMWuD7Vas7A)**
 
-Does AI make you delusional? #ai #aipsychology #gpt #gemini #chatgpt #copilot #grok #psychologyfacts #psychology ...
+📺 Keith Edwards
 
-📺 Psych2Go
-
-👁️ 4K • 👍 677 • 💬 50 • ⏱️ 1:54 • 5h ago
+👁️ 963K • 👍 44K • 💬 3K • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -395,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 330,354 • ❤️ 648 • 1d ago
+⬇️ 330,354 • ❤️ 664 • 1d ago
 
 ---
 
@@ -407,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 8,048 • ❤️ 685 • 8d ago
+⬇️ 8,048 • ❤️ 687 • 8d ago
 
 ---
 
@@ -419,7 +415,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 19,738 • ❤️ 542 • 9d ago
+⬇️ 19,738 • ❤️ 544 • 9d ago
 
 ---
 
@@ -431,7 +427,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,074 • ❤️ 240 • 3d ago
+⬇️ 1,074 • ❤️ 245 • 3d ago
 
 ---
 
@@ -443,7 +439,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,216 • ❤️ 318 • 3d ago
+⬇️ 30,216 • ❤️ 326 • 3d ago
 
 ---
 
@@ -455,7 +451,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 202,948 • ❤️ 974 • 12d ago
+⬇️ 202,948 • ❤️ 978 • 12d ago
 
 ---
 
@@ -467,7 +463,19 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 211 • 7h ago
+⬇️ 5,785 • ❤️ 216 • 8h ago
+
+---
+
+**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
+
+*fal*
+
+This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
+
+`image-to-image`
+
+⬇️ 3,149 • ❤️ 198 • 1d ago
 
 ---
 
@@ -483,18 +491,6 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 ---
 
-**[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
-
-*fal*
-
-This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generation, offering 96 camera poses (4 elevations, 8 azimuths, 3 distances) trained on Gaussian Splatting data for 3D consistency. It enables detailed control over camera viewpoints, including low-angle shots, for advanced image editing and content creation.
-
-`image-to-image`
-
-⬇️ 3,149 • ❤️ 183 • 1d ago
-
----
-
 **[K-EXAONE-236B-A23B](https://huggingface.co/LGAI-EXAONE/K-EXAONE-236B-A23B)**
 
 *LG AI Research*
@@ -503,7 +499,7 @@ K-EXAONE-236B-A23B is a multilingual text generation model featuring a 236B MoE 
 
 `text-generation` `237.1B`
 
-⬇️ 3,644 • ❤️ 443 • 6h ago
+⬇️ 3,644 • ❤️ 444 • 7h ago
 
 ---
 
@@ -529,7 +525,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 75 • 💬 1 • ⭐ 1,468 • 3d ago
+▲ 76 • 💬 1 • ⭐ 1,631 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -613,31 +609,29 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer](https://huggingface.co/papers/2601.01425)**
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
 
-*Xu Guo, Fulong Ye, Xinghui Li et al. (9 authors)*
+*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
 
-🏢 ByteDance
+To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-A novel video face swapping framework combines image face swapping techniques with diffusion transformers and curriculum learning to achieve superior identity preservation and visual realism.
+▲ 17 • 💬 2 • ⭐ 341 • 3d ago
 
-▲ 46 • 💬 5 • ⭐ 307 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.01425) • [💻 code](https://github.com/bytedance/DreamID-V) • [🔗 project](https://guoxu1233.github.io/DreamID-V/)
+[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
 ---
 
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)**
 
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+*Shih-Yang Liu, Xin Dong, Ximing Lu et al. (13 authors)*
 
-🏢 Microsoft Research
+🏢 NVIDIA
 
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-▲ 141 • 💬 6 • ⭐ 20,118 • 4mo ago
+▲ 80 • 💬 3 • ⭐ 43 • 1d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+[🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
 ---
 
@@ -651,7 +645,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.3k • 🔱 867 • 5h ago
+⭐ 7.3k • 🔱 873 • 1m ago
 
 ---
 
@@ -661,7 +655,7 @@ Browser automation for AI agents and humans
 
 `Go`
 
-⭐ 2.2k • 🔱 114 • 4d ago
+⭐ 2.3k • 🔱 114 • 4d ago
 
 ---
 
@@ -671,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 23h ago
+⭐ 2.2k • 🔱 131 • 18m ago
 
 ---
 
@@ -701,7 +695,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 103 • 1d ago
+⭐ 1.3k • 🔱 103 • 26m ago
 
 ---
 
@@ -711,7 +705,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.2k • 🔱 101 • 2h ago
+⭐ 1.2k • 🔱 101 • 3h ago
 
 ---
 
@@ -721,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 3h ago
+⭐ 1.2k • 🔱 143 • 4h ago
 
 ---
 
@@ -741,7 +735,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 120 • 2h ago
+⭐ 1.0k • 🔱 120 • 3h ago
 
 ---
 
