@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-09T15:48:17.732514+00:00'
+updated: '2026-01-09T16:30:10.313352+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 09, 2026 at 15:48 UTC  
+**Last Updated:** January 09, 2026 at 16:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,17 +46,25 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 ---
 
+**[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
+
+7h ago
+
+---
+
 **[Hyundai’s Atlas humanoid wins Best Robot award at CES 2026](https://www.reddit.com/r/robotics/comments/1q81pmo/hyundais_atlas_humanoid_wins_best_robot_award_at/)**
 
 Hyundai-owned Boston Dynamics "Atlas" humanoid has won the Best Robot award at CES 2026 for demonstrating real-world autonomy rather than scripted or pre-programmed demos. Judges highlighted Atlas ability to walk, balance, manipulate objects and adapt in real time using continuous sensor feedback and Al-driven control, even in unpredictable industrial environments. Unlike most humanoid robots focused on demonstrations or lab settings, Atlas is being built for practical deployment, including factory work and hazardous tasks where human labor is limited or risky. Hyundai has confirmed that Atlas is factory-ready, with phased deployment planned at Hyundai manufacturing plants starting in 2028, signaling a shift from experimental humanoids to commercially usable systems. Source: Interesting Engineering 🔗: https://interestingengineering.com/ai-robotics/hyundais-atlas-humanoid-wins-top-honor
 
-8h ago
+9h ago
 
 ---
 
-**[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
+**[Rodney Brooks on why “pick it up and move it” matters more than humanoid hype](https://www.reddit.com/r/robotics/comments/1q8cjty/rodney_brooks_on_why_pick_it_up_and_move_it/)**
 
-6h ago
+Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
+
+12m ago
 
 ---
 
@@ -74,14 +82,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Second MSc (Mechanical Engineering spec. Robotics & Mechatronics) at 26 after Biotechnology, smart pivot or bad idea?](https://www.reddit.com/r/robotics/comments/1q86hng/second_msc_mechanical_engineering_spec_robotics/)**
-
-Note: Text has been made with help of AI. Hi all, I hope this is the right place to ask something like this. I’m 26 and currently finishing an MSc in Biotechnology in the Netherlands. During my MSc I discovered, pretty late, that I do not enjoy wet-lab biology, but I do enjoy robotics, automation, and engineering. I’m seriously considering doing a second MSc in Mechanical Engineering (Robotics, Mechatronics & Smart Systems) at the University of Groningen. Because of how the Dutch education system works, I cannot finish my current MSc and then start another one without paying around €20k per year. To get normal tuition of about €2.5k per year I would have to postpone graduation, meaning this is a real three-year commitment including the pre-master. I’m trying to decide if this is a smart pivot or an expensive mistake. Long-term goal: Work in space robotics and automation, ideally at ESA, DLR or a space contractor Focus on autonomous systems for spacecraft, lab experiments, or rovers I am open to other sectors since space will be extremely competitive but should be similar such as autonomous defense robotics Background: BSc and MSc in Biotechnology MSc robotics/automation experience: 6-DOF robotic arm, object detection, path planning Machine vision and ML-based classification Software engineering in Java with Git Current internship in lab automation (Python, industrial robot control) Self-study: ROS2, C++, Linux, PyTorch, mobile robot project Passion: robotics and automation, even though degree is biotech Gaps in knowledge compared to traditional robotics engineers: Multibody dynamics Control theory Vibrations and stability System modeling Mechatronics and hardware-level engineering Options I’m considering: Option A – Skip second MSc: Work in robotics or automation in industry Self-study dynamics and control Try to pivot into space robotics later via PhD or industry Risks: may be filtered out from PhDs and ESA because of degree background Option B – Do second MSc in Mechanical Engineering at Groningen: Three-year commitment including pre-master Graduate at 28–29 with little money Gain formal Mechanical Engineering degree with Robotics & Mechatronics specialization Opens doors to PhDs, ESA, and other space robotics opportunities Questions for the community: Is doing a second MSc in Mechanical Engineering a smart pivot into robotics/space, or could strong industry experience plus self-study realistically get me there? Are there alternative routes that work for people switching late into space robotics? Thanks in advance for any advice or insights!
-
-3h ago
-
----
-
 **[Humanoid robots are starting pilot deployments in factories and logistics — the shift from demos to real workloads](https://www.reddit.com/r/robotics/comments/1q824ex/humanoid_robots_are_starting_pilot_deployments_in/)**
 
 We’re seeing the first humanoid pilots in factories, logistics hubs, and inspection tasks. Most of these deployments weren’t demos — companies are testing workload, cycle time, reliability, safety, and cost models. I made a short breakdown video of this shift and would love feedback from people working in robotics. [https://youtu.be/kGOQFLovtgg?si=c-F9ZEXSpUT9S0JD]() Curious how people here see the deployment timeline from an engineering perspective.
@@ -92,15 +92,15 @@ We’re seeing the first humanoid pilots in factories, logistics hubs, and inspe
 
 **[I wanted to talk to my Mimic (M4) again. I’ve been neglecting him… as usual](https://www.reddit.com/r/robotics/comments/1q7iqh0/i_wanted_to_talk_to_my_mimic_m4_again_ive_been/)**
 
-21h ago
+22h ago
 
 ---
 
-**[Need eyes expressions for my robot](https://www.reddit.com/r/robotics/comments/1q86emg/need_eyes_expressions_for_my_robot/)**
+**[Second MSc (Mechanical Engineering spec. Robotics & Mechatronics) at 26 after Biotechnology, smart pivot or bad idea?](https://www.reddit.com/r/robotics/comments/1q86hng/second_msc_mechanical_engineering_spec_robotics/)**
 
-Hi I am building a robot using esp 32 S3 and my I have chosen lcd ST7789 TFT for display can anyone help me how to make this , I have no idea please guide me I need different expressions like Happy, surprised, listening, talking etc. Please help. I have just started , I am not able to find any resources to learn it I dont want to use ai for everythinh onnly for some help because i know it will build shit graphics PS: this is a product I want to make and sell I I want something that is copyright/patent free.
+Note: Text has been made with help of AI. Hi all, I hope this is the right place to ask something like this. I’m 26 and currently finishing an MSc in Biotechnology in the Netherlands. During my MSc I discovered, pretty late, that I do not enjoy wet-lab biology, but I do enjoy robotics, automation, and engineering. I’m seriously considering doing a second MSc in Mechanical Engineering (Robotics, Mechatronics & Smart Systems) at the University of Groningen. Because of how the Dutch education system works, I cannot finish my current MSc and then start another one without paying around €20k per year. To get normal tuition of about €2.5k per year I would have to postpone graduation, meaning this is a real three-year commitment including the pre-master. I’m trying to decide if this is a smart pivot or an expensive mistake. Long-term goal: Work in space robotics and automation, ideally at ESA, DLR or a space contractor Focus on autonomous systems for spacecraft, lab experiments, or rovers I am open to other sectors since space will be extremely competitive but should be similar such as autonomous defense robotics Background: BSc and MSc in Biotechnology MSc robotics/automation experience: 6-DOF robotic arm, object detection, path planning Machine vision and ML-based classification Software engineering in Java with Git Current internship in lab automation (Python, industrial robot control) Self-study: ROS2, C++, Linux, PyTorch, mobile robot project Passion: robotics and automation, even though degree is biotech Gaps in knowledge compared to traditional robotics engineers: Multibody dynamics Control theory Vibrations and stability System modeling Mechatronics and hardware-level engineering Options I’m considering: Option A – Skip second MSc: Work in robotics or automation in industry Self-study dynamics and control Try to pivot into space robotics later via PhD or industry Risks: may be filtered out from PhDs and ESA because of degree background Option B – Do second MSc in Mechanical Engineering at Groningen: Three-year commitment including pre-master Graduate at 28–29 with little money Gain formal Mechanical Engineering degree with Robotics & Mechatronics specialization Opens doors to PhDs, ESA, and other space robotics opportunities Questions for the community: Is doing a second MSc in Mechanical Engineering a smart pivot into robotics/space, or could strong industry experience plus self-study realistically get me there? Are there alternative routes that work for people switching late into space robotics? Thanks in advance for any advice or insights!
 
-3h ago
+4h ago
 
 ---
 
@@ -126,7 +126,7 @@ Seeking Alpha • 1d ago
 
 Arm's Stock Is Moving After a Strategic Shake-Up
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -142,7 +142,7 @@ International Federation of Robotics • 1d ago
 
 New technique varies colour and texture to open up potential applications in display technologies
 
-Financial Times • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 149K • 👍 3K • 💬 428 • ⏱️ 4:29 • 1d ago
+👁️ 159K • 👍 3K • 💬 443 • ⏱️ 4:29 • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 59K • 👍 1K • 💬 224 • ⏱️ 9:33 • 2d ago
+👁️ 60K • 👍 1K • 💬 224 • ⏱️ 9:33 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 252K • 👍 8K • 💬 289 • ⏱️ 0:39 • 22h ago
+👁️ 273K • 👍 9K • 💬 310 • ⏱️ 0:39 • 22h ago
 
 ---
 
@@ -228,13 +228,13 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 ---
 
-**[Google DeepMind, Boston Dynamics partner to bring AI to humanoid robots](https://www.youtube.com/watch?v=ClqBP1lXU8Y)**
+**[CES 2026: Chinese firms dominate robotics sector at tech convention in Las Vegas](https://www.youtube.com/watch?v=Jkzg8qc48JY)**
 
-CNBC's Deirdre Bosa reports on Google and Boston Dynamics' partnership as well as the autonomous vehicle race.
+Robots are no longer what we only see in sci-fi movies. Today, they can be seen walking, dancing and even serving snacks at this ...
 
-📺 CNBC Television
+📺 CNA
 
-👁️ 8K • 👍 75 • 💬 19 • ⏱️ 2:58 • 2d ago
+👁️ 31K • 👍 318 • 💬 158 • ⏱️ 3:47 • 2d ago
 
 ---
 
@@ -244,7 +244,7 @@ The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mo
 
 📺 Dip Knows
 
-👁️ 456K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
+👁️ 457K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
 
 ---
 
@@ -264,17 +264,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 5.0M • 👍 4K • 💬 968 • ⏱️ 0:32 • 5d ago
-
----
-
-**[CES 2026: Chinese firms dominate robotics sector at tech convention in Las Vegas](https://www.youtube.com/watch?v=Jkzg8qc48JY)**
-
-Robots are no longer what we only see in sci-fi movies. Today, they can be seen walking, dancing and even serving snacks at this ...
-
-📺 CNA
-
-👁️ 30K • 👍 304 • 💬 147 • ⏱️ 3:47 • 2d ago
+👁️ 5.1M • 👍 4K • 💬 972 • ⏱️ 0:32 • 5d ago
 
 ---
 
@@ -284,7 +274,17 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 
 📺 CNET
 
-👁️ 81K • 👍 346 • 💬 247 • ⏱️ 5:07 • 1d ago
+👁️ 89K • 👍 361 • 💬 254 • ⏱️ 5:07 • 1d ago
+
+---
+
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+
+📺 Hyundai Motor Group
+
+👁️ 101K • 👍 102 • 💬 1 • ⏱️ 0:33 • 2d ago
 
 ---
 

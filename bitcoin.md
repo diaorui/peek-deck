@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T15:48:17.722935+00:00'
+updated: '2026-01-09T16:30:10.304055+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 15:48 UTC  
+**Last Updated:** January 09, 2026 at 16:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,901.02
+### $91,332.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.2%  
-**30d:** -1.8%  
-**90d:** -21.1%  
-**1y:** -4.0%  
+**24h:** -0.2%  
+**7d:** +0.6%  
+**30d:** -1.4%  
+**90d:** -20.8%  
+**1y:** -3.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1804.26B
+**Market Cap:** $1824.92B
 Rank #1
 
-**Circulating Supply:** 19,973,540 BTC
+**Circulating Supply:** 19,973,618 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-27.6%
 
 **All-Time Low:** $67.81
-+133132.6%
++134517.3%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-4h ago
+5h ago
+
+---
+
+**[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
+
+1h ago
 
 ---
 
@@ -88,18 +94,6 @@ Rank #1
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
 12h ago
-
----
-
-**[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
-
-11h ago
-
----
-
-**[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
-
-52m ago
 
 ---
 
@@ -117,11 +111,25 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 ---
 
+**[Are we underestimating how scarce 1 BTC will look in 10–20 years?](https://www.reddit.com/r/Bitcoin/comments/1q7xrhx/are_we_underestimating_how_scarce_1_btc_will_look/)**
+
+12h ago
+
+---
+
+**[Bitcoin BDSM](https://www.reddit.com/r/Bitcoin/comments/1q8bg3y/bitcoin_bdsm/)**
+
+I am tired boss
+
+53m ago
+
+---
+
 **[Starting the journey (New to bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1q7wv4t/starting_the_journey_new_to_bitcoin/)**
 
 Anything I should know about?
 
-12h ago
+13h ago
 
 ---
 
@@ -135,13 +143,7 @@ BTC
 
 **[Do you believe?](https://www.reddit.com/r/Bitcoin/comments/1q7wg2z/do_you_believe/)**
 
-12h ago
-
----
-
-**[Embracing Bitcoin means choosing a low time preference lifestyle](https://www.reddit.com/r/Bitcoin/comments/1q7kj7y/embracing_bitcoin_means_choosing_a_low_time/)**
-
-20h ago
+13h ago
 
 ---
 
@@ -159,7 +161,7 @@ The Block • 7h ago
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -167,7 +169,7 @@ CoinDesk • 8h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -181,7 +183,7 @@ CoinDesk • 1d ago
 
 **[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -195,7 +197,7 @@ Bitcoin Magazine • 1d ago
 
 **[Gloom, Boom and Doom author recommends buying gold but not bitcoin](https://www.marketwatch.com/story/gloom-boom-and-doom-author-recommends-buying-gold-but-not-bitcoin-b2d969c1?gaa_at=eafs&gaa_n=AWEtsqdeJN_d5UeFhx_f60547hQMjlNhhbdOS7dRnZj8VfrfU4ucDtlTzl_4&gaa_ts=696126ac&gaa_sig=0k2qJe2__rkz95NPQSvtDVZH_jtmnzlz0XuHU1efPCjzxc_YQnAZSLWW9_5CDtpU_gmX1XBOwwdyt_tDFXChdg%3D%3D)**
 
-MarketWatch • 36m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -231,7 +233,7 @@ The Motley Fool • 1d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 44 • 💬 3 • 16h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 44 • 💬 3 • 17h ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -269,7 +271,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 6h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 7h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -305,23 +307,23 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ## YouTube Videos: "bitcoin"
 
-**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
-
-While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 214 • ⏱️ 25:57 • 15h ago
-
----
-
 **[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
 
 ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
 
 📺 Paul Barron Network
 
-👁️ 51K • 👍 2K • 💬 284 • ⏱️ 16:13 • 19h ago
+👁️ 54K • 👍 2K • 💬 297 • ⏱️ 16:13 • 19h ago
+
+---
+
+**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
+
+While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 222 • ⏱️ 25:57 • 16h ago
 
 ---
 
@@ -331,27 +333,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 214 • ⏱️ 11:14 • 14h ago
-
----
-
-**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
-
-Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
-
-📺 Benjamin Cowen
-
-👁️ 96K • 👍 6K • 💬 466 • ⏱️ 19:29 • 1d ago
-
----
-
-**[Why 2026 Will Shock Every Bitcoin Bear](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
-
-In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
-
-📺 Coinsider
-
-👁️ 6K • 👍 312 • 💬 69 • ⏱️ 10:06 • 21h ago
+👁️ 38K • 👍 2K • 💬 224 • ⏱️ 11:14 • 15h ago
 
 ---
 
@@ -361,7 +343,17 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 407 • 💬 317 • ⏱️ 9:41 • 1d ago
+👁️ 9K • 👍 408 • 💬 317 • ⏱️ 9:41 • 1d ago
+
+---
+
+**[Bitcoin: An Unfortunate Pattern](https://www.youtube.com/watch?v=ZuWWt3U3UBQ)**
+
+Check out https://www.benjamincowen.com/ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse ...
+
+📺 Benjamin Cowen
+
+👁️ 97K • 👍 6K • 💬 469 • ⏱️ 19:29 • 1d ago
 
 ---
 
@@ -371,7 +363,17 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 23K • 👍 1K • 💬 118 • ⏱️ 13:19 • 18h ago
+👁️ 25K • 👍 1K • 💬 118 • ⏱️ 13:19 • 19h ago
+
+---
+
+**[Why 2026 Will Shock Every Bitcoin Bear](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
+
+In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
+
+📺 Coinsider
+
+👁️ 7K • 👍 322 • 💬 68 • ⏱️ 10:06 • 22h ago
 
 ---
 
@@ -381,7 +383,17 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 48K • 👍 3K • 💬 247 • ⏱️ 17:35 • 1d ago
+👁️ 49K • 👍 3K • 💬 249 • ⏱️ 17:35 • 1d ago
+
+---
+
+**[TRUMP’S TARIFF VERDICT COULD CONFIRM THE BITCOIN BOTTOM (URGENT)](https://www.youtube.com/watch?v=nhwRhHwCUHk)**
+
+Join The Community: https://bit.ly/FefeCommunity LIMITED BITFUNDED OFFER: Buy ...
+
+📺 100XClub
+
+👁️ 8K • 👍 802 • 💬 237 • ⏱️ 10:24 • 6h ago
 
 ---
 
@@ -391,17 +403,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 976 • 💬 28 • ⏱️ 43:55 • 1d ago
-
----
-
-**[Bitcoin Price Target | What The Charts Reveal](https://www.youtube.com/watch?v=r9ZsA0BSeFo)**
-
-Stay informed with the latest insights on **btc**, focusing on effective **trading strategy** and essential **technical analysis**.
-
-📺 Krown
-
-👁️ 9K • 👍 714 • 💬 239 • ⏱️ 13:56 • 22h ago
+👁️ 27K • 👍 995 • 💬 28 • ⏱️ 43:55 • 1d ago
 
 ---
 
