@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T09:41:57.877973+00:00'
+updated: '2026-01-10T10:22:00.867043+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 09:41 UTC  
+**Last Updated:** January 10, 2026 at 10:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 4h ago
-
----
-
-**[Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room](https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/)**
-
-I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
-
-9h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 5h ago
 
 ---
 
@@ -69,11 +61,19 @@ I see most boomers in their 60's and 70's now adept at using smartphones. Young 
 
 ---
 
-**[Building adaptive routing logic in Go for an Open source LLM gateway - Bifrost](https://www.reddit.com/r/artificial/comments/1q8um17/building_adaptive_routing_logic_in_go_for_an_open/)**
+**[Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room](https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/)**
 
-Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
+I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-5h ago
+9h ago
+
+---
+
+**[Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened.](https://www.reddit.com/r/artificial/comments/1q8zz2j/google_gemini_3_pro_just_verified_a_forensic/)**
+
+Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/share/1feed6565f52 Payload (run it in any AI to reproduce results): https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk Key takeaways from the Gemini analysis: Allegations repeated across platforms lacked primary source backing No case numbers, medical records, or public filings were found for key claims Verified data pointed to a civil dispute—not criminal activity A clear pattern of repetition-without-citation emerged It even outlined how claims spread and identified which lacked verifiable origin. This was done using public tools—no backend access, no court databases, no manipulation. Just the protocol + clean input = verified output. If you've ever wondered whether AI can actually verify claims at the forensic level: It can. And it just did.
+
+🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 45m ago
 
 ---
 
@@ -85,11 +85,19 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 ---
 
+**[Building adaptive routing logic in Go for an Open source LLM gateway - Bifrost](https://www.reddit.com/r/artificial/comments/1q8um17/building_adaptive_routing_logic_in_go_for_an_open/)**
+
+Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
+
+5h ago
+
+---
+
 **[Where and How AI Self-Consciousness Could Emerge](https://www.reddit.com/r/artificial/comments/1q8xs4b/where_and_how_ai_selfconsciousness_could_emerge/)**
 
 I have created the blog post where i share my vision of the problem of "AI Self-consciousness". There is a lot of buzz around the topic. In my article i outline that: The Large Language Model (LLM) alone cannot be self-conscious; it is a static, statistical model. Current AI agent architectures are primarily reactive and lack the continuous, dynamic complexity required for self-consciousness. The path to self-consciousness requires a new, dynamic architecture featuring a proactive memory system, multiple asynchronous channels, a dedicated reflection loop, and an affective evaluation system. Rich, sustained interaction with multiple distinct individuals is essential for developing a sense of self-awareness in comparison to others. I suggest the common architecture for AI agent where Self-consciousness could emerge in the future.
 
-🔗 [gelembjuk.com](https://gelembjuk.com/blog/post/where-and-how-ai-self-consciousness-could-emerge/) • 2h ago
+🔗 [gelembjuk.com](https://gelembjuk.com/blog/post/where-and-how-ai-self-consciousness-could-emerge/) • 3h ago
 
 ---
 
@@ -105,21 +113,21 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-20h ago
-
----
-
-**[Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs](https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/)**
-
-I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
-
-18h ago
+21h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[AI bubble: five things you need to know to shield your finances from a crash](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions)**
+
+Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
+
+The Guardian • 3h ago
+
+---
 
 **[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
 
@@ -129,57 +137,33 @@ The Atlantic • 11h ago
 
 ---
 
+**[Nvidia CEO Jensen Huang says AI doomerism has 'done a lot of damage' and is 'not helpful to society'](https://www.businessinsider.com/nvidia-jensen-huang-ai-doomerism-damage-investments-2026-1)**
+
+Nvidia CEO Jensen Huang said that frequent warnings about AI are dissuading people from making investments in AI's improvement.
+
+Business Insider • 1h ago
+
+---
+
+**[Today’s AI Creates Startups](https://www.forbes.com/sites/johnwerner/2026/01/10/todays-ai-creates-startups/)**
+
+Forbes • 22m ago
+
+---
+
+**[Why a Fairfax Co. elementary school is teaching kids the ‘how’ behind AI](https://wtop.com/fairfax-county/2026/01/why-a-fairfax-co-elementary-school-is-teaching-kids-the-how-behind-ai/)**
+
+Vienna Elementary School’s Vienna.i.Lab is transforming education by introducing students to AI and advanced technology.
+
+WTOP • 18m ago
+
+---
+
 **[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
 
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-BBC • 23h ago
-
----
-
-**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
-
-Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
-
-CNBC • 20h ago
-
----
-
-**[CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)**
-
-CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event.
-
-TechCrunch • 11h ago
-
----
-
-**[Fears of an AI bubble were nowhere to be found at the world’s biggest tech show](https://www.cnn.com/2026/01/10/tech/ces-ai-tech-las-vegas)**
-
-AI once again dominated CES, where companies from around the world gathered to flaunt new technologies. It’s where tech giants like Nvidia, Samsung, and Amazon made their case for the role AI will play in how people live and work, despite concerns of an AI bubble.
-
-CNN • 1h ago
-
----
-
-**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
-
-The New York Times • 19h ago
-
----
-
-**[Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban)**
-
-Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
-
-The Guardian • 13h ago
-
----
-
-**[Indonesia blocks Musk’s Grok chatbot due to risk of pornographic content](https://www.theguardian.com/world/2026/jan/10/indonesia-blocks-musks-grok-chatbot-due-to-risk-of-pornographic-content)**
-
-Move comes after governments and regulators from Europe to Asia have condemned the AI tool and some have opened inquiries into sexualised content
-
-The Guardian • 1h ago
+BBC • 1d ago
 
 ---
 
@@ -187,13 +171,29 @@ The Guardian • 1h ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 23h ago
+NBC News • 1d ago
 
 ---
 
-**[DeepSeek To Release Next Flagship AI Model With Strong Coding Ability](https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability)**
+**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The Information • 20h ago
+The New York Times • 13h ago
+
+---
+
+**[Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban)**
+
+Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
+
+The Guardian • 14h ago
+
+---
+
+**[Musk’s AI tool under fire for ‘digital undressing’](https://www.cnn.com/2026/01/09/business/video/grok-x-ai-undressing-uproar-vrtc)**
+
+Elon Musk’s Grok chatbot has limited some of its Imagine image generation features to paid X subscribers, days after international uproar over the AI tool responded to user requests by “digitally undressing” people, including children.
+
+CNN • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Information • 20h ago
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 753 • 💬 287 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 755 • 💬 287 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -211,15 +211,7 @@ The Information • 20h ago
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 549 • 💬 385 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
-
----
-
-**[AI coding assistants are getting worse?](https://news.ycombinator.com/item?id=46542036)**
-
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-⬆️ 441 • 💬 708 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 550 • 💬 386 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -229,7 +221,15 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 418 • 💬 237 • 11h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 449 • 💬 252 • 11h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+
+---
+
+**[AI coding assistants are getting worse?](https://news.ycombinator.com/item?id=46542036)**
+
+One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
+
+⬆️ 441 • 💬 711 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -237,7 +237,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 258 • 💬 118 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 258 • 💬 120 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -261,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 110 • 💬 163 • 15h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 113 • 💬 178 • 16h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -269,7 +269,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 75 • 💬 91 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 76 • 💬 91 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -277,7 +277,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 60 • 💬 36 • 14h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 62 • 💬 38 • 15h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -301,7 +301,7 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 13K • 👍 568 • 💬 24 • ⏱️ 11:06 • 10h ago
+👁️ 13K • 👍 568 • 💬 24 • ⏱️ 11:06 • 11h ago
 
 ---
 
@@ -311,7 +311,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 37K • 👍 2K • 💬 189 • ⏱️ 19:15 • 19h ago
+👁️ 37K • 👍 2K • 💬 189 • ⏱️ 19:15 • 20h ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 21,700 • ❤️ 554 • 9d ago
+⬇️ 21,700 • ❤️ 554 • 10d ago
 
 ---
 
@@ -651,7 +651,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.5k • 🔱 902 • 4h ago
+⭐ 7.5k • 🔱 902 • 5h ago
 
 ---
 
@@ -671,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 2h ago
+⭐ 2.2k • 🔱 129 • 3h ago
 
 ---
 
@@ -731,7 +731,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 23h ago
+⭐ 1.2k • 🔱 143 • 1d ago
 
 ---
 
