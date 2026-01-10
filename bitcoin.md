@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T20:43:49.987799+00:00'
+updated: '2026-01-10T21:19:29.491790+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 20:43 UTC  
+**Last Updated:** January 10, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -101,13 +101,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-3h ago
+4h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -121,19 +121,19 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-1h ago
+2h ago
 
 ---
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 1d ago
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bitcoin Magazine • 1d ago
 
 There's a major pitfall coming up that'll need to be avoided.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -281,7 +281,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 1 • 2d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 1 • 3d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -309,7 +309,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 6h ago
+👁️ 21K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 7h ago
 
 ---
 
@@ -359,7 +359,7 @@ GameStop sounds pretty f*cked going into 2026. They're closing 300 more location
 
 📺 Clownfish TV
 
-👁️ 17K • 👍 1K • 💬 487 • ⏱️ 15:04 • 15h ago
+👁️ 17K • 👍 1K • 💬 487 • ⏱️ 15:04 • 16h ago
 
 ---
 
@@ -369,7 +369,7 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 389 • 💬 323 • ⏱️ 7:59 • 14h ago
+👁️ 5K • 👍 389 • 💬 323 • ⏱️ 7:59 • 15h ago
 
 ---
 
