@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T08:28:24.713555+00:00'
+updated: '2026-01-10T08:51:15.064993+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 08:28 UTC  
+**Last Updated:** January 10, 2026 at 08:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,457.68
+### $90,674.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -0.8%  
+**24h:** +0.5%  
+**7d:** -0.9%  
 **30d:** +0.5%  
 **90d:** -21.3%  
-**1y:** -4.0%  
+**1y:** -4.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1805.71B
+**Market Cap:** $1807.86B
 Rank #1
 
-**Circulating Supply:** 19,973,890 BTC
+**Circulating Supply:** 19,973,937 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.2%
 
 **All-Time Low:** $67.81
-+133231.4%
++133377.4%
 
 ---
 
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
-
-8h ago
-
----
-
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
 3h ago
+
+---
+
+**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
+
+8h ago
 
 ---
 
@@ -103,6 +103,18 @@ Received this notification just now
 
 ---
 
+**[“They said Bitcoin won’t make you happy “ BTC holders in 2030 :](https://www.reddit.com/r/Bitcoin/comments/1q8xiwl/they_said_bitcoin_wont_make_you_happy_btc_holders/)**
+
+1h ago
+
+---
+
+**[Those who bought Bitcoin at $126k, sold at $80k, and bought again at $94k](https://www.reddit.com/r/Bitcoin/comments/1q8yn3a/those_who_bought_bitcoin_at_126k_sold_at_80k_and/)**
+
+37m ago
+
+---
+
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
 21h ago
@@ -113,13 +125,7 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-17h ago
-
----
-
-**[“They said Bitcoin won’t make you happy “ BTC holders in 2030 :](https://www.reddit.com/r/Bitcoin/comments/1q8xiwl/they_said_bitcoin_wont_make_you_happy_btc_holders/)**
-
-1h ago
+18h ago
 
 ---
 
@@ -139,12 +145,6 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 ---
 
-**[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -157,17 +157,17 @@ Fortune • 14h ago
 
 ---
 
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+
+The Block • 1d ago
+
+---
+
 **[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
 CoinDesk • 1d ago
-
----
-
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
-
-The Block • 23h ago
 
 ---
 
@@ -179,19 +179,35 @@ CNBC • 20h ago
 
 ---
 
-**[Bitcoin at $2.9 million by 2050: VanEck explains its base case valuation for BTC](https://www.coindesk.com/markets/2026/01/09/asset-manager-vaneck-explains-how-one-bitcoin-could-be-worth-usd2-9-million-by-2050)**
-
-A $2.9 million bitcoin sounds extreme — until you see how VanEck frames its long-term base case.
-
-CoinDesk • 3h ago
-
----
-
 **[Bitcoin Price Could Surge to $53 Million by 2050, Says VanEck—Here's Why](https://finance.yahoo.com/news/bitcoin-price-could-surge-53-201338320.html)**
 
 Could Bitcoin be worth more than $50 million per coin in 24 years? VanEck just put out its most bullish price prediction yet.
 
 Yahoo Finance • 12h ago
+
+---
+
+**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
+
+U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
+
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
+
+The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
+
+CoinDesk • 19h ago
+
+---
+
+**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
+
+Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -206,22 +222,6 @@ Bloomberg.com • 11h ago
 The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
 
 Bitcoin Magazine • 13h ago
-
----
-
-**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
-
-Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
-
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
-
-VanEck • 1d ago
 
 ---
 
@@ -263,7 +263,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 23h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 1d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -311,27 +311,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 85 • ⏱️ 17:07 • 9h ago
-
----
-
-**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
-
-So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
-
-📺 BTC Isla
-
-👁️ 12K • 👍 1K • 💬 201 • ⏱️ 10:43 • 16h ago
-
----
-
-**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
-
-2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
-
-📺 Crypto Insider
-
-👁️ 30K • 👍 2K • 💬 99 • ⏱️ 21:00 • 18h ago
+👁️ 16K • 👍 1K • 💬 87 • ⏱️ 17:07 • 10h ago
 
 ---
 
@@ -341,37 +321,67 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 247 • ⏱️ 11:14 • 1d ago
+👁️ 49K • 👍 3K • 💬 247 • ⏱️ 11:14 • 1d ago
 
 ---
 
-**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
+**[Bitcoin Holders, Here&#39;s Why This All Makes Sense To Me](https://www.youtube.com/watch?v=oFocqiqDc4U)**
 
-While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
+Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
 
-📺 Simply Bitcoin
+📺 Aaron Bennett
 
-👁️ 30K • 👍 2K • 💬 152 • ⏱️ 25:57 • 1d ago
-
----
-
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
-
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
-
-📺 Vortex Bitcoin
-
-👁️ 4K • 👍 176 • 💬 10 • ⏱️ 0:49 • 17h ago
+👁️ 843 • 👍 92 • 💬 10 • ⏱️ 7:59 • 2h ago
 
 ---
 
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
 
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-📺 Paul Barron Network
+📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 333 • ⏱️ 16:13 • 1d ago
+👁️ 32K • 👍 2K • 💬 106 • ⏱️ 9:19 • 10h ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 54K • 👍 3K • 💬 272 • ⏱️ 17:35 • 1d ago
+
+---
+
+**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
+
+So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
+
+📺 BTC Isla
+
+👁️ 13K • 👍 1K • 💬 203 • ⏱️ 10:43 • 16h ago
+
+---
+
+**[Everyone Is Preparing for the Wrong Bitcoin Year](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
+
+In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
+
+📺 Coinsider
+
+👁️ 8K • 👍 369 • 💬 54 • ⏱️ 10:06 • 1d ago
+
+---
+
+**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
+
+2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
+
+📺 Crypto Insider
+
+👁️ 32K • 👍 2K • 💬 104 • ⏱️ 21:00 • 18h ago
 
 ---
 
@@ -385,23 +395,13 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 ---
 
-**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
+**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
 
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
 
-📺 Altcoin Daily
+📺 Anthony Pompliano
 
-👁️ 27K • 👍 2K • 💬 98 • ⏱️ 9:19 • 9h ago
-
----
-
-**[Everyone Is Preparing for the Wrong Bitcoin Year](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
-
-In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
-
-📺 Coinsider
-
-👁️ 8K • 👍 361 • 💬 53 • ⏱️ 10:06 • 1d ago
+👁️ 28K • 👍 1K • 💬 28 • ⏱️ 43:55 • 2d ago
 
 ---
 

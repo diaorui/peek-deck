@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T08:28:24.705145+00:00'
+updated: '2026-01-10T08:51:15.056541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 08:28 UTC  
+**Last Updated:** January 10, 2026 at 08:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 6h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 7h ago
 
 ---
 
@@ -57,7 +57,15 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-7h ago
+8h ago
+
+---
+
+**[Has the global population already been "primed" to mass adopt new innovations like LLM's en masse? The state of tech literacy now vs pre-dotcom bubble](https://www.reddit.com/r/artificial/comments/1q8y053/has_the_global_population_already_been_primed_to/)**
+
+I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor can have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance or unfamiliarity with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
+
+1h ago
 
 ---
 
@@ -65,23 +73,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
 
-3h ago
-
----
-
-**[Has the global population already been "primed" to mass adopt new innovations like LLM's en masse? The state of tech literacy now vs pre-dotcom bubble](https://www.reddit.com/r/artificial/comments/1q8y053/has_the_global_population_already_been_primed_to/)**
-
-I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
-
-53m ago
-
----
-
-**[Where and How AI Self-Consciousness Could Emerge](https://www.reddit.com/r/artificial/comments/1q8xs4b/where_and_how_ai_selfconsciousness_could_emerge/)**
-
-I have created the blog post where i share my vision of the problem of "AI Self-consciousness". There is a lot of buzz around the topic. In my article i outline that: The Large Language Model (LLM) alone cannot be self-conscious; it is a static, statistical model. Current AI agent architectures are primarily reactive and lack the continuous, dynamic complexity required for self-consciousness. The path to self-consciousness requires a new, dynamic architecture featuring a proactive memory system, multiple asynchronous channels, a dedicated reflection loop, and an affective evaluation system. Rich, sustained interaction with multiple distinct individuals is essential for developing a sense of self-awareness in comparison to others. I suggest the common architecture for AI agent where Self-consciousness could emerge in the future.
-
-🔗 [gelembjuk.com](https://gelembjuk.com/blog/post/where-and-how-ai-self-consciousness-could-emerge/) • 1h ago
+4h ago
 
 ---
 
@@ -90,6 +82,14 @@ I have created the blog post where i share my vision of the problem of "AI Self-
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
 🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 1d ago
+
+---
+
+**[Where and How AI Self-Consciousness Could Emerge](https://www.reddit.com/r/artificial/comments/1q8xs4b/where_and_how_ai_selfconsciousness_could_emerge/)**
+
+I have created the blog post where i share my vision of the problem of "AI Self-consciousness". There is a lot of buzz around the topic. In my article i outline that: The Large Language Model (LLM) alone cannot be self-conscious; it is a static, statistical model. Current AI agent architectures are primarily reactive and lack the continuous, dynamic complexity required for self-consciousness. The path to self-consciousness requires a new, dynamic architecture featuring a proactive memory system, multiple asynchronous channels, a dedicated reflection loop, and an affective evaluation system. Rich, sustained interaction with multiple distinct individuals is essential for developing a sense of self-awareness in comparison to others. I suggest the common architecture for AI agent where Self-consciousness could emerge in the future.
+
+🔗 [gelembjuk.com](https://gelembjuk.com/blog/post/where-and-how-ai-self-consciousness-could-emerge/) • 1h ago
 
 ---
 
@@ -109,11 +109,11 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 ---
 
-**[Nvidia CEO says it's "within the realms of possibility" to bring AI improvements to older graphics cards](https://www.reddit.com/r/artificial/comments/1q7esfp/nvidia_ceo_says_its_within_the_realms_of/)**
+**[Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs](https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/)**
 
-But it would require a lot of engineering. And probably won't happen, let's be honest.
+I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-🔗 [PC Gamer](https://www.pcgamer.com/hardware/graphics-cards/nvidias-ceo-says-bringing-new-ai-tech-to-older-generation-gpus-is-within-the-realm-of-possibility/) • 1d ago
+17h ago
 
 ---
 
@@ -125,13 +125,45 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
+
+---
+
+**[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
+
+Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
+
+BBC • 22h ago
+
+---
+
+**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+
+Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+
+CNBC • 19h ago
+
+---
+
+**[CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)**
+
+CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event.
+
+TechCrunch • 10h ago
+
+---
+
+**[Fears of an AI bubble were nowhere to be found at the world’s biggest tech show](https://www.cnn.com/2026/01/10/tech/ces-ai-tech-las-vegas)**
+
+AI once again dominated CES, where companies from around the world gathered to flaunt new technologies. It’s where tech giants like Nvidia, Samsung, and Amazon made their case for the role AI will play in how people live and work, despite concerns of an AI bubble.
+
+CNN • 50m ago
 
 ---
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 11h ago
+The New York Times • 18h ago
 
 ---
 
@@ -143,27 +175,11 @@ The Guardian • 12h ago
 
 ---
 
-**[X could face UK ban over deepfakes, minister says](https://www.bbc.com/news/articles/c99kn52nx9do)**
+**[Indonesia blocks Musk’s Grok chatbot due to risk of pornographic content](https://www.theguardian.com/world/2026/jan/10/indonesia-blocks-musks-grok-chatbot-due-to-risk-of-pornographic-content)**
 
-It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
+Move comes after governments and regulators from Europe to Asia have condemned the AI tool and some have opened inquiries into sexualised content
 
-BBC • 10h ago
-
----
-
-**[This Artificial Intelligence (AI) Stock Is a Drop-Dead Bargain. And It Might Not Last Long](https://www.fool.com/investing/2026/01/10/this-artificial-intelligence-ai-stock-is-a-drop-de/)**
-
-Figma looks set for a breakout this year.
-
-The Motley Fool • 58m ago
-
----
-
-**[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
-
-Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
-
-BBC • 22h ago
+The Guardian • 59m ago
 
 ---
 
@@ -181,20 +197,6 @@ The Information • 19h ago
 
 ---
 
-**[See how AI images claiming to reveal Minneapolis ICE agent’s face spread confusion](https://www.washingtonpost.com/technology/2026/01/09/ai-unmask-shooting-ice-minneapolis/)**
-
-The Washington Post • 14h ago
-
----
-
-**[Meta signs nuclear energy deals to power Prometheus AI supercluster](https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html)**
-
-Meta said it secured agreements with energy companies Vistra, TerraPower and Oklo, which are all working on nuclear power technologies.
-
-CNBC • 21h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -209,7 +211,7 @@ CNBC • 21h ago
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 546 • 💬 384 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 549 • 💬 385 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -217,7 +219,7 @@ CNBC • 21h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 441 • 💬 707 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 441 • 💬 708 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -227,7 +229,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 386 • 💬 223 • 9h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 418 • 💬 237 • 10h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -243,7 +245,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Notion AI is susceptible to data exfiltration via indirect prompt injection due to a vulnerability in which AI document edits are saved before user approval.
 
-⬆️ 204 • 💬 37 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
+⬆️ 205 • 💬 37 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 
 ---
 
@@ -259,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 106 • 💬 152 • 14h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 110 • 💬 163 • 14h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -275,7 +277,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 59 • 💬 35 • 13h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 60 • 💬 36 • 13h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -289,17 +291,17 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 76K • 👍 1K • 💬 56 • ⏱️ 17:54 • 1d ago
+👁️ 77K • 👍 1K • 💬 57 • ⏱️ 17:54 • 1d ago
 
 ---
 
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 1)](https://www.youtube.com/watch?v=zEYIcaQwn6s)**
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
 
-CES 2026 opened with a clear message: AI has moved out of apps and into physical systems. Robots, home machines, energy ...
+CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
 
 📺 AI Revolution
 
-👁️ 101K • 👍 2K • 💬 150 • ⏱️ 13:08 • 2d ago
+👁️ 13K • 👍 568 • 💬 24 • ⏱️ 11:06 • 10h ago
 
 ---
 
@@ -309,17 +311,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 34K • 👍 2K • 💬 190 • ⏱️ 19:15 • 18h ago
-
----
-
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
-
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
-
-📺 MoreBeckBros
-
-👁️ 70K • 👍 4K • 💬 427 • ⏱️ 26:17 • 9h ago
+👁️ 37K • 👍 2K • 💬 189 • ⏱️ 19:15 • 18h ago
 
 ---
 
@@ -333,36 +325,6 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 ---
 
-**[AI LAYOFFS ARE BACKFIRING!](https://www.youtube.com/watch?v=fvhMFdrd-Lw)**
-
-Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ Join the community!
-
-📺 Joshua Fluke
-
-👁️ 40K • 👍 2K • 💬 826 • ⏱️ 5:15 • 19h ago
-
----
-
-**[Google&#39;s Gmail unveils new AI features powered by Gemini](https://www.youtube.com/watch?v=nzlFoQmMSBk)**
-
-CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
-
-📺 CNBC Television
-
-👁️ 18K • 👍 191 • 💬 21 • ⏱️ 3:43 • 1d ago
-
----
-
-**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
-
-Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
-
-📺 TED
-
-👁️ 17K • 👍 549 • 💬 46 • ⏱️ 12:52 • 1d ago
-
----
-
 **[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
 
 Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
@@ -373,13 +335,53 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 ---
 
-**[Cursor AI Tutorial for Beginners: Build App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)**
+**[Stop Paying for AI: Use GPT-5, Sora 2 &amp; Gemini 3 for FREE (Unlimited)](https://www.youtube.com/watch?v=izvKi-Slc4M)**
 
-Submit your Cursor app to the App Store: https://mikeyno-code.com/Skool-cursor ✓ All used prompts are in the Skool community ...
+I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISION, APPS, and even VIDEO — step-by-step, ...
 
-📺 Mikey No Code
+📺 Malva AI
 
-👁️ 20K • 💬 24 • ⏱️ 23:08 • 1d ago
+👁️ 15K • 👍 1K • 💬 255 • ⏱️ 10:24 • 1d ago
+
+---
+
+**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
+
+Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
+
+📺 TED
+
+👁️ 17K • 👍 559 • 💬 46 • ⏱️ 12:52 • 1d ago
+
+---
+
+**[Google&#39;s Gmail unveils new AI features powered by Gemini](https://www.youtube.com/watch?v=nzlFoQmMSBk)**
+
+CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
+
+📺 CNBC Television
+
+👁️ 19K • 👍 195 • 💬 21 • ⏱️ 3:43 • 1d ago
+
+---
+
+**[Motorola Learned Nothing From Humane AI... #Shorts](https://www.youtube.com/watch?v=E3PRNqNpyMs)**
+
+Repair Tools I Use (Updated Regularly – Includes Soldering Gear): https://www.phonerepairguru.com/tools Ask a Question ...
+
+📺 Phone Repair Guru
+
+👁️ 250K • 👍 8K • 💬 147 • ⏱️ 0:21 • 1d ago
+
+---
+
+**[The 10 Most In-Demand AI Skills for 2026](https://www.youtube.com/watch?v=udg_UKml3XY)**
+
+Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The world of work is changing fast, and the single ...
+
+📺 Ishan Sharma
+
+👁️ 13K • 👍 910 • 💬 48 • ⏱️ 10:52 • 19h ago
 
 ---
 
@@ -395,7 +397,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 330,354 • ❤️ 712 • 2d ago
+⬇️ 496,524 • ❤️ 718 • 2d ago
 
 ---
 
@@ -407,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 8,048 • ❤️ 698 • 9d ago
+⬇️ 9,056 • ❤️ 698 • 9d ago
 
 ---
 
@@ -419,7 +421,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 3,149 • ❤️ 286 • 2d ago
+⬇️ 10,290 • ❤️ 293 • 2d ago
 
 ---
 
@@ -431,7 +433,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 19,738 • ❤️ 553 • 9d ago
+⬇️ 21,700 • ❤️ 554 • 9d ago
 
 ---
 
@@ -443,7 +445,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,074 • ❤️ 257 • 4d ago
+⬇️ 1,862 • ❤️ 258 • 4d ago
 
 ---
 
@@ -455,19 +457,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,216 • ❤️ 335 • 4d ago
-
----
-
-**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
-
-*Liquid AI*
-
-LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
-
-`text-generation` `1.2B`
-
-⬇️ 5,785 • ❤️ 229 • 1d ago
+⬇️ 30,349 • ❤️ 336 • 4d ago
 
 ---
 
@@ -479,7 +469,19 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 202,948 • ❤️ 989 • 13d ago
+⬇️ 205,738 • ❤️ 991 • 13d ago
+
+---
+
+**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
+
+*Liquid AI*
+
+LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
+
+`text-generation` `1.2B`
+
+⬇️ 10,162 • ❤️ 230 • 1d ago
 
 ---
 
@@ -491,7 +493,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 14,705 • ❤️ 298 • 2d ago
+⬇️ 23,039 • ❤️ 299 • 2d ago
 
 ---
 
@@ -503,7 +505,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 308 • ❤️ 189 • 4d ago
+⬇️ 497 • ❤️ 190 • 4d ago
 
 ---
 
@@ -529,7 +531,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 81 • 💬 1 • ⭐ 1,724 • 3d ago
+▲ 82 • 💬 1 • ⭐ 1,724 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -548,6 +550,18 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 ---
 
+**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
+
+*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
+
+To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
+
+▲ 18 • 💬 2 • ⭐ 479 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
+
+---
+
 **[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
 
 *Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
@@ -557,18 +571,6 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 ▲ 81 • 💬 2 • ⭐ 25,612 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
-
----
-
-**[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://huggingface.co/papers/2601.02553)**
-
-*Jiaqi Liu, Yaofeng Su, Peng Xia et al. (8 authors)*
-
-To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
-
-▲ 17 • 💬 2 • ⭐ 428 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
 ---
 
@@ -633,7 +635,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-▲ 103 • 💬 6 • ⭐ 64 • 1d ago
+▲ 107 • 💬 6 • ⭐ 64 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
@@ -649,7 +651,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 897 • 3h ago
+⭐ 7.5k • 🔱 902 • 4h ago
 
 ---
 
@@ -689,7 +691,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.3k • 🔱 70 • 17d ago
+⭐ 1.3k • 🔱 71 • 17d ago
 
 ---
 
@@ -699,7 +701,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 104 • 9h ago
+⭐ 1.3k • 🔱 104 • 10h ago
 
 ---
 
@@ -709,7 +711,17 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 106 • 18h ago
+⭐ 1.3k • 🔱 107 • 18h ago
+
+---
+
+**[snarktank/ralph](https://github.com/snarktank/ralph)**
+
+Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. 
+
+`TypeScript`
+
+⭐ 1.2k • 🔱 201 • 2d ago
 
 ---
 
@@ -720,16 +732,6 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
 ⭐ 1.2k • 🔱 143 • 22h ago
-
----
-
-**[snarktank/ralph](https://github.com/snarktank/ralph)**
-
-Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. 
-
-`TypeScript`
-
-⭐ 1.2k • 🔱 199 • 2d ago
 
 ---
 

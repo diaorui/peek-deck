@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T08:28:24.722637+00:00'
+updated: '2026-01-10T08:51:15.074168+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 08:28 UTC  
+**Last Updated:** January 10, 2026 at 08:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,19 @@ Robotics research and industry news
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-7h ago
+8h ago
 
 ---
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-21h ago
+22h ago
+
+---
+
+**[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
+
+1h ago
 
 ---
 
@@ -56,7 +62,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-22h ago
+23h ago
 
 ---
 
@@ -76,7 +82,9 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 ---
 
-**[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
+**[Struggling with UR Robot Faults and Protective Stops](https://www.reddit.com/r/robotics/comments/1q8xgq1/struggling_with_ur_robot_faults_and_protective/)**
+
+I keep seeing the same issue come up with Universal Robots setups (I am assuming this is also common across other robotic arm brands too), so I wanted to sanity-check with people who work with these day to day. When a UR robot goes into a protective stop / fault that’s intermittent, how do you usually figure out what led up to it? For example: Something runs fine for hours or days. Then suddenly faults. Logs are there, but it’s hard to reconstruct the sequence of robot state, IO, forces, program context, etc. right before the stop In practice, do you: Scrape logs manually? Add ad-hoc script logging? Reproduce by trial-and-error? Just wait for it to happen again? I’m especially curious: What’s the most annoying fault you’ve had to debug recently? How much time does this kind of issue usually cost you (or your customer)? I am just genuinely trying to understand how people deal with this today and whether I’m missing something obvious.
 
 1h ago
 
@@ -86,21 +94,13 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 Hi, I’m looking to get into robotics as a hobby. I’m currently learning Arduino using a starter kit, and I’m planning to buy a 3D printer (I have some experience with an Ender 3 Pro V1). For those who build prototypes and robots using 3D printing: do you really need to print in ABS? Back when I started, it was considered one of the strongest materials, but I’m not sure if that’s still the case or if it’s still the standard. From what I’ve seen, most people seem to use PLA or, even more often, PETG. This is mainly to help me decide whether it’s worth getting an open or an enclosed printer, which makes a big difference in the budget where I live.
 
-10h ago
+11h ago
 
 ---
 
 **[Dueling Pianos with Humanoids @ CES](https://www.reddit.com/r/robotics/comments/1q8gpa5/dueling_pianos_with_humanoids_ces/)**
 
-13h ago
-
----
-
-**[Struggling with UR Robot Faults and Protective Stops](https://www.reddit.com/r/robotics/comments/1q8xgq1/struggling_with_ur_robot_faults_and_protective/)**
-
-I keep seeing the same issue come up with Universal Robots setups (I am assuming this is also common across other robotic arm brands too), so I wanted to sanity-check with people who work with these day to day. When a UR robot goes into a protective stop / fault that’s intermittent, how do you usually figure out what led up to it? For example: Something runs fine for hours or days. Then suddenly faults. Logs are there, but it’s hard to reconstruct the sequence of robot state, IO, forces, program context, etc. right before the stop In practice, do you: Scrape logs manually? Add ad-hoc script logging? Reproduce by trial-and-error? Just wait for it to happen again? I’m especially curious: What’s the most annoying fault you’ve had to debug recently? How much time does this kind of issue usually cost you (or your customer)? I am just genuinely trying to understand how people deal with this today and whether I’m missing something obvious.
-
-1h ago
+14h ago
 
 ---
 
@@ -122,14 +122,6 @@ International Federation of Robotics • 2d ago
 
 ---
 
-**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
-
-New technique varies colour and texture to open up potential applications in display technologies
-
-Financial Times • 2d ago
-
----
-
 **[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
@@ -138,11 +130,11 @@ NVIDIA Developer • 1d ago
 
 ---
 
-**[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
+**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
 
-Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
+New technique varies colour and texture to open up potential applications in display technologies
 
-The Times of Israel • 2d ago
+Financial Times • 2d ago
 
 ---
 
@@ -185,17 +177,23 @@ CNBC • 19h ago
 
 ---
 
+**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqcruCAnu3HQ9_Mj-vvGCz7jbfrE_o7pUNmo14JeiPdZpDowWOBBJtbe&gaa_ts=69621671&gaa_sig=6WaWhs7NHSC4ep7PvxrcUvusUFewxLyNLi5Kj9HNIdao00lSXO5iZcF8dqEobDU1IILXnEP347oltKP-mN7XOA%3D%3D)**
+
+The Wall Street Journal • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
+**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
 
-This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
+The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
 
-📺 Cybernews
+📺 Hyundai Motor Group
 
-👁️ 207K • 👍 3K • 💬 502 • ⏱️ 4:29 • 2d ago
+👁️ 246K • 👍 60 • ⏱️ 1:15 • 3d ago
 
 ---
 
@@ -209,13 +207,13 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 ---
 
-**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
+**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
 
-The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
+This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
 
-📺 Hyundai Motor Group
+📺 Cybernews
 
-👁️ 246K • 👍 60 • ⏱️ 1:15 • 3d ago
+👁️ 212K • 👍 3K • 💬 516 • ⏱️ 4:29 • 2d ago
 
 ---
 
@@ -229,23 +227,13 @@ The world's largest tech show is back and AI is powering nearly every major reve
 
 ---
 
-**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
 
-I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
 
-📺 mryeester
+📺 WION
 
-👁️ 350K • 👍 11K • 💬 371 • ⏱️ 0:39 • 1d ago
-
----
-
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
-
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
-
-📺 Technology Now
-
-👁️ 23K • 👍 296 • 💬 15 • ⏱️ 7:38 • 5d ago
+👁️ 5K • 👍 20 • 💬 13 • ⏱️ 1:15 • 3d ago
 
 ---
 
@@ -255,7 +243,27 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 439K • 👍 241 • 💬 2 • ⏱️ 0:47 • 3d ago
+👁️ 439K • 👍 243 • 💬 2 • ⏱️ 0:47 • 3d ago
+
+---
+
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+
+📺 Technology Now
+
+👁️ 23K • 👍 297 • 💬 15 • ⏱️ 7:38 • 5d ago
+
+---
+
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+
+Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+
+📺 PCMag
+
+👁️ 673K • 👍 13K • 💬 2K • ⏱️ 7:00 • 4d ago
 
 ---
 
@@ -265,27 +273,17 @@ The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mo
 
 📺 Dip Knows
 
-👁️ 473K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
+👁️ 474K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
 
 ---
 
-**[LG’s New AI Robot Promisses Consumers a ‘Zero Labor Home’](https://www.youtube.com/watch?v=KScg3q4XqOM)**
+**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
 
-LG unveiled its new AI-powdered Robot named CLOiD at the CES tech event in Las Vegas, Nevada. CLOiD is programed to work ...
+At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
 
-📺 New York Post
+📺 Hyundai Motor Group
 
-👁️ 6K • 👍 91 • 💬 59 • ⏱️ 4:23 • 3d ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 5.7M • 👍 4K • 💬 995 • ⏱️ 0:32 • 5d ago
+👁️ 101K • 👍 109 • 💬 1 • ⏱️ 0:33 • 3d ago
 
 ---
 

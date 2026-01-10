@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T08:28:24.719477+00:00'
+updated: '2026-01-10T08:51:15.070957+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
-- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 08:28 UTC  
+**Last Updated:** January 10, 2026 at 08:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,085.54
+### $3,092.38
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** -0.4%  
 **7d:** -1.8%  
-**30d:** +0.3%  
+**30d:** +0.2%  
 **90d:** -27.2%  
 **1y:** -5.9%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.93B
+**Market Cap:** $372.37B
 Rank #2
 
 **Circulating Supply:** 120,694,734 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.7%
+-37.6%
 
 **All-Time Low:** $0.43
-+711897.6%
++712336.4%
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 2h ago
+
+---
+
+**[YUL: Solidity’s Low-Level Language (Without the Tears), Part 1: Stack, Memory, and Calldata](https://www.reddit.com/r/ethereum/comments/1q8z5mb/yul_soliditys_lowlevel_language_without_the_tears/)**
+
+I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
+
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 5m ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +112,7 @@ For people that have blockchain startups or work in the digital asset space, how
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 19h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 20h ago
 
 ---
 
@@ -112,7 +120,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-19h ago
+20h ago
 
 ---
 
@@ -138,23 +146,23 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 ---
 
-**[Is EIP-7702 really a step forward?](https://www.reddit.com/r/ethereum/comments/1q83fyz/is_eip7702_really_a_step_forward/)**
-
-Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
-
-23h ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
+
+Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
+
+Yahoo Finance • 1d ago
+
+---
 
 **[Ethereum treasury firm SharpLink stakes $170M ETH on Linea network](https://www.coindesk.com/markets/2026/01/09/ethereum-treasury-firm-sharplink-stakes-usd170m-eth-on-linea-network)**
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -174,49 +182,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
-
-Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum (ETH) news: bumps blob capacity ahead of Fusaka upgrade](https://www.coindesk.com/tech/2026/01/08/ethereum-bumps-blob-capacity-as-it-gears-for-fusaka-upgrade)**
-
-Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
-
-CoinDesk • 2d ago
-
----
-
-**[Morgan Stanley widens crypto bet with proposed spot Ethereum ETF after Bitcoin and Solana filings](https://www.theblock.co/post/384603/morgan-stanley-spot-ethereum-etf)**
+**[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
 
 The Block • 2d ago
 
 ---
 
-**[Morgan Stanley Adds Ethereum Trust To Planned Crypto ETF Lineup](https://decrypt.co/353829/morgan-stanley-adds-ethereum-trust-to-planned-crypto-etf-lineup)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
 
-The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
 
-Decrypt • 2d ago
-
----
-
-**[Ethereum and Solana ETFs Record Historic Trading Volumes in Early 2026](https://cryptopotato.com/ethereum-and-solana-etfs-record-historic-trading-volumes-in-early-2026/)**
-
-Ethereum and Solana ETF trading accelerated sharply in early January amid increasing institutional interest in crypto assets.
-
-CryptoPotato • 2d ago
-
----
-
-**[Ethereum price prediction: top reasons ETH may soar in 2026](https://www.tradingview.com/news/invezz:b688b0910094b:0-ethereum-price-prediction-top-reasons-eth-may-soar-in-2026/)**
-
-Ethereum price retreated for three consecutive days, erasing some of the gains made earlier this month. ETH dropped to $3,152, down from this year’s high of $3,300. This article explores the top reasons why ETH price will eventually rebound this year.BitMine Ethereum purchasesOne main reason why th…
-
-TradingView — Track All Markets • 2d ago
+Bit Digital • 2d ago
 
 ---
 
@@ -228,27 +204,41 @@ The Motley Fool • 21h ago
 
 ---
 
+**[Ethereum Price Latest Push Raises Question: Has a Short-Term Top Formed?](https://www.tradingview.com/news/newsbtc:cfd501f23094b:0-ethereum-price-latest-push-raises-question-has-a-short-term-top-formed/)**
+
+Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
+
+TradingView — Track All Markets • 2d ago
+
+---
+
+**[Ethereum (ETH-USD) Steadies Near $3,100, Trend Remains Under Pressure (Technical Analysis)](https://seekingalpha.com/article/4858443-ethereum-steadies-near-3100-trend-remains-under-pressure-technical-analysis)**
+
+Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
+
+Seeking Alpha • 14h ago
+
+---
+
+**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
+
+Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
+
+AMBCrypto • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[&quot;Time for HONESTY! We Might Have Been Wrong About 2026&quot; - Tom Lee &amp; Jack Mallers](https://www.youtube.com/watch?v=VhKHFbHnhGU)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=8rWN_6pAOvo)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Savvy Finance
+📺 More Crypto Online
 
-👁️ 4K • 👍 174 • 💬 35 • ⏱️ 20:39 • 14h ago
-
----
-
-**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
-
-ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
-
-📺 Bankless
-
-👁️ 7K • 👍 257 • 💬 38 • ⏱️ 52:02 • 20h ago
+👁️ 420 • 👍 49 • 💬 7 • ⏱️ 4:11 • 2h ago
 
 ---
 
@@ -258,17 +248,17 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 5K • 👍 343 • 💬 38 • ⏱️ 15:28 • 12h ago
+👁️ 6K • 👍 368 • 💬 41 • ⏱️ 15:28 • 12h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zbkeKzNxfmE)**
+**[&quot;Time for HONESTY! We Might Have Been Wrong About 2026&quot; - Tom Lee &amp; Jack Mallers](https://www.youtube.com/watch?v=VhKHFbHnhGU)**
 
-BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Crypto World
+📺 Savvy Finance
 
-👁️ 4K • 👍 186 • 💬 48 • ⏱️ 17:54 • 8h ago
+👁️ 4K • 👍 177 • 💬 36 • ⏱️ 20:39 • 14h ago
 
 ---
 
@@ -288,17 +278,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 14K • 👍 849 • 💬 79 • ⏱️ 12:30 • 18h ago
-
----
-
-**[This Signal Could Drop Ethereum Below $2000](https://www.youtube.com/watch?v=oXSsK9-6W3c)**
-
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 324 • 👍 12 • 💬 3 • ⏱️ 5:53 • 12h ago
+👁️ 14K • 👍 855 • 💬 80 • ⏱️ 12:30 • 19h ago
 
 ---
 
@@ -308,7 +288,37 @@ Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-t
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 645 • 💬 35 • ⏱️ 46:28 • 7h ago
+👁️ 12K • 👍 659 • 💬 35 • ⏱️ 46:28 • 8h ago
+
+---
+
+**[Sh!t, Ethereum Is Messed Up 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=v0l3Tv4t9Ro)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 156 • 💬 24 • ⏱️ 11:47 • 1d ago
+
+---
+
+**[This Signal Could Drop Ethereum Below $2000](https://www.youtube.com/watch?v=oXSsK9-6W3c)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 346 • 👍 12 • 💬 3 • ⏱️ 5:53 • 12h ago
+
+---
+
+**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
+
+ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
+
+📺 Bankless
+
+👁️ 7K • 👍 262 • 💬 40 • ⏱️ 52:02 • 21h ago
 
 ---
 
@@ -319,16 +329,6 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 108 • 💬 8 • ⏱️ 5:13 • 15h ago
-
----
-
-**[CRYPTO LIVE TRADING || 10 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=FPc6fWgNqVI)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 4K • 👍 707 • 3h ago
 
 ---
 
