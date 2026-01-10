@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T11:18:50.161153+00:00'
+updated: '2026-01-10T11:38:58.403877+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 11:18 UTC  
+**Last Updated:** January 10, 2026 at 11:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,674.38
+### $90,717.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.3%  
 **7d:** -0.8%  
 **30d:** +0.5%  
 **90d:** -21.3%  
@@ -115,6 +115,12 @@ Received this notification just now
 
 ---
 
+**[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
+
+1h ago
+
+---
+
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
 1d ago
@@ -125,7 +131,7 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-20h ago
+21h ago
 
 ---
 
@@ -137,25 +143,9 @@ So, yeah, pretty much the question in the title. So I’m pretty familiar with t
 
 ---
 
-**[Daily Discussion, January 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1q8wg6w/daily_discussion_january_10_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
-
-What we know about the South American country’s crypto holdings.
-
-Fortune • 16h ago
-
----
 
 **[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
 
@@ -165,15 +155,31 @@ CoinDesk • 15h ago
 
 ---
 
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+
+What we know about the South American country’s crypto holdings.
+
+Fortune • 17h ago
+
+---
+
+**[3 Bad Investing Mistakes I Won't Repeat in 2026 and Beyond](https://www.fool.com/investing/2026/01/10/3-bad-investing-mistakes-i-wont-repeat-in-2026/)**
+
+Last year was a doozy.
+
+The Motley Fool • 1h ago
+
+---
+
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
 The Block • 1d ago
 
 ---
 
-**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
+**[South Korea to flip bitcoin ETF stance as part of broader crypto push](https://www.coindesk.com/policy/2026/01/09/south-korea-to-flip-bitcoin-etf-stance-as-part-of-broader-crypto-push)**
 
-Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
+A new Digital Asset Act will regulate stablecoins, requiring 100% reserve backing and user redemption rights.
 
 CoinDesk • 1d ago
 
@@ -184,14 +190,6 @@ CoinDesk • 1d ago
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
 CNBC • 23h ago
-
----
-
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
-
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
-
-VanEck • 1d ago
 
 ---
 
@@ -217,11 +215,11 @@ Bitcoin Magazine • 16h ago
 
 ---
 
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
 
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
 
-Bitcoin Magazine • 20h ago
+VanEck • 1d ago
 
 ---
 
@@ -321,7 +319,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 126 • ⏱️ 17:07 • 12h ago
+👁️ 18K • 👍 1K • 💬 126 • ⏱️ 17:07 • 13h ago
 
 ---
 
@@ -391,7 +389,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 34K • 👍 3K • 💬 112 • ⏱️ 13:55 • 8h ago
+👁️ 34K • 👍 3K • 💬 112 • ⏱️ 13:55 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T11:18:50.167131+00:00'
+updated: '2026-01-10T11:38:58.409977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 11:18 UTC  
+**Last Updated:** January 10, 2026 at 11:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -1.6%  
-**30d:** +0.4%  
-**90d:** -27.1%  
-**1y:** -5.7%  
+**24h:** +0.2%  
+**7d:** -1.5%  
+**30d:** +0.5%  
+**90d:** -27.0%  
+**1y:** -5.6%  
 
 ---
 
@@ -76,6 +76,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
+
+Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
+
+7h ago
+
+---
+
 **[YUL: Solidity’s Low-Level Language (Without the Tears), Part 1: Stack, Memory, and Calldata](https://www.reddit.com/r/ethereum/comments/1q8z5mb/yul_soliditys_lowlevel_language_without_the_tears/)**
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
@@ -89,14 +97,6 @@ I just published a new article on Medium. This started as personal notes while l
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
-
-Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
-
-7h ago
 
 ---
 
@@ -150,14 +150,6 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 ## Google News: "ethereum"
 
-**[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
-
-The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
-
-The Motley Fool • 1h ago
-
----
-
 **[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
@@ -166,7 +158,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum (ETH) treasury news: SharpLink stakes $170 million ether on Linea](https://www.coindesk.com/markets/2026/01/09/ethereum-treasury-firm-sharplink-stakes-usd170m-eth-on-linea-network)**
+**[Ethereum treasury firm SharpLink stakes $170M ETH on Linea network](https://www.coindesk.com/markets/2026/01/09/ethereum-treasury-firm-sharplink-stakes-usd170m-eth-on-linea-network)**
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
@@ -174,9 +166,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
+**[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://finance.yahoo.com/news/ethereum-treasury-firm-sharplink-stakes-215216000.html)**
 
-The Block • 2d ago
+Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,19 +182,33 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
+
+The Block • 2d ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Backs Convicted Dev, Calls Privacy 'Essential Protection'](https://decrypt.co/354121/ethereum-founder-vitalik-buterin-backs-convicted-dev-privacy-essential-protection)**
+
+Ethereum co-founder Vitalik Buterin publicly backed convicted Tornado Cash developer Roman Storm, calling privacy tools a human right.
+
+Decrypt • 2d ago
+
+---
+
+**[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
+
+Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
+
+The Motley Fool • 1d ago
+
+---
+
 **[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 16h ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
-
-Bit Digital • 2d ago
+Coinpedia Fintech News • 17h ago
 
 ---
 
@@ -217,14 +225,6 @@ TradingView — Track All Markets • 2d ago
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
 Seeking Alpha • 16h ago
-
----
-
-**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
-
-Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
-
-AMBCrypto • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 828 • 👍 85 • 💬 10 • ⏱️ 4:11 • 4h ago
+👁️ 828 • 👍 85 • 💬 10 • ⏱️ 4:11 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 7K • 👍 269 • 💬 40 • ⏱️ 52:02 • 23h ago
+👁️ 7K • 👍 269 • 💬 40 • ⏱️ 52:02 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T11:18:50.170391+00:00'
+updated: '2026-01-10T11:38:58.413236+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 11:18 UTC  
+**Last Updated:** January 10, 2026 at 11:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-10h ago
+11h ago
 
 ---
 
@@ -52,9 +52,17 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 ---
 
+**[Zurich Robotics Ecosystem Map [self-made, might lack some companies]](https://www.reddit.com/r/robotics/comments/1q91gqt/zurich_robotics_ecosystem_map_selfmade_might_lack/)**
+
+Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
+
+31m ago
+
+---
+
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -90,14 +98,6 @@ I keep seeing the same issue come up with Universal Robots setups (I am assuming
 
 ---
 
-**[Those with 3D Printers: ABS yes or no?](https://www.reddit.com/r/robotics/comments/1q8lee2/those_with_3d_printers_abs_yes_or_no/)**
-
-Hi, I’m looking to get into robotics as a hobby. I’m currently learning Arduino using a starter kit, and I’m planning to buy a 3D printer (I have some experience with an Ender 3 Pro V1). For those who build prototypes and robots using 3D printing: do you really need to print in ABS? Back when I started, it was considered one of the strongest materials, but I’m not sure if that’s still the case or if it’s still the standard. From what I’ve seen, most people seem to use PLA or, even more often, PETG. This is mainly to help me decide whether it’s worth getting an open or an enclosed printer, which makes a big difference in the budget where I live.
-
-13h ago
-
----
-
 **[Dueling Pianos with Humanoids @ CES](https://www.reddit.com/r/robotics/comments/1q8gpa5/dueling_pianos_with_humanoids_ces/)**
 
 16h ago
@@ -114,20 +114,33 @@ Reuters • 2d ago
 
 ---
 
-**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
+**[Arm reorganizes to launch Physical AI unit amid robotics rush](https://seekingalpha.com/news/4537591-arm-reorganizes-to-launch-physical-ai-unit-amid-robotics-rush)**
 
-At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
-people and production.
+Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
 
-hyundai.com • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
-**[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-announces-ai-robotics-strategy-to-lead-human-centered-robotics-era-at-ces-2026-0000001100)**
+**[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
 
-HMG unveiled its transformative AI Robotics Strategy at CES 2026, presenting a bold roadmap for advancing human-robot collaboration.
+TipRanks • 2d ago
 
-hyundai.com • 4d ago
+---
+
+**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+
+Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+
+CNBC • 22h ago
+
+---
+
+**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
+
+CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -136,14 +149,6 @@ hyundai.com • 4d ago
 Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
 
 Interesting Engineering • 2d ago
-
----
-
-**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
-
-New technique varies colour and texture to open up potential applications in display technologies
-
-Financial Times • 2d ago
 
 ---
 
@@ -163,25 +168,19 @@ International Federation of Robotics • 2d ago
 
 ---
 
-**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
+**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
 
-CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+New technique varies colour and texture to open up potential applications in display technologies
 
-Yahoo Finance • 1d ago
-
----
-
-**[Mobileye Acquires Startup Mentee Robotics for $900 Million](https://www.wsj.com/business/deals/mobileye-acquires-startup-mentee-robotics-for-900-million-393a4f6f?gaa_at=eafs&gaa_n=AWEtsqeC6J5TJM5zN6RfBjGorUpSaJVvFy4I0Rbc_zmE7oN9T7DVYoQIAV7H&gaa_ts=69622bb9&gaa_sig=Ynh-fPZsUb_vbNiK4cMnPbfpri13CwCLKF9OEOZR9QcDdKfDuxiwZOUxmiyVkNRhSFWQE2pvyx6F-3KnIhQOhw%3D%3D)**
-
-The Wall Street Journal • 3d ago
+Financial Times • 2d ago
 
 ---
 
-**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+**[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
 
-Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
 
-CNBC • 22h ago
+The Times of Israel • 2d ago
 
 ---
 
