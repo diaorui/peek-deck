@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T15:41:30.706665+00:00'
+updated: '2026-01-10T16:26:57.699104+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 15:41 UTC  
+**Last Updated:** January 10, 2026 at 16:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,23 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 10h ago
-
----
-
-**[Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room](https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/)**
-
-I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
-
-15h ago
-
----
-
-**[AI image and video generator](https://www.reddit.com/r/artificial/comments/1q91bic/ai_image_and_video_generator/)**
-
-Best one i have found so far https://video.a2e.ai/?coupon=xqCs
-
-4h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 11h ago
 
 ---
 
@@ -74,6 +58,14 @@ Best one i have found so far https://video.a2e.ai/?coupon=xqCs
 Been thinking about this from an infrastructure reliability angle. When we automated SCADA systems at utilities, we didn’t eliminate jobs overnight – we shifted them. Took 5-10 years. People retrained, retired, or moved sideways. AI agents are different. They scale instantly. One deployment can absorb work that took 50 people. Here’s the question nobody’s funding: if an AI handles claims processing for an insurance company – replacing 20 adjusters – who contributes to social security? Unemployment insurance? Healthcare pools? There are a few proposals floating around. Robot tax (flat levy per AI deployment). Automation VAT (percentage of productivity gains). Imputed wages (the AI “earns” an equivalent salary and gets taxed accordingly). My take: we’re not ready for entities that generate economic value without consuming services. Our entire social contract assumes workers → taxes → safety net. What’s your read? Is this a real funding gap, or does increased productivity naturally generate enough tax revenue elsewhere?
 
 2h ago
+
+---
+
+**[Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room](https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/)**
+
+I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
+
+15h ago
 
 ---
 
@@ -117,13 +109,21 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 ---
 
+**[Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs](https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/)**
+
+I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -131,37 +131,27 @@ The New York Times • 18h ago
 
 Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
 
-CNBC • 3h ago
-
----
-
-**[AI bubble: five things you need to know to shield your finances from a crash](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions)**
-
-Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
-
-The Guardian • 8h ago
-
----
-
-**[Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart](https://www.cnbc.com/2026/01/10/are-we-in-an-ai-bubble-tech-leaders-analysts.html)**
-
-OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.
-
-CNBC • 2h ago
-
----
-
-**[So are we in an AI bubble? Here are clues to look for. : Planet Money](https://www.npr.org/2026/01/09/nx-s1-5672643/market-ai-what-is-a-bubble)**
-
-Are we in an AI bubble? That’s the $35 trillion dollar question right now as the stock market soars higher and higher. The problem is that bubbles are famously hard to spot. But some economists say they may have found some telltale clues.On our latest: How do economists detect a bubble? And, how much should society be worried about bubbles in the first place? Related shows:- How to make $35 trillion ... disappear-What is a bubble? (featuring Nobel prize winning economics Eugene Fama and Robert Shiller)-What AI data centers are doing to your electric billPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.This episode was produced by Willa Rubin and edited by Marianne McCune. It was fact-checked by Sierra Juarez and engineered by Cena Loffredo and Robert Rodriguez. Alex Goldmark is our executive producer.Music: NPR Source Audio - “The best is yet to come,” “Marsh mellow,” and “Sunshine beat”
-
-NPR • 13h ago
+CNBC • 4h ago
 
 ---
 
 **[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
+
+---
+
+**[Physical AI Made Waves At CES 2026. What Is It?](https://www.forbes.com/sites/ronschmelzer/2026/01/10/physical-ai-made-waves-at-ces-2026-what-is-it/)**
+
+Forbes • 20m ago
+
+---
+
+**[The AI question every job candidate on interview should be prepared to answer](https://www.cnbc.com/2026/01/10/jobs-careers-ai.html)**
+
+AI may not be responsible for most layoffs to date, but workers will increasingly need to defend their jobs in terms that directly relate to the technology.
+
+CNBC • 40m ago
 
 ---
 
@@ -173,25 +163,35 @@ The Atlantic • 17h ago
 
 ---
 
-**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
+**[AI bubble: five things you need to know to shield your finances from a crash](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions)**
 
-From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
+Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
 
-NBC News • 1d ago
-
----
-
-**[Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)**
-
-A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.
-
-Quanta Magazine • 23h ago
+The Guardian • 9h ago
 
 ---
 
-**[Introducing OpenAI for Healthcare](https://openai.com/index/openai-for-healthcare/)**
+**[Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart](https://www.cnbc.com/2026/01/10/are-we-in-an-ai-bubble-tech-leaders-analysts.html)**
 
-OpenAI • 1d ago
+OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.
+
+CNBC • 3h ago
+
+---
+
+**[So are we in an AI bubble? Here are clues to look for. : Planet Money](https://www.npr.org/2026/01/09/nx-s1-5672643/market-ai-what-is-a-bubble)**
+
+Are we in an AI bubble? That’s the $35 trillion dollar question right now as the stock market soars higher and higher. The problem is that bubbles are famously hard to spot. But some economists say they may have found some telltale clues.On our latest: How do economists detect a bubble? And, how much should society be worried about bubbles in the first place? Related shows:- How to make $35 trillion ... disappear-What is a bubble? (featuring Nobel prize winning economics Eugene Fama and Robert Shiller)-What AI data centers are doing to your electric billPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.This episode was produced by Willa Rubin and edited by Marianne McCune. It was fact-checked by Sierra Juarez and engineered by Cena Loffredo and Robert Rodriguez. Alex Goldmark is our executive producer.Music: NPR Source Audio - “The best is yet to come,” “Marsh mellow,” and “Sunshine beat”
+
+NPR • 14h ago
+
+---
+
+**[OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/)**
+
+To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.
+
+WIRED • 15h ago
 
 ---
 
@@ -205,21 +205,13 @@ OpenAI • 1d ago
 
 ---
 
-**[Dell admits consumers don't care about AI PCs](https://news.ycombinator.com/item?id=46527706)**
-
-"What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
-
-⬆️ 553 • 💬 395 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
-
----
-
 **[“Erdos problem #728 was solved more or less autonomously by AI”](https://news.ycombinator.com/item?id=46560445)**
 
 Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728 https://www.erdosproblems.com/728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located).
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 539 • 💬 294 • 17h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 553 • 💬 304 • 17h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -227,7 +219,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 441 • 💬 715 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 443 • 💬 720 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -259,7 +251,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 144 • 💬 206 • 21h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 151 • 💬 208 • 22h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -275,7 +267,15 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 68 • 💬 39 • 20h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 68 • 💬 40 • 21h ago • [GitHub](https://github.com/Hiepler/EuConform)
+
+---
+
+**[Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://news.ycombinator.com/item?id=46543933)**
+
+Since 2023, every model at the frontier of AI capabilities, as measured by the Epoch Capabilities Index, has been developed in the United States. Over that same period, Chinese models have trailed US capabilities by an average of seven months, with a minimum gap of four months and a maximum gap of 14.
+
+⬆️ 58 • 💬 87 • 1d ago • [Epoch AI](https://epoch.ai/data-insights/us-vs-china-eci)
 
 ---
 
@@ -319,7 +319,7 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 17K • 👍 712 • 💬 33 • ⏱️ 11:06 • 16h ago
+👁️ 17K • 👍 712 • 💬 33 • ⏱️ 11:06 • 17h ago
 
 ---
 
@@ -359,7 +359,7 @@ Why So Serious ??? Sapa yg layak berganding dgn mal , daus dan aina.
 
 📺 Alieff Irfan
 
-👁️ 274K • 👍 22K • 💬 2K • ⏱️ 1:08:29 • 2h ago
+👁️ 274K • 👍 22K • 💬 2K • ⏱️ 1:08:29 • 3h ago
 
 ---
 
@@ -379,7 +379,7 @@ She Pushed Hulk Into Death... But Police Exposed The Truth #shorts #ai #hulk The
 
 📺 AeroVibea
 
-👁️ 6K • 👍 300 • 💬 1 • ⏱️ 1:00 • 11h ago
+👁️ 6K • 👍 300 • 💬 1 • ⏱️ 1:00 • 12h ago
 
 ---
 
@@ -554,7 +554,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 20 • 💬 2 • ⭐ 479 • 4d ago
+▲ 20 • 💬 2 • ⭐ 479 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -649,7 +649,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.5k • 🔱 921 • 2h ago
+⭐ 7.5k • 🔱 921 • 3h ago
 
 ---
 
@@ -669,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 56m ago
+⭐ 2.2k • 🔱 130 • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 111 • 55m ago
+⭐ 1.3k • 🔱 111 • 1h ago
 
 ---
 

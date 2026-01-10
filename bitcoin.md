@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T15:41:30.715031+00:00'
+updated: '2026-01-10T16:26:57.707787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 15:41 UTC  
+**Last Updated:** January 10, 2026 at 16:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,541.25
+### $90,590.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -1.0%  
-**30d:** +0.3%  
-**90d:** -21.4%  
-**1y:** -4.2%  
+**24h:** -0.8%  
+**7d:** -0.8%  
+**30d:** +0.5%  
+**90d:** -21.3%  
+**1y:** -4.0%  
 
 ---
 
@@ -77,17 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
-
-10h ago
-
----
-
 **[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
 1h ago
+
+---
+
+**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
+
+11h ago
+
+---
+
+**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
+
+2h ago
 
 ---
 
@@ -101,7 +107,19 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-2h ago
+3h ago
+
+---
+
+**[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
+
+6h ago
+
+---
+
+**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
+
+16h ago
 
 ---
 
@@ -111,29 +129,11 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 ---
 
-**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
-
-15h ago
-
----
-
-**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
-
-1h ago
-
----
-
-**[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
-
-5h ago
-
----
-
 **[Betterment hacked](https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked/)**
 
 Received this notification just now
 
-16h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ How is the sentiment over here? Bullish AF for the long term! Short term it is a
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 19h ago
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -169,43 +169,21 @@ Fortune • 21h ago
 
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
-CNBC • 34m ago
+CNBC • 1h ago
 
 ---
 
-**[An 82-year-old couple believed they were 'helping' a federal investigation. It was a $1.3 million scam.](https://www.businessinsider.com/senior-couple-ftc-scam-retirement-fund-bitcoin-gold-2026-1)**
+**[Is Block (SQ) Quietly Recasting Its Risk Profile With Bigger Bets On Bitcoin And Consumer Credit?](https://finance.yahoo.com/news/block-sq-quietly-recasting-risk-151232667.html)**
 
-Scammers impersonating Amazon, TD Bank, and the FTC convinced retirees to convert $1.3 million into bitcoin and gold. The couple is now speaking out.
+In recent days, analysts have highlighted Block's expanding role in Bitcoin-related services and the buy now, pay later market, alongside ongoing insider equity activity and mixed financial stress signals. These developments underscore how Block is tying its future more closely to digital assets and consumer credit trends, which can increase both growth potential and risk exposure. We'll now explore how Block's deepening Bitcoin ecosystem could reshape its investment narrative and risk...
 
-Business Insider • 3h ago
-
----
-
-**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
-
-The Block • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 21h ago
-
----
-
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
-
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
-
-It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
-
-CNBC • 1d ago
+The Block • 10m ago
 
 ---
 
@@ -213,15 +191,37 @@ CNBC • 1d ago
 
 There's a major pitfall coming up that'll need to be avoided.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Bank of America Joins JPMorgan, Citi, Morgan Stanley By Recommending Bitcoin Portfolio Allocation](https://finance.yahoo.com/news/bank-america-joins-jpmorgan-citi-230105379.html)**
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
 
-Bank of America Corp. (NYSE:BAC) will allow more than 15,000 Merrill and Private Bank advisers to proactively recommend four spot Bitcoin (CRYPTO: BTC) ETFs starting Jan. 5, formally opening Bitcoin access across its wealth platform. Big Four Banks Now All...
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
 
-Yahoo Finance • 2d ago
+VanEck • 1d ago
+
+---
+
+**[Why This New P2P App Is Making Centralized Exchanges Look Obsolete](https://bitcoinmagazine.com/business/vexl-empowering-peer-to-peer-bitcoin-exchange-through-social-networks)**
+
+In a world cracking down on privacy tools, one non-profit app is letting you trade Bitcoin safely within your own network.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages](https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html)**
+
+Security researchers found 3 npm packages that installed NodeCordRAT malware, stealing browser data, crypto wallet secrets & tokens using Discord C2.
+
+The Hacker News • 2d ago
+
+---
+
+**[This $59 Device Lets You Solo-Mine Bitcoin From Your Desk](https://www.entrepreneur.com/money-finance/this-59-device-lets-you-solo-mine-bitcoin-from-your-desk/501638)**
+
+Entrepreneur • 23h ago
 
 ---
 
@@ -311,7 +311,7 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 294 • 💬 261 • ⏱️ 7:59 • 9h ago
+👁️ 3K • 👍 294 • 💬 261 • ⏱️ 7:59 • 10h ago
 
 ---
 
@@ -321,7 +321,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 294 • ⏱️ 9:19 • 16h ago
+👁️ 43K • 👍 2K • 💬 294 • ⏱️ 9:19 • 17h ago
 
 ---
 
@@ -331,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 4K • 👍 435 • 💬 1 • ⏱️ 1:05:08 • 1h ago
+👁️ 4K • 👍 435 • 💬 1 • ⏱️ 1:05:08 • 2h ago
 
 ---
 
@@ -351,7 +351,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 15K • 👍 1K • 💬 426 • ⏱️ 10:43 • 23h ago
+👁️ 15K • 👍 1K • 💬 426 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Welcome to New England Crypto. My name is Matthew, & we are a Crypto Mining Fami
 
 📺 New England Crypto
 
-👁️ 482 • 👍 13 • 💬 1 • ⏱️ 0:25 • 2h ago
+👁️ 482 • 👍 13 • 💬 1 • ⏱️ 0:25 • 3h ago
 
 ---
 
