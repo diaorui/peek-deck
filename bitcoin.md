@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T04:09:23.220396+00:00'
+updated: '2026-01-10T04:54:40.541755+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 04:09 UTC  
+**Last Updated:** January 10, 2026 at 04:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -1.1%  
-**30d:** +0.2%  
-**90d:** -21.5%  
-**1y:** -4.3%  
+**24h:** -0.6%  
+**7d:** -1.0%  
+**30d:** +0.3%  
+**90d:** -21.4%  
+**1y:** -4.2%  
 
 ---
 
@@ -83,17 +83,23 @@ Rank #1
 
 ---
 
+**[Is that all you need?](https://www.reddit.com/r/Bitcoin/comments/1q8tbcc/is_that_all_you_need/)**
+
+1h ago
+
+---
+
 **[Betterment hacked](https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked/)**
 
 Received this notification just now
 
-4h ago
+5h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +113,7 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-13h ago
+14h ago
 
 ---
 
@@ -137,15 +143,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 I am tired boss
 
-12h ago
-
----
-
-**[How to prepare for US economic collapse?](https://www.reddit.com/r/Bitcoin/comments/1q8sqkw/how_to_prepare_for_us_economic_collapse/)**
-
-Regardless of political position, it is fair to say the US is going through major political changes which is leading to geopolitical shakeups. I worry that the instability and changes will lead to loss of US economic dominance, and possible collapse (although, I acknowledge this is a slim chance). If so, how would one prepare for this? Buy gold and bitcoin? Hoard cash? What would we see? I would think massive inflation. I am starting to become genuinely worried that the US is going to see major financial hardship in the next 5-10 years, and god forbid, collapse.
-
-1h ago
+13h ago
 
 ---
 
@@ -153,17 +151,25 @@ Regardless of political position, it is fair to say the US is going through majo
 
 ## Google News: "bitcoin"
 
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+
+What we know about the South American country’s crypto holdings.
+
+Fortune • 10h ago
+
+---
+
 **[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -175,35 +181,27 @@ CNBC • 16h ago
 
 ---
 
-**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
+**[Why Riot Platforms (RIOT) Is Up 8.2% After Record Bitcoin Sales To Fund AI Data Centers](https://finance.yahoo.com/news/why-riot-platforms-riot-8-031842528.html)**
 
-Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
+In late 2025, Riot Platforms reported producing 460 Bitcoin in December while selling 1,818 Bitcoin for US$161.6 million, alongside completing over US$600.53 million of follow-on equity offerings and announcing Jason Chung as its incoming Chief Financial Officer from March 2026. These moves mark a clear shift away from a pure Bitcoin-hoarding model toward using coin sales and fresh equity to fund an AI-focused data center build-out and broader digital infrastructure ambitions. We’ll now...
 
-CNBC • 2d ago
-
----
-
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
-
-There's a major pitfall coming up that'll need to be avoided.
-
-The Motley Fool • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Price Could Surge to $53 Million by 2050, Says VanEck—Here's Why](https://finance.yahoo.com/news/bitcoin-price-could-surge-53-201338320.html)**
+**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
 
-Could Bitcoin be worth more than $50 million per coin in 24 years? VanEck just put out its most bullish price prediction yet.
+U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-Yahoo Finance • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
 
-What we know about the South American country’s crypto holdings.
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
 
-Fortune • 9h ago
+VanEck • 1d ago
 
 ---
 
@@ -267,7 +265,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 19h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 20h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -315,7 +313,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 971 • 💬 88 • ⏱️ 17:07 • 5h ago
+👁️ 11K • 👍 971 • 💬 88 • ⏱️ 17:07 • 6h ago
 
 ---
 
@@ -325,7 +323,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 10K • 👍 986 • 💬 278 • ⏱️ 10:43 • 11h ago
+👁️ 10K • 👍 986 • 💬 278 • ⏱️ 10:43 • 12h ago
 
 ---
 

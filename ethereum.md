@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T04:09:23.226408+00:00'
+updated: '2026-01-10T04:54:40.547805+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 04:09 UTC  
+**Last Updated:** January 10, 2026 at 04:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
+**24h:** -1.2%  
 **7d:** -2.0%  
 **30d:** +0.1%  
 **90d:** -27.3%  
-**1y:** -6.0%  
+**1y:** -6.1%  
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-4h ago
+5h ago
+
+---
+
+**[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
+
+Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
+
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ For people that have blockchain startups or work in the digital asset space, how
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 15h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 16h ago
 
 ---
 
@@ -96,7 +104,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +120,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-22h ago
+23h ago
 
 ---
 
@@ -132,17 +140,9 @@ Correct me if I'm wrong, maybe I've been out of touch with recent developments b
 
 **[Need ETH to pay fees](https://www.reddit.com/r/ethereum/comments/1q8eqq6/need_eth_to_pay_fees/)**
 
-If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw
+If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw  [comments]
 
-10h ago
-
----
-
-**[Daily General Discussion January 08, 2026](https://www.reddit.com/r/ethereum/comments/1q73z24/daily_general_discussion_january_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
+11h ago
 
 ---
 
@@ -158,11 +158,21 @@ Decrypt • 1d ago
 
 ---
 
+**[How SharpLink’s US$170 Million Ethereum Linea Deployment Will Impact SharpLink Gaming (SBET) Investors](https://simplywall.st/stocks/us/consumer-services/nasdaq-sbet/sharplink-gaming/news/how-sharplinks-us170-million-ethereum-linea-deployment-will)**
+
+SharpLink Gaming recently deployed US$170 million worth of Ethereum to the Linea layer-2 network as part of a multi‑year effort to enhance on-chain yields from its crypto treasury.
+As the world’s second-largest corporate holder of Ethereum, SharpLink’s move could become a reference point for how publicly listed companies structure institutional-grade decentralized finance activity.
+Next, we’ll explore how this Ethereum deployment to Linea influences SharpLink’s investment narrative,...
+
+simplywall.st • 2h ago
+
+---
+
 **[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -170,7 +180,7 @@ Yahoo Finance • 21h ago
 
 Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -188,14 +198,6 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
-
-Bit Digital • 2d ago
-
----
-
 **[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
@@ -204,11 +206,11 @@ The Motley Fool • 17h ago
 
 ---
 
-**[Ethereum Steadies Near $3,100, But Trend Remains Under Pressure (Technical Analysis)](https://seekingalpha.com/article/4858443-ethereum-steadies-near-3100-trend-remains-under-pressure-technical-analysis)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
 
-Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
 
-Seeking Alpha • 9h ago
+Bit Digital • 2d ago
 
 ---
 
@@ -216,7 +218,7 @@ Seeking Alpha • 9h ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 9h ago
+Coinpedia Fintech News • 10h ago
 
 ---
 
@@ -248,7 +250,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 6K • 👍 250 • 💬 38 • ⏱️ 52:02 • 16h ago
+👁️ 6K • 👍 250 • 💬 38 • ⏱️ 52:02 • 17h ago
 
 ---
 
@@ -258,7 +260,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 153 • 💬 52 • ⏱️ 17:54 • 4h ago
+👁️ 3K • 👍 153 • 💬 52 • ⏱️ 17:54 • 5h ago
 
 ---
 
@@ -268,7 +270,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 5K • 👍 304 • 💬 34 • ⏱️ 15:28 • 8h ago
+👁️ 5K • 👍 304 • 💬 34 • ⏱️ 15:28 • 9h ago
 
 ---
 
@@ -288,7 +290,7 @@ Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-t
 
 📺 Coin Bureau
 
-👁️ 11K • 👍 633 • 💬 33 • ⏱️ 46:28 • 3h ago
+👁️ 11K • 👍 633 • 💬 33 • ⏱️ 46:28 • 4h ago
 
 ---
 
@@ -298,7 +300,7 @@ Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-t
 
 📺 Stock Moe
 
-👁️ 13K • 👍 828 • 💬 78 • ⏱️ 12:30 • 14h ago
+👁️ 13K • 👍 828 • 💬 78 • ⏱️ 12:30 • 15h ago
 
 ---
 

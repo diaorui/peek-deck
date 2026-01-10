@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T04:09:23.229668+00:00'
+updated: '2026-01-10T04:54:40.551092+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 04:09 UTC  
+**Last Updated:** January 10, 2026 at 04:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,15 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
+
+1h ago
+
+---
+
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -42,7 +48,7 @@ Robotics research and industry news
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +56,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +64,7 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
 
-11h ago
+12h ago
 
 ---
 
@@ -70,29 +76,23 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 ---
 
-**[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
-
-51m ago
-
----
-
 **[Those with 3D Printers: ABS yes or no?](https://www.reddit.com/r/robotics/comments/1q8lee2/those_with_3d_printers_abs_yes_or_no/)**
 
 Hi, I’m looking to get into robotics as a hobby. I’m currently learning Arduino using a starter kit, and I’m planning to buy a 3D printer (I have some experience with an Ender 3 Pro V1). For those who build prototypes and robots using 3D printing: do you really need to print in ABS? Back when I started, it was considered one of the strongest materials, but I’m not sure if that’s still the case or if it’s still the standard. From what I’ve seen, most people seem to use PLA or, even more often, PETG. This is mainly to help me decide whether it’s worth getting an open or an enclosed printer, which makes a big difference in the budget where I live.
 
-6h ago
-
----
-
-**[Robot soccer](https://www.reddit.com/r/robotics/comments/1q8fqtb/robot_soccer/)**
-
-9h ago
+7h ago
 
 ---
 
 **[Dueling Pianos with Humanoids @ CES](https://www.reddit.com/r/robotics/comments/1q8gpa5/dueling_pianos_with_humanoids_ces/)**
 
-9h ago
+10h ago
+
+---
+
+**[Robot soccer](https://www.reddit.com/r/robotics/comments/1q8fqtb/robot_soccer/)**
+
+10h ago
 
 ---
 
@@ -136,19 +136,19 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
-
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
-
-NVIDIA Developer • 1d ago
-
----
-
 **[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
 
 Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
 
 The Times of Israel • 2d ago
+
+---
+
+**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+
+Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+
+NVIDIA Developer • 1d ago
 
 ---
 
@@ -160,6 +160,14 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[Robots that can do laundry and more, plus unrolling laptops: the standout tech from CES 2026](https://www.theguardian.com/technology/2026/jan/09/robots-that-can-do-laundry-and-more-plus-unrolling-laptops-the-standout-tech-from-ces-2026)**
+
+Robot vacuums that can climb stairs and device for BlackBerry lovers also on display at annual Las Vegas tech show
+
+The Guardian • 13h ago
+
+---
+
 **[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
 
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
@@ -168,19 +176,11 @@ CNBC • 15h ago
 
 ---
 
-**[AI, chips, and robots dominated CES 2026. It's just the beginning.](https://finance.yahoo.com/news/ai-chips-and-robots-dominated-ces-2026-its-just-the-beginning-192942893.html)**
+**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
 
-CES 2026 is in full swing in Las Vegas. Thousands of attendees have flooded the city's hotels and Las Vegas Convention Center, perusing the various products and devices on display at the tech industry's biggest event of the year.
+CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
 Yahoo Finance • 1d ago
-
----
-
-**[Humanoid Robots Folding Laundry and Snapping Photos Are All Over CES This Year](https://robbreport.com/gear/personal-technology/humanoid-robots-ces-1237497312/)**
-
-Humanoid robots were the stars of the show at CES 2026, with the physical AI tech showing off how it can fold laundry, deal cards, and more.
-
-Robb Report • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday lif
 
 📺 Hyundai Motor Group
 
-👁️ 438K • 👍 241 • 💬 2 • ⏱️ 0:47 • 2d ago
+👁️ 438K • 👍 241 • 💬 2 • ⏱️ 0:47 • 3d ago
 
 ---
 
@@ -254,7 +254,7 @@ The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mo
 
 📺 Dip Knows
 
-👁️ 463K • 👍 2K • 💬 15 • ⏱️ 0:24 • 5d ago
+👁️ 463K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
 
 ---
 
@@ -284,7 +284,7 @@ Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robo
 
 📺 Hyundai Motor Group
 
-👁️ 570K • 👍 23 • 💬 1 • ⏱️ 0:59 • 2d ago
+👁️ 570K • 👍 23 • 💬 1 • ⏱️ 0:59 • 3d ago
 
 ---
 
