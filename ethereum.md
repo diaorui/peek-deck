@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T13:29:56.122565+00:00'
+updated: '2026-01-10T13:48:12.416738+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 13:29 UTC  
+**Last Updated:** January 10, 2026 at 13:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
+**24h:** +0.5%  
 **7d:** -1.7%  
 **30d:** +0.4%  
 **90d:** -27.1%  
@@ -88,7 +88,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 4h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 5h ago
 
 ---
 
@@ -150,11 +150,19 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 ## Google News: "ethereum"
 
+**[2026 Breakout Alert: CNBC Picks XRP Over Bitcoin and Ethereum](https://coinpaper.com/13590/2026-breakout-alert-cnbc-picks-xrp-over-bitcoin-and-ethereum)**
+
+CNBC names XRP, not Bitcoin or Ethereum, as 2026’s breakout crypto after a 25% surge to $2.40, sparking renewed investor interest.
+
+Coinpaper • 3d ago
+
+---
+
 **[Bitcoin, Ethereum lie flat following negative ETF flows](https://finance.yahoo.com/news/bitcoin-ethereum-lie-flat-following-103347204.html)**
 
 Investors started January by pumping over $1.5 billion into US crypto ETFs. But this week they redeemed over $1.3 billion from the products. Bitcoin and Ethereum have now lost their gains.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -163,6 +171,14 @@ Yahoo Finance • 2h ago
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
 The Motley Fool • 4h ago
+
+---
+
+**[Crypto Investment Flow 2025: Investors Are Dumping BTC for ETH, XRP and SOL](https://finance.yahoo.com/news/crypto-investment-flow-2025-investors-100715500.html)**
+
+Crypto investment products attracted nearly $47 billion in inflows in 2025. Bitcoin inflows fell 35% year over year as capital rotated into Ethereum, Solana, and ...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -177,14 +193,6 @@ CoinDesk • 1d ago
 **[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
 
 The Block • 2d ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
-
-Bit Digital • 2d ago
 
 ---
 
@@ -208,23 +216,15 @@ TradingView — Track All Markets • 12h ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 18h ago
+Coinpedia Fintech News • 19h ago
 
 ---
 
-**[Ethereum (ETH-USD) Steadies Near $3,100, Trend Remains Under Pressure (Technical Analysis)](https://seekingalpha.com/article/4858443-ethereum-steadies-near-3100-trend-remains-under-pressure-technical-analysis)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
 
-Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
 
-Seeking Alpha • 18h ago
-
----
-
-**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
-
-Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
-
-AMBCrypto • 1d ago
+Bit Digital • 2d ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 10 • ⏱️ 4:11 • 6h ago
+👁️ 1K • 👍 107 • 💬 10 • ⏱️ 4:11 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 222 • 💬 272 • ⏱️ 17:54 • 13h ago
+👁️ 6K • 👍 222 • 💬 272 • ⏱️ 17:54 • 14h ago
 
 ---
 

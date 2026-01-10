@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T13:29:56.125807+00:00'
+updated: '2026-01-10T13:48:12.421514+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 13:29 UTC  
+**Last Updated:** January 10, 2026 at 13:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,15 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-12h ago
+13h ago
+
+---
+
+**[Kids experimenting with Line follower robot](https://www.reddit.com/r/robotics/comments/1q9457t/kids_experimenting_with_line_follower_robot/)**
+
+CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
+
+15m ago
 
 ---
 
@@ -79,14 +87,6 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
 20h ago
-
----
-
-**[Do you peel your bananas, or do you actually "understand" them?](https://www.reddit.com/r/robotics/comments/1q932l4/do_you_peel_your_bananas_or_do_you_actually/)**
-
-Everyone, do you peel your bananas well? Or do you just peel them to eat the fruit inside? Today, I did something different. I peeled a banana, but instead of the fruit, I ate the peel. And in that moment, I realized a profound truth: Socrates was one of the greatest scientists in history. I have my own interpretation of his wisdom, but I’m curious to see what conclusions you all can draw from philosophy. Take the phrase "Know Thyself." I see this as a fundamental theory of Interaction. A shouts to B: "Know thyself!" B shouts back to A: "Know thyself too!" In this recursive loop of interaction, where do you think you will arrive? Or, if you look at other philosophies, what kind of ultimate conclusion do you reach? I’m curious about your "logic." 랄라라라~
-
-49m ago
 
 ---
 

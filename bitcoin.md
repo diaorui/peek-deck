@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T13:29:56.116583+00:00'
+updated: '2026-01-10T13:48:12.406090+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 13:29 UTC  
+**Last Updated:** January 10, 2026 at 13:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** +0.5%  
 **7d:** -0.9%  
 **30d:** +0.4%  
-**90d:** -21.3%  
+**90d:** -21.4%  
 **1y:** -4.1%  
 
 ---
@@ -107,6 +107,12 @@ Rank #1
 
 ---
 
+**[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
+
+3h ago
+
+---
+
 **[Betterment hacked](https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked/)**
 
 Received this notification just now
@@ -115,7 +121,15 @@ Received this notification just now
 
 ---
 
-**[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
+
+46m ago
+
+---
+
+**[How are you feeling today?](https://www.reddit.com/r/Bitcoin/comments/1q90xr5/how_are_you_feeling_today/)**
+
+How is the sentiment over here? Bullish AF for the long term! Short term it is all just noise, IMHO.
 
 3h ago
 
@@ -124,22 +138,6 @@ Received this notification just now
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
 1d ago
-
----
-
-**[The BTC Halving Spiral still hasn't crossed itself](https://www.reddit.com/r/Bitcoin/comments/1q89rhe/the_btc_halving_spiral_still_hasnt_crossed_itself/)**
-
-https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
-
-22h ago
-
----
-
-**[Is it possible to transfer from an exchange to an independent wallet? (new to this)](https://www.reddit.com/r/Bitcoin/comments/1q8vf4d/is_it_possible_to_transfer_from_an_exchange_to_an/)**
-
-So, yeah, pretty much the question in the title. So I’m pretty familiar with trading stocks, but looking to diversify and maybe get in at a low price point. Seems like the bottom is sort of in here. Anyway, if I buy using an exchange like coinbase is it possible (and reasonably easy for a non-tech person) to move Bitcoin from the exchange to a private wallet? Like if you buy GLD, sure, you (in theory) own physical gold but it’s rare to impossible show up and take your share home. How does this work with BC? Honestly the only thing that’s kept me from getting in way earlier was the tech literacy barrier. But perhaps it’s become easy enough now and you guys have some insight.
-
-8h ago
 
 ---
 
@@ -152,6 +150,18 @@ So, yeah, pretty much the question in the title. So I’m pretty familiar with t
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
 CoinDesk • 17h ago
+
+---
+
+**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
+
+Bloomberg.com • 16h ago
+
+---
+
+**[Bitcoin Price Falls. Cryptos Are Fizzling Again.](https://www.barrons.com/articles/bitcoin-price-today-crypto-selloff-434a0257?gaa_at=eafs&gaa_n=AWEtsqcwLVCL014Ei-fvayXKDEQ5rtbUCoL80L0IbcJj0GmpF9Yn30idxfc2&gaa_ts=69625c09&gaa_sig=x4O5K60qYRqs3feUcYuEzzLrxnyVfaR6wgZCKwua6V6LEAhwZk89Gy40YVdCcLFmZn0oM_pDXBGKwERLn2pekA%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -193,33 +203,19 @@ CNBC • 1d ago
 
 ---
 
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+**[Bitcoin price falls as BlackRock and Fidelity ETFs see heavy outflows](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-blackrock-fidelity-etfs-outflows-104916054.html)**
 
-The Block • 1d ago
+Bitcoin price retreated from recent highs on Thursday as institutional investors locked in profits after a strong start to the year.
 
----
-
-**[Bitcoin, Ethereum lie flat following negative ETF flows](https://finance.yahoo.com/news/bitcoin-ethereum-lie-flat-following-103347204.html)**
-
-Investors started January by pumping over $1.5 billion into US crypto ETFs. But this week they redeemed over $1.3 billion from the products. Bitcoin and Ethereum have now lost their gains.
-
-Yahoo Finance • 2h ago
+Yahoo Finance UK • 2d ago
 
 ---
 
-**[3 Bad Investing Mistakes I Won't Repeat in 2026 and Beyond](https://www.fool.com/investing/2026/01/10/3-bad-investing-mistakes-i-wont-repeat-in-2026/)**
+**[Analysts see “signs of stabilization” for bitcoin ETFs, previous crypto position reduction “behind us”](https://sherwood.news/crypto/analysts-see-signs-of-stabilization-for-bitcoin-etfs-previous-crypto/)**
 
-Last year was a doozy.
+Bitcoin ETFs have seen over $1.1 billion leave the funds in the past three days, but the worst may be over, JPMorgan analysts say....
 
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
-
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
-
-VanEck • 1d ago
+Sherwood News • 21h ago
 
 ---
 
@@ -285,17 +281,17 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 ---
 
-**[Bitfinex Bitcoin thief Ilya Lichtenstein released from prison](https://news.ycombinator.com/item?id=46475999)**
-
-Ilya Lichtenstein had been sentenced to five years in prison after pleading guilty and admitting to the hack of crypto assets valued in the billions of dollars.
-
-⬆️ 2 • 💬 0 • 7d ago • [CNBC](https://www.cnbc.com/2026/01/02/bitcoin-hacker-ilya-lichtenstein-bitfinex-razzlekhan.html)
-
----
-
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
 ⬆️ 1 • 💬 1 • 5d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+
+---
+
+**[Water Heater Mines Bitcoin. It Could Help Solve AI's Energy Problem](https://news.ycombinator.com/item?id=46532869)**
+
+What do you do with the waste heat from computing? Superheat says just take a shower.
+
+⬆️ 1 • 💬 0 • 2d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -329,7 +325,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 288 • ⏱️ 9:19 • 14h ago
+👁️ 40K • 👍 2K • 💬 288 • ⏱️ 9:19 • 15h ago
 
 ---
 
@@ -339,7 +335,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 260 • ⏱️ 17:07 • 14h ago
+👁️ 19K • 👍 1K • 💬 260 • ⏱️ 17:07 • 15h ago
 
 ---
 
@@ -379,7 +375,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 35K • 👍 3K • 💬 115 • ⏱️ 13:55 • 10h ago
+👁️ 35K • 👍 3K • 💬 115 • ⏱️ 13:55 • 11h ago
 
 ---
 
