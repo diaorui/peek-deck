@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T07:20:25.916328+00:00'
+updated: '2026-01-10T07:40:35.275887+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 07:20 UTC  
+**Last Updated:** January 10, 2026 at 07:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -2.1%  
-**30d:** -0.0%  
-**90d:** -27.4%  
-**1y:** -6.1%  
+**24h:** +0.7%  
+**7d:** -1.8%  
+**30d:** +0.3%  
+**90d:** -27.2%  
+**1y:** -5.9%  
 
 ---
 
@@ -154,7 +154,7 @@ Correct me if I'm wrong, maybe I've been out of touch with recent developments b
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -171,16 +171,6 @@ Yahoo Finance • 1d ago
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
 Decrypt • 1d ago
-
----
-
-**[How SharpLink’s US$170 Million Ethereum Linea Deployment Will Impact SharpLink Gaming (SBET) Investors](https://simplywall.st/stocks/us/consumer-services/nasdaq-sbet/sharplink-gaming/news/how-sharplinks-us170-million-ethereum-linea-deployment-will)**
-
-SharpLink Gaming recently deployed US$170 million worth of Ethereum to the Linea layer-2 network as part of a multi‑year effort to enhance on-chain yields from its crypto treasury.
-As the world’s second-largest corporate holder of Ethereum, SharpLink’s move could become a reference point for how publicly listed companies structure institutional-grade decentralized finance activity.
-Next, we’ll explore how this Ethereum deployment to Linea influences SharpLink’s investment narrative,...
-
-simplywall.st • 4h ago
 
 ---
 
@@ -206,19 +196,27 @@ The Block • 2d ago
 
 ---
 
+**[Morgan Stanley Adds Ethereum Trust To Planned Crypto ETF Lineup](https://decrypt.co/353829/morgan-stanley-adds-ethereum-trust-to-planned-crypto-etf-lineup)**
+
+The bank has filed a Form S-1 with the U.S. SEC for an Ethereum Trust, on the heels of its applications for Bitcoin and Solana ETFs.
+
+Decrypt • 2d ago
+
+---
+
+**[Ethereum and Solana ETFs Record Historic Trading Volumes in Early 2026](https://cryptopotato.com/ethereum-and-solana-etfs-record-historic-trading-volumes-in-early-2026/)**
+
+Ethereum and Solana ETF trading accelerated sharply in early January amid increasing institutional interest in crypto assets.
+
+CryptoPotato • 2d ago
+
+---
+
 **[Ethereum price prediction: top reasons ETH may soar in 2026](https://www.tradingview.com/news/invezz:b688b0910094b:0-ethereum-price-prediction-top-reasons-eth-may-soar-in-2026/)**
 
 Ethereum price retreated for three consecutive days, erasing some of the gains made earlier this month. ETH dropped to $3,152, down from this year’s high of $3,300. This article explores the top reasons why ETH price will eventually rebound this year.BitMine Ethereum purchasesOne main reason why th…
 
 TradingView — Track All Markets • 2d ago
-
----
-
-**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
-
-Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
-
-Coinpedia Fintech News • 12h ago
 
 ---
 
@@ -250,7 +248,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 7K • 👍 257 • 💬 38 • ⏱️ 52:02 • 19h ago
+👁️ 7K • 👍 257 • 💬 38 • ⏱️ 52:02 • 20h ago
 
 ---
 
@@ -270,7 +268,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 186 • 💬 48 • ⏱️ 17:54 • 7h ago
+👁️ 4K • 👍 186 • 💬 48 • ⏱️ 17:54 • 8h ago
 
 ---
 
@@ -290,7 +288,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 14K • 👍 849 • 💬 79 • ⏱️ 12:30 • 17h ago
+👁️ 14K • 👍 849 • 💬 79 • ⏱️ 12:30 • 18h ago
 
 ---
 

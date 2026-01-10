@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-10T07:20:25.532610+00:00"
+          "dateModified": "2026-01-10T07:40:34.881199+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -816,6 +816,37 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/MnEzZHdqOXY0aGNnMTbxqoXWifMJUVvT9HZL7fYgkr-twIrTU2BCf6kAC3i6.png?width=640&crop=smart&auto=webp&s=84c47f81b30e0dfc1a19de0f8bebe9e7f893227b" alt="Eagle Pose robot" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/" target="_blank" onclick="event.stopPropagation();">Eagle Pose robot</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768029985.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q8lee2/those_with_3d_printers_abs_yes_or_no/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -880,54 +911,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q8fqtb/robot_soccer/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q8xgq1/struggling_with_ur_robot_faults_and_protective/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/Yjd2MXhzd2Q3ZGNnMerynpYUdKoDiKdiJt6A_izm0LPp91QAC1wKF24ARaAO.png?width=640&crop=smart&auto=webp&s=fe9085d8360361de480bcf0c59008fcbeaeb58a2" alt="Robot soccer" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1q8fqtb/robot_soccer/" target="_blank" onclick="event.stopPropagation();">Robot soccer</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1767982405.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q8lc77/build_vs_buy/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/tQsr_Sm5VA4S_4HrV3ytW1Nr5zaTdj_LBxINxIlL2Sc.jpeg?width=320&crop=smart&auto=webp&s=1e5da3c5f6e7f596dda473df0d1bddac16b324e9" alt="Build vs. Buy" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1q8lc77/build_vs_buy/" target="_blank" onclick="event.stopPropagation();">Build vs. Buy</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1q8xgq1/struggling_with_ur_robot_faults_and_protective/" target="_blank" onclick="event.stopPropagation();">Struggling with UR Robot Faults and Protective Stops</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Are we finally at the point where buying QDD actuators is cheaper/better than building them? I just watched a video by Kayden Knapik on the Robstride QDD actuators. For a long time, if you wanted a dynamic walking robot (like Spot or the Disney robot), you had two choices: Spend a fortune on industrial actuators ($500+ each). Build your own 3D printed cycloidal drives (painful assembly, reliability issues). The test results from the video were surprisingly solid: Model: Robstride 02 Specs: Rated 6Nm continuous / 17Nm stall. Reality: The bench test with a 50cm arm actually confirmed these numbers (holding ~3.4kg at 50cm). Control: Simple CAN bus setup. It seems we are hitting the sweet spot where hardware is becoming accessible for hobbyists. Are you still printing your own actuators, or are you switching to these commercial QDDs?
+                            I keep seeing the same issue come up with Universal Robots setups (I am assuming this is also common across other robotic arm brands too), so I wanted to sanity-check with people who work with these day to day. When a UR robot goes into a protective stop / fault that’s intermittent, how do you usually figure out what led up to it? For example: Something runs fine for hours or days. Then suddenly faults. Logs are there, but it’s hard to reconstruct the sequence of robot state, IO, forces, program context, etc. right before the stop In practice, do you: Scrape logs manually? Add ad-hoc script logging? Reproduce by trial-and-error? Just wait for it to happen again? I’m especially curious: What’s the most annoying fault you’ve had to debug recently? How much time does this kind of issue usually cost you (or your customer)? I am just genuinely trying to understand how people deal with this today and whether I’m missing something obvious.
                         </div>
                         
 
@@ -936,25 +934,10 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1767995142.0"></span>
+                                    <span data-timestamp="1768028593.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.youtube.com/watch?v=yhRF3-3SX4Y" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.youtube.com/s/desktop/5d0caf43/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>youtube.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -984,7 +967,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-10T06:32:27.762448+00:00">Updated 2026-01-10T06:32:27.762448+00:00</small>
+        <small data-timestamp="2026-01-10T07:40:18.211328+00:00">Updated 2026-01-10T07:40:18.211328+00:00</small>
     </div>
 </div>
 
@@ -1371,6 +1354,126 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/YbNZdQxXBvlGWEItr8E2TA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/101c8110-ecb3-11f0-b7ff-b79ea4e6a051');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html" target="_blank" onclick="event.stopPropagation();">AI and robotics stole the show at CES 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1767891503.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand-journal/mobility-solution/251218-ces-2026/thumbnail/hyundai-ces-robotics-future-social2.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday" target="_blank" onclick="event.stopPropagation();">CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
+people and production.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hyundai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="hyundai.com" class="news-favicon">
+                                    <a href="https://www.hyundai.com" target="_blank" onclick="event.stopPropagation();">hyundai.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1767938699.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.hyundainews.com/releases/4664', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.hyundainews.com/releases/4664" target="_blank" onclick="event.stopPropagation();">Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hyundainews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="HyundaiNews.com" class="news-favicon">
+                                    <a href="https://www.hyundainews.com" target="_blank" onclick="event.stopPropagation();">HyundaiNews.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1767660743.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/Thumbnails-for-IE-articles-CES-2026-Humanoid.jpg');"></div>
@@ -1453,129 +1556,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/ai-chips-and-robots-dominated-ces-2026-its-just-the-beginning-192942893.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/EiwQIdNXb5fAz3f5OTY8pg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/21e18790-eb43-11f0-bf8f-ed33235a4fdd');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/ai-chips-and-robots-dominated-ces-2026-its-just-the-beginning-192942893.html" target="_blank" onclick="event.stopPropagation();">AI, chips, and robots dominated CES 2026. It's just the beginning.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            CES 2026 is in full swing in Las Vegas. Thousands of attendees have flooded the city's hotels and Las Vegas Convention Center, perusing the various products and devices on display at the tech industry's biggest event of the year.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767865205.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://robbreport.com/gear/personal-technology/humanoid-robots-ces-1237497312/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://robbreport.com/wp-content/uploads/2026/01/sharpa-robot-photo.jpg?w=681&h=383&crop=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://robbreport.com/gear/personal-technology/humanoid-robots-ces-1237497312/" target="_blank" onclick="event.stopPropagation();">Humanoid Robots Folding Laundry and Snapping Photos Are All Over CES This Year</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Humanoid robots were the stars of the show at CES 2026, with the physical AI tech showing off how it can fold laundry, deal cards, and more.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://robbreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Robb Report" class="news-favicon">
-                                    <a href="https://robbreport.com" target="_blank" onclick="event.stopPropagation();">Robb Report</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767826800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims4/default/70e9fad/2147483647/strip/true/crop/1800x945+0+112/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F1b%2Fa50e31874fb28859153c078978c4%2Frobotics-aquatonomy.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics" target="_blank" onclick="event.stopPropagation();">Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wesa.fm&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="90.5 WESA" class="news-favicon">
-                                    <a href="https://www.wesa.fm" target="_blank" onclick="event.stopPropagation();">90.5 WESA</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767782040.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1596,7 +1576,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-10T06:32:40.821576+00:00">Updated 2026-01-10T06:32:40.821576+00:00</small>
+        <small data-timestamp="2026-01-10T07:40:32.774693+00:00">Updated 2026-01-10T07:40:32.774693+00:00</small>
     </div>
 </div>
 

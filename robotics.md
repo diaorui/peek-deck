@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T07:20:25.919512+00:00'
+updated: '2026-01-10T07:40:35.279175+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 07:20 UTC  
+**Last Updated:** January 10, 2026 at 07:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-6h ago
+7h ago
 
 ---
 
@@ -76,6 +76,12 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 ---
 
+**[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
+
+14m ago
+
+---
+
 **[Those with 3D Printers: ABS yes or no?](https://www.reddit.com/r/robotics/comments/1q8lee2/those_with_3d_printers_abs_yes_or_no/)**
 
 Hi, I’m looking to get into robotics as a hobby. I’m currently learning Arduino using a starter kit, and I’m planning to buy a 3D printer (I have some experience with an Ender 3 Pro V1). For those who build prototypes and robots using 3D printing: do you really need to print in ABS? Back when I started, it was considered one of the strongest materials, but I’m not sure if that’s still the case or if it’s still the standard. From what I’ve seen, most people seem to use PLA or, even more often, PETG. This is mainly to help me decide whether it’s worth getting an open or an enclosed printer, which makes a big difference in the budget where I live.
@@ -90,17 +96,11 @@ Hi, I’m looking to get into robotics as a hobby. I’m currently learning Ardu
 
 ---
 
-**[Robot soccer](https://www.reddit.com/r/robotics/comments/1q8fqtb/robot_soccer/)**
+**[Struggling with UR Robot Faults and Protective Stops](https://www.reddit.com/r/robotics/comments/1q8xgq1/struggling_with_ur_robot_faults_and_protective/)**
 
-13h ago
+I keep seeing the same issue come up with Universal Robots setups (I am assuming this is also common across other robotic arm brands too), so I wanted to sanity-check with people who work with these day to day. When a UR robot goes into a protective stop / fault that’s intermittent, how do you usually figure out what led up to it? For example: Something runs fine for hours or days. Then suddenly faults. Logs are there, but it’s hard to reconstruct the sequence of robot state, IO, forces, program context, etc. right before the stop In practice, do you: Scrape logs manually? Add ad-hoc script logging? Reproduce by trial-and-error? Just wait for it to happen again? I’m especially curious: What’s the most annoying fault you’ve had to debug recently? How much time does this kind of issue usually cost you (or your customer)? I am just genuinely trying to understand how people deal with this today and whether I’m missing something obvious.
 
----
-
-**[Build vs. Buy](https://www.reddit.com/r/robotics/comments/1q8lc77/build_vs_buy/)**
-
-Are we finally at the point where buying QDD actuators is cheaper/better than building them? I just watched a video by Kayden Knapik on the Robstride QDD actuators. For a long time, if you wanted a dynamic walking robot (like Spot or the Disney robot), you had two choices: Spend a fortune on industrial actuators ($500+ each). Build your own 3D printed cycloidal drives (painful assembly, reliability issues). The test results from the video were surprisingly solid: Model: Robstride 02 Specs: Rated 6Nm continuous / 17Nm stall. Reality: The bench test with a 50cm arm actually confirmed these numbers (holding ~3.4kg at 50cm). Control: Simple CAN bus setup. It seems we are hitting the sweet spot where hardware is becoming accessible for hobbyists. Are you still printing your own actuators, or are you switching to these commercial QDDs?
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=yhRF3-3SX4Y) • 9h ago
+37m ago
 
 ---
 
@@ -146,6 +146,29 @@ The Times of Israel • 2d ago
 
 ---
 
+**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
+
+CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[CES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry](https://www.hyundai.com/worldwide/en/brand-journal/mobility-solution/ces-2026-robotics-mediaday)**
+
+At the CES 2026, Hyundai presented its vision for the future where AI robotics empowers 
+people and production.
+
+hyundai.com • 1d ago
+
+---
+
+**[Hyundai Motor Group Announces AI Robotics Strategy to Lead Human-Centered Robotics Era at CES 2026](https://www.hyundainews.com/releases/4664)**
+
+HyundaiNews.com • 4d ago
+
+---
+
 **[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
 
 Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
@@ -159,30 +182,6 @@ Interesting Engineering • 2d ago
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
 CNBC • 18h ago
-
----
-
-**[AI, chips, and robots dominated CES 2026. It's just the beginning.](https://finance.yahoo.com/news/ai-chips-and-robots-dominated-ces-2026-its-just-the-beginning-192942893.html)**
-
-CES 2026 is in full swing in Las Vegas. Thousands of attendees have flooded the city's hotels and Las Vegas Convention Center, perusing the various products and devices on display at the tech industry's biggest event of the year.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Humanoid Robots Folding Laundry and Snapping Photos Are All Over CES This Year](https://robbreport.com/gear/personal-technology/humanoid-robots-ces-1237497312/)**
-
-Humanoid robots were the stars of the show at CES 2026, with the physical AI tech showing off how it can fold laundry, deal cards, and more.
-
-Robb Report • 2d ago
-
----
-
-**[Crawl, swim, fly: Behind the robotics ripple in Pittsburgh’s economy](https://www.wesa.fm/economy-business/2026-01-07/pittsburgh-carnegie-mellon-robots-rivers-field-robotics)**
-
-Robotics research and spin-off companies has been a constant in Pittsburgh, but getting the companies to grow locally has been a challenge. With new companies and funding, the current could be picking up.
-
-90.5 WESA • 2d ago
 
 ---
 

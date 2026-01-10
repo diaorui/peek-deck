@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T07:20:25.910410+00:00'
+updated: '2026-01-10T07:40:35.269781+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 07:20 UTC  
+**Last Updated:** January 10, 2026 at 07:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -1.1%  
-**30d:** +0.3%  
-**90d:** -21.5%  
-**1y:** -4.2%  
+**24h:** +0.8%  
+**7d:** -0.8%  
+**30d:** +0.5%  
+**90d:** -21.3%  
+**1y:** -4.0%  
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
+**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-16h ago
+7h ago
 
 ---
 
@@ -89,9 +89,9 @@ Rank #1
 
 ---
 
-**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
+**[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-7h ago
+16h ago
 
 ---
 
@@ -113,7 +113,13 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-16h ago
+17h ago
+
+---
+
+**[“They said Bitcoin won’t make you happy “ BTC holders in 2030 :](https://www.reddit.com/r/Bitcoin/comments/1q8xiwl/they_said_bitcoin_wont_make_you_happy_btc_holders/)**
+
+33m ago
 
 ---
 
@@ -139,14 +145,6 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 ---
 
-**[Taking profits](https://www.reddit.com/r/Bitcoin/comments/1q7xnak/taking_profits/)**
-
-I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -159,17 +157,17 @@ Fortune • 13h ago
 
 ---
 
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
-
-The Block • 22h ago
-
----
-
 **[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
 CoinDesk • 1d ago
+
+---
+
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+
+The Block • 23h ago
 
 ---
 
@@ -181,7 +179,7 @@ CNBC • 19h ago
 
 ---
 
-**[Bitcoin at $2.9 million by 2050: VanEck explains its base case valuation](https://www.coindesk.com/markets/2026/01/09/asset-manager-vaneck-explains-how-one-bitcoin-could-be-worth-usd2-9-million-by-2050)**
+**[Bitcoin at $2.9 million by 2050: VanEck explains its base case valuation for BTC](https://www.coindesk.com/markets/2026/01/09/asset-manager-vaneck-explains-how-one-bitcoin-could-be-worth-usd2-9-million-by-2050)**
 
 A $2.9 million bitcoin sounds extreme — until you see how VanEck frames its long-term base case.
 
@@ -197,33 +195,33 @@ Yahoo Finance • 11h ago
 
 ---
 
-**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
-
-The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
-
-CoinDesk • 18h ago
-
----
-
-**[Crypto Market Cools as Bitcoin Stays Within Death Cross: Analysis](https://finance.yahoo.com/news/crypto-market-cools-bitcoin-stays-191350316.html)**
-
-The post-New Year rally fizzled fast. Bitcoin is back in death cross territory, and the charts aren't giving bulls much to celebrate.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
 Bloomberg.com • 10h ago
 
 ---
 
-**[Cathie Wood Says US May Start Buying Bitcoin for Reserve](https://bitbo.io/news/wood-us-bitcoin-reserve-buying/)**
+**[Bitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters](https://bitcoinmagazine.com/markets/bitcoin-price-holds-90000-tariff-delay)**
 
-ARK Invest founder Cathie Wood said the Trump administration could begin buying bitcoin to build out the US strategic bitcoin reserve beyond confiscated holdings.
+The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
 
-Bitbo • 22h ago
+Bitcoin Magazine • 12h ago
+
+---
+
+**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
+
+Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
+
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
+
+VanEck • 1d ago
 
 ---
 
@@ -313,7 +311,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 85 • ⏱️ 17:07 • 8h ago
+👁️ 14K • 👍 1K • 💬 85 • ⏱️ 17:07 • 9h ago
 
 ---
 

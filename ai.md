@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T07:20:25.901891+00:00'
+updated: '2026-01-10T07:40:35.260983+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 07:20 UTC  
+**Last Updated:** January 10, 2026 at 07:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 5h ago
-
----
-
-**[Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room](https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/)**
-
-I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
-
-6h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 6h ago
 
 ---
 
@@ -61,11 +53,11 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 ---
 
-**[Musk lawsuit over OpenAI for-profit conversion can go to trial, US judge says](https://www.reddit.com/r/artificial/comments/1q82r2v/musk_lawsuit_over_openai_forprofit_conversion_can/)**
+**[Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room](https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/)**
 
-Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
+I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 23h ago
+7h ago
 
 ---
 
@@ -73,7 +65,31 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
 
-2h ago
+3h ago
+
+---
+
+**[Has the global population already been "primed" to mass adopt new innovations like LLM's en masse? The state of tech literacy now vs pre-dotcom bubble](https://www.reddit.com/r/artificial/comments/1q8y053/has_the_global_population_already_been_primed_to/)**
+
+I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
+
+5m ago
+
+---
+
+**[Where and How AI Self-Consciousness Could Emerge](https://www.reddit.com/r/artificial/comments/1q8xs4b/where_and_how_ai_selfconsciousness_could_emerge/)**
+
+I have created the blog post where i share my vision of the problem of "AI Self-consciousness". There is a lot of buzz around the topic. In my article i outline that: The Large Language Model (LLM) alone cannot be self-conscious; it is a static, statistical model. Current AI agent architectures are primarily reactive and lack the continuous, dynamic complexity required for self-consciousness. The path to self-consciousness requires a new, dynamic architecture featuring a proactive memory system, multiple asynchronous channels, a dedicated reflection loop, and an affective evaluation system. Rich, sustained interaction with multiple distinct individuals is essential for developing a sense of self-awareness in comparison to others. I suggest the common architecture for AI agent where Self-consciousness could emerge in the future.
+
+🔗 [gelembjuk.com](https://gelembjuk.com/blog/post/where-and-how-ai-self-consciousness-could-emerge/) • 18m ago
+
+---
+
+**[Musk lawsuit over OpenAI for-profit conversion can go to trial, US judge says](https://www.reddit.com/r/artificial/comments/1q82r2v/musk_lawsuit_over_openai_forprofit_conversion_can/)**
+
+Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 23h ago
 
 ---
 
@@ -101,22 +117,6 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 ---
 
-**[Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs](https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/)**
-
-I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
-
-16h ago
-
----
-
-**[Linus Torvalds: "The AI slop issue is *NOT* going to be solved with documentation"](https://www.reddit.com/r/artificial/comments/1q79tmh/linus_torvalds_the_ai_slop_issue_is_not_going_to/)**
-
-The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,23 +125,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 8h ago
-
----
-
-**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
-
-From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
-
-NBC News • 21h ago
-
----
-
-**[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
-
-Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
-
-BBC • 21h ago
+The Atlantic • 9h ago
 
 ---
 
@@ -151,11 +135,11 @@ The New York Times • 10h ago
 
 ---
 
-**[Grok turns off image generator for most users after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)**
+**[Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban)**
 
-X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
+Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
 
-The Guardian • 23h ago
+The Guardian • 11h ago
 
 ---
 
@@ -167,17 +151,39 @@ BBC • 9h ago
 
 ---
 
-**[See how AI images claiming to reveal Minneapolis ICE agent’s face spread confusion](https://www.washingtonpost.com/technology/2026/01/09/ai-unmask-shooting-ice-minneapolis/)**
+**[This Artificial Intelligence (AI) Stock Is a Drop-Dead Bargain. And It Might Not Last Long](https://www.fool.com/investing/2026/01/10/this-artificial-intelligence-ai-stock-is-a-drop-de/)**
 
-The Washington Post • 13h ago
+Figma looks set for a breakout this year.
+
+The Motley Fool • 10m ago
 
 ---
 
-**[Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)**
+**[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
 
-A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.
+Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-Quanta Magazine • 15h ago
+BBC • 21h ago
+
+---
+
+**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
+
+From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
+
+NBC News • 21h ago
+
+---
+
+**[DeepSeek To Release Next Flagship AI Model With Strong Coding Ability](https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability)**
+
+The Information • 18h ago
+
+---
+
+**[See how AI images claiming to reveal Minneapolis ICE agent’s face spread confusion](https://www.washingtonpost.com/technology/2026/01/09/ai-unmask-shooting-ice-minneapolis/)**
+
+The Washington Post • 13h ago
 
 ---
 
@@ -189,21 +195,13 @@ CNBC • 20h ago
 
 ---
 
-**[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://finance.yahoo.com/news/meta-signs-multi-gigawatt-nuclear-112234780.html)**
-
-The agreements could end up totaling more than 6 gigawatts, enough to power a city of about 5 million homes.  While Meta didn’t disclose the value of the contracts, agreements of this size can easily represent billions of dollars in total revenue for electricity generators.  Meta said Friday it will purchase electricity from three existing Vistra Corp. plants and support several small reactors that Sam Altman-backed Oklo Inc. and Bill Gates-backed TerraPower LLC are planning to build over the next decade.
-
-Yahoo Finance • 15h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 752 • 💬 286 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 753 • 💬 287 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -211,7 +209,7 @@ Yahoo Finance • 15h ago
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 545 • 💬 384 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 546 • 💬 384 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -219,7 +217,7 @@ Yahoo Finance • 15h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 440 • 💬 707 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 441 • 💬 707 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -229,7 +227,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 358 • 💬 212 • 8h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 386 • 💬 223 • 9h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -237,7 +235,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 257 • 💬 118 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 258 • 💬 118 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -261,7 +259,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 98 • 💬 146 • 13h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 106 • 💬 152 • 13h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -273,11 +271,11 @@ X to limit editing function to paying subscribers after platform threatened with
 
 ---
 
-**[Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://news.ycombinator.com/item?id=46543933)**
+**[Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://news.ycombinator.com/item?id=46557823)**
 
-Since 2023, every model at the frontier of AI capabilities, as measured by the Epoch Capabilities Index, has been developed in the United States. Over that same period, Chinese models have trailed US capabilities by an average of seven months, with a minimum gap of four months and a maximum gap of 14.
+EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 58 • 💬 87 • 1d ago • [Epoch AI](https://epoch.ai/data-insights/us-vs-china-eci)
+⬆️ 59 • 💬 35 • 12h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -321,7 +319,7 @@ Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Bre
 
 📺 MoreBeckBros
 
-👁️ 70K • 👍 4K • 💬 427 • ⏱️ 26:17 • 8h ago
+👁️ 70K • 👍 4K • 💬 427 • ⏱️ 26:17 • 9h ago
 
 ---
 
@@ -397,7 +395,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 330,354 • ❤️ 712 • 1d ago
+⬇️ 330,354 • ❤️ 712 • 2d ago
 
 ---
 
@@ -671,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 49m ago
+⭐ 2.2k • 🔱 129 • 1h ago
 
 ---
 
@@ -701,7 +699,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 104 • 8h ago
+⭐ 1.3k • 🔱 104 • 9h ago
 
 ---
 
@@ -711,7 +709,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 106 • 16h ago
+⭐ 1.3k • 🔱 106 • 17h ago
 
 ---
 
