@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T03:25:48.326742+00:00'
+updated: '2026-01-10T04:09:23.229668+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 03:25 UTC  
+**Last Updated:** January 10, 2026 at 04:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-17h ago
+18h ago
 
 ---
 
@@ -66,13 +66,13 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
-10h ago
+11h ago
 
 ---
 
 **[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
 
-7m ago
+51m ago
 
 ---
 
@@ -80,7 +80,7 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 Hi, I’m looking to get into robotics as a hobby. I’m currently learning Arduino using a starter kit, and I’m planning to buy a 3D printer (I have some experience with an Ender 3 Pro V1). For those who build prototypes and robots using 3D printing: do you really need to print in ABS? Back when I started, it was considered one of the strongest materials, but I’m not sure if that’s still the case or if it’s still the standard. From what I’ve seen, most people seem to use PLA or, even more often, PETG. This is mainly to help me decide whether it’s worth getting an open or an enclosed printer, which makes a big difference in the budget where I live.
 
-5h ago
+6h ago
 
 ---
 
@@ -92,13 +92,13 @@ Hi, I’m looking to get into robotics as a hobby. I’m currently learning Ardu
 
 **[Dueling Pianos with Humanoids @ CES](https://www.reddit.com/r/robotics/comments/1q8gpa5/dueling_pianos_with_humanoids_ces/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Day 109 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1q83ipu/day_109_of_building_asimov_an_opensource_humanoid/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -164,7 +164,7 @@ Interesting Engineering • 1d ago
 
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -194,7 +194,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 192K • 👍 3K • 💬 484 • ⏱️ 4:29 • 2d ago
+👁️ 199K • 👍 3K • 💬 495 • ⏱️ 4:29 • 2d ago
 
 ---
 
@@ -204,27 +204,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 62K • 👍 1K • 💬 221 • ⏱️ 9:33 • 3d ago
-
----
-
-**[Why humanoid robots still can’t match humans - and what&#39;s holding them back](https://www.youtube.com/watch?v=lwbSvRZh5_E)**
-
-Sky's Rowland Manthorpe is at the biggest tech conference in the world in Las Vegas, seeing first-hand just how close robots ...
-
-📺 Sky News
-
-👁️ 5K • 👍 31 • 💬 22 • ⏱️ 11:07 • 10h ago
-
----
-
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
-
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
-
-📺 Technology Now
-
-👁️ 23K • 👍 295 • 💬 15 • ⏱️ 7:38 • 5d ago
+👁️ 62K • 👍 1K • 💬 233 • ⏱️ 9:33 • 3d ago
 
 ---
 
@@ -238,13 +218,33 @@ The next generation of Atlas is designed to interact with people and understand 
 
 ---
 
+**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+
+CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+
+📺 Technology Now
+
+👁️ 23K • 👍 296 • 💬 15 • ⏱️ 7:38 • 5d ago
+
+---
+
 **[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
 
 MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
 
 📺 Hyundai Motor Group
 
-👁️ 438K • 👍 240 • 💬 2 • ⏱️ 0:47 • 2d ago
+👁️ 438K • 👍 241 • 💬 2 • ⏱️ 0:47 • 2d ago
+
+---
+
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+
+📺 Unitree Robotics
+
+👁️ 5.5M • 👍 4K • 💬 989 • ⏱️ 0:32 • 5d ago
 
 ---
 
@@ -258,33 +258,33 @@ The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mo
 
 ---
 
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 5.4M • 👍 4K • 💬 984 • ⏱️ 0:32 • 5d ago
-
----
-
-**[Minos Is Taking Over War Robots | Stronger Than Ever Before](https://www.youtube.com/watch?v=yECli9SR6pw)**
-
-Minos is one of the best titans in the game right now. After the rebalance the Minos has become one of the best titans in War ...
-
-📺 PREDATOR WR
-
-👁️ 6K • 👍 327 • 💬 77 • ⏱️ 15:49 • 14h ago
-
----
-
 **[CES 2026: Chinese firms dominate robotics sector at tech convention in Las Vegas](https://www.youtube.com/watch?v=Jkzg8qc48JY)**
 
 Robots are no longer what we only see in sci-fi movies. Today, they can be seen walking, dancing and even serving snacks at this ...
 
 📺 CNA
 
-👁️ 36K • 👍 347 • 💬 170 • ⏱️ 3:47 • 2d ago
+👁️ 38K • 👍 356 • 💬 175 • ⏱️ 3:47 • 2d ago
+
+---
+
+**[FULL CES 2026 EVENT: NVIDIA CEO Reveals Physical AI and Autonomous Robots Changing Industries | AI14](https://www.youtube.com/watch?v=UrMnOp2N9Kw)**
+
+Courtesy NVIDIA — All rights reserved. Logo must not be obscured. No resales allowed. Watch the full NVIDIA CES 2026 event ...
+
+📺 DWS News
+
+👁️ 80K • 👍 1K • 💬 104 • ⏱️ 1:33:26 • 4d ago
+
+---
+
+**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
+
+Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
+
+📺 Hyundai Motor Group
+
+👁️ 570K • 👍 23 • 💬 1 • ⏱️ 0:59 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T03:25:48.317441+00:00'
+updated: '2026-01-10T04:09:23.220396+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 03:25 UTC  
+**Last Updated:** January 10, 2026 at 04:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1809.01B
+**Market Cap:** $1806.49B
 Rank #1
 
-**Circulating Supply:** 19,973,800 BTC
+**Circulating Supply:** 19,973,859 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-28.3%
 
 **All-Time Low:** $67.81
-+133499.8%
++133266.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -93,13 +93,13 @@ Received this notification just now
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -107,7 +107,7 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-12h ago
+13h ago
 
 ---
 
@@ -115,7 +115,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
 
-9h ago
+10h ago
 
 ---
 
@@ -123,13 +123,13 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-23h ago
+1d ago
 
 ---
 
 **[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 I am tired boss
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ I am tired boss
 
 Regardless of political position, it is fair to say the US is going through major political changes which is leading to geopolitical shakeups. I worry that the instability and changes will lead to loss of US economic dominance, and possible collapse (although, I acknowledge this is a slim chance). If so, how would one prepare for this? Buy gold and bitcoin? Hoard cash? What would we see? I would think massive inflation. I am starting to become genuinely worried that the US is going to see major financial hardship in the next 5-10 years, and god forbid, collapse.
 
-25m ago
+1h ago
 
 ---
 
@@ -157,13 +157,13 @@ Regardless of political position, it is fair to say the US is going through majo
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 18h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 1d ago
 
 Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -225,7 +225,7 @@ Bitcoin Magazine • 12h ago
 
 Cathie Wood, ARK Invest’s founder and CEO, said she expects the Trump administration could move beyond simply holding seized bitcoin and begin purchasing BTC to build a US strategic reserve, a shift she argued could become a catalytic signal for markets and other governments.Speaking on ARK’s “Bitc…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -267,7 +267,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 18h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 19h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -309,33 +309,13 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ## YouTube Videos: "bitcoin"
 
-**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
-
-2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
-
-📺 Crypto Insider
-
-👁️ 25K • 👍 2K • 💬 79 • ⏱️ 21:00 • 13h ago
-
----
-
 **[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
 
 Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 710 • 💬 73 • ⏱️ 17:07 • 4h ago
-
----
-
-**[Why 2026 Will Shock Every Bitcoin Bear](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
-
-In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
-
-📺 Coinsider
-
-👁️ 8K • 👍 349 • 💬 48 • ⏱️ 10:06 • 1d ago
+👁️ 11K • 👍 971 • 💬 88 • ⏱️ 17:07 • 5h ago
 
 ---
 
@@ -345,17 +325,17 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 9K • 👍 909 • 💬 241 • ⏱️ 10:43 • 11h ago
+👁️ 10K • 👍 986 • 💬 278 • ⏱️ 10:43 • 11h ago
 
 ---
 
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
 
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
 
-📺 Vortex Bitcoin
+📺 Crypto Insider
 
-👁️ 2K • 👍 50 • 💬 8 • ⏱️ 0:49 • 12h ago
+👁️ 27K • 👍 2K • 💬 92 • ⏱️ 21:00 • 14h ago
 
 ---
 
@@ -365,7 +345,27 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 247 • ⏱️ 11:14 • 1d ago
+👁️ 48K • 👍 3K • 💬 247 • ⏱️ 11:14 • 1d ago
+
+---
+
+**[Why 2026 Will Shock Every Bitcoin Bear](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
+
+In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
+
+📺 Coinsider
+
+👁️ 8K • 👍 355 • 💬 50 • ⏱️ 10:06 • 1d ago
+
+---
+
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+
+📺 Paul Barron Network
+
+👁️ 63K • 👍 3K • 💬 326 • ⏱️ 16:13 • 1d ago
 
 ---
 
@@ -379,23 +379,23 @@ While they gaslight you with “everything's fine,” the system is in freefall.
 
 ---
 
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+**[This Crash Is Not NORMAL! This Is Pure Crypto Manipulation - Michael Saylor](https://www.youtube.com/watch?v=rSYUHAJtRaE)**
 
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Paul Barron Network
+📺 Savvy Finance
 
-👁️ 62K • 👍 3K • 💬 321 • ⏱️ 16:13 • 1d ago
+👁️ 16K • 👍 661 • 💬 63 • ⏱️ 16:32 • 1d ago
 
 ---
 
-**[Is It OVER For MicroStrategy? 99.9% of Bitcoin Investors Are Missing THIS | Jeff Walton](https://www.youtube.com/watch?v=Uj10f6tfBKI)**
+**[Bitcoin Stalls At $90K Prior To Clarity Act Decision! What Comes Next?](https://www.youtube.com/watch?v=z_44ZlAlE4g)**
 
-Jeff Walton (Punter Jeff) breaks down what 99.9% of Bitcoin investors are completely missing right now. This goes WAY deeper ...
+Bitcoin #Crypto #Finance Bitcoin's price action has been rough—hesitating and chopping as markets wait for Jan. 15 clarity out of ...
 
-📺 BTC Sessions
+📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 219 • 💬 56 • ⏱️ 17:33 • 7h ago
+👁️ 15K • 👍 654 • 💬 225 • ⏱️ 29:17 • 3h ago
 
 ---
 

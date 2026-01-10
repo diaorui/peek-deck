@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T03:25:48.308552+00:00'
+updated: '2026-01-10T04:09:23.211819+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 03:25 UTC  
+**Last Updated:** January 10, 2026 at 04:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 1h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-12h ago
+13h ago
 
 ---
 
@@ -105,7 +105,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-21h ago
+22h ago
 
 ---
 
@@ -123,13 +123,13 @@ Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1]
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 4h ago
+The Atlantic • 5h ago
 
 ---
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 6h ago
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -145,13 +145,13 @@ The Guardian • 19h ago
 
 On Elon Musk’s social media platform X, the Grok AI image generation reply bot has been changed to be for paying customers only and appears to be restricted from making sexualized deepfakes after recent outcry. But in the Grok standalone app and other spaces, users can still use AI to remove clothing from images of nonconsenting people. NBC News’ Kevin Collier talks with Gadi Schwartz about the changes.
 
-NBC News • 57m ago
+NBC News • 1h ago
 
 ---
 
 **[See how AI images claiming to reveal Minneapolis ICE agent’s face spread confusion](https://www.washingtonpost.com/technology/2026/01/09/ai-unmask-shooting-ice-minneapolis/)**
 
-The Washington Post • 9h ago
+The Washington Post • 10h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Washington Post • 9h ago
 
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -167,7 +167,7 @@ BBC • 17h ago
 
 A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.
 
-Quanta Magazine • 11h ago
+Quanta Magazine • 12h ago
 
 ---
 
@@ -175,7 +175,7 @@ Quanta Magazine • 11h ago
 
 The shortage of primary care doctors is a national problem. To cope, a large health system in Massachusetts is using an AI tool to screen patients and refer them to other care.
 
-NPR • 17h ago
+NPR • 18h ago
 
 ---
 
@@ -183,7 +183,7 @@ NPR • 17h ago
 
 CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ TechCrunch • 4h ago
 
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -227,7 +227,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 266 • 💬 181 • 4h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 266 • 💬 181 • 5h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -283,13 +283,13 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 ## YouTube Videos: "ai"
 
-**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
 
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
+CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
 
-📺 Dan Martell
+📺 AI Revolution
 
-👁️ 28K • 👍 2K • 💬 174 • ⏱️ 19:15 • 13h ago
+👁️ 7K • 👍 419 • 💬 15 • ⏱️ 11:06 • 5h ago
 
 ---
 
@@ -299,7 +299,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 70K • 👍 1K • 💬 54 • ⏱️ 17:54 • 1d ago
+👁️ 73K • 👍 1K • 💬 56 • ⏱️ 17:54 • 1d ago
 
 ---
 
@@ -309,7 +309,27 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 98K • 👍 2K • 💬 145 • ⏱️ 13:08 • 2d ago
+👁️ 100K • 👍 2K • 💬 145 • ⏱️ 13:08 • 2d ago
+
+---
+
+**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 31K • 👍 2K • 💬 186 • ⏱️ 19:15 • 14h ago
+
+---
+
+**[AI LAYOFFS ARE BACKFIRING!](https://www.youtube.com/watch?v=fvhMFdrd-Lw)**
+
+Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ Join the community!
+
+📺 Joshua Fluke
+
+👁️ 38K • 👍 2K • 💬 823 • ⏱️ 5:15 • 15h ago
 
 ---
 
@@ -323,13 +343,13 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 ---
 
-**[Elon Musk&#39;s platform X limits Grok AI image edits to paid users | BBC News](https://www.youtube.com/watch?v=wlxbayQPmTk)**
+**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
 
-Elon Musk's platform X has limited Grok Artificial Intelligence (AI) image edits to paid users after significant backlash over people ...
+Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
 
-📺 BBC News
+📺 MoreBeckBros
 
-👁️ 13K • 👍 297 • 💬 139 • ⏱️ 3:03 • 11h ago
+👁️ 49K • 👍 3K • 💬 377 • ⏱️ 26:17 • 5h ago
 
 ---
 
@@ -339,17 +359,17 @@ Scientists estimate that 80 percent of life on Earth is still unknown to humanit
 
 📺 TED
 
-👁️ 16K • 👍 527 • 💬 45 • ⏱️ 12:52 • 1d ago
+👁️ 17K • 👍 539 • 💬 46 • ⏱️ 12:52 • 1d ago
 
 ---
 
-**[CES 2026 | AI Robotics for a Safer, Smarter Workplace](https://www.youtube.com/watch?v=c4b5m8eZhRI)**
+**[The 10 Most In-Demand AI Skills for 2026](https://www.youtube.com/watch?v=udg_UKml3XY)**
 
-At CES 2026, visitors experience AI Robotics through hands-on demonstrations on the exhibition floor. See how X-ble Shoulder ...
+Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The world of work is changing fast, and the single ...
 
-📺 Hyundai Motor Group
+📺 Ishan Sharma
 
-👁️ 101K • 👍 109 • 💬 1 • ⏱️ 0:33 • 2d ago
+👁️ 10K • 👍 744 • 💬 43 • ⏱️ 10:52 • 14h ago
 
 ---
 
@@ -359,27 +379,7 @@ Repair Tools I Use (Updated Regularly – Includes Soldering Gear): https://www.
 
 📺 Phone Repair Guru
 
-👁️ 235K • 👍 8K • 💬 137 • ⏱️ 0:21 • 22h ago
-
----
-
-**[Google&#39;s Gmail unveils new AI features powered by Gemini](https://www.youtube.com/watch?v=nzlFoQmMSBk)**
-
-CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
-
-📺 CNBC Television
-
-👁️ 17K • 👍 183 • 💬 21 • ⏱️ 3:43 • 1d ago
-
----
-
-**[Build Your First AI Agent with n8n IN 30 Minutes | (NO CODING)](https://www.youtube.com/watch?v=DbU5FXpd6xI)**
-
-Get Hostinger VPS - www.hostinger.com/in/ishan Coupon codes 10% off on 12 month plans - ISHAN 15% off on 24 month plans ...
-
-📺 Ishan Sharma
-
-👁️ 15K • 👍 699 • 💬 47 • ⏱️ 22:26 • 2d ago
+👁️ 241K • 👍 8K • 💬 138 • ⏱️ 0:21 • 23h ago
 
 ---
 
@@ -395,7 +395,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 330,354 • ❤️ 701 • 1d ago
+⬇️ 330,354 • ❤️ 705 • 1d ago
 
 ---
 
@@ -407,31 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 8,048 • ❤️ 693 • 9d ago
-
----
-
-**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
-
-*Qwen*
-
-Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
-
-`text-to-image`
-
-⬇️ 19,738 • ❤️ 552 • 9d ago
-
----
-
-**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
-
-*NVIDIA*
-
-Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
-
-`automatic-speech-recognition`
-
-⬇️ 1,074 • ❤️ 256 • 4d ago
+⬇️ 8,048 • ❤️ 697 • 9d ago
 
 ---
 
@@ -443,7 +419,31 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 3,149 • ❤️ 255 • 2d ago
+⬇️ 3,149 • ❤️ 269 • 2d ago
+
+---
+
+**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
+
+*Qwen*
+
+Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
+
+`text-to-image`
+
+⬇️ 19,738 • ❤️ 553 • 9d ago
+
+---
+
+**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
+
+*NVIDIA*
+
+Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
+
+`automatic-speech-recognition`
+
+⬇️ 1,074 • ❤️ 257 • 4d ago
 
 ---
 
@@ -455,7 +455,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,216 • ❤️ 331 • 4d ago
+⬇️ 30,216 • ❤️ 332 • 4d ago
 
 ---
 
@@ -467,7 +467,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 202,948 • ❤️ 986 • 13d ago
+⬇️ 202,948 • ❤️ 989 • 13d ago
 
 ---
 
@@ -479,7 +479,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 222 • 21h ago
+⬇️ 5,785 • ❤️ 224 • 22h ago
 
 ---
 
@@ -491,7 +491,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 14,705 • ❤️ 296 • 2d ago
+⬇️ 14,705 • ❤️ 297 • 2d ago
 
 ---
 
@@ -503,7 +503,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 308 • ❤️ 185 • 4d ago
+⬇️ 308 • ❤️ 187 • 4d ago
 
 ---
 
@@ -529,7 +529,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 80 • 💬 1 • ⭐ 1,724 • 3d ago
+▲ 81 • 💬 1 • ⭐ 1,724 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -548,35 +548,6 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 ---
 
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
-
-*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
-
-🏢 Microsoft Research
-
-BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
-
-▲ 57 • 💬 5 • ⭐ 25,603 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
-
----
-
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 130 • 💬 18 • ⭐ 49,523 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
 **[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
 *Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
@@ -586,18 +557,6 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 ▲ 3 • 💬 0 • ⭐ 25,605 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 18 • 💬 2 • ⭐ 14,741 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -625,15 +584,58 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
-**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
-*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
 
-LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
+🏢 IBM Granite
 
-▲ 176 • 💬 6 • ⭐ 65,326 • 22mo ago
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
+▲ 130 • 💬 18 • ⭐ 49,553 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
+
+*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
+
+🏢 Microsoft Research
+
+BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
+
+▲ 57 • 💬 5 • ⭐ 25,616 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 18 • 💬 2 • ⭐ 14,768 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
+**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)**
+
+*Shih-Yang Liu, Xin Dong, Ximing Lu et al. (13 authors)*
+
+🏢 NVIDIA
+
+Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
+
+▲ 102 • 💬 6 • ⭐ 64 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
 ---
 
@@ -647,7 +649,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 890 • 9h ago
+⭐ 7.4k • 🔱 893 • 2h ago
 
 ---
 
@@ -667,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 9h ago
+⭐ 2.2k • 🔱 129 • 10h ago
 
 ---
 
@@ -677,7 +679,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 217 • 5d ago
+⭐ 1.9k • 🔱 218 • 5d ago
 
 ---
 
@@ -697,7 +699,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 104 • 4h ago
+⭐ 1.3k • 🔱 104 • 5h ago
 
 ---
 
@@ -707,7 +709,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 105 • 12h ago
+⭐ 1.3k • 🔱 106 • 13h ago
 
 ---
 
@@ -717,17 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 17h ago
-
----
-
-**[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**
-
-A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
-
-`agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
-
-⭐ 1.1k • 🔱 79 • 11d ago
+⭐ 1.2k • 🔱 143 • 18h ago
 
 ---
 
@@ -737,7 +729,17 @@ Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD item
 
 `TypeScript`
 
-⭐ 1.1k • 🔱 190 • 2d ago
+⭐ 1.2k • 🔱 193 • 2d ago
+
+---
+
+**[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**
+
+A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+
+`agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
+
+⭐ 1.1k • 🔱 80 • 11d ago
 
 ---
 
