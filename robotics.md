@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T19:17:10.057137+00:00'
+updated: '2026-01-10T19:38:34.957649+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 19:17 UTC  
+**Last Updated:** January 10, 2026 at 19:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-5h ago
+6h ago
 
 ---
 
 **[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -58,13 +58,13 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-18h ago
+19h ago
 
 ---
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -78,7 +78,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 I wanted to share a project I've been working on called MESGRO. I was looking for a way to host my portfolio that didn't feel like a generic blog or an academic site. Most of the templates I found are great for web developers, but they lack features for when you want to show off CAD, PCB layouts, and firmware snippets all in one place. I built this using Jekyll so it's easy to host on GitHub Pages for free. It’s basically a gallery-style layout specifically for mechatronics/robotics documentation. It's open-source if anyone wants to fork it. I’m looking for feedback, if there’s something specific you guys usually struggle to document in your portfolios, feel free to create a pull request! https://github.com/aojedao/MESGRO If you want to see a real example I built my own portfolio page website with it.
 
-🔗 [GitHub](https://github.com/aojedao/MESGRO) • 1h ago
+🔗 [GitHub](https://github.com/aojedao/MESGRO) • 2h ago
 
 ---
 
@@ -86,7 +86,7 @@ I wanted to share a project I've been working on called MESGRO. I was looking fo
 
 we are an Italian team that's looking forward to start a project aiming to solve problems in the cultural scene, something not generalized like a articulated anthropomorphic robot and neither something that would substitute the human part of the traditions. Something that's still robotic (so not exceedingly based on just software) but specialized to a certain purpose, assisting the diffusion and the discovery of minor cultures to more people.
 
-2h ago
+3h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNET • 1d ago
 
 A cost-effective, robotic apple picker arm developed by Washington State University (WSU) researchers may someday help with fruit picking and other farm chores.
 
-KOMO • 3h ago
+KOMO • 4h ago
 
 ---
 
@@ -136,7 +136,7 @@ KOMO • 3h ago
 
 From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
-Engadget • 3h ago
+Engadget • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 23K • 👍 298 • 💬 15 • ⏱️ 7:38 • 5d ago
+👁️ 23K • 👍 298 • 💬 15 • ⏱️ 7:38 • 6d ago
 
 ---
 
@@ -268,7 +268,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 354 • 👍 262 • 💬 27 • ⏱️ 3:13 • 1h ago
+👁️ 354 • 👍 262 • 💬 27 • ⏱️ 3:13 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ Learn about the KitBot and what it can and cannot do on the field. For more info
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 478 • 👍 10 • 💬 3 • ⏱️ 3:51 • 1h ago
+👁️ 478 • 👍 10 • 💬 3 • ⏱️ 3:51 • 2h ago
 
 ---
 
