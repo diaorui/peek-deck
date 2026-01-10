@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T16:26:57.707787+00:00'
+updated: '2026-01-10T16:48:45.018326+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 16:26 UTC  
+**Last Updated:** January 10, 2026 at 16:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Received this notification just now
 
 How is the sentiment over here? Bullish AF for the long term! Short term it is all just noise, IMHO.
 
-5h ago
+6h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1h ago
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 10m ago
+The Block • 32m ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 14h ago
 
 We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
 
-VanEck • 1d ago
+VanEck • 2d ago
 
 ---
 
@@ -321,7 +321,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 294 • ⏱️ 9:19 • 17h ago
+👁️ 43K • 👍 2K • 💬 294 • ⏱️ 9:19 • 18h ago
 
 ---
 
@@ -371,7 +371,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 261 • ⏱️ 17:07 • 17h ago
+👁️ 20K • 👍 1K • 💬 261 • ⏱️ 17:07 • 18h ago
 
 ---
 
