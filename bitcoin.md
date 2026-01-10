@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T10:44:28.823206+00:00'
+updated: '2026-01-10T11:18:50.161153+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 10:44 UTC  
+**Last Updated:** January 10, 2026 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.86B
+**Market Cap:** $1810.98B
 Rank #1
 
-**Circulating Supply:** 19,973,937 BTC
+**Circulating Supply:** 19,974,018 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.1%
 
 **All-Time Low:** $67.81
-+133377.4%
++133617.7%
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Those who bought Bitcoin at $126k, sold at $80k, and bought again at $94k](https://www.reddit.com/r/Bitcoin/comments/1q8yn3a/those_who_bought_bitcoin_at_126k_sold_at_80k_and/)**
 
-2h ago
+3h ago
 
 ---
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-19h ago
+20h ago
 
 ---
 
 **[“They said Bitcoin won’t make you happy “ BTC holders in 2030 :](https://www.reddit.com/r/Bitcoin/comments/1q8xiwl/they_said_bitcoin_wont_make_you_happy_btc_holders/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,13 +111,13 @@ Rank #1
 
 Received this notification just now
 
-11h ago
+12h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -133,7 +133,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 So, yeah, pretty much the question in the title. So I’m pretty familiar with trading stocks, but looking to diversify and maybe get in at a low price point. Seems like the bottom is sort of in here. Anyway, if I buy using an exchange like coinbase is it possible (and reasonably easy for a non-tech person) to move Bitcoin from the exchange to a private wallet? Like if you buy GLD, sure, you (in theory) own physical gold but it’s rare to impossible show up and take your share home. How does this work with BC? Honestly the only thing that’s kept me from getting in way earlier was the tech literacy barrier. But perhaps it’s become easy enough now and you guys have some insight.
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ So, yeah, pretty much the question in the title. So I’m pretty familiar with t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 16h ago
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 1d ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -197,7 +197,7 @@ VanEck • 1d ago
 
 **[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 1d ago
 
 The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bitcoin Magazine • 15h ago
 
 Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -305,23 +305,23 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 ## YouTube Videos: "bitcoin"
 
+**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
+
+So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
+
+📺 BTC Isla
+
+👁️ 13K • 👍 1K • 💬 282 • ⏱️ 10:43 • 19h ago
+
+---
+
 **[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
 
 Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 87 • ⏱️ 17:07 • 12h ago
-
----
-
-**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
-
-Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 3K • 💬 247 • ⏱️ 11:14 • 1d ago
+👁️ 18K • 👍 1K • 💬 126 • ⏱️ 17:07 • 12h ago
 
 ---
 
@@ -331,17 +331,17 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 843 • 👍 92 • 💬 10 • ⏱️ 7:59 • 4h ago
+👁️ 2K • 👍 162 • 💬 93 • ⏱️ 7:59 • 5h ago
 
 ---
 
-**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
+**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
 
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 106 • ⏱️ 9:19 • 12h ago
+👁️ 49K • 👍 3K • 💬 248 • ⏱️ 11:14 • 1d ago
 
 ---
 
@@ -351,27 +351,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 54K • 👍 3K • 💬 272 • ⏱️ 17:35 • 1d ago
-
----
-
-**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
-
-So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
-
-📺 BTC Isla
-
-👁️ 13K • 👍 1K • 💬 203 • ⏱️ 10:43 • 18h ago
-
----
-
-**[Everyone Is Preparing for the Wrong Bitcoin Year](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
-
-In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
-
-📺 Coinsider
-
-👁️ 8K • 👍 369 • 💬 54 • ⏱️ 10:06 • 1d ago
+👁️ 54K • 👍 3K • 💬 273 • ⏱️ 17:35 • 1d ago
 
 ---
 
@@ -381,17 +361,37 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Crypto Insider
 
-👁️ 32K • 👍 2K • 💬 104 • ⏱️ 21:00 • 20h ago
+👁️ 34K • 👍 2K • 💬 113 • ⏱️ 21:00 • 21h ago
 
 ---
 
-**[🚨 BITCOIN: MSCI ACTIVATES $MSTR TROJAN HORSE 🚀](https://www.youtube.com/watch?v=Brb3JHU5xZs)**
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
 
-📺 BRITISH HODL
+📺 Paul Barron Network
 
-👁️ 13K • 👍 860 • 💬 42 • ⏱️ 8:43 • 2d ago
+👁️ 66K • 👍 3K • 💬 336 • ⏱️ 16:13 • 1d ago
+
+---
+
+**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 36K • 👍 2K • 💬 155 • ⏱️ 9:19 • 12h ago
+
+---
+
+**[BTC Bottom or Bull Trap? 🪤📉 Wild Predictions Inside](https://www.youtube.com/watch?v=e48UwiaFwWQ)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+
+📺 InvestAnswers
+
+👁️ 34K • 👍 3K • 💬 112 • ⏱️ 13:55 • 8h ago
 
 ---
 
@@ -401,7 +401,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 1K • 💬 28 • ⏱️ 43:55 • 2d ago
+👁️ 29K • 👍 1K • 💬 28 • ⏱️ 43:55 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T10:44:28.814083+00:00'
+updated: '2026-01-10T11:18:50.152630+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 10:44 UTC  
+**Last Updated:** January 10, 2026 at 11:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 5h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 6h ago
 
 ---
 
@@ -113,7 +113,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -141,13 +141,13 @@ The Atlantic • 12h ago
 
 Nvidia CEO Jensen Huang said that frequent warnings about AI are dissuading people from making investments in AI's improvement.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
 **[Today’s AI Creates Startups](https://www.forbes.com/sites/johnwerner/2026/01/10/todays-ai-creates-startups/)**
 
-Forbes • 44m ago
+Forbes • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Forbes • 44m ago
 
 Vienna Elementary School’s Vienna.i.Lab is transforming education by introducing students to AI and advanced technology.
 
-WTOP • 40m ago
+WTOP • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ NBC News • 1d ago
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 13h ago
 
 Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Guardian • 14h ago
 
 Elon Musk’s Grok chatbot has limited some of its Imagine image generation features to paid X subscribers, days after international uproar over the AI tool responded to user requests by “digitally undressing” people, including children.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -261,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 113 • 💬 178 • 16h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 113 • 💬 178 • 17h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -277,7 +277,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 62 • 💬 38 • 15h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 62 • 💬 38 • 16h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -285,23 +285,23 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 ## YouTube Videos: "ai"
 
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
-
-Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From NEURA's refined humanoids and AgiBot's full ...
-
-📺 AI Revolution
-
-👁️ 77K • 👍 1K • 💬 57 • ⏱️ 17:54 • 1d ago
-
----
-
 **[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
 
 CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
 
 📺 AI Revolution
 
-👁️ 13K • 👍 568 • 💬 24 • ⏱️ 11:06 • 11h ago
+👁️ 15K • 👍 627 • 💬 29 • ⏱️ 11:06 • 12h ago
+
+---
+
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
+
+Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From NEURA's refined humanoids and AgiBot's full ...
+
+📺 AI Revolution
+
+👁️ 78K • 👍 1K • 💬 61 • ⏱️ 17:54 • 1d ago
 
 ---
 
@@ -311,7 +311,27 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 37K • 👍 2K • 💬 189 • ⏱️ 19:15 • 20h ago
+👁️ 39K • 👍 2K • 💬 202 • ⏱️ 19:15 • 21h ago
+
+---
+
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 1)](https://www.youtube.com/watch?v=zEYIcaQwn6s)**
+
+CES 2026 opened with a clear message: AI has moved out of apps and into physical systems. Robots, home machines, energy ...
+
+📺 AI Revolution
+
+👁️ 103K • 👍 2K • 💬 153 • ⏱️ 13:08 • 2d ago
+
+---
+
+**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
+
+Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
+
+📺 MoreBeckBros
+
+👁️ 100K • 👍 5K • 💬 520 • ⏱️ 26:17 • 12h ago
 
 ---
 
@@ -321,17 +341,17 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 1.4M • 👍 65K • 💬 9K • ⏱️ 17:14 • 2d ago
+👁️ 1.4M • 👍 66K • 💬 9K • ⏱️ 17:14 • 2d ago
 
 ---
 
-**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
+**[AI LAYOFFS ARE BACKFIRING!](https://www.youtube.com/watch?v=fvhMFdrd-Lw)**
 
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ Join the community!
 
-📺 Matthew Berman
+📺 Joshua Fluke
 
-👁️ 33K • 👍 1K • 💬 80 • ⏱️ 14:35 • 1d ago
+👁️ 43K • 👍 2K • 💬 849 • ⏱️ 5:15 • 22h ago
 
 ---
 
@@ -341,17 +361,7 @@ I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISIO
 
 📺 Malva AI
 
-👁️ 15K • 👍 1K • 💬 255 • ⏱️ 10:24 • 1d ago
-
----
-
-**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
-
-Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
-
-📺 TED
-
-👁️ 17K • 👍 559 • 💬 46 • ⏱️ 12:52 • 1d ago
+👁️ 15K • 👍 1K • 💬 260 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -361,27 +371,17 @@ CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
 
 📺 CNBC Television
 
-👁️ 19K • 👍 195 • 💬 21 • ⏱️ 3:43 • 1d ago
+👁️ 19K • 👍 202 • 💬 26 • ⏱️ 3:43 • 1d ago
 
 ---
 
-**[Motorola Learned Nothing From Humane AI... #Shorts](https://www.youtube.com/watch?v=E3PRNqNpyMs)**
+**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
 
-Repair Tools I Use (Updated Regularly – Includes Soldering Gear): https://www.phonerepairguru.com/tools Ask a Question ...
+Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
 
-📺 Phone Repair Guru
+📺 TED
 
-👁️ 250K • 👍 8K • 💬 147 • ⏱️ 0:21 • 1d ago
-
----
-
-**[The 10 Most In-Demand AI Skills for 2026](https://www.youtube.com/watch?v=udg_UKml3XY)**
-
-Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The world of work is changing fast, and the single ...
-
-📺 Ishan Sharma
-
-👁️ 13K • 👍 910 • 💬 48 • ⏱️ 10:52 • 21h ago
+👁️ 18K • 👍 566 • 💬 46 • ⏱️ 12:52 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 496,524 • ❤️ 718 • 2d ago
+⬇️ 496,524 • ❤️ 720 • 2d ago
 
 ---
 
@@ -421,19 +421,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 10,290 • ❤️ 293 • 2d ago
-
----
-
-**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
-
-*Qwen*
-
-Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
-
-`text-to-image`
-
-⬇️ 21,700 • ❤️ 554 • 10d ago
+⬇️ 10,290 • ❤️ 305 • 2d ago
 
 ---
 
@@ -445,7 +433,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,862 • ❤️ 258 • 4d ago
+⬇️ 1,862 • ❤️ 260 • 4d ago
 
 ---
 
@@ -461,6 +449,30 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 ---
 
+**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
+
+*Liquid AI*
+
+LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
+
+`text-generation` `1.2B`
+
+⬇️ 10,162 • ❤️ 232 • 1d ago
+
+---
+
+**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
+
+*Qwen*
+
+Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
+
+`text-to-image`
+
+⬇️ 21,700 • ❤️ 554 • 10d ago
+
+---
+
 **[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
 
 *MiniMax*
@@ -473,27 +485,15 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 ---
 
-**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
+**[MiroThinker-v1.5-235B](https://huggingface.co/miromind-ai/MiroThinker-v1.5-235B)**
 
-*Liquid AI*
+*MiroMind AI*
 
-LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
+MiroThinker-v1.5-235B is a large language model optimized for tool-augmented reasoning and information seeking, featuring interactive scaling for deeper agent-environment interactions. It excels at long-horizon tasks, supporting a 256K context window and up to 400 tool calls, making it ideal for complex research and general QA.
 
-`text-generation` `1.2B`
+`text-generation` `235.1B`
 
-⬇️ 10,162 • ❤️ 230 • 1d ago
-
----
-
-**[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
-
-*IQuest*
-
-IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for autonomous software engineering and general coding assistance, featuring a recurrent mechanism for efficient inference and native 128K context length support.
-
-`text-generation` `39.8B`
-
-⬇️ 23,039 • ❤️ 299 • 2d ago
+⬇️ 1,073 • ❤️ 191 • 3d ago
 
 ---
 
@@ -531,7 +531,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 82 • 💬 1 • ⭐ 1,724 • 3d ago
+▲ 83 • 💬 1 • ⭐ 1,794 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -556,21 +556,9 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 18 • 💬 2 • ⭐ 479 • 4d ago
+▲ 19 • 💬 2 • ⭐ 479 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
-
----
-
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 25,612 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
 
 ---
 
@@ -627,6 +615,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 25,623 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
 **[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)**
 
 *Shih-Yang Liu, Xin Dong, Ximing Lu et al. (13 authors)*
@@ -635,7 +635,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-▲ 107 • 💬 6 • ⭐ 64 • 1d ago
+▲ 111 • 💬 6 • ⭐ 82 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
@@ -651,7 +651,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.5k • 🔱 902 • 5h ago
+⭐ 7.5k • 🔱 908 • 6h ago
 
 ---
 
@@ -671,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 3h ago
+⭐ 2.2k • 🔱 129 • 4h ago
 
 ---
 
@@ -681,7 +681,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 218 • 5d ago
+⭐ 2.0k • 🔱 219 • 5d ago
 
 ---
 
@@ -695,6 +695,16 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 ---
 
+**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
+
+从 0 到 1 学会 vibe coding，项目制学习
+
+`ai` `course` `vibe-coding`
+
+⭐ 1.3k • 🔱 108 • 20h ago
+
+---
+
 **[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)**
 
 Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
@@ -705,23 +715,13 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 ---
 
-**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
-
-从 0 到 1 学会 vibe coding，项目制学习
-
-`ai` `course` `vibe-coding`
-
-⭐ 1.3k • 🔱 107 • 20h ago
-
----
-
 **[snarktank/ralph](https://github.com/snarktank/ralph)**
 
 Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. 
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 201 • 2d ago
+⭐ 1.2k • 🔱 205 • 2d ago
 
 ---
 
