@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T21:19:29.491790+00:00'
+updated: '2026-01-10T21:40:32.627961+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 21:19 UTC  
+**Last Updated:** January 10, 2026 at 21:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,656.79
+### $90,529.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -0.9%  
-**30d:** +0.4%  
+**24h:** -0.1%  
+**7d:** -1.0%  
+**30d:** +0.3%  
 **90d:** -21.4%  
-**1y:** -4.1%  
+**1y:** -4.2%  
 
 ---
 
@@ -111,35 +111,37 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 ---
 
-**[VanEck: small Bitcoin allocation could boost portfolio returns](https://www.reddit.com/r/Bitcoin/comments/1q95l2m/vaneck_small_bitcoin_allocation_could_boost/)**
-
-VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
-
-6h ago
-
----
-
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
 2h ago
 
 ---
 
+**[VanEck: small Bitcoin allocation could boost portfolio returns](https://www.reddit.com/r/Bitcoin/comments/1q95l2m/vaneck_small_bitcoin_allocation_could_boost/)**
+
+VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
+
+7h ago
+
+---
+
+**[Bitcoin recurring buys](https://www.reddit.com/r/Bitcoin/comments/1q9c3yx/bitcoin_recurring_buys/)**
+
+Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
+
+2h ago
+
+---
+
+**[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
+
+5h ago
+
+---
+
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
 11h ago
-
----
-
-**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
-
-21h ago
-
----
-
-**[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
-
-1d ago
 
 ---
 
@@ -155,20 +157,6 @@ CNBC • 1d ago
 
 ---
 
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
-
-The Block • 5h ago
-
----
-
-**[Bitcoin price falls as BlackRock and Fidelity ETFs see heavy outflows](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-blackrock-fidelity-etfs-outflows-104916054.html)**
-
-Bitcoin price retreated from recent highs on Thursday as institutional investors locked in profits after a strong start to the year.
-
-Yahoo Finance UK • 2d ago
-
----
-
 **[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
@@ -177,19 +165,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
+**[Bitcoin Price Falls. Cryptos Are Fizzling Again.](https://www.barrons.com/articles/bitcoin-price-today-crypto-selloff-434a0257?gaa_at=eafs&gaa_n=AWEtsqepl_dol1_za0Ypb4hP_o3J2bRDbhH8_CQ0KECrjPKkFJiXZuVH908R&gaa_ts=6962cabb&gaa_sig=V56zXAB1-Crez_RR40wyzxPCrQQzsXISVTHrQAYPJ9zS1uQBGgWosX2iHxnXWC-pqnc_1Y4N09Z85vqlnRMfxQ%3D%3D)**
 
-The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
-
-CoinDesk • 1d ago
+Barron's • 2d ago
 
 ---
 
-**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
 
-Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
+There's a major pitfall coming up that'll need to be avoided.
 
-CNBC • 2d ago
+The Motley Fool • 19h ago
+
+---
+
+**[3 Types of Cryptocurrencies That Can Diversify a Tech-Heavy Portfolio](https://www.fool.com/investing/2026/01/10/3-cryptocurrencies-that-can-diversify-a-tech-heavy/)**
+
+While many cryptocurrencies are highly correlated with tech, these cryptocurrencies are not.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -213,11 +207,19 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
+**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
 
-There's a major pitfall coming up that'll need to be avoided.
+Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
 
-The Motley Fool • 19h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+
+What we know about the South American country’s crypto holdings.
+
+Fortune • 1d ago
 
 ---
 
@@ -329,7 +331,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 5K • 👍 369 • 💬 324 • ⏱️ 3:25 • 21h ago
+👁️ 5K • 👍 369 • 💬 324 • ⏱️ 3:25 • 22h ago
 
 ---
 
@@ -379,7 +381,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 279 • ⏱️ 17:07 • 22h ago
+👁️ 23K • 👍 2K • 💬 279 • ⏱️ 17:07 • 23h ago
 
 ---
 

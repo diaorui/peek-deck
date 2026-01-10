@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T21:19:29.501216+00:00'
+updated: '2026-01-10T21:40:32.637272+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 21:19 UTC  
+**Last Updated:** January 10, 2026 at 21:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-7h ago
+8h ago
 
 ---
 
@@ -58,13 +58,13 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-20h ago
+21h ago
 
 ---
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -74,11 +74,17 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 ---
 
+**[30-second form to get mentoring from top teams!!](https://www.reddit.com/r/robotics/comments/1q9gi41/30second_form_to_get_mentoring_from_top_teams/)**
+
+2m ago
+
+---
+
 **[Portfolio Website Template](https://www.reddit.com/r/robotics/comments/1q9a7u2/portfolio_website_template/)**
 
 I wanted to share a project I've been working on called MESGRO. I was looking for a way to host my portfolio that didn't feel like a generic blog or an academic site. Most of the templates I found are great for web developers, but they lack features for when you want to show off CAD, PCB layouts, and firmware snippets all in one place. I built this using Jekyll so it's easy to host on GitHub Pages for free. It’s basically a gallery-style layout specifically for mechatronics/robotics documentation. It's open-source if anyone wants to fork it. I’m looking for feedback, if there’s something specific you guys usually struggle to document in your portfolios, feel free to create a pull request! https://github.com/aojedao/MESGRO If you want to see a real example I built my own portfolio page website with it.
 
-🔗 [GitHub](https://github.com/aojedao/MESGRO) • 3h ago
+🔗 [GitHub](https://github.com/aojedao/MESGRO) • 4h ago
 
 ---
 
@@ -86,21 +92,13 @@ I wanted to share a project I've been working on called MESGRO. I was looking fo
 
 we are an Italian team that's looking forward to start a project aiming to solve problems in the cultural scene, something not generalized like a articulated anthropomorphic robot and neither something that would substitute the human part of the traditions. Something that's still robotic (so not exceedingly based on just software) but specialized to a certain purpose, assisting the diffusion and the discovery of minor cultures to more people.
 
-4h ago
+5h ago
 
 ---
 
 **[Sherpa autonomous windmill assembly demo shown at CES 2026](https://www.reddit.com/r/robotics/comments/1q843j8/sherpa_autonomous_windmill_assembly_demo_shown_at/)**
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
-
-1d ago
-
----
-
-**[I made world simplest quadruped Robot](https://www.reddit.com/r/robotics/comments/1q8dqhe/i_made_world_simplest_quadruped_robot/)**
-
-I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
 1d ago
 
@@ -148,25 +146,11 @@ WYMT • 1d ago
 
 ---
 
-**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
 
-Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
 
-CNBC • 1d ago
-
----
-
-**[AI, chips, and robots dominated CES 2026. It's just the beginning.](https://finance.yahoo.com/news/ai-chips-and-robots-dominated-ces-2026-its-just-the-beginning-192942893.html)**
-
-CES 2026 is in full swing in Las Vegas. Thousands of attendees have flooded the city's hotels and Las Vegas Convention Center, perusing the various products and devices on display at the tech industry's biggest event of the year.
-
-Yahoo Finance • 2d ago
-
----
-
-**[CES 2026 Closes With Robots, China, And AI Everywhere](https://www.forbes.com/sites/charliefink/2026/01/10/ces-2026-closes-with-robots-china-and-ai-everywhere/)**
-
-Forbes • 2h ago
+Fortune • 2d ago
 
 ---
 
@@ -178,11 +162,25 @@ IFR International Federation of Robotics • 2d ago
 
 ---
 
-**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
+**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
 
-Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
+Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
 
-Fortune • 2d ago
+Interesting Engineering • 2d ago
+
+---
+
+**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
+
+New technique varies colour and texture to open up potential applications in display technologies
+
+Financial Times • 3d ago
+
+---
+
+**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqdUi278bNL6RamH4SRKAYaQW3wNqI35IWCW8v4d4NDGxROIqNAm730h&gaa_ts=6962cabe&gaa_sig=k6RsACMNvOmfStQtRV1yzpJE-dGoAXsrnqoWgD4SzoxQVX9R_eTDdR_EN8D9GDxKaV0CO2opqADP9QXwGXZ45Q%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 

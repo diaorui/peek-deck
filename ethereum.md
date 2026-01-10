@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T21:19:29.497908+00:00'
+updated: '2026-01-10T21:40:32.634040+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 21:19 UTC  
+**Last Updated:** January 10, 2026 at 21:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -1.7%  
-**30d:** +0.4%  
-**90d:** -27.1%  
-**1y:** -5.8%  
+**24h:** +0.1%  
+**7d:** -1.9%  
+**30d:** +0.2%  
+**90d:** -27.3%  
+**1y:** -6.0%  
 
 ---
 
@@ -164,7 +164,15 @@ CoinDesk • 2h ago
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[Ethereum Meets AI Agents: What Is ERC-8004?](https://www.tradingview.com/news/u_today:e7ba41fd6094b:0-ethereum-meets-ai-agents-what-is-erc-8004/)**
+
+In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
+
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -178,7 +186,7 @@ The Block • 2d ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 11h ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -190,11 +198,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Long-Term Cost Basis Holds Firm: Structural Floor Forms Near $2.8K](https://www.tradingview.com/news/newsbtc:044273912094b:0-ethereum-long-term-cost-basis-holds-firm-structural-floor-forms-near-2-8k/)**
+**[Bitcoin, Ethereum and XRP Prices Rise After US Supreme Court Delays Trump Tariff Ruling](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-rise-after-us-supreme-court-delays-trump-tariff-ruling/)**
 
-Ethereum is struggling to reclaim the $3,100 level as price action tightens and the market braces for a decisive move. After weeks of choppy trading, ETH remains caught between fading bullish attempts and persistent overhead resistance, leaving analysts sharply divided on what comes next. A minorit…
+Bitcoin, Ethereum and XRP prices moved higher on Thursday after the US Supreme Court delayed an important decision on tariffs imposed by President Donald
 
-TradingView — Track All Markets • 20h ago
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -202,15 +210,15 @@ TradingView — Track All Markets • 20h ago
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
-**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
+**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
 
-Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
+Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
 
-Coinpedia Fintech News • 1d ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -219,14 +227,6 @@ Coinpedia Fintech News • 1d ago
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
 Seeking Alpha • 1d ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
-
-Bit Digital • 3d ago
 
 ---
 
@@ -250,7 +250,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 240 • 👍 28 • 💬 7 • ⏱️ 6:18 • 3h ago
+👁️ 240 • 👍 28 • 💬 7 • ⏱️ 6:18 • 4h ago
 
 ---
 
@@ -270,7 +270,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 1K • 👍 138 • 💬 4 • ⏱️ 24:05 • 51m ago
+👁️ 1K • 👍 138 • 💬 4 • ⏱️ 24:05 • 1h ago
 
 ---
 
