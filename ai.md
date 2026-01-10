@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T20:24:16.702948+00:00'
+updated: '2026-01-10T20:43:49.979398+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 20:24 UTC  
+**Last Updated:** January 10, 2026 at 20:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 18h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 19h ago
 
 ---
 
@@ -93,7 +93,7 @@ This is def interesting for all SWEs who would like to know what goes behind the
 
 I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-19h ago
+20h ago
 
 ---
 
@@ -101,7 +101,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/share/1feed6565f52 Payload (run it in any AI to reproduce results): https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk Key takeaways from the Gemini analysis: Allegations repeated across platforms lacked primary source backing No case numbers, medical records, or public filings were found for key claims Verified data pointed to a civil dispute—not criminal activity A clear pattern of repetition-without-citation emerged It even outlined how claims spread and identified which lacked verifiable origin. This was done using public tools—no backend access, no court databases, no manipulation. Just the protocol + clean input = verified output. If you've ever wondered whether AI can actually verify claims at the forensic level: It can. And it just did.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 10h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 11h ago
 
 ---
 
@@ -109,7 +109,7 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor can have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance or unfamiliarity with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
 
-12h ago
+13h ago
 
 ---
 
@@ -143,13 +143,13 @@ CBS News • 6h ago
 
 Indonesiaâs restriction on Grok is temporary, and X has been invited to discuss the matter.
 
-Gizmodo • 1h ago
+Gizmodo • 2h ago
 
 ---
 
 **[Former Google, Apple Researchers Raising $50 Million for New Visual AI Startup](https://www.theinformation.com/articles/former-google-apple-researchers-raising-50-million-new-visual-ai-startup)**
 
-The Information • 36m ago
+The Information • 55m ago
 
 ---
 
@@ -157,13 +157,13 @@ The Information • 36m ago
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 21h ago
+The Atlantic • 22h ago
 
 ---
 
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -207,7 +207,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 583 • 💬 323 • 21h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 583 • 💬 323 • 22h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -279,43 +279,13 @@ Since 2023, every model at the frontier of AI capabilities, as measured by the E
 
 ## YouTube Videos: "ai"
 
-**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
-
-LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
-
-📺 Matt Wolfe
-
-👁️ 10K • 👍 606 • 💬 48 • ⏱️ 14:39 • 6h ago
-
----
-
 **[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
 
 Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From NEURA's refined humanoids and AgiBot's full ...
 
 📺 AI Revolution
 
-👁️ 82K • 👍 2K • 💬 63 • ⏱️ 17:54 • 1d ago
-
----
-
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
-
-CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
-
-📺 AI Revolution
-
-👁️ 20K • 👍 781 • 💬 43 • ⏱️ 11:06 • 21h ago
-
----
-
-**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 47K • 👍 3K • 💬 222 • ⏱️ 19:15 • 1d ago
+👁️ 85K • 👍 2K • 💬 66 • ⏱️ 17:54 • 1d ago
 
 ---
 
@@ -325,7 +295,27 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 107K • 👍 2K • 💬 154 • ⏱️ 13:08 • 2d ago
+👁️ 108K • 👍 2K • 💬 154 • ⏱️ 13:08 • 2d ago
+
+---
+
+**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 50K • 👍 3K • 💬 232 • ⏱️ 19:15 • 1d ago
+
+---
+
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
+
+CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
+
+📺 AI Revolution
+
+👁️ 22K • 👍 821 • 💬 44 • ⏱️ 11:06 • 21h ago
 
 ---
 
@@ -335,27 +325,7 @@ Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ J
 
 📺 Joshua Fluke
 
-👁️ 48K • 👍 3K • 💬 921 • ⏱️ 5:15 • 1d ago
-
----
-
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
-
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
-
-📺 MoreBeckBros
-
-👁️ 140K • 👍 7K • 💬 605 • ⏱️ 26:17 • 21h ago
-
----
-
-**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
-
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
-
-📺 Matthew Berman
-
-👁️ 35K • 👍 1K • 💬 83 • ⏱️ 14:35 • 1d ago
+👁️ 50K • 👍 3K • 💬 946 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -365,17 +335,47 @@ I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISIO
 
 📺 Malva AI
 
-👁️ 17K • 👍 1K • 💬 265 • ⏱️ 10:24 • 2d ago
+👁️ 17K • 👍 1K • 💬 268 • ⏱️ 10:24 • 2d ago
 
 ---
 
-**[What You Absolutely NEED to Know About AI in 2026](https://www.youtube.com/watch?v=K0UwutA4utA)**
+**[World&#39;s Most Dangerous AI](https://www.youtube.com/watch?v=GSkySDNmjV8)**
 
-Subscribe to stay up to date with AI in 2026! This week in AI was mostly filled with announcements about things coming in 2026, ...
+Use code crayoncapital at https://incogni.com/crayoncapital to get an exclusive 60% off. September 11, 2001. The U.S. ...
 
-📺 The AI Advantage
+📺 Crayon Capital
 
-👁️ 6K • 👍 289 • 💬 24 • ⏱️ 15:26 • 1d ago
+👁️ 7K • 👍 425 • 💬 56 • ⏱️ 15:19 • 10h ago
+
+---
+
+**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 36K • 👍 1K • 💬 84 • ⏱️ 14:35 • 1d ago
+
+---
+
+**[The 10 Most In-Demand AI Skills for 2026](https://www.youtube.com/watch?v=udg_UKml3XY)**
+
+Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The world of work is changing fast, and the single ...
+
+📺 Ishan Sharma
+
+👁️ 19K • 👍 1K • 💬 53 • ⏱️ 10:52 • 1d ago
+
+---
+
+**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
+
+Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
+
+📺 TED
+
+👁️ 19K • 👍 611 • 💬 48 • ⏱️ 12:52 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 496,524 • ❤️ 734 • 2d ago
+⬇️ 496,524 • ❤️ 738 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,056 • ❤️ 701 • 9d ago
+⬇️ 9,056 • ❤️ 702 • 9d ago
 
 ---
 
@@ -415,7 +415,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 10,290 • ❤️ 340 • 3d ago
+⬇️ 10,290 • ❤️ 345 • 3d ago
 
 ---
 
@@ -427,7 +427,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,862 • ❤️ 265 • 4d ago
+⬇️ 1,862 • ❤️ 267 • 4d ago
 
 ---
 
@@ -439,7 +439,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 10,162 • ❤️ 240 • 1d ago
+⬇️ 10,162 • ❤️ 241 • 1d ago
 
 ---
 
@@ -487,7 +487,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 497 • ❤️ 195 • 4d ago
+⬇️ 497 • ❤️ 197 • 4d ago
 
 ---
 
@@ -715,7 +715,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 106 • 21h ago
+⭐ 1.3k • 🔱 106 • 22h ago
 
 ---
 

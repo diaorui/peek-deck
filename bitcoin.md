@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T20:24:16.711290+00:00'
+updated: '2026-01-10T20:43:49.987799+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 20:24 UTC  
+**Last Updated:** January 10, 2026 at 20:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-5h ago
+6h ago
 
 ---
 
@@ -115,7 +115,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-5h ago
+6h ago
 
 ---
 
@@ -309,7 +309,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 13K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 6h ago
+👁️ 21K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 6h ago
 
 ---
 
@@ -319,7 +319,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 262 • ⏱️ 11:14 • 1d ago
+👁️ 52K • 👍 3K • 💬 262 • ⏱️ 11:14 • 1d ago
 
 ---
 
@@ -329,37 +329,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 4K • 👍 351 • 💬 127 • ⏱️ 3:25 • 20h ago
-
----
-
-**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
-
-Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 278 • ⏱️ 17:07 • 21h ago
-
----
-
-**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
-
-So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
-
-📺 BTC Isla
-
-👁️ 16K • 👍 1K • 💬 412 • ⏱️ 10:43 • 1d ago
-
----
-
-**[GameStop is F*CKED! Closing MORE Stores and Bets on BITCOIN?! | Clownfish TV](https://www.youtube.com/watch?v=3LTwqeUEfYg)**
-
-GameStop sounds pretty f*cked going into 2026. They're closing 300 more locations with little or no notice to employees, they're ...
-
-📺 Clownfish TV
-
-👁️ 15K • 👍 1K • 💬 465 • ⏱️ 15:04 • 15h ago
+👁️ 5K • 👍 369 • 💬 324 • ⏱️ 3:25 • 21h ago
 
 ---
 
@@ -369,27 +339,47 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 320 • ⏱️ 9:19 • 21h ago
+👁️ 50K • 👍 3K • 💬 338 • ⏱️ 9:19 • 22h ago
 
 ---
 
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
 
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
 
-📺 Paul Barron Network
+📺 BTC Isla
 
-👁️ 68K • 👍 3K • 💬 347 • ⏱️ 16:13 • 1d ago
+👁️ 16K • 👍 1K • 💬 420 • ⏱️ 10:43 • 1d ago
 
 ---
 
-**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
+**[GameStop is F*CKED! Closing MORE Stores and Bets on BITCOIN?! | Clownfish TV](https://www.youtube.com/watch?v=3LTwqeUEfYg)**
 
-2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
+GameStop sounds pretty f*cked going into 2026. They're closing 300 more locations with little or no notice to employees, they're ...
 
-📺 Crypto Insider
+📺 Clownfish TV
 
-👁️ 39K • 👍 3K • 💬 128 • ⏱️ 21:00 • 1d ago
+👁️ 17K • 👍 1K • 💬 487 • ⏱️ 15:04 • 15h ago
+
+---
+
+**[Bitcoin Holders, Here&#39;s Why This All Makes Sense To Me](https://www.youtube.com/watch?v=oFocqiqDc4U)**
+
+Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
+
+📺 Aaron Bennett
+
+👁️ 5K • 👍 389 • 💬 323 • ⏱️ 7:59 • 14h ago
+
+---
+
+**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+
+Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 279 • ⏱️ 17:07 • 22h ago
 
 ---
 
@@ -399,7 +389,17 @@ Breaking Crypto News Today - Cathie Wood Just said this could happen next in the
 
 📺 Zach Humphries
 
-👁️ 6K • 👍 386 • 💬 237 • ⏱️ 6:53 • 1d ago
+👁️ 7K • 👍 389 • 💬 256 • ⏱️ 6:53 • 1d ago
+
+---
+
+**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
+
+2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
+
+📺 Crypto Insider
+
+👁️ 40K • 👍 3K • 💬 129 • ⏱️ 21:00 • 1d ago
 
 ---
 

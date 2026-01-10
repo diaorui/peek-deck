@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T20:24:16.720809+00:00'
+updated: '2026-01-10T20:43:49.997007+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 20:24 UTC  
+**Last Updated:** January 10, 2026 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-6h ago
+7h ago
 
 ---
 
@@ -58,13 +58,13 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-19h ago
+20h ago
 
 ---
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -78,7 +78,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 I wanted to share a project I've been working on called MESGRO. I was looking for a way to host my portfolio that didn't feel like a generic blog or an academic site. Most of the templates I found are great for web developers, but they lack features for when you want to show off CAD, PCB layouts, and firmware snippets all in one place. I built this using Jekyll so it's easy to host on GitHub Pages for free. It’s basically a gallery-style layout specifically for mechatronics/robotics documentation. It's open-source if anyone wants to fork it. I’m looking for feedback, if there’s something specific you guys usually struggle to document in your portfolios, feel free to create a pull request! https://github.com/aojedao/MESGRO If you want to see a real example I built my own portfolio page website with it.
 
-🔗 [GitHub](https://github.com/aojedao/MESGRO) • 2h ago
+🔗 [GitHub](https://github.com/aojedao/MESGRO) • 3h ago
 
 ---
 
@@ -86,7 +86,7 @@ I wanted to share a project I've been working on called MESGRO. I was looking fo
 
 we are an Italian team that's looking forward to start a project aiming to solve problems in the cultural scene, something not generalized like a articulated anthropomorphic robot and neither something that would substitute the human part of the traditions. Something that's still robotic (so not exceedingly based on just software) but specialized to a certain purpose, assisting the diffusion and the discovery of minor cultures to more people.
 
-3h ago
+4h ago
 
 ---
 
@@ -190,23 +190,33 @@ Fortune • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
-
-This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
-
-📺 Cybernews
-
-👁️ 236K • 👍 3K • 💬 563 • ⏱️ 4:29 • 3d ago
-
----
-
 **[2026 FIRST Robotics Competition Kickoff Broadcast: REBUILT presented by Haas](https://www.youtube.com/watch?v=9kRhE5vgCvY)**
 
 The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal of REBUILT presented by Haas. To learn ...
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 5K • 👍 1K • ⏱️ 56:16 • 3h ago
+👁️ 48K • 👍 1K • ⏱️ 56:16 • 3h ago
+
+---
+
+**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
+
+This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
+
+📺 Cybernews
+
+👁️ 243K • 👍 3K • 💬 576 • ⏱️ 4:29 • 3d ago
+
+---
+
+**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
+
+Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
+
+📺 Trisha Hershberger
+
+👁️ 673 • 👍 117 • 💬 12 • ⏱️ 9:28 • 1h ago
 
 ---
 
@@ -216,17 +226,17 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 45K • 👍 401 • 💬 38 • ⏱️ 11:13 • 4d ago
+👁️ 45K • 👍 408 • 💬 38 • ⏱️ 11:13 • 4d ago
 
 ---
 
-**[21 Coolest Tech at CES 2026](https://www.youtube.com/watch?v=83TiUbFY6fY)**
+**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
 
-Our best CES 2026 tech list. From robotics, to personal self-driving cars to groundbreaking VR tech. CES 2026 brought the hottest ...
+The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
 
-📺 Cybernews
+📺 Hyundai Motor Group
 
-👁️ 77K • 👍 1K • 💬 122 • ⏱️ 28:35 • 16h ago
+👁️ 246K • 👍 61 • ⏱️ 1:15 • 3d ago
 
 ---
 
@@ -236,7 +246,37 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 63K • 👍 1K • 💬 237 • ⏱️ 9:33 • 3d ago
+👁️ 64K • 👍 1K • 💬 237 • ⏱️ 9:33 • 3d ago
+
+---
+
+**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
+
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
+
+📺 NBC News
+
+👁️ 179K • 👍 2K • 💬 208 • ⏱️ 0:22 • 4d ago
+
+---
+
+**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
+
+The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
+
+📺 Dip Knows
+
+👁️ 486K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
+
+---
+
+**[21 Coolest Tech at CES 2026](https://www.youtube.com/watch?v=83TiUbFY6fY)**
+
+Our best CES 2026 tech list. From robotics, to personal self-driving cars to groundbreaking VR tech. CES 2026 brought the hottest ...
+
+📺 Cybernews
+
+👁️ 90K • 👍 2K • 💬 135 • ⏱️ 28:35 • 16h ago
 
 ---
 
@@ -247,46 +287,6 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 📺 Technology Now
 
 👁️ 23K • 👍 298 • 💬 15 • ⏱️ 7:38 • 6d ago
-
----
-
-**[Atlas Has Left the Lab! In-Person Demo of Boston Dynamics Humanoid | What The Future](https://www.youtube.com/watch?v=q2rR_aXjqnI)**
-
-Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where it showcased autonomy, teleoperation, and how ...
-
-📺 CNET
-
-👁️ 125K • 👍 2K • 💬 325 • ⏱️ 4:01 • 2d ago
-
----
-
-**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
-
-This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 354 • 👍 262 • 💬 27 • ⏱️ 3:13 • 2h ago
-
----
-
-**[Robots take over CES 2026 and it’s just getting started - Rich On Tech](https://www.youtube.com/watch?v=pf1aW1b84ZE)**
-
-Rich DeMuro takes a look at the robots taking over the CES 2026 show floor, from bots that fight and dance to robots that play the ...
-
-📺 KTLA 5
-
-👁️ 2K • 👍 21 • 💬 4 • ⏱️ 3:04 • 1d ago
-
----
-
-**[2026 FIRST Robotics Competition KitBot Overview](https://www.youtube.com/watch?v=xrBeEziJGJk)**
-
-Learn about the KitBot and what it can and cannot do on the field. For more information about the 2026 FIRST Robotics ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 478 • 👍 10 • 💬 3 • ⏱️ 3:51 • 2h ago
 
 ---
 
