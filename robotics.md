@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T17:18:41.402482+00:00'
+updated: '2026-01-10T17:41:50.670636+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 17:18 UTC  
+**Last Updated:** January 10, 2026 at 17:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-3h ago
+4h ago
 
 ---
 
@@ -58,19 +58,35 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-16h ago
+17h ago
 
 ---
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
 1d ago
+
+---
+
+**[Portfolio Website Template](https://www.reddit.com/r/robotics/comments/1q9a7u2/portfolio_website_template/)**
+
+I wanted to share a project I've been working on called MESGRO. I was looking for a way to host my portfolio that didn't feel like a generic blog or an academic site. Most of the templates I found are great for web developers, but they lack features for when you want to show off CAD, PCB layouts, and firmware snippets all in one place. I built this using Jekyll so it's easy to host on GitHub Pages for free. It’s basically a gallery-style layout specifically for mechatronics/robotics documentation. It's open-source if anyone wants to fork it. I’m looking for feedback, if there’s something specific you guys usually struggle to document in your portfolios, feel free to create a pull request! https://github.com/aojedao/MESGRO If you want to see a real example I built my own portfolio page website with it.
+
+🔗 [GitHub](https://github.com/aojedao/MESGRO) • 4m ago
+
+---
+
+**[any ideas for a robotic solution to problems concerning culture/assistance in the diffusion of customs and traditions?](https://www.reddit.com/r/robotics/comments/1q98nul/any_ideas_for_a_robotic_solution_to_problems/)**
+
+we are an Italian team that's looking forward to start a project aiming to solve problems in the cultural scene, something not generalized like a articulated anthropomorphic robot and neither something that would substitute the human part of the traditions. Something that's still robotic (so not exceedingly based on just software) but specialized to a certain purpose, assisting the diffusion and the discovery of minor cultures to more people.
+
+1h ago
 
 ---
 
@@ -90,22 +106,6 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 ---
 
-**[Rodney Brooks on why “pick it up and move it” matters more than humanoid hype](https://www.reddit.com/r/robotics/comments/1q8cjty/rodney_brooks_on_why_pick_it_up_and_move_it/)**
-
-Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
-
-1d ago
-
----
-
-**[Struggling with UR Robot Faults and Protective Stops](https://www.reddit.com/r/robotics/comments/1q8xgq1/struggling_with_ur_robot_faults_and_protective/)**
-
-I keep seeing the same issue come up with Universal Robots setups (I am assuming this is also common across other robotic arm brands too), so I wanted to sanity-check with people who work with these day to day. When a UR robot goes into a protective stop / fault that’s intermittent, how do you usually figure out what led up to it? For example: Something runs fine for hours or days. Then suddenly faults. Logs are there, but it’s hard to reconstruct the sequence of robot state, IO, forces, program context, etc. right before the stop In practice, do you: Scrape logs manually? Add ad-hoc script logging? Reproduce by trial-and-error? Just wait for it to happen again? I’m especially curious: What’s the most annoying fault you’ve had to debug recently? How much time does this kind of issue usually cost you (or your customer)? I am just genuinely trying to understand how people deal with this today and whether I’m missing something obvious.
-
-10h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,11 +116,11 @@ Reuters • 2d ago
 
 ---
 
-**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
+**[Roborock Emerges as a Leader in AI Robotics at CES 2026](https://www.cnet.com/paid-content/news/roborock-emerges-as-a-leader-in-ai-robotics-at-ces-2026/)**
 
-Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+Wheel-legs, robotic arms and outdoor autonomy point to a company moving beyond vacuums into intelligent robotics for everyday problem-solving.
 
-Interesting Engineering • 2d ago
+CNET • 22h ago
 
 ---
 
@@ -129,6 +129,14 @@ Interesting Engineering • 2d ago
 Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
 The Verge • 2h ago
+
+---
+
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
+
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+
+WYMT • 22h ago
 
 ---
 
@@ -144,23 +152,7 @@ Seeking Alpha • 4h ago
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
 
-NVIDIA Developer • 1d ago
-
----
-
-**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
-
-The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
-
-IFR International Federation of Robotics • 2d ago
-
----
-
-**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
-
-Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
-
-Fortune • 2d ago
+NVIDIA Developer • 2d ago
 
 ---
 
@@ -185,6 +177,14 @@ Yahoo Finance • 2d ago
 Discover what’s new in robotics, AI wearables, rollable screens, all-electric roller skis and more in our guide to the quirkiest tech innovations at CES 2026
 
 wallpaper.com • 22h ago
+
+---
+
+**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
+
+Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
+
+Fortune • 2d ago
 
 ---
 

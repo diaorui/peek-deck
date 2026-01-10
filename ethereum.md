@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T17:18:41.399212+00:00'
+updated: '2026-01-10T17:41:50.667177+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 17:18 UTC  
+**Last Updated:** January 10, 2026 at 17:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,095.50
+### $3,094.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -1.7%  
-**30d:** +0.3%  
-**90d:** -27.1%  
-**1y:** -5.8%  
+**24h:** +0.0%  
+**7d:** -1.6%  
+**30d:** +0.5%  
+**90d:** -27.0%  
+**1y:** -5.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.09B
+**Market Cap:** $373.31B
 Rank #2
 
 **Circulating Supply:** 120,694,734 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.5%
 
 **All-Time Low:** $0.43
-+713842.2%
++714204.9%
 
 ---
 
@@ -154,7 +154,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 2d ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 7h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView — Track All Markets • 16h ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 22h ago
+Coinpedia Fintech News • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ Coinpedia Fintech News • 22h ago
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 118 • 💬 10 • ⏱️ 4:11 • 10h ago
+👁️ 1K • 👍 118 • 💬 10 • ⏱️ 4:11 • 11h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 236 • 💬 277 • ⏱️ 17:54 • 17h ago
+👁️ 6K • 👍 236 • 💬 277 • ⏱️ 17:54 • 18h ago
 
 ---
 

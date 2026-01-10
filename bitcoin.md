@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T17:18:41.393128+00:00'
+updated: '2026-01-10T17:41:50.660976+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 17:18 UTC  
+**Last Updated:** January 10, 2026 at 17:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,590.17
+### $90,693.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
+**24h:** -0.2%  
 **7d:** -0.8%  
 **30d:** +0.5%  
 **90d:** -21.3%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.59B
+**Market Cap:** $1808.97B
 Rank #1
 
-**Circulating Supply:** 19,974,096 BTC
+**Circulating Supply:** 19,974,137 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.2%
 
 **All-Time Low:** $67.81
-+133372.9%
++133442.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-2h ago
+3h ago
 
 ---
 
@@ -129,6 +129,14 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 ---
 
+**[How are you feeling today?](https://www.reddit.com/r/Bitcoin/comments/1q90xr5/how_are_you_feeling_today/)**
+
+How is the sentiment over here? Bullish AF for the long term! Short term it is all just noise, IMHO.
+
+7h ago
+
+---
+
 **[Betterment hacked](https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked/)**
 
 Received this notification just now
@@ -137,53 +145,15 @@ Received this notification just now
 
 ---
 
-**[How are you feeling today?](https://www.reddit.com/r/Bitcoin/comments/1q90xr5/how_are_you_feeling_today/)**
-
-How is the sentiment over here? Bullish AF for the long term! Short term it is all just noise, IMHO.
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
+**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
 
-U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
+It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CoinDesk • 21h ago
-
----
-
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
-
-What we know about the South American country’s crypto holdings.
-
-Fortune • 22h ago
-
----
-
-**[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
-
-With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
-
-CNBC • 2h ago
-
----
-
-**[Is Block (SQ) Quietly Recasting Its Risk Profile With Bigger Bets On Bitcoin And Consumer Credit?](https://finance.yahoo.com/news/block-sq-quietly-recasting-risk-151232667.html)**
-
-In recent days, analysts have highlighted Block's expanding role in Bitcoin-related services and the buy now, pay later market, alongside ongoing insider equity activity and mixed financial stress signals. These developments underscore how Block is tying its future more closely to digital assets and consumer credit trends, which can increase both growth potential and risk exposure. We'll now explore how Block's deepening Bitcoin ecosystem could reshape its investment narrative and risk...
-
-Yahoo Finance • 2h ago
-
----
-
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows?utm_source=markets.xml&utm_medium=rss)**
-
-The Block • 1h ago
+CNBC • 1d ago
 
 ---
 
@@ -195,6 +165,44 @@ The Motley Fool • 15h ago
 
 ---
 
+**[Bitcoin price falls as BlackRock and Fidelity ETFs see heavy outflows](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-blackrock-fidelity-etfs-outflows-104916054.html)**
+
+Bitcoin price retreated from recent highs on Thursday as institutional investors locked in profits after a strong start to the year.
+
+Yahoo Finance UK • 2d ago
+
+---
+
+**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
+
+U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
+
+CoinDesk • 21h ago
+
+---
+
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows?utm_source=markets.xml&utm_medium=rss)**
+
+The Block • 1h ago
+
+---
+
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+
+What we know about the South American country’s crypto holdings.
+
+Fortune • 23h ago
+
+---
+
+**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
+
+Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
 
 We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
@@ -203,25 +211,19 @@ VanEck • 2d ago
 
 ---
 
-**[Why This New P2P App Is Making Centralized Exchanges Look Obsolete](https://bitcoinmagazine.com/business/vexl-empowering-peer-to-peer-bitcoin-exchange-through-social-networks)**
+**[US Supreme Court Ruling to Decide Bitcoin’s Next Move — Here’s Where Bulls and Bears Are Waiting](https://finance.yahoo.com/news/us-supreme-court-ruling-decide-141500148.html)**
 
-In a world cracking down on privacy tools, one non-profit app is letting you trade Bitcoin safely within your own network.
+Bitcoin trades in a tight range as markets await a US Supreme Court tariff ruling. Here is where bulls and bears are waiting.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages](https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html)**
-
-Security researchers found 3 npm packages that installed NodeCordRAT malware, stealing browser data, crypto wallet secrets & tokens using Discord C2.
-
-The Hacker News • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[This $59 Device Lets You Solo-Mine Bitcoin From Your Desk](https://www.entrepreneur.com/money-finance/this-59-device-lets-you-solo-mine-bitcoin-from-your-desk/501638)**
+**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
 
-Entrepreneur • 1d ago
+Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -281,12 +283,6 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 ---
 
-**[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
-
-⬆️ 2 • 💬 0 • 7d ago
-
----
-
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
 ⬆️ 1 • 💬 1 • 5d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
@@ -298,6 +294,14 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
 ⬆️ 1 • 💬 0 • 2d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+
+---
+
+**[In 2025, Bitcoin showed how spectacularly wrong price forecasts can be](https://news.ycombinator.com/item?id=46527258)**
+
+Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
+
+⬆️ 1 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -321,7 +325,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 294 • ⏱️ 9:19 • 18h ago
+👁️ 43K • 👍 2K • 💬 294 • ⏱️ 9:19 • 19h ago
 
 ---
 
@@ -371,7 +375,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 261 • ⏱️ 17:07 • 18h ago
+👁️ 20K • 👍 1K • 💬 261 • ⏱️ 17:07 • 19h ago
 
 ---
 
