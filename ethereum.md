@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T14:20:14.130111+00:00'
+updated: '2026-01-10T14:42:48.963128+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 14:20 UTC  
+**Last Updated:** January 10, 2026 at 14:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -162,7 +162,7 @@ Coinpaper • 3d ago
 
 Investors started January by pumping over $1.5 billion into US crypto ETFs. But this week they redeemed over $1.3 billion from the products. Bitcoin and Ethereum have now lost their gains.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 3h ago
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView — Track All Markets • 13h ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 19h ago
+Coinpedia Fintech News • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 10 • ⏱️ 4:11 • 7h ago
+👁️ 1K • 👍 107 • 💬 10 • ⏱️ 4:11 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 222 • 💬 272 • ⏱️ 17:54 • 14h ago
+👁️ 6K • 👍 222 • 💬 272 • ⏱️ 17:54 • 15h ago
 
 ---
 

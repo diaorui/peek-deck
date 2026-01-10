@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T14:20:14.123994+00:00'
+updated: '2026-01-10T14:42:48.957195+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - cryptocurrency
 - social
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 14:20 UTC  
+**Last Updated:** January 10, 2026 at 14:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -131,7 +131,7 @@ Received this notification just now
 
 How is the sentiment over here? Bullish AF for the long term! Short term it is all just noise, IMHO.
 
-3h ago
+4h ago
 
 ---
 
@@ -185,7 +185,7 @@ New York Post • 2d ago
 
 Scammers impersonating Amazon, TD Bank, and the FTC convinced retirees to convert $1.3 million into bitcoin and gold. The couple is now speaking out.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -325,7 +325,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 288 • ⏱️ 9:19 • 15h ago
+👁️ 40K • 👍 2K • 💬 288 • ⏱️ 9:19 • 16h ago
 
 ---
 
@@ -335,7 +335,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 260 • ⏱️ 17:07 • 15h ago
+👁️ 19K • 👍 1K • 💬 260 • ⏱️ 17:07 • 16h ago
 
 ---
 
@@ -375,7 +375,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 35K • 👍 3K • 💬 115 • ⏱️ 13:55 • 11h ago
+👁️ 35K • 👍 3K • 💬 115 • ⏱️ 13:55 • 12h ago
 
 ---
 
