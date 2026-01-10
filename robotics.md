@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T15:21:15.177678+00:00'
+updated: '2026-01-10T15:41:30.724304+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 15:21 UTC  
+**Last Updated:** January 10, 2026 at 15:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-1h ago
+2h ago
 
 ---
 
@@ -58,13 +58,13 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-14h ago
+15h ago
 
 ---
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ Interesting Engineering • 2d ago
 
 Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
-The Verge • 21m ago
+The Verge • 41m ago
 
 ---
 
@@ -198,17 +198,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 223K • 👍 3K • 💬 535 • ⏱️ 4:29 • 2d ago
-
----
-
-**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
-
-The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
-
-📺 Hyundai Motor Group
-
-👁️ 246K • 👍 61 • ⏱️ 1:15 • 3d ago
+👁️ 229K • 👍 3K • 💬 552 • ⏱️ 4:29 • 2d ago
 
 ---
 
@@ -222,13 +212,13 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 ---
 
-**[At CES 2026, AI Takes Over Las Vegas](https://www.youtube.com/watch?v=nuivRxby208)**
+**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
 
-The world's largest tech show is back and AI is powering nearly every major reveal. Here's your first look! Connect with Cheddar!
+The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
 
-📺 Cheddar
+📺 Hyundai Motor Group
 
-👁️ 18K • 👍 185 • 💬 21 • ⏱️ 3:36 • 4d ago
+👁️ 246K • 👍 61 • ⏱️ 1:15 • 3d ago
 
 ---
 
@@ -242,33 +232,43 @@ LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designe
 
 ---
 
-**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
-
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
-
-📺 NBC News
-
-👁️ 172K • 👍 2K • 💬 204 • ⏱️ 0:22 • 3d ago
-
----
-
 **[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
 
 The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
 
 📺 Dip Knows
 
-👁️ 479K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
+👁️ 480K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
 
 ---
 
-**[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
+**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
 
-MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
+Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
 
 📺 Hyundai Motor Group
 
-👁️ 439K • 👍 245 • 💬 2 • ⏱️ 0:47 • 3d ago
+👁️ 570K • 👍 44 • 💬 1 • ⏱️ 0:59 • 3d ago
+
+---
+
+**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
+
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
+
+📺 NBC News
+
+👁️ 174K • 👍 2K • 💬 205 • ⏱️ 0:22 • 3d ago
+
+---
+
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+
+📺 Unitree Robotics
+
+👁️ 5.9M • 👍 4K • 💬 1K • ⏱️ 0:32 • 6d ago
 
 ---
 
@@ -278,7 +278,7 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 📺 Technology Now
 
-👁️ 23K • 👍 297 • 💬 15 • ⏱️ 7:38 • 5d ago
+👁️ 23K • 👍 298 • 💬 15 • ⏱️ 7:38 • 5d ago
 
 ---
 
@@ -288,7 +288,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 42K • 👍 388 • 💬 37 • ⏱️ 11:13 • 4d ago
+👁️ 43K • 👍 395 • 💬 38 • ⏱️ 11:13 • 4d ago
 
 ---
 

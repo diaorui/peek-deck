@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T15:21:15.174296+00:00'
+updated: '2026-01-10T15:41:30.720973+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 15:21 UTC  
+**Last Updated:** January 10, 2026 at 15:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.31B
+**Market Cap:** $373.09B
 Rank #2
 
 **Circulating Supply:** 120,694,734 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.5%
 
 **All-Time Low:** $0.43
-+714149.4%
++713842.2%
 
 ---
 
@@ -208,7 +208,7 @@ TradingView — Track All Markets • 14h ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 20h ago
+Coinpedia Fintech News • 21h ago
 
 ---
 
@@ -224,7 +224,7 @@ Bit Digital • 2d ago
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -232,23 +232,33 @@ Seeking Alpha • 20h ago
 
 ## YouTube Videos: "ethereum"
 
+**[This One Catalyst Could Send Ethereum &amp; Solana to New All-Time Highs w/ Matt Hougan &amp; Ryan Rasmussen](https://www.youtube.com/watch?v=Lc1NKDlP1us)**
+
+In this episode, we dig into the one catalyst that could flip the switch for crypto markets and why Ethereum and Solana sit directly ...
+
+📺 Milk Road
+
+👁️ 197 • 👍 21 • 💬 2 • ⏱️ 11:37 • 1h ago
+
+---
+
 **[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
 
 Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 215 • 💬 37 • ⏱️ 4:20 • 1d ago
+👁️ 6K • 👍 218 • 💬 39 • ⏱️ 4:20 • 1d ago
 
 ---
 
-**[BITCOIN &amp; ETHEREUM &amp; SOLANA ARE GOING DOWN!!!!](https://www.youtube.com/watch?v=TYnZkjuYQyk)**
+**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
 
-Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
+ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
 
-📺 Davinci Jeremie
+📺 Bankless
 
-👁️ 7K • 👍 420 • 💬 57 • ⏱️ 15:28 • 19h ago
+👁️ 8K • 👍 287 • 💬 40 • ⏱️ 52:02 • 1d ago
 
 ---
 
@@ -258,7 +268,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 195 • 💬 32 • ⏱️ 20:39 • 21h ago
+👁️ 5K • 👍 208 • 💬 32 • ⏱️ 20:39 • 21h ago
+
+---
+
+**[BITCOIN &amp; ETHEREUM &amp; SOLANA ARE GOING DOWN!!!!](https://www.youtube.com/watch?v=TYnZkjuYQyk)**
+
+Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
+
+📺 Davinci Jeremie
+
+👁️ 8K • 👍 443 • 💬 59 • ⏱️ 15:28 • 19h ago
 
 ---
 
@@ -268,17 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 107 • 💬 10 • ⏱️ 4:11 • 8h ago
-
----
-
-**[Bitcoin Has Officially Broken And This Is What Happens Next INSANE Ethereum Rollout In 2026](https://www.youtube.com/watch?v=IiWJdOHF3ag)**
-
-Something great in the cryptocurrency market is just around the corner... at least thats what analysts are saying over and over now ...
-
-📺 The Modern Investor
-
-👁️ 2K • 👍 378 • 💬 219 • ⏱️ 29:35 • 5h ago
+👁️ 1K • 👍 118 • 💬 10 • ⏱️ 4:11 • 9h ago
 
 ---
 
@@ -288,17 +298,17 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 222 • 💬 272 • ⏱️ 17:54 • 15h ago
+👁️ 6K • 👍 236 • 💬 277 • ⏱️ 17:54 • 16h ago
 
 ---
 
-**[FUD &amp; FOMO: Bitcoin, Zcash &amp; ETH on the Brink After NFP Numbers!](https://www.youtube.com/watch?v=m_BxqDIBoQ0)**
+**[Bitcoin Has Officially Broken And This Is What Happens Next INSANE Ethereum Rollout In 2026](https://www.youtube.com/watch?v=IiWJdOHF3ag)**
 
-Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-to crypto livestream breaking down the latest in ...
+Something great in the cryptocurrency market is just around the corner... at least thats what analysts are saying over and over now ...
 
-📺 Coin Bureau
+📺 The Modern Investor
 
-👁️ 13K • 👍 686 • 💬 37 • ⏱️ 46:28 • 14h ago
+👁️ 4K • 👍 581 • 💬 240 • ⏱️ 29:35 • 5h ago
 
 ---
 
@@ -312,23 +322,13 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
-
-ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
-
-📺 Bankless
-
-👁️ 8K • 👍 276 • 💬 40 • ⏱️ 52:02 • 1d ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-gcev5s6aPI)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 111 • 💬 8 • ⏱️ 5:13 • 22h ago
+👁️ 2K • 👍 112 • 💬 8 • ⏱️ 5:13 • 22h ago
 
 ---
 

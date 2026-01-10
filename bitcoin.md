@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T15:21:15.168089+00:00'
+updated: '2026-01-10T15:41:30.715031+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 15:21 UTC  
+**Last Updated:** January 10, 2026 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1809.94B
+**Market Cap:** $1807.59B
 Rank #1
 
-**Circulating Supply:** 19,974,062 BTC
+**Circulating Supply:** 19,974,096 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-28.2%
 
 **All-Time Low:** $67.81
-+133529.3%
++133372.9%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-40m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-46m ago
+1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Received this notification just now
 
 How is the sentiment over here? Bullish AF for the long term! Short term it is all just noise, IMHO.
 
-4h ago
+5h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 21h ago
 
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
-CNBC • 14m ago
+CNBC • 34m ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 14m ago
 
 Scammers impersonating Amazon, TD Bank, and the FTC convinced retirees to convert $1.3 million into bitcoin and gold. The couple is now speaking out.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Block • 1d ago
 
 **[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -305,23 +305,13 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 ## YouTube Videos: "bitcoin"
 
-**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
+**[Bitcoin Holders, Here&#39;s Why This All Makes Sense To Me](https://www.youtube.com/watch?v=oFocqiqDc4U)**
 
-Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
+Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
 
-📺 Altcoin Daily
+📺 Aaron Bennett
 
-👁️ 50K • 👍 3K • 💬 253 • ⏱️ 11:14 • 1d ago
-
----
-
-**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
-
-2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
-
-📺 Crypto Insider
-
-👁️ 36K • 👍 3K • 💬 125 • ⏱️ 21:00 • 1d ago
+👁️ 3K • 👍 294 • 💬 261 • ⏱️ 7:59 • 9h ago
 
 ---
 
@@ -331,17 +321,17 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 288 • ⏱️ 9:19 • 16h ago
+👁️ 43K • 👍 2K • 💬 294 • ⏱️ 9:19 • 16h ago
 
 ---
 
-**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+**[The AI Shock Is About to Reprice Bitcoin](https://www.youtube.com/watch?v=S-K-GTIIJfw)**
 
-Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of experience and the author of the VisserLabs ...
 
-📺 Simply Bitcoin
+📺 Anthony Pompliano
 
-👁️ 19K • 👍 1K • 💬 260 • ⏱️ 17:07 • 16h ago
+👁️ 4K • 👍 435 • 💬 1 • ⏱️ 1:05:08 • 1h ago
 
 ---
 
@@ -351,37 +341,37 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 66K • 👍 3K • 💬 335 • ⏱️ 16:13 • 1d ago
+👁️ 67K • 👍 3K • 💬 340 • ⏱️ 16:13 • 1d ago
 
 ---
 
-**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
+**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
 
-📺 Crypto Crew University
+📺 BTC Isla
 
-👁️ 55K • 👍 3K • 💬 278 • ⏱️ 17:35 • 2d ago
-
----
-
-**[Bitcoin Holders, Here&#39;s Why This All Makes Sense To Me](https://www.youtube.com/watch?v=oFocqiqDc4U)**
-
-Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
-
-📺 Aaron Bennett
-
-👁️ 2K • 👍 225 • 💬 234 • ⏱️ 7:59 • 9h ago
+👁️ 15K • 👍 1K • 💬 426 • ⏱️ 10:43 • 23h ago
 
 ---
 
-**[BTC Bottom or Bull Trap? 🪤📉 Wild Predictions Inside](https://www.youtube.com/watch?v=e48UwiaFwWQ)**
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
 
-📺 InvestAnswers
+📺 Vortex Bitcoin
 
-👁️ 35K • 👍 3K • 💬 115 • ⏱️ 13:55 • 12h ago
+👁️ 13K • 👍 250 • 💬 181 • ⏱️ 0:49 • 1d ago
+
+---
+
+**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+
+Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+
+📺 Simply Bitcoin
+
+👁️ 20K • 👍 1K • 💬 261 • ⏱️ 17:07 • 17h ago
 
 ---
 
@@ -395,13 +385,23 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 ---
 
-**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
+**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
 
-So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
+Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
 
-📺 BTC Isla
+📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 398 • ⏱️ 10:43 • 23h ago
+👁️ 50K • 👍 3K • 💬 255 • ⏱️ 11:14 • 1d ago
+
+---
+
+**[Solo Mining Domination: Bitaxe VS NerdQaxe++ Hydro #shorts #Bitcoin #blockchain](https://www.youtube.com/watch?v=Pr_ocC3hfFk)**
+
+Welcome to New England Crypto. My name is Matthew, & we are a Crypto Mining Family! In todays short, we are going over the ...
+
+📺 New England Crypto
+
+👁️ 482 • 👍 13 • 💬 1 • ⏱️ 0:25 • 2h ago
 
 ---
 
