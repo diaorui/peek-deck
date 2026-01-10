@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T11:38:58.409977+00:00'
+updated: '2026-01-10T12:42:13.008208+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 11:38 UTC  
+**Last Updated:** January 10, 2026 at 12:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -1.5%  
-**30d:** +0.5%  
-**90d:** -27.0%  
-**1y:** -5.6%  
+**24h:** -0.3%  
+**7d:** -1.7%  
+**30d:** +0.4%  
+**90d:** -27.1%  
+**1y:** -5.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 2h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-12h ago
+13h ago
 
 ---
 
@@ -112,7 +112,7 @@ For people that have blockchain startups or work in the digital asset space, how
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 22h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 23h ago
 
 ---
 
@@ -120,7 +120,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-22h ago
+23h ago
 
 ---
 
@@ -128,7 +128,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-23h ago
+1d ago
 
 ---
 
@@ -150,11 +150,19 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 ## Google News: "ethereum"
 
-**[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
+**[Bitcoin, Ethereum lie flat following negative ETF flows](https://finance.yahoo.com/news/bitcoin-ethereum-lie-flat-following-103347204.html)**
 
-Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
+Investors started January by pumping over $1.5 billion into US crypto ETFs. But this week they redeemed over $1.3 billion from the products. Bitcoin and Ethereum have now lost their gains.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2h ago
+
+---
+
+**[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
+
+The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -166,25 +174,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://finance.yahoo.com/news/ethereum-treasury-firm-sharplink-stakes-215216000.html)**
-
-Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://decrypt.co/354058/ethereum-treasury-firm-sharplink-gaming-stakes-170-million-eth-linea)**
-
-Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
-
-Decrypt • 1d ago
-
----
-
 **[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
 
 The Block • 2d ago
+
+---
+
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
+
+Bit Digital • 2d ago
 
 ---
 
@@ -196,11 +196,11 @@ Decrypt • 2d ago
 
 ---
 
-**[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
+**[Ethereum Long-Term Cost Basis Holds Firm: Structural Floor Forms Near $2.8K](https://www.tradingview.com/news/newsbtc:044273912094b:0-ethereum-long-term-cost-basis-holds-firm-structural-floor-forms-near-2-8k/)**
 
-Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
+Ethereum is struggling to reclaim the $3,100 level as price action tightens and the market braces for a decisive move. After weeks of choppy trading, ETH remains caught between fading bullish attempts and persistent overhead resistance, leaving analysts sharply divided on what comes next. A minorit…
 
-The Motley Fool • 1d ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -208,15 +208,7 @@ The Motley Fool • 1d ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 17h ago
-
----
-
-**[Ethereum Price Latest Push Raises Question: Has a Short-Term Top Formed?](https://www.tradingview.com/news/newsbtc:cfd501f23094b:0-ethereum-price-latest-push-raises-question-has-a-short-term-top-formed/)**
-
-Ethereum price failed to clear the $3,300 resistance and dipped. ETH is now showing a few bearish signs and might decline toward $3,080.Ethereum Price Trims GainsEthereum price failed to continue higher above $3,300 and started a downside correction, like Bitcoin. ETH price dipped below $3,240 and…
-
-TradingView — Track All Markets • 2d ago
+Coinpedia Fintech News • 18h ago
 
 ---
 
@@ -224,7 +216,15 @@ TradingView — Track All Markets • 2d ago
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 18h ago
+
+---
+
+**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
+
+Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 7K • 👍 401 • 💬 47 • ⏱️ 15:28 • 15h ago
+👁️ 7K • 👍 401 • 💬 47 • ⏱️ 15:28 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ Something great in the cryptocurrency market is just around the corner... at lea
 
 📺 The Modern Investor
 
-👁️ 750 • 👍 150 • 💬 87 • ⏱️ 29:35 • 1h ago
+👁️ 750 • 👍 150 • 💬 87 • ⏱️ 29:35 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 185 • 💬 32 • ⏱️ 20:39 • 17h ago
+👁️ 5K • 👍 185 • 💬 32 • ⏱️ 20:39 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 828 • 👍 85 • 💬 10 • ⏱️ 4:11 • 5h ago
+👁️ 828 • 👍 85 • 💬 10 • ⏱️ 4:11 • 6h ago
 
 ---
 
@@ -288,7 +288,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 156 • 💬 24 • ⏱️ 11:47 • 1d ago
+👁️ 3K • 👍 156 • 💬 24 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -298,7 +298,7 @@ Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-t
 
 📺 Coin Bureau
 
-👁️ 13K • 👍 678 • 💬 36 • ⏱️ 46:28 • 10h ago
+👁️ 13K • 👍 678 • 💬 36 • ⏱️ 46:28 • 11h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 212 • 💬 107 • ⏱️ 17:54 • 11h ago
+👁️ 6K • 👍 212 • 💬 107 • ⏱️ 17:54 • 13h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 8 • ⏱️ 5:13 • 18h ago
+👁️ 2K • 👍 109 • 💬 8 • ⏱️ 5:13 • 19h ago
 
 ---
 

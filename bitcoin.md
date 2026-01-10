@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T11:38:58.403877+00:00'
+updated: '2026-01-10T12:42:13.002209+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 11:38 UTC  
+**Last Updated:** January 10, 2026 at 12:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,717.29
+### $90,675.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.8%  
-**30d:** +0.5%  
+**24h:** -0.1%  
+**7d:** -0.9%  
+**30d:** +0.4%  
 **90d:** -21.3%  
-**1y:** -4.0%  
+**1y:** -4.1%  
 
 ---
 
@@ -77,33 +77,33 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
-
-6h ago
-
----
-
-**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
-
-11h ago
-
----
-
 **[Those who bought Bitcoin at $126k, sold at $80k, and bought again at $94k](https://www.reddit.com/r/Bitcoin/comments/1q8yn3a/those_who_bought_bitcoin_at_126k_sold_at_80k_and/)**
 
-3h ago
+4h ago
 
 ---
 
-**[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
+**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-20h ago
+7h ago
 
 ---
 
 **[“They said Bitcoin won’t make you happy “ BTC holders in 2030 :](https://www.reddit.com/r/Bitcoin/comments/1q8xiwl/they_said_bitcoin_wont_make_you_happy_btc_holders/)**
 
-4h ago
+5h ago
+
+---
+
+**[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
+
+21h ago
+
+---
+
+**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
+
+12h ago
 
 ---
 
@@ -111,13 +111,13 @@ Rank #1
 
 Received this notification just now
 
-12h ago
+13h ago
 
 ---
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-21h ago
+22h ago
 
 ---
 
@@ -139,7 +139,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 So, yeah, pretty much the question in the title. So I’m pretty familiar with trading stocks, but looking to diversify and maybe get in at a low price point. Seems like the bottom is sort of in here. Anyway, if I buy using an exchange like coinbase is it possible (and reasonably easy for a non-tech person) to move Bitcoin from the exchange to a private wallet? Like if you buy GLD, sure, you (in theory) own physical gold but it’s rare to impossible show up and take your share home. How does this work with BC? Honestly the only thing that’s kept me from getting in way earlier was the tech literacy barrier. But perhaps it’s become easy enough now and you guys have some insight.
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ So, yeah, pretty much the question in the title. So I’m pretty familiar with t
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -159,15 +159,37 @@ CoinDesk • 15h ago
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
-**[3 Bad Investing Mistakes I Won't Repeat in 2026 and Beyond](https://www.fool.com/investing/2026/01/10/3-bad-investing-mistakes-i-wont-repeat-in-2026/)**
+**[Chinese tycoon tied to $11B ‘pig butchering’ bitcoin scam taken into custody](https://nypost.com/2026/01/07/business/chinese-tycoon-tied-to-11b-pig-butchering-bitcoin-scam-taken-into-custody/)**
 
-Last year was a doozy.
+Chen Zhi, chairman of Prince Group, was arrested by law enforcement officials in Cambodia and extradited to China, government officials said.
 
-The Motley Fool • 1h ago
+New York Post • 2d ago
+
+---
+
+**[An 82-year-old couple believed they were 'helping' a federal investigation. It was a $1.3 million scam.](https://www.businessinsider.com/senior-couple-ftc-scam-retirement-fund-bitcoin-gold-2026-1)**
+
+Scammers impersonating Amazon, TD Bank, and the FTC convinced retirees to convert $1.3 million into bitcoin and gold. The couple is now speaking out.
+
+Business Insider • 19m ago
+
+---
+
+**[Alleged crypto scam boss linked to $15 billion bitcoin haul deported to China after Cambodia arrest](https://www.theblock.co/post/384674/alleged-crypto-scam-boss-linked-15-billion-bitcoin-deported-china-cambodia-arrest)**
+
+The Block • 2d ago
+
+---
+
+**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
+
+It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
+
+CNBC • 1d ago
 
 ---
 
@@ -177,41 +199,19 @@ The Block • 1d ago
 
 ---
 
-**[South Korea to flip bitcoin ETF stance as part of broader crypto push](https://www.coindesk.com/policy/2026/01/09/south-korea-to-flip-bitcoin-etf-stance-as-part-of-broader-crypto-push)**
+**[Bitcoin, Ethereum lie flat following negative ETF flows](https://finance.yahoo.com/news/bitcoin-ethereum-lie-flat-following-103347204.html)**
 
-A new Digital Asset Act will regulate stablecoins, requiring 100% reserve backing and user redemption rights.
+Investors started January by pumping over $1.5 billion into US crypto ETFs. But this week they redeemed over $1.3 billion from the products. Bitcoin and Ethereum have now lost their gains.
 
-CoinDesk • 1d ago
-
----
-
-**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
-
-It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
-
-CNBC • 23h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
+**[3 Bad Investing Mistakes I Won't Repeat in 2026 and Beyond](https://www.fool.com/investing/2026/01/10/3-bad-investing-mistakes-i-wont-repeat-in-2026/)**
 
-Bloomberg.com • 14h ago
+Last year was a doozy.
 
----
-
-**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
-
-Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters](https://bitcoinmagazine.com/markets/bitcoin-price-holds-90000-tariff-delay)**
-
-The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
-
-Bitcoin Magazine • 16h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -237,7 +237,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 1d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 2d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -275,7 +275,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 2d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 3d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -309,7 +309,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 13K • 👍 1K • 💬 282 • ⏱️ 10:43 • 19h ago
+👁️ 13K • 👍 1K • 💬 282 • ⏱️ 10:43 • 20h ago
 
 ---
 
@@ -319,7 +319,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 126 • ⏱️ 17:07 • 13h ago
+👁️ 18K • 👍 1K • 💬 126 • ⏱️ 17:07 • 14h ago
 
 ---
 
@@ -329,7 +329,7 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 162 • 💬 93 • ⏱️ 7:59 • 5h ago
+👁️ 2K • 👍 162 • 💬 93 • ⏱️ 7:59 • 6h ago
 
 ---
 
@@ -359,7 +359,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Insider
 
-👁️ 34K • 👍 2K • 💬 113 • ⏱️ 21:00 • 21h ago
+👁️ 34K • 👍 2K • 💬 113 • ⏱️ 21:00 • 22h ago
 
 ---
 
@@ -379,7 +379,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 155 • ⏱️ 9:19 • 12h ago
+👁️ 36K • 👍 2K • 💬 155 • ⏱️ 9:19 • 14h ago
 
 ---
 
@@ -389,7 +389,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 34K • 👍 3K • 💬 112 • ⏱️ 13:55 • 9h ago
+👁️ 34K • 👍 3K • 💬 112 • ⏱️ 13:55 • 10h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T11:38:58.395078+00:00'
+updated: '2026-01-10T12:42:12.993596+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 11:38 UTC  
+**Last Updated:** January 10, 2026 at 12:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 10h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 11h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 6h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Best one i have found so far https://video.a2e.ai/?coupon=xqCs
 
-39m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Best one i have found so far https://video.a2e.ai/?coupon=xqCs
 
 Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/share/1feed6565f52 Payload (run it in any AI to reproduce results): https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk Key takeaways from the Gemini analysis: Allegations repeated across platforms lacked primary source backing No case numbers, medical records, or public filings were found for key claims Verified data pointed to a civil dispute—not criminal activity A clear pattern of repetition-without-citation emerged It even outlined how claims spread and identified which lacked verifiable origin. This was done using public tools—no backend access, no court databases, no manipulation. Just the protocol + clean input = verified output. If you've ever wondered whether AI can actually verify claims at the forensic level: It can. And it just did.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 2h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor can have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance or unfamiliarity with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
 
-7h ago
+8h ago
 
 ---
 
@@ -109,11 +109,11 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 ---
 
-**[A practical 2026 roadmap for modern AI search & RAG systems](https://www.reddit.com/r/artificial/comments/1q87y8e/a_practical_2026_roadmap_for_modern_ai_search_rag/)**
+**[Built a cognitive framework for AI agents - today it audited itself for release and caught its own bugs](https://www.reddit.com/r/artificial/comments/1q8ankw/built_a_cognitive_framework_for_ai_agents_today/)**
 
-I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
+I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-22h ago
+21h ago
 
 ---
 
@@ -125,7 +125,23 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
 
-The Guardian • 4h ago
+The Guardian • 5h ago
+
+---
+
+**[So are we in an AI bubble? Here are clues to look for. : Planet Money](https://www.npr.org/2026/01/09/nx-s1-5672643/market-ai-what-is-a-bubble)**
+
+Are we in an AI bubble? That’s the $35 trillion dollar question right now as the stock market soars higher and higher. The problem is that bubbles are famously hard to spot. But some economists say they may have found some telltale clues.On our latest: How do economists detect a bubble? And, how much should society be worried about bubbles in the first place? Related shows:- How to make $35 trillion ... disappear-What is a bubble? (featuring Nobel prize winning economics Eugene Fama and Robert Shiller)-What AI data centers are doing to your electric billPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.This episode was produced by Willa Rubin and edited by Marianne McCune. It was fact-checked by Sierra Juarez and engineered by Cena Loffredo and Robert Rodriguez. Alex Goldmark is our executive producer.Music: NPR Source Audio - “The best is yet to come,” “Marsh mellow,” and “Sunshine beat”
+
+NPR • 10h ago
+
+---
+
+**[Stocks Could Keep Rising Even if AI Spending Slows Down. Here's Why.](https://www.investopedia.com/stocks-could-keep-rising-even-if-ai-spending-slows-down-here-s-why-11882678)**
+
+Big tech's massive investments in artificial intelligence propelled stocks to record after record last year. But, according to one analyst, stocks probably don't need more AI spending to keep climbing in 2026.
+
+Investopedia • 15h ago
 
 ---
 
@@ -133,23 +149,35 @@ The Guardian • 4h ago
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 13h ago
+The Atlantic • 14h ago
 
 ---
 
-**[The AI industry is getting into politics. Here are the key super PACs to watch in 2026.](https://www.businessinsider.com/artificial-intelligence-industry-super-pacs-2026-1)**
+**[AI memory is sold out, causing an unprecedented surge in prices](https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html)**
 
-The AI industry is pouring hundreds of millions of dollars into super PACs ahead of the 2026 midterm elections.
+Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
 
-Business Insider • 1h ago
+CNBC • 42m ago
 
 ---
 
-**[Prediction: These 2 AI Stocks Will Be Worth More Than Palantir by the End of 2026](https://www.fool.com/investing/2026/01/10/prediction-these-2-ai-stocks-will-be-worth-more-th/)**
+**[Micron vs. NVIDIA: One AI Chip Stock is Poised to Win Big in 2026](https://www.zacks.com/stock/news/2815289/micron-vs-nvidia-one-ai-chip-stock-is-poised-to-win-big-in-2026)**
 
-This is one of the easiest predictions ever.
+Zacks Investment Research • 17h ago
 
-The Motley Fool • 46m ago
+---
+
+**[Micron: America’s Fortress In The Global AI Memory War (NASDAQ:MU)](https://seekingalpha.com/article/4858471-micron-americas-fortress-in-the-global-ai-memory-war)**
+
+Micron Technology, Inc. is positioned to benefit from the AI supercycle and U.S. digital infrastructure expansion. Learn more about MU stock here.
+
+Seeking Alpha • 15h ago
+
+---
+
+**[These 8 stocks could form the backbone of AI as chips get more powerful](https://www.marketwatch.com/story/these-8-stocks-could-form-the-backbone-of-ai-as-chips-get-more-powerful-e0b87fe7?gaa_at=eafs&gaa_n=AWEtsqeaQDPwkXro1Brq4Akt6sN-rP9Qkpc0MipFH32h2CQeUMslltg4foYg&gaa_ts=69624c8d&gaa_sig=lqzsXZjXPQRAhbcmY9BABfgS6jyi4V9t2W9U-VU5zsLO78hv8x10tdREplVDPR-R9TgWCZYnDwEwqNOhznmMOw%3D%3D)**
+
+MarketWatch • 12m ago
 
 ---
 
@@ -157,7 +185,7 @@ The Motley Fool • 46m ago
 
 Decades of research have demonstrated the benefits of meditation.
 
-Time Magazine • 43m ago
+Time Magazine • 1h ago
 
 ---
 
@@ -169,41 +197,13 @@ NBC News • 1d ago
 
 ---
 
-**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
-
-The New York Times • 21h ago
-
----
-
-**[Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban)**
-
-Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
-
-The Guardian • 15h ago
-
----
-
-**[Musk’s AI tool under fire for ‘digital undressing’](https://www.cnn.com/2026/01/09/business/video/grok-x-ai-undressing-uproar-vrtc)**
-
-Elon Musk’s Grok chatbot has limited some of its Imagine image generation features to paid X subscribers, days after international uproar over the AI tool responded to user requests by “digitally undressing” people, including children.
-
-CNN • 11h ago
-
----
-
-**[Amazon Has Big Hopes for Wearable AI — Starting With This $50 Gadget](https://www.bloomberg.com/news/articles/2026-01-09/amazon-has-big-hopes-for-wearable-ai-starting-with-this-50-gadget)**
-
-Bloomberg.com • 15h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 757 • 💬 287 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 759 • 💬 287 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -211,7 +211,7 @@ Bloomberg.com • 15h ago
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 550 • 💬 388 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 551 • 💬 389 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -221,7 +221,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 484 • 💬 264 • 12h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 506 • 💬 274 • 14h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -229,7 +229,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 441 • 💬 711 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 441 • 💬 712 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -261,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 116 • 💬 185 • 17h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 121 • 💬 193 • 18h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -277,7 +277,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 65 • 💬 39 • 16h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 65 • 💬 40 • 17h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -291,7 +291,7 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 15K • 👍 627 • 💬 29 • ⏱️ 11:06 • 12h ago
+👁️ 15K • 👍 627 • 💬 29 • ⏱️ 11:06 • 13h ago
 
 ---
 
@@ -311,7 +311,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 39K • 👍 2K • 💬 202 • ⏱️ 19:15 • 21h ago
+👁️ 39K • 👍 2K • 💬 202 • ⏱️ 19:15 • 22h ago
 
 ---
 
@@ -331,7 +331,7 @@ Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Bre
 
 📺 MoreBeckBros
 
-👁️ 100K • 👍 5K • 💬 520 • ⏱️ 26:17 • 13h ago
+👁️ 100K • 👍 5K • 💬 520 • ⏱️ 26:17 • 14h ago
 
 ---
 
@@ -351,7 +351,7 @@ Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ J
 
 📺 Joshua Fluke
 
-👁️ 43K • 👍 2K • 💬 849 • ⏱️ 5:15 • 22h ago
+👁️ 43K • 👍 2K • 💬 849 • ⏱️ 5:15 • 23h ago
 
 ---
 
@@ -361,7 +361,7 @@ I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISIO
 
 📺 Malva AI
 
-👁️ 15K • 👍 1K • 💬 260 • ⏱️ 10:24 • 1d ago
+👁️ 15K • 👍 1K • 💬 260 • ⏱️ 10:24 • 2d ago
 
 ---
 
@@ -651,7 +651,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.5k • 🔱 908 • 6h ago
+⭐ 7.5k • 🔱 908 • 7h ago
 
 ---
 
@@ -671,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 4h ago
+⭐ 2.2k • 🔱 129 • 5h ago
 
 ---
 
@@ -701,7 +701,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 108 • 21h ago
+⭐ 1.3k • 🔱 108 • 22h ago
 
 ---
 
@@ -711,7 +711,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 104 • 13h ago
+⭐ 1.3k • 🔱 104 • 14h ago
 
 ---
 
