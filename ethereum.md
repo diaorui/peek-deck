@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T09:21:42.187447+00:00'
+updated: '2026-01-10T09:41:57.891059+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 09:21 UTC  
+**Last Updated:** January 10, 2026 at 09:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 36m ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 56m ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView — Track All Markets • 2d ago
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 420 • 👍 49 • 💬 7 • ⏱️ 4:11 • 2h ago
+👁️ 420 • 👍 49 • 💬 7 • ⏱️ 4:11 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 14K • 👍 855 • 💬 80 • ⏱️ 12:30 • 19h ago
+👁️ 14K • 👍 855 • 💬 80 • ⏱️ 12:30 • 20h ago
 
 ---
 
@@ -318,7 +318,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 7K • 👍 262 • 💬 40 • ⏱️ 52:02 • 21h ago
+👁️ 7K • 👍 262 • 💬 40 • ⏱️ 52:02 • 22h ago
 
 ---
 
