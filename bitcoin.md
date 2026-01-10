@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T01:46:38.794103+00:00'
+updated: '2026-01-10T03:25:48.317441+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 01:46 UTC  
+**Last Updated:** January 10, 2026 at 03:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,638.10
+### $90,751.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
+**24h:** -0.8%  
 **7d:** -1.1%  
 **30d:** +0.2%  
 **90d:** -21.5%  
@@ -79,15 +79,7 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-10h ago
-
----
-
-**[The BTC Halving Spiral still hasn't crossed itself](https://www.reddit.com/r/Bitcoin/comments/1q89rhe/the_btc_halving_spiral_still_hasnt_crossed_itself/)**
-
-https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
-
-11h ago
+12h ago
 
 ---
 
@@ -95,19 +87,27 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 Received this notification just now
 
-2h ago
-
----
-
-**[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
-
-14h ago
+4h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-1h ago
+3h ago
+
+---
+
+**[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
+
+16h ago
+
+---
+
+**[The BTC Halving Spiral still hasn't crossed itself](https://www.reddit.com/r/Bitcoin/comments/1q89rhe/the_btc_halving_spiral_still_hasnt_crossed_itself/)**
+
+https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
+
+12h ago
 
 ---
 
@@ -115,15 +115,7 @@ Received this notification just now
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
 
-7h ago
-
----
-
-**[The Real Reason 21m Cap Will NEVER Change: The Nodes (You and Me)](https://www.reddit.com/r/Bitcoin/comments/1q8e1xd/the_real_reason_21m_cap_will_never_change_the/)**
-
-Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growing narrative suggesting that large institutions could somehow change it. To be clear, scarcity is one of Bitcoin’s foundational properties and a core reason it represents the hardest money humanity has ever known. I run a Bitcoin full node (I'm just one part of a large and globally distributed group of individuals) and I would never accept a change to the 21M cap. If any institution (Nation, BlackRock or otherwise) attempted to fork Bitcoin by increasing the supply to more coins, I would continue validating the 21 million–cap chain without hesitation. I’m confident tens of thousands of other node operators would do the same. This is how Bitcoin protects itself: its monetary policy cannot be changed unilaterally. Any supply change requires broad, voluntary consensus across the network. Even in an extreme scenario where institutions attempted to flood the network with nodes to create the appearance of consensus for say a 30 million–coin (or inflating) fork, anyone remains free to run software that enforces the 21M hard cap. In practice, the chain that preserves scarcity would retain the trust of users and holders, making it the economically relevant chain. Miners ultimately follow the chain that nodes validate, exchanges support, and the market values. This is why, while Bitcoin’s supply cap can be changed in theory, it will not be changed in reality. Bitcoin’s decentralized governance ensures that no single actor... or coordinated group... can impose a monetary rule change without overwhelming consensus. Bitcoin is protected because individuals run nodes and independently choose the rules they believe are best. If you want a vote, run a node. It’s effectively free. If you want to help protect Bitcoin’s core rules, consider running your own node. A full node currently requires just under 1TB of storage, while a pruned node requires only a fraction of that. Both consume minimal power and only a few hundred MB of network traffic per day after the initial sync... while giving you direct participation in Bitcoin’s validation and security.
-
-8h ago
+9h ago
 
 ---
 
@@ -131,13 +123,13 @@ Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growi
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-22h ago
+23h ago
 
 ---
 
 **[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -145,7 +137,15 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 I am tired boss
 
-10h ago
+11h ago
+
+---
+
+**[How to prepare for US economic collapse?](https://www.reddit.com/r/Bitcoin/comments/1q8sqkw/how_to_prepare_for_us_economic_collapse/)**
+
+Regardless of political position, it is fair to say the US is going through major political changes which is leading to geopolitical shakeups. I worry that the instability and changes will lead to loss of US economic dominance, and possible collapse (although, I acknowledge this is a slim chance). If so, how would one prepare for this? Buy gold and bitcoin? Hoard cash? What would we see? I would think massive inflation. I am starting to become genuinely worried that the US is going to see major financial hardship in the next 5-10 years, and god forbid, collapse.
+
+25m ago
 
 ---
 
@@ -153,17 +153,17 @@ I am tired boss
 
 ## Google News: "bitcoin"
 
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
-
-The Block • 17h ago
-
----
-
 **[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
 
 Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
 
-CoinDesk • 18h ago
+CoinDesk • 20h ago
+
+---
+
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+
+The Block • 18h ago
 
 ---
 
@@ -171,45 +171,45 @@ CoinDesk • 18h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 13h ago
+CNBC • 15h ago
 
 ---
 
-**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
+**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
 
-Bloomberg.com • 4h ago
+Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
 
----
-
-**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
-
-Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
-
-CoinDesk • 1d ago
+CNBC • 2d ago
 
 ---
 
-**[Will a Supreme Court Ruling Against Trump Cause a Bitcoin Crash?](https://bitcoinmagazine.com/politics/supreme-court-cause-a-bitcoin-crash)**
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
 
-Bitcoin could face heightened volatility if the Supreme Court rules against Trump on his global tariffs, impacting markets across crypto, equities, and bonds.
+There's a major pitfall coming up that'll need to be avoided.
 
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
-
-Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
-
-Yahoo Finance • 8h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
+**[Bitcoin Price Could Surge to $53 Million by 2050, Says VanEck—Here's Why](https://finance.yahoo.com/news/bitcoin-price-could-surge-53-201338320.html)**
 
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
+Could Bitcoin be worth more than $50 million per coin in 24 years? VanEck just put out its most bullish price prediction yet.
 
-VanEck • 1d ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+
+What we know about the South American country’s crypto holdings.
+
+Fortune • 9h ago
+
+---
+
+**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
+
+The Block • 1d ago
 
 ---
 
@@ -217,13 +217,15 @@ VanEck • 1d ago
 
 Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
 
-Bitcoin Magazine • 10h ago
+Bitcoin Magazine • 12h ago
 
 ---
 
-**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
+**[Cathie Wood: Trump May Buy Bitcoin For US Reserve Ahead Of Midterms](https://www.tradingview.com/news/newsbtc:2d0f88b73094b:0-cathie-wood-trump-may-buy-bitcoin-for-us-reserve-ahead-of-midterms/)**
 
-The Block • 1d ago
+Cathie Wood, ARK Invest’s founder and CEO, said she expects the Trump administration could move beyond simply holding seized bitcoin and begin purchasing BTC to build a US strategic reserve, a shift she argued could become a catalytic signal for markets and other governments.Speaking on ARK’s “Bitc…
+
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -265,7 +267,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 16h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 18h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -313,7 +315,7 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 📺 Crypto Insider
 
-👁️ 25K • 👍 2K • 💬 79 • ⏱️ 21:00 • 11h ago
+👁️ 25K • 👍 2K • 💬 79 • ⏱️ 21:00 • 13h ago
 
 ---
 
@@ -323,7 +325,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 710 • 💬 73 • ⏱️ 17:07 • 3h ago
+👁️ 7K • 👍 710 • 💬 73 • ⏱️ 17:07 • 4h ago
 
 ---
 
@@ -343,7 +345,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 9K • 👍 909 • 💬 241 • ⏱️ 10:43 • 9h ago
+👁️ 9K • 👍 909 • 💬 241 • ⏱️ 10:43 • 11h ago
 
 ---
 
@@ -353,7 +355,7 @@ Superheat is announcing their new water heater at CES 2026 that can use the heat
 
 📺 Vortex Bitcoin
 
-👁️ 2K • 👍 50 • 💬 8 • ⏱️ 0:49 • 10h ago
+👁️ 2K • 👍 50 • 💬 8 • ⏱️ 0:49 • 12h ago
 
 ---
 
@@ -393,7 +395,7 @@ Jeff Walton (Punter Jeff) breaks down what 99.9% of Bitcoin investors are comple
 
 📺 BTC Sessions
 
-👁️ 4K • 👍 219 • 💬 56 • ⏱️ 17:33 • 5h ago
+👁️ 4K • 👍 219 • 💬 56 • ⏱️ 17:33 • 7h ago
 
 ---
 

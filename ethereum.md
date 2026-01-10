@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T01:46:38.800117+00:00'
+updated: '2026-01-10T03:25:48.323474+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 01:46 UTC  
+**Last Updated:** January 10, 2026 at 03:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,090.14
+### $3,085.54
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -1.9%  
-**30d:** +0.2%  
+**24h:** -1.1%  
+**7d:** -2.0%  
+**30d:** +0.1%  
 **90d:** -27.3%  
 **1y:** -6.0%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-2h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ For people that have blockchain startups or work in the digital asset space, how
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 13h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 14h ago
 
 ---
 
@@ -96,7 +96,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-12h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-13h ago
+15h ago
 
 ---
 
@@ -112,13 +112,13 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-20h ago
+22h ago
 
 ---
 
 **[Built a tool to resist coercitive seizure of my seed phrases](https://www.reddit.com/r/ethereum/comments/1q7vwtg/built_a_tool_to_resist_coercitive_seizure_of_my/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -126,7 +126,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
 
-16h ago
+18h ago
 
 ---
 
@@ -134,7 +134,7 @@ Correct me if I'm wrong, maybe I've been out of touch with recent developments b
 
 If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw
 
-8h ago
+9h ago
 
 ---
 
@@ -150,22 +150,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum treasury firm SharpLink stakes $170M ETH on Linea network](https://www.coindesk.com/markets/2026/01/09/ethereum-treasury-firm-sharplink-stakes-usd170m-eth-on-linea-network)**
-
-The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
-
-CoinDesk • 16h ago
-
----
-
-**[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://finance.yahoo.com/news/ethereum-treasury-firm-sharplink-stakes-215216000.html)**
-
-Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://decrypt.co/354058/ethereum-treasury-firm-sharplink-gaming-stakes-170-million-eth-linea)**
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
@@ -178,7 +162,7 @@ Decrypt • 1d ago
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -204,11 +188,11 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Ethereum (ETH-USD) Steadies Near $3,100, Trend Remains Under Pressure (Technical Analysis)](https://seekingalpha.com/article/4858443-ethereum-steadies-near-3100-trend-remains-under-pressure-technical-analysis)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
 
-Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
 
-Seeking Alpha • 7h ago
+Bit Digital • 2d ago
 
 ---
 
@@ -216,15 +200,31 @@ Seeking Alpha • 7h ago
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
+**[Ethereum Steadies Near $3,100, But Trend Remains Under Pressure (Technical Analysis)](https://seekingalpha.com/article/4858443-ethereum-steadies-near-3100-trend-remains-under-pressure-technical-analysis)**
 
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
+Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Bit Digital • 2d ago
+Seeking Alpha • 8h ago
+
+---
+
+**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
+
+Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
+
+Coinpedia Fintech News • 8h ago
+
+---
+
+**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
+
+Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-t
 
 📺 Coin Bureau
 
-👁️ 11K • 👍 607 • 💬 35 • ⏱️ 46:28 • 55m ago
+👁️ 11K • 👍 607 • 💬 35 • ⏱️ 46:28 • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 107 • 💬 44 • ⏱️ 17:54 • 2h ago
+👁️ 2K • 👍 107 • 💬 44 • ⏱️ 17:54 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 6K • 👍 243 • 💬 38 • ⏱️ 52:02 • 14h ago
+👁️ 6K • 👍 243 • 💬 38 • ⏱️ 52:02 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 13K • 👍 812 • 💬 78 • ⏱️ 12:30 • 12h ago
+👁️ 13K • 👍 812 • 💬 78 • ⏱️ 12:30 • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 4K • 👍 273 • 💬 27 • ⏱️ 15:28 • 5h ago
+👁️ 4K • 👍 273 • 💬 27 • ⏱️ 15:28 • 7h ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 258 • 👍 11 • 💬 3 • ⏱️ 5:53 • 5h ago
+👁️ 258 • 👍 11 • 💬 3 • ⏱️ 5:53 • 7h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 100 • 💬 8 • ⏱️ 5:13 • 8h ago
+👁️ 1K • 👍 100 • 💬 8 • ⏱️ 5:13 • 10h ago
 
 ---
 

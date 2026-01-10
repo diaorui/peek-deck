@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T01:46:38.785558+00:00'
+updated: '2026-01-10T03:25:48.308552+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 01:46 UTC  
+**Last Updated:** January 10, 2026 at 03:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Terrence Tao: "Erdos problem #728 was solved more or less autonomously by AI"](https://www.reddit.com/r/artificial/comments/1q8qvey/terrence_tao_erdos_problem_728_was_solved_more_or/)**
+
+"Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
+
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 1h ago
+
+---
+
 **[Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room](https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/)**
 
-I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel?
+I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-1h ago
+2h ago
 
 ---
 
@@ -49,23 +57,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 17h ago
-
----
-
-**[Terrence Tao: "Erdos problem #728 was solved more or less autonomously by AI"](https://www.reddit.com/r/artificial/comments/1q8qvey/terrence_tao_erdos_problem_728_was_solved_more_or/)**
-
-"Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
-
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 10m ago
-
----
-
-**[Elon Musk's Grok AI image editing limited to paid users after deepfakes](https://www.reddit.com/r/artificial/comments/1q83cyi/elon_musks_grok_ai_image_editing_limited_to_paid/)**
-
-It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/c99kn52nx9do) • 16h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 19h ago
 
 ---
 
@@ -81,7 +73,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-12h ago
+14h ago
 
 ---
 
@@ -89,7 +81,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-10h ago
+12h ago
 
 ---
 
@@ -113,7 +105,13 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
 
-19h ago
+21h ago
+
+---
+
+**[Utah becomes first state to allow AI to approve prescription refills](https://www.reddit.com/r/artificial/comments/1q72vek/utah_becomes_first_state_to_allow_ai_to_approve/)**
+
+🔗 [thehill.com](https://thehill.com/policy/healthcare/5676511-ai-prescriptions-utah-doctronic/) • 1d ago
 
 ---
 
@@ -125,45 +123,35 @@ Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1]
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 3h ago
+The Atlantic • 4h ago
 
 ---
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 4h ago
+The New York Times • 6h ago
 
 ---
 
-**[Watch: Backlash against Musk's Grok AI explained](https://www.bbc.com/news/videos/c8x94zr8yxvo)**
+**[Grok turns off image generator for most users after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)**
 
-Technology editor Zoe Kleinman explains the row over changes made by X to it's Grok AI image edits, after the UK government called it "insulting".
+X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-BBC • 8h ago
-
----
-
-**[No 10 condemns ‘insulting’ move by X to restrict Grok AI image tool](https://www.theguardian.com/technology/2026/jan/09/no-10-condemns-move-by-x-to-restrict-grok-ai-image-creation-tool-as-insulting)**
-
-Spokesperson says limiting access to paying subscribers just makes ability to generate unlawful images a premium service
-
-The Guardian • 12h ago
+The Guardian • 19h ago
 
 ---
 
-**[2 Artificial Intelligence (AI) Stocks That Could Make You a Millionaire](https://www.fool.com/investing/2026/01/09/2-ai-stocks-that-could-make-you-millions/)**
+**[Grok AI model still generating sexualized content after changes](https://www.nbcnews.com/video/grok-ai-model-still-generating-sexualized-content-after-changes-255722053882)**
 
-It's not too late to get in on this exciting investment theme.
+On Elon Musk’s social media platform X, the Grok AI image generation reply bot has been changed to be for paying customers only and appears to be restricted from making sexualized deepfakes after recent outcry. But in the Grok standalone app and other spaces, users can still use AI to remove clothing from images of nonconsenting people. NBC News’ Kevin Collier talks with Gadi Schwartz about the changes.
 
-The Motley Fool • 36m ago
+NBC News • 57m ago
 
 ---
 
-**[OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Performance of AI Agents](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/)**
+**[See how AI images claiming to reveal Minneapolis ICE agent’s face spread confusion](https://www.washingtonpost.com/technology/2026/01/09/ai-unmask-shooting-ice-minneapolis/)**
 
-To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.
-
-WIRED • 35m ago
+The Washington Post • 9h ago
 
 ---
 
@@ -171,15 +159,7 @@ WIRED • 35m ago
 
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-BBC • 15h ago
-
----
-
-**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
-
-From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
-
-NBC News • 15h ago
+BBC • 17h ago
 
 ---
 
@@ -187,7 +167,7 @@ NBC News • 15h ago
 
 A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.
 
-Quanta Magazine • 9h ago
+Quanta Magazine • 11h ago
 
 ---
 
@@ -195,7 +175,23 @@ Quanta Magazine • 9h ago
 
 The shortage of primary care doctors is a national problem. To cope, a large health system in Massachusetts is using an AI tool to screen patients and refer them to other care.
 
-NPR • 15h ago
+NPR • 17h ago
+
+---
+
+**[CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)**
+
+CES 2026 is in full swing in Las Vegas, with the show floor open to the public after a packed couple of days occupied by press conferences from the likes of Nvidia, Sony, and AMD and previews from Sunday’s Unveiled event.
+
+TechCrunch • 4h ago
+
+---
+
+**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+
+Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+
+CNBC • 14h ago
 
 ---
 
@@ -205,7 +201,7 @@ NPR • 15h ago
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 748 • 💬 282 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 749 • 💬 283 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -213,7 +209,7 @@ NPR • 15h ago
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 543 • 💬 383 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 543 • 💬 384 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -221,7 +217,17 @@ NPR • 15h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 435 • 💬 700 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 437 • 💬 704 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+
+---
+
+**[“Erdos problem #728 was solved more or less autonomously by AI”](https://news.ycombinator.com/item?id=46560445)**
+
+Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728 https://www.erdosproblems.com/728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located).
+
+This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
+
+⬆️ 266 • 💬 181 • 4h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -249,16 +255,6 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 ---
 
-**[“Erdos problem #728 was solved more or less autonomously by AI”](https://news.ycombinator.com/item?id=46560445)**
-
-Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728 https://www.erdosproblems.com/728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located).
-
-This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
-
-⬆️ 202 • 💬 142 • 3h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
-
----
-
 **[AI misses nearly one-third of breast cancers, study finds](https://news.ycombinator.com/item?id=46537983)**
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
@@ -271,7 +267,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 74 • 💬 90 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 74 • 💬 91 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -279,7 +275,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 62 • 💬 113 • 7h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 73 • 💬 126 • 9h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -293,7 +289,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 28K • 👍 2K • 💬 174 • ⏱️ 19:15 • 11h ago
+👁️ 28K • 👍 2K • 💬 174 • ⏱️ 19:15 • 13h ago
 
 ---
 
@@ -333,7 +329,7 @@ Elon Musk's platform X has limited Grok Artificial Intelligence (AI) image edits
 
 📺 BBC News
 
-👁️ 13K • 👍 297 • 💬 139 • ⏱️ 3:03 • 9h ago
+👁️ 13K • 👍 297 • 💬 139 • ⏱️ 3:03 • 11h ago
 
 ---
 
@@ -363,7 +359,7 @@ Repair Tools I Use (Updated Regularly – Includes Soldering Gear): https://www.
 
 📺 Phone Repair Guru
 
-👁️ 235K • 👍 8K • 💬 137 • ⏱️ 0:21 • 20h ago
+👁️ 235K • 👍 8K • 💬 137 • ⏱️ 0:21 • 22h ago
 
 ---
 
@@ -411,7 +407,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 8,048 • ❤️ 693 • 8d ago
+⬇️ 8,048 • ❤️ 693 • 9d ago
 
 ---
 
@@ -459,7 +455,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,216 • ❤️ 331 • 3d ago
+⬇️ 30,216 • ❤️ 331 • 4d ago
 
 ---
 
@@ -483,7 +479,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 222 • 19h ago
+⬇️ 5,785 • ❤️ 222 • 21h ago
 
 ---
 
@@ -651,7 +647,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 890 • 7h ago
+⭐ 7.4k • 🔱 890 • 9h ago
 
 ---
 
@@ -671,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 7h ago
+⭐ 2.2k • 🔱 129 • 9h ago
 
 ---
 
@@ -701,7 +697,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 104 • 3h ago
+⭐ 1.3k • 🔱 104 • 4h ago
 
 ---
 
@@ -711,7 +707,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 105 • 11h ago
+⭐ 1.3k • 🔱 105 • 12h ago
 
 ---
 
@@ -721,7 +717,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 15h ago
+⭐ 1.2k • 🔱 143 • 17h ago
 
 ---
 
