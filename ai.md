@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T05:22:26.581472+00:00'
+updated: '2026-01-10T05:45:12.138192+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - videos
 - social
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 05:22 UTC  
+**Last Updated:** January 10, 2026 at 05:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 3h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
 
-51m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1]
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 9h ago
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -155,7 +155,7 @@ BBC • 7h ago
 
 These tech leaders are playing crucial roles in bringing AI to the masses.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -231,7 +231,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 323 • 💬 200 • 6h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 323 • 💬 200 • 7h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -353,7 +353,7 @@ Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Bre
 
 📺 MoreBeckBros
 
-👁️ 49K • 👍 3K • 💬 377 • ⏱️ 26:17 • 6h ago
+👁️ 49K • 👍 3K • 💬 377 • ⏱️ 26:17 • 7h ago
 
 ---
 
@@ -373,7 +373,7 @@ Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The wo
 
 📺 Ishan Sharma
 
-👁️ 10K • 👍 744 • 💬 43 • ⏱️ 10:52 • 15h ago
+👁️ 10K • 👍 744 • 💬 43 • ⏱️ 10:52 • 16h ago
 
 ---
 
@@ -703,7 +703,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 104 • 6h ago
+⭐ 1.3k • 🔱 104 • 7h ago
 
 ---
 
@@ -713,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 106 • 14h ago
+⭐ 1.3k • 🔱 106 • 15h ago
 
 ---
 

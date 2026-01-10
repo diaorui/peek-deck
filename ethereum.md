@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T05:22:26.596010+00:00'
+updated: '2026-01-10T05:45:12.152715+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 05:22 UTC  
+**Last Updated:** January 10, 2026 at 05:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 16h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 17h ago
 
 ---
 
@@ -142,7 +142,7 @@ Correct me if I'm wrong, maybe I've been out of touch with recent developments b
 
 If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw  [comments]
 
-11h ago
+12h ago
 
 ---
 
@@ -164,7 +164,7 @@ SharpLink Gaming recently deployed US$170 million worth of Ethereum to the Linea
 As the world’s second-largest corporate holder of Ethereum, SharpLink’s move could become a reference point for how publicly listed companies structure institutional-grade decentralized finance activity.
 Next, we’ll explore how this Ethereum deployment to Linea influences SharpLink’s investment narrative,...
 
-simplywall.st • 2h ago
+simplywall.st • 3h ago
 
 ---
 
@@ -218,7 +218,7 @@ Bit Digital • 2d ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 10h ago
+Coinpedia Fintech News • 11h ago
 
 ---
 
@@ -250,7 +250,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 6K • 👍 250 • 💬 38 • ⏱️ 52:02 • 17h ago
+👁️ 6K • 👍 250 • 💬 38 • ⏱️ 52:02 • 18h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 153 • 💬 52 • ⏱️ 17:54 • 5h ago
+👁️ 3K • 👍 153 • 💬 52 • ⏱️ 17:54 • 6h ago
 
 ---
 
@@ -300,7 +300,7 @@ Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-t
 
 📺 Stock Moe
 
-👁️ 13K • 👍 828 • 💬 78 • ⏱️ 12:30 • 15h ago
+👁️ 13K • 👍 828 • 💬 78 • ⏱️ 12:30 • 16h ago
 
 ---
 

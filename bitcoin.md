@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T05:22:26.589948+00:00'
+updated: '2026-01-10T05:45:12.146713+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 05:22 UTC  
+**Last Updated:** January 10, 2026 at 05:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Is that all you need?](https://www.reddit.com/r/Bitcoin/comments/1q8tbcc/is_that_all_you_need/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-14h ago
+15h ago
 
 ---
 
@@ -143,7 +143,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 I am tired boss
 
-13h ago
+14h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 22h ago
 
 **[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 17h ago
 
 In late 2025, Riot Platforms reported producing 460 Bitcoin in December while selling 1,818 Bitcoin for US$161.6 million, alongside completing over US$600.53 million of follow-on equity offerings and announcing Jason Chung as its incoming Chief Financial Officer from March 2026. These moves mark a clear shift away from a pure Bitcoin-hoarding model toward using coin sales and fresh equity to fund an AI-focused data center build-out and broader digital infrastructure ambitions. We’ll now...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -313,7 +313,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 971 • 💬 88 • ⏱️ 17:07 • 6h ago
+👁️ 11K • 👍 971 • 💬 88 • ⏱️ 17:07 • 7h ago
 
 ---
 

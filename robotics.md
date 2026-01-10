@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T05:22:26.599309+00:00'
+updated: '2026-01-10T05:45:12.155989+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 05:22 UTC  
+**Last Updated:** January 10, 2026 at 05:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
 
-19h ago
+20h ago
 
 ---
 
