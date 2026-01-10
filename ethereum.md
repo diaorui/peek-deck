@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T22:20:56.637553+00:00'
+updated: '2026-01-10T22:44:13.308143+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 22:20 UTC  
+**Last Updated:** January 10, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,24 +45,24 @@ Live Ethereum monitoring dashboard
 **24h:** +0.1%  
 **7d:** -1.9%  
 **30d:** +0.2%  
-**90d:** -27.3%  
+**90d:** -27.2%  
 **1y:** -6.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.69B
+**Market Cap:** $372.20B
 Rank #2
 
 **Circulating Supply:** 120,694,734 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.6%
+-37.7%
 
 **All-Time Low:** $0.43
-+712976.2%
++712015.4%
 
 ---
 
@@ -152,19 +152,11 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 ## Google News: "ethereum"
 
-**[Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'](https://www.coindesk.com/business/2026/01/10/robinhood-explains-building-an-ethereum-layer-2-we-wanted-the-security-from-ethereum)**
-
-CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
-
-CoinDesk • 3h ago
-
----
-
 **[Ethereum Staking Hits Choke Point as Institutions Pile in Despite Low Yields](https://finance.yahoo.com/news/ethereum-staking-hits-choke-point-153000578.html)**
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -172,7 +164,15 @@ Yahoo Finance • 6h ago
 
 In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
+
+---
+
+**[Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'](https://www.coindesk.com/business/2026/01/10/robinhood-explains-building-an-ethereum-layer-2-we-wanted-the-security-from-ethereum)**
+
+CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
+
+CoinDesk • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 12h ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ Coinpedia Fintech News • 1d ago
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -234,13 +234,23 @@ Seeking Alpha • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+
+📺 Digital Asset News
+
+👁️ 3K • 👍 319 • 💬 46 • ⏱️ 24:05 • 2h ago
+
+---
+
 **[This One Catalyst Could Send Ethereum &amp; Solana to New All-Time Highs w/ Matt Hougan &amp; Ryan Rasmussen](https://www.youtube.com/watch?v=Lc1NKDlP1us)**
 
 In this episode, we dig into the one catalyst that could flip the switch for crypto markets and why Ethereum and Solana sit directly ...
 
 📺 Milk Road
 
-👁️ 1K • 👍 89 • 💬 115 • ⏱️ 11:37 • 8h ago
+👁️ 2K • 👍 102 • 💬 28 • ⏱️ 11:37 • 8h ago
 
 ---
 
@@ -250,7 +260,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 240 • 👍 28 • 💬 7 • ⏱️ 6:18 • 4h ago
+👁️ 351 • 👍 31 • 💬 25 • ⏱️ 6:18 • 5h ago
 
 ---
 
@@ -260,17 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 770 • 👍 75 • 💬 11 • ⏱️ 5:05 • 5h ago
-
----
-
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
-
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
-
-📺 Digital Asset News
-
-👁️ 1K • 👍 138 • 💬 4 • ⏱️ 24:05 • 1h ago
+👁️ 1K • 👍 89 • 💬 11 • ⏱️ 5:05 • 6h ago
 
 ---
 
@@ -280,37 +280,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 602 • 👍 39 • 💬 25 • ⏱️ 16:56 • 2h ago
-
----
-
-**[&quot;Time for HONESTY! We Might Have Been Wrong About 2026&quot; - Tom Lee &amp; Jack Mallers](https://www.youtube.com/watch?v=VhKHFbHnhGU)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 231 • 💬 33 • ⏱️ 20:39 • 1d ago
-
----
-
-**[BITCOIN &amp; ETHEREUM &amp; SOLANA ARE GOING DOWN!!!!](https://www.youtube.com/watch?v=TYnZkjuYQyk)**
-
-Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
-
-📺 Davinci Jeremie
-
-👁️ 9K • 👍 483 • 💬 65 • ⏱️ 15:28 • 1d ago
-
----
-
-**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
-
-Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 229 • 💬 41 • ⏱️ 4:20 • 1d ago
+👁️ 2K • 👍 131 • 💬 240 • ⏱️ 16:56 • 2h ago
 
 ---
 
@@ -320,7 +290,37 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 8K • 👍 315 • 💬 42 • ⏱️ 52:02 • 1d ago
+👁️ 9K • 👍 317 • 💬 41 • ⏱️ 52:02 • 1d ago
+
+---
+
+**[Ethereum Supply Shock: Zero Validators Are Selling (2026 Data)](https://www.youtube.com/watch?v=GrvWuEjgoTU)**
+
+In this video, we analyze a critical shift in Ethereum's network health as we move into 2026. For the first time in months, the ...
+
+📺 CryptoStock Lab
+
+👁️ 71 • 👍 8 • 💬 6 • ⏱️ 14:11 • 43m ago
+
+---
+
+**[&quot;Time for HONESTY! We Might Have Been Wrong About 2026&quot; - Tom Lee &amp; Jack Mallers](https://www.youtube.com/watch?v=VhKHFbHnhGU)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 236 • 💬 17 • ⏱️ 20:39 • 1d ago
+
+---
+
+**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
+
+Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 231 • 💬 39 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Stock Moe
 
-👁️ 15K • 👍 894 • 💬 102 • ⏱️ 12:30 • 1d ago
+👁️ 15K • 👍 899 • 💬 101 • ⏱️ 12:30 • 1d ago
 
 ---
 

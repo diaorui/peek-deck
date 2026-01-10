@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T22:20:56.640754+00:00'
+updated: '2026-01-10T22:44:13.311348+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 22:20 UTC  
+**Last Updated:** January 10, 2026 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-8h ago
+9h ago
 
 ---
 
@@ -58,13 +58,21 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-21h ago
+22h ago
+
+---
+
+**[Feedback on robot arm appearance](https://www.reddit.com/r/robotics/comments/1q9hn4p/feedback_on_robot_arm_appearance/)**
+
+Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
+
+20m ago
 
 ---
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -74,9 +82,19 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 ---
 
-**[30-second form to get mentoring from top teams!!](https://www.reddit.com/r/robotics/comments/1q9gi41/30second_form_to_get_mentoring_from_top_teams/)**
+**[Obstacle aware path planning](https://www.reddit.com/r/robotics/comments/1q9hmqb/obstacle_aware_path_planning/)**
 
-42m ago
+Considering that the area (with its obstacles and free space) to be spanned is known beforehand, that the obstacles in it do not change dynamically (if they exist), and that they can have any shape (can be non-convex). Then, what are the most commonly used algorithms for path planning considering obstacle avoidance (for this kind of problem)? My first (naive) solution was to discretize the obstacles borders into a graph (or many) and, then, apply A* (or some variation of it). I am new to this, so I would appreciate any help (like bibliography recommendations).
+
+20m ago
+
+---
+
+**[Adeept AWR 4WD Kit + Raspberry Pi 5 - Good first robot?](https://www.reddit.com/r/robotics/comments/1q9gui8/adeept_awr_4wd_kit_raspberry_pi_5_good_first_robot/)**
+
+Hello! I'm new into robotics and I want to use my Raspberry Pi 5. Is the Adeept AWR 4WD a good platform to start with? https://www.adeept.com/4wd-ordinary-wheel-raspberrypi_p0441.html I like that it has a dedicated HAT for power and includes a camera for OpenCV, but I'm worried about the Pi 5's high power draw. Has anyone successfully used this kit for ROS 2 or advanced AI projects? Any advice or alternative kit suggestions would be appreciated!
+
+52m ago
 
 ---
 
@@ -84,23 +102,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 I wanted to share a project I've been working on called MESGRO. I was looking for a way to host my portfolio that didn't feel like a generic blog or an academic site. Most of the templates I found are great for web developers, but they lack features for when you want to show off CAD, PCB layouts, and firmware snippets all in one place. I built this using Jekyll so it's easy to host on GitHub Pages for free. It’s basically a gallery-style layout specifically for mechatronics/robotics documentation. It's open-source if anyone wants to fork it. I’m looking for feedback, if there’s something specific you guys usually struggle to document in your portfolios, feel free to create a pull request! https://github.com/aojedao/MESGRO If you want to see a real example I built my own portfolio page website with it.
 
-🔗 [GitHub](https://github.com/aojedao/MESGRO) • 4h ago
-
----
-
-**[any ideas for a robotic solution to problems concerning culture/assistance in the diffusion of customs and traditions?](https://www.reddit.com/r/robotics/comments/1q98nul/any_ideas_for_a_robotic_solution_to_problems/)**
-
-we are an Italian team that's looking forward to start a project aiming to solve problems in the cultural scene, something not generalized like a articulated anthropomorphic robot and neither something that would substitute the human part of the traditions. Something that's still robotic (so not exceedingly based on just software) but specialized to a certain purpose, assisting the diffusion and the discovery of minor cultures to more people.
-
-5h ago
-
----
-
-**[Sherpa autonomous windmill assembly demo shown at CES 2026](https://www.reddit.com/r/robotics/comments/1q843j8/sherpa_autonomous_windmill_assembly_demo_shown_at/)**
-
-From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Here’s the windmill assembly demo we showed at CES 2026 — the one no one saw coming. North executes a fully autonomous, long-horizon dexterous sequence with sustained hand–eye–tactile coordination and assembly-level precision enabled by tactile feedback. It’s also robust to disturbance: you can reposition the objects, and North will still identify them and recover the task. This is powered by CraftNet (VTLA) — using tactile feedback to continuously fine-tune the last-millimeter interaction, enabling reliable execution across 30+ steps. Read more about CraftNet: https://sharpa.com/blogs/news/sharpa-announces-craftnet-a-hierarchical-vtla-model-for-fine-manipulation
-
-1d ago
+🔗 [GitHub](https://github.com/aojedao/MESGRO) • 5h ago
 
 ---
 
@@ -122,6 +124,14 @@ CNET • 1d ago
 
 ---
 
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
+
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+
+WYMT • 1d ago
+
+---
+
 **[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
@@ -138,19 +148,19 @@ Seeking Alpha • 9h ago
 
 ---
 
-**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
-
-FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
-
-WYMT • 1d ago
-
----
-
 **[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
 
 Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
 
 Fortune • 2d ago
+
+---
+
+**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
+
+CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -162,14 +172,6 @@ IFR International Federation of Robotics • 2d ago
 
 ---
 
-**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
-
-Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
-
-Interesting Engineering • 2d ago
-
----
-
 **[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
 
 New technique varies colour and texture to open up potential applications in display technologies
@@ -178,9 +180,11 @@ Financial Times • 3d ago
 
 ---
 
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqdUi278bNL6RamH4SRKAYaQW3wNqI35IWCW8v4d4NDGxROIqNAm730h&gaa_ts=6962cabe&gaa_sig=k6RsACMNvOmfStQtRV1yzpJE-dGoAXsrnqoWgD4SzoxQVX9R_eTDdR_EN8D9GDxKaV0CO2opqADP9QXwGXZ45Q%3D%3D)**
+**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
 
-The Wall Street Journal • 2d ago
+Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -194,7 +198,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 48K • 👍 1K • ⏱️ 56:16 • 5h ago
+👁️ 54K • 👍 1K • ⏱️ 56:16 • 5h ago
 
 ---
 
@@ -204,7 +208,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 243K • 👍 3K • 💬 576 • ⏱️ 4:29 • 3d ago
+👁️ 248K • 👍 3K • 💬 581 • ⏱️ 4:29 • 3d ago
 
 ---
 
@@ -214,7 +218,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 673 • 👍 117 • 💬 12 • ⏱️ 9:28 • 3h ago
+👁️ 2K • 👍 189 • 💬 20 • ⏱️ 9:28 • 3h ago
 
 ---
 
@@ -224,7 +228,17 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 45K • 👍 408 • 💬 38 • ⏱️ 11:13 • 4d ago
+👁️ 46K • 👍 411 • 💬 38 • ⏱️ 11:13 • 4d ago
+
+---
+
+**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
+
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
+
+📺 NBC News
+
+👁️ 180K • 👍 2K • 💬 210 • ⏱️ 0:22 • 4d ago
 
 ---
 
@@ -248,16 +262,6 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 ---
 
-**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
-
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
-
-📺 NBC News
-
-👁️ 179K • 👍 2K • 💬 208 • ⏱️ 0:22 • 4d ago
-
----
-
 **[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
 
 The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
@@ -268,23 +272,23 @@ The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mo
 
 ---
 
-**[21 Coolest Tech at CES 2026](https://www.youtube.com/watch?v=83TiUbFY6fY)**
+**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
 
-Our best CES 2026 tech list. From robotics, to personal self-driving cars to groundbreaking VR tech. CES 2026 brought the hottest ...
+LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
 
-📺 Cybernews
+📺 WION
 
-👁️ 90K • 👍 2K • 💬 135 • ⏱️ 28:35 • 18h ago
+👁️ 5K • 👍 20 • 💬 13 • ⏱️ 1:15 • 4d ago
 
 ---
 
-**[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
+**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
 
-CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
+Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
 
-📺 Technology Now
+📺 Unitree Robotics
 
-👁️ 23K • 👍 298 • 💬 15 • ⏱️ 7:38 • 6d ago
+👁️ 6.1M • 👍 4K • 💬 1K • ⏱️ 0:32 • 6d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T22:20:56.623016+00:00'
+updated: '2026-01-10T22:44:13.293564+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 22:20 UTC  
+**Last Updated:** January 10, 2026 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 20h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 21h ago
 
 ---
 
@@ -87,7 +87,7 @@ This is def interesting for all SWEs who would like to know what goes behind the
 
 I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-21h ago
+22h ago
 
 ---
 
@@ -95,7 +95,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/share/1feed6565f52 Payload (run it in any AI to reproduce results): https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk Key takeaways from the Gemini analysis: Allegations repeated across platforms lacked primary source backing No case numbers, medical records, or public filings were found for key claims Verified data pointed to a civil dispute—not criminal activity A clear pattern of repetition-without-citation emerged It even outlined how claims spread and identified which lacked verifiable origin. This was done using public tools—no backend access, no court databases, no manipulation. Just the protocol + clean input = verified output. If you've ever wondered whether AI can actually verify claims at the forensic level: It can. And it just did.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 12h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 13h ago
 
 ---
 
@@ -109,53 +109,13 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor can have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance or unfamiliarity with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
 
-14h ago
+15h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[Behind Anthropic's stunning growth is a sibling team that may hold the key to generative AI](https://www.cnbc.com/2026/01/10/anthropic-amodei-siblings-generative-ai.html)**
-
-Daniela Amodei has helped build Anthropic into a serious AI player by betting on safety and enterprise adoption.
-
-CNBC • 9h ago
-
----
-
-**[AI bubble: five things you need to know to shield your finances from a crash](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions)**
-
-Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
-
-The Guardian • 15h ago
-
----
-
-**[Fears of an AI bubble were nowhere to be found at the world’s biggest tech show](https://www.cnn.com/2026/01/10/tech/ces-ai-tech-las-vegas)**
-
-AI once again dominated CES, where companies from around the world gathered to flaunt new technologies. It’s where tech giants like Nvidia, Samsung, and Amazon made their case for the role AI will play in how people live and work, despite concerns of an AI bubble.
-
-CNN • 14h ago
-
----
-
-**[Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart](https://www.cnbc.com/2026/01/10/are-we-in-an-ai-bubble-tech-leaders-analysts.html)**
-
-OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.
-
-CNBC • 9h ago
-
----
-
-**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
-
-Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
-
-The Atlantic • 23h ago
-
----
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
@@ -179,11 +139,39 @@ The Guardian • 5h ago
 
 ---
 
-**[Why We Need Meditation in the AI Era](https://time.com/7345147/we-need-meditation-in-the-ai-era/)**
+**[AI memory is sold out, causing an unprecedented surge in prices](https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html)**
 
-Decades of research have demonstrated the benefits of meditation.
+Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
 
-Time Magazine • 11h ago
+CNBC • 10h ago
+
+---
+
+**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
+
+Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
+
+The Atlantic • 1d ago
+
+---
+
+**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
+
+Reuters • 7h ago
+
+---
+
+**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[Review of Meta-Manus deal underscores China’s tightening grip on AI exports](https://www.scmp.com/tech/big-tech/article/3339335/review-meta-manus-deal-underlines-chinas-tightening-grip-ai-exports)**
+
+AI agent start-up may face half a year of regulatory checks on data security, dual-use technologies and overseas investment rules: analysts.
+
+South China Morning Post • 18h ago
 
 ---
 
@@ -192,6 +180,14 @@ Time Magazine • 11h ago
 To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.
 
 WIRED • 21h ago
+
+---
+
+**[Reimagining retail with Dynamics 365 and AI Agents](https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/01/08/agentic-ai-in-retail-how-dynamics-365-powers-commerce-anywhere/)**
+
+Discover how Dynamics 365 and agentic AI are transforming retail operations into a Commerce Anywhere model.
+
+Microsoft • 2d ago
 
 ---
 
@@ -211,7 +207,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 587 • 💬 331 • 23h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 590 • 💬 334 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -235,7 +231,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 157 • 💬 222 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 158 • 💬 222 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -251,7 +247,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 86 • 💬 121 • 5h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 113 • 💬 142 • 5h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -267,7 +263,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 68 • 💬 43 • 1d ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 69 • 💬 44 • 1d ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -289,7 +285,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 85K • 👍 2K • 💬 66 • ⏱️ 17:54 • 1d ago
+👁️ 87K • 👍 2K • 💬 66 • ⏱️ 17:54 • 1d ago
 
 ---
 
@@ -299,7 +295,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 108K • 👍 2K • 💬 154 • ⏱️ 13:08 • 2d ago
+👁️ 110K • 👍 2K • 💬 154 • ⏱️ 13:08 • 2d ago
 
 ---
 
@@ -309,7 +305,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 50K • 👍 3K • 💬 232 • ⏱️ 19:15 • 1d ago
+👁️ 53K • 👍 3K • 💬 234 • ⏱️ 19:15 • 1d ago
 
 ---
 
@@ -319,17 +315,27 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 22K • 👍 821 • 💬 44 • ⏱️ 11:06 • 23h ago
+👁️ 23K • 👍 857 • 💬 46 • ⏱️ 11:06 • 23h ago
 
 ---
 
-**[AI LAYOFFS ARE BACKFIRING!](https://www.youtube.com/watch?v=fvhMFdrd-Lw)**
+**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
 
-Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ Join the community!
+LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
 
-📺 Joshua Fluke
+📺 Matt Wolfe
 
-👁️ 50K • 👍 3K • 💬 946 • ⏱️ 5:15 • 1d ago
+👁️ 21K • 👍 1K • 💬 101 • ⏱️ 14:39 • 8h ago
+
+---
+
+**[I Tried To Avoid AI at CES 2026 - Here’s What I Found](https://www.youtube.com/watch?v=VR4LovNW6EQ)**
+
+CES 2026 was absolutely flooded with AI hype and tons of slop, but this video is different. I specifically went looking for products ...
+
+📺 Shannon Morse
+
+👁️ 6K • 👍 561 • 💬 41 • ⏱️ 27:51 • 8h ago
 
 ---
 
@@ -339,17 +345,17 @@ I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISIO
 
 📺 Malva AI
 
-👁️ 17K • 👍 1K • 💬 268 • ⏱️ 10:24 • 2d ago
+👁️ 17K • 👍 1K • 💬 272 • ⏱️ 10:24 • 2d ago
 
 ---
 
-**[World&#39;s Most Dangerous AI](https://www.youtube.com/watch?v=GSkySDNmjV8)**
+**[How to Create Talking Avatar with AI (Step by Step 2026)](https://www.youtube.com/watch?v=QaNWGG8fSSk)**
 
-Use code crayoncapital at https://incogni.com/crayoncapital to get an exclusive 60% off. September 11, 2001. The U.S. ...
+In this video, I walk you step by step through the exact process of how to create talking ai avatar with lip sync with HeyGen, even if ...
 
-📺 Crayon Capital
+📺 Mariana Montoya 
 
-👁️ 7K • 👍 425 • 💬 56 • ⏱️ 15:19 • 11h ago
+👁️ 1K • 💬 21 • ⏱️ 9:40 • 6h ago
 
 ---
 
@@ -359,27 +365,17 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 36K • 👍 1K • 💬 84 • ⏱️ 14:35 • 2d ago
+👁️ 37K • 👍 1K • 💬 82 • ⏱️ 14:35 • 2d ago
 
 ---
 
-**[The 10 Most In-Demand AI Skills for 2026](https://www.youtube.com/watch?v=udg_UKml3XY)**
+**[What You Absolutely NEED to Know About AI in 2026](https://www.youtube.com/watch?v=K0UwutA4utA)**
 
-Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The world of work is changing fast, and the single ...
+Subscribe to stay up to date with AI in 2026! This week in AI was mostly filled with announcements about things coming in 2026, ...
 
-📺 Ishan Sharma
+📺 The AI Advantage
 
-👁️ 19K • 👍 1K • 💬 53 • ⏱️ 10:52 • 1d ago
-
----
-
-**[How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED](https://www.youtube.com/watch?v=fStLnjrZF_c)**
-
-Scientists estimate that 80 percent of life on Earth is still unknown to humanity. But as global temperatures rise, habitats shrink and ...
-
-📺 TED
-
-👁️ 19K • 👍 611 • 💬 48 • ⏱️ 12:52 • 2d ago
+👁️ 7K • 👍 317 • 💬 24 • ⏱️ 15:26 • 1d ago
 
 ---
 
@@ -395,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 496,524 • ❤️ 738 • 2d ago
+⬇️ 496,524 • ❤️ 743 • 2d ago
 
 ---
 
@@ -419,7 +415,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 10,290 • ❤️ 345 • 3d ago
+⬇️ 10,290 • ❤️ 349 • 3d ago
 
 ---
 
@@ -431,7 +427,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,862 • ❤️ 267 • 4d ago
+⬇️ 1,862 • ❤️ 270 • 4d ago
 
 ---
 
@@ -443,7 +439,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 10,162 • ❤️ 241 • 1d ago
+⬇️ 10,162 • ❤️ 242 • 1d ago
 
 ---
 
@@ -467,7 +463,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 21,700 • ❤️ 560 • 10d ago
+⬇️ 21,700 • ❤️ 562 • 10d ago
 
 ---
 
@@ -529,7 +525,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 84 • 💬 1 • ⭐ 1,872 • 4d ago
+▲ 85 • 💬 1 • ⭐ 1,872 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -569,21 +565,9 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 130 • 💬 18 • ⭐ 49,594 • 10mo ago
+▲ 130 • 💬 18 • ⭐ 49,636 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
-
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
-
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
-
-▲ 18 • 💬 2 • ⭐ 14,790 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -613,6 +597,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 18 • 💬 2 • ⭐ 14,810 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
 **[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
 
 *Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
@@ -633,7 +629,7 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-▲ 117 • 💬 6 • ⭐ 101 • 2d ago
+▲ 118 • 💬 6 • ⭐ 101 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
@@ -689,7 +685,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 1.6k • 🔱 258 • 3d ago
+⭐ 1.7k • 🔱 262 • 3d ago
 
 ---
 
@@ -719,7 +715,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 106 • 23h ago
+⭐ 1.3k • 🔱 106 • 1d ago
 
 ---
 

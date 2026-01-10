@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T22:20:56.631502+00:00'
+updated: '2026-01-10T22:44:13.302172+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 22:20 UTC  
+**Last Updated:** January 10, 2026 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,529.64
+### $90,501.11
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
+**24h:** +0.1%  
 **7d:** -1.0%  
 **30d:** +0.3%  
 **90d:** -21.4%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1808.17B
+**Market Cap:** $1806.59B
 Rank #1
 
-**Circulating Supply:** 19,974,203 BTC
+**Circulating Supply:** 19,974,240 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.3%
 
 **All-Time Low:** $67.81
-+133392.1%
++133285.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-7h ago
+8h ago
 
 ---
 
@@ -165,17 +165,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Price Falls. Cryptos Are Fizzling Again.](https://www.barrons.com/articles/bitcoin-price-today-crypto-selloff-434a0257?gaa_at=eafs&gaa_n=AWEtsqepl_dol1_za0Ypb4hP_o3J2bRDbhH8_CQ0KECrjPKkFJiXZuVH908R&gaa_ts=6962cabb&gaa_sig=V56zXAB1-Crez_RR40wyzxPCrQQzsXISVTHrQAYPJ9zS1uQBGgWosX2iHxnXWC-pqnc_1Y4N09Z85vqlnRMfxQ%3D%3D)**
+**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
 
-Barron's • 2d ago
+The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
+
+CoinDesk • 1d ago
 
 ---
 
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
+**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
 
-There's a major pitfall coming up that'll need to be avoided.
+Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
 
-The Motley Fool • 20h ago
+CNBC • 2d ago
 
 ---
 
@@ -199,11 +201,11 @@ The Block • 1d ago
 
 ---
 
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+**[Trump 'Has All Kinds Of Reasons' To Buy Bitcoin Before Midterms, Cathie Wood Says](https://finance.yahoo.com/news/trump-kinds-reasons-buy-bitcoin-213150437.html)**
 
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -215,9 +217,7 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
-
-What we know about the South American country’s crypto holdings.
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-are-swirling-about-venezuela-holding-60-billion-in-bitcoin-but-crypto-experts-are-skeptical/)**
 
 Fortune • 1d ago
 
@@ -311,7 +311,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 8h ago
+👁️ 28K • 👍 2K • 💬 118 • ⏱️ 1:05:08 • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 262 • ⏱️ 11:14 • 1d ago
+👁️ 52K • 👍 3K • 💬 261 • ⏱️ 11:14 • 1d ago
 
 ---
 
@@ -331,17 +331,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 5K • 👍 369 • 💬 324 • ⏱️ 3:25 • 22h ago
-
----
-
-**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 3K • 💬 338 • ⏱️ 9:19 • 23h ago
+👁️ 5K • 👍 387 • 💬 296 • ⏱️ 3:25 • 23h ago
 
 ---
 
@@ -351,47 +341,17 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 16K • 👍 1K • 💬 420 • ⏱️ 10:43 • 1d ago
+👁️ 17K • 👍 1K • 💬 342 • ⏱️ 10:43 • 1d ago
 
 ---
 
-**[GameStop is F*CKED! Closing MORE Stores and Bets on BITCOIN?! | Clownfish TV](https://www.youtube.com/watch?v=3LTwqeUEfYg)**
+**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
 
-GameStop sounds pretty f*cked going into 2026. They're closing 300 more locations with little or no notice to employees, they're ...
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-📺 Clownfish TV
+📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 487 • ⏱️ 15:04 • 17h ago
-
----
-
-**[Bitcoin Holders, Here&#39;s Why This All Makes Sense To Me](https://www.youtube.com/watch?v=oFocqiqDc4U)**
-
-Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 389 • 💬 323 • ⏱️ 7:59 • 16h ago
-
----
-
-**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
-
-Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 279 • ⏱️ 17:07 • 23h ago
-
----
-
-**[🚨BREAKING CRYPTO NEWS: COULD THIS REALLY HAPPEN NEXT?🚨](https://www.youtube.com/watch?v=vdJQ-XrR35k)**
-
-Breaking Crypto News Today - Cathie Wood Just said this could happen next in the united states and it could be huge for crypto ...
-
-📺 Zach Humphries
-
-👁️ 7K • 👍 389 • 💬 256 • ⏱️ 6:53 • 1d ago
+👁️ 53K • 👍 3K • 💬 330 • ⏱️ 9:19 • 1d ago
 
 ---
 
@@ -401,7 +361,47 @@ Breaking Crypto News Today - Cathie Wood Just said this could happen next in the
 
 📺 Crypto Insider
 
-👁️ 40K • 👍 3K • 💬 129 • ⏱️ 21:00 • 1d ago
+👁️ 41K • 👍 3K • 💬 132 • ⏱️ 21:00 • 1d ago
+
+---
+
+**[Bitcoin Holders, Here&#39;s Why This All Makes Sense To Me](https://www.youtube.com/watch?v=oFocqiqDc4U)**
+
+Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
+
+📺 Aaron Bennett
+
+👁️ 5K • 👍 424 • 💬 408 • ⏱️ 7:59 • 16h ago
+
+---
+
+**[GameStop is F*CKED! Closing MORE Stores and Bets on BITCOIN?! | Clownfish TV](https://www.youtube.com/watch?v=3LTwqeUEfYg)**
+
+GameStop sounds pretty f*cked going into 2026. They're closing 300 more locations with little or no notice to employees, they're ...
+
+📺 Clownfish TV
+
+👁️ 18K • 👍 1K • 💬 491 • ⏱️ 15:04 • 17h ago
+
+---
+
+**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+
+Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 248 • ⏱️ 17:07 • 1d ago
+
+---
+
+**[🚨BREAKING CRYPTO NEWS: COULD THIS REALLY HAPPEN NEXT?🚨](https://www.youtube.com/watch?v=vdJQ-XrR35k)**
+
+Breaking Crypto News Today - Cathie Wood Just said this could happen next in the united states and it could be huge for crypto ...
+
+📺 Zach Humphries
+
+👁️ 7K • 👍 396 • 💬 323 • ⏱️ 6:53 • 1d ago
 
 ---
 
