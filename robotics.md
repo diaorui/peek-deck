@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T18:30:51.770537+00:00'
+updated: '2026-01-10T19:17:10.057137+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 18:30 UTC  
+**Last Updated:** January 10, 2026 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
-
-15h ago
-
----
-
 **[Kids experimenting with Line follower robot](https://www.reddit.com/r/robotics/comments/1q9457t/kids_experimenting_with_line_follower_robot/)**
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-4h ago
+5h ago
+
+---
+
+**[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
+
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-17h ago
+18h ago
 
 ---
 
@@ -78,7 +78,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 I wanted to share a project I've been working on called MESGRO. I was looking for a way to host my portfolio that didn't feel like a generic blog or an academic site. Most of the templates I found are great for web developers, but they lack features for when you want to show off CAD, PCB layouts, and firmware snippets all in one place. I built this using Jekyll so it's easy to host on GitHub Pages for free. It’s basically a gallery-style layout specifically for mechatronics/robotics documentation. It's open-source if anyone wants to fork it. I’m looking for feedback, if there’s something specific you guys usually struggle to document in your portfolios, feel free to create a pull request! https://github.com/aojedao/MESGRO If you want to see a real example I built my own portfolio page website with it.
 
-🔗 [GitHub](https://github.com/aojedao/MESGRO) • 53m ago
+🔗 [GitHub](https://github.com/aojedao/MESGRO) • 1h ago
 
 ---
 
@@ -86,7 +86,7 @@ I wanted to share a project I've been working on called MESGRO. I was looking fo
 
 we are an Italian team that's looking forward to start a project aiming to solve problems in the cultural scene, something not generalized like a articulated anthropomorphic robot and neither something that would substitute the human part of the traditions. Something that's still robotic (so not exceedingly based on just software) but specialized to a certain purpose, assisting the diffusion and the discovery of minor cultures to more people.
 
-1h ago
+2h ago
 
 ---
 
@@ -120,15 +120,23 @@ Reuters • 2d ago
 
 Wheel-legs, robotic arms and outdoor autonomy point to a company moving beyond vacuums into intelligent robotics for everyday problem-solving.
 
-CNET • 23h ago
+CNET • 1d ago
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
+**[WSU researchers develop robotic arm to aid with labor and boost productivity in orchards](https://komonews.com/news/local/wsu-washington-state-university-school-of-mechanical-and-materials-engineering-researchers-agriculture-robotic-apple-picking-arm-washington-orchards-migrant-farm-workers)**
 
-Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
+A cost-effective, robotic apple picker arm developed by Washington State University (WSU) researchers may someday help with fruit picking and other farm chores.
 
-The Verge • 3h ago
+KOMO • 3h ago
+
+---
+
+**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
+
+From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
+
+Engadget • 3h ago
 
 ---
 
@@ -136,7 +144,7 @@ The Verge • 3h ago
 
 FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
 
-WYMT • 23h ago
+WYMT • 1d ago
 
 ---
 
@@ -144,7 +152,7 @@ WYMT • 23h ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -156,6 +164,14 @@ NVIDIA Developer • 2d ago
 
 ---
 
+**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
+
+Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
+
+Fortune • 2d ago
+
+---
+
 **[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
 
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
@@ -164,27 +180,11 @@ CNBC • 1d ago
 
 ---
 
-**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
+**[AI, chips, and robots dominated CES 2026. It's just the beginning.](https://finance.yahoo.com/news/ai-chips-and-robots-dominated-ces-2026-its-just-the-beginning-192942893.html)**
 
-CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+CES 2026 is in full swing in Las Vegas. Thousands of attendees have flooded the city's hotels and Las Vegas Convention Center, perusing the various products and devices on display at the tech industry's biggest event of the year.
 
 Yahoo Finance • 2d ago
-
----
-
-**[9 things that caught our eye at CES 2026](https://www.wallpaper.com/tech/ces-2026-highlights)**
-
-Discover what’s new in robotics, AI wearables, rollable screens, all-electric roller skis and more in our guide to the quirkiest tech innovations at CES 2026
-
-wallpaper.com • 23h ago
-
----
-
-**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
-
-Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
-
-Fortune • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 5K • 👍 1K • ⏱️ 56:16 • 1h ago
+👁️ 5K • 👍 1K • ⏱️ 56:16 • 2h ago
 
 ---
 
@@ -228,7 +228,7 @@ Our best CES 2026 tech list. From robotics, to personal self-driving cars to gro
 
 📺 Cybernews
 
-👁️ 77K • 👍 1K • 💬 122 • ⏱️ 28:35 • 14h ago
+👁️ 77K • 👍 1K • 💬 122 • ⏱️ 28:35 • 15h ago
 
 ---
 
@@ -268,7 +268,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 354 • 👍 262 • 💬 27 • ⏱️ 3:13 • 59m ago
+👁️ 354 • 👍 262 • 💬 27 • ⏱️ 3:13 • 1h ago
 
 ---
 
@@ -288,7 +288,7 @@ Learn about the KitBot and what it can and cannot do on the field. For more info
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 478 • 👍 10 • 💬 3 • ⏱️ 3:51 • 58m ago
+👁️ 478 • 👍 10 • 💬 3 • ⏱️ 3:51 • 1h ago
 
 ---
 

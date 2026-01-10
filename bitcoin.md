@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T18:30:51.761257+00:00'
+updated: '2026-01-10T19:17:10.047843+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 18:30 UTC  
+**Last Updated:** January 10, 2026 at 19:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -0.8%  
-**30d:** +0.5%  
-**90d:** -21.3%  
-**1y:** -4.0%  
+**24h:** +0.2%  
+**7d:** -1.0%  
+**30d:** +0.4%  
+**90d:** -21.4%  
+**1y:** -4.1%  
 
 ---
 
@@ -81,19 +81,33 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-3h ago
-
----
-
-**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
-
-13h ago
+4h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-4h ago
+5h ago
+
+---
+
+**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
+
+14h ago
+
+---
+
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
+
+6h ago
+
+---
+
+**[I constantly get reminded we are early](https://www.reddit.com/r/Bitcoin/comments/1q99g95/i_constantly_get_reminded_we_are_early/)**
+
+https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
+
+2h ago
 
 ---
 
@@ -101,25 +115,19 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-3h ago
-
----
-
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
-
-5h ago
+4h ago
 
 ---
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -129,25 +137,27 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 ---
 
-**[How are you feeling today?](https://www.reddit.com/r/Bitcoin/comments/1q90xr5/how_are_you_feeling_today/)**
+**[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-How is the sentiment over here? Bullish AF for the long term! Short term it is all just noise, IMHO.
-
-7h ago
-
----
-
-**[Betterment hacked](https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked/)**
-
-Received this notification just now
-
-19h ago
+32m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
+
+The Block • 3h ago
+
+---
+
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+
+The Block • 1d ago
+
+---
 
 **[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
 
@@ -157,33 +167,39 @@ CNBC • 1d ago
 
 ---
 
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
-
-There's a major pitfall coming up that'll need to be avoided.
-
-The Motley Fool • 16h ago
-
----
-
-**[Bitcoin price falls as BlackRock and Fidelity ETFs see heavy outflows](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-blackrock-fidelity-etfs-outflows-104916054.html)**
-
-Bitcoin price retreated from recent highs on Thursday as institutional investors locked in profits after a strong start to the year.
-
-Yahoo Finance UK • 2d ago
-
----
-
 **[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows?utm_source=markets.xml&utm_medium=rss)**
+**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
 
-The Block • 2h ago
+Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
+
+The Block • 1d ago
+
+---
+
+**[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
+
+The Block • 1d ago
+
+---
+
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
+
+There's a major pitfall coming up that'll need to be avoided.
+
+The Motley Fool • 17h ago
 
 ---
 
@@ -200,30 +216,6 @@ Fortune • 1d ago
 Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
-
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
-
-VanEck • 2d ago
-
----
-
-**[US Supreme Court Ruling to Decide Bitcoin’s Next Move — Here’s Where Bulls and Bears Are Waiting](https://finance.yahoo.com/news/us-supreme-court-ruling-decide-141500148.html)**
-
-Bitcoin trades in a tight range as markets await a US Supreme Court tariff ruling. Here is where bulls and bears are waiting.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
-
-Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -283,17 +275,17 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 ---
 
-**[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
-
-⬆️ 1 • 💬 1 • 5d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
-
----
-
 **[Water Heater Mines Bitcoin. It Could Help Solve AI's Energy Problem](https://news.ycombinator.com/item?id=46532869)**
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 0 • 2d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 1 • 2d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+
+---
+
+**[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
+
+⬆️ 1 • 💬 1 • 5d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -315,7 +307,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 13K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 4h ago
+👁️ 13K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 5h ago
 
 ---
 
@@ -345,7 +337,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 278 • ⏱️ 17:07 • 19h ago
+👁️ 22K • 👍 2K • 💬 278 • ⏱️ 17:07 • 20h ago
 
 ---
 
@@ -365,7 +357,7 @@ GameStop sounds pretty f*cked going into 2026. They're closing 300 more location
 
 📺 Clownfish TV
 
-👁️ 15K • 👍 1K • 💬 465 • ⏱️ 15:04 • 13h ago
+👁️ 15K • 👍 1K • 💬 465 • ⏱️ 15:04 • 14h ago
 
 ---
 
@@ -375,7 +367,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 320 • ⏱️ 9:19 • 19h ago
+👁️ 47K • 👍 2K • 💬 320 • ⏱️ 9:19 • 20h ago
 
 ---
 
@@ -405,7 +397,7 @@ Breaking Crypto News Today - Cathie Wood Just said this could happen next in the
 
 📺 Zach Humphries
 
-👁️ 6K • 👍 386 • 💬 237 • ⏱️ 6:53 • 23h ago
+👁️ 6K • 👍 386 • 💬 237 • ⏱️ 6:53 • 1d ago
 
 ---
 
