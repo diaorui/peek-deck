@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T21:40:32.627961+00:00'
+updated: '2026-01-10T22:20:56.631502+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 21:40 UTC  
+**Last Updated:** January 10, 2026 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-6h ago
+7h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -101,19 +101,19 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-4h ago
+5h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-8h ago
+9h ago
 
 ---
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -129,19 +129,19 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
 
-2h ago
+3h ago
 
 ---
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-5h ago
+6h ago
 
 ---
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 2d ago
 
 There's a major pitfall coming up that'll need to be avoided.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 19h ago
 
 While many cryptocurrencies are highly correlated with tech, these cryptocurrencies are not.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -311,7 +311,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 7h ago
+👁️ 21K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 338 • ⏱️ 9:19 • 22h ago
+👁️ 50K • 👍 3K • 💬 338 • ⏱️ 9:19 • 23h ago
 
 ---
 
@@ -361,7 +361,7 @@ GameStop sounds pretty f*cked going into 2026. They're closing 300 more location
 
 📺 Clownfish TV
 
-👁️ 17K • 👍 1K • 💬 487 • ⏱️ 15:04 • 16h ago
+👁️ 17K • 👍 1K • 💬 487 • ⏱️ 15:04 • 17h ago
 
 ---
 
@@ -371,7 +371,7 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 389 • 💬 323 • ⏱️ 7:59 • 15h ago
+👁️ 5K • 👍 389 • 💬 323 • ⏱️ 7:59 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T21:40:32.634040+00:00'
+updated: '2026-01-10T22:20:56.637553+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 21:40 UTC  
+**Last Updated:** January 10, 2026 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Crypto started as a cypherpunk project, but somewhere along the way, privacy got
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
 
-17h ago
+18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 12h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 13h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-22h ago
+23h ago
 
 ---
 
@@ -156,7 +156,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -194,7 +194,7 @@ CryptoSlate • 12h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 1K • 👍 89 • 💬 115 • ⏱️ 11:37 • 7h ago
+👁️ 1K • 👍 89 • 💬 115 • ⏱️ 11:37 • 8h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 770 • 👍 75 • 💬 11 • ⏱️ 5:05 • 4h ago
+👁️ 770 • 👍 75 • 💬 11 • ⏱️ 5:05 • 5h ago
 
 ---
 
@@ -280,7 +280,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 602 • 👍 39 • 💬 25 • ⏱️ 16:56 • 1h ago
+👁️ 602 • 👍 39 • 💬 25 • ⏱️ 16:56 • 2h ago
 
 ---
 

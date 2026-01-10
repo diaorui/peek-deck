@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T21:40:32.619448+00:00'
+updated: '2026-01-10T22:20:56.623016+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 21:40 UTC  
+**Last Updated:** January 10, 2026 at 22:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
 
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 2h ago
+🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 16h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 17h ago
 
 ---
 
@@ -71,7 +71,7 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 Like Kling, People, Sora, etc. Some of them end up silly even though im super detailed and its a bummer to waste credits lol. New to this, thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ Like Kling, People, Sora, etc. Some of them end up silly even though im super de
 
 This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 **[LLMs have burned Billions but couldn't build another Tailwind](https://www.reddit.com/r/artificial/comments/1q9b88o/llms_have_burned_billions_but_couldnt_build/)**
 
-🔗 [Omar Abid - Personal Blog](https://omarabid.com/tailwind-ai) • 3h ago
+🔗 [Omar Abid - Personal Blog](https://omarabid.com/tailwind-ai) • 4h ago
 
 ---
 
@@ -121,7 +121,7 @@ I see most boomers in their 60's and 70's now adept at using smartphones. Young 
 
 Daniela Amodei has helped build Anthropic into a serious AI player by betting on safety and enterprise adoption.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -129,7 +129,7 @@ CNBC • 8h ago
 
 Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 14h ago
 
 AI once again dominated CES, where companies from around the world gathered to flaunt new technologies. It’s where tech giants like Nvidia, Samsung, and Amazon made their case for the role AI will play in how people live and work, despite concerns of an AI bubble.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNN • 13h ago
 
 OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 1d ago
 
 Elon Musk's platform is facing global backlash after reports emerged that its image creation feature allowed users to sexualize pictures of women and children using simple text prompts.
 
-CBS News • 7h ago
+CBS News • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ CBS News • 7h ago
 
 Exclusive: US vice-president ‘sympathetic’ to concerns over Grok-generated pornography, says deputy PM
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Guardian • 4h ago
 
 Decades of research have demonstrated the benefits of meditation.
 
-Time Magazine • 10h ago
+Time Magazine • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ Time Magazine • 10h ago
 
 To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.
 
-WIRED • 20h ago
+WIRED • 21h ago
 
 ---
 
@@ -251,7 +251,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 86 • 💬 121 • 4h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 86 • 💬 121 • 5h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -319,7 +319,7 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 22K • 👍 821 • 💬 44 • ⏱️ 11:06 • 22h ago
+👁️ 22K • 👍 821 • 💬 44 • ⏱️ 11:06 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 36K • 👍 1K • 💬 84 • ⏱️ 14:35 • 1d ago
+👁️ 36K • 👍 1K • 💬 84 • ⏱️ 14:35 • 2d ago
 
 ---
 
@@ -649,7 +649,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.6k • 🔱 925 • 4h ago
+⭐ 7.6k • 🔱 925 • 5h ago
 
 ---
 
@@ -669,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 6h ago
+⭐ 2.2k • 🔱 130 • 7h ago
 
 ---
 
@@ -699,7 +699,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 112 • 6h ago
+⭐ 1.3k • 🔱 112 • 7h ago
 
 ---
 
@@ -739,7 +739,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.1k • 🔱 81 • 11d ago
+⭐ 1.1k • 🔱 81 • 12d ago
 
 ---
 

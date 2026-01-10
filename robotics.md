@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T21:40:32.637272+00:00'
+updated: '2026-01-10T22:20:56.640754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 21:40 UTC  
+**Last Updated:** January 10, 2026 at 22:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 **[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -50,7 +50,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-10h ago
+11h ago
 
 ---
 
@@ -76,7 +76,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 **[30-second form to get mentoring from top teams!!](https://www.reddit.com/r/robotics/comments/1q9gi41/30second_form_to_get_mentoring_from_top_teams/)**
 
-2m ago
+42m ago
 
 ---
 
@@ -134,7 +134,7 @@ NVIDIA Developer • 2d ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -194,7 +194,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 48K • 👍 1K • ⏱️ 56:16 • 4h ago
+👁️ 48K • 👍 1K • ⏱️ 56:16 • 5h ago
 
 ---
 
@@ -214,7 +214,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 673 • 👍 117 • 💬 12 • ⏱️ 9:28 • 2h ago
+👁️ 673 • 👍 117 • 💬 12 • ⏱️ 9:28 • 3h ago
 
 ---
 
@@ -234,7 +234,7 @@ The next generation of Atlas is designed to interact with people and understand 
 
 📺 Hyundai Motor Group
 
-👁️ 246K • 👍 61 • ⏱️ 1:15 • 3d ago
+👁️ 246K • 👍 61 • ⏱️ 1:15 • 4d ago
 
 ---
 
@@ -274,7 +274,7 @@ Our best CES 2026 tech list. From robotics, to personal self-driving cars to gro
 
 📺 Cybernews
 
-👁️ 90K • 👍 2K • 💬 135 • ⏱️ 28:35 • 17h ago
+👁️ 90K • 👍 2K • 💬 135 • ⏱️ 28:35 • 18h ago
 
 ---
 
