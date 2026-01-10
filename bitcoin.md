@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T16:48:45.018326+00:00'
+updated: '2026-01-10T17:18:41.393128+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 16:48 UTC  
+**Last Updated:** January 10, 2026 at 17:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,19 +107,19 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-3h ago
+4h ago
 
 ---
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -133,7 +133,7 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 Received this notification just now
 
-17h ago
+18h ago
 
 ---
 
@@ -153,7 +153,7 @@ How is the sentiment over here? Bullish AF for the long term! Short term it is a
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 22h ago
 
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -177,13 +177,13 @@ CNBC • 1h ago
 
 In recent days, analysts have highlighted Block's expanding role in Bitcoin-related services and the buy now, pay later market, alongside ongoing insider equity activity and mixed financial stress signals. These developments underscore how Block is tying its future more closely to digital assets and consumer credit trends, which can increase both growth potential and risk exposure. We'll now explore how Block's deepening Bitcoin ecosystem could reshape its investment narrative and risk...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 32m ago
+The Block • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Block • 32m ago
 
 There's a major pitfall coming up that'll need to be avoided.
 
-The Motley Fool • 14h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Hacker News • 2d ago
 
 **[This $59 Device Lets You Solo-Mine Bitcoin From Your Desk](https://www.entrepreneur.com/money-finance/this-59-device-lets-you-solo-mine-bitcoin-from-your-desk/501638)**
 
-Entrepreneur • 23h ago
+Entrepreneur • 1d ago
 
 ---
 
@@ -283,7 +283,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 **[Tell HN: Happy Birthday Bitcoin](https://news.ycombinator.com/item?id=46478982)**
 
-⬆️ 2 • 💬 0 • 6d ago
+⬆️ 2 • 💬 0 • 7d ago
 
 ---
 
@@ -311,7 +311,7 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 294 • 💬 261 • ⏱️ 7:59 • 10h ago
+👁️ 3K • 👍 294 • 💬 261 • ⏱️ 7:59 • 11h ago
 
 ---
 
@@ -331,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 4K • 👍 435 • 💬 1 • ⏱️ 1:05:08 • 2h ago
+👁️ 4K • 👍 435 • 💬 1 • ⏱️ 1:05:08 • 3h ago
 
 ---
 
@@ -401,7 +401,7 @@ Welcome to New England Crypto. My name is Matthew, & we are a Crypto Mining Fami
 
 📺 New England Crypto
 
-👁️ 482 • 👍 13 • 💬 1 • ⏱️ 0:25 • 3h ago
+👁️ 482 • 👍 13 • 💬 1 • ⏱️ 0:25 • 4h ago
 
 ---
 

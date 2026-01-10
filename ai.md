@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T16:48:45.010177+00:00'
+updated: '2026-01-10T17:18:41.384618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 16:48 UTC  
+**Last Updated:** January 10, 2026 at 17:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 11h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 12h ago
 
 ---
 
@@ -131,19 +131,19 @@ The New York Times • 20h ago
 
 Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Physical AI Made Waves At CES 2026. What Is It?](https://www.forbes.com/sites/ronschmelzer/2026/01/10/physical-ai-made-waves-at-ces-2026-what-is-it/)**
 
-Forbes • 42m ago
+Forbes • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Atlantic • 18h ago
 
 Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 9h ago
 
 OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 3h ago
 
 Are we in an AI bubble? That’s the $35 trillion dollar question right now as the stock market soars higher and higher. The problem is that bubbles are famously hard to spot. But some economists say they may have found some telltale clues.On our latest: How do economists detect a bubble? And, how much should society be worried about bubbles in the first place? Related shows:- How to make $35 trillion ... disappear-What is a bubble? (featuring Nobel prize winning economics Eugene Fama and Robert Shiller)-What AI data centers are doing to your electric billPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.This episode was produced by Willa Rubin and edited by Marianne McCune. It was fact-checked by Sierra Juarez and engineered by Cena Loffredo and Robert Rodriguez. Alex Goldmark is our executive producer.Music: NPR Source Audio - “The best is yet to come,” “Marsh mellow,” and “Sunshine beat”
 
-NPR • 14h ago
+NPR • 15h ago
 
 ---
 
@@ -191,7 +191,7 @@ NPR • 14h ago
 
 To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.
 
-WIRED • 15h ago
+WIRED • 16h ago
 
 ---
 
@@ -251,7 +251,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 151 • 💬 208 • 22h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 151 • 💬 208 • 23h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -267,7 +267,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 68 • 💬 40 • 21h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 68 • 💬 40 • 22h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -319,7 +319,7 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 17K • 👍 712 • 💬 33 • ⏱️ 11:06 • 17h ago
+👁️ 17K • 👍 712 • 💬 33 • ⏱️ 11:06 • 18h ago
 
 ---
 
@@ -359,7 +359,7 @@ Why So Serious ??? Sapa yg layak berganding dgn mal , daus dan aina.
 
 📺 Alieff Irfan
 
-👁️ 274K • 👍 22K • 💬 2K • ⏱️ 1:08:29 • 3h ago
+👁️ 274K • 👍 22K • 💬 2K • ⏱️ 1:08:29 • 4h ago
 
 ---
 
@@ -379,7 +379,7 @@ She Pushed Hulk Into Death... But Police Exposed The Truth #shorts #ai #hulk The
 
 📺 AeroVibea
 
-👁️ 6K • 👍 300 • 💬 1 • ⏱️ 1:00 • 12h ago
+👁️ 6K • 👍 300 • 💬 1 • ⏱️ 1:00 • 13h ago
 
 ---
 
@@ -419,7 +419,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 10,290 • ❤️ 326 • 2d ago
+⬇️ 10,290 • ❤️ 326 • 3d ago
 
 ---
 

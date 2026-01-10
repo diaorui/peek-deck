@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T16:48:45.023943+00:00'
+updated: '2026-01-10T17:18:41.399212+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 16:48 UTC  
+**Last Updated:** January 10, 2026 at 17:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-17h ago
+18h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Motley Fool • 1d ago
 
 Ethereum is struggling to reclaim the $3,100 level as price action tightens and the market braces for a decisive move. After weeks of choppy trading, ETH remains caught between fading bullish attempts and persistent overhead resistance, leaving analysts sharply divided on what comes next. A minorit…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 197 • 👍 21 • 💬 2 • ⏱️ 11:37 • 2h ago
+👁️ 197 • 👍 21 • 💬 2 • ⏱️ 11:37 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 208 • 💬 32 • ⏱️ 20:39 • 22h ago
+👁️ 5K • 👍 208 • 💬 32 • ⏱️ 20:39 • 23h ago
 
 ---
 
@@ -278,7 +278,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 8K • 👍 443 • 💬 59 • ⏱️ 15:28 • 20h ago
+👁️ 8K • 👍 443 • 💬 59 • ⏱️ 15:28 • 21h ago
 
 ---
 
@@ -308,7 +308,7 @@ Something great in the cryptocurrency market is just around the corner... at lea
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 581 • 💬 240 • ⏱️ 29:35 • 6h ago
+👁️ 4K • 👍 581 • 💬 240 • ⏱️ 29:35 • 7h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 112 • 💬 8 • ⏱️ 5:13 • 23h ago
+👁️ 2K • 👍 112 • 💬 8 • ⏱️ 5:13 • 1d ago
 
 ---
 
