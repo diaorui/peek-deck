@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T14:42:48.966368+00:00'
+updated: '2026-01-10T15:21:15.177678+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 14:42 UTC  
+**Last Updated:** January 10, 2026 at 15:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,23 +34,7 @@ Robotics research and industry news
 
 **[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
 
-11h ago
-
----
-
-**[Zurich Robotics Ecosystem Map [self-made, might lack some companies]](https://www.reddit.com/r/robotics/comments/1q91gqt/zurich_robotics_ecosystem_map_selfmade_might_lack/)**
-
-Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
-
-3h ago
-
----
-
-**[A full MIT course on visual autonomous navigation.](https://www.reddit.com/r/robotics/comments/1q8pjwj/a_full_mit_course_on_visual_autonomous_navigation/)**
-
-If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
-
-14h ago
+12h ago
 
 ---
 
@@ -62,15 +46,31 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 ---
 
-**[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
+**[Zurich Robotics Ecosystem Map [self-made, might lack some companies]](https://www.reddit.com/r/robotics/comments/1q91gqt/zurich_robotics_ecosystem_map_selfmade_might_lack/)**
 
-1d ago
+Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
+
+4h ago
+
+---
+
+**[A full MIT course on visual autonomous navigation.](https://www.reddit.com/r/robotics/comments/1q8pjwj/a_full_mit_course_on_visual_autonomous_navigation/)**
+
+If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
+
+14h ago
 
 ---
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
 7h ago
+
+---
+
+**[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
+
+1d ago
 
 ---
 
@@ -86,7 +86,7 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
-21h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
 
-22h ago
+23h ago
 
 ---
 
@@ -102,7 +102,7 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 I keep seeing the same issue come up with Universal Robots setups (I am assuming this is also common across other robotic arm brands too), so I wanted to sanity-check with people who work with these day to day. When a UR robot goes into a protective stop / fault that’s intermittent, how do you usually figure out what led up to it? For example: Something runs fine for hours or days. Then suddenly faults. Logs are there, but it’s hard to reconstruct the sequence of robot state, IO, forces, program context, etc. right before the stop In practice, do you: Scrape logs manually? Add ad-hoc script logging? Reproduce by trial-and-error? Just wait for it to happen again? I’m especially curious: What’s the most annoying fault you’ve had to debug recently? How much time does this kind of issue usually cost you (or your customer)? I am just genuinely trying to understand how people deal with this today and whether I’m missing something obvious.
 
-7h ago
+8h ago
 
 ---
 
@@ -116,17 +116,43 @@ Reuters • 2d ago
 
 ---
 
-**[Arm reorganizes to launch Physical AI unit amid robotics rush](https://seekingalpha.com/news/4537591-arm-reorganizes-to-launch-physical-ai-unit-amid-robotics-rush)**
+**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
 
-Arm (ARM) has reorganized the company to create a Physical AI unit to expand its presence in the robotics market.
+Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
 
-Seeking Alpha • 2d ago
+Interesting Engineering • 2d ago
 
 ---
 
-**[ARM Bets on Robotics Boom with New “Physical AI” Unit](https://www.tipranks.com/news/arm-bets-on-robotics-boom-with-new-physical-ai-unit)**
+**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
 
-TipRanks • 2d ago
+Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
+
+The Verge • 21m ago
+
+---
+
+**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+
+Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+
+NVIDIA Developer • 1d ago
+
+---
+
+**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
+
+BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
+
+Seeking Alpha • 2h ago
+
+---
+
+**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
+
+The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
+
+IFR International Federation of Robotics • 2d ago
 
 ---
 
@@ -146,43 +172,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
+**[9 things that caught our eye at CES 2026](https://www.wallpaper.com/tech/ces-2026-highlights)**
 
-Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+Discover what’s new in robotics, AI wearables, rollable screens, all-electric roller skis and more in our guide to the quirkiest tech innovations at CES 2026
 
-Interesting Engineering • 2d ago
-
----
-
-**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
-
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
-
-NVIDIA Developer • 1d ago
+wallpaper.com • 20h ago
 
 ---
 
-**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
+**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
 
-The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
+Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
 
-IFR International Federation of Robotics • 2d ago
-
----
-
-**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
-
-New technique varies colour and texture to open up potential applications in display technologies
-
-Financial Times • 2d ago
-
----
-
-**[Mobileye buys Israeli AI humanoid startup for $900 million in bid for robotics](https://www.timesofisrael.com/mobileye-buys-israeli-ai-humanoid-startup-for-900-million-in-bid-for-robotics/)**
-
-Mentee Robotics co-founder Amnon Shashua says 'mentored' human-like AI robots will be deployed in warehouses and assembly plants in 2028 and will do chores at home in 2030
-
-The Times of Israel • 3d ago
+Fortune • 2d ago
 
 ---
 

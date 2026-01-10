@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T14:42:48.948758+00:00'
+updated: '2026-01-10T15:21:15.159280+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 14:42 UTC  
+**Last Updated:** January 10, 2026 at 15:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 9h ago
-
----
-
-**[Should AI "entities" pay social security to support the displaced?](https://www.reddit.com/r/artificial/comments/1q94a5k/should_ai_entities_pay_social_security_to_support/)**
-
-Been thinking about this from an infrastructure reliability angle. When we automated SCADA systems at utilities, we didn’t eliminate jobs overnight – we shifted them. Took 5-10 years. People retrained, retired, or moved sideways. AI agents are different. They scale instantly. One deployment can absorb work that took 50 people. Here’s the question nobody’s funding: if an AI handles claims processing for an insurance company – replacing 20 adjusters – who contributes to social security? Unemployment insurance? Healthcare pools? There are a few proposals floating around. Robot tax (flat levy per AI deployment). Automation VAT (percentage of productivity gains). Imputed wages (the AI “earns” an equivalent salary and gets taxed accordingly). My take: we’re not ready for entities that generate economic value without consuming services. Our entire social contract assumes workers → taxes → safety net. What’s your read? Is this a real funding gap, or does increased productivity naturally generate enough tax revenue elsewhere?
-
-1h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 10h ago
 
 ---
 
@@ -73,7 +65,15 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Best one i have found so far https://video.a2e.ai/?coupon=xqCs
 
-3h ago
+4h ago
+
+---
+
+**[Should AI "entities" pay social security to support the displaced?](https://www.reddit.com/r/artificial/comments/1q94a5k/should_ai_entities_pay_social_security_to_support/)**
+
+Been thinking about this from an infrastructure reliability angle. When we automated SCADA systems at utilities, we didn’t eliminate jobs overnight – we shifted them. Took 5-10 years. People retrained, retired, or moved sideways. AI agents are different. They scale instantly. One deployment can absorb work that took 50 people. Here’s the question nobody’s funding: if an AI handles claims processing for an insurance company – replacing 20 adjusters – who contributes to social security? Unemployment insurance? Healthcare pools? There are a few proposals floating around. Robot tax (flat levy per AI deployment). Automation VAT (percentage of productivity gains). Imputed wages (the AI “earns” an equivalent salary and gets taxed accordingly). My take: we’re not ready for entities that generate economic value without consuming services. Our entire social contract assumes workers → taxes → safety net. What’s your read? Is this a real funding gap, or does increased productivity naturally generate enough tax revenue elsewhere?
+
+1h ago
 
 ---
 
@@ -121,11 +121,25 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 ## Google News: "ai"
 
+**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+
+The New York Times • 18h ago
+
+---
+
+**[AI memory is sold out, causing an unprecedented surge in prices](https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html)**
+
+Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
+
+CNBC • 3h ago
+
+---
+
 **[AI bubble: five things you need to know to shield your finances from a crash](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions)**
 
 Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -133,7 +147,7 @@ The Guardian • 7h ago
 
 OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -141,7 +155,13 @@ CNBC • 1h ago
 
 Are we in an AI bubble? That’s the $35 trillion dollar question right now as the stock market soars higher and higher. The problem is that bubbles are famously hard to spot. But some economists say they may have found some telltale clues.On our latest: How do economists detect a bubble? And, how much should society be worried about bubbles in the first place? Related shows:- How to make $35 trillion ... disappear-What is a bubble? (featuring Nobel prize winning economics Eugene Fama and Robert Shiller)-What AI data centers are doing to your electric billPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.This episode was produced by Willa Rubin and edited by Marianne McCune. It was fact-checked by Sierra Juarez and engineered by Cena Loffredo and Robert Rodriguez. Alex Goldmark is our executive producer.Music: NPR Source Audio - “The best is yet to come,” “Marsh mellow,” and “Sunshine beat”
 
-NPR • 12h ago
+NPR • 13h ago
+
+---
+
+**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -153,47 +173,25 @@ The Atlantic • 16h ago
 
 ---
 
-**[Yuen: AI chatbots want to be friends — or more — with your kid](https://www.startribune.com/yuen-ai-chatbots-want-to-be-friends-or-more-with-your-kid/601536814)**
-
-Star Tribune • 1h ago
-
----
-
-**[Why does AI suck at making clocks?](https://www.popsci.com/technology/ai-making-clocks/)**
-
-'Telling time is a very human thing.'
-
-Popular Science • 1h ago
-
----
-
-**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
-
-The New York Times • 17h ago
-
----
-
-**[Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban)**
-
-Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
-
-The Guardian • 18h ago
-
----
-
-**[Musk’s AI tool under fire for ‘digital undressing’](https://www.cnn.com/2026/01/09/business/video/grok-x-ai-undressing-uproar-vrtc)**
-
-Elon Musk’s Grok chatbot has limited some of its Imagine image generation features to paid X subscribers, days after international uproar over the AI tool responded to user requests by “digitally undressing” people, including children.
-
-CNN • 14h ago
-
----
-
 **[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
 NBC News • 1d ago
+
+---
+
+**[Using AI, Mathematicians Find Hidden Glitches in Fluid Equations](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/)**
+
+A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.
+
+Quanta Magazine • 23h ago
+
+---
+
+**[Introducing OpenAI for Healthcare](https://openai.com/index/openai-for-healthcare/)**
+
+OpenAI • 1d ago
 
 ---
 
@@ -203,7 +201,7 @@ NBC News • 1d ago
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 760 • 💬 287 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 762 • 💬 287 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -211,7 +209,7 @@ NBC News • 1d ago
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 552 • 💬 392 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 553 • 💬 395 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -221,7 +219,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 522 • 💬 284 • 16h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 539 • 💬 294 • 16h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -229,7 +227,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 441 • 💬 715 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 441 • 💬 715 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -237,7 +235,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 258 • 💬 120 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 260 • 💬 120 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -261,7 +259,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 135 • 💬 199 • 20h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 144 • 💬 206 • 21h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -277,7 +275,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 65 • 💬 39 • 19h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 68 • 💬 39 • 20h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -301,7 +299,7 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 16K • 👍 666 • 💬 32 • ⏱️ 11:06 • 15h ago
+👁️ 16K • 👍 666 • 💬 32 • ⏱️ 11:06 • 16h ago
 
 ---
 
@@ -361,7 +359,7 @@ Subscribe to stay up to date with AI in 2026! This week in AI was mostly filled 
 
 📺 The AI Advantage
 
-👁️ 5K • 👍 233 • 💬 19 • ⏱️ 15:26 • 19h ago
+👁️ 5K • 👍 233 • 💬 19 • ⏱️ 15:26 • 20h ago
 
 ---
 
@@ -651,7 +649,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.5k • 🔱 915 • 1h ago
+⭐ 7.5k • 🔱 915 • 2h ago
 
 ---
 
@@ -671,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 2h ago
+⭐ 2.2k • 🔱 129 • 3h ago
 
 ---
 
@@ -711,7 +709,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.3k • 🔱 71 • 17d ago
+⭐ 1.3k • 🔱 71 • 18d ago
 
 ---
 

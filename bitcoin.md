@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T14:42:48.957195+00:00'
+updated: '2026-01-10T15:21:15.168089+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 14:42 UTC  
+**Last Updated:** January 10, 2026 at 15:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,675.68
+### $90,541.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.9%  
-**30d:** +0.4%  
+**24h:** -1.2%  
+**7d:** -1.0%  
+**30d:** +0.3%  
 **90d:** -21.4%  
-**1y:** -4.1%  
+**1y:** -4.2%  
 
 ---
 
@@ -77,39 +77,55 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Those who bought Bitcoin at $126k, sold at $80k, and bought again at $94k](https://www.reddit.com/r/Bitcoin/comments/1q8yn3a/those_who_bought_bitcoin_at_126k_sold_at_80k_and/)**
-
-6h ago
-
----
-
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-9h ago
+10h ago
 
 ---
 
-**[“They said Bitcoin won’t make you happy “ BTC holders in 2030 :](https://www.reddit.com/r/Bitcoin/comments/1q8xiwl/they_said_bitcoin_wont_make_you_happy_btc_holders/)**
+**[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
 
-7h ago
+Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
+
+40m ago
+
+---
+
+**[VanEck: small Bitcoin allocation could boost portfolio returns](https://www.reddit.com/r/Bitcoin/comments/1q95l2m/vaneck_small_bitcoin_allocation_could_boost/)**
+
+VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
+
+46m ago
+
+---
+
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
+
+2h ago
 
 ---
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-14h ago
+15h ago
+
+---
+
+**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
+
+1h ago
 
 ---
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -117,13 +133,7 @@ Rank #1
 
 Received this notification just now
 
-15h ago
-
----
-
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
-
-1h ago
+16h ago
 
 ---
 
@@ -135,12 +145,6 @@ How is the sentiment over here? Bullish AF for the long term! Short term it is a
 
 ---
 
-**[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -149,19 +153,7 @@ How is the sentiment over here? Bullish AF for the long term! Short term it is a
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 18h ago
-
----
-
-**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
-
-Bloomberg.com • 17h ago
-
----
-
-**[Bitcoin Price Falls. Cryptos Are Fizzling Again.](https://www.barrons.com/articles/bitcoin-price-today-crypto-selloff-434a0257?gaa_at=eafs&gaa_n=AWEtsqcwLVCL014Ei-fvayXKDEQ5rtbUCoL80L0IbcJj0GmpF9Yn30idxfc2&gaa_ts=69625c09&gaa_sig=x4O5K60qYRqs3feUcYuEzzLrxnyVfaR6wgZCKwua6V6LEAhwZk89Gy40YVdCcLFmZn0oM_pDXBGKwERLn2pekA%3D%3D)**
-
-Barron's • 2d ago
+CoinDesk • 19h ago
 
 ---
 
@@ -169,15 +161,15 @@ Barron's • 2d ago
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
-**[Chinese tycoon tied to $11B ‘pig butchering’ bitcoin scam taken into custody](https://nypost.com/2026/01/07/business/chinese-tycoon-tied-to-11b-pig-butchering-bitcoin-scam-taken-into-custody/)**
+**[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
 
-Chen Zhi, chairman of Prince Group, was arrested by law enforcement officials in Cambodia and extradited to China, government officials said.
+With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
-New York Post • 2d ago
+CNBC • 14m ago
 
 ---
 
@@ -189,9 +181,23 @@ Business Insider • 2h ago
 
 ---
 
-**[Alleged crypto scam boss linked to $15 billion bitcoin haul deported to China after Cambodia arrest](https://www.theblock.co/post/384674/alleged-crypto-scam-boss-linked-15-billion-bitcoin-deported-china-cambodia-arrest)**
+**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
 
-The Block • 2d ago
+The Block • 1d ago
+
+---
+
+**[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
+
+The Block • 20h ago
+
+---
+
+**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+
+Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -203,19 +209,19 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin price falls as BlackRock and Fidelity ETFs see heavy outflows](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-blackrock-fidelity-etfs-outflows-104916054.html)**
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
 
-Bitcoin price retreated from recent highs on Thursday as institutional investors locked in profits after a strong start to the year.
+There's a major pitfall coming up that'll need to be avoided.
 
-Yahoo Finance UK • 2d ago
+The Motley Fool • 13h ago
 
 ---
 
-**[Analysts see “signs of stabilization” for bitcoin ETFs, previous crypto position reduction “behind us”](https://sherwood.news/crypto/analysts-see-signs-of-stabilization-for-bitcoin-etfs-previous-crypto/)**
+**[Bank of America Joins JPMorgan, Citi, Morgan Stanley By Recommending Bitcoin Portfolio Allocation](https://finance.yahoo.com/news/bank-america-joins-jpmorgan-citi-230105379.html)**
 
-Bitcoin ETFs have seen over $1.1 billion leave the funds in the past three days, but the worst may be over, JPMorgan analysts say....
+Bank of America Corp. (NYSE:BAC) will allow more than 15,000 Merrill and Private Bank advisers to proactively recommend four spot Bitcoin (CRYPTO: BTC) ETFs starting Jan. 5, formally opening Bitcoin access across its wealth platform. Big Four Banks Now All...
 
-Sherwood News • 22h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -365,7 +371,7 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 225 • 💬 234 • ⏱️ 7:59 • 8h ago
+👁️ 2K • 👍 225 • 💬 234 • ⏱️ 7:59 • 9h ago
 
 ---
 
@@ -395,7 +401,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 14K • 👍 1K • 💬 398 • ⏱️ 10:43 • 22h ago
+👁️ 14K • 👍 1K • 💬 398 • ⏱️ 10:43 • 23h ago
 
 ---
 
