@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T05:45:12.152715+00:00'
+updated: '2026-01-10T06:32:45.497836+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 05:45 UTC  
+**Last Updated:** January 10, 2026 at 06:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,53 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -2.0%  
-**30d:** +0.1%  
-**90d:** -27.3%  
+**24h:** -1.0%  
+**7d:** -2.1%  
+**30d:** -0.0%  
+**90d:** -27.4%  
 **1y:** -6.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $371.57B
+**Market Cap:** $371.93B
 Rank #2
 
 **Circulating Supply:** 120,694,734 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.8%
+-37.7%
 
 **All-Time Low:** $0.43
-+710925.2%
++711897.6%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 10, 2026](https://www.reddit.com/r/ethereum/comments/1q8wbyo/daily_general_discussion_january_10_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+32m ago
+
+---
+
 **[Daily General Discussion January 09, 2026](https://www.reddit.com/r/ethereum/comments/1q80eol/daily_general_discussion_january_09_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
+
+---
+
+**[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
+
+Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
+
+2h ago
 
 ---
 
@@ -80,15 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-6h ago
-
----
-
-**[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
-
-Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
-
-1h ago
+7h ago
 
 ---
 
@@ -104,7 +112,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-16h ago
+17h ago
 
 ---
 
@@ -112,7 +120,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-17h ago
+18h ago
 
 ---
 
@@ -134,21 +142,29 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
 
-20h ago
-
----
-
-**[Need ETH to pay fees](https://www.reddit.com/r/ethereum/comments/1q8eqq6/need_eth_to_pay_fees/)**
-
-If anyone can send me $10 of ETH please wil send $15 of USDC straight back I’ve ETH stuck in moonpay I want to withdraw  [comments]
-
-12h ago
+21h ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
+
+**[Ethereum treasury firm SharpLink stakes $170M ETH on Linea network](https://www.coindesk.com/markets/2026/01/09/ethereum-treasury-firm-sharplink-stakes-usd170m-eth-on-linea-network)**
+
+The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
+
+CoinDesk • 20h ago
+
+---
+
+**[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://finance.yahoo.com/news/ethereum-treasury-firm-sharplink-stakes-215216000.html)**
+
+Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
+
+Yahoo Finance • 1d ago
+
+---
 
 **[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://decrypt.co/354058/ethereum-treasury-firm-sharplink-gaming-stakes-170-million-eth-linea)**
 
@@ -172,7 +188,7 @@ simplywall.st • 3h ago
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -198,22 +214,6 @@ TradingView — Track All Markets • 2d ago
 
 ---
 
-**[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
-
-Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
-
-The Motley Fool • 18h ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
-
-Bit Digital • 2d ago
-
----
-
 **[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
@@ -222,11 +222,11 @@ Coinpedia Fintech News • 11h ago
 
 ---
 
-**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
+**[XRP vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?](https://www.fool.com/investing/2026/01/09/xrp-vs-ethereum-which-is-more-likely-to-be-a-milli/)**
 
-Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
+Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-AMBCrypto • 1d ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -240,7 +240,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 168 • 💬 37 • ⏱️ 20:39 • 11h ago
+👁️ 4K • 👍 174 • 💬 35 • ⏱️ 20:39 • 12h ago
 
 ---
 
@@ -250,17 +250,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 6K • 👍 250 • 💬 38 • ⏱️ 52:02 • 18h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zbkeKzNxfmE)**
-
-BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 153 • 💬 52 • ⏱️ 17:54 • 6h ago
+👁️ 7K • 👍 257 • 💬 38 • ⏱️ 52:02 • 19h ago
 
 ---
 
@@ -270,7 +260,17 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 5K • 👍 304 • 💬 34 • ⏱️ 15:28 • 9h ago
+👁️ 5K • 👍 343 • 💬 38 • ⏱️ 15:28 • 10h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=zbkeKzNxfmE)**
+
+BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 186 • 💬 48 • ⏱️ 17:54 • 6h ago
 
 ---
 
@@ -284,33 +284,13 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 ---
 
-**[FUD &amp; FOMO: Bitcoin, Zcash &amp; ETH on the Brink After NFP Numbers!](https://www.youtube.com/watch?v=m_BxqDIBoQ0)**
-
-Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-to crypto livestream breaking down the latest in ...
-
-📺 Coin Bureau
-
-👁️ 11K • 👍 633 • 💬 33 • ⏱️ 46:28 • 4h ago
-
----
-
 **[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
 
 1️⃣ *Join Moe's Discord Code WEALTH save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
 📺 Stock Moe
 
-👁️ 13K • 👍 828 • 💬 78 • ⏱️ 12:30 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-gcev5s6aPI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 104 • 💬 8 • ⏱️ 5:13 • 12h ago
+👁️ 14K • 👍 849 • 💬 79 • ⏱️ 12:30 • 17h ago
 
 ---
 
@@ -320,17 +300,37 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 258 • 👍 11 • 💬 3 • ⏱️ 5:53 • 9h ago
+👁️ 324 • 👍 12 • 💬 3 • ⏱️ 5:53 • 10h ago
 
 ---
 
-**[Sh!t, Ethereum Is Messed Up 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=v0l3Tv4t9Ro)**
+**[FUD &amp; FOMO: Bitcoin, Zcash &amp; ETH on the Brink After NFP Numbers!](https://www.youtube.com/watch?v=m_BxqDIBoQ0)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-to crypto livestream breaking down the latest in ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Coin Bureau
 
-👁️ 3K • 👍 156 • 💬 26 • ⏱️ 11:47 • 1d ago
+👁️ 12K • 👍 645 • 💬 35 • ⏱️ 46:28 • 5h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-gcev5s6aPI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 108 • 💬 8 • ⏱️ 5:13 • 13h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 10 JANUARY || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=FPc6fWgNqVI)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 4K • 👍 707 • 1h ago
 
 ---
 

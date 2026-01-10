@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T05:45:12.146713+00:00'
+updated: '2026-01-10T06:32:45.491812+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 05:45 UTC  
+**Last Updated:** January 10, 2026 at 06:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,751.67
+### $90,457.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -1.0%  
+**24h:** -0.3%  
+**7d:** -1.1%  
 **30d:** +0.3%  
-**90d:** -21.4%  
+**90d:** -21.5%  
 **1y:** -4.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1806.49B
+**Market Cap:** $1805.71B
 Rank #1
 
-**Circulating Supply:** 19,973,859 BTC
+**Circulating Supply:** 19,973,890 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.3%
 
 **All-Time Low:** $67.81
-+133266.8%
++133231.4%
 
 ---
 
@@ -79,13 +79,19 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-14h ago
+15h ago
 
 ---
 
-**[Is that all you need?](https://www.reddit.com/r/Bitcoin/comments/1q8tbcc/is_that_all_you_need/)**
+**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-2h ago
+1h ago
+
+---
+
+**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
+
+6h ago
 
 ---
 
@@ -93,19 +99,13 @@ Rank #1
 
 Received this notification just now
 
-6h ago
-
----
-
-**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
-
-5h ago
+7h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -113,13 +113,27 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-15h ago
+16h ago
+
+---
+
+**[Is it possible to transfer from an exchange to an independent wallet? (new to this)](https://www.reddit.com/r/Bitcoin/comments/1q8vf4d/is_it_possible_to_transfer_from_an_exchange_to_an/)**
+
+So, yeah, pretty much the question in the title. So I’m pretty familiar with trading stocks, but looking to diversify and maybe get in at a low price point. Seems like the bottom is sort of in here. Anyway, if I buy using an exchange like coinbase is it possible (and reasonably easy for a non-tech person) to move Bitcoin from the exchange to a private wallet? Like if you buy GLD, sure, you (in theory) own physical gold but it’s rare to impossible show up and take your share home. How does this work with BC? Honestly the only thing that’s kept me from getting in way earlier was the tech literacy barrier. But perhaps it’s become easy enough now and you guys have some insight.
+
+1h ago
 
 ---
 
 **[You're Welcome](https://www.reddit.com/r/Bitcoin/comments/1q8f8ey/youre_welcome/)**
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
+
+12h ago
+
+---
+
+**[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
 
 11h ago
 
@@ -133,20 +147,6 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 ---
 
-**[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
-
-10h ago
-
----
-
-**[Bitcoin BDSM](https://www.reddit.com/r/Bitcoin/comments/1q8bg3y/bitcoin_bdsm/)**
-
-I am tired boss
-
-14h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,15 +155,7 @@ I am tired boss
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 11h ago
-
----
-
-**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
-
-Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
-
-CoinDesk • 22h ago
+Fortune • 12h ago
 
 ---
 
@@ -173,57 +165,65 @@ The Block • 21h ago
 
 ---
 
+**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
+
+Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
+
+CoinDesk • 23h ago
+
+---
+
 **[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
-**[Why Riot Platforms (RIOT) Is Up 8.2% After Record Bitcoin Sales To Fund AI Data Centers](https://finance.yahoo.com/news/why-riot-platforms-riot-8-031842528.html)**
+**[Bitcoin at $2.9 million by 2050: VanEck explains its base case valuation](https://www.coindesk.com/markets/2026/01/09/asset-manager-vaneck-explains-how-one-bitcoin-could-be-worth-usd2-9-million-by-2050)**
 
-In late 2025, Riot Platforms reported producing 460 Bitcoin in December while selling 1,818 Bitcoin for US$161.6 million, alongside completing over US$600.53 million of follow-on equity offerings and announcing Jason Chung as its incoming Chief Financial Officer from March 2026. These moves mark a clear shift away from a pure Bitcoin-hoarding model toward using coin sales and fresh equity to fund an AI-focused data center build-out and broader digital infrastructure ambitions. We’ll now...
+A $2.9 million bitcoin sounds extreme — until you see how VanEck frames its long-term base case.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
-
-U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
-
-CoinDesk • 9h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
+**[Bitcoin Price Could Surge to $53 Million by 2050, Says VanEck—Here's Why](https://finance.yahoo.com/news/bitcoin-price-could-surge-53-201338320.html)**
 
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
+Could Bitcoin be worth more than $50 million per coin in 24 years? VanEck just put out its most bullish price prediction yet.
 
-VanEck • 1d ago
-
----
-
-**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
-
-The Block • 1d ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
 
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
 
-Bitcoin Magazine • 14h ago
+CoinDesk • 17h ago
 
 ---
 
-**[Cathie Wood: Trump May Buy Bitcoin For US Reserve Ahead Of Midterms](https://www.tradingview.com/news/newsbtc:2d0f88b73094b:0-cathie-wood-trump-may-buy-bitcoin-for-us-reserve-ahead-of-midterms/)**
+**[Crypto Market Cools as Bitcoin Stays Within Death Cross: Analysis](https://finance.yahoo.com/news/crypto-market-cools-bitcoin-stays-191350316.html)**
 
-Cathie Wood, ARK Invest’s founder and CEO, said she expects the Trump administration could move beyond simply holding seized bitcoin and begin purchasing BTC to build a US strategic reserve, a shift she argued could become a catalytic signal for markets and other governments.Speaking on ARK’s “Bitc…
+The post-New Year rally fizzled fast. Bitcoin is back in death cross territory, and the charts aren't giving bulls much to celebrate.
 
-TradingView — Track All Markets • 16h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
+
+Bloomberg.com • 9h ago
+
+---
+
+**[Cathie Wood Says US May Start Buying Bitcoin for Reserve](https://bitbo.io/news/wood-us-bitcoin-reserve-buying/)**
+
+ARK Invest founder Cathie Wood said the Trump administration could begin buying bitcoin to build out the US strategic bitcoin reserve beyond confiscated holdings.
+
+Bitbo • 22h ago
 
 ---
 
@@ -265,7 +265,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 20h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 21h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -313,7 +313,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 971 • 💬 88 • ⏱️ 17:07 • 7h ago
+👁️ 14K • 👍 1K • 💬 85 • ⏱️ 17:07 • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 10K • 👍 986 • 💬 278 • ⏱️ 10:43 • 13h ago
+👁️ 12K • 👍 1K • 💬 201 • ⏱️ 10:43 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 Crypto Insider
 
-👁️ 27K • 👍 2K • 💬 92 • ⏱️ 21:00 • 15h ago
+👁️ 30K • 👍 2K • 💬 99 • ⏱️ 21:00 • 16h ago
 
 ---
 
@@ -347,13 +347,23 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 ---
 
-**[Why 2026 Will Shock Every Bitcoin Bear](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
+**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
 
-In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
+While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
 
-📺 Coinsider
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 355 • 💬 50 • ⏱️ 10:06 • 1d ago
+👁️ 30K • 👍 2K • 💬 152 • ⏱️ 25:57 • 1d ago
+
+---
+
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+
+📺 Vortex Bitcoin
+
+👁️ 4K • 👍 176 • 💬 10 • ⏱️ 0:49 • 15h ago
 
 ---
 
@@ -363,47 +373,37 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 63K • 👍 3K • 💬 326 • ⏱️ 16:13 • 1d ago
+👁️ 64K • 👍 3K • 💬 333 • ⏱️ 16:13 • 1d ago
 
 ---
 
-**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
+**[🚨 BITCOIN: MSCI ACTIVATES $MSTR TROJAN HORSE 🚀](https://www.youtube.com/watch?v=Brb3JHU5xZs)**
 
-While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
 
-📺 Simply Bitcoin
+📺 BRITISH HODL
 
-👁️ 29K • 👍 2K • 💬 152 • ⏱️ 25:57 • 1d ago
-
----
-
-**[This Crash Is Not NORMAL! This Is Pure Crypto Manipulation - Michael Saylor](https://www.youtube.com/watch?v=rSYUHAJtRaE)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 16K • 👍 661 • 💬 63 • ⏱️ 16:32 • 1d ago
+👁️ 13K • 👍 860 • 💬 42 • ⏱️ 8:43 • 2d ago
 
 ---
 
-**[Bitcoin Stalls At $90K Prior To Clarity Act Decision! What Comes Next?](https://www.youtube.com/watch?v=z_44ZlAlE4g)**
+**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
 
-Bitcoin #Crypto #Finance Bitcoin's price action has been rough—hesitating and chopping as markets wait for Jan. 15 clarity out of ...
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-📺 The Wolf Of All Streets
+📺 Altcoin Daily
 
-👁️ 15K • 👍 654 • 💬 225 • ⏱️ 29:17 • 4h ago
+👁️ 27K • 👍 2K • 💬 98 • ⏱️ 9:19 • 7h ago
 
 ---
 
-**[You’re Reading Bitcoin’s Price Wrong (Here’s Why)](https://www.youtube.com/watch?v=8DtGkJ0xYJI)**
+**[Everyone Is Preparing for the Wrong Bitcoin Year](https://www.youtube.com/watch?v=fJBp7V3Hp-s)**
 
-Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream using elite strategies that unlock Bitcoin's true ...
+In this video I make a 5 part case as to why I think 2026 will actually surprise everyone and turn out to be bullish instead of bearish ...
 
-📺 Mark Moss
+📺 Coinsider
 
-👁️ 30K • 👍 2K • 💬 101 • ⏱️ 13:19 • 1d ago
+👁️ 8K • 👍 361 • 💬 53 • ⏱️ 10:06 • 1d ago
 
 ---
 

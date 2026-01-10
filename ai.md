@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T05:45:12.138192+00:00'
+updated: '2026-01-10T06:32:45.483419+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - news
 - repositories
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 05:45 UTC  
+**Last Updated:** January 10, 2026 at 06:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,11 +53,11 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 ---
 
-**[Building adaptive routing logic in Go for an Open source LLM gateway - Bifrost](https://www.reddit.com/r/artificial/comments/1q8um17/building_adaptive_routing_logic_in_go_for_an_open/)**
+**[X Restricts Grok's Image Generation to Paid Users After Global Backlash](https://www.reddit.com/r/artificial/comments/1q8v56s/x_restricts_groks_image_generation_to_paid_users/)**
 
-Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
+X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-1h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 1h ago
 
 ---
 
@@ -65,7 +65,15 @@ Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/max
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 22h ago
+
+---
+
+**[Building adaptive routing logic in Go for an Open source LLM gateway - Bifrost](https://www.reddit.com/r/artificial/comments/1q8um17/building_adaptive_routing_logic_in_go_for_an_open/)**
+
+Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
+
+2h ago
 
 ---
 
@@ -81,7 +89,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-16h ago
+17h ago
 
 ---
 
@@ -97,7 +105,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-14h ago
+15h ago
 
 ---
 
@@ -106,14 +114,6 @@ I've been working on a problem: AI agents confidently claim to understand things
 The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel
 
 🔗 [phoronix.com](https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop) • 1d ago
-
----
-
-**[One-Minute Daily AI News 1/8/2026](https://www.reddit.com/r/artificial/comments/1q808hn/oneminute_daily_ai_news_182026/)**
-
-Google is unleashing Gemini AI features on Gmail. Users will have to opt out.[1] Governments grapple with the flood of non-consensual nudity on X.[2] OpenAI introduced ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.[3] Stanford Researchers Build SleepFM Clinical: A Multimodal Sleep Foundation AI Model for 130+ Disease Prediction.[4] Sources: [1] https://www.cnbc.com/2026/01/08/google-adds-gemini-features-to-gmail-message-summaries-proofreading-.html [2] https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/ [3] https://openai.com/index/introducing-chatgpt-health/ [4] https://www.marktechpost.com/2026/01/08/stanford-researchers-build-sleepfm-clinical-a-multimodal-sleep-foundation-ai-model-for-130-disease-prediction/
-
-23h ago
 
 ---
 
@@ -129,17 +129,33 @@ The Atlantic • 7h ago
 
 ---
 
-**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
 
-The New York Times • 8h ago
+From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
+
+NBC News • 20h ago
 
 ---
 
-**[Elon Musk’s X threatened with UK ban over wave of indecent AI images](https://www.theguardian.com/technology/2026/jan/09/musks-x-ordered-by-uk-government-to-tackle-wave-of-indecent-imagery-or-face-ban)**
+**[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
 
-Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
+Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-The Guardian • 9h ago
+BBC • 20h ago
+
+---
+
+**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+
+The New York Times • 9h ago
+
+---
+
+**[Grok turns off image generator for most users after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)**
+
+X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
+
+The Guardian • 22h ago
 
 ---
 
@@ -151,43 +167,9 @@ BBC • 8h ago
 
 ---
 
-**[2 Brilliant AI Stocks to Buy in January and Hold for the Long Term](https://www.fool.com/investing/2026/01/09/2-brilliant-ai-stocks-buy-january-hold-long-term/)**
+**[See how AI images claiming to reveal Minneapolis ICE agent’s face spread confusion](https://www.washingtonpost.com/technology/2026/01/09/ai-unmask-shooting-ice-minneapolis/)**
 
-These tech leaders are playing crucial roles in bringing AI to the masses.
-
-The Motley Fool • 13h ago
-
----
-
-**[3 Brilliant AI Stocks That Could Double in 2026](https://www.fool.com/investing/2026/01/09/3-brilliant-ai-stocks-that-could-double-in-2026/)**
-
-The AI investment realm is full of great opportunities in 2026.
-
-The Motley Fool • 19h ago
-
----
-
-**[Prediction: 2 Ways To Capitalize on AI Stocks in 2026](https://finance.yahoo.com/news/prediction-2-ways-capitalize-ai-042000828.html)**
-
-The AI sector is set for some changes in 2026.
-
-Yahoo Finance • 1h ago
-
----
-
-**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
-
-From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
-
-NBC News • 19h ago
-
----
-
-**[A red pixel in the snow: How AI solved the mystery of a missing mountaineer](https://www.bbc.com/future/article/20260108-how-ai-solved-the-mystery-of-a-missing-mountaineer)**
-
-Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
-
-BBC • 19h ago
+The Washington Post • 12h ago
 
 ---
 
@@ -195,7 +177,23 @@ BBC • 19h ago
 
 A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.
 
-Quanta Magazine • 13h ago
+Quanta Magazine • 14h ago
+
+---
+
+**[Meta signs nuclear energy deals to power Prometheus AI supercluster](https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html)**
+
+Meta said it secured agreements with energy companies Vistra, TerraPower and Oklo, which are all working on nuclear power technologies.
+
+CNBC • 19h ago
+
+---
+
+**[Meta Signs Multi-Gigawatt Nuclear Deals for AI Data Centers](https://finance.yahoo.com/news/meta-signs-multi-gigawatt-nuclear-112234780.html)**
+
+The agreements could end up totaling more than 6 gigawatts, enough to power a city of about 5 million homes.  While Meta didn’t disclose the value of the contracts, agreements of this size can easily represent billions of dollars in total revenue for electricity generators.  Meta said Friday it will purchase electricity from three existing Vistra Corp. plants and support several small reactors that Sam Altman-backed Oklo Inc. and Bill Gates-backed TerraPower LLC are planning to build over the next decade.
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -205,7 +203,7 @@ Quanta Magazine • 13h ago
 
 **[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
 
-⬆️ 751 • 💬 284 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
+⬆️ 752 • 💬 286 • 1d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
 
 ---
 
@@ -213,7 +211,7 @@ Quanta Magazine • 13h ago
 
 "What we've learned over the course of this year, from a consumer perspective, is they're not buying based on AI."
 
-⬆️ 543 • 💬 384 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
+⬆️ 545 • 💬 384 • 2d ago • [PC Gamer](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 
 ---
 
@@ -221,7 +219,7 @@ Quanta Magazine • 13h ago
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 438 • 💬 705 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 440 • 💬 707 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -231,7 +229,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 323 • 💬 200 • 7h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 358 • 💬 212 • 7h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -263,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 90 • 💬 138 • 11h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 98 • 💬 146 • 12h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -271,7 +269,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 75 • 💬 91 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 75 • 💬 91 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -287,23 +285,13 @@ Since 2023, every model at the frontier of AI capabilities, as measured by the E
 
 ## YouTube Videos: "ai"
 
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
-
-CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
-
-📺 AI Revolution
-
-👁️ 7K • 👍 419 • 💬 15 • ⏱️ 11:06 • 6h ago
-
----
-
 **[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
 
 Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From NEURA's refined humanoids and AgiBot's full ...
 
 📺 AI Revolution
 
-👁️ 73K • 👍 1K • 💬 56 • ⏱️ 17:54 • 1d ago
+👁️ 76K • 👍 1K • 💬 56 • ⏱️ 17:54 • 1d ago
 
 ---
 
@@ -313,7 +301,7 @@ CES 2026 opened with a clear message: AI has moved out of apps and into physical
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 145 • ⏱️ 13:08 • 2d ago
+👁️ 101K • 👍 2K • 💬 150 • ⏱️ 13:08 • 2d ago
 
 ---
 
@@ -323,17 +311,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 31K • 👍 2K • 💬 186 • ⏱️ 19:15 • 15h ago
+👁️ 34K • 👍 2K • 💬 190 • ⏱️ 19:15 • 16h ago
 
 ---
 
-**[AI LAYOFFS ARE BACKFIRING!](https://www.youtube.com/watch?v=fvhMFdrd-Lw)**
+**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
 
-Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ Join the community!
+Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
 
-📺 Joshua Fluke
+📺 MoreBeckBros
 
-👁️ 38K • 👍 2K • 💬 823 • ⏱️ 5:15 • 16h ago
+👁️ 70K • 👍 4K • 💬 427 • ⏱️ 26:17 • 7h ago
 
 ---
 
@@ -347,13 +335,23 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 ---
 
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
+**[AI LAYOFFS ARE BACKFIRING!](https://www.youtube.com/watch?v=fvhMFdrd-Lw)**
 
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
+Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ Join the community!
 
-📺 MoreBeckBros
+📺 Joshua Fluke
 
-👁️ 49K • 👍 3K • 💬 377 • ⏱️ 26:17 • 7h ago
+👁️ 40K • 👍 2K • 💬 826 • ⏱️ 5:15 • 17h ago
+
+---
+
+**[Google&#39;s Gmail unveils new AI features powered by Gemini](https://www.youtube.com/watch?v=nzlFoQmMSBk)**
+
+CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
+
+📺 CNBC Television
+
+👁️ 18K • 👍 191 • 💬 21 • ⏱️ 3:43 • 1d ago
 
 ---
 
@@ -363,27 +361,27 @@ Scientists estimate that 80 percent of life on Earth is still unknown to humanit
 
 📺 TED
 
-👁️ 17K • 👍 539 • 💬 46 • ⏱️ 12:52 • 1d ago
+👁️ 17K • 👍 549 • 💬 46 • ⏱️ 12:52 • 1d ago
 
 ---
 
-**[The 10 Most In-Demand AI Skills for 2026](https://www.youtube.com/watch?v=udg_UKml3XY)**
+**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
 
-Check Out Coursera Plus - https://imp.i384100.net/c/3293285/3748645/14726 The world of work is changing fast, and the single ...
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
 
-📺 Ishan Sharma
+📺 Matthew Berman
 
-👁️ 10K • 👍 744 • 💬 43 • ⏱️ 10:52 • 16h ago
+👁️ 33K • 👍 1K • 💬 80 • ⏱️ 14:35 • 1d ago
 
 ---
 
-**[Motorola Learned Nothing From Humane AI... #Shorts](https://www.youtube.com/watch?v=E3PRNqNpyMs)**
+**[Cursor AI Tutorial for Beginners: Build App with AI (2026)](https://www.youtube.com/watch?v=oQDCAJnr1aU)**
 
-Repair Tools I Use (Updated Regularly – Includes Soldering Gear): https://www.phonerepairguru.com/tools Ask a Question ...
+Submit your Cursor app to the App Store: https://mikeyno-code.com/Skool-cursor ✓ All used prompts are in the Skool community ...
 
-📺 Phone Repair Guru
+📺 Mikey No Code
 
-👁️ 241K • 👍 8K • 💬 138 • ⏱️ 0:21 • 1d ago
+👁️ 20K • 💬 24 • ⏱️ 23:08 • 1d ago
 
 ---
 
@@ -399,7 +397,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 330,354 • ❤️ 705 • 1d ago
+⬇️ 330,354 • ❤️ 712 • 1d ago
 
 ---
 
@@ -411,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 8,048 • ❤️ 697 • 9d ago
+⬇️ 8,048 • ❤️ 698 • 9d ago
 
 ---
 
@@ -423,7 +421,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 3,149 • ❤️ 269 • 2d ago
+⬇️ 3,149 • ❤️ 286 • 2d ago
 
 ---
 
@@ -459,7 +457,19 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,216 • ❤️ 332 • 4d ago
+⬇️ 30,216 • ❤️ 335 • 4d ago
+
+---
+
+**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
+
+*Liquid AI*
+
+LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
+
+`text-generation` `1.2B`
+
+⬇️ 5,785 • ❤️ 229 • 1d ago
 
 ---
 
@@ -475,18 +485,6 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 ---
 
-**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
-
-*Liquid AI*
-
-LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
-
-`text-generation` `1.2B`
-
-⬇️ 5,785 • ❤️ 224 • 23h ago
-
----
-
 **[IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)**
 
 *IQuest*
@@ -495,7 +493,7 @@ IQuest-Coder-V1-40B-Loop-Instruct is a 40B parameter code LLM optimized for auto
 
 `text-generation` `39.8B`
 
-⬇️ 14,705 • ❤️ 297 • 2d ago
+⬇️ 14,705 • ❤️ 298 • 2d ago
 
 ---
 
@@ -507,7 +505,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 308 • ❤️ 187 • 4d ago
+⬇️ 308 • ❤️ 189 • 4d ago
 
 ---
 
@@ -521,7 +519,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 169 • 💬 5 • ⭐ 3,908 • 1mo ago
+▲ 169 • 💬 5 • ⭐ 4,012 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -546,21 +544,9 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-▲ 2 • 💬 0 • ⭐ 2,227 • 11mo ago
+▲ 2 • 💬 0 • ⭐ 2,240 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
-
----
-
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 3 • 💬 0 • ⭐ 25,605 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
 
 ---
 
@@ -629,6 +615,18 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 3 • 💬 0 • ⭐ 25,618 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
 **[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)**
 
 *Shih-Yang Liu, Xin Dong, Ximing Lu et al. (13 authors)*
@@ -637,7 +635,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-▲ 102 • 💬 6 • ⭐ 64 • 1d ago
+▲ 103 • 💬 6 • ⭐ 64 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
@@ -653,7 +651,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 893 • 3h ago
+⭐ 7.4k • 🔱 897 • 1h ago
 
 ---
 
@@ -673,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 11h ago
+⭐ 2.2k • 🔱 129 • 1m ago
 
 ---
 
@@ -683,7 +681,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 1.9k • 🔱 218 • 5d ago
+⭐ 2.0k • 🔱 218 • 5d ago
 
 ---
 
@@ -713,7 +711,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 106 • 15h ago
+⭐ 1.3k • 🔱 106 • 16h ago
 
 ---
 
@@ -723,7 +721,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 19h ago
+⭐ 1.2k • 🔱 143 • 20h ago
 
 ---
 
@@ -733,7 +731,7 @@ Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD item
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 193 • 2d ago
+⭐ 1.2k • 🔱 199 • 2d ago
 
 ---
 
