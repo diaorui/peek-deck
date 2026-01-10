@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T10:22:00.874994+00:00'
+updated: '2026-01-10T10:44:28.823206+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 10:22 UTC  
+**Last Updated:** January 10, 2026 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -125,7 +125,7 @@ Received this notification just now
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-19h ago
+20h ago
 
 ---
 
@@ -311,7 +311,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 87 • ⏱️ 17:07 • 11h ago
+👁️ 16K • 👍 1K • 💬 87 • ⏱️ 17:07 • 12h ago
 
 ---
 
@@ -341,7 +341,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 106 • ⏱️ 9:19 • 11h ago
+👁️ 32K • 👍 2K • 💬 106 • ⏱️ 9:19 • 12h ago
 
 ---
 

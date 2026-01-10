@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T10:22:00.880352+00:00'
+updated: '2026-01-10T10:44:28.829353+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 10:22 UTC  
+**Last Updated:** January 10, 2026 at 10:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -154,7 +154,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 55m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ Decrypt • 1d ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 15h ago
+Coinpedia Fintech News • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView — Track All Markets • 2d ago
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
-Seeking Alpha • 15h ago
+Seeking Alpha • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 420 • 👍 49 • 💬 7 • ⏱️ 4:11 • 3h ago
+👁️ 420 • 👍 49 • 💬 7 • ⏱️ 4:11 • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Stock Moe
 
-👁️ 14K • 👍 855 • 💬 80 • ⏱️ 12:30 • 20h ago
+👁️ 14K • 👍 855 • 💬 80 • ⏱️ 12:30 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 7K • 👍 262 • 💬 40 • ⏱️ 52:02 • 22h ago
+👁️ 7K • 👍 262 • 💬 40 • ⏱️ 52:02 • 23h ago
 
 ---
 
