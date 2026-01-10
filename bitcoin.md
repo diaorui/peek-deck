@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T07:40:35.269781+00:00'
+updated: '2026-01-10T08:28:24.713555+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 07:40 UTC  
+**Last Updated:** January 10, 2026 at 08:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-2h ago
+3h ago
 
 ---
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 Received this notification just now
 
-8h ago
+9h ago
 
 ---
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -119,7 +119,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 **[“They said Bitcoin won’t make you happy “ BTC holders in 2030 :](https://www.reddit.com/r/Bitcoin/comments/1q8xiwl/they_said_bitcoin_wont_make_you_happy_btc_holders/)**
 
-33m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 So, yeah, pretty much the question in the title. So I’m pretty familiar with trading stocks, but looking to diversify and maybe get in at a low price point. Seems like the bottom is sort of in here. Anyway, if I buy using an exchange like coinbase is it possible (and reasonably easy for a non-tech person) to move Bitcoin from the exchange to a private wallet? Like if you buy GLD, sure, you (in theory) own physical gold but it’s rare to impossible show up and take your share home. How does this work with BC? Honestly the only thing that’s kept me from getting in way earlier was the tech literacy barrier. But perhaps it’s become easy enough now and you guys have some insight.
 
-2h ago
+3h ago
 
 ---
 
@@ -135,13 +135,13 @@ So, yeah, pretty much the question in the title. So I’m pretty familiar with t
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
 
-13h ago
+14h ago
 
 ---
 
 **[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -153,7 +153,7 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 23h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 19h ago
 
 A $2.9 million bitcoin sounds extreme — until you see how VanEck frames its long-term base case.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -191,13 +191,13 @@ CoinDesk • 2h ago
 
 Could Bitcoin be worth more than $50 million per coin in 24 years? VanEck just put out its most bullish price prediction yet.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bloomberg.com • 10h ago
 
 The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -263,7 +263,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 22h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 23h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -321,7 +321,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 12K • 👍 1K • 💬 201 • ⏱️ 10:43 • 15h ago
+👁️ 12K • 👍 1K • 💬 201 • ⏱️ 10:43 • 16h ago
 
 ---
 
@@ -331,7 +331,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 Crypto Insider
 
-👁️ 30K • 👍 2K • 💬 99 • ⏱️ 21:00 • 17h ago
+👁️ 30K • 👍 2K • 💬 99 • ⏱️ 21:00 • 18h ago
 
 ---
 
@@ -361,7 +361,7 @@ Superheat is announcing their new water heater at CES 2026 that can use the heat
 
 📺 Vortex Bitcoin
 
-👁️ 4K • 👍 176 • 💬 10 • ⏱️ 0:49 • 16h ago
+👁️ 4K • 👍 176 • 💬 10 • ⏱️ 0:49 • 17h ago
 
 ---
 
@@ -391,7 +391,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 98 • ⏱️ 9:19 • 8h ago
+👁️ 27K • 👍 2K • 💬 98 • ⏱️ 9:19 • 9h ago
 
 ---
 

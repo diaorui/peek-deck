@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T07:40:35.260983+00:00'
+updated: '2026-01-10T08:28:24.705145+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - videos
 - social
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 07:40 UTC  
+**Last Updated:** January 10, 2026 at 08:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 2h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/max
 
 I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
 
-5m ago
+53m ago
 
 ---
 
@@ -81,7 +81,7 @@ I see most boomers in their 60's and 70's now adept at using smartphones. Young 
 
 I have created the blog post where i share my vision of the problem of "AI Self-consciousness". There is a lot of buzz around the topic. In my article i outline that: The Large Language Model (LLM) alone cannot be self-conscious; it is a static, statistical model. Current AI agent architectures are primarily reactive and lack the continuous, dynamic complexity required for self-consciousness. The path to self-consciousness requires a new, dynamic architecture featuring a proactive memory system, multiple asynchronous channels, a dedicated reflection loop, and an affective evaluation system. Rich, sustained interaction with multiple distinct individuals is essential for developing a sense of self-awareness in comparison to others. I suggest the common architecture for AI agent where Self-consciousness could emerge in the future.
 
-🔗 [gelembjuk.com](https://gelembjuk.com/blog/post/where-and-how-ai-self-consciousness-could-emerge/) • 18m ago
+🔗 [gelembjuk.com](https://gelembjuk.com/blog/post/where-and-how-ai-self-consciousness-could-emerge/) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I have created the blog post where i share my vision of the problem of "AI Self-
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 23h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 1d ago
 
 ---
 
@@ -105,7 +105,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-18h ago
+19h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Atlantic • 9h ago
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 10h ago
 
 Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 11h ago
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -155,7 +155,7 @@ BBC • 9h ago
 
 Figma looks set for a breakout this year.
 
-The Motley Fool • 10m ago
+The Motley Fool • 58m ago
 
 ---
 
@@ -163,7 +163,7 @@ The Motley Fool • 10m ago
 
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -171,19 +171,19 @@ BBC • 21h ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 21h ago
+NBC News • 22h ago
 
 ---
 
 **[DeepSeek To Release Next Flagship AI Model With Strong Coding Ability](https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability)**
 
-The Information • 18h ago
+The Information • 19h ago
 
 ---
 
 **[See how AI images claiming to reveal Minneapolis ICE agent’s face spread confusion](https://www.washingtonpost.com/technology/2026/01/09/ai-unmask-shooting-ice-minneapolis/)**
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Washington Post • 13h ago
 
 Meta said it secured agreements with energy companies Vistra, TerraPower and Oklo, which are all working on nuclear power technologies.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -259,7 +259,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 106 • 💬 152 • 13h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 106 • 💬 152 • 14h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -267,7 +267,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 75 • 💬 91 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 75 • 💬 91 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -275,7 +275,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 59 • 💬 35 • 12h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 59 • 💬 35 • 13h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -309,7 +309,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 34K • 👍 2K • 💬 190 • ⏱️ 19:15 • 17h ago
+👁️ 34K • 👍 2K • 💬 190 • ⏱️ 19:15 • 18h ago
 
 ---
 
@@ -339,7 +339,7 @@ Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ J
 
 📺 Joshua Fluke
 
-👁️ 40K • 👍 2K • 💬 826 • ⏱️ 5:15 • 18h ago
+👁️ 40K • 👍 2K • 💬 826 • ⏱️ 5:15 • 19h ago
 
 ---
 
@@ -649,7 +649,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 897 • 2h ago
+⭐ 7.4k • 🔱 897 • 3h ago
 
 ---
 
@@ -709,7 +709,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 106 • 17h ago
+⭐ 1.3k • 🔱 106 • 18h ago
 
 ---
 
@@ -719,7 +719,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 21h ago
+⭐ 1.2k • 🔱 143 • 22h ago
 
 ---
 
