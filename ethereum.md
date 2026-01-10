@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T04:54:40.547805+00:00'
+updated: '2026-01-10T05:22:26.596010+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 04:54 UTC  
+**Last Updated:** January 10, 2026 at 05:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-5h ago
+6h ago
 
 ---
 
@@ -112,7 +112,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-16h ago
+17h ago
 
 ---
 
@@ -120,7 +120,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
 
-23h ago
+1d ago
 
 ---
 
@@ -134,7 +134,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
 
-19h ago
+20h ago
 
 ---
 
@@ -172,7 +172,7 @@ simplywall.st • 2h ago
 
 Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -194,7 +194,7 @@ The Block • 2d ago
 
 Ethereum price retreated for three consecutive days, erasing some of the gains made earlier this month. ETH dropped to $3,152, down from this year’s high of $3,300. This article explores the top reasons why ETH price will eventually rebound this year.BitMine Ethereum purchasesOne main reason why th…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView — Track All Markets • 1d ago
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -240,7 +240,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 168 • 💬 37 • ⏱️ 20:39 • 10h ago
+👁️ 3K • 👍 168 • 💬 37 • ⏱️ 20:39 • 11h ago
 
 ---
 
@@ -310,7 +310,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 104 • 💬 8 • ⏱️ 5:13 • 11h ago
+👁️ 2K • 👍 104 • 💬 8 • ⏱️ 5:13 • 12h ago
 
 ---
 
@@ -320,7 +320,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 258 • 👍 11 • 💬 3 • ⏱️ 5:53 • 8h ago
+👁️ 258 • 👍 11 • 💬 3 • ⏱️ 5:53 • 9h ago
 
 ---
 

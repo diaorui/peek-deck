@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T04:54:40.533191+00:00'
+updated: '2026-01-10T05:22:26.581472+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 04:54 UTC  
+**Last Updated:** January 10, 2026 at 05:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
 
-23m ago
+51m ago
 
 ---
 
@@ -65,7 +65,7 @@ Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/max
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 20h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 21h ago
 
 ---
 
@@ -81,7 +81,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 8h ago
 
 Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Motley Fool • 12h ago
 
 The AI investment realm is full of great opportunities in 2026.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 18h ago
 
 The AI sector is set for some changes in 2026.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 34m ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 18h ago
+NBC News • 19h ago
 
 ---
 
@@ -187,7 +187,7 @@ NBC News • 18h ago
 
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -263,7 +263,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 90 • 💬 138 • 10h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 90 • 💬 138 • 11h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -271,7 +271,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 75 • 💬 91 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 75 • 💬 91 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -323,7 +323,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 31K • 👍 2K • 💬 186 • ⏱️ 19:15 • 14h ago
+👁️ 31K • 👍 2K • 💬 186 • ⏱️ 19:15 • 15h ago
 
 ---
 
@@ -333,7 +333,7 @@ Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ J
 
 📺 Joshua Fluke
 
-👁️ 38K • 👍 2K • 💬 823 • ⏱️ 5:15 • 15h ago
+👁️ 38K • 👍 2K • 💬 823 • ⏱️ 5:15 • 16h ago
 
 ---
 
@@ -483,7 +483,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 5,785 • ❤️ 224 • 22h ago
+⬇️ 5,785 • ❤️ 224 • 23h ago
 
 ---
 
@@ -653,7 +653,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 893 • 2h ago
+⭐ 7.4k • 🔱 893 • 3h ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 10h ago
+⭐ 2.2k • 🔱 129 • 11h ago
 
 ---
 
@@ -723,7 +723,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 18h ago
+⭐ 1.2k • 🔱 143 • 19h ago
 
 ---
 

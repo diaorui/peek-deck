@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T04:54:40.541755+00:00'
+updated: '2026-01-10T05:22:26.589948+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 04:54 UTC  
+**Last Updated:** January 10, 2026 at 05:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Received this notification just now
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Received this notification just now
 
 **[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 **[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -155,7 +155,7 @@ I am tired boss
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 20h ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1h ago
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 1d ago
 
 Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bitcoin Magazine • 13h ago
 
 Cathie Wood, ARK Invest’s founder and CEO, said she expects the Trump administration could move beyond simply holding seized bitcoin and begin purchasing BTC to build a US strategic reserve, a shift she argued could become a catalytic signal for markets and other governments.Speaking on ARK’s “Bitc…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -323,7 +323,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 10K • 👍 986 • 💬 278 • ⏱️ 10:43 • 12h ago
+👁️ 10K • 👍 986 • 💬 278 • ⏱️ 10:43 • 13h ago
 
 ---
 
@@ -333,7 +333,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 Crypto Insider
 
-👁️ 27K • 👍 2K • 💬 92 • ⏱️ 21:00 • 14h ago
+👁️ 27K • 👍 2K • 💬 92 • ⏱️ 21:00 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin #Crypto #Finance Bitcoin's price action has been rough—hesitating and 
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 654 • 💬 225 • ⏱️ 29:17 • 3h ago
+👁️ 15K • 👍 654 • 💬 225 • ⏱️ 29:17 • 4h ago
 
 ---
 
