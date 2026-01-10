@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T17:41:50.652020+00:00'
+updated: '2026-01-10T18:30:51.752697+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 17:41 UTC  
+**Last Updated:** January 10, 2026 at 18:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 12h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 13h ago
 
 ---
 
@@ -125,13 +125,13 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 Daniela Amodei has helped build Anthropic into a serious AI player by betting on safety and enterprise adoption.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bloomberg.com • 3h ago
 
 Exclusive: US vice-president ‘sympathetic’ to concerns over Grok-generated pornography, says deputy PM
 
-The Guardian • 39m ago
+The Guardian • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Atlantic • 19h ago
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 20h ago
 
 Decades of research have demonstrated the benefits of meditation.
 
-Time Magazine • 6h ago
+Time Magazine • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ Time Magazine • 6h ago
 
 To prepare AI agents for office work, the company is asking contractors to upload projects from past jobs, leaving it to them to strip out confidential and personally identifiable information.
 
-WIRED • 16h ago
+WIRED • 17h ago
 
 ---
 
@@ -177,19 +177,19 @@ WIRED • 16h ago
 
 A new group within the Justice Department will target state artificial intelligence laws that it says hinder innovation, according to a memo.
 
-CBS News • 18h ago
+CBS News • 19h ago
 
 ---
 
 **[These 8 stocks could form the backbone of AI as chips get more powerful](https://www.marketwatch.com/story/these-8-stocks-could-form-the-backbone-of-ai-as-chips-get-more-powerful-e0b87fe7?gaa_at=eafs&gaa_n=AWEtsqcogbGRCUFOTUdSokVo3tWBU0olchMr0seGW2y7C_dyHCQ2ChLj5MN3&gaa_ts=696292c7&gaa_sig=V1r8fkoIBDg67WoHEZImnmG2qaNzEm8EuVnuSBVDNOJz__kq47GuxDJJNFFyrKnAVihZIBeT3z7uen1ugxDIYw%3D%3D)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 260 • 💬 120 • 1d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 260 • 💬 120 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -241,7 +241,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 152 • 💬 216 • 23h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 152 • 💬 216 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -265,7 +265,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 68 • 💬 41 • 22h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 68 • 💬 41 • 23h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -281,33 +281,23 @@ Since 2023, every model at the frontier of AI capabilities, as measured by the E
 
 ## YouTube Videos: "ai"
 
+**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
+
+LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
+
+📺 Matt Wolfe
+
+👁️ 10K • 👍 606 • 💬 48 • ⏱️ 14:39 • 4h ago
+
+---
+
 **[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
 
 Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From NEURA's refined humanoids and AgiBot's full ...
 
 📺 AI Revolution
 
-👁️ 80K • 👍 2K • 💬 61 • ⏱️ 17:54 • 1d ago
-
----
-
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 1)](https://www.youtube.com/watch?v=zEYIcaQwn6s)**
-
-CES 2026 opened with a clear message: AI has moved out of apps and into physical systems. Robots, home machines, energy ...
-
-📺 AI Revolution
-
-👁️ 105K • 👍 2K • 💬 153 • ⏱️ 13:08 • 2d ago
-
----
-
-**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 43K • 👍 3K • 💬 214 • ⏱️ 19:15 • 1d ago
+👁️ 82K • 👍 2K • 💬 63 • ⏱️ 17:54 • 1d ago
 
 ---
 
@@ -317,7 +307,27 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 17K • 👍 712 • 💬 33 • ⏱️ 11:06 • 18h ago
+👁️ 20K • 👍 781 • 💬 43 • ⏱️ 11:06 • 19h ago
+
+---
+
+**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 47K • 👍 3K • 💬 222 • ⏱️ 19:15 • 1d ago
+
+---
+
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 1)](https://www.youtube.com/watch?v=zEYIcaQwn6s)**
+
+CES 2026 opened with a clear message: AI has moved out of apps and into physical systems. Robots, home machines, energy ...
+
+📺 AI Revolution
+
+👁️ 107K • 👍 2K • 💬 154 • ⏱️ 13:08 • 2d ago
 
 ---
 
@@ -327,37 +337,17 @@ Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ J
 
 📺 Joshua Fluke
 
-👁️ 46K • 👍 3K • 💬 895 • ⏱️ 5:15 • 1d ago
+👁️ 48K • 👍 3K • 💬 921 • ⏱️ 5:15 • 1d ago
 
 ---
 
-**[Stop Paying for AI: Use GPT-5, Sora 2 &amp; Gemini 3 for FREE (Unlimited)](https://www.youtube.com/watch?v=izvKi-Slc4M)**
+**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
 
-I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISION, APPS, and even VIDEO — step-by-step, ...
+Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
 
-📺 Malva AI
+📺 MoreBeckBros
 
-👁️ 16K • 👍 1K • 💬 265 • ⏱️ 10:24 • 2d ago
-
----
-
-**[Useless AI Trash](https://www.youtube.com/watch?v=FGFO-EvGVRw)**
-
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
-
-📺 penguinz0
-
-👁️ 1.4M • 👍 66K • 💬 9K • ⏱️ 17:14 • 2d ago
-
----
-
-**[PEMILIHAN TALENT KERUSI PANAS AI TEAM 2026 !!! SIAPA LAYAK BERSAMA MALKODOS , DAUS &amp; AINA…](https://www.youtube.com/watch?v=5s_nFAuQ7Vg)**
-
-Why So Serious ??? Sapa yg layak berganding dgn mal , daus dan aina.
-
-📺 Alieff Irfan
-
-👁️ 274K • 👍 22K • 💬 2K • ⏱️ 1:08:29 • 4h ago
+👁️ 140K • 👍 7K • 💬 605 • ⏱️ 26:17 • 19h ago
 
 ---
 
@@ -367,17 +357,27 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 35K • 👍 1K • 💬 82 • ⏱️ 14:35 • 1d ago
+👁️ 35K • 👍 1K • 💬 83 • ⏱️ 14:35 • 1d ago
 
 ---
 
-**[She Pushed Hulk Into Death... But Police Exposed The Truth #shorts #ai #hulk](https://www.youtube.com/watch?v=rfrx--ltCG0)**
+**[Stop Paying for AI: Use GPT-5, Sora 2 &amp; Gemini 3 for FREE (Unlimited)](https://www.youtube.com/watch?v=izvKi-Slc4M)**
 
-She Pushed Hulk Into Death... But Police Exposed The Truth #shorts #ai #hulk They thought Hulk was finished… They betrayed ...
+I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISION, APPS, and even VIDEO — step-by-step, ...
 
-📺 AeroVibea
+📺 Malva AI
 
-👁️ 6K • 👍 300 • 💬 1 • ⏱️ 1:00 • 13h ago
+👁️ 17K • 👍 1K • 💬 265 • ⏱️ 10:24 • 2d ago
+
+---
+
+**[What You Absolutely NEED to Know About AI in 2026](https://www.youtube.com/watch?v=K0UwutA4utA)**
+
+Subscribe to stay up to date with AI in 2026! This week in AI was mostly filled with announcements about things coming in 2026, ...
+
+📺 The AI Advantage
+
+👁️ 6K • 👍 289 • 💬 24 • ⏱️ 15:26 • 23h ago
 
 ---
 
@@ -393,7 +393,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 496,524 • ❤️ 730 • 2d ago
+⬇️ 496,524 • ❤️ 734 • 2d ago
 
 ---
 
@@ -405,7 +405,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,056 • ❤️ 699 • 9d ago
+⬇️ 9,056 • ❤️ 701 • 9d ago
 
 ---
 
@@ -417,7 +417,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 10,290 • ❤️ 326 • 3d ago
+⬇️ 10,290 • ❤️ 340 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,862 • ❤️ 264 • 4d ago
+⬇️ 1,862 • ❤️ 265 • 4d ago
 
 ---
 
@@ -441,7 +441,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 10,162 • ❤️ 237 • 1d ago
+⬇️ 10,162 • ❤️ 240 • 1d ago
 
 ---
 
@@ -465,7 +465,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 21,700 • ❤️ 559 • 10d ago
+⬇️ 21,700 • ❤️ 560 • 10d ago
 
 ---
 
@@ -477,19 +477,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 205,738 • ❤️ 994 • 13d ago
-
----
-
-**[MiroThinker-v1.5-235B](https://huggingface.co/miromind-ai/MiroThinker-v1.5-235B)**
-
-*MiroMind AI*
-
-MiroThinker-v1.5-235B is a large language model optimized for tool-augmented reasoning and information seeking, featuring interactive scaling for deeper agent-environment interactions. It excels at long-horizon tasks, supporting a 256K context window and up to 400 tool calls, making it ideal for complex research and general QA.
-
-`text-generation` `235.1B`
-
-⬇️ 1,073 • ❤️ 194 • 4d ago
+⬇️ 205,738 • ❤️ 996 • 14d ago
 
 ---
 
@@ -501,7 +489,19 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 497 • ❤️ 192 • 4d ago
+⬇️ 497 • ❤️ 195 • 4d ago
+
+---
+
+**[MiroThinker-v1.5-235B](https://huggingface.co/miromind-ai/MiroThinker-v1.5-235B)**
+
+*MiroMind AI*
+
+MiroThinker-v1.5-235B is a large language model optimized for tool-augmented reasoning and information seeking, featuring interactive scaling for deeper agent-environment interactions. It excels at long-horizon tasks, supporting a 256K context window and up to 400 tool calls, making it ideal for complex research and general QA.
+
+`text-generation` `235.1B`
+
+⬇️ 1,073 • ❤️ 195 • 4d ago
 
 ---
 
@@ -647,7 +647,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.6k • 🔱 924 • 47m ago
+⭐ 7.6k • 🔱 924 • 1h ago
 
 ---
 
@@ -667,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 130 • 2h ago
+⭐ 2.2k • 🔱 130 • 3h ago
 
 ---
 
@@ -697,7 +697,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 112 • 2h ago
+⭐ 1.3k • 🔱 112 • 3h ago
 
 ---
 

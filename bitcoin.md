@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T17:41:50.660976+00:00'
+updated: '2026-01-10T18:30:51.761257+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 17:41 UTC  
+**Last Updated:** January 10, 2026 at 18:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -107,19 +107,19 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-4h ago
+5h ago
 
 ---
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ How is the sentiment over here? Bullish AF for the long term! Short term it is a
 
 Received this notification just now
 
-18h ago
+19h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 1d ago
 
 There's a major pitfall coming up that'll need to be avoided.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -177,13 +177,13 @@ Yahoo Finance UK • 2d ago
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Block • 1h ago
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -309,83 +309,13 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Holders, Here&#39;s Why This All Makes Sense To Me](https://www.youtube.com/watch?v=oFocqiqDc4U)**
-
-Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
-
-📺 Aaron Bennett
-
-👁️ 3K • 👍 294 • 💬 261 • ⏱️ 7:59 • 11h ago
-
----
-
-**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 294 • ⏱️ 9:19 • 19h ago
-
----
-
 **[The AI Shock Is About to Reprice Bitcoin](https://www.youtube.com/watch?v=S-K-GTIIJfw)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 4K • 👍 435 • 💬 1 • ⏱️ 1:05:08 • 3h ago
-
----
-
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
-
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
-
-📺 Paul Barron Network
-
-👁️ 67K • 👍 3K • 💬 340 • ⏱️ 16:13 • 1d ago
-
----
-
-**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
-
-So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
-
-📺 BTC Isla
-
-👁️ 15K • 👍 1K • 💬 426 • ⏱️ 10:43 • 1d ago
-
----
-
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
-
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
-
-📺 Vortex Bitcoin
-
-👁️ 13K • 👍 250 • 💬 181 • ⏱️ 0:49 • 1d ago
-
----
-
-**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
-
-Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 261 • ⏱️ 17:07 • 19h ago
-
----
-
-**[Why 2026 Could Be a Defining Year for Bitcoin](https://www.youtube.com/watch?v=hsnv1Rcxs20)**
-
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we break down the outlook for 2026, ...
-
-📺 Anthony Pompliano
-
-👁️ 29K • 👍 1K • 💬 28 • ⏱️ 43:55 • 2d ago
+👁️ 13K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 4h ago
 
 ---
 
@@ -395,17 +325,87 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 255 • ⏱️ 11:14 • 1d ago
+👁️ 51K • 👍 3K • 💬 262 • ⏱️ 11:14 • 1d ago
 
 ---
 
-**[Solo Mining Domination: Bitaxe VS NerdQaxe++ Hydro #shorts #Bitcoin #blockchain](https://www.youtube.com/watch?v=Pr_ocC3hfFk)**
+**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
 
-Welcome to New England Crypto. My name is Matthew, & we are a Crypto Mining Family! In todays short, we are going over the ...
+Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
 
-📺 New England Crypto
+📺 Satoshi Alliance
 
-👁️ 482 • 👍 13 • 💬 1 • ⏱️ 0:25 • 4h ago
+👁️ 4K • 👍 351 • 💬 127 • ⏱️ 3:25 • 19h ago
+
+---
+
+**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+
+Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 278 • ⏱️ 17:07 • 19h ago
+
+---
+
+**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
+
+So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
+
+📺 BTC Isla
+
+👁️ 16K • 👍 1K • 💬 412 • ⏱️ 10:43 • 1d ago
+
+---
+
+**[GameStop is F*CKED! Closing MORE Stores and Bets on BITCOIN?! | Clownfish TV](https://www.youtube.com/watch?v=3LTwqeUEfYg)**
+
+GameStop sounds pretty f*cked going into 2026. They're closing 300 more locations with little or no notice to employees, they're ...
+
+📺 Clownfish TV
+
+👁️ 15K • 👍 1K • 💬 465 • ⏱️ 15:04 • 13h ago
+
+---
+
+**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 47K • 👍 2K • 💬 320 • ⏱️ 9:19 • 19h ago
+
+---
+
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+
+📺 Paul Barron Network
+
+👁️ 68K • 👍 3K • 💬 347 • ⏱️ 16:13 • 1d ago
+
+---
+
+**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
+
+2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
+
+📺 Crypto Insider
+
+👁️ 39K • 👍 3K • 💬 128 • ⏱️ 21:00 • 1d ago
+
+---
+
+**[🚨BREAKING CRYPTO NEWS: COULD THIS REALLY HAPPEN NEXT?🚨](https://www.youtube.com/watch?v=vdJQ-XrR35k)**
+
+Breaking Crypto News Today - Cathie Wood Just said this could happen next in the united states and it could be huge for crypto ...
+
+📺 Zach Humphries
+
+👁️ 6K • 👍 386 • 💬 237 • ⏱️ 6:53 • 23h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T17:41:50.670636+00:00'
+updated: '2026-01-10T18:30:51.770537+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 17:41 UTC  
+**Last Updated:** January 10, 2026 at 18:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-6h ago
+7h ago
 
 ---
 
@@ -64,7 +64,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -78,7 +78,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 I wanted to share a project I've been working on called MESGRO. I was looking for a way to host my portfolio that didn't feel like a generic blog or an academic site. Most of the templates I found are great for web developers, but they lack features for when you want to show off CAD, PCB layouts, and firmware snippets all in one place. I built this using Jekyll so it's easy to host on GitHub Pages for free. It’s basically a gallery-style layout specifically for mechatronics/robotics documentation. It's open-source if anyone wants to fork it. I’m looking for feedback, if there’s something specific you guys usually struggle to document in your portfolios, feel free to create a pull request! https://github.com/aojedao/MESGRO If you want to see a real example I built my own portfolio page website with it.
 
-🔗 [GitHub](https://github.com/aojedao/MESGRO) • 4m ago
+🔗 [GitHub](https://github.com/aojedao/MESGRO) • 53m ago
 
 ---
 
@@ -120,7 +120,7 @@ Reuters • 2d ago
 
 Wheel-legs, robotic arms and outdoor autonomy point to a company moving beyond vacuums into intelligent robotics for everyday problem-solving.
 
-CNET • 22h ago
+CNET • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNET • 22h ago
 
 Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
-The Verge • 2h ago
+The Verge • 3h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Verge • 2h ago
 
 FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
 
-WYMT • 22h ago
+WYMT • 23h ago
 
 ---
 
@@ -144,7 +144,7 @@ WYMT • 22h ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2d ago
 
 Discover what’s new in robotics, AI wearables, rollable screens, all-electric roller skis and more in our guide to the quirkiest tech innovations at CES 2026
 
-wallpaper.com • 22h ago
+wallpaper.com • 23h ago
 
 ---
 
@@ -198,7 +198,37 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 229K • 👍 3K • 💬 552 • ⏱️ 4:29 • 3d ago
+👁️ 236K • 👍 3K • 💬 563 • ⏱️ 4:29 • 3d ago
+
+---
+
+**[2026 FIRST Robotics Competition Kickoff Broadcast: REBUILT presented by Haas](https://www.youtube.com/watch?v=9kRhE5vgCvY)**
+
+The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal of REBUILT presented by Haas. To learn ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 5K • 👍 1K • ⏱️ 56:16 • 1h ago
+
+---
+
+**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
+
+Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
+
+📺 Carros Show
+
+👁️ 45K • 👍 401 • 💬 38 • ⏱️ 11:13 • 4d ago
+
+---
+
+**[21 Coolest Tech at CES 2026](https://www.youtube.com/watch?v=83TiUbFY6fY)**
+
+Our best CES 2026 tech list. From robotics, to personal self-driving cars to groundbreaking VR tech. CES 2026 brought the hottest ...
+
+📺 Cybernews
+
+👁️ 77K • 👍 1K • 💬 122 • ⏱️ 28:35 • 14h ago
 
 ---
 
@@ -212,66 +242,6 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 ---
 
-**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
-
-The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
-
-📺 Hyundai Motor Group
-
-👁️ 246K • 👍 61 • ⏱️ 1:15 • 3d ago
-
----
-
-**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
-
-LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
-
-📺 WION
-
-👁️ 5K • 👍 20 • 💬 13 • ⏱️ 1:15 • 3d ago
-
----
-
-**[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
-
-The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
-
-📺 Dip Knows
-
-👁️ 480K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
-
----
-
-**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
-
-Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
-
-📺 Hyundai Motor Group
-
-👁️ 570K • 👍 44 • 💬 1 • ⏱️ 0:59 • 3d ago
-
----
-
-**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
-
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
-
-📺 NBC News
-
-👁️ 174K • 👍 2K • 💬 205 • ⏱️ 0:22 • 4d ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 5.9M • 👍 4K • 💬 1K • ⏱️ 0:32 • 6d ago
-
----
-
 **[CES 2026 Just Changed Everything: Robots, AI Homes &amp; Tech You Can Actually Buy](https://www.youtube.com/watch?v=KsMrJUumOe0)**
 
 CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy CES 2026 has officially changed ...
@@ -282,13 +252,43 @@ CES 2026 Just Changed Everything: Robots, AI Homes & Tech You Can Actually Buy C
 
 ---
 
-**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
+**[Atlas Has Left the Lab! In-Person Demo of Boston Dynamics Humanoid | What The Future](https://www.youtube.com/watch?v=q2rR_aXjqnI)**
 
-Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
+Boston Dynamics' Atlas robot made its first in-person debut at CES 2026, where it showcased autonomy, teleoperation, and how ...
 
-📺 Carros Show
+📺 CNET
 
-👁️ 43K • 👍 395 • 💬 38 • ⏱️ 11:13 • 4d ago
+👁️ 125K • 👍 2K • 💬 325 • ⏱️ 4:01 • 2d ago
+
+---
+
+**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
+
+This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 354 • 👍 262 • 💬 27 • ⏱️ 3:13 • 59m ago
+
+---
+
+**[Robots take over CES 2026 and it’s just getting started - Rich On Tech](https://www.youtube.com/watch?v=pf1aW1b84ZE)**
+
+Rich DeMuro takes a look at the robots taking over the CES 2026 show floor, from bots that fight and dance to robots that play the ...
+
+📺 KTLA 5
+
+👁️ 2K • 👍 21 • 💬 4 • ⏱️ 3:04 • 1d ago
+
+---
+
+**[2026 FIRST Robotics Competition KitBot Overview](https://www.youtube.com/watch?v=xrBeEziJGJk)**
+
+Learn about the KitBot and what it can and cannot do on the field. For more information about the 2026 FIRST Robotics ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 478 • 👍 10 • 💬 3 • ⏱️ 3:51 • 58m ago
 
 ---
 

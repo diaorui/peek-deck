@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T17:41:50.667177+00:00'
+updated: '2026-01-10T18:30:51.767279+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 17:41 UTC  
+**Last Updated:** January 10, 2026 at 18:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 8h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-18h ago
+19h ago
 
 ---
 
@@ -154,7 +154,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 2d ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 8h ago
+CryptoSlate • 9h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Motley Fool • 1d ago
 
 Ethereum is struggling to reclaim the $3,100 level as price action tightens and the market braces for a decisive move. After weeks of choppy trading, ETH remains caught between fading bullish attempts and persistent overhead resistance, leaving analysts sharply divided on what comes next. A minorit…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -238,37 +238,27 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 197 • 👍 21 • 💬 2 • ⏱️ 11:37 • 3h ago
+👁️ 718 • 👍 54 • 💬 115 • ⏱️ 11:37 • 4h ago
 
 ---
 
-**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=d_hUTnG1bKs)**
 
-Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Discover Crypto
+📺 More Crypto Online
 
-👁️ 6K • 👍 218 • 💬 39 • ⏱️ 4:20 • 1d ago
-
----
-
-**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
-
-ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
-
-📺 Bankless
-
-👁️ 8K • 👍 287 • 💬 40 • ⏱️ 52:02 • 1d ago
+👁️ 374 • 👍 47 • 💬 3 • ⏱️ 5:05 • 1h ago
 
 ---
 
-**[&quot;Time for HONESTY! We Might Have Been Wrong About 2026&quot; - Tom Lee &amp; Jack Mallers](https://www.youtube.com/watch?v=VhKHFbHnhGU)**
+**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Savvy Finance
+📺 C-Zar Gets Crypto 
 
-👁️ 5K • 👍 208 • 💬 32 • ⏱️ 20:39 • 23h ago
+👁️ 101 • 👍 19 • 💬 4 • ⏱️ 6:18 • 1h ago
 
 ---
 
@@ -278,7 +268,27 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 8K • 👍 443 • 💬 59 • ⏱️ 15:28 • 21h ago
+👁️ 8K • 👍 464 • 💬 63 • ⏱️ 15:28 • 22h ago
+
+---
+
+**[&quot;Time for HONESTY! We Might Have Been Wrong About 2026&quot; - Tom Lee &amp; Jack Mallers](https://www.youtube.com/watch?v=VhKHFbHnhGU)**
+
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+
+📺 Savvy Finance
+
+👁️ 6K • 👍 223 • 💬 33 • ⏱️ 20:39 • 1d ago
+
+---
+
+**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
+
+Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 226 • 💬 41 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -288,7 +298,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 118 • 💬 10 • ⏱️ 4:11 • 11h ago
+👁️ 2K • 👍 123 • 💬 11 • ⏱️ 4:11 • 12h ago
+
+---
+
+**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
+
+ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
+
+📺 Bankless
+
+👁️ 8K • 👍 302 • 💬 42 • ⏱️ 52:02 • 1d ago
+
+---
+
+**[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
+
+1️⃣ *Join Moe's Discord Code WEALTH save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 15K • 👍 887 • 💬 102 • ⏱️ 12:30 • 1d ago
 
 ---
 
@@ -298,37 +328,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 236 • 💬 277 • ⏱️ 17:54 • 18h ago
-
----
-
-**[Bitcoin Has Officially Broken And This Is What Happens Next INSANE Ethereum Rollout In 2026](https://www.youtube.com/watch?v=IiWJdOHF3ag)**
-
-Something great in the cryptocurrency market is just around the corner... at least thats what analysts are saying over and over now ...
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 581 • 💬 240 • ⏱️ 29:35 • 7h ago
-
----
-
-**[Sh!t, Ethereum Is Messed Up 💀 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=v0l3Tv4t9Ro)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 3K • 👍 156 • 💬 24 • ⏱️ 11:47 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-gcev5s6aPI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 112 • 💬 8 • ⏱️ 5:13 • 1d ago
+👁️ 7K • 👍 246 • 💬 298 • ⏱️ 17:54 • 18h ago
 
 ---
 
