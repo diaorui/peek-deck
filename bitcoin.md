@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-09T23:42:30.157676+00:00'
+updated: '2026-01-10T01:46:38.794103+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 09, 2026 at 23:42 UTC  
+**Last Updated:** January 10, 2026 at 01:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,517.00
+### $90,638.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -0.0%  
-**30d:** -2.1%  
-**90d:** -21.3%  
-**1y:** -4.2%  
+**24h:** -0.6%  
+**7d:** -1.1%  
+**30d:** +0.2%  
+**90d:** -21.5%  
+**1y:** -4.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1808.59B
+**Market Cap:** $1809.01B
 Rank #1
 
-**Circulating Supply:** 19,973,746 BTC
+**Circulating Supply:** 19,973,800 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.1%
 
 **All-Time Low:** $67.81
-+133467.3%
++133499.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 27
-**FEAR**
+### 25
+**EXTREME FEAR**
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-8h ago
-
----
-
-**[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
-
-12h ago
+10h ago
 
 ---
 
@@ -93,7 +87,27 @@ Rank #1
 
 https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itself, it doesn't necessarily mean much. but it still feels like a positive indicator.
 
-9h ago
+11h ago
+
+---
+
+**[Betterment hacked](https://www.reddit.com/r/Bitcoin/comments/1q8njyv/betterment_hacked/)**
+
+Received this notification just now
+
+2h ago
+
+---
+
+**[Still I can't sure](https://www.reddit.com/r/Bitcoin/comments/1q85cjc/still_i_cant_sure/)**
+
+14h ago
+
+---
+
+**[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
+
+1h ago
 
 ---
 
@@ -101,7 +115,7 @@ https://charts.bitbo.io/halving-spiral/ keep hodling. even if it did cross itsel
 
 I sold the last bit of bitcoin I intended to sell this "bull run" this morning. Of course it's already up 2% since I sold, shot up like a rocket (at least for this cycle). Probably gonna close the day 10% up now, and run to 200k by February. Oh, well. At least it got me my land I've been wanting for years. Get your dream!
 
-5h ago
+7h ago
 
 ---
 
@@ -109,7 +123,7 @@ I sold the last bit of bitcoin I intended to sell this "bull run" this morning. 
 
 Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growing narrative suggesting that large institutions could somehow change it. To be clear, scarcity is one of Bitcoin’s foundational properties and a core reason it represents the hardest money humanity has ever known. I run a Bitcoin full node (I'm just one part of a large and globally distributed group of individuals) and I would never accept a change to the 21M cap. If any institution (Nation, BlackRock or otherwise) attempted to fork Bitcoin by increasing the supply to more coins, I would continue validating the 21 million–cap chain without hesitation. I’m confident tens of thousands of other node operators would do the same. This is how Bitcoin protects itself: its monetary policy cannot be changed unilaterally. Any supply change requires broad, voluntary consensus across the network. Even in an extreme scenario where institutions attempted to flood the network with nodes to create the appearance of consensus for say a 30 million–coin (or inflating) fork, anyone remains free to run software that enforces the 21M hard cap. In practice, the chain that preserves scarcity would retain the trust of users and holders, making it the economically relevant chain. Miners ultimately follow the chain that nodes validate, exchanges support, and the market values. This is why, while Bitcoin’s supply cap can be changed in theory, it will not be changed in reality. Bitcoin’s decentralized governance ensures that no single actor... or coordinated group... can impose a monetary rule change without overwhelming consensus. Bitcoin is protected because individuals run nodes and independently choose the rules they believe are best. If you want a vote, run a node. It’s effectively free. If you want to help protect Bitcoin’s core rules, consider running your own node. A full node currently requires just under 1TB of storage, while a pruned node requires only a fraction of that. Both consume minimal power and only a few hundred MB of network traffic per day after the initial sync... while giving you direct participation in Bitcoin’s validation and security.
 
-6h ago
+8h ago
 
 ---
 
@@ -117,7 +131,13 @@ Spreading awareness around Bitcoin’s 21,000,000 hard cap, as there’s a growi
 
 I remember back in 1997, after the pump, I took about 25% of my portfolio (mostly BTC) out in profits. Ended up buying some stuff I didn't really need but nice to have (new computer, motorcycle) and saved the rest. The extra money was security in the bank but it was just sitting there deflating. Looking back. If I had left that money in there and not taken profits, I would have almost 5x what I took out in profits. Of course hindsight is always 20/20, but I highly believe the trend for crypto is upward, at least for the next 5-10 years. So, my question is, how do you overcome the urge to keep your money in the market? What is your strategy on taking profits?
 
-19h ago
+22h ago
+
+---
+
+**[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
+
+6h ago
 
 ---
 
@@ -125,27 +145,7 @@ I remember back in 1997, after the pump, I took about 25% of my portfolio (mostl
 
 I am tired boss
 
-8h ago
-
----
-
-**[You are late for Bitcoin… or Not?](https://www.reddit.com/r/Bitcoin/comments/1q8gvtq/you_are_late_for_bitcoin_or_not/)**
-
-4h ago
-
----
-
-**[Bitcoin is just a better store of value, change my mind.](https://www.reddit.com/r/Bitcoin/comments/1q7uyns/bitcoin_is_just_a_better_store_of_value_change_my/)**
-
-21h ago
-
----
-
-**[Fix the money, fix the family: How Bitcoin restores the home](https://www.reddit.com/r/Bitcoin/comments/1q8eqtk/fix_the_money_fix_the_family_how_bitcoin_restores/)**
-
-FIX THE MONEY, FIX THE FAMILY: HOW BITCOIN RESTORES THE HOME THE PROBLEM: THE "FIAT FAMILY" WHAT IS FIAT MONEY? It is money issued by governments that loses value over time due to inflation. 1.1 INFLATION PUNISHES SAVING 1.2 THE TWO-INCOME TRAP 1.3 EXTERNALIZED CHILD-REARING 1.4 DEGRADED FOOD AND HEALTH 1.5 THE CYCLE OF STRESS AND DEBT THE SOLUTION: BITCOIN, THE CHAMPION OF THE FAMILY WHAT IS BITCOIN? It is digital money with a fixed supply of 21 million. No government can print more, so it protects your purchasing power in the long term. 2.1 RESTORES LONG-TERM THINKING 2.2 PROMOTES "PEACEFUL PARENTING" 2.3 ENABLES THE SINGLE-INCOME HOUSEHOLD 2.4 TEACHES SOVEREIGNTY AND CRITICAL THINKING 2.5 BUILD YOUR FAMILY FORTRESS
-
-6h ago
+10h ago
 
 ---
 
@@ -153,9 +153,31 @@ FIX THE MONEY, FIX THE FAMILY: HOW BITCOIN RESTORES THE HOME THE PROBLEM: THE "F
 
 ## Google News: "bitcoin"
 
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+
+The Block • 17h ago
+
+---
+
+**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
+
+Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
+
+CoinDesk • 18h ago
+
+---
+
+**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
+
+It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
+
+CNBC • 13h ago
+
+---
+
 **[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -163,7 +185,7 @@ Bloomberg.com • 2h ago
 
 Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
 
-CoinDesk • 21h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -175,33 +197,11 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
 
-The Block • 15h ago
+Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
 
----
-
-**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
-
-Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
-
-CoinDesk • 16h ago
-
----
-
-**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
-
-It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
-
-CNBC • 11h ago
-
----
-
-**[‘There’s so much corruption, embezzlement and missing money’: Venezuela’s rumored $60 billion Bitcoin ‘shadow reserve’ draws skepticism](https://finance.yahoo.com/news/much-corruption-embezzlement-missing-money-173953597.html)**
-
-If true, the claim could significantly reshape the global bitcoin market.
-
-Yahoo Finance • 2d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -213,15 +213,15 @@ VanEck • 1d ago
 
 ---
 
-**[Florida revives push for bitcoin reserve with new 2026 bill](https://www.coindesk.com/policy/2026/01/08/florida-revives-push-for-bitcoin-reserve-with-new-2026-bill)**
+**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
 
-A revived proposal would allow state-managed crypto investments of up to 10%, echoing efforts in Wyoming and New Hampshire while dodging CBDCs.
+Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
 
-CoinDesk • 1d ago
+Bitcoin Magazine • 10h ago
 
 ---
 
-**[Florida becomes latest state to pursue bitcoin reserve ahead of 2026 session](https://www.theblock.co/post/384807/florida-state-pursue-bitcoin-reserve-2026-session)**
+**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
 
 The Block • 1d ago
 
@@ -249,7 +249,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 4 • 💬 3 • 5d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 4 • 💬 3 • 6d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -265,7 +265,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 14h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 16h ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -313,57 +313,17 @@ Ilya Lichtenstein had been sentenced to five years in prison after pleading guil
 
 📺 Crypto Insider
 
-👁️ 21K • 👍 2K • 💬 73 • ⏱️ 21:00 • 9h ago
+👁️ 25K • 👍 2K • 💬 79 • ⏱️ 21:00 • 11h ago
 
 ---
 
-**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
+**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
 
-Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 45K • 👍 2K • 💬 311 • ⏱️ 11:14 • 22h ago
-
----
-
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
-
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
-
-📺 Paul Barron Network
-
-👁️ 61K • 👍 3K • 💬 315 • ⏱️ 16:13 • 1d ago
-
----
-
-**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
-
-So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
-
-📺 BTC Isla
-
-👁️ 7K • 👍 788 • 💬 168 • ⏱️ 10:43 • 7h ago
-
----
-
-**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
-
-While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
+Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 148 • ⏱️ 25:57 • 23h ago
-
----
-
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
-
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
-
-📺 Vortex Bitcoin
-
-👁️ 1K • 👍 26 • 💬 8 • ⏱️ 0:49 • 8h ago
+👁️ 7K • 👍 710 • 💬 73 • ⏱️ 17:07 • 3h ago
 
 ---
 
@@ -373,27 +333,67 @@ In this video I make a 5 part case as to why I think 2026 will actually surprise
 
 📺 Coinsider
 
-👁️ 7K • 👍 342 • 💬 63 • ⏱️ 10:06 • 1d ago
+👁️ 8K • 👍 349 • 💬 48 • ⏱️ 10:06 • 1d ago
 
 ---
 
-**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
+**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
 
-📺 Crypto Crew University
+📺 BTC Isla
 
-👁️ 51K • 👍 3K • 💬 259 • ⏱️ 17:35 • 1d ago
+👁️ 9K • 👍 909 • 💬 241 • ⏱️ 10:43 • 9h ago
 
 ---
 
-**[Watch Out Bitcoin Holders...](https://www.youtube.com/watch?v=yp01SfJ7DhM)**
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
 
-📺 CryptosRUs
+📺 Vortex Bitcoin
 
-👁️ 23K • 👍 1K • 💬 91 • ⏱️ 5:09 • 22h ago
+👁️ 2K • 👍 50 • 💬 8 • ⏱️ 0:49 • 10h ago
+
+---
+
+**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
+
+Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 47K • 👍 2K • 💬 247 • ⏱️ 11:14 • 1d ago
+
+---
+
+**[$500 Billion Just Signaled a Bitcoin Explosion!](https://www.youtube.com/watch?v=zfYbKYL_ztc)**
+
+While they gaslight you with “everything's fine,” the system is in freefall. War budgets explode, the job market crumbles, and ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 152 • ⏱️ 25:57 • 1d ago
+
+---
+
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+
+📺 Paul Barron Network
+
+👁️ 62K • 👍 3K • 💬 321 • ⏱️ 16:13 • 1d ago
+
+---
+
+**[Is It OVER For MicroStrategy? 99.9% of Bitcoin Investors Are Missing THIS | Jeff Walton](https://www.youtube.com/watch?v=Uj10f6tfBKI)**
+
+Jeff Walton (Punter Jeff) breaks down what 99.9% of Bitcoin investors are completely missing right now. This goes WAY deeper ...
+
+📺 BTC Sessions
+
+👁️ 4K • 👍 219 • 💬 56 • ⏱️ 17:33 • 5h ago
 
 ---
 
@@ -403,7 +403,7 @@ Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream
 
 📺 Mark Moss
 
-👁️ 29K • 👍 2K • 💬 134 • ⏱️ 13:19 • 1d ago
+👁️ 30K • 👍 2K • 💬 101 • ⏱️ 13:19 • 1d ago
 
 ---
 
