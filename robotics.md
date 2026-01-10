@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T12:42:13.011449+00:00'
+updated: '2026-01-10T13:29:56.125807+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 12:42 UTC  
+**Last Updated:** January 10, 2026 at 13:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-1h ago
+2h ago
 
 ---
 
@@ -62,7 +62,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ From Sharpa on 𝕏: https://x.com/SharpaRobotics/status/2009112377263050834 Her
 
 I made simple wifi controlled quadruped robot. Unlike complex robot dogs that require expensive motors and difficult coding, MiniQ uses just one servo per leg (1 DOF) and a Wemos D1 Mini (ESP8266) for full Wi-Fi control. This is the perfect beginner robotics project: it's fully 3D printed, cheap to build, and requires no external app—you control it directly from your phone's browser! Bill Of Material: Wemos D1 mini ( Clone ) MT3608 Voltage Booster Lipo Battery Tp4056 Charger Module Capacitor 1500µF Sg90 Servo 3D Model 🔗Cults3D Files: https://cults3d.com/en/3d-model/game/world-simplest-quadruped-robot 🔗GitHub (Source Code): https://github.com/derdacavga/quadruped-robot 🔗Tutorial : https://youtu.be/zgDmtwAQpZ0?si=tef7FeACoJ9KRJ_J
 
-19h ago
+20h ago
 
 ---
 
@@ -86,7 +86,7 @@ I made simple wifi controlled quadruped robot. Unlike complex robot dogs that re
 
 Everyone, do you peel your bananas well? Or do you just peel them to eat the fruit inside? Today, I did something different. I peeled a banana, but instead of the fruit, I ate the peel. And in that moment, I realized a profound truth: Socrates was one of the greatest scientists in history. I have my own interpretation of his wisdom, but I’m curious to see what conclusions you all can draw from philosophy. Take the phrase "Know Thyself." I see this as a fundamental theory of Interaction. A shouts to B: "Know thyself!" B shouts back to A: "Know thyself too!" In this recursive loop of interaction, where do you think you will arrive? Or, if you look at other philosophies, what kind of ultimate conclusion do you reach? I’m curious about your "logic." 랄라라라~
 
-2m ago
+49m ago
 
 ---
 
@@ -94,7 +94,7 @@ Everyone, do you peel your bananas well? Or do you just peel them to eat the fru
 
 Rodney Brooks explains that one of the most important features in many robots is simple physical control. Robots like Baxter and Sawyer were designed so a person could grab the arm at any time and move it out of the way. Mobile robots with a handle can be pushed easily, even when carrying heavy loads, because of power assist. This gives people control without removing the benefit of automation. He emphasizes that this kind of design makes work easier because humans can intervene naturally when needed, instead of fighting the machine or stopping production. Brooks also focuses on reliability. Occasional failures might be acceptable for consumer robots, but in industrial settings they quickly destroy return on investment. If robots fail too often, companies need people to constantly monitor them, which defeats the purpose. As robots get larger and carry more energy, failures also become safety risks, so very high reliability is required.
 
-20h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ Rodney Brooks explains that one of the most important features in many robots is
 
 I keep seeing the same issue come up with Universal Robots setups (I am assuming this is also common across other robotic arm brands too), so I wanted to sanity-check with people who work with these day to day. When a UR robot goes into a protective stop / fault that’s intermittent, how do you usually figure out what led up to it? For example: Something runs fine for hours or days. Then suddenly faults. Logs are there, but it’s hard to reconstruct the sequence of robot state, IO, forces, program context, etc. right before the stop In practice, do you: Scrape logs manually? Add ad-hoc script logging? Reproduce by trial-and-error? Just wait for it to happen again? I’m especially curious: What’s the most annoying fault you’ve had to debug recently? How much time does this kind of issue usually cost you (or your customer)? I am just genuinely trying to understand how people deal with this today and whether I’m missing something obvious.
 
-5h ago
+6h ago
 
 ---
 
@@ -134,7 +134,7 @@ TipRanks • 2d ago
 
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 217K • 👍 3K • 💬 527 • ⏱️ 4:29 • 2d ago
+👁️ 223K • 👍 3K • 💬 535 • ⏱️ 4:29 • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ The next generation of Atlas is designed to interact with people and understand 
 
 📺 Hyundai Motor Group
 
-👁️ 246K • 👍 60 • ⏱️ 1:15 • 3d ago
+👁️ 246K • 👍 61 • ⏱️ 1:15 • 3d ago
 
 ---
 
@@ -240,13 +240,23 @@ LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designe
 
 ---
 
+**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
+
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
+
+📺 NBC News
+
+👁️ 172K • 👍 2K • 💬 204 • ⏱️ 0:22 • 3d ago
+
+---
+
 **[This Robotic Mouth  can Talk😱](https://www.youtube.com/watch?v=mauorz0YlPw)**
 
 The Robotic Mouth that can Talk Real Robotic Mouth that can Talk This Robotic Mouth That Speaks Like a Human Japan Built a ...
 
 📺 Dip Knows
 
-👁️ 478K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
+👁️ 479K • 👍 2K • 💬 15 • ⏱️ 0:24 • 6d ago
 
 ---
 
@@ -276,17 +286,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 41K • 👍 381 • 💬 35 • ⏱️ 11:13 • 4d ago
-
----
-
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
-
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
-
-📺 Unitree Robotics
-
-👁️ 5.8M • 👍 4K • 💬 1K • ⏱️ 0:32 • 6d ago
+👁️ 42K • 👍 388 • 💬 37 • ⏱️ 11:13 • 4d ago
 
 ---
 
