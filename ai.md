@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T13:48:12.397424+00:00'
+updated: '2026-01-10T14:20:14.115326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 13:48 UTC  
+**Last Updated:** January 10, 2026 at 14:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 8h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 Been thinking about this from an infrastructure reliability angle. When we automated SCADA systems at utilities, we didn’t eliminate jobs overnight – we shifted them. Took 5-10 years. People retrained, retired, or moved sideways. AI agents are different. They scale instantly. One deployment can absorb work that took 50 people. Here’s the question nobody’s funding: if an AI handles claims processing for an insurance company – replacing 20 adjusters – who contributes to social security? Unemployment insurance? Healthcare pools? There are a few proposals floating around. Robot tax (flat levy per AI deployment). Automation VAT (percentage of productivity gains). Imputed wages (the AI “earns” an equivalent salary and gets taxed accordingly). My take: we’re not ready for entities that generate economic value without consuming services. Our entire social contract assumes workers → taxes → safety net. What’s your read? Is this a real funding gap, or does increased productivity naturally generate enough tax revenue elsewhere?
 
-9m ago
+41m ago
 
 ---
 
@@ -73,7 +73,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Best one i have found so far https://video.a2e.ai/?coupon=xqCs
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 6h ago
 
 OpenAI and Nvidia have gone on a blitz of AI infrastructure deals while hyperscalers continue to spend billions in capex.
 
-CNBC • 48m ago
+CNBC • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNBC • 48m ago
 
 Are we in an AI bubble? That’s the $35 trillion dollar question right now as the stock market soars higher and higher. The problem is that bubbles are famously hard to spot. But some economists say they may have found some telltale clues.On our latest: How do economists detect a bubble? And, how much should society be worried about bubbles in the first place? Related shows:- How to make $35 trillion ... disappear-What is a bubble? (featuring Nobel prize winning economics Eugene Fama and Robert Shiller)-What AI data centers are doing to your electric billPre-order the Planet Money book and get a free gift. / Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.This episode was produced by Willa Rubin and edited by Marianne McCune. It was fact-checked by Sierra Juarez and engineered by Cena Loffredo and Robert Rodriguez. Alex Goldmark is our executive producer.Music: NPR Source Audio - “The best is yet to come,” “Marsh mellow,” and “Sunshine beat”
 
-NPR • 11h ago
+NPR • 12h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Atlantic • 15h ago
 
 **[Yuen: AI chatbots want to be friends — or more — with your kid](https://www.startribune.com/yuen-ai-chatbots-want-to-be-friends-or-more-with-your-kid/601536814)**
 
-Star Tribune • 44m ago
+Star Tribune • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Star Tribune • 44m ago
 
 'Telling time is a very human thing.'
 
-Popular Science • 48m ago
+Popular Science • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The New York Times • 17h ago
 
 Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -261,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 135 • 💬 199 • 19h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 135 • 💬 199 • 20h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -277,7 +277,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 65 • 💬 39 • 18h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 65 • 💬 39 • 19h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -301,7 +301,7 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 16K • 👍 666 • 💬 32 • ⏱️ 11:06 • 14h ago
+👁️ 16K • 👍 666 • 💬 32 • ⏱️ 11:06 • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 41K • 👍 2K • 💬 210 • ⏱️ 19:15 • 23h ago
+👁️ 41K • 👍 2K • 💬 210 • ⏱️ 19:15 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ Subscribe to stay up to date with AI in 2026! This week in AI was mostly filled 
 
 📺 The AI Advantage
 
-👁️ 5K • 👍 233 • 💬 19 • ⏱️ 15:26 • 18h ago
+👁️ 5K • 👍 233 • 💬 19 • ⏱️ 15:26 • 19h ago
 
 ---
 
@@ -635,7 +635,7 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-▲ 113 • 💬 6 • ⭐ 82 • 1d ago
+▲ 113 • 💬 6 • ⭐ 82 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
@@ -671,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 1h ago
+⭐ 2.2k • 🔱 129 • 2h ago
 
 ---
 

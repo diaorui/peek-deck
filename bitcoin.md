@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T13:48:12.406090+00:00'
+updated: '2026-01-10T14:20:14.123994+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 13:48 UTC  
+**Last Updated:** January 10, 2026 at 14:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,37 +79,37 @@ Rank #1
 
 **[Those who bought Bitcoin at $126k, sold at $80k, and bought again at $94k](https://www.reddit.com/r/Bitcoin/comments/1q8yn3a/those_who_bought_bitcoin_at_126k_sold_at_80k_and/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-8h ago
+9h ago
 
 ---
 
 **[“They said Bitcoin won’t make you happy “ BTC holders in 2030 :](https://www.reddit.com/r/Bitcoin/comments/1q8xiwl/they_said_bitcoin_wont_make_you_happy_btc_holders/)**
 
-6h ago
+7h ago
 
 ---
 
 **[were in this shit](https://www.reddit.com/r/Bitcoin/comments/1q8adr5/were_in_this_shit/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-13h ago
+14h ago
 
 ---
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -117,13 +117,13 @@ Rank #1
 
 Received this notification just now
 
-14h ago
+15h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-46m ago
+1h ago
 
 ---
 
@@ -149,13 +149,13 @@ How is the sentiment over here? Bullish AF for the long term! Short term it is a
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
 **[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -169,7 +169,7 @@ Barron's • 2d ago
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance UK • 2d ago
 
 Bitcoin ETFs have seen over $1.1 billion leave the funds in the past three days, but the worst may be over, JPMorgan analysts say....
 
-Sherwood News • 21h ago
+Sherwood News • 22h ago
 
 ---
 
@@ -315,7 +315,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Crypto Insider
 
-👁️ 36K • 👍 3K • 💬 125 • ⏱️ 21:00 • 23h ago
+👁️ 36K • 👍 3K • 💬 125 • ⏱️ 21:00 • 1d ago
 
 ---
 
@@ -355,7 +355,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 55K • 👍 3K • 💬 278 • ⏱️ 17:35 • 1d ago
+👁️ 55K • 👍 3K • 💬 278 • ⏱️ 17:35 • 2d ago
 
 ---
 
@@ -365,7 +365,7 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 225 • 💬 234 • ⏱️ 7:59 • 7h ago
+👁️ 2K • 👍 225 • 💬 234 • ⏱️ 7:59 • 8h ago
 
 ---
 
@@ -395,7 +395,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 14K • 👍 1K • 💬 398 • ⏱️ 10:43 • 21h ago
+👁️ 14K • 👍 1K • 💬 398 • ⏱️ 10:43 • 22h ago
 
 ---
 
