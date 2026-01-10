@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T08:51:15.070957+00:00'
+updated: '2026-01-10T09:21:42.187447+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 08:51 UTC  
+**Last Updated:** January 10, 2026 at 09:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 5m ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 36m ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-9h ago
+10h ago
 
 ---
 
@@ -128,7 +128,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-20h ago
+21h ago
 
 ---
 
@@ -200,7 +200,7 @@ Bit Digital • 2d ago
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 6K • 👍 368 • 💬 41 • ⏱️ 15:28 • 12h ago
+👁️ 6K • 👍 368 • 💬 41 • ⏱️ 15:28 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 177 • 💬 36 • ⏱️ 20:39 • 14h ago
+👁️ 4K • 👍 177 • 💬 36 • ⏱️ 20:39 • 15h ago
 
 ---
 
@@ -308,7 +308,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 346 • 👍 12 • 💬 3 • ⏱️ 5:53 • 12h ago
+👁️ 346 • 👍 12 • 💬 3 • ⏱️ 5:53 • 13h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 8 • ⏱️ 5:13 • 15h ago
+👁️ 2K • 👍 108 • 💬 8 • ⏱️ 5:13 • 16h ago
 
 ---
 

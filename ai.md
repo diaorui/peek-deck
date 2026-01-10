@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T08:51:15.056541+00:00'
+updated: '2026-01-10T09:21:42.172908+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 08:51 UTC  
+**Last Updated:** January 10, 2026 at 09:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 3h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 4h ago
 
 ---
 
@@ -105,7 +105,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-19h ago
+20h ago
 
 ---
 
@@ -113,7 +113,7 @@ I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-17h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Atlantic • 10h ago
 
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -141,7 +141,7 @@ BBC • 22h ago
 
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -157,13 +157,13 @@ TechCrunch • 10h ago
 
 AI once again dominated CES, where companies from around the world gathered to flaunt new technologies. It’s where tech giants like Nvidia, Samsung, and Amazon made their case for the role AI will play in how people live and work, despite concerns of an AI bubble.
 
-CNN • 50m ago
+CNN • 1h ago
 
 ---
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New York Times • 18h ago
 
 Platform has restricted image creation on the Grok AI tool to paying subscribers, but victims and experts say this does not go far enough
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Guardian • 12h ago
 
 Move comes after governments and regulators from Europe to Asia have condemned the AI tool and some have opened inquiries into sexualised content
 
-The Guardian • 59m ago
+The Guardian • 1h ago
 
 ---
 
@@ -187,13 +187,13 @@ The Guardian • 59m ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
 **[DeepSeek To Release Next Flagship AI Model With Strong Coding Ability](https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability)**
 
-The Information • 19h ago
+The Information • 20h ago
 
 ---
 
@@ -261,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 110 • 💬 163 • 14h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 110 • 💬 163 • 15h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -277,7 +277,7 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 60 • 💬 36 • 13h ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 60 • 💬 36 • 14h ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
@@ -311,7 +311,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 37K • 👍 2K • 💬 189 • ⏱️ 19:15 • 18h ago
+👁️ 37K • 👍 2K • 💬 189 • ⏱️ 19:15 • 19h ago
 
 ---
 
@@ -671,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 1h ago
+⭐ 2.2k • 🔱 129 • 2h ago
 
 ---
 
@@ -731,7 +731,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 22h ago
+⭐ 1.2k • 🔱 143 • 23h ago
 
 ---
 
