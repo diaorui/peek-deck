@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T23:20:14.157924+00:00'
+updated: '2026-01-10T23:41:05.725848+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 23:20 UTC  
+**Last Updated:** January 10, 2026 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-8h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Man, I am so stupid. I wish I would have done what Coinbase told me if I would o
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 1d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 5K • 👍 387 • 💬 296 • ⏱️ 3:25 • 23h ago
+👁️ 5K • 👍 387 • 💬 296 • ⏱️ 3:25 • 1d ago
 
 ---
 

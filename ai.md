@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T23:20:14.149526+00:00'
+updated: '2026-01-10T23:41:05.717100+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 23:20 UTC  
+**Last Updated:** January 10, 2026 at 23:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 21h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 22h ago
 
 ---
 
@@ -87,7 +87,7 @@ This is def interesting for all SWEs who would like to know what goes behind the
 
 I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-22h ago
+23h ago
 
 ---
 
@@ -95,7 +95,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/share/1feed6565f52 Payload (run it in any AI to reproduce results): https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk Key takeaways from the Gemini analysis: Allegations repeated across platforms lacked primary source backing No case numbers, medical records, or public filings were found for key claims Verified data pointed to a civil dispute—not criminal activity A clear pattern of repetition-without-citation emerged It even outlined how claims spread and identified which lacked verifiable origin. This was done using public tools—no backend access, no court databases, no manipulation. Just the protocol + clean input = verified output. If you've ever wondered whether AI can actually verify claims at the forensic level: It can. And it just did.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 13h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 14h ago
 
 ---
 
@@ -109,7 +109,7 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor can have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance or unfamiliarity with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
 
-15h ago
+16h ago
 
 ---
 
@@ -355,7 +355,7 @@ In this video, I walk you step by step through the exact process of how to creat
 
 📺 Mariana Montoya 
 
-👁️ 1K • 💬 21 • ⏱️ 9:40 • 6h ago
+👁️ 1K • 💬 21 • ⏱️ 9:40 • 7h ago
 
 ---
 

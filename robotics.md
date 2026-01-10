@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T23:20:14.167181+00:00'
+updated: '2026-01-10T23:41:05.735155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 23:20 UTC  
+**Last Updated:** January 10, 2026 at 23:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
 
-22h ago
+23h ago
 
 ---
 
@@ -66,13 +66,13 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-56m ago
+1h ago
 
 ---
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 Considering that the area (with its obstacles and free space) to be spanned is known beforehand, that the obstacles in it do not change dynamically (if they exist), and that they can have any shape (can be non-convex). Then, what are the most commonly used algorithms for path planning considering obstacle avoidance (for this kind of problem)? My first (naive) solution was to discretize the obstacles borders into a graph (or many) and, then, apply A* (or some variation of it). I am new to this, so I would appreciate any help (like bibliography recommendations).
 
-56m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello! I'm new into robotics and I want to use my Raspberry Pi 5. Is the Adeept 
 
 I wanted to share a project I've been working on called MESGRO. I was looking for a way to host my portfolio that didn't feel like a generic blog or an academic site. Most of the templates I found are great for web developers, but they lack features for when you want to show off CAD, PCB layouts, and firmware snippets all in one place. I built this using Jekyll so it's easy to host on GitHub Pages for free. It’s basically a gallery-style layout specifically for mechatronics/robotics documentation. It's open-source if anyone wants to fork it. I’m looking for feedback, if there’s something specific you guys usually struggle to document in your portfolios, feel free to create a pull request! https://github.com/aojedao/MESGRO If you want to see a real example I built my own portfolio page website with it.
 
-🔗 [GitHub](https://github.com/aojedao/MESGRO) • 5h ago
+🔗 [GitHub](https://github.com/aojedao/MESGRO) • 6h ago
 
 ---
 
@@ -112,7 +112,7 @@ I wanted to share a project I've been working on called MESGRO. I was looking fo
 
 **[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
 
-Reuters • 2d ago
+Reuters • 3d ago
 
 ---
 
