@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T22:44:13.311348+00:00'
+updated: '2026-01-10T23:20:14.167181+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 22:44 UTC  
+**Last Updated:** January 10, 2026 at 23:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 **[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-20m ago
+56m ago
 
 ---
 
@@ -86,7 +86,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 Considering that the area (with its obstacles and free space) to be spanned is known beforehand, that the obstacles in it do not change dynamically (if they exist), and that they can have any shape (can be non-convex). Then, what are the most commonly used algorithms for path planning considering obstacle avoidance (for this kind of problem)? My first (naive) solution was to discretize the obstacles borders into a graph (or many) and, then, apply A* (or some variation of it). I am new to this, so I would appreciate any help (like bibliography recommendations).
 
-20m ago
+56m ago
 
 ---
 
@@ -94,7 +94,7 @@ Considering that the area (with its obstacles and free space) to be spanned is k
 
 Hello! I'm new into robotics and I want to use my Raspberry Pi 5. Is the Adeept AWR 4WD a good platform to start with? https://www.adeept.com/4wd-ordinary-wheel-raspberrypi_p0441.html I like that it has a dedicated HAT for power and includes a camera for OpenCV, but I'm worried about the Pi 5's high power draw. Has anyone successfully used this kit for ROS 2 or advanced AI projects? Any advice or alternative kit suggestions would be appreciated!
 
-52m ago
+1h ago
 
 ---
 
@@ -144,7 +144,7 @@ NVIDIA Developer • 2d ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -198,7 +198,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 54K • 👍 1K • ⏱️ 56:16 • 5h ago
+👁️ 54K • 👍 1K • ⏱️ 56:16 • 6h ago
 
 ---
 
@@ -218,7 +218,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 2K • 👍 189 • 💬 20 • ⏱️ 9:28 • 3h ago
+👁️ 2K • 👍 189 • 💬 20 • ⏱️ 9:28 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ Unitree just unleashed a humanoid robot that doesn't just mimic human motion —
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 237 • ⏱️ 9:33 • 3d ago
+👁️ 64K • 👍 1K • 💬 237 • ⏱️ 9:33 • 4d ago
 
 ---
 

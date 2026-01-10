@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T22:44:13.302172+00:00'
+updated: '2026-01-10T23:20:14.157924+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 22:44 UTC  
+**Last Updated:** January 10, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -101,19 +101,19 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-5h ago
+6h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-9h ago
+10h ago
 
 ---
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
 
-3h ago
+4h ago
 
 ---
 
@@ -141,7 +141,7 @@ Man, I am so stupid. I wish I would have done what Coinbase told me if I would o
 
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 2d ago
 
 While many cryptocurrencies are highly correlated with tech, these cryptocurrencies are not.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ Fortune • 1d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 45 • 💬 3 • 1d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 45 • 💬 3 • 2d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -289,7 +289,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 5d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 6d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -311,7 +311,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 2K • 💬 118 • ⏱️ 1:05:08 • 8h ago
+👁️ 28K • 👍 2K • 💬 118 • ⏱️ 1:05:08 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capit
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 424 • 💬 408 • ⏱️ 7:59 • 16h ago
+👁️ 5K • 👍 424 • 💬 408 • ⏱️ 7:59 • 17h ago
 
 ---
 
@@ -381,7 +381,7 @@ GameStop sounds pretty f*cked going into 2026. They're closing 300 more location
 
 📺 Clownfish TV
 
-👁️ 18K • 👍 1K • 💬 491 • ⏱️ 15:04 • 17h ago
+👁️ 18K • 👍 1K • 💬 491 • ⏱️ 15:04 • 18h ago
 
 ---
 
