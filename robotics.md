@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-10T19:38:34.957649+00:00'
+updated: '2026-01-10T20:24:16.720809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 10, 2026 at 19:38 UTC  
+**Last Updated:** January 10, 2026 at 20:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 **[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-8h ago
+9h ago
 
 ---
 
@@ -124,38 +124,6 @@ CNET • 1d ago
 
 ---
 
-**[WSU researchers develop robotic arm to aid with labor and boost productivity in orchards](https://komonews.com/news/local/wsu-washington-state-university-school-of-mechanical-and-materials-engineering-researchers-agriculture-robotic-apple-picking-arm-washington-orchards-migrant-farm-workers)**
-
-A cost-effective, robotic apple picker arm developed by Washington State University (WSU) researchers may someday help with fruit picking and other farm chores.
-
-KOMO • 4h ago
-
----
-
-**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
-
-From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
-
-Engadget • 4h ago
-
----
-
-**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
-
-FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
-
-WYMT • 1d ago
-
----
-
-**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
-
-BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
-
-Seeking Alpha • 6h ago
-
----
-
 **[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
@@ -164,11 +132,19 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
+**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
 
-Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
+BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Fortune • 2d ago
+Seeking Alpha • 7h ago
+
+---
+
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
+
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+
+WYMT • 1d ago
 
 ---
 
@@ -185,6 +161,28 @@ CNBC • 1d ago
 CES 2026 is in full swing in Las Vegas. Thousands of attendees have flooded the city's hotels and Las Vegas Convention Center, perusing the various products and devices on display at the tech industry's biggest event of the year.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[CES 2026 Closes With Robots, China, And AI Everywhere](https://www.forbes.com/sites/charliefink/2026/01/10/ces-2026-closes-with-robots-china-and-ai-everywhere/)**
+
+Forbes • 1h ago
+
+---
+
+**[Top 5 Global Robotics Trends 2026](https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026)**
+
+The global market value of industrial robot installations has reached an all-time high of US$ 16.7 billion. Future demand will be driven by a number of technological innovations, market forces and new fields of business. The International Federation of Robotics reports on the top 5 trends for the robotics industry for 2026.
+
+IFR International Federation of Robotics • 2d ago
+
+---
+
+**[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
+
+Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
+
+Fortune • 2d ago
 
 ---
 
@@ -208,7 +206,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 5K • 👍 1K • ⏱️ 56:16 • 2h ago
+👁️ 5K • 👍 1K • ⏱️ 56:16 • 3h ago
 
 ---
 
@@ -228,7 +226,7 @@ Our best CES 2026 tech list. From robotics, to personal self-driving cars to gro
 
 📺 Cybernews
 
-👁️ 77K • 👍 1K • 💬 122 • ⏱️ 28:35 • 15h ago
+👁️ 77K • 👍 1K • 💬 122 • ⏱️ 28:35 • 16h ago
 
 ---
 

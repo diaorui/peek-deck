@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T19:38:34.948424+00:00'
+updated: '2026-01-10T20:24:16.711290+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 19:38 UTC  
+**Last Updated:** January 10, 2026 at 20:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,693.00
+### $90,656.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -1.0%  
+**24h:** +0.1%  
+**7d:** -0.9%  
 **30d:** +0.4%  
 **90d:** -21.4%  
 **1y:** -4.1%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1808.97B
+**Market Cap:** $1808.17B
 Rank #1
 
-**Circulating Supply:** 19,974,137 BTC
+**Circulating Supply:** 19,974,203 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.2%
 
 **All-Time Low:** $67.81
-+133442.3%
++133392.1%
 
 ---
 
@@ -81,25 +81,19 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-4h ago
+5h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-14h ago
-
----
-
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
-
-6h ago
+15h ago
 
 ---
 
@@ -107,7 +101,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-2h ago
+3h ago
+
+---
+
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
+
+7h ago
 
 ---
 
@@ -119,15 +119,21 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 ---
 
+**[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
+
+1h ago
+
+---
+
 **[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Good boy](https://www.reddit.com/r/Bitcoin/comments/1q8oifd/good_boy/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -137,27 +143,9 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 ---
 
-**[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
-
-53m ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
-
-The Block • 3h ago
-
----
-
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
-
-The Block • 1d ago
-
----
 
 **[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
 
@@ -167,19 +155,41 @@ CNBC • 1d ago
 
 ---
 
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
+
+The Block • 4h ago
+
+---
+
+**[Bitcoin price falls as BlackRock and Fidelity ETFs see heavy outflows](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-blackrock-fidelity-etfs-outflows-104916054.html)**
+
+Bitcoin price retreated from recent highs on Thursday as institutional investors locked in profits after a strong start to the year.
+
+Yahoo Finance UK • 2d ago
+
+---
+
 **[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
 
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
 
-Bitcoin Magazine • 1d ago
+CoinDesk • 1d ago
+
+---
+
+**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
+
+Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
+
+CNBC • 2d ago
 
 ---
 
@@ -195,27 +205,19 @@ The Block • 1d ago
 
 ---
 
+**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+
+Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+
+Bitcoin Magazine • 1d ago
+
+---
+
 **[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
 
 There's a major pitfall coming up that'll need to be avoided.
 
-The Motley Fool • 17h ago
-
----
-
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
-
-What we know about the South American country’s crypto holdings.
-
-Fortune • 1d ago
-
----
-
-**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
-
-Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
-
-Yahoo Finance • 1d ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -307,7 +309,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 13K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 5h ago
+👁️ 13K • 👍 1K • 💬 1 • ⏱️ 1:05:08 • 6h ago
 
 ---
 
@@ -357,7 +359,7 @@ GameStop sounds pretty f*cked going into 2026. They're closing 300 more location
 
 📺 Clownfish TV
 
-👁️ 15K • 👍 1K • 💬 465 • ⏱️ 15:04 • 14h ago
+👁️ 15K • 👍 1K • 💬 465 • ⏱️ 15:04 • 15h ago
 
 ---
 
@@ -367,7 +369,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 320 • ⏱️ 9:19 • 20h ago
+👁️ 47K • 👍 2K • 💬 320 • ⏱️ 9:19 • 21h ago
 
 ---
 

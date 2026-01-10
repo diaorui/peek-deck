@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T19:38:34.954433+00:00'
+updated: '2026-01-10T20:24:16.717241+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 19:38 UTC  
+**Last Updated:** January 10, 2026 at 20:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** -1.7%  
 **30d:** +0.4%  
 **90d:** -27.1%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.31B
+**Market Cap:** $372.69B
 Rank #2
 
 **Circulating Supply:** 120,694,734 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.5%
+-37.6%
 
 **All-Time Low:** $0.43
-+714204.9%
++712976.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Crypto started as a cypherpunk project, but somewhere along the way, privacy got
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
 
-15h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 10h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 11h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-20h ago
+21h ago
 
 ---
 
@@ -152,19 +152,19 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 ## Google News: "ethereum"
 
+**[Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'](https://www.coindesk.com/business/2026/01/10/robinhood-explains-building-an-ethereum-layer-2-we-wanted-the-security-from-ethereum)**
+
+CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
+
+CoinDesk • 1h ago
+
+---
+
 **[Ethereum Staking Hits Choke Point as Institutions Pile in Despite Low Yields](https://finance.yahoo.com/news/ethereum-staking-hits-choke-point-153000578.html)**
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
 Yahoo Finance • 4h ago
-
----
-
-**[Robinhood on building an Ethereum layer-2: “We wanted the security from Ethereum”](https://www.coindesk.com/business/2026/01/10/robinhood-explains-building-an-ethereum-layer-2-we-wanted-the-security-from-ethereum)**
-
-CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
-
-CoinDesk • 37m ago
 
 ---
 
@@ -194,15 +194,15 @@ Decrypt • 1d ago
 
 Ethereum is struggling to reclaim the $3,100 level as price action tightens and the market braces for a decisive move. After weeks of choppy trading, ETH remains caught between fading bullish attempts and persistent overhead resistance, leaving analysts sharply divided on what comes next. A minorit…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 19h ago
 
 ---
 
-**[Prediction: Ethereum Will Hit $4,000 in 2026](https://www.fool.com/investing/2026/01/09/prediction-ethereum-will-hit-4000-in-2026/)**
+**[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
 
-This asset will look more appealing than before for two reasons in particular.
+The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 1d ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -214,19 +214,19 @@ Coinpedia Fintech News • 1d ago
 
 ---
 
-**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
-
-Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
-
-AMBCrypto • 1d ago
-
----
-
 **[Ethereum (ETH-USD) Steadies Near $3,100, Trend Remains Under Pressure (Technical Analysis)](https://seekingalpha.com/article/4858443-ethereum-steadies-near-3100-trend-remains-under-pressure-technical-analysis)**
 
 Ethereum is trading just above the $3,100 handle on Friday as January unfolds, holding a fragile recovery after a bruising Q4. The immediate story is stabilization rather than strength.
 
 Seeking Alpha • 1d ago
+
+---
+
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
+
+Bit Digital • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 718 • 👍 54 • 💬 115 • ⏱️ 11:37 • 5h ago
+👁️ 718 • 👍 54 • 💬 115 • ⏱️ 11:37 • 6h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 374 • 👍 47 • 💬 3 • ⏱️ 5:05 • 2h ago
+👁️ 374 • 👍 47 • 💬 3 • ⏱️ 5:05 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 8K • 👍 464 • 💬 63 • ⏱️ 15:28 • 23h ago
+👁️ 8K • 👍 464 • 💬 63 • ⏱️ 15:28 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 246 • 💬 298 • ⏱️ 17:54 • 19h ago
+👁️ 7K • 👍 246 • 💬 298 • ⏱️ 17:54 • 20h ago
 
 ---
 
