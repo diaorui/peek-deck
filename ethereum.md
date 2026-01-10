@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-10T06:32:45.497836+00:00'
+updated: '2026-01-10T07:20:25.916328+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 06:32 UTC  
+**Last Updated:** January 10, 2026 at 07:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-32m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ For people that have blockchain startups or work in the digital asset space, how
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 17h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 18h ago
 
 ---
 
@@ -112,7 +112,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-17h ago
+18h ago
 
 ---
 
@@ -120,7 +120,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
 
-18h ago
+19h ago
 
 ---
 
@@ -142,7 +142,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 Correct me if I'm wrong, maybe I've been out of touch with recent developments but I recently lost a lot of money and it's been 21 days of me trying to figure out how my wallet got compromised. I know for a fact, there's no way one will gain access to my wallet without my keys, so I am here baffled, studying EIP-7702 delegations and it just keeps getting scarier especially in my case where I know I didn't connect to any website to even prompt me to delegate my wallet to a third party, I can count and know the websites I have connected to. No record shows me giving delegation to the drainer but somehow they drained my wallet on deposit. The delegation transaction recorded I gave authorization exactly when the money came in, I wasn't even on my phone. It keeps getting messier for em and if anyone that's experienced would be willing to help me out please do reach out but it keeps bugging my mind, WHAT EVEN IS THE POINT OF THIS, IS IT REALLY A STEP FORWARD?
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ Correct me if I'm wrong, maybe I've been out of touch with recent developments b
 
 The strategy combines native Ethereum staking yield with restaking rewards and incentives from Linea and ether.fi, under a qualified custodian structure.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -180,7 +180,7 @@ SharpLink Gaming recently deployed US$170 million worth of Ethereum to the Linea
 As the world’s second-largest corporate holder of Ethereum, SharpLink’s move could become a reference point for how publicly listed companies structure institutional-grade decentralized finance activity.
 Next, we’ll explore how this Ethereum deployment to Linea influences SharpLink’s investment narrative,...
 
-simplywall.st • 3h ago
+simplywall.st • 4h ago
 
 ---
 
@@ -218,7 +218,7 @@ TradingView — Track All Markets • 2d ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 11h ago
+Coinpedia Fintech News • 12h ago
 
 ---
 
@@ -226,7 +226,7 @@ Coinpedia Fintech News • 11h ago
 
 Should investors trust the cryptocurrency trading for just $2, or the one trading for thousands of dollars?
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 174 • 💬 35 • ⏱️ 20:39 • 12h ago
+👁️ 4K • 👍 174 • 💬 35 • ⏱️ 20:39 • 13h ago
 
 ---
 
@@ -260,7 +260,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 5K • 👍 343 • 💬 38 • ⏱️ 15:28 • 10h ago
+👁️ 5K • 👍 343 • 💬 38 • ⏱️ 15:28 • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN & ALTCOIN WARNING REPEATING (important)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 186 • 💬 48 • ⏱️ 17:54 • 6h ago
+👁️ 4K • 👍 186 • 💬 48 • ⏱️ 17:54 • 7h ago
 
 ---
 
@@ -300,7 +300,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 324 • 👍 12 • 💬 3 • ⏱️ 5:53 • 10h ago
+👁️ 324 • 👍 12 • 💬 3 • ⏱️ 5:53 • 11h ago
 
 ---
 
@@ -310,7 +310,7 @@ Join Guy, Nic, and Louis for the very first episode of FUD & FOMO! Your new go-t
 
 📺 Coin Bureau
 
-👁️ 12K • 👍 645 • 💬 35 • ⏱️ 46:28 • 5h ago
+👁️ 12K • 👍 645 • 💬 35 • ⏱️ 46:28 • 6h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 8 • ⏱️ 5:13 • 13h ago
+👁️ 2K • 👍 108 • 💬 8 • ⏱️ 5:13 • 14h ago
 
 ---
 
@@ -330,7 +330,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 4K • 👍 707 • 1h ago
+👁️ 4K • 👍 707 • 2h ago
 
 ---
 

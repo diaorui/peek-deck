@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-10T06:32:45.483419+00:00'
+updated: '2026-01-10T07:20:25.901891+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 10, 2026 at 06:32 UTC  
+**Last Updated:** January 10, 2026 at 07:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
 
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 4h ago
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 1h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 2h ago
 
 ---
 
@@ -65,7 +65,7 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 22h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 23h ago
 
 ---
 
@@ -89,7 +89,7 @@ As we know, one of the godfathers of AI recently left Meta to found his own lab 
 
 I kept seeing RAG tutorials that stop at “vector DB + prompt” and break down in real systems. I put together a roadmap that reflects how modern AI search actually works: – semantic + hybrid retrieval (sparse + dense) – explicit reranking layers – query understanding & intent – agentic RAG (query decomposition, multi-hop) – data freshness & lifecycle – grounding / hallucination control – evaluation beyond “does it sound right” – production concerns: latency, cost, access control The focus is system design, not frameworks. Language-agnostic by default (Python just as a reference when needed). Roadmap image + interactive version here: https://nemorize.com/roadmaps/2026-modern-ai-search-rag-roadmap Curious what people here think is still missing or overkill.
 
-17h ago
+18h ago
 
 ---
 
@@ -105,7 +105,7 @@ But it would require a lot of engineering. And probably won't happen, let's be h
 
 I've been working on a problem: AI agents confidently claim to understand things they don't, make the same mistakes across sessions, and have no awareness of their own knowledge gaps. Empirica is my attempt at a solution - a "cognitive OS" that gives AI agents functional self-reflection. Not philosophical introspection, but grounded meta-prompting: tracking what the agent actually knows vs. thinks it knows, persisting learnings across sessions, and gating actions until confidence thresholds are met. parallel git branch multi agent spawning for investigation What you're seeing: The system spawning 3 parallel investigation agents to audit the codebase for release issues Each agent focusing on a different area (installer, versions, code quality) Agents returning confidence-weighted findings to a parent session The discovery: 4 files had inconsistent version numbers while the README already claimed v1.3.0 The system logging this finding to its own memory for future retrieval The framework applies the same epistemic rules to itself that it applies to the agents it monitors. When it assessed its own release readiness, it used the same confidence vectors (know, uncertainty, context) that it tracks for any task. Key concepts: CASCADE workflow: PREFLIGHT (baseline) → CHECK (gate) → POSTFLIGHT (measure learning) 13 epistemic vectors: Quantified self-assessment (know, uncertainty, context, clarity, etc.) Procedural memory: Findings, dead-ends, and lessons persist in Qdrant for semantic retrieval Sentinel: Gates praxic (action) phases until noetic (investigation) phases reach confidence threshold The framework caught a release blocker by applying its own methodology to itself. Self-referential improvement loops are fascinating territory. I'll leave the philosophical questions to you. What I can show you: the system tracks its own knowledge state, adjusts behavior based on confidence levels, persists learnings across sessions, and just used that same framework to audit itself and catch errors I missed. Whether that constitutes 'self-understanding' depends on your definitions - but the functional loop is real and observable. Open source (MIT): www.github.com/Nubaeon/empirica
 
-15h ago
+16h ago
 
 ---
 
@@ -125,7 +125,7 @@ The Linux kernel developers for months now have been debating proposed guideline
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 7h ago
+The Atlantic • 8h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Atlantic • 7h ago
 
 From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
 
-NBC News • 20h ago
+NBC News • 21h ago
 
 ---
 
@@ -141,13 +141,13 @@ NBC News • 20h ago
 
 Scouring remote areas for missing walkers and climbers can take rescuers weeks and sometimes months. AI can do the job in a matter of hours in some cases – and potentially save lives.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 9h ago
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
@@ -163,13 +163,13 @@ The Guardian • 22h ago
 
 It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
 **[See how AI images claiming to reveal Minneapolis ICE agent’s face spread confusion](https://www.washingtonpost.com/technology/2026/01/09/ai-unmask-shooting-ice-minneapolis/)**
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Washington Post • 12h ago
 
 A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.
 
-Quanta Magazine • 14h ago
+Quanta Magazine • 15h ago
 
 ---
 
@@ -185,7 +185,7 @@ Quanta Magazine • 14h ago
 
 Meta said it secured agreements with energy companies Vistra, TerraPower and Oklo, which are all working on nuclear power technologies.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 19h ago
 
 The agreements could end up totaling more than 6 gigawatts, enough to power a city of about 5 million homes.  While Meta didn’t disclose the value of the contracts, agreements of this size can easily represent billions of dollars in total revenue for electricity generators.  Meta said Friday it will purchase electricity from three existing Vistra Corp. plants and support several small reactors that Sam Altman-backed Oklo Inc. and Bill Gates-backed TerraPower LLC are planning to build over the next decade.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -229,7 +229,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 358 • 💬 212 • 7h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 358 • 💬 212 • 8h ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -253,7 +253,7 @@ Notion AI is susceptible to data exfiltration via indirect prompt injection due 
 
 Standalone MRI caught most breast cancer cases missed by AI, highlighting a key safety net for dense breasts. Find out more.
 
-⬆️ 152 • 💬 85 • 1d ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
+⬆️ 152 • 💬 85 • 2d ago • [European Medical Journal](https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/)
 
 ---
 
@@ -261,7 +261,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 98 • 💬 146 • 12h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 98 • 💬 146 • 13h ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -269,7 +269,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
 
-⬆️ 75 • 💬 91 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
+⬆️ 75 • 💬 91 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -311,7 +311,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 34K • 👍 2K • 💬 190 • ⏱️ 19:15 • 16h ago
+👁️ 34K • 👍 2K • 💬 190 • ⏱️ 19:15 • 17h ago
 
 ---
 
@@ -321,7 +321,7 @@ Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Bre
 
 📺 MoreBeckBros
 
-👁️ 70K • 👍 4K • 💬 427 • ⏱️ 26:17 • 7h ago
+👁️ 70K • 👍 4K • 💬 427 • ⏱️ 26:17 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ Need a resume/cover letter? Check out my templates! https://joshuafluke.store/ J
 
 📺 Joshua Fluke
 
-👁️ 40K • 👍 2K • 💬 826 • ⏱️ 5:15 • 17h ago
+👁️ 40K • 👍 2K • 💬 826 • ⏱️ 5:15 • 18h ago
 
 ---
 
@@ -651,7 +651,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.4k • 🔱 897 • 1h ago
+⭐ 7.4k • 🔱 897 • 2h ago
 
 ---
 
@@ -671,7 +671,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 129 • 1m ago
+⭐ 2.2k • 🔱 129 • 49m ago
 
 ---
 
@@ -701,7 +701,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 104 • 7h ago
+⭐ 1.3k • 🔱 104 • 8h ago
 
 ---
 
@@ -721,7 +721,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 20h ago
+⭐ 1.2k • 🔱 143 • 21h ago
 
 ---
 
