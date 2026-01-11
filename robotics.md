@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T14:43:02.011705+00:00'
+updated: '2026-01-11T15:21:12.127628+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 14:43 UTC  
+**Last Updated:** January 11, 2026 at 15:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,11 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
+**[Toilet cleaning robot](https://www.reddit.com/r/robotics/comments/1q9y5wh/toilet_cleaning_robot/)**
 
-11h ago
+I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
+
+2h ago
 
 ---
 
@@ -42,15 +44,13 @@ Robotics research and industry news
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-3h ago
+4h ago
 
 ---
 
-**[Toilet cleaning robot](https://www.reddit.com/r/robotics/comments/1q9y5wh/toilet_cleaning_robot/)**
+**[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
-
-2h ago
+12h ago
 
 ---
 
@@ -70,6 +70,14 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 ---
 
+**[Ferronyx with Real-Time Robot Metrics](https://www.reddit.com/r/robotics/comments/1q9zjp1/ferronyx_with_realtime_robot_metrics/)**
+
+Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
+
+1h ago
+
+---
+
 **[Kids experimenting with Line follower robot](https://www.reddit.com/r/robotics/comments/1q9457t/kids_experimenting_with_line_follower_robot/)**
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
@@ -82,7 +90,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
 
-4h ago
+5h ago
 
 ---
 
@@ -91,14 +99,6 @@ I have recently been exploring robotic path planning and during my hands-on nume
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
 14h ago
-
----
-
-**[Ferronyx with Real-Time Robot Metrics](https://www.reddit.com/r/robotics/comments/1q9zjp1/ferronyx_with_realtime_robot_metrics/)**
-
-Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
-
-1h ago
 
 ---
 
@@ -116,7 +116,7 @@ Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing y
 
 Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
-The Verge • 23h ago
+The Verge • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ Fortune • 3d ago
 
 ---
 
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqftg5O5pAgV0amyTI4wYfVAOQJvNXARiwBuICX0-CQZrGbeyk_hrOTu&gaa_ts=6963b51b&gaa_sig=t9t5qAA4dgFuBedLS7ZVniiQ1rjbxv-EhKou8Ylpcp4nHHF5FfdYZq-Xr4PIRU5tFRfrXU0wBf1Z2HRdrSQZdQ%3D%3D)**
+**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqd61V4wSJuiy_HIniEtOY8nqRkRjDmoR4gV3KDn8hW-I1_Tm6ffmDBJ&gaa_ts=6963c359&gaa_sig=cVcaK9EQyKRcwrJ9D73bkb0vnO1BILe4BXsHllLedfoexZD3n2oooPZjPJZmLxAO9IaX_VpNVdGeUEtx5sYpQg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -210,7 +210,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 7K • 👍 389 • 💬 29 • ⏱️ 9:28 • 19h ago
+👁️ 7K • 👍 389 • 💬 29 • ⏱️ 9:28 • 20h ago
 
 ---
 
@@ -230,7 +230,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 65K • 👍 2K • ⏱️ 56:16 • 21h ago
+👁️ 65K • 👍 2K • ⏱️ 56:16 • 22h ago
 
 ---
 
@@ -260,7 +260,7 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 📺 Cybernews
 
-👁️ 5K • 👍 129 • 💬 44 • ⏱️ 11:29 • 17h ago
+👁️ 5K • 👍 129 • 💬 44 • ⏱️ 11:29 • 18h ago
 
 ---
 
@@ -280,7 +280,7 @@ Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances
 
 📺 Fox Business
 
-👁️ 11K • 👍 246 • 💬 127 • ⏱️ 3:53 • 13h ago
+👁️ 11K • 👍 246 • 💬 127 • ⏱️ 3:53 • 14h ago
 
 ---
 

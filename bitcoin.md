@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T14:43:02.002396+00:00'
+updated: '2026-01-11T15:21:12.118413+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 14:43 UTC  
+**Last Updated:** January 11, 2026 at 15:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,746.82
+### $90,932.11
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.5%  
-**7d:** -3.3%  
-**30d:** +0.8%  
-**90d:** -19.5%  
-**1y:** -3.6%  
+**7d:** -3.2%  
+**30d:** +0.9%  
+**90d:** -19.4%  
+**1y:** -3.5%  
 
 ---
 
@@ -77,15 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
+**[You in 2030 sending a gift to the friend who told you to buy $BTC in 2026](https://www.reddit.com/r/Bitcoin/comments/1qa09it/you_in_2030_sending_a_gift_to_the_friend_who_told/)**
+
+That moment in 2030 when the “buy $BTC in 2026” advice finally hits
 
 1h ago
 
 ---
 
-**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
+**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
 2h ago
+
+---
+
+**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
+
+3h ago
 
 ---
 
@@ -94,14 +102,6 @@ Rank #1
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
 1d ago
-
----
-
-**[You in 2030 sending a gift to the friend who told you to buy $BTC in 2026](https://www.reddit.com/r/Bitcoin/comments/1qa09it/you_in_2030_sending_a_gift_to_the_friend_who_told/)**
-
-That moment in 2030 when the “buy $BTC in 2026” advice finally hits
-
-32m ago
 
 ---
 
@@ -117,17 +117,11 @@ That moment in 2030 when the “buy $BTC in 2026” advice finally hits
 
 ---
 
-**[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
+**[M19, investment in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q9yn7s/m19_investment_in_bitcoin/)**
 
-22h ago
+Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
 
----
-
-**[Daily Discussion, January 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1q9rnwr/daily_discussion_january_11_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-8h ago
+2h ago
 
 ---
 
@@ -139,11 +133,17 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[I constantly get reminded we are early](https://www.reddit.com/r/Bitcoin/comments/1q99g95/i_constantly_get_reminded_we_are_early/)**
+**[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
+23h ago
 
-21h ago
+---
+
+**[Daily Discussion, January 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1q9rnwr/daily_discussion_january_11_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
 
 ---
 
@@ -153,7 +153,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -179,35 +179,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Bull Market Starts With a 4.5% Move? History and Charts Finally Align](https://finance.yahoo.com/news/bitcoin-bull-market-starts-4-123329169.html)**
-
-Bitcoin price is just 4.5% away from a rare historical signal last seen in 2020.Charts, flows, and leverage now converge.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
-
-Bitcoin has a lot going for it, but the near term could be bumpy.
-
-The Motley Fool • 3h ago
-
----
-
-**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
-
-The dog token's much bigger trailing-10-year return can draw interest from some market participants.
-
-The Motley Fool • 3h ago
-
----
-
 **[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
 
 What we know about the South American country’s crypto holdings.
 
 Fortune • 1d ago
+
+---
+
+**[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
+
+Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
+
+Bitbo • 8h ago
 
 ---
 
@@ -222,6 +206,22 @@ Yahoo Finance • 17h ago
 **[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
 
 The Block • 1d ago
+
+---
+
+**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+
+Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+
+Bitcoin Magazine • 2d ago
+
+---
+
+**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
+
+Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -291,7 +291,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 534 • ⏱️ 17:17 • 16h ago
+👁️ 21K • 👍 1K • 💬 534 • ⏱️ 17:17 • 17h ago
 
 ---
 
@@ -353,7 +353,7 @@ Superheat is announcing their new water heater at CES 2026 that can use the heat
 
 📺 Vortex Bitcoin
 
-👁️ 23K • 👍 342 • 💬 109 • ⏱️ 0:49 • 1d ago
+👁️ 23K • 👍 342 • 💬 109 • ⏱️ 0:49 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 19K • 👍 1K • 💬 751 • ⏱️ 11:48 • 19h ago
+👁️ 19K • 👍 1K • 💬 751 • ⏱️ 11:48 • 20h ago
 
 ---
 

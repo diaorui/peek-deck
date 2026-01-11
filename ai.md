@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T14:43:01.993782+00:00'
+updated: '2026-01-11T15:21:12.110017+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 14:43 UTC  
+**Last Updated:** January 11, 2026 at 15:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-20h ago
+21h ago
+
+---
+
+**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
+
+We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
+
+18m ago
 
 ---
 
@@ -47,7 +55,7 @@ AI news, discussions, and developments
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-8h ago
+9h ago
 
 ---
 
@@ -55,7 +63,7 @@ Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI i
 
 Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
 
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 19h ago
+🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 20h ago
 
 ---
 
@@ -63,7 +71,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
 
-20h ago
+21h ago
 
 ---
 
@@ -107,14 +115,6 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 ---
 
-**[Building adaptive routing logic in Go for an Open source LLM gateway - Bifrost](https://www.reddit.com/r/artificial/comments/1q8um17/building_adaptive_routing_logic_in_go_for_an_open/)**
-
-Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -127,39 +127,29 @@ The Guardian • 5h ago
 
 ---
 
-**[AI Is Causing a Memory Shortage. Why Producers Aren’t Rushing to Make a Lot More.](https://www.wsj.com/tech/ai-is-causing-a-memory-shortage-why-producers-arent-rushing-to-make-a-lot-more-8dd15194?gaa_at=eafs&gaa_n=AWEtsqdYxqZaI4dDtPm-0iDQ_h2rjMCa8V4BnT_nFK7rOyK-dR85oAKhLezP&gaa_ts=6963b517&gaa_sig=SP0XV9X2DhHooKdGe8fREO-SK5lna0LpN5x4RqEue9NvL9X4AO_w4yCMKci95gdd_Us69kvzM6ob-yiYl2s0sQ%3D%3D)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdU14bZsJThNoO_bTDdPvvqEcn4h8kqSxwaWz30sxN5cRYKZtssCbOY&gaa_ts=6963c354&gaa_sig=TwDmBrTl2ZPjYgPnl-hM7OGp9gj1FdM2QqAhtkHY2SOs4-4NIx-exfjazB5MQePx1jOXBD0r8cY_ZrJgbkakPw%3D%3D)**
 
-The Wall Street Journal • 4h ago
-
----
-
-**[These 8 stocks could form the backbone of AI as chips get more powerful](https://www.marketwatch.com/story/these-8-stocks-could-form-the-backbone-of-ai-as-chips-get-more-powerful-e0b87fe7?gaa_at=eafs&gaa_n=AWEtsqcGQzvTLHZhPnd3QMH1CaP9D8D66TBsnIA_4Wta34cqfY7X-HhhK7Gc&gaa_ts=6963b517&gaa_sig=5kdsfBCvBnbvBX6HWKZXyJ-osf4QLTq8IfQh1w_jIBjFw9AL4llOlRhK65-fAIXj6dbgO-EMmQaM26ZE-_ljgw%3D%3D)**
-
-MarketWatch • 1d ago
+The Wall Street Journal • 21m ago
 
 ---
 
-**[New Data Shows AI Stocks Beat the S&P 500 by 136% Over 5 Years](https://www.fool.com/investing/2026/01/11/new-data-shows-ai-stocks-beat-sp-500-tesla/)**
+**[Walmart expands AI-powered shopping — and checkout — with Google Gemini](https://www.axios.com/2026/01/11/walmart-google-gemini-ai-shopping)**
 
-Here's why this should make investors confident in buying AI stocks.
-
-The Motley Fool • 1h ago
+Axios • 20m ago
 
 ---
 
-**[7 Genius AI Stocks Billionaire Chase Coleman Owns That Investors Should Buy for 2026](https://www.fool.com/investing/2026/01/11/7-genius-ai-stocks-billionaire-chase-coleman-owns/)**
+**[AI is helping recruiters find ‘hidden gem’ talent — a senior LinkedIn exec shares top tips to stand out](https://www.cnbc.com/2026/01/11/ai-dominate-hiring-2026-linkedin-execs-top-tips-stand-out.html)**
 
-Following what billionaires think about AI can be a smart move.
+"2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-The Motley Fool • 1h ago
+CNBC • 8h ago
 
 ---
 
-**[‘Add blood, forced smile’: how Grok’s nudification tool went viral](https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk)**
+**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
 
-The ‘put her in a bikini’ trend rapidly evolved into hundreds of thousands of requests to strip clothes from photos of women, horrifying those targeted
-
-The Guardian • 8h ago
+Reuters • 23h ago
 
 ---
 
@@ -169,17 +159,17 @@ The New York Times • 2d ago
 
 ---
 
-**[Musk’s Grok AI Blocked in Indonesia, Malaysia Over Sexual Images](https://www.bloomberg.com/news/articles/2026-01-11/musk-s-grok-ai-blocked-in-indonesia-malaysia-over-sexual-images)**
+**[‘Add blood, forced smile’: how Grok’s nudification tool went viral](https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk)**
 
-Bloomberg.com • 1h ago
+The ‘put her in a bikini’ trend rapidly evolved into hundreds of thousands of requests to strip clothes from photos of women, horrifying those targeted
+
+The Guardian • 9h ago
 
 ---
 
-**[AI is helping recruiters find ‘hidden gem’ talent — a senior LinkedIn exec shares top tips to stand out](https://www.cnbc.com/2026/01/11/ai-dominate-hiring-2026-linkedin-execs-top-tips-stand-out.html)**
+**[Musk’s Grok AI Blocked in Indonesia, Malaysia Over Sexual Images](https://www.bloomberg.com/news/articles/2026-01-11/musk-s-grok-ai-blocked-in-indonesia-malaysia-over-sexual-images)**
 
-"2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
-
-CNBC • 7h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -188,6 +178,14 @@ CNBC • 7h ago
 “A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[We’re probably going to learn to live with AI music](https://www.vox.com/podcasts/474751/ai-music-suno-generator)**
+
+Here’s what the future might sound like, according to a science writer who experimented with it.
+
+vox.com • 3h ago
 
 ---
 
@@ -207,15 +205,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 606 • 💬 349 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
-
----
-
-**[AI coding assistants are getting worse?](https://news.ycombinator.com/item?id=46542036)**
-
-One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
-
-⬆️ 445 • 💬 731 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 607 • 💬 350 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -223,7 +213,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 282 • 💬 270 • 21h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 286 • 💬 274 • 22h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -237,7 +227,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 196 • 💬 313 • 4h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 231 • 💬 350 • 4h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -251,7 +241,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 94 • 💬 60 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 96 • 💬 60 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -268,6 +258,14 @@ X to limit editing function to paying subscribers after platform threatened with
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
 ⬆️ 71 • 💬 45 • 1d ago • [GitHub](https://github.com/Hiepler/EuConform)
+
+---
+
+**[Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://news.ycombinator.com/item?id=46543933)**
+
+Since 2023, every model at the frontier of AI capabilities, as measured by the Epoch Capabilities Index, has been developed in the United States. Over that same period, Chinese models have trailed US capabilities by an average of seven months, with a minimum gap of four months and a maximum gap of 14.
+
+⬆️ 58 • 💬 87 • 2d ago • [Epoch AI](https://epoch.ai/data-insights/us-vs-china-eci)
 
 ---
 
@@ -311,7 +309,7 @@ Grandma Shocked When Elephant Takes Her Birthday Cake #ai #baby #save #CuteEleph
 
 📺 rk kahaniyaa
 
-👁️ 385 • 👍 8 • 💬 1 • ⏱️ 0:26 • 55m ago
+👁️ 385 • 👍 8 • 💬 1 • ⏱️ 0:26 • 1h ago
 
 ---
 
@@ -341,7 +339,7 @@ Manus AI is one of the most underrated AI tools, and this update takes it to ano
 
 📺 Brock Mesarich | AI for Non Techies
 
-👁️ 1K • 👍 46 • 💬 7 • ⏱️ 13:47 • 22h ago
+👁️ 1K • 👍 46 • 💬 7 • ⏱️ 13:47 • 23h ago
 
 ---
 
@@ -637,7 +635,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.8k • 🔱 981 • 1h ago
+⭐ 7.8k • 🔱 981 • 2h ago
 
 ---
 
@@ -647,7 +645,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 135 • 43m ago
+⭐ 2.2k • 🔱 135 • 1h ago
 
 ---
 
@@ -667,7 +665,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 221 • 1h ago
+⭐ 2.0k • 🔱 221 • 2h ago
 
 ---
 
@@ -677,7 +675,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 120 • 23h ago
+⭐ 1.4k • 🔱 120 • 1d ago
 
 ---
 
@@ -687,7 +685,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.3k • 🔱 71 • 18d ago
+⭐ 1.3k • 🔱 71 • 19d ago
 
 ---
 
@@ -727,7 +725,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.1k • 🔱 128 • 1h ago
+⭐ 1.1k • 🔱 128 • 2h ago
 
 ---
 
