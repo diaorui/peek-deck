@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T21:40:37.965318+00:00'
+updated: '2026-01-11T22:20:53.357499+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 21:40 UTC  
+**Last Updated:** January 11, 2026 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 36m ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 1h ago
 
 ---
 
@@ -95,13 +95,13 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-4h ago
+5h ago
 
 ---
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ What are crypto ATMs and why are scammers using them? Learn how these machines w
 
 Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Now that Wall Street has entered the Bitcoin market, what—if any—structural 
 
 Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
 
-8h ago
+9h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 On January 11, 2009, Hal Finney, a pioneering cypherpunk and the first recipient of a real Bitcoin transaction, posted a historic tweet with just two words: “Running bitcoin.” With that simple message, he announced that he had Satoshi Nakamoto’s software up and running on his computer, becoming the first active node outside the creator and marking the true public birth of the Bitcoin network just days after the genesis block. That modest action proved the concept worked, enabled the first real transactions, and laid the foundation for the decentralized financial revolution that today moves trillions around the world. Thank you, Hal! Your node continues to inspire the entire world.
 
-3h ago
+4h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 2d ago
 
 **[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
 
-thestreet.com • 23h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 A Satoshi-era Bitcoin miner reactivated long-dormant wallets to move 2,000 BTC, worth about $181 million, to Coinbase.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ Fortune • 2d ago
 
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Motley Fool • 10h ago
 
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-Bitbo • 14h ago
+Bitbo • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 203 • ⏱️ 17:17 • 23h ago
+👁️ 25K • 👍 2K • 💬 203 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 758 • 💬 189 • ⏱️ 1:01:22 • 7h ago
+👁️ 14K • 👍 758 • 💬 189 • ⏱️ 1:01:22 • 8h ago
 
 ---
 
@@ -399,7 +399,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 465 • 💬 104 • ⏱️ 8:12 • 15h ago
+👁️ 8K • 👍 465 • 💬 104 • ⏱️ 8:12 • 16h ago
 
 ---
 

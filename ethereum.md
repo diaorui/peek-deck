@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T21:40:37.971442+00:00'
+updated: '2026-01-11T22:20:53.363890+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 21:40 UTC  
+**Last Updated:** January 11, 2026 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -188,7 +188,7 @@ TradingView — Track All Markets • 18h ago
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
 
-Decrypt • 2d ago
+Decrypt • 3d ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 2d ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 10h ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -204,7 +204,7 @@ AMBCrypto • 10h ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -228,7 +228,7 @@ Benzinga • 2d ago
 
 EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -242,7 +242,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 177 • 💬 32 • ⏱️ 12:34 • 12h ago
+👁️ 2K • 👍 177 • 💬 32 • ⏱️ 12:34 • 13h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 651 • 👍 52 • 💬 10 • ⏱️ 14:54 • 1h ago
+👁️ 651 • 👍 52 • 💬 10 • ⏱️ 14:54 • 2h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 408 • 👍 24 • 💬 7 • ⏱️ 5:22 • 7h ago
+👁️ 408 • 👍 24 • 💬 7 • ⏱️ 5:22 • 8h ago
 
 ---
 
@@ -282,7 +282,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 216 • 💬 332 • ⏱️ 13:48 • 15h ago
+👁️ 8K • 👍 216 • 💬 332 • ⏱️ 13:48 • 16h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 7 • ⏱️ 5:19 • 5h ago
+👁️ 1K • 👍 114 • 💬 7 • ⏱️ 5:19 • 6h ago
 
 ---
 
@@ -312,7 +312,7 @@ Join our Safe and Private Discord Community → Daily analysis requests, Elliott
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 110 • 👍 11 • 💬 1 • ⏱️ 14:10 • 4h ago
+👁️ 110 • 👍 11 • 💬 1 • ⏱️ 14:10 • 5h ago
 
 ---
 

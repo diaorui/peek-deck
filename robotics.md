@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T21:40:37.974659+00:00'
+updated: '2026-01-11T22:20:53.367182+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 21:40 UTC  
+**Last Updated:** January 11, 2026 at 22:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing y
 
 I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
 
-11h ago
+12h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 Hi everyone 👋 A while ago I shared CANgaroo, an open-source CAN / CAN-FD analyzer for Linux. Since then, based on real-world validation and community feedback, I’ve been actively maintaining and extending it, so I wanted to share a short update. What CANgaroo is CANgaroo is a Linux-native CAN bus analysis tool focused on everyday debugging and monitoring. The workflow is inspired by tools like BusMaster / PCAN-View, but it’s fully open-source and built around SocketCAN. It’s aimed at automotive, robotics, and industrial use cases. Key capabilities: Real-time CAN & CAN-FD capture Multi-DBC signal decoding Trace-view-focused workflow Signal graphing, filtering, and log export Hardware support: SocketCAN, CANable (SLCAN), Candlelight, CANblaster (UDP) Virtual CAN (vcan) support for testing without hardware 🆕 Recent Changes (v0.4.4) Some notable improvements since the previous post: Unified Protocol Decoding Intelligent prioritization between J1939 (29-bit) and UDS / ISO-TP (11-bit) with robust TP reassembly Enhanced J1939 Support Auto-labeling for common PGNs (e.g. VIN, EEC1) and reassembled BAM / CM messages Generator Improvements Global Stop halts all cyclic transmissions Generator loopback — transmitted frames now appear in the Trace View (TX) Stability & UI Responsiveness Safer state-management pattern replacing unstable signal blocking Improved trace-view reliability during live editing Overall, the focus is on stability, protocol correctness, and real-world debugging workflows, rather than experimental RE features. Source & releases: 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback and real-world use cases are very welcome — feature requests are best tracked via GitHub issues so they don’t get lost.
 
-2h ago
+3h ago
 
 ---
 
@@ -242,7 +242,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 14K • 👍 1K • 💬 192 • ⏱️ 14:30 • 6h ago
+👁️ 14K • 👍 1K • 💬 192 • ⏱️ 14:30 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ The next generation of Atlas is designed to interact with people and understand 
 
 📺 Hyundai Motor Group
 
-👁️ 246K • 👍 61 • ⏱️ 1:15 • 4d ago
+👁️ 246K • 👍 61 • ⏱️ 1:15 • 5d ago
 
 ---
 
