@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T01:58:32.814555+00:00'
+updated: '2026-01-11T03:56:00.655377+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- social
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 01:58 UTC  
+**Last Updated:** January 11, 2026 at 03:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,583.30
+### $90,702.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
+**24h:** +0.2%  
 **7d:** -3.6%  
 **30d:** +0.5%  
-**90d:** -19.8%  
-**1y:** -4.0%  
+**90d:** -19.7%  
+**1y:** -3.9%  
 
 ---
 
@@ -70,56 +70,56 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 25
-**EXTREME FEAR**
+### 29
+**FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[I constantly get reminded we are early](https://www.reddit.com/r/Bitcoin/comments/1q99g95/i_constantly_get_reminded_we_are_early/)**
+
+https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
+
+10h ago
+
+---
+
 **[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-11h ago
-
----
-
-**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
-
-11h ago
+13h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-20h ago
+22h ago
 
 ---
 
-**[I constantly get reminded we are early](https://www.reddit.com/r/Bitcoin/comments/1q99g95/i_constantly_get_reminded_we_are_early/)**
+**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
-
-8h ago
+13h ago
 
 ---
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-9h ago
+11h ago
 
 ---
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
 
-7h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Man, I am so stupid. I wish I would have done what Coinbase told me if I would o
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-11h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 I just liquidated 10k of stocks to put into bitcoin. Would it be a better decision to dca over the next year/years or so with it or just put the 10k in right now?
 
-4h ago
+6h ago
 
 ---
 
@@ -159,25 +159,11 @@ CNBC • 1d ago
 
 ---
 
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
-
-The Block • 9h ago
-
----
-
-**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
-
-Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
-
-CoinDesk • 1d ago
-
----
-
 **[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
 
 There's a major pitfall coming up that'll need to be avoided.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -189,15 +175,23 @@ CoinDesk • 1d ago
 
 ---
 
-**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
+**[Bitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters](https://bitcoinmagazine.com/markets/bitcoin-price-holds-90000-tariff-delay)**
 
-The Block • 2d ago
+The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
+**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-The Block • 1d ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
+
+The Block • 2d ago
 
 ---
 
@@ -205,7 +199,15 @@ The Block • 1d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 6h ago
+
+---
+
+**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+
+Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -217,11 +219,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
+**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
 
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
-
-VanEck • 2d ago
+thestreet.com • 6h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 766 • 💬 190 • ⏱️ 17:17 • 3h ago
+👁️ 8K • 👍 766 • 💬 190 • ⏱️ 17:17 • 5h ago
 
 ---
 
@@ -323,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 36K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 11h ago
+👁️ 36K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 13h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin's price may look stagnant, but the fundamentals tell a very different st
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 108 • 💬 3 • ⏱️ 0:48 • 12h ago
+👁️ 3K • 👍 108 • 💬 3 • ⏱️ 0:48 • 14h ago
 
 ---
 
