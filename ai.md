@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T11:40:06.331552+00:00'
+updated: '2026-01-11T12:43:18.664262+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 11:40 UTC  
+**Last Updated:** January 11, 2026 at 12:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-5h ago
+6h ago
 
 ---
 
@@ -55,7 +55,7 @@ Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI i
 
 Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
 
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 16h ago
+🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 17h ago
 
 ---
 
@@ -79,7 +79,7 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
 
-17h ago
+18h ago
 
 ---
 
@@ -123,15 +123,35 @@ Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/max
 
 Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-The Guardian • 1h ago
+The Guardian • 3h ago
 
 ---
 
-**[AI memory is sold out, causing an unprecedented surge in prices](https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html)**
+**[AI is helping recruiters find ‘hidden gem’ talent — a senior LinkedIn exec shares top tips to stand out](https://www.cnbc.com/2026/01/11/ai-dominate-hiring-2026-linkedin-execs-top-tips-stand-out.html)**
 
-Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
+"2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-CNBC • 23h ago
+CNBC • 5h ago
+
+---
+
+**[How artificial intelligence is reshaping the future of war](https://thehill.com/policy/defense/5683359-artificial-intelligence-future-war/)**
+
+The Hill • 33m ago
+
+---
+
+**[Meet The AI Super-Users Of 2026: Millennial Managers](https://www.forbes.com/sites/rachelwells/2026/01/11/meet-the-ai-super-users-of-2026-millennial-managers/)**
+
+Forbes • 22m ago
+
+---
+
+**[Why SF isn’t seeing job surge amid AI boom](https://www.sfexaminer.com/news/technology/san-francisco-ai-boom-tech-jobs-plateau/article_f1b37240-b799-40e9-ba4c-33263f894a3f.html)**
+
+Data centers sucking up much of venture money.
+
+San Francisco Examiner • 43m ago
 
 ---
 
@@ -139,21 +159,15 @@ CNBC • 23h ago
 
 Here’s what the future might sound like, according to a science writer who experimented with it.
 
-vox.com • 10m ago
+vox.com • 1h ago
 
 ---
 
-**[Applied Digital Just Solved AI's Biggest Bottleneck with Technology From the 1800s](https://www.fool.com/investing/2026/01/11/applied-digital-just-solved-ais-biggest-bottleneck/)**
+**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://finance.yahoo.com/news/china-ai-leaders-warn-widening-140555407.html)**
 
-Steam turbines will start powering AI workloads in 2028.
+“A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
 
-The Motley Fool • 50m ago
-
----
-
-**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
-
-Bloomberg.com • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -165,31 +179,15 @@ Time Magazine • 1d ago
 
 ---
 
+**[AI Is Causing a Memory Shortage. Why Producers Aren’t Rushing to Make a Lot More.](https://www.wsj.com/tech/ai-is-causing-a-memory-shortage-why-producers-arent-rushing-to-make-a-lot-more-8dd15194?gaa_at=eafs&gaa_n=AWEtsqfTg6X1SPlwLJJKsaGdv0Lv8TI9k_guzvXehSi4MyVWxiWTaiaidpoa&gaa_ts=69639e4c&gaa_sig=bHaX4cwiI54NwG2SqgIHzoMGHt4SF6pztYzJ2_TFZlkAAUpolVGGgkpUD7XjDr--MF9-yBCID_XWmvE9gV4mrQ%3D%3D)**
+
+The Wall Street Journal • 2h ago
+
+---
+
 **[Former Google, Apple Researchers Raising $50 Million for New Visual AI Startup](https://www.theinformation.com/articles/former-google-apple-researchers-raising-50-million-new-visual-ai-startup)**
 
-The Information • 15h ago
-
----
-
-**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
-
-Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
-
-The Atlantic • 1d ago
-
----
-
-**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
-
-Reuters • 19h ago
-
----
-
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
-
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
-
-blog.google • 2d ago
+The Information • 16h ago
 
 ---
 
@@ -225,7 +223,7 @@ One AI coding assistant power user says the tools are hitting a plateau, and som
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 262 • 💬 255 • 18h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 275 • 💬 259 • 19h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -237,6 +235,12 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 ---
 
+**[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
+
+⬆️ 166 • 💬 239 • 2h ago • [antirez.com](https://antirez.com/news/158)
+
+---
+
 **[My article on why AI is great (or terrible) or how to use it](https://news.ycombinator.com/item?id=46557057)**
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
@@ -245,15 +249,9 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 ---
 
-**[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
-
-⬆️ 125 • 💬 139 • 1h ago • [antirez.com](https://antirez.com/news/158)
-
----
-
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 90 • 💬 60 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 91 • 💬 60 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -303,7 +301,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 26K • 👍 1K • 💬 151 • ⏱️ 35:41 • 8h ago
+👁️ 26K • 👍 1K • 💬 151 • ⏱️ 35:41 • 9h ago
 
 ---
 
@@ -333,7 +331,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 40K • 👍 2K • 💬 155 • ⏱️ 14:39 • 21h ago
+👁️ 40K • 👍 2K • 💬 155 • ⏱️ 14:39 • 22h ago
 
 ---
 
@@ -341,7 +339,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 The Williams Fam
 
-👁️ 201K • 👍 6K • 💬 270 • ⏱️ 0:16 • 19h ago
+👁️ 201K • 👍 6K • 💬 270 • ⏱️ 0:16 • 20h ago
 
 ---
 
@@ -639,7 +637,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.8k • 🔱 965 • 6h ago
+⭐ 7.8k • 🔱 965 • 7h ago
 
 ---
 
@@ -649,7 +647,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 134 • 2h ago
+⭐ 2.2k • 🔱 134 • 3h ago
 
 ---
 
@@ -679,7 +677,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 116 • 20h ago
+⭐ 1.4k • 🔱 116 • 21h ago
 
 ---
 
@@ -729,7 +727,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 127 • 46m ago
+⭐ 1.0k • 🔱 127 • 1h ago
 
 ---
 

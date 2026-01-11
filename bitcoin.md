@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T11:40:06.340001+00:00'
+updated: '2026-01-11T12:43:18.673332+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 11:40 UTC  
+**Last Updated:** January 11, 2026 at 12:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -3.6%  
-**30d:** +0.5%  
-**90d:** -19.7%  
-**1y:** -3.9%  
+**24h:** +0.3%  
+**7d:** -3.4%  
+**30d:** +0.7%  
+**90d:** -19.6%  
+**1y:** -3.8%  
 
 ---
 
@@ -81,13 +81,19 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-20h ago
+22h ago
+
+---
+
+**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
+
+28m ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -99,7 +105,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -107,15 +113,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-18h ago
-
----
-
-**[SLIP-0039 with shamir backup](https://www.reddit.com/r/Bitcoin/comments/1q9w818/slip0039_with_shamir_backup/)**
-
-I basically wanna do the ninja method with metal rings and a trezor 3 for btc only with the shamir backup with a 2/3 construction and split it over 3 locations does this sound like a good idea or are there better ones? Just got to this information on the internet don t have friends who do btc.
-
-1h ago
+19h ago
 
 ---
 
@@ -123,7 +121,7 @@ I basically wanna do the ninja method with metal rings and a trezor 3 for btc on
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
@@ -131,19 +129,21 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 --- TL;DR: My thoughts are that BTC is not currently in a confirmed bear market. From a macro, monthly structure perspective, as long as ~74k holds on a monthly close, the higher-timeframe bull structure remains intact. At the same time, monthly volatility has been compressed for over a year, suggesting a meaningful expansion phase is more likely sooner rather than later. Direction isn’t guaranteed — but structure still favours continuation unless that higher low breaks. --- I want to share this chart as a way of thinking about Bitcoin in terms of macro structure, rather than narratives or rigid cycle assumptions. This is a long-term Fibonacci extension drawn using major historical pivots: the early BTC genesis low (2009–2010), the 2017 cycle high, and the 2018 bear-market low. Volatility, represented by Caretaker’s BBWP indicator (Bollinger Band Width Percentile, length 13, lookback 252), is at the bottom. The goal here isn’t strict prediction (although it kind of is) — it’s to map out higher-timeframe structure. What stands out to me is how closely the current market is respecting these levels. The 4.236 extension around ~87k lines up almost perfectly with BTC’s most recent support zone, while the 3.618 extension around ~74k aligns with the current monthly higher low. For me, that ~74k level is the key structural line in the sand. As long as BTC holds above it on a monthly closing basis, higher-timeframe structure and trend remains intact with higher-highs and higher-lows. A clean monthly close below that level, followed by a failed reclaim, would be my signal that a true bear-market regime is likely. Above current price, the higher Fibonacci extensions — roughly the 6.854 and 10.618 levels — cluster in the high-100k to low-200k range. These aren’t targets so much as zones where long-term extensions naturally converge if the current structure continues to resolve upward. The box labeled “EOY 2026 / Early 2027” is a structural zone with a bit of honest hopium, not a call for an exact top. One additional piece that makes this setup interesting to me is volatility. On the monthly timeframe, volatility as measured by the BBWP has been in an extreme compression regime (<20) for over a year now — one of the longest such periods in BTC’s history. With the settings above, Bitcoin has only experienced such a compression for longer than 17 months once in history, and it’s currently on month 15. So historically, volatility compressions on higher timeframes don't persist indefinitely and tend to resolve with expansion. That alone doesn’t tell us direction, but it does suggest the current range is unlikely to last much longer. If past behaviour is any guide, this points to a meaningful expansion phase occurring potentially within 3-6 months. If the ~74k level continues to hold on a monthly basis and momentum can flip back to the upside, then interaction with the next higher fib levels becomes increasingly plausible. One last note on the BBWP, each 'bull run' in the past has seen a BBWP of >50, which we have not yet seen for the current run. This chart is meant as a framework, not a call for tops or bottoms. It’s about identifying where structure breaks versus where it remains valid. As long as the monthly higher low around ~74k holds, I find it difficult to justify strong bear-market conviction purely from a structural standpoint until that level breaks on a monthly close. I’m posting this to get other perspectives, especially from people who focus on higher-timeframe structure rather than cycle timing or short-term indicators. If you see flaws in the anchoring, interpretation, or assumptions here, I’d genuinely like to hear them. --- Honest Disclaimer: AI helped turn scattered thoughts into readable English. The ideas (and any bad takes) are still very much my own. ---
 
-9h ago
+11h ago
+
+---
+
+**[SLIP-0039 with shamir backup](https://www.reddit.com/r/Bitcoin/comments/1q9w818/slip0039_with_shamir_backup/)**
+
+I basically wanna do the ninja method with metal rings and a trezor 3 for btc only with the shamir backup with a 2/3 construction and split it over 3 locations does this sound like a good idea or are there better ones? Just got to this information on the internet don t have friends who do btc.
+
+2h ago
 
 ---
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-16h ago
-
----
-
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
-
-22h ago
+17h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 2d ago
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 1d ago
 
 How low can Bitcoin price go? Bitcoin is falling after breaking 50-week MA. Technical analysis shows $68K-$74K targets ahead. Crypto influencers back bearish Bitcoin predictions.
 
-Finance Magnates • 1h ago
+Finance Magnates • 2h ago
 
 ---
 
@@ -191,15 +191,15 @@ Finance Magnates • 1h ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
+**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
 
-The dog token's much bigger trailing-10-year return can draw interest from some market participants.
+Bitcoin has a lot going for it, but the near term could be bumpy.
 
-The Motley Fool • 40m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ Fortune • 1d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -239,7 +239,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 2d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 3d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -269,7 +269,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 3d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 4d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 445 • ⏱️ 17:17 • 13h ago
+👁️ 19K • 👍 1K • 💬 445 • ⏱️ 17:17 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 21h ago
+👁️ 46K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 22h ago
 
 ---
 
@@ -373,7 +373,7 @@ The new crypto rules coming this week? Could this change crypto forever? We have
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 103 • 💬 75 • ⏱️ 5:41 • 19h ago
+👁️ 2K • 👍 103 • 💬 75 • ⏱️ 5:41 • 20h ago
 
 ---
 
@@ -393,7 +393,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 317 • 💬 52 • ⏱️ 8:12 • 5h ago
+👁️ 4K • 👍 317 • 💬 52 • ⏱️ 8:12 • 6h ago
 
 ---
 
