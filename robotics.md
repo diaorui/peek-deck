@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T05:26:58.313741+00:00'
+updated: '2026-01-11T05:49:02.627008+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 05:26 UTC  
+**Last Updated:** January 11, 2026 at 05:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-15h ago
+16h ago
 
 ---
 
@@ -98,7 +98,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 **[Servo stutters when I connect to a pot](https://www.reddit.com/r/robotics/comments/1q9jmoz/servo_stutters_when_i_connect_to_a_pot/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -204,7 +204,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 63K • 👍 2K • ⏱️ 56:16 • 12h ago
+👁️ 63K • 👍 2K • ⏱️ 56:16 • 13h ago
 
 ---
 
@@ -214,7 +214,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 49K • 👍 1K • 💬 141 • ⏱️ 3:13 • 11h ago
+👁️ 49K • 👍 1K • 💬 141 • ⏱️ 3:13 • 12h ago
 
 ---
 

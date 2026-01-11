@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T05:26:58.310511+00:00'
+updated: '2026-01-11T05:49:02.623786+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 05:26 UTC  
+**Last Updated:** January 11, 2026 at 05:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Crypto started as a cypherpunk project, but somewhere along the way, privacy got
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 20h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 21h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 10h ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 19h ago
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -218,7 +218,7 @@ Coinpedia Fintech News • 1d ago
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 550 • 💬 53 • ⏱️ 24:05 • 8h ago
+👁️ 8K • 👍 550 • 💬 53 • ⏱️ 24:05 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 102 • 💬 12 • ⏱️ 5:05 • 12h ago
+👁️ 2K • 👍 102 • 💬 12 • ⏱️ 5:05 • 13h ago
 
 ---
 
@@ -290,7 +290,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 528 • 👍 39 • 💬 69 • ⏱️ 6:18 • 11h ago
+👁️ 528 • 👍 39 • 💬 69 • ⏱️ 6:18 • 12h ago
 
 ---
 
