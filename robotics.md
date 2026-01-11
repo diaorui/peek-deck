@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T15:41:57.752529+00:00'
+updated: '2026-01-11T16:26:31.920835+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 15:41 UTC  
+**Last Updated:** January 11, 2026 at 16:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-4h ago
-
----
-
-**[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
-
-12h ago
+5h ago
 
 ---
 
@@ -58,15 +52,13 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-5h ago
+6h ago
 
 ---
 
-**[Feedback on robot arm appearance](https://www.reddit.com/r/robotics/comments/1q9hn4p/feedback_on_robot_arm_appearance/)**
+**[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
-
-17h ago
+13h ago
 
 ---
 
@@ -75,6 +67,14 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
 
 2h ago
+
+---
+
+**[Feedback on robot arm appearance](https://www.reddit.com/r/robotics/comments/1q9hn4p/feedback_on_robot_arm_appearance/)**
+
+Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
+
+18h ago
 
 ---
 
@@ -90,7 +90,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
 
-5h ago
+6h ago
 
 ---
 
@@ -98,7 +98,7 @@ I have recently been exploring robotic path planning and during my hands-on nume
 
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
-15h ago
+16h ago
 
 ---
 
@@ -184,7 +184,7 @@ Fortune • 3d ago
 
 ---
 
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqd61V4wSJuiy_HIniEtOY8nqRkRjDmoR4gV3KDn8hW-I1_Tm6ffmDBJ&gaa_ts=6963c359&gaa_sig=cVcaK9EQyKRcwrJ9D73bkb0vnO1BILe4BXsHllLedfoexZD3n2oooPZjPJZmLxAO9IaX_VpNVdGeUEtx5sYpQg%3D%3D)**
+**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqexXTwn3Y2gtcRIvcVSbNENivrzbKiofZ5MwxgNnFe-ePI7i75ip4lU&gaa_ts=6963d2a6&gaa_sig=HZpCTM3_JkcghCyNmOSxvj8UZtmCBKJ-e2VZWgH5c6ep7-ZyFYo8n4YAaLLrHlbtBqgWvSErnQngbYiN20gnEQ%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -200,27 +200,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 277K • 👍 4K • 💬 623 • ⏱️ 4:29 • 3d ago
-
----
-
-**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
-
-Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
-
-📺 Trisha Hershberger
-
-👁️ 7K • 👍 389 • 💬 29 • ⏱️ 9:28 • 20h ago
-
----
-
-**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
-
-Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
-
-📺 Carros Show
-
-👁️ 52K • 👍 457 • 💬 39 • ⏱️ 11:13 • 5d ago
+👁️ 281K • 👍 4K • 💬 637 • ⏱️ 4:29 • 3d ago
 
 ---
 
@@ -230,7 +210,37 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 65K • 👍 2K • ⏱️ 56:16 • 22h ago
+👁️ 66K • 👍 2K • ⏱️ 56:16 • 23h ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 6K • 👍 134 • 💬 46 • ⏱️ 11:29 • 19h ago
+
+---
+
+**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
+
+Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
+
+📺 Carros Show
+
+👁️ 52K • 👍 460 • 💬 39 • ⏱️ 11:13 • 5d ago
+
+---
+
+**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
+
+Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
+
+📺 Trisha Hershberger
+
+👁️ 7K • 👍 407 • 💬 30 • ⏱️ 9:28 • 21h ago
 
 ---
 
@@ -240,7 +250,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 59K • 👍 1K • 💬 155 • ⏱️ 3:13 • 22h ago
+👁️ 61K • 👍 1K • 💬 161 • ⏱️ 3:13 • 22h ago
 
 ---
 
@@ -254,43 +264,33 @@ The next generation of Atlas is designed to interact with people and understand 
 
 ---
 
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 5K • 👍 129 • 💬 44 • ⏱️ 11:29 • 18h ago
-
----
-
 **[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
 
 For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
 
 📺 NBC News
 
-👁️ 188K • 👍 2K • 💬 211 • ⏱️ 0:22 • 4d ago
+👁️ 189K • 👍 2K • 💬 211 • ⏱️ 0:22 • 4d ago
 
 ---
 
-**[These humanoid robots are ‘driven by AI’, says Arm CEO](https://www.youtube.com/watch?v=cDWE6aAxyBk)**
+**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
 
-Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances its capabilities on 'The Claman ...
+Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
 
-📺 Fox Business
+📺 Hyundai Motor Group
 
-👁️ 11K • 👍 246 • 💬 127 • ⏱️ 3:53 • 14h ago
+👁️ 570K • 👍 46 • 💬 1 • ⏱️ 0:59 • 4d ago
 
 ---
 
-**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
+**[Give Robots Space! #robotics #robot #airobot #humanoidrobot #ces2026](https://www.youtube.com/watch?v=66mH3LKf3m0)**
 
-Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
+Recent viral clips making the rounds on social media are good reminders that today's humanoid robots are not very safe.
 
-📺 AI Revolution
+📺 Kalil 4.0
 
-👁️ 65K • 👍 1K • 💬 239 • ⏱️ 9:33 • 4d ago
+👁️ 5K • 👍 84 • 💬 9 • ⏱️ 0:24 • 13h ago
 
 ---
 

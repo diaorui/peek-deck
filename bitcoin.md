@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T15:41:57.743333+00:00'
+updated: '2026-01-11T16:26:31.911487+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 15:41 UTC  
+**Last Updated:** January 11, 2026 at 16:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,932.11
+### $90,818.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
+**24h:** +0.6%  
 **7d:** -3.2%  
 **30d:** +0.9%  
 **90d:** -19.4%  
-**1y:** -3.5%  
+**1y:** -3.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1814.14B
+**Market Cap:** $1814.73B
 Rank #1
 
-**Circulating Supply:** 19,974,525 BTC
+**Circulating Supply:** 19,974,540 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.0%
+-27.9%
 
 **All-Time Low:** $67.81
-+133825.7%
++133896.5%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 That moment in 2030 when the “buy $BTC in 2026” advice finally hits
 
-1h ago
+2h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-2h ago
+3h ago
 
 ---
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -102,6 +102,14 @@ That moment in 2030 when the “buy $BTC in 2026” advice finally hits
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
 1d ago
+
+---
+
+**[M19, investment in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q9yn7s/m19_investment_in_bitcoin/)**
+
+Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
+
+3h ago
 
 ---
 
@@ -117,9 +125,9 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 ---
 
-**[M19, investment in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q9yn7s/m19_investment_in_bitcoin/)**
+**[How do leveraged positions affect Bitcoin’s volatility?](https://www.reddit.com/r/Bitcoin/comments/1q9zq75/how_do_leveraged_positions_affect_bitcoins/)**
 
-Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
+I’ve been reading more about how leverage and derivatives interact with Bitcoin’s price, especially during periods of higher volatility. It seems like large clusters of leveraged positions can sometimes amplify moves when the market becomes unstable. Rather than focusing on short-term price action, I’m curious how people here think about the role of leverage in Bitcoin markets overall. Do you see it as something that adds useful liquidity, or does it mostly increase volatility and risk compared to Bitcoin’s original design? Interested in hearing different perspectives on how this affects the broader ecosystem.
 
 2h ago
 
@@ -133,17 +141,11 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 ---
 
-**[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
-
-23h ago
-
----
-
 **[Daily Discussion, January 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1q9rnwr/daily_discussion_january_11_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -151,23 +153,25 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
-
-The Block • 23h ago
-
----
-
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
-
-The Block • 2d ago
-
----
-
 **[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
 
 It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
 
 CNBC • 2d ago
+
+---
+
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
+
+The Block • 1d ago
+
+---
+
+**[Why This New P2P App Is Making Centralized Exchanges Look Obsolete](https://bitcoinmagazine.com/business/vexl-empowering-peer-to-peer-bitcoin-exchange-through-social-networks)**
+
+In a world cracking down on privacy tools, one non-profit app is letting you trade Bitcoin safely within your own network.
+
+Bitcoin Magazine • 2d ago
 
 ---
 
@@ -179,6 +183,12 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Top Cryptocurrencies (Beyond Bitcoin) Poised To Surge in 2026](https://uk.finance.yahoo.com/news/top-cryptocurrencies-beyond-bitcoin-poised-161205725.html)**
+
+Yahoo Finance UK • 14m ago
+
+---
+
 **[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
 
 What we know about the South American country’s crypto holdings.
@@ -187,11 +197,9 @@ Fortune • 1d ago
 
 ---
 
-**[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
+**[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
 
-Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
-
-Bitbo • 8h ago
+The Block • 1d ago
 
 ---
 
@@ -203,12 +211,6 @@ Yahoo Finance • 18h ago
 
 ---
 
-**[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
-
-The Block • 1d ago
-
----
-
 **[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
 
 Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
@@ -217,11 +219,11 @@ Bitcoin Magazine • 2d ago
 
 ---
 
-**[Bitcoin holds near $91,000 as market awaits Trump tariff ruling: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd91-000-as-market-awaits-trump-tariff-ruling-asia-morning-briefing)**
+**[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
 
-Prediction markets see low odds of a clear Supreme Court ruling on tariffs, a setup that has previously triggered short-term volatility in bitcoin, which then stabilized.
+Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-CoinDesk • 2d ago
+Bitbo • 9h ago
 
 ---
 
@@ -307,23 +309,33 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
-
-Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
-
-📺 Satoshi Alliance
-
-👁️ 8K • 👍 465 • 💬 362 • ⏱️ 3:25 • 1d ago
-
----
-
 **[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
 
 Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 534 • ⏱️ 17:17 • 17h ago
+👁️ 22K • 👍 2K • 💬 555 • ⏱️ 17:17 • 18h ago
+
+---
+
+**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
+
+Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
+
+📺 Satoshi Alliance
+
+👁️ 9K • 👍 469 • 💬 370 • ⏱️ 3:25 • 1d ago
+
+---
+
+**[&quot;I Lost $2.5 Billion While The Government Destroyed Crypto Investors&quot; | Charles Hoskinson](https://www.youtube.com/watch?v=6bfYKc-HxUY)**
+
+Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on the crypto industry's turbulent past four years ...
+
+📺 The Wolf Of All Streets
+
+👁️ 4K • 👍 340 • 💬 110 • ⏱️ 1:01:22 • 2h ago
 
 ---
 
@@ -333,27 +345,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
-
----
-
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
-
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
-
-📺 Paul Barron Network
-
-👁️ 74K • 👍 3K • 💬 385 • ⏱️ 16:13 • 2d ago
-
----
-
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
-
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
-
-📺 Vortex Bitcoin
-
-👁️ 23K • 👍 342 • 💬 109 • ⏱️ 0:49 • 2d ago
+👁️ 50K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
 
 ---
 
@@ -363,17 +355,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 19K • 👍 1K • 💬 565 • ⏱️ 10:43 • 1d ago
-
----
-
-**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 58K • 👍 3K • 💬 528 • ⏱️ 9:19 • 1d ago
+👁️ 19K • 👍 1K • 💬 734 • ⏱️ 10:43 • 2d ago
 
 ---
 
@@ -383,17 +365,37 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 666 • 💬 76 • ⏱️ 24:05 • 19h ago
+👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 19h ago
 
 ---
 
-**[CRYPTO “SuperCycle Incoming” (This Isn’t Random)](https://www.youtube.com/watch?v=b3MV_cmsChk)**
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
 
-Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Subscribe to my Macro Thesis ...
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
 
-📺 Dan Gambardello
+📺 Paul Barron Network
 
-👁️ 19K • 👍 1K • 💬 751 • ⏱️ 11:48 • 20h ago
+👁️ 75K • 👍 3K • 💬 393 • ⏱️ 16:13 • 2d ago
+
+---
+
+**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+
+Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 295 • ⏱️ 17:07 • 1d ago
+
+---
+
+**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 58K • 👍 3K • 💬 592 • ⏱️ 9:19 • 1d ago
 
 ---
 

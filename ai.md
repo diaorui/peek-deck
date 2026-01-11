@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T15:41:57.734868+00:00'
+updated: '2026-01-11T16:26:31.902816+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 15:41 UTC  
+**Last Updated:** January 11, 2026 at 16:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -47,7 +47,13 @@ AI news, discussions, and developments
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-39m ago
+1h ago
+
+---
+
+**[I met Co-Pilot.](https://www.reddit.com/r/artificial/comments/1qa26vb/i_met_copilot/)**
+
+55m ago
 
 ---
 
@@ -55,7 +61,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-9h ago
+10h ago
 
 ---
 
@@ -63,7 +69,7 @@ Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI i
 
 Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
 
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 20h ago
+🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 21h ago
 
 ---
 
@@ -71,15 +77,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
 
-21h ago
-
----
-
-**[Terrence Tao: "Erdos problem #728 was solved more or less autonomously by AI"](https://www.reddit.com/r/artificial/comments/1q8qvey/terrence_tao_erdos_problem_728_was_solved_more_or/)**
-
-"Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
-
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 1d ago
+22h ago
 
 ---
 
@@ -88,6 +86,14 @@ This is def interesting for all SWEs who would like to know what goes behind the
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
 🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 1d ago
+
+---
+
+**[Terrence Tao: "Erdos problem #728 was solved more or less autonomously by AI"](https://www.reddit.com/r/artificial/comments/1q8qvey/terrence_tao_erdos_problem_728_was_solved_more_or/)**
+
+"Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
+
+🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 1d ago
 
 ---
 
@@ -107,35 +113,13 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 ---
 
-**[Musk lawsuit over OpenAI for-profit conversion can go to trial, US judge says](https://www.reddit.com/r/artificial/comments/1q82r2v/musk_lawsuit_over_openai_forprofit_conversion_can/)**
-
-Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
+**[Tech and retail back a new AI shopping standard at NRF 2026](https://www.axios.com/2026/01/11/google-shopify-ai-shopping-standard-nrf-2026)**
 
-Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
-
-The Guardian • 5h ago
-
----
-
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdU14bZsJThNoO_bTDdPvvqEcn4h8kqSxwaWz30sxN5cRYKZtssCbOY&gaa_ts=6963c354&gaa_sig=TwDmBrTl2ZPjYgPnl-hM7OGp9gj1FdM2QqAhtkHY2SOs4-4NIx-exfjazB5MQePx1jOXBD0r8cY_ZrJgbkakPw%3D%3D)**
-
-The Wall Street Journal • 41m ago
-
----
-
-**[Walmart expands AI-powered shopping — and checkout — with Google Gemini](https://www.axios.com/2026/01/11/walmart-google-gemini-ai-shopping)**
-
-Axios • 41m ago
+Axios • 1h ago
 
 ---
 
@@ -143,41 +127,55 @@ Axios • 41m ago
 
 "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-CNBC • 8h ago
+CNBC • 9h ago
+
+---
+
+**[America’s AI Boom Is Running Into An Unplanned Water Problem](https://www.forbes.com/sites/kensilverstein/2026/01/11/americas-ai-boom-is-running-into-an-unplanned-water-problem/)**
+
+Forbes • 1h ago
 
 ---
 
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
-**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
 
-The New York Times • 2d ago
+Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
----
-
-**[‘Add blood, forced smile’: how Grok’s nudification tool went viral](https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk)**
-
-The ‘put her in a bikini’ trend rapidly evolved into hundreds of thousands of requests to strip clothes from photos of women, horrifying those targeted
-
-The Guardian • 9h ago
+The Atlantic • 1d ago
 
 ---
 
-**[Musk’s Grok AI Blocked in Indonesia, Malaysia Over Sexual Images](https://www.bloomberg.com/news/articles/2026-01-11/musk-s-grok-ai-blocked-in-indonesia-malaysia-over-sexual-images)**
+**[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
 
-Bloomberg.com • 2h ago
+The New York Times • 6h ago
 
 ---
 
-**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://finance.yahoo.com/news/china-ai-leaders-warn-widening-140555407.html)**
+**[2 AI Stocks That Could Help Make You a Fortune](https://www.fool.com/investing/2026/01/11/2-ai-stocks-that-could-help-make-you-a-fortune/)**
 
-“A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
+These stocks are poised to deliver wealth-building returns.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 5h ago
+
+---
+
+**[New Data Shows AI Stocks Beat the S&P 500 by 136% Over 5 Years](https://www.fool.com/investing/2026/01/11/new-data-shows-ai-stocks-beat-sp-500-tesla/)**
+
+Here's why this should make investors confident in buying AI stocks.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
+
+Bloomberg.com • 16h ago
 
 ---
 
@@ -213,7 +211,13 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 286 • 💬 274 • 22h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 296 • 💬 283 • 23h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+
+---
+
+**[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
+
+⬆️ 289 • 💬 410 • 6h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -222,12 +226,6 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
 ⬆️ 261 • 💬 120 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
-
----
-
-**[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
-
-⬆️ 231 • 💬 350 • 5h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -241,7 +239,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 96 • 💬 60 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 97 • 💬 61 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -273,13 +271,23 @@ Since 2023, every model at the frontier of AI capabilities, as measured by the E
 
 ## YouTube Videos: "ai"
 
+**[Grok AI model still generating sexualized content after changes](https://www.youtube.com/watch?v=Y3JZdJlwomE)**
+
+On Elon Musk's social media platform X, the Grok AI image generation reply bot has been changed to be for paying customers ...
+
+📺 NBC News
+
+👁️ 11K • 👍 111 • 💬 57 • ⏱️ 5:25 • 1d ago
+
+---
+
 **[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
 
 Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
 
 📺 Dan Martell
 
-👁️ 74K • 👍 4K • 💬 311 • ⏱️ 19:15 • 2d ago
+👁️ 77K • 👍 4K • 💬 316 • ⏱️ 19:15 • 2d ago
 
 ---
 
@@ -289,7 +297,17 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 97K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
+👁️ 98K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
+
+---
+
+**[These humanoid robots are ‘driven by AI’, says Arm CEO](https://www.youtube.com/watch?v=cDWE6aAxyBk)**
+
+Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances its capabilities on 'The Claman ...
+
+📺 Fox Business
+
+👁️ 12K • 👍 260 • 💬 136 • ⏱️ 3:53 • 15h ago
 
 ---
 
@@ -299,17 +317,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 42K • 👍 2K • 💬 165 • ⏱️ 14:39 • 1d ago
-
----
-
-**[Grandma Shocked When Elephant Takes Her Birthday Cake 😭 #ai #baby #save](https://www.youtube.com/watch?v=RHgca5PX6rg)**
-
-Grandma Shocked When Elephant Takes Her Birthday Cake #ai #baby #save #CuteElephant #ElephantStealsCake ...
-
-📺 rk kahaniyaa
-
-👁️ 385 • 👍 8 • 💬 1 • ⏱️ 0:26 • 1h ago
+👁️ 45K • 👍 2K • 💬 171 • ⏱️ 14:39 • 1d ago
 
 ---
 
@@ -319,7 +327,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 33K • 👍 2K • 💬 178 • ⏱️ 35:41 • 12h ago
+👁️ 38K • 👍 2K • 💬 197 • ⏱️ 35:41 • 12h ago
 
 ---
 
@@ -329,7 +337,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 TIME
 
-👁️ 81K • 👍 3K • 💬 350 • ⏱️ 24:32 • 1d ago
+👁️ 86K • 👍 3K • 💬 357 • ⏱️ 24:32 • 1d ago
 
 ---
 
@@ -339,7 +347,15 @@ Manus AI is one of the most underrated AI tools, and this update takes it to ano
 
 📺 Brock Mesarich | AI for Non Techies
 
-👁️ 1K • 👍 46 • 💬 7 • ⏱️ 13:47 • 23h ago
+👁️ 2K • 👍 50 • 💬 9 • ⏱️ 13:47 • 1d ago
+
+---
+
+**[How do we compare to the Ai babies? 👶🕺😂](https://www.youtube.com/watch?v=y2bVXq1mdfQ)**
+
+📺 The Williams Fam
+
+👁️ 248K • 👍 7K • 💬 301 • ⏱️ 0:16 • 23h ago
 
 ---
 
@@ -349,25 +365,7 @@ Hey Guys! All Premium AI Models in One Place – Totally FREE is what this video
 
 📺 Faisal Shabbir
 
-👁️ 9K • 👍 867 • 💬 87 • ⏱️ 5:03 • 1d ago
-
----
-
-**[How do we compare to the Ai babies? 👶🕺😂](https://www.youtube.com/watch?v=y2bVXq1mdfQ)**
-
-📺 The Williams Fam
-
-👁️ 222K • 👍 6K • 💬 286 • ⏱️ 0:16 • 23h ago
-
----
-
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
-
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
-
-📺 MoreBeckBros
-
-👁️ 193K • 👍 8K • 💬 678 • ⏱️ 26:17 • 1d ago
+👁️ 10K • 👍 951 • 💬 95 • ⏱️ 5:03 • 1d ago
 
 ---
 
@@ -383,7 +381,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 629,855 • ❤️ 780 • 3d ago
+⬇️ 629,855 • ❤️ 781 • 3d ago
 
 ---
 
@@ -395,7 +393,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,771 • ❤️ 711 • 10d ago
+⬇️ 9,771 • ❤️ 712 • 10d ago
 
 ---
 
@@ -407,7 +405,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 16,027 • ❤️ 400 • 3d ago
+⬇️ 16,027 • ❤️ 410 • 3d ago
 
 ---
 
@@ -431,7 +429,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 11,562 • ❤️ 260 • 2d ago
+⬇️ 11,562 • ❤️ 262 • 2d ago
 
 ---
 
@@ -467,7 +465,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 `text-generation` `235.1B`
 
-⬇️ 1,354 • ❤️ 202 • 5d ago
+⬇️ 1,354 • ❤️ 203 • 5d ago
 
 ---
 
@@ -491,7 +489,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 207,986 • ❤️ 1,008 • 14d ago
+⬇️ 207,986 • ❤️ 1,010 • 14d ago
 
 ---
 
@@ -517,7 +515,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 87 • 💬 1 • ⭐ 1,932 • 5d ago
+▲ 87 • 💬 1 • ⭐ 1,997 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -529,7 +527,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 21 • 💬 2 • ⭐ 678 • 5d ago
+▲ 21 • 💬 2 • ⭐ 678 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -575,18 +573,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 25,640 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
-
----
-
 **[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
 
 *Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
@@ -613,6 +599,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 25,646 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
 **[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
 
 *Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
@@ -635,17 +633,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.8k • 🔱 981 • 2h ago
-
----
-
-**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
-
-Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
-
-`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
-
-⭐ 2.2k • 🔱 135 • 1h ago
+⭐ 7.9k • 🔱 987 • 30s ago
 
 ---
 
@@ -655,7 +643,17 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 327 • 3d ago
+⭐ 2.3k • 🔱 337 • 3d ago
+
+---
+
+**[nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)**
+
+Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid.
+
+`Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
+
+⭐ 2.2k • 🔱 135 • 11m ago
 
 ---
 
@@ -665,7 +663,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 221 • 2h ago
+⭐ 2.0k • 🔱 222 • 3h ago
 
 ---
 
@@ -675,7 +673,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 120 • 1d ago
+⭐ 1.4k • 🔱 122 • 1h ago
 
 ---
 
@@ -715,7 +713,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.1k • 🔱 84 • 12d ago
+⭐ 1.2k • 🔱 84 • 12d ago
 
 ---
 
@@ -725,7 +723,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.1k • 🔱 128 • 2h ago
+⭐ 1.1k • 🔱 128 • 19m ago
 
 ---
 

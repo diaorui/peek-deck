@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T15:41:57.749326+00:00'
+updated: '2026-01-11T16:26:31.917569+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 15:41 UTC  
+**Last Updated:** January 11, 2026 at 16:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
+**24h:** +0.8%  
 **7d:** -3.2%  
 **30d:** +0.3%  
-**90d:** -24.3%  
+**90d:** -24.4%  
 **1y:** -4.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.35B
+**Market Cap:** $375.98B
 Rank #2
 
 **Circulating Supply:** 120,694,727 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.0%
 
 **All-Time Low:** $0.43
-+717955.6%
++719528.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-21h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -168,9 +168,9 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://uk.finance.yahoo.com/news/ethereum-future-hinges-zero-knowledge-130000205.html)**
+**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://finance.yahoo.com/news/ethereum-future-hinges-zero-knowledge-130000205.html)**
 
-Yahoo Finance UK • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance UK • 2h ago
 
 Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -198,19 +198,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+**[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
 
-The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
+Ethereum's very soul is up for debate.
 
-The Motley Fool • 5h ago
+AMBCrypto • 5h ago
 
 ---
 
-**[Ethereum – Here are 3 reasons why ETH could hit $4.4K soon](https://ambcrypto.com/ethereum-here-are-3-reasons-why-eth-could-hit-4-4k-soon/)**
+**[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
 
-Q1 2026 could turn out to be pretty interesting for the world's largest altcoin.
+The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-AMBCrypto • 21h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -240,37 +240,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 666 • 💬 76 • ⏱️ 24:05 • 19h ago
-
----
-
-**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 4K • 👍 165 • 💬 317 • ⏱️ 13:48 • 9h ago
-
----
-
-**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 87 • 👍 14 • 💬 1 • ⏱️ 5:22 • 1h ago
-
----
-
-**[This One Catalyst Could Send Ethereum &amp; Solana to New All-Time Highs w/ Matt Hougan &amp; Ryan Rasmussen](https://www.youtube.com/watch?v=Lc1NKDlP1us)**
-
-In this episode, we dig into the one catalyst that could flip the switch for crypto markets and why Ethereum and Solana sit directly ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 176 • 💬 269 • ⏱️ 11:37 • 1d ago
+👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 19h ago
 
 ---
 
@@ -280,7 +250,47 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 1K • 👍 130 • 💬 35 • ⏱️ 12:34 • 6h ago
+👁️ 2K • 👍 156 • 💬 35 • ⏱️ 12:34 • 7h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 6K • 👍 184 • 💬 488 • ⏱️ 13:48 • 10h ago
+
+---
+
+**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 200 • 👍 23 • 💬 11 • ⏱️ 5:22 • 2h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YTFOJvmO4tk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 295 • 👍 45 • 💬 3 • ⏱️ 5:19 • 35m ago
+
+---
+
+**[This One Catalyst Could Send Ethereum &amp; Solana to New All-Time Highs w/ Matt Hougan &amp; Ryan Rasmussen](https://www.youtube.com/watch?v=Lc1NKDlP1us)**
+
+In this episode, we dig into the one catalyst that could flip the switch for crypto markets and why Ethereum and Solana sit directly ...
+
+📺 Milk Road
+
+👁️ 5K • 👍 178 • 💬 329 • ⏱️ 11:37 • 1d ago
 
 ---
 
@@ -290,7 +300,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 257 • 💬 916 • ⏱️ 16:56 • 19h ago
+👁️ 9K • 👍 268 • 💬 1K • ⏱️ 16:56 • 20h ago
 
 ---
 
@@ -300,7 +310,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 235 • 💬 39 • ⏱️ 4:20 • 2d ago
+👁️ 6K • 👍 236 • 💬 40 • ⏱️ 4:20 • 2d ago
 
 ---
 
@@ -310,27 +320,17 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 11K • 👍 567 • 💬 80 • ⏱️ 15:28 • 1d ago
+👁️ 11K • 👍 577 • 💬 84 • ⏱️ 15:28 • 1d ago
 
 ---
 
-**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
+**[Everyone&#39;s WRONG About Ethereum #crypto #eth](https://www.youtube.com/watch?v=gIKuID6p044)**
 
-ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
+Despite common sentiment suggesting Ethereum is declining, this video provides compelling proof that it remains one of the best ...
 
-📺 Bankless
+📺 Michaël van de Poppe
 
-👁️ 10K • 👍 336 • 💬 43 • ⏱️ 52:02 • 2d ago
-
----
-
-**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 23K • 👍 793 • 💬 258 • ⏱️ 19:42 • 1d ago
+👁️ 943 • 👍 12 • 💬 3 • ⏱️ 0:14 • 5h ago
 
 ---
 
