@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T19:17:20.271372+00:00'
+updated: '2026-01-11T19:38:15.973273+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 19:17 UTC  
+**Last Updated:** January 11, 2026 at 19:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -123,7 +123,7 @@ Now that Wall Street has entered the Bitcoin market, what—if any—structural 
 
 **[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
 
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 3h ago
 
 ---
 
@@ -357,7 +357,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 719 • 💬 82 • ⏱️ 24:05 • 22h ago
+👁️ 13K • 👍 719 • 💬 82 • ⏱️ 24:05 • 23h ago
 
 ---
 

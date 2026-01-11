@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T19:17:20.280746+00:00'
+updated: '2026-01-11T19:38:15.982697+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 19:17 UTC  
+**Last Updated:** January 11, 2026 at 19:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
-6h ago
+7h ago
 
 ---
 
@@ -52,13 +52,13 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-8h ago
+9h ago
 
 ---
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
 
-5h ago
+6h ago
 
 ---
 
@@ -82,7 +82,7 @@ I have recently been exploring robotic path planning and during my hands-on nume
 
 Hi everyone 👋 A while ago I shared CANgaroo, an open-source CAN / CAN-FD analyzer for Linux. Since then, based on real-world validation and community feedback, I’ve been actively maintaining and extending it, so I wanted to share a short update. What CANgaroo is CANgaroo is a Linux-native CAN bus analysis tool focused on everyday debugging and monitoring. The workflow is inspired by tools like BusMaster / PCAN-View, but it’s fully open-source and built around SocketCAN. It’s aimed at automotive, robotics, and industrial use cases. Key capabilities: Real-time CAN & CAN-FD capture Multi-DBC signal decoding Trace-view-focused workflow Signal graphing, filtering, and log export Hardware support: SocketCAN, CANable (SLCAN), Candlelight, CANblaster (UDP) Virtual CAN (vcan) support for testing without hardware 🆕 Recent Changes (v0.4.4) Some notable improvements since the previous post: Unified Protocol Decoding Intelligent prioritization between J1939 (29-bit) and UDS / ISO-TP (11-bit) with robust TP reassembly Enhanced J1939 Support Auto-labeling for common PGNs (e.g. VIN, EEC1) and reassembled BAM / CM messages Generator Improvements Global Stop halts all cyclic transmissions Generator loopback — transmitted frames now appear in the Trace View (TX) Stability & UI Responsiveness Safer state-management pattern replacing unstable signal blocking Improved trace-view reliability during live editing Overall, the focus is on stability, protocol correctness, and real-world debugging workflows, rather than experimental RE features. Source & releases: 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback and real-world use cases are very welcome — feature requests are best tracked via GitHub issues so they don’t get lost.
 
-5m ago
+26m ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone 👋 A while ago I shared CANgaroo, an open-source CAN / CAN-FD anal
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-20h ago
+21h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 Hey everyone 👋 I recently created a Discord server called Joy Robotics for anyone interested in robotics (beginners are welcome). The idea is to learn robotics step-by-step (ROS2, Arduino, ESP32, SLAM, AI) and collaborate on projects together. If you’re looking for a place to ask doubts, team up with others, and work on projects with people from different countries/time zones, feel free to join. Link: https://discord.gg/eEfgvX7weJ
 
-1h ago
+2h ago
 
 ---
 

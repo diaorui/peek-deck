@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T19:17:20.262418+00:00'
+updated: '2026-01-11T19:38:15.964622+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 19:17 UTC  
+**Last Updated:** January 11, 2026 at 19:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 : Poison Fountain project seeks allies to fight the power
 
-🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 32m ago
+🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 53m ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 12h ago
 
 These stocks are poised to deliver wealth-building returns.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Motley Fool • 8h ago
 
 Sometimes the best stocks are the most obvious ones.
 
-The Motley Fool • 43m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Motley Fool • 43m ago
 
 Can Bloom Energy's high-flying stock, fueled by generating onsite power for AI data centers, steer clear of bubble risks?
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ TechCrunch • 1h ago
 
 “I could have been at a border and put in jail,” the singer said.
 
-New York Post • 7m ago
+New York Post • 28m ago
 
 ---
 
@@ -209,7 +209,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 360 • 💬 524 • 8h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 360 • 💬 524 • 9h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -351,7 +351,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 41K • 👍 2K • 💬 205 • ⏱️ 35:41 • 15h ago
+👁️ 41K • 👍 2K • 💬 205 • ⏱️ 35:41 • 16h ago
 
 ---
 
@@ -637,7 +637,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 991 • 2h ago
+⭐ 7.9k • 🔱 991 • 3h ago
 
 ---
 
@@ -667,7 +667,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 222 • 5h ago
+⭐ 2.0k • 🔱 222 • 6h ago
 
 ---
 
