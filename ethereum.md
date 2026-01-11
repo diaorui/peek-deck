@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T05:49:02.623786+00:00'
+updated: '2026-01-11T06:34:34.723043+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 05:49 UTC  
+**Last Updated:** January 11, 2026 at 06:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,098.47
+### $3,093.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -3.9%  
-**30d:** -0.4%  
-**90d:** -24.9%  
-**1y:** -5.1%  
+**24h:** +0.1%  
+**7d:** -4.1%  
+**30d:** -0.6%  
+**90d:** -25.0%  
+**1y:** -5.3%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 11, 2026](https://www.reddit.com/r/ethereum/comments/1q9rmoy/daily_general_discussion_january_11_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+33m ago
+
+---
+
 **[Daily General Discussion January 10, 2026](https://www.reddit.com/r/ethereum/comments/1q8wbyo/daily_general_discussion_january_10_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +112,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -140,14 +148,6 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 ---
 
-**[something that bothered me about on-chain settlement semantics](https://www.reddit.com/r/ethereum/comments/1q7zfvc/something_that_bothered_me_about_onchain/)**
-
-this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ this might be a stupid idea, so I’m posting it here before I waste more time o
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 10h ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 20h ago
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 14h ago
 
 In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -198,11 +198,19 @@ The Block • 3d ago
 
 ---
 
+**[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
+
+The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
+
+The Motley Fool • 21h ago
+
+---
+
 **[Ethereum – Here are 3 reasons why ETH could hit $4.4K soon](https://ambcrypto.com/ethereum-here-are-3-reasons-why-eth-could-hit-4-4k-soon/)**
 
 Q1 2026 could turn out to be pretty interesting for the world's largest altcoin.
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -214,19 +222,9 @@ Coinpedia Fintech News • 1d ago
 
 ---
 
-**[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
+**[BitMine Stock Rips Open the New Year as Tom Lee Hammers a New $105 Million Stake into Ethereum](https://www.tipranks.com/news/bitmine-stock-rips-open-the-new-year-as-tom-lee-hammers-a-new-105-million-stake-into-ethereum)**
 
-The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
-
-The Motley Fool • 20h ago
-
----
-
-**[Ethereum To Drive Altcoin Season Again, But Is This Time Different? | Bitcoinist.com](https://bitcoinist.com/ethereum-to-drive-altseason/)**
-
-At the center of these observations is Ethereum, the leading altcoin, which has always led previous altcoin seasons.
-
-Bitcoinist.com • 1d ago
+TipRanks • 2d ago
 
 ---
 
@@ -240,7 +238,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 550 • 💬 53 • ⏱️ 24:05 • 9h ago
+👁️ 8K • 👍 550 • 💬 53 • ⏱️ 24:05 • 10h ago
 
 ---
 
@@ -250,7 +248,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 4K • 👍 153 • 💬 138 • ⏱️ 11:37 • 15h ago
+👁️ 4K • 👍 153 • 💬 138 • ⏱️ 11:37 • 16h ago
 
 ---
 
@@ -260,7 +258,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 232 • 💬 387 • ⏱️ 16:56 • 9h ago
+👁️ 6K • 👍 232 • 💬 387 • ⏱️ 16:56 • 10h ago
 
 ---
 
@@ -290,7 +288,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 528 • 👍 39 • 💬 69 • ⏱️ 6:18 • 12h ago
+👁️ 528 • 👍 39 • 💬 69 • ⏱️ 6:18 • 13h ago
 
 ---
 
@@ -320,7 +318,7 @@ Check out the legendary trading platform I use for my XRP UPHOLD right here U.S.
 
 📺 Crypto Sensei
 
-👁️ 3K • 👍 301 • 💬 26 • ⏱️ 11:35 • 2h ago
+👁️ 3K • 👍 301 • 💬 26 • ⏱️ 11:35 • 3h ago
 
 ---
 

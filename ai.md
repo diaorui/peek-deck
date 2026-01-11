@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T05:49:02.609134+00:00'
+updated: '2026-01-11T06:34:34.708153+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 05:49 UTC  
+**Last Updated:** January 11, 2026 at 06:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-11h ago
+12h ago
+
+---
+
+**[One-Minute Daily AI News 1/10/2026](https://www.reddit.com/r/artificial/comments/1q9rf5i/oneminute_daily_ai_news_1102026/)**
+
+Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
+
+44m ago
 
 ---
 
@@ -107,14 +115,6 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 ---
 
-**[Building adaptive routing logic in Go for an Open source LLM gateway - Bifrost](https://www.reddit.com/r/artificial/comments/1q8um17/building_adaptive_routing_logic_in_go_for_an_open/)**
-
-Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,13 +123,43 @@ Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/max
 
 Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
-**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
 
-Bloomberg.com • 15h ago
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
+
+blog.google • 2d ago
+
+---
+
+**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Women sue former Chula Vista employee, city for alleged AI pornographic images](https://www.nbcsandiego.com/news/local/women-sue-former-chula-vista-employee-city-for-alleged-ai-pornographic-images/3959261/)**
+
+Women sue former Chula Vista employee, city for alleged AI pornographic images
+
+NBC 7 San Diego • 16m ago
+
+---
+
+**[Watch Is AI-Made Music Taking Over?](https://www.bloomberg.com/news/videos/2026-01-11/is-ai-made-music-taking-over)**
+
+Bloomberg.com • 34m ago
+
+---
+
+**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://finance.yahoo.com/news/china-ai-leaders-warn-widening-140555407.html)**
+
+“A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
+
+Yahoo Finance • 16h ago
 
 ---
 
@@ -141,39 +171,15 @@ The Atlantic • 1d ago
 
 ---
 
-**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Indonesia blocks access to Musk’s AI chatbot Grok over deepfake images](https://www.aljazeera.com/news/2026/1/10/indonesia-blocks-access-to-musks-ai-chatbot-grok-over-deepfake-images)**
-
-Indonesian minister says deepfakes are a 'serious violation of human rights, dignity, and security of citizens' online.
-
-Al Jazeera • 15h ago
-
----
-
-**[David Lammy: JD Vance agrees that sexualised AI images on X are ‘unacceptable’](https://www.theguardian.com/us-news/2026/jan/10/ai-generated-sexualised-images-x-jd-vance-grok)**
-
-Exclusive: US vice-president ‘sympathetic’ to concerns over Grok-generated pornography, says deputy PM
-
-The Guardian • 12h ago
-
----
-
 **[Former Google, Apple Researchers Raising $50 Million for New Visual AI Startup](https://www.theinformation.com/articles/former-google-apple-researchers-raising-50-million-new-visual-ai-startup)**
 
 The Information • 10h ago
 
 ---
 
-**[Want to Buy Artificial Intelligence (AI) Stocks in 2026? These 2 Companies Could Net You Millions in Retirement.](https://www.fool.com/investing/2026/01/10/want-to-buy-artificial-intelligence-ai-stocks-2026/)**
+**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
 
-Nvidia isn't the only AI name that can help investors reach financial independence over the long term.
-
-The Motley Fool • 7h ago
+Reuters • 14h ago
 
 ---
 
@@ -181,13 +187,7 @@ The Motley Fool • 7h ago
 
 Decades of research have demonstrated the benefits of meditation.
 
-Time Magazine • 18h ago
-
----
-
-**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
-
-Reuters • 14h ago
+Time Magazine • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 598 • 💬 344 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 599 • 💬 344 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -231,7 +231,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 209 • 💬 225 • 12h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 221 • 💬 230 • 13h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -239,7 +239,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 161 • 💬 223 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 161 • 💬 224 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -253,7 +253,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 82 • 💬 55 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 83 • 💬 56 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -323,7 +323,7 @@ Artificial intelligence could eliminate millions of jobs within the next five ye
 
 📺 LBC
 
-👁️ 13K • 👍 246 • 💬 209 • ⏱️ 11:00 • 18h ago
+👁️ 13K • 👍 246 • 💬 209 • ⏱️ 11:00 • 19h ago
 
 ---
 
@@ -333,7 +333,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 31K • 👍 1K • 💬 141 • ⏱️ 14:39 • 15h ago
+👁️ 31K • 👍 1K • 💬 141 • ⏱️ 14:39 • 16h ago
 
 ---
 
@@ -343,7 +343,7 @@ How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course) GOOGLE DOC ..
 
 📺 Leo Ai
 
-👁️ 6K • 👍 472 • 💬 54 • ⏱️ 10:28 • 21h ago
+👁️ 6K • 👍 472 • 💬 54 • ⏱️ 10:28 • 22h ago
 
 ---
 
@@ -437,7 +437,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 10,162 • ❤️ 248 • 1d ago
+⬇️ 10,162 • ❤️ 248 • 2d ago
 
 ---
 
@@ -641,7 +641,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.6k • 🔱 932 • 59m ago
+⭐ 7.6k • 🔱 932 • 1h ago
 
 ---
 
@@ -731,7 +731,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 124 • 8h ago
+⭐ 1.0k • 🔱 124 • 9h ago
 
 ---
 

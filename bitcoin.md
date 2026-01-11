@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T05:49:02.617808+00:00'
+updated: '2026-01-11T06:34:34.716964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 05:49 UTC  
+**Last Updated:** January 11, 2026 at 06:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,781.58
+### $90,775.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
+**24h:** +0.2%  
 **7d:** -3.5%  
 **30d:** +0.6%  
 **90d:** -19.7%  
-**1y:** -3.8%  
+**1y:** -3.9%  
 
 ---
 
@@ -93,7 +93,21 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-15h ago
+16h ago
+
+---
+
+**[BTC Accumulation Zone](https://www.reddit.com/r/Bitcoin/comments/1q9q8uz/btc_accumulation_zone/)**
+
+Ik people don’t want Bitcoin to go down, but that often leads to the best opportunities. I plan on buying a whole coin at these levels.
+
+1h ago
+
+---
+
+**[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
+
+14h ago
 
 ---
 
@@ -101,13 +115,15 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-12h ago
+13h ago
 
 ---
 
-**[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
+**[Sometimes we live no particular way but our own. RIP Bobby](https://www.reddit.com/r/Bitcoin/comments/1q9psav/sometimes_we_live_no_particular_way_but_our_own/)**
 
-13h ago
+Bob Weir 10/16/47-1/10/26
+
+2h ago
 
 ---
 
@@ -119,31 +135,15 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-16h ago
+17h ago
 
 ---
 
-**[Sometimes we live no particular way but our own. RIP Bobby](https://www.reddit.com/r/Bitcoin/comments/1q9psav/sometimes_we_live_no_particular_way_but_our_own/)**
+**[Macro BTC Analysis & Discussion](https://www.reddit.com/r/Bitcoin/comments/1q9m94u/macro_btc_analysis_discussion/)**
 
-Bob Weir 10/16/47-1/10/26
+--- TL;DR: My thoughts are that BTC is not currently in a confirmed bear market. From a macro, monthly structure perspective, as long as ~74k holds on a monthly close, the higher-timeframe bull structure remains intact. At the same time, monthly volatility has been compressed for over a year, suggesting a meaningful expansion phase is more likely sooner rather than later. Direction isn’t guaranteed — but structure still favours continuation unless that higher low breaks. --- I want to share this chart as a way of thinking about Bitcoin in terms of macro structure, rather than narratives or rigid cycle assumptions. This is a long-term Fibonacci extension drawn using major historical pivots: the early BTC genesis low (2009–2010), the 2017 cycle high, and the 2018 bear-market low. Volatility, represented by Caretaker’s BBWP indicator (Bollinger Band Width Percentile, length 13, lookback 252), is at the bottom. The goal here isn’t strict prediction (although it kind of is) — it’s to map out higher-timeframe structure. What stands out to me is how closely the current market is respecting these levels. The 4.236 extension around ~87k lines up almost perfectly with BTC’s most recent support zone, while the 3.618 extension around ~74k aligns with the current monthly higher low. For me, that ~74k level is the key structural line in the sand. As long as BTC holds above it on a monthly closing basis, higher-timeframe structure and trend remains intact with higher-highs and higher-lows. A clean monthly close below that level, followed by a failed reclaim, would be my signal that a true bear-market regime is likely. Above current price, the higher Fibonacci extensions — roughly the 6.854 and 10.618 levels — cluster in the high-100k to low-200k range. These aren’t targets so much as zones where long-term extensions naturally converge if the current structure continues to resolve upward. The box labeled “EOY 2026 / Early 2027” is a structural zone with a bit of honest hopium, not a call for an exact top. One additional piece that makes this setup interesting to me is volatility. On the monthly timeframe, volatility as measured by the BBWP has been in an extreme compression regime (<20) for over a year now — one of the longest such periods in BTC’s history. With the settings above, Bitcoin has only experienced such a compression for longer than 17 months once in history, and it’s currently on month 15. So historically, volatility compressions on higher timeframes don't persist indefinitely and tend to resolve with expansion. That alone doesn’t tell us direction, but it does suggest the current range is unlikely to last much longer. If past behaviour is any guide, this points to a meaningful expansion phase occurring potentially within 3-6 months. If the ~74k level continues to hold on a monthly basis and momentum can flip back to the upside, then interaction with the next higher fib levels becomes increasingly plausible. One last note on the BBWP, each 'bull run' in the past has seen a BBWP of >50, which we have not yet seen for the current run. This chart is meant as a framework, not a call for tops or bottoms. It’s about identifying where structure breaks versus where it remains valid. As long as the monthly higher low around ~74k holds, I find it difficult to justify strong bear-market conviction purely from a structural standpoint until that level breaks on a monthly close. I’m posting this to get other perspectives, especially from people who focus on higher-timeframe structure rather than cycle timing or short-term indicators. If you see flaws in the anchoring, interpretation, or assumptions here, I’d genuinely like to hear them. --- Honest Disclaimer: AI helped turn scattered thoughts into readable English. The ideas (and any bad takes) are still very much my own. ---
 
-1h ago
-
----
-
-**[Bitcoin recurring buys](https://www.reddit.com/r/Bitcoin/comments/1q9c3yx/bitcoin_recurring_buys/)**
-
-Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
-
-10h ago
-
----
-
-**[VanEck: small Bitcoin allocation could boost portfolio returns](https://www.reddit.com/r/Bitcoin/comments/1q95l2m/vaneck_small_bitcoin_allocation_could_boost/)**
-
-VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
-
-15h ago
+4h ago
 
 ---
 
@@ -159,6 +159,20 @@ CNBC • 1d ago
 
 ---
 
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
+
+The Block • 14h ago
+
+---
+
+**[Bitcoin price falls as BlackRock and Fidelity ETFs see heavy outflows](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-blackrock-fidelity-etfs-outflows-104916054.html)**
+
+Bitcoin price retreated from recent highs on Thursday as institutional investors locked in profits after a strong start to the year.
+
+Yahoo Finance UK • 2d ago
+
+---
+
 **[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
 
 There's a major pitfall coming up that'll need to be avoided.
@@ -167,33 +181,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
-
-What we know about the South American country’s crypto holdings.
-
-Fortune • 1d ago
-
----
-
 **[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
 CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters](https://bitcoinmagazine.com/markets/bitcoin-price-holds-90000-tariff-delay)**
-
-The bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertainty and kept crypto markets relatively stable.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -207,7 +199,7 @@ The Block • 2d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -216,6 +208,14 @@ Yahoo Finance • 8h ago
 Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
+
+Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 433 • ⏱️ 17:17 • 7h ago
+👁️ 12K • 👍 1K • 💬 433 • ⏱️ 17:17 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 15h ago
+👁️ 40K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 16h ago
 
 ---
 
