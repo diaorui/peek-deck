@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T08:51:51.413892+00:00'
+updated: '2026-01-11T09:22:31.756807+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 08:51 UTC  
+**Last Updated:** January 11, 2026 at 09:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1809.25B
+**Market Cap:** $1810.78B
 Rank #1
 
-**Circulating Supply:** 19,974,365 BTC
+**Circulating Supply:** 19,974,443 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.1%
 
 **All-Time Low:** $67.81
-+133461.4%
++133622.2%
 
 ---
 
@@ -101,13 +101,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -115,7 +115,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-15h ago
+16h ago
 
 ---
 
@@ -127,7 +127,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 1d ago
 
 Bitcoin’s mining difficulty edged lower in the network’s first difficulty adjustment of 2026, offering a brief reprieve for miners after a year marked by intense competition and shrinking margins. Key Takeaways: Bitcoin mining difficulty dipped slightly in the first adjustment of 2026. Faster block times point to a difficulty increase ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -217,7 +217,7 @@ CoinDesk • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD whales are “aggressively” reducing long exposure as a classic bull signal reappears.Key points:Bitcoin whales trigger six-figure BTC price targetData from TradingView reveals that whale long positions have started dropping after hitting a peak of 73,000 BTC in late December…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 411 • ⏱️ 17:17 • 10h ago
+👁️ 17K • 👍 1K • 💬 441 • ⏱️ 17:17 • 11h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 7K • 👍 442 • 💬 278 • ⏱️ 3:25 • 1d ago
+👁️ 8K • 👍 448 • 💬 281 • ⏱️ 3:25 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 18K • 👍 1K • 💬 398 • ⏱️ 10:43 • 1d ago
+👁️ 19K • 👍 1K • 💬 563 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -347,27 +347,17 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 376 • ⏱️ 9:19 • 1d ago
+👁️ 56K • 👍 3K • 💬 528 • ⏱️ 9:19 • 1d ago
 
 ---
 
-**[The AI Shock Is About to Reprice Bitcoin](https://www.youtube.com/watch?v=S-K-GTIIJfw)**
+**[This New Crypto Legislation Could Reshape the Entire Market](https://www.youtube.com/watch?v=NOP2UwV0hFw)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of experience and the author of the VisserLabs ...
+The new crypto rules coming this week? Could this change crypto forever? We have important updates on the regulatory front in ...
 
-📺 Anthony Pompliano
+📺 Zach Humphries
 
-👁️ 43K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 18h ago
-
----
-
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
-
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
-
-📺 Paul Barron Network
-
-👁️ 73K • 👍 3K • 💬 369 • ⏱️ 16:13 • 2d ago
+👁️ 1K • 👍 103 • 💬 75 • ⏱️ 5:41 • 17h ago
 
 ---
 
@@ -381,33 +371,43 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 ---
 
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+
+📺 Paul Barron Network
+
+👁️ 73K • 👍 3K • 💬 374 • ⏱️ 16:13 • 2d ago
+
+---
+
 **[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
 
 Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 254 • ⏱️ 17:07 • 1d ago
+👁️ 25K • 👍 2K • 💬 277 • ⏱️ 17:07 • 1d ago
 
 ---
 
-**[This New Crypto Legislation Could Reshape the Entire Market](https://www.youtube.com/watch?v=NOP2UwV0hFw)**
+**[BITCOIN HISTORY REPEATING!!!!!](https://www.youtube.com/watch?v=ZF-9JbPgapY)**
 
-The new crypto rules coming this week? Could this change crypto forever? We have important updates on the regulatory front in ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
 
-📺 Zach Humphries
+📺 Crypto Rover
 
-👁️ 1K • 👍 101 • 💬 75 • ⏱️ 5:41 • 16h ago
+👁️ 2K • 👍 222 • 💬 41 • ⏱️ 8:12 • 3h ago
 
 ---
 
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+**[CRYPTO “SuperCycle Incoming” (This Isn’t Random)](https://www.youtube.com/watch?v=b3MV_cmsChk)**
 
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Subscribe to my Macro Thesis ...
 
-📺 Vortex Bitcoin
+📺 Dan Gambardello
 
-👁️ 19K • 👍 297 • 💬 189 • ⏱️ 0:49 • 1d ago
+👁️ 17K • 👍 1K • 💬 633 • ⏱️ 11:48 • 14h ago
 
 ---
 

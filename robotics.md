@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T08:51:51.423104+00:00'
+updated: '2026-01-11T09:22:31.766109+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 08:51 UTC  
+**Last Updated:** January 11, 2026 at 09:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an envi
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-21h ago
+22h ago
 
 ---
 
@@ -148,7 +148,7 @@ WYMT • 1d ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
@@ -180,7 +180,7 @@ Fortune • 2d ago
 
 Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
-The Verge • 17h ago
+The Verge • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 264K • 👍 4K • 💬 606 • ⏱️ 4:29 • 3d ago
+👁️ 267K • 👍 4K • 💬 612 • ⏱️ 4:29 • 3d ago
 
 ---
 
@@ -204,17 +204,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 64K • 👍 2K • ⏱️ 56:16 • 16h ago
-
----
-
-**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
-
-This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 54K • 👍 1K • 💬 150 • ⏱️ 3:13 • 15h ago
+👁️ 65K • 👍 2K • ⏱️ 56:16 • 16h ago
 
 ---
 
@@ -224,7 +214,17 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 6K • 👍 342 • 💬 29 • ⏱️ 9:28 • 13h ago
+👁️ 6K • 👍 353 • 💬 29 • ⏱️ 9:28 • 14h ago
+
+---
+
+**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
+
+This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 56K • 👍 1K • 💬 152 • ⏱️ 3:13 • 15h ago
 
 ---
 
@@ -234,7 +234,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 50K • 👍 445 • 💬 39 • ⏱️ 11:13 • 4d ago
+👁️ 51K • 👍 448 • 💬 39 • ⏱️ 11:13 • 4d ago
 
 ---
 
@@ -244,7 +244,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 41K • 👍 613 • 💬 93 • ⏱️ 10:48 • 17h ago
+👁️ 44K • 👍 644 • 💬 98 • ⏱️ 10:48 • 18h ago
 
 ---
 
@@ -278,13 +278,13 @@ Have you exercised today? How about training together with a robot? Please use r
 
 ---
 
-**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
+**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
 
-LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
+Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
 
-📺 WION
+📺 AI Revolution
 
-👁️ 5K • 👍 21 • 💬 13 • ⏱️ 1:15 • 4d ago
+👁️ 65K • 👍 1K • 💬 239 • ⏱️ 9:33 • 4d ago
 
 ---
 

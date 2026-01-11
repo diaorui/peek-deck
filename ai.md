@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T08:51:51.405404+00:00'
+updated: '2026-01-11T09:22:31.748351+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 08:51 UTC  
+**Last Updated:** January 11, 2026 at 09:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 1h ago
 
 Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 20h ago
 
 “A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Information • 13h ago
 
 Decades of research have demonstrated the benefits of meditation.
 
-Time Magazine • 21h ago
+Time Magazine • 22h ago
 
 ---
 
@@ -181,7 +181,7 @@ MarketWatch • 20h ago
 
 **[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -231,7 +231,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 238 • 💬 246 • 15h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 238 • 💬 246 • 16h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -277,13 +277,13 @@ Since 2023, every model at the frontier of AI capabilities, as measured by the E
 
 ## YouTube Videos: "ai"
 
-**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
+**[I Asked AI If It Supports the Operation in Venezuela. And Here’s What It Said](https://www.youtube.com/watch?v=BLLa0DblYaE)**
 
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
+In this video, I ask AI what it thinks about the U.S. military operation in Venezuela, the real reason behind the capture of Nicolas ...
 
-📺 Dan Martell
+📺 I Ask AI
 
-👁️ 65K • 👍 3K • 💬 282 • ⏱️ 19:15 • 1d ago
+👁️ 5K • 👍 1K • 💬 143 • ⏱️ 14:02 • 11h ago
 
 ---
 
@@ -293,27 +293,17 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 94K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
+👁️ 95K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
 
 ---
 
-**[How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course)](https://www.youtube.com/watch?v=fAJGnI4qVVc)**
+**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
 
-How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course) GOOGLE DOC ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
 
-📺 Leo Ai
+📺 Dan Martell
 
-👁️ 7K • 👍 525 • 💬 58 • ⏱️ 10:28 • 1d ago
-
----
-
-**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
-
-Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
-
-📺 LBC
-
-👁️ 13K • 👍 252 • 💬 220 • ⏱️ 11:00 • 21h ago
+👁️ 68K • 👍 4K • 💬 284 • ⏱️ 19:15 • 1d ago
 
 ---
 
@@ -323,37 +313,27 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 35K • 👍 1K • 💬 147 • ⏱️ 14:39 • 18h ago
+👁️ 37K • 👍 2K • 💬 152 • ⏱️ 14:39 • 19h ago
 
 ---
 
-**[Nvidia&#39;s Jensen Huang on an AI Bubble, Trump, and the Arms Race with China](https://www.youtube.com/watch?v=s4haopj2XeA)**
+**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
 
-00:00 Intro 00:48 AI Bubble 03:30 Working with President Trump 05:17 AI Arms Race with China 13:13 Taiwan's Future 18:02 ...
+Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
 
-📺 TIME
+📺 LBC
 
-👁️ 70K • 👍 2K • 💬 311 • ⏱️ 24:32 • 1d ago
-
----
-
-**[Google&#39;s Gmail unveils new AI features powered by Gemini](https://www.youtube.com/watch?v=nzlFoQmMSBk)**
-
-CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
-
-📺 CNBC Television
-
-👁️ 26K • 👍 233 • 💬 32 • ⏱️ 3:43 • 2d ago
+👁️ 14K • 👍 266 • 💬 228 • ⏱️ 11:00 • 22h ago
 
 ---
 
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
+**[How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course)](https://www.youtube.com/watch?v=fAJGnI4qVVc)**
 
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
+How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course) GOOGLE DOC ...
 
-📺 MoreBeckBros
+📺 Leo Ai
 
-👁️ 179K • 👍 8K • 💬 656 • ⏱️ 26:17 • 1d ago
+👁️ 8K • 👍 557 • 💬 62 • ⏱️ 10:28 • 1d ago
 
 ---
 
@@ -363,17 +343,37 @@ I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISIO
 
 📺 Malva AI
 
-👁️ 18K • 👍 1K • 💬 289 • ⏱️ 10:24 • 2d ago
+👁️ 18K • 👍 1K • 💬 290 • ⏱️ 10:24 • 2d ago
 
 ---
 
-**[What You Absolutely NEED to Know About AI in 2026](https://www.youtube.com/watch?v=K0UwutA4utA)**
+**[Nvidia&#39;s Jensen Huang on an AI Bubble, Trump, and the Arms Race with China](https://www.youtube.com/watch?v=s4haopj2XeA)**
 
-Subscribe to stay up to date with AI in 2026! This week in AI was mostly filled with announcements about things coming in 2026, ...
+00:00 Intro 00:48 AI Bubble 03:30 Working with President Trump 05:17 AI Arms Race with China 13:13 Taiwan's Future 18:02 ...
 
-📺 The AI Advantage
+📺 TIME
 
-👁️ 8K • 👍 345 • 💬 26 • ⏱️ 15:26 • 1d ago
+👁️ 73K • 👍 2K • 💬 318 • ⏱️ 24:32 • 1d ago
+
+---
+
+**[Google&#39;s Gmail unveils new AI features powered by Gemini](https://www.youtube.com/watch?v=nzlFoQmMSBk)**
+
+CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
+
+📺 CNBC Television
+
+👁️ 27K • 👍 238 • 💬 32 • ⏱️ 3:43 • 2d ago
+
+---
+
+**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
+
+Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
+
+📺 Matthew Berman
+
+👁️ 38K • 👍 1K • 💬 84 • ⏱️ 14:35 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 496,524 • ❤️ 760 • 3d ago
+⬇️ 629,855 • ❤️ 767 • 3d ago
 
 ---
 
@@ -401,7 +401,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,056 • ❤️ 707 • 10d ago
+⬇️ 9,771 • ❤️ 709 • 10d ago
 
 ---
 
@@ -413,7 +413,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 10,290 • ❤️ 374 • 3d ago
+⬇️ 16,027 • ❤️ 384 • 3d ago
 
 ---
 
@@ -425,7 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,862 • ❤️ 277 • 5d ago
+⬇️ 2,257 • ❤️ 278 • 5d ago
 
 ---
 
@@ -437,7 +437,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 10,162 • ❤️ 253 • 2d ago
+⬇️ 11,562 • ❤️ 255 • 2d ago
 
 ---
 
@@ -449,7 +449,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,349 • ❤️ 337 • 5d ago
+⬇️ 30,522 • ❤️ 339 • 5d ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 21,700 • ❤️ 563 • 10d ago
+⬇️ 23,403 • ❤️ 563 • 10d ago
 
 ---
 
@@ -473,7 +473,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 205,738 • ❤️ 1,000 • 14d ago
+⬇️ 207,986 • ❤️ 1,003 • 14d ago
 
 ---
 
@@ -485,7 +485,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 497 • ❤️ 200 • 5d ago
+⬇️ 586 • ❤️ 201 • 5d ago
 
 ---
 
@@ -497,7 +497,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 `text-generation` `235.1B`
 
-⬇️ 1,073 • ❤️ 200 • 4d ago
+⬇️ 1,354 • ❤️ 200 • 4d ago
 
 ---
 
@@ -523,7 +523,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 86 • 💬 1 • ⭐ 1,932 • 4d ago
+▲ 87 • 💬 1 • ⭐ 1,932 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -581,20 +581,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
-
-*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
-
-🏢 Microsoft Research
-
-BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
-
-▲ 57 • 💬 5 • ⭐ 25,633 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
-
----
-
 **[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
 *Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
@@ -616,6 +602,20 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 ▲ 81 • 💬 2 • ⭐ 25,640 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
+**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
+
+*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
+
+🏢 Microsoft Research
+
+BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
+
+▲ 57 • 💬 5 • ⭐ 25,640 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -641,7 +641,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.7k • 🔱 937 • 4h ago
+⭐ 7.7k • 🔱 953 • 4h ago
 
 ---
 
@@ -651,7 +651,17 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 132 • 18h ago
+⭐ 2.2k • 🔱 134 • 33m ago
+
+---
+
+**[snarktank/ralph](https://github.com/snarktank/ralph)**
+
+Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
+`TypeScript`
+
+⭐ 2.0k • 🔱 302 • 3d ago
 
 ---
 
@@ -665,33 +675,13 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 ---
 
-**[snarktank/ralph](https://github.com/snarktank/ralph)**
-
-Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
-
-`TypeScript`
-
-⭐ 1.9k • 🔱 294 • 3d ago
-
----
-
 **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
 
 从 0 到 1 学会 vibe coding，项目制学习
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 115 • 18h ago
-
----
-
-**[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)**
-
-Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
-
-`TypeScript`
-
-⭐ 1.3k • 🔱 106 • 1d ago
+⭐ 1.4k • 🔱 116 • 18h ago
 
 ---
 
@@ -702,6 +692,16 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 `PowerShell`
 
 ⭐ 1.3k • 🔱 71 • 18d ago
+
+---
+
+**[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)**
+
+Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
+
+`TypeScript`
+
+⭐ 1.3k • 🔱 108 • 1d ago
 
 ---
 
@@ -721,7 +721,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.1k • 🔱 82 • 12d ago
+⭐ 1.1k • 🔱 83 • 12d ago
 
 ---
 
@@ -731,7 +731,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 126 • 1h ago
+⭐ 1.0k • 🔱 126 • 2h ago
 
 ---
 
