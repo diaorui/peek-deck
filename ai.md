@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T10:22:58.660788+00:00'
+updated: '2026-01-11T10:45:39.153012+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 10:22 UTC  
+**Last Updated:** January 11, 2026 at 10:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -123,7 +123,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-The Guardian • 40m ago
+The Guardian • 1h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 22h ago
 
 **[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
 
-The New York Times • 21m ago
+The New York Times • 44m ago
 
 ---
 
@@ -173,7 +173,7 @@ Time Magazine • 23h ago
 
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T10:22:58.678774+00:00'
+updated: '2026-01-11T10:45:39.170660+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 10:22 UTC  
+**Last Updated:** January 11, 2026 at 10:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
 
-15m ago
+37m ago
 
 ---
 
@@ -66,7 +66,7 @@ I have recently been exploring robotic path planning and during my hands-on nume
 
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
-9h ago
+10h ago
 
 ---
 
@@ -88,13 +88,13 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-1m ago
+24m ago
 
 ---
 
 **[The $20K Humanoid Robot That Can’t Fold Your Laundry (Yet)...](https://www.reddit.com/r/robotics/comments/1q9vro9/the_20k_humanoid_robot_that_cant_fold_your/)**
 
-🔗 [cvisiona.com](https://cvisiona.com/the-20k-humanoid-robot-that-cant-fold-your-laundry-yet/) • 15m ago
+🔗 [cvisiona.com](https://cvisiona.com/the-20k-humanoid-robot-that-cant-fold-your-laundry-yet/) • 38m ago
 
 ---
 
@@ -112,7 +112,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
-Engadget • 18h ago
+Engadget • 19h ago
 
 ---
 
@@ -206,7 +206,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 65K • 👍 2K • ⏱️ 56:16 • 17h ago
+👁️ 65K • 👍 2K • ⏱️ 56:16 • 18h ago
 
 ---
 
@@ -226,7 +226,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 56K • 👍 1K • 💬 152 • ⏱️ 3:13 • 16h ago
+👁️ 56K • 👍 1K • 💬 152 • ⏱️ 3:13 • 17h ago
 
 ---
 
