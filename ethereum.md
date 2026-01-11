@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T06:34:34.723043+00:00'
+updated: '2026-01-11T07:21:49.519267+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 06:34 UTC  
+**Last Updated:** January 11, 2026 at 07:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.14B
+**Market Cap:** $373.15B
 Rank #2
 
 **Circulating Supply:** 120,694,727 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.5%
 
 **All-Time Low:** $0.43
-+713992.4%
++713839.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-33m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Crypto started as a cypherpunk project, but somewhere along the way, privacy got
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 21h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 22h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Motley Fool • 21h ago
 
 Q1 2026 could turn out to be pretty interesting for the world's largest altcoin.
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 8K • 👍 550 • 💬 53 • ⏱️ 24:05 • 10h ago
+👁️ 10K • 👍 595 • 💬 57 • ⏱️ 24:05 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 4K • 👍 153 • 💬 138 • ⏱️ 11:37 • 16h ago
+👁️ 4K • 👍 161 • 💬 138 • ⏱️ 11:37 • 17h ago
 
 ---
 
@@ -258,17 +258,27 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 232 • 💬 387 • ⏱️ 16:56 • 10h ago
+👁️ 7K • 👍 240 • 💬 378 • ⏱️ 16:56 • 11h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=d_hUTnG1bKs)**
+**[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+1️⃣ *Join Moe's Discord Code WEALTH save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 More Crypto Online
+📺 Stock Moe
 
-👁️ 2K • 👍 102 • 💬 12 • ⏱️ 5:05 • 13h ago
+👁️ 15K • 👍 910 • 💬 101 • ⏱️ 12:30 • 1d ago
+
+---
+
+**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 20K • 👍 720 • 💬 219 • ⏱️ 19:42 • 16h ago
 
 ---
 
@@ -282,23 +292,13 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 ---
 
-**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=d_hUTnG1bKs)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 C-Zar Gets Crypto 
+📺 More Crypto Online
 
-👁️ 528 • 👍 39 • 💬 69 • ⏱️ 6:18 • 13h ago
-
----
-
-**[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
-
-1️⃣ *Join Moe's Discord Code WEALTH save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 15K • 👍 907 • 💬 101 • ⏱️ 12:30 • 1d ago
+👁️ 2K • 👍 105 • 💬 12 • ⏱️ 5:05 • 14h ago
 
 ---
 
@@ -308,7 +308,17 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 10K • 👍 517 • 💬 76 • ⏱️ 15:28 • 1d ago
+👁️ 10K • 👍 534 • 💬 77 • ⏱️ 15:28 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 630 • 👍 40 • 💬 75 • ⏱️ 6:18 • 13h ago
 
 ---
 
@@ -318,17 +328,7 @@ Check out the legendary trading platform I use for my XRP UPHOLD right here U.S.
 
 📺 Crypto Sensei
 
-👁️ 3K • 👍 301 • 💬 26 • ⏱️ 11:35 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-gcev5s6aPI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 113 • 💬 8 • ⏱️ 5:13 • 1d ago
+👁️ 7K • 👍 482 • 💬 45 • ⏱️ 11:35 • 4h ago
 
 ---
 
