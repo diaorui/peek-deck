@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T18:31:04.102085+00:00'
+updated: '2026-01-11T19:17:20.277503+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 18:31 UTC  
+**Last Updated:** January 11, 2026 at 19:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,122.96
+### $3,126.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** -3.2%  
-**30d:** +0.3%  
-**90d:** -24.4%  
-**1y:** -4.5%  
+**24h:** +1.5%  
+**7d:** -2.7%  
+**30d:** +0.8%  
+**90d:** -24.0%  
+**1y:** -4.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -156,7 +156,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -168,19 +168,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-132031914.html)**
+**[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
 
-The Ethereum co-founder argues that price benchmarks, oracle security and staking incentives remain unresolved challenges for decentralized stablecoins.
+Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum sentiment mirrors levels seen before ‘major run’: Santiment](https://www.tradingview.com/news/cointelegraph:c651bda89094b:0-ethereum-sentiment-mirrors-levels-seen-before-major-run-santiment/)**
+**[Ethereum’s Inverted Chart May Be Setting Up Its Next Major Move: New ATH Soon?](https://www.tradingview.com/news/newsbtc:210e704de094b:0-ethereum-s-inverted-chart-may-be-setting-up-its-next-major-move-new-ath-soon/)**
 
-Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
+Ethereum’s price action has spent an unusually long time moving sideways, and this behavior has tested the patience of many long-term bullish investors. When speaking of sideways movement, this movement has dragged on for many months, although Ethereum did manage to make a new all-time high in 2025…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 2d ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Motley Fool • 8h ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -212,15 +212,7 @@ AMBCrypto • 7h ago
 
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 1d ago
-
----
-
-**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says)**
-
-EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
-
-CoinDesk • 5h ago
+Coinpedia Fintech News • 2d ago
 
 ---
 
@@ -229,6 +221,14 @@ CoinDesk • 5h ago
 Bitcoin is holding above $90,000 amid a solid U.S. jobs data release on Friday.
 
 Benzinga • 1d ago
+
+---
+
+**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says)**
+
+EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
+
+CoinDesk • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 164 • 💬 37 • ⏱️ 12:34 • 9h ago
+👁️ 2K • 👍 164 • 💬 37 • ⏱️ 12:34 • 10h ago
 
 ---
 
@@ -262,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 810 • 👍 93 • 💬 6 • ⏱️ 5:19 • 2h ago
+👁️ 810 • 👍 93 • 💬 6 • ⏱️ 5:19 • 3h ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 290 • 👍 24 • 💬 10 • ⏱️ 5:22 • 4h ago
+👁️ 290 • 👍 24 • 💬 10 • ⏱️ 5:22 • 5h ago
 
 ---
 
@@ -282,7 +282,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 12h ago
+👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 13h ago
 
 ---
 
@@ -292,7 +292,7 @@ Join our Safe and Private Discord Community → Daily analysis requests, Elliott
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 56 • 👍 9 • 💬 1 • ⏱️ 14:10 • 1h ago
+👁️ 56 • 👍 9 • 💬 1 • ⏱️ 14:10 • 2h ago
 
 ---
 
@@ -302,7 +302,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 278 • 💬 1K • ⏱️ 16:56 • 22h ago
+👁️ 9K • 👍 278 • 💬 1K • ⏱️ 16:56 • 23h ago
 
 ---
 

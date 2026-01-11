@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T18:31:04.096888+00:00'
+updated: '2026-01-11T19:17:20.271372+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 18:31 UTC  
+**Last Updated:** January 11, 2026 at 19:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,818.00
+### $90,910.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -3.1%  
-**30d:** +1.0%  
-**90d:** -19.3%  
-**1y:** -3.4%  
+**24h:** +0.5%  
+**7d:** -3.2%  
+**30d:** +0.9%  
+**90d:** -19.4%  
+**1y:** -3.6%  
 
 ---
 
@@ -79,19 +79,27 @@ Rank #1
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-5h ago
+6h ago
 
 ---
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-6h ago
+7h ago
 
 ---
 
-**[Wall street and bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa4nfi/wall_street_and_bitcoin/)**
+**[$500 buy $500 Buy now worth $2884](https://www.reddit.com/r/Bitcoin/comments/1qa4ww3/500_buy_500_buy_now_worth_2884/)**
 
-Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
+Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
+
+2h ago
+
+---
+
+**[Running Bitcoin: The Tweet That Started It All](https://www.reddit.com/r/Bitcoin/comments/1qa60o4/running_bitcoin_the_tweet_that_started_it_all/)**
+
+On January 11, 2009, Hal Finney, a pioneering cypherpunk and the first recipient of a real Bitcoin transaction, posted a historic tweet with just two words: “Running bitcoin.” With that simple message, he announced that he had Satoshi Nakamoto’s software up and running on his computer, becoming the first active node outside the creator and marking the true public birth of the Bitcoin network just days after the genesis block. That modest action proved the concept worked, enabled the first real transactions, and laid the foundation for the decentralized financial revolution that today moves trillions around the world. Thank you, Hal! Your node continues to inspire the entire world.
 
 1h ago
 
@@ -101,15 +109,21 @@ Now that Wall Street has entered the Bitcoin market, what—if any—structural 
 
 Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
 
-5h ago
+6h ago
 
 ---
 
-**[$500 buy $500 Buy now worth $2884](https://www.reddit.com/r/Bitcoin/comments/1qa4ww3/500_buy_500_buy_now_worth_2884/)**
+**[Wall street and bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa4nfi/wall_street_and_bitcoin/)**
 
-Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
+Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
 
-1h ago
+2h ago
+
+---
+
+**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
+
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 2h ago
 
 ---
 
@@ -121,31 +135,17 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 ---
 
-**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
-
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 1h ago
-
----
-
 **[How do leveraged positions affect Bitcoin’s volatility?](https://www.reddit.com/r/Bitcoin/comments/1q9zq75/how_do_leveraged_positions_affect_bitcoins/)**
 
 I’ve been reading more about how leverage and derivatives interact with Bitcoin’s price, especially during periods of higher volatility. It seems like large clusters of leveraged positions can sometimes amplify moves when the market becomes unstable. Rather than focusing on short-term price action, I’m curious how people here think about the role of leverage in Bitcoin markets overall. Do you see it as something that adds useful liquidity, or does it mostly increase volatility and risk compared to Bitcoin’s original design? Interested in hearing different perspectives on how this affects the broader ecosystem.
 
-4h ago
+5h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
 1d ago
-
----
-
-**[Daily Discussion, January 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1q9rnwr/daily_discussion_january_11_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-12h ago
 
 ---
 
@@ -159,9 +159,11 @@ The Block • 1d ago
 
 ---
 
-**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
+**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
 
-The Block • 2d ago
+Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
+
+CryptoSlate • 10h ago
 
 ---
 
@@ -185,15 +187,7 @@ The Motley Fool • 1d ago
 
 Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin miner moves $181 million, as expert speaks of ‘key inflection point’](https://www.dlnews.com/articles/markets/bitcoin-miner-moves-181-million/)**
-
-Miner active in the days of Bitcoin founder Satoshi Nakamoto, says expert. Two early “Bitcoin whales” moved coins worth $181 million late last year. VanEck predicts big Bitcoin price rises by 2050.
-
-dlnews.com • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -205,19 +199,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
+**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
-
-CoinDesk • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitfinex whales dump BTC longs as $135K Bitcoin price target reemerges](https://www.tradingview.com/news/cointelegraph:987b83463094b:0-bitfinex-whales-dump-btc-longs-as-135k-bitcoin-price-target-reemerges/)**
+**[Bitcoin Price Compresses Below $94K, But Possible Repeat Of 2025 Breakout Looms](https://www.tradingview.com/news/newsbtc:b2f676144094b:0-bitcoin-price-compresses-below-94k-but-possible-repeat-of-2025-breakout-looms/)**
 
-Bitcoin BITSTAMP:BTCUSD whales are “aggressively” reducing long exposure as a classic bull signal reappears.Key points:Bitcoin whales trigger six-figure BTC price targetData from TradingView reveals that whale long positions have started dropping after hitting a peak of 73,000 BTC in late December…
+After retreating from late-2025 highs, Bitcoin has spent much of recent trading days fluctuating between the mid-$80,000s and low-$90,000s, with buyers consistently stepping in on dips and sellers defending the same resistance level.Interestingly, this technical setup resembles the structure Bitcoi…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -226,6 +218,14 @@ TradingView — Track All Markets • 1d ago
 What we know about the South American country’s crypto holdings.
 
 Fortune • 2d ago
+
+---
+
+**[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
+
+Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
+
+Bitbo • 12h ago
 
 ---
 
@@ -303,7 +303,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
-⬆️ 2 • 💬 0 • 5d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 2 • 💬 0 • 6d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 563 • ⏱️ 17:17 • 20h ago
+👁️ 24K • 👍 2K • 💬 563 • ⏱️ 17:17 • 21h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 582 • 💬 161 • ⏱️ 1:01:22 • 4h ago
+👁️ 9K • 👍 582 • 💬 161 • ⏱️ 1:01:22 • 5h ago
 
 ---
 
@@ -397,7 +397,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 447 • 💬 52 • ⏱️ 8:12 • 12h ago
+👁️ 7K • 👍 447 • 💬 52 • ⏱️ 8:12 • 13h ago
 
 ---
 
@@ -407,7 +407,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 12h ago
+👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 13h ago
 
 ---
 

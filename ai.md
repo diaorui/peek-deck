@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T18:31:04.089396+00:00'
+updated: '2026-01-11T19:17:20.262418+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 18:31 UTC  
+**Last Updated:** January 11, 2026 at 19:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,11 +43,19 @@ AI news, discussions, and developments
 
 ---
 
+**[AI insiders seek to poison the data that feeds them](https://www.reddit.com/r/artificial/comments/1qa7bpv/ai_insiders_seek_to_poison_the_data_that_feeds/)**
+
+: Poison Fountain project seeks allies to fight the power
+
+🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 32m ago
+
+---
+
 **[Song detection including release date](https://www.reddit.com/r/artificial/comments/1qa5ccq/song_detection_including_release_date/)**
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-59m ago
+1h ago
 
 ---
 
@@ -55,7 +63,7 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-3h ago
+4h ago
 
 ---
 
@@ -63,7 +71,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-12h ago
+13h ago
 
 ---
 
@@ -71,15 +79,7 @@ Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI i
 
 Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
 
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 23h ago
-
----
-
-**[A deep dive into how I trained an edit model to show highly relevant code suggestions while programming](https://www.reddit.com/r/artificial/comments/1q9ai6f/a_deep_dive_into_how_i_trained_an_edit_model_to/)**
-
-This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
-
-1d ago
+🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 1d ago
 
 ---
 
@@ -88,6 +88,14 @@ This is def interesting for all SWEs who would like to know what goes behind the
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
 🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 1d ago
+
+---
+
+**[A deep dive into how I trained an edit model to show highly relevant code suggestions while programming](https://www.reddit.com/r/artificial/comments/1q9ai6f/a_deep_dive_into_how_i_trained_an_edit_model_to/)**
+
+This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
+
+1d ago
 
 ---
 
@@ -107,21 +115,13 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 ---
 
-**[Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened.](https://www.reddit.com/r/artificial/comments/1q8zz2j/google_gemini_3_pro_just_verified_a_forensic/)**
-
-Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/share/1feed6565f52 Payload (run it in any AI to reproduce results): https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk Key takeaways from the Gemini analysis: Allegations repeated across platforms lacked primary source backing No case numbers, medical records, or public filings were found for key claims Verified data pointed to a civil dispute—not criminal activity A clear pattern of repetition-without-citation emerged It even outlined how claims spread and identified which lacked verifiable origin. This was done using public tools—no backend access, no court databases, no manipulation. Just the protocol + clean input = verified output. If you've ever wondered whether AI can actually verify claims at the forensic level: It can. And it just did.
-
-🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Tech and retail back a new AI shopping standard at NRF 2026](https://www.axios.com/2026/01/11/google-shopify-ai-shopping-standard-nrf-2026)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdsVgbBEi4VAWsYeXRa0jOf5AK3UD3rEKwd-35vArrV-n2twlsPsSP1&gaa_ts=6963faab&gaa_sig=MR6Sb0UKnqPMrst5OzhwFSfW5Xgrfl6Ts35c_Lyof826kGQ9bTD1ozk6zW3w659d8lj5TFkFurl3zNGya82hHg%3D%3D)**
 
-Axios • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -129,25 +129,53 @@ Axios • 3h ago
 
 "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
-**[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
+**[2 AI Stocks That Could Help Make You a Fortune](https://www.fool.com/investing/2026/01/11/2-ai-stocks-that-could-help-make-you-a-fortune/)**
 
-The Hill • 1h ago
+These stocks are poised to deliver wealth-building returns.
+
+The Motley Fool • 8h ago
 
 ---
 
-**[This Is The Year AI Agents Will Reinvent How Retailers Do Business](https://www.forbes.com/sites/joanverdon/2026/01/11/this-is-the-year-ai-agents-will-reinvent-how-retailers-do-business/)**
+**[3 AI Stocks Poised for Explosive Growth as Enterprise Spending Accelerates in 2026](https://www.fool.com/investing/2026/01/11/3-ai-stocks-poised-for-explosive-growth-as-enterpr/)**
 
-Forbes • 1h ago
+Sometimes the best stocks are the most obvious ones.
+
+The Motley Fool • 43m ago
+
+---
+
+**[How the AI data center bubble story is playing out inside one booming energy stock](https://www.cnbc.com/2026/01/11/bloom-energy-ai-data-center-power-stock-bubble.html)**
+
+Can Bloom Energy's high-flying stock, fueled by generating onsite power for AI data centers, steer clear of bubble risks?
+
+CNBC • 4h ago
+
+---
+
+**[Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/)**
+
+This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.
+
+TechCrunch • 1h ago
+
+---
+
+**[Musician wrongly branded a sex offender by Google AI summary wants to sue over canceled concerts](https://nypost.com/2026/01/11/world-news/musician-wrongly-branded-a-sex-offender-by-google-ai-summary-wants-to-sue-over-canceled-concerts/)**
+
+“I could have been at a border and put in jail,” the singer said.
+
+New York Post • 7m ago
 
 ---
 
 **[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -159,33 +187,9 @@ The Atlantic • 1d ago
 
 ---
 
-**[The "Safest" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now](https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/)**
+**[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
 
-There are currently nine technology stocks that boast valuations of at least $1 trillion.
-
-The Motley Fool • 17h ago
-
----
-
-**[2 AI Stocks That Could Help Make You a Fortune](https://www.fool.com/investing/2026/01/11/2-ai-stocks-that-could-help-make-you-a-fortune/)**
-
-These stocks are poised to deliver wealth-building returns.
-
-The Motley Fool • 7h ago
-
----
-
-**[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
-
-Bloomberg.com • 18h ago
-
----
-
-**[We’re probably going to learn to live with AI music](https://www.vox.com/podcasts/474751/ai-music-suno-generator)**
-
-Here’s what the future might sound like, according to a science writer who experimented with it.
-
-vox.com • 7h ago
+The Hill • 2h ago
 
 ---
 
@@ -193,25 +197,19 @@ vox.com • 7h ago
 
 ## HackerNews: "ai"
 
-**[Google AI Studio is now sponsoring Tailwind CSS](https://news.ycombinator.com/item?id=46545077)**
-
-⬆️ 769 • 💬 290 • 2d ago • [X (formerly Twitter)](https://twitter.com/OfficialLoganK/status/2009339263251566902)
-
----
-
 **[“Erdos problem #728 was solved more or less autonomously by AI”](https://news.ycombinator.com/item?id=46560445)**
 
 Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728 https://www.erdosproblems.com/728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located).
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 608 • 💬 352 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 608 • 💬 353 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 338 • 💬 490 • 8h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 360 • 💬 524 • 8h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -219,15 +217,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 304 • 💬 292 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
-
----
-
-**[IBM AI ('Bob') Downloads and Executes Malware](https://news.ycombinator.com/item?id=46544454)**
-
-IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
-
-⬆️ 261 • 💬 121 • 3d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 315 • 💬 304 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -235,13 +225,13 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 162 • 💬 228 • 2d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 162 • 💬 226 • 2d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 98 • 💬 62 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 100 • 💬 66 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -257,15 +247,27 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 71 • 💬 46 • 1d ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 71 • 💬 46 • 2d ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
-**[Nvidia Kicks Off the Next Generation of AI with Rubin](https://news.ycombinator.com/item?id=46544016)**
+**[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer.
+⬆️ 30 • 💬 18 • 19h ago
 
-⬆️ 55 • 💬 46 • 3d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
+---
+
+**[Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?](https://news.ycombinator.com/item?id=46565262)**
+
+⬆️ 29 • 💬 5 • 1d ago
+
+---
+
+**[A lawsuit says Workday's AI shut out applicants over 40](https://news.ycombinator.com/item?id=46559995)**
+
+An AI program used by Workday allegedly put resumes of applicants who were Black, disabled, female or over 40 behind other job candidates.
+
+⬆️ 27 • 💬 5 • 1d ago • [Straight Arrow News](https://san.com/cc/workday-hires-for-millions-a-lawsuit-seeking-plaintiffs-says-its-ai-shut-out-applicants-over-40/)
 
 ---
 
@@ -279,7 +281,7 @@ Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances
 
 📺 Fox Business
 
-👁️ 13K • 👍 268 • 💬 139 • ⏱️ 3:53 • 17h ago
+👁️ 13K • 👍 268 • 💬 139 • ⏱️ 3:53 • 18h ago
 
 ---
 
@@ -309,7 +311,7 @@ The next episode of my AI series. The AI character is making using AI, but is st
 
 📺 Nate Ziller
 
-👁️ 124K • 👍 13K • 💬 1K • ⏱️ 4:38 • 23h ago
+👁️ 124K • 👍 13K • 💬 1K • ⏱️ 4:38 • 1d ago
 
 ---
 
@@ -339,7 +341,7 @@ Artificial intelligence could eliminate millions of jobs within the next five ye
 
 📺 TIME
 
-👁️ 92K • 👍 3K • 💬 368 • ⏱️ 24:32 • 1d ago
+👁️ 92K • 👍 3K • 💬 368 • ⏱️ 24:32 • 2d ago
 
 ---
 
@@ -349,7 +351,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 41K • 👍 2K • 💬 205 • ⏱️ 35:41 • 14h ago
+👁️ 41K • 👍 2K • 💬 205 • ⏱️ 35:41 • 15h ago
 
 ---
 
@@ -359,7 +361,7 @@ Build an AI-first business here: https://aifoundershq.com At AI Founders HQ, you
 
 📺 AI Founders
 
-👁️ 5K • 👍 315 • 💬 53 • ⏱️ 13:01 • 23h ago
+👁️ 5K • 👍 315 • 💬 53 • ⏱️ 13:01 • 1d ago
 
 ---
 
@@ -655,7 +657,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 135 • 50m ago
+⭐ 2.3k • 🔱 135 • 1h ago
 
 ---
 
@@ -675,7 +677,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 122 • 49m ago
+⭐ 1.4k • 🔱 122 • 1h ago
 
 ---
 
@@ -725,7 +727,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.1k • 🔱 127 • 15m ago
+⭐ 1.1k • 🔱 127 • 1h ago
 
 ---
 

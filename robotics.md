@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T18:31:04.104842+00:00'
+updated: '2026-01-11T19:17:20.280746+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 18:31 UTC  
+**Last Updated:** January 11, 2026 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,23 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
 
-4h ago
+5h ago
+
+---
+
+**[Optimisation-based path planning for wheeled robots](https://www.reddit.com/r/robotics/comments/1q9vrs7/optimisationbased_path_planning_for_wheeled_robots/)**
+
+I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
+
+9h ago
+
+---
+
+**[CANgaroo (Linux CAN analyzer) – recent updates: J1939 + UDS decoding, trace improvements](https://www.reddit.com/r/robotics/comments/1qa82an/cangaroo_linux_can_analyzer_recent_updates_j1939/)**
+
+Hi everyone 👋 A while ago I shared CANgaroo, an open-source CAN / CAN-FD analyzer for Linux. Since then, based on real-world validation and community feedback, I’ve been actively maintaining and extending it, so I wanted to share a short update. What CANgaroo is CANgaroo is a Linux-native CAN bus analysis tool focused on everyday debugging and monitoring. The workflow is inspired by tools like BusMaster / PCAN-View, but it’s fully open-source and built around SocketCAN. It’s aimed at automotive, robotics, and industrial use cases. Key capabilities: Real-time CAN & CAN-FD capture Multi-DBC signal decoding Trace-view-focused workflow Signal graphing, filtering, and log export Hardware support: SocketCAN, CANable (SLCAN), Candlelight, CANblaster (UDP) Virtual CAN (vcan) support for testing without hardware 🆕 Recent Changes (v0.4.4) Some notable improvements since the previous post: Unified Protocol Decoding Intelligent prioritization between J1939 (29-bit) and UDS / ISO-TP (11-bit) with robust TP reassembly Enhanced J1939 Support Auto-labeling for common PGNs (e.g. VIN, EEC1) and reassembled BAM / CM messages Generator Improvements Global Stop halts all cyclic transmissions Generator loopback — transmitted frames now appear in the Trace View (TX) Stability & UI Responsiveness Safer state-management pattern replacing unstable signal blocking Improved trace-view reliability during live editing Overall, the focus is on stability, protocol correctness, and real-world debugging workflows, rather than experimental RE features. Source & releases: 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback and real-world use cases are very welcome — feature requests are best tracked via GitHub issues so they don’t get lost.
+
+5m ago
 
 ---
 
@@ -82,7 +98,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 Hey everyone 👋 I recently created a Discord server called Joy Robotics for anyone interested in robotics (beginners are welcome). The idea is to learn robotics step-by-step (ROS2, Arduino, ESP32, SLAM, AI) and collaborate on projects together. If you’re looking for a place to ask doubts, team up with others, and work on projects with people from different countries/time zones, feel free to join. Link: https://discord.gg/eEfgvX7weJ
 
-59m ago
+1h ago
 
 ---
 
@@ -91,22 +107,6 @@ Hey everyone 👋 I recently created a Discord server called Joy Robotics for an
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
 1d ago
-
----
-
-**[Optimisation-based path planning for wheeled robots](https://www.reddit.com/r/robotics/comments/1q9vrs7/optimisationbased_path_planning_for_wheeled_robots/)**
-
-I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
-
-8h ago
-
----
-
-**[Reinforcement Learning for sumo robots using SAC, PPO, A2C algorithms](https://www.reddit.com/r/robotics/comments/1q9kjsb/reinforcement_learning_for_sumo_robots_using_sac/)**
-
-Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
-
-18h ago
 
 ---
 
@@ -146,11 +146,17 @@ CNBC • 2d ago
 
 ---
 
+**[Audubon robotics teams help students break down barriers and build skills](https://onmilwaukee.com/articles/nns-audobon-robotics-team)**
+
+OnMilwaukee • 4h ago
+
+---
+
 **[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
 
 FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
 
-WYMT • 1d ago
+WYMT • 2d ago
 
 ---
 
@@ -175,12 +181,6 @@ NVIDIA Developer • 3d ago
 CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
 Yahoo Finance • 3d ago
-
----
-
-**[Audubon robotics teams help students break down barriers and build skills](https://onmilwaukee.com/articles/nns-audobon-robotics-team)**
-
-OnMilwaukee • 3h ago
 
 ---
 
@@ -212,7 +212,7 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 📺 Cybernews
 
-👁️ 6K • 👍 142 • 💬 46 • ⏱️ 11:29 • 21h ago
+👁️ 6K • 👍 142 • 💬 46 • ⏱️ 11:29 • 22h ago
 
 ---
 
@@ -242,7 +242,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 7K • 👍 423 • 💬 30 • ⏱️ 9:28 • 23h ago
+👁️ 7K • 👍 423 • 💬 30 • ⏱️ 9:28 • 1d ago
 
 ---
 
@@ -252,7 +252,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 6K • 👍 743 • 💬 114 • ⏱️ 14:30 • 3h ago
+👁️ 6K • 👍 743 • 💬 114 • ⏱️ 14:30 • 4h ago
 
 ---
 
