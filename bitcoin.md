@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T12:43:18.673332+00:00'
+updated: '2026-01-11T13:30:43.587544+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 12:43 UTC  
+**Last Updated:** January 11, 2026 at 13:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,13 +87,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-28m ago
+1h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-19h ago
+20h ago
 
 ---
 
@@ -121,7 +121,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ I basically wanna do the ninja method with metal rings and a trezor 3 for btc on
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -153,7 +153,7 @@ I basically wanna do the ninja method with metal rings and a trezor 3 for btc on
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Motley Fool • 1d ago
 
 How low can Bitcoin price go? Bitcoin is falling after breaking 50-week MA. Technical analysis shows $68K-$74K targets ahead. Crypto influencers back bearish Bitcoin predictions.
 
-Finance Magnates • 2h ago
+Finance Magnates • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Finance Magnates • 2h ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin has a lot going for it, but the near term could be bumpy.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -247,7 +247,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 445 • ⏱️ 17:17 • 14h ago
+👁️ 19K • 👍 1K • 💬 445 • ⏱️ 17:17 • 15h ago
 
 ---
 
@@ -333,7 +333,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 22h ago
+👁️ 46K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 23h ago
 
 ---
 
@@ -373,7 +373,7 @@ The new crypto rules coming this week? Could this change crypto forever? We have
 
 📺 Zach Humphries
 
-👁️ 2K • 👍 103 • 💬 75 • ⏱️ 5:41 • 20h ago
+👁️ 2K • 👍 103 • 💬 75 • ⏱️ 5:41 • 21h ago
 
 ---
 
@@ -393,7 +393,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 317 • 💬 52 • ⏱️ 8:12 • 6h ago
+👁️ 4K • 👍 317 • 💬 52 • ⏱️ 8:12 • 7h ago
 
 ---
 

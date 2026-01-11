@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T12:43:18.680589+00:00'
+updated: '2026-01-11T13:30:43.593474+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 12:43 UTC  
+**Last Updated:** January 11, 2026 at 13:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-18h ago
+19h ago
 
 ---
 
@@ -136,7 +136,7 @@ For people that have blockchain startups or work in the digital asset space, how
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 1d ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 2d ago
 
 ---
 
@@ -144,7 +144,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 I mean did it improve performance as much as people hoped? Is it better able to compete with SOL?
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 1d ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 2d ago
 
 Q1 2026 could turn out to be pretty interesting for the world's largest altcoin.
 
-AMBCrypto • 18h ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -204,7 +204,7 @@ AMBCrypto • 18h ago
 
 The Bitcoin price is jiggling around $91,000 while the Ethereum price remains stuck above $3000, displaying stability
 
-Coinpedia Fintech News • 23h ago
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ Benzinga • 1d ago
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 645 • 💬 71 • ⏱️ 24:05 • 16h ago
+👁️ 11K • 👍 645 • 💬 71 • ⏱️ 24:05 • 17h ago
 
 ---
 
@@ -250,7 +250,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 125 • 💬 100 • ⏱️ 13:48 • 6h ago
+👁️ 3K • 👍 125 • 💬 100 • ⏱️ 13:48 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 4K • 👍 171 • 💬 138 • ⏱️ 11:37 • 22h ago
+👁️ 4K • 👍 171 • 💬 138 • ⏱️ 11:37 • 23h ago
 
 ---
 
@@ -270,7 +270,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 249 • 💬 603 • ⏱️ 16:56 • 16h ago
+👁️ 8K • 👍 249 • 💬 603 • ⏱️ 16:56 • 17h ago
 
 ---
 
@@ -300,7 +300,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 762 • 💬 238 • ⏱️ 19:42 • 21h ago
+👁️ 22K • 👍 762 • 💬 238 • ⏱️ 19:42 • 22h ago
 
 ---
 
@@ -310,7 +310,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 691 • 👍 41 • 💬 76 • ⏱️ 6:18 • 19h ago
+👁️ 691 • 👍 41 • 💬 76 • ⏱️ 6:18 • 20h ago
 
 ---
 
