@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T09:22:31.762864+00:00'
+updated: '2026-01-11T09:42:53.375380+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 09:22 UTC  
+**Last Updated:** January 11, 2026 at 09:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -164,7 +164,7 @@ CoinDesk • 14h ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 23h ago
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 17h ago
 
 In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -202,7 +202,7 @@ Decrypt • 2d ago
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 613 • 💬 63 • ⏱️ 24:05 • 12h ago
+👁️ 10K • 👍 613 • 💬 63 • ⏱️ 24:05 • 13h ago
 
 ---
 
@@ -326,7 +326,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 666 • 👍 41 • 💬 75 • ⏱️ 6:18 • 15h ago
+👁️ 666 • 👍 41 • 💬 75 • ⏱️ 6:18 • 16h ago
 
 ---
 

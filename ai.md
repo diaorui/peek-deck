@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T09:22:31.748351+00:00'
+updated: '2026-01-11T09:42:53.360736+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 09:22 UTC  
+**Last Updated:** January 11, 2026 at 09:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -95,7 +95,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/share/1feed6565f52 Payload (run it in any AI to reproduce results): https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk Key takeaways from the Gemini analysis: Allegations repeated across platforms lacked primary source backing No case numbers, medical records, or public filings were found for key claims Verified data pointed to a civil dispute—not criminal activity A clear pattern of repetition-without-citation emerged It even outlined how claims spread and identified which lacked verifiable origin. This was done using public tools—no backend access, no court databases, no manipulation. Just the protocol + clean input = verified output. If you've ever wondered whether AI can actually verify claims at the forensic level: It can. And it just did.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 23h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 1d ago
 
 ---
 
@@ -169,13 +169,13 @@ Time Magazine • 22h ago
 
 Nebius, SoundHound AI, and IonQ are all still in the early stages of what could prove to be incredible growth stories.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[These 8 stocks could form the backbone of AI as chips get more powerful](https://www.marketwatch.com/story/these-8-stocks-could-form-the-backbone-of-ai-as-chips-get-more-powerful-e0b87fe7?gaa_at=eafs&gaa_n=AWEtsqeDjI_9BOWigQf0ypC9HrtBn4l6RldtrL7HXTUyZA7GCBSHMtcPFkYa&gaa_ts=69636814&gaa_sig=HcbRl4eNd0n-iI0sQpEGqFxlr6cA2_wtCqpQ4yb-jHkx7US9kRy2glZS7el1oEmMlC46cvw4b8MuBgOwYD0JSQ%3D%3D)**
 
-MarketWatch • 20h ago
+MarketWatch • 21h ago
 
 ---
 
@@ -651,7 +651,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 134 • 33m ago
+⭐ 2.2k • 🔱 134 • 53m ago
 
 ---
 

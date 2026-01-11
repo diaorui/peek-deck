@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T09:22:31.766109+00:00'
+updated: '2026-01-11T09:42:53.378650+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 09:22 UTC  
+**Last Updated:** January 11, 2026 at 09:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
-8h ago
+9h ago
 
 ---
 
@@ -118,7 +118,7 @@ TechCrunch • 1d ago
 
 From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
-Engadget • 17h ago
+Engadget • 18h ago
 
 ---
 
@@ -224,7 +224,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 56K • 👍 1K • 💬 152 • ⏱️ 3:13 • 15h ago
+👁️ 56K • 👍 1K • 💬 152 • ⏱️ 3:13 • 16h ago
 
 ---
 
@@ -274,7 +274,7 @@ Have you exercised today? How about training together with a robot? Please use r
 
 📺 Unitree Robotics
 
-👁️ 6.1M • 👍 4K • 💬 1K • ⏱️ 0:32 • 6d ago
+👁️ 6.1M • 👍 4K • 💬 1K • ⏱️ 0:32 • 7d ago
 
 ---
 
