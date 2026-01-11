@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T17:42:17.408935+00:00'
+updated: '2026-01-11T18:31:04.104842+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 17:42 UTC  
+**Last Updated:** January 11, 2026 at 18:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-6h ago
+7h ago
 
 ---
 
@@ -52,13 +52,13 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-7h ago
+8h ago
 
 ---
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing y
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-19h ago
+20h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 Hey everyone 👋 I recently created a Discord server called Joy Robotics for anyone interested in robotics (beginners are welcome). The idea is to learn robotics step-by-step (ROS2, Arduino, ESP32, SLAM, AI) and collaborate on projects together. If you’re looking for a place to ask doubts, team up with others, and work on projects with people from different countries/time zones, feel free to join. Link: https://discord.gg/eEfgvX7weJ
 
-10m ago
+59m ago
 
 ---
 
@@ -98,7 +98,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
 
-7h ago
+8h ago
 
 ---
 
@@ -106,7 +106,7 @@ I have recently been exploring robotic path planning and during my hands-on nume
 
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
-17h ago
+18h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 3d ago
 
 **[Audubon robotics teams help students break down barriers and build skills](https://onmilwaukee.com/articles/nns-audobon-robotics-team)**
 
-OnMilwaukee • 2h ago
+OnMilwaukee • 3h ago
 
 ---
 
@@ -202,7 +202,17 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 281K • 👍 4K • 💬 637 • ⏱️ 4:29 • 4d ago
+👁️ 284K • 👍 4K • 💬 647 • ⏱️ 4:29 • 4d ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 6K • 👍 142 • 💬 46 • ⏱️ 11:29 • 21h ago
 
 ---
 
@@ -216,23 +226,13 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 ---
 
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 6K • 👍 134 • 💬 46 • ⏱️ 11:29 • 20h ago
-
----
-
 **[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
 
 Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
 
 📺 Carros Show
 
-👁️ 52K • 👍 460 • 💬 39 • ⏱️ 11:13 • 5d ago
+👁️ 53K • 👍 462 • 💬 39 • ⏱️ 11:13 • 5d ago
 
 ---
 
@@ -242,7 +242,17 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 7K • 👍 407 • 💬 30 • ⏱️ 9:28 • 22h ago
+👁️ 7K • 👍 423 • 💬 30 • ⏱️ 9:28 • 23h ago
+
+---
+
+**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 6K • 👍 743 • 💬 114 • ⏱️ 14:30 • 3h ago
 
 ---
 
@@ -252,7 +262,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 61K • 👍 1K • 💬 161 • ⏱️ 3:13 • 1d ago
+👁️ 63K • 👍 1K • 💬 170 • ⏱️ 3:13 • 1d ago
 
 ---
 
@@ -272,7 +282,7 @@ For more context and news coverage of the most important stories of our day, cli
 
 📺 NBC News
 
-👁️ 189K • 👍 2K • 💬 211 • ⏱️ 0:22 • 5d ago
+👁️ 190K • 👍 2K • 💬 212 • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -282,17 +292,7 @@ Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robo
 
 📺 Hyundai Motor Group
 
-👁️ 570K • 👍 46 • 💬 1 • ⏱️ 0:59 • 4d ago
-
----
-
-**[Give Robots Space! #robotics #robot #airobot #humanoidrobot #ces2026](https://www.youtube.com/watch?v=66mH3LKf3m0)**
-
-Recent viral clips making the rounds on social media are good reminders that today's humanoid robots are not very safe.
-
-📺 Kalil 4.0
-
-👁️ 5K • 👍 84 • 💬 9 • ⏱️ 0:24 • 14h ago
+👁️ 570K • 👍 45 • 💬 1 • ⏱️ 0:59 • 4d ago
 
 ---
 

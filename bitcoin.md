@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T17:42:17.399427+00:00'
+updated: '2026-01-11T18:31:04.096888+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 17:42 UTC  
+**Last Updated:** January 11, 2026 at 18:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1814.73B
+**Market Cap:** $1813.25B
 Rank #1
 
-**Circulating Supply:** 19,974,540 BTC
+**Circulating Supply:** 19,974,568 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.9%
+-28.0%
 
 **All-Time Low:** $67.81
-+133896.5%
++133772.6%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-4h ago
+5h ago
 
 ---
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
 
-36m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ Now that Wall Street has entered the Bitcoin market, what—if any—structural 
 
 Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-27m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 I’ve been reading more about how leverage and derivatives interact with Bitcoin’s price, especially during periods of higher volatility. It seems like large clusters of leveraged positions can sometimes amplify moves when the market becomes unstable. Rather than focusing on short-term price action, I’m curious how people here think about the role of leverage in Bitcoin markets overall. Do you see it as something that adds useful liquidity, or does it mostly increase volatility and risk compared to Bitcoin’s original design? Interested in hearing different perspectives on how this affects the broader ecosystem.
 
-3h ago
+4h ago
 
 ---
 
@@ -145,7 +145,7 @@ I’ve been reading more about how leverage and derivatives interact with Bitcoi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 1d ago
 
 Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
 
-Yahoo Finance • 55m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 55m ago
 
 Miner active in the days of Bitcoin founder Satoshi Nakamoto, says expert. Two early “Bitcoin whales” moved coins worth $181 million late last year. VanEck predicts big Bitcoin price rises by 2050.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ TradingView — Track All Markets • 1d ago
 
 What we know about the South American country’s crypto holdings.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 555 • ⏱️ 17:17 • 19h ago
+👁️ 24K • 👍 2K • 💬 563 • ⏱️ 17:17 • 20h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 9K • 👍 469 • 💬 370 • ⏱️ 3:25 • 1d ago
+👁️ 9K • 👍 479 • 💬 369 • ⏱️ 3:25 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 340 • 💬 110 • ⏱️ 1:01:22 • 3h ago
+👁️ 9K • 👍 582 • 💬 161 • ⏱️ 1:01:22 • 4h ago
 
 ---
 
@@ -347,17 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 50K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
-
----
-
-**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
-
-So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
-
-📺 BTC Isla
-
-👁️ 19K • 👍 1K • 💬 734 • ⏱️ 10:43 • 2d ago
+👁️ 52K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
 
 ---
 
@@ -367,17 +357,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 21h ago
-
----
-
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
-
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
-
-📺 Paul Barron Network
-
-👁️ 75K • 👍 3K • 💬 393 • ⏱️ 16:13 • 2d ago
+👁️ 13K • 👍 719 • 💬 82 • ⏱️ 24:05 • 22h ago
 
 ---
 
@@ -387,17 +367,17 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 295 • ⏱️ 17:07 • 1d ago
+👁️ 26K • 👍 2K • 💬 303 • ⏱️ 17:07 • 1d ago
 
 ---
 
-**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
+**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
 
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
 
-📺 Altcoin Daily
+📺 BTC Isla
 
-👁️ 58K • 👍 3K • 💬 592 • ⏱️ 9:19 • 1d ago
+👁️ 20K • 👍 1K • 💬 735 • ⏱️ 10:43 • 2d ago
 
 ---
 
@@ -407,7 +387,27 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 265 • ⏱️ 11:14 • 2d ago
+👁️ 55K • 👍 3K • 💬 263 • ⏱️ 11:14 • 2d ago
+
+---
+
+**[BITCOIN HISTORY REPEATING!!!!!](https://www.youtube.com/watch?v=ZF-9JbPgapY)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+
+📺 Crypto Rover
+
+👁️ 7K • 👍 447 • 💬 52 • ⏱️ 8:12 • 12h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 12h ago
 
 ---
 

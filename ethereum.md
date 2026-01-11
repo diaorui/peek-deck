@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T17:42:17.405642+00:00'
+updated: '2026-01-11T18:31:04.102085+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - videos
 - cryptocurrency
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 17:42 UTC  
+**Last Updated:** January 11, 2026 at 18:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.98B
+**Market Cap:** $376.51B
 Rank #2
 
 **Circulating Supply:** 120,694,727 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-36.9%
 
 **All-Time Low:** $0.43
-+719528.4%
++720657.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-23h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 1d ago
 
 The Ethereum co-founder argues that price benchmarks, oracle security and staking incentives remain unresolved challenges for decentralized stablecoins.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 2d ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Motley Fool • 7h ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
@@ -220,7 +220,7 @@ Coinpedia Fintech News • 1d ago
 
 EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -236,43 +236,23 @@ Benzinga • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
-
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
-
-📺 Digital Asset News
-
-👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 21h ago
-
----
-
 **[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
 
 Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 156 • 💬 35 • ⏱️ 12:34 • 8h ago
+👁️ 2K • 👍 164 • 💬 37 • ⏱️ 12:34 • 9h ago
 
 ---
 
-**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
 
-📺 Library Of Wealth
+📺 Digital Asset News
 
-👁️ 6K • 👍 184 • 💬 488 • ⏱️ 13:48 • 11h ago
-
----
-
-**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 200 • 👍 23 • 💬 11 • ⏱️ 5:22 • 3h ago
+👁️ 13K • 👍 719 • 💬 82 • ⏱️ 24:05 • 22h ago
 
 ---
 
@@ -282,17 +262,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 295 • 👍 45 • 💬 3 • ⏱️ 5:19 • 1h ago
+👁️ 810 • 👍 93 • 💬 6 • ⏱️ 5:19 • 2h ago
 
 ---
 
-**[This One Catalyst Could Send Ethereum &amp; Solana to New All-Time Highs w/ Matt Hougan &amp; Ryan Rasmussen](https://www.youtube.com/watch?v=Lc1NKDlP1us)**
+**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
 
-In this episode, we dig into the one catalyst that could flip the switch for crypto markets and why Ethereum and Solana sit directly ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Milk Road
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 178 • 💬 329 • ⏱️ 11:37 • 1d ago
+👁️ 290 • 👍 24 • 💬 10 • ⏱️ 5:22 • 4h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 12h ago
+
+---
+
+**[ETHEREUM (ETH), SOLANA (SOL) , SUI | Price Prediction : Higher Prices Ahead ?! Targets &amp; Key Levels](https://www.youtube.com/watch?v=lmlfRJBA4H4)**
+
+Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
+
+📺 KG TRADING - Crypto Elliott Waves
+
+👁️ 56 • 👍 9 • 💬 1 • ⏱️ 14:10 • 1h ago
 
 ---
 
@@ -302,7 +302,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 268 • 💬 1K • ⏱️ 16:56 • 21h ago
+👁️ 9K • 👍 278 • 💬 1K • ⏱️ 16:56 • 22h ago
 
 ---
 
@@ -312,7 +312,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 236 • 💬 40 • ⏱️ 4:20 • 2d ago
+👁️ 7K • 👍 237 • 💬 32 • ⏱️ 4:20 • 2d ago
 
 ---
 
@@ -322,17 +322,17 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 11K • 👍 577 • 💬 84 • ⏱️ 15:28 • 1d ago
+👁️ 12K • 👍 584 • 💬 80 • ⏱️ 15:28 • 1d ago
 
 ---
 
-**[Everyone&#39;s WRONG About Ethereum #crypto #eth](https://www.youtube.com/watch?v=gIKuID6p044)**
+**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
 
-Despite common sentiment suggesting Ethereum is declining, this video provides compelling proof that it remains one of the best ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Michaël van de Poppe
+📺 Crypto Nutshell
 
-👁️ 943 • 👍 12 • 💬 3 • ⏱️ 0:14 • 6h ago
+👁️ 25K • 👍 829 • 💬 310 • ⏱️ 19:42 • 1d ago
 
 ---
 

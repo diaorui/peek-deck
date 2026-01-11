@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T17:42:17.390802+00:00'
+updated: '2026-01-11T18:31:04.089396+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 17:42 UTC  
+**Last Updated:** January 11, 2026 at 18:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-11m ago
+59m ago
 
 ---
 
@@ -55,7 +55,7 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-2h ago
+3h ago
 
 ---
 
@@ -63,7 +63,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-11h ago
+12h ago
 
 ---
 
@@ -71,7 +71,7 @@ Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI i
 
 Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
 
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 22h ago
+🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 23h ago
 
 ---
 
@@ -79,7 +79,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 **[Tech and retail back a new AI shopping standard at NRF 2026](https://www.axios.com/2026/01/11/google-shopify-ai-shopping-standard-nrf-2026)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -129,25 +129,25 @@ Axios • 2h ago
 
 "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
 **[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
 
-The Hill • 42m ago
+The Hill • 1h ago
 
 ---
 
 **[This Is The Year AI Agents Will Reinvent How Retailers Do Business](https://www.forbes.com/sites/joanverdon/2026/01/11/this-is-the-year-ai-agents-will-reinvent-how-retailers-do-business/)**
 
-Forbes • 42m ago
+Forbes • 1h ago
 
 ---
 
 **[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Atlantic • 1d ago
 
 There are currently nine technology stocks that boast valuations of at least $1 trillion.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 7h ago
 
 **[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 17h ago
 
 Here’s what the future might sound like, according to a science writer who experimented with it.
 
-vox.com • 6h ago
+vox.com • 7h ago
 
 ---
 
@@ -211,7 +211,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 338 • 💬 490 • 7h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 338 • 💬 490 • 8h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -227,7 +227,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 261 • 💬 121 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 261 • 💬 121 • 3d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -235,7 +235,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 162 • 💬 228 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 162 • 💬 228 • 2d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -265,7 +265,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer.
 
-⬆️ 55 • 💬 46 • 2d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
+⬆️ 55 • 💬 46 • 3d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
 
 ---
 
@@ -273,13 +273,13 @@ NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA
 
 ## YouTube Videos: "ai"
 
-**[Grok AI model still generating sexualized content after changes](https://www.youtube.com/watch?v=Y3JZdJlwomE)**
+**[These humanoid robots are ‘driven by AI’, says Arm CEO](https://www.youtube.com/watch?v=cDWE6aAxyBk)**
 
-On Elon Musk's social media platform X, the Grok AI image generation reply bot has been changed to be for paying customers ...
+Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances its capabilities on 'The Claman ...
 
-📺 NBC News
+📺 Fox Business
 
-👁️ 11K • 👍 111 • 💬 57 • ⏱️ 5:25 • 1d ago
+👁️ 13K • 👍 268 • 💬 139 • ⏱️ 3:53 • 17h ago
 
 ---
 
@@ -289,7 +289,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 77K • 👍 4K • 💬 316 • ⏱️ 19:15 • 2d ago
+👁️ 79K • 👍 4K • 💬 322 • ⏱️ 19:15 • 2d ago
 
 ---
 
@@ -299,17 +299,17 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 98K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
+👁️ 100K • 👍 2K • 💬 70 • ⏱️ 17:54 • 2d ago
 
 ---
 
-**[These humanoid robots are ‘driven by AI’, says Arm CEO](https://www.youtube.com/watch?v=cDWE6aAxyBk)**
+**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
 
-Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances its capabilities on 'The Claman ...
+The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
 
-📺 Fox Business
+📺 Nate Ziller
 
-👁️ 12K • 👍 260 • 💬 136 • ⏱️ 3:53 • 16h ago
+👁️ 124K • 👍 13K • 💬 1K • ⏱️ 4:38 • 23h ago
 
 ---
 
@@ -319,17 +319,17 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 45K • 👍 2K • 💬 171 • ⏱️ 14:39 • 1d ago
+👁️ 47K • 👍 2K • 💬 175 • ⏱️ 14:39 • 1d ago
 
 ---
 
-**[AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](https://www.youtube.com/watch?v=qOr5-FrkElk)**
+**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
 
-HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
 
-📺 AI Search
+📺 LBC
 
-👁️ 38K • 👍 2K • 💬 197 • ⏱️ 35:41 • 14h ago
+👁️ 18K • 👍 333 • 💬 303 • ⏱️ 11:00 • 1d ago
 
 ---
 
@@ -339,17 +339,27 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 TIME
 
-👁️ 86K • 👍 3K • 💬 357 • ⏱️ 24:32 • 1d ago
+👁️ 92K • 👍 3K • 💬 368 • ⏱️ 24:32 • 1d ago
 
 ---
 
-**[This Is the Most Powerful AI Agent I’ve Ever Used (Manus 1.6 Max)](https://www.youtube.com/watch?v=Oh84cPhtmFA)**
+**[AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](https://www.youtube.com/watch?v=qOr5-FrkElk)**
 
-Manus AI is one of the most underrated AI tools, and this update takes it to another level. Manus 1.6 Max can now build full mobile ...
+HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
 
-📺 Brock Mesarich | AI for Non Techies
+📺 AI Search
 
-👁️ 2K • 👍 50 • 💬 9 • ⏱️ 13:47 • 1d ago
+👁️ 41K • 👍 2K • 💬 205 • ⏱️ 35:41 • 14h ago
+
+---
+
+**[My $5M AI Business Plan using AI Agents in 2026](https://www.youtube.com/watch?v=b5ZyRiCS3ks)**
+
+Build an AI-first business here: https://aifoundershq.com At AI Founders HQ, you'll find: • Practical AI business education • Free + ...
+
+📺 AI Founders
+
+👁️ 5K • 👍 315 • 💬 53 • ⏱️ 13:01 • 23h ago
 
 ---
 
@@ -357,17 +367,7 @@ Manus AI is one of the most underrated AI tools, and this update takes it to ano
 
 📺 The Williams Fam
 
-👁️ 248K • 👍 7K • 💬 301 • ⏱️ 0:16 • 1d ago
-
----
-
-**[All Premium AI Models in One Place – Totally FREE](https://www.youtube.com/watch?v=XYaeOMqvjtg)**
-
-Hey Guys! All Premium AI Models in One Place – Totally FREE is what this video is all about. In this video, you will discover a ...
-
-📺 Faisal Shabbir
-
-👁️ 10K • 👍 951 • 💬 95 • ⏱️ 5:03 • 1d ago
+👁️ 281K • 👍 7K • 💬 314 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 629,855 • ❤️ 781 • 3d ago
+⬇️ 629,855 • ❤️ 783 • 3d ago
 
 ---
 
@@ -395,7 +395,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,771 • ❤️ 712 • 10d ago
+⬇️ 9,771 • ❤️ 714 • 10d ago
 
 ---
 
@@ -407,7 +407,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 16,027 • ❤️ 410 • 4d ago
+⬇️ 16,027 • ❤️ 416 • 4d ago
 
 ---
 
@@ -419,7 +419,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,257 • ❤️ 284 • 5d ago
+⬇️ 2,257 • ❤️ 287 • 5d ago
 
 ---
 
@@ -431,7 +431,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 11,562 • ❤️ 262 • 2d ago
+⬇️ 11,562 • ❤️ 265 • 2d ago
 
 ---
 
@@ -443,7 +443,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,522 • ❤️ 343 • 5d ago
+⬇️ 30,522 • ❤️ 345 • 5d ago
 
 ---
 
@@ -455,7 +455,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 586 • ❤️ 206 • 5d ago
+⬇️ 586 • ❤️ 207 • 5d ago
 
 ---
 
@@ -491,7 +491,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 207,986 • ❤️ 1,010 • 14d ago
+⬇️ 207,986 • ❤️ 1,010 • 15d ago
 
 ---
 
@@ -544,7 +544,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 130 • 💬 18 • ⭐ 49,681 • 10mo ago
+▲ 130 • 💬 18 • ⭐ 49,725 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -569,23 +569,9 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 18 • 💬 2 • ⭐ 14,837 • 1mo ago
+▲ 18 • 💬 2 • ⭐ 14,858 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
-
-*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
-
-🏢 Microsoft Research
-
-BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
-
-▲ 57 • 💬 5 • ⭐ 25,640 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
 
 ---
 
@@ -613,13 +599,27 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 ---
 
+**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
+
+*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
+
+🏢 Microsoft Research
+
+BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
+
+▲ 57 • 💬 5 • ⭐ 25,649 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+
+---
+
 **[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
 
 *Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
 
 LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-▲ 176 • 💬 6 • ⭐ 65,394 • 22mo ago
+▲ 176 • 💬 6 • ⭐ 65,416 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
@@ -635,7 +635,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 987 • 1h ago
+⭐ 7.9k • 🔱 991 • 2h ago
 
 ---
 
@@ -645,7 +645,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 337 • 3d ago
+⭐ 2.4k • 🔱 350 • 3d ago
 
 ---
 
@@ -655,7 +655,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 135 • 1h ago
+⭐ 2.3k • 🔱 135 • 50m ago
 
 ---
 
@@ -665,7 +665,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 222 • 4h ago
+⭐ 2.0k • 🔱 222 • 5h ago
 
 ---
 
@@ -675,17 +675,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 122 • 2h ago
-
----
-
-**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
-
-This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
-
-`PowerShell`
-
-⭐ 1.3k • 🔱 71 • 19d ago
+⭐ 1.4k • 🔱 122 • 49m ago
 
 ---
 
@@ -696,6 +686,16 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 `TypeScript`
 
 ⭐ 1.3k • 🔱 108 • 1d ago
+
+---
+
+**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
+
+This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
+
+`PowerShell`
+
+⭐ 1.3k • 🔱 71 • 19d ago
 
 ---
 
@@ -725,7 +725,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.1k • 🔱 128 • 1h ago
+⭐ 1.1k • 🔱 127 • 15m ago
 
 ---
 
