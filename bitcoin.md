@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T09:42:53.369367+00:00'
+updated: '2026-01-11T10:22:58.669377+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 09:42 UTC  
+**Last Updated:** January 11, 2026 at 10:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,772.69
+### $90,746.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -3.6%  
-**30d:** +0.4%  
-**90d:** -19.8%  
-**1y:** -4.0%  
+**24h:** +0.0%  
+**7d:** -3.5%  
+**30d:** +0.6%  
+**90d:** -19.7%  
+**1y:** -3.9%  
 
 ---
 
@@ -77,14 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[BTC Accumulation Zone](https://www.reddit.com/r/Bitcoin/comments/1q9q8uz/btc_accumulation_zone/)**
-
-Ik people don’t want Bitcoin to go down, but that often leads to the best opportunities. I plan on buying a whole coin at these levels.
-
-4h ago
-
----
-
 **[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
@@ -101,13 +93,13 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -115,19 +107,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-16h ago
-
----
-
-**[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
-
-14h ago
-
----
-
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
-
-20h ago
+17h ago
 
 ---
 
@@ -139,11 +119,31 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 ---
 
+**[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
+
+15h ago
+
+---
+
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
+
+21h ago
+
+---
+
 **[Daily Discussion, January 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1q9rnwr/daily_discussion_january_11_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
+
+---
+
+**[Bitcoin recurring buys](https://www.reddit.com/r/Bitcoin/comments/1q9c3yx/bitcoin_recurring_buys/)**
+
+Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
+
+15h ago
 
 ---
 
@@ -159,6 +159,20 @@ CNBC • 1d ago
 
 ---
 
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
+
+The Block • 18h ago
+
+---
+
+**[Bitcoin Will Surge to $315,000, Claims Investor, as Morgan Stanley Files for BTC ETF](https://finance.yahoo.com/news/bitcoin-surge-315-000-claims-122925450.html)**
+
+Morgan Stanley’s filings to launch Bitcoin and Solana ETFs mark a significant step by a major U.S. bank into crypto markets. Prominent Bitcoin advocates are ...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
 
 There's a major pitfall coming up that'll need to be avoided.
@@ -171,7 +185,7 @@ The Motley Fool • 1d ago
 
 Bitcoin’s mining difficulty edged lower in the network’s first difficulty adjustment of 2026, offering a brief reprieve for miners after a year marked by intense competition and shrinking margins. Key Takeaways: Bitcoin mining difficulty dipped slightly in the first adjustment of 2026. Faster block times point to a difficulty increase ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -191,9 +205,9 @@ Yahoo Finance • 12h ago
 
 ---
 
-**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
+**[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
 
-The Block • 2d ago
+The Block • 1d ago
 
 ---
 
@@ -205,27 +219,9 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
+**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
 
-U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitfinex whales dump BTC longs as $135K Bitcoin price target reemerges](https://www.tradingview.com/news/cointelegraph:987b83463094b:0-bitfinex-whales-dump-btc-longs-as-135k-bitcoin-price-target-reemerges/)**
-
-Bitcoin BITSTAMP:BTCUSD whales are “aggressively” reducing long exposure as a classic bull signal reappears.Key points:Bitcoin whales trigger six-figure BTC price targetData from TradingView reveals that whale long positions have started dropping after hitting a peak of 73,000 BTC in late December…
-
-TradingView — Track All Markets • 16h ago
-
----
-
-**[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
-
-Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
-
-Yahoo Finance • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -267,7 +263,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 2d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 3d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -317,7 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 441 • ⏱️ 17:17 • 11h ago
+👁️ 17K • 👍 1K • 💬 441 • ⏱️ 17:17 • 12h ago
 
 ---
 
@@ -357,7 +353,7 @@ The new crypto rules coming this week? Could this change crypto forever? We have
 
 📺 Zach Humphries
 
-👁️ 1K • 👍 103 • 💬 75 • ⏱️ 5:41 • 17h ago
+👁️ 1K • 👍 103 • 💬 75 • ⏱️ 5:41 • 18h ago
 
 ---
 
@@ -397,7 +393,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 222 • 💬 41 • ⏱️ 8:12 • 3h ago
+👁️ 2K • 👍 222 • 💬 41 • ⏱️ 8:12 • 4h ago
 
 ---
 
@@ -407,7 +403,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 17K • 👍 1K • 💬 633 • ⏱️ 11:48 • 14h ago
+👁️ 17K • 👍 1K • 💬 633 • ⏱️ 11:48 • 15h ago
 
 ---
 

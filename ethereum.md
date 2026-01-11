@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T09:42:53.375380+00:00'
+updated: '2026-01-11T10:22:58.675489+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 09:42 UTC  
+**Last Updated:** January 11, 2026 at 10:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,093.80
+### $3,106.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -3.9%  
-**30d:** -0.4%  
-**90d:** -24.9%  
-**1y:** -5.2%  
+**24h:** +0.3%  
+**7d:** -3.6%  
+**30d:** -0.1%  
+**90d:** -24.6%  
+**1y:** -4.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-15h ago
+16h ago
 
 ---
 
@@ -156,7 +156,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -165,6 +165,14 @@ CoinDesk • 14h ago
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+
+The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
+
+The Motley Fool • 22m ago
 
 ---
 
@@ -198,33 +206,25 @@ Decrypt • 2d ago
 
 ---
 
-**[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
-
-The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
-
-The Motley Fool • 1d ago
-
----
-
 **[Ethereum – Here are 3 reasons why ETH could hit $4.4K soon](https://ambcrypto.com/ethereum-here-are-3-reasons-why-eth-could-hit-4-4k-soon/)**
 
 Q1 2026 could turn out to be pretty interesting for the world's largest altcoin.
 
-AMBCrypto • 15h ago
+AMBCrypto • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Prices Rise After US Supreme Court Delays Trump Tariff Ruling](https://coinpedia.org/news/bitcoin-ethereum-and-xrp-prices-rise-after-us-supreme-court-delays-trump-tariff-ruling/)**
+**[Liquidity Builds Near $100K Bitcoin and $3,500 Ethereum—Can Prices Reach the Zone?](https://coinpedia.org/price-analysis/liquidity-builds-near-100k-bitcoin-and-3500-ethereum-can-prices-reach-the-zone/)**
 
-Bitcoin, Ethereum and XRP prices moved higher on Thursday after the US Supreme Court delayed an important decision on tariffs imposed by President Donald
+The Bitcoin price is jiggling around $91,000 while the Ethereum price remains stuck above $3000, displaying stability
 
-Coinpedia Fintech News • 1d ago
+Coinpedia Fintech News • 21h ago
 
 ---
 
-**[BitMine Stock Rips Open the New Year as Tom Lee Hammers a New $105 Million Stake into Ethereum](https://www.tipranks.com/news/bitmine-stock-rips-open-the-new-year-as-tom-lee-hammers-a-new-105-million-stake-into-ethereum)**
+**[Crypto Investment Flow 2025: Investors Are Dumping BTC for ETH, XRP and SOL](https://www.ccn.com/news/crypto/crypto-investment-flow-2025-btc-xrp-sol-eth/)**
 
-TipRanks • 2d ago
+CCN.com • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 87 • 💬 78 • ⏱️ 13:48 • 3h ago
+👁️ 1K • 👍 87 • 💬 78 • ⏱️ 13:48 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 4K • 👍 165 • 💬 138 • ⏱️ 11:37 • 19h ago
+👁️ 4K • 👍 165 • 💬 138 • ⏱️ 11:37 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 7K • 👍 247 • 💬 603 • ⏱️ 16:56 • 13h ago
+👁️ 7K • 👍 247 • 💬 603 • ⏱️ 16:56 • 14h ago
 
 ---
 
@@ -296,7 +296,7 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Digital Asset News
 
-👁️ 322 • 👍 4 • ⏱️ 1:34 • 2h ago
+👁️ 322 • 👍 4 • ⏱️ 1:34 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 743 • 💬 234 • ⏱️ 19:42 • 18h ago
+👁️ 21K • 👍 743 • 💬 234 • ⏱️ 19:42 • 19h ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 110 • 💬 12 • ⏱️ 5:05 • 16h ago
+👁️ 2K • 👍 110 • 💬 12 • ⏱️ 5:05 • 17h ago
 
 ---
 

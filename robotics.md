@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T09:42:53.378650+00:00'
+updated: '2026-01-11T10:22:58.678774+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 09:42 UTC  
+**Last Updated:** January 11, 2026 at 10:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -51,6 +51,14 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
 20h ago
+
+---
+
+**[Optimisation-based path planning for wheeled robots](https://www.reddit.com/r/robotics/comments/1q9vrs7/optimisationbased_path_planning_for_wheeled_robots/)**
+
+I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
+
+15m ago
 
 ---
 
@@ -72,47 +80,33 @@ Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an envi
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-22h ago
+23h ago
 
 ---
 
-**[A full MIT course on visual autonomous navigation.](https://www.reddit.com/r/robotics/comments/1q8pjwj/a_full_mit_course_on_visual_autonomous_navigation/)**
+**[Robotics coursework (+3k ⭐️ on GitHub)](https://www.reddit.com/r/robotics/comments/1q9w06d/robotics_coursework_3k_on_github/)**
 
-If you work on robotics, drones, or self-driving systems, this one is worth bookmarking‼️ MIT’s Visual Navigation for Autonomous Vehicles course covers the full perception-to-control stack, not just isolated algorithms. What it focuses on: • 2D and 3D vision for navigation • Visual and visual-inertial odometry for state estimation • Place recognition and SLAM for localization and mapping • Trajectory optimization for motion planning • Learning-based perception in geometric settings All material is available publicly, including slides and notes. 📍vnav.mit.edu If you know other solid resources on vision-based autonomy, feel free to share them. —- Weekly robotics and AI insights. Subscribe free: scalingdeep.tech
+This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-1d ago
-
----
-
-**[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
-
-1d ago
+1m ago
 
 ---
 
-**[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
+**[The $20K Humanoid Robot That Can’t Fold Your Laundry (Yet)...](https://www.reddit.com/r/robotics/comments/1q9vro9/the_20k_humanoid_robot_that_cant_fold_your/)**
 
-1d ago
+🔗 [cvisiona.com](https://cvisiona.com/the-20k-humanoid-robot-that-cant-fold-your-laundry-yet/) • 15m ago
 
 ---
 
-**[Servo stutters when I connect to a pot](https://www.reddit.com/r/robotics/comments/1q9jmoz/servo_stutters_when_i_connect_to_a_pot/)**
+**[CES 2026 Closes With Robots, China, And AI Everywhere](https://www.reddit.com/r/robotics/comments/1q9uuou/ces_2026_closes_with_robots_china_and_ai/)**
 
-9h ago
+🔗 [forbes.com](https://www.forbes.com/sites/charliefink/2026/01/10/ces-2026-closes-with-robots-china-and-ai-everywhere/) • 1h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
-
-If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
-
-TechCrunch • 1d ago
-
----
 
 **[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
 
@@ -122,9 +116,19 @@ Engadget • 18h ago
 
 ---
 
-**[Humanoid Robots Captivate Crowds At CES 2026 Tech Trade Show](https://www.investors.com/news/technology/ces-2026-humanoid-robots-captivate-crowds/)**
+**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
 
-Investor's Business Daily • 1d ago
+If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
+
+TechCrunch • 1d ago
+
+---
+
+**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
+
+Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
+
+The Verge • 19h ago
 
 ---
 
@@ -136,19 +140,11 @@ CNBC • 1d ago
 
 ---
 
-**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
-
-FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
-
-WYMT • 1d ago
-
----
-
 **[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -157,6 +153,14 @@ Seeking Alpha • 20h ago
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
 
 NVIDIA Developer • 2d ago
+
+---
+
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
+
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+
+WYMT • 1d ago
 
 ---
 
@@ -176,11 +180,9 @@ Fortune • 2d ago
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
+**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqckj008RjqUhA4zP0C02YZ34WeiHp2dwpo-dsts8xjk8fxMy-M3nr4Y&gaa_ts=69637d71&gaa_sig=AtzGSmnRYSwVFWDAyIf9UrvqjN_r1lge32FloSiRl0T3swwUZqhqdxEYn_t6zaIBTzIo_s-rNdCa2B0SZ7Ofqw%3D%3D)**
 
-Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
-
-The Verge • 18h ago
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -204,7 +206,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 65K • 👍 2K • ⏱️ 56:16 • 16h ago
+👁️ 65K • 👍 2K • ⏱️ 56:16 • 17h ago
 
 ---
 
@@ -214,7 +216,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 6K • 👍 353 • 💬 29 • ⏱️ 9:28 • 14h ago
+👁️ 6K • 👍 353 • 💬 29 • ⏱️ 9:28 • 15h ago
 
 ---
 
@@ -234,7 +236,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 51K • 👍 448 • 💬 39 • ⏱️ 11:13 • 4d ago
+👁️ 51K • 👍 448 • 💬 39 • ⏱️ 11:13 • 5d ago
 
 ---
 
@@ -244,7 +246,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 44K • 👍 644 • 💬 98 • ⏱️ 10:48 • 18h ago
+👁️ 44K • 👍 644 • 💬 98 • ⏱️ 10:48 • 19h ago
 
 ---
 
