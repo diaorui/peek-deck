@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T14:20:36.300532+00:00'
+updated: '2026-01-11T14:43:01.993782+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 14:20 UTC  
+**Last Updated:** January 11, 2026 at 14:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -123,13 +123,13 @@ Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/max
 
 Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
 **[AI Is Causing a Memory Shortage. Why Producers Aren’t Rushing to Make a Lot More.](https://www.wsj.com/tech/ai-is-causing-a-memory-shortage-why-producers-arent-rushing-to-make-a-lot-more-8dd15194?gaa_at=eafs&gaa_n=AWEtsqdYxqZaI4dDtPm-0iDQ_h2rjMCa8V4BnT_nFK7rOyK-dR85oAKhLezP&gaa_ts=6963b517&gaa_sig=SP0XV9X2DhHooKdGe8fREO-SK5lna0LpN5x4RqEue9NvL9X4AO_w4yCMKci95gdd_Us69kvzM6ob-yiYl2s0sQ%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -143,7 +143,7 @@ MarketWatch • 1d ago
 
 Here's why this should make investors confident in buying AI stocks.
 
-The Motley Fool • 50m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Motley Fool • 50m ago
 
 Following what billionaires think about AI can be a smart move.
 
-The Motley Fool • 37m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New York Times • 2d ago
 
 **[Musk’s Grok AI Blocked in Indonesia, Malaysia Over Sexual Images](https://www.bloomberg.com/news/articles/2026-01-11/musk-s-grok-ai-blocked-in-indonesia-malaysia-over-sexual-images)**
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -237,7 +237,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 196 • 💬 313 • 3h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 196 • 💬 313 • 4h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -311,7 +311,7 @@ Grandma Shocked When Elephant Takes Her Birthday Cake #ai #baby #save #CuteEleph
 
 📺 rk kahaniyaa
 
-👁️ 385 • 👍 8 • 💬 1 • ⏱️ 0:26 • 33m ago
+👁️ 385 • 👍 8 • 💬 1 • ⏱️ 0:26 • 55m ago
 
 ---
 
@@ -321,7 +321,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 33K • 👍 2K • 💬 178 • ⏱️ 35:41 • 10h ago
+👁️ 33K • 👍 2K • 💬 178 • ⏱️ 35:41 • 11h ago
 
 ---
 
@@ -359,7 +359,7 @@ Hey Guys! All Premium AI Models in One Place – Totally FREE is what this video
 
 📺 The Williams Fam
 
-👁️ 222K • 👍 6K • 💬 286 • ⏱️ 0:16 • 21h ago
+👁️ 222K • 👍 6K • 💬 286 • ⏱️ 0:16 • 22h ago
 
 ---
 
@@ -647,7 +647,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 135 • 21m ago
+⭐ 2.2k • 🔱 135 • 43m ago
 
 ---
 
