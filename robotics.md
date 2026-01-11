@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T16:48:43.907574+00:00'
+updated: '2026-01-11T17:18:33.000504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 16:48 UTC  
+**Last Updated:** January 11, 2026 at 17:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-5h ago
+6h ago
 
 ---
 
@@ -90,7 +90,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
 
-6h ago
+7h ago
 
 ---
 
@@ -172,7 +172,7 @@ NVIDIA Developer • 2d ago
 
 CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -220,7 +220,7 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 📺 Cybernews
 
-👁️ 6K • 👍 134 • 💬 46 • ⏱️ 11:29 • 19h ago
+👁️ 6K • 👍 134 • 💬 46 • ⏱️ 11:29 • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 7K • 👍 407 • 💬 30 • ⏱️ 9:28 • 21h ago
+👁️ 7K • 👍 407 • 💬 30 • ⏱️ 9:28 • 22h ago
 
 ---
 
@@ -270,7 +270,7 @@ For more context and news coverage of the most important stories of our day, cli
 
 📺 NBC News
 
-👁️ 189K • 👍 2K • 💬 211 • ⏱️ 0:22 • 4d ago
+👁️ 189K • 👍 2K • 💬 211 • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -290,7 +290,7 @@ Recent viral clips making the rounds on social media are good reminders that tod
 
 📺 Kalil 4.0
 
-👁️ 5K • 👍 84 • 💬 9 • ⏱️ 0:24 • 13h ago
+👁️ 5K • 👍 84 • 💬 9 • ⏱️ 0:24 • 14h ago
 
 ---
 

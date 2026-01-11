@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T16:48:43.898014+00:00'
+updated: '2026-01-11T17:18:32.991290+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 16:48 UTC  
+**Last Updated:** January 11, 2026 at 17:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 That moment in 2030 when the “buy $BTC in 2026” advice finally hits
 
-2h ago
+3h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-3h ago
+4h ago
 
 ---
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
 
-3h ago
+4h ago
 
 ---
 
@@ -145,7 +145,7 @@ I’ve been reading more about how leverage and derivatives interact with Bitcoi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 1d ago
 
 **[Top Cryptocurrencies (Beyond Bitcoin) Poised To Surge in 2026](https://uk.finance.yahoo.com/news/top-cryptocurrencies-beyond-bitcoin-poised-161205725.html)**
 
-Yahoo Finance UK • 36m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bitcoin Magazine • 2d ago
 
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-Bitbo • 9h ago
+Bitbo • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 555 • ⏱️ 17:17 • 18h ago
+👁️ 22K • 👍 2K • 💬 555 • ⏱️ 17:17 • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 340 • 💬 110 • ⏱️ 1:01:22 • 2h ago
+👁️ 4K • 👍 340 • 💬 110 • ⏱️ 1:01:22 • 3h ago
 
 ---
 
