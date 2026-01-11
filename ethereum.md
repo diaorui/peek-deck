@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T22:44:40.663422+00:00'
+updated: '2026-01-11T23:21:02.603430+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 22:44 UTC  
+**Last Updated:** January 11, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.72B
+**Market Cap:** $374.16B
 Rank #2
 
 **Circulating Supply:** 120,694,727 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.0%
 
 **All-Time Low:** $0.43
-+716978.7%
++719683.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-1d ago
+2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Decrypt • 3d ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -204,7 +204,7 @@ AMBCrypto • 11h ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -226,7 +226,7 @@ Benzinga • 2d ago
 
 **[312K+ Holders Pick BlockDAG for a 16.6x Play While Dogecoin & Ethereum Stall](https://financefeeds.com/312k-holders-pick-blockdag-for-a-16-6x-play-while-dogecoin-ethereum-stall/)**
 
-FinanceFeeds • 4h ago
+FinanceFeeds • 5h ago
 
 ---
 
@@ -240,7 +240,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 177 • 💬 32 • ⏱️ 12:34 • 13h ago
+👁️ 3K • 👍 189 • 💬 31 • ⏱️ 12:34 • 14h ago
 
 ---
 
@@ -250,27 +250,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 733 • 💬 83 • ⏱️ 24:05 • 1d ago
-
----
-
-**[BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WhTxZW51neE)**
-
-BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 651 • 👍 52 • 💬 10 • ⏱️ 14:54 • 2h ago
-
----
-
-**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 408 • 👍 24 • 💬 7 • ⏱️ 5:22 • 8h ago
+👁️ 14K • 👍 748 • 💬 85 • ⏱️ 24:05 • 1d ago
 
 ---
 
@@ -280,7 +260,27 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 8K • 👍 216 • 💬 332 • ⏱️ 13:48 • 16h ago
+👁️ 9K • 👍 233 • 💬 522 • ⏱️ 13:48 • 17h ago
+
+---
+
+**[BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WhTxZW51neE)**
+
+BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 177 • 💬 31 • ⏱️ 14:54 • 3h ago
+
+---
+
+**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 490 • 👍 24 • 💬 15 • ⏱️ 5:22 • 9h ago
 
 ---
 
@@ -290,27 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 7 • ⏱️ 5:19 • 6h ago
-
----
-
-**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
-
-Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 237 • 💬 32 • ⏱️ 4:20 • 2d ago
-
----
-
-**[ETHEREUM (ETH), SOLANA (SOL) , SUI | Price Prediction : Higher Prices Ahead ?! Targets &amp; Key Levels](https://www.youtube.com/watch?v=lmlfRJBA4H4)**
-
-Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
-
-📺 KG TRADING - Crypto Elliott Waves
-
-👁️ 110 • 👍 11 • 💬 1 • ⏱️ 14:10 • 5h ago
+👁️ 2K • 👍 134 • 💬 8 • ⏱️ 5:19 • 7h ago
 
 ---
 
@@ -320,17 +300,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 843 • 💬 173 • ⏱️ 19:42 • 1d ago
+👁️ 26K • 👍 872 • 💬 180 • ⏱️ 19:42 • 1d ago
 
 ---
 
-**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
+**[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 C-Zar Gets Crypto 
+📺 Stock Moe
 
-👁️ 829 • 👍 44 • 💬 46 • ⏱️ 6:18 • 1d ago
+👁️ 16K • 👍 918 • 💬 98 • ⏱️ 12:30 • 2d ago
+
+---
+
+**[2026 Ethereum Price Prediction (HIGHER Than You THINK)](https://www.youtube.com/watch?v=LS1HhecTEq0)**
+
+Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, they have just now filed paperwork for an ETH ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 238 • 💬 32 • ⏱️ 4:20 • 2d ago
+
+---
+
+**[ETHEREUM (ETH), SOLANA (SOL) , SUI | Price Prediction : Higher Prices Ahead ?! Targets &amp; Key Levels](https://www.youtube.com/watch?v=lmlfRJBA4H4)**
+
+Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
+
+📺 KG TRADING - Crypto Elliott Waves
+
+👁️ 152 • 👍 15 • 💬 2 • ⏱️ 14:10 • 6h ago
 
 ---
 

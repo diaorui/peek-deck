@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T22:44:40.657475+00:00'
+updated: '2026-01-11T23:21:02.596831+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 22:44 UTC  
+**Last Updated:** January 11, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.63B
+**Market Cap:** $1805.66B
 Rank #1
 
-**Circulating Supply:** 19,974,578 BTC
+**Circulating Supply:** 19,974,643 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.0%
 
 **All-Time Low:** $67.81
-+133343.4%
++133840.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 1h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 2h ago
 
 ---
 
@@ -95,13 +95,13 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-5h ago
+6h ago
 
 ---
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-2h ago
+3h ago
 
 ---
 
@@ -131,7 +131,7 @@ What are crypto ATMs and why are scammers using them? Learn how these machines w
 
 Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Now that Wall Street has entered the Bitcoin market, what—if any—structural 
 
 Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
 
-9h ago
+10h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Block • 1d ago
 
 Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
 
-CryptoSlate • 13h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 2d ago
 
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Motley Fool • 11h ago
 
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-Bitbo • 15h ago
+Bitbo • 16h ago
 
 ---
 
@@ -237,7 +237,7 @@ VanEck • 3d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 45 • 💬 3 • 2d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 45 • 💬 3 • 3d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -287,7 +287,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 **[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
 
-⬆️ 1 • 💬 1 • 6d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
+⬆️ 1 • 💬 1 • 7d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 203 • ⏱️ 17:17 • 1d ago
+👁️ 26K • 👍 2K • 💬 192 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 758 • 💬 189 • ⏱️ 1:01:22 • 8h ago
+👁️ 18K • 👍 895 • 💬 316 • ⏱️ 1:01:22 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 9K • 👍 485 • 💬 292 • ⏱️ 3:25 • 1d ago
+👁️ 10K • 👍 496 • 💬 287 • ⏱️ 3:25 • 1d ago
 
 ---
 
@@ -347,7 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 54K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
+👁️ 56K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
 
 ---
 
@@ -357,27 +357,17 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 20K • 👍 2K • 💬 446 • ⏱️ 10:43 • 2d ago
+👁️ 20K • 👍 2K • 💬 431 • ⏱️ 10:43 • 2d ago
 
 ---
 
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=nHFwJzyDeVg)**
 
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Digital Asset News
+📺 77 Rockets Woodworking 
 
-👁️ 13K • 👍 733 • 💬 83 • ⏱️ 24:05 • 1d ago
-
----
-
-**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 60K • 👍 3K • 💬 414 • ⏱️ 9:19 • 2d ago
+👁️ 2K • 👍 501 • 21m ago
 
 ---
 
@@ -387,17 +377,17 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 255 • ⏱️ 17:07 • 2d ago
+👁️ 27K • 👍 2K • 💬 252 • ⏱️ 17:07 • 2d ago
 
 ---
 
-**[BITCOIN HISTORY REPEATING!!!!!](https://www.youtube.com/watch?v=ZF-9JbPgapY)**
+**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-📺 Crypto Rover
+📺 Altcoin Daily
 
-👁️ 8K • 👍 465 • 💬 104 • ⏱️ 8:12 • 16h ago
+👁️ 61K • 👍 3K • 💬 399 • ⏱️ 9:19 • 2d ago
 
 ---
 
@@ -407,7 +397,17 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 263 • ⏱️ 11:14 • 2d ago
+👁️ 55K • 👍 3K • 💬 268 • ⏱️ 11:14 • 2d ago
+
+---
+
+**[BITCOIN HISTORY REPEATING!!!!!](https://www.youtube.com/watch?v=ZF-9JbPgapY)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+
+📺 Crypto Rover
+
+👁️ 9K • 👍 470 • 💬 108 • ⏱️ 8:12 • 17h ago
 
 ---
 

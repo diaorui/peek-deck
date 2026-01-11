@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T22:44:40.666939+00:00'
+updated: '2026-01-11T23:21:02.606674+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 22:44 UTC  
+**Last Updated:** January 11, 2026 at 23:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-11h ago
+12h ago
 
 ---
 
@@ -58,7 +58,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -74,7 +74,7 @@ Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing y
 
 I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
 
-12h ago
+13h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi all, currently working on a bionic hand project. The project itself is relati
 
 Hi everyone, I’m working on a wall-climbing painting robot (think vertical surfaces, not floor navigation). The robot is given the wall dimensions and a start pose, then follows a planned path to paint the wall. I’m currently trying to decide whether adding a camera + computer vision is actually worth it, or if it will overcomplicate the system. The main things I need (now and in future versions) are: Accurate measurement of how much the robot moved (distance + rotation) Localization on the wall (x, y, heading) without drift Detecting obstacles/boundaries like windows or “do not paint” areas (not front obstacles, but areas below/around) Judging paint quality (missed spots, uneven coverage, streaks) I originally tried ESP32 with a camera, but image quality and reliability were very poor. I’m now considering: Encoders + IMU for motion Possibly adding a camera (optical flow / simple vision) Using something like a Raspberry Pi Zero 2 W + Pi Camera as a companion computer My concerns: Is a camera really necessary for these tasks, or can I reasonably avoid it? Will computer vision be too computationally heavy / expensive for a small robot?(basic computer version algorithms not CNN) Is Pi Zero 2 W good choice ? and will its camera quality be realistically capable for lightweight CV (optical flow, AprilTags, simple inspection), or is that pushing it too far? Has anyone built something similar or have experience or advice in this part I’m intentionally trying to avoid heavy deep-learning solutions and keep things lightweight and robust. Any real-world experience, advice, or “I tried this and it failed/succeeded” stories would be extremely helpful. Thanks!
 
-14m ago
+50m ago
 
 ---
 
@@ -106,7 +106,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 Hi everyone 👋 A while ago I shared CANgaroo, an open-source CAN / CAN-FD analyzer for Linux. Since then, based on real-world validation and community feedback, I’ve been actively maintaining and extending it, so I wanted to share a short update. What CANgaroo is CANgaroo is a Linux-native CAN bus analysis tool focused on everyday debugging and monitoring. The workflow is inspired by tools like BusMaster / PCAN-View, but it’s fully open-source and built around SocketCAN. It’s aimed at automotive, robotics, and industrial use cases. Key capabilities: Real-time CAN & CAN-FD capture Multi-DBC signal decoding Trace-view-focused workflow Signal graphing, filtering, and log export Hardware support: SocketCAN, CANable (SLCAN), Candlelight, CANblaster (UDP) Virtual CAN (vcan) support for testing without hardware 🆕 Recent Changes (v0.4.4) Some notable improvements since the previous post: Unified Protocol Decoding Intelligent prioritization between J1939 (29-bit) and UDS / ISO-TP (11-bit) with robust TP reassembly Enhanced J1939 Support Auto-labeling for common PGNs (e.g. VIN, EEC1) and reassembled BAM / CM messages Generator Improvements Global Stop halts all cyclic transmissions Generator loopback — transmitted frames now appear in the Trace View (TX) Stability & UI Responsiveness Safer state-management pattern replacing unstable signal blocking Improved trace-view reliability during live editing Overall, the focus is on stability, protocol correctness, and real-world debugging workflows, rather than experimental RE features. Source & releases: 👉 https://github.com/OpenAutoDiagLabs/CANgaroo Feedback and real-world use cases are very welcome — feature requests are best tracked via GitHub issues so they don’t get lost.
 
-3h ago
+4h ago
 
 ---
 
@@ -150,7 +150,7 @@ Seeking Alpha • 1d ago
 
 Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
 
-WBAL-TV • 22h ago
+WBAL-TV • 23h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 3d ago
 
 **[Regional robotics competition highlights community, creativity at Powhatan High School](https://www.wric.com/news/local-news/powhatan-county/regional-robotics-competition-powhatan-high-school/)**
 
-WRIC ABC 8News • 2h ago
+WRIC ABC 8News • 3h ago
 
 ---
 
@@ -202,27 +202,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 288K • 👍 4K • 💬 655 • ⏱️ 4:29 • 4d ago
-
----
-
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 7K • 👍 149 • 💬 31 • ⏱️ 11:29 • 1d ago
-
----
-
-**[2026 FIRST Robotics Competition Kickoff Broadcast: REBUILT presented by Haas](https://www.youtube.com/watch?v=9kRhE5vgCvY)**
-
-The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal of REBUILT presented by Haas. To learn ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 67K • 👍 2K • ⏱️ 56:16 • 1d ago
+👁️ 291K • 👍 4K • 💬 662 • ⏱️ 4:29 • 4d ago
 
 ---
 
@@ -232,47 +212,47 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 53K • 👍 467 • 💬 39 • ⏱️ 11:13 • 5d ago
+👁️ 54K • 👍 470 • 💬 39 • ⏱️ 11:13 • 5d ago
 
 ---
 
-**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
 
-📺 Julia McCoy
+📺 Cybernews
 
-👁️ 14K • 👍 1K • 💬 192 • ⏱️ 14:30 • 7h ago
-
----
-
-**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
-
-The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
-
-📺 Hyundai Motor Group
-
-👁️ 246K • 👍 61 • ⏱️ 1:15 • 5d ago
+👁️ 8K • 👍 153 • 💬 30 • ⏱️ 11:29 • 1d ago
 
 ---
 
-**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
+**[Chinese Robots Just SHOCKED Everyone at CES 2026 Expo](https://www.youtube.com/watch?v=Hps7t7liOqM)**
 
-Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
+Chinese robotics took center stage at CES 2026, stunning visitors with rapid advances in AI, automation, and humanoid design.
 
-📺 Trisha Hershberger
+📺 Carros Show
 
-👁️ 8K • 👍 441 • 💬 31 • ⏱️ 9:28 • 1d ago
+👁️ 10K • 👍 121 • 💬 6 • ⏱️ 8:33 • 4d ago
 
 ---
 
-**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
+**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
 
-This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
+LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
 
-📺 FIRSTRoboticsCompetition
+📺 WION
 
-👁️ 67K • 👍 1K • 💬 175 • ⏱️ 3:13 • 1d ago
+👁️ 5K • 👍 21 • 💬 13 • ⏱️ 1:15 • 5d ago
+
+---
+
+**[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026](https://www.youtube.com/watch?v=9e0SQn9uUlw)**
+
+Watch Hyundai Motor Group and Boston Dynamics show off their next-generation all-electric Atlas robot, designed for factory work ...
+
+📺 PCMag
+
+👁️ 742K • 👍 13K • 💬 2K • ⏱️ 7:00 • 6d ago
 
 ---
 
@@ -282,17 +262,37 @@ For more context and news coverage of the most important stories of our day, cli
 
 📺 NBC News
 
-👁️ 191K • 👍 2K • 💬 212 • ⏱️ 0:22 • 5d ago
+👁️ 193K • 👍 2K • 💬 212 • ⏱️ 0:22 • 5d ago
 
 ---
 
-**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
+**[At CES 2026, AI Takes Over Las Vegas](https://www.youtube.com/watch?v=nuivRxby208)**
 
-Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
+The world's largest tech show is back and AI is powering nearly every major reveal. Here's your first look! Connect with Cheddar!
 
-📺 Hyundai Motor Group
+📺 Cheddar
 
-👁️ 570K • 👍 45 • 💬 1 • ⏱️ 0:59 • 4d ago
+👁️ 18K • 👍 185 • 💬 21 • ⏱️ 3:36 • 6d ago
+
+---
+
+**[LG’s New AI Robot Promisses Consumers a ‘Zero Labor Home’](https://www.youtube.com/watch?v=KScg3q4XqOM)**
+
+LG unveiled its new AI-powdered Robot named CLOiD at the CES tech event in Las Vegas, Nevada. CLOiD is programed to work ...
+
+📺 New York Post
+
+👁️ 7K • 👍 98 • 💬 60 • ⏱️ 4:23 • 5d ago
+
+---
+
+**[Progress made on AI-powered humanoid robots | 60 Minutes](https://www.youtube.com/watch?v=CbHeh7qwils)**
+
+Engineers and computer scientists are developing AI-powered robots that look and act human. Boston Dynamics invited 60 ...
+
+📺 60 Minutes
+
+👁️ 1.4M • 👍 19K • 💬 5K • ⏱️ 13:17 • 6d ago
 
 ---
 

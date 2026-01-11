@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T22:44:40.649091+00:00'
+updated: '2026-01-11T23:21:02.588364+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 22:44 UTC  
+**Last Updated:** January 11, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 : Poison Fountain project seeks allies to fight the power
 
-🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 3h ago
+🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 4h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-7h ago
+8h ago
 
 ---
 
@@ -71,7 +71,7 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-16h ago
+17h ago
 
 ---
 
@@ -123,7 +123,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 As retailers create AI agents for shopping and customer service, Google wants to secure its place in the ecommerce market.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 7h ago
 
 Trump administration's global influence strategy runs through the AI supply chain.
 
-Gizmodo • 30m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Motley Fool • 4h ago
 
 Which stock is the best artificial intelligence (AI) play for investors: Nvidia (NVDA), Intel (INTC), or AMD (AMD)? D.A. Davidson head of technology research Gil Luria, Wedbush Securities managing director and global head of technology research Dan Ives, and Yahoo Finance Senior Reporter Ines Ferré join Opening Bid host Brian Sozzi to share their takes on the names. To watch more expert insights and analysis on the latest market action, check out more Opening Bid.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 1h ago
 
 Anthropic launches Claude for Healthcare, expanding AI tools for clinicians, insurers, and patients.
 
-Business Insider • 44m ago
+Business Insider • 1h ago
 
 ---
 
@@ -171,13 +171,13 @@ Business Insider • 44m ago
 
 "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
 **[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Atlantic • 2d ago
 
 **[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
 
-The Hill • 5h ago
+The Hill • 6h ago
 
 ---
 
@@ -249,7 +249,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 34 • 💬 18 • 22h ago
+⬆️ 34 • 💬 18 • 23h ago
 
 ---
 
@@ -279,33 +279,13 @@ Roasting AI-generated garbage software, one app at a time.
 
 ## YouTube Videos: "ai"
 
-**[These humanoid robots are ‘driven by AI’, says Arm CEO](https://www.youtube.com/watch?v=cDWE6aAxyBk)**
-
-Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances its capabilities on 'The Claman ...
-
-📺 Fox Business
-
-👁️ 13K • 👍 277 • 💬 122 • ⏱️ 3:53 • 21h ago
-
----
-
-**[Grok AI model still generating sexualized content after changes](https://www.youtube.com/watch?v=Y3JZdJlwomE)**
-
-On Elon Musk's social media platform X, the Grok AI image generation reply bot has been changed to be for paying customers ...
-
-📺 NBC News
-
-👁️ 14K • 👍 120 • 💬 72 • ⏱️ 5:25 • 1d ago
-
----
-
 **[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
 
 Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
 
 📺 Dan Martell
 
-👁️ 82K • 👍 4K • 💬 314 • ⏱️ 19:15 • 2d ago
+👁️ 85K • 👍 4K • 💬 316 • ⏱️ 19:15 • 2d ago
 
 ---
 
@@ -315,7 +295,27 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 102K • 👍 2K • 💬 70 • ⏱️ 17:54 • 2d ago
+👁️ 103K • 👍 2K • 💬 70 • ⏱️ 17:54 • 2d ago
+
+---
+
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
+
+CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
+
+📺 AI Revolution
+
+👁️ 34K • 👍 1K • 💬 49 • ⏱️ 11:06 • 2d ago
+
+---
+
+**[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 50K • 👍 2K • 💬 299 • ⏱️ 17:36 • 20h ago
 
 ---
 
@@ -325,7 +325,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 203 • 👍 48 • 💬 18 • ⏱️ 24:00 • 3h ago
+👁️ 486 • 👍 93 • 💬 29 • ⏱️ 24:00 • 3h ago
 
 ---
 
@@ -335,7 +335,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 49K • 👍 2K • 💬 157 • ⏱️ 14:39 • 1d ago
+👁️ 51K • 👍 2K • 💬 159 • ⏱️ 14:39 • 1d ago
 
 ---
 
@@ -345,17 +345,7 @@ Artificial intelligence could eliminate millions of jobs within the next five ye
 
 📺 LBC
 
-👁️ 19K • 👍 348 • 💬 311 • ⏱️ 11:00 • 1d ago
-
----
-
-**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
-
-The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
-
-📺 Nate Ziller
-
-👁️ 143K • 👍 15K • 💬 1K • ⏱️ 4:38 • 1d ago
+👁️ 21K • 👍 368 • 💬 311 • ⏱️ 11:00 • 1d ago
 
 ---
 
@@ -365,17 +355,27 @@ The next episode of my AI series. The AI character is making using AI, but is st
 
 📺 TIME
 
-👁️ 99K • 👍 3K • 💬 384 • ⏱️ 24:32 • 2d ago
+👁️ 105K • 👍 3K • 💬 399 • ⏱️ 24:32 • 2d ago
 
 ---
 
-**[I Asked AI If It Supports the Operation in Venezuela. And Here’s What It Said](https://www.youtube.com/watch?v=BLLa0DblYaE)**
+**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
 
-In this video, I ask AI what it thinks about the U.S. military operation in Venezuela, the real reason behind the capture of Nicolas ...
+The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
 
-📺 I Ask AI
+📺 Nate Ziller
 
-👁️ 6K • 👍 1K • 💬 190 • ⏱️ 14:02 • 1d ago
+👁️ 160K • 👍 16K • 💬 1K • ⏱️ 4:38 • 1d ago
+
+---
+
+**[AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](https://www.youtube.com/watch?v=qOr5-FrkElk)**
+
+HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+
+📺 AI Search
+
+👁️ 47K • 👍 2K • 💬 234 • ⏱️ 35:41 • 19h ago
 
 ---
 
@@ -391,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 629,855 • ❤️ 785 • 3d ago
+⬇️ 629,855 • ❤️ 788 • 3d ago
 
 ---
 
@@ -403,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,771 • ❤️ 714 • 10d ago
+⬇️ 9,771 • ❤️ 715 • 10d ago
 
 ---
 
@@ -415,7 +415,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 16,027 • ❤️ 421 • 4d ago
+⬇️ 16,027 • ❤️ 426 • 4d ago
 
 ---
 
@@ -427,7 +427,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,257 • ❤️ 289 • 5d ago
+⬇️ 2,257 • ❤️ 292 • 5d ago
 
 ---
 
@@ -439,7 +439,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 11,562 • ❤️ 266 • 2d ago
+⬇️ 11,562 • ❤️ 269 • 2d ago
 
 ---
 
@@ -451,7 +451,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,522 • ❤️ 346 • 5d ago
+⬇️ 30,522 • ❤️ 347 • 5d ago
 
 ---
 
@@ -463,7 +463,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 586 • ❤️ 207 • 5d ago
+⬇️ 586 • ❤️ 208 • 5d ago
 
 ---
 
@@ -475,7 +475,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 `text-generation` `235.1B`
 
-⬇️ 1,354 • ❤️ 204 • 5d ago
+⬇️ 1,354 • ❤️ 206 • 5d ago
 
 ---
 
@@ -487,7 +487,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 23,403 • ❤️ 568 • 11d ago
+⬇️ 23,403 • ❤️ 569 • 11d ago
 
 ---
 
@@ -499,7 +499,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 207,986 • ❤️ 1,010 • 15d ago
+⬇️ 207,986 • ❤️ 1,012 • 15d ago
 
 ---
 
@@ -513,7 +513,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 170 • 💬 5 • ⭐ 4,362 • 1mo ago
+▲ 170 • 💬 5 • ⭐ 4,407 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -537,7 +537,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 21 • 💬 2 • ⭐ 678 • 6d ago
+▲ 21 • 💬 2 • ⭐ 732 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -565,7 +565,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-▲ 2 • 💬 0 • ⭐ 2,294 • 11mo ago
+▲ 2 • 💬 0 • ⭐ 2,340 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
@@ -643,7 +643,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 995 • 6h ago
+⭐ 7.9k • 🔱 997 • 6h ago
 
 ---
 
@@ -653,7 +653,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 359 • 4d ago
+⭐ 2.5k • 🔱 366 • 4d ago
 
 ---
 
@@ -663,7 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 135 • 5h ago
+⭐ 2.3k • 🔱 136 • 5h ago
 
 ---
 
@@ -673,7 +673,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 223 • 9h ago
+⭐ 2.0k • 🔱 224 • 10h ago
 
 ---
 
@@ -733,7 +733,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.1k • 🔱 127 • 4h ago
+⭐ 1.1k • 🔱 127 • 5h ago
 
 ---
 
