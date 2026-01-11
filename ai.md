@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T16:26:31.902816+00:00'
+updated: '2026-01-11T16:48:43.889272+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 16:26 UTC  
+**Last Updated:** January 11, 2026 at 16:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,7 +53,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 **[I met Co-Pilot.](https://www.reddit.com/r/artificial/comments/1qa26vb/i_met_copilot/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -69,7 +69,7 @@ Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI i
 
 Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
 
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 21h ago
+🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 22h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 6h ago
 
 These stocks are poised to deliver wealth-building returns.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Motley Fool • 5h ago
 
 Here's why this should make investors confident in buying AI stocks.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 16h ago
 
 Here’s what the future might sound like, according to a science writer who experimented with it.
 
-vox.com • 4h ago
+vox.com • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 38K • 👍 2K • 💬 197 • ⏱️ 35:41 • 12h ago
+👁️ 38K • 👍 2K • 💬 197 • ⏱️ 35:41 • 13h ago
 
 ---
 
@@ -355,7 +355,7 @@ Manus AI is one of the most underrated AI tools, and this update takes it to ano
 
 📺 The Williams Fam
 
-👁️ 248K • 👍 7K • 💬 301 • ⏱️ 0:16 • 23h ago
+👁️ 248K • 👍 7K • 💬 301 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -633,7 +633,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 987 • 30s ago
+⭐ 7.9k • 🔱 987 • 22m ago
 
 ---
 
@@ -653,7 +653,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 135 • 11m ago
+⭐ 2.2k • 🔱 135 • 33m ago
 
 ---
 
@@ -723,7 +723,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.1k • 🔱 128 • 19m ago
+⭐ 1.1k • 🔱 128 • 42m ago
 
 ---
 

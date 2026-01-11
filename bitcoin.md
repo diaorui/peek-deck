@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T16:26:31.911487+00:00'
+updated: '2026-01-11T16:48:43.898014+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 16:26 UTC  
+**Last Updated:** January 11, 2026 at 16:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -129,7 +129,7 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 I’ve been reading more about how leverage and derivatives interact with Bitcoin’s price, especially during periods of higher volatility. It seems like large clusters of leveraged positions can sometimes amplify moves when the market becomes unstable. Rather than focusing on short-term price action, I’m curious how people here think about the role of leverage in Bitcoin markets overall. Do you see it as something that adds useful liquidity, or does it mostly increase volatility and risk compared to Bitcoin’s original design? Interested in hearing different perspectives on how this affects the broader ecosystem.
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ I’ve been reading more about how leverage and derivatives interact with Bitcoi
 
 --- TL;DR: My thoughts are that BTC is not currently in a confirmed bear market. From a macro, monthly structure perspective, as long as ~74k holds on a monthly close, the higher-timeframe bull structure remains intact. At the same time, monthly volatility has been compressed for over a year, suggesting a meaningful expansion phase is more likely sooner rather than later. Direction isn’t guaranteed — but structure still favours continuation unless that higher low breaks. --- I want to share this chart as a way of thinking about Bitcoin in terms of macro structure, rather than narratives or rigid cycle assumptions. This is a long-term Fibonacci extension drawn using major historical pivots: the early BTC genesis low (2009–2010), the 2017 cycle high, and the 2018 bear-market low. Volatility, represented by Caretaker’s BBWP indicator (Bollinger Band Width Percentile, length 13, lookback 252), is at the bottom. The goal here isn’t strict prediction (although it kind of is) — it’s to map out higher-timeframe structure. What stands out to me is how closely the current market is respecting these levels. The 4.236 extension around ~87k lines up almost perfectly with BTC’s most recent support zone, while the 3.618 extension around ~74k aligns with the current monthly higher low. For me, that ~74k level is the key structural line in the sand. As long as BTC holds above it on a monthly closing basis, higher-timeframe structure and trend remains intact with higher-highs and higher-lows. A clean monthly close below that level, followed by a failed reclaim, would be my signal that a true bear-market regime is likely. Above current price, the higher Fibonacci extensions — roughly the 6.854 and 10.618 levels — cluster in the high-100k to low-200k range. These aren’t targets so much as zones where long-term extensions naturally converge if the current structure continues to resolve upward. The box labeled “EOY 2026 / Early 2027” is a structural zone with a bit of honest hopium, not a call for an exact top. One additional piece that makes this setup interesting to me is volatility. On the monthly timeframe, volatility as measured by the BBWP has been in an extreme compression regime (<20) for over a year now — one of the longest such periods in BTC’s history. With the settings above, Bitcoin has only experienced such a compression for longer than 17 months once in history, and it’s currently on month 15. So historically, volatility compressions on higher timeframes don't persist indefinitely and tend to resolve with expansion. That alone doesn’t tell us direction, but it does suggest the current range is unlikely to last much longer. If past behaviour is any guide, this points to a meaningful expansion phase occurring potentially within 3-6 months. If the ~74k level continues to hold on a monthly basis and momentum can flip back to the upside, then interaction with the next higher fib levels becomes increasingly plausible. One last note on the BBWP, each 'bull run' in the past has seen a BBWP of >50, which we have not yet seen for the current run. This chart is meant as a framework, not a call for tops or bottoms. It’s about identifying where structure breaks versus where it remains valid. As long as the monthly higher low around ~74k holds, I find it difficult to justify strong bear-market conviction purely from a structural standpoint until that level breaks on a monthly close. I’m posting this to get other perspectives, especially from people who focus on higher-timeframe structure rather than cycle timing or short-term indicators. If you see flaws in the anchoring, interpretation, or assumptions here, I’d genuinely like to hear them. --- Honest Disclaimer: AI helped turn scattered thoughts into readable English. The ideas (and any bad takes) are still very much my own. ---
 
-14h ago
+15h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 1d ago
 
 **[Top Cryptocurrencies (Beyond Bitcoin) Poised To Surge in 2026](https://uk.finance.yahoo.com/news/top-cryptocurrencies-beyond-bitcoin-poised-161205725.html)**
 
-Yahoo Finance UK • 14m ago
+Yahoo Finance UK • 36m ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 1d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -365,7 +365,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 19h ago
+👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 20h ago
 
 ---
 

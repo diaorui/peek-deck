@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T16:26:31.917569+00:00'
+updated: '2026-01-11T16:48:43.904185+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 16:26 UTC  
+**Last Updated:** January 11, 2026 at 16:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -186,7 +186,7 @@ CoinDesk • 3h ago
 
 Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 19h ago
+👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 20h ago
 
 ---
 
@@ -260,7 +260,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 184 • 💬 488 • ⏱️ 13:48 • 10h ago
+👁️ 6K • 👍 184 • 💬 488 • ⏱️ 13:48 • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 200 • 👍 23 • 💬 11 • ⏱️ 5:22 • 2h ago
+👁️ 200 • 👍 23 • 💬 11 • ⏱️ 5:22 • 3h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 295 • 👍 45 • 💬 3 • ⏱️ 5:19 • 35m ago
+👁️ 295 • 👍 45 • 💬 3 • ⏱️ 5:19 • 57m ago
 
 ---
 
