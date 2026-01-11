@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T11:18:17.470255+00:00'
+updated: '2026-01-11T11:40:06.340001+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 11:18 UTC  
+**Last Updated:** January 11, 2026 at 11:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -3.5%  
-**30d:** +0.6%  
+**24h:** +0.1%  
+**7d:** -3.6%  
+**30d:** +0.5%  
 **90d:** -19.7%  
 **1y:** -3.9%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1810.78B
+**Market Cap:** $1809.89B
 Rank #1
 
-**Circulating Supply:** 19,974,443 BTC
+**Circulating Supply:** 19,974,478 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -28.1%
 
 **All-Time Low:** $67.81
-+133622.2%
++133523.4%
 
 ---
 
@@ -85,21 +85,21 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 ---
 
-**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
-
-1d ago
-
----
-
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
 21h ago
 
 ---
 
+**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
+
+1d ago
+
+---
+
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -108,6 +108,22 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
 18h ago
+
+---
+
+**[SLIP-0039 with shamir backup](https://www.reddit.com/r/Bitcoin/comments/1q9w818/slip0039_with_shamir_backup/)**
+
+I basically wanna do the ninja method with metal rings and a trezor 3 for btc only with the shamir backup with a 2/3 construction and split it over 3 locations does this sound like a good idea or are there better ones? Just got to this information on the internet don t have friends who do btc.
+
+1h ago
+
+---
+
+**[Daily Discussion, January 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1q9rnwr/daily_discussion_january_11_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+5h ago
 
 ---
 
@@ -131,33 +147,9 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 ---
 
-**[Daily Discussion, January 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1q9rnwr/daily_discussion_january_11_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
-
----
-
-**[Bitcoin recurring buys](https://www.reddit.com/r/Bitcoin/comments/1q9c3yx/bitcoin_recurring_buys/)**
-
-Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
-
-16h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
-
-It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
-
-CNBC • 1d ago
-
----
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
@@ -165,11 +157,17 @@ The Block • 19h ago
 
 ---
 
-**[Bitcoin Will Surge to $315,000, Claims Investor, as Morgan Stanley Files for BTC ETF](https://finance.yahoo.com/news/bitcoin-surge-315-000-claims-122925450.html)**
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-Morgan Stanley’s filings to launch Bitcoin and Solana ETFs mark a significant step by a major U.S. bank into crypto markets. Prominent Bitcoin advocates are ...
+The Block • 2d ago
 
-Yahoo Finance • 2d ago
+---
+
+**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
+
+It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
+
+CNBC • 1d ago
 
 ---
 
@@ -181,11 +179,27 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Network Difficulty Dips Slightly After 2026’s First Adjustment](https://finance.yahoo.com/news/bitcoin-network-difficulty-dips-slightly-071138201.html)**
+**[This New Bitcoin Price Prediction Shows BTC May Fall 25% Below $70,000](https://www.financemagnates.com/trending/this-new-bitcoin-price-prediction-shows-btc-may-fall-25-below-70000/)**
 
-Bitcoin’s mining difficulty edged lower in the network’s first difficulty adjustment of 2026, offering a brief reprieve for miners after a year marked by intense competition and shrinking margins. Key Takeaways: Bitcoin mining difficulty dipped slightly in the first adjustment of 2026. Faster block times point to a difficulty increase ...
+How low can Bitcoin price go? Bitcoin is falling after breaking 50-week MA. Technical analysis shows $68K-$74K targets ahead. Crypto influencers back bearish Bitcoin predictions.
 
-Yahoo Finance • 4h ago
+Finance Magnates • 1h ago
+
+---
+
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://finance.yahoo.com/news/got-500-2-cryptocurrencies-buy-102000094.html)**
+
+The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
+
+The dog token's much bigger trailing-10-year return can draw interest from some market participants.
+
+The Motley Fool • 40m ago
 
 ---
 
@@ -201,27 +215,13 @@ Fortune • 1d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
 
 The Block • 1d ago
-
----
-
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
-
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 441 • ⏱️ 17:17 • 13h ago
+👁️ 19K • 👍 1K • 💬 445 • ⏱️ 17:17 • 13h ago
 
 ---
 
@@ -323,7 +323,17 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 8K • 👍 448 • 💬 281 • ⏱️ 3:25 • 1d ago
+👁️ 8K • 👍 457 • 💬 281 • ⏱️ 3:25 • 1d ago
+
+---
+
+**[The AI Shock Is About to Reprice Bitcoin](https://www.youtube.com/watch?v=S-K-GTIIJfw)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 21h ago
 
 ---
 
@@ -333,7 +343,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 19K • 👍 1K • 💬 563 • ⏱️ 10:43 • 1d ago
+👁️ 19K • 👍 1K • 💬 565 • ⏱️ 10:43 • 1d ago
 
 ---
 
@@ -343,27 +353,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 528 • ⏱️ 9:19 • 1d ago
-
----
-
-**[This New Crypto Legislation Could Reshape the Entire Market](https://www.youtube.com/watch?v=NOP2UwV0hFw)**
-
-The new crypto rules coming this week? Could this change crypto forever? We have important updates on the regulatory front in ...
-
-📺 Zach Humphries
-
-👁️ 1K • 👍 103 • 💬 75 • ⏱️ 5:41 • 19h ago
-
----
-
-**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
-
-Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 54K • 👍 3K • 💬 265 • ⏱️ 11:14 • 2d ago
+👁️ 57K • 👍 3K • 💬 526 • ⏱️ 9:19 • 1d ago
 
 ---
 
@@ -373,7 +363,17 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 73K • 👍 3K • 💬 374 • ⏱️ 16:13 • 2d ago
+👁️ 74K • 👍 3K • 💬 379 • ⏱️ 16:13 • 2d ago
+
+---
+
+**[This New Crypto Legislation Could Reshape the Entire Market](https://www.youtube.com/watch?v=NOP2UwV0hFw)**
+
+The new crypto rules coming this week? Could this change crypto forever? We have important updates on the regulatory front in ...
+
+📺 Zach Humphries
+
+👁️ 2K • 👍 103 • 💬 75 • ⏱️ 5:41 • 19h ago
 
 ---
 
@@ -383,7 +383,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 277 • ⏱️ 17:07 • 1d ago
+👁️ 25K • 👍 2K • 💬 273 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -393,17 +393,17 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 222 • 💬 41 • ⏱️ 8:12 • 5h ago
+👁️ 4K • 👍 317 • 💬 52 • ⏱️ 8:12 • 5h ago
 
 ---
 
-**[CRYPTO “SuperCycle Incoming” (This Isn’t Random)](https://www.youtube.com/watch?v=b3MV_cmsChk)**
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
 
-Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Subscribe to my Macro Thesis ...
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
 
-📺 Dan Gambardello
+📺 Vortex Bitcoin
 
-👁️ 17K • 👍 1K • 💬 633 • ⏱️ 11:48 • 16h ago
+👁️ 22K • 👍 325 • 💬 109 • ⏱️ 0:49 • 1d ago
 
 ---
 

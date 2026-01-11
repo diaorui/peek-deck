@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T11:18:17.462738+00:00'
+updated: '2026-01-11T11:40:06.331552+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 11:18 UTC  
+**Last Updated:** January 11, 2026 at 11:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -99,19 +99,19 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 ---
 
-**[Has the global population already been "primed" to mass adopt new innovations like LLM's en masse? The state of tech literacy now vs pre-dotcom bubble](https://www.reddit.com/r/artificial/comments/1q8y053/has_the_global_population_already_been_primed_to/)**
-
-I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor can have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance or unfamiliarity with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
-
-1d ago
-
----
-
 **[Musk lawsuit over OpenAI for-profit conversion can go to trial, US judge says](https://www.reddit.com/r/artificial/comments/1q82r2v/musk_lawsuit_over_openai_forprofit_conversion_can/)**
 
 Judge says there is plenty of evidence to suggest OpenAI’s leaders made assurances nonprofit structure would be kept
 
 🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/08/elon-musk-openai-lawsuit-for-profit-conversion-can-go-to-trial-us-judge-says) • 2d ago
+
+---
+
+**[Building adaptive routing logic in Go for an Open source LLM gateway - Bifrost](https://www.reddit.com/r/artificial/comments/1q8um17/building_adaptive_routing_logic_in_go_for_an_open/)**
+
+Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
+
+1d ago
 
 ---
 
@@ -135,25 +135,33 @@ CNBC • 23h ago
 
 ---
 
-**[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
+**[We’re probably going to learn to live with AI music](https://www.vox.com/podcasts/474751/ai-music-suno-generator)**
 
-The New York Times • 1h ago
+Here’s what the future might sound like, according to a science writer who experimented with it.
 
----
-
-**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://finance.yahoo.com/news/china-ai-leaders-warn-widening-140555407.html)**
-
-“A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
-
-Yahoo Finance • 21h ago
+vox.com • 10m ago
 
 ---
 
-**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
+**[Applied Digital Just Solved AI's Biggest Bottleneck with Technology From the 1800s](https://www.fool.com/investing/2026/01/11/applied-digital-just-solved-ais-biggest-bottleneck/)**
 
-Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
+Steam turbines will start powering AI workloads in 2028.
 
-The Atlantic • 1d ago
+The Motley Fool • 50m ago
+
+---
+
+**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
+
+Bloomberg.com • 21h ago
+
+---
+
+**[Why We Need Meditation in the AI Era](https://time.com/7345147/we-need-meditation-in-the-ai-era/)**
+
+Decades of research have demonstrated the benefits of meditation.
+
+Time Magazine • 1d ago
 
 ---
 
@@ -163,11 +171,11 @@ The Information • 15h ago
 
 ---
 
-**[Why We Need Meditation in the AI Era](https://time.com/7345147/we-need-meditation-in-the-ai-era/)**
+**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
 
-Decades of research have demonstrated the benefits of meditation.
+Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-Time Magazine • 1d ago
+The Atlantic • 1d ago
 
 ---
 
@@ -182,12 +190,6 @@ Reuters • 19h ago
 Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
 blog.google • 2d ago
-
----
-
-**[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
-
-Bloomberg.com • 11h ago
 
 ---
 
@@ -207,7 +209,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 603 • 💬 345 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 605 • 💬 346 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -215,7 +217,15 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 444 • 💬 730 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 445 • 💬 730 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+
+---
+
+**[AI is a business model stress test](https://news.ycombinator.com/item?id=46567392)**
+
+AI commoditizes anything you can specify. It can't commoditize what you have to operate.
+
+⬆️ 262 • 💬 255 • 18h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -227,14 +237,6 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 ---
 
-**[AI is a business model stress test](https://news.ycombinator.com/item?id=46567392)**
-
-AI commoditizes anything you can specify. It can't commoditize what you have to operate.
-
-⬆️ 252 • 💬 253 • 18h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
-
----
-
 **[My article on why AI is great (or terrible) or how to use it](https://news.ycombinator.com/item?id=46557057)**
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
@@ -243,9 +245,15 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 ---
 
+**[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
+
+⬆️ 125 • 💬 139 • 1h ago • [antirez.com](https://antirez.com/news/158)
+
+---
+
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 88 • 💬 60 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 90 • 💬 60 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -265,27 +273,9 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 ---
 
-**[Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://news.ycombinator.com/item?id=46543933)**
-
-Since 2023, every model at the frontier of AI capabilities, as measured by the Epoch Capabilities Index, has been developed in the United States. Over that same period, Chinese models have trailed US capabilities by an average of seven months, with a minimum gap of four months and a maximum gap of 14.
-
-⬆️ 58 • 💬 87 • 2d ago • [Epoch AI](https://epoch.ai/data-insights/us-vs-china-eci)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[I Asked AI If It Supports the Operation in Venezuela. And Here’s What It Said](https://www.youtube.com/watch?v=BLLa0DblYaE)**
-
-In this video, I ask AI what it thinks about the U.S. military operation in Venezuela, the real reason behind the capture of Nicolas ...
-
-📺 I Ask AI
-
-👁️ 5K • 👍 1K • 💬 143 • ⏱️ 14:02 • 13h ago
-
----
 
 **[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
 
@@ -293,7 +283,7 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 95K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
+👁️ 96K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
 
 ---
 
@@ -303,47 +293,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 68K • 👍 4K • 💬 284 • ⏱️ 19:15 • 1d ago
+👁️ 71K • 👍 4K • 💬 287 • ⏱️ 19:15 • 1d ago
 
 ---
 
-**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
+**[AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](https://www.youtube.com/watch?v=qOr5-FrkElk)**
 
-LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
+HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
 
-📺 Matt Wolfe
+📺 AI Search
 
-👁️ 37K • 👍 2K • 💬 152 • ⏱️ 14:39 • 21h ago
-
----
-
-**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
-
-Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
-
-📺 LBC
-
-👁️ 14K • 👍 266 • 💬 228 • ⏱️ 11:00 • 1d ago
-
----
-
-**[How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course)](https://www.youtube.com/watch?v=fAJGnI4qVVc)**
-
-How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course) GOOGLE DOC ...
-
-📺 Leo Ai
-
-👁️ 8K • 👍 557 • 💬 62 • ⏱️ 10:28 • 1d ago
-
----
-
-**[Stop Paying for AI: Use GPT-5, Sora 2 &amp; Gemini 3 for FREE (Unlimited)](https://www.youtube.com/watch?v=izvKi-Slc4M)**
-
-I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISION, APPS, and even VIDEO — step-by-step, ...
-
-📺 Malva AI
-
-👁️ 18K • 👍 1K • 💬 290 • ⏱️ 10:24 • 2d ago
+👁️ 26K • 👍 1K • 💬 151 • ⏱️ 35:41 • 8h ago
 
 ---
 
@@ -353,7 +313,45 @@ I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISIO
 
 📺 TIME
 
-👁️ 73K • 👍 2K • 💬 318 • ⏱️ 24:32 • 1d ago
+👁️ 76K • 👍 2K • 💬 333 • ⏱️ 24:32 • 1d ago
+
+---
+
+**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
+
+Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
+
+📺 LBC
+
+👁️ 15K • 👍 291 • 💬 256 • ⏱️ 11:00 • 1d ago
+
+---
+
+**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
+
+LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
+
+📺 Matt Wolfe
+
+👁️ 40K • 👍 2K • 💬 155 • ⏱️ 14:39 • 21h ago
+
+---
+
+**[How do we compare to the Ai babies? 👶🕺😂](https://www.youtube.com/watch?v=y2bVXq1mdfQ)**
+
+📺 The Williams Fam
+
+👁️ 201K • 👍 6K • 💬 270 • ⏱️ 0:16 • 19h ago
+
+---
+
+**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
+
+Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
+
+📺 MoreBeckBros
+
+👁️ 188K • 👍 8K • 💬 669 • ⏱️ 26:17 • 1d ago
 
 ---
 
@@ -363,7 +361,7 @@ CNBC's MacKenzie Sigalos reports on Gmail's new AI features.
 
 📺 CNBC Television
 
-👁️ 27K • 👍 238 • 💬 32 • ⏱️ 3:43 • 2d ago
+👁️ 28K • 👍 240 • 💬 33 • ⏱️ 3:43 • 2d ago
 
 ---
 
@@ -373,7 +371,7 @@ Try Greptile for free for 14 days! https://greptile.com/go/berman Download The S
 
 📺 Matthew Berman
 
-👁️ 38K • 👍 1K • 💬 84 • ⏱️ 14:35 • 2d ago
+👁️ 38K • 👍 1K • 💬 85 • ⏱️ 14:35 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 629,855 • ❤️ 767 • 3d ago
+⬇️ 629,855 • ❤️ 771 • 3d ago
 
 ---
 
@@ -413,7 +411,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 16,027 • ❤️ 384 • 3d ago
+⬇️ 16,027 • ❤️ 392 • 3d ago
 
 ---
 
@@ -425,7 +423,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,257 • ❤️ 278 • 5d ago
+⬇️ 2,257 • ❤️ 282 • 5d ago
 
 ---
 
@@ -437,7 +435,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 11,562 • ❤️ 255 • 2d ago
+⬇️ 11,562 • ❤️ 256 • 2d ago
 
 ---
 
@@ -449,31 +447,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,522 • ❤️ 339 • 5d ago
-
----
-
-**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
-
-*Qwen*
-
-Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
-
-`text-to-image`
-
-⬇️ 23,403 • ❤️ 563 • 11d ago
-
----
-
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
-
-*MiniMax*
-
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 207,986 • ❤️ 1,003 • 14d ago
+⬇️ 30,522 • ❤️ 342 • 5d ago
 
 ---
 
@@ -485,7 +459,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 586 • ❤️ 201 • 5d ago
+⬇️ 586 • ❤️ 204 • 5d ago
 
 ---
 
@@ -497,7 +471,31 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 `text-generation` `235.1B`
 
-⬇️ 1,354 • ❤️ 200 • 4d ago
+⬇️ 1,354 • ❤️ 201 • 4d ago
+
+---
+
+**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
+
+*Qwen*
+
+Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
+
+`text-to-image`
+
+⬇️ 23,403 • ❤️ 564 • 11d ago
+
+---
+
+**[Alpamayo-R1-10B](https://huggingface.co/nvidia/Alpamayo-R1-10B)**
+
+*NVIDIA*
+
+Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomous driving, integrating Chain-of-Causation reasoning with diffusion-based trajectory planning for complex scenarios and rare events. It processes multi-camera images, text commands, and egomotion history to output interpretable reasoning traces and a 6.4-second future trajectory.
+
+`robotics` `11.1B`
+
+⬇️ 12,922 • ❤️ 253 • 2d ago
 
 ---
 
@@ -511,7 +509,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 170 • 💬 5 • ⭐ 4,233 • 1mo ago
+▲ 170 • 💬 5 • ⭐ 4,362 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -581,18 +579,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 4 • 💬 0 • ⭐ 25,634 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
 **[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
 
 *Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
@@ -619,6 +605,18 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 ---
 
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 4 • 💬 0 • ⭐ 25,640 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
 **[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
 
 *Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
@@ -641,7 +639,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.7k • 🔱 953 • 6h ago
+⭐ 7.8k • 🔱 965 • 6h ago
 
 ---
 
@@ -661,7 +659,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 302 • 3d ago
+⭐ 2.1k • 🔱 311 • 3d ago
 
 ---
 
@@ -671,7 +669,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 221 • 6d ago
+⭐ 2.0k • 🔱 220 • 7d ago
 
 ---
 
@@ -685,16 +683,6 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 ---
 
-**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
-
-This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
-
-`PowerShell`
-
-⭐ 1.3k • 🔱 71 • 18d ago
-
----
-
 **[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)**
 
 Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
@@ -702,6 +690,16 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 `TypeScript`
 
 ⭐ 1.3k • 🔱 108 • 1d ago
+
+---
+
+**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
+
+This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
+
+`PowerShell`
+
+⭐ 1.3k • 🔱 71 • 18d ago
 
 ---
 
@@ -721,7 +719,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.1k • 🔱 83 • 12d ago
+⭐ 1.1k • 🔱 84 • 12d ago
 
 ---
 
@@ -731,7 +729,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 126 • 4h ago
+⭐ 1.0k • 🔱 127 • 46m ago
 
 ---
 

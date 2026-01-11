@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T11:18:17.475529+00:00'
+updated: '2026-01-11T11:40:06.345988+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 11:18 UTC  
+**Last Updated:** January 11, 2026 at 11:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,106.65
+### $3,106.45
 
 ---
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.09B
+**Market Cap:** $374.45B
 Rank #2
 
 **Circulating Supply:** 120,694,727 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.3%
 
 **All-Time Low:** $0.43
-+715863.1%
++716484.4%
 
 ---
 
@@ -92,6 +92,14 @@ Crypto started as a cypherpunk project, but somewhere along the way, privacy got
 
 ---
 
+**[Vitalik Buterin Thinks Ethereum Should Be Boring, And That’s the Point](https://www.reddit.com/r/ethereum/comments/1q8wrf2/vitalik_buterin_thinks_ethereum_should_be_boring/)**
+
+Vitalik Buterin often compares Ethereum to Linux or BitTorrent: open systems that quietly power huge parts of the internet. The idea is that Ethereum shouldn’t feel like a startup chasing users, but like infrastructure institutions use because it reduces risk and removes intermediaries. If this works, Ethereum adoption won’t come with hype cycles. It will be slow, widespread, and sticky, just like real infrastructure. Do you think Ethereum can actually reach that stage, or does crypto always need hype to grow?
+
+1d ago
+
+---
+
 **[YUL: Solidity’s Low-Level Language (Without the Tears), Part 1: Stack, Memory, and Calldata](https://www.reddit.com/r/ethereum/comments/1q8z5mb/yul_soliditys_lowlevel_language_without_the_tears/)**
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
@@ -103,14 +111,6 @@ I just published a new article on Medium. This started as personal notes while l
 **[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
-
-1d ago
-
----
-
-**[Vitalik Buterin Thinks Ethereum Should Be Boring, And That’s the Point](https://www.reddit.com/r/ethereum/comments/1q8wrf2/vitalik_buterin_thinks_ethereum_should_be_boring/)**
-
-Vitalik Buterin often compares Ethereum to Linux or BitTorrent: open systems that quietly power huge parts of the internet. The idea is that Ethereum shouldn’t feel like a startup chasing users, but like infrastructure institutions use because it reduces risk and removes intermediaries. If this works, Ethereum adoption won’t come with hype cycles. It will be slow, widespread, and sticky, just like real infrastructure. Do you think Ethereum can actually reach that stage, or does crypto always need hype to grow?
 
 1d ago
 
@@ -176,19 +176,11 @@ The Motley Fool • 1h ago
 
 ---
 
-**[Ethereum Staking Hits Choke Point as Institutions Pile in Despite Low Yields](https://finance.yahoo.com/news/ethereum-staking-hits-choke-point-153000578.html)**
+**[Ethereum sentiment mirrors levels seen before ‘major run’: Santiment](https://www.tradingview.com/news/cointelegraph:c651bda89094b:0-ethereum-sentiment-mirrors-levels-seen-before-major-run-santiment/)**
 
-Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
+Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
 
-Yahoo Finance • 19h ago
-
----
-
-**[Ethereum Meets AI Agents: What Is ERC-8004?](https://www.tradingview.com/news/u_today:e7ba41fd6094b:0-ethereum-meets-ai-agents-what-is-erc-8004/)**
-
-In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
-
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -222,9 +214,17 @@ Coinpedia Fintech News • 22h ago
 
 ---
 
-**[Crypto Investment Flow 2025: Investors Are Dumping BTC for ETH, XRP and SOL](https://www.ccn.com/news/crypto/crypto-investment-flow-2025-btc-xrp-sol-eth/)**
+**[Ethereum Staking Hits Choke Point as Institutions Pile in Despite Low Yields](https://finance.yahoo.com/news/ethereum-staking-hits-choke-point-153000578.html)**
 
-CCN.com • 1d ago
+Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[BitMine Stock Rips Open the New Year as Tom Lee Hammers a New $105 Million Stake into Ethereum](https://www.tipranks.com/news/bitmine-stock-rips-open-the-new-year-as-tom-lee-hammers-a-new-105-million-stake-into-ethereum)**
+
+TipRanks • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 613 • 💬 63 • ⏱️ 24:05 • 14h ago
+👁️ 11K • 👍 645 • 💬 71 • ⏱️ 24:05 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 87 • 💬 78 • ⏱️ 13:48 • 5h ago
+👁️ 3K • 👍 125 • 💬 100 • ⏱️ 13:48 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 4K • 👍 165 • 💬 138 • ⏱️ 11:37 • 21h ago
+👁️ 4K • 👍 171 • 💬 138 • ⏱️ 11:37 • 21h ago
 
 ---
 
@@ -268,17 +268,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 7K • 👍 247 • 💬 603 • ⏱️ 16:56 • 15h ago
-
----
-
-**[BITCOIN &amp; ETHEREUM &amp; SOLANA ARE GOING DOWN!!!!](https://www.youtube.com/watch?v=TYnZkjuYQyk)**
-
-Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
-
-📺 Davinci Jeremie
-
-👁️ 10K • 👍 541 • 💬 77 • ⏱️ 15:28 • 1d ago
+👁️ 8K • 👍 249 • 💬 603 • ⏱️ 16:56 • 15h ago
 
 ---
 
@@ -288,15 +278,17 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 237 • 💬 39 • ⏱️ 4:20 • 2d ago
+👁️ 6K • 👍 235 • 💬 39 • ⏱️ 4:20 • 2d ago
 
 ---
 
-**[VanEck&#39;s wild Ethereum 2030 price scenarios](https://www.youtube.com/watch?v=46U4zUfbbl4)**
+**[BITCOIN &amp; ETHEREUM &amp; SOLANA ARE GOING DOWN!!!!](https://www.youtube.com/watch?v=TYnZkjuYQyk)**
 
-📺 Digital Asset News
+Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
 
-👁️ 322 • 👍 4 • ⏱️ 1:34 • 4h ago
+📺 Davinci Jeremie
+
+👁️ 11K • 👍 549 • 💬 77 • ⏱️ 15:28 • 1d ago
 
 ---
 
@@ -306,17 +298,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 743 • 💬 234 • ⏱️ 19:42 • 20h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=d_hUTnG1bKs)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 110 • 💬 12 • ⏱️ 5:05 • 18h ago
+👁️ 22K • 👍 762 • 💬 238 • ⏱️ 19:42 • 20h ago
 
 ---
 
@@ -326,7 +308,27 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 666 • 👍 41 • 💬 75 • ⏱️ 6:18 • 17h ago
+👁️ 691 • 👍 41 • 💬 76 • ⏱️ 6:18 • 18h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-gcev5s6aPI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 113 • 💬 8 • ⏱️ 5:13 • 1d ago
+
+---
+
+**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
+
+ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
+
+📺 Bankless
+
+👁️ 9K • 👍 333 • 💬 43 • ⏱️ 52:02 • 2d ago
 
 ---
 

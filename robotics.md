@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T11:18:17.478293+00:00'
+updated: '2026-01-11T11:40:06.349208+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 11:18 UTC  
+**Last Updated:** January 11, 2026 at 11:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,23 @@ Robotics research and industry news
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-7h ago
+8h ago
+
+---
+
+**[Latest version of Wuji hand (video on 1x)](https://www.reddit.com/r/robotics/comments/1q9ws10/latest_version_of_wuji_hand_video_on_1x/)**
+
+From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
+
+31m ago
+
+---
+
+**[Robotics coursework (+3k ⭐️ on GitHub)](https://www.reddit.com/r/robotics/comments/1q9w06d/robotics_coursework_3k_on_github/)**
+
+This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
+
+1h ago
 
 ---
 
@@ -42,7 +58,7 @@ Robotics research and industry news
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-12h ago
+13h ago
 
 ---
 
@@ -50,7 +66,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +82,7 @@ I have recently been exploring robotic path planning and during my hands-on nume
 
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
-10h ago
+11h ago
 
 ---
 
@@ -84,23 +100,9 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 ---
 
-**[Robotics coursework (+3k ⭐️ on GitHub)](https://www.reddit.com/r/robotics/comments/1q9w06d/robotics_coursework_3k_on_github/)**
-
-This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
-
-56m ago
-
----
-
 **[The $20K Humanoid Robot That Can’t Fold Your Laundry (Yet)...](https://www.reddit.com/r/robotics/comments/1q9vro9/the_20k_humanoid_robot_that_cant_fold_your/)**
 
 🔗 [cvisiona.com](https://cvisiona.com/the-20k-humanoid-robot-that-cant-fold-your-laundry-yet/) • 1h ago
-
----
-
-**[CES 2026 Closes With Robots, China, And AI Everywhere](https://www.reddit.com/r/robotics/comments/1q9uuou/ces_2026_closes_with_robots_china_and_ai/)**
-
-🔗 [forbes.com](https://www.forbes.com/sites/charliefink/2026/01/10/ces-2026-closes-with-robots-china-and-ai-everywhere/) • 2h ago
 
 ---
 
@@ -108,11 +110,19 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 ## Google News: "robotics"
 
+**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
+
+Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
+
+The Verge • 20h ago
+
+---
+
 **[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
 
 From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
-Engadget • 19h ago
+Engadget • 20h ago
 
 ---
 
@@ -124,19 +134,19 @@ TechCrunch • 1d ago
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
-
-Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
-
-The Verge • 20h ago
-
----
-
 **[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
 
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
 CNBC • 1d ago
+
+---
+
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
+
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+
+WYMT • 1d ago
 
 ---
 
@@ -156,14 +166,6 @@ NVIDIA Developer • 2d ago
 
 ---
 
-**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
-
-FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
-
-WYMT • 1d ago
-
----
-
 **[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
 
 CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
@@ -180,7 +182,7 @@ Fortune • 2d ago
 
 ---
 
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqckj008RjqUhA4zP0C02YZ34WeiHp2dwpo-dsts8xjk8fxMy-M3nr4Y&gaa_ts=69637d71&gaa_sig=AtzGSmnRYSwVFWDAyIf9UrvqjN_r1lge32FloSiRl0T3swwUZqhqdxEYn_t6zaIBTzIo_s-rNdCa2B0SZ7Ofqw%3D%3D)**
+**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqd6S-I9hEzrCfooh0i4Ajj_XoUdXkfDk_l3aD23tE2SufsFHyq55psh&gaa_ts=69638f85&gaa_sig=ZSJQY0_8c5154K-nJw2jh0bs-NGZAdoAXF-ijNArUbygCV4scvdI24qKOWVmLtLJFdK7lIb3iLmru2sNDBfLpg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -196,7 +198,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 267K • 👍 4K • 💬 612 • ⏱️ 4:29 • 3d ago
+👁️ 271K • 👍 4K • 💬 613 • ⏱️ 4:29 • 3d ago
 
 ---
 
@@ -216,7 +218,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 6K • 👍 353 • 💬 29 • ⏱️ 9:28 • 16h ago
+👁️ 6K • 👍 368 • 💬 29 • ⏱️ 9:28 • 16h ago
 
 ---
 
@@ -226,7 +228,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 56K • 👍 1K • 💬 152 • ⏱️ 3:13 • 17h ago
+👁️ 58K • 👍 1K • 💬 154 • ⏱️ 3:13 • 18h ago
 
 ---
 
@@ -236,7 +238,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 51K • 👍 448 • 💬 39 • ⏱️ 11:13 • 5d ago
+👁️ 51K • 👍 455 • 💬 39 • ⏱️ 11:13 • 5d ago
 
 ---
 
@@ -246,7 +248,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 44K • 👍 644 • 💬 98 • ⏱️ 10:48 • 20h ago
+👁️ 48K • 👍 685 • 💬 103 • ⏱️ 10:48 • 20h ago
 
 ---
 
@@ -266,17 +268,17 @@ For more context and news coverage of the most important stories of our day, cli
 
 📺 NBC News
 
-👁️ 185K • 👍 2K • 💬 210 • ⏱️ 0:22 • 4d ago
+👁️ 186K • 👍 2K • 💬 210 • ⏱️ 0:22 • 4d ago
 
 ---
 
-**[Unitree Humanoid Robot Daily Training 🥳](https://www.youtube.com/watch?v=JZllfrHRc4g)**
+**[Give Robots Space! #robotics #robot #airobot #humanoidrobot #ces2026](https://www.youtube.com/watch?v=66mH3LKf3m0)**
 
-Have you exercised today? How about training together with a robot? Please use robots in a friendly and safe manner, and keep ...
+Recent viral clips making the rounds on social media are good reminders that today's humanoid robots are not very safe.
 
-📺 Unitree Robotics
+📺 Kalil 4.0
 
-👁️ 6.1M • 👍 4K • 💬 1K • ⏱️ 0:32 • 7d ago
+👁️ 2K • 👍 40 • 💬 3 • ⏱️ 0:24 • 8h ago
 
 ---
 
