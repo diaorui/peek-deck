@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T17:18:32.997271+00:00'
+updated: '2026-01-11T17:42:17.405642+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 17:18 UTC  
+**Last Updated:** January 11, 2026 at 17:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -168,17 +168,11 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://finance.yahoo.com/news/ethereum-future-hinges-zero-knowledge-130000205.html)**
+**[Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-132031914.html)**
+
+The Ethereum co-founder argues that price benchmarks, oracle security and staking incentives remain unresolved challenges for decentralized stablecoins.
 
 Yahoo Finance • 4h ago
-
----
-
-**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
-
-Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
-
-CoinDesk • 3h ago
 
 ---
 
@@ -186,7 +180,7 @@ CoinDesk • 3h ago
 
 Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -198,6 +192,14 @@ Decrypt • 2d ago
 
 ---
 
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+
+The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
+
+The Motley Fool • 7h ago
+
+---
+
 **[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
 
 Ethereum's very soul is up for debate.
@@ -206,19 +208,19 @@ AMBCrypto • 6h ago
 
 ---
 
-**[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
+**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
 
-The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
+Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-The Motley Fool • 1d ago
+Coinpedia Fintech News • 1d ago
 
 ---
 
-**[Liquidity Builds Near $100K Bitcoin and $3,500 Ethereum—Can Prices Reach the Zone?](https://coinpedia.org/price-analysis/liquidity-builds-near-100k-bitcoin-and-3500-ethereum-can-prices-reach-the-zone/)**
+**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says)**
 
-The Bitcoin price is jiggling around $91,000 while the Ethereum price remains stuck above $3000, displaying stability
+EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-Coinpedia Fintech News • 1d ago
+CoinDesk • 4h ago
 
 ---
 
@@ -240,7 +242,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 20h ago
+👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 21h ago
 
 ---
 

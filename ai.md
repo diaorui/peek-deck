@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T17:18:32.982744+00:00'
+updated: '2026-01-11T17:42:17.390802+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 17:18 UTC  
+**Last Updated:** January 11, 2026 at 17:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,17 +43,19 @@ AI news, discussions, and developments
 
 ---
 
+**[Song detection including release date](https://www.reddit.com/r/artificial/comments/1qa5ccq/song_detection_including_release_date/)**
+
+I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
+
+11m ago
+
+---
+
 **[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
 2h ago
-
----
-
-**[I met Co-Pilot.](https://www.reddit.com/r/artificial/comments/1qa26vb/i_met_copilot/)**
-
-1h ago
 
 ---
 
@@ -131,15 +133,21 @@ CNBC • 10h ago
 
 ---
 
-**[America’s AI Boom Is Running Into An Unplanned Water Problem](https://www.forbes.com/sites/kensilverstein/2026/01/11/americas-ai-boom-is-running-into-an-unplanned-water-problem/)**
+**[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
 
-Forbes • 2h ago
+The Hill • 42m ago
 
 ---
 
-**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
+**[This Is The Year AI Agents Will Reinvent How Retailers Do Business](https://www.forbes.com/sites/joanverdon/2026/01/11/this-is-the-year-ai-agents-will-reinvent-how-retailers-do-business/)**
 
-Reuters • 1d ago
+Forbes • 42m ago
+
+---
+
+**[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
+
+The New York Times • 7h ago
 
 ---
 
@@ -151,9 +159,11 @@ The Atlantic • 1d ago
 
 ---
 
-**[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
+**[The "Safest" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now](https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/)**
 
-The New York Times • 7h ago
+There are currently nine technology stocks that boast valuations of at least $1 trillion.
+
+The Motley Fool • 16h ago
 
 ---
 
@@ -161,15 +171,7 @@ The New York Times • 7h ago
 
 These stocks are poised to deliver wealth-building returns.
 
-The Motley Fool • 6h ago
-
----
-
-**[New Data Shows AI Stocks Beat the S&P 500 by 136% Over 5 Years](https://www.fool.com/investing/2026/01/11/new-data-shows-ai-stocks-beat-sp-500-tesla/)**
-
-Here's why this should make investors confident in buying AI stocks.
-
-The Motley Fool • 3h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -183,7 +185,7 @@ Bloomberg.com • 17h ago
 
 Here’s what the future might sound like, according to a science writer who experimented with it.
 
-vox.com • 5h ago
+vox.com • 6h ago
 
 ---
 
@@ -203,7 +205,13 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 607 • 💬 350 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 608 • 💬 352 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+
+---
+
+**[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
+
+⬆️ 338 • 💬 490 • 7h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -211,13 +219,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 296 • 💬 283 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
-
----
-
-**[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
-
-⬆️ 289 • 💬 410 • 6h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 304 • 💬 292 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -225,7 +227,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executing malware without human approval through command validation bypasses exploited using indirect prompt injection.
 
-⬆️ 261 • 💬 120 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
+⬆️ 261 • 💬 121 • 2d ago • [promptarmor.com](https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware)
 
 ---
 
@@ -233,13 +235,13 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 162 • 💬 227 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 162 • 💬 228 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 97 • 💬 61 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 98 • 💬 62 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -255,15 +257,15 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 71 • 💬 45 • 1d ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 71 • 💬 46 • 1d ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
-**[Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://news.ycombinator.com/item?id=46543933)**
+**[Nvidia Kicks Off the Next Generation of AI with Rubin](https://news.ycombinator.com/item?id=46544016)**
 
-Since 2023, every model at the frontier of AI capabilities, as measured by the Epoch Capabilities Index, has been developed in the United States. Over that same period, Chinese models have trailed US capabilities by an average of seven months, with a minimum gap of four months and a maximum gap of 14.
+NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer.
 
-⬆️ 58 • 💬 87 • 2d ago • [Epoch AI](https://epoch.ai/data-insights/us-vs-china-eci)
+⬆️ 55 • 💬 46 • 2d ago • [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
 
 ---
 
@@ -327,7 +329,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 38K • 👍 2K • 💬 197 • ⏱️ 35:41 • 13h ago
+👁️ 38K • 👍 2K • 💬 197 • ⏱️ 35:41 • 14h ago
 
 ---
 
@@ -633,7 +635,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 987 • 52m ago
+⭐ 7.9k • 🔱 987 • 1h ago
 
 ---
 

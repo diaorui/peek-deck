@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T17:18:32.991290+00:00'
+updated: '2026-01-11T17:42:17.399427+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 17:18 UTC  
+**Last Updated:** January 11, 2026 at 17:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +0.6%  
-**7d:** -3.2%  
-**30d:** +0.9%  
-**90d:** -19.4%  
-**1y:** -3.6%  
+**7d:** -3.1%  
+**30d:** +1.0%  
+**90d:** -19.3%  
+**1y:** -3.4%  
 
 ---
 
@@ -77,14 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[You in 2030 sending a gift to the friend who told you to buy $BTC in 2026](https://www.reddit.com/r/Bitcoin/comments/1qa09it/you_in_2030_sending_a_gift_to_the_friend_who_told/)**
-
-That moment in 2030 when the “buy $BTC in 2026” advice finally hits
-
-3h ago
-
----
-
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
 4h ago
@@ -97,11 +89,11 @@ That moment in 2030 when the “buy $BTC in 2026” advice finally hits
 
 ---
 
-**[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
+**[Wall street and bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa4nfi/wall_street_and_bitcoin/)**
 
-Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
+Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
 
-1d ago
+36m ago
 
 ---
 
@@ -113,15 +105,25 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 ---
 
-**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
+**[$500 buy $500 Buy now worth $2884](https://www.reddit.com/r/Bitcoin/comments/1qa4ww3/500_buy_500_buy_now_worth_2884/)**
+
+Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
+
+27m ago
+
+---
+
+**[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
+
+Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
 1d ago
 
 ---
 
-**[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
+**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
 
-1d ago
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 1h ago
 
 ---
 
@@ -133,11 +135,9 @@ I’ve been reading more about how leverage and derivatives interact with Bitcoi
 
 ---
 
-**[Macro BTC Analysis & Discussion](https://www.reddit.com/r/Bitcoin/comments/1q9m94u/macro_btc_analysis_discussion/)**
+**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
---- TL;DR: My thoughts are that BTC is not currently in a confirmed bear market. From a macro, monthly structure perspective, as long as ~74k holds on a monthly close, the higher-timeframe bull structure remains intact. At the same time, monthly volatility has been compressed for over a year, suggesting a meaningful expansion phase is more likely sooner rather than later. Direction isn’t guaranteed — but structure still favours continuation unless that higher low breaks. --- I want to share this chart as a way of thinking about Bitcoin in terms of macro structure, rather than narratives or rigid cycle assumptions. This is a long-term Fibonacci extension drawn using major historical pivots: the early BTC genesis low (2009–2010), the 2017 cycle high, and the 2018 bear-market low. Volatility, represented by Caretaker’s BBWP indicator (Bollinger Band Width Percentile, length 13, lookback 252), is at the bottom. The goal here isn’t strict prediction (although it kind of is) — it’s to map out higher-timeframe structure. What stands out to me is how closely the current market is respecting these levels. The 4.236 extension around ~87k lines up almost perfectly with BTC’s most recent support zone, while the 3.618 extension around ~74k aligns with the current monthly higher low. For me, that ~74k level is the key structural line in the sand. As long as BTC holds above it on a monthly closing basis, higher-timeframe structure and trend remains intact with higher-highs and higher-lows. A clean monthly close below that level, followed by a failed reclaim, would be my signal that a true bear-market regime is likely. Above current price, the higher Fibonacci extensions — roughly the 6.854 and 10.618 levels — cluster in the high-100k to low-200k range. These aren’t targets so much as zones where long-term extensions naturally converge if the current structure continues to resolve upward. The box labeled “EOY 2026 / Early 2027” is a structural zone with a bit of honest hopium, not a call for an exact top. One additional piece that makes this setup interesting to me is volatility. On the monthly timeframe, volatility as measured by the BBWP has been in an extreme compression regime (<20) for over a year now — one of the longest such periods in BTC’s history. With the settings above, Bitcoin has only experienced such a compression for longer than 17 months once in history, and it’s currently on month 15. So historically, volatility compressions on higher timeframes don't persist indefinitely and tend to resolve with expansion. That alone doesn’t tell us direction, but it does suggest the current range is unlikely to last much longer. If past behaviour is any guide, this points to a meaningful expansion phase occurring potentially within 3-6 months. If the ~74k level continues to hold on a monthly basis and momentum can flip back to the upside, then interaction with the next higher fib levels becomes increasingly plausible. One last note on the BBWP, each 'bull run' in the past has seen a BBWP of >50, which we have not yet seen for the current run. This chart is meant as a framework, not a call for tops or bottoms. It’s about identifying where structure breaks versus where it remains valid. As long as the monthly higher low around ~74k holds, I find it difficult to justify strong bear-market conviction purely from a structural standpoint until that level breaks on a monthly close. I’m posting this to get other perspectives, especially from people who focus on higher-timeframe structure rather than cycle timing or short-term indicators. If you see flaws in the anchoring, interpretation, or assumptions here, I’d genuinely like to hear them. --- Honest Disclaimer: AI helped turn scattered thoughts into readable English. The ideas (and any bad takes) are still very much my own. ---
-
-15h ago
+1d ago
 
 ---
 
@@ -153,25 +153,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
-
-It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
-
-CNBC • 2d ago
-
----
-
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
 The Block • 1d ago
 
 ---
 
-**[Why This New P2P App Is Making Centralized Exchanges Look Obsolete](https://bitcoinmagazine.com/business/vexl-empowering-peer-to-peer-bitcoin-exchange-through-social-networks)**
+**[Spot bitcoin ETFs extend negative streak, reporting $400 million in outflows](https://www.theblock.co/post/384881/spot-bitcoin-etfs-extend-negative-streak)**
 
-In a world cracking down on privacy tools, one non-profit app is letting you trade Bitcoin safely within your own network.
+The Block • 2d ago
 
-Bitcoin Magazine • 2d ago
+---
+
+**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
+
+It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
+
+CNBC • 2d ago
 
 ---
 
@@ -183,9 +181,43 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Top Cryptocurrencies (Beyond Bitcoin) Poised To Surge in 2026](https://uk.finance.yahoo.com/news/top-cryptocurrencies-beyond-bitcoin-poised-161205725.html)**
+**[Binance Founder CZ Encourages Crypto Holders While Wells Fargo Buys Bitcoin](https://finance.yahoo.com/news/binance-founder-cz-encourages-crypto-164653277.html)**
 
-Yahoo Finance UK • 1h ago
+Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
+
+Yahoo Finance • 55m ago
+
+---
+
+**[Bitcoin miner moves $181 million, as expert speaks of ‘key inflection point’](https://www.dlnews.com/articles/markets/bitcoin-miner-moves-181-million/)**
+
+Miner active in the days of Bitcoin founder Satoshi Nakamoto, says expert. Two early “Bitcoin whales” moved coins worth $181 million late last year. VanEck predicts big Bitcoin price rises by 2050.
+
+dlnews.com • 1h ago
+
+---
+
+**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
+
+U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
+
+The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitfinex whales dump BTC longs as $135K Bitcoin price target reemerges](https://www.tradingview.com/news/cointelegraph:987b83463094b:0-bitfinex-whales-dump-btc-longs-as-135k-bitcoin-price-target-reemerges/)**
+
+Bitcoin BITSTAMP:BTCUSD whales are “aggressively” reducing long exposure as a classic bull signal reappears.Key points:Bitcoin whales trigger six-figure BTC price targetData from TradingView reveals that whale long positions have started dropping after hitting a peak of 73,000 BTC in late December…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -194,36 +226,6 @@ Yahoo Finance UK • 1h ago
 What we know about the South American country’s crypto holdings.
 
 Fortune • 1d ago
-
----
-
-**[The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more](https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more)**
-
-The Block • 1d ago
-
----
-
-**[Trump 'Has All Kinds Of Reasons' To Buy Bitcoin Before Midterms, Cathie Wood Says](https://finance.yahoo.com/news/trump-kinds-reasons-buy-bitcoin-213150437.html)**
-
-Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
-
-Yahoo Finance • 19h ago
-
----
-
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
-
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
-
-Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
-
-Bitbo • 10h ago
 
 ---
 
@@ -365,7 +367,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 20h ago
+👁️ 12K • 👍 700 • 💬 78 • ⏱️ 24:05 • 21h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T17:18:33.000504+00:00'
+updated: '2026-01-11T17:42:17.408935+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 17:18 UTC  
+**Last Updated:** January 11, 2026 at 17:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
-4h ago
+5h ago
 
 ---
 
@@ -52,13 +52,13 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-6h ago
+7h ago
 
 ---
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -66,7 +66,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,15 @@ Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing y
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-18h ago
+19h ago
+
+---
+
+**[Joy Robotics – Global Discord Community to Learn & Build Robotics Projects](https://www.reddit.com/r/robotics/comments/1qa5d4l/joy_robotics_global_discord_community_to_learn/)**
+
+Hey everyone 👋 I recently created a Discord server called Joy Robotics for anyone interested in robotics (beginners are welcome). The idea is to learn robotics step-by-step (ROS2, Arduino, ESP32, SLAM, AI) and collaborate on projects together. If you’re looking for a place to ask doubts, team up with others, and work on projects with people from different countries/time zones, feel free to join. Link: https://discord.gg/eEfgvX7weJ
+
+10m ago
 
 ---
 
@@ -98,19 +106,21 @@ I have recently been exploring robotic path planning and during my hands-on nume
 
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
-16h ago
-
----
-
-**[Atlas from Boston Dynamics closese this year’s CES with a backflip](https://www.reddit.com/r/robotics/comments/1q8t4ex/atlas_from_boston_dynamics_closese_this_years_ces/)**
-
-1d ago
+17h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
+
+If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
+
+TechCrunch • 1d ago
+
+---
 
 **[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
 
@@ -125,14 +135,6 @@ The Verge • 1d ago
 From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
 Engadget • 1d ago
-
----
-
-**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
-
-If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
-
-TechCrunch • 1d ago
 
 ---
 
@@ -164,7 +166,7 @@ Seeking Alpha • 1d ago
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
 
-NVIDIA Developer • 2d ago
+NVIDIA Developer • 3d ago
 
 ---
 
@@ -176,17 +178,17 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Audubon robotics teams help students break down barriers and build skills](https://onmilwaukee.com/articles/nns-audobon-robotics-team)**
+
+OnMilwaukee • 2h ago
+
+---
+
 **[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
 
 Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
 
 Fortune • 3d ago
-
----
-
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqexXTwn3Y2gtcRIvcVSbNENivrzbKiofZ5MwxgNnFe-ePI7i75ip4lU&gaa_ts=6963d2a6&gaa_sig=HZpCTM3_JkcghCyNmOSxvj8UZtmCBKJ-e2VZWgH5c6ep7-ZyFYo8n4YAaLLrHlbtBqgWvSErnQngbYiN20gnEQ%3D%3D)**
-
-The Wall Street Journal • 2d ago
 
 ---
 
@@ -250,7 +252,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 61K • 👍 1K • 💬 161 • ⏱️ 3:13 • 23h ago
+👁️ 61K • 👍 1K • 💬 161 • ⏱️ 3:13 • 1d ago
 
 ---
 
