@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T22:20:53.348253+00:00'
+updated: '2026-01-11T22:44:40.649091+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 22:20 UTC  
+**Last Updated:** January 11, 2026 at 22:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-4h ago
+5h ago
 
 ---
 
@@ -119,9 +119,51 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 ## Google News: "ai"
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqczzBqakpfRVCIXkNSm_yA_GFmy5jKM7uY9v6tz2w0gv3FwIofo2m9_&gaa_ts=69641c3e&gaa_sig=Xc9d_IC1y4P_jux-yLqWQHL4a-nOMtszML1Vy1UYTlwoNMY5cezpnxGHhOV0U8FrtOh_fpNxXaE9LE7yYtjmjg%3D%3D)**
+**[Google bolsters bet on AI-powered commerce with new platform for shopping agents](https://www.cnbc.com/2026/01/11/google-launches-universal-commerce-protocol-bets-on-ai-powered-retail.html)**
 
-The Wall Street Journal • 7h ago
+As retailers create AI agents for shopping and customer service, Google wants to secure its place in the ecommerce market.
+
+CNBC • 7h ago
+
+---
+
+**[Trump Administration Wants to Achieve ‘Pax Silica’ Through AI. Here’s What That Means](https://gizmodo.com/trump-administration-wants-to-achieve-pax-silica-through-ai-heres-what-that-means-2000708775)**
+
+Trump administration's global influence strategy runs through the AI supply chain.
+
+Gizmodo • 30m ago
+
+---
+
+**[3 AI Stocks Poised for Explosive Growth as Enterprise Spending Accelerates in 2026](https://www.fool.com/investing/2026/01/11/3-ai-stocks-poised-for-explosive-growth-as-enterpr/)**
+
+Sometimes the best stocks are the most obvious ones.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Top AI stock picks: Is it Nvidia or bust?](https://finance.yahoo.com/video/top-ai-stock-picks-nvidia-130035690.html)**
+
+Which stock is the best artificial intelligence (AI) play for investors: Nvidia (NVDA), Intel (INTC), or AMD (AMD)? D.A. Davidson head of technology research Gil Luria, Wedbush Securities managing director and global head of technology research Dan Ives, and Yahoo Finance Senior Reporter Ines Ferré join Opening Bid host Brian Sozzi to share their takes on the names. To watch more expert insights and analysis on the latest market action, check out more Opening Bid.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?](https://finance.yahoo.com/news/forget-nvidia-buy-2-artificial-213500522.html)**
+
+The stocks of Broadcom and AMD could have higher upside than Nvidia in the coming years.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Anthropic expands into healthcare a week after OpenAI launched a similar product](https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1)**
+
+Anthropic launches Claude for Healthcare, expanding AI tools for clinicians, insurers, and patients.
+
+Business Insider • 44m ago
 
 ---
 
@@ -130,36 +172,6 @@ The Wall Street Journal • 7h ago
 "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
 CNBC • 15h ago
-
----
-
-**[The "Safest" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now](https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/)**
-
-There are currently nine technology stocks that boast valuations of at least $1 trillion.
-
-The Motley Fool • 20h ago
-
----
-
-**[Brad Gerstner breaks from the crowd on one AI stock](https://www.thestreet.com/technology/brad-gerstner-breaks-from-the-crowd-on-one-ai-stock)**
-
-thestreet.com • 8h ago
-
----
-
-**[Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?](https://www.fool.com/investing/2026/01/11/should-you-forget-nvidia-and-buy-these-2-artificia/)**
-
-The stocks of Broadcom and AMD could have higher upside than Nvidia in the coming years.
-
-The Motley Fool • 1h ago
-
----
-
-**[Artificial Intelligence (AI) Is Driving a New Wave of Infrastructure Spending. This Stock Is Key.](https://www.fool.com/investing/2026/01/11/artificial-intelligence-ai-infrastructure-stock/)**
-
-This AI infrastructure company provides an overlooked but critical resource to data centers, and is set for a growth spurt because of it.
-
-The Motley Fool • 50m ago
 
 ---
 
@@ -173,15 +185,7 @@ The New York Times • 12h ago
 
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-The Atlantic • 1d ago
-
----
-
-**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://finance.yahoo.com/news/china-ai-leaders-warn-widening-140555407.html)**
-
-“A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
-
-Yahoo Finance • 1d ago
+The Atlantic • 2d ago
 
 ---
 
@@ -201,13 +205,13 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 609 • 💬 356 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 609 • 💬 357 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 393 • 💬 564 • 11h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 434 • 💬 591 • 12h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -215,7 +219,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 327 • 💬 313 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 327 • 💬 317 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -224,12 +228,6 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
 ⬆️ 162 • 💬 226 • 2d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
-
----
-
-**[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
-
-⬆️ 101 • 💬 66 • 3d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -245,13 +243,13 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 71 • 💬 47 • 2d ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 71 • 💬 48 • 2d ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 33 • 💬 18 • 22h ago
+⬆️ 34 • 💬 18 • 22h ago
 
 ---
 
@@ -266,6 +264,14 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 An AI program used by Workday allegedly put resumes of applicants who were Black, disabled, female or over 40 behind other job candidates.
 
 ⬆️ 27 • 💬 5 • 2d ago • [Straight Arrow News](https://san.com/cc/workday-hires-for-millions-a-lawsuit-seeking-plaintiffs-says-its-ai-shut-out-applicants-over-40/)
+
+---
+
+**[Slopware.wtf – Roasting AI-Generated Garbage Software](https://news.ycombinator.com/item?id=46549897)**
+
+Roasting AI-generated garbage software, one app at a time.
+
+⬆️ 24 • 💬 8 • 2d ago • [Slopware.wtf](https://slopware.wtf/)
 
 ---
 
@@ -319,7 +325,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 203 • 👍 48 • 💬 18 • ⏱️ 24:00 • 2h ago
+👁️ 203 • 👍 48 • 💬 18 • ⏱️ 24:00 • 3h ago
 
 ---
 
@@ -637,7 +643,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 995 • 5h ago
+⭐ 7.9k • 🔱 995 • 6h ago
 
 ---
 
@@ -657,7 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 135 • 4h ago
+⭐ 2.3k • 🔱 135 • 5h ago
 
 ---
 
@@ -677,7 +683,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 122 • 4h ago
+⭐ 1.4k • 🔱 122 • 5h ago
 
 ---
 
@@ -687,7 +693,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 109 • 1d ago
+⭐ 1.3k • 🔱 109 • 2d ago
 
 ---
 

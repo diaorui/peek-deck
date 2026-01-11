@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-11T22:20:52.965194+00:00"
+          "dateModified": "2026-01-11T22:44:40.288450+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -855,6 +855,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qad7gf/do_i_really_need_a_camera_for_a_wallclimbing/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qad7gf/do_i_really_need_a_camera_for_a_wallclimbing/" target="_blank" onclick="event.stopPropagation();">Do I really need a camera for a wall-climbing painting robot? (Compute & Pi Zero concerns)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hi everyone, I’m working on a wall-climbing painting robot (think vertical surfaces, not floor navigation). The robot is given the wall dimensions and a start pose, then follows a planned path to paint the wall. I’m currently trying to decide whether adding a camera + computer vision is actually worth it, or if it will overcomplicate the system. The main things I need (now and in future versions) are: Accurate measurement of how much the robot moved (distance + rotation) Localization on the wall (x, y, heading) without drift Detecting obstacles/boundaries like windows or “do not paint” areas (not front obstacles, but areas below/around) Judging paint quality (missed spots, uneven coverage, streaks) I originally tried ESP32 with a camera, but image quality and reliability were very poor. I’m now considering: Encoders + IMU for motion Possibly adding a camera (optical flow / simple vision) Using something like a Raspberry Pi Zero 2 W + Pi Camera as a companion computer My concerns: Is a camera really necessary for these tasks, or can I reasonably avoid it? Will computer vision be too computationally heavy / expensive for a small robot?(basic computer version algorithms not CNN) Is Pi Zero 2 W good choice ? and will its camera quality be realistically capable for lightweight CV (optical flow, AprilTags, simple inspection), or is that pushing it too far? Has anyone built something similar or have experience or advice in this part I’m intentionally trying to avoid heavy deep-learning solutions and keep things lightweight and robust. Any real-world experience, advice, or “I tried this and it failed/succeeded” stories would be extremely helpful. Thanks!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768170604.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1q9hn4p/feedback_on_robot_arm_appearance/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -923,39 +956,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qa5d4l/joy_robotics_global_discord_community_to_learn/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qa5d4l/joy_robotics_global_discord_community_to_learn/" target="_blank" onclick="event.stopPropagation();">Joy Robotics – Global Discord Community to Learn & Build Robotics Projects</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hey everyone 👋 I recently created a Discord server called Joy Robotics for anyone interested in robotics (beginners are welcome). The idea is to learn robotics step-by-step (ROS2, Arduino, ESP32, SLAM, AI) and collaborate on projects together. If you’re looking for a place to ask doubts, team up with others, and work on projects with people from different countries/time zones, feel free to join. Link: https://discord.gg/eEfgvX7weJ
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768152717.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -979,7 +979,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-11T21:40:16.072826+00:00">Updated 2026-01-11T21:40:16.072826+00:00</small>
+        <small data-timestamp="2026-01-11T22:44:18.975452+00:00">Updated 2026-01-11T22:44:18.975452+00:00</small>
     </div>
 </div>
 
@@ -1165,20 +1165,20 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108249189-1767768978333-Screenshot_2026-01-06_at_105120_PM.png?v=1767769075&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry" target="_blank" onclick="event.stopPropagation();">Are humanoid robots the next smart home gadget?</a>
+                            <a href="https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html" target="_blank" onclick="event.stopPropagation();">Humanoid robots take over CES in Las Vegas as tech industry touts future of AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
+                            Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
                         </div>
                         
 
@@ -1188,9 +1188,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Verge" class="news-favicon">
-                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1198,48 +1198,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768057200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/_SYQPLL5u5kPzABe8KvZRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cloid_hands.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html" target="_blank" onclick="event.stopPropagation();">The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.engadget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Engadget" class="news-favicon">
-                                    <a href="https://www.engadget.com" target="_blank" onclick="event.stopPropagation();">Engadget</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768059337.0"></span>
+                                    <span data-timestamp="1767963601.0"></span>
                                 </div>
                                 
                             </div>
@@ -1288,20 +1247,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108249189-1767768978333-Screenshot_2026-01-06_at_105120_PM.png?v=1767769075&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LG.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html" target="_blank" onclick="event.stopPropagation();">Humanoid robots take over CES in Las Vegas as tech industry touts future of AI</a>
+                            <a href="https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry" target="_blank" onclick="event.stopPropagation();">Are humanoid robots the next smart home gadget?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+                            Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
                         </div>
                         
 
@@ -1311,9 +1270,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Verge" class="news-favicon">
+                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
                                     
                                 </div>
                                 
@@ -1321,7 +1280,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1767963601.0"></span>
+                                    <span data-timestamp="1768057200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1363,6 +1322,88 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1768050018.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://kubrick.htvapps.com/vidthumb/08caa31a-a441-4138-bb86-18cf1dca447a/9f156470-7424-43a7-8d92-233d079820d4.jpg?crop=1xw:1.0xh;center,top&resize=1200:*');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951" target="_blank" onclick="event.stopPropagation();">Baltimore's Enoch Pratt Free Library hosts robotics competition for students</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wbaltv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WBAL-TV" class="news-favicon">
+                                    <a href="https://www.wbaltv.com" target="_blank" onclick="event.stopPropagation();">WBAL-TV</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768090440.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://gray-wymt-prod.gtv-cdn.com/resizer/v2/3PTCQI5KENBB7GV6ITMO32LTXA.png?auth=7bd4f99027f0ab0ad13f0b8b9de095041dcef566c8ece476a6ecf2fa5a966ecf&width=1200&height=600&smart=true');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/" target="_blank" onclick="event.stopPropagation();">15 Appalachian school teams compete in First Lego Robotics Tournament</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wymt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WYMT" class="news-favicon">
+                                    <a href="https://www.wymt.com" target="_blank" onclick="event.stopPropagation();">WYMT</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1767985260.0"></span>
                                 </div>
                                 
                             </div>
@@ -1493,55 +1534,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://gray-wymt-prod.gtv-cdn.com/resizer/v2/3PTCQI5KENBB7GV6ITMO32LTXA.png?auth=7bd4f99027f0ab0ad13f0b8b9de095041dcef566c8ece476a6ecf2fa5a966ecf&width=1200&height=600&smart=true');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/" target="_blank" onclick="event.stopPropagation();">15 Appalachian school teams compete in First Lego Robotics Tournament</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wymt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WYMT" class="news-favicon">
-                                    <a href="https://www.wymt.com" target="_blank" onclick="event.stopPropagation();">WYMT</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767985260.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqe7UiV3G3k7aZSs6mGwyAAaI-CVo9dHSHX2qQVVzr1BgSOkPzd692YB&gaa_ts=69641c43&gaa_sig=N1nMuFKqiwOQ6JNksMwmbLzut-FQPR8vJR0Jok98H2qlJCZg6hUeaUqefTZGyf-T3t_NfCClcafJZeqjYAM0dg%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wric.com/news/local-news/powhatan-county/regional-robotics-competition-powhatan-high-school/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqe7UiV3G3k7aZSs6mGwyAAaI-CVo9dHSHX2qQVVzr1BgSOkPzd692YB&gaa_ts=69641c43&gaa_sig=N1nMuFKqiwOQ6JNksMwmbLzut-FQPR8vJR0Jok98H2qlJCZg6hUeaUqefTZGyf-T3t_NfCClcafJZeqjYAM0dg%3D%3D" target="_blank" onclick="event.stopPropagation();">Scientists Create Robots Smaller Than a Grain of Sand</a>
+                            <a href="https://www.wric.com/news/local-news/powhatan-county/regional-robotics-competition-powhatan-high-school/" target="_blank" onclick="event.stopPropagation();">Regional robotics competition highlights community, creativity at Powhatan High School</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1553,9 +1553,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Wall Street Journal" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">The Wall Street Journal</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wric.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WRIC ABC 8News" class="news-favicon">
+                                    <a href="https://www.wric.com" target="_blank" onclick="event.stopPropagation();">WRIC ABC 8News</a>
                                     
                                 </div>
                                 
@@ -1563,7 +1563,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1767895200.0"></span>
+                                    <span data-timestamp="1768161342.0"></span>
                                 </div>
                                 
                             </div>
@@ -1591,7 +1591,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-11T21:40:34.893260+00:00">Updated 2026-01-11T21:40:34.893260+00:00</small>
+        <small data-timestamp="2026-01-11T22:44:39.411478+00:00">Updated 2026-01-11T22:44:39.411478+00:00</small>
     </div>
 </div>
 

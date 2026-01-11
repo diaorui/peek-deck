@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T22:20:53.363890+00:00'
+updated: '2026-01-11T22:44:40.663422+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 22:20 UTC  
+**Last Updated:** January 11, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -3.4%  
-**30d:** +0.1%  
-**90d:** -24.5%  
-**1y:** -4.6%  
+**24h:** +0.7%  
+**7d:** -3.5%  
+**30d:** -0.1%  
+**90d:** -24.6%  
+**1y:** -4.8%  
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2d ago
 
 Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 19h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Motley Fool • 12h ago
 
 Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
 
-Coinpedia Fintech News • 8h ago
+Coinpedia Fintech News • 9h ago
 
 ---
 
@@ -224,11 +224,9 @@ Benzinga • 2d ago
 
 ---
 
-**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says)**
+**[312K+ Holders Pick BlockDAG for a 16.6x Play While Dogecoin & Ethereum Stall](https://financefeeds.com/312k-holders-pick-blockdag-for-a-16-6x-play-while-dogecoin-ethereum-stall/)**
 
-EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
-
-CoinDesk • 9h ago
+FinanceFeeds • 4h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T22:20:53.357499+00:00'
+updated: '2026-01-11T22:44:40.657475+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 22:20 UTC  
+**Last Updated:** January 11, 2026 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.5%  
-**30d:** +0.5%  
-**90d:** -19.7%  
-**1y:** -3.9%  
+**24h:** +0.1%  
+**7d:** -3.8%  
+**30d:** +0.3%  
+**90d:** -19.9%  
+**1y:** -4.2%  
 
 ---
 
@@ -113,17 +113,17 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 ---
 
-**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
-
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 5h ago
-
----
-
 **[A local bank spreading FUD years after other entities tried to kill it or slow it down](https://www.reddit.com/r/Bitcoin/comments/1qa8ty8/a_local_bank_spreading_fud_years_after_other/)**
 
 What are crypto ATMs and why are scammers using them? Learn how these machines work, common fraud tactics, and how to protect your money.
 
-🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 2h ago
+🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 3h ago
+
+---
+
+**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
+
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 6h ago
 
 ---
 
@@ -143,11 +143,11 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 ---
 
-**[Running Bitcoin: The Tweet That Started It All](https://www.reddit.com/r/Bitcoin/comments/1qa60o4/running_bitcoin_the_tweet_that_started_it_all/)**
+**[Bitcoin Calculator](https://www.reddit.com/r/Bitcoin/comments/1qa3vk1/bitcoin_calculator/)**
 
-On January 11, 2009, Hal Finney, a pioneering cypherpunk and the first recipient of a real Bitcoin transaction, posted a historic tweet with just two words: “Running bitcoin.” With that simple message, he announced that he had Satoshi Nakamoto’s software up and running on his computer, becoming the first active node outside the creator and marking the true public birth of the Bitcoin network just days after the genesis block. That modest action proved the concept worked, enabled the first real transactions, and laid the foundation for the decentralized financial revolution that today moves trillions around the world. Thank you, Hal! Your node continues to inspire the entire world.
+https://preview.redd.it/zrwp6cduzqcg1.png?width=1222&format=png&auto=webp&s=84e5322004c1525212d2a142bad61efbd23bb0f9 https://botrift.com/bitcoin-calculator
 
-4h ago
+6h ago
 
 ---
 
@@ -163,6 +163,20 @@ CNBC • 2d ago
 
 ---
 
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
+
+Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
+
+CryptoSlate • 13h ago
+
+---
+
 **[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
 
 thestreet.com • 1d ago
@@ -173,15 +187,7 @@ thestreet.com • 1d ago
 
 Bitcoin may be nearing a short-term rebound as on-chain flows strengthen and Trump’s proposed credit cap boosts crypto adoption.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Satoshi-Era Miner Moves Millions in Bitcoin After 15 Years of Silence](https://finance.yahoo.com/news/satoshi-era-miner-moves-millions-190000016.html)**
-
-A Satoshi-era Bitcoin miner reactivated long-dormant wallets to move 2,000 BTC, worth about $181 million, to Coinbase.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -190,14 +196,6 @@ Yahoo Finance • 3h ago
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
 CoinDesk • 2d ago
-
----
-
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
-
-What we know about the South American country’s crypto holdings.
-
-Fortune • 2d ago
 
 ---
 
@@ -379,7 +377,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 414 • ⏱️ 9:19 • 1d ago
+👁️ 60K • 👍 3K • 💬 414 • ⏱️ 9:19 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 255 • ⏱️ 17:07 • 1d ago
+👁️ 26K • 👍 2K • 💬 255 • ⏱️ 17:07 • 2d ago
 
 ---
 
