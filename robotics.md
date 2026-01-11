@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T21:19:32.062982+00:00'
+updated: '2026-01-11T21:40:37.974659+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 21:19 UTC  
+**Last Updated:** January 11, 2026 at 21:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Latest version of Wuji hand (video on 1x)](https://www.reddit.com/r/robotics/comments/1q9ws10/latest_version_of_wuji_hand_video_on_1x/)**
+
+From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
+
+10h ago
+
+---
+
 **[Toilet cleaning robot](https://www.reddit.com/r/robotics/comments/1q9y5wh/toilet_cleaning_robot/)**
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
-8h ago
+9h ago
 
 ---
 
@@ -44,15 +52,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-10h ago
-
----
-
-**[Latest version of Wuji hand (video on 1x)](https://www.reddit.com/r/robotics/comments/1q9ws10/latest_version_of_wuji_hand_video_on_1x/)**
-
-From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
-
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +82,15 @@ I have recently been exploring robotic path planning and during my hands-on nume
 
 Hi all, currently working on a bionic hand project. The project itself is relatively easy except for the finger. I keep running into the issue of non simultaneous movement. The furthest joint bends first, then the middle, then the closest. The red line in there is a 1 mm UHMWPE poly cord. Real fingers have each joint bending at the same time, providing a smooth movement. The thing is, when the finger is hanging down (fingertip pointing to floor), the movement is perfect. But when it’s in a palms up position, I run into that sequential bending issue again. Any other fixes/approaches to this? I tried a linkage system but it was ridiculously weak. The only things I can think of are weak springs at each joint to provide some sort of weak extension torque (replicating gravity), or using multiple cords for each joint, which is something I’d rather not do due to complexity and power limitations.
 
-1h ago
+2h ago
+
+---
+
+**[Feedback on robot arm appearance](https://www.reddit.com/r/robotics/comments/1q9hn4p/feedback_on_robot_arm_appearance/)**
+
+Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
+
+23h ago
 
 ---
 
@@ -94,33 +102,17 @@ Hi everyone 👋 A while ago I shared CANgaroo, an open-source CAN / CAN-FD anal
 
 ---
 
-**[Feedback on robot arm appearance](https://www.reddit.com/r/robotics/comments/1q9hn4p/feedback_on_robot_arm_appearance/)**
-
-Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
-
-22h ago
-
----
-
 **[Joy Robotics – Global Discord Community to Learn & Build Robotics Projects](https://www.reddit.com/r/robotics/comments/1qa5d4l/joy_robotics_global_discord_community_to_learn/)**
 
 Hey everyone 👋 I recently created a Discord server called Joy Robotics for anyone interested in robotics (beginners are welcome). The idea is to learn robotics step-by-step (ROS2, Arduino, ESP32, SLAM, AI) and collaborate on projects together. If you’re looking for a place to ask doubts, team up with others, and work on projects with people from different countries/time zones, feel free to join. Link: https://discord.gg/eEfgvX7weJ
 
-3h ago
+4h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
-
-If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
-
-TechCrunch • 1d ago
-
----
 
 **[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
 
@@ -135,6 +127,14 @@ The Verge • 1d ago
 From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
 Engadget • 1d ago
+
+---
+
+**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
+
+If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
+
+TechCrunch • 1d ago
 
 ---
 
@@ -178,17 +178,17 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqfYDagsL4yXYkO5QS90QUk0QTt39d4DDWHEvKkDWNQ5iCmzvclAdg2-&gaa_ts=69640a92&gaa_sig=0oGUMoO9g3iUdFwd4skyxjT_YWcrkGiO_hCnB_L9lY4p2LxANKqgqsj_PiCtpG4ymJNFKvWNv0_qczNO03aEhg%3D%3D)**
-
-The Wall Street Journal • 3d ago
-
----
-
 **[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
 
 FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
 
 WYMT • 2d ago
+
+---
+
+**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqe7UiV3G3k7aZSs6mGwyAAaI-CVo9dHSHX2qQVVzr1BgSOkPzd692YB&gaa_ts=69641c43&gaa_sig=N1nMuFKqiwOQ6JNksMwmbLzut-FQPR8vJR0Jok98H2qlJCZg6hUeaUqefTZGyf-T3t_NfCClcafJZeqjYAM0dg%3D%3D)**
+
+The Wall Street Journal • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T21:19:32.059055+00:00'
+updated: '2026-01-11T21:40:37.971442+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 21:19 UTC  
+**Last Updated:** January 11, 2026 at 21:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** -3.7%  
-**30d:** -0.3%  
-**90d:** -24.8%  
-**1y:** -5.0%  
+**24h:** +1.1%  
+**7d:** -3.4%  
+**30d:** +0.1%  
+**90d:** -24.5%  
+**1y:** -4.6%  
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2d ago
 
 Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
 
-TradingView — Track All Markets • 17h ago
+TradingView — Track All Markets • 18h ago
 
 ---
 
@@ -192,14 +192,6 @@ Decrypt • 2d ago
 
 ---
 
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
-
-The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
-
-The Motley Fool • 11h ago
-
----
-
 **[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
 
 Ethereum's very soul is up for debate.
@@ -208,11 +200,19 @@ AMBCrypto • 10h ago
 
 ---
 
-**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
 
-Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
+The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-Coinpedia Fintech News • 2d ago
+The Motley Fool • 11h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Says Crypto’s Stablecoin Model Is Not Built to Last](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-says-cryptos-stablecoin-model-is-not-built-to-last/)**
+
+Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
+
+Coinpedia Fintech News • 8h ago
 
 ---
 

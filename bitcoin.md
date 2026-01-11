@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T21:19:32.051825+00:00'
+updated: '2026-01-11T21:40:37.965318+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 21:19 UTC  
+**Last Updated:** January 11, 2026 at 21:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,555.49
+### $90,693.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -3.8%  
-**30d:** +0.3%  
-**90d:** -19.9%  
-**1y:** -4.1%  
+**24h:** +0.4%  
+**7d:** -3.5%  
+**30d:** +0.5%  
+**90d:** -19.7%  
+**1y:** -3.9%  
 
 ---
 
@@ -83,6 +83,14 @@ Rank #1
 
 ---
 
+**[Banks Quietly Accumulate Bitcoin While Retail Panic Sells](https://www.reddit.com/r/Bitcoin/comments/1qaazw5/banks_quietly_accumulate_bitcoin_while_retail/)**
+
+CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
+
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 36m ago
+
+---
+
 **[$500 buy $500 Buy now worth $2884](https://www.reddit.com/r/Bitcoin/comments/1qa4ww3/500_buy_500_buy_now_worth_2884/)**
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
@@ -94,6 +102,28 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
 9h ago
+
+---
+
+**[Iran might have to buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa9liw/iran_might_have_to_buy_bitcoin/)**
+
+With their collapse of the country and currency, they might have to buy Bitcoin.
+
+1h ago
+
+---
+
+**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
+
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 5h ago
+
+---
+
+**[A local bank spreading FUD years after other entities tried to kill it or slow it down](https://www.reddit.com/r/Bitcoin/comments/1qa8ty8/a_local_bank_spreading_fud_years_after_other/)**
+
+What are crypto ATMs and why are scammers using them? Learn how these machines work, common fraud tactics, and how to protect your money.
+
+🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 2h ago
 
 ---
 
@@ -121,36 +151,6 @@ On January 11, 2009, Hal Finney, a pioneering cypherpunk and the first recipient
 
 ---
 
-**[A local bank spreading FUD years after other entities tried to kill it or slow it down](https://www.reddit.com/r/Bitcoin/comments/1qa8ty8/a_local_bank_spreading_fud_years_after_other/)**
-
-What are crypto ATMs and why are scammers using them? Learn how these machines work, common fraud tactics, and how to protect your money.
-
-🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 1h ago
-
----
-
-**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
-
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 4h ago
-
----
-
-**[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
-
-Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
-
-1d ago
-
----
-
-**[How do leveraged positions affect Bitcoin’s volatility?](https://www.reddit.com/r/Bitcoin/comments/1q9zq75/how_do_leveraged_positions_affect_bitcoins/)**
-
-I’ve been reading more about how leverage and derivatives interact with Bitcoin’s price, especially during periods of higher volatility. It seems like large clusters of leveraged positions can sometimes amplify moves when the market becomes unstable. Rather than focusing on short-term price action, I’m curious how people here think about the role of leverage in Bitcoin markets overall. Do you see it as something that adds useful liquidity, or does it mostly increase volatility and risk compared to Bitcoin’s original design? Interested in hearing different perspectives on how this affects the broader ecosystem.
-
-7h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -163,39 +163,17 @@ CNBC • 2d ago
 
 ---
 
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
-
-The Block • 1d ago
-
----
-
-**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
-
-Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
-
-CryptoSlate • 12h ago
-
----
-
-**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
-
-U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
-
-The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
-
-CoinDesk • 2d ago
-
----
-
 **[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
 
 thestreet.com • 23h ago
+
+---
+
+**[Analysts Spot Bitcoin Price Rebound Window — Could Trump’s 10% Credit Cap Trigger It?](https://finance.yahoo.com/news/analysts-spot-bitcoin-price-rebound-202506139.html)**
+
+Bitcoin may be nearing a short-term rebound as on-chain flows strengthen and Trump’s proposed credit cap boosts crypto adoption.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -204,6 +182,14 @@ thestreet.com • 23h ago
 A Satoshi-era Bitcoin miner reactivated long-dormant wallets to move 2,000 BTC, worth about $181 million, to Coinbase.
 
 Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
+
+U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -228,6 +214,20 @@ The Motley Fool • 10h ago
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
 Bitbo • 14h ago
+
+---
+
+**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
+
+The Block • 2d ago
+
+---
+
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
+
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
+
+VanEck • 3d ago
 
 ---
 

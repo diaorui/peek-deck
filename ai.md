@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T21:19:32.041773+00:00'
+updated: '2026-01-11T21:40:37.956569+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 21:19 UTC  
+**Last Updated:** January 11, 2026 at 21:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 ## Google News: "ai"
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqc_h9URfQN9C4XxRtpyZcoo7LCanHWY-MUUHZMI6NqJ-Vj2xb7Lg8Nc&gaa_ts=69640a8f&gaa_sig=jwHNoxmQ-fccRU2WrNRSPcO89RJfUt3iLCBb0M1CmAc5p5QPh2vqkKHW6md-Rvos4KhcuJ-4v1KalQc5GT6Lvg%3D%3D)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqczzBqakpfRVCIXkNSm_yA_GFmy5jKM7uY9v6tz2w0gv3FwIofo2m9_&gaa_ts=69641c3e&gaa_sig=Xc9d_IC1y4P_jux-yLqWQHL4a-nOMtszML1Vy1UYTlwoNMY5cezpnxGHhOV0U8FrtOh_fpNxXaE9LE7yYtjmjg%3D%3D)**
 
 The Wall Street Journal • 6h ago
 
@@ -133,33 +133,33 @@ CNBC • 14h ago
 
 ---
 
-**[Musician wrongly branded a sex offender by Google AI summary wants to sue over canceled concerts](https://nypost.com/2026/01/11/world-news/musician-wrongly-branded-a-sex-offender-by-google-ai-summary-wants-to-sue-over-canceled-concerts/)**
+**[The "Safest" Trillion-Dollar Artificial Intelligence (AI) Stock to Invest $50,000 In Right Now](https://www.fool.com/investing/2026/01/10/the-safest-trillion-dollar-artificial-intelligence/)**
 
-“I could have been at a border and put in jail,” the singer said.
+There are currently nine technology stocks that boast valuations of at least $1 trillion.
 
-New York Post • 2h ago
-
----
-
-**[AI bubble: five things you need to know to shield your finances from a crash | Investments](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions)**
-
-Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
-
-The Guardian • 1d ago
+The Motley Fool • 20h ago
 
 ---
 
-**[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
+**[Brad Gerstner breaks from the crowd on one AI stock](https://www.thestreet.com/technology/brad-gerstner-breaks-from-the-crowd-on-one-ai-stock)**
 
-Bloomberg.com • 21h ago
+thestreet.com • 8h ago
 
 ---
 
-**[3 AI Stocks Poised for Explosive Growth as Enterprise Spending Accelerates in 2026](https://www.fool.com/investing/2026/01/11/3-ai-stocks-poised-for-explosive-growth-as-enterpr/)**
+**[Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?](https://www.fool.com/investing/2026/01/11/should-you-forget-nvidia-and-buy-these-2-artificia/)**
 
-Sometimes the best stocks are the most obvious ones.
+The stocks of Broadcom and AMD could have higher upside than Nvidia in the coming years.
 
-The Motley Fool • 2h ago
+The Motley Fool • 25m ago
+
+---
+
+**[Artificial Intelligence (AI) Is Driving a New Wave of Infrastructure Spending. This Stock Is Key.](https://www.fool.com/investing/2026/01/11/artificial-intelligence-ai-infrastructure-stock/)**
+
+This AI infrastructure company provides an overlooked but critical resource to data centers, and is set for a growth spurt because of it.
+
+The Motley Fool • 10m ago
 
 ---
 
@@ -177,17 +177,17 @@ The Atlantic • 1d ago
 
 ---
 
-**[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
+**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://finance.yahoo.com/news/china-ai-leaders-warn-widening-140555407.html)**
 
-The Hill • 4h ago
+“A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[We’re probably going to learn to live with AI music](https://www.vox.com/podcasts/474751/ai-music-suno-generator)**
+**[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
 
-Here’s what the future might sound like, according to a science writer who experimented with it.
-
-vox.com • 9h ago
+The Hill • 4h ago
 
 ---
 
@@ -201,13 +201,13 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 608 • 💬 354 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 609 • 💬 356 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 374 • 💬 551 • 10h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 393 • 💬 564 • 11h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -215,7 +215,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 321 • 💬 310 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 327 • 💬 313 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -245,13 +245,13 @@ X to limit editing function to paying subscribers after platform threatened with
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
 
-⬆️ 71 • 💬 46 • 2d ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 71 • 💬 47 • 2d ago • [GitHub](https://github.com/Hiepler/EuConform)
 
 ---
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 32 • 💬 18 • 21h ago
+⬆️ 33 • 💬 18 • 21h ago
 
 ---
 
@@ -319,7 +319,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 203 • 👍 48 • 💬 18 • ⏱️ 24:00 • 1h ago
+👁️ 203 • 👍 48 • 💬 18 • ⏱️ 24:00 • 2h ago
 
 ---
 
@@ -637,7 +637,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 995 • 4h ago
+⭐ 7.9k • 🔱 995 • 5h ago
 
 ---
 
