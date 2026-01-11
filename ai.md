@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T23:21:02.588364+00:00'
+updated: '2026-01-11T23:41:25.761984+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 23:21 UTC  
+**Last Updated:** January 11, 2026 at 23:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Gizmodo • 1h ago
 
 Sometimes the best stocks are the most obvious ones.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 10h ago
 
 The stocks of Broadcom and AMD could have higher upside than Nvidia in the coming years.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 434 • 💬 591 • 12h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 434 • 💬 591 • 13h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -325,7 +325,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 486 • 👍 93 • 💬 29 • ⏱️ 24:00 • 3h ago
+👁️ 486 • 👍 93 • 💬 29 • ⏱️ 24:00 • 4h ago
 
 ---
 
@@ -375,7 +375,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 47K • 👍 2K • 💬 234 • ⏱️ 35:41 • 19h ago
+👁️ 47K • 👍 2K • 💬 234 • ⏱️ 35:41 • 20h ago
 
 ---
 
@@ -643,7 +643,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 997 • 6h ago
+⭐ 7.9k • 🔱 997 • 7h ago
 
 ---
 
@@ -663,7 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 136 • 5h ago
+⭐ 2.3k • 🔱 136 • 6h ago
 
 ---
 

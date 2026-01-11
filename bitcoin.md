@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T23:21:02.596831+00:00'
+updated: '2026-01-11T23:41:25.771288+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 23:21 UTC  
+**Last Updated:** January 11, 2026 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -117,13 +117,13 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 What are crypto ATMs and why are scammers using them? Learn how these machines work, common fraud tactics, and how to protect your money.
 
-🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 3h ago
+🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 4h ago
 
 ---
 
 **[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
 
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 https://preview.redd.it/zrwp6cduzqcg1.png?width=1222&format=png&auto=webp&s=84e5322004c1525212d2a142bad61efbd23bb0f9 https://botrift.com/bitcoin-calculator
 
-6h ago
+7h ago
 
 ---
 
@@ -187,7 +187,7 @@ thestreet.com • 1d ago
 
 Bitcoin may be nearing a short-term rebound as on-chain flows strengthen and Trump’s proposed credit cap boosts crypto adoption.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 10K • 👍 496 • 💬 287 • ⏱️ 3:25 • 1d ago
+👁️ 10K • 👍 496 • 💬 287 • ⏱️ 3:25 • 2d ago
 
 ---
 
@@ -367,7 +367,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 77 Rockets Woodworking 
 
-👁️ 2K • 👍 501 • 21m ago
+👁️ 2K • 👍 501 • 41m ago
 
 ---
 
