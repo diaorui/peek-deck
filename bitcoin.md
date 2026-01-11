@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-10T23:41:05.725848+00:00'
+updated: '2026-01-11T01:58:32.814555+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 10, 2026 at 23:41 UTC  
+**Last Updated:** January 11, 2026 at 01:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,501.11
+### $90,583.30
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.1%  
-**7d:** -1.0%  
-**30d:** +0.3%  
-**90d:** -21.4%  
-**1y:** -4.2%  
+**7d:** -3.6%  
+**30d:** +0.5%  
+**90d:** -19.8%  
+**1y:** -4.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1806.59B
+**Market Cap:** $1807.54B
 Rank #1
 
-**Circulating Supply:** 19,974,240 BTC
+**Circulating Supply:** 19,974,315 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.2%
 
 **All-Time Low:** $67.81
-+133285.9%
++133349.3%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-9h ago
+11h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-9h ago
+11h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -101,27 +101,25 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-6h ago
+8h ago
 
 ---
 
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
+**[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-10h ago
+9h ago
 
 ---
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-4h ago
+7h ago
 
 ---
 
-**[VanEck: small Bitcoin allocation could boost portfolio returns](https://www.reddit.com/r/Bitcoin/comments/1q95l2m/vaneck_small_bitcoin_allocation_could_boost/)**
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
-
-9h ago
+12h ago
 
 ---
 
@@ -129,19 +127,23 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
 
-4h ago
-
----
-
-**[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
-
 7h ago
 
 ---
 
-**[I’m buying other BTC…](https://www.reddit.com/r/Bitcoin/comments/1q90aug/im_buying_other_btc/)**
+**[VanEck: small Bitcoin allocation could boost portfolio returns](https://www.reddit.com/r/Bitcoin/comments/1q95l2m/vaneck_small_bitcoin_allocation_could_boost/)**
 
-13h ago
+VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
+
+11h ago
+
+---
+
+**[Buy now or Dca?](https://www.reddit.com/r/Bitcoin/comments/1q9funl/buy_now_or_dca/)**
+
+I just liquidated 10k of stocks to put into bitcoin. Would it be a better decision to dca over the next year/years or so with it or just put the 10k in right now?
+
+4h ago
 
 ---
 
@@ -157,6 +159,28 @@ CNBC • 1d ago
 
 ---
 
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
+
+The Block • 9h ago
+
+---
+
+**[Bitcoin ETF optimism fades as three-day outflows streak erases early-month gains](https://www.coindesk.com/markets/2026/01/09/bitcoin-etf-optimism-fades-as-three-day-outflows-streak-erases-early-month-gains)**
+
+Bitcoin ETFs have registered a net outflow of over $1 billion in three days.
+
+CoinDesk • 1d ago
+
+---
+
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
+
+There's a major pitfall coming up that'll need to be avoided.
+
+The Motley Fool • 23h ago
+
+---
+
 **[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
@@ -165,33 +189,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
-
-The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
-
-CoinDesk • 1d ago
-
----
-
-**[The boldest bitcoin predictions for 2026 are in — from $75,000 to $225,000](https://www.cnbc.com/2026/01/08/bitcoin-btc-price-predictions-for-2026.html)**
-
-Industry executives and investors forecast a wide range of prices for bitcoin in 2026, dropping as low as $75,000 and rising as high as $225,000.
-
-CNBC • 2d ago
-
----
-
-**[3 Types of Cryptocurrencies That Can Diversify a Tech-Heavy Portfolio](https://www.fool.com/investing/2026/01/10/3-cryptocurrencies-that-can-diversify-a-tech-heavy/)**
-
-While many cryptocurrencies are highly correlated with tech, these cryptocurrencies are not.
-
-The Motley Fool • 3h ago
-
----
-
 **[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 1d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -217,9 +217,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-are-swirling-about-venezuela-holding-60-billion-in-bitcoin-but-crypto-experts-are-skeptical/)**
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
 
-Fortune • 1d ago
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
+
+VanEck • 2d ago
 
 ---
 
@@ -238,14 +240,6 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
 ⬆️ 7 • 💬 1 • 2d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
-
----
-
-**[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46483271)**
-
-Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
-
-⬆️ 4 • 💬 3 • 6d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -301,9 +295,27 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ---
 
+**[CNBC: Walmart to Accept Crypto](https://news.ycombinator.com/item?id=46503251)**
+
+According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
+
+⬆️ 2 • 💬 0 • 5d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+
+Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 766 • 💬 190 • ⏱️ 17:17 • 3h ago
+
+---
 
 **[The AI Shock Is About to Reprice Bitcoin](https://www.youtube.com/watch?v=S-K-GTIIJfw)**
 
@@ -311,17 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 28K • 👍 2K • 💬 118 • ⏱️ 1:05:08 • 9h ago
-
----
-
-**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
-
-Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 52K • 👍 3K • 💬 261 • ⏱️ 11:14 • 1d ago
+👁️ 36K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 11h ago
 
 ---
 
@@ -331,7 +333,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 5K • 👍 387 • 💬 296 • ⏱️ 3:25 • 1d ago
+👁️ 6K • 👍 410 • 💬 285 • ⏱️ 3:25 • 1d ago
 
 ---
 
@@ -341,7 +343,17 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 17K • 👍 1K • 💬 342 • ⏱️ 10:43 • 1d ago
+👁️ 17K • 👍 1K • 💬 393 • ⏱️ 10:43 • 1d ago
+
+---
+
+**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
+
+Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 53K • 👍 3K • 💬 264 • ⏱️ 11:14 • 2d ago
 
 ---
 
@@ -351,37 +363,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 330 • ⏱️ 9:19 • 1d ago
-
----
-
-**[If THIS Doesn’t Happen In 2026, I’m Leaving Crypto.](https://www.youtube.com/watch?v=E9qoWoIalW4)**
-
-2026 could be the biggest year Bitcoin has ever seen, and it's not hype - the data tells a very clear story. In this video, Ran breaks ...
-
-📺 Crypto Insider
-
-👁️ 41K • 👍 3K • 💬 132 • ⏱️ 21:00 • 1d ago
-
----
-
-**[Bitcoin Holders, Here&#39;s Why This All Makes Sense To Me](https://www.youtube.com/watch?v=oFocqiqDc4U)**
-
-Market updates ➡️ Fave Place To Trade: https://aaronbtc.com/low iTrust Capital – $100 Bonus (Crypto IRA & Custody ...
-
-📺 Aaron Bennett
-
-👁️ 5K • 👍 424 • 💬 408 • ⏱️ 7:59 • 17h ago
-
----
-
-**[GameStop is F*CKED! Closing MORE Stores and Bets on BITCOIN?! | Clownfish TV](https://www.youtube.com/watch?v=3LTwqeUEfYg)**
-
-GameStop sounds pretty f*cked going into 2026. They're closing 300 more locations with little or no notice to employees, they're ...
-
-📺 Clownfish TV
-
-👁️ 18K • 👍 1K • 💬 491 • ⏱️ 15:04 • 18h ago
+👁️ 54K • 👍 3K • 💬 375 • ⏱️ 9:19 • 1d ago
 
 ---
 
@@ -391,17 +373,37 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 248 • ⏱️ 17:07 • 1d ago
+👁️ 24K • 👍 2K • 💬 253 • ⏱️ 17:07 • 1d ago
 
 ---
 
-**[🚨BREAKING CRYPTO NEWS: COULD THIS REALLY HAPPEN NEXT?🚨](https://www.youtube.com/watch?v=vdJQ-XrR35k)**
+**[This Bitcoin Setup Looks Nothing Like the Past](https://www.youtube.com/watch?v=f3oaALlUie0)**
 
-Breaking Crypto News Today - Cathie Wood Just said this could happen next in the united states and it could be huge for crypto ...
+Bitcoin's price may look stagnant, but the fundamentals tell a very different story. In this clip, Sam Callahan breaks down the surge ...
 
-📺 Zach Humphries
+📺 Swan Bitcoin
 
-👁️ 7K • 👍 396 • 💬 323 • ⏱️ 6:53 • 1d ago
+👁️ 3K • 👍 108 • 💬 3 • ⏱️ 0:48 • 12h ago
+
+---
+
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+
+📺 Paul Barron Network
+
+👁️ 71K • 👍 3K • 💬 361 • ⏱️ 16:13 • 2d ago
+
+---
+
+**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
+
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+
+📺 Crypto Crew University
+
+👁️ 57K • 👍 3K • 💬 298 • ⏱️ 17:35 • 2d ago
 
 ---
 
