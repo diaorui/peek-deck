@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T07:21:49.522485+00:00'
+updated: '2026-01-11T07:42:02.544054+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 07:21 UTC  
+**Last Updated:** January 11, 2026 at 07:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
-6h ago
+7h ago
 
 ---
 
@@ -84,15 +84,9 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 ---
 
-**[LOGAN: ROBOT FIGHTER wtf$#@!](https://www.reddit.com/r/robotics/comments/1q9rhn6/logan_robot_fighter_wtf/)**
-
-1h ago
-
----
-
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -102,15 +96,15 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 ---
 
+**[Servo stutters when I connect to a pot](https://www.reddit.com/r/robotics/comments/1q9jmoz/servo_stutters_when_i_connect_to_a_pot/)**
+
+7h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
-
-**[Exclusive: Arm launches 'Physical AI' unit, joining rush to robotics by tech and automakers](https://www.reuters.com/business/autos-transportation/arm-launches-physical-ai-division-expand-robotics-market-2026-01-07/)**
-
-Reuters • 3d ago
-
----
 
 **[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
 
@@ -120,11 +114,11 @@ CNBC • 1d ago
 
 ---
 
-**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
+**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
 
-From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
+If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
 
-Engadget • 15h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -168,17 +162,25 @@ Fortune • 2d ago
 
 ---
 
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqc-WPyfmHLc_bW9Ki3VGgK43reOmzTPrllyB4QnJf6v3qE64idZxjxC&gaa_ts=696347eb&gaa_sig=glpuoq_WAJhz3GwvcUNgI7cIRnJ9_onC9mxzIycpenCtRB7q9oWwvRfrN6s2f851EJds5rDS2BXHQWtGYTNG6g%3D%3D)**
+**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqfVEdgsg2K48opxTNTy9YhK0Xr4QUN8vbUU-SQnZoQAI0D_gL3XCUnJ&gaa_ts=696357b8&gaa_sig=qLZz0Vl_IYGJIjmrQ6FLH59xH0OJM1cC30i8q6Q60ql_vRo65xhdpESWg30F7dTJKFpQAXFdePBH04h3NrbPIg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
+**[Why AIC is the only path to certifiable robotics](https://www.therobotreport.com/why-aic-is-the-only-path-to-certifiable-robotics/)**
 
-Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+The EU AI Act could affect humanoids. AIC, or artificial integrated cognition, provides a path for AI to gain the trust needed to advance.
 
-Interesting Engineering • 3d ago
+The Robot Report • 18h ago
+
+---
+
+**[WSU researchers develop robotic arm to aid with labor and boost productivity in orchards](https://komonews.com/news/local/wsu-washington-state-university-school-of-mechanical-and-materials-engineering-researchers-agriculture-robotic-apple-picking-arm-washington-orchards-migrant-farm-workers)**
+
+A cost-effective, robotic apple picker arm developed by Washington State University (WSU) researchers may someday help with fruit picking and other farm chores.
+
+KOMO • 16h ago
 
 ---
 
@@ -212,7 +214,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 54K • 👍 1K • 💬 150 • ⏱️ 3:13 • 13h ago
+👁️ 54K • 👍 1K • 💬 150 • ⏱️ 3:13 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T07:21:49.519267+00:00'
+updated: '2026-01-11T07:42:02.541315+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 07:21 UTC  
+**Last Updated:** January 11, 2026 at 07:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -4.1%  
-**30d:** -0.6%  
-**90d:** -25.0%  
-**1y:** -5.3%  
+**24h:** +0.2%  
+**7d:** -3.9%  
+**30d:** -0.5%  
+**90d:** -24.9%  
+**1y:** -5.2%  
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 12h ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 21h ago
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -180,7 +180,13 @@ Yahoo Finance • 15h ago
 
 In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 15h ago
+
+---
+
+**[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
+
+The Block • 3d ago
 
 ---
 
@@ -192,17 +198,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
-
-The Block • 3d ago
-
----
-
 **[This Popular Cryptocurrency Could Soar by 177% in 2026, According to Wall Street Analyst Tom Lee](https://www.fool.com/investing/2026/01/10/this-cryptocurrency-soar-177-in-2026-wall-tom-lee/)**
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 595 • 💬 57 • ⏱️ 24:05 • 10h ago
+👁️ 10K • 👍 595 • 💬 57 • ⏱️ 24:05 • 11h ago
 
 ---
 
@@ -318,7 +318,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 630 • 👍 40 • 💬 75 • ⏱️ 6:18 • 13h ago
+👁️ 630 • 👍 40 • 💬 75 • ⏱️ 6:18 • 14h ago
 
 ---
 

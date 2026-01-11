@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T07:21:49.513270+00:00'
+updated: '2026-01-11T07:42:02.536131+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 07:21 UTC  
+**Last Updated:** January 11, 2026 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,8 +47,8 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.2%  
 **7d:** -3.5%  
 **30d:** +0.6%  
-**90d:** -19.7%  
-**1y:** -3.9%  
+**90d:** -19.6%  
+**1y:** -3.8%  
 
 ---
 
@@ -81,7 +81,15 @@ Rank #1
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-16h ago
+17h ago
+
+---
+
+**[BTC Accumulation Zone](https://www.reddit.com/r/Bitcoin/comments/1q9q8uz/btc_accumulation_zone/)**
+
+Ik people don’t want Bitcoin to go down, but that often leads to the best opportunities. I plan on buying a whole coin at these levels.
+
+2h ago
 
 ---
 
@@ -97,11 +105,11 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 ---
 
-**[BTC Accumulation Zone](https://www.reddit.com/r/Bitcoin/comments/1q9q8uz/btc_accumulation_zone/)**
+**[I’m addicted? 28M](https://www.reddit.com/r/Bitcoin/comments/1q9sf17/im_addicted_28m/)**
 
-Ik people don’t want Bitcoin to go down, but that often leads to the best opportunities. I plan on buying a whole coin at these levels.
+I have been learning about BTC for a year now slowly accumulating as much as I can weekly. I’m nearly at 0.2 and I am addicted it’s all I think about every day how to get more and more and what my life will be like in 10 years 20? Will I retire soon? Do I need to chill? 😂😂
 
-2h ago
+57m ago
 
 ---
 
@@ -116,14 +124,6 @@ Ik people don’t want Bitcoin to go down, but that often leads to the best oppo
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
 14h ago
-
----
-
-**[Sometimes we live no particular way but our own. RIP Bobby](https://www.reddit.com/r/Bitcoin/comments/1q9psav/sometimes_we_live_no_particular_way_but_our_own/)**
-
-Bob Weir 10/16/47-1/10/26
-
-2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Bob Weir 10/16/47-1/10/26
 
 --- TL;DR: My thoughts are that BTC is not currently in a confirmed bear market. From a macro, monthly structure perspective, as long as ~74k holds on a monthly close, the higher-timeframe bull structure remains intact. At the same time, monthly volatility has been compressed for over a year, suggesting a meaningful expansion phase is more likely sooner rather than later. Direction isn’t guaranteed — but structure still favours continuation unless that higher low breaks. --- I want to share this chart as a way of thinking about Bitcoin in terms of macro structure, rather than narratives or rigid cycle assumptions. This is a long-term Fibonacci extension drawn using major historical pivots: the early BTC genesis low (2009–2010), the 2017 cycle high, and the 2018 bear-market low. Volatility, represented by Caretaker’s BBWP indicator (Bollinger Band Width Percentile, length 13, lookback 252), is at the bottom. The goal here isn’t strict prediction (although it kind of is) — it’s to map out higher-timeframe structure. What stands out to me is how closely the current market is respecting these levels. The 4.236 extension around ~87k lines up almost perfectly with BTC’s most recent support zone, while the 3.618 extension around ~74k aligns with the current monthly higher low. For me, that ~74k level is the key structural line in the sand. As long as BTC holds above it on a monthly closing basis, higher-timeframe structure and trend remains intact with higher-highs and higher-lows. A clean monthly close below that level, followed by a failed reclaim, would be my signal that a true bear-market regime is likely. Above current price, the higher Fibonacci extensions — roughly the 6.854 and 10.618 levels — cluster in the high-100k to low-200k range. These aren’t targets so much as zones where long-term extensions naturally converge if the current structure continues to resolve upward. The box labeled “EOY 2026 / Early 2027” is a structural zone with a bit of honest hopium, not a call for an exact top. One additional piece that makes this setup interesting to me is volatility. On the monthly timeframe, volatility as measured by the BBWP has been in an extreme compression regime (<20) for over a year now — one of the longest such periods in BTC’s history. With the settings above, Bitcoin has only experienced such a compression for longer than 17 months once in history, and it’s currently on month 15. So historically, volatility compressions on higher timeframes don't persist indefinitely and tend to resolve with expansion. That alone doesn’t tell us direction, but it does suggest the current range is unlikely to last much longer. If past behaviour is any guide, this points to a meaningful expansion phase occurring potentially within 3-6 months. If the ~74k level continues to hold on a monthly basis and momentum can flip back to the upside, then interaction with the next higher fib levels becomes increasingly plausible. One last note on the BBWP, each 'bull run' in the past has seen a BBWP of >50, which we have not yet seen for the current run. This chart is meant as a framework, not a call for tops or bottoms. It’s about identifying where structure breaks versus where it remains valid. As long as the monthly higher low around ~74k holds, I find it difficult to justify strong bear-market conviction purely from a structural standpoint until that level breaks on a monthly close. I’m posting this to get other perspectives, especially from people who focus on higher-timeframe structure rather than cycle timing or short-term indicators. If you see flaws in the anchoring, interpretation, or assumptions here, I’d genuinely like to hear them. --- Honest Disclaimer: AI helped turn scattered thoughts into readable English. The ideas (and any bad takes) are still very much my own. ---
 
-5h ago
+6h ago
 
 ---
 
@@ -159,25 +159,19 @@ CNBC • 1d ago
 
 ---
 
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
-
-The Block • 15h ago
-
----
-
-**[Bitcoin price falls as BlackRock and Fidelity ETFs see heavy outflows](https://uk.finance.yahoo.com/news/bitcoin-price-crypto-blackrock-fidelity-etfs-outflows-104916054.html)**
-
-Bitcoin price retreated from recent highs on Thursday as institutional investors locked in profits after a strong start to the year.
-
-Yahoo Finance UK • 2d ago
-
----
-
 **[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
 
 There's a major pitfall coming up that'll need to be avoided.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+
+What we know about the South American country’s crypto holdings.
+
+Fortune • 1d ago
 
 ---
 
@@ -199,7 +193,7 @@ The Block • 2d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -208,6 +202,14 @@ Yahoo Finance • 9h ago
 Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
 
 Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
+
+We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
+
+VanEck • 2d ago
 
 ---
 
