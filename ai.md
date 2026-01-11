@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T19:38:15.964622+00:00'
+updated: '2026-01-11T20:25:07.840506+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- news
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 19:38 UTC  
+**Last Updated:** January 11, 2026 at 20:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI insiders seek to poison the data that feeds them](https://www.reddit.com/r/artificial/comments/1qa7bpv/ai_insiders_seek_to_poison_the_data_that_feeds/)**
+
+: Poison Fountain project seeks allies to fight the power
+
+🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 1h ago
+
+---
+
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
 1d ago
 
 ---
 
-**[AI insiders seek to poison the data that feeds them](https://www.reddit.com/r/artificial/comments/1qa7bpv/ai_insiders_seek_to_poison_the_data_that_feeds/)**
+**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
 
-: Poison Fountain project seeks allies to fight the power
+We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 53m ago
+5h ago
 
 ---
 
@@ -59,19 +67,11 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 ---
 
-**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
-
-We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
-
-4h ago
-
----
-
 **[One-Minute Daily AI News 1/10/2026](https://www.reddit.com/r/artificial/comments/1q9rf5i/oneminute_daily_ai_news_1102026/)**
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-13h ago
+14h ago
 
 ---
 
@@ -119,9 +119,9 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 ## Google News: "ai"
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdsVgbBEi4VAWsYeXRa0jOf5AK3UD3rEKwd-35vArrV-n2twlsPsSP1&gaa_ts=6963faab&gaa_sig=MR6Sb0UKnqPMrst5OzhwFSfW5Xgrfl6Ts35c_Lyof826kGQ9bTD1ozk6zW3w659d8lj5TFkFurl3zNGya82hHg%3D%3D)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqc_h9URfQN9C4XxRtpyZcoo7LCanHWY-MUUHZMI6NqJ-Vj2xb7Lg8Nc&gaa_ts=69640a8f&gaa_sig=jwHNoxmQ-fccRU2WrNRSPcO89RJfUt3iLCBb0M1CmAc5p5QPh2vqkKHW6md-Rvos4KhcuJ-4v1KalQc5GT6Lvg%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
@@ -129,15 +129,29 @@ The Wall Street Journal • 4h ago
 
 "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
-**[2 AI Stocks That Could Help Make You a Fortune](https://www.fool.com/investing/2026/01/11/2-ai-stocks-that-could-help-make-you-a-fortune/)**
+**[Musician wrongly branded a sex offender by Google AI summary wants to sue over canceled concerts](https://nypost.com/2026/01/11/world-news/musician-wrongly-branded-a-sex-offender-by-google-ai-summary-wants-to-sue-over-canceled-concerts/)**
 
-These stocks are poised to deliver wealth-building returns.
+“I could have been at a border and put in jail,” the singer said.
 
-The Motley Fool • 9h ago
+New York Post • 1h ago
+
+---
+
+**[AI bubble: five things you need to know to shield your finances from a crash | Investments](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions)**
+
+Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
+
+The Guardian • 1d ago
+
+---
+
+**[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
+
+Bloomberg.com • 20h ago
 
 ---
 
@@ -149,33 +163,9 @@ The Motley Fool • 1h ago
 
 ---
 
-**[How the AI data center bubble story is playing out inside one booming energy stock](https://www.cnbc.com/2026/01/11/bloom-energy-ai-data-center-power-stock-bubble.html)**
-
-Can Bloom Energy's high-flying stock, fueled by generating onsite power for AI data centers, steer clear of bubble risks?
-
-CNBC • 5h ago
-
----
-
-**[Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/)**
-
-This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.
-
-TechCrunch • 1h ago
-
----
-
-**[Musician wrongly branded a sex offender by Google AI summary wants to sue over canceled concerts](https://nypost.com/2026/01/11/world-news/musician-wrongly-branded-a-sex-offender-by-google-ai-summary-wants-to-sue-over-canceled-concerts/)**
-
-“I could have been at a border and put in jail,” the singer said.
-
-New York Post • 28m ago
-
----
-
 **[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -189,7 +179,15 @@ The Atlantic • 1d ago
 
 **[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
 
-The Hill • 2h ago
+The Hill • 3h ago
+
+---
+
+**[We’re probably going to learn to live with AI music](https://www.vox.com/podcasts/474751/ai-music-suno-generator)**
+
+Here’s what the future might sound like, according to a science writer who experimented with it.
+
+vox.com • 8h ago
 
 ---
 
@@ -203,13 +201,13 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 608 • 💬 353 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 608 • 💬 354 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 360 • 💬 524 • 9h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 374 • 💬 551 • 9h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -217,7 +215,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 315 • 💬 304 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 321 • 💬 310 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -231,7 +229,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 100 • 💬 66 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 101 • 💬 66 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -253,7 +251,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 30 • 💬 18 • 19h ago
+⬆️ 32 • 💬 18 • 20h ago
 
 ---
 
@@ -281,7 +279,7 @@ Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances
 
 📺 Fox Business
 
-👁️ 13K • 👍 268 • 💬 139 • ⏱️ 3:53 • 18h ago
+👁️ 13K • 👍 268 • 💬 139 • ⏱️ 3:53 • 19h ago
 
 ---
 
@@ -657,7 +655,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 135 • 1h ago
+⭐ 2.3k • 🔱 135 • 2h ago
 
 ---
 
@@ -667,7 +665,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 222 • 6h ago
+⭐ 2.0k • 🔱 222 • 7h ago
 
 ---
 
@@ -677,7 +675,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 122 • 1h ago
+⭐ 1.4k • 🔱 122 • 2h ago
 
 ---
 
@@ -727,7 +725,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.1k • 🔱 127 • 1h ago
+⭐ 1.1k • 🔱 127 • 2h ago
 
 ---
 

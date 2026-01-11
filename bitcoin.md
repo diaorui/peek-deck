@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T19:38:15.973273+00:00'
+updated: '2026-01-11T20:25:07.848940+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 19:38 UTC  
+**Last Updated:** January 11, 2026 at 20:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,910.23
+### $90,555.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -3.2%  
-**30d:** +0.9%  
-**90d:** -19.4%  
-**1y:** -3.6%  
+**24h:** -0.0%  
+**7d:** -3.8%  
+**30d:** +0.3%  
+**90d:** -19.9%  
+**1y:** -4.1%  
 
 ---
 
@@ -79,12 +79,6 @@ Rank #1
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-6h ago
-
----
-
-**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
-
 7h ago
 
 ---
@@ -93,23 +87,13 @@ Rank #1
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-2h ago
+3h ago
 
 ---
 
-**[Running Bitcoin: The Tweet That Started It All](https://www.reddit.com/r/Bitcoin/comments/1qa60o4/running_bitcoin_the_tweet_that_started_it_all/)**
+**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-On January 11, 2009, Hal Finney, a pioneering cypherpunk and the first recipient of a real Bitcoin transaction, posted a historic tweet with just two words: “Running bitcoin.” With that simple message, he announced that he had Satoshi Nakamoto’s software up and running on his computer, becoming the first active node outside the creator and marking the true public birth of the Bitcoin network just days after the genesis block. That modest action proved the concept worked, enabled the first real transactions, and laid the foundation for the decentralized financial revolution that today moves trillions around the world. Thank you, Hal! Your node continues to inspire the entire world.
-
-1h ago
-
----
-
-**[M19, investment in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q9yn7s/m19_investment_in_bitcoin/)**
-
-Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
-
-6h ago
+8h ago
 
 ---
 
@@ -117,7 +101,31 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
 
+3h ago
+
+---
+
+**[M19, investment in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q9yn7s/m19_investment_in_bitcoin/)**
+
+Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
+
+7h ago
+
+---
+
+**[Running Bitcoin: The Tweet That Started It All](https://www.reddit.com/r/Bitcoin/comments/1qa60o4/running_bitcoin_the_tweet_that_started_it_all/)**
+
+On January 11, 2009, Hal Finney, a pioneering cypherpunk and the first recipient of a real Bitcoin transaction, posted a historic tweet with just two words: “Running bitcoin.” With that simple message, he announced that he had Satoshi Nakamoto’s software up and running on his computer, becoming the first active node outside the creator and marking the true public birth of the Bitcoin network just days after the genesis block. That modest action proved the concept worked, enabled the first real transactions, and laid the foundation for the decentralized financial revolution that today moves trillions around the world. Thank you, Hal! Your node continues to inspire the entire world.
+
 2h ago
+
+---
+
+**[A local bank spreading FUD years after other entities tried to kill it or slow it down](https://www.reddit.com/r/Bitcoin/comments/1qa8ty8/a_local_bank_spreading_fud_years_after_other/)**
+
+What are crypto ATMs and why are scammers using them? Learn how these machines work, common fraud tactics, and how to protect your money.
+
+🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 44m ago
 
 ---
 
@@ -139,19 +147,21 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 I’ve been reading more about how leverage and derivatives interact with Bitcoin’s price, especially during periods of higher volatility. It seems like large clusters of leveraged positions can sometimes amplify moves when the market becomes unstable. Rather than focusing on short-term price action, I’m curious how people here think about the role of leverage in Bitcoin markets overall. Do you see it as something that adds useful liquidity, or does it mostly increase volatility and risk compared to Bitcoin’s original design? Interested in hearing different perspectives on how this affects the broader ecosystem.
 
-5h ago
-
----
-
-**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
-
-1d ago
+6h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
+
+It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
+
+CNBC • 2d ago
+
+---
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
@@ -163,31 +173,7 @@ The Block • 1d ago
 
 Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
 
-CryptoSlate • 10h ago
-
----
-
-**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
-
-It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
-
-CNBC • 2d ago
-
----
-
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/01/09/where-will-bitcoin-be-in-5-years/)**
-
-There's a major pitfall coming up that'll need to be avoided.
-
-The Motley Fool • 1d ago
-
----
-
-**[Binance Founder CZ Encourages Crypto Holders While Wells Fargo Buys Bitcoin](https://finance.yahoo.com/news/binance-founder-cz-encourages-crypto-164653277.html)**
-
-Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
-
-Yahoo Finance • 2h ago
+CryptoSlate • 11h ago
 
 ---
 
@@ -195,21 +181,29 @@ Yahoo Finance • 2h ago
 
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Stalls at $90,000 as Markets Await Fed, Tariff News](https://www.bloomberg.com/news/articles/2026-01-09/bitcoin-stalls-at-90-000-as-markets-await-fed-tariff-news)**
+**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
 
-Bloomberg.com • 1d ago
+The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
+
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Price Compresses Below $94K, But Possible Repeat Of 2025 Breakout Looms](https://www.tradingview.com/news/newsbtc:b2f676144094b:0-bitcoin-price-compresses-below-94k-but-possible-repeat-of-2025-breakout-looms/)**
+**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
 
-After retreating from late-2025 highs, Bitcoin has spent much of recent trading days fluctuating between the mid-$80,000s and low-$90,000s, with buyers consistently stepping in on dips and sellers defending the same resistance level.Interestingly, this technical setup resembles the structure Bitcoi…
+thestreet.com • 22h ago
 
-TradingView — Track All Markets • 4h ago
+---
+
+**[Satoshi-Era Miner Moves Millions in Bitcoin After 15 Years of Silence](https://finance.yahoo.com/news/satoshi-era-miner-moves-millions-190000016.html)**
+
+A Satoshi-era Bitcoin miner reactivated long-dormant wallets to move 2,000 BTC, worth about $181 million, to Coinbase.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -221,11 +215,19 @@ Fortune • 2d ago
 
 ---
 
+**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
+
+The dog token's much bigger trailing-10-year return can draw interest from some market participants.
+
+The Motley Fool • 9h ago
+
+---
+
 **[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
 
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-Bitbo • 12h ago
+Bitbo • 13h ago
 
 ---
 
@@ -317,7 +319,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 563 • ⏱️ 17:17 • 21h ago
+👁️ 24K • 👍 2K • 💬 563 • ⏱️ 17:17 • 22h ago
 
 ---
 
@@ -337,7 +339,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 582 • 💬 161 • ⏱️ 1:01:22 • 5h ago
+👁️ 9K • 👍 582 • 💬 161 • ⏱️ 1:01:22 • 6h ago
 
 ---
 
@@ -397,7 +399,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 447 • 💬 52 • ⏱️ 8:12 • 13h ago
+👁️ 7K • 👍 447 • 💬 52 • ⏱️ 8:12 • 14h ago
 
 ---
 
@@ -407,7 +409,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 13h ago
+👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 14h ago
 
 ---
 
