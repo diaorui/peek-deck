@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T03:56:00.661410+00:00'
+updated: '2026-01-11T04:49:45.004433+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 03:56 UTC  
+**Last Updated:** January 11, 2026 at 04:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.01B
+**Market Cap:** $373.14B
 Rank #2
 
 **Circulating Supply:** 120,694,727 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.5%
 
 **All-Time Low:** $0.43
-+713692.1%
++713992.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I found an interesting Minecraft mod for economics. It allows you to mine cryptocurrency, deposit it on the exchange, and trade there, earning money and exchanging it for good equipment.
 
-🔗 [planetminecraft.com](https://www.planetminecraft.com/mod/cryptomine-forge-1-21-11/) • 1m ago
+🔗 [planetminecraft.com](https://www.planetminecraft.com/mod/cryptomine-forge-1-21-11/) • 55m ago
 
 ---
 
@@ -88,7 +88,7 @@ I found an interesting Minecraft mod for economics. It allows you to mine crypto
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 19h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 8h ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 18h ago
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 12h ago
 
 In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -210,7 +210,7 @@ Coinpedia Fintech News • 1d ago
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -240,7 +240,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 473 • 💬 45 • ⏱️ 24:05 • 7h ago
+👁️ 8K • 👍 550 • 💬 53 • ⏱️ 24:05 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 3K • 👍 133 • 💬 68 • ⏱️ 11:37 • 13h ago
+👁️ 4K • 👍 153 • 💬 138 • ⏱️ 11:37 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 204 • 💬 305 • ⏱️ 16:56 • 7h ago
+👁️ 6K • 👍 232 • 💬 387 • ⏱️ 16:56 • 8h ago
 
 ---
 
@@ -270,17 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 98 • 💬 11 • ⏱️ 5:05 • 11h ago
-
----
-
-**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 509 • 👍 38 • 💬 48 • ⏱️ 6:18 • 10h ago
+👁️ 2K • 👍 102 • 💬 12 • ⏱️ 5:05 • 12h ago
 
 ---
 
@@ -290,17 +280,17 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 233 • 💬 39 • ⏱️ 4:20 • 2d ago
+👁️ 6K • 👍 236 • 💬 39 • ⏱️ 4:20 • 2d ago
 
 ---
 
-**[BITCOIN &amp; ETHEREUM &amp; SOLANA ARE GOING DOWN!!!!](https://www.youtube.com/watch?v=TYnZkjuYQyk)**
+**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
 
-Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Davinci Jeremie
+📺 C-Zar Gets Crypto 
 
-👁️ 10K • 👍 507 • 💬 71 • ⏱️ 15:28 • 1d ago
+👁️ 528 • 👍 39 • 💬 69 • ⏱️ 6:18 • 11h ago
 
 ---
 
@@ -310,7 +300,27 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Stock Moe
 
-👁️ 15K • 👍 903 • 💬 101 • ⏱️ 12:30 • 1d ago
+👁️ 15K • 👍 907 • 💬 101 • ⏱️ 12:30 • 1d ago
+
+---
+
+**[BITCOIN &amp; ETHEREUM &amp; SOLANA ARE GOING DOWN!!!!](https://www.youtube.com/watch?v=TYnZkjuYQyk)**
+
+Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
+
+📺 Davinci Jeremie
+
+👁️ 10K • 👍 517 • 💬 76 • ⏱️ 15:28 • 1d ago
+
+---
+
+**[ALL XRP HOLDERS MUST WATCH!!! (ETH COULD BE XRP&#39;S GAME CHANGER?)](https://www.youtube.com/watch?v=NVplTK3PXVg)**
+
+Check out the legendary trading platform I use for my XRP UPHOLD right here U.S. Debit Card - https://uphold.sjv.io/559kj9 ...
+
+📺 Crypto Sensei
+
+👁️ 3K • 👍 301 • 💬 26 • ⏱️ 11:35 • 1h ago
 
 ---
 
@@ -321,16 +331,6 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 113 • 💬 8 • ⏱️ 5:13 • 1d ago
-
----
-
-**[Vitalik Says Ethereum Solved the Trilemma &amp; Morgan Stanley Files Spot BTC &amp; SOL ETFs](https://www.youtube.com/watch?v=vWeQN9zlB78)**
-
-ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction markets are turning into real-time intelligence, ...
-
-📺 Bankless
-
-👁️ 9K • 👍 327 • 💬 42 • ⏱️ 52:02 • 1d ago
 
 ---
 

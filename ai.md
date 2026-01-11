@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T03:56:00.646784+00:00'
+updated: '2026-01-11T04:49:44.989887+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 03:56 UTC  
+**Last Updated:** January 11, 2026 at 04:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
 
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 9h ago
+🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 10h ago
 
 ---
 
@@ -63,7 +63,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 22h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 23h ago
 
 ---
 
@@ -71,7 +71,7 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/share/1feed6565f52 Payload (run it in any AI to reproduce results): https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk Key takeaways from the Gemini analysis: Allegations repeated across platforms lacked primary source backing No case numbers, medical records, or public filings were found for key claims Verified data pointed to a civil dispute—not criminal activity A clear pattern of repetition-without-citation emerged It even outlined how claims spread and identified which lacked verifiable origin. This was done using public tools—no backend access, no court databases, no manipulation. Just the protocol + clean input = verified output. If you've ever wondered whether AI can actually verify claims at the forensic level: It can. And it just did.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 18h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1-hsp8dPMuLIsnv1AxJPNN2B7L-GWhoQKCd7esU8msjQ/edit?usp=drivesdk) • 19h ago
 
 ---
 
@@ -95,7 +95,7 @@ Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happene
 
 I see most boomers in their 60's and 70's now adept at using smartphones. Young kids today are weened on iPads in place of proper parenting with sports or hobbies or after school activities. Broadband mobile is now an expectation and a no longer a "need" or "want", but sort of a "right". Even the poorest African or South Asian countries have access to mobile broadband. Income is the only dividing factor to the poorest having access to unlimited mobile. But even then, the data cost index is lower in developing countries that the poor can have some access to it. Wi-fi is free and more accessible in some places in poor countries compared to rich countries to make up for the digital divide. Compare this situation to when the bubble popped in 2000's. There were no smartphones, let alone cellphones. Dial-up is the norm. There are still tech today that can die on the vine like VR as they are too geeky. But as far as the subscription model of LLM's, people have gotten used to paying for Netflix or Disney Plus. So there might not be much of a resistance or unfamiliarity with this business model. Do you think the global population is more primed to accept AI now (or more properly, LLM) if a Jony Ive "Her" (the movie) type of device comes out from OpenAI? How about AI porn? Porn usage and OF subscription is undeniably mainstream. Or am I just conflating the mass adoption of smartphones as a proxy to people now accepting any new tech?
 
-20h ago
+21h ago
 
 ---
 
@@ -111,7 +111,7 @@ Judge says there is plenty of evidence to suggest OpenAI’s leaders made assura
 
 Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/maxim-ai/bifrost, ran into an interesting problem: how do you route requests across multiple LLM providers when failures happen gradually? Traditional load balancing assumes binary states – up or down. But LLM API degradations are messy. A region starts timing out, some routes spike in errors, latency drifts up over minutes. By the time it's a full outage, you've already burned through retries and user patience. Static configs don't cut it. You can't pre-model which provider/region/key will degrade and how. The challenge: build adaptive routing that learns from live traffic and adjusts in real time, with <10µs overhead per request. Had to sit on the hot path without becoming the bottleneck. Why Go made sense: Needed lock-free scoring updates across concurrent requests EWMA (exponentially weighted moving averages) for smoothing signals without allocations Microsecond-level latency requirements ruled out Python/Node Wanted predictable GC pauses under high RPS How it works: Each route gets a continuously updated score based on live signals – error rates, token-adjusted latency outliers (we call it TACOS lol), utilization, recovery momentum. Routes traffic from top-scoring candidates with lightweight exploration to avoid overfitting to a single route. When it detects rate-limit hits (TPM/RPM), it remembers and allocates just enough traffic to stay under limits going forward. Automatic fallbacks to healthy routes when degradation happens. Result: <10µs overhead, handles 5K+ RPS, adapts to provider issues without manual intervention. Running in production now. Curious if others have tackled similar real-time scoring/routing problems in Go where performance was critical?
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/max
 
 Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -139,13 +139,13 @@ The Atlantic • 1d ago
 
 “A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -153,7 +153,7 @@ Reuters • 12h ago
 
 AI agent start-up may face half a year of regulatory checks on data security, dual-use technologies and overseas investment rules: analysts.
 
-South China Morning Post • 23h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -175,13 +175,13 @@ The Guardian • 1d ago
 
 Elon Musk's platform is facing global backlash after reports emerged that its image creation feature allowed users to sexualize pictures of women and children using simple text prompts.
 
-CBS News • 13h ago
+CBS News • 14h ago
 
 ---
 
 **[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 3h ago
 
 Nvidia isn't the only AI name that can help investors reach financial independence over the long term.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -233,7 +233,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 189 • 💬 212 • 10h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 189 • 💬 212 • 11h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -279,13 +279,23 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 ## YouTube Videos: "ai"
 
+**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 61K • 👍 3K • 💬 275 • ⏱️ 19:15 • 1d ago
+
+---
+
 **[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
 
 Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From NEURA's refined humanoids and AgiBot's full ...
 
 📺 AI Revolution
 
-👁️ 90K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
+👁️ 92K • 👍 2K • 💬 68 • ⏱️ 17:54 • 2d ago
 
 ---
 
@@ -295,7 +305,7 @@ CES 2026 Day 3 felt different. The big robots and heavy autonomy already had the
 
 📺 AI Revolution
 
-👁️ 26K • 👍 904 • 💬 48 • ⏱️ 11:06 • 1d ago
+👁️ 28K • 👍 930 • 💬 48 • ⏱️ 11:06 • 1d ago
 
 ---
 
@@ -305,37 +315,7 @@ On Elon Musk's social media platform X, the Grok AI image generation reply bot h
 
 📺 NBC News
 
-👁️ 5K • 👍 61 • 💬 21 • ⏱️ 5:25 • 1d ago
-
----
-
-**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 58K • 👍 3K • 💬 266 • ⏱️ 19:15 • 1d ago
-
----
-
-**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
-
-LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
-
-📺 Matt Wolfe
-
-👁️ 27K • 👍 1K • 💬 116 • ⏱️ 14:39 • 13h ago
-
----
-
-**[Stop Paying for AI: Use GPT-5, Sora 2 &amp; Gemini 3 for FREE (Unlimited)](https://www.youtube.com/watch?v=izvKi-Slc4M)**
-
-I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISION, APPS, and even VIDEO — step-by-step, ...
-
-📺 Malva AI
-
-👁️ 18K • 👍 1K • 💬 283 • ⏱️ 10:24 • 2d ago
+👁️ 5K • 👍 62 • 💬 21 • ⏱️ 5:25 • 1d ago
 
 ---
 
@@ -345,17 +325,47 @@ Artificial intelligence could eliminate millions of jobs within the next five ye
 
 📺 LBC
 
-👁️ 12K • 👍 226 • 💬 203 • ⏱️ 11:00 • 16h ago
+👁️ 13K • 👍 246 • 💬 209 • ⏱️ 11:00 • 17h ago
 
 ---
 
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
+**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
 
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
+LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
 
-📺 MoreBeckBros
+📺 Matt Wolfe
 
-👁️ 166K • 👍 7K • 💬 643 • ⏱️ 26:17 • 1d ago
+👁️ 31K • 👍 1K • 💬 141 • ⏱️ 14:39 • 14h ago
+
+---
+
+**[How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course)](https://www.youtube.com/watch?v=fAJGnI4qVVc)**
+
+How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course) GOOGLE DOC ...
+
+📺 Leo Ai
+
+👁️ 6K • 👍 472 • 💬 54 • ⏱️ 10:28 • 20h ago
+
+---
+
+**[Stop Paying for AI: Use GPT-5, Sora 2 &amp; Gemini 3 for FREE (Unlimited)](https://www.youtube.com/watch?v=izvKi-Slc4M)**
+
+I'm going to show you how to get access to top AI models for TEXT, IMAGES, VISION, APPS, and even VIDEO — step-by-step, ...
+
+📺 Malva AI
+
+👁️ 18K • 👍 1K • 💬 287 • ⏱️ 10:24 • 2d ago
+
+---
+
+**[Nvidia&#39;s Jensen Huang on an AI Bubble, Trump, and the Arms Race with China](https://www.youtube.com/watch?v=s4haopj2XeA)**
+
+00:00 Intro 00:48 AI Bubble 03:30 Working with President Trump 05:17 AI Arms Race with China 13:13 Taiwan's Future 18:02 ...
+
+📺 TIME
+
+👁️ 66K • 👍 2K • 💬 296 • ⏱️ 24:32 • 1d ago
 
 ---
 
@@ -365,17 +375,7 @@ Subscribe to stay up to date with AI in 2026! This week in AI was mostly filled 
 
 📺 The AI Advantage
 
-👁️ 7K • 👍 322 • 💬 24 • ⏱️ 15:26 • 1d ago
-
----
-
-**[AI News: NVIDIA Rubin, LTX-2 Open Source, ChatGPT Health, GPU Prices and More!](https://www.youtube.com/watch?v=HLhfepgHLcg)**
-
-Try Greptile for free for 14 days! https://greptile.com/go/berman Download The Subtle Art of Not Being Replaced ...
-
-📺 Matthew Berman
-
-👁️ 37K • 👍 1K • 💬 82 • ⏱️ 14:35 • 2d ago
+👁️ 8K • 👍 334 • 💬 25 • ⏱️ 15:26 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 496,524 • ❤️ 749 • 2d ago
+⬇️ 496,524 • ❤️ 753 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,056 • ❤️ 703 • 10d ago
+⬇️ 9,056 • ❤️ 704 • 10d ago
 
 ---
 
@@ -415,7 +415,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 10,290 • ❤️ 360 • 3d ago
+⬇️ 10,290 • ❤️ 367 • 3d ago
 
 ---
 
@@ -427,7 +427,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 1,862 • ❤️ 272 • 5d ago
+⬇️ 1,862 • ❤️ 274 • 5d ago
 
 ---
 
@@ -439,7 +439,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 10,162 • ❤️ 244 • 1d ago
+⬇️ 10,162 • ❤️ 248 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 205,738 • ❤️ 997 • 14d ago
+⬇️ 205,738 • ❤️ 998 • 14d ago
 
 ---
 
@@ -487,7 +487,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 497 • ❤️ 199 • 5d ago
+⬇️ 497 • ❤️ 200 • 5d ago
 
 ---
 
@@ -499,7 +499,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 `text-generation` `235.1B`
 
-⬇️ 1,073 • ❤️ 198 • 4d ago
+⬇️ 1,073 • ❤️ 199 • 4d ago
 
 ---
 
@@ -513,7 +513,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 170 • 💬 5 • ⭐ 4,145 • 1mo ago
+▲ 170 • 💬 5 • ⭐ 4,233 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -525,22 +525,9 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 85 • 💬 1 • ⭐ 1,872 • 4d ago
+▲ 86 • 💬 1 • ⭐ 1,872 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
-
----
-
-**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
-  Videos](https://huggingface.co/papers/2502.01549)**
-
-*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
-
-VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
-
-▲ 2 • 💬 0 • ⭐ 2,272 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
 ---
 
@@ -550,7 +537,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 20 • 💬 2 • ⭐ 520 • 5d ago
+▲ 21 • 💬 2 • ⭐ 569 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -568,6 +555,19 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 130 • 💬 18 • ⭐ 49,636 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
+  Videos](https://huggingface.co/papers/2502.01549)**
+
+*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
+
+VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
+
+▲ 2 • 💬 0 • ⭐ 2,280 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
 ---
 
@@ -621,17 +621,15 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
-**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)**
+**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
 
-*Shih-Yang Liu, Xin Dong, Ximing Lu et al. (13 authors)*
+*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
 
-🏢 NVIDIA
+LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
+▲ 176 • 💬 6 • ⭐ 65,380 • 22mo ago
 
-▲ 119 • 💬 6 • ⭐ 101 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
+[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
 ---
 
@@ -645,7 +643,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.6k • 🔱 928 • 11h ago
+⭐ 7.6k • 🔱 932 • 36s ago
 
 ---
 
@@ -655,7 +653,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.2k • 🔱 131 • 13h ago
+⭐ 2.2k • 🔱 131 • 14h ago
 
 ---
 
@@ -675,7 +673,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 277 • 3d ago
+⭐ 1.9k • 🔱 289 • 3d ago
 
 ---
 
@@ -685,17 +683,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.3k • 🔱 112 • 13h ago
-
----
-
-**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
-
-This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
-
-`PowerShell`
-
-⭐ 1.3k • 🔱 71 • 18d ago
+⭐ 1.4k • 🔱 113 • 14h ago
 
 ---
 
@@ -706,6 +694,16 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 `TypeScript`
 
 ⭐ 1.3k • 🔱 106 • 1d ago
+
+---
+
+**[GuDaStudio/skills](https://github.com/GuDaStudio/skills)**
+
+This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
+
+`PowerShell`
+
+⭐ 1.3k • 🔱 71 • 18d ago
 
 ---
 
@@ -735,7 +733,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 124 • 6h ago
+⭐ 1.0k • 🔱 124 • 7h ago
 
 ---
 

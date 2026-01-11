@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T03:56:00.655377+00:00'
+updated: '2026-01-11T04:49:44.998444+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 03:56 UTC  
+**Last Updated:** January 11, 2026 at 04:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.54B
+**Market Cap:** $1810.42B
 Rank #1
 
 **Circulating Supply:** 19,974,315 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.1%
 
 **All-Time Low:** $67.81
-+133349.3%
++133566.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-10h ago
+11h ago
 
 ---
 
@@ -89,37 +89,37 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
-13h ago
+14h ago
 
 ---
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-11h ago
+12h ago
 
 ---
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ Man, I am so stupid. I wish I would have done what Coinbase told me if I would o
 
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
-13h ago
+14h ago
 
 ---
 
@@ -143,7 +143,7 @@ VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even
 
 I just liquidated 10k of stocks to put into bitcoin. Would it be a better decision to dca over the next year/years or so with it or just put the 10k in right now?
 
-6h ago
+7h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Block • 2d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 1d ago
 
 **[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
 
-thestreet.com • 6h ago
+thestreet.com • 7h ago
 
 ---
 
@@ -313,17 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 766 • 💬 190 • ⏱️ 17:17 • 5h ago
-
----
-
-**[The AI Shock Is About to Reprice Bitcoin](https://www.youtube.com/watch?v=S-K-GTIIJfw)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 36K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 13h ago
+👁️ 12K • 👍 1K • 💬 433 • ⏱️ 17:17 • 6h ago
 
 ---
 
@@ -333,7 +323,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 6K • 👍 410 • 💬 285 • ⏱️ 3:25 • 1d ago
+👁️ 7K • 👍 424 • 💬 277 • ⏱️ 3:25 • 1d ago
 
 ---
 
@@ -343,7 +333,17 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 17K • 👍 1K • 💬 393 • ⏱️ 10:43 • 1d ago
+👁️ 18K • 👍 1K • 💬 396 • ⏱️ 10:43 • 1d ago
+
+---
+
+**[The AI Shock Is About to Reprice Bitcoin](https://www.youtube.com/watch?v=S-K-GTIIJfw)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 40K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 14h ago
 
 ---
 
@@ -353,7 +353,7 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 264 • ⏱️ 11:14 • 2d ago
+👁️ 54K • 👍 3K • 💬 264 • ⏱️ 11:14 • 2d ago
 
 ---
 
@@ -363,7 +363,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 375 • ⏱️ 9:19 • 1d ago
+👁️ 55K • 👍 3K • 💬 376 • ⏱️ 9:19 • 1d ago
 
 ---
 
@@ -373,17 +373,7 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 253 • ⏱️ 17:07 • 1d ago
-
----
-
-**[This Bitcoin Setup Looks Nothing Like the Past](https://www.youtube.com/watch?v=f3oaALlUie0)**
-
-Bitcoin's price may look stagnant, but the fundamentals tell a very different story. In this clip, Sam Callahan breaks down the surge ...
-
-📺 Swan Bitcoin
-
-👁️ 3K • 👍 108 • 💬 3 • ⏱️ 0:48 • 14h ago
+👁️ 24K • 👍 2K • 💬 254 • ⏱️ 17:07 • 1d ago
 
 ---
 
@@ -393,17 +383,27 @@ ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of
 
 📺 Paul Barron Network
 
-👁️ 71K • 👍 3K • 💬 361 • ⏱️ 16:13 • 2d ago
+👁️ 72K • 👍 3K • 💬 369 • ⏱️ 16:13 • 2d ago
 
 ---
 
-**[WARNING: BITCOIN DOUBLE DEATH CROSS—PREPARE NOW](https://www.youtube.com/watch?v=4n5iEumeBYk)**
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
 
-📺 Crypto Crew University
+📺 Vortex Bitcoin
 
-👁️ 57K • 👍 3K • 💬 298 • ⏱️ 17:35 • 2d ago
+👁️ 18K • 👍 290 • 💬 189 • ⏱️ 0:49 • 1d ago
+
+---
+
+**[You’re Reading Bitcoin’s Price Wrong (Here’s Why)](https://www.youtube.com/watch?v=8DtGkJ0xYJI)**
+
+Get the "New Rich" Playbook. Learn how to build a tax-free Bitcoin income stream using elite strategies that unlock Bitcoin's true ...
+
+📺 Mark Moss
+
+👁️ 35K • 👍 2K • 💬 223 • ⏱️ 13:19 • 2d ago
 
 ---
 
