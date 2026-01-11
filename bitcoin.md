@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T20:44:32.170112+00:00'
+updated: '2026-01-11T21:19:32.051825+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 20:44 UTC  
+**Last Updated:** January 11, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-3h ago
+4h ago
 
 ---
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ Now that Wall Street has entered the Bitcoin market, what—if any—structural 
 
 Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hello everyone, I'm 19 years old and new to this field. I want to start making s
 
 On January 11, 2009, Hal Finney, a pioneering cypherpunk and the first recipient of a real Bitcoin transaction, posted a historic tweet with just two words: “Running bitcoin.” With that simple message, he announced that he had Satoshi Nakamoto’s software up and running on his computer, becoming the first active node outside the creator and marking the true public birth of the Bitcoin network just days after the genesis block. That modest action proved the concept worked, enabled the first real transactions, and laid the foundation for the decentralized financial revolution that today moves trillions around the world. Thank you, Hal! Your node continues to inspire the entire world.
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 I’ve been reading more about how leverage and derivatives interact with Bitcoin’s price, especially during periods of higher volatility. It seems like large clusters of leveraged positions can sometimes amplify moves when the market becomes unstable. Rather than focusing on short-term price action, I’m curious how people here think about the role of leverage in Bitcoin markets overall. Do you see it as something that adds useful liquidity, or does it mostly increase volatility and risk compared to Bitcoin’s original design? Interested in hearing different perspectives on how this affects the broader ecosystem.
 
-6h ago
+7h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Block • 1d ago
 
 Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
 
-CryptoSlate • 11h ago
+CryptoSlate • 12h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 2d ago
 
 **[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
 
-thestreet.com • 22h ago
+thestreet.com • 23h ago
 
 ---
 
@@ -203,7 +203,7 @@ thestreet.com • 22h ago
 
 A Satoshi-era Bitcoin miner reactivated long-dormant wallets to move 2,000 BTC, worth about $181 million, to Coinbase.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 2d ago
 
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Motley Fool • 9h ago
 
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-Bitbo • 13h ago
+Bitbo • 14h ago
 
 ---
 
@@ -283,7 +283,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 1 • 3d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 1 • 4d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 203 • ⏱️ 17:17 • 22h ago
+👁️ 25K • 👍 2K • 💬 203 • ⏱️ 17:17 • 23h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 758 • 💬 189 • ⏱️ 1:01:22 • 6h ago
+👁️ 14K • 👍 758 • 💬 189 • ⏱️ 1:01:22 • 7h ago
 
 ---
 
@@ -399,7 +399,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 465 • 💬 104 • ⏱️ 8:12 • 14h ago
+👁️ 8K • 👍 465 • 💬 104 • ⏱️ 8:12 • 15h ago
 
 ---
 

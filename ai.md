@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T20:44:32.161393+00:00'
+updated: '2026-01-11T21:19:32.041773+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 20:44 UTC  
+**Last Updated:** January 11, 2026 at 21:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 : Poison Fountain project seeks allies to fight the power
 
-🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 1h ago
+🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 2h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-5h ago
+6h ago
 
 ---
 
@@ -71,7 +71,7 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-14h ago
+15h ago
 
 ---
 
@@ -121,7 +121,7 @@ I'm currently in my undergraduate degree and I have been studying AI ethics unde
 
 **[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqc_h9URfQN9C4XxRtpyZcoo7LCanHWY-MUUHZMI6NqJ-Vj2xb7Lg8Nc&gaa_ts=69640a8f&gaa_sig=jwHNoxmQ-fccRU2WrNRSPcO89RJfUt3iLCBb0M1CmAc5p5QPh2vqkKHW6md-Rvos4KhcuJ-4v1KalQc5GT6Lvg%3D%3D)**
 
-The Wall Street Journal • 5h ago
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Wall Street Journal • 5h ago
 
 "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 13h ago
 
 “I could have been at a border and put in jail,” the singer said.
 
-New York Post • 1h ago
+New York Post • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Guardian • 1d ago
 
 **[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Motley Fool • 2h ago
 
 **[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Atlantic • 1d ago
 
 **[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
 
-The Hill • 3h ago
+The Hill • 4h ago
 
 ---
 
@@ -251,7 +251,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 32 • 💬 18 • 20h ago
+⬆️ 32 • 💬 18 • 21h ago
 
 ---
 
@@ -279,7 +279,7 @@ Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances
 
 📺 Fox Business
 
-👁️ 13K • 👍 277 • 💬 122 • ⏱️ 3:53 • 19h ago
+👁️ 13K • 👍 277 • 💬 122 • ⏱️ 3:53 • 20h ago
 
 ---
 
@@ -369,7 +369,7 @@ In this video, I ask AI what it thinks about the U.S. military operation in Vene
 
 📺 I Ask AI
 
-👁️ 6K • 👍 1K • 💬 190 • ⏱️ 14:02 • 22h ago
+👁️ 6K • 👍 1K • 💬 190 • ⏱️ 14:02 • 23h ago
 
 ---
 
@@ -647,7 +647,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 359 • 3d ago
+⭐ 2.5k • 🔱 359 • 4d ago
 
 ---
 
@@ -667,7 +667,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 223 • 7h ago
+⭐ 2.0k • 🔱 223 • 8h ago
 
 ---
 
@@ -727,7 +727,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.1k • 🔱 127 • 2h ago
+⭐ 1.1k • 🔱 127 • 3h ago
 
 ---
 
