@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T15:21:12.110017+00:00'
+updated: '2026-01-11T15:41:57.734868+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 15:21 UTC  
+**Last Updated:** January 11, 2026 at 15:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-18m ago
+39m ago
 
 ---
 
@@ -129,13 +129,13 @@ The Guardian • 5h ago
 
 **[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdU14bZsJThNoO_bTDdPvvqEcn4h8kqSxwaWz30sxN5cRYKZtssCbOY&gaa_ts=6963c354&gaa_sig=TwDmBrTl2ZPjYgPnl-hM7OGp9gj1FdM2QqAhtkHY2SOs4-4NIx-exfjazB5MQePx1jOXBD0r8cY_ZrJgbkakPw%3D%3D)**
 
-The Wall Street Journal • 21m ago
+The Wall Street Journal • 41m ago
 
 ---
 
 **[Walmart expands AI-powered shopping — and checkout — with Google Gemini](https://www.axios.com/2026/01/11/walmart-google-gemini-ai-shopping)**
 
-Axios • 20m ago
+Axios • 41m ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 9h ago
 
 **[Musk’s Grok AI Blocked in Indonesia, Malaysia Over Sexual Images](https://www.bloomberg.com/news/articles/2026-01-11/musk-s-grok-ai-blocked-in-indonesia-malaysia-over-sexual-images)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 Here’s what the future might sound like, according to a science writer who experimented with it.
 
-vox.com • 3h ago
+vox.com • 4h ago
 
 ---
 
@@ -227,7 +227,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 231 • 💬 350 • 4h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 231 • 💬 350 • 5h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -319,7 +319,7 @@ HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #ai
 
 📺 AI Search
 
-👁️ 33K • 👍 2K • 💬 178 • ⏱️ 35:41 • 11h ago
+👁️ 33K • 👍 2K • 💬 178 • ⏱️ 35:41 • 12h ago
 
 ---
 
@@ -357,7 +357,7 @@ Hey Guys! All Premium AI Models in One Place – Totally FREE is what this video
 
 📺 The Williams Fam
 
-👁️ 222K • 👍 6K • 💬 286 • ⏱️ 0:16 • 22h ago
+👁️ 222K • 👍 6K • 💬 286 • ⏱️ 0:16 • 23h ago
 
 ---
 
