@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T07:42:02.541315+00:00'
+updated: '2026-01-11T08:28:32.976987+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 07:42 UTC  
+**Last Updated:** January 11, 2026 at 08:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Crypto started as a cypherpunk project, but somewhere along the way, privacy got
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 22h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 16h ago
 
 In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -202,7 +202,7 @@ Decrypt • 2d ago
 
 The cryptocurrency industry suffered broad losses last year, but a recovery might be in the cards during 2026.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Motley Fool • 22h ago
 
 Q1 2026 could turn out to be pretty interesting for the world's largest altcoin.
 
-AMBCrypto • 13h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 10K • 👍 595 • 💬 57 • ⏱️ 24:05 • 11h ago
+👁️ 10K • 👍 595 • 💬 57 • ⏱️ 24:05 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 4K • 👍 161 • 💬 138 • ⏱️ 11:37 • 17h ago
+👁️ 4K • 👍 161 • 💬 138 • ⏱️ 11:37 • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 7K • 👍 240 • 💬 378 • ⏱️ 16:56 • 11h ago
+👁️ 7K • 👍 240 • 💬 378 • ⏱️ 16:56 • 12h ago
 
 ---
 
@@ -278,7 +278,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 720 • 💬 219 • ⏱️ 19:42 • 16h ago
+👁️ 20K • 👍 720 • 💬 219 • ⏱️ 19:42 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 105 • 💬 12 • ⏱️ 5:05 • 14h ago
+👁️ 2K • 👍 105 • 💬 12 • ⏱️ 5:05 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ Check out the legendary trading platform I use for my XRP UPHOLD right here U.S.
 
 📺 Crypto Sensei
 
-👁️ 7K • 👍 482 • 💬 45 • ⏱️ 11:35 • 4h ago
+👁️ 7K • 👍 482 • 💬 45 • ⏱️ 11:35 • 5h ago
 
 ---
 

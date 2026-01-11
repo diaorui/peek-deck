@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T07:42:02.544054+00:00'
+updated: '2026-01-11T08:28:32.980281+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 07:42 UTC  
+**Last Updated:** January 11, 2026 at 08:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
 
-7h ago
+8h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an envi
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-20h ago
+21h ago
 
 ---
 
@@ -98,7 +98,7 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 **[Servo stutters when I connect to a pot](https://www.reddit.com/r/robotics/comments/1q9jmoz/servo_stutters_when_i_connect_to_a_pot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -142,7 +142,7 @@ WYMT • 1d ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -204,7 +204,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 64K • 👍 2K • ⏱️ 56:16 • 14h ago
+👁️ 64K • 👍 2K • ⏱️ 56:16 • 15h ago
 
 ---
 
@@ -224,7 +224,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 6K • 👍 342 • 💬 29 • ⏱️ 9:28 • 12h ago
+👁️ 6K • 👍 342 • 💬 29 • ⏱️ 9:28 • 13h ago
 
 ---
 
@@ -244,7 +244,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 41K • 👍 613 • 💬 93 • ⏱️ 10:48 • 16h ago
+👁️ 41K • 👍 613 • 💬 93 • ⏱️ 10:48 • 17h ago
 
 ---
 

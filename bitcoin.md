@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T07:42:02.536131+00:00'
+updated: '2026-01-11T08:28:32.970865+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 07:42 UTC  
+**Last Updated:** January 11, 2026 at 08:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 Ik people don’t want Bitcoin to go down, but that often leads to the best opportunities. I plan on buying a whole coin at these levels.
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ Ik people don’t want Bitcoin to go down, but that often leads to the best oppo
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -109,13 +109,13 @@ Ik people don’t want Bitcoin to go down, but that often leads to the best oppo
 
 I have been learning about BTC for a year now slowly accumulating as much as I can weekly. I’m nearly at 0.2 and I am addicted it’s all I think about every day how to get more and more and what my life will be like in 10 years 20? Will I retire soon? Do I need to chill? 😂😂
 
-57m ago
+1h ago
 
 ---
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -123,19 +123,19 @@ I have been learning about BTC for a year now slowly accumulating as much as I c
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-14h ago
+15h ago
 
 ---
 
 **[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -223,7 +223,7 @@ Yahoo Finance • 1d ago
 
 **[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
 
-thestreet.com • 9h ago
+thestreet.com • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 411 • ⏱️ 17:17 • 9h ago
+👁️ 16K • 👍 1K • 💬 411 • ⏱️ 17:17 • 10h ago
 
 ---
 
@@ -355,7 +355,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 17h ago
+👁️ 43K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 18h ago
 
 ---
 
@@ -395,7 +395,7 @@ The new crypto rules coming this week? Could this change crypto forever? We have
 
 📺 Zach Humphries
 
-👁️ 1K • 👍 101 • 💬 75 • ⏱️ 5:41 • 15h ago
+👁️ 1K • 👍 101 • 💬 75 • ⏱️ 5:41 • 16h ago
 
 ---
 
