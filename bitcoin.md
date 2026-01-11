@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T20:25:07.848940+00:00'
+updated: '2026-01-11T20:44:32.170112+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 20:25 UTC  
+**Last Updated:** January 11, 2026 at 20:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1813.25B
+**Market Cap:** $1807.63B
 Rank #1
 
-**Circulating Supply:** 19,974,568 BTC
+**Circulating Supply:** 19,974,578 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.0%
+-28.2%
 
 **All-Time Low:** $67.81
-+133772.6%
++133343.4%
 
 ---
 
@@ -125,13 +125,13 @@ On January 11, 2009, Hal Finney, a pioneering cypherpunk and the first recipient
 
 What are crypto ATMs and why are scammers using them? Learn how these machines work, common fraud tactics, and how to protect your money.
 
-🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 44m ago
+🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 1h ago
 
 ---
 
 **[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
 
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 3h ago
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 4h ago
 
 ---
 
@@ -319,17 +319,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 563 • ⏱️ 17:17 • 22h ago
-
----
-
-**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
-
-Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
-
-📺 Satoshi Alliance
-
-👁️ 9K • 👍 479 • 💬 369 • ⏱️ 3:25 • 1d ago
+👁️ 25K • 👍 2K • 💬 203 • ⏱️ 17:17 • 22h ago
 
 ---
 
@@ -339,7 +329,17 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 582 • 💬 161 • ⏱️ 1:01:22 • 6h ago
+👁️ 14K • 👍 758 • 💬 189 • ⏱️ 1:01:22 • 6h ago
+
+---
+
+**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
+
+Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
+
+📺 Satoshi Alliance
+
+👁️ 9K • 👍 485 • 💬 292 • ⏱️ 3:25 • 1d ago
 
 ---
 
@@ -349,27 +349,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 52K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
-
----
-
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
-
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
-
-📺 Digital Asset News
-
-👁️ 13K • 👍 719 • 💬 82 • ⏱️ 24:05 • 23h ago
-
----
-
-**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
-
-Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 303 • ⏱️ 17:07 • 1d ago
+👁️ 54K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
 
 ---
 
@@ -379,7 +359,47 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 20K • 👍 1K • 💬 735 • ⏱️ 10:43 • 2d ago
+👁️ 20K • 👍 2K • 💬 446 • ⏱️ 10:43 • 2d ago
+
+---
+
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+
+📺 Digital Asset News
+
+👁️ 13K • 👍 733 • 💬 83 • ⏱️ 24:05 • 1d ago
+
+---
+
+**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 60K • 👍 3K • 💬 414 • ⏱️ 9:19 • 1d ago
+
+---
+
+**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+
+Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+
+📺 Simply Bitcoin
+
+👁️ 26K • 👍 2K • 💬 255 • ⏱️ 17:07 • 1d ago
+
+---
+
+**[BITCOIN HISTORY REPEATING!!!!!](https://www.youtube.com/watch?v=ZF-9JbPgapY)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+
+📺 Crypto Rover
+
+👁️ 8K • 👍 465 • 💬 104 • ⏱️ 8:12 • 14h ago
 
 ---
 
@@ -390,26 +410,6 @@ Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in
 📺 Altcoin Daily
 
 👁️ 55K • 👍 3K • 💬 263 • ⏱️ 11:14 • 2d ago
-
----
-
-**[BITCOIN HISTORY REPEATING!!!!!](https://www.youtube.com/watch?v=ZF-9JbPgapY)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
-
-📺 Crypto Rover
-
-👁️ 7K • 👍 447 • 💬 52 • ⏱️ 8:12 • 14h ago
-
----
-
-**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 14h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T20:25:07.858117+00:00'
+updated: '2026-01-11T20:44:32.179531+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 20:25 UTC  
+**Last Updated:** January 11, 2026 at 20:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ I have recently been exploring robotic path planning and during my hands-on nume
 
 Hi all, currently working on a bionic hand project. The project itself is relatively easy except for the finger. I keep running into the issue of non simultaneous movement. The furthest joint bends first, then the middle, then the closest. The red line in there is a 1 mm UHMWPE poly cord. Real fingers have each joint bending at the same time, providing a smooth movement. The thing is, when the finger is hanging down (fingertip pointing to floor), the movement is perfect. But when it’s in a palms up position, I run into that sequential bending issue again. Any other fixes/approaches to this? I tried a linkage system but it was ridiculously weak. The only things I can think of are weak springs at each joint to provide some sort of weak extension torque (replicating gravity), or using multiple cords for each joint, which is something I’d rather not do due to complexity and power limitations.
 
-51m ago
+1h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 Hey everyone 👋 I recently created a Discord server called Joy Robotics for anyone interested in robotics (beginners are welcome). The idea is to learn robotics step-by-step (ROS2, Arduino, ESP32, SLAM, AI) and collaborate on projects together. If you’re looking for a place to ask doubts, team up with others, and work on projects with people from different countries/time zones, feel free to join. Link: https://discord.gg/eEfgvX7weJ
 
-2h ago
+3h ago
 
 ---
 
@@ -202,7 +202,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 284K • 👍 4K • 💬 647 • ⏱️ 4:29 • 4d ago
+👁️ 288K • 👍 4K • 💬 655 • ⏱️ 4:29 • 4d ago
 
 ---
 
@@ -212,7 +212,7 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 📺 Cybernews
 
-👁️ 6K • 👍 142 • 💬 46 • ⏱️ 11:29 • 23h ago
+👁️ 7K • 👍 149 • 💬 31 • ⏱️ 11:29 • 23h ago
 
 ---
 
@@ -222,7 +222,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 66K • 👍 2K • ⏱️ 56:16 • 1d ago
+👁️ 67K • 👍 2K • ⏱️ 56:16 • 1d ago
 
 ---
 
@@ -232,17 +232,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 53K • 👍 462 • 💬 39 • ⏱️ 11:13 • 5d ago
-
----
-
-**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
-
-Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
-
-📺 Trisha Hershberger
-
-👁️ 7K • 👍 423 • 💬 30 • ⏱️ 9:28 • 1d ago
+👁️ 53K • 👍 467 • 💬 39 • ⏱️ 11:13 • 5d ago
 
 ---
 
@@ -252,17 +242,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 6K • 👍 743 • 💬 114 • ⏱️ 14:30 • 5h ago
-
----
-
-**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
-
-This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 63K • 👍 1K • 💬 170 • ⏱️ 3:13 • 1d ago
+👁️ 14K • 👍 1K • 💬 192 • ⏱️ 14:30 • 5h ago
 
 ---
 
@@ -276,13 +256,33 @@ The next generation of Atlas is designed to interact with people and understand 
 
 ---
 
+**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
+
+Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
+
+📺 Trisha Hershberger
+
+👁️ 8K • 👍 441 • 💬 31 • ⏱️ 9:28 • 1d ago
+
+---
+
+**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
+
+This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 67K • 👍 1K • 💬 175 • ⏱️ 3:13 • 1d ago
+
+---
+
 **[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
 
 For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
 
 📺 NBC News
 
-👁️ 190K • 👍 2K • 💬 212 • ⏱️ 0:22 • 5d ago
+👁️ 191K • 👍 2K • 💬 212 • ⏱️ 0:22 • 5d ago
 
 ---
 

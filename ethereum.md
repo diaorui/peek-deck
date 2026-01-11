@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T20:25:07.854935+00:00'
+updated: '2026-01-11T20:44:32.176211+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 20:25 UTC  
+**Last Updated:** January 11, 2026 at 20:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.51B
+**Market Cap:** $374.72B
 Rank #2
 
 **Circulating Supply:** 120,694,727 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.2%
 
 **All-Time Low:** $0.43
-+720657.8%
++716978.7%
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 2d ago
 
 Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -242,7 +242,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 164 • 💬 37 • ⏱️ 12:34 • 11h ago
+👁️ 2K • 👍 177 • 💬 32 • ⏱️ 12:34 • 11h ago
 
 ---
 
@@ -252,17 +252,17 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 719 • 💬 82 • ⏱️ 24:05 • 23h ago
+👁️ 13K • 👍 733 • 💬 83 • ⏱️ 24:05 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YTFOJvmO4tk)**
+**[BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WhTxZW51neE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 810 • 👍 93 • 💬 6 • ⏱️ 5:19 • 4h ago
+👁️ 651 • 👍 52 • 💬 10 • ⏱️ 14:54 • 26m ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 290 • 👍 24 • 💬 10 • ⏱️ 5:22 • 6h ago
+👁️ 408 • 👍 24 • 💬 7 • ⏱️ 5:22 • 6h ago
 
 ---
 
@@ -282,27 +282,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 7K • 👍 200 • 💬 504 • ⏱️ 13:48 • 14h ago
+👁️ 8K • 👍 216 • 💬 332 • ⏱️ 13:48 • 14h ago
 
 ---
 
-**[ETHEREUM (ETH), SOLANA (SOL) , SUI | Price Prediction : Higher Prices Ahead ?! Targets &amp; Key Levels](https://www.youtube.com/watch?v=lmlfRJBA4H4)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YTFOJvmO4tk)**
 
-Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 KG TRADING - Crypto Elliott Waves
+📺 More Crypto Online
 
-👁️ 56 • 👍 9 • 💬 1 • ⏱️ 14:10 • 3h ago
-
----
-
-**[BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xLznFPCOFgM)**
-
-BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 278 • 💬 1K • ⏱️ 16:56 • 1d ago
+👁️ 1K • 👍 114 • 💬 7 • ⏱️ 5:19 • 4h ago
 
 ---
 
@@ -316,13 +306,13 @@ Deezy goes over the HUGE news from Morgan Stanley. After Bitcoin and Solana, the
 
 ---
 
-**[BITCOIN &amp; ETHEREUM &amp; SOLANA ARE GOING DOWN!!!!](https://www.youtube.com/watch?v=TYnZkjuYQyk)**
+**[ETHEREUM (ETH), SOLANA (SOL) , SUI | Price Prediction : Higher Prices Ahead ?! Targets &amp; Key Levels](https://www.youtube.com/watch?v=lmlfRJBA4H4)**
 
-Time is running out; the financial system is breaking at this very moment. Even if you ask AI, it will tell you. Time to get tangible ...
+Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
 
-📺 Davinci Jeremie
+📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 12K • 👍 584 • 💬 80 • ⏱️ 15:28 • 2d ago
+👁️ 110 • 👍 11 • 💬 1 • ⏱️ 14:10 • 3h ago
 
 ---
 
@@ -332,7 +322,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 25K • 👍 829 • 💬 310 • ⏱️ 19:42 • 1d ago
+👁️ 25K • 👍 843 • 💬 173 • ⏱️ 19:42 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 829 • 👍 44 • 💬 46 • ⏱️ 6:18 • 1d ago
 
 ---
 

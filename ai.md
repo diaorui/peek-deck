@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T20:25:07.840506+00:00'
+updated: '2026-01-11T20:44:32.161393+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 20:25 UTC  
+**Last Updated:** January 11, 2026 at 20:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-2h ago
+3h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 20h ago
 
 Sometimes the best stocks are the most obvious ones.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Hill • 3h ago
 
 Here’s what the future might sound like, according to a science writer who experimented with it.
 
-vox.com • 8h ago
+vox.com • 9h ago
 
 ---
 
@@ -207,7 +207,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 374 • 💬 551 • 9h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 374 • 💬 551 • 10h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -279,7 +279,17 @@ Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances
 
 📺 Fox Business
 
-👁️ 13K • 👍 268 • 💬 139 • ⏱️ 3:53 • 19h ago
+👁️ 13K • 👍 277 • 💬 122 • ⏱️ 3:53 • 19h ago
+
+---
+
+**[Grok AI model still generating sexualized content after changes](https://www.youtube.com/watch?v=Y3JZdJlwomE)**
+
+On Elon Musk's social media platform X, the Grok AI image generation reply bot has been changed to be for paying customers ...
+
+📺 NBC News
+
+👁️ 14K • 👍 120 • 💬 72 • ⏱️ 5:25 • 1d ago
 
 ---
 
@@ -289,7 +299,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 79K • 👍 4K • 💬 322 • ⏱️ 19:15 • 2d ago
+👁️ 82K • 👍 4K • 💬 314 • ⏱️ 19:15 • 2d ago
 
 ---
 
@@ -299,17 +309,17 @@ Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 70 • ⏱️ 17:54 • 2d ago
+👁️ 102K • 👍 2K • 💬 70 • ⏱️ 17:54 • 2d ago
 
 ---
 
-**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
+**[AI has gotten out of hand... (The Beast System)](https://www.youtube.com/watch?v=3468sgevZiU)**
 
-The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
+Every month, it feels like a new update, model, or software hits the scene, and people are quick to either claim it's groundbreaking ...
 
-📺 Nate Ziller
+📺 Seethruthescript
 
-👁️ 124K • 👍 13K • 💬 1K • ⏱️ 4:38 • 1d ago
+👁️ 203 • 👍 48 • 💬 18 • ⏱️ 24:00 • 1h ago
 
 ---
 
@@ -319,7 +329,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 47K • 👍 2K • 💬 175 • ⏱️ 14:39 • 1d ago
+👁️ 49K • 👍 2K • 💬 157 • ⏱️ 14:39 • 1d ago
 
 ---
 
@@ -329,7 +339,17 @@ Artificial intelligence could eliminate millions of jobs within the next five ye
 
 📺 LBC
 
-👁️ 18K • 👍 333 • 💬 303 • ⏱️ 11:00 • 1d ago
+👁️ 19K • 👍 348 • 💬 311 • ⏱️ 11:00 • 1d ago
+
+---
+
+**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
+
+The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
+
+📺 Nate Ziller
+
+👁️ 143K • 👍 15K • 💬 1K • ⏱️ 4:38 • 1d ago
 
 ---
 
@@ -339,35 +359,17 @@ Artificial intelligence could eliminate millions of jobs within the next five ye
 
 📺 TIME
 
-👁️ 92K • 👍 3K • 💬 368 • ⏱️ 24:32 • 2d ago
+👁️ 99K • 👍 3K • 💬 384 • ⏱️ 24:32 • 2d ago
 
 ---
 
-**[AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](https://www.youtube.com/watch?v=qOr5-FrkElk)**
+**[I Asked AI If It Supports the Operation in Venezuela. And Here’s What It Said](https://www.youtube.com/watch?v=BLLa0DblYaE)**
 
-HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
+In this video, I ask AI what it thinks about the U.S. military operation in Venezuela, the real reason behind the capture of Nicolas ...
 
-📺 AI Search
+📺 I Ask AI
 
-👁️ 41K • 👍 2K • 💬 205 • ⏱️ 35:41 • 16h ago
-
----
-
-**[My $5M AI Business Plan using AI Agents in 2026](https://www.youtube.com/watch?v=b5ZyRiCS3ks)**
-
-Build an AI-first business here: https://aifoundershq.com At AI Founders HQ, you'll find: • Practical AI business education • Free + ...
-
-📺 AI Founders
-
-👁️ 5K • 👍 315 • 💬 53 • ⏱️ 13:01 • 1d ago
-
----
-
-**[How do we compare to the Ai babies? 👶🕺😂](https://www.youtube.com/watch?v=y2bVXq1mdfQ)**
-
-📺 The Williams Fam
-
-👁️ 281K • 👍 7K • 💬 314 • ⏱️ 0:16 • 1d ago
+👁️ 6K • 👍 1K • 💬 190 • ⏱️ 14:02 • 22h ago
 
 ---
 
@@ -383,7 +385,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 629,855 • ❤️ 783 • 3d ago
+⬇️ 629,855 • ❤️ 785 • 3d ago
 
 ---
 
@@ -407,7 +409,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 16,027 • ❤️ 416 • 4d ago
+⬇️ 16,027 • ❤️ 421 • 4d ago
 
 ---
 
@@ -419,7 +421,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,257 • ❤️ 287 • 5d ago
+⬇️ 2,257 • ❤️ 289 • 5d ago
 
 ---
 
@@ -431,7 +433,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 11,562 • ❤️ 265 • 2d ago
+⬇️ 11,562 • ❤️ 266 • 2d ago
 
 ---
 
@@ -443,7 +445,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,522 • ❤️ 345 • 5d ago
+⬇️ 30,522 • ❤️ 346 • 5d ago
 
 ---
 
@@ -467,7 +469,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 `text-generation` `235.1B`
 
-⬇️ 1,354 • ❤️ 203 • 5d ago
+⬇️ 1,354 • ❤️ 204 • 5d ago
 
 ---
 
@@ -479,7 +481,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 23,403 • ❤️ 567 • 11d ago
+⬇️ 23,403 • ❤️ 568 • 11d ago
 
 ---
 
@@ -517,7 +519,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 87 • 💬 1 • ⭐ 1,997 • 5d ago
+▲ 88 • 💬 1 • ⭐ 1,997 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -575,18 +577,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 4 • 💬 0 • ⭐ 25,640 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
 **[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
 
 *Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
@@ -625,6 +615,18 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 ---
 
+**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
+
+*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
+
+Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
+
+▲ 4 • 💬 0 • ⭐ 25,652 • 10mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -635,7 +637,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 991 • 3h ago
+⭐ 7.9k • 🔱 995 • 4h ago
 
 ---
 
@@ -645,7 +647,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 350 • 3d ago
+⭐ 2.5k • 🔱 359 • 3d ago
 
 ---
 
@@ -655,7 +657,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 135 • 2h ago
+⭐ 2.3k • 🔱 135 • 3h ago
 
 ---
 
@@ -665,7 +667,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 222 • 7h ago
+⭐ 2.0k • 🔱 223 • 7h ago
 
 ---
 
@@ -675,7 +677,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `ai` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 122 • 2h ago
+⭐ 1.4k • 🔱 122 • 3h ago
 
 ---
 
@@ -685,7 +687,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 108 • 1d ago
+⭐ 1.3k • 🔱 109 • 1d ago
 
 ---
 
