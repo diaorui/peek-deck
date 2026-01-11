@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T08:28:32.980281+00:00'
+updated: '2026-01-11T08:51:51.423104+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 08:28 UTC  
+**Last Updated:** January 11, 2026 at 08:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing them, here few kids made a DIY line follower robot. Interesting to observe is they are trying to solve a problem. The headlight turns on when that passes through a tunnel. Kudos to their creativity.
 
-18h ago
+19h ago
 
 ---
 
@@ -98,21 +98,13 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 **[Servo stutters when I connect to a pot](https://www.reddit.com/r/robotics/comments/1q9jmoz/servo_stutters_when_i_connect_to_a_pot/)**
 
-8h ago
+9h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
-
-Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
-
-CNBC • 1d ago
-
----
 
 **[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
 
@@ -122,11 +114,25 @@ TechCrunch • 1d ago
 
 ---
 
-**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
+**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
 
-CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
-Yahoo Finance • 2d ago
+Engadget • 17h ago
+
+---
+
+**[Humanoid Robots Captivate Crowds At CES 2026 Tech Trade Show](https://www.investors.com/news/technology/ces-2026-humanoid-robots-captivate-crowds/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+
+Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+
+CNBC • 1d ago
 
 ---
 
@@ -154,6 +160,14 @@ NVIDIA Developer • 2d ago
 
 ---
 
+**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
+
+CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Crystal Ball: What 2026 holds for cybersecurity, healthcare, robotics, and more](https://fortune.com/2026/01/08/crystal-ball-what-2026-holds-for-cybersecurity-healthcare-robotics-and-more/)**
 
 Term Sheet readers predict healthcare is due for a shakeup, cybersecurity breaches are imminent, and robotics is promising as ever.
@@ -162,25 +176,11 @@ Fortune • 2d ago
 
 ---
 
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqfVEdgsg2K48opxTNTy9YhK0Xr4QUN8vbUU-SQnZoQAI0D_gL3XCUnJ&gaa_ts=696357b8&gaa_sig=qLZz0Vl_IYGJIjmrQ6FLH59xH0OJM1cC30i8q6Q60ql_vRo65xhdpESWg30F7dTJKFpQAXFdePBH04h3NrbPIg%3D%3D)**
+**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
 
-The Wall Street Journal • 2d ago
+Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
----
-
-**[Why AIC is the only path to certifiable robotics](https://www.therobotreport.com/why-aic-is-the-only-path-to-certifiable-robotics/)**
-
-The EU AI Act could affect humanoids. AIC, or artificial integrated cognition, provides a path for AI to gain the trust needed to advance.
-
-The Robot Report • 18h ago
-
----
-
-**[WSU researchers develop robotic arm to aid with labor and boost productivity in orchards](https://komonews.com/news/local/wsu-washington-state-university-school-of-mechanical-and-materials-engineering-researchers-agriculture-robotic-apple-picking-arm-washington-orchards-migrant-farm-workers)**
-
-A cost-effective, robotic apple picker arm developed by Washington State University (WSU) researchers may someday help with fruit picking and other farm chores.
-
-KOMO • 16h ago
+The Verge • 17h ago
 
 ---
 
@@ -204,7 +204,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 64K • 👍 2K • ⏱️ 56:16 • 15h ago
+👁️ 64K • 👍 2K • ⏱️ 56:16 • 16h ago
 
 ---
 
@@ -214,7 +214,7 @@ This is the official game animation for the 2026 FIRST Robotics Competition game
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 54K • 👍 1K • 💬 150 • ⏱️ 3:13 • 14h ago
+👁️ 54K • 👍 1K • 💬 150 • ⏱️ 3:13 • 15h ago
 
 ---
 

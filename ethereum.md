@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T08:28:32.976987+00:00'
+updated: '2026-01-11T08:51:51.419894+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 08:28 UTC  
+**Last Updated:** January 11, 2026 at 08:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
+**24h:** -0.0%  
 **7d:** -3.9%  
-**30d:** -0.5%  
+**30d:** -0.4%  
 **90d:** -24.9%  
 **1y:** -5.2%  
 
@@ -96,13 +96,21 @@ Crypto started as a cypherpunk project, but somewhere along the way, privacy got
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 23h ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 1d ago
 
 ---
 
 **[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
+
+1d ago
+
+---
+
+**[Vitalik Buterin Thinks Ethereum Should Be Boring, And That’s the Point](https://www.reddit.com/r/ethereum/comments/1q8wrf2/vitalik_buterin_thinks_ethereum_should_be_boring/)**
+
+Vitalik Buterin often compares Ethereum to Linux or BitTorrent: open systems that quietly power huge parts of the internet. The idea is that Ethereum shouldn’t feel like a startup chasing users, but like infrastructure institutions use because it reduces risk and removes intermediaries. If this works, Ethereum adoption won’t come with hype cycles. It will be slow, widespread, and sticky, just like real infrastructure. Do you think Ethereum can actually reach that stage, or does crypto always need hype to grow?
 
 1d ago
 
@@ -140,14 +148,6 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 ---
 
-**[Many product decisions are made blindly. Prediction surveys as an early market signal](https://www.reddit.com/r/ethereum/comments/1q86d6a/many_product_decisions_are_made_blindly/)**
-
-Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,7 +164,7 @@ CoinDesk • 13h ago
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -172,7 +172,7 @@ CryptoSlate • 22h ago
 
 Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 105 • 💬 12 • ⏱️ 5:05 • 15h ago
+👁️ 2K • 👍 105 • 💬 12 • ⏱️ 5:05 • 16h ago
 
 ---
 
@@ -318,7 +318,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 630 • 👍 40 • 💬 75 • ⏱️ 6:18 • 14h ago
+👁️ 630 • 👍 40 • 💬 75 • ⏱️ 6:18 • 15h ago
 
 ---
 
