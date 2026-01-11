@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T04:49:45.004433+00:00'
+updated: '2026-01-11T05:26:58.310511+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 04:49 UTC  
+**Last Updated:** January 11, 2026 at 05:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,095.79
+### $3,098.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +0.3%  
 **7d:** -3.9%  
-**30d:** -0.5%  
+**30d:** -0.4%  
 **90d:** -24.9%  
-**1y:** -5.2%  
+**1y:** -5.1%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
-
----
-
-**[Minecraft crypto economycs mod](https://www.reddit.com/r/ethereum/comments/1q9p50v/minecraft_crypto_economycs_mod/)**
-
-I found an interesting Minecraft mod for economics. It allows you to mine cryptocurrency, deposit it on the exchange, and trade there, earning money and exchanging it for good equipment.
-
-🔗 [planetminecraft.com](https://www.planetminecraft.com/mod/cryptomine-forge-1-21-11/) • 55m ago
+23h ago
 
 ---
 
@@ -88,15 +80,7 @@ I found an interesting Minecraft mod for economics. It allows you to mine crypto
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-10h ago
-
----
-
-**[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
-
-Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
-
-1d ago
+11h ago
 
 ---
 
@@ -105,6 +89,14 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
 🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 20h ago
+
+---
+
+**[Heard Monthly Ethereum market sentiment (targeted prediction survey) - Round #1 results](https://www.reddit.com/r/ethereum/comments/1q8tqux/heard_monthly_ethereum_market_sentiment_targeted/)**
+
+Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
+
+1d ago
 
 ---
 
@@ -148,6 +140,14 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 ---
 
+**[something that bothered me about on-chain settlement semantics](https://www.reddit.com/r/ethereum/comments/1q7zfvc/something_that_bothered_me_about_onchain/)**
+
+this might be a stupid idea, so I’m posting it here before I waste more time on it one thing that has always bothered me about Ethereum is that everything settles gross by default in traditional systems netting happens before stuff is settled, on chain that never happens in the little vacation i've had i tried to experiment with this stuff and created a set of contracts that submitted exec claims instead of transferring stuff immediately, everything enforced on-chain, nothing external that eventually connected to some other things that I also implemented: -explicit pricing for urgent execution (instead of mev/searchers implicitly pricing it) -and a crude on-chain clearing/default mechanism to make "failure states" deterministic i’m not convinced this is useful, or even coherent so, here's a few questions: does this break EVM mental models in a fundamental way? is exec-level netting just a bs rollup/batcher? is on-chain clearing without custody just nonsense? stuff isn't live anywhere i just want a sanity check before i try to make anything off it feel free to tear it apart or ask for more data
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Hey! Many product decisions are made blindly. I wrote about why we’re building
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 13h ago
 
 In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -195,6 +195,14 @@ Decrypt • 2d ago
 **[Ethereum rolls out final planned Blob Parameters Only fork as final step in Fusaka upgrade](https://www.theblock.co/post/384709/ethereum-rolls-out-final-planned-blob-parameters-only-fork-as-final-step-in-fusaka-upgrade)**
 
 The Block • 3d ago
+
+---
+
+**[Ethereum – Here are 3 reasons why ETH could hit $4.4K soon](https://ambcrypto.com/ethereum-here-are-3-reasons-why-eth-could-hit-4-4k-soon/)**
+
+Q1 2026 could turn out to be pretty interesting for the world's largest altcoin.
+
+AMBCrypto • 11h ago
 
 ---
 
@@ -214,19 +222,11 @@ The Motley Fool • 19h ago
 
 ---
 
-**[‘Increasing Ethereum’s bandwidth is safer’ – Vitalik Buterin explains why](https://ambcrypto.com/increasing-ethereums-bandwidth-is-safer-vitalik-buterin-explains-why/)**
+**[Ethereum To Drive Altcoin Season Again, But Is This Time Different? | Bitcoinist.com](https://bitcoinist.com/ethereum-to-drive-altseason/)**
 
-Buterin argues bandwidth, decentralization, and Layer 2s will define its long-term dominance.
+At the center of these observations is Ethereum, the leading altcoin, which has always led previous altcoin seasons.
 
-AMBCrypto • 2d ago
-
----
-
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for December 2025](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-december-2025/)**
-
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (ETH) treasury and staking metrics for the month of December 2025.
-
-Bit Digital • 3d ago
+Bitcoinist.com • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 4K • 👍 153 • 💬 138 • ⏱️ 11:37 • 14h ago
+👁️ 4K • 👍 153 • 💬 138 • ⏱️ 11:37 • 15h ago
 
 ---
 
@@ -260,7 +260,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 232 • 💬 387 • ⏱️ 16:56 • 8h ago
+👁️ 6K • 👍 232 • 💬 387 • ⏱️ 16:56 • 9h ago
 
 ---
 
@@ -320,7 +320,7 @@ Check out the legendary trading platform I use for my XRP UPHOLD right here U.S.
 
 📺 Crypto Sensei
 
-👁️ 3K • 👍 301 • 💬 26 • ⏱️ 11:35 • 1h ago
+👁️ 3K • 👍 301 • 💬 26 • ⏱️ 11:35 • 2h ago
 
 ---
 

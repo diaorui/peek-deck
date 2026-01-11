@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T04:49:44.989887+00:00'
+updated: '2026-01-11T05:26:58.295918+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 04:49 UTC  
+**Last Updated:** January 11, 2026 at 05:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -63,7 +63,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 23h ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 1d ago
 
 ---
 
@@ -123,7 +123,13 @@ Working on an LLM gateway (Bifrost)- Code is open source: https://github.com/max
 
 Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
 
-CNBC • 16h ago
+CNBC • 17h ago
+
+---
+
+**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://www.bloomberg.com/news/articles/2026-01-10/china-ai-leaders-warn-of-widening-gap-with-us-after-1b-ipo-week)**
+
+Bloomberg.com • 15h ago
 
 ---
 
@@ -135,53 +141,31 @@ The Atlantic • 1d ago
 
 ---
 
-**[China AI Leaders Warn of Widening Gap With US After $1B IPO Week](https://finance.yahoo.com/news/china-ai-leaders-warn-widening-140555407.html)**
-
-“A massive amount of OpenAI’s compute is dedicated to next-generation research, whereas we are stretched thin — just meeting delivery demands consumes most of our resources,” Lin said during a panel at the AGI-Next summit in Beijing on Saturday.  The event, co-organized by Zhipu and Tsinghua University, followed market debuts this week in which Zhipu and Shanghai-based MiniMax Group collectively raised more than $1 billion.
-
-Yahoo Finance • 14h ago
-
----
-
-**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
-
-Reuters • 13h ago
-
----
-
-**[Review of Meta-Manus deal underscores China’s tightening grip on AI exports](https://www.scmp.com/tech/big-tech/article/3339335/review-meta-manus-deal-underlines-chinas-tightening-grip-ai-exports)**
-
-AI agent start-up may face half a year of regulatory checks on data security, dual-use technologies and overseas investment rules: analysts.
-
-South China Morning Post • 1d ago
-
----
-
 **[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[Grok turns off image generator for most users after outcry over sexualised AI imagery](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)**
+**[Indonesia blocks access to Musk’s AI chatbot Grok over deepfake images](https://www.aljazeera.com/news/2026/1/10/indonesia-blocks-access-to-musks-ai-chatbot-grok-over-deepfake-images)**
 
-X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
+Indonesian minister says deepfakes are a 'serious violation of human rights, dignity, and security of citizens' online.
 
-The Guardian • 1d ago
-
----
-
-**[Indonesia suspends Grok AI over sexualized images](https://www.cbsnews.com/news/indonesia-suspends-grok-ai-over-sexualized-images/)**
-
-Elon Musk's platform is facing global backlash after reports emerged that its image creation feature allowed users to sexualize pictures of women and children using simple text prompts.
-
-CBS News • 14h ago
+Al Jazeera • 15h ago
 
 ---
 
-**[Global AI Race Shows Asia Leading as Stocks Start 2026 With Bang](https://www.bloomberg.com/news/articles/2026-01-11/global-ai-race-shows-asia-leading-as-stocks-start-2026-with-bang)**
+**[David Lammy: JD Vance agrees that sexualised AI images on X are ‘unacceptable’](https://www.theguardian.com/us-news/2026/jan/10/ai-generated-sexualised-images-x-jd-vance-grok)**
 
-Bloomberg.com • 4h ago
+Exclusive: US vice-president ‘sympathetic’ to concerns over Grok-generated pornography, says deputy PM
+
+The Guardian • 12h ago
+
+---
+
+**[Former Google, Apple Researchers Raising $50 Million for New Visual AI Startup](https://www.theinformation.com/articles/former-google-apple-researchers-raising-50-million-new-visual-ai-startup)**
+
+The Information • 9h ago
 
 ---
 
@@ -190,6 +174,20 @@ Bloomberg.com • 4h ago
 Nvidia isn't the only AI name that can help investors reach financial independence over the long term.
 
 The Motley Fool • 6h ago
+
+---
+
+**[Why We Need Meditation in the AI Era](https://time.com/7345147/we-need-meditation-in-the-ai-era/)**
+
+Decades of research have demonstrated the benefits of meditation.
+
+Time Magazine • 18h ago
+
+---
+
+**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reuters.com/world/china/china-is-closing-us-technology-lead-despite-constraints-ai-researchers-say-2026-01-10/)**
+
+Reuters • 13h ago
 
 ---
 
@@ -209,7 +207,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 597 • 💬 343 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 598 • 💬 344 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -217,7 +215,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 One AI coding assistant power user says the tools are hitting a plateau, and some are even declining. What's causing this unexpected twist in tech?
 
-⬆️ 444 • 💬 727 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
+⬆️ 444 • 💬 729 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/ai-coding-degrades)
 
 ---
 
@@ -233,7 +231,7 @@ IBM's AI coding agent 'Bob' has been found vulnerable to downloading and executi
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 189 • 💬 212 • 11h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 209 • 💬 225 • 12h ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -241,7 +239,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 159 • 💬 223 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 161 • 💬 223 • 1d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -255,7 +253,7 @@ Standalone MRI caught most breast cancer cases missed by AI, highlighting a key 
 
 **[Side-by-side comparison of how AI models answer moral dilemmas](https://news.ycombinator.com/item?id=46547024)**
 
-⬆️ 82 • 💬 49 • 2d ago • [civai.org](https://civai.org/p/ai-values)
+⬆️ 82 • 💬 55 • 2d ago • [civai.org](https://civai.org/p/ai-values)
 
 ---
 
@@ -325,7 +323,7 @@ Artificial intelligence could eliminate millions of jobs within the next five ye
 
 📺 LBC
 
-👁️ 13K • 👍 246 • 💬 209 • ⏱️ 11:00 • 17h ago
+👁️ 13K • 👍 246 • 💬 209 • ⏱️ 11:00 • 18h ago
 
 ---
 
@@ -335,7 +333,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 31K • 👍 1K • 💬 141 • ⏱️ 14:39 • 14h ago
+👁️ 31K • 👍 1K • 💬 141 • ⏱️ 14:39 • 15h ago
 
 ---
 
@@ -345,7 +343,7 @@ How to Make VIRAL AI Inspirational Finance Videos (FREE AI Course) GOOGLE DOC ..
 
 📺 Leo Ai
 
-👁️ 6K • 👍 472 • 💬 54 • ⏱️ 10:28 • 20h ago
+👁️ 6K • 👍 472 • 💬 54 • ⏱️ 10:28 • 21h ago
 
 ---
 
@@ -643,7 +641,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.6k • 🔱 932 • 36s ago
+⭐ 7.6k • 🔱 932 • 37m ago
 
 ---
 
@@ -733,7 +731,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `Rust` `claude` `kiro`
 
-⭐ 1.0k • 🔱 124 • 7h ago
+⭐ 1.0k • 🔱 124 • 8h ago
 
 ---
 

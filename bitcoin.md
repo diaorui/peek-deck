@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T04:49:44.998444+00:00'
+updated: '2026-01-11T05:26:58.304542+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 04:49 UTC  
+**Last Updated:** January 11, 2026 at 05:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,702.10
+### $90,781.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -3.6%  
-**30d:** +0.5%  
+**24h:** +0.4%  
+**7d:** -3.5%  
+**30d:** +0.6%  
 **90d:** -19.7%  
-**1y:** -3.9%  
+**1y:** -3.8%  
 
 ---
 
@@ -77,14 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I constantly get reminded we are early](https://www.reddit.com/r/Bitcoin/comments/1q99g95/i_constantly_get_reminded_we_are_early/)**
-
-https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
-
-11h ago
-
----
-
 **[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
 
 Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
@@ -95,19 +87,27 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Maybe 2026 Is The Year?](https://www.reddit.com/r/Bitcoin/comments/1q8vab4/maybe_2026_is_the_year/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-14h ago
+15h ago
+
+---
+
+**[I constantly get reminded we are early](https://www.reddit.com/r/Bitcoin/comments/1q99g95/i_constantly_get_reminded_we_are_early/)**
+
+https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
+
+12h ago
 
 ---
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,15 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-15h ago
+16h ago
+
+---
+
+**[Sometimes we live no particular way but our own. RIP Bobby](https://www.reddit.com/r/Bitcoin/comments/1q9psav/sometimes_we_live_no_particular_way_but_our_own/)**
+
+Bob Weir 10/16/47-1/10/26
+
+1h ago
 
 ---
 
@@ -127,7 +135,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
 
-9h ago
+10h ago
 
 ---
 
@@ -136,14 +144,6 @@ Man, I am so stupid. I wish I would have done what Coinbase told me if I would o
 VanEck recommends allocating 1–3% of a portfolio to Bitcoin, arguing that even a modest exposure improves risk-adjusted returns. In its base case, Bitcoin is projected to reach $2.9 million by 2050, supported by institutional adoption and weakening fiat currencies.
 
 14h ago
-
----
-
-**[Buy now or Dca?](https://www.reddit.com/r/Bitcoin/comments/1q9funl/buy_now_or_dca/)**
-
-I just liquidated 10k of stocks to put into bitcoin. Would it be a better decision to dca over the next year/years or so with it or just put the 10k in right now?
-
-7h ago
 
 ---
 
@@ -164,6 +164,14 @@ CNBC • 1d ago
 There's a major pitfall coming up that'll need to be avoided.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Rumors are swirling about Venezuela holding $60 billion in Bitcoin—but crypto experts are skeptical](https://fortune.com/2026/01/09/rumors-swirling-about-venezuela-bitcoin-crypto-experts-are-skeptical/)**
+
+What we know about the South American country’s crypto holdings.
+
+Fortune • 1d ago
 
 ---
 
@@ -208,14 +216,6 @@ Yahoo Finance • 7h ago
 Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
 
 Bitcoin Magazine • 1d ago
-
----
-
-**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
-
-Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 433 • ⏱️ 17:17 • 6h ago
+👁️ 12K • 👍 1K • 💬 433 • ⏱️ 17:17 • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 40K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 14h ago
+👁️ 40K • 👍 2K • 💬 117 • ⏱️ 1:05:08 • 15h ago
 
 ---
 

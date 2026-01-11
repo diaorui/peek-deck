@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T04:49:45.007658+00:00'
+updated: '2026-01-11T05:26:58.313741+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 04:49 UTC  
+**Last Updated:** January 11, 2026 at 05:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,15 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 Hello guys, I would love to get some feedback on the appearance of the robot arm im designing. Still not complete.
 
-6h ago
+7h ago
+
+---
+
+**[Reinforcement Learning for sumo robots using SAC, PPO, A2C algorithms](https://www.reddit.com/r/robotics/comments/1q9kjsb/reinforcement_learning_for_sumo_robots_using_sac/)**
+
+Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
+
+5h ago
 
 ---
 
@@ -60,27 +68,11 @@ Hello guys, I would love to get some feedback on the appearance of the robot arm
 
 ---
 
-**[Reinforcement Learning for sumo robots using SAC, PPO, A2C algorithms](https://www.reddit.com/r/robotics/comments/1q9kjsb/reinforcement_learning_for_sumo_robots_using_sac/)**
-
-Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an environment specifically designed for training autonomous combat agents. I wanted to create something more dynamic than standard control tasks, focusing on agent-vs-agent strategy. Key features of the repo: - Algorithms: Comparative study of SAC, PPO, and A2C using PyTorch. - Training: Competitive self-play mechanism (agents fight their past versions). - Physics: Custom SAT-based collision detection and non-linear dynamics. - Evaluation: Automated ELO-based tournament system. Link: https://github.com/sebastianbrzustowicz/RobotSumo-RL I'm looking for any feedback.
-
-4h ago
-
----
-
-**[1X News on Monday](https://www.reddit.com/r/robotics/comments/1q9nxhb/1x_news_on_monday/)**
-
-1X is releasing updates on Monday, January 12th in response to a previous tweet by the CEO. What do you guys think it’ll be?
-
-1h ago
-
----
-
 **[Zurich Robotics Ecosystem Map [self-made, might lack some companies]](https://www.reddit.com/r/robotics/comments/1q91gqt/zurich_robotics_ecosystem_map_selfmade_might_lack/)**
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-17h ago
+18h ago
 
 ---
 
@@ -94,13 +86,19 @@ If you work on robotics, drones, or self-driving systems, this one is worth book
 
 **[Eagle Pose robot](https://www.reddit.com/r/robotics/comments/1q8xupv/eagle_pose_robot/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Playing tic tac toe while waiting for new parts to arrive](https://www.reddit.com/r/robotics/comments/1q851iu/playing_tic_tac_toe_while_waiting_for_new_parts/)**
 
 1d ago
+
+---
+
+**[Servo stutters when I connect to a pot](https://www.reddit.com/r/robotics/comments/1q9jmoz/servo_stutters_when_i_connect_to_a_pot/)**
+
+5h ago
 
 ---
 
@@ -134,7 +132,15 @@ Yahoo Finance • 2d ago
 
 Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
-The Verge • 13h ago
+The Verge • 14h ago
+
+---
+
+**[Siouxland students excel in regional robotics competition](https://www.yahoo.com/news/articles/siouxland-students-excel-regional-robotics-005121584.html)**
+
+SOUTH SIOUX CITY, Neb. (KCAU) — Excitement filled the air over the weekend, as South Sioux City Community Schools kicked off their very first regional robotics competition. Nearly 20 teams from all corners of Siouxland gathered to put their skills to the test, each determined to take home the top prize. teams faced the ultimate challenge: […]
+
+Yahoo • 4h ago
 
 ---
 
@@ -146,19 +152,19 @@ WYMT • 1d ago
 
 ---
 
-**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
-
-BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
-
-Seeking Alpha • 15h ago
-
----
-
 **[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
 
 Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
 
 NVIDIA Developer • 2d ago
+
+---
+
+**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
+
+BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
+
+Seeking Alpha • 16h ago
 
 ---
 
@@ -170,17 +176,11 @@ Fortune • 2d ago
 
 ---
 
-**[9 humanoid robots at CES 2026 that showed the future is already here](https://interestingengineering.com/ai-robotics/9-humanoid-robots-at-ces-2026)**
+**[Synthetic skin based on octopus biology promises uses in robotics](https://www.ft.com/content/c142ca88-ae15-4300-a045-47802c534fad)**
 
-Here are the nine humanoid robots at CES 2026 that signaled the transition from experimental machines to practical, deployable co-workers.
+New technique varies colour and texture to open up potential applications in display technologies
 
-Interesting Engineering • 2d ago
-
----
-
-**[Scientists Create Robots Smaller Than a Grain of Sand](https://www.wsj.com/science/scientists-create-robots-smaller-than-a-grain-of-sand-c3081fd0?gaa_at=eafs&gaa_n=AWEtsqfz944wQEg7LsrUWYG-LXb80MdzWur1szDE-lv9PXGEMkofG5m-HkMs&gaa_ts=696322bf&gaa_sig=ePSYoW0cykWYSQruTrd8OtNtI2MAhIckO_cpIeeFXppfl9KqLdluO3dTID25Bd4Uv9g6C3E-MXtvKtZGW8m7Kg%3D%3D)**
-
-The Wall Street Journal • 2d ago
+Financial Times • 3d ago
 
 ---
 
@@ -224,7 +224,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 5K • 👍 316 • 💬 28 • ⏱️ 9:28 • 9h ago
+👁️ 5K • 👍 316 • 💬 28 • ⏱️ 9:28 • 10h ago
 
 ---
 
