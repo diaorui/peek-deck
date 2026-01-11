@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-11T13:30:43.593474+00:00'
+updated: '2026-01-11T14:20:36.313603+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 13:30 UTC  
+**Last Updated:** January 11, 2026 at 14:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -3.6%  
-**30d:** -0.2%  
-**90d:** -24.7%  
-**1y:** -4.9%  
+**24h:** +0.6%  
+**7d:** -3.3%  
+**30d:** +0.1%  
+**90d:** -24.5%  
+**1y:** -4.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.45B
+**Market Cap:** $375.35B
 Rank #2
 
 **Circulating Supply:** 120,694,727 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.3%
+-37.1%
 
 **All-Time Low:** $0.43
-+716484.4%
++717955.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-19h ago
+20h ago
 
 ---
 
@@ -156,7 +156,7 @@ I mean did it improve performance as much as people hoped? Is it better able to 
 
 CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -168,11 +168,27 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says)**
 
-The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
+EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-The Motley Fool • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
+
+Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
+
+CoinDesk • 57m ago
+
+---
+
+**[Bitcoin and Ethereum Pinned at Max Pain as $2.2 Billion Options Expire into Macro Storm](https://finance.yahoo.com/news/bitcoin-ethereum-pinned-max-pain-055809174.html)**
+
+Bitcoin and Ethereum hover at max pain as $2.2B in options expire, with NFP data and a Supreme Court tariff ruling driving volatility.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -180,7 +196,15 @@ The Motley Fool • 3h ago
 
 Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
+
+---
+
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+
+The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -196,7 +220,7 @@ Decrypt • 2d ago
 
 Q1 2026 could turn out to be pretty interesting for the world's largest altcoin.
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -205,28 +229,6 @@ AMBCrypto • 19h ago
 The Bitcoin price is jiggling around $91,000 while the Ethereum price remains stuck above $3000, displaying stability
 
 Coinpedia Fintech News • 1d ago
-
----
-
-**[Bitcoin Holds $90,000 As Ethereum, XRP, Dogecoin Slide Over 1% - Grayscale Bitcoin Mini Trust (BTC) (ARCA:BTC)](https://www.benzinga.com/crypto/cryptocurrency/26/01/49823257/bitcoin-holds-90000-as-ethereum-xrp-dogecoin-slide-over-1)**
-
-Bitcoin is holding above $90,000 amid a solid U.S. jobs data release on Friday.
-
-Benzinga • 1d ago
-
----
-
-**[Ethereum Staking Hits Choke Point as Institutions Pile in Despite Low Yields](https://finance.yahoo.com/news/ethereum-staking-hits-choke-point-153000578.html)**
-
-Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
-
-Yahoo Finance • 22h ago
-
----
-
-**[BitMine Stock Rips Open the New Year as Tom Lee Hammers a New $105 Million Stake into Ethereum](https://www.tipranks.com/news/bitmine-stock-rips-open-the-new-year-as-tom-lee-hammers-a-new-105-million-stake-into-ethereum)**
-
-TipRanks • 2d ago
 
 ---
 
@@ -240,7 +242,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 645 • 💬 71 • ⏱️ 24:05 • 17h ago
+👁️ 12K • 👍 666 • 💬 76 • ⏱️ 24:05 • 17h ago
 
 ---
 
@@ -250,7 +252,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 125 • 💬 100 • ⏱️ 13:48 • 7h ago
+👁️ 4K • 👍 165 • 💬 317 • ⏱️ 13:48 • 8h ago
+
+---
+
+**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 87 • 👍 14 • 💬 1 • ⏱️ 5:22 • 32m ago
 
 ---
 
@@ -260,7 +272,17 @@ In this episode, we dig into the one catalyst that could flip the switch for cry
 
 📺 Milk Road
 
-👁️ 4K • 👍 171 • 💬 138 • ⏱️ 11:37 • 23h ago
+👁️ 5K • 👍 176 • 💬 269 • ⏱️ 11:37 • 1d ago
+
+---
+
+**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
+
+Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
+
+📺 Michaël van de Poppe
+
+👁️ 1K • 👍 130 • 💬 35 • ⏱️ 12:34 • 5h ago
 
 ---
 
@@ -270,7 +292,7 @@ BlackRock Caught DUMPING BITCOIN (this is why)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 249 • 💬 603 • ⏱️ 16:56 • 17h ago
+👁️ 8K • 👍 257 • 💬 916 • ⏱️ 16:56 • 18h ago
 
 ---
 
@@ -290,37 +312,7 @@ Time is running out; the financial system is breaking at this very moment. Even 
 
 📺 Davinci Jeremie
 
-👁️ 11K • 👍 549 • 💬 77 • ⏱️ 15:28 • 1d ago
-
----
-
-**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 22K • 👍 762 • 💬 238 • ⏱️ 19:42 • 22h ago
-
----
-
-**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 691 • 👍 41 • 💬 76 • ⏱️ 6:18 • 20h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=-gcev5s6aPI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 113 • 💬 8 • ⏱️ 5:13 • 1d ago
+👁️ 11K • 👍 567 • 💬 80 • ⏱️ 15:28 • 1d ago
 
 ---
 
@@ -330,7 +322,17 @@ ZAMA | $ZAMA PUBLIC AUCTION https://bankless.cc/zama-auction --- Prediction mark
 
 📺 Bankless
 
-👁️ 9K • 👍 333 • 💬 43 • ⏱️ 52:02 • 2d ago
+👁️ 10K • 👍 336 • 💬 43 • ⏱️ 52:02 • 2d ago
+
+---
+
+**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 23K • 👍 793 • 💬 258 • ⏱️ 19:42 • 23h ago
 
 ---
 

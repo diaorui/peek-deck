@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T13:30:43.587544+00:00'
+updated: '2026-01-11T14:20:36.308261+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 13:30 UTC  
+**Last Updated:** January 11, 2026 at 14:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -3.4%  
-**30d:** +0.7%  
-**90d:** -19.6%  
-**1y:** -3.8%  
+**24h:** +0.5%  
+**7d:** -3.3%  
+**30d:** +0.8%  
+**90d:** -19.5%  
+**1y:** -3.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1809.89B
+**Market Cap:** $1814.14B
 Rank #1
 
-**Circulating Supply:** 19,974,478 BTC
+**Circulating Supply:** 19,974,525 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-28.0%
 
 **All-Time Low:** $67.81
-+133523.4%
++133825.7%
 
 ---
 
@@ -77,23 +77,37 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
-
-Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
-
-22h ago
-
----
-
-**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
+**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
 1h ago
 
 ---
 
-**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
+**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
+
+2h ago
+
+---
+
+**[Seventeen years ago, Hal Finney announced the launch of Bitcoin to the world](https://www.reddit.com/r/Bitcoin/comments/1q95qo7/seventeen_years_ago_hal_finney_announced_the/)**
+
+Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC, announced the launch of the Bitcoin network on that day. He also became the person who received the first BTC transaction directly from Satoshi Nakamoto. This moment is considered the starting point of Bitcoin's practical existence when the idea first came to life in the real world.
 
 23h ago
+
+---
+
+**[You in 2030 sending a gift to the friend who told you to buy $BTC in 2026](https://www.reddit.com/r/Bitcoin/comments/1qa09it/you_in_2030_sending_a_gift_to_the_friend_who_told/)**
+
+That moment in 2030 when the “buy $BTC in 2026” advice finally hits
+
+10m ago
+
+---
+
+**[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
+
+1d ago
 
 ---
 
@@ -105,15 +119,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Best investment I ever made](https://www.reddit.com/r/Bitcoin/comments/1q98894/best_investment_i_ever_made/)**
 
-21h ago
-
----
-
-**[I constantly get reminded we are early](https://www.reddit.com/r/Bitcoin/comments/1q99g95/i_constantly_get_reminded_we_are_early/)**
-
-https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
-
-20h ago
+22h ago
 
 ---
 
@@ -121,7 +127,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -129,21 +135,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 --- TL;DR: My thoughts are that BTC is not currently in a confirmed bear market. From a macro, monthly structure perspective, as long as ~74k holds on a monthly close, the higher-timeframe bull structure remains intact. At the same time, monthly volatility has been compressed for over a year, suggesting a meaningful expansion phase is more likely sooner rather than later. Direction isn’t guaranteed — but structure still favours continuation unless that higher low breaks. --- I want to share this chart as a way of thinking about Bitcoin in terms of macro structure, rather than narratives or rigid cycle assumptions. This is a long-term Fibonacci extension drawn using major historical pivots: the early BTC genesis low (2009–2010), the 2017 cycle high, and the 2018 bear-market low. Volatility, represented by Caretaker’s BBWP indicator (Bollinger Band Width Percentile, length 13, lookback 252), is at the bottom. The goal here isn’t strict prediction (although it kind of is) — it’s to map out higher-timeframe structure. What stands out to me is how closely the current market is respecting these levels. The 4.236 extension around ~87k lines up almost perfectly with BTC’s most recent support zone, while the 3.618 extension around ~74k aligns with the current monthly higher low. For me, that ~74k level is the key structural line in the sand. As long as BTC holds above it on a monthly closing basis, higher-timeframe structure and trend remains intact with higher-highs and higher-lows. A clean monthly close below that level, followed by a failed reclaim, would be my signal that a true bear-market regime is likely. Above current price, the higher Fibonacci extensions — roughly the 6.854 and 10.618 levels — cluster in the high-100k to low-200k range. These aren’t targets so much as zones where long-term extensions naturally converge if the current structure continues to resolve upward. The box labeled “EOY 2026 / Early 2027” is a structural zone with a bit of honest hopium, not a call for an exact top. One additional piece that makes this setup interesting to me is volatility. On the monthly timeframe, volatility as measured by the BBWP has been in an extreme compression regime (<20) for over a year now — one of the longest such periods in BTC’s history. With the settings above, Bitcoin has only experienced such a compression for longer than 17 months once in history, and it’s currently on month 15. So historically, volatility compressions on higher timeframes don't persist indefinitely and tend to resolve with expansion. That alone doesn’t tell us direction, but it does suggest the current range is unlikely to last much longer. If past behaviour is any guide, this points to a meaningful expansion phase occurring potentially within 3-6 months. If the ~74k level continues to hold on a monthly basis and momentum can flip back to the upside, then interaction with the next higher fib levels becomes increasingly plausible. One last note on the BBWP, each 'bull run' in the past has seen a BBWP of >50, which we have not yet seen for the current run. This chart is meant as a framework, not a call for tops or bottoms. It’s about identifying where structure breaks versus where it remains valid. As long as the monthly higher low around ~74k holds, I find it difficult to justify strong bear-market conviction purely from a structural standpoint until that level breaks on a monthly close. I’m posting this to get other perspectives, especially from people who focus on higher-timeframe structure rather than cycle timing or short-term indicators. If you see flaws in the anchoring, interpretation, or assumptions here, I’d genuinely like to hear them. --- Honest Disclaimer: AI helped turn scattered thoughts into readable English. The ideas (and any bad takes) are still very much my own. ---
 
-11h ago
+12h ago
 
 ---
 
-**[SLIP-0039 with shamir backup](https://www.reddit.com/r/Bitcoin/comments/1q9w818/slip0039_with_shamir_backup/)**
+**[I constantly get reminded we are early](https://www.reddit.com/r/Bitcoin/comments/1q99g95/i_constantly_get_reminded_we_are_early/)**
 
-I basically wanna do the ninja method with metal rings and a trezor 3 for btc only with the shamir backup with a 2/3 construction and split it over 3 locations does this sound like a good idea or are there better ones? Just got to this information on the internet don t have friends who do btc.
+https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-2h ago
-
----
-
-**[サトシ・ナカモト](https://www.reddit.com/r/Bitcoin/comments/1q9byok/サトシナカモト/)**
-
-18h ago
+21h ago
 
 ---
 
@@ -153,7 +153,7 @@ I basically wanna do the ninja method with metal rings and a trezor 3 for btc on
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -179,19 +179,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[This New Bitcoin Price Prediction Shows BTC May Fall 25% Below $70,000](https://www.financemagnates.com/trending/this-new-bitcoin-price-prediction-shows-btc-may-fall-25-below-70000/)**
+**[Bitcoin Bull Market Starts With a 4.5% Move? History and Charts Finally Align](https://finance.yahoo.com/news/bitcoin-bull-market-starts-4-123329169.html)**
 
-How low can Bitcoin price go? Bitcoin is falling after breaking 50-week MA. Technical analysis shows $68K-$74K targets ahead. Crypto influencers back bearish Bitcoin predictions.
+Bitcoin price is just 4.5% away from a rare historical signal last seen in 2020.Charts, flows, and leverage now converge.
 
-Finance Magnates • 3h ago
-
----
-
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://finance.yahoo.com/news/got-500-2-cryptocurrencies-buy-102000094.html)**
-
-The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -199,7 +191,15 @@ Yahoo Finance • 3h ago
 
 Bitcoin has a lot going for it, but the near term could be bumpy.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
+
+---
+
+**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
+
+The dog token's much bigger trailing-10-year return can draw interest from some market participants.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ Fortune • 1d ago
 
 Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -307,23 +307,23 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
-**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
-
-Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
-
-📺 Simply Bitcoin
-
-👁️ 19K • 👍 1K • 💬 445 • ⏱️ 17:17 • 15h ago
-
----
-
 **[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
 
 Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
 
 📺 Satoshi Alliance
 
-👁️ 8K • 👍 457 • 💬 281 • ⏱️ 3:25 • 1d ago
+👁️ 8K • 👍 465 • 💬 362 • ⏱️ 3:25 • 1d ago
+
+---
+
+**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+
+Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+
+📺 Simply Bitcoin
+
+👁️ 21K • 👍 1K • 💬 534 • ⏱️ 17:17 • 16h ago
 
 ---
 
@@ -333,7 +333,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 23h ago
+👁️ 48K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
+
+---
+
+**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+
+ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+
+📺 Paul Barron Network
+
+👁️ 74K • 👍 3K • 💬 385 • ⏱️ 16:13 • 2d ago
+
+---
+
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+
+📺 Vortex Bitcoin
+
+👁️ 23K • 👍 342 • 💬 109 • ⏱️ 0:49 • 1d ago
 
 ---
 
@@ -353,57 +373,37 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 526 • ⏱️ 9:19 • 1d ago
+👁️ 58K • 👍 3K • 💬 528 • ⏱️ 9:19 • 1d ago
 
 ---
 
-**[Cathie Wood BACKTRACKS on Bitcoin?!🚨What Happened?](https://www.youtube.com/watch?v=pn0pyYXX5Lc)**
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
 
-ARK Invest CEO Cathie Wood said Thursday that stablecoins have overtaken part of the role her firm once expected bitcoin to ...
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
 
-📺 Paul Barron Network
+📺 Digital Asset News
 
-👁️ 74K • 👍 3K • 💬 379 • ⏱️ 16:13 • 2d ago
-
----
-
-**[This New Crypto Legislation Could Reshape the Entire Market](https://www.youtube.com/watch?v=NOP2UwV0hFw)**
-
-The new crypto rules coming this week? Could this change crypto forever? We have important updates on the regulatory front in ...
-
-📺 Zach Humphries
-
-👁️ 2K • 👍 103 • 💬 75 • ⏱️ 5:41 • 21h ago
+👁️ 12K • 👍 666 • 💬 76 • ⏱️ 24:05 • 17h ago
 
 ---
 
-**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+**[CRYPTO “SuperCycle Incoming” (This Isn’t Random)](https://www.youtube.com/watch?v=b3MV_cmsChk)**
 
-Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Subscribe to my Macro Thesis ...
 
-📺 Simply Bitcoin
+📺 Dan Gambardello
 
-👁️ 25K • 👍 2K • 💬 273 • ⏱️ 17:07 • 1d ago
-
----
-
-**[BITCOIN HISTORY REPEATING!!!!!](https://www.youtube.com/watch?v=ZF-9JbPgapY)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
-
-📺 Crypto Rover
-
-👁️ 4K • 👍 317 • 💬 52 • ⏱️ 8:12 • 7h ago
+👁️ 19K • 👍 1K • 💬 751 • ⏱️ 11:48 • 19h ago
 
 ---
 
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
 
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Vortex Bitcoin
+📺 Altcoin Daily
 
-👁️ 22K • 👍 325 • 💬 109 • ⏱️ 0:49 • 1d ago
+👁️ 55K • 👍 3K • 💬 265 • ⏱️ 11:14 • 2d ago
 
 ---
 
