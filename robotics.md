@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-11T10:45:39.170660+00:00'
+updated: '2026-01-11T11:18:17.478293+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 11, 2026 at 10:45 UTC  
+**Last Updated:** January 11, 2026 at 11:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ CES 2026 reflects the biggest changes AI and Robotics in recent times. Seeing th
 
 I have recently been exploring robotic path planning and during my hands-on numerical experiments I came across some interesting difficulties I had to overcome (nonsmoothness and control chattering). I summarised my findings in a blog post here: TDS blog post
 
-37m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi everyone, I’ve recently finished the first version of RobotSumo-RL, an envi
 
 Last time I posted Munich ecosystem map, and it was nicely received so I decided to create also one for Zurich. Some people call it Silicon Valley of robotics (I personally think that this name is more suited for Shenzhen, but Zurich is still an awesome spot for robotics company). Why? First of all it's a great place to start a robotics company because everything you need is close and well connected. It has top engineering talent, mainly from ETH Zürich, one of the best robotics and AI universities in the world. Many successful robotics startups come directly from ETH research. Also, the presence of Disney Research and RAI Institute helps to be on the frontier of physical AI. The city also has strong industry and customers nearby. Switzerland is home to global companies in robotics, manufacturing, and automation, such as ABB Robotics, which often work with startups as partners or early customers. Zurich offers good access to funding, especially for deep-tech and robotics. Investors here are used to long development cycles and complex hardware products. 💰 Finally, Zurich is known for stability and quality of life. It is safe, well organized, and centrally located in Europe, making it easier to attract international talent and scale globally. What are your thoughts? Source: https://x.com/lukas_m_ziegler/status/2009617123245519065
 
-23h ago
+1d ago
 
 ---
 
@@ -88,19 +88,19 @@ Last time I posted Munich ecosystem map, and it was nicely received so I decided
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-24m ago
+56m ago
 
 ---
 
 **[The $20K Humanoid Robot That Can’t Fold Your Laundry (Yet)...](https://www.reddit.com/r/robotics/comments/1q9vro9/the_20k_humanoid_robot_that_cant_fold_your/)**
 
-🔗 [cvisiona.com](https://cvisiona.com/the-20k-humanoid-robot-that-cant-fold-your-laundry-yet/) • 38m ago
+🔗 [cvisiona.com](https://cvisiona.com/the-20k-humanoid-robot-that-cant-fold-your-laundry-yet/) • 1h ago
 
 ---
 
 **[CES 2026 Closes With Robots, China, And AI Everywhere](https://www.reddit.com/r/robotics/comments/1q9uuou/ces_2026_closes_with_robots_china_and_ai/)**
 
-🔗 [forbes.com](https://www.forbes.com/sites/charliefink/2026/01/10/ces-2026-closes-with-robots-china-and-ai-everywhere/) • 1h ago
+🔗 [forbes.com](https://www.forbes.com/sites/charliefink/2026/01/10/ces-2026-closes-with-robots-china-and-ai-everywhere/) • 2h ago
 
 ---
 
@@ -128,7 +128,7 @@ TechCrunch • 1d ago
 
 Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
-The Verge • 19h ago
+The Verge • 20h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNBC • 1d ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -216,7 +216,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 6K • 👍 353 • 💬 29 • ⏱️ 9:28 • 15h ago
+👁️ 6K • 👍 353 • 💬 29 • ⏱️ 9:28 • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 44K • 👍 644 • 💬 98 • ⏱️ 10:48 • 19h ago
+👁️ 44K • 👍 644 • 💬 98 • ⏱️ 10:48 • 20h ago
 
 ---
 

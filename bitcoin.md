@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T10:45:39.161467+00:00'
+updated: '2026-01-11T11:18:17.470255+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 10:45 UTC  
+**Last Updated:** January 11, 2026 at 11:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 **[Not Scared](https://www.reddit.com/r/Bitcoin/comments/1q94wc1/not_scared/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -107,7 +107,7 @@ Hal Finney, a legendary cryptographer and one of the earliest supporters of BTC,
 
 https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking people if they would choose A) 200 Bitcoin B) $10million C) $10,000 week for life The commentary on Bitcoin still shows people don’t know what they’re talking about.
 
-17h ago
+18h ago
 
 ---
 
@@ -127,7 +127,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 **[Right?](https://www.reddit.com/r/Bitcoin/comments/1q93hq4/right/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -135,7 +135,7 @@ https://www.reddit.com/r/TheTeenagerPeople/s/V5q7tqqcah This is a post asking pe
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -143,7 +143,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Man, I am so stupid. I wish I would have done what Coinbase told me if I would only put in 200 a month every month since 2020 that would’ve been about $12,000. It would’ve been $50,000 now! I want to ask you guys are you guys doing that? That’s the best way to do a dollar cost averaging then trying to time the market should we wait for bitcoin to go down? I believe bitcoin can get to 300,000 one day what do you guys think?
 
-15h ago
+16h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 1d ago
 
 **[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 1d ago
 
 Bitcoin’s mining difficulty edged lower in the network’s first difficulty adjustment of 2026, offering a brief reprieve for miners after a year marked by intense competition and shrinking margins. Key Takeaways: Bitcoin mining difficulty dipped slightly in the first adjustment of 2026. Faster block times point to a difficulty increase ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 441 • ⏱️ 17:17 • 12h ago
+👁️ 17K • 👍 1K • 💬 441 • ⏱️ 17:17 • 13h ago
 
 ---
 
@@ -353,7 +353,7 @@ The new crypto rules coming this week? Could this change crypto forever? We have
 
 📺 Zach Humphries
 
-👁️ 1K • 👍 103 • 💬 75 • ⏱️ 5:41 • 18h ago
+👁️ 1K • 👍 103 • 💬 75 • ⏱️ 5:41 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 222 • 💬 41 • ⏱️ 8:12 • 4h ago
+👁️ 2K • 👍 222 • 💬 41 • ⏱️ 8:12 • 5h ago
 
 ---
 
@@ -403,7 +403,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 17K • 👍 1K • 💬 633 • ⏱️ 11:48 • 15h ago
+👁️ 17K • 👍 1K • 💬 633 • ⏱️ 11:48 • 16h ago
 
 ---
 
