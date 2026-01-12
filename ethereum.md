@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T04:52:31.482971+00:00'
+updated: '2026-01-12T05:30:25.204506+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 04:52 UTC  
+**Last Updated:** January 12, 2026 at 05:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 SharpLink Gaming recently deployed US$170 million worth of Ethereum to Consensys’ Linea layer-2 network under a multi-year, multi-layered yield strategy that combines native staking, restaking rewards and structured incentives within a qualified custodian framework. This move cements SharpLink as the world’s second-largest corporate Ether holder and highlights how on-chain treasury management is evolving toward institutional-grade DeFi structures. We’ll now examine how SharpLink’s focus on...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 4h ago
 
 Ethereum activity is hitting records, but ETH’s price is lagging. Layer 2 growth, lower fees, and long-term infrastructure strategy explain the disconnect—and what it means for investors.
 
-eToro • 3h ago
+eToro • 4h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView — Track All Markets • 1d ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 17h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -204,7 +204,7 @@ AMBCrypto • 17h ago
 
 Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
 
-Coinpedia Fintech News • 15h ago
+Coinpedia Fintech News • 16h ago
 
 ---
 
@@ -212,7 +212,7 @@ Coinpedia Fintech News • 15h ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -226,7 +226,7 @@ Decrypt • 3d ago
 
 **[Ethereum ETF Attracts Fresh Cash as Investors Lean Into Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-attracts-fresh-cash-as-investors-lean-into-volatility)**
 
-TipRanks • 18h ago
+TipRanks • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 204 • 💬 32 • ⏱️ 12:34 • 19h ago
+👁️ 3K • 👍 204 • 💬 32 • ⏱️ 12:34 • 20h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 255 • 👍 39 • 💬 2 • ⏱️ 4:37 • 36m ago
+👁️ 255 • 👍 39 • 💬 2 • ⏱️ 4:37 • 1h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 254 • 💬 131 • ⏱️ 14:54 • 8h ago
+👁️ 6K • 👍 254 • 💬 131 • ⏱️ 14:54 • 9h ago
 
 ---
 

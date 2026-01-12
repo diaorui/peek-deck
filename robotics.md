@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T04:52:31.486237+00:00'
+updated: '2026-01-12T05:30:25.207801+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 04:52 UTC  
+**Last Updated:** January 12, 2026 at 05:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
-16h ago
+17h ago
 
 ---
 
@@ -44,7 +44,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-17h ago
+18h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ This is a humanoid robot I’m building, think ima name him “Bing C Superfly�
 
 Im making a project with a gripper, and im using a servo to move the gears to squeeze the gripper. My question is how do i get continuous squeezing force on the gripped object, without having the servo in a continuous stall? Im thinking to like check the current, and if its at stall current, turn off the servo then like turn it on and off every couple ms or something, like flickering the power. But would that be bad for the servo? Does anyone know how to do this?
 
-1h ago
+2h ago
 
 ---
 
@@ -82,7 +82,7 @@ Im making a project with a gripper, and im using a servo to move the gears to sq
 
 Given the rise of world models and multi modal action agents, what do you guys think about the future of action-labeled gameplay data? Can it be a good baseline in the training pipeline before RL?
 
-5h ago
+6h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi all, currently working on a bionic hand project. The project itself is relati
 
 Hi everyone, I’m working on a wall-climbing painting robot (think vertical surfaces, not floor navigation). The robot is given the wall dimensions and a start pose, then follows a planned path to paint the wall. I’m currently trying to decide whether adding a camera + computer vision is actually worth it, or if it will overcomplicate the system. The main things I need (now and in future versions) are: Accurate measurement of how much the robot moved (distance + rotation) Localization on the wall (x, y, heading) without drift Detecting obstacles/boundaries like windows or “do not paint” areas (not front obstacles, but areas below/around) Judging paint quality (missed spots, uneven coverage, streaks) I originally tried ESP32 with a camera, but image quality and reliability were very poor. I’m now considering: Encoders + IMU for motion Possibly adding a camera (optical flow / simple vision) Using something like a Raspberry Pi Zero 2 W + Pi Camera as a companion computer My concerns: Is a camera really necessary for these tasks, or can I reasonably avoid it? Will computer vision be too computationally heavy / expensive for a small robot?(basic computer version algorithms not CNN) Is Pi Zero 2 W good choice ? and will its camera quality be realistically capable for lightweight CV (optical flow, AprilTags, simple inspection), or is that pushing it too far? Has anyone built something similar or have experience or advice in this part I’m intentionally trying to avoid heavy deep-learning solutions and keep things lightweight and robust. Any real-world experience, advice, or “I tried this and it failed/succeeded” stories would be extremely helpful. Thanks!
 
-6h ago
+7h ago
 
 ---
 
@@ -150,7 +150,7 @@ Seeking Alpha • 1d ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -222,7 +222,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 64K • 👍 865 • 💬 208 • ⏱️ 11:46 • 12h ago
+👁️ 64K • 👍 865 • 💬 208 • ⏱️ 11:46 • 13h ago
 
 ---
 

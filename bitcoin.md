@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T04:52:31.476936+00:00'
+updated: '2026-01-12T05:30:25.198491+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 04:52 UTC  
+**Last Updated:** January 12, 2026 at 05:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 7h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 8h ago
 
 ---
 
@@ -95,7 +95,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-11h ago
+12h ago
 
 ---
 
@@ -109,13 +109,13 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-4h ago
+5h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-8h ago
+9h ago
 
 ---
 
@@ -131,13 +131,13 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
 
-3h ago
+4h ago
 
 ---
 
 **[Could very well be my finest purchase](https://www.reddit.com/r/Bitcoin/comments/1qadw0k/could_very_well_be_my_finest_purchase/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -145,7 +145,7 @@ The current BTC setup is showing a very familiar structure: • ​Similar break
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-15m ago
+52m ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 13h ago
+KITCO • 14h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Motley Fool • 1h ago
 
 Bitcoin held near $92,000 early Monday as Asian equities opened slightly higher and traders kept one eye on US inflation data this week, another on Washington’s tariff fight and the Federal Reserve’s growing political drama.In China and Hong Kong, the tone stayed steady. Shanghai rose 0.24%, the SZSE Component climbed ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1h ago
 
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-Bitbo • 21h ago
+Bitbo • 22h ago
 
 ---
 
@@ -213,7 +213,7 @@ CoinDesk • 2d ago
 
 According to TradingView data, big holders on Bitfinex have been trimming long positions after a late-December peak of 73,000 BTC. The move follows a broader drop in whale holdings of roughly 220,000 BTC during 2025, a change that has analysts and traders parsing what comes next.Price action has be…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 24K • 👍 1K • 💬 436 • ⏱️ 1:01:22 • 14h ago
+👁️ 24K • 👍 1K • 💬 436 • ⏱️ 1:01:22 • 15h ago
 
 ---
 

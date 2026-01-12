@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T04:52:31.468486+00:00'
+updated: '2026-01-12T05:30:25.190070+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 04:52 UTC  
+**Last Updated:** January 12, 2026 at 05:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 5h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 4h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-44m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,7 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 For you data/sports/AI junkies https://www.twitch.tv/datasumo incredible amount of data, use of AI, + sumo! January tournament started yesterday.
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 X has restricted Grok’s image generation feature to paid subscribers after global backlash over deepfake and explicit AI images.
 
-🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 1d ago
+🔗 [techputs](https://techputs.com/x-restricts-groks-image-generation-paid-users/) • 2d ago
 
 ---
 
@@ -121,7 +121,7 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 **[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcMnX9dhbiEoCoFdW4u2yvdB6X9xv1Frmz45Y6qsEg-tnp5sFDX1gQL&gaa_ts=69648178&gaa_sig=DIOy0kgRG1ZtXYM4a5dBM4OBCcrKgIT6Q-R56h9j4nbLCD6FXak12XUEQ0U-gAF_8WGUbZwMVlnBoKXvRHGnuQ%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Forbes • 1h ago
 
 **[TSMC Q4 profit poised to soar 27% as AI demand drives growth](https://www.reuters.com/world/china/tsmc-q4-profit-poised-soar-27-ai-demand-drives-growth-2026-01-12/)**
 
-Reuters • 9m ago
+Reuters • 47m ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 2d ago
 
 **[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
 
-The Hill • 11h ago
+The Hill • 12h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Atlantic • 2d ago
 
 Anthropic launches Claude for Healthcare, expanding AI tools for clinicians, insurers, and patients.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ Business Insider • 6h ago
 
 Trump administration's global influence strategy runs through the AI supply chain.
 
-Gizmodo • 6h ago
+Gizmodo • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ Gizmodo • 6h ago
 
 The stocks of Broadcom and AMD could have higher upside than Nvidia in the coming years.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 7h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 727 • 💬 902 • 18h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 727 • 💬 902 • 19h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -289,7 +289,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 1K • 👍 147 • 💬 42 • ⏱️ 24:00 • 9h ago
+👁️ 1K • 👍 147 • 💬 42 • ⏱️ 24:00 • 10h ago
 
 ---
 
@@ -369,7 +369,7 @@ For original short-selling research and much more check out our website: https:/
 
 📺 Wall Street Millennial
 
-👁️ 59K • 👍 3K • 💬 622 • ⏱️ 17:02 • 6h ago
+👁️ 59K • 👍 3K • 💬 622 • ⏱️ 17:02 • 7h ago
 
 ---
 
@@ -637,7 +637,7 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.0k • 🔱 1.0k • 47s ago
+⭐ 8.0k • 🔱 1.0k • 38m ago
 
 ---
 
@@ -667,7 +667,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 225 • 15h ago
+⭐ 2.0k • 🔱 225 • 16h ago
 
 ---
 
@@ -677,7 +677,7 @@ vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 123 • 22m ago
+⭐ 1.4k • 🔱 123 • 1h ago
 
 ---
 
@@ -707,7 +707,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 35m ago
+⭐ 1.2k • 🔱 143 • 1h ago
 
 ---
 
