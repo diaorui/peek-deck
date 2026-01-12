@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T08:34:47.309770+00:00'
+updated: '2026-01-12T09:34:36.601963+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 08:34 UTC  
+**Last Updated:** January 12, 2026 at 09:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,156.07
+### $3,116.81
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -4.7%  
-**30d:** +2.4%  
-**90d:** -21.3%  
-**1y:** +0.2%  
+**24h:** +0.4%  
+**7d:** -5.2%  
+**30d:** +1.9%  
+**90d:** -21.8%  
+**1y:** -0.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $380.28B
+**Market Cap:** $375.76B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.3%
+-37.0%
 
 **All-Time Low:** $0.43
-+727427.2%
++720018.1%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
+
+---
+
+**[Ethereum finally made sense to me once I understood the fundamentals behind it](https://www.reddit.com/r/ethereum/comments/1qaqfc2/ethereum_finally_made_sense_to_me_once_i/)**
+
+When I first tried to understand Ethereum, I kept running into the same problem: discussions jumped straight into gas fees, scaling solutions, or price predictions without clearly explaining how everything fit together. What helped most was stepping back and focusing on the basics - what Ethereum is designed to do, how smart contracts actually work, why decentralization matters, and what tradeoffs exist compared to Bitcoin and other chains. Once I understood the underlying system, the debates around Layer 2s, fees, and upgrades made a lot more sense. A book that really helped me build that foundation was Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money). Despite the title, it explains Ethereum clearly alongside Bitcoin, focusing on how blockchain technology works rather than hype or speculation. It’s especially useful if you feel like you’re piecing knowledge together from random posts and threads. If you’re curious about Ethereum but feel overwhelmed by jargon or conflicting opinions, I genuinely recommend starting with this book. Understanding the fundamentals first made everything else - including criticism - much easier to evaluate. Just sharing what helped me move from confusion to clarity.
+
+10m ago
 
 ---
 
@@ -112,7 +120,7 @@ Vitalik Buterin often compares Ethereum to Linux or BitTorrent: open systems tha
 
 I just published a new article on Medium. This started as personal notes while learning YUL and slowly turned into a proper guide. Part 1 focuses on stack, memory, and calldata. If you’re curious about YUL, give it a shot.
 
-🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 1d ago
+🔗 [medium.com](https://medium.com/coinmonks/yul-soliditys-low-level-language-without-the-tears-part-1-stack-memory-and-calldata-5b06369ffa3f) • 2d ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereal news weekly #6 | BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10](https://www.reddit.com/r/ethereum/comments/1q87awd/ethereal_news_weekly_6_bpo2_upgrade_increased/)**
-
-BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 19h ago
 
 EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -172,15 +172,15 @@ CoinDesk • 19h ago
 
 An early Ethereum investor exits entirely with $274 million in profit, signaling market uncertainty amid institutional sell pressure.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
+**[A hidden "yield war" has begun in Ethereum ETFs, forcing issuers to finally pay you for holding](https://cryptoslate.com/eth-etfs-just-paid-a-dividend-grayscales-9-4m-staking-test/)**
 
-Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
+Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
 
-CryptoSlate • 1d ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView — Track All Markets • 1d ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Motley Fool • 22h ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 21h ago
+AMBCrypto • 22h ago
 
 ---
 
@@ -226,7 +226,7 @@ Coinpedia Fintech News • 2d ago
 
 **[Ethereum ETF Attracts Fresh Cash as Investors Lean Into Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-attracts-fresh-cash-as-investors-lean-into-volatility)**
 
-TipRanks • 22h ago
+TipRanks • 23h ago
 
 ---
 
@@ -234,23 +234,23 @@ TipRanks • 22h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
-
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
-
-📺 Digital Asset News
-
-👁️ 14K • 👍 774 • 💬 85 • ⏱️ 24:05 • 1d ago
-
----
-
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=4UGdGboD9X4)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 758 • 👍 94 • 💬 7 • ⏱️ 4:37 • 4h ago
+👁️ 1K • 👍 126 • 💬 8 • ⏱️ 4:37 • 5h ago
+
+---
+
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+
+📺 Digital Asset News
+
+👁️ 14K • 👍 778 • 💬 86 • ⏱️ 24:05 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 211 • 💬 52 • ⏱️ 12:34 • 23h ago
+👁️ 3K • 👍 217 • 💬 35 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 252 • 💬 578 • ⏱️ 13:48 • 1d ago
+👁️ 11K • 👍 255 • 💬 613 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 265 • 💬 130 • ⏱️ 14:54 • 12h ago
+👁️ 7K • 👍 277 • 💬 130 • ⏱️ 14:54 • 13h ago
 
 ---
 
@@ -290,7 +290,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 28K • 👍 924 • 💬 188 • ⏱️ 19:42 • 1d ago
+👁️ 29K • 👍 930 • 💬 196 • ⏱️ 19:42 • 1d ago
 
 ---
 
@@ -300,7 +300,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 603 • 👍 25 • 💬 11 • ⏱️ 5:22 • 18h ago
+👁️ 621 • 👍 25 • 💬 10 • ⏱️ 5:22 • 19h ago
+
+---
+
+**[ETHEREUM PODE SER A MAIOR CRIPTO DE 2026](https://www.youtube.com/watch?v=lWHnp0qQ6Is)**
+
+Crie sua conta na corretora BingX: https://bingx.com/pt-br/partner/DougTadeu Instagram: ...
+
+📺 Douglas Tadeu
+
+👁️ 3K • 👍 459 • 💬 28 • ⏱️ 17:07 • 10h ago
+
+---
+
+**[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
+
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+
+📺 Stock Moe
+
+👁️ 16K • 👍 921 • 💬 96 • ⏱️ 12:30 • 2d ago
 
 ---
 
@@ -310,27 +330,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 465 • 💬 60 • ⏱️ 9:05 • 3h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YTFOJvmO4tk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 140 • 💬 10 • ⏱️ 5:19 • 16h ago
-
----
-
-**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 881 • 👍 46 • 💬 63 • ⏱️ 6:18 • 1d ago
+👁️ 3K • 👍 612 • 💬 102 • ⏱️ 9:05 • 4h ago
 
 ---
 

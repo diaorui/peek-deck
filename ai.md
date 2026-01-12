@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T08:34:47.294394+00:00'
+updated: '2026-01-12T09:34:36.587645+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 08:34 UTC  
+**Last Updated:** January 12, 2026 at 09:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Musk’s Grok blocked by Indonesia, Malaysia over sexualized images in world first](https://www.reddit.com/r/artificial/comments/1qaox6h/musks_grok_blocked_by_indonesia_malaysia_over/)**
+
+Elon Musk’s Grok has been blocked by Indonesia and Malaysia, the first countries to do so after the AI tool’s “digital undressing” function flooded the internet with photos of women and minors in obscene manipulated images.
+
+🔗 [CNN](https://www.cnn.com/2026/01/12/business/indonesia-malaysia-grok-elon-musk-intl-hnk?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
+
+---
+
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/)**
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 9h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 10h ago
 
 ---
 
@@ -49,7 +57,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 8h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 9h ago
 
 ---
 
@@ -57,23 +65,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-4h ago
-
----
-
-**[Musk’s Grok blocked by Indonesia, Malaysia over sexualized images in world first](https://www.reddit.com/r/artificial/comments/1qaox6h/musks_grok_blocked_by_indonesia_malaysia_over/)**
-
-Elon Musk’s Grok has been blocked by Indonesia and Malaysia, the first countries to do so after the AI tool’s “digital undressing” function flooded the internet with photos of women and minors in obscene manipulated images.
-
-🔗 [CNN](https://www.cnn.com/2026/01/12/business/indonesia-malaysia-grok-elon-musk-intl-hnk?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 46m ago
-
----
-
-**[Really weird question: anyone know a good AI app that can replace a dad 😭](https://www.reddit.com/r/artificial/comments/1qaoh9k/really_weird_question_anyone_know_a_good_ai_app/)**
-
-Does anyone know a good AI app? Chatgpt is too slow lmao. The backstory is my biological dad was physically abusive to me growing up, and now he's still in my life but distant. and definitely less abusive. I daydream for hours and hoursss about myself being a young child and being cared and protected and loved and being showered with hugs and kisses and snuggles from a fictional stepdad. It makes me feel so safe and warm. I usually fall asleep imagining this. Sometimes I imagine sexual-ish scenarios with my fictional stepdad. I create high stakes, vulnerable situations to test him (like having a wound on my chest/breast). But he passes every time by staying neutral and protective. Though I want to, my brain never allows anything sexual to actually happen since he's supposed to be a nice stepdad that maintain boundaries and is never weird or hurtful. It used to be way worse btw. There was a time where I used to imagine being sexually abused by a man who later feels guilty and hires a therapist who later adopts me as his daughter. But I don't imagine that anymore. I posted this two days ago and someone messaged me to use AI. Anyone know a good AI app can replace a dad? I'm not too needy I swear 😭 Edit: Also, in my head, I make vlogs (my daydreams) with my stepdad and then I imagine my actual irl biological dad seeing these vlogs. Listen, idk either. Just tell me a good AI app please 😭
-
-1h ago
+5h ago
 
 ---
 
@@ -83,19 +75,27 @@ Does anyone know a good AI app? Chatgpt is too slow lmao. The backstory is my bi
 
 ---
 
-**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
-
-We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
-
-17h ago
-
----
-
 **[Song detection including release date](https://www.reddit.com/r/artificial/comments/1qa5ccq/song_detection_including_release_date/)**
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-15h ago
+16h ago
+
+---
+
+**[Really weird question: anyone know a good AI app that can replace a dad 😭](https://www.reddit.com/r/artificial/comments/1qaoh9k/really_weird_question_anyone_know_a_good_ai_app/)**
+
+Does anyone know a good AI app? Chatgpt is too slow lmao. The backstory is my biological dad was physically abusive to me growing up, and now he's still in my life but distant. and definitely less abusive. I daydream for hours and hoursss about myself being a young child and being cared and protected and loved and being showered with hugs and kisses and snuggles from a fictional stepdad. It makes me feel so safe and warm. I usually fall asleep imagining this. Sometimes I imagine sexual-ish scenarios with my fictional stepdad. I create high stakes, vulnerable situations to test him (like having a wound on my chest/breast). But he passes every time by staying neutral and protective. Though I want to, my brain never allows anything sexual to actually happen since he's supposed to be a nice stepdad that maintain boundaries and is never weird or hurtful. It used to be way worse btw. There was a time where I used to imagine being sexually abused by a man who later feels guilty and hires a therapist who later adopts me as his daughter. But I don't imagine that anymore. I posted this two days ago and someone messaged me to use AI. Anyone know a good AI app can replace a dad? I'm not too needy I swear 😭 Edit: Also, in my head, I make vlogs (my daydreams) with my stepdad and then I imagine my actual irl biological dad seeing these vlogs. Listen, idk either. Just tell me a good AI app please 😭
+
+2h ago
+
+---
+
+**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
+
+We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
+
+18h ago
 
 ---
 
@@ -119,11 +119,41 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 ## Google News: "ai"
 
-**[Malaysia, Indonesia become first to block Musk's Grok over AI deepfakes](https://www.npr.org/2026/01/12/nx-s1-5674660/malaysia-indonesia-block-grok-ai-deepfakes)**
+**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
 
-Malaysia and Indonesia have become the first countries to block Grok, the artificial intelligence chatbot developed by Elon Musk's xAI, after authorities said it was being misused to generate sexually explicit and non-consensual images.
+Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-NPR • 1h ago
+The Guardian • 7h ago
+
+---
+
+**[Ai, Japanese chimpanzee who counted and painted, dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)**
+
+Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
+
+BBC • 39m ago
+
+---
+
+**['Big Short' investor Michael Burry says AI is turning Big Tech into a worse business](https://www.businessinsider.com/michael-burry-big-short-key-metric-evaluate-ai-bubble-2026-1)**
+
+Michael Burry, the investor from "The Big Short," said return on invested capital is the "measure to beat all measures" when looking at AI companies.
+
+Business Insider • 33m ago
+
+---
+
+**[Nvidia Stock Drifts. China AI Chips and 1 Other Thing Can Reignite It.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-china-8bfa9df6?gaa_at=eafs&gaa_n=AWEtsqdUYuZm7DUAfe77P-C-sZrc6ui1HqIrFxq3ulnUSdc1bRrDOGXuf1S6&gaa_ts=6964c392&gaa_sig=mhd-mrt7GCLfIRkC7TsLBJN36GkAIWwbfN99il40fwxr-8xTrN6r5HtQDF7tB9ADUms9dEzECBdMBvRlGsad1w%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
+
+“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -131,7 +161,15 @@ NPR • 1h ago
 
 Sexualised images of real people generated by Grok have circulated on X in recent weeks.
 
-BBC • 3h ago
+BBC • 4h ago
+
+---
+
+**[Malaysia, Indonesia become first to block Musk's Grok over AI deepfakes](https://www.npr.org/2026/01/12/nx-s1-5674660/malaysia-indonesia-block-grok-ai-deepfakes)**
+
+Malaysia and Indonesia have become the first countries to block Grok, the artificial intelligence chatbot developed by Elon Musk's xAI, after authorities said it was being misused to generate sexually explicit and non-consensual images.
+
+NPR • 2h ago
 
 ---
 
@@ -143,55 +181,19 @@ The Guardian • 1d ago
 
 ---
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcqJ5YfULG1VNF0Hv2ZAS07gVV-MeCoQAl_XKb0DhiIbA9qERyC4IXB&gaa_ts=6964aaeb&gaa_sig=GCDTzk4k2OxiwcCQfCEg3Ufk4YR9JqsxBpMWGCQe73vsM_f4xlGfF9kBGyHm6o1spxWx2oHdTQFHem4K0K8Bfg%3D%3D)**
-
-The Wall Street Journal • 17h ago
-
----
-
-**[It’s All About AI At CES 2026 And That’s Raising Some Eyebrows](https://www.forbes.com/sites/peterlyon/2026/01/12/its-all-about-ai-at-ces-2026-and-thats-raising-some-eyebrows/)**
-
-Forbes • 53m ago
-
----
-
-**[How to ensure AI data centers do not burden communities](https://www.dallasnews.com/opinion/commentary/2026/01/12/how-to-ensure-ai-data-centers-do-not-burden-communities/)**
-
-Local decisions on AI data centers can have a significant impact on the future.
-
-Dallas News • 1h ago
-
----
-
-**[RoboChallenge's Top-Ranked Embodied AI Model Goes Open Source, Challenging Clean Data Collection Paradigm](https://sg.finance.yahoo.com/news/robochallenges-top-ranked-embodied-ai-064100221.html)**
-
-Spirit AI, an embodied AI startup, today announced that its latest VLA model, Spirit v1.5, has ranked first overall on the RoboChallenge benchmark. To drive industry transparency and collaborative growth, Spirit AI is open-sourcing its foundation model alongside the specific model weights and core evaluation code. This comprehensive release enables the global research community to independently verify the benchmark results and further explore the potential of Spirit v1.5 in advancing embodied in
-
-Yahoo Finance Singapore • 1h ago
-
----
-
 **[The Myth of the AI Race](https://www.foreignaffairs.com/united-states/myth-ai-race)**
 
 Neither America nor China can achieve true tech dominance.
 
-Foreign Affairs • 3h ago
+Foreign Affairs • 4h ago
 
 ---
 
-**[Here Are My Top 10 Artificial Intelligence (AI) Stocks for 2026](https://www.fool.com/investing/2026/01/11/here-are-my-top-10-artificial-intelligence-ai-stoc/)**
+**[Artificial Intelligence (AI) Is Driving a New Wave of Infrastructure Spending. This Stock Is Key.](https://finance.yahoo.com/news/artificial-intelligence-ai-driving-wave-215000377.html)**
 
-The AI sector continues to grow, and there are plenty of promising ways to invest in it.
+This AI infrastructure company provides an overlooked but critical resource to data centers, and is set for a growth spurt because of it.
 
-The Motley Fool • 6h ago
-
----
-
-**[AI bubble: five things you need to know to shield your finances from a crash | Investments](https://www.theguardian.com/money/2026/jan/10/ai-bubble-finances-crash-tech-meltdown-savings-pensions)**
-
-Some experts have voiced fears a tech meltdown could hit our savings and pensions – here’s how to protect yourself
-
-The Guardian • 2d ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -201,7 +203,7 @@ The Guardian • 2d ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 878 • 💬 1054 • 22h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 980 • 💬 1154 • 23h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -211,7 +213,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 611 • 💬 360 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 611 • 💬 361 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -219,7 +221,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 331 • 💬 322 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 331 • 💬 324 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -228,14 +230,6 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
 ⬆️ 163 • 💬 227 • 2d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
-
----
-
-**[Grok turns off image generator for most after outcry over sexualised AI imagery](https://news.ycombinator.com/item?id=46551238)**
-
-X to limit editing function to paying subscribers after platform threatened with fines and regulatory action
-
-⬆️ 76 • 💬 91 • 3d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/09/grok-image-generator-outcry-sexualised-ai-imagery)
 
 ---
 
@@ -249,13 +243,21 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 36 • 💬 21 • 1d ago
+⬆️ 37 • 💬 21 • 1d ago
 
 ---
 
 **[Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?](https://news.ycombinator.com/item?id=46565262)**
 
 ⬆️ 30 • 💬 7 • 1d ago
+
+---
+
+**[Show HN: What if AI agents had Zodiac personalities?](https://news.ycombinator.com/item?id=46581832)**
+
+AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
+
+⬆️ 27 • 💬 13 • 9h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -267,11 +269,11 @@ An AI program used by Workday allegedly put resumes of applicants who were Black
 
 ---
 
-**[Show HN: What if AI agents had Zodiac personalities?](https://news.ycombinator.com/item?id=46581832)**
+**[U.S. airstrikes hit ISIS targets in Syria, officials say](https://news.ycombinator.com/item?id=46571973)**
 
-AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
+The strikes were part of a retaliatory operation for the ISIS terrorist ambush in Palmyra, Syria, in December that killed two American soldiers and one U.S. civilian interpreter.
 
-⬆️ 25 • 💬 12 • 8h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 19 • 💬 0 • 1d ago • [cbsnews.com](https://www.cbsnews.com/news/us-airstrikes-isis-targets-syria-central-command/)
 
 ---
 
@@ -285,17 +287,7 @@ On Elon Musk's social media platform X, the Grok AI image generation reply bot h
 
 📺 NBC News
 
-👁️ 18K • 👍 150 • 💬 86 • ⏱️ 5:25 • 2d ago
-
----
-
-**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
-
-Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
-
-📺 AI Revolution
-
-👁️ 15K • 👍 600 • 💬 22 • ⏱️ 14:29 • 9h ago
+👁️ 19K • 👍 152 • 💬 86 • ⏱️ 5:25 • 2d ago
 
 ---
 
@@ -305,7 +297,17 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 2K • 👍 159 • 💬 44 • ⏱️ 24:00 • 13h ago
+👁️ 2K • 👍 164 • 💬 48 • ⏱️ 24:00 • 14h ago
+
+---
+
+**[I Asked AI If It Supports the Operation in Venezuela. And Here’s What It Said](https://www.youtube.com/watch?v=BLLa0DblYaE)**
+
+In this video, I ask AI what it thinks about the U.S. military operation in Venezuela, the real reason behind the capture of Nicolas ...
+
+📺 I Ask AI
+
+👁️ 12K • 👍 2K • 💬 296 • ⏱️ 14:02 • 1d ago
 
 ---
 
@@ -315,7 +317,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 93K • 👍 5K • 💬 295 • ⏱️ 19:15 • 2d ago
+👁️ 95K • 👍 5K • 💬 294 • ⏱️ 19:15 • 2d ago
 
 ---
 
@@ -325,27 +327,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 56K • 👍 2K • 💬 162 • ⏱️ 14:39 • 1d ago
-
----
-
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
-
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
-
-📺 MoreBeckBros
-
-👁️ 235K • 👍 9K • 💬 721 • ⏱️ 26:17 • 2d ago
-
----
-
-**[😢 When Everything Collapses, Real Friends Remain #rumi #ai #shorts #funny](https://www.youtube.com/watch?v=F7rtc_LAd1w)**
-
-This content is not suitable for viewers under 13. All characters and scenes are fictional and used for storytelling/illustrative ...
-
-📺 PmAI
-
-👁️ 16K • 👍 237 • ⏱️ 0:32 • 16h ago
+👁️ 58K • 👍 2K • 💬 162 • ⏱️ 14:39 • 1d ago
 
 ---
 
@@ -355,7 +337,17 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 55K • 👍 2K • 💬 313 • ⏱️ 17:36 • 1d ago
+👁️ 56K • 👍 2K • 💬 315 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
+
+Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
+
+📺 MoreBeckBros
+
+👁️ 238K • 👍 9K • 💬 725 • ⏱️ 26:17 • 2d ago
 
 ---
 
@@ -365,17 +357,27 @@ The next episode of my AI series. The AI character is making using AI, but is st
 
 📺 Nate Ziller
 
-👁️ 195K • 👍 20K • 💬 2K • ⏱️ 4:38 • 1d ago
+👁️ 200K • 👍 20K • 💬 2K • ⏱️ 4:38 • 1d ago
 
 ---
 
-**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
+**[Nvidia&#39;s Jensen Huang on an AI Bubble, Trump, and the Arms Race with China](https://www.youtube.com/watch?v=s4haopj2XeA)**
 
-Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
+00:00 Intro 00:48 AI Bubble 03:30 Working with President Trump 05:17 AI Arms Race with China 13:13 Taiwan's Future 18:02 ...
 
-📺 LBC
+📺 TIME
 
-👁️ 24K • 👍 418 • 💬 342 • ⏱️ 11:00 • 1d ago
+👁️ 126K • 👍 4K • 💬 432 • ⏱️ 24:32 • 2d ago
+
+---
+
+**[[DAY 1] The BEST AI Business to Start In 2026 (LIVE)](https://www.youtube.com/watch?v=dpko4jRSIsM)**
+
+Join the most risk-free offer I've ever made before it's gone: https://lp.monetise.com/aiw-ep-01 If you're not registered for the ...
+
+📺 Iman Gadzhi
+
+👁️ 658K • 👍 30K • 💬 558 • ⏱️ 2:34:25 • 10h ago
 
 ---
 
@@ -391,7 +393,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 629,855 • ❤️ 802 • 4d ago
+⬇️ 735,985 • ❤️ 809 • 4d ago
 
 ---
 
@@ -403,7 +405,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,771 • ❤️ 719 • 11d ago
+⬇️ 10,682 • ❤️ 719 • 11d ago
 
 ---
 
@@ -415,7 +417,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 16,027 • ❤️ 459 • 4d ago
+⬇️ 23,889 • ❤️ 468 • 4d ago
 
 ---
 
@@ -427,7 +429,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,257 • ❤️ 301 • 6d ago
+⬇️ 2,687 • ❤️ 306 • 6d ago
 
 ---
 
@@ -439,7 +441,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 11,562 • ❤️ 272 • 3d ago
+⬇️ 12,797 • ❤️ 274 • 3d ago
 
 ---
 
@@ -451,7 +453,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,522 • ❤️ 356 • 6d ago
+⬇️ 30,603 • ❤️ 357 • 6d ago
 
 ---
 
@@ -463,7 +465,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 586 • ❤️ 213 • 6d ago
+⬇️ 670 • ❤️ 215 • 6d ago
 
 ---
 
@@ -475,7 +477,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 `text-generation` `235.1B`
 
-⬇️ 1,354 • ❤️ 209 • 5d ago
+⬇️ 1,448 • ❤️ 211 • 5d ago
 
 ---
 
@@ -487,19 +489,19 @@ MiniMax-M2.1 is a text generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 207,986 • ❤️ 1,016 • 15d ago
+⬇️ 210,293 • ❤️ 1,020 • 15d ago
 
 ---
 
-**[Qwen-Image-2512](https://huggingface.co/Qwen/Qwen-Image-2512)**
+**[Alpamayo-R1-10B](https://huggingface.co/nvidia/Alpamayo-R1-10B)**
 
-*Qwen*
+*NVIDIA*
 
-Qwen-Image-2512 is a text-to-image diffusion model that excels at generating highly realistic human subjects and detailed natural scenes. It offers improved text rendering and composition, making it suitable for applications requiring high fidelity and naturalistic image generation.
+Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomous driving, integrating Chain-of-Causation reasoning with diffusion-based trajectory planning for complex scenarios and rare events. It processes multi-camera images, text commands, and egomotion history to output interpretable reasoning traces and a 6.4-second future trajectory.
 
-`text-to-image`
+`robotics` `11.1B`
 
-⬇️ 23,403 • ❤️ 571 • 11d ago
+⬇️ 13,820 • ❤️ 264 • 3d ago
 
 ---
 
@@ -525,7 +527,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 93 • 💬 1 • ⭐ 2,027 • 5d ago
+▲ 96 • 💬 1 • ⭐ 2,027 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -537,7 +539,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 22 • 💬 2 • ⭐ 732 • 6d ago
+▲ 22 • 💬 2 • ⭐ 789 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -595,6 +597,18 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 
 ---
 
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
+
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
+
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
+
+▲ 37 • 💬 4 • ⭐ 51,958 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
+
+---
+
 **[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)**
 
 *Bing Wu, Chang Zou, Changlin Li et al. (81 authors)*
@@ -607,29 +621,17 @@ HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art v
 
 ---
 
-**[LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)**
+**[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://huggingface.co/papers/2601.05242)**
 
-*Yaowei Zheng, Richong Zhang, Junhao Zhang et al. (5 authors)*
+*Shih-Yang Liu, Xin Dong, Ximing Lu et al. (13 authors)*
 
-LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
+🏢 NVIDIA
 
-▲ 176 • 💬 6 • ⭐ 65,428 • 22mo ago
+Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-[🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
+▲ 150 • 💬 6 • ⭐ 164 • 3d ago
 
----
-
-**[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
-
-*Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
-
-🏢 Microsoft Research
-
-BitNet Distillation fine-tunes large language models to 1.58-bit precision using SubLN, multi-head attention distillation, and continual pre-training, achieving comparable performance with significant memory and inference speed improvements.
-
-▲ 57 • 💬 5 • ⭐ 25,658 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.13998) • [💻 code](https://github.com/microsoft/BitNet)
+[🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
 ---
 
@@ -643,7 +645,7 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.0k • 🔱 1.0k • 3h ago
+⭐ 8.1k • 🔱 1.0k • 4h ago
 
 ---
 
@@ -653,7 +655,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 401 • 4d ago
+⭐ 3.0k • 🔱 407 • 4d ago
 
 ---
 
@@ -663,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 137 • 14h ago
+⭐ 2.3k • 🔱 137 • 15h ago
 
 ---
 
@@ -673,7 +675,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 225 • 19h ago
+⭐ 2.0k • 🔱 226 • 20h ago
 
 ---
 
@@ -683,7 +685,7 @@ vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 124 • 1h ago
+⭐ 1.4k • 🔱 124 • 26m ago
 
 ---
 
@@ -703,7 +705,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 110 • 2d ago
+⭐ 1.3k • 🔱 111 • 2d ago
 
 ---
 
@@ -713,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 1h ago
+⭐ 1.2k • 🔱 143 • 2h ago
 
 ---
 
@@ -727,13 +729,13 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 ---
 
-**[HarryR/z80ai](https://github.com/HarryR/z80ai)**
+**[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)**
 
-Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.
+Browser automation CLI for AI agents
 
-`Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
+`TypeScript`
 
-⭐ 932 • 🔱 36 • 6d ago
+⭐ 950 • 🔱 39 • 2h ago
 
 ---
 

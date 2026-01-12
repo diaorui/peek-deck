@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T08:34:47.303793+00:00'
+updated: '2026-01-12T09:34:36.596036+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 08:34 UTC  
+**Last Updated:** January 12, 2026 at 09:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -2.3%  
-**30d:** +3.7%  
-**90d:** -17.6%  
-**1y:** -3.0%  
+**24h:** +0.4%  
+**7d:** -3.0%  
+**30d:** +3.1%  
+**90d:** -18.1%  
+**1y:** -3.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1830.55B
+**Market Cap:** $1811.41B
 Rank #1
 
-**Circulating Supply:** 19,974,790 BTC
+**Circulating Supply:** 19,974,821 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.3%
+-28.0%
 
 **All-Time Low:** $67.81
-+135043.8%
++133785.9%
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-8h ago
-
----
-
-**[Banks Quietly Accumulate Bitcoin While Retail Panic Sells](https://www.reddit.com/r/Bitcoin/comments/1qaazw5/banks_quietly_accumulate_bitcoin_while_retail/)**
-
-CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
-
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 11h ago
+9h ago
 
 ---
 
@@ -95,7 +87,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-5h ago
+6h ago
 
 ---
 
@@ -103,25 +95,33 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
+4h ago
+
+---
+
+**[Banks Quietly Accumulate Bitcoin While Retail Panic Sells](https://www.reddit.com/r/Bitcoin/comments/1qaazw5/banks_quietly_accumulate_bitcoin_while_retail/)**
+
+CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
+
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 12h ago
+
+---
+
+**[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
+
 3h ago
 
 ---
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-8h ago
-
----
-
-**[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
-
-2h ago
+9h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -129,7 +129,7 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ The current BTC setup is showing a very familiar structure: • ​Similar break
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-12h ago
+13h ago
 
 ---
 
@@ -153,11 +153,57 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 ## Google News: "bitcoin"
 
+**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
+
+China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
+
+Yahoo Finance • 6h ago
+
+---
+
+**[Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates](https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates)**
+
+Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.
+
+CoinDesk • 5h ago
+
+---
+
+**[Bitcoin Price Pops. Markets Treat Cryptos as Safe Play Amid Fed Powell Inquiry.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-0436df60?gaa_at=eafs&gaa_n=AWEtsqdrZlWtHS1d8zyrx5EMCTf7zWiWA-OU7-D0FqqpcQpCPNspI12-7aLh&gaa_ts=6964c393&gaa_sig=K8fCIhVe-VTvysPAByGwvxLQrM3z1YJwk0fmsv16wEBY-O2L_3ayw97lRo1x8QGzXl45AGKHH-x7VzeMUy_KwA%3D%3D)**
+
+Barron's • 46m ago
+
+---
+
+**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
+
+Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Will the Bitcoin price benefit from the ‘debasement trade’ in 2026?](https://www.dlnews.com/articles/markets/will-bitcoin-be-used-in-debasement-trade-2026/)**
+
+The so-called debasement trade — a way to hedge against currency debasement — was hot last year.  But while Bitcoin hit new highs in 2025, it finished the year on a low. Experts think Bitcoin still has a place in the trade.
+
+dlnews.com • 1h ago
+
+---
+
+**[Swedish heath-tech company H100 moves to acquire Swiss bitcoin treasury firm Future Holdings](https://www.coindesk.com/markets/2026/01/12/bitcoin-treasury-firms-linked-to-adam-back-sign-preliminary-agreement-to-combine)**
+
+The proposed deal would take Sweden-based H100 into Switzerland and deepen its institutional bitcoin treasury strategy.
+
+CoinDesk • 10m ago
+
+---
+
 **[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 17h ago
+KITCO • 18h ago
 
 ---
 
@@ -169,63 +215,17 @@ CNBC • 1d ago
 
 ---
 
-**[Wells Fargo’s Bitcoin Bet and New Long‑Dated Debt Could Be A Game Changer For WFC](https://ca.finance.yahoo.com/news/wells-fargo-bitcoin-bet-long-070515660.html)**
-
-Earlier this month Wells Fargo & Company issued a series of fixed-rate, callable senior unsecured notes maturing between 2030 and 2041, alongside news that it had recently accumulated substantial amounts of Bitcoin amid a period of uncertainty in cryptocurrency markets. This combination of fresh long-dated funding and a sizeable Bitcoin position marks an unusual move for a major U.S. bank, highlighting Wells Fargo’s willingness to use both traditional bonds and digital assets in its balance...
-
-Yahoo! Finance Canada • 1h ago
-
----
-
-**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
-
-The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
-
-U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin Maintains Mid-$90k Levels: Possible Price Targets — Analyst](https://www.tradingview.com/news/newsbtc:2c06452b8094b:0-bitcoin-maintains-mid-90k-levels-possible-price-targets-analyst/)**
-
-Bitcoin is presently trading around the $90,000 price mark after a recent failure to break past $94,000 price barrier. Notably, the move suggests hesitation from buyers near recent highs, but not yet a confirmed breakdown of positive price momentum. According to the popular market analyst with X us…
-
-TradingView — Track All Markets • 1d ago
-
----
-
 **[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
 
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
-The Motley Fool • 21h ago
-
----
-
-**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
-
-thestreet.com • 1d ago
+The Motley Fool • 22h ago
 
 ---
 
 **[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
 
 The Block • 3d ago
-
----
-
-**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://beincrypto.com/us-stole-chinese-scam-kings-15b-bitcoin/)**
-
-China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
-
-BeInCrypto • 5h ago
 
 ---
 
@@ -259,7 +259,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 2d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 3d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -293,19 +293,19 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ---
 
+**[US prosecutors launch criminal investigation into Federal Reserve chair](https://news.ycombinator.com/item?id=46585360)**
+
+Rolling coverage of the latest economic and financial news
+
+⬆️ 9 • 💬 1 • 1h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+
+---
+
 **[CNBC: Walmart to Accept Crypto](https://news.ycombinator.com/item?id=46503251)**
 
 According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
 
 ⬆️ 2 • 💬 0 • 6d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
-
----
-
-**[Token-Count-Based Batching: Faster, Cheaper Embedding Inference for Queries](https://news.ycombinator.com/item?id=46582200)**
-
-Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
-
-⬆️ 1 • 💬 0 • 7h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -319,7 +319,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 188 • 💬 92 • ⏱️ 7:14 • 10h ago
+👁️ 4K • 👍 196 • 💬 179 • ⏱️ 7:14 • 11h ago
 
 ---
 
@@ -329,27 +329,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 187 • ⏱️ 17:17 • 1d ago
-
----
-
-**[&quot;Crypto Crash Not Over in 2026&quot; | Billionaire Stanley Druckenmiller](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 27K • 👍 2K • 💬 165 • ⏱️ 8:37 • 10h ago
-
----
-
-**[Did You Know the First $10M Bitcoin Price Prediction Was 17 Years Ago??](https://www.youtube.com/watch?v=YVlXwZldm6c)**
-
-In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bitcoin could one day be worth $10 million per coin.
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 642 • 💬 106 • ⏱️ 18:06 • 7h ago
+👁️ 29K • 👍 2K • 💬 202 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -359,7 +339,37 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 10K • 👍 508 • 💬 285 • ⏱️ 3:25 • 2d ago
+👁️ 11K • 👍 509 • 💬 275 • ⏱️ 3:25 • 2d ago
+
+---
+
+**[&quot;Crypto Crash Not Over in 2026&quot; | Billionaire Stanley Druckenmiller](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 169 • ⏱️ 8:37 • 11h ago
+
+---
+
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
+
+Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 18K • 👍 2K • 💬 84 • ⏱️ 10:58 • 4h ago
+
+---
+
+**[Did You Know the First $10M Bitcoin Price Prediction Was 17 Years Ago??](https://www.youtube.com/watch?v=YVlXwZldm6c)**
+
+In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bitcoin could one day be worth $10 million per coin.
+
+📺 Simply Bitcoin
+
+👁️ 9K • 👍 710 • 💬 126 • ⏱️ 18:06 • 8h ago
 
 ---
 
@@ -369,17 +379,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 1K • 💬 471 • ⏱️ 1:01:22 • 18h ago
-
----
-
-**[the 5 levels of bitcoin wealth (from 0.01 to 10+)](https://www.youtube.com/watch?v=wQvH9p1a_vk)**
-
-So I decided to have some fun and explore the five levels of Bitcoin wealth in 2026, this video breaks down where most people ...
-
-📺 BTC Isla
-
-👁️ 21K • 👍 2K • 💬 430 • ⏱️ 10:43 • 2d ago
+👁️ 27K • 👍 1K • 💬 496 • ⏱️ 1:01:22 • 19h ago
 
 ---
 
@@ -389,27 +389,27 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 73 • 💬 73 • ⏱️ 7:47 • 18h ago
+👁️ 4K • 👍 74 • 💬 69 • ⏱️ 7:47 • 19h ago
 
 ---
 
-**[BITCOIN: THIS IS WHY WE BOUNCED!!!](https://www.youtube.com/watch?v=2N82oadc2ag)**
+**[🚨BREAKING CRYPTO NEWS: COULD THIS REALLY HAPPEN NEXT?🚨](https://www.youtube.com/watch?v=vdJQ-XrR35k)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+Breaking Crypto News Today - Cathie Wood Just said this could happen next in the united states and it could be huge for crypto ...
 
-📺 Crypto Rover
+📺 Zach Humphries
 
-👁️ 2K • 👍 186 • 💬 42 • ⏱️ 9:12 • 3h ago
+👁️ 8K • 👍 406 • 💬 325 • ⏱️ 6:53 • 2d ago
 
 ---
 
-**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
+**[This New Crypto Legislation Could Reshape the Entire Market](https://www.youtube.com/watch?v=NOP2UwV0hFw)**
 
-Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
+The new crypto rules coming this week? Could this change crypto forever? We have important updates on the regulatory front in ...
 
-📺 Vortex Bitcoin
+📺 Zach Humphries
 
-👁️ 32K • 👍 428 • 💬 22 • ⏱️ 0:49 • 2d ago
+👁️ 2K • 👍 115 • 💬 210 • ⏱️ 5:41 • 1d ago
 
 ---
 
