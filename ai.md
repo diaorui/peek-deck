@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-11T23:41:25.761984+00:00'
+updated: '2026-01-12T01:55:09.221250+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 11, 2026 at 23:41 UTC  
+**Last Updated:** January 12, 2026 at 01:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[AI insiders seek to poison the data that feeds them](https://www.reddit.com/r/artificial/comments/1qa7bpv/ai_insiders_seek_to_poison_the_data_that_feeds/)**
+**[I built Plano - the framework-agnostic runtime data plane for agentic applications](https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/)**
 
-: Poison Fountain project seeks allies to fight the power
+Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [theregister.com](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) • 4h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 1h ago
+
+---
+
+**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/)**
+
+By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
+
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 2h ago
 
 ---
 
@@ -51,11 +59,19 @@ AI news, discussions, and developments
 
 ---
 
+**[Sumo + AI + Data](https://www.reddit.com/r/artificial/comments/1qah38z/sumo_ai_data/)**
+
+For you data/sports/AI junkies https://www.twitch.tv/datasumo incredible amount of data, use of AI, + sumo! January tournament started yesterday.
+
+42m ago
+
+---
+
 **[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-8h ago
+10h ago
 
 ---
 
@@ -63,7 +79,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-6h ago
+8h ago
 
 ---
 
@@ -71,7 +87,7 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-17h ago
+20h ago
 
 ---
 
@@ -99,71 +115,67 @@ This is def interesting for all SWEs who would like to know what goes behind the
 
 ---
 
-**[Terrence Tao: "Erdos problem #728 was solved more or less autonomously by AI"](https://www.reddit.com/r/artificial/comments/1q8qvey/terrence_tao_erdos_problem_728_was_solved_more_or/)**
-
-"Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 . This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem. However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution. [...] My preference would still be for the final writeup for this result to be primarily human-generated in the most essential portions of the paper, though I can see a case for delegating routine proofs to some combination of AI-generated text and Lean code. But to me, the more interesting capability revealed by these events is the ability to rapidly write and rewrite new versions of a text as needed, even if one was not the original author of the argument. This is sharp contrast to existing practice where the effort required to produce even one readable manuscript is quite time-consuming, and subsequent revisions (in response to referee reports, for instance) are largely confined to local changes (e.g., modifying the proof of a single lemma), with large-scale reworking of the paper often avoided due both to the work required and the large possibility of introducing new errors. However, the combination of reasonably competent AI text generation and modification capabilities, paired with the ability of formal proof assistants to verify the informal arguments thus generated, allows for a much more dynamic and high-multiplicity conception of what a writeup of an argument is, with the ability for individual participants to rapidly create tailored expositions of the argument at whatever level of rigor and precision is desired." -- Terrence Tao
-
-🔗 [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103) • 1d ago
-
----
-
-**[Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room](https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/)**
-
-I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is the entire system. I always was confused on why he cannot have understanding, since I imagine this kind of language theatrics is very similar to how we communicate; I couldn't understand how this means artificial intelligence cannot have true understanding. Now on another read I was able to draw some parallels to Nigel Richards--the man who won the french scrabble championship by memorizing the french dictionary. I havent seen anyone talk about this online so I just want to propose a few questions: Does Nigel Richards have an understanding of the french language ? Does Nigel serve as a de facto chinese room ? What is different between Nigel's understanding of the french language compared to a native speaker? Do you think that this is similar to how people accredit LLMs' to simple prediction machines? And finally, would an LLM have a better or worse understanding of language in comparison to Nigel? ⁠What does this mean when it comes to the our ideas of consciousness? Do we humanize the idea of thinking too much when maybe (like the example) we are more similar to LLMs than previously thought?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Google bolsters bet on AI-powered commerce with new platform for shopping agents](https://www.cnbc.com/2026/01/11/google-launches-universal-commerce-protocol-bets-on-ai-powered-retail.html)**
+**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
 
-As retailers create AI agents for shopping and customer service, Google wants to secure its place in the ecommerce market.
+Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-CNBC • 8h ago
-
----
-
-**[Trump Administration Wants to Achieve ‘Pax Silica’ Through AI. Here’s What That Means](https://gizmodo.com/trump-administration-wants-to-achieve-pax-silica-through-ai-heres-what-that-means-2000708775)**
-
-Trump administration's global influence strategy runs through the AI supply chain.
-
-Gizmodo • 1h ago
+The Guardian • 5h ago
 
 ---
 
-**[3 AI Stocks Poised for Explosive Growth as Enterprise Spending Accelerates in 2026](https://www.fool.com/investing/2026/01/11/3-ai-stocks-poised-for-explosive-growth-as-enterpr/)**
+**[Google AI Overviews put people at risk of harm with misleading health advice](https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information)**
 
-Sometimes the best stocks are the most obvious ones.
+Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
 
-The Motley Fool • 5h ago
-
----
-
-**[Top AI stock picks: Is it Nvidia or bust?](https://finance.yahoo.com/video/top-ai-stock-picks-nvidia-130035690.html)**
-
-Which stock is the best artificial intelligence (AI) play for investors: Nvidia (NVDA), Intel (INTC), or AMD (AMD)? D.A. Davidson head of technology research Gil Luria, Wedbush Securities managing director and global head of technology research Dan Ives, and Yahoo Finance Senior Reporter Ines Ferré join Opening Bid host Brian Sozzi to share their takes on the names. To watch more expert insights and analysis on the latest market action, check out more Opening Bid.
-
-Yahoo Finance • 10h ago
+The Guardian • 8d ago
 
 ---
 
-**[Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?](https://finance.yahoo.com/news/forget-nvidia-buy-2-artificial-213500522.html)**
+**[Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/)**
 
-The stocks of Broadcom and AMD could have higher upside than Nvidia in the coming years.
+This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.
 
-Yahoo Finance • 2h ago
+TechCrunch • 7h ago
 
 ---
 
-**[Anthropic expands into healthcare a week after OpenAI launched a similar product](https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1)**
+**[Google’s AI Advantage, CES 2026 Highlights and More | Technology for Jan. 11 - WSJ](https://www.wsj.com/tech/ai/googles-ai-advantage-2facbf03?gaa_at=eafs&gaa_n=AWEtsqdZQM5mkAQ_haQMfjOlHv7HPXkEH7_zRsYwt8H93qxdyss4hDnrR8yI&gaa_ts=696457e4&gaa_sig=DG2BLVgCTZSf8hbKUxWeAbBdnwxNJidkDBHwLt406zTpHaTd42wsVLc-MIB3frQZ_Kd3ROogGx-Bx7A6iFEaAA%3D%3D)**
 
-Anthropic launches Claude for Healthcare, expanding AI tools for clinicians, insurers, and patients.
+The Wall Street Journal • 10h ago
 
-Business Insider • 1h ago
+---
+
+**[GitMind Launches AI Podcast Summarizer - Turning Audio into Concise Insights](https://finance.yahoo.com/news/gitmind-launches-ai-podcast-summarizer-011100434.html)**
+
+Hong Kong, SAR--(Newsfile Corp. - January 11, 2026) - GitMind, a comprehensive platform for visual thinking and productivity tools, has added a new feature: the AI Podcast Summarizer. This feature enhances GitMind's existing suite of AI-powered tools - including mind maps, flowcharts, whiteboards, and content summarization - by enabling users to process spoken audio content as easily as text or documents.Free Online Podcast SummarizerTo view an enhanced version of this graphic, please...
+
+Yahoo Finance • 39m ago
+
+---
+
+**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[‘Add blood, forced smile’: how Grok’s nudification tool went viral](https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk)**
+
+The ‘put her in a bikini’ trend rapidly evolved into hundreds of thousands of requests to strip clothes from photos of women, horrifying those targeted
+
+The Guardian • 19h ago
+
+---
+
+**[Elon Musk asked people to upload their medical data to X so his AI company could learn to interpret MRIs and CT scans](https://fortune.com/2026/01/11/why-did-elon-musk-ask-x-users-upload-medical-data-grok/)**
+
+Health care experts are worried about Grok’s potential to breach patient privacy.
+
+Fortune • 7h ago
 
 ---
 
@@ -171,13 +183,7 @@ Business Insider • 1h ago
 
 "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
 
-CNBC • 16h ago
-
----
-
-**[New York Seeks Ban on A.I.-Generated Images of Candidates](https://www.nytimes.com/2026/01/11/nyregion/ny-hochul-ai-candidates.html)**
-
-The New York Times • 13h ago
+CNBC • 18h ago
 
 ---
 
@@ -186,12 +192,6 @@ The New York Times • 13h ago
 Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
 The Atlantic • 2d ago
-
----
-
-**[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
-
-The Hill • 6h ago
 
 ---
 
@@ -205,13 +205,13 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 609 • 💬 357 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 609 • 💬 358 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 434 • 💬 591 • 13h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 596 • 💬 778 • 15h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -219,7 +219,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 327 • 💬 317 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 330 • 💬 319 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -249,13 +249,13 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 34 • 💬 18 • 23h ago
+⬆️ 34 • 💬 19 • 1d ago
 
 ---
 
 **[Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?](https://news.ycombinator.com/item?id=46565262)**
 
-⬆️ 29 • 💬 5 • 1d ago
+⬆️ 30 • 💬 5 • 1d ago
 
 ---
 
@@ -279,43 +279,23 @@ Roasting AI-generated garbage software, one app at a time.
 
 ## YouTube Videos: "ai"
 
-**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 85K • 👍 4K • 💬 316 • ⏱️ 19:15 • 2d ago
-
----
-
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 2)](https://www.youtube.com/watch?v=9kdw6hLFFss)**
-
-Day 2 of CES 2026 was all about Physical AI, real machines doing real work. From NEURA's refined humanoids and AgiBot's full ...
-
-📺 AI Revolution
-
-👁️ 103K • 👍 2K • 💬 70 • ⏱️ 17:54 • 2d ago
-
----
-
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
-
-CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
-
-📺 AI Revolution
-
-👁️ 34K • 👍 1K • 💬 49 • ⏱️ 11:06 • 2d ago
-
----
-
 **[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
 
 The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
 
 📺 Wes Roth
 
-👁️ 50K • 👍 2K • 💬 299 • ⏱️ 17:36 • 20h ago
+👁️ 53K • 👍 2K • 💬 304 • ⏱️ 17:36 • 22h ago
+
+---
+
+**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 88K • 👍 4K • 💬 288 • ⏱️ 19:15 • 2d ago
 
 ---
 
@@ -325,27 +305,17 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 486 • 👍 93 • 💬 29 • ⏱️ 24:00 • 4h ago
+👁️ 807 • 👍 117 • 💬 34 • ⏱️ 24:00 • 6h ago
 
 ---
 
-**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
 
-LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
+CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
 
-📺 Matt Wolfe
+📺 AI Revolution
 
-👁️ 51K • 👍 2K • 💬 159 • ⏱️ 14:39 • 1d ago
-
----
-
-**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
-
-Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
-
-📺 LBC
-
-👁️ 21K • 👍 368 • 💬 311 • ⏱️ 11:00 • 1d ago
+👁️ 35K • 👍 1K • 💬 50 • ⏱️ 11:06 • 2d ago
 
 ---
 
@@ -355,7 +325,45 @@ Artificial intelligence could eliminate millions of jobs within the next five ye
 
 📺 TIME
 
-👁️ 105K • 👍 3K • 💬 399 • ⏱️ 24:32 • 2d ago
+👁️ 110K • 👍 3K • 💬 402 • ⏱️ 24:32 • 2d ago
+
+---
+
+**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
+
+Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
+
+📺 LBC
+
+👁️ 22K • 👍 393 • 💬 325 • ⏱️ 11:00 • 1d ago
+
+---
+
+**[Anthropic Vs. OpenAI: How Safety Became The Advantage In AI](https://www.youtube.com/watch?v=JILSzhssMsk)**
+
+Daniela and Dario Amodei left OpenAI five years ago to form Anthropic, a company focused on AI safety and enterprise.
+
+📺 CNBC
+
+👁️ 53K • 👍 890 • 💬 108 • ⏱️ 22:39 • 1d ago
+
+---
+
+**[asking ai to draw my roblox avatar 🤖✍️ #fyp #art #ai #chatgpt #shorts](https://www.youtube.com/watch?v=m00VYoaHKNM)**
+
+📺 ms.mischief
+
+👁️ 177K • 👍 7K • 💬 173 • ⏱️ 0:10 • 2d ago
+
+---
+
+**[My $5M AI Business Plan using AI Agents in 2026](https://www.youtube.com/watch?v=b5ZyRiCS3ks)**
+
+Build an AI-first business here: https://aifoundershq.com At AI Founders HQ, you'll find: • Practical AI business education • Free + ...
+
+📺 AI Founders
+
+👁️ 6K • 👍 347 • 💬 52 • ⏱️ 13:01 • 1d ago
 
 ---
 
@@ -365,17 +373,7 @@ The next episode of my AI series. The AI character is making using AI, but is st
 
 📺 Nate Ziller
 
-👁️ 160K • 👍 16K • 💬 1K • ⏱️ 4:38 • 1d ago
-
----
-
-**[AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS](https://www.youtube.com/watch?v=qOr5-FrkElk)**
-
-HUGE AI NEWS: LTX-2, UniVideo, SimpleMem, HY-MT, NeoVerse & more #ai #ainews #aitools #aivideo Thanks to our sponsor ...
-
-📺 AI Search
-
-👁️ 47K • 👍 2K • 💬 234 • ⏱️ 35:41 • 20h ago
+👁️ 172K • 👍 18K • 💬 1K • ⏱️ 4:38 • 1d ago
 
 ---
 
@@ -391,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 629,855 • ❤️ 788 • 3d ago
+⬇️ 629,855 • ❤️ 792 • 3d ago
 
 ---
 
@@ -403,7 +401,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 9,771 • ❤️ 715 • 10d ago
+⬇️ 9,771 • ❤️ 717 • 10d ago
 
 ---
 
@@ -415,7 +413,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 16,027 • ❤️ 426 • 4d ago
+⬇️ 16,027 • ❤️ 432 • 4d ago
 
 ---
 
@@ -427,7 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,257 • ❤️ 292 • 5d ago
+⬇️ 2,257 • ❤️ 294 • 6d ago
 
 ---
 
@@ -451,7 +449,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,522 • ❤️ 347 • 5d ago
+⬇️ 30,522 • ❤️ 353 • 5d ago
 
 ---
 
@@ -463,7 +461,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 586 • ❤️ 208 • 5d ago
+⬇️ 586 • ❤️ 209 • 6d ago
 
 ---
 
@@ -475,7 +473,7 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 `text-generation` `235.1B`
 
-⬇️ 1,354 • ❤️ 206 • 5d ago
+⬇️ 1,354 • ❤️ 207 • 5d ago
 
 ---
 
@@ -525,7 +523,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 88 • 💬 1 • ⭐ 1,997 • 5d ago
+▲ 89 • 💬 1 • ⭐ 2,027 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -583,18 +581,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
-
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
-
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
-
-▲ 81 • 💬 2 • ⭐ 25,646 • 9mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
-
----
-
 **[BitNet Distillation](https://huggingface.co/papers/2510.13998)**
 
 *Xun Wu, Shaohan Huang, Wenhui Wang et al. (7 authors)*
@@ -633,6 +619,18 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+
+*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+
+BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+
+▲ 81 • 💬 2 • ⭐ 25,654 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -643,7 +641,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 7.9k • 🔱 997 • 7h ago
+⭐ 8.0k • 🔱 1.0k • 36m ago
 
 ---
 
@@ -653,7 +651,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 366 • 4d ago
+⭐ 2.6k • 🔱 377 • 4d ago
 
 ---
 
@@ -663,7 +661,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 136 • 6h ago
+⭐ 2.3k • 🔱 137 • 8h ago
 
 ---
 
@@ -673,17 +671,17 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 224 • 10h ago
+⭐ 2.0k • 🔱 225 • 12h ago
 
 ---
 
 **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
 
-从 0 到 1 学会 vibe coding，项目制学习
+vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
-`ai` `course` `vibe-coding`
+`ai` `coding` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 122 • 5h ago
+⭐ 1.4k • 🔱 122 • 8h ago
 
 ---
 
@@ -693,7 +691,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 109 • 2d ago
+⭐ 1.3k • 🔱 110 • 2d ago
 
 ---
 
@@ -727,13 +725,13 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 ---
 
-**[aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast)**
+**[HarryR/z80ai](https://github.com/HarryR/z80ai)**
 
-让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
+Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer.
 
-`Rust` `claude` `kiro`
+`Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 1.1k • 🔱 127 • 5h ago
+⭐ 933 • 🔱 36 • 5d ago
 
 ---
 

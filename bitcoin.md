@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-11T23:41:25.771288+00:00'
+updated: '2026-01-12T01:55:09.229723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 11, 2026 at 23:41 UTC  
+**Last Updated:** January 12, 2026 at 01:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,693.12
+### $91,423.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -3.8%  
-**30d:** +0.3%  
-**90d:** -19.9%  
-**1y:** -4.2%  
+**24h:** +0.9%  
+**7d:** -2.4%  
+**30d:** +3.7%  
+**90d:** -17.7%  
+**1y:** -3.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1805.66B
+**Market Cap:** $1824.42B
 Rank #1
 
-**Circulating Supply:** 19,974,643 BTC
+**Circulating Supply:** 19,974,696 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.0%
+-27.6%
 
 **All-Time Low:** $67.81
-+133840.4%
++134588.1%
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
+**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-10h ago
+1h ago
 
 ---
 
@@ -87,7 +87,13 @@ Rank #1
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 2h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 4h ago
+
+---
+
+**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
+
+12h ago
 
 ---
 
@@ -95,13 +101,13 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-6h ago
+8h ago
 
 ---
 
-**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
+**[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-11h ago
+1h ago
 
 ---
 
@@ -109,7 +115,25 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-3h ago
+5h ago
+
+---
+
+**[Could very well be my finest purchase](https://www.reddit.com/r/Bitcoin/comments/1qadw0k/could_very_well_be_my_finest_purchase/)**
+
+2h ago
+
+---
+
+**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
+
+13h ago
+
+---
+
+**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
+
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 9h ago
 
 ---
 
@@ -117,37 +141,7 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 What are crypto ATMs and why are scammers using them? Learn how these machines work, common fraud tactics, and how to protect your money.
 
-🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 4h ago
-
----
-
-**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
-
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 7h ago
-
----
-
-**[Wall street and bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa4nfi/wall_street_and_bitcoin/)**
-
-Now that Wall Street has entered the Bitcoin market, what—if any—structural advantages does institutional participation confer over an individual, long-term investor who acquires Bitcoin via exchange?
-
-6h ago
-
----
-
-**[M19, investment in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1q9yn7s/m19_investment_in_bitcoin/)**
-
-Hello everyone, I'm 19 years old and new to this field. I want to start making some investments, and hearing about Bitcoin all the time is tempting me. I'm thinking of starting with $50 a month on Bitcoin alone. Do you have any suggestions or strategies? I'd love to hear everyone's opinions. Thank you.
-
-10h ago
-
----
-
-**[Bitcoin Calculator](https://www.reddit.com/r/Bitcoin/comments/1qa3vk1/bitcoin_calculator/)**
-
-https://preview.redd.it/zrwp6cduzqcg1.png?width=1222&format=png&auto=webp&s=84e5322004c1525212d2a142bad61efbd23bb0f9 https://botrift.com/bitcoin-calculator
-
-7h ago
+🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 6h ago
 
 ---
 
@@ -155,39 +149,27 @@ https://preview.redd.it/zrwp6cduzqcg1.png?width=1222&format=png&auto=webp&s=84e5
 
 ## Google News: "bitcoin"
 
-**[BlackRock predicts major shift in retail investors' access to cryptocurrencies](https://www.cnbc.com/2026/01/09/blackrocks-bull-case-for-bitcoin-access-among-retail-investors.html)**
+**[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
 
-It could be the year Main Street's appetite for cryptocurrency exposure meaningfully grows.
+With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
-CNBC • 2d ago
-
----
-
-**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
-
-The Block • 1d ago
+CNBC • 1d ago
 
 ---
 
-**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
+**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
 
-Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-CryptoSlate • 14h ago
-
----
-
-**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
-
-thestreet.com • 1d ago
+KITCO • 10h ago
 
 ---
 
-**[Analysts Spot Bitcoin Price Rebound Window — Could Trump’s 10% Credit Cap Trigger It?](https://finance.yahoo.com/news/analysts-spot-bitcoin-price-rebound-202506139.html)**
+**[Where Will Bitcoin Be in 3 Years?](https://finance.yahoo.com/news/where-bitcoin-3-years-113500898.html)**
 
-Bitcoin may be nearing a short-term rebound as on-chain flows strengthen and Trump’s proposed credit cap boosts crypto adoption.
+Bitcoin has a lot going for it, but the near term could be bumpy.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -203,7 +185,13 @@ CoinDesk • 2d ago
 
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
-The Motley Fool • 12h ago
+The Motley Fool • 14h ago
+
+---
+
+**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
+
+thestreet.com • 1d ago
 
 ---
 
@@ -211,21 +199,29 @@ The Motley Fool • 12h ago
 
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-Bitbo • 16h ago
+Bitbo • 18h ago
+
+---
+
+**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+
+Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+
+Bitcoin Magazine • 2d ago
+
+---
+
+**[Trump 'Has All Kinds Of Reasons' To Buy Bitcoin Before Midterms, Cathie Wood Says](https://finance.yahoo.com/news/trump-kinds-reasons-buy-bitcoin-213150437.html)**
+
+Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
 
-The Block • 2d ago
-
----
-
-**[Bitcoin Long-Term Capital Market Assumptions](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-bitcoin-long-term-capital-market-assumptions/)**
-
-We outline our long-term Bitcoin capital market assumptions, projecting a 16% base-case CAGR, a $2.9M valuation by 2050, and implications for strategic asset allocation.
-
-VanEck • 3d ago
+The Block • 3d ago
 
 ---
 
@@ -285,12 +281,6 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 ---
 
-**[A simple Bitcoin Q&A tool focused on education and self-custody](https://news.ycombinator.com/item?id=46493402)**
-
-⬆️ 1 • 💬 1 • 7d ago • [BITCOIN CONSULTING L.L.C.](https://www.bitcoinconsultingusa.com/ai-bitcoin-qa)
-
----
-
 **[In 2025, Bitcoin showed how spectacularly wrong price forecasts can be](https://news.ycombinator.com/item?id=46527258)**
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
@@ -307,6 +297,14 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ---
 
+**[Token-Count-Based Batching: Faster, Cheaper Embedding Inference for Queries](https://news.ycombinator.com/item?id=46582200)**
+
+Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
+
+⬆️ 1 • 💬 0 • 1h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -317,7 +315,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 192 • ⏱️ 17:17 • 1d ago
+👁️ 27K • 👍 2K • 💬 194 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -327,7 +325,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 895 • 💬 316 • ⏱️ 1:01:22 • 9h ago
+👁️ 21K • 👍 988 • 💬 419 • ⏱️ 1:01:22 • 11h ago
 
 ---
 
@@ -337,7 +335,17 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 Satoshi Alliance
 
-👁️ 10K • 👍 496 • 💬 287 • ⏱️ 3:25 • 2d ago
+👁️ 10K • 👍 500 • 💬 281 • ⏱️ 3:25 • 2d ago
+
+---
+
+**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=XAIerBMY1Nc)**
+
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+
+📺 Road To $1 Million USD
+
+👁️ 1K • 👍 127 • 💬 71 • ⏱️ 7:14 • 3h ago
 
 ---
 
@@ -347,7 +355,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 56K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
+👁️ 58K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
 
 ---
 
@@ -357,17 +365,7 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 20K • 👍 2K • 💬 431 • ⏱️ 10:43 • 2d ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=nHFwJzyDeVg)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 77 Rockets Woodworking 
-
-👁️ 2K • 👍 501 • 41m ago
+👁️ 21K • 👍 2K • 💬 425 • ⏱️ 10:43 • 2d ago
 
 ---
 
@@ -377,37 +375,37 @@ Donald Trump just triggered a $200B bond-buying spree sparking what's likely the
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 252 • ⏱️ 17:07 • 2d ago
+👁️ 27K • 👍 2K • 💬 248 • ⏱️ 17:07 • 2d ago
 
 ---
 
-**[THE CRYPTO MARKET IS ABOUT TO GET OUT OF CONTROL - HERE’S WHY](https://www.youtube.com/watch?v=iSpEE2aRt4c)**
+**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
 
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Altcoin Daily
+📺 Library Of Wealth
 
-👁️ 61K • 👍 3K • 💬 399 • ⏱️ 9:19 • 2d ago
-
----
-
-**[“Trump Will Make Crypto EXPLODE” Cathie Wood on Bitcoin in 2026 + BIG XRP NEWS!](https://www.youtube.com/watch?v=f5IjocxGBHw)**
-
-Cathie Wood: “Trump is about to release the cryptocurrency bulls” Bitcoin in 2026 (BIG XRP NEWS) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 3K • 💬 268 • ⏱️ 11:14 • 2d ago
+👁️ 9K • 👍 241 • 💬 585 • ⏱️ 13:48 • 20h ago
 
 ---
 
-**[BITCOIN HISTORY REPEATING!!!!!](https://www.youtube.com/watch?v=ZF-9JbPgapY)**
+**[Shower Heating Bitcoin Miner by Superheat](https://www.youtube.com/watch?v=2wkt4beZebA)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓My Private Group: ...
+Superheat is announcing their new water heater at CES 2026 that can use the heat from mining to heat up your shower. Follow ...
 
-📺 Crypto Rover
+📺 Vortex Bitcoin
 
-👁️ 9K • 👍 470 • 💬 108 • ⏱️ 8:12 • 17h ago
+👁️ 31K • 👍 405 • 💬 109 • ⏱️ 0:49 • 2d ago
+
+---
+
+**[🚨BREAKING CRYPTO NEWS: COULD THIS REALLY HAPPEN NEXT?🚨](https://www.youtube.com/watch?v=vdJQ-XrR35k)**
+
+Breaking Crypto News Today - Cathie Wood Just said this could happen next in the united states and it could be huge for crypto ...
+
+📺 Zach Humphries
+
+👁️ 8K • 👍 406 • 💬 355 • ⏱️ 6:53 • 2d ago
 
 ---
 
