@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T07:28:18.138774+00:00'
+updated: '2026-01-12T07:49:25.316279+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 07:28 UTC  
+**Last Updated:** January 12, 2026 at 07:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -4.1%  
-**30d:** +3.0%  
-**90d:** -20.9%  
-**1y:** +0.9%  
+**24h:** +1.1%  
+**7d:** -4.7%  
+**30d:** +2.4%  
+**90d:** -21.3%  
+**1y:** +0.2%  
 
 ---
 
@@ -160,11 +160,11 @@ CoinDesk • 18h ago
 
 ---
 
-**[Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'](https://www.coindesk.com/business/2026/01/10/robinhood-explains-building-an-ethereum-layer-2-we-wanted-the-security-from-ethereum)**
+**[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says)**
 
-CoinDesk sat down with Robinhood’s head of crypto, Johann Kerbrat, to get an update on its upcoming layer-2 network, its tokenized stocks program, and its staking offerings.
+EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-CoinDesk • 1d ago
+CoinDesk • 18h ago
 
 ---
 
@@ -176,19 +176,19 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Ethereum Meets AI Agents: What Is ERC-8004?](https://www.tradingview.com/news/u_today:e7ba41fd6094b:0-ethereum-meets-ai-agents-what-is-erc-8004/)**
-
-In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
-
-TradingView — Track All Markets • 1d ago
-
----
-
 **[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
 
 Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
 CryptoSlate • 1d ago
+
+---
+
+**[Ethereum Meets AI Agents: What Is ERC-8004?](https://www.tradingview.com/news/u_today:e7ba41fd6094b:0-ethereum-meets-ai-agents-what-is-erc-8004/)**
+
+In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 603 • 👍 25 • 💬 11 • ⏱️ 5:22 • 17h ago
+👁️ 603 • 👍 25 • 💬 11 • ⏱️ 5:22 • 18h ago
 
 ---
 

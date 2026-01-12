@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T07:28:18.133521+00:00'
+updated: '2026-01-12T07:49:25.310316+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 07:28 UTC  
+**Last Updated:** January 12, 2026 at 07:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,012.61
+### $91,912.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -2.0%  
-**30d:** +4.1%  
-**90d:** -17.3%  
-**1y:** -2.7%  
+**24h:** +0.8%  
+**7d:** -2.3%  
+**30d:** +3.7%  
+**90d:** -17.6%  
+**1y:** -3.0%  
 
 ---
 
@@ -95,7 +95,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-3h ago
+4h ago
 
 ---
 
@@ -103,13 +103,19 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
 7h ago
+
+---
+
+**[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
+
+1h ago
 
 ---
 
@@ -131,7 +137,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
 
-5h ago
+6h ago
 
 ---
 
@@ -143,23 +149,9 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 ---
 
-**[Could very well be my finest purchase](https://www.reddit.com/r/Bitcoin/comments/1qadw0k/could_very_well_be_my_finest_purchase/)**
-
-8h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
-
-With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
-
-CNBC • 1d ago
-
----
 
 **[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
 
@@ -169,27 +161,43 @@ KITCO • 16h ago
 
 ---
 
-**[Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates](https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates)**
+**[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
 
-Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.
+With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
-CoinDesk • 2h ago
-
----
-
-**[Analysts Spot Bitcoin Price Rebound Window — Could Trump’s 10% Credit Cap Trigger It?](https://finance.yahoo.com/news/analysts-spot-bitcoin-price-rebound-202506139.html)**
-
-Bitcoin may be nearing a short-term rebound as on-chain flows strengthen and Trump’s proposed credit cap boosts crypto adoption.
-
-Yahoo Finance • 11h ago
+CNBC • 1d ago
 
 ---
 
-**[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
+**[Wells Fargo’s Bitcoin Bet and New Long‑Dated Debt Could Be A Game Changer For WFC](https://ca.finance.yahoo.com/news/wells-fargo-bitcoin-bet-long-070515660.html)**
 
-Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
+Earlier this month Wells Fargo & Company issued a series of fixed-rate, callable senior unsecured notes maturing between 2030 and 2041, alongside news that it had recently accumulated substantial amounts of Bitcoin amid a period of uncertainty in cryptocurrency markets. This combination of fresh long-dated funding and a sizeable Bitcoin position marks an unusual move for a major U.S. bank, highlighting Wells Fargo’s willingness to use both traditional bonds and digital assets in its balance...
 
-Bitbo • 1d ago
+Yahoo! Finance Canada • 44m ago
+
+---
+
+**[Bitcoin price analysis: BTC possibly poised for breakout from tight range](https://www.coindesk.com/markets/2026/01/09/bitcoin-s-time-based-capitulation-nears-50-days-echoing-conditions-prior-to-2025-surge)**
+
+The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin price news: BTC quietly retreats to $90,000](https://www.coindesk.com/markets/2026/01/09/bitcoin-pulls-back-to-usd90-000-as-early-friday-rally-attempt-fails)**
+
+U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin Maintains Mid-$90k Levels: Possible Price Targets — Analyst](https://www.tradingview.com/news/newsbtc:2c06452b8094b:0-bitcoin-maintains-mid-90k-levels-possible-price-targets-analyst/)**
+
+Bitcoin is presently trading around the $90,000 price mark after a recent failure to break past $94,000 price barrier. Notably, the move suggests hesitation from buyers near recent highs, but not yet a confirmed breakdown of positive price momentum. According to the popular market analyst with X us…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -201,33 +209,23 @@ The Motley Fool • 20h ago
 
 ---
 
+**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
+
+thestreet.com • 1d ago
+
+---
+
 **[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
 
 The Block • 3d ago
 
 ---
 
-**[Trump 'Has All Kinds Of Reasons' To Buy Bitcoin Before Midterms, Cathie Wood Says](https://finance.yahoo.com/news/trump-kinds-reasons-buy-bitcoin-213150437.html)**
+**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://beincrypto.com/us-stole-chinese-scam-kings-15b-bitcoin/)**
 
-Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
+China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 1d ago
-
----
-
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
-
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
-
-Bitcoin Magazine • 2d ago
-
----
-
-**[Bitcoin Whales Hit The Sell Button — $135K Price Target Now Trending](https://www.tradingview.com/news/newsbtc:fa1ae5b35094b:0-bitcoin-whales-hit-the-sell-button-135k-price-target-now-trending/)**
-
-According to TradingView data, big holders on Bitfinex have been trimming long positions after a late-December peak of 73,000 BTC. The move follows a broader drop in whale holdings of roughly 220,000 BTC during 2025, a change that has analysts and traders parsing what comes next.Price action has be…
-
-TradingView — Track All Markets • 18h ago
+BeInCrypto • 4h ago
 
 ---
 
@@ -307,7 +305,7 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 6h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 7h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -321,7 +319,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 188 • 💬 92 • ⏱️ 7:14 • 8h ago
+👁️ 3K • 👍 188 • 💬 92 • ⏱️ 7:14 • 9h ago
 
 ---
 
@@ -341,7 +339,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 165 • ⏱️ 8:37 • 9h ago
+👁️ 27K • 👍 2K • 💬 165 • ⏱️ 8:37 • 10h ago
 
 ---
 
@@ -351,7 +349,7 @@ In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bi
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 642 • 💬 106 • ⏱️ 18:06 • 6h ago
+👁️ 7K • 👍 642 • 💬 106 • ⏱️ 18:06 • 7h ago
 
 ---
 
@@ -391,7 +389,7 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 73 • 💬 73 • ⏱️ 7:47 • 16h ago
+👁️ 4K • 👍 73 • 💬 73 • ⏱️ 7:47 • 17h ago
 
 ---
 

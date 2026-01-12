@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T07:28:18.141579+00:00'
+updated: '2026-01-12T07:49:25.319494+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 07:28 UTC  
+**Last Updated:** January 12, 2026 at 07:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
 
-7h ago
+8h ago
 
 ---
 
@@ -78,6 +78,14 @@ Im making a project with a gripper, and im using a servo to move the gears to sq
 
 ---
 
+**[Simultaneous finger joint rotation problem](https://www.reddit.com/r/robotics/comments/1qa8num/simultaneous_finger_joint_rotation_problem/)**
+
+Hi all, currently working on a bionic hand project. The project itself is relatively easy except for the finger. I keep running into the issue of non simultaneous movement. The furthest joint bends first, then the middle, then the closest. The red line in there is a 1 mm UHMWPE poly cord. Real fingers have each joint bending at the same time, providing a smooth movement. The thing is, when the finger is hanging down (fingertip pointing to floor), the movement is perfect. But when it’s in a palms up position, I run into that sequential bending issue again. Any other fixes/approaches to this? I tried a linkage system but it was ridiculously weak. The only things I can think of are weak springs at each joint to provide some sort of weak extension torque (replicating gravity), or using multiple cords for each joint, which is something I’d rather not do due to complexity and power limitations.
+
+12h ago
+
+---
+
 **[Action Labeled Gaming Data](https://www.reddit.com/r/robotics/comments/1qaegh1/action_labeled_gaming_data/)**
 
 Given the rise of world models and multi modal action agents, what do you guys think about the future of action-labeled gameplay data? Can it be a good baseline in the training pipeline before RL?
@@ -86,19 +94,11 @@ Given the rise of world models and multi modal action agents, what do you guys t
 
 ---
 
-**[Simultaneous finger joint rotation problem](https://www.reddit.com/r/robotics/comments/1qa8num/simultaneous_finger_joint_rotation_problem/)**
-
-Hi all, currently working on a bionic hand project. The project itself is relatively easy except for the finger. I keep running into the issue of non simultaneous movement. The furthest joint bends first, then the middle, then the closest. The red line in there is a 1 mm UHMWPE poly cord. Real fingers have each joint bending at the same time, providing a smooth movement. The thing is, when the finger is hanging down (fingertip pointing to floor), the movement is perfect. But when it’s in a palms up position, I run into that sequential bending issue again. Any other fixes/approaches to this? I tried a linkage system but it was ridiculously weak. The only things I can think of are weak springs at each joint to provide some sort of weak extension torque (replicating gravity), or using multiple cords for each joint, which is something I’d rather not do due to complexity and power limitations.
-
-11h ago
-
----
-
 **[Do I really need a camera for a wall-climbing painting robot? (Compute & Pi Zero concerns)](https://www.reddit.com/r/robotics/comments/1qad7gf/do_i_really_need_a_camera_for_a_wallclimbing/)**
 
 Hi everyone, I’m working on a wall-climbing painting robot (think vertical surfaces, not floor navigation). The robot is given the wall dimensions and a start pose, then follows a planned path to paint the wall. I’m currently trying to decide whether adding a camera + computer vision is actually worth it, or if it will overcomplicate the system. The main things I need (now and in future versions) are: Accurate measurement of how much the robot moved (distance + rotation) Localization on the wall (x, y, heading) without drift Detecting obstacles/boundaries like windows or “do not paint” areas (not front obstacles, but areas below/around) Judging paint quality (missed spots, uneven coverage, streaks) I originally tried ESP32 with a camera, but image quality and reliability were very poor. I’m now considering: Encoders + IMU for motion Possibly adding a camera (optical flow / simple vision) Using something like a Raspberry Pi Zero 2 W + Pi Camera as a companion computer My concerns: Is a camera really necessary for these tasks, or can I reasonably avoid it? Will computer vision be too computationally heavy / expensive for a small robot?(basic computer version algorithms not CNN) Is Pi Zero 2 W good choice ? and will its camera quality be realistically capable for lightweight CV (optical flow, AprilTags, simple inspection), or is that pushing it too far? Has anyone built something similar or have experience or advice in this part I’m intentionally trying to avoid heavy deep-learning solutions and keep things lightweight and robust. Any real-world experience, advice, or “I tried this and it failed/succeeded” stories would be extremely helpful. Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi everyone, I’m working on a wall-climbing painting robot (think vertical sur
 
 Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing your rosbags, or network saturation from lidar topics? Ferronyx tracks every metric that matters: textRobot #17 Live Vitals: CPU: 87% (nav2: 42% | SLAM: 31%) Memory: 1.8/2GB (rosbag buffer: 78%) Disk: 92% used | 45MB/s write Disk I/O: 92% utilization Network: 18Mbps down / 2.3Mbps up ROS Topics: /scan → 230ms latency (HIGH) Battery: 23% | Temp: 78°C Fleet dashboard shows: Per-robot + per-process CPU/memory breakdown Disk usage/I/O throttling alerts Network bandwidth per topic (lidar eating WiFi?) ROS topic latency + drop rates Predictive warnings: "Disk 92% → rosbag pause in 14min" Infra → ROS correlation: "CPU spike → /move_base timeout" Stop reacting to robot failures. Get unified observability with Ferronyx that instantly correlates infra metrics with ROS failures, AI-powered root cause analysis, and actionable fixes. ferronyx.com - We'd love to hear your feedback and debugging stories.
 
-17h ago
+18h ago
 
 ---
 
@@ -114,11 +114,19 @@ Robotics teams - how do you know if it's CPU throttling SLAM, disk I/O killing y
 
 ## Google News: "robotics"
 
-**[Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html)**
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
 
-Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
+Joe Tidy meets robots being trained to tidy up all your mess.
 
-CNBC • 2d ago
+BBC • 7h ago
+
+---
+
+**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
+
+From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
+
+Engadget • 1d ago
 
 ---
 
@@ -130,25 +138,9 @@ TechCrunch • 2d ago
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
-
-Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
-
-The Verge • 1d ago
-
----
-
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
 Bloomberg.com • 2h ago
-
----
-
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
-
-Joe Tidy meets robots being trained to tidy up all your mess.
-
-BBC • 7h ago
 
 ---
 
@@ -176,19 +168,27 @@ WYMT • 2d ago
 
 ---
 
-**[Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM](https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/)**
+**[Why AIC is the only path to certifiable robotics](https://www.therobotreport.com/why-aic-is-the-only-path-to-certifiable-robotics/)**
 
-Large language models (LLMs) and multimodal reasoning systems are rapidly expanding beyond the data center. Automotive and robotics developers increasingly want to run conversational AI agents…
+The EU AI Act could affect humanoids. AIC, or artificial integrated cognition, provides a path for AI to gain the trust needed to advance.
 
-NVIDIA Developer • 3d ago
+The Robot Report • 1d ago
 
 ---
 
-**[AI and robotics stole the show at CES 2026](https://finance.yahoo.com/video/ai-robotics-stole-show-ces-165823345.html)**
+**[Amnon Shashua: Robotics are a natural investment for autonomous tech companies](https://www.autonews.com/podcasts/shift/an-shift-podcast-mobileye-amnon-shashua-0111/)**
 
-CES 2026 is showcasing the latest wave of innovations in AI and robotics, including Nvidia's (NVDA) unveiling of its Vera Rubin AI platform and Qualcomm's (QCOM) plans to use its chips to power humanoid robots. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead outlines the consumer and enterprise projects that he saw at the tech conference this year. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+Mobileye's Amnon Shashua talks about the company's acquisition of and plans for Mentee Robotics.
 
-Yahoo Finance • 3d ago
+Automotive News • 20h ago
+
+---
+
+**[WSU researchers develop robotic arm to aid with labor and boost productivity in orchards](https://komonews.com/news/local/wsu-washington-state-university-school-of-mechanical-and-materials-engineering-researchers-agriculture-robotic-apple-picking-arm-washington-orchards-migrant-farm-workers)**
+
+A cost-effective, robotic apple picker arm developed by Washington State University (WSU) researchers may someday help with fruit picking and other farm chores.
+
+KOMO • 1d ago
 
 ---
 
