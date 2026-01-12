@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T16:29:01.475672+00:00'
+updated: '2026-01-12T16:57:05.753828+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 16:29 UTC  
+**Last Updated:** January 12, 2026 at 16:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Keep calm while the storm pass
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-11h ago
+12h ago
 
 ---
 
@@ -129,7 +129,7 @@ That’s right, diamond-handed degens, stack those sats while it’s cold out th
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-12h ago
+13h ago
 
 ---
 
@@ -155,7 +155,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -175,11 +175,17 @@ CoinDesk • 1h ago
 
 ---
 
-**[Strategy ($MSTR) Just Spent $1.25 Billion on 13,627 Bitcoin, Pushing BTC Holdings to 687,410](https://bitcoinmagazine.com/featured/strategy-mstr-buys-13627-bitcoin)**
+**[Beyond Bitcoin: 3 Crypto Niches That Could Make You Money in 2026](https://finance.yahoo.com/news/beyond-bitcoin-3-crypto-niches-153706798.html)**
 
-Strategy added 13,627 bitcoin for $1.25 billion last week, lifting its total holdings to 687,410 BTC as it funded the purchase through equity sales.
+Explore DeFi, nonfungible tokens with real utility and tokenized assets. These crypto niches could offer alternatives to big cryptocurrency names in 2026.
 
-Bitcoin Magazine • 1h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Strategy Buys $1.25 Billion in Bitcoin in Largest Purchase Since July](https://www.bloomberg.com/news/articles/2026-01-12/strategy-buys-1-25-billion-in-bitcoin-in-largest-purchase-since-july)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -191,14 +197,6 @@ CNBC • 2d ago
 
 ---
 
-**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 1d ago
-
----
-
 **[Bitcoin miner moves $181 million, as expert speaks of ‘key inflection point’](https://www.dlnews.com/articles/markets/bitcoin-miner-moves-181-million/)**
 
 Miner active in the days of Bitcoin founder Satoshi Nakamoto, says expert. Two early “Bitcoin whales” moved coins worth $181 million late last year. VanEck predicts big Bitcoin price rises by 2050.
@@ -207,23 +205,27 @@ dlnews.com • 1d ago
 
 ---
 
-**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
+**[Satoshi-Era Miner Moves Millions in Bitcoin After 15 Years of Silence](https://finance.yahoo.com/news/satoshi-era-miner-moves-millions-190000016.html)**
 
-China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
+A Satoshi-era Bitcoin miner reactivated long-dormant wallets to move 2,000 BTC, worth about $181 million, to Coinbase.
 
-Yahoo Finance • 13h ago
-
----
-
-**[This $59 Device Lets You Solo-Mine Bitcoin From Your Desk](https://www.entrepreneur.com/money-finance/this-59-device-lets-you-solo-mine-bitcoin-from-your-desk/501638)**
-
-entrepreneur.com • 2d ago
+Yahoo Finance • 21h ago
 
 ---
 
-**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
+**[BlackRock warns crypto's love affair with AI is over as an energy war with Bitcoin miners begins](https://cryptoslate.com/blackrock-ai-energy-forecast-bitcoin-mining-impact-2026/)**
 
-The Block • 3h ago
+BlackRock warns AI data centers could use up to 25% of US electricity by 2030. What it means for miners, grid flexibility, and cheap power.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Fed rate cuts under fire: 5 things to know in Bitcoin this week](https://www.tradingview.com/news/cointelegraph:28bb3c18b094b:0-fed-rate-cuts-under-fire-5-things-to-know-in-bitcoin-this-week/)**
+
+Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
+
+TradingView — Track All Markets • 7h ago
 
 ---
 
@@ -295,7 +297,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 55 • 💬 11 • 8h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 55 • 💬 11 • 9h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -347,7 +349,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 178 • ⏱️ 8:37 • 18h ago
+👁️ 38K • 👍 2K • 💬 178 • ⏱️ 8:37 • 19h ago
 
 ---
 
@@ -357,7 +359,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 10K • 👍 592 • 💬 67 • ⏱️ 6:16 • 6h ago
+👁️ 10K • 👍 592 • 💬 67 • ⏱️ 6:16 • 7h ago
 
 ---
 
@@ -367,7 +369,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 2h ago
+👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 3h ago
 
 ---
 
@@ -377,7 +379,7 @@ Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 569 • 💬 35 • ⏱️ 1:07:27 • 2h ago
+👁️ 5K • 👍 569 • 💬 35 • ⏱️ 1:07:27 • 3h ago
 
 ---
 
@@ -405,7 +407,7 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 441 • 💬 38 • ⏱️ 1:14 • 16h ago
+👁️ 7K • 👍 441 • 💬 38 • ⏱️ 1:14 • 17h ago
 
 ---
 

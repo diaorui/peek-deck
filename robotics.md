@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T16:29:01.484875+00:00'
+updated: '2026-01-12T16:57:05.763058+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 16:29 UTC  
+**Last Updated:** January 12, 2026 at 16:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 I was looking at some 'frameless' motors and was considering playing around with making an integrated motorized joint. Are there any open projects or CAD files around that show how these sorts of motors are integrated into a final design? Thanks!!
 
-16m ago
+44m ago
 
 ---
 
@@ -82,7 +82,7 @@ I was looking at some 'frameless' motors and was considering playing around with
 
 https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bcfbfbacf49ba5a0b91defd0ab1cb1b90cdf51 I am new to robotics, was trying to understand how to determine no. of dof. Where can I get a clear picture about finding dof and kutzback crietrion? I have several doubts in this image - how is the sliding joint considered a link? it has been numbered 8 in the image how to know if a joint has 1 or 2 dof what are all the links in this robot? is a platform (5 in the image) considered as a single link?
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bc
 
 A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
 
-7h ago
+8h ago
 
 ---
 
@@ -98,7 +98,7 @@ A new report on the global warehouse robotics market projects huge growth, from 
 
 This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
 
-16h ago
+17h ago
 
 ---
 
@@ -124,7 +124,7 @@ Engadget • 2d ago
 
 Meet the newest version of Atlas: The humanoid robot with strength, precision, and adaptability for the industrial era. Plus more robots from CES 2026!
 
-IEEE Spectrum • 8h ago
+IEEE Spectrum • 9h ago
 
 ---
 
@@ -144,7 +144,7 @@ Tech Xplore • 2d ago
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -160,7 +160,7 @@ Grand Forks Herald • 1d ago
 
 WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 2h ago
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -198,7 +198,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 309K • 👍 4K • 💬 690 • ⏱️ 4:29 • 4d ago
+👁️ 309K • 👍 4K • 💬 690 • ⏱️ 4:29 • 5d ago
 
 ---
 
@@ -238,7 +238,7 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 📺 FIRSTRoboticsCompetition
 
-👁️ 70K • 👍 2K • ⏱️ 56:16 • 1d ago
+👁️ 70K • 👍 2K • ⏱️ 56:16 • 2d ago
 
 ---
 

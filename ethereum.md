@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T16:29:01.481658+00:00'
+updated: '2026-01-12T16:57:05.759842+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 16:29 UTC  
+**Last Updated:** January 12, 2026 at 16:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -160,25 +160,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
-
-Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
-
-CoinDesk • 1d ago
-
----
-
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
-**[Vitalik Buterin lays out 'walkaway test' for a quantum safe Ethereum](https://finance.yahoo.com/news/vitalik-buterin-lays-walkaway-test-131543594.html)**
+**[Vitalik Buterin lays out 'walkaway test' for a quantum safe Ethereum](https://www.coindesk.com/tech/2026/01/12/vitalik-buterin-lays-out-walkaway-test-for-a-quantum-safe-ethereum)**
 
 Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
 
-Yahoo Finance • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Says Crypto’s Stablecoin Model Is Not Built to Last](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-says-cryptos-stablecoin-model-is-not-built-to-last/)**
+
+Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
+
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -188,9 +188,15 @@ Investing.com • 3h ago
 
 ---
 
+**[Standard Chartered says '2026 will be the year of Ethereum' as bank backs ETH outperformance](https://www.theblock.co/post/385097/standard-chartered-says-2026-will-be-the-year-of-ethereum?utm_source=markets.xml&utm_medium=rss)**
+
+The Block • 3h ago
+
+---
+
 **[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
@@ -218,12 +224,6 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Here’s XRP Price If XRP Reaches Ethereum’s Market Cap Today](https://www.binance.com/en/square/post/34936368127769)**
-
-Binance • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -234,7 +234,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 2h ago
+👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 3h ago
 
 ---
 
@@ -304,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 157 • 👍 7 • 💬 1 • ⏱️ 4:34 • 5h ago
+👁️ 157 • 👍 7 • 💬 1 • ⏱️ 4:34 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T16:29:01.467280+00:00'
+updated: '2026-01-12T16:57:05.745227+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 16:29 UTC  
+**Last Updated:** January 12, 2026 at 16:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-22h ago
+23h ago
 
 ---
 
@@ -123,57 +123,7 @@ This is def interesting for all SWEs who would like to know what goes behind the
 
 “It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
 
-Yahoo Finance • 21h ago
-
----
-
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcMoYbQUhVyLxV_ezXpnIiy31S_WUCHLcDIj3MLQfVY6aX5MWdLNH_b&gaa_ts=69651c01&gaa_sig=lqS5gHSZgg2Kj_YpEv2rBTXG4cJeyxfscjF828lZfaPVpuQ41kP0HLrcAbhsIv37ns-9oWOQjMsf7f7yr7-7uw%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
-**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
-
-Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
-
-The Guardian • 13h ago
-
----
-
-**[Apple picks Google's Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)**
-
-Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
-
-CNBC • 1h ago
-
----
-
-**[Nvidia to Invest $1 Billion in AI Drug Laboratory With Eli Lilly](https://www.bloomberg.com/news/articles/2026-01-12/nvidia-to-invest-1-billion-in-ai-drug-laboratory-with-eli-lilly)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Lilly, Nvidia tag on partnership with new AI co-innovation lab, $1B investment](https://www.fiercebiotech.com/biotech/lilly-nvidia-tag-partnership-new-ai-co-innovation-lab-1b-investment)**
-
-Eli Lilly and Nvidia, two primary drivers of the recent stock market rally, are deepening their alliance to connect silicon with biology through artificial-intelligence-powered drug development.
-
-Fierce Biotech • 1h ago
-
----
-
-**[Nvidia has finally done the one AI thing I've been dreading — and PC gaming might never be the same](https://www.techradar.com/tech-events/nvidia-has-finally-done-the-one-ai-thing-ive-been-dreading-and-pc-gaming-might-never-be-the-same)**
-
-Nvidia's 'AI NPC' technology, ACE, is coming to more games in 2026 — and I've got some concerns about the direction this is going.
-
-TechRadar • 3h ago
-
----
-
-**[AI needs spatial intelligence. The GEOINT industry will deliver it.](https://spacenews.com/ai-needs-spatial-intelligence-the-geoint-industry-will-deliver-it/)**
-
-SpaceNews • 1h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -189,7 +139,57 @@ NPR • 9h ago
 
 The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
-BBC • 4h ago
+BBC • 5h ago
+
+---
+
+**[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
+
+The New York Times • 6h ago
+
+---
+
+**[Apple picks Google's Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)**
+
+Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
+
+CNBC • 1h ago
+
+---
+
+**[Apple strikes deal with Google's Gemini to power Siri's AI capabilities](https://www.businessinsider.com/apple-google-gemini-to-power-siri-ai-capabilities-2026-1)**
+
+Apple and Alphabet have reached a deal that will have Google Gemini powering Siri's artificial intelligence capabilities.
+
+Business Insider • 34m ago
+
+---
+
+**[Google, Apple enter into multi-year AI deal for Gemini models](https://www.reuters.com/business/google-apple-enter-into-multi-year-ai-deal-gemini-models-2026-01-12/)**
+
+Reuters • 25m ago
+
+---
+
+**[5 new proposals to regulate AI in Washington state, from classrooms to digital companions](https://www.geekwire.com/2026/5-new-proposals-to-regulate-ai-in-washington-state-from-classrooms-to-digital-companions/)**
+
+GeekWire • 46m ago
+
+---
+
+**[Publishers fear AI search summaries and chatbots mean ‘end of traffic era’](https://www.theguardian.com/media/2026/jan/12/publishers-fear-ai-search-summaries-and-chatbots-mean-end-of-traffic-era)**
+
+Media bosses expect web referrals to plunge and want journalists to emulate content creators, report finds
+
+The Guardian • 10h ago
+
+---
+
+**[The Dangerous Paradox of A.I. Abundance](https://www.newyorker.com/news/the-financial-page/the-dangerous-paradox-of-ai-abundance)**
+
+Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
+
+The New Yorker • 5h ago
 
 ---
 
@@ -217,7 +217,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 334 • 💬 328 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 334 • 💬 328 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -261,7 +261,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 29 • 💬 16 • 16h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 29 • 💬 16 • 17h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -644,7 +644,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.1k • 🔱 1.0k • 54m ago
+⭐ 8.1k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -664,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 138 • 1h ago
+⭐ 2.3k • 🔱 138 • 2h ago
 
 ---
 
