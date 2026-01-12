@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T20:48:45.370198+00:00'
+updated: '2026-01-12T21:22:47.622725+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 20:48 UTC  
+**Last Updated:** January 12, 2026 at 21:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 I’ll start by saying this upfront: I’m not looking for financial advice or help making a decision. I know how crypto works, I understand risk, cycles, volatility, and I’m fully responsible for my choices. What I’m interested in is hearing what other people actually did when they found themselves in a similar spot. I’ve been in crypto for several years now, mainly ETH. I started buying in 2021 and have been DCA’ing over time. I keep a very clear and detailed spreadsheet of all my transactions. At the moment, my ETH position sits at roughly 92% of my total buy price. The thing is: it’s been years, and I’ve never really crossed back above 100%. Not just with ETH, but with every crypto move I’ve made. No catastrophic losses, but consistently negative outcomes overall. Death by a thousand small cuts, you could say. For a long time, my mental threshold was “ETH at 10k”. That was the original idea: hold, be patient, don’t expect a moonshot every year, but at least expect signs of recovery or a sustained upward trend over time. And every year, I tell myself “okay, this is probably the year where it starts catching up”. And every year, I’m disappointed. Now I’m at a point where I’m genuinely wondering whether I want to close this chapter entirely. Not out of panic, not because I need the money urgently, but because I’m questioning the opportunity cost and the mental bandwidth. At the same time, walking away after years of holding feels… unresolved and I still hope for that 10k hahaha. So I’m not asking “should I sell” or “what will ETH do next”. I’m asking this instead: If you were in a similar long-term situation, what did you actually do? Did you fully exit crypto? Did you reduce exposure? Did you hold through and later feel it was worth it (or not)? Any regrets, in either direction? I’m genuinely curious about real experiences, not predictions. Thanks for sharing if you feel like it.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’ll start by saying this upfront: I’m not looking for financial advice or h
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 1h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 2h ago
 
 ---
 
@@ -88,7 +88,7 @@ South Korea just opened the floodgates for institutional crypto adoption. Huge f
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-38m ago
+1h ago
 
 ---
 
@@ -172,13 +172,13 @@ CoinDesk • 1d ago
 
 Ethereum co-founder Vitalik Buterin says the network should be able to function for decades without relying on constant upgrades, including resisting future quantum computers.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 8h ago
 
 Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 2h ago
 
 **[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 237 • ⏱️ 14:17 • 7h ago
+👁️ 9K • 👍 1K • 💬 237 • ⏱️ 14:17 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 185 • 👍 14 • 💬 40 • ⏱️ 10:08 • 3h ago
+👁️ 185 • 👍 14 • 💬 40 • ⏱️ 10:08 • 4h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 129 • 💬 10 • ⏱️ 5:01 • 6h ago
+👁️ 1K • 👍 129 • 💬 10 • ⏱️ 5:01 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shock
 
 📺 The Modern Investor
 
-👁️ 11K • 👍 1K • 💬 307 • ⏱️ 36:33 • 10h ago
+👁️ 11K • 👍 1K • 💬 307 • ⏱️ 36:33 • 11h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T20:48:45.373565+00:00'
+updated: '2026-01-12T21:22:47.626018+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 20:48 UTC  
+**Last Updated:** January 12, 2026 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
 
-27m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 I was looking at some 'frameless' motors and was considering playing around with making an integrated motorized joint. Are there any open projects or CAD files around that show how these sorts of motors are integrated into a final design? Thanks!!
 
-4h ago
+5h ago
 
 ---
 
@@ -124,7 +124,7 @@ Engadget • 2d ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -152,7 +152,7 @@ Tech Xplore • 2d ago
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -208,7 +208,7 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 📺 Carros Show
 
-👁️ 10K • 👍 129 • 💬 6 • ⏱️ 8:33 • 4d ago
+👁️ 10K • 👍 129 • 💬 6 • ⏱️ 8:33 • 5d ago
 
 ---
 
@@ -248,7 +248,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 65K • 👍 3K • 💬 187 • ⏱️ 17:09 • 7h ago
+👁️ 65K • 👍 3K • 💬 187 • ⏱️ 17:09 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 📺 Cybernews
 
-👁️ 13K • 👍 198 • 💬 34 • ⏱️ 11:29 • 1d ago
+👁️ 13K • 👍 198 • 💬 34 • ⏱️ 11:29 • 2d ago
 
 ---
 

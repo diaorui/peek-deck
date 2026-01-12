@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T20:48:45.364060+00:00'
+updated: '2026-01-12T21:22:47.616692+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 20:48 UTC  
+**Last Updated:** January 12, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Keep calm while the storm pass
 
-9h ago
+10h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,19 +101,19 @@ Keep calm while the storm pass
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-3h ago
+4h ago
 
 ---
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
 
-7h ago
+8h ago
 
 ---
 
@@ -163,13 +163,13 @@ Yahoo Finance • 1h ago
 
 SEC chairman Paul Atkins joins 'Varney & Co.' to discuss a report that Venezuela has a $60 billion stash of bitcoin, the role of stablecoin in the future as well as crypto legislation.
 
-Fox Business • 2h ago
+Fox Business • 3h ago
 
 ---
 
 **['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 7h ago
 
 Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -197,7 +197,7 @@ Morningstar • 2h ago
 
 **[Altcoin Inflows Diverge From Bitcoin Outflows](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/altcoin-inflows-bitcoin-outflows-diverge/)**
 
-ETF Database • 27m ago
+ETF Database • 1h ago
 
 ---
 
@@ -205,13 +205,13 @@ ETF Database • 27m ago
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -275,7 +275,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 1 • 4d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 1 • 5d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -283,7 +283,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 1 • 💬 0 • 1h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 1 • 💬 0 • 2h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -299,7 +299,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 58 • 💬 12 • 12h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 58 • 💬 12 • 13h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 1K • 💬 293 • ⏱️ 1:07:27 • 4h ago
+👁️ 16K • 👍 1K • 💬 293 • ⏱️ 1:07:27 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 14K • 👍 731 • 💬 87 • ⏱️ 6:16 • 10h ago
+👁️ 14K • 👍 731 • 💬 87 • ⏱️ 6:16 • 11h ago
 
 ---
 
@@ -373,7 +373,7 @@ Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 1K • 💬 42 • ⏱️ 32:17 • 5h ago
+👁️ 14K • 👍 1K • 💬 42 • ⏱️ 32:17 • 6h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 16K • 👍 779 • 💬 154 • ⏱️ 19:14 • 9h ago
+👁️ 16K • 👍 779 • 💬 154 • ⏱️ 19:14 • 10h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 487 • 💬 45 • ⏱️ 1:14 • 20h ago
+👁️ 8K • 👍 487 • 💬 45 • ⏱️ 1:14 • 21h ago
 
 ---
 
@@ -401,7 +401,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 3K • 💬 150 • ⏱️ 10:58 • 15h ago
+👁️ 51K • 👍 3K • 💬 150 • ⏱️ 10:58 • 16h ago
 
 ---
 
