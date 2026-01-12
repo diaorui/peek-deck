@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T23:18:27.211398+00:00'
+updated: '2026-01-12T23:40:27.804414+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 23:18 UTC  
+**Last Updated:** January 12, 2026 at 23:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Rank #1
 
 Keep calm while the storm pass
 
-11h ago
+12h ago
 
 ---
 
@@ -107,7 +107,7 @@ Keep calm while the storm pass
 
 We're barely at the beginning, no panic, just HODL 💪🚀
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -135,13 +135,13 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
 
-9h ago
+10h ago
 
 ---
 
 **[Bullish?](https://www.reddit.com/r/Bitcoin/comments/1qb4im0/bullish/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -149,19 +149,27 @@ That’s right, diamond-handed degens, stack those sats while it’s cold out th
 
 ## Google News: "bitcoin"
 
-**[Iran’s Rial Just Collapsed. Is It Time For Bitcoin?](https://bitcoinmagazine.com/news/irans-rial-collapses-bitcoin-alternative)**
+**[Why Bitcoin Cash Slumped 5% Over This Weekend](https://www.fool.com/investing/2026/01/12/why-bitcoin-cash-slumped-5-over-this-weekend/)**
 
-Iran’s national currency, the rial, has effectively collapsed, now trading at roughly 1.4 million rials per U.S. dollar.
+Bitcoin Cash has been among the worst-performing large-cap tokens over the course of the past weekend.
 
-Bitcoin Magazine • 1h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin Price Climbs Near $92,000 as the Federal Reserve and DOJ Showdown](https://bitcoinmagazine.com/markets/bitcoin-price-climbs-near-92000-fed-doj)**
+**[Bitcoin stalls below $92,000 as privacy coins rally; crypto miners surge on Meta AI news](https://www.coindesk.com/markets/2026/01/12/bitcoin-stalls-below-usd92-000-as-privacy-coins-rally-crypto-miners-surge-on-meta-ai-news)**
 
-The bitcoin price climbed toward $92,000 as escalating tensions between the DOJ and Federal Reserve rattled traditional markets this morning.
+Traders rotated to Monero (XMR), Zcash (ZEC) and Railgun (RAIL) as bitcoin, ether remain stuck under key resistance levels.
 
-Bitcoin Magazine • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[Binance Founder CZ Encourages Crypto Holders As Wells Fargo Reports Bitcoin ETF Holdings (CORRECTED)](https://finance.yahoo.com/news/binance-founder-cz-encourages-crypto-164653277.html)**
+
+Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,13 +183,27 @@ Fox Business • 5h ago
 
 **[Altcoin Inflows Diverge From Bitcoin Outflows](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/altcoin-inflows-bitcoin-outflows-diverge/)**
 
-ETF Database • 2h ago
+ETF Database • 3h ago
 
 ---
 
 **[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://www.morningstar.com/news/pr-newswire/20260112ln61324/mezo-opens-pre-deposit-vaults-to-migrate-bitcoin-liquidity-from-ethereum-back-to-bitcoin-native-infrastructure)**
 
-Morningstar • 4h ago
+Morningstar • 5h ago
+
+---
+
+**[Bitcoin Is Signaling A Rare Market Structure Not Seen In Years - Here’s What It Is | Bitcoinist.com](https://bitcoinist.com/bitcoin-rare-market-structure/)**
+
+As seen in the crypto space, every market cycle has its own peculiarities, but Bitcoin is about to experience one of its most peculiar times yet.
+
+Bitcoinist.com • 5h ago
+
+---
+
+**[Is it too late to profitably invest in bitcoin?](https://www.star-telegram.com/news/business/article314292450.html)**
+
+Fort Worth Star-Telegram • 5h ago
 
 ---
 
@@ -189,37 +211,13 @@ Morningstar • 4h ago
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
 The Block • 17h ago
-
----
-
-**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
-
-Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
-
-Yahoo Finance • 19h ago
-
----
-
-**[Bitcoin price slips below $91,000 as privacy coins steal the spotlight: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today)**
-
-Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
-
-CoinDesk • 11h ago
-
----
-
-**[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
-
-With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
-
-CNBC • 2d ago
 
 ---
 
@@ -275,7 +273,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 1 • 💬 1 • 2h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 1 • 💬 1 • 3h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -313,7 +311,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 299 • ⏱️ 41:26 • 7h ago
+👁️ 26K • 👍 1K • 💬 299 • ⏱️ 41:26 • 8h ago
 
 ---
 
@@ -333,7 +331,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 55 • ⏱️ 8:17 • 9h ago
+👁️ 14K • 👍 2K • 💬 55 • ⏱️ 8:17 • 10h ago
 
 ---
 

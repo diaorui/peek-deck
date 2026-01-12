@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T23:18:27.203024+00:00'
+updated: '2026-01-12T23:40:27.795919+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 23:18 UTC  
+**Last Updated:** January 12, 2026 at 23:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ As we scale to GPT-5.2 and beyond, the energy footprint of centralized data cent
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 22h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 23h ago
 
 ---
 
@@ -95,7 +95,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-11h ago
+12h ago
 
 ---
 
@@ -125,41 +125,23 @@ The Guardian • 12h ago
 
 ---
 
-**[Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes](https://www.bbc.com/news/articles/cg7y10xm4x2o)**
-
-Sexualised images of real people generated by Grok have circulated on X in recent weeks.
-
-BBC • 17h ago
-
----
-
-**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won't matter’](https://fortune.com/2026/01/12/elon-musk-retirement-savings-irrelevant-ai-robots-abundance/)**
-
-Musk said a ‘supersonic tsunami’ of AI and robotics will bring about a world of zero scarcity.
-
-Fortune • 1h ago
-
----
-
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdJaz0-7MKHyIYP7JS_jC0uzefthjAWIzxDVk8VbwUQKpvrNjiuO5Z5&gaa_ts=69657720&gaa_sig=rjrZAdJMhG-zgZGh0DsW3Aw8hIE40VeS1mbf0Mh3FxL7X-zqBhWkLL7mnlx5CciAKqadr7xV78M9j6p3uxQyjw%3D%3D)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqc13yYfMtDxKUxMoOnXIZ3YDatkbaPDY0mKNU1yoq9gbQ6joz8vMTZR&gaa_ts=696589c5&gaa_sig=3YeYKhJTCT8sclxW3aDWDX0rD4BLFG8bgYsBi49k7Yau8Dzfp6fkcswuAyeNxfTWFecnMyEj1z5bkgto18iFeA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)**
+**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
 
-Google said that merchants can now offer discounts to users directly in AI mode results.
+Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-TechCrunch • 1d ago
+The Guardian • 21h ago
 
 ---
 
-**[Google launches new AI protocol for e-commerce](https://www.computerworld.com/article/4115682/google-launches-new-ai-protocol-for-e-commerce.html)**
+**[Apple Picks Gemini to Run AI-Powered Siri | Bloomberg Tech 1/12/2026](https://www.bloomberg.com/news/videos/2026-01-12/bloomberg-tech-1-12-2026-video)**
 
-The UCP protocol will first appear in instant checkout features in Google's AI mode in Search and in the Gemini app.
-
-Computerworld • 2h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -171,25 +153,43 @@ TechCrunch • 1h ago
 
 ---
 
-**[Here Are My Top 10 Artificial Intelligence (AI) Stocks for 2026](https://www.fool.com/investing/2026/01/11/here-are-my-top-10-artificial-intelligence-ai-stoc/)**
+**[Central Florida senator proposes AI bill to protect kids and personal data](https://www.wesh.com/article/central-florida-senator-proposes-ai-bill-protect-kids/69980259)**
 
-The AI sector continues to grow, and there are plenty of promising ways to invest in it.
+State Sen. Tom Leek, a Republican from Volusia County, filed a proposal he calls an AI Bill of Rights.
 
-The Motley Fool • 21h ago
-
----
-
-**[Nvidia to Invest $1 Billion in AI Drug Lab With Eli Lilly](https://www.bloomberg.com/news/videos/2026-01-12/nvidia-to-invest-1-billion-in-ai-drug-lab-video)**
-
-Bloomberg.com • 2h ago
+WESH • 36m ago
 
 ---
 
-**[A Once-in-a-Decade Investment Opportunity: The Best Artificial Intelligence (AI) Stock to Buy in 2026](https://www.fool.com/investing/2026/01/12/a-once-in-a-decade-investment-opportunity-the-best/)**
+**[New EHR and patient record integrations with Claude AI](https://www.healthcareitnews.com/news/new-ehr-and-patient-record-integrations-claude-ai)**
 
-Nvidia has been the star of the artificial intelligence show for three years, and its stellar performance doesn't appear to be coming to an end.
+Elation Health and HealthEx announced they are integrating Anthropic's Claude artificial intelligence to better synthesize health data for doctors and patients.
 
-The Motley Fool • 10h ago
+Healthcare IT News • 1h ago
+
+---
+
+**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
+
+“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
+
+Yahoo Finance • 1d ago
+
+---
+
+**[AI can now 'see' optical illusions. What does it tell us about our own brains?](https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions)**
+
+Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.
+
+BBC • 13h ago
+
+---
+
+**[The Dangerous Paradox of A.I. Abundance](https://www.newyorker.com/news/the-financial-page/the-dangerous-paradox-of-ai-abundance)**
+
+Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
+
+The New Yorker • 12h ago
 
 ---
 
@@ -239,7 +239,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 44 • 💬 39 • 4h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 44 • 💬 39 • 5h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -311,7 +311,7 @@ The Join the #1 community for AI entrepreneurs and connect with 280k+ members: h
 
 📺 Liam Ottley
 
-👁️ 14K • 👍 982 • 💬 60 • ⏱️ 10:29 • 15h ago
+👁️ 14K • 👍 982 • 💬 60 • ⏱️ 10:29 • 16h ago
 
 ---
 
@@ -371,7 +371,7 @@ Meta and Harvard just released an open-source coding agent called Confucius Code
 
 📺 AI Revolution
 
-👁️ 30K • 👍 993 • 💬 42 • ⏱️ 14:29 • 23h ago
+👁️ 30K • 👍 993 • 💬 42 • ⏱️ 14:29 • 1d ago
 
 ---
 
@@ -641,7 +641,7 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.0k • 6h ago
+⭐ 8.2k • 🔱 1.0k • 7h ago
 
 ---
 
@@ -661,7 +661,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 139 • 4h ago
+⭐ 2.3k • 🔱 139 • 5h ago
 
 ---
 
@@ -691,7 +691,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 126 • 7h ago
+⭐ 1.5k • 🔱 126 • 8h ago
 
 ---
 
@@ -731,7 +731,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 12h ago
+⭐ 1.2k • 🔱 143 • 13h ago
 
 ---
 

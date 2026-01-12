@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T23:18:27.217378+00:00'
+updated: '2026-01-12T23:40:27.810366+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 23:18 UTC  
+**Last Updated:** January 12, 2026 at 23:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -168,11 +168,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Shouldn't Delay Preparing for Quantum Computing Threat, Says Vitalik Buterin](https://finance.yahoo.com/news/ethereum-shouldnt-delay-preparing-quantum-195028149.html)**
+**[Staking goes mainstream: what 2026 could look like for ether investors](https://www.coindesk.com/markets/2026/01/07/staking-goes-mainstream-what-2026-could-look-like-for-ether-investors)**
 
-Ethereum co-founder Vitalik Buterin says the network should be able to function for decades without relying on constant upgrades, including resisting future quantum computers.
+From fully staked ETFs to customizable institutional vaults, staking is evolving from a secondary consideration into a foundational pillar of Ethereum’s market structure.
 
-Yahoo Finance • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -182,27 +182,11 @@ The Block • 11h ago
 
 ---
 
-**[Vitalik Buterin lays out 'walkaway test' for a quantum safe Ethereum](https://www.coindesk.com/tech/2026/01/12/vitalik-buterin-lays-out-walkaway-test-for-a-quantum-safe-ethereum)**
+**[Ethereum Staking Hits Choke Point as Institutions Pile in Despite Low Yields](https://finance.yahoo.com/news/ethereum-staking-hits-choke-point-153000578.html)**
 
-Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
+Ethereum’s staking system is facing a growing bottleneck as institutional investors, led by BitMine and new staking ETFs.
 
-CoinDesk • 8h ago
-
----
-
-**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://finance.yahoo.com/news/mezo-opens-pre-deposit-vaults-183100426.html)**
-
-Mezo, a Bitcoin-native financial infrastructure protocol, today announced the allocation of up to 2.5% of the total MEZO token supply to incentivize early depositors in its "Bring Bitcoin Home" pre-deposit vaults. The vaults target the more than $11 billion in wrapped Bitcoin currently sitting on EthereumDeFi.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Bitcoin, Ethereum ETFs Shed Nearly All 2026 Gains as Rate Cut Hopes Fade](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-shed-nearly-182549767.html)**
-
-Bitcoin and Ethereum ETFs are surrendering nearly all 2026 gains as fading Fed rate cut hopes drive sizable crypto fund outflows.
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -214,17 +198,33 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
-
-CCN.com • 9h ago
-
----
-
 **[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Bank of Italy: what if TradFi adopts Ethereum but ETH collapses?](https://www.ledgerinsights.com/bank-of-italy-what-if-tradfi-adopts-ethereum-but-eth-collapses/)**
+
+The Bank of Italy has published a working paper exploring how to handle a loss of faith in a public blockchain, with Ethereum as one example. It sees it
+
+ledgerinsights.com • 6h ago
+
+---
+
+**[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
+
+Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
+
+CryptoSlate • 2d ago
+
+---
+
+**[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
+
+thedefiant.io • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 55 • ⏱️ 8:17 • 9h ago
+👁️ 14K • 👍 2K • 💬 55 • ⏱️ 8:17 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN REPEATING HISTORY: Don't Be FOOLED!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 2K • 👍 141 • 💬 153 • ⏱️ 18:43 • 1h ago
+👁️ 2K • 👍 141 • 💬 153 • ⏱️ 18:43 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 289 • 👍 23 • 💬 64 • ⏱️ 10:08 • 5h ago
+👁️ 289 • 👍 23 • 💬 64 • ⏱️ 10:08 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays v
 
 📺 World Liberty Financial
 
-👁️ 2K • 👍 22 • 💬 5 • ⏱️ 2:01 • 1h ago
+👁️ 2K • 👍 22 • 💬 5 • ⏱️ 2:01 • 2h ago
 
 ---
 

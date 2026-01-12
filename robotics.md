@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T23:18:27.220564+00:00'
+updated: '2026-01-12T23:40:27.813616+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 23:18 UTC  
+**Last Updated:** January 12, 2026 at 23:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ This document describes in detail the navigation task environment based on the A
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 3h ago
+🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 4h ago
 
 ---
 
 **[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -160,7 +160,7 @@ Grand Forks Herald • 1d ago
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
