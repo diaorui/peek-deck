@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T16:57:05.745227+00:00'
+updated: '2026-01-12T17:27:10.104178+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 16:57 UTC  
+**Last Updated:** January 12, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 17h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 18h ago
 
 ---
 
@@ -49,7 +49,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 16h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-12h ago
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Yahoo Finance • 22h ago
 
 Malaysia and Indonesia have become the first countries to block Grok, the artificial intelligence chatbot developed by Elon Musk's xAI, after authorities said it was being misused to generate sexually explicit and non-consensual images.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 5h ago
 
 **[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 6h ago
 
 Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -161,19 +161,19 @@ CNBC • 1h ago
 
 Apple and Alphabet have reached a deal that will have Google Gemini powering Siri's artificial intelligence capabilities.
 
-Business Insider • 34m ago
+Business Insider • 1h ago
 
 ---
 
 **[Google, Apple enter into multi-year AI deal for Gemini models](https://www.reuters.com/business/google-apple-enter-into-multi-year-ai-deal-gemini-models-2026-01-12/)**
 
-Reuters • 25m ago
+Reuters • 55m ago
 
 ---
 
 **[5 new proposals to regulate AI in Washington state, from classrooms to digital companions](https://www.geekwire.com/2026/5-new-proposals-to-regulate-ai-in-washington-state-from-classrooms-to-digital-companions/)**
 
-GeekWire • 46m ago
+GeekWire • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ GeekWire • 46m ago
 
 Media bosses expect web referrals to plunge and want journalists to emulate content creators, report finds
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 10h ago
 
 Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
 
-The New Yorker • 5h ago
+The New Yorker • 6h ago
 
 ---
 
@@ -233,7 +233,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 103 • 💬 35 • 7h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 103 • 💬 35 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -283,7 +283,7 @@ What happens when the Teenage Mutant Ninja Turtles crash-land on Pandora? In thi
 
 📺 Ai of Euphoria 
 
-👁️ 12K • 👍 338 • 💬 55 • ⏱️ 2:07 • 22h ago
+👁️ 12K • 👍 338 • 💬 55 • ⏱️ 2:07 • 23h ago
 
 ---
 
@@ -303,7 +303,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 2K • 👍 185 • 💬 57 • ⏱️ 24:00 • 21h ago
+👁️ 2K • 👍 185 • 💬 57 • ⏱️ 24:00 • 22h ago
 
 ---
 
@@ -373,7 +373,7 @@ In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with s
 
 📺 Dr Brian Keating
 
-👁️ 7K • 👍 188 • 💬 22 • ⏱️ 5:50 • 23h ago
+👁️ 7K • 👍 188 • 💬 22 • ⏱️ 5:50 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 23,889 • ❤️ 491 • 4d ago
+⬇️ 23,889 • ❤️ 491 • 5d ago
 
 ---
 
@@ -684,7 +684,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 52 • 9h ago
+⭐ 1.5k • 🔱 52 • 10h ago
 
 ---
 
@@ -694,7 +694,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 126 • 1h ago
+⭐ 1.5k • 🔱 126 • 2h ago
 
 ---
 

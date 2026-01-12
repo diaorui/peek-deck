@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T16:57:05.753828+00:00'
+updated: '2026-01-12T17:27:10.112527+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 16:57 UTC  
+**Last Updated:** January 12, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Keep calm while the storm pass
 
-5h ago
+6h ago
 
 ---
 
@@ -95,19 +95,19 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-16h ago
+17h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-3h ago
+4h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,13 +115,13 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
 
-3h ago
+4h ago
 
 ---
 
 **[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 19h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 20h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 1d ago
 
 The bank sees ether benefiting from sector-specific tailwinds even as broader crypto momentum remains uneven.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1h ago
 
 **[Strategy Buys $1.25 Billion in Bitcoin in Largest Purchase Since July](https://www.bloomberg.com/news/articles/2026-01-12/strategy-buys-1-25-billion-in-bitcoin-in-largest-purchase-since-july)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -209,7 +209,7 @@ dlnews.com • 1d ago
 
 A Satoshi-era Bitcoin miner reactivated long-dormant wallets to move 2,000 BTC, worth about $181 million, to Coinbase.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -225,7 +225,7 @@ CryptoSlate • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 10K • 👍 627 • 💬 86 • ⏱️ 19:14 • 5h ago
+👁️ 10K • 👍 627 • 💬 86 • ⏱️ 19:14 • 6h ago
 
 ---
 
@@ -339,7 +339,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 126 • ⏱️ 10:58 • 11h ago
+👁️ 40K • 👍 3K • 💬 126 • ⏱️ 10:58 • 12h ago
 
 ---
 
