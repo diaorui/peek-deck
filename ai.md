@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T15:52:00.613368+00:00'
+updated: '2026-01-12T16:29:01.467280+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 15:52 UTC  
+**Last Updated:** January 12, 2026 at 16:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Epic Games CEO Tim Sweeney argues banning Twitter over its ability to AI-generate pornographic images of minors is just 'gatekeepers' attempting to 'censor all of their political opponents'](https://www.reddit.com/r/artificial/comments/1qaw5v3/epic_games_ceo_tim_sweeney_argues_banning_twitter/)**
-
-Not the hill I'd die on, but I'm not a billionaire.
-
-🔗 [PC Gamer](https://www.pcgamer.com/gaming-industry/epic-games-ceo-tim-sweeney-argues-banning-twitter-over-its-ability-to-ai-generate-pornographic-images-of-minors-is-just-gatekeepers-attempting-to-censor-all-of-their-political-opponents/) • 1h ago
-
----
-
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/)**
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 16h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 17h ago
 
 ---
 
@@ -57,7 +49,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 15h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 16h ago
 
 ---
 
@@ -65,7 +57,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +65,7 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-11h ago
+12h ago
 
 ---
 
@@ -115,6 +107,14 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 ---
 
+**[A deep dive into how I trained an edit model to show highly relevant code suggestions while programming](https://www.reddit.com/r/artificial/comments/1q9ai6f/a_deep_dive_into_how_i_trained_an_edit_model_to/)**
+
+This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -145,13 +145,13 @@ The Guardian • 13h ago
 
 Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
 
-CNBC • 32m ago
+CNBC • 1h ago
 
 ---
 
 **[Nvidia to Invest $1 Billion in AI Drug Laboratory With Eli Lilly](https://www.bloomberg.com/news/articles/2026-01-12/nvidia-to-invest-1-billion-in-ai-drug-laboratory-with-eli-lilly)**
 
-Bloomberg.com • 52m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 52m ago
 
 Eli Lilly and Nvidia, two primary drivers of the recent stock market rally, are deepening their alliance to connect silicon with biology through artificial-intelligence-powered drug development.
 
-Fierce Biotech • 52m ago
+Fierce Biotech • 1h ago
 
 ---
 
@@ -167,13 +167,13 @@ Fierce Biotech • 52m ago
 
 Nvidia's 'AI NPC' technology, ACE, is coming to more games in 2026 — and I've got some concerns about the direction this is going.
 
-TechRadar • 2h ago
+TechRadar • 3h ago
 
 ---
 
 **[AI needs spatial intelligence. The GEOINT industry will deliver it.](https://spacenews.com/ai-needs-spatial-intelligence-the-geoint-industry-will-deliver-it/)**
 
-SpaceNews • 52m ago
+SpaceNews • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ SpaceNews • 52m ago
 
 Malaysia and Indonesia have become the first countries to block Grok, the artificial intelligence chatbot developed by Elon Musk's xAI, after authorities said it was being misused to generate sexually explicit and non-consensual images.
 
-NPR • 8h ago
+NPR • 9h ago
 
 ---
 
@@ -189,7 +189,7 @@ NPR • 8h ago
 
 The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ BBC • 3h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1114 • 💬 1400 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1125 • 💬 1420 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -209,7 +209,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 612 • 💬 361 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 612 • 💬 362 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -217,7 +217,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 333 • 💬 328 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 334 • 💬 328 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -233,7 +233,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 84 • 💬 30 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 103 • 💬 35 • 7h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -261,7 +261,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 28 • 💬 16 • 16h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 29 • 💬 16 • 16h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -283,7 +283,7 @@ What happens when the Teenage Mutant Ninja Turtles crash-land on Pandora? In thi
 
 📺 Ai of Euphoria 
 
-👁️ 12K • 👍 338 • 💬 55 • ⏱️ 2:07 • 21h ago
+👁️ 12K • 👍 338 • 💬 55 • ⏱️ 2:07 • 22h ago
 
 ---
 
@@ -303,7 +303,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 2K • 👍 185 • 💬 57 • ⏱️ 24:00 • 20h ago
+👁️ 2K • 👍 185 • 💬 57 • ⏱️ 24:00 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with s
 
 📺 Dr Brian Keating
 
-👁️ 7K • 👍 188 • 💬 22 • ⏱️ 5:50 • 22h ago
+👁️ 7K • 👍 188 • 💬 22 • ⏱️ 5:50 • 23h ago
 
 ---
 
@@ -549,7 +549,7 @@ Large vision-language models are enhanced for image geolocalization by incorpora
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 22 • 💬 2 • ⭐ 789 • 6d ago
+▲ 22 • 💬 2 • ⭐ 789 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -644,7 +644,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.1k • 🔱 1.0k • 17m ago
+⭐ 8.1k • 🔱 1.0k • 54m ago
 
 ---
 
@@ -684,7 +684,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 52 • 8h ago
+⭐ 1.5k • 🔱 52 • 9h ago
 
 ---
 
@@ -694,7 +694,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 126 • 33m ago
+⭐ 1.5k • 🔱 126 • 1h ago
 
 ---
 
@@ -724,7 +724,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 5h ago
+⭐ 1.2k • 🔱 143 • 6h ago
 
 ---
 

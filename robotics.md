@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T15:52:00.628683+00:00'
+updated: '2026-01-12T16:29:01.484875+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 15:52 UTC  
+**Last Updated:** January 12, 2026 at 16:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,6 +34,14 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
+6h ago
+
+---
+
+**[ANYmal-C Locomotion](https://www.reddit.com/r/robotics/comments/1qaryjy/anymalc_locomotion/)**
+
+This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
+
 5h ago
 
 ---
@@ -43,14 +51,6 @@ Robotics research and industry news
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
 1d ago
-
----
-
-**[ANYmal-C Locomotion](https://www.reddit.com/r/robotics/comments/1qaryjy/anymalc_locomotion/)**
-
-This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
-
-4h ago
 
 ---
 
@@ -70,11 +70,27 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 ---
 
+**[Robotics Joint CAD Example](https://www.reddit.com/r/robotics/comments/1qaz2hj/robotics_joint_cad_example/)**
+
+I was looking at some 'frameless' motors and was considering playing around with making an integrated motorized joint. Are there any open projects or CAD files around that show how these sorts of motors are integrated into a final design? Thanks!!
+
+16m ago
+
+---
+
 **[Kutzbach criterion to get dof](https://www.reddit.com/r/robotics/comments/1qawvgb/kutzbach_criterion_to_get_dof/)**
 
-https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bcfbfbacf49ba5a0b91defd0ab1cb1b90cdf51 I am new to robotics, was trying to understand how to determine no. of dof. I have several doubts - 1. how is the sliding joint considered a link? it has been numbered 8 in the image 2. how to know if a joint has 1 or 2 dof where can I get a clear picture about finding dof and kutzback crietrion?
+https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bcfbfbacf49ba5a0b91defd0ab1cb1b90cdf51 I am new to robotics, was trying to understand how to determine no. of dof. Where can I get a clear picture about finding dof and kutzback crietrion? I have several doubts in this image - how is the sliding joint considered a link? it has been numbered 8 in the image how to know if a joint has 1 or 2 dof what are all the links in this robot? is a platform (5 in the image) considered as a single link?
 
 1h ago
+
+---
+
+**[Warehouse Robotics Market Projected to Hit $78 Billion by 2040: Key Insights & Trends](https://www.reddit.com/r/robotics/comments/1qapmrb/warehouse_robotics_market_projected_to_hit_78/)**
+
+A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
+
+7h ago
 
 ---
 
@@ -92,31 +108,15 @@ This is a humanoid robot I’m building, think ima name him “Bing C Superfly�
 
 ---
 
-**[Continuous force using a servo?](https://www.reddit.com/r/robotics/comments/1qajttv/continuous_force_using_a_servo/)**
-
-Im making a project with a gripper, and im using a servo to move the gears to squeeze the gripper. My question is how do i get continuous squeezing force on the gripped object, without having the servo in a continuous stall? Im thinking to like check the current, and if its at stall current, turn off the servo then like turn it on and off every couple ms or something, like flickering the power. But would that be bad for the servo? Does anyone know how to do this?
-
-12h ago
-
----
-
-**[Warehouse Robotics Market Projected to Hit $78 Billion by 2040: Key Insights & Trends](https://www.reddit.com/r/robotics/comments/1qapmrb/warehouse_robotics_market_projected_to_hit_78/)**
-
-A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
-
-7h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
+**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
 
-If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
+From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
-TechCrunch • 2d ago
+Engadget • 2d ago
 
 ---
 
@@ -132,15 +132,7 @@ IEEE Spectrum • 8h ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 15h ago
-
----
-
-**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
-
-From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
-
-Engadget • 2d ago
+BBC • 16h ago
 
 ---
 
@@ -152,7 +144,7 @@ Tech Xplore • 2d ago
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -177,6 +169,14 @@ Yahoo Finance • 2h ago
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
 CNBC • 10h ago
+
+---
+
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
+
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+
+WYMT • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 82K • 👍 1K • 💬 257 • ⏱️ 11:46 • 23h ago
+👁️ 82K • 👍 1K • 💬 257 • ⏱️ 11:46 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 7K • 👍 897 • 💬 44 • ⏱️ 17:09 • 2h ago
+👁️ 7K • 👍 897 • 💬 44 • ⏱️ 17:09 • 3h ago
 
 ---
 

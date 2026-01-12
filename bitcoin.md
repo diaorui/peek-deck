@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T15:52:00.620766+00:00'
+updated: '2026-01-12T16:29:01.475672+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 15:52 UTC  
+**Last Updated:** January 12, 2026 at 16:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,619.99
+### $91,879.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -2.8%  
-**30d:** +3.2%  
-**90d:** -18.0%  
-**1y:** -3.5%  
+**24h:** +0.9%  
+**7d:** -1.9%  
+**30d:** +4.2%  
+**90d:** -17.2%  
+**1y:** -2.5%  
 
 ---
 
@@ -77,11 +77,51 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin Cycle](https://www.reddit.com/r/Bitcoin/comments/1qasblm/bitcoin_cycle/)**
+
+Keep calm while the storm pass
+
+5h ago
+
+---
+
 **[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
 11h ago
+
+---
+
+**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
+
+16h ago
+
+---
+
+**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
+
+3h ago
+
+---
+
+**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
+
+3h ago
+
+---
+
+**[Rise and shine, Hodlers! Don’t forget your cold storage wallets ‘cause institutions want your bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1qauq8n/rise_and_shine_hodlers_dont_forget_your_cold/)**
+
+That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
+
+3h ago
+
+---
+
+**[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
+
+3h ago
 
 ---
 
@@ -93,49 +133,9 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 ---
 
-**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
-
-15h ago
-
----
-
-**[Rise and shine, Hodlers! Don’t forget your cold storage wallets ‘cause institutions want your bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1qauq8n/rise_and_shine_hodlers_dont_forget_your_cold/)**
-
-That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
-
-2h ago
-
----
-
-**[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
-
-2h ago
-
----
-
-**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
-
-2h ago
-
----
-
-**[Bitcoin Cycle](https://www.reddit.com/r/Bitcoin/comments/1qasblm/bitcoin_cycle/)**
-
-Keep calm while the storm pass
-
-4h ago
-
----
-
-**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
-
-2h ago
-
----
-
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ Keep calm while the storm pass
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 18h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 19h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 1d ago
 
 The bank sees ether benefiting from sector-specific tailwinds even as broader crypto momentum remains uneven.
 
-CoinDesk • 38m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ KITCO • 1d ago
 
 Miner active in the days of Bitcoin founder Satoshi Nakamoto, says expert. Two early “Bitcoin whales” moved coins worth $181 million late last year. VanEck predicts big Bitcoin price rises by 2050.
 
-dlnews.com • 23h ago
+dlnews.com • 1d ago
 
 ---
 
@@ -211,7 +211,7 @@ dlnews.com • 23h ago
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -223,7 +223,7 @@ entrepreneur.com • 2d ago
 
 **['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -295,7 +295,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 52 • 💬 8 • 8h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 55 • 💬 11 • 8h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -317,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 658 • 💬 43 • ⏱️ 41:26 • 24m ago
+👁️ 8K • 👍 658 • 💬 43 • ⏱️ 41:26 • 1h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 10K • 👍 627 • 💬 86 • ⏱️ 19:14 • 4h ago
+👁️ 10K • 👍 627 • 💬 86 • ⏱️ 19:14 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 126 • ⏱️ 10:58 • 10h ago
+👁️ 40K • 👍 3K • 💬 126 • ⏱️ 10:58 • 11h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T15:52:00.625952+00:00'
+updated: '2026-01-12T16:29:01.481658+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 15:52 UTC  
+**Last Updated:** January 12, 2026 at 16:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,114.68
+### $3,130.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -5.1%  
-**30d:** +2.0%  
-**90d:** -21.7%  
-**1y:** -0.2%  
+**24h:** +0.3%  
+**7d:** -4.8%  
+**30d:** +2.3%  
+**90d:** -21.4%  
+**1y:** +0.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -178,13 +178,13 @@ The Block • 3h ago
 
 Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[StanChart says 2026 will be the year of Ethereum, sets new 2030 price target](https://www.investing.com/news/cryptocurrency-news/stanchart-says-2026-will-be-the-year-of-ethereum-sets-new-2030-price-target-4441812)**
 
-Investing.com • 2h ago
+Investing.com • 3h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 1d ago
 
 Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 22 • ⏱️ 4:37 • 11h ago
+👁️ 2K • 👍 144 • 💬 22 • ⏱️ 4:37 • 12h ago
 
 ---
 
@@ -274,7 +274,7 @@ The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shock
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 898 • 💬 186 • ⏱️ 36:33 • 5h ago
+👁️ 7K • 👍 898 • 💬 186 • ⏱️ 36:33 • 6h ago
 
 ---
 
@@ -294,7 +294,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 684 • 💬 157 • ⏱️ 14:17 • 2h ago
+👁️ 4K • 👍 684 • 💬 157 • ⏱️ 14:17 • 3h ago
 
 ---
 
@@ -314,7 +314,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 505 • 👍 71 • 💬 2 • ⏱️ 5:01 • 1h ago
+👁️ 505 • 👍 71 • 💬 2 • ⏱️ 5:01 • 2h ago
 
 ---
 
