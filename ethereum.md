@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T22:20:41.580043+00:00'
+updated: '2026-01-12T22:43:44.601484+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 22:20 UTC  
+**Last Updated:** January 12, 2026 at 22:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[How effective is Monero for ETH Privacy?](https://www.reddit.com/r/ethereum/comments/1qb5q6f/how_effective_is_monero_for_eth_privacy/)**
-
-Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
-
-2h ago
-
----
-
 **[South Korea Ends Its Crypto Ban!!](https://www.reddit.com/r/ethereum/comments/1qb48hy/south_korea_ends_its_crypto_ban/)**
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
 🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 3h ago
+
+---
+
+**[How effective is Monero for ETH Privacy?](https://www.reddit.com/r/ethereum/comments/1qb5q6f/how_effective_is_monero_for_eth_privacy/)**
+
+Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
+
+2h ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 7h ago
 
 Mezo, a Bitcoin-native financial infrastructure protocol, today announced the allocation of up to 2.5% of the total MEZO token supply to incentivize early depositors in its "Bring Bitcoin Home" pre-deposit vaults. The vaults target the more than $11 billion in wrapped Bitcoin currently sitting on EthereumDeFi.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin and Ethereum ETFs are surrendering nearly all 2026 gains as fading Fed rate cut hopes drive sizable crypto fund outflows.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 8h ago
+👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 185 • 👍 14 • 💬 40 • ⏱️ 10:08 • 4h ago
+👁️ 185 • 👍 14 • 💬 40 • ⏱️ 10:08 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 104 • 👍 7 • 💬 2 • ⏱️ 5:00 • 2h ago
+👁️ 104 • 👍 7 • 💬 2 • ⏱️ 5:00 • 3h ago
 
 ---
 

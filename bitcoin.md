@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T22:20:41.573704+00:00'
+updated: '2026-01-12T22:43:44.595571+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 22:20 UTC  
+**Last Updated:** January 12, 2026 at 22:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,327.24
+### $91,001.00
 
 ---
 
@@ -97,11 +97,17 @@ Keep calm while the storm pass
 
 ---
 
+**[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
+
+1h ago
+
+---
+
 **[This is just the beginning 😎](https://www.reddit.com/r/Bitcoin/comments/1qb68kd/this_is_just_the_beginning/)**
 
 We're barely at the beginning, no panic, just HODL 💪🚀
 
-1h ago
+2h ago
 
 ---
 
@@ -129,21 +135,13 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
 
-8h ago
-
----
-
-**[Jerome Down Bad - Got Bitcoin ?](https://www.reddit.com/r/Bitcoin/comments/1qak4f0/jerome_down_bad_got_bitcoin/)**
-
-source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
-
-18h ago
+9h ago
 
 ---
 
 **[Bullish?](https://www.reddit.com/r/Bitcoin/comments/1qb4im0/bullish/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -155,7 +153,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Iran’s national currency, the rial, has effectively collapsed, now trading at roughly 1.4 million rials per U.S. dollar.
 
-Bitcoin Magazine • 56m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -177,13 +175,13 @@ Fox Business • 4h ago
 
 **[Altcoin Inflows Diverge From Bitcoin Outflows](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/altcoin-inflows-bitcoin-outflows-diverge/)**
 
-ETF Database • 1h ago
+ETF Database • 2h ago
 
 ---
 
 **[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://www.morningstar.com/news/pr-newswire/20260112ln61324/mezo-opens-pre-deposit-vaults-to-migrate-bitcoin-liquidity-from-ethereum-back-to-bitcoin-native-infrastructure)**
 
-Morningstar • 3h ago
+Morningstar • 4h ago
 
 ---
 
@@ -205,7 +203,7 @@ The Block • 16h ago
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -213,7 +211,7 @@ Yahoo Finance • 18h ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -277,7 +275,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 1 • 💬 1 • 1h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 1 • 💬 1 • 2h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -325,7 +323,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 20K • 👍 2K • 💬 884 • ⏱️ 2:04:54 • 8h ago
+👁️ 20K • 👍 2K • 💬 884 • ⏱️ 2:04:54 • 9h ago
 
 ---
 
@@ -335,7 +333,7 @@ Bitcoin adoption is following a familiar path. In this clip from Swan Signal Liv
 
 📺 Swan Bitcoin
 
-👁️ 1K • 👍 79 • 💬 73 • ⏱️ 14:33 • 3h ago
+👁️ 1K • 👍 79 • 💬 73 • ⏱️ 14:33 • 4h ago
 
 ---
 
@@ -365,7 +363,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 8h ago
+👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 9h ago
 
 ---
 

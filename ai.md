@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T22:20:41.564803+00:00'
+updated: '2026-01-12T22:43:44.587108+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 22:20 UTC  
+**Last Updated:** January 12, 2026 at 22:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ As we scale to GPT-5.2 and beyond, the energy footprint of centralized data cent
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 21h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 22h ago
 
 ---
 
@@ -95,7 +95,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-10h ago
+11h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Guardian • 11h ago
 
 Sexualised images of real people generated by Grok have circulated on X in recent weeks.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 16h ago
 
 Musk said a ‘supersonic tsunami’ of AI and robotics will bring about a world of zero scarcity.
 
-Fortune • 6m ago
+Fortune • 29m ago
 
 ---
 
@@ -167,7 +167,7 @@ Computerworld • 1h ago
 
 Amazon explains where its wearable Bee fits in and whether it will merge with Alexa.
 
-TechCrunch • 24m ago
+TechCrunch • 48m ago
 
 ---
 
@@ -209,7 +209,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 613 • 💬 362 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 613 • 💬 362 • 3d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -255,7 +255,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 38 • 💬 28 • 3h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 38 • 💬 28 • 4h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -353,7 +353,7 @@ Meta and Harvard just released an open-source coding agent called Confucius Code
 
 📺 AI Revolution
 
-👁️ 28K • 👍 952 • 💬 41 • ⏱️ 14:29 • 22h ago
+👁️ 28K • 👍 952 • 💬 41 • ⏱️ 14:29 • 23h ago
 
 ---
 
@@ -473,7 +473,7 @@ Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomo
 
 `robotics` `11.1B`
 
-⬇️ 13,820 • ❤️ 268 • 3d ago
+⬇️ 13,820 • ❤️ 268 • 4d ago
 
 ---
 
@@ -644,7 +644,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.1k • 🔱 1.0k • 5h ago
+⭐ 8.1k • 🔱 1.0k • 6h ago
 
 ---
 
@@ -664,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 139 • 3h ago
+⭐ 2.3k • 🔱 139 • 4h ago
 
 ---
 
@@ -714,7 +714,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 114 • 2d ago
+⭐ 1.3k • 🔱 114 • 3d ago
 
 ---
 
@@ -724,7 +724,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 11h ago
+⭐ 1.2k • 🔱 143 • 12h ago
 
 ---
 
