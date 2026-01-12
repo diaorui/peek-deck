@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T07:49:25.310316+00:00'
+updated: '2026-01-12T08:34:47.303793+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 07:49 UTC  
+**Last Updated:** January 12, 2026 at 08:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 10h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 11h ago
 
 ---
 
@@ -95,7 +95,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-4h ago
+5h ago
 
 ---
 
@@ -109,19 +109,19 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -129,7 +129,7 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
 
-6h ago
+7h ago
 
 ---
 
@@ -145,7 +145,7 @@ The current BTC setup is showing a very familiar structure: • ​Similar break
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-11h ago
+12h ago
 
 ---
 
@@ -157,7 +157,7 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 16h ago
+KITCO • 17h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 1d ago
 
 Earlier this month Wells Fargo & Company issued a series of fixed-rate, callable senior unsecured notes maturing between 2030 and 2041, alongside news that it had recently accumulated substantial amounts of Bitcoin amid a period of uncertainty in cryptocurrency markets. This combination of fresh long-dated funding and a sizeable Bitcoin position marks an unusual move for a major U.S. bank, highlighting Wells Fargo’s willingness to use both traditional bonds and digital assets in its balance...
 
-Yahoo! Finance Canada • 44m ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ TradingView — Track All Markets • 1d ago
 
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Block • 3d ago
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-BeInCrypto • 4h ago
+BeInCrypto • 5h ago
 
 ---
 
@@ -319,7 +319,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 188 • 💬 92 • ⏱️ 7:14 • 9h ago
+👁️ 3K • 👍 188 • 💬 92 • ⏱️ 7:14 • 10h ago
 
 ---
 
@@ -369,7 +369,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 1K • 💬 471 • ⏱️ 1:01:22 • 17h ago
+👁️ 26K • 👍 1K • 💬 471 • ⏱️ 1:01:22 • 18h ago
 
 ---
 
@@ -389,7 +389,7 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 73 • 💬 73 • ⏱️ 7:47 • 17h ago
+👁️ 4K • 👍 73 • 💬 73 • ⏱️ 7:47 • 18h ago
 
 ---
 
@@ -399,7 +399,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity ✓
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 186 • 💬 42 • ⏱️ 9:12 • 2h ago
+👁️ 2K • 👍 186 • 💬 42 • ⏱️ 9:12 • 3h ago
 
 ---
 

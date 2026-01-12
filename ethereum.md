@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T07:49:25.316279+00:00'
+updated: '2026-01-12T08:34:47.309770+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 07:49 UTC  
+**Last Updated:** January 12, 2026 at 08:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -156,7 +156,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 18h ago
 
 EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 18h ago
 
 An early Ethereum investor exits entirely with $274 million in profit, signaling market uncertainty amid institutional sell pressure.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ TradingView — Track All Markets • 1d ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Motley Fool • 21h ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 20h ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -226,7 +226,7 @@ Coinpedia Fintech News • 2d ago
 
 **[Ethereum ETF Attracts Fresh Cash as Investors Lean Into Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-attracts-fresh-cash-as-investors-lean-into-volatility)**
 
-TipRanks • 21h ago
+TipRanks • 22h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 758 • 👍 94 • 💬 7 • ⏱️ 4:37 • 3h ago
+👁️ 758 • 👍 94 • 💬 7 • ⏱️ 4:37 • 4h ago
 
 ---
 
@@ -260,7 +260,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 211 • 💬 52 • ⏱️ 12:34 • 22h ago
+👁️ 3K • 👍 211 • 💬 52 • ⏱️ 12:34 • 23h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 265 • 💬 130 • ⏱️ 14:54 • 11h ago
+👁️ 7K • 👍 265 • 💬 130 • ⏱️ 14:54 • 12h ago
 
 ---
 
@@ -310,7 +310,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 465 • 💬 60 • ⏱️ 9:05 • 2h ago
+👁️ 2K • 👍 465 • 💬 60 • ⏱️ 9:05 • 3h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 10 • ⏱️ 5:19 • 15h ago
+👁️ 2K • 👍 140 • 💬 10 • ⏱️ 5:19 • 16h ago
 
 ---
 
