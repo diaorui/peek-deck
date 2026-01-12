@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T11:42:39.679347+00:00'
+updated: '2026-01-12T12:51:23.845506+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 11:42 UTC  
+**Last Updated:** January 12, 2026 at 12:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
+**24h:** -0.2%  
 **7d:** -3.2%  
 **30d:** +2.8%  
 **90d:** -18.4%  
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
-
-11h ago
-
----
-
 **[Jerome Down Bad - Got Bitcoin ?](https://www.reddit.com/r/Bitcoin/comments/1qak4f0/jerome_down_bad_got_bitcoin/)**
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-8h ago
+9h ago
+
+---
+
+**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
+
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-7h ago
+8h ago
 
 ---
 
@@ -103,33 +103,41 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 14h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 15h ago
 
 ---
 
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin Cycle](https://www.reddit.com/r/Bitcoin/comments/1qasblm/bitcoin_cycle/)**
+
+Keep calm while the storm pass
+
+1h ago
 
 ---
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-11h ago
+12h ago
+
+---
+
+**[South Korea to lift 9-year ban on corporate crypto investments](https://www.reddit.com/r/Bitcoin/comments/1qas3vt/south_korea_to_lift_9year_ban_on_corporate_crypto/)**
+
+South Korea’s new guidelines will let corporations invest in top 20 cryptocurrencies, with trading expected to begin by the end of 2026.
+
+🔗 [crypto.news](https://crypto.news/south-korea-to-lift-9-year-ban-on-corporate-crypto-investments/) • 1h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-22h ago
-
----
-
-**[BTC Structure: Anyone else getting April 2025 vibes?](https://www.reddit.com/r/Bitcoin/comments/1qahg87/btc_structure_anyone_else_getting_april_2025_vibes/)**
-
-The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
-
-10h ago
+23h ago
 
 ---
 
@@ -137,15 +145,7 @@ The current BTC setup is showing a very familiar structure: • ​Similar break
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-18h ago
-
----
-
-**[Iran might have to buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa9liw/iran_might_have_to_buy_bitcoin/)**
-
-With their collapse of the country and currency, they might have to buy Bitcoin.
-
-15h ago
+19h ago
 
 ---
 
@@ -155,39 +155,23 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
-**[Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates](https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates)**
+**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
 
-Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.
+Bitcoin has a lot going for it, but the near term could be bumpy.
 
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
-
-Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
-
-Yahoo Finance • 8h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
+**[BTQ Technologies touts quantum-proof Bitcoin testnet](https://www.coindesk.com/tech/2026/01/12/quantum-computing-threatens-the-usd2-trillion-bitcoin-network-btq-technologies-says-it-has-a-defense)**
 
-China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
+Post-quantum cryptography specialist BTQ Technologies has introduced ‘Bitcoin Quantum,’ a permissionless fork and testnet of the largest cryptocurrency.
 
-Yahoo Finance • 8h ago
-
----
-
-**[Swedish heath-tech company H100 moves to acquire Swiss bitcoin treasury firm Future Holdings](https://www.coindesk.com/markets/2026/01/12/bitcoin-treasury-firms-linked-to-adam-back-sign-preliminary-agreement-to-combine)**
-
-The proposed deal would take Sweden-based H100 into Switzerland and deepen its institutional bitcoin treasury strategy.
-
-CoinDesk • 2h ago
+CoinDesk • 18m ago
 
 ---
 
@@ -195,15 +179,7 @@ CoinDesk • 2h ago
 
 Dollar weakness will send Bitcoin’s price soaring, analysts say. The top crypto is still down nearly 30% from its all-time high of $126,000. Other assets like stocks and gold are pushing their all-time highs.
 
-dlnews.com • 1h ago
-
----
-
-**[BTC turns red on the day, sliding back toward $90,000](https://www.coindesk.com/markets/2026/01/12/bitcoin-s-early-gains-fade-fast-as-prices-fall-back-below-usd91-000)**
-
-Asian session gains for bitcoin above $92,000 have been fully erased.
-
-CoinDesk • 2h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -211,7 +187,7 @@ CoinDesk • 2h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 20h ago
+KITCO • 21h ago
 
 ---
 
@@ -223,11 +199,31 @@ CNBC • 1d ago
 
 ---
 
-**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
+**[Bitcoin Whales Hit The Sell Button — $135K Price Target Now Trending](https://www.tradingview.com/news/newsbtc:fa1ae5b35094b:0-bitcoin-whales-hit-the-sell-button-135k-price-target-now-trending/)**
 
-The dog token's much bigger trailing-10-year return can draw interest from some market participants.
+According to TradingView data, big holders on Bitfinex have been trimming long positions after a late-December peak of 73,000 BTC. The move follows a broader drop in whale holdings of roughly 220,000 BTC during 2025, a change that has analysts and traders parsing what comes next.Price action has be…
 
-The Motley Fool • 1d ago
+TradingView — Track All Markets • 23h ago
+
+---
+
+**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
+
+thestreet.com • 1d ago
+
+---
+
+**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
+
+Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
+
+CryptoSlate • 1d ago
+
+---
+
+**[‘Run It Hot’—Bitcoin And Crypto Traders Are Suddenly Betting On A Surprise 2026 Fed Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/01/10/run-it-hot-bitcoin-and-crypto-traders-are-suddenly-betting-on-a-surprise-2026-fed-price-game-changer/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -245,7 +241,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 3d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 4d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -275,7 +271,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 4d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 5d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -299,7 +295,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 29 • 💬 6 • 3h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 44 • 💬 7 • 4h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -321,7 +317,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 195 • 💬 177 • ⏱️ 7:14 • 13h ago
+👁️ 4K • 👍 195 • 💬 177 • ⏱️ 7:14 • 14h ago
 
 ---
 
@@ -341,7 +337,7 @@ In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bi
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 782 • 💬 127 • ⏱️ 18:06 • 11h ago
+👁️ 10K • 👍 782 • 💬 127 • ⏱️ 18:06 • 12h ago
 
 ---
 
@@ -351,7 +347,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 171 • ⏱️ 8:37 • 14h ago
+👁️ 34K • 👍 2K • 💬 171 • ⏱️ 8:37 • 15h ago
 
 ---
 
@@ -371,7 +367,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 97 • ⏱️ 10:58 • 6h ago
+👁️ 26K • 👍 2K • 💬 97 • ⏱️ 10:58 • 7h ago
 
 ---
 
@@ -381,7 +377,7 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 74 • 💬 66 • ⏱️ 7:47 • 21h ago
+👁️ 4K • 👍 74 • 💬 66 • ⏱️ 7:47 • 22h ago
 
 ---
 
@@ -391,7 +387,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 28K • 👍 1K • 💬 515 • ⏱️ 1:01:22 • 21h ago
+👁️ 28K • 👍 1K • 💬 515 • ⏱️ 1:01:22 • 22h ago
 
 ---
 

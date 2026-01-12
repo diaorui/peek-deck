@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T11:42:39.688664+00:00'
+updated: '2026-01-12T12:51:23.854915+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 11:42 UTC  
+**Last Updated:** January 12, 2026 at 12:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,21 +34,13 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Toilet cleaning robot](https://www.reddit.com/r/robotics/comments/1q9y5wh/toilet_cleaning_robot/)**
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
-
-23h ago
-
----
-
-**[Latest version of Wuji hand (video on 1x)](https://www.reddit.com/r/robotics/comments/1q9ws10/latest_version_of_wuji_hand_video_on_1x/)**
-
-From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
 1d ago
 
@@ -57,6 +49,14 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 **[Robotics coursework (+3k ⭐️ on GitHub)](https://www.reddit.com/r/robotics/comments/1q9w06d/robotics_coursework_3k_on_github/)**
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
+
+1d ago
+
+---
+
+**[Latest version of Wuji hand (video on 1x)](https://www.reddit.com/r/robotics/comments/1q9ws10/latest_version_of_wuji_hand_video_on_1x/)**
+
+From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
 1d ago
 
@@ -72,15 +72,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
 
-11h ago
-
----
-
-**[Continuous force using a servo?](https://www.reddit.com/r/robotics/comments/1qajttv/continuous_force_using_a_servo/)**
-
-Im making a project with a gripper, and im using a servo to move the gears to squeeze the gripper. My question is how do i get continuous squeezing force on the gripped object, without having the servo in a continuous stall? Im thinking to like check the current, and if its at stall current, turn off the servo then like turn it on and off every couple ms or something, like flickering the power. But would that be bad for the servo? Does anyone know how to do this?
-
-8h ago
+13h ago
 
 ---
 
@@ -88,23 +80,31 @@ Im making a project with a gripper, and im using a servo to move the gears to sq
 
 A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
 
-3h ago
+4h ago
 
 ---
 
-**[Simultaneous finger joint rotation problem](https://www.reddit.com/r/robotics/comments/1qa8num/simultaneous_finger_joint_rotation_problem/)**
+**[Continuous force using a servo?](https://www.reddit.com/r/robotics/comments/1qajttv/continuous_force_using_a_servo/)**
 
-Hi all, currently working on a bionic hand project. The project itself is relatively easy except for the finger. I keep running into the issue of non simultaneous movement. The furthest joint bends first, then the middle, then the closest. The red line in there is a 1 mm UHMWPE poly cord. Real fingers have each joint bending at the same time, providing a smooth movement. The thing is, when the finger is hanging down (fingertip pointing to floor), the movement is perfect. But when it’s in a palms up position, I run into that sequential bending issue again. Any other fixes/approaches to this? I tried a linkage system but it was ridiculously weak. The only things I can think of are weak springs at each joint to provide some sort of weak extension torque (replicating gravity), or using multiple cords for each joint, which is something I’d rather not do due to complexity and power limitations.
+Im making a project with a gripper, and im using a servo to move the gears to squeeze the gripper. My question is how do i get continuous squeezing force on the gripped object, without having the servo in a continuous stall? Im thinking to like check the current, and if its at stall current, turn off the servo then like turn it on and off every couple ms or something, like flickering the power. But would that be bad for the servo? Does anyone know how to do this?
 
-16h ago
+9h ago
 
 ---
 
-**[Action Labeled Gaming Data](https://www.reddit.com/r/robotics/comments/1qaegh1/action_labeled_gaming_data/)**
+**[ANYmal-C Locomotion](https://www.reddit.com/r/robotics/comments/1qaryjy/anymalc_locomotion/)**
 
-Given the rise of world models and multi modal action agents, what do you guys think about the future of action-labeled gameplay data? Can it be a good baseline in the training pipeline before RL?
+This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-12h ago
+1h ago
+
+---
+
+**[R Crumb takes the Subway: Robotics, Subconscious and Sloth](https://www.reddit.com/r/robotics/comments/1qarw68/r_crumb_takes_the_subway_robotics_subconscious/)**
+
+Gemini 3 et al asked me to post this here: R. Crumb on the Subway The Sloth Prior, the Sauce of the Ages, and Subconscious Habit in Robotics Date: January 12, 2026 Audience: Robotics, embodied AI, control theory, reinforcement learning Thesis: Fluid embodied intelligence emerges when cognition is absent by default, expensive to invoke, and reserved for surprise. Action should run like a silent film while the mind is elsewhere. This is enabled by a strong Sloth Prior and sustained by the Sauce of the Ages: the accumulated sediment of habit. TL;DR (for engineers) Problem: Humanoid robots look uncanny because high-level cognition babysits routine motion, adding latency and hesitation. Claim: The missing layer is a subconscious habit system governed by a strong Sloth Prior (assume stability) and fed by the Sauce of the Ages (compiled, fossilized behavior). Mechanism: A cheap prediction-error gate (“Sloth Gate”) keeps the brain lazy; successful behaviors are compiled and frozen. Math: Act open-loop under a stability prior; wake cognition when (\delta=|x{t+1}-\hat{x}{t+1}|\ge\epsilon). Penalize cognition and latency in the objective. Outcome: Faster reactions, lower compute, legible motion. Robots stop hesitating and start committing. A Day in the Life (the Silent Reel) It’s the 1970s. R. Crumb heads out with a bag of groceries and art supplies—paper, pens, a bottle of something cheap—and a head full of drawings. Curves. Ink. Rhythm. A familiar fixation on the lovely female form drifts through a private thought balloon like a chorus that never quite leaves the song. He moves through the city. Up the steps. Down the block. Through the turnstile. Onto the train. Off again. Crowds, corners, doors, stairs—an entire day passes. The crucial point is not that he “doesn’t think about how.” The actions never enter consciousness at all. His body carries the groceries, angles through doorways, climbs stairs, balances on the moving train—the whole sequence runs like a silent reel already spooled and playing, while his mind is fully elsewhere. No background narration. No monitoring channel. No inner voice. The motion simply does not register. This is not carelessness. It is competence so complete it never rises to thought. This is the Sauce of the Ages at work: decades of sedimented practice doing the job so the mind doesn’t have to. The Inversion Error in Robotics Most robotics stacks quietly assume: If intelligence exists, it should be applied continuously. So we build systems where: - Perception never sleeps - Planning never commits - Inference babysits every joint - Latency accumulates at every step The robot looks attentive—and moves like it’s nervous. Humans invert this hierarchy. Crumb doesn’t “check” the stairs. He commits to them. His mind is busy elsewhere, and that is exactly why the motion is fluid. The difference is a prior. The Sloth Prior (assume boredom) Humans operate under a powerful assumption: The world is probably the same as it was a moment ago. Formally: [ P(\text{world unchanged}\mid t)\gg P(\text{world changed}) ] Robots often assume the opposite: [ P(\text{world changed}\mid t)\approx 1 ] Cities, homes, stairwells, factories are low-entropy. Gravity still works. The stairs still descend. Crumb exploits this constantly—without articulating it—by letting habit run. The Sloth Prior is not recklessness. It is statistical realism. Consciousness Is an Exception Handler (not the loop) In biological systems, cognition is not the control loop. It is the interrupt. Most action runs on prediction. Cognition intervenes only when prediction fails. Let: - (xt) = current embodied state - (\hat{x}{t+1}) = next state predicted by habit Define surprise: [ \deltat=|x{t+1}-\hat{x}_{t+1}| ] If (\delta_t<\epsilon): the silent reel keeps playing. If (\delta_t\ge\epsilon): wake the brain. This is exactly when the subway finally intrudes—someone blocks the aisle, a sudden shove, a missed step. Only then does thought appear. The R. Crumb Architecture (Expanded) Layer 1 — Habit / Zombie Layer (Always On) A cheap, fast dynamical system: [ x_{t+1}=f(x_t,u_t) ] - Low-dimensional, no symbols, no plans - Deterministic or lightly stochastic - Executes walking, grasping, carrying groceries, balancing on trains This layer is the Sauce of the Ages in code: everything that has worked so often it no longer needs supervision. Layer 2 — The Sloth Gate (Barely Awake) A prediction monitor whose job is to prevent thought: [ \deltat=|x{t+1}-\hat{x}_{t+1}| ] Below threshold: stay lazy. Above threshold: escalate. This gate enforces the Sloth Prior. It protects the habit layer from interference and keeps cognition cold unless it is truly needed. Layer 3 — The Thinking Brain (Mostly Elsewhere) Invoked for: - Novelty - Failure - Broken expectations - Long-horizon goals This is where planning, reasoning, and imagination live—the daydreams, the sketches, the attractions. If this layer is busy during routine motion, the architecture has failed. Cost Accounting (why robots overthink) Let: - (C_b) = cost of ballistic habitual action - (C_c) = cost of cognition (latency + energy + coordination) - (C_f) = cost of failure Humans minimize: [ \mathbb{E}[C]=C_b+P(\text{failure})\cdot C_f ] Robotics stacks often minimize: [ \mathbb{E}[C]=C_c+C_b ] This treats thinking as free. It isn’t. The Sloth Prior plus the Sauce of the Ages flips the math: cognition is taxed, habit is rewarded, latency is priced. Habit Compilation (how the sauce is made) If a policy (\pi) succeeds repeatedly with low variance: [ \mathrm{Var}(R\pi)<\tau \quad \text{over } N \text{ runs} ] then freeze it: [ \pi\rightarrow\pi{\text{compiled}} ] Compiled policies bypass planners and execute without inference. That’s how walking becomes walking—and why Crumb never “relearns” stairs on the way to his apartment. The sauce thickens with time. “But what about safety?” This architecture reallocates safety; it doesn’t remove it. Safety comes from: - Cheap reflexes - Fast surprise detection - Rapid escalation A system that thinks about everything reacts late. A system that commits under a Sloth Prior and escalates on surprise reacts fast. The Sloth Gate doesn’t remove perception—it prices it. Why robots feel uncanny Uncanniness isn’t motors or skins. It’s visible cognition. A being that constantly monitors itself doesn’t feel alive. Life feels alive because its mind is elsewhere—on art, desire, memory, fantasy, or nothing at all. Crumb makes it through the whole day thinking about comics and curves because the Sauce of the Ages quietly handles the world. A second metaphor (for engineers) Think of a well-tuned elevator. It commits to a trajectory, runs quietly, and only calls a supervisor when sensors disagree. Passengers never notice the control system at all—until something unusual happens. That invisibility is the Sloth Prior in motion. Closing claim We don’t need robots that think harder. We need robots steeped in the Sauce of the Ages, operating under a confident Sloth Prior, with cognition reserved for the rare moments when the reel tears. Intelligence is not thinking well. Intelligence is having no reason to notice at all.
+
+1h ago
 
 ---
 
@@ -120,11 +120,39 @@ CNBC • 2d ago
 
 ---
 
-**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
+**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
 
-From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
+If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
 
-Engadget • 1d ago
+TechCrunch • 2d ago
+
+---
+
+**[Video Friday: Robots Are Everywhere at CES 2026](https://spectrum.ieee.org/robots-ces-2026)**
+
+Meet the newest version of Atlas: The humanoid robot with strength, precision, and adaptability for the industrial era. Plus more robots from CES 2026!
+
+IEEE Spectrum • 5h ago
+
+---
+
+**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**[Did that lamp just fold the laundry? Alumni rethink home robotics](https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html)**
+
+Tech Xplore • 2d ago
+
+---
+
+**[UND organizers hope robotics competition's location in Alerus Center will help draw attention to the sport](https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport)**
+
+“This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
+
+Grand Forks Herald • 1d ago
 
 ---
 
@@ -132,15 +160,15 @@ Engadget • 1d ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
-**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
+**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
 
-If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
+BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-TechCrunch • 2d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -152,39 +180,11 @@ Interesting Engineering • 3d ago
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
+**[Why AIC is the only path to certifiable robotics](https://www.therobotreport.com/why-aic-is-the-only-path-to-certifiable-robotics/)**
 
-Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
+The EU AI Act could affect humanoids. AIC, or artificial integrated cognition, provides a path for AI to gain the trust needed to advance.
 
-The Verge • 1d ago
-
----
-
-**[Humanoid Robots Captivate Crowds At CES 2026 Tech Trade Show](https://www.investors.com/news/technology/ces-2026-humanoid-robots-captivate-crowds/)**
-
-Investor's Business Daily • 2d ago
-
----
-
-**[Why robots still can't match humans - and what's holding them back](https://news.sky.com/story/why-robots-still-cant-match-humans-and-whats-holding-them-back-13492374)**
-
-At the biggest tech conference in the world in Las Vegas, Sky News looks at just how close robots really are to becoming like us.
-
-Sky News • 2d ago
-
----
-
-**[Chinese firm builds world’s smallest humanoid robot designed to learn and evolve](https://interestingengineering.com/ai-robotics/china-worlds-smallest-humanoid-robot)**
-
-AgiBot subsidiary PrimeBot has built the world's smallest personal humanoid robot for embodied intelligence and daily life.
-
-Interesting Engineering • 1h ago
-
----
-
-**[Did that lamp just fold the laundry? Alumni rethink home robotics](https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html)**
-
-Tech Xplore • 1d ago
+The Robot Report • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 76K • 👍 987 • 💬 232 • ⏱️ 11:46 • 19h ago
+👁️ 76K • 👍 987 • 💬 232 • ⏱️ 11:46 • 20h ago
 
 ---
 
@@ -258,7 +258,7 @@ The Chinese startup Zeroth Robotics just emerged from stealth with an aggressive
 
 📺 Kalil 4.0
 
-👁️ 646 • 👍 28 • 💬 5 • ⏱️ 1:10 • 5h ago
+👁️ 646 • 👍 28 • 💬 5 • ⏱️ 1:10 • 6h ago
 
 ---
 

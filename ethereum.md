@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T11:42:39.685381+00:00'
+updated: '2026-01-12T12:51:23.851581+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 11:42 UTC  
+**Last Updated:** January 12, 2026 at 12:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
+**24h:** -0.0%  
 **7d:** -5.5%  
 **30d:** +1.5%  
 **90d:** -22.0%  
-**1y:** -0.7%  
+**1y:** -0.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 2d ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 3d ago
 
 ---
 
@@ -152,19 +152,35 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
-
-Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
-
-CoinDesk • 22h ago
-
----
-
 **[Ethereum’s future hinges on zero-knowledge proofs, EF director says](https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says)**
 
 EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
+
+---
+
+**[Vitalik Buterin: Ethereum’s Independence Hinges on Better Decentralized Stablecoins — Here’s Why](https://finance.yahoo.com/news/vitalik-buterin-ethereum-independence-hinges-110921823.html)**
+
+Ethereum co-founder Vitalik Buterin has reopened debate over the role of stablecoins in Ethereum’s future, warning that the network’s long-term independence may depend on developing decentralized alternatives that rely less on the U.S. dollar and centralized issuers.Stablecoins have become core infrastructure for crypto markets, with a combined market value of ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
+
+Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
+
+CoinDesk • 23h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Says Crypto’s Stablecoin Model Is Not Built to Last](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-says-cryptos-stablecoin-model-is-not-built-to-last/)**
+
+Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
+
+Coinpedia Fintech News • 23h ago
 
 ---
 
@@ -172,7 +188,7 @@ CoinDesk • 22h ago
 
 Sentiment for the number two digital asset, ETH, just reached levels that 99Bitcoins analysts say often precede major price runs. The Ethereum price is currently trading between $3,100 and $3,200, up +2% in the past 24 hours as traders step in to buy following last week’s minor pullback. The Ethereum ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,15 +196,15 @@ Yahoo Finance • 1h ago
 
 Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
 
 ---
 
-**[Ethereum Meets AI Agents: What Is ERC-8004?](https://www.tradingview.com/news/u_today:e7ba41fd6094b:0-ethereum-meets-ai-agents-what-is-erc-8004/)**
+**[XRP and Solana ETFs Destroy Ethereum and Bitcoin as Institutional Exposure Pivots](https://www.tradingview.com/news/u_today:640737c00094b:0-xrp-and-solana-etfs-destroy-ethereum-and-bitcoin-as-institutional-exposure-pivots/)**
 
-In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
+Institutional crypto exposure is undergoing a subtle but significant change, and the figures from Jan. 5 to Jan. 9 make it difficult to ignore. There was a net $681 million withdrawal from Bitcoin spot ETFs. With outflows of $68.57 million, Ethereum came next. While XRP spot ETFs brought in $38.07…
 
-TradingView — Track All Markets • 1d ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -214,22 +230,6 @@ Binance • 1d ago
 
 ---
 
-**[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://decrypt.co/354058/ethereum-treasury-firm-sharplink-gaming-stakes-170-million-eth-linea)**
-
-Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
-
-Decrypt • 3d ago
-
----
-
-**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
-
-Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
-
-Coinpedia Fintech News • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 130 • 💬 8 • ⏱️ 4:37 • 7h ago
+👁️ 1K • 👍 130 • 💬 8 • ⏱️ 4:37 • 8h ago
 
 ---
 
@@ -260,7 +260,7 @@ The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shock
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 291 • 💬 49 • ⏱️ 36:33 • 1h ago
+👁️ 2K • 👍 291 • 💬 49 • ⏱️ 36:33 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 291 • 💬 129 • ⏱️ 14:54 • 15h ago
+👁️ 7K • 👍 291 • 💬 129 • ⏱️ 14:54 • 16h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 643 • 👍 25 • 💬 10 • ⏱️ 5:22 • 21h ago
+👁️ 643 • 👍 25 • 💬 10 • ⏱️ 5:22 • 23h ago
 
 ---
 
@@ -320,7 +320,7 @@ Crie sua conta na corretora BingX: https://bingx.com/pt-br/partner/DougTadeu Ins
 
 📺 Douglas Tadeu
 
-👁️ 4K • 👍 507 • 💬 29 • ⏱️ 17:07 • 12h ago
+👁️ 4K • 👍 507 • 💬 29 • ⏱️ 17:07 • 13h ago
 
 ---
 
@@ -330,7 +330,7 @@ Privacy or Transparancy by Vitalik Buterin. Check out The Ultimate Crypto Guide 
 
 📺 Crypto Mining
 
-👁️ 304 • 👍 4 • 💬 4 • ⏱️ 0:29 • 2h ago
+👁️ 304 • 👍 4 • 💬 4 • ⏱️ 0:29 • 3h ago
 
 ---
 
