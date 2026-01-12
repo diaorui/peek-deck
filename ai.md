@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T22:43:44.587108+00:00'
+updated: '2026-01-12T23:18:27.203024+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 22:43 UTC  
+**Last Updated:** January 12, 2026 at 23:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."](https://www.reddit.com/r/artificial/comments/1qb0rry/geoffrey_hinton_says_agents_can_share_knowledge/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
 
-🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 2h ago
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 3h ago
 
 ---
 
@@ -55,7 +55,7 @@ Claude Code's agentic capabilities, now for everyone. Give Claude access to your
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 23h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 1d ago
 
 ---
 
@@ -63,7 +63,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-3h ago
+4h ago
 
 ---
 
@@ -79,7 +79,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 Found an article about a professor who used an AI bot to administer an oral exam to students because they were using AI to do school work. He them proceeded to have the AI bot grade the real exam. And now, an AI bot has found and summarized this news for me to read quicker. I guess all that's missing is to have an AI bot read this summary and react to it. Wait a minute... Source: Yahoo https://search.app/vWcje
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Found an article about a professor who used an AI bot to administer an oral exam
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-18h ago
+19h ago
 
 ---
 
@@ -121,7 +121,7 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 17h ago
 
 Musk said a ‘supersonic tsunami’ of AI and robotics will bring about a world of zero scarcity.
 
-Fortune • 29m ago
+Fortune • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ TechCrunch • 1d ago
 
 The UCP protocol will first appear in instant checkout features in Google's AI mode in Search and in the Gemini app.
 
-Computerworld • 1h ago
+Computerworld • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Computerworld • 1h ago
 
 Amazon explains where its wearable Bee fits in and whether it will merge with Alexa.
 
-TechCrunch • 48m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -175,13 +175,13 @@ TechCrunch • 48m ago
 
 The AI sector continues to grow, and there are plenty of promising ways to invest in it.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
 **[Nvidia to Invest $1 Billion in AI Drug Lab With Eli Lilly](https://www.bloomberg.com/news/videos/2026-01-12/nvidia-to-invest-1-billion-in-ai-drug-lab-video)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bloomberg.com • 1h ago
 
 Nvidia has been the star of the artificial intelligence show for three years, and its stellar performance doesn't appear to be coming to an end.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -199,17 +199,7 @@ The Motley Fool • 9h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1175 • 💬 1507 • 1d ago • [antirez.com](https://antirez.com/news/158)
-
----
-
-**[“Erdos problem #728 was solved more or less autonomously by AI”](https://news.ycombinator.com/item?id=46560445)**
-
-Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728 https://www.erdosproblems.com/728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located).
-
-This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
-
-⬆️ 613 • 💬 362 • 3d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 1185 • 💬 1522 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -225,15 +215,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 155 • 💬 53 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
-
----
-
-**[Show HN: AI in SolidWorks](https://news.ycombinator.com/item?id=46591100)**
-
-Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
-
-⬆️ 86 • 💬 43 • 5h ago • [TryLAD](https://www.trylad.com)
+⬆️ 166 • 💬 55 • 14h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -241,7 +223,23 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 59 • 💬 20 • 2h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 110 • 💬 52 • 3h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+
+---
+
+**[Show HN: AI in SolidWorks](https://news.ycombinator.com/item?id=46591100)**
+
+Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
+
+⬆️ 98 • 💬 48 • 6h ago • [TryLAD](https://www.trylad.com)
+
+---
+
+**[Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://news.ycombinator.com/item?id=46592344)**
+
+Let your AI go full send. Your home directory stays home. - finbarr/yolobox
+
+⬆️ 44 • 💬 39 • 4h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -251,11 +249,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://news.ycombinator.com/item?id=46592344)**
+**[UK threatens action against X over sexualised AI images of women and children](https://news.ycombinator.com/item?id=46586334)**
 
-Let your AI go full send. Your home directory stays home. - finbarr/yolobox
+Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 38 • 💬 28 • 4h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 33 • 💬 43 • 13h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -265,11 +263,11 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 ---
 
-**[UK threatens action against X over sexualised AI images of women and children](https://news.ycombinator.com/item?id=46586334)**
+**[Show HN: What if AI agents had Zodiac personalities?](https://news.ycombinator.com/item?id=46581832)**
 
-Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
+AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 32 • 💬 43 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 29 • 💬 16 • 23h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -277,13 +275,23 @@ Government signals support for possible Ofcom intervention on Grok as scrutiny o
 
 ## YouTube Videos: "ai"
 
-**[Every Way To Get Rich With AI in 2026 (Explained in 10mins)](https://www.youtube.com/watch?v=mZecvMwmvGk)**
+**[The $1.5 Billion Anthropic Lawsuit That Could Change AI Forever](https://www.youtube.com/watch?v=XQXVA5M9AUk)**
 
-The Join the #1 community for AI entrepreneurs and connect with 280k+ members: https://bit.ly/4pQ0dpc We help ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
 
-📺 Liam Ottley
+📺 Julia McCoy
 
-👁️ 12K • 👍 926 • 💬 39 • ⏱️ 10:29 • 15h ago
+👁️ 11K • 👍 809 • 💬 94 • ⏱️ 10:39 • 8h ago
+
+---
+
+**[we just arrived at the &quot;WTF&quot; moment in AI](https://www.youtube.com/watch?v=N8I2wYXt4m8)**
+
+GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially at the "WTF" moment in AI development. The latest ...
+
+📺 Wes Roth
+
+👁️ 71K • 👍 3K • 💬 595 • ⏱️ 23:05 • 19h ago
 
 ---
 
@@ -293,17 +301,17 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 17K • 👍 186 • 💬 48 • ⏱️ 7:57 • 8h ago
+👁️ 22K • 👍 222 • 💬 51 • ⏱️ 7:57 • 9h ago
 
 ---
 
-**[AI has gotten out of hand... (The Beast System)](https://www.youtube.com/watch?v=3468sgevZiU)**
+**[Every Way To Get Rich With AI in 2026 (Explained in 10mins)](https://www.youtube.com/watch?v=mZecvMwmvGk)**
 
-Every month, it feels like a new update, model, or software hits the scene, and people are quick to either claim it's groundbreaking ...
+The Join the #1 community for AI entrepreneurs and connect with 280k+ members: https://bit.ly/4pQ0dpc We help ...
 
-📺 Seethruthescript
+📺 Liam Ottley
 
-👁️ 2K • 👍 196 • 💬 59 • ⏱️ 24:00 • 1d ago
+👁️ 14K • 👍 982 • 💬 60 • ⏱️ 10:29 • 15h ago
 
 ---
 
@@ -313,7 +321,17 @@ In this video, I ask AI what it thinks about the U.S. military operation in Vene
 
 📺 I Ask AI
 
-👁️ 14K • 👍 3K • 💬 318 • ⏱️ 14:02 • 2d ago
+👁️ 14K • 👍 3K • 💬 325 • ⏱️ 14:02 • 2d ago
+
+---
+
+**[AI has gotten out of hand... (The Beast System)](https://www.youtube.com/watch?v=3468sgevZiU)**
+
+Every month, it feels like a new update, model, or software hits the scene, and people are quick to either claim it's groundbreaking ...
+
+📺 Seethruthescript
+
+👁️ 2K • 👍 203 • 💬 61 • ⏱️ 24:00 • 1d ago
 
 ---
 
@@ -323,7 +341,7 @@ The next episode of my AI series. The AI character is making using AI, but is st
 
 📺 Nate Ziller
 
-👁️ 266K • 👍 27K • 💬 2K • ⏱️ 4:38 • 2d ago
+👁️ 281K • 👍 28K • 💬 2K • ⏱️ 4:38 • 2d ago
 
 ---
 
@@ -333,7 +351,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 64K • 👍 2K • 💬 171 • ⏱️ 14:39 • 2d ago
+👁️ 64K • 👍 2K • 💬 170 • ⏱️ 14:39 • 2d ago
 
 ---
 
@@ -343,7 +361,7 @@ In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with s
 
 📺 Dr Brian Keating
 
-👁️ 7K • 👍 199 • 💬 24 • ⏱️ 5:50 • 1d ago
+👁️ 8K • 👍 204 • 💬 25 • ⏱️ 5:50 • 1d ago
 
 ---
 
@@ -353,27 +371,7 @@ Meta and Harvard just released an open-source coding agent called Confucius Code
 
 📺 AI Revolution
 
-👁️ 28K • 👍 952 • 💬 41 • ⏱️ 14:29 • 23h ago
-
----
-
-**[The $1.5 Billion Anthropic Lawsuit That Could Change AI Forever](https://www.youtube.com/watch?v=XQXVA5M9AUk)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
-
-📺 Julia McCoy
-
-👁️ 8K • 👍 638 • 💬 76 • ⏱️ 10:39 • 7h ago
-
----
-
-**[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 60K • 👍 2K • 💬 375 • ⏱️ 17:36 • 1d ago
+👁️ 30K • 👍 993 • 💬 42 • ⏱️ 14:29 • 23h ago
 
 ---
 
@@ -389,7 +387,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 735,985 • ❤️ 845 • 4d ago
+⬇️ 735,985 • ❤️ 851 • 4d ago
 
 ---
 
@@ -401,7 +399,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 23,889 • ❤️ 503 • 5d ago
+⬇️ 23,889 • ❤️ 508 • 5d ago
 
 ---
 
@@ -413,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 10,682 • ❤️ 728 • 11d ago
+⬇️ 10,682 • ❤️ 730 • 11d ago
 
 ---
 
@@ -425,7 +423,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,687 • ❤️ 318 • 6d ago
+⬇️ 2,687 • ❤️ 320 • 6d ago
 
 ---
 
@@ -437,7 +435,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 12,797 • ❤️ 287 • 3d ago
+⬇️ 12,797 • ❤️ 290 • 3d ago
 
 ---
 
@@ -449,7 +447,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 670 • ❤️ 225 • 6d ago
+⬇️ 670 • ❤️ 226 • 6d ago
 
 ---
 
@@ -473,7 +471,7 @@ Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomo
 
 `robotics` `11.1B`
 
-⬇️ 13,820 • ❤️ 268 • 4d ago
+⬇️ 13,820 • ❤️ 270 • 4d ago
 
 ---
 
@@ -485,7 +483,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 23,310 • ❤️ 197 • 2d ago
+⬇️ 23,310 • ❤️ 198 • 2d ago
 
 ---
 
@@ -537,23 +535,9 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
 
-▲ 129 • 💬 3 • ⭐ 102 • 4d ago
+▲ 129 • 💬 3 • ⭐ 107 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
-
----
-
-**[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://huggingface.co/papers/2601.04720)**
-
-*Mingxin Li, Yanzhao Zhang, Dingkun Long et al. (12 authors)*
-
-🏢 Qwen
-
-The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
-
-▲ 20 • 💬 1 • ⭐ 600 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
 ---
 
@@ -569,6 +553,20 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
+**[Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://huggingface.co/papers/2601.04720)**
+
+*Mingxin Li, Yanzhao Zhang, Dingkun Long et al. (12 authors)*
+
+🏢 Qwen
+
+The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
+
+▲ 20 • 💬 1 • ⭐ 620 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -578,7 +576,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 130 • 💬 18 • ⭐ 49,799 • 10mo ago
+▲ 130 • 💬 18 • ⭐ 49,840 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -603,7 +601,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 Orient Anything V2 enhances 3D orientation understanding through scalable 3D asset synthesis, symmetry-aware periodic distribution fitting, and multi-frame relative rotation prediction, achieving state-of-the-art performance across multiple benchmarks.
 
-▲ 7 • 💬 1 • ⭐ 60 • 3d ago
+▲ 7 • 💬 1 • ⭐ 82 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05573) • [💻 code](https://github.com/SpatialVision/Orient-Anything-V2) • [🔗 project](https://orient-anythingv2.github.io/)
 
@@ -615,22 +613,21 @@ Orient Anything V2 enhances 3D orientation understanding through scalable 3D ass
 
 Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 19 • 💬 3 • ⭐ 14,895 • 1mo ago
+▲ 19 • 💬 3 • ⭐ 14,915 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
 
-▲ 28 • 💬 1 • ⭐ 67,327 • 28mo ago
+▲ 3 • 💬 0 • ⭐ 28,333 • 19mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -644,7 +641,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.1k • 🔱 1.0k • 6h ago
+⭐ 8.2k • 🔱 1.0k • 6h ago
 
 ---
 
@@ -654,7 +651,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 434 • 5d ago
+⭐ 3.3k • 🔱 436 • 5d ago
 
 ---
 
@@ -674,7 +671,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 227 • 1d ago
+⭐ 2.0k • 🔱 228 • 1d ago
 
 ---
 
@@ -684,7 +681,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 64 • 4h ago
+⭐ 1.9k • 🔱 66 • 5h ago
 
 ---
 
@@ -714,17 +711,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 114 • 3d ago
-
----
-
-**[aiflowy/aiflowy](https://github.com/aiflowy/aiflowy)**
-
-AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.
-
-`Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
-
-⭐ 1.2k • 🔱 143 • 12h ago
+⭐ 1.3k • 🔱 114 • 2h ago
 
 ---
 
@@ -735,6 +722,16 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
 ⭐ 1.2k • 🔱 85 • 14d ago
+
+---
+
+**[aiflowy/aiflowy](https://github.com/aiflowy/aiflowy)**
+
+AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.
+
+`Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
+
+⭐ 1.2k • 🔱 143 • 12h ago
 
 ---
 

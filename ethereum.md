@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T22:43:44.601484+00:00'
+updated: '2026-01-12T23:18:27.217378+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 22:43 UTC  
+**Last Updated:** January 12, 2026 at 23:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
+**24h:** -0.3%  
 **7d:** -5.9%  
 **30d:** +1.1%  
 **90d:** -22.4%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $374.24B
+**Market Cap:** $372.69B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.3%
+-37.6%
 
 **All-Time Low:** $0.43
-+715701.5%
++713197.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 3h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 4h ago
 
 ---
 
@@ -80,7 +80,7 @@ South Korea just opened the floodgates for institutional crypto adoption. Huge f
 
 Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Wondering how effective and reliable XMR / Monero is to contribute to ETH privac
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -144,7 +144,7 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
 
-2d ago
+3d ago
 
 ---
 
@@ -172,13 +172,13 @@ CoinDesk • 1d ago
 
 Ethereum co-founder Vitalik Buterin says the network should be able to function for decades without relying on constant upgrades, including resisting future quantum computers.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 10h ago
 
 Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView — Track All Markets • 1d ago
 
 **[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 9h ago
+👁️ 14K • 👍 2K • 💬 55 • ⏱️ 8:17 • 9h ago
 
 ---
 
@@ -248,7 +248,17 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 237 • ⏱️ 14:17 • 9h ago
+👁️ 10K • 👍 1K • 💬 266 • ⏱️ 14:17 • 10h ago
+
+---
+
+**[BITCOIN REPEATING HISTORY: Don&#39;t Be FOOLED!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eTLBnzBc7D4)**
+
+BITCOIN REPEATING HISTORY: Don't Be FOOLED!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 141 • 💬 153 • ⏱️ 18:43 • 1h ago
 
 ---
 
@@ -258,37 +268,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 185 • 👍 14 • 💬 40 • ⏱️ 10:08 • 5h ago
+👁️ 289 • 👍 23 • 💬 64 • ⏱️ 10:08 • 5h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tY2AxoGiu6Q)**
+**[Ethereum Airdrop 2026: How To Get FREE ETH Step-By-Step Tutorial!](https://www.youtube.com/watch?v=X107hVaz-W0)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays video we are going to talk about Ethereum ...
 
-📺 More Crypto Online
+📺 World Liberty Financial
 
-👁️ 1K • 👍 129 • 💬 10 • ⏱️ 5:01 • 8h ago
-
----
-
-**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 12K • 👍 265 • 💬 567 • ⏱️ 13:48 • 1d ago
-
----
-
-**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
-
-Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
-
-📺 Michaël van de Poppe
-
-👁️ 4K • 👍 241 • 💬 35 • ⏱️ 12:34 • 1d ago
+👁️ 2K • 👍 22 • 💬 5 • ⏱️ 2:01 • 1h ago
 
 ---
 
@@ -298,7 +288,37 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 104 • 👍 7 • 💬 2 • ⏱️ 5:00 • 3h ago
+👁️ 192 • 👍 10 • 💬 6 • ⏱️ 5:00 • 3h ago
+
+---
+
+**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
+
+Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
+
+📺 Michaël van de Poppe
+
+👁️ 4K • 👍 245 • 💬 36 • ⏱️ 12:34 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 12K • 👍 268 • 💬 331 • ⏱️ 13:48 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tY2AxoGiu6Q)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 143 • 💬 5 • ⏱️ 5:01 • 9h ago
 
 ---
 
@@ -308,27 +328,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 802 • 💬 86 • ⏱️ 24:05 • 2d ago
-
----
-
-**[The Imminent Ripple XRP Supply Shock Will RATTLE Bitcoin And Ethereum No One Is Talking About This](https://www.youtube.com/watch?v=EYjaoepZJz8)**
-
-The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shocks and people not being able to even buy ...
-
-📺 The Modern Investor
-
-👁️ 11K • 👍 1K • 💬 307 • ⏱️ 36:33 • 12h ago
-
----
-
-**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 30K • 👍 970 • 💬 185 • ⏱️ 19:42 • 2d ago
+👁️ 15K • 👍 803 • 💬 86 • ⏱️ 24:05 • 2d ago
 
 ---
 

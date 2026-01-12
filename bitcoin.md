@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T22:43:44.595571+00:00'
+updated: '2026-01-12T23:18:27.211398+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 22:43 UTC  
+**Last Updated:** January 12, 2026 at 23:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -2.6%  
-**30d:** +3.5%  
-**90d:** -17.8%  
-**1y:** -3.3%  
+**24h:** -0.0%  
+**7d:** -2.8%  
+**30d:** +3.2%  
+**90d:** -18.0%  
+**1y:** -3.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1825.48B
+**Market Cap:** $1818.95B
 Rank #1
 
-**Circulating Supply:** 19,975,031 BTC
+**Circulating Supply:** 19,975,103 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.8%
 
 **All-Time Low:** $67.81
-+134617.6%
++134197.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-9h ago
+10h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -115,7 +115,7 @@ We're barely at the beginning, no panic, just HODL 💪🚀
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 **[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bitcoin Magazine • 1h ago
 
 The bitcoin price climbed toward $92,000 as escalating tensions between the DOJ and Federal Reserve rattled traditional markets this morning.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bitcoin Magazine • 2h ago
 
 SEC chairman Paul Atkins joins 'Varney & Co.' to discuss a report that Venezuela has a $60 billion stash of bitcoin, the role of stablecoin in the future as well as crypto legislation.
 
-Fox Business • 4h ago
+Fox Business • 5h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 19h ago
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -231,7 +231,7 @@ CNBC • 2d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 45 • 💬 3 • 3d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 45 • 💬 3 • 4d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -291,7 +291,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 1 • 💬 0 • 3h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 1 • 💬 0 • 4h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -307,13 +307,13 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ## YouTube Videos: "bitcoin"
 
-**[Stanley Druckenmiller reveals WHY crypto is crashing in 2026](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
+**[DOJ Indictment on Powell Causes Panic (Bitcoin Retreats)](https://www.youtube.com/watch?v=sB5EKN1o364)**
 
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 42K • 👍 2K • 💬 209 • ⏱️ 8:37 • 1d ago
+👁️ 26K • 👍 1K • 💬 299 • ⏱️ 41:26 • 7h ago
 
 ---
 
@@ -323,37 +323,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 20K • 👍 2K • 💬 884 • ⏱️ 2:04:54 • 9h ago
-
----
-
-**[Bitcoin’s Adoption Curve Is Entering a Critical Phase...](https://www.youtube.com/watch?v=Z0pFJhqH4AM)**
-
-Bitcoin adoption is following a familiar path. In this clip from Swan Signal Live, Brady Swenson and John Haar break down why ...
-
-📺 Swan Bitcoin
-
-👁️ 1K • 👍 79 • 💬 73 • ⏱️ 14:33 • 4h ago
-
----
-
-**[Bitcoin On Edge As Trump’s Policies Rattle Markets! What Comes Next?](https://www.youtube.com/watch?v=oAYFUtAhbyw)**
-
-Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles to gain traction and stocks wobble amid growing ...
-
-📺 The Wolf Of All Streets
-
-👁️ 16K • 👍 1K • 💬 293 • ⏱️ 1:07:27 • 6h ago
-
----
-
-**[THIS IS A WARNING TO ALL BITCOIN BEARS](https://www.youtube.com/watch?v=6waE1ksKLaY)**
-
-BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
-
-📺 The Moon Show
-
-👁️ 14K • 👍 731 • 💬 87 • ⏱️ 6:16 • 12h ago
+👁️ 32K • 👍 2K • 💬 1K • ⏱️ 2:04:54 • 9h ago
 
 ---
 
@@ -363,35 +333,57 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 9h ago
+👁️ 14K • 👍 2K • 💬 55 • ⏱️ 8:17 • 9h ago
 
 ---
 
-**[Trump Threatens Powell With Criminal Action! [What This Means For Bitcoin]](https://www.youtube.com/watch?v=qQ9Clv1qaB8)**
+**[Stanley Druckenmiller reveals WHY crypto is crashing in 2026](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
 
-Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it beyond politics and into legal territory. For the ...
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 42 • ⏱️ 32:17 • 7h ago
-
----
-
-**[Bitcoin’s About to Break (And Here’s Why)](https://www.youtube.com/watch?v=5XCWkRCaEmQ)**
-
-Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 16K • 👍 779 • 💬 154 • ⏱️ 19:14 • 11h ago
+👁️ 44K • 👍 2K • 💬 204 • ⏱️ 8:37 • 1d ago
 
 ---
 
-**[😭WORST WEEK FOR CRYPTO AND IT CAN GET WORSE #crypto #cryptocurrency #bitcoin #zcash](https://www.youtube.com/watch?v=QDVY7HgBdIA)**
+**[Bitcoin On Edge As Trump’s Policies Rattle Markets! What Comes Next?](https://www.youtube.com/watch?v=oAYFUtAhbyw)**
 
-📺 CryptoWendyO
+Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles to gain traction and stocks wobble amid growing ...
 
-👁️ 8K • 👍 487 • 💬 45 • ⏱️ 1:14 • 22h ago
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 1K • 💬 254 • ⏱️ 1:07:27 • 7h ago
+
+---
+
+**[why i&#39;m 100% convinced bitcoin is going to explode here . . .](https://www.youtube.com/watch?v=J9oEalGFY2A)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 7K • 👍 701 • 💬 316 • ⏱️ 7:34 • 4h ago
+
+---
+
+**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+
+Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 2K • 💬 180 • ⏱️ 17:17 • 2d ago
+
+---
+
+**[THIS IS A WARNING TO ALL BITCOIN BEARS](https://www.youtube.com/watch?v=6waE1ksKLaY)**
+
+BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 15K • 👍 779 • 💬 77 • ⏱️ 6:16 • 13h ago
 
 ---
 
@@ -401,7 +393,17 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 3K • 💬 150 • ⏱️ 10:58 • 17h ago
+👁️ 53K • 👍 3K • 💬 151 • ⏱️ 10:58 • 18h ago
+
+---
+
+**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=XAIerBMY1Nc)**
+
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+
+📺 Road To $1 Million USD
+
+👁️ 5K • 👍 210 • 💬 126 • ⏱️ 7:14 • 1d ago
 
 ---
 
