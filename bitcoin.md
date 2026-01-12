@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T17:46:43.493798+00:00'
+updated: '2026-01-12T18:35:24.838605+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 17:46 UTC  
+**Last Updated:** January 12, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1825.43B
+**Market Cap:** $1833.90B
 Rank #1
 
-**Circulating Supply:** 19,974,953 BTC
+**Circulating Supply:** 19,974,993 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.3%
 
 **All-Time Low:** $67.81
-+134660.4%
++135021.7%
 
 ---
 
@@ -81,31 +81,31 @@ Rank #1
 
 Keep calm while the storm pass
 
-6h ago
+7h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-17h ago
+18h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Keep calm while the storm pass
 
 That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
 
-4h ago
+5h ago
 
 ---
 
@@ -129,13 +129,13 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-14h ago
+15h ago
 
 ---
 
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -143,7 +143,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-34m ago
+1h ago
 
 ---
 
@@ -151,11 +151,49 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
+**[Fate of reported Venezuelan bitcoin stash 'remains to be seen,' SEC chairman says](https://www.foxbusiness.com/video/6387612138112)**
 
-Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
+SEC chairman Paul Atkins joins 'Varney & Co.' to discuss a report that Venezuela has a $60 billion stash of bitcoin, the role of stablecoin in the future as well as crypto legislation.
 
-Yahoo Finance • 14h ago
+Fox Business • 42m ago
+
+---
+
+**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
+
+The Block • 5h ago
+
+---
+
+**[Strategy boosts BTC holdings using digital credit STRC](https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc)**
+
+Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
+
+CoinDesk • 5h ago
+
+---
+
+**[Billionaire Michael Saylor’s Strategy Scoops 13,627 Bitcoin for $1.25B](https://finance.yahoo.com/news/billionaire-michael-saylor-strategy-scoops-164804188.html)**
+
+Strategy disclosed in a regulatory filing that it acquired an additional 13,627 bitcoin between January 5 and January 11, spending approximately $1.25 billion at an average purchase price of $91,519 per BTC, inclusive of fees and expenses. Strategy has acquired 13,627 BTC for ~$1.25 billion at ~$91,519 per bitcoin. As ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Is it too late to profitably invest in bitcoin?](https://finance.yahoo.com/news/too-profitably-invest-bitcoin-173007118.html)**
+
+Current reports that while Bitcoin’s price has skyrocketed, investing now requires careful consideration due to its volatility and risk.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin price slips below $91,000 as privacy coins steal the spotlight: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today)**
+
+Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -167,28 +205,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ether (ETH) to outpace bitcoin (BTC) as Standard Chartered lifts 2030 price target to $40,000](https://www.coindesk.com/markets/2026/01/12/standard-chartered-predicts-ether-will-outperform-bitcoin-hit-usd40-000-by-2030)**
-
-The bank sees ether benefiting from sector-specific tailwinds even as broader crypto momentum remains uneven.
-
-CoinDesk • 2h ago
-
----
-
-**[Beyond Bitcoin: 3 Crypto Niches That Could Make You Money in 2026](https://finance.yahoo.com/news/beyond-bitcoin-3-crypto-niches-153706798.html)**
-
-Explore DeFi, nonfungible tokens with real utility and tokenized assets. These crypto niches could offer alternatives to big cryptocurrency names in 2026.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Strategy Buys $1.25 Billion in Bitcoin in Largest Purchase Since July](https://www.bloomberg.com/news/articles/2026-01-12/strategy-buys-1-25-billion-in-bitcoin-in-largest-purchase-since-july)**
-
-Bloomberg.com • 2h ago
-
----
-
 **[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
 
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
@@ -197,27 +213,11 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin miner moves $181 million, as expert speaks of ‘key inflection point’](https://www.dlnews.com/articles/markets/bitcoin-miner-moves-181-million/)**
+**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
 
-Miner active in the days of Bitcoin founder Satoshi Nakamoto, says expert. Two early “Bitcoin whales” moved coins worth $181 million late last year. VanEck predicts big Bitcoin price rises by 2050.
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-dlnews.com • 1d ago
-
----
-
-**[Satoshi-Era Miner Moves Millions in Bitcoin After 15 Years of Silence](https://finance.yahoo.com/news/satoshi-era-miner-moves-millions-190000016.html)**
-
-A Satoshi-era Bitcoin miner reactivated long-dormant wallets to move 2,000 BTC, worth about $181 million, to Coinbase.
-
-Yahoo Finance • 22h ago
-
----
-
-**[BlackRock warns crypto's love affair with AI is over as an energy war with Bitcoin miners begins](https://cryptoslate.com/blackrock-ai-energy-forecast-bitcoin-mining-impact-2026/)**
-
-BlackRock warns AI data centers could use up to 25% of US electricity by 2030. What it means for miners, grid flexibility, and cheap power.
-
-CryptoSlate • 1d ago
+KITCO • 1d ago
 
 ---
 
@@ -225,7 +225,7 @@ CryptoSlate • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
@@ -297,7 +297,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 56 • 💬 12 • 9h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 56 • 💬 12 • 10h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -313,33 +313,13 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
-**[DOJ Indictment on Powell Causes Panic (Bitcoin Retreats)](https://www.youtube.com/watch?v=sB5EKN1o364)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 8K • 👍 658 • 💬 43 • ⏱️ 41:26 • 2h ago
-
----
-
-**[Bitcoin’s About to Break (And Here’s Why)](https://www.youtube.com/watch?v=5XCWkRCaEmQ)**
-
-Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 10K • 👍 627 • 💬 86 • ⏱️ 19:14 • 6h ago
-
----
-
 **[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
 
 Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
 
 📺 Benjamin Cowen
 
-👁️ 40K • 👍 3K • 💬 126 • ⏱️ 10:58 • 12h ago
+👁️ 47K • 👍 3K • 💬 144 • ⏱️ 10:58 • 13h ago
 
 ---
 
@@ -349,37 +329,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 178 • ⏱️ 8:37 • 20h ago
-
----
-
-**[THIS IS A WARNING TO ALL BITCOIN BEARS](https://www.youtube.com/watch?v=6waE1ksKLaY)**
-
-BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
-
-📺 The Moon Show
-
-👁️ 10K • 👍 592 • 💬 67 • ⏱️ 6:16 • 7h ago
-
----
-
-**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
-
-This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
-
-📺 Thomas Kralow
-
-👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 4h ago
-
----
-
-**[Bitcoin On Edge As Trump’s Policies Rattle Markets! What Comes Next?](https://www.youtube.com/watch?v=oAYFUtAhbyw)**
-
-Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles to gain traction and stocks wobble amid growing ...
-
-📺 The Wolf Of All Streets
-
-👁️ 5K • 👍 569 • 💬 35 • ⏱️ 1:07:27 • 4h ago
+👁️ 40K • 👍 2K • 💬 204 • ⏱️ 8:37 • 20h ago
 
 ---
 
@@ -389,17 +339,67 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 202 • ⏱️ 17:17 • 1d ago
+👁️ 30K • 👍 2K • 💬 198 • ⏱️ 17:17 • 1d ago
 
 ---
 
-**[Bitcoin Hibernating in 2026? Bear Case for 60% Drop &amp; Drivers Behind Downtrend](https://www.youtube.com/watch?v=KlJ4itqYaVc)**
+**[Bitcoin’s About to Break (And Here’s Why)](https://www.youtube.com/watch?v=5XCWkRCaEmQ)**
 
-Steven McClurg says the four-year cycle for Bitcoin is "still very much intact," pointing to energy as the main culprit to crypto's down ...
+Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Schwab Network
+📺 Lark Davis
 
-👁️ 5K • 👍 79 • 💬 17 • ⏱️ 7:47 • 1d ago
+👁️ 14K • 👍 728 • 💬 99 • ⏱️ 19:14 • 7h ago
+
+---
+
+**[Bitcoin On Edge As Trump’s Policies Rattle Markets! What Comes Next?](https://www.youtube.com/watch?v=oAYFUtAhbyw)**
+
+Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles to gain traction and stocks wobble amid growing ...
+
+📺 The Wolf Of All Streets
+
+👁️ 12K • 👍 880 • 💬 246 • ⏱️ 1:07:27 • 2h ago
+
+---
+
+**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=XAIerBMY1Nc)**
+
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+
+📺 Road To $1 Million USD
+
+👁️ 5K • 👍 203 • 💬 192 • ⏱️ 7:14 • 20h ago
+
+---
+
+**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
+
+This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
+
+📺 Thomas Kralow
+
+👁️ 8K • 👍 2K • 💬 56 • ⏱️ 8:17 • 5h ago
+
+---
+
+**[THIS IS A WARNING TO ALL BITCOIN BEARS](https://www.youtube.com/watch?v=6waE1ksKLaY)**
+
+BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 12K • 👍 689 • 💬 84 • ⏱️ 6:16 • 8h ago
+
+---
+
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+
+📺 Digital Asset News
+
+👁️ 15K • 👍 798 • 💬 86 • ⏱️ 24:05 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 441 • 💬 38 • ⏱️ 1:14 • 17h ago
+👁️ 7K • 👍 470 • 💬 42 • ⏱️ 1:14 • 18h ago
 
 ---
 

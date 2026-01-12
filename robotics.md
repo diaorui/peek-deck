@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T17:46:43.501740+00:00'
+updated: '2026-01-12T18:35:24.847784+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 17:46 UTC  
+**Last Updated:** January 12, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 I was looking at some 'frameless' motors and was considering playing around with making an integrated motorized joint. Are there any open projects or CAD files around that show how these sorts of motors are integrated into a final design? Thanks!!
 
-1h ago
+2h ago
 
 ---
 
@@ -82,7 +82,7 @@ I was looking at some 'frameless' motors and was considering playing around with
 
 This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
 
-17h ago
+18h ago
 
 ---
 
@@ -90,7 +90,7 @@ This is a humanoid robot I’m building, think ima name him “Bing C Superfly�
 
 https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bcfbfbacf49ba5a0b91defd0ab1cb1b90cdf51 I am new to robotics, was trying to understand how to determine no. of dof. Where can I get a clear picture about finding dof and kutzback crietrion? I have several doubts in this image - how is the sliding joint considered a link? it has been numbered 8 in the image how to know if a joint has 1 or 2 dof what are all the links in this robot? is a platform (5 in the image) considered as a single link?
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bc
 
 A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
 
-9h ago
+10h ago
 
 ---
 
@@ -128,7 +128,7 @@ Tech Xplore • 2d ago
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -144,7 +144,7 @@ Engadget • 2d ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -168,7 +168,7 @@ Grand Forks Herald • 1d ago
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -176,7 +176,7 @@ CNBC • 12h ago
 
 WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -198,7 +198,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 309K • 👍 4K • 💬 690 • ⏱️ 4:29 • 5d ago
+👁️ 312K • 👍 4K • 💬 694 • ⏱️ 4:29 • 5d ago
 
 ---
 
@@ -212,33 +212,33 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 ---
 
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 11K • 👍 184 • 💬 33 • ⏱️ 11:29 • 1d ago
-
----
-
 **[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
 
 Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
 
 📺 CNBC
 
-👁️ 82K • 👍 1K • 💬 257 • ⏱️ 11:46 • 1d ago
+👁️ 86K • 👍 1K • 💬 264 • ⏱️ 11:46 • 1d ago
 
 ---
 
-**[2026 FIRST Robotics Competition Kickoff Broadcast: REBUILT presented by Haas](https://www.youtube.com/watch?v=9kRhE5vgCvY)**
+**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
 
-The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal of REBUILT presented by Haas. To learn ...
+The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
 
-📺 FIRSTRoboticsCompetition
+📺 Hyundai Motor Group
 
-👁️ 70K • 👍 2K • ⏱️ 56:16 • 2d ago
+👁️ 246K • 👍 62 • ⏱️ 1:15 • 5d ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 12K • 👍 189 • 💬 34 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -248,17 +248,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 57K • 👍 487 • 💬 40 • ⏱️ 11:13 • 6d ago
-
----
-
-**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
-
-Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
-
-📺 Trisha Hershberger
-
-👁️ 9K • 👍 519 • 💬 35 • ⏱️ 9:28 • 1d ago
+👁️ 57K • 👍 489 • 💬 40 • ⏱️ 11:13 • 6d ago
 
 ---
 
@@ -268,27 +258,37 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 7K • 👍 897 • 💬 44 • ⏱️ 17:09 • 4h ago
+👁️ 33K • 👍 2K • 💬 130 • ⏱️ 17:09 • 5h ago
 
 ---
 
-**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
+**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
 
-📺 Julia McCoy
+📺 Trisha Hershberger
 
-👁️ 35K • 👍 2K • 💬 349 • ⏱️ 14:30 • 1d ago
+👁️ 9K • 👍 529 • 💬 35 • ⏱️ 9:28 • 1d ago
 
 ---
 
-**[Laundry-folding robot debuts at CES 2026](https://www.youtube.com/watch?v=W93GXR7jo5o)**
+**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
 
-Technology leaders are gathering in Las Vegas for CES, one of the industry's biggest conferences of the year. CNET editor at ...
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
 
-📺 CBS News
+📺 NBC News
 
-👁️ 47K • 👍 120 • 💬 31 • ⏱️ 2:54 • 5d ago
+👁️ 198K • 👍 2K • 💬 219 • ⏱️ 0:22 • 6d ago
+
+---
+
+**[2026 FIRST Robotics Competition Kickoff Broadcast: REBUILT presented by Haas](https://www.youtube.com/watch?v=9kRhE5vgCvY)**
+
+The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal of REBUILT presented by Haas. To learn ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 71K • 👍 2K • ⏱️ 56:16 • 2d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T17:46:43.499003+00:00'
+updated: '2026-01-12T18:35:24.844581+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 17:46 UTC  
+**Last Updated:** January 12, 2026 at 18:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.88B
+**Market Cap:** $376.03B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.1%
 
 **All-Time Low:** $0.43
-+721032.0%
++718260.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Vitalik Buterin often compares Ethereum to Linux or BitTorrent: open systems tha
 
 Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
 
-1d ago
+2d ago
 
 ---
 
@@ -160,35 +160,31 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
+**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
 
-The Block • 5h ago
+Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
 
----
-
-**[Vitalik Buterin lays out 'walkaway test' for a quantum safe Ethereum](https://www.coindesk.com/tech/2026/01/12/vitalik-buterin-lays-out-walkaway-test-for-a-quantum-safe-ethereum)**
-
-Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
-
-CoinDesk • 2h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Says Crypto’s Stablecoin Model Is Not Built to Last](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-says-cryptos-stablecoin-model-is-not-built-to-last/)**
+**[Tom Lee's BitMine Buys $76 Million in Ethereum as Analysts Predict ETH Outperforming Bitcoin](https://finance.yahoo.com/news/tom-lees-bitmine-buys-76-164300180.html)**
 
-Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
+Publicly traded Ethereum treasury firm Bitmine Immersion Technologies added to its ETH stash, now valued around $13 billion.
 
-Coinpedia Fintech News • 1d ago
-
----
-
-**[StanChart says 2026 will be the year of Ethereum, sets new 2030 price target](https://www.investing.com/news/cryptocurrency-news/stanchart-says-2026-will-be-the-year-of-ethereum-sets-new-2030-price-target-4441812)**
-
-Investing.com • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Standard Chartered says '2026 will be the year of Ethereum' as bank backs ETH outperformance](https://www.theblock.co/post/385097/standard-chartered-says-2026-will-be-the-year-of-ethereum?utm_source=markets.xml&utm_medium=rss)**
+**[Ethereum to $40,000? Why one analyst expects the second-biggest crypto to outperform Bitcoin](https://www.dlnews.com/articles/markets/why-ethereum-will-outperform-bitcoin-by-2030-according-to-standard-chartered/)**
+
+Ethereum will hit $40,000 by 2030, Standard Chartered predicts. The second-biggest crypto should also outperform Bitcoin. Increased adoption of onchain finance is seen to fuel the rally.
+
+dlnews.com • 1h ago
+
+---
+
+**[Tom Lee's BitMine adds another 24,266 ether as holdings approach 4.2 million ETH and staked assets nearly double](https://www.theblock.co/post/385122/tom-lee-bitmine-adds-another-24266-ether-staked-assets-nearly-double)**
 
 The Block • 4h ago
 
@@ -196,7 +192,7 @@ The Block • 4h ago
 
 **[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
 
-CCN.com • 3h ago
+CCN.com • 4h ago
 
 ---
 
@@ -216,11 +212,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[A hidden "yield war" has begun in Ethereum ETFs, forcing issuers to finally pay you for holding](https://cryptoslate.com/eth-etfs-just-paid-a-dividend-grayscales-9-4m-staking-test/)**
+**[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
 
-Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
+Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
+
+---
+
+**[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
+
+thedefiant.io • 3h ago
 
 ---
 
@@ -234,57 +236,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 4h ago
-
----
-
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
-
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
-
-📺 Digital Asset News
-
-👁️ 15K • 👍 793 • 💬 86 • ⏱️ 24:05 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=4UGdGboD9X4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 144 • 💬 22 • ⏱️ 4:37 • 13h ago
-
----
-
-**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
-
-Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
-
-📺 Michaël van de Poppe
-
-👁️ 4K • 👍 230 • 💬 35 • ⏱️ 12:34 • 1d ago
-
----
-
-**[The Imminent Ripple XRP Supply Shock Will RATTLE Bitcoin And Ethereum No One Is Talking About This](https://www.youtube.com/watch?v=EYjaoepZJz8)**
-
-The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shocks and people not being able to even buy ...
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 898 • 💬 186 • ⏱️ 36:33 • 7h ago
-
----
-
-**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 11K • 👍 259 • 💬 594 • ⏱️ 13:48 • 1d ago
+👁️ 8K • 👍 2K • 💬 56 • ⏱️ 8:17 • 5h ago
 
 ---
 
@@ -294,17 +246,27 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 4K • 👍 684 • 💬 157 • ⏱️ 14:17 • 4h ago
+👁️ 7K • 👍 995 • 💬 222 • ⏱️ 14:17 • 5h ago
 
 ---
 
-**[URGENT ETH UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=X91_CPEOtVI)**
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
 
-📺 Cilinix Crypto
+📺 Digital Asset News
 
-👁️ 157 • 👍 7 • 💬 1 • ⏱️ 4:34 • 7h ago
+👁️ 15K • 👍 798 • 💬 86 • ⏱️ 24:05 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: $4,300-$4600 Target](https://www.youtube.com/watch?v=O7hTuhzc4JM)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 80 • 👍 6 • 💬 1 • ⏱️ 10:08 • 1h ago
 
 ---
 
@@ -314,7 +276,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 505 • 👍 71 • 💬 2 • ⏱️ 5:01 • 3h ago
+👁️ 1K • 👍 118 • 💬 10 • ⏱️ 5:01 • 4h ago
+
+---
+
+**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
+
+Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
+
+📺 Michaël van de Poppe
+
+👁️ 4K • 👍 235 • 💬 35 • ⏱️ 12:34 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 12K • 👍 263 • 💬 584 • ⏱️ 13:48 • 1d ago
+
+---
+
+**[URGENT ETH UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=X91_CPEOtVI)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 215 • 👍 7 • 💬 8 • ⏱️ 4:34 • 7h ago
 
 ---
 
@@ -324,7 +316,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 30K • 👍 959 • 💬 194 • ⏱️ 19:42 • 2d ago
+👁️ 30K • 👍 964 • 💬 192 • ⏱️ 19:42 • 2d ago
+
+---
+
+**[The Imminent Ripple XRP Supply Shock Will RATTLE Bitcoin And Ethereum No One Is Talking About This](https://www.youtube.com/watch?v=EYjaoepZJz8)**
+
+The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shocks and people not being able to even buy ...
+
+📺 The Modern Investor
+
+👁️ 10K • 👍 1K • 💬 309 • ⏱️ 36:33 • 8h ago
 
 ---
 

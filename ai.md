@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T17:46:43.486412+00:00'
+updated: '2026-01-12T18:35:24.830035+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 17:46 UTC  
+**Last Updated:** January 12, 2026 at 18:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."](https://www.reddit.com/r/artificial/comments/1qb0rry/geoffrey_hinton_says_agents_can_share_knowledge/)**
 
-32m ago
+1h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 18h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 19h ago
 
 ---
 
@@ -55,7 +55,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 17h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 18h ago
 
 ---
 
@@ -63,7 +63,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-6h ago
+7h ago
 
 ---
 
@@ -71,13 +71,13 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-13h ago
+14h ago
 
 ---
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -121,29 +121,43 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 “It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Malaysia, Indonesia become first to block Musk's Grok over AI deepfakes](https://www.npr.org/2026/01/12/nx-s1-5674660/malaysia-indonesia-block-grok-ai-deepfakes)**
+**[New tech and tools for retailers to succeed in an agentic shopping era](https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/)**
 
-Malaysia and Indonesia have become the first countries to block Grok, the artificial intelligence chatbot developed by Elon Musk's xAI, after authorities said it was being misused to generate sexually explicit and non-consensual images.
+An overview of Google’s new open standard for agentic commerce and AI tools to help retailers connect with shoppers and drive sales.
 
-NPR • 10h ago
-
----
-
-**[Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/cwy875j28k0o)**
-
-The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
-
-BBC • 5h ago
+blog.google • 1d ago
 
 ---
 
-**[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdAy_BLgUQVOEn2fWgjTeh3PeNib_7uk_OYwIjNw6Kxros8bSr83ZBk&gaa_ts=69654251&gaa_sig=RT2Zl70ImipPYn4JRtmzW7KfRipkM3PuE38K41bqvhGsidQ22HVlgdetPb3lRNCIWysHA9C_RB6sezXIIPuYwg%3D%3D)**
 
-The New York Times • 7h ago
+The Wall Street Journal • 1d ago
+
+---
+
+**[Lenovo Brings Real-Time Store Visibility and AI-Driven Support to Retail—Delivering Value on Day One](https://finance.yahoo.com/news/lenovo-brings-real-time-store-180000206.html)**
+
+NEW YORK, January 12, 2026--Retailers lose revenue every time an online store goes down, a system fails, or frontline employees lack the tools to act in the moment. Meanwhile, generative AI platforms and AI agents are creating new opportunities to increase online retail experiences and conversion rates. Yet while AI has the potential to help retailers drive better margins and competitive advantage, many still find it challenging to translate experimentation into consistent, day-to-day operationa
+
+Yahoo Finance • 35m ago
+
+---
+
+**[Meta launches new "Meta Compute" initiative to build AI infrastructure](https://www.axios.com/2026/01/12/meta-compute-ai-infrastructure)**
+
+Axios • 33m ago
+
+---
+
+**[Apple Taps Google Gemini to Give Siri an AI Glow-Up](https://gizmodo.com/apple-taps-google-gemini-to-give-siri-an-ai-glow-up-2000709013)**
+
+Thanks to the news, Google has now become the fourth company to hit $4 trillion market value.
+
+Gizmodo • 30m ago
 
 ---
 
@@ -151,43 +165,31 @@ The New York Times • 7h ago
 
 Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
-**[Apple strikes deal with Google's Gemini to power Siri's AI capabilities](https://www.businessinsider.com/apple-google-gemini-to-power-siri-ai-capabilities-2026-1)**
+**[Apple picks Google to power AI for long-delayed Siri overhaul](https://nypost.com/2026/01/12/tech/apple-picks-google-to-power-ai-for-long-delayed-siri-overhaul/)**
 
-Apple and Alphabet have reached a deal that will have Google Gemini powering Siri's artificial intelligence capabilities.
+Apple is partnering with Google to power its upcoming artificial intelligence features – including a long-delayed AI overhaul of its Siri voice assistant set to launch later this year, CEO Tim Cook…
 
-Business Insider • 1h ago
-
----
-
-**[Google, Apple enter into multi-year AI deal for Gemini models](https://www.reuters.com/business/google-apple-enter-into-multi-year-ai-deal-gemini-models-2026-01-12/)**
-
-Reuters • 1h ago
+New York Post • 39m ago
 
 ---
 
-**[5 new proposals to regulate AI in Washington state, from classrooms to digital companions](https://www.geekwire.com/2026/5-new-proposals-to-regulate-ai-in-washington-state-from-classrooms-to-digital-companions/)**
+**[UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images](https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk)**
 
-GeekWire • 1h ago
+Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
 
----
-
-**[Publishers fear AI search summaries and chatbots mean ‘end of traffic era’](https://www.theguardian.com/media/2026/jan/12/publishers-fear-ai-search-summaries-and-chatbots-mean-end-of-traffic-era)**
-
-Media bosses expect web referrals to plunge and want journalists to emulate content creators, report finds
-
-The Guardian • 11h ago
+The Guardian • 7h ago
 
 ---
 
-**[The Dangerous Paradox of A.I. Abundance](https://www.newyorker.com/news/the-financial-page/the-dangerous-paradox-of-ai-abundance)**
+**[Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes](https://www.bbc.com/news/articles/cg7y10xm4x2o)**
 
-Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
+Sexualised images of real people generated by Grok have circulated on X in recent weeks.
 
-The New Yorker • 6h ago
+BBC • 13h ago
 
 ---
 
@@ -223,7 +225,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
 
-⬆️ 163 • 💬 227 • 2d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 163 • 💬 227 • 3d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
 
 ---
 
@@ -231,7 +233,7 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 116 • 💬 41 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 116 • 💬 41 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -259,7 +261,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 29 • 💬 16 • 17h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 29 • 💬 16 • 18h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -267,7 +269,7 @@ AI agents with different personalities responding to moral dilemmas - baturyilma
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 27 • 💬 42 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 27 • 💬 42 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -275,13 +277,33 @@ Government signals support for possible Ofcom intervention on Grok as scrutiny o
 
 ## YouTube Videos: "ai"
 
-**[&#39;NINJA TURTLES vs AVATAR&#39; #fanfilm #ai #parody](https://www.youtube.com/watch?v=uO-lcZylpO4)**
+**[Every Way To Get Rich With AI in 2026 (Explained in 10mins)](https://www.youtube.com/watch?v=mZecvMwmvGk)**
 
-What happens when the Teenage Mutant Ninja Turtles crash-land on Pandora? In this AI-generated fan film parody, the ...
+The Join the #1 community for AI entrepreneurs and connect with 280k+ members: https://bit.ly/4pQ0dpc We help ...
 
-📺 Ai of Euphoria 
+📺 Liam Ottley
 
-👁️ 12K • 👍 338 • 💬 55 • ⏱️ 2:07 • 23h ago
+👁️ 10K • 👍 829 • 💬 37 • ⏱️ 10:29 • 11h ago
+
+---
+
+**[The $1.5 Billion Anthropic Lawsuit That Could Change AI Forever](https://www.youtube.com/watch?v=XQXVA5M9AUk)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
+
+📺 Julia McCoy
+
+👁️ 4K • 👍 454 • 💬 52 • ⏱️ 10:39 • 3h ago
+
+---
+
+**[Wired&#39;s Steven Levy on DeepSeek&#39;s latest AI model, state of AI tech race](https://www.youtube.com/watch?v=_67YjLqjYbk)**
+
+Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect from Chinese AI startup DeepSeek's latest model, ...
+
+📺 CNBC Television
+
+👁️ 10K • 👍 144 • 💬 40 • ⏱️ 7:57 • 4h ago
 
 ---
 
@@ -291,7 +313,7 @@ On Elon Musk's social media platform X, the Grok AI image generation reply bot h
 
 📺 NBC News
 
-👁️ 21K • 👍 161 • 💬 95 • ⏱️ 5:25 • 2d ago
+👁️ 22K • 👍 164 • 💬 98 • ⏱️ 5:25 • 2d ago
 
 ---
 
@@ -301,27 +323,17 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 2K • 👍 185 • 💬 57 • ⏱️ 24:00 • 22h ago
+👁️ 2K • 👍 190 • 💬 58 • ⏱️ 24:00 • 23h ago
 
 ---
 
-**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
+**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
 
-The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
-
-📺 Nate Ziller
-
-👁️ 229K • 👍 24K • 💬 2K • ⏱️ 4:38 • 1d ago
-
----
-
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
-
-CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
+Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
 
 📺 AI Revolution
 
-👁️ 37K • 👍 1K • 💬 50 • ⏱️ 11:06 • 2d ago
+👁️ 26K • 👍 916 • 💬 41 • ⏱️ 14:29 • 19h ago
 
 ---
 
@@ -331,27 +343,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 61K • 👍 2K • 💬 169 • ⏱️ 14:39 • 2d ago
-
----
-
-**[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 58K • 👍 2K • 💬 370 • ⏱️ 17:36 • 1d ago
-
----
-
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
-
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
-
-📺 MoreBeckBros
-
-👁️ 246K • 👍 10K • 💬 731 • ⏱️ 26:17 • 2d ago
+👁️ 63K • 👍 2K • 💬 170 • ⏱️ 14:39 • 2d ago
 
 ---
 
@@ -361,7 +353,17 @@ Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Bre
 
 📺 TIME
 
-👁️ 139K • 👍 4K • 💬 498 • ⏱️ 24:32 • 2d ago
+👁️ 146K • 👍 4K • 💬 523 • ⏱️ 24:32 • 2d ago
+
+---
+
+**[[이런뉴스] 머스크 “AI 세상, 노후 준비는 필요 없다” 인터뷰 영상 보니④ / KBS 2026.01.12.](https://www.youtube.com/watch?v=XL1N51lii20)**
+
+일론 머스크 테슬라 CEO는 인공지능(AI)과 로봇 기술 발전으로 인해 미래에는 개인의 노후 저축 개념 자체가 무의미해질 수 있다고 ...
+
+📺 KBS News
+
+👁️ 504K • 👍 4K • 💬 2K • ⏱️ 7:45 • 13h ago
 
 ---
 
@@ -371,7 +373,7 @@ In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with s
 
 📺 Dr Brian Keating
 
-👁️ 7K • 👍 188 • 💬 22 • ⏱️ 5:50 • 1d ago
+👁️ 7K • 👍 192 • 💬 23 • ⏱️ 5:50 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 735,985 • ❤️ 837 • 4d ago
+⬇️ 735,985 • ❤️ 843 • 4d ago
 
 ---
 
@@ -399,7 +401,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 23,889 • ❤️ 491 • 5d ago
+⬇️ 23,889 • ❤️ 496 • 5d ago
 
 ---
 
@@ -411,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 10,682 • ❤️ 726 • 11d ago
+⬇️ 10,682 • ❤️ 728 • 11d ago
 
 ---
 
@@ -423,7 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,687 • ❤️ 315 • 6d ago
+⬇️ 2,687 • ❤️ 317 • 6d ago
 
 ---
 
@@ -435,7 +437,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 12,797 • ❤️ 281 • 3d ago
+⬇️ 12,797 • ❤️ 283 • 3d ago
 
 ---
 
@@ -447,7 +449,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 670 • ❤️ 223 • 6d ago
+⬇️ 670 • ❤️ 224 • 6d ago
 
 ---
 
@@ -471,7 +473,7 @@ Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomo
 
 `robotics` `11.1B`
 
-⬇️ 13,820 • ❤️ 267 • 3d ago
+⬇️ 13,820 • ❤️ 268 • 3d ago
 
 ---
 
@@ -483,7 +485,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 23,310 • ❤️ 190 • 2d ago
+⬇️ 23,310 • ❤️ 191 • 2d ago
 
 ---
 
@@ -495,7 +497,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 19,641 • ❤️ 179 • 3d ago
+⬇️ 19,641 • ❤️ 180 • 3d ago
 
 ---
 
@@ -509,7 +511,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 174 • 💬 5 • ⭐ 4,478 • 1mo ago
+▲ 174 • 💬 5 • ⭐ 4,585 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -535,7 +537,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
 
-▲ 124 • 💬 3 • ⭐ 102 • 3d ago
+▲ 128 • 💬 3 • ⭐ 102 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
 
@@ -547,7 +549,7 @@ Large vision-language models are enhanced for image geolocalization by incorpora
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 22 • 💬 2 • ⭐ 789 • 7d ago
+▲ 23 • 💬 2 • ⭐ 789 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -589,7 +591,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-▲ 3 • 💬 0 • ⭐ 2,375 • 11mo ago
+▲ 3 • 💬 0 • ⭐ 2,431 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
@@ -652,7 +654,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 425 • 4d ago
+⭐ 3.2k • 🔱 430 • 4d ago
 
 ---
 
@@ -662,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 138 • 3h ago
+⭐ 2.3k • 🔱 138 • 10m ago
 
 ---
 
@@ -682,7 +684,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 1.5k • 🔱 52 • 10h ago
+⭐ 1.7k • 🔱 58 • 23m ago
 
 ---
 
@@ -692,7 +694,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 126 • 2h ago
+⭐ 1.5k • 🔱 126 • 3h ago
 
 ---
 
@@ -702,7 +704,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.3k • 🔱 73 • 20d ago
+⭐ 1.4k • 🔱 73 • 20d ago
 
 ---
 
@@ -722,7 +724,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 7h ago
+⭐ 1.2k • 🔱 143 • 8h ago
 
 ---
 
