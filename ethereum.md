@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T13:43:04.122470+00:00'
+updated: '2026-01-12T14:27:39.964650+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 13:43 UTC  
+**Last Updated:** January 12, 2026 at 14:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,116.81
+### $3,068.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -5.5%  
-**30d:** +1.5%  
-**90d:** -22.0%  
-**1y:** -0.6%  
+**24h:** -1.5%  
+**7d:** -6.8%  
+**30d:** +0.2%  
+**90d:** -23.1%  
+**1y:** -1.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -160,14 +160,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Buterin: Ethereum’s Independence Hinges on Better Decentralized Stablecoins — Here’s Why](https://finance.yahoo.com/news/vitalik-buterin-ethereum-independence-hinges-110921823.html)**
-
-Ethereum co-founder Vitalik Buterin has reopened debate over the role of stablecoins in Ethereum’s future, warning that the network’s long-term independence may depend on developing decentralized alternatives that rely less on the U.S. dollar and centralized issuers.Stablecoins have become core infrastructure for crypto markets, with a combined market value of ...
-
-Yahoo Finance • 2h ago
-
----
-
 **[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
 
 Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
@@ -176,19 +168,37 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Says Crypto’s Stablecoin Model Is Not Built to Last](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-says-cryptos-stablecoin-model-is-not-built-to-last/)**
+**[Vitalik Buterin: Ethereum’s Independence Hinges on Better Decentralized Stablecoins — Here’s Why](https://finance.yahoo.com/news/vitalik-buterin-ethereum-independence-hinges-110921823.html)**
 
-Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
+Ethereum co-founder Vitalik Buterin has reopened debate over the role of stablecoins in Ethereum’s future, warning that the network’s long-term independence may depend on developing decentralized alternatives that rely less on the U.S. dollar and centralized issuers.Stablecoins have become core infrastructure for crypto markets, with a combined market value of ...
 
-Coinpedia Fintech News • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum Price Sentiment Sinks Again: History Says That’s When Rallies Start](https://finance.yahoo.com/news/ethereum-price-sentiment-sinks-again-053838830.html)**
+**[New BlackRock report exposes a historic shift in crypto that leaves only one blockchain controlling the settlement layer](https://cryptoslate.com/blackrock-stablecoin-ethereum-settlement-standard-2026/)**
 
-Sentiment for the number two digital asset, ETH, just reached levels that 99Bitcoins analysts say often precede major price runs. The Ethereum price is currently trading between $3,100 and $3,200, up +2% in the past 24 hours as traders step in to buy following last week’s minor pullback. The Ethereum ...
+BlackRock says stablecoins are "no longer niche." Here’s why Ethereum is positioned as the settlement layer for digital dollars.
 
-Yahoo Finance • 3h ago
+CryptoSlate • 2d ago
+
+---
+
+**[StanChart says 2026 will be the year of Ethereum, sets new 2030 price target](https://www.investing.com/news/cryptocurrency-news/stanchart-says-2026-will-be-the-year-of-ethereum-sets-new-2030-price-target-4441812)**
+
+Investing.com • 1h ago
+
+---
+
+**[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
+
+The Block • 2h ago
+
+---
+
+**[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
+
+CCN.com • 38m ago
 
 ---
 
@@ -196,15 +206,15 @@ Yahoo Finance • 3h ago
 
 Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
 
-CryptoSlate • 21h ago
+CryptoSlate • 22h ago
 
 ---
 
-**[XRP and Solana ETFs Destroy Ethereum and Bitcoin as Institutional Exposure Pivots](https://www.tradingview.com/news/u_today:640737c00094b:0-xrp-and-solana-etfs-destroy-ethereum-and-bitcoin-as-institutional-exposure-pivots/)**
+**[Ethereum’s Inverted Chart May Be Setting Up Its Next Major Move: New ATH Soon?](https://www.tradingview.com/news/newsbtc:210e704de094b:0-ethereum-s-inverted-chart-may-be-setting-up-its-next-major-move-new-ath-soon/)**
 
-Institutional crypto exposure is undergoing a subtle but significant change, and the figures from Jan. 5 to Jan. 9 make it difficult to ignore. There was a net $681 million withdrawal from Bitcoin spot ETFs. With outflows of $68.57 million, Ethereum came next. While XRP spot ETFs brought in $38.07…
+Ethereum’s price action has spent an unusually long time moving sideways, and this behavior has tested the patience of many long-term bullish investors. When speaking of sideways movement, this movement has dragged on for many months, although Ethereum did manage to make a new all-time high in 2025…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -213,20 +223,6 @@ TradingView — Track All Markets • 4h ago
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
 The Motley Fool • 1d ago
-
----
-
-**[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
-
-Ethereum's very soul is up for debate.
-
-AMBCrypto • 1d ago
-
----
-
-**[Here’s XRP Price If XRP Reaches Ethereum’s Market Cap Today](https://www.binance.com/en/square/post/34936368127769)**
-
-Binance • 1d ago
 
 ---
 
@@ -250,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 21 • ⏱️ 4:37 • 9h ago
+👁️ 2K • 👍 139 • 💬 21 • ⏱️ 4:37 • 10h ago
 
 ---
 
@@ -260,7 +256,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 1K • 👍 218 • 💬 87 • ⏱️ 14:17 • 41m ago
+👁️ 1K • 👍 218 • 💬 87 • ⏱️ 14:17 • 1h ago
 
 ---
 
@@ -270,7 +266,7 @@ The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shock
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 682 • 💬 158 • ⏱️ 36:33 • 3h ago
+👁️ 4K • 👍 682 • 💬 158 • ⏱️ 36:33 • 4h ago
 
 ---
 
@@ -300,7 +296,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 8K • 👍 295 • 💬 157 • ⏱️ 14:54 • 17h ago
+👁️ 8K • 👍 295 • 💬 157 • ⏱️ 14:54 • 18h ago
 
 ---
 
@@ -320,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 661 • 👍 26 • 💬 10 • ⏱️ 5:22 • 23h ago
+👁️ 661 • 👍 26 • 💬 10 • ⏱️ 5:22 • 1d ago
 
 ---
 
@@ -330,7 +326,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 688 • 💬 149 • ⏱️ 9:05 • 8h ago
+👁️ 4K • 👍 688 • 💬 149 • ⏱️ 9:05 • 9h ago
 
 ---
 

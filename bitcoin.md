@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T13:43:04.116523+00:00'
+updated: '2026-01-12T14:27:39.954907+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 13:43 UTC  
+**Last Updated:** January 12, 2026 at 14:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,912.60
+### $90,200.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -3.2%  
-**30d:** +2.8%  
-**90d:** -18.4%  
-**1y:** -3.9%  
+**24h:** -0.7%  
+**7d:** -3.8%  
+**30d:** +2.2%  
+**90d:** -18.9%  
+**1y:** -4.5%  
 
 ---
 
@@ -77,6 +77,14 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
+
+Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
+
+9h ago
+
+---
+
 **[Jerome Down Bad - Got Bitcoin ?](https://www.reddit.com/r/Bitcoin/comments/1qak4f0/jerome_down_bad_got_bitcoin/)**
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
@@ -87,15 +95,27 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-13h ago
+14h ago
 
 ---
 
-**[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
+**[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
+8h ago
 
-9h ago
+---
+
+**[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
+
+1h ago
+
+---
+
+**[Rise and shine, Hodlers! Don’t forget your cold storage wallets ‘cause institutions want your bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1qauq8n/rise_and_shine_hodlers_dont_forget_your_cold/)**
+
+That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
+
+1h ago
 
 ---
 
@@ -103,13 +123,13 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 16h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 17h ago
 
 ---
 
-**[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
+**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-7h ago
+1h ago
 
 ---
 
@@ -117,13 +137,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Keep calm while the storm pass
 
-2h ago
-
----
-
-**[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
-
-13h ago
+3h ago
 
 ---
 
@@ -131,21 +145,7 @@ Keep calm while the storm pass
 
 South Korea’s new guidelines will let corporations invest in top 20 cryptocurrencies, with trading expected to begin by the end of 2026.
 
-🔗 [crypto.news](https://crypto.news/south-korea-to-lift-9-year-ban-on-corporate-crypto-investments/) • 2h ago
-
----
-
-**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
-
-1d ago
-
----
-
-**[$500 buy $500 Buy now worth $2884](https://www.reddit.com/r/Bitcoin/comments/1qa4ww3/500_buy_500_buy_now_worth_2884/)**
-
-Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
-
-20h ago
+🔗 [crypto.news](https://crypto.news/south-korea-to-lift-9-year-ban-on-corporate-crypto-investments/) • 3h ago
 
 ---
 
@@ -155,7 +155,23 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 7h ago
+The Block • 8h ago
+
+---
+
+**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
+
+Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Bitcoin price slips below $91,000 as privacy coins steal the spotlight: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today)**
+
+Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -167,27 +183,33 @@ The Motley Fool • 1d ago
 
 ---
 
-**[BTQ Technologies touts quantum-proof Bitcoin testnet](https://www.coindesk.com/tech/2026/01/12/quantum-computing-threatens-the-usd2-trillion-bitcoin-network-btq-technologies-says-it-has-a-defense)**
+**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
 
-Post-quantum cryptography specialist BTQ Technologies has introduced ‘Bitcoin Quantum,’ a permissionless fork and testnet of the largest cryptocurrency.
+Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
+
+Yahoo Finance • 2d ago
+
+---
+
+**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
+
+The Block • 1h ago
+
+---
+
+**[Strategy boosts BTC holdings using digital credit STRC](https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc)**
+
+Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
 
 CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin price to surge as Trump pushes debasement trade ‘into overdrive,’ analysts say](https://www.dlnews.com/articles/markets/bitcoin-price-to-surge-as-trump-runs-debasement-trade-into-overdrive/)**
+**[Prediction: Bitcoin Will Not Be Worth $1 Million in 5 Years](https://finance.yahoo.com/news/prediction-bitcoin-not-worth-1-135000101.html)**
 
-Dollar weakness will send Bitcoin’s price soaring, analysts say. The top crypto is still down nearly 30% from its all-time high of $126,000. Other assets like stocks and gold are pushing their all-time highs.
+Bitcoin may eventually hit $1 million, but not by 2030.
 
-dlnews.com • 3h ago
-
----
-
-**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 22h ago
+Yahoo Finance • 37m ago
 
 ---
 
@@ -199,31 +221,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin Whales Hit The Sell Button — $135K Price Target Now Trending](https://www.tradingview.com/news/newsbtc:fa1ae5b35094b:0-bitcoin-whales-hit-the-sell-button-135k-price-target-now-trending/)**
+**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
 
-According to TradingView data, big holders on Bitfinex have been trimming long positions after a late-December peak of 73,000 BTC. The move follows a broader drop in whale holdings of roughly 220,000 BTC during 2025, a change that has analysts and traders parsing what comes next.Price action has be…
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
-
-thestreet.com • 1d ago
-
----
-
-**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
-
-Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
-
-CryptoSlate • 1d ago
-
----
-
-**[‘Run It Hot’—Bitcoin And Crypto Traders Are Suddenly Betting On A Surprise 2026 Fed Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/01/10/run-it-hot-bitcoin-and-crypto-traders-are-suddenly-betting-on-a-surprise-2026-fed-price-game-changer/)**
-
-Forbes • 2d ago
+KITCO • 1d ago
 
 ---
 
@@ -295,7 +297,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 44 • 💬 7 • 5h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 47 • 💬 8 • 6h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -337,7 +339,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 3K • 💬 118 • ⏱️ 10:58 • 8h ago
+👁️ 32K • 👍 3K • 💬 118 • ⏱️ 10:58 • 9h ago
 
 ---
 
@@ -357,7 +359,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 6K • 👍 496 • 💬 61 • ⏱️ 6:16 • 3h ago
+👁️ 6K • 👍 496 • 💬 61 • ⏱️ 6:16 • 4h ago
 
 ---
 
@@ -367,7 +369,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 5K • 👍 463 • 💬 69 • ⏱️ 19:14 • 2h ago
+👁️ 5K • 👍 463 • 💬 69 • ⏱️ 19:14 • 3h ago
 
 ---
 
@@ -385,7 +387,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 409 • 💬 13 • ⏱️ 1:14 • 13h ago
+👁️ 6K • 👍 409 • 💬 13 • ⏱️ 1:14 • 14h ago
 
 ---
 
@@ -405,7 +407,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 29K • 👍 1K • 💬 565 • ⏱️ 1:01:22 • 23h ago
+👁️ 29K • 👍 1K • 💬 565 • ⏱️ 1:01:22 • 1d ago
 
 ---
 
