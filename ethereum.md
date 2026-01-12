@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T06:39:13.396966+00:00'
+updated: '2026-01-12T07:28:18.138774+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 06:39 UTC  
+**Last Updated:** January 12, 2026 at 07:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $381.11B
+**Market Cap:** $380.28B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.1%
+-36.3%
 
 **All-Time Low:** $0.43
-+729316.4%
++727427.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-37m ago
+1h ago
 
 ---
 
@@ -156,7 +156,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 An early Ethereum investor exits entirely with $274 million in profit, signaling market uncertainty amid institutional sell pressure.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ CryptoSlate • 1d ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Motley Fool • 20h ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 19h ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -226,7 +226,7 @@ Coinpedia Fintech News • 2d ago
 
 **[Ethereum ETF Attracts Fresh Cash as Investors Lean Into Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-attracts-fresh-cash-as-investors-lean-into-volatility)**
 
-TipRanks • 20h ago
+TipRanks • 21h ago
 
 ---
 
@@ -240,17 +240,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 769 • 💬 85 • ⏱️ 24:05 • 1d ago
-
----
-
-**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
-
-Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
-
-📺 Michaël van de Poppe
-
-👁️ 3K • 👍 204 • 💬 32 • ⏱️ 12:34 • 21h ago
+👁️ 14K • 👍 774 • 💬 85 • ⏱️ 24:05 • 1d ago
 
 ---
 
@@ -260,7 +250,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 255 • 👍 39 • 💬 2 • ⏱️ 4:37 • 2h ago
+👁️ 758 • 👍 94 • 💬 7 • ⏱️ 4:37 • 3h ago
+
+---
+
+**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
+
+Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
+
+📺 Michaël van de Poppe
+
+👁️ 3K • 👍 211 • 💬 52 • ⏱️ 12:34 • 22h ago
 
 ---
 
@@ -270,7 +270,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 249 • 💬 599 • ⏱️ 13:48 • 1d ago
+👁️ 11K • 👍 252 • 💬 578 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -280,27 +280,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 254 • 💬 131 • ⏱️ 14:54 • 10h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YTFOJvmO4tk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 139 • 💬 10 • ⏱️ 5:19 • 14h ago
-
----
-
-**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 583 • 👍 24 • 💬 12 • ⏱️ 5:22 • 16h ago
+👁️ 7K • 👍 265 • 💬 130 • ⏱️ 14:54 • 11h ago
 
 ---
 
@@ -310,7 +290,37 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 28K • 👍 918 • 💬 175 • ⏱️ 19:42 • 1d ago
+👁️ 28K • 👍 924 • 💬 188 • ⏱️ 19:42 • 1d ago
+
+---
+
+**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 603 • 👍 25 • 💬 11 • ⏱️ 5:22 • 17h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Kommt der Breakout in Richtung 95k?](https://www.youtube.com/watch?v=MZlx_P9ybUE)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 2K • 👍 465 • 💬 60 • ⏱️ 9:05 • 2h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=YTFOJvmO4tk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 140 • 💬 10 • ⏱️ 5:19 • 15h ago
 
 ---
 
@@ -320,17 +330,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 866 • 👍 46 • 💬 44 • ⏱️ 6:18 • 1d ago
-
----
-
-**[ETHEREUM (ETH), SOLANA (SOL) , SUI | Price Prediction : Higher Prices Ahead ?! Targets &amp; Key Levels](https://www.youtube.com/watch?v=lmlfRJBA4H4)**
-
-Join our Safe and Private Discord Community → Daily analysis requests, Elliott Wave education & Q&As. In this video, we ...
-
-📺 KG TRADING - Crypto Elliott Waves
-
-👁️ 200 • 👍 15 • 💬 2 • ⏱️ 14:10 • 13h ago
+👁️ 881 • 👍 46 • 💬 63 • ⏱️ 6:18 • 1d ago
 
 ---
 

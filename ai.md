@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T06:39:13.382185+00:00'
+updated: '2026-01-12T07:28:18.125968+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 06:39 UTC  
+**Last Updated:** January 12, 2026 at 07:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 7h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 6h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 7h ago
 
 ---
 
@@ -79,7 +79,7 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ This is def interesting for all SWEs who would like to know what goes behind the
 
 Sexualised images of real people generated by Grok have circulated on X in recent weeks.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -139,13 +139,13 @@ Fortune • 12h ago
 
 Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok due to its misuse in generating explicit images
 
-ABC News • 20m ago
+ABC News • 1h ago
 
 ---
 
 **[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcwtbajc9CYjKElZs7h2Iod5FZgp3cofi9PV9QC_7WD7mP5s-nxsUZG&gaa_ts=69649a7a&gaa_sig=NPHpaJCnJ10JTi0g6jsLDX75S8O423oKCrLlxK0VZJSBOO_R9lmneM3U4DT9smONqcRmrgh_97TT-icOY4dv7g%3D%3D)**
 
-The Wall Street Journal • 15h ago
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Wall Street Journal • 15h ago
 
 Neither America nor China can achieve true tech dominance.
 
-Foreign Affairs • 1h ago
+Foreign Affairs • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Foreign Affairs • 1h ago
 
 2026 will bring a kind of reset as big tech companies alter their stance on AI licensing to avoid future legal risk.
 
-Digiday • 1h ago
+Digiday • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Digiday • 1h ago
 
 “It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 11h ago
 
 The AI sector continues to grow, and there are plenty of promising ways to invest in it.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 9h ago
 
 Can Bloom Energy's high-flying stock, fueled by generating onsite power for AI data centers, steer clear of bubble risks?
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 16h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 815 • 💬 985 • 20h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 815 • 💬 985 • 21h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -273,7 +273,7 @@ An AI program used by Workday allegedly put resumes of applicants who were Black
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 24 • 💬 12 • 6h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 24 • 💬 12 • 7h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -281,13 +281,23 @@ AI agents with different personalities responding to moral dilemmas - baturyilma
 
 ## YouTube Videos: "ai"
 
-**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
+**[Grok AI model still generating sexualized content after changes](https://www.youtube.com/watch?v=Y3JZdJlwomE)**
 
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
+On Elon Musk's social media platform X, the Grok AI image generation reply bot has been changed to be for paying customers ...
 
-📺 Dan Martell
+📺 NBC News
 
-👁️ 90K • 👍 4K • 💬 293 • ⏱️ 19:15 • 2d ago
+👁️ 18K • 👍 150 • 💬 86 • ⏱️ 5:25 • 2d ago
+
+---
+
+**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
+
+Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
+
+📺 AI Revolution
+
+👁️ 15K • 👍 600 • 💬 22 • ⏱️ 14:29 • 8h ago
 
 ---
 
@@ -297,17 +307,17 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 1K • 👍 147 • 💬 42 • ⏱️ 24:00 • 11h ago
+👁️ 2K • 👍 159 • 💬 44 • ⏱️ 24:00 • 12h ago
 
 ---
 
-**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
+**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
 
-CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
 
-📺 AI Revolution
+📺 Dan Martell
 
-👁️ 36K • 👍 1K • 💬 50 • ⏱️ 11:06 • 2d ago
+👁️ 93K • 👍 5K • 💬 295 • ⏱️ 19:15 • 2d ago
 
 ---
 
@@ -317,47 +327,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 55K • 👍 2K • 💬 159 • ⏱️ 14:39 • 1d ago
-
----
-
-**[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 54K • 👍 2K • 💬 310 • ⏱️ 17:36 • 1d ago
-
----
-
-**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
-
-The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
-
-📺 Nate Ziller
-
-👁️ 185K • 👍 19K • 💬 1K • ⏱️ 4:38 • 1d ago
-
----
-
-**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
-
-Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
-
-📺 LBC
-
-👁️ 23K • 👍 403 • 💬 333 • ⏱️ 11:00 • 1d ago
-
----
-
-**[Nvidia&#39;s Jensen Huang on an AI Bubble, Trump, and the Arms Race with China](https://www.youtube.com/watch?v=s4haopj2XeA)**
-
-00:00 Intro 00:48 AI Bubble 03:30 Working with President Trump 05:17 AI Arms Race with China 13:13 Taiwan's Future 18:02 ...
-
-📺 TIME
-
-👁️ 117K • 👍 3K • 💬 414 • ⏱️ 24:32 • 2d ago
+👁️ 56K • 👍 2K • 💬 162 • ⏱️ 14:39 • 1d ago
 
 ---
 
@@ -367,17 +337,47 @@ Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Bre
 
 📺 MoreBeckBros
 
-👁️ 231K • 👍 9K • 💬 719 • ⏱️ 26:17 • 2d ago
+👁️ 235K • 👍 9K • 💬 721 • ⏱️ 26:17 • 2d ago
 
 ---
 
-**[Meta Wasting $600 Billion On AI](https://www.youtube.com/watch?v=lj_PDjfYIO0)**
+**[😢 When Everything Collapses, Real Friends Remain #rumi #ai #shorts #funny](https://www.youtube.com/watch?v=F7rtc_LAd1w)**
 
-For original short-selling research and much more check out our website: https://www.differentiatedanalytics.com/ Use promo ...
+This content is not suitable for viewers under 13. All characters and scenes are fictional and used for storytelling/illustrative ...
 
-📺 Wall Street Millennial
+📺 PmAI
 
-👁️ 59K • 👍 3K • 💬 622 • ⏱️ 17:02 • 8h ago
+👁️ 16K • 👍 237 • ⏱️ 0:32 • 15h ago
+
+---
+
+**[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 55K • 👍 2K • 💬 313 • ⏱️ 17:36 • 1d ago
+
+---
+
+**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
+
+The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
+
+📺 Nate Ziller
+
+👁️ 195K • 👍 20K • 💬 2K • ⏱️ 4:38 • 1d ago
+
+---
+
+**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
+
+Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
+
+📺 LBC
+
+👁️ 24K • 👍 418 • 💬 342 • ⏱️ 11:00 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 629,855 • ❤️ 796 • 3d ago
+⬇️ 629,855 • ❤️ 802 • 4d ago
 
 ---
 
@@ -417,7 +417,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 16,027 • ❤️ 445 • 4d ago
+⬇️ 16,027 • ❤️ 459 • 4d ago
 
 ---
 
@@ -429,7 +429,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,257 • ❤️ 297 • 6d ago
+⬇️ 2,257 • ❤️ 301 • 6d ago
 
 ---
 
@@ -441,7 +441,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 11,562 • ❤️ 271 • 3d ago
+⬇️ 11,562 • ❤️ 272 • 3d ago
 
 ---
 
@@ -453,7 +453,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,522 • ❤️ 355 • 6d ago
+⬇️ 30,522 • ❤️ 356 • 6d ago
 
 ---
 
@@ -465,7 +465,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 586 • ❤️ 212 • 6d ago
+⬇️ 586 • ❤️ 213 • 6d ago
 
 ---
 
@@ -501,7 +501,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 `text-to-image`
 
-⬇️ 23,403 • ❤️ 570 • 11d ago
+⬇️ 23,403 • ❤️ 571 • 11d ago
 
 ---
 
@@ -515,7 +515,7 @@ Qwen-Image-2512 is a text-to-image diffusion model that excels at generating hig
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 171 • 💬 5 • ⭐ 4,407 • 1mo ago
+▲ 171 • 💬 5 • ⭐ 4,478 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -527,7 +527,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 92 • 💬 1 • ⭐ 2,027 • 5d ago
+▲ 93 • 💬 1 • ⭐ 2,027 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -539,7 +539,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 21 • 💬 2 • ⭐ 732 • 6d ago
+▲ 22 • 💬 2 • ⭐ 732 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -567,7 +567,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-▲ 3 • 💬 0 • ⭐ 2,340 • 11mo ago
+▲ 3 • 💬 0 • ⭐ 2,375 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
@@ -585,18 +585,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
-
-*Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
-
-Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.
-
-▲ 4 • 💬 0 • ⭐ 25,652 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.11880) • [💻 code](https://github.com/microsoft/BitNet/tree/paper)
-
----
-
 **[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
 
 *Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
@@ -606,6 +594,18 @@ BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, match
 ▲ 81 • 💬 2 • ⭐ 25,654 • 9mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+
+---
+
+**[HunyuanVideo 1.5 Technical Report](https://huggingface.co/papers/2511.18870)**
+
+*Bing Wu, Chang Zou, Changlin Li et al. (81 authors)*
+
+HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art visual quality and motion coherence, using a DiT architecture with SSTA and an efficient video super-resolution network.
+
+▲ 24 • 💬 1 • ⭐ 3,135 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.18870) • [💻 code](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)
 
 ---
 
@@ -645,7 +645,7 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.0k • 🔱 1.0k • 1h ago
+⭐ 8.0k • 🔱 1.0k • 2h ago
 
 ---
 
@@ -655,7 +655,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 391 • 4d ago
+⭐ 2.9k • 🔱 401 • 4d ago
 
 ---
 
@@ -665,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 137 • 12h ago
+⭐ 2.3k • 🔱 137 • 13h ago
 
 ---
 
@@ -675,7 +675,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 225 • 17h ago
+⭐ 2.0k • 🔱 225 • 18h ago
 
 ---
 
@@ -685,7 +685,7 @@ vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 123 • 2h ago
+⭐ 1.4k • 🔱 124 • 14m ago
 
 ---
 
@@ -715,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 2h ago
+⭐ 1.2k • 🔱 143 • 6m ago
 
 ---
 
@@ -735,7 +735,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 933 • 🔱 36 • 6d ago
+⭐ 932 • 🔱 36 • 6d ago
 
 ---
 
