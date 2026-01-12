@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T09:34:36.596036+00:00'
+updated: '2026-01-12T10:27:05.110907+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 09:34 UTC  
+**Last Updated:** January 12, 2026 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 12h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 13h ago
 
 ---
 
@@ -115,13 +115,13 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-9h ago
+10h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -129,7 +129,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ The current BTC setup is showing a very familiar structure: • ​Similar break
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-13h ago
+14h ago
 
 ---
 
@@ -157,7 +157,7 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -165,13 +165,13 @@ Yahoo Finance • 6h ago
 
 Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Bitcoin Price Pops. Markets Treat Cryptos as Safe Play Amid Fed Powell Inquiry.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-0436df60?gaa_at=eafs&gaa_n=AWEtsqdrZlWtHS1d8zyrx5EMCTf7zWiWA-OU7-D0FqqpcQpCPNspI12-7aLh&gaa_ts=6964c393&gaa_sig=K8fCIhVe-VTvysPAByGwvxLQrM3z1YJwk0fmsv16wEBY-O2L_3ayw97lRo1x8QGzXl45AGKHH-x7VzeMUy_KwA%3D%3D)**
 
-Barron's • 46m ago
+Barron's • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Barron's • 46m ago
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 5h ago
 
 The so-called debasement trade — a way to hedge against currency debasement — was hot last year.  But while Bitcoin hit new highs in 2025, it finished the year on a low. Experts think Bitcoin still has a place in the trade.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ dlnews.com • 1h ago
 
 The proposed deal would take Sweden-based H100 into Switzerland and deepen its institutional bitcoin treasury strategy.
 
-CoinDesk • 10m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 10m ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 18h ago
+KITCO • 19h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 1d ago
 
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -267,7 +267,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 3d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 4d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -297,7 +297,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 9 • 💬 1 • 1h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 9 • 💬 1 • 2h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -349,7 +349,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 169 • ⏱️ 8:37 • 11h ago
+👁️ 31K • 👍 2K • 💬 169 • ⏱️ 8:37 • 12h ago
 
 ---
 
@@ -359,7 +359,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 84 • ⏱️ 10:58 • 4h ago
+👁️ 18K • 👍 2K • 💬 84 • ⏱️ 10:58 • 5h ago
 
 ---
 
@@ -369,7 +369,7 @@ In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bi
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 710 • 💬 126 • ⏱️ 18:06 • 8h ago
+👁️ 9K • 👍 710 • 💬 126 • ⏱️ 18:06 • 9h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 27K • 👍 1K • 💬 496 • ⏱️ 1:01:22 • 19h ago
+👁️ 27K • 👍 1K • 💬 496 • ⏱️ 1:01:22 • 20h ago
 
 ---
 

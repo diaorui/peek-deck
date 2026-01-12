@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T09:34:36.605122+00:00'
+updated: '2026-01-12T10:27:05.120266+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 09:34 UTC  
+**Last Updated:** January 12, 2026 at 10:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-22h ago
+23h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +74,7 @@ This is a humanoid robot I’m building, think ima name him “Bing C Superfly�
 
 Im making a project with a gripper, and im using a servo to move the gears to squeeze the gripper. My question is how do i get continuous squeezing force on the gripped object, without having the servo in a continuous stall? Im thinking to like check the current, and if its at stall current, turn off the servo then like turn it on and off every couple ms or something, like flickering the power. But would that be bad for the servo? Does anyone know how to do this?
 
-6h ago
+7h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi all, currently working on a bionic hand project. The project itself is relati
 
 Given the rise of world models and multi modal action agents, what do you guys think about the future of action-labeled gameplay data? Can it be a good baseline in the training pipeline before RL?
 
-10h ago
+11h ago
 
 ---
 
@@ -134,7 +134,7 @@ Engadget • 1d ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ Sky News • 2d ago
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -186,7 +186,7 @@ Bloomberg.com • 4h ago
 
 “This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
 
-Grand Forks Herald • 20h ago
+Grand Forks Herald • 21h ago
 
 ---
 
@@ -230,7 +230,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 56K • 👍 481 • 💬 40 • ⏱️ 11:13 • 5d ago
+👁️ 56K • 👍 481 • 💬 40 • ⏱️ 11:13 • 6d ago
 
 ---
 
@@ -280,7 +280,7 @@ The Chinese startup Zeroth Robotics just emerged from stealth with an aggressive
 
 📺 Kalil 4.0
 
-👁️ 363 • 👍 17 • 💬 3 • ⏱️ 1:10 • 3h ago
+👁️ 363 • 👍 17 • 💬 3 • ⏱️ 1:10 • 4h ago
 
 ---
 
@@ -290,7 +290,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 74K • 👍 950 • 💬 228 • ⏱️ 11:46 • 17h ago
+👁️ 74K • 👍 950 • 💬 228 • ⏱️ 11:46 • 18h ago
 
 ---
 
