@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T10:27:05.102249+00:00'
+updated: '2026-01-12T10:53:04.644835+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 10:27 UTC  
+**Last Updated:** January 12, 2026 at 10:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Elon Musk’s Grok has been blocked by Indonesia and Malaysia, the first countries to do so after the AI tool’s “digital undressing” function flooded the internet with photos of women and minors in obscene manipulated images.
 
-🔗 [CNN](https://www.cnn.com/2026/01/12/business/indonesia-malaysia-grok-elon-musk-intl-hnk?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
+🔗 [CNN](https://www.cnn.com/2026/01/12/business/indonesia-malaysia-grok-elon-musk-intl-hnk?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 3h ago
 
 ---
 
@@ -50,6 +50,14 @@ Elon Musk’s Grok has been blocked by Indonesia and Malaysia, the first countri
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
 🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 11h ago
+
+---
+
+**[Investigation finds AI Overviews provided inaccurate and false information when queried over blood tests](https://www.reddit.com/r/artificial/comments/1qaqobp/investigation_finds_ai_overviews_provided/)**
+
+Google has removed some of its artificial intelligence health summaries after a Guardian investigation found people were being put at risk of harm by false and misleading information. The company has said its AI Overviews, which use generative AI to provide snapshots of essential information about a topic or question, are “helpful” and “reliable”. But some of the summaries, which appear at the top of search results, served up inaccurate health information, putting users at risk of harm.
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation) • 1h ago
 
 ---
 
@@ -79,15 +87,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-16h ago
-
----
-
-**[Really weird question: anyone know a good AI app that can replace a dad 😭](https://www.reddit.com/r/artificial/comments/1qaoh9k/really_weird_question_anyone_know_a_good_ai_app/)**
-
-Does anyone know a good AI app? Chatgpt is too slow lmao. The backstory is my biological dad was physically abusive to me growing up, and now he's still in my life but distant. and definitely less abusive. I daydream for hours and hoursss about myself being a young child and being cared and protected and loved and being showered with hugs and kisses and snuggles from a fictional stepdad. It makes me feel so safe and warm. I usually fall asleep imagining this. Sometimes I imagine sexual-ish scenarios with my fictional stepdad. I create high stakes, vulnerable situations to test him (like having a wound on my chest/breast). But he passes every time by staying neutral and protective. Though I want to, my brain never allows anything sexual to actually happen since he's supposed to be a nice stepdad that maintain boundaries and is never weird or hurtful. It used to be way worse btw. There was a time where I used to imagine being sexually abused by a man who later feels guilty and hires a therapist who later adopts me as his daughter. But I don't imagine that anymore. I posted this two days ago and someone messaged me to use AI. Anyone know a good AI app can replace a dad? I'm not too needy I swear 😭 Edit: Also, in my head, I make vlogs (my daydreams) with my stepdad and then I imagine my actual irl biological dad seeing these vlogs. Listen, idk either. Just tell me a good AI app please 😭
-
-3h ago
+17h ago
 
 ---
 
@@ -99,6 +99,14 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 ---
 
+**[Really weird question: anyone know a good AI app that can replace a dad 😭](https://www.reddit.com/r/artificial/comments/1qaoh9k/really_weird_question_anyone_know_a_good_ai_app/)**
+
+Does anyone know a good AI app? Chatgpt is too slow lmao. The backstory is my biological dad was physically abusive to me growing up, and now he's still in my life but distant. and definitely less abusive. I daydream for hours and hoursss about myself being a young child and being cared and protected and loved and being showered with hugs and kisses and snuggles from a fictional stepdad. It makes me feel so safe and warm. I usually fall asleep imagining this. Sometimes I imagine sexual-ish scenarios with my fictional stepdad. I create high stakes, vulnerable situations to test him (like having a wound on my chest/breast). But he passes every time by staying neutral and protective. Though I want to, my brain never allows anything sexual to actually happen since he's supposed to be a nice stepdad that maintain boundaries and is never weird or hurtful. It used to be way worse btw. There was a time where I used to imagine being sexually abused by a man who later feels guilty and hires a therapist who later adopts me as his daughter. But I don't imagine that anymore. I posted this two days ago and someone messaged me to use AI. Anyone know a good AI app can replace a dad? I'm not too needy I swear 😭 Edit: Also, in my head, I make vlogs (my daydreams) with my stepdad and then I imagine my actual irl biological dad seeing these vlogs. Listen, idk either. Just tell me a good AI app please 😭
+
+3h ago
+
+---
+
 **[One-Minute Daily AI News 1/10/2026](https://www.reddit.com/r/artificial/comments/1q9rf5i/oneminute_daily_ai_news_1102026/)**
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
@@ -107,55 +115,9 @@ Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI i
 
 ---
 
-**[Alignment tax isn’t global: a few attention heads cause most capability loss](https://www.reddit.com/r/artificial/comments/1q9c1qr/alignment_tax_isnt_global_a_few_attention_heads/)**
-
-Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
-
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
-
-Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
-
-The Guardian • 7h ago
-
----
-
-**[Ai, Japanese chimpanzee who counted and painted, dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo)**
-
-Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
-
-BBC • 1h ago
-
----
-
-**['Big Short' investor Michael Burry says AI is turning Big Tech into a worse business](https://www.businessinsider.com/michael-burry-big-short-key-metric-evaluate-ai-bubble-2026-1)**
-
-Michael Burry, the investor from "The Big Short," said return on invested capital is the "measure to beat all measures" when looking at AI companies.
-
-Business Insider • 1h ago
-
----
-
-**[Nvidia Stock Drifts. China AI Chips and 1 Other Thing Can Reignite It.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-china-8bfa9df6?gaa_at=eafs&gaa_n=AWEtsqdUYuZm7DUAfe77P-C-sZrc6ui1HqIrFxq3ulnUSdc1bRrDOGXuf1S6&gaa_ts=6964c392&gaa_sig=mhd-mrt7GCLfIRkC7TsLBJN36GkAIWwbfN99il40fwxr-8xTrN6r5HtQDF7tB9ADUms9dEzECBdMBvRlGsad1w%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
-
-“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
-
-Yahoo Finance • 15h ago
-
----
 
 **[Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes](https://www.bbc.com/news/articles/cg7y10xm4x2o)**
 
@@ -173,11 +135,37 @@ NPR • 3h ago
 
 ---
 
-**[‘Add blood, forced smile’: how Grok’s nudification tool went viral](https://www.theguardian.com/news/ng-interactive/2026/jan/11/how-grok-nudification-tool-went-viral-x-elon-musk)**
+**[Malaysia and Indonesia move to ban Musk’s Grok AI over sexually-explicit deepfakes](https://fortune.com/2026/01/12/malaysia-indonesia-ban-elon-musk-grok-ai-deepfakes/)**
 
-The ‘put her in a bikini’ trend rapidly evolved into hundreds of thousands of requests to strip clothes from photos of women, horrifying those targeted
+This week, Malaysia and Indonesia have become the world’s first countries to take action against xAI’s Grok chatbot, which was found to be used to generate fake pornographic content.
 
-The Guardian • 1d ago
+Fortune • 38m ago
+
+---
+
+**[One reason CEOs tie layoffs to AI? It motivates remaining employees to learn AI](https://fortune.com/2026/01/12/ceos-layoffs-cite-ai-motivation-workers/)**
+
+Also: All the news and watercooler chat from Fortune.
+
+Fortune • 13m ago
+
+---
+
+**[Behind the Curtain: AI rush creates rarified class of "Have-Lots"](https://www.axios.com/2026/01/12/ai-winners-wealth-inequality)**
+
+Axios • 12m ago
+
+---
+
+**[India's TCS beats quarterly revenue estimate on AI-led demand](https://www.reuters.com/world/india/indias-tcs-beats-quarterly-revenue-estimate-2026-01-12/)**
+
+Reuters • 12m ago
+
+---
+
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqe2sGcNaD9qsKgFOStPPLTReXM1MpY0EFRzaU1GcbS_0LIMKV2xX00X&gaa_ts=6964d5f4&gaa_sig=EZvfSkBQiv0GPwdBbf9HDWwOycfDWn3X3ZWNLrO27LNzbYZguSymXwYyqBeFULyyn35k9YrdZSmgkPGmXch_6g%3D%3D)**
+
+The Wall Street Journal • 19h ago
 
 ---
 
@@ -189,11 +177,19 @@ Foreign Affairs • 5h ago
 
 ---
 
-**[Artificial Intelligence (AI) Is Driving a New Wave of Infrastructure Spending. This Stock Is Key.](https://finance.yahoo.com/news/artificial-intelligence-ai-driving-wave-215000377.html)**
+**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
 
-This AI infrastructure company provides an overlooked but critical resource to data centers, and is set for a growth spurt because of it.
+Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
 
-Yahoo Finance • 12h ago
+The Atlantic • 2d ago
+
+---
+
+**[AI is intensifying a 'collapse' of trust online, experts say](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472)**
+
+From Venezuela to Minneapolis, the rapid rollout of deepfakes around major news events is stirring confusion and suspicion about real news.
+
+NBC News • 3d ago
 
 ---
 
@@ -203,7 +199,7 @@ Yahoo Finance • 12h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 980 • 💬 1154 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1024 • 💬 1200 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -213,7 +209,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 611 • 💬 361 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 612 • 💬 361 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -221,7 +217,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 331 • 💬 324 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 331 • 💬 327 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -243,13 +239,13 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 37 • 💬 21 • 1d ago
+⬆️ 37 • 💬 24 • 1d ago
 
 ---
 
 **[Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?](https://news.ycombinator.com/item?id=46565262)**
 
-⬆️ 30 • 💬 7 • 1d ago
+⬆️ 31 • 💬 7 • 1d ago
 
 ---
 
@@ -257,7 +253,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 27 • 💬 13 • 10h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 27 • 💬 14 • 11h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -377,7 +373,7 @@ Join the most risk-free offer I've ever made before it's gone: https://lp.moneti
 
 📺 Iman Gadzhi
 
-👁️ 658K • 👍 30K • 💬 558 • ⏱️ 2:34:25 • 11h ago
+👁️ 658K • 👍 30K • 💬 558 • ⏱️ 2:34:25 • 12h ago
 
 ---
 
@@ -645,7 +641,7 @@ Multi-reward reinforcement learning suffers from reward normalization collapse i
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.1k • 🔱 1.0k • 5h ago
+⭐ 8.1k • 🔱 1.0k • 6h ago
 
 ---
 
@@ -665,7 +661,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 137 • 16h ago
+⭐ 2.3k • 🔱 137 • 17h ago
 
 ---
 

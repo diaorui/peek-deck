@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T10:27:05.117037+00:00'
+updated: '2026-01-12T10:53:04.659355+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 10:27 UTC  
+**Last Updated:** January 12, 2026 at 10:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -5.2%  
-**30d:** +1.9%  
-**90d:** -21.8%  
-**1y:** -0.3%  
+**24h:** +0.1%  
+**7d:** -5.5%  
+**30d:** +1.5%  
+**90d:** -22.0%  
+**1y:** -0.7%  
 
 ---
 
@@ -73,14 +73,6 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 4h ago
-
----
-
-**[Ethereum finally made sense to me once I understood the fundamentals behind it](https://www.reddit.com/r/ethereum/comments/1qaqfc2/ethereum_finally_made_sense_to_me_once_i/)**
-
-When I first tried to understand Ethereum, I kept running into the same problem: discussions jumped straight into gas fees, scaling solutions, or price predictions without clearly explaining how everything fit together. What helped most was stepping back and focusing on the basics - what Ethereum is designed to do, how smart contracts actually work, why decentralization matters, and what tradeoffs exist compared to Bitcoin and other chains. Once I understood the underlying system, the debates around Layer 2s, fees, and upgrades made a lot more sense. A book that really helped me build that foundation was Crypto for Dummies: A Beginner’s Guide to Bitcoin, Blockchain, and Not Losing Your Mind (or Your Money). Despite the title, it explains Ethereum clearly alongside Bitcoin, focusing on how blockchain technology works rather than hype or speculation. It’s especially useful if you feel like you’re piecing knowledge together from random posts and threads. If you’re curious about Ethereum but feel overwhelmed by jargon or conflicting opinions, I genuinely recommend starting with this book. Understanding the fundamentals first made everything else - including criticism - much easier to evaluate. Just sharing what helped me move from confusion to clarity.
-
-1h ago
 
 ---
 
@@ -148,6 +140,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Ethereal news weekly #6 | BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10](https://www.reddit.com/r/ethereum/comments/1q87awd/ethereal_news_weekly_6_bpo2_upgrade_increased/)**
+
+BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoch 10
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-6/) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -168,11 +168,11 @@ CoinDesk • 21h ago
 
 ---
 
-**[Ethereum Whale Nets $274 Million Profit in Strategic Exit Amid Market Jitters](https://finance.yahoo.com/news/ethereum-whale-nets-274-million-044857649.html)**
+**[Ethereum Price Sentiment Sinks Again: History Says That’s When Rallies Start](https://finance.yahoo.com/news/ethereum-price-sentiment-sinks-again-053838830.html)**
 
-An early Ethereum investor exits entirely with $274 million in profit, signaling market uncertainty amid institutional sell pressure.
+Sentiment for the number two digital asset, ETH, just reached levels that 99Bitcoins analysts say often precede major price runs. The Ethereum price is currently trading between $3,100 and $3,200, up +2% in the past 24 hours as traders step in to buy following last week’s minor pullback. The Ethereum ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 47m ago
 
 ---
 
@@ -208,6 +208,12 @@ AMBCrypto • 23h ago
 
 ---
 
+**[Here’s XRP Price If XRP Reaches Ethereum’s Market Cap Today](https://www.binance.com/en/square/post/34936368127769)**
+
+Binance • 1d ago
+
+---
+
 **[Ethereum Treasury Firm SharpLink Stakes $170 Million of ETH on Linea](https://decrypt.co/354058/ethereum-treasury-firm-sharplink-gaming-stakes-170-million-eth-linea)**
 
 Publicly traded Ethereum treasury firm SharpLink Gaming staked $170 million worth of ETH on Ethereum layer-2 scaling network, Linea.
@@ -221,12 +227,6 @@ Decrypt • 3d ago
 Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
 Coinpedia Fintech News • 2d ago
-
----
-
-**[Ethereum ETF Attracts Fresh Cash as Investors Lean Into Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-attracts-fresh-cash-as-investors-lean-into-volatility)**
-
-TipRanks • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 621 • 👍 25 • 💬 10 • ⏱️ 5:22 • 20h ago
+👁️ 621 • 👍 25 • 💬 10 • ⏱️ 5:22 • 21h ago
 
 ---
 

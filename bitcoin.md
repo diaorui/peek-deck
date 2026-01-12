@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T10:27:05.110907+00:00'
+updated: '2026-01-12T10:53:04.653342+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 10:27 UTC  
+**Last Updated:** January 12, 2026 at 10:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.0%  
-**30d:** +3.1%  
-**90d:** -18.1%  
-**1y:** -3.6%  
+**24h:** -0.0%  
+**7d:** -3.2%  
+**30d:** +2.8%  
+**90d:** -18.4%  
+**1y:** -3.9%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -125,19 +125,19 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 ---
 
+**[BTC Structure: Anyone else getting April 2025 vibes?](https://www.reddit.com/r/Bitcoin/comments/1qahg87/btc_structure_anyone_else_getting_april_2025_vibes/)**
+
+The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
+
+9h ago
+
+---
+
 **[$500 buy $500 Buy now worth $2884](https://www.reddit.com/r/Bitcoin/comments/1qa4ww3/500_buy_500_buy_now_worth_2884/)**
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
 17h ago
-
----
-
-**[BTC Structure: Anyone else getting April 2025 vibes?](https://www.reddit.com/r/Bitcoin/comments/1qahg87/btc_structure_anyone_else_getting_april_2025_vibes/)**
-
-The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
-
-8h ago
 
 ---
 
@@ -153,6 +153,28 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 ## Google News: "bitcoin"
 
+**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
+
+The Block • 5h ago
+
+---
+
+**[Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates](https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates)**
+
+Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.
+
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
+
+Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
+
+Yahoo Finance • 7h ago
+
+---
+
 **[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
@@ -161,39 +183,25 @@ Yahoo Finance • 7h ago
 
 ---
 
-**[Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates](https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates)**
-
-Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.
-
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin Price Pops. Markets Treat Cryptos as Safe Play Amid Fed Powell Inquiry.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-0436df60?gaa_at=eafs&gaa_n=AWEtsqdrZlWtHS1d8zyrx5EMCTf7zWiWA-OU7-D0FqqpcQpCPNspI12-7aLh&gaa_ts=6964c393&gaa_sig=K8fCIhVe-VTvysPAByGwvxLQrM3z1YJwk0fmsv16wEBY-O2L_3ayw97lRo1x8QGzXl45AGKHH-x7VzeMUy_KwA%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
-
-Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
-
-Yahoo Finance • 6h ago
-
----
-
-**[Will the Bitcoin price benefit from the ‘debasement trade’ in 2026?](https://www.dlnews.com/articles/markets/will-bitcoin-be-used-in-debasement-trade-2026/)**
-
-The so-called debasement trade — a way to hedge against currency debasement — was hot last year.  But while Bitcoin hit new highs in 2025, it finished the year on a low. Experts think Bitcoin still has a place in the trade.
-
-dlnews.com • 2h ago
-
----
-
 **[Swedish heath-tech company H100 moves to acquire Swiss bitcoin treasury firm Future Holdings](https://www.coindesk.com/markets/2026/01/12/bitcoin-treasury-firms-linked-to-adam-back-sign-preliminary-agreement-to-combine)**
 
 The proposed deal would take Sweden-based H100 into Switzerland and deepen its institutional bitcoin treasury strategy.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin price to surge as Trump pushes debasement trade ‘into overdrive,’ analysts say](https://www.dlnews.com/articles/markets/bitcoin-price-to-surge-as-trump-runs-debasement-trade-into-overdrive/)**
+
+Dollar weakness will send Bitcoin’s price soaring, analysts say. The top crypto is still down nearly 30% from its all-time high of $126,000. Other assets like stocks and gold are pushing their all-time highs.
+
+dlnews.com • 41m ago
+
+---
+
+**[BTC turns red on the day, sliding back toward $90,000](https://www.coindesk.com/markets/2026/01/12/bitcoin-s-early-gains-fade-fast-as-prices-fall-back-below-usd91-000)**
+
+Asian session gains for bitcoin above $92,000 have been fully erased.
 
 CoinDesk • 1h ago
 
@@ -220,12 +228,6 @@ CNBC • 1d ago
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
 The Motley Fool • 23h ago
-
----
-
-**[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
-
-The Block • 3d ago
 
 ---
 
@@ -297,7 +299,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 9 • 💬 1 • 2h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 29 • 💬 6 • 3h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -319,7 +321,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 196 • 💬 179 • ⏱️ 7:14 • 11h ago
+👁️ 4K • 👍 196 • 💬 179 • ⏱️ 7:14 • 12h ago
 
 ---
 
@@ -349,7 +351,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 169 • ⏱️ 8:37 • 12h ago
+👁️ 31K • 👍 2K • 💬 169 • ⏱️ 8:37 • 13h ago
 
 ---
 
@@ -369,7 +371,7 @@ In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bi
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 710 • 💬 126 • ⏱️ 18:06 • 9h ago
+👁️ 9K • 👍 710 • 💬 126 • ⏱️ 18:06 • 10h ago
 
 ---
 
@@ -389,7 +391,7 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 74 • 💬 69 • ⏱️ 7:47 • 19h ago
+👁️ 4K • 👍 74 • 💬 69 • ⏱️ 7:47 • 20h ago
 
 ---
 
