@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T10:53:04.659355+00:00'
+updated: '2026-01-12T11:21:37.789651+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 10:53 UTC  
+**Last Updated:** January 12, 2026 at 11:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 21h ago
 
 EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 21h ago
 
 Sentiment for the number two digital asset, ETH, just reached levels that 99Bitcoins analysts say often precede major price runs. The Ethereum price is currently trading between $3,100 and $3,200, up +2% in the past 24 hours as traders step in to buy following last week’s minor pullback. The Ethereum ...
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 47m ago
 
 Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Motley Fool • 1d ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 126 • 💬 8 • ⏱️ 4:37 • 6h ago
+👁️ 1K • 👍 126 • 💬 8 • ⏱️ 4:37 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 277 • 💬 130 • ⏱️ 14:54 • 14h ago
+👁️ 7K • 👍 277 • 💬 130 • ⏱️ 14:54 • 15h ago
 
 ---
 
@@ -310,7 +310,7 @@ Crie sua conta na corretora BingX: https://bingx.com/pt-br/partner/DougTadeu Ins
 
 📺 Douglas Tadeu
 
-👁️ 3K • 👍 459 • 💬 28 • ⏱️ 17:07 • 11h ago
+👁️ 3K • 👍 459 • 💬 28 • ⏱️ 17:07 • 12h ago
 
 ---
 
@@ -330,7 +330,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 612 • 💬 102 • ⏱️ 9:05 • 5h ago
+👁️ 3K • 👍 612 • 💬 102 • ⏱️ 9:05 • 6h ago
 
 ---
 

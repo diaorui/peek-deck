@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T10:53:04.653342+00:00'
+updated: '2026-01-12T11:21:37.783603+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 10:53 UTC  
+**Last Updated:** January 12, 2026 at 11:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 13h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 14h ago
 
 ---
 
@@ -115,13 +115,13 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-10h ago
+11h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -137,7 +137,7 @@ The current BTC setup is showing a very familiar structure: • ​Similar break
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-17h ago
+18h ago
 
 ---
 
@@ -145,7 +145,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-14h ago
+15h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 7h ago
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 1h ago
 
 Dollar weakness will send Bitcoin’s price soaring, analysts say. The top crypto is still down nearly 30% from its all-time high of $126,000. Other assets like stocks and gold are pushing their all-time highs.
 
-dlnews.com • 41m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ dlnews.com • 41m ago
 
 Asian session gains for bitcoin above $92,000 have been fully erased.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -227,7 +227,7 @@ CNBC • 1d ago
 
 The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 84 • ⏱️ 10:58 • 5h ago
+👁️ 18K • 👍 2K • 💬 84 • ⏱️ 10:58 • 6h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 27K • 👍 1K • 💬 496 • ⏱️ 1:01:22 • 20h ago
+👁️ 27K • 👍 1K • 💬 496 • ⏱️ 1:01:22 • 21h ago
 
 ---
 

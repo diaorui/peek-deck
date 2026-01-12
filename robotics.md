@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T10:53:04.662628+00:00'
+updated: '2026-01-12T11:21:37.792848+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 10:53 UTC  
+**Last Updated:** January 12, 2026 at 11:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ This is a humanoid robot I’m building, think ima name him “Bing C Superfly�
 
 Im making a project with a gripper, and im using a servo to move the gears to squeeze the gripper. My question is how do i get continuous squeezing force on the gripped object, without having the servo in a continuous stall? Im thinking to like check the current, and if its at stall current, turn off the servo then like turn it on and off every couple ms or something, like flickering the power. But would that be bad for the servo? Does anyone know how to do this?
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi all, currently working on a bionic hand project. The project itself is relati
 
 Given the rise of world models and multi modal action agents, what do you guys think about the future of action-labeled gameplay data? Can it be a good baseline in the training pipeline before RL?
 
-11h ago
+12h ago
 
 ---
 
@@ -132,7 +132,7 @@ Engadget • 1d ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -178,7 +178,7 @@ Sky News • 2d ago
 
 AgiBot subsidiary PrimeBot has built the world's smallest personal humanoid robot for embodied intelligence and daily life.
 
-Interesting Engineering • 44m ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -278,7 +278,7 @@ The Chinese startup Zeroth Robotics just emerged from stealth with an aggressive
 
 📺 Kalil 4.0
 
-👁️ 363 • 👍 17 • 💬 3 • ⏱️ 1:10 • 4h ago
+👁️ 363 • 👍 17 • 💬 3 • ⏱️ 1:10 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 74K • 👍 950 • 💬 228 • ⏱️ 11:46 • 18h ago
+👁️ 74K • 👍 950 • 💬 228 • ⏱️ 11:46 • 19h ago
 
 ---
 
