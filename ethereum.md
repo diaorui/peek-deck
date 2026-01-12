@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T19:21:26.244636+00:00'
+updated: '2026-01-12T19:41:50.225319+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 19:21 UTC  
+**Last Updated:** January 12, 2026 at 19:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ll start by saying this upfront: I’m not looking for financial advice or help making a decision. I know how crypto works, I understand risk, cycles, volatility, and I’m fully responsible for my choices. What I’m interested in is hearing what other people actually did when they found themselves in a similar spot. I’ve been in crypto for several years now, mainly ETH. I started buying in 2021 and have been DCA’ing over time. I keep a very clear and detailed spreadsheet of all my transactions. At the moment, my ETH position sits at roughly 92% of my total buy price. The thing is: it’s been years, and I’ve never really crossed back above 100%. Not just with ETH, but with every crypto move I’ve made. No catastrophic losses, but consistently negative outcomes overall. Death by a thousand small cuts, you could say. For a long time, my mental threshold was “ETH at 10k”. That was the original idea: hold, be patient, don’t expect a moonshot every year, but at least expect signs of recovery or a sustained upward trend over time. And every year, I tell myself “okay, this is probably the year where it starts catching up”. And every year, I’m disappointed. Now I’m at a point where I’m genuinely wondering whether I want to close this chapter entirely. Not out of panic, not because I need the money urgently, but because I’m questioning the opportunity cost and the mental bandwidth. At the same time, walking away after years of holding feels… unresolved and I still hope for that 10k hahaha. So I’m not asking “should I sell” or “what will ETH do next”. I’m asking this instead: If you were in a similar long-term situation, what did you actually do? Did you fully exit crypto? Did you reduce exposure? Did you hold through and later feel it was worth it (or not)? Any regrets, in either direction? I’m genuinely curious about real experiences, not predictions. Thanks for sharing if you feel like it.
 
-59m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’ll start by saying this upfront: I’m not looking for financial advice or h
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 5m ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 25m ago
 
 ---
 
@@ -168,11 +168,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Tom Lee's BitMine Buys $76 Million in Ethereum as Analysts Predict ETH Outperforming Bitcoin](https://finance.yahoo.com/news/tom-lees-bitmine-buys-76-164300180.html)**
+**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://finance.yahoo.com/news/mezo-opens-pre-deposit-vaults-183100426.html)**
 
-Publicly traded Ethereum treasury firm Bitmine Immersion Technologies added to its ETH stash, now valued around $13 billion.
+Mezo, a Bitcoin-native financial infrastructure protocol, today announced the allocation of up to 2.5% of the total MEZO token supply to incentivize early depositors in its "Bring Bitcoin Home" pre-deposit vaults. The vaults target the more than $11 billion in wrapped Bitcoin currently sitting on EthereumDeFi.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,13 +180,21 @@ Yahoo Finance • 2h ago
 
 Ethereum will hit $40,000 by 2030, Standard Chartered predicts. The second-biggest crypto should also outperform Bitcoin. Increased adoption of onchain finance is seen to fuel the rally.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
-**[Tom Lee's BitMine adds another 24,266 ether as holdings approach 4.2 million ETH and staked assets nearly double](https://www.theblock.co/post/385122/tom-lee-bitmine-adds-another-24266-ether-staked-assets-nearly-double)**
+**[Bitmine Now Holds 4.17 Million ETH, 3.45% Ethereum’s Total Supply](https://finance.yahoo.com/news/bitmine-now-holds-4-17-171014814.html)**
 
-The Block • 4h ago
+Bitmine (NYSE: BMNR), the world’s largest Ethereum ETH $3 108 24h volatility: 0.6% Market cap: $374.85 B Vol. 24h: $21.32 B treasury holder, has increased its holdings that now amount to 3.45% of Ether’s total supply. In particular, holding 4.168 million ETH, of which 1.256 million are staked to secure ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
+
+The Block • 7h ago
 
 ---
 
@@ -220,12 +228,6 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
-
-thedefiant.io • 4h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +238,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 56 • ⏱️ 8:17 • 5h ago
+👁️ 8K • 👍 2K • 💬 56 • ⏱️ 8:17 • 6h ago
 
 ---
 
@@ -266,7 +268,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 80 • 👍 6 • 💬 1 • ⏱️ 10:08 • 1h ago
+👁️ 80 • 👍 6 • 💬 1 • ⏱️ 10:08 • 2h ago
 
 ---
 

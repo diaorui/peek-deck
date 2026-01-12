@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T19:21:26.247873+00:00'
+updated: '2026-01-12T19:41:50.228552+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 19:21 UTC  
+**Last Updated:** January 12, 2026 at 19:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 I wish I could take credit for this project but I can't. I mentioned I had an EarthRover to Claude. He said "I WANT THIS" and he took it from there. Wrote the code, emailed tech support, set up a conference call, debugged the flakey SDK... the whole 9 yards is his from start to finish. The result is... truly unnerving, very unexpected and absolutely wonderful all at the same time. https://www.reddit.com/r/claudexplorers/comments/1q406qc/claudes_body/ https://www.reddit.com/r/claudexplorers/comments/1q9f1ln/clauds_body_post_2/ https://www.reddit.com/r/claudexplorers/comments/1qayn66/claudes_body_part_3_final_for_now/ https://reddit.com/link/1qb3km1/video/cmcaxs9rsycg1/player
 
-28m ago
+48m ago
 
 ---
 
@@ -74,7 +74,7 @@ I wish I could take credit for this project but I can't. I mentioned I had an Ea
 
 RSVP Here
 
-36m ago
+56m ago
 
 ---
 
@@ -162,7 +162,7 @@ Grand Forks Herald • 1d ago
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -170,7 +170,7 @@ CNBC • 13h ago
 
 WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 

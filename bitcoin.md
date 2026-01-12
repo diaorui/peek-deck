@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T19:21:26.238607+00:00'
+updated: '2026-01-12T19:41:50.219284+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 19:21 UTC  
+**Last Updated:** January 12, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -121,7 +121,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ That’s right, diamond-handed degens, stack those sats while it’s cold out th
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-14h ago
+15h ago
 
 ---
 
@@ -137,13 +137,13 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-15h ago
+16h ago
 
 ---
 
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -159,49 +159,33 @@ Fox Business • 1h ago
 
 ---
 
-**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
+**[Bitcoin faces fresh test as Fed feud with Trump escalates](https://www.dlnews.com/articles/regulation/bitcoin-faces-fresh-test-as-fed-feud-with-trump-escalates/)**
 
-The Block • 6h ago
+Jerome Powell described the criminal investigation as politically motivated.  Bitcoin jumped 1% on the news.  Analysts suggest it's a terrific opportunity for Bitcoin to prove its non-sovereign status.
 
----
-
-**[Strategy boosts BTC holdings using digital credit STRC](https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc)**
-
-Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
-
-CoinDesk • 6h ago
+dlnews.com • 1h ago
 
 ---
 
-**[Billionaire Michael Saylor’s Strategy Scoops 13,627 Bitcoin for $1.25B](https://finance.yahoo.com/news/billionaire-michael-saylor-strategy-scoops-164804188.html)**
+**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://finance.yahoo.com/news/mezo-opens-pre-deposit-vaults-183100426.html)**
 
-Strategy disclosed in a regulatory filing that it acquired an additional 13,627 bitcoin between January 5 and January 11, spending approximately $1.25 billion at an average purchase price of $91,519 per BTC, inclusive of fees and expenses. Strategy has acquired 13,627 BTC for ~$1.25 billion at ~$91,519 per bitcoin. As ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Is it too late to profitably invest in bitcoin?](https://finance.yahoo.com/news/too-profitably-invest-bitcoin-173007118.html)**
-
-Current reports that while Bitcoin’s price has skyrocketed, investing now requires careful consideration due to its volatility and risk.
+Mezo, a Bitcoin-native financial infrastructure protocol, today announced the allocation of up to 2.5% of the total MEZO token supply to incentivize early depositors in its "Bring Bitcoin Home" pre-deposit vaults. The vaults target the more than $11 billion in wrapped Bitcoin currently sitting on EthereumDeFi.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin price slips below $91,000 as privacy coins steal the spotlight: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today)**
+**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
 
-Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
+China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-CoinDesk • 7h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
+**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-Bitcoin has a lot going for it, but the near term could be bumpy.
-
-The Motley Fool • 1d ago
+The Block • 13h ago
 
 ---
 
@@ -213,11 +197,25 @@ CNBC • 2d ago
 
 ---
 
-**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
+**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+The Block • 6h ago
 
-KITCO • 1d ago
+---
+
+**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
+
+Bitcoin has a lot going for it, but the near term could be bumpy.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
+
+Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -289,7 +287,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 1 • 💬 0 • 12m ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 1 • 💬 0 • 33m ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -329,7 +327,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 204 • ⏱️ 8:37 • 21h ago
+👁️ 40K • 👍 2K • 💬 204 • ⏱️ 8:37 • 22h ago
 
 ---
 
@@ -369,7 +367,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 203 • 💬 192 • ⏱️ 7:14 • 20h ago
+👁️ 5K • 👍 203 • 💬 192 • ⏱️ 7:14 • 21h ago
 
 ---
 
@@ -379,7 +377,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 56 • ⏱️ 8:17 • 5h ago
+👁️ 8K • 👍 2K • 💬 56 • ⏱️ 8:17 • 6h ago
 
 ---
 

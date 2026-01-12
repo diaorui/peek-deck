@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T19:21:26.230113+00:00'
+updated: '2026-01-12T19:41:50.210637+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 19:21 UTC  
+**Last Updated:** January 12, 2026 at 19:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-7m ago
+27m ago
 
 ---
 
@@ -63,7 +63,7 @@ As we scale to GPT-5.2 and beyond, the energy footprint of centralized data cent
 
 Found an article about a professor who used an AI bot to administer an oral exam to students because they were using AI to do school work. He them proceeded to have the AI bot grade the real exam. And now, an AI bot has found and summarized this news for me to read quicker. I guess all that's missing is to have an AI bot read this summary and react to it. Wait a minute... Source: Yahoo https://search.app/vWcje
 
-17m ago
+37m ago
 
 ---
 
@@ -79,7 +79,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis
 
-53m ago
+1h ago
 
 ---
 
@@ -133,31 +133,27 @@ blog.google • 1d ago
 
 ---
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdAy_BLgUQVOEn2fWgjTeh3PeNib_7uk_OYwIjNw6Kxros8bSr83ZBk&gaa_ts=69654251&gaa_sig=RT2Zl70ImipPYn4JRtmzW7KfRipkM3PuE38K41bqvhGsidQ22HVlgdetPb3lRNCIWysHA9C_RB6sezXIIPuYwg%3D%3D)**
+**[Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)**
 
-The Wall Street Journal • 1d ago
+Google said that merchants can now offer discounts to users directly in AI mode results.
 
----
-
-**[Lenovo Brings Real-Time Store Visibility and AI-Driven Support to Retail—Delivering Value on Day One](https://finance.yahoo.com/news/lenovo-brings-real-time-store-180000206.html)**
-
-NEW YORK, January 12, 2026--Retailers lose revenue every time an online store goes down, a system fails, or frontline employees lack the tools to act in the moment. Meanwhile, generative AI platforms and AI agents are creating new opportunities to increase online retail experiences and conversion rates. Yet while AI has the potential to help retailers drive better margins and competitive advantage, many still find it challenging to translate experimentation into consistent, day-to-day operationa
-
-Yahoo Finance • 1h ago
+TechCrunch • 1d ago
 
 ---
 
-**[Meta launches new "Meta Compute" initiative to build AI infrastructure](https://www.axios.com/2026/01/12/meta-compute-ai-infrastructure)**
+**[JD Sports plans to let shoppers buy through AI platforms](https://www.theguardian.com/business/2026/jan/12/jd-sports-shoppers-buy-ai-platforms-chatgpt-microsoft-copilot-us)**
 
-Axios • 1h ago
+Retailer to allow ‘one-click purchases’ through assistants such as ChatGPT and Microsoft Copilot, beginning in US
+
+The Guardian • 5h ago
 
 ---
 
-**[Apple Taps Google Gemini to Give Siri an AI Glow-Up](https://gizmodo.com/apple-taps-google-gemini-to-give-siri-an-ai-glow-up-2000709013)**
+**[Apple teams up with Google Gemini for AI-powered Siri](https://www.cnn.com/2026/01/12/tech/apple-google-gemini-siri)**
 
-Thanks to the news, Google has now become the fourth company to hit $4 trillion market value.
+Apple plans to use Google’s Gemini artificial intelligence model to power its updated version of Siri, which is set to launch later this year, the two companies announced Monday.
 
-Gizmodo • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -169,11 +165,25 @@ CNBC • 4h ago
 
 ---
 
-**[Apple picks Google to power AI for long-delayed Siri overhaul](https://nypost.com/2026/01/12/tech/apple-picks-google-to-power-ai-for-long-delayed-siri-overhaul/)**
+**[Apple's Siri will be powered by Google's Gemini AI in new partnership](https://www.usatoday.com/story/news/california/2026/01/12/apple-google-deal-gemini-ai-siri-california-artificial-intelligence/88144909007/)**
 
-Apple is partnering with Google to power its upcoming artificial intelligence features – including a long-delayed AI overhaul of its Siri voice assistant set to launch later this year, CEO Tim Cook…
+Alphabet Inc. and Apple have announced a partnership to use Google's AI technology to power the foundation of Apple's Intelligence and Siri.
 
-New York Post • 1h ago
+USA Today • 39m ago
+
+---
+
+**[Which countries are adopting AI the fastest?](https://www.economist.com/graphic-detail/2026/01/12/which-countries-are-adopting-ai-the-fastest)**
+
+The Economist • 59m ago
+
+---
+
+**[MTA probing AI to identify weapons, monitor safety threats in real-time](https://nypost.com/2026/01/12/us-news/mta-probing-ai-to-identify-weapons-monitor-safety-threats-in-real-time/)**
+
+Transit officials are probing proposals from tech companies on how best to use artificial intelligence to patrol subway cars and buses in real-time through thousands of video feeds, documents revea…
+
+New York Post • 48m ago
 
 ---
 
@@ -182,14 +192,6 @@ New York Post • 1h ago
 Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
 
 The Guardian • 8h ago
-
----
-
-**[Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes](https://www.bbc.com/news/articles/cg7y10xm4x2o)**
-
-Sexualised images of real people generated by Grok have circulated on X in recent weeks.
-
-BBC • 13h ago
 
 ---
 
@@ -323,7 +325,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 2K • 👍 190 • 💬 58 • ⏱️ 24:00 • 23h ago
+👁️ 2K • 👍 190 • 💬 58 • ⏱️ 24:00 • 1d ago
 
 ---
 
@@ -333,7 +335,7 @@ Meta and Harvard just released an open-source coding agent called Confucius Code
 
 📺 AI Revolution
 
-👁️ 26K • 👍 916 • 💬 41 • ⏱️ 14:29 • 19h ago
+👁️ 26K • 👍 916 • 💬 41 • ⏱️ 14:29 • 20h ago
 
 ---
 
@@ -644,7 +646,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.1k • 🔱 1.0k • 2h ago
+⭐ 8.1k • 🔱 1.0k • 3h ago
 
 ---
 
@@ -664,7 +666,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 138 • 56m ago
+⭐ 2.3k • 🔱 138 • 1h ago
 
 ---
 
@@ -724,7 +726,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 8h ago
+⭐ 1.2k • 🔱 143 • 9h ago
 
 ---
 
