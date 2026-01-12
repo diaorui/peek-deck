@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T20:27:09.820714+00:00'
+updated: '2026-01-12T20:48:45.370198+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 20:27 UTC  
+**Last Updated:** January 12, 2026 at 20:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.03B
+**Market Cap:** $374.24B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.3%
 
 **All-Time Low:** $0.43
-+718260.5%
++715701.5%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-17m ago
+38m ago
 
 ---
 
@@ -168,11 +168,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://finance.yahoo.com/news/mezo-opens-pre-deposit-vaults-183100426.html)**
+**[Ethereum Shouldn't Delay Preparing for Quantum Computing Threat, Says Vitalik Buterin](https://finance.yahoo.com/news/ethereum-shouldnt-delay-preparing-quantum-195028149.html)**
 
-Mezo, a Bitcoin-native financial infrastructure protocol, today announced the allocation of up to 2.5% of the total MEZO token supply to incentivize early depositors in its "Bring Bitcoin Home" pre-deposit vaults. The vaults target the more than $11 billion in wrapped Bitcoin currently sitting on EthereumDeFi.
+Ethereum co-founder Vitalik Buterin says the network should be able to function for decades without relying on constant upgrades, including resisting future quantum computers.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 58m ago
+
+---
+
+**[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
+
+The Block • 8h ago
+
+---
+
+**[Vitalik Buterin lays out 'walkaway test' for a quantum safe Ethereum](https://www.coindesk.com/tech/2026/01/12/vitalik-buterin-lays-out-walkaway-test-for-a-quantum-safe-ethereum)**
+
+Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
+
+CoinDesk • 5h ago
 
 ---
 
@@ -180,21 +194,15 @@ Yahoo Finance • 1h ago
 
 Ethereum will hit $40,000 by 2030, Standard Chartered predicts. The second-biggest crypto should also outperform Bitcoin. Increased adoption of onchain finance is seen to fuel the rally.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
-**[Bitmine Now Holds 4.17 Million ETH, 3.45% Ethereum’s Total Supply](https://finance.yahoo.com/news/bitmine-now-holds-4-17-171014814.html)**
+**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://finance.yahoo.com/news/mezo-opens-pre-deposit-vaults-183100426.html)**
 
-Bitmine (NYSE: BMNR), the world’s largest Ethereum ETH $3 108 24h volatility: 0.6% Market cap: $374.85 B Vol. 24h: $21.32 B treasury holder, has increased its holdings that now amount to 3.45% of Ether’s total supply. In particular, holding 4.168 million ETH, of which 1.256 million are staked to secure ...
+Mezo, a Bitcoin-native financial infrastructure protocol, today announced the allocation of up to 2.5% of the total MEZO token supply to incentivize early depositors in its "Bring Bitcoin Home" pre-deposit vaults. The vaults target the more than $11 billion in wrapped Bitcoin currently sitting on EthereumDeFi.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
-
-The Block • 8h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -220,14 +228,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
-
-Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
-
-CryptoSlate • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 56 • ⏱️ 8:17 • 6h ago
+👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 7h ago
 
 ---
 
@@ -248,17 +248,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 995 • 💬 222 • ⏱️ 14:17 • 7h ago
-
----
-
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
-
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
-
-📺 Digital Asset News
-
-👁️ 15K • 👍 798 • 💬 86 • ⏱️ 24:05 • 1d ago
+👁️ 9K • 👍 1K • 💬 237 • ⏱️ 14:17 • 7h ago
 
 ---
 
@@ -268,7 +258,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 80 • 👍 6 • 💬 1 • ⏱️ 10:08 • 3h ago
+👁️ 185 • 👍 14 • 💬 40 • ⏱️ 10:08 • 3h ago
 
 ---
 
@@ -278,17 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 118 • 💬 10 • ⏱️ 5:01 • 6h ago
-
----
-
-**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
-
-Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
-
-📺 Michaël van de Poppe
-
-👁️ 4K • 👍 235 • 💬 35 • ⏱️ 12:34 • 1d ago
+👁️ 1K • 👍 129 • 💬 10 • ⏱️ 5:01 • 6h ago
 
 ---
 
@@ -298,27 +278,37 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 263 • 💬 584 • ⏱️ 13:48 • 1d ago
+👁️ 12K • 👍 265 • 💬 567 • ⏱️ 13:48 • 1d ago
 
 ---
 
-**[URGENT ETH UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=X91_CPEOtVI)**
+**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
 
-📺 Cilinix Crypto
+📺 Michaël van de Poppe
 
-👁️ 215 • 👍 7 • 💬 8 • ⏱️ 4:34 • 9h ago
+👁️ 4K • 👍 241 • 💬 35 • ⏱️ 12:34 • 1d ago
 
 ---
 
-**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
+**[Ethereum Breakdown Looks Inevitable: Crash Incoming?](https://www.youtube.com/watch?v=j5q9B3GFsJk)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
 
-📺 Crypto Nutshell
+📺 Trade Confident
 
-👁️ 30K • 👍 964 • 💬 192 • ⏱️ 19:42 • 2d ago
+👁️ 104 • 👍 7 • 💬 2 • ⏱️ 5:00 • 1h ago
+
+---
+
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+
+📺 Digital Asset News
+
+👁️ 15K • 👍 802 • 💬 86 • ⏱️ 24:05 • 2d ago
 
 ---
 
@@ -328,7 +318,17 @@ The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shock
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 1K • 💬 309 • ⏱️ 36:33 • 10h ago
+👁️ 11K • 👍 1K • 💬 307 • ⏱️ 36:33 • 10h ago
+
+---
+
+**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 30K • 👍 970 • 💬 185 • ⏱️ 19:42 • 2d ago
 
 ---
 

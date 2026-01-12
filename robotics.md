@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T20:27:09.823881+00:00'
+updated: '2026-01-12T20:48:45.373565+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 20:27 UTC  
+**Last Updated:** January 12, 2026 at 20:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,13 +66,13 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 55m ago
+🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 1h ago
 
 ---
 
 **[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
 
-5m ago
+27m ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 RSVP Here
 
-1h ago
+2h ago
 
 ---
 
@@ -140,7 +140,7 @@ TechCrunch • 2d ago
 
 A recent report from Omdia sheds light on the wider humanoid robot market and where AGIBOT fits into it all.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -168,7 +168,7 @@ Grand Forks Herald • 1d ago
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 312K • 👍 4K • 💬 694 • ⏱️ 4:29 • 5d ago
+👁️ 314K • 👍 4K • 💬 695 • ⏱️ 4:29 • 5d ago
 
 ---
 
@@ -208,7 +208,17 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 📺 Carros Show
 
-👁️ 10K • 👍 128 • 💬 6 • ⏱️ 8:33 • 4d ago
+👁️ 10K • 👍 129 • 💬 6 • ⏱️ 8:33 • 4d ago
+
+---
+
+**[The Biggest Robot Exhibition in Las Vegas | CES 2026](https://www.youtube.com/watch?v=Kpw1N-Ej_xo)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hello, friends! Welcome to the future. Today we're ...
+
+📺 PRO ROBOTS
+
+👁️ 57K • 👍 1K • 💬 89 • ⏱️ 18:58 • 4d ago
 
 ---
 
@@ -218,7 +228,27 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 86K • 👍 1K • 💬 264 • ⏱️ 11:46 • 1d ago
+👁️ 90K • 👍 1K • 💬 280 • ⏱️ 11:46 • 1d ago
+
+---
+
+**[He knew his assignment at CES 2026 Las Vegas](https://www.youtube.com/watch?v=TuvH8tAJq64)**
+
+CES 2026 las vegas. Robotics demo at Booster Robotics. Explore the future of technology in this in-depth long-form coverage of ...
+
+📺 The Laughing Lion
+
+👁️ 1K • 👍 24 • 💬 2 • ⏱️ 0:19 • 2h ago
+
+---
+
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+
+📺 Kim Java
+
+👁️ 65K • 👍 3K • 💬 187 • ⏱️ 17:09 • 7h ago
 
 ---
 
@@ -232,33 +262,23 @@ The next generation of Atlas is designed to interact with people and understand 
 
 ---
 
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 12K • 👍 189 • 💬 34 • ⏱️ 11:29 • 1d ago
-
----
-
 **[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
 
 Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
 
 📺 Carros Show
 
-👁️ 57K • 👍 489 • 💬 40 • ⏱️ 11:13 • 6d ago
+👁️ 57K • 👍 493 • 💬 40 • ⏱️ 11:13 • 6d ago
 
 ---
 
-**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
 
-Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
 
-📺 Kim Java
+📺 Cybernews
 
-👁️ 33K • 👍 2K • 💬 130 • ⏱️ 17:09 • 7h ago
+👁️ 13K • 👍 198 • 💬 34 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -269,26 +289,6 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 📺 Trisha Hershberger
 
 👁️ 9K • 👍 529 • 💬 35 • ⏱️ 9:28 • 2d ago
-
----
-
-**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
-
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
-
-📺 NBC News
-
-👁️ 198K • 👍 2K • 💬 219 • ⏱️ 0:22 • 6d ago
-
----
-
-**[2026 FIRST Robotics Competition Kickoff Broadcast: REBUILT presented by Haas](https://www.youtube.com/watch?v=9kRhE5vgCvY)**
-
-The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal of REBUILT presented by Haas. To learn ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 71K • 👍 2K • ⏱️ 56:16 • 2d ago
 
 ---
 

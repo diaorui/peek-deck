@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T20:27:09.814754+00:00'
+updated: '2026-01-12T20:48:45.364060+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 20:27 UTC  
+**Last Updated:** January 12, 2026 at 20:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1833.90B
+**Market Cap:** $1825.48B
 Rank #1
 
-**Circulating Supply:** 19,974,993 BTC
+**Circulating Supply:** 19,975,031 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.3%
+-27.5%
 
 **All-Time Low:** $67.81
-+135021.7%
++134617.6%
 
 ---
 
@@ -129,7 +129,7 @@ That’s right, diamond-handed degens, stack those sats while it’s cold out th
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-16h ago
+17h ago
 
 ---
 
@@ -137,7 +137,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-15h ago
+16h ago
 
 ---
 
@@ -151,6 +151,14 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 ## Google News: "bitcoin"
 
+**[John Bollinger Says XRP Pattern “Weaker” Than Bitcoin as Peter Brandt Urges Caution Despite 30% Rally](https://finance.yahoo.com/news/john-bollinger-says-xrp-pattern-193024658.html)**
+
+XRP (CRYPTO: XRP) kicked off 2026 with a 30% rally that outpaced Bitcoin and Ethereum. But two legendary technical analysts are pumping the brakes. John Bollinger, creator of the Bollinger Bands indicator, called XRP’s chart structure “weaker” than Bitcoin’s. Peter Brandt, a veteran trader known for precise pattern analysis, posted a cryptic chart “without comment” ... John Bollinger Says XRP Pattern “Weaker” Than Bitcoin as Peter Brandt Urges Caution Despite 30% Rally
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Fate of reported Venezuelan bitcoin stash 'remains to be seen,' SEC chairman says](https://www.foxbusiness.com/video/6387612138112)**
 
 SEC chairman Paul Atkins joins 'Varney & Co.' to discuss a report that Venezuela has a $60 billion stash of bitcoin, the role of stablecoin in the future as well as crypto legislation.
@@ -159,19 +167,37 @@ Fox Business • 2h ago
 
 ---
 
-**[Bitcoin faces fresh test as Fed feud with Trump escalates](https://www.dlnews.com/articles/regulation/bitcoin-faces-fresh-test-as-fed-feud-with-trump-escalates/)**
+**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
 
-Jerome Powell described the criminal investigation as politically motivated.  Bitcoin jumped 1% on the news.  Analysts suggest it's a terrific opportunity for Bitcoin to prove its non-sovereign status.
-
-dlnews.com • 2h ago
+The Block • 7h ago
 
 ---
 
-**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://finance.yahoo.com/news/mezo-opens-pre-deposit-vaults-183100426.html)**
+**[Strategy boosts BTC holdings using digital credit STRC](https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc)**
 
-Mezo, a Bitcoin-native financial infrastructure protocol, today announced the allocation of up to 2.5% of the total MEZO token supply to incentivize early depositors in its "Bring Bitcoin Home" pre-deposit vaults. The vaults target the more than $11 billion in wrapped Bitcoin currently sitting on EthereumDeFi.
+Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
 
-Yahoo Finance • 1h ago
+CoinDesk • 7h ago
+
+---
+
+**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 1d ago
+
+---
+
+**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://www.morningstar.com/news/pr-newswire/20260112ln61324/mezo-opens-pre-deposit-vaults-to-migrate-bitcoin-liquidity-from-ethereum-back-to-bitcoin-native-infrastructure)**
+
+Morningstar • 2h ago
+
+---
+
+**[Altcoin Inflows Diverge From Bitcoin Outflows](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/altcoin-inflows-bitcoin-outflows-diverge/)**
+
+ETF Database • 27m ago
 
 ---
 
@@ -194,36 +220,6 @@ The Block • 14h ago
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
 CNBC • 2d ago
-
----
-
-**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
-
-The Block • 7h ago
-
----
-
-**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
-
-Bitcoin has a lot going for it, but the near term could be bumpy.
-
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
-
-Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
-
-CryptoSlate • 1d ago
-
----
-
-**[Fed rate cuts under fire: 5 things to know in Bitcoin this week](https://www.tradingview.com/news/cointelegraph:28bb3c18b094b:0-fed-rate-cuts-under-fire-5-things-to-know-in-bitcoin-this-week/)**
-
-Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
-
-TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -311,43 +307,33 @@ Rolling coverage of the latest economic and financial news
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
-
-Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 47K • 👍 3K • 💬 144 • ⏱️ 10:58 • 15h ago
-
----
-
-**[&quot;Crypto Crash Not Over in 2026&quot; | Billionaire Stanley Druckenmiller](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
+**[Stanley Druckenmiller reveals WHY crypto is crashing in 2026](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
 
 Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 204 • ⏱️ 8:37 • 22h ago
+👁️ 42K • 👍 2K • 💬 209 • ⏱️ 8:37 • 23h ago
 
 ---
 
-**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
 
-Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
 
-📺 Simply Bitcoin
+📺 What Bitcoin Did
 
-👁️ 30K • 👍 2K • 💬 198 • ⏱️ 17:17 • 1d ago
+👁️ 20K • 👍 2K • 💬 884 • ⏱️ 2:04:54 • 7h ago
 
 ---
 
-**[Bitcoin’s About to Break (And Here’s Why)](https://www.youtube.com/watch?v=5XCWkRCaEmQ)**
+**[Bitcoin’s Adoption Curve Is Entering a Critical Phase...](https://www.youtube.com/watch?v=Z0pFJhqH4AM)**
 
-Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Bitcoin adoption is following a familiar path. In this clip from Swan Signal Live, Brady Swenson and John Haar break down why ...
 
-📺 Lark Davis
+📺 Swan Bitcoin
 
-👁️ 14K • 👍 728 • 💬 99 • ⏱️ 19:14 • 9h ago
+👁️ 1K • 👍 79 • 💬 73 • ⏱️ 14:33 • 2h ago
 
 ---
 
@@ -357,27 +343,7 @@ Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 880 • 💬 246 • ⏱️ 1:07:27 • 4h ago
-
----
-
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=XAIerBMY1Nc)**
-
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
-
-📺 Road To $1 Million USD
-
-👁️ 5K • 👍 203 • 💬 192 • ⏱️ 7:14 • 21h ago
-
----
-
-**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
-
-This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
-
-📺 Thomas Kralow
-
-👁️ 8K • 👍 2K • 💬 56 • ⏱️ 8:17 • 6h ago
+👁️ 16K • 👍 1K • 💬 293 • ⏱️ 1:07:27 • 4h ago
 
 ---
 
@@ -387,17 +353,37 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 12K • 👍 689 • 💬 84 • ⏱️ 6:16 • 10h ago
+👁️ 14K • 👍 731 • 💬 87 • ⏱️ 6:16 • 10h ago
 
 ---
 
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
 
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
 
-📺 Digital Asset News
+📺 Thomas Kralow
 
-👁️ 15K • 👍 798 • 💬 86 • ⏱️ 24:05 • 1d ago
+👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 7h ago
+
+---
+
+**[Trump Threatens Powell With Criminal Action! [What This Means For Bitcoin]](https://www.youtube.com/watch?v=qQ9Clv1qaB8)**
+
+Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it beyond politics and into legal territory. For the ...
+
+📺 Crypto Banter
+
+👁️ 14K • 👍 1K • 💬 42 • ⏱️ 32:17 • 5h ago
+
+---
+
+**[Bitcoin’s About to Break (And Here’s Why)](https://www.youtube.com/watch?v=5XCWkRCaEmQ)**
+
+Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 16K • 👍 779 • 💬 154 • ⏱️ 19:14 • 9h ago
 
 ---
 
@@ -405,7 +391,17 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 470 • 💬 42 • ⏱️ 1:14 • 20h ago
+👁️ 8K • 👍 487 • 💬 45 • ⏱️ 1:14 • 20h ago
+
+---
+
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
+
+Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 51K • 👍 3K • 💬 150 • ⏱️ 10:58 • 15h ago
 
 ---
 
