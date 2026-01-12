@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T18:35:24.847784+00:00'
+updated: '2026-01-12T19:21:26.247873+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 18:35 UTC  
+**Last Updated:** January 12, 2026 at 19:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-8h ago
+9h ago
+
+---
+
+**[My robot can recognize itself in the mirror!](https://www.reddit.com/r/robotics/comments/1qb1x6f/my_robot_can_recognize_itself_in_the_mirror/)**
+
+And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
+
+1h ago
 
 ---
 
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-7h ago
+8h ago
 
 ---
 
@@ -51,6 +59,22 @@ This document describes in detail the navigation task environment based on the A
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
 1d ago
+
+---
+
+**[Claude wanted a body... so... he made this happen.](https://www.reddit.com/r/robotics/comments/1qb3km1/claude_wanted_a_body_so_he_made_this_happen/)**
+
+I wish I could take credit for this project but I can't. I mentioned I had an EarthRover to Claude. He said "I WANT THIS" and he took it from there. Wrote the code, emailed tech support, set up a conference call, debugged the flakey SDK... the whole 9 yards is his from start to finish. The result is... truly unnerving, very unexpected and absolutely wonderful all at the same time. https://www.reddit.com/r/claudexplorers/comments/1q406qc/claudes_body/ https://www.reddit.com/r/claudexplorers/comments/1q9f1ln/clauds_body_post_2/ https://www.reddit.com/r/claudexplorers/comments/1qayn66/claudes_body_part_3_final_for_now/ https://reddit.com/link/1qb3km1/video/cmcaxs9rsycg1/player
+
+28m ago
+
+---
+
+**[January Gazebo Community Meeting: Forest3D Automatic Terrain Generation using Blender [Link Inside]](https://www.reddit.com/r/robotics/comments/1qb3c6o/january_gazebo_community_meeting_forest3d/)**
+
+RSVP Here
+
+36m ago
 
 ---
 
@@ -74,7 +98,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 I was looking at some 'frameless' motors and was considering playing around with making an integrated motorized joint. Are there any open projects or CAD files around that show how these sorts of motors are integrated into a final design? Thanks!!
 
-2h ago
+3h ago
 
 ---
 
@@ -82,35 +106,29 @@ I was looking at some 'frameless' motors and was considering playing around with
 
 This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
 
-18h ago
-
----
-
-**[Kutzbach criterion to get dof](https://www.reddit.com/r/robotics/comments/1qawvgb/kutzbach_criterion_to_get_dof/)**
-
-https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bcfbfbacf49ba5a0b91defd0ab1cb1b90cdf51 I am new to robotics, was trying to understand how to determine no. of dof. Where can I get a clear picture about finding dof and kutzback crietrion? I have several doubts in this image - how is the sliding joint considered a link? it has been numbered 8 in the image how to know if a joint has 1 or 2 dof what are all the links in this robot? is a platform (5 in the image) considered as a single link?
-
-3h ago
-
----
-
-**[Warehouse Robotics Market Projected to Hit $78 Billion by 2040: Key Insights & Trends](https://www.reddit.com/r/robotics/comments/1qapmrb/warehouse_robotics_market_projected_to_hit_78/)**
-
-A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
-
-10h ago
-
----
-
-**[Just an ordinary day at a robotics company.](https://www.reddit.com/r/robotics/comments/1q9oec4/just_an_ordinary_day_at_a_robotics_company/)**
-
-1d ago
+19h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+
+Joe Tidy meets robots being trained to tidy up all your mess.
+
+BBC • 19h ago
+
+---
+
+**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
+
+From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
+
+Engadget • 2d ago
+
+---
 
 **[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
 
@@ -128,31 +146,7 @@ Tech Xplore • 2d ago
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 13h ago
-
----
-
-**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
-
-From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
-
-Engadget • 2d ago
-
----
-
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
-
-Joe Tidy meets robots being trained to tidy up all your mess.
-
-BBC • 18h ago
-
----
-
-**[Video Friday: Robots Are Everywhere at CES 2026](https://spectrum.ieee.org/robots-ces-2026)**
-
-Meet the newest version of Atlas: The humanoid robot with strength, precision, and adaptability for the industrial era. Plus more robots from CES 2026!
-
-IEEE Spectrum • 10h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -177,6 +171,14 @@ CNBC • 13h ago
 WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
 
 Yahoo Finance • 5h ago
+
+---
+
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
+
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+
+WYMT • 3d ago
 
 ---
 
@@ -258,7 +260,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 33K • 👍 2K • 💬 130 • ⏱️ 17:09 • 5h ago
+👁️ 33K • 👍 2K • 💬 130 • ⏱️ 17:09 • 6h ago
 
 ---
 
@@ -268,7 +270,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 9K • 👍 529 • 💬 35 • ⏱️ 9:28 • 1d ago
+👁️ 9K • 👍 529 • 💬 35 • ⏱️ 9:28 • 2d ago
 
 ---
 

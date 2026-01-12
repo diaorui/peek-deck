@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T18:35:24.830035+00:00'
+updated: '2026-01-12T19:21:26.230113+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 18:35 UTC  
+**Last Updated:** January 12, 2026 at 19:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."](https://www.reddit.com/r/artificial/comments/1qb0rry/geoffrey_hinton_says_agents_can_share_knowledge/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -47,7 +47,23 @@ AI news, discussions, and developments
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 19h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 20h ago
+
+---
+
+**[The Intelligence Paradox: Why centralized AI is hitting a "Power Wall" and the case for decentralized inference hubs](https://www.reddit.com/r/artificial/comments/1qb46h5/the_intelligence_paradox_why_centralized_ai_is/)**
+
+As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
+
+7m ago
+
+---
+
+**[Is the snake eating its tail yet?](https://www.reddit.com/r/artificial/comments/1qb3wek/is_the_snake_eating_its_tail_yet/)**
+
+Found an article about a professor who used an AI bot to administer an oral exam to students because they were using AI to do school work. He them proceeded to have the AI bot grade the real exam. And now, an AI bot has found and summarized this news for me to read quicker. I guess all that's missing is to have an AI bot read this summary and react to it. Wait a minute... Source: Yahoo https://search.app/vWcje
+
+17m ago
 
 ---
 
@@ -55,7 +71,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 18h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 19h ago
 
 ---
 
@@ -71,7 +87,15 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-14h ago
+15h ago
+
+---
+
+**[The bottleneck isn't AI capability anymore. It's human reception.](https://www.reddit.com/r/artificial/comments/1qb2u2s/the_bottleneck_isnt_ai_capability_anymore_its/)**
+
+Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis
+
+53m ago
 
 ---
 
@@ -89,30 +113,6 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 ---
 
-**[Song detection including release date](https://www.reddit.com/r/artificial/comments/1qa5ccq/song_detection_including_release_date/)**
-
-I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
-
-1d ago
-
----
-
-**[One-Minute Daily AI News 1/10/2026](https://www.reddit.com/r/artificial/comments/1q9rf5i/oneminute_daily_ai_news_1102026/)**
-
-Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
-
-1d ago
-
----
-
-**[Alignment tax isn’t global: a few attention heads cause most capability loss](https://www.reddit.com/r/artificial/comments/1q9c1qr/alignment_tax_isnt_global_a_few_attention_heads/)**
-
-Safety alignment in Large Language Models (LLMs) inherently presents a multi-objective optimization conflict, often accompanied by an unintended degradation of general capabilities. Existing mitigation strategies typically rely on global gradient geometry to resolve these conflicts, yet they overlook Modular Heterogeneity within Transformers, specifically that the functional sensitivity and degree of conflict vary substantially across different attention heads. Such global approaches impose uniform update rules across all parameters, often resulting in suboptimal trade-offs by indiscriminately updating utility sensitive heads that exhibit intense gradient conflicts. To address this limitation, we propose Conflict-Aware Sparse Tuning (CAST), a framework that integrates head-level diagnosis with sparse fine-tuning. CAST first constructs a pre-alignment conflict map by synthesizing Optimization Conflict and Functional Sensitivity, which then guides the selective update of parameters. Experiments reveal that alignment conflicts in LLMs are not uniformly distributed. We find that the drop in general capabilities mainly comes from updating a small group of ``high-conflict'' heads. By simply skipping these heads during training, we significantly reduce this loss without compromising safety, offering an interpretable and parameter-efficient approach to improving the safety-utility trade-off.
-
-🔗 [arXiv.org](https://www.arxiv.org/abs/2601.04262) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,7 +121,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 “It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -143,13 +143,13 @@ The Wall Street Journal • 1d ago
 
 NEW YORK, January 12, 2026--Retailers lose revenue every time an online store goes down, a system fails, or frontline employees lack the tools to act in the moment. Meanwhile, generative AI platforms and AI agents are creating new opportunities to increase online retail experiences and conversion rates. Yet while AI has the potential to help retailers drive better margins and competitive advantage, many still find it challenging to translate experimentation into consistent, day-to-day operationa
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Meta launches new "Meta Compute" initiative to build AI infrastructure](https://www.axios.com/2026/01/12/meta-compute-ai-infrastructure)**
 
-Axios • 33m ago
+Axios • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Axios • 33m ago
 
 Thanks to the news, Google has now become the fourth company to hit $4 trillion market value.
 
-Gizmodo • 30m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Gizmodo • 30m ago
 
 Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 3h ago
 
 Apple is partnering with Google to power its upcoming artificial intelligence features – including a long-delayed AI overhaul of its Siri voice assistant set to launch later this year, CEO Tim Cook…
 
-New York Post • 39m ago
+New York Post • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ New York Post • 39m ago
 
 Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ BBC • 13h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1141 • 💬 1455 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1160 • 💬 1487 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -217,15 +217,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 335 • 💬 328 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
-
----
-
-**[My article on why AI is great (or terrible) or how to use it](https://news.ycombinator.com/item?id=46557057)**
-
-Senior engineers are best positioned to benefit from AI. We're good enough to avoid slop, and there's so much we can accomplish. I wouldn't go back.
-
-⬆️ 163 • 💬 227 • 3d ago • [matthewrocklin.com](https://matthewrocklin.com/ai-zealotry/)
+⬆️ 336 • 💬 328 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -233,35 +225,27 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 116 • 💬 41 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 136 • 💬 49 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
-**[Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://news.ycombinator.com/item?id=46557823)**
+**[Show HN: AI in SolidWorks](https://news.ycombinator.com/item?id=46591100)**
 
-EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
+Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 71 • 💬 48 • 2d ago • [GitHub](https://github.com/Hiepler/EuConform)
+⬆️ 47 • 💬 27 • 2h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 40 • 💬 25 • 1d ago
+⬆️ 42 • 💬 25 • 1d ago
 
 ---
 
 **[Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?](https://news.ycombinator.com/item?id=46565262)**
 
-⬆️ 32 • 💬 7 • 2d ago
-
----
-
-**[Show HN: What if AI agents had Zodiac personalities?](https://news.ycombinator.com/item?id=46581832)**
-
-AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
-
-⬆️ 29 • 💬 16 • 18h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 33 • 💬 7 • 2d ago
 
 ---
 
@@ -269,7 +253,23 @@ AI agents with different personalities responding to moral dilemmas - baturyilma
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 27 • 💬 42 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 31 • 💬 42 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+
+---
+
+**[Show HN: What if AI agents had Zodiac personalities?](https://news.ycombinator.com/item?id=46581832)**
+
+AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
+
+⬆️ 29 • 💬 16 • 19h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+
+---
+
+**[A lawsuit says Workday's AI shut out applicants over 40](https://news.ycombinator.com/item?id=46559995)**
+
+An AI program used by Workday allegedly put resumes of applicants who were Black, disabled, female or over 40 behind other job candidates.
+
+⬆️ 27 • 💬 5 • 2d ago • [Straight Arrow News](https://san.com/cc/workday-hires-for-millions-a-lawsuit-seeking-plaintiffs-says-its-ai-shut-out-applicants-over-40/)
 
 ---
 
@@ -283,7 +283,7 @@ The Join the #1 community for AI entrepreneurs and connect with 280k+ members: h
 
 📺 Liam Ottley
 
-👁️ 10K • 👍 829 • 💬 37 • ⏱️ 10:29 • 11h ago
+👁️ 10K • 👍 829 • 💬 37 • ⏱️ 10:29 • 12h ago
 
 ---
 
@@ -293,7 +293,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 454 • 💬 52 • ⏱️ 10:39 • 3h ago
+👁️ 4K • 👍 454 • 💬 52 • ⏱️ 10:39 • 4h ago
 
 ---
 
@@ -303,7 +303,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 10K • 👍 144 • 💬 40 • ⏱️ 7:57 • 4h ago
+👁️ 10K • 👍 144 • 💬 40 • ⏱️ 7:57 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 TIME
 
-👁️ 146K • 👍 4K • 💬 523 • ⏱️ 24:32 • 2d ago
+👁️ 146K • 👍 4K • 💬 523 • ⏱️ 24:32 • 3d ago
 
 ---
 
@@ -363,7 +363,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 KBS News
 
-👁️ 504K • 👍 4K • 💬 2K • ⏱️ 7:45 • 13h ago
+👁️ 504K • 👍 4K • 💬 2K • ⏱️ 7:45 • 14h ago
 
 ---
 
@@ -537,7 +537,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
 
-▲ 128 • 💬 3 • ⭐ 102 • 3d ago
+▲ 128 • 💬 3 • ⭐ 102 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
 
@@ -664,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 138 • 10m ago
+⭐ 2.3k • 🔱 138 • 56m ago
 
 ---
 
@@ -684,7 +684,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 58 • 23m ago
+⭐ 1.7k • 🔱 58 • 1h ago
 
 ---
 
@@ -694,7 +694,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 126 • 3h ago
+⭐ 1.5k • 🔱 126 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T18:35:24.838605+00:00'
+updated: '2026-01-12T19:21:26.238607+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 18:35 UTC  
+**Last Updated:** January 12, 2026 at 19:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,323.93
+### $91,828.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -2.5%  
-**30d:** +3.5%  
-**90d:** -17.8%  
-**1y:** -3.2%  
+**24h:** +1.4%  
+**7d:** -2.1%  
+**30d:** +3.9%  
+**90d:** -17.4%  
+**1y:** -2.8%  
 
 ---
 
@@ -77,35 +77,43 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
+
+6h ago
+
+---
+
 **[Bitcoin Cycle](https://www.reddit.com/r/Bitcoin/comments/1qasblm/bitcoin_cycle/)**
 
 Keep calm while the storm pass
 
-7h ago
-
----
-
-**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
-
-5h ago
-
----
-
-**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
-
-18h ago
+8h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-5h ago
+6h ago
+
+---
+
+**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
+
+19h ago
+
+---
+
+**[I give up on trying to convince anyone](https://www.reddit.com/r/Bitcoin/comments/1qb0qem/i_give_up_on_trying_to_convince_anyone/)**
+
+I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
+
+2h ago
 
 ---
 
 **[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -121,7 +129,7 @@ That’s right, diamond-handed degens, stack those sats while it’s cold out th
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-13h ago
+14h ago
 
 ---
 
@@ -139,14 +147,6 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 ---
 
-**[I give up on trying to convince anyone](https://www.reddit.com/r/Bitcoin/comments/1qb0qem/i_give_up_on_trying_to_convince_anyone/)**
-
-I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
-
-1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,13 +155,13 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 SEC chairman Paul Atkins joins 'Varney & Co.' to discuss a report that Venezuela has a $60 billion stash of bitcoin, the role of stablecoin in the future as well as crypto legislation.
 
-Fox Business • 42m ago
+Fox Business • 1h ago
 
 ---
 
 **['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 5h ago
 
 Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 5h ago
 
 Strategy disclosed in a regulatory filing that it acquired an additional 13,627 bitcoin between January 5 and January 11, spending approximately $1.25 billion at an average purchase price of $91,519 per BTC, inclusive of fees and expenses. Strategy has acquired 13,627 BTC for ~$1.25 billion at ~$91,519 per bitcoin. As ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -225,7 +225,7 @@ KITCO • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -285,6 +285,14 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 ---
 
+**[Show HN: I built a watch-only Bitcoin address tracker for iOS](https://news.ycombinator.com/item?id=46592796)**
+
+Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
+
+⬆️ 1 • 💬 0 • 12m ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+
+---
+
 **[In 2025, Bitcoin showed how spectacularly wrong price forecasts can be](https://news.ycombinator.com/item?id=46527258)**
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
@@ -297,15 +305,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 56 • 💬 12 • 10h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
-
----
-
-**[CNBC: Walmart to Accept Crypto](https://news.ycombinator.com/item?id=46503251)**
-
-According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC), Ethereum (ETH), and other crypto for in-store payments, shared via a video post on X on Jan 4, 2026 (source: @Altcoi
-
-⬆️ 2 • 💬 0 • 6d ago • [blockchain.news](https://blockchain.news/flashnews/cnbc-cited-report-walmart-to-accept-bitcoin-btc-and-ethereum-eth-in-store-trader-watchpoints-and-crypto-market-impact)
+⬆️ 58 • 💬 12 • 11h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -319,7 +319,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 144 • ⏱️ 10:58 • 13h ago
+👁️ 47K • 👍 3K • 💬 144 • ⏱️ 10:58 • 14h ago
 
 ---
 
@@ -329,7 +329,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 204 • ⏱️ 8:37 • 20h ago
+👁️ 40K • 👍 2K • 💬 204 • ⏱️ 8:37 • 21h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 14K • 👍 728 • 💬 99 • ⏱️ 19:14 • 7h ago
+👁️ 14K • 👍 728 • 💬 99 • ⏱️ 19:14 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 880 • 💬 246 • ⏱️ 1:07:27 • 2h ago
+👁️ 12K • 👍 880 • 💬 246 • ⏱️ 1:07:27 • 3h ago
 
 ---
 
@@ -389,7 +389,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 12K • 👍 689 • 💬 84 • ⏱️ 6:16 • 8h ago
+👁️ 12K • 👍 689 • 💬 84 • ⏱️ 6:16 • 9h ago
 
 ---
 
@@ -407,7 +407,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 470 • 💬 42 • ⏱️ 1:14 • 18h ago
+👁️ 7K • 👍 470 • 💬 42 • ⏱️ 1:14 • 19h ago
 
 ---
 
