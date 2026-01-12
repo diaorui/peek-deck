@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T01:55:09.235734+00:00'
+updated: '2026-01-12T03:51:01.597938+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 01:55 UTC  
+**Last Updated:** January 12, 2026 at 03:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,114.66
+### $3,168.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -5.2%  
-**30d:** +1.9%  
-**90d:** -21.8%  
-**1y:** -0.3%  
+**24h:** +2.2%  
+**7d:** -4.0%  
+**30d:** +3.1%  
+**90d:** -20.8%  
+**1y:** +1.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+21h ago
 
 ---
 
@@ -112,7 +112,7 @@ I just published a new article on Medium. This started as personal notes while l
 
 Hey We’re building Heard, a decision analytics platform for founders/teams: targeted surveys that help validate product + market decisions with real signal (not vibes). One core mechanic is prediction format: respondents don’t just answer - they predict what the crowd will answer. It tends to reduce random clicking and makes the flow more engaging. Why we’re doing it this way: More signal, less noise: prediction-style answers tend to be more deliberate than quick “vote-and-leave” polls. More engaging: it feels closer to a mini-game than a form, so people are more likely to finish it (and come back). Useful for market sentiment: you get both the “what I think” and the “what I think others think” angle, which is interesting for crypto. Starting now, we’ll run a monthly Ethereum market sentiment survey to both: understand how people feel about the market, and dogfood / stress-test our product as we iterate. Here are results: Top picks: BTC in 12 months: 30–100% higher (58%) ETH in 12 months: 30–100% higher (58%) ETH’s main competitor: Solana (97%) ETH supply in 12 months: roughly flat / slightly deflationary (58%) Best-return narrative (12m): RWA (45%) Next breakout category: RWA (32%) Biggest founder bottleneck: distribution / real users (48%) Biggest adoption blocker: UX + onboarding (55%) https://x.com/Heard_labs/status/2003833702212890907?s=20 Sample size is still small (we’ve only recently launched), so treat it as “early signal”, not definitive data. Still, a few findings might be interesting, and we’ll keep publishing monthly so trends become clearer over time. If you have ideas for what questions we should include next month
 
-1d ago
+2d ago
 
 ---
 
@@ -164,15 +164,31 @@ CoinDesk • 1d ago
 
 SharpLink Gaming recently deployed US$170 million worth of Ethereum to Consensys’ Linea layer-2 network under a multi-year, multi-layered yield strategy that combines native staking, restaking rewards and structured incentives within a qualified custodian framework. This move cements SharpLink as the world’s second-largest corporate Ether holder and highlights how on-chain treasury management is evolving toward institutional-grade DeFi structures. We’ll now examine how SharpLink’s focus on...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum sentiment mirrors levels seen before ‘major run’: Santiment](https://www.tradingview.com/news/cointelegraph:c651bda89094b:0-ethereum-sentiment-mirrors-levels-seen-before-major-run-santiment/)**
+**[Ethereum: Heavy Usage, Weak Price? | Analyst Weekly Jan 12, 2026](https://www.etoro.com/news-and-analysis/market-insights/ethereum-busy-network-bored-price/)**
 
-Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
+Ethereum activity is hitting records, but ETH’s price is lagging. Layer 2 growth, lower fees, and long-term infrastructure strategy explain the disconnect—and what it means for investors.
 
-TradingView — Track All Markets • 22h ago
+eToro • 2h ago
+
+---
+
+**[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
+
+Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Ethereum Meets AI Agents: What Is ERC-8004?](https://www.tradingview.com/news/u_today:e7ba41fd6094b:0-ethereum-meets-ai-agents-what-is-erc-8004/)**
+
+In 2026, alongside the hotly anticipated Gloas-Amsterdam (Glamsterdam) and Heze-Bogota (Hegota) hard forks, Ethereum BITSTAMP:ETHUSD, the largest smart contracts platform, might onboard a crucial innovation. With ERC-8004, Ethereum BITSTAMP:ETHUSD will finally become AI-ready in terms of tech conte…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -180,7 +196,7 @@ TradingView — Track All Markets • 22h ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 14h ago
+AMBCrypto • 16h ago
 
 ---
 
@@ -188,15 +204,15 @@ AMBCrypto • 14h ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 15h ago
+The Motley Fool • 17h ago
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Says Crypto’s Stablecoin Model Is Not Built to Last](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-says-cryptos-stablecoin-model-is-not-built-to-last/)**
+**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
 
-Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
+Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
 
-Coinpedia Fintech News • 12h ago
+Coinpedia Fintech News • 2d ago
 
 ---
 
@@ -208,25 +224,11 @@ Decrypt • 3d ago
 
 ---
 
-**[New BlackRock report exposes a historic shift in crypto that leaves only one blockchain controlling the settlement layer](https://cryptoslate.com/blackrock-stablecoin-ethereum-settlement-standard-2026/)**
+**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
 
-BlackRock says stablecoins are "no longer niche." Here’s why Ethereum is positioned as the settlement layer for digital dollars.
+Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
 
-CryptoSlate • 1d ago
-
----
-
-**[Ethereum ETF Attracts Fresh Cash as Investors Lean Into Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-attracts-fresh-cash-as-investors-lean-into-volatility)**
-
-TipRanks • 15h ago
-
----
-
-**[Bitcoin Holds $90,000 As Ethereum, XRP, Dogecoin Slide Over 1% - Grayscale Bitcoin Mini Trust (BTC) (ARCA:BTC)](https://www.benzinga.com/crypto/cryptocurrency/26/01/49823257/bitcoin-holds-90000-as-ethereum-xrp-dogecoin-slide-over-1)**
-
-Bitcoin is holding above $90,000 amid a solid U.S. jobs data release on Friday.
-
-Benzinga • 2d ago
+CoinDesk • 14h ago
 
 ---
 
@@ -240,7 +242,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 195 • 💬 31 • ⏱️ 12:34 • 16h ago
+👁️ 3K • 👍 195 • 💬 31 • ⏱️ 12:34 • 18h ago
 
 ---
 
@@ -260,7 +262,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 241 • 💬 584 • ⏱️ 13:48 • 20h ago
+👁️ 9K • 👍 241 • 💬 584 • ⏱️ 13:48 • 22h ago
 
 ---
 
@@ -270,7 +272,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 227 • 💬 87 • ⏱️ 14:54 • 5h ago
+👁️ 5K • 👍 227 • 💬 87 • ⏱️ 14:54 • 7h ago
 
 ---
 
@@ -280,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 549 • 👍 24 • 💬 12 • ⏱️ 5:22 • 12h ago
+👁️ 549 • 👍 24 • 💬 12 • ⏱️ 5:22 • 14h ago
 
 ---
 
@@ -300,7 +302,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 8 • ⏱️ 5:19 • 10h ago
+👁️ 2K • 👍 138 • 💬 8 • ⏱️ 5:19 • 12h ago
 
 ---
 
@@ -310,7 +312,7 @@ Join our Safe and Private Discord Community → Daily analysis requests, Elliott
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 187 • 👍 15 • 💬 2 • ⏱️ 14:10 • 9h ago
+👁️ 187 • 👍 15 • 💬 2 • ⏱️ 14:10 • 11h ago
 
 ---
 
@@ -330,7 +332,7 @@ Despite common sentiment suggesting Ethereum is declining, this video provides c
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 15 • 💬 4 • ⏱️ 0:14 • 14h ago
+👁️ 2K • 👍 15 • 💬 4 • ⏱️ 0:14 • 16h ago
 
 ---
 

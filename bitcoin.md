@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T01:55:09.229723+00:00'
+updated: '2026-01-12T03:51:01.591955+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 01:55 UTC  
+**Last Updated:** January 12, 2026 at 03:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,423.14
+### $91,989.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -2.4%  
-**30d:** +3.7%  
-**90d:** -17.7%  
-**1y:** -3.1%  
+**24h:** +1.6%  
+**7d:** -1.7%  
+**30d:** +4.4%  
+**90d:** -17.1%  
+**1y:** -2.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -87,13 +87,7 @@ Rank #1
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 4h ago
-
----
-
-**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
-
-12h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 6h ago
 
 ---
 
@@ -101,13 +95,19 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-8h ago
+10h ago
+
+---
+
+**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
+
+14h ago
 
 ---
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -115,11 +115,19 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-5h ago
+7h ago
 
 ---
 
 **[Could very well be my finest purchase](https://www.reddit.com/r/Bitcoin/comments/1qadw0k/could_very_well_be_my_finest_purchase/)**
+
+4h ago
+
+---
+
+**[BTC Structure: Anyone else getting April 2025 vibes?](https://www.reddit.com/r/Bitcoin/comments/1qahg87/btc_structure_anyone_else_getting_april_2025_vibes/)**
+
+The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
 
 2h ago
 
@@ -127,21 +135,13 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 **[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
 
-13h ago
+15h ago
 
 ---
 
 **[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
 
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 9h ago
-
----
-
-**[A local bank spreading FUD years after other entities tried to kill it or slow it down](https://www.reddit.com/r/Bitcoin/comments/1qa8ty8/a_local_bank_spreading_fud_years_after_other/)**
-
-What are crypto ATMs and why are scammers using them? Learn how these machines work, common fraud tactics, and how to protect your money.
-
-🔗 [1st Source](https://www.1stsource.com/advice/crypto-atms-scams-explained/) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 11h ago
 
 ---
 
@@ -161,15 +161,23 @@ CNBC • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 10h ago
+KITCO • 12h ago
 
 ---
 
-**[Where Will Bitcoin Be in 3 Years?](https://finance.yahoo.com/news/where-bitcoin-3-years-113500898.html)**
+**[These Were the Best-Performing Cryptocurrencies of 2025](https://www.fool.com/investing/2026/01/11/best-performing-cryptocurrencies-of-2025/)**
 
-Bitcoin has a lot going for it, but the near term could be bumpy.
+Despite a pullback in the crypto market, a few cryptocurrencies managed to post big gains in 2025.
 
-Yahoo Finance • 14h ago
+The Motley Fool • 13m ago
+
+---
+
+**[Asia Market Open: Bitcoin Stalls Near $92k While Asian Equities And Oil Move Higher](https://finance.yahoo.com/news/asia-market-open-bitcoin-stalls-025848916.html)**
+
+Bitcoin held near $92,000 early Monday as Asian equities opened slightly higher and traders kept one eye on US inflation data this week, another on Washington’s tariff fight and the Federal Reserve’s growing political drama.In China and Hong Kong, the tone stayed steady. Shanghai rose 0.24%, the SZSE Component climbed ...
+
+Yahoo Finance • 53m ago
 
 ---
 
@@ -178,14 +186,6 @@ Yahoo Finance • 14h ago
 U.S. employment data for December was mixed, while inflation expectations edged higher, and the U.S. Supreme Court did not deliver a ruling on the Trump Administration's tariffs.
 
 CoinDesk • 2d ago
-
----
-
-**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
-
-The dog token's much bigger trailing-10-year return can draw interest from some market participants.
-
-The Motley Fool • 14h ago
 
 ---
 
@@ -199,29 +199,27 @@ thestreet.com • 1d ago
 
 Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
 
-Bitbo • 18h ago
+Bitbo • 20h ago
 
 ---
 
-**[This Investor Thinks the United States Could Start Buying Bitcoin in 2026](https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin)**
+**[Bitcoin Price Remains Below 50-Week Moving Average — What This Means](https://www.tradingview.com/news/newsbtc:853249915094b:0-bitcoin-price-remains-below-50-week-moving-average-what-this-means/)**
 
-Cathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond holding seized bitcoin and toward actively buying BTC for a national strategic reserve.
+The Bitcoin price has slowed down after a relatively hot start to the year, as it appears that not much has structurally changed for the market leader. A crypto analyst recently revealed that the premier cryptocurrency continues to trade beneath a critical price threshold.Why The Present Scenario R…
 
-Bitcoin Magazine • 2d ago
-
----
-
-**[Trump 'Has All Kinds Of Reasons' To Buy Bitcoin Before Midterms, Cathie Wood Says](https://finance.yahoo.com/news/trump-kinds-reasons-buy-bitcoin-213150437.html)**
-
-Ark Invest’s CEO Cathie Wood predicts President Donald Trump will start buying Bitcoin (CRYPTO: BTC) for the strategic reserve before the 2026 midterms to maintain political momentum and crypto voter support. Trump Doesn’t Want To Be A Lame Duck In...
-
-Yahoo Finance • 1d ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
 **[Cathie Wood says US gov't may 'start buying' to stock national bitcoin reserve](https://www.theblock.co/post/384854/cathie-wood-us-national-bitcoin-reserve)**
 
 The Block • 3d ago
+
+---
+
+**[‘Run It Hot’—Bitcoin And Crypto Traders Are Suddenly Betting On A Surprise 2026 Fed Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/01/10/run-it-hot-bitcoin-and-crypto-traders-are-suddenly-betting-on-a-surprise-2026-fed-price-game-changer/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -301,7 +299,7 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 1h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 3h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -325,7 +323,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 988 • 💬 419 • ⏱️ 1:01:22 • 11h ago
+👁️ 21K • 👍 988 • 💬 419 • ⏱️ 1:01:22 • 13h ago
 
 ---
 
@@ -345,7 +343,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 1K • 👍 127 • 💬 71 • ⏱️ 7:14 • 3h ago
+👁️ 1K • 👍 127 • 💬 71 • ⏱️ 7:14 • 5h ago
 
 ---
 
@@ -385,7 +383,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 241 • 💬 585 • ⏱️ 13:48 • 20h ago
+👁️ 9K • 👍 241 • 💬 585 • ⏱️ 13:48 • 22h ago
 
 ---
 

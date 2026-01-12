@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-12T01:55:08.735346+00:00"
+          "dateModified": "2026-01-12T03:51:01.102743+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,56 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/2cTJq5IMnCLrfgb7SR1nLL0cwSSlwHj-XuN6sfXL8sI.png?width=640&crop=smart&auto=webp&s=8a28bf02b438f056999fe2d43e7b35096275481d" alt="I built Plano - the framework-agnostic runtime data plane for agentic applications" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/" target="_blank" onclick="event.stopPropagation();">I built Plano - the framework-agnostic runtime data plane for agentic applications</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768177285.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://github.com/katanemo/plano" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>GitHub</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -714,6 +664,56 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/2cTJq5IMnCLrfgb7SR1nLL0cwSSlwHj-XuN6sfXL8sI.png?width=640&crop=smart&auto=webp&s=8a28bf02b438f056999fe2d43e7b35096275481d" alt="I built Plano - the framework-agnostic runtime data plane for agentic applications" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/" target="_blank" onclick="event.stopPropagation();">I built Plano - the framework-agnostic runtime data plane for agentic applications</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768177285.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://github.com/katanemo/plano" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://github.githubassets.com/favicons/favicon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>GitHub</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -736,39 +736,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1768067653.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qah38z/sumo_ai_data/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1qah38z/sumo_ai_data/" target="_blank" onclick="event.stopPropagation();">Sumo + AI + Data</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            For you data/sports/AI junkies https://www.twitch.tv/datasumo incredible amount of data, use of AI, + sumo! January tournament started yesterday.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768180362.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -835,6 +802,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1768152671.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qah38z/sumo_ai_data/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qah38z/sumo_ai_data/" target="_blank" onclick="event.stopPropagation();">Sumo + AI + Data</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            For you data/sports/AI junkies https://www.twitch.tv/datasumo incredible amount of data, use of AI, + sumo! January tournament started yesterday.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768180362.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1031,7 +1031,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-12T01:54:44.610956+00:00">Updated 2026-01-12T01:54:44.610956+00:00</small>
+        <small data-timestamp="2026-01-12T03:50:33.245159+00:00">Updated 2026-01-12T03:50:33.245159+00:00</small>
     </div>
 </div>
 
@@ -1217,137 +1217,14 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/f8d00c974ded83894d8c39a75fab0c5442c8bb9f/869_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28f5a8e9b3185cdbde1b56cd35795197');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation" target="_blank" onclick="event.stopPropagation();">‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768163400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/3b66311fb2e902392b06cde7eb5350cc8f51fedb/0_0_4264_3413/master/4264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1324553f4cc6a17a16ec1317aeaf15d7');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/jan/02/google-ai-overviews-risk-harm-misleading-health-information" target="_blank" onclick="event.stopPropagation();">Google AI Overviews put people at risk of harm with misleading health advice</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Exclusive: Inaccurate information presented in summaries, Guardian investigation finds
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767427200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-Overviews-IO-2024.png?resize=1200,698');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/" target="_blank" onclick="event.stopPropagation();">Google removes AI Overviews for certain medical queries</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            This follows an investigation by the Guardian that found Google AI Overviews offering misleading information in response to some health-related queries.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768154201.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/googles-ai-advantage-2facbf03?gaa_at=eafs&gaa_n=AWEtsqdZQM5mkAQ_haQMfjOlHv7HPXkEH7_zRsYwt8H93qxdyss4hDnrR8yI&gaa_ts=696457e4&gaa_sig=DG2BLVgCTZSf8hbKUxWeAbBdnwxNJidkDBHwLt406zTpHaTd42wsVLc-MIB3frQZ_Kd3ROogGx-Bx7A6iFEaAA%3D%3D', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcQ-SuLFcC7CoJ4Z2X5D77r2GKZHdCWkfrjfVtr9DL9DLOqi-Pf5j5B&gaa_ts=6964730c&gaa_sig=0Fy6vx2bm6HPUneqfbVn7lAdq8oHK_ibLtdxYeoIDkkw6feXUwKQLEaWCncdrORDgvNhF23P2mj8NTaqvyBoVQ%3D%3D', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/googles-ai-advantage-2facbf03?gaa_at=eafs&gaa_n=AWEtsqdZQM5mkAQ_haQMfjOlHv7HPXkEH7_zRsYwt8H93qxdyss4hDnrR8yI&gaa_ts=696457e4&gaa_sig=DG2BLVgCTZSf8hbKUxWeAbBdnwxNJidkDBHwLt406zTpHaTd42wsVLc-MIB3frQZ_Kd3ROogGx-Bx7A6iFEaAA%3D%3D" target="_blank" onclick="event.stopPropagation();">Google’s AI Advantage, CES 2026 Highlights and More | Technology for Jan. 11 - WSJ</a>
+                            <a href="https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcQ-SuLFcC7CoJ4Z2X5D77r2GKZHdCWkfrjfVtr9DL9DLOqi-Pf5j5B&gaa_ts=6964730c&gaa_sig=0Fy6vx2bm6HPUneqfbVn7lAdq8oHK_ibLtdxYeoIDkkw6feXUwKQLEaWCncdrORDgvNhF23P2mj8NTaqvyBoVQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Google Bets on AI-Based Shopping With New AI Agents for Retailers</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1369,85 +1246,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768144380.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/gitmind-launches-ai-podcast-summarizer-011100434.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/newsfile_64/f09b281a269cd532496bcdb5e41a58d4');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/gitmind-launches-ai-podcast-summarizer-011100434.html" target="_blank" onclick="event.stopPropagation();">GitMind Launches AI Podcast Summarizer - Turning Audio into Concise Insights</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Hong Kong, SAR--(Newsfile Corp. - January 11, 2026) - GitMind, a comprehensive platform for visual thinking and productivity tools, has added a new feature: the AI Podcast Summarizer. This feature enhances GitMind's existing suite of AI-powered tools - including mind maps, flowcharts, whiteboards, and content summarization - by enabling users to process spoken audio content as easily as text or documents.Free Online Podcast SummarizerTo view an enhanced version of this graphic, please...
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768180555.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html" target="_blank" onclick="event.stopPropagation();">Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767967821.0"></span>
+                                    <span data-timestamp="1768143600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1496,21 +1295,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/01/11/why-did-elon-musk-ask-x-users-upload-medical-data-grok/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2246892016-e1767996753197.jpg?resize=1200,600');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://fortune.com/2026/01/11/why-did-elon-musk-ask-x-users-upload-medical-data-grok/" target="_blank" onclick="event.stopPropagation();">Elon Musk asked people to upload their medical data to X so his AI company could learn to interpret MRIs and CT scans</a>
+                            <a href="https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html" target="_blank" onclick="event.stopPropagation();">Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Health care experts are worried about Grok’s potential to breach patient privacy.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1519,9 +1314,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Fortune" class="news-favicon">
-                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1529,7 +1324,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768156380.0"></span>
+                                    <span data-timestamp="1767967821.0"></span>
                                 </div>
                                 
                             </div>
@@ -1537,20 +1332,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/11/ai-dominate-hiring-2026-linkedin-execs-top-tips-stand-out.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/cg7y10xm4x2o', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108250441-1767963135539-gettyimages-2251905037-dsc02664.jpeg?v=1767963190&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/f1bf/live/85906d70-ef5c-11f0-9985-e3c22e39243f.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/01/11/ai-dominate-hiring-2026-linkedin-execs-top-tips-stand-out.html" target="_blank" onclick="event.stopPropagation();">AI is helping recruiters find ‘hidden gem’ talent — a senior LinkedIn exec shares top tips to stand out</a>
+                            <a href="https://www.bbc.com/news/articles/cg7y10xm4x2o" target="_blank" onclick="event.stopPropagation();">Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            "2026 is the year of more widespread adoption of AI tools, particularly in hiring," Janine Chamberlin, LinkedIn's UK Country Manager told CNBC Make It.
+                            Sexualised images of real people generated by Grok have circulated on X in recent weeks.
                         </div>
                         
 
@@ -1560,9 +1355,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
                                     
                                 </div>
                                 
@@ -1570,7 +1365,85 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768114823.0"></span>
+                                    <span data-timestamp="1768185409.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/sabbirrangwala/2026/01/11/critical-infrastructure-monitoringautonomy--physical-ai-matter/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.forbes.com/sites/sabbirrangwala/2026/01/11/critical-infrastructure-monitoringautonomy--physical-ai-matter/" target="_blank" onclick="event.stopPropagation();">Critical Infrastructure Monitoring - Autonomy & Physical AI Matter!</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768188820.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/fortune_175/cd2444a452625ba3d3dae5dbedfc0e6f');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html" target="_blank" onclick="event.stopPropagation();">This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            “It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768157433.0"></span>
                                 </div>
                                 
                             </div>
@@ -1619,6 +1492,125 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/" target="_blank" onclick="event.stopPropagation();">A shorter workweek can prevent AI-driven mass unemployment</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Hill" class="news-favicon">
+                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768150800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/forget-nvidia-buy-2-artificial-213500522.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/gaFGAqdjdFYrUjptJPN0xQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/9fd53c74a5e1f193f31741a21c52f0b6');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/forget-nvidia-buy-2-artificial-213500522.html" target="_blank" onclick="event.stopPropagation();">Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The stocks of Broadcom and AMD could have higher upside than Nvidia in the coming years.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768167300.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.fool.com/investing/2026/01/11/3-ai-stocks-poised-for-explosive-growth-as-enterpr/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F847702%2Fperson-working-on-data-servers.jpg&w=1200&op=resize');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.fool.com/investing/2026/01/11/3-ai-stocks-poised-for-explosive-growth-as-enterpr/" target="_blank" onclick="event.stopPropagation();">3 AI Stocks Poised for Explosive Growth as Enterprise Spending Accelerates in 2026</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Sometimes the best stocks are the most obvious ones.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Motley Fool" class="news-favicon">
+                                    <a href="https://www.fool.com" target="_blank" onclick="event.stopPropagation();">The Motley Fool</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768156440.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1639,7 +1631,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-12T01:55:04.716531+00:00">Updated 2026-01-12T01:55:04.716531+00:00</small>
+        <small data-timestamp="2026-01-12T03:50:57.838944+00:00">Updated 2026-01-12T03:50:57.838944+00:00</small>
     </div>
 </div>
 
@@ -1843,6 +1835,51 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="hn-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46574276', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=46574276" target="_blank" onclick="event.stopPropagation();">Don't fall into the anti-AI hype</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 673</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 858</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-01-11T10:26:18Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://antirez.com/news/158" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://antirez.com/images/favicon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>antirez.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46560445', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
@@ -1866,10 +1903,10 @@ This is a demonstration of the genuine increase in capability of these tools in 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 609</span>
+                                    <span class="post-points">▲ 610</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 358</span>
+                                    <span style="color: #9ca3af;">💬 360</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1886,51 +1923,6 @@ This is a demonstration of the genuine increase in capability of these tools in 
                                             
                                         
                                         <span>Mathstodon</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46574276', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46574276" target="_blank" onclick="event.stopPropagation();">Don't fall into the anti-AI hype</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 596</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 778</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-01-11T10:26:18Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://antirez.com/news/158" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://antirez.com/images/favicon.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>antirez.com</span>
                                     </a>
                                 </div>
                                 
@@ -1963,7 +1955,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
                                     <span class="post-points">▲ 330</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 319</span>
+                                    <span style="color: #9ca3af;">💬 320</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2012,7 +2004,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
                                     <span class="post-points">▲ 162</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 226</span>
+                                    <span style="color: #9ca3af;">💬 227</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2152,7 +2144,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 34</span>
+                                    <span class="post-points">▲ 35</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 19</span>
@@ -2189,7 +2181,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
                                     <span class="post-points">▲ 30</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 5</span>
+                                    <span style="color: #9ca3af;">💬 6</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2321,7 +2313,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-12T01:54:40.894368+00:00">Updated 2026-01-12T01:54:40.894368+00:00</small>
+        <small data-timestamp="2026-01-12T03:50:33.051467+00:00">Updated 2026-01-12T03:50:33.051467+00:00</small>
     </div>
 </div>
 
