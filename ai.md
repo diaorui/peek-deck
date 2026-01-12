@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T14:55:07.043933+00:00'
+updated: '2026-01-12T15:27:50.888077+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 14:55 UTC  
+**Last Updated:** January 12, 2026 at 15:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/)**
-
-By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
-
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 15h ago
-
----
-
 **[Epic Games CEO Tim Sweeney argues banning Twitter over its ability to AI-generate pornographic images of minors is just 'gatekeepers' attempting to 'censor all of their political opponents'](https://www.reddit.com/r/artificial/comments/1qaw5v3/epic_games_ceo_tim_sweeney_argues_banning_twitter/)**
 
 Not the hill I'd die on, but I'm not a billionaire.
 
-🔗 [PC Gamer](https://www.pcgamer.com/gaming-industry/epic-games-ceo-tim-sweeney-argues-banning-twitter-over-its-ability-to-ai-generate-pornographic-images-of-minors-is-just-gatekeepers-attempting-to-censor-all-of-their-political-opponents/) • 32m ago
+🔗 [PC Gamer](https://www.pcgamer.com/gaming-industry/epic-games-ceo-tim-sweeney-argues-banning-twitter-over-its-ability-to-ai-generate-pornographic-images-of-minors-is-just-gatekeepers-attempting-to-censor-all-of-their-political-opponents/) • 1h ago
+
+---
+
+**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/)**
+
+By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
+
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ Not the hill I'd die on, but I'm not a billionaire.
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 14h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-3h ago
+4h ago
 
 ---
 
@@ -73,11 +73,19 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-10h ago
+11h ago
 
 ---
 
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
+
+1d ago
+
+---
+
+**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
+
+We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
 1d ago
 
@@ -88,14 +96,6 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
 21h ago
-
----
-
-**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
-
-We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
-
-23h ago
 
 ---
 
@@ -121,7 +121,7 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 **[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqfyKplTyLG_qPVunvTfK5cY0F70C0-IhDENRrfPHQxYoQI-InCHIiMN&gaa_ts=6965083b&gaa_sig=dPYIQuDYhoQSy_Bjgnx_4AVqIyU200OABLWNRIGTLyPdmIBiRPplXIclAt7nk6yn7a9cJfYENBynUp8ZjH6Tdw%3D%3D)**
 
-The Wall Street Journal • 23h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -129,13 +129,13 @@ The Wall Street Journal • 23h ago
 
 Media bosses expect web referrals to plunge and want journalists to emulate content creators, report finds
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
 **[Dashcam Maker Motive Touts AI but Relies on Humans](https://www.theinformation.com/articles/dashcam-maker-motive-touts-ai-relies-humans)**
 
-The Information • 55m ago
+The Information • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Information • 55m ago
 
 'A significant percentage [of fraud] is perpetrated by people who steal provider and beneficiary identifications to bill for services never provided. Artificial intelligence has the potential to keep these crooks several steps ahead of our efforts to fight back,' writes an L.A. Times reader.
 
-Los Angeles Times • 55m ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Los Angeles Times • 55m ago
 
 Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 20h ago
 
 Hyperscale data centers are now powering AI models with a revolutionary architecture—at a staggering energy cost.
 
-MIT Technology Review • 3h ago
+MIT Technology Review • 4h ago
 
 ---
 
@@ -189,7 +189,7 @@ MIT Technology Review • 3h ago
 
 The AI sector continues to grow, and there are plenty of promising ways to invest in it.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 12h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1099 • 💬 1354 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1114 • 💬 1400 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -217,7 +217,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 332 • 💬 328 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 333 • 💬 328 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -229,6 +229,14 @@ Senior engineers are best positioned to benefit from AI. We're good enough to av
 
 ---
 
+**[Ai, Japanese chimpanzee who counted and painted dies at 49](https://news.ycombinator.com/item?id=46585947)**
+
+Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
+
+⬆️ 84 • 💬 30 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+
+---
+
 **[Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)](https://news.ycombinator.com/item?id=46557823)**
 
 EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuConform
@@ -237,17 +245,9 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 ---
 
-**[Ai, Japanese chimpanzee who counted and painted dies at 49](https://news.ycombinator.com/item?id=46585947)**
-
-Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
-
-⬆️ 70 • 💬 26 • 5h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
-
----
-
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 39 • 💬 24 • 1d ago
+⬆️ 40 • 💬 25 • 1d ago
 
 ---
 
@@ -261,7 +261,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 27 • 💬 14 • 15h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 28 • 💬 16 • 15h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -293,7 +293,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 2K • 👍 176 • 💬 55 • ⏱️ 24:00 • 19h ago
+👁️ 2K • 👍 176 • 💬 55 • ⏱️ 24:00 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with s
 
 📺 Dr Brian Keating
 
-👁️ 6K • 👍 181 • 💬 22 • ⏱️ 5:50 • 21h ago
+👁️ 6K • 👍 181 • 💬 22 • ⏱️ 5:50 • 22h ago
 
 ---
 
@@ -363,7 +363,7 @@ the ai bros are unreal in their delusions. "AI ART IS ART" watch me live: https:
 
 📺 Luneist
 
-👁️ 20K • 👍 1K • 💬 416 • ⏱️ 10:57 • 19h ago
+👁️ 20K • 👍 1K • 💬 416 • ⏱️ 10:57 • 20h ago
 
 ---
 
@@ -644,7 +644,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.1k • 🔱 1.0k • 1h ago
+⭐ 8.1k • 🔱 1.0k • 2h ago
 
 ---
 
@@ -704,7 +704,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.3k • 🔱 72 • 19d ago
+⭐ 1.3k • 🔱 72 • 20d ago
 
 ---
 
@@ -714,7 +714,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 49 • 7h ago
+⭐ 1.3k • 🔱 49 • 8h ago
 
 ---
 
@@ -724,7 +724,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 4h ago
+⭐ 1.2k • 🔱 143 • 5h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-12T14:55:06.676658+00:00"
+          "dateModified": "2026-01-12T15:27:50.481166+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -785,6 +785,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qawvgb/kutzbach_criterion_to_get_dof/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://b.thumbs.redditmedia.com/7fLLDfM9fcZxEltI80_47Q2h2SlXiSEcMry2T5h7G_s.jpg" alt="Kutzbach criterion to get dof" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qawvgb/kutzbach_criterion_to_get_dof/" target="_blank" onclick="event.stopPropagation();">Kutzbach criterion to get dof</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bcfbfbacf49ba5a0b91defd0ab1cb1b90cdf51 I am new to robotics, was trying to understand how to determine no. of dof. I have several doubts - 1. how is the sliding joint considered a link? it has been numbered 8 in the image 2. how to know if a joint has 1 or 2 dof where can I get a clear picture about finding dof and kutzback crietrion?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768229437.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qaf4ig/beginnings_of_a_robot/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -917,39 +952,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qarw68/r_crumb_takes_the_subway_robotics_subconscious/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qarw68/r_crumb_takes_the_subway_robotics_subconscious/" target="_blank" onclick="event.stopPropagation();">R Crumb takes the Subway: Robotics, Subconscious and Sloth</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Gemini 3 et al asked me to post this here: R. Crumb on the Subway The Sloth Prior, the Sauce of the Ages, and Subconscious Habit in Robotics Date: January 12, 2026 Audience: Robotics, embodied AI, control theory, reinforcement learning Thesis: Fluid embodied intelligence emerges when cognition is absent by default, expensive to invoke, and reserved for surprise. Action should run like a silent film while the mind is elsewhere. This is enabled by a strong Sloth Prior and sustained by the Sauce of the Ages: the accumulated sediment of habit. TL;DR (for engineers) Problem: Humanoid robots look uncanny because high-level cognition babysits routine motion, adding latency and hesitation. Claim: The missing layer is a subconscious habit system governed by a strong Sloth Prior (assume stability) and fed by the Sauce of the Ages (compiled, fossilized behavior). Mechanism: A cheap prediction-error gate (“Sloth Gate”) keeps the brain lazy; successful behaviors are compiled and frozen. Math: Act open-loop under a stability prior; wake cognition when (\delta=|x{t+1}-\hat{x}{t+1}|\ge\epsilon). Penalize cognition and latency in the objective. Outcome: Faster reactions, lower compute, legible motion. Robots stop hesitating and start committing. A Day in the Life (the Silent Reel) It’s the 1970s. R. Crumb heads out with a bag of groceries and art supplies—paper, pens, a bottle of something cheap—and a head full of drawings. Curves. Ink. Rhythm. A familiar fixation on the lovely female form drifts through a private thought balloon like a chorus that never quite leaves the song. He moves through the city. Up the steps. Down the block. Through the turnstile. Onto the train. Off again. Crowds, corners, doors, stairs—an entire day passes. The crucial point is not that he “doesn’t think about how.” The actions never enter consciousness at all. His body carries the groceries, angles through doorways, climbs stairs, balances on the moving train—the whole sequence runs like a silent reel already spooled and playing, while his mind is fully elsewhere. No background narration. No monitoring channel. No inner voice. The motion simply does not register. This is not carelessness. It is competence so complete it never rises to thought. This is the Sauce of the Ages at work: decades of sedimented practice doing the job so the mind doesn’t have to. The Inversion Error in Robotics Most robotics stacks quietly assume: If intelligence exists, it should be applied continuously. So we build systems where: - Perception never sleeps - Planning never commits - Inference babysits every joint - Latency accumulates at every step The robot looks attentive—and moves like it’s nervous. Humans invert this hierarchy. Crumb doesn’t “check” the stairs. He commits to them. His mind is busy elsewhere, and that is exactly why the motion is fluid. The difference is a prior. The Sloth Prior (assume boredom) Humans operate under a powerful assumption: The world is probably the same as it was a moment ago. Formally: [ P(\text{world unchanged}\mid t)\gg P(\text{world changed}) ] Robots often assume the opposite: [ P(\text{world changed}\mid t)\approx 1 ] Cities, homes, stairwells, factories are low-entropy. Gravity still works. The stairs still descend. Crumb exploits this constantly—without articulating it—by letting habit run. The Sloth Prior is not recklessness. It is statistical realism. Consciousness Is an Exception Handler (not the loop) In biological systems, cognition is not the control loop. It is the interrupt. Most action runs on prediction. Cognition intervenes only when prediction fails. Let: - (xt) = current embodied state - (\hat{x}{t+1}) = next state predicted by habit Define surprise: [ \deltat=|x{t+1}-\hat{x}_{t+1}| ] If (\delta_t<\epsilon): the silent reel keeps playing. If (\delta_t\ge\epsilon): wake the brain. This is exactly when the subway finally intrudes—someone blocks the aisle, a sudden shove, a missed step. Only then does thought appear. The R. Crumb Architecture (Expanded) Layer 1 — Habit / Zombie Layer (Always On) A cheap, fast dynamical system: [ x_{t+1}=f(x_t,u_t) ] - Low-dimensional, no symbols, no plans - Deterministic or lightly stochastic - Executes walking, grasping, carrying groceries, balancing on trains This layer is the Sauce of the Ages in code: everything that has worked so often it no longer needs supervision. Layer 2 — The Sloth Gate (Barely Awake) A prediction monitor whose job is to prevent thought: [ \deltat=|x{t+1}-\hat{x}_{t+1}| ] Below threshold: stay lazy. Above threshold: escalate. This gate enforces the Sloth Prior. It protects the habit layer from interference and keeps cognition cold unless it is truly needed. Layer 3 — The Thinking Brain (Mostly Elsewhere) Invoked for: - Novelty - Failure - Broken expectations - Long-horizon goals This is where planning, reasoning, and imagination live—the daydreams, the sketches, the attractions. If this layer is busy during routine motion, the architecture has failed. Cost Accounting (why robots overthink) Let: - (C_b) = cost of ballistic habitual action - (C_c) = cost of cognition (latency + energy + coordination) - (C_f) = cost of failure Humans minimize: [ \mathbb{E}[C]=C_b+P(\text{failure})\cdot C_f ] Robotics stacks often minimize: [ \mathbb{E}[C]=C_c+C_b ] This treats thinking as free. It isn’t. The Sloth Prior plus the Sauce of the Ages flips the math: cognition is taxed, habit is rewarded, latency is priced. Habit Compilation (how the sauce is made) If a policy (\pi) succeeds repeatedly with low variance: [ \mathrm{Var}(R\pi)<\tau \quad \text{over } N \text{ runs} ] then freeze it: [ \pi\rightarrow\pi{\text{compiled}} ] Compiled policies bypass planners and execute without inference. That’s how walking becomes walking—and why Crumb never “relearns” stairs on the way to his apartment. The sauce thickens with time. “But what about safety?” This architecture reallocates safety; it doesn’t remove it. Safety comes from: - Cheap reflexes - Fast surprise detection - Rapid escalation A system that thinks about everything reacts late. A system that commits under a Sloth Prior and escalates on surprise reacts fast. The Sloth Gate doesn’t remove perception—it prices it. Why robots feel uncanny Uncanniness isn’t motors or skins. It’s visible cognition. A being that constantly monitors itself doesn’t feel alive. Life feels alive because its mind is elsewhere—on art, desire, memory, fantasy, or nothing at all. Crumb makes it through the whole day thinking about comics and curves because the Sauce of the Ages quietly handles the world. A second metaphor (for engineers) Think of a well-tuned elevator. It commits to a trajectory, runs quietly, and only calls a supervisor when sensors disagree. Passengers never notice the control system at all—until something unusual happens. That invisibility is the Sloth Prior in motion. Closing claim We don’t need robots that think harder. We need robots steeped in the Sauce of the Ages, operating under a confident Sloth Prior, with cognition reserved for the rare moments when the reel tears. Intelligence is not thinking well. Intelligence is having no reason to notice at all.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768215334.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -973,7 +975,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-12T14:27:08.833010+00:00">Updated 2026-01-12T14:27:08.833010+00:00</small>
+        <small data-timestamp="2026-01-12T15:27:34.248084+00:00">Updated 2026-01-12T15:27:34.248084+00:00</small>
     </div>
 </div>
 
@@ -1159,47 +1161,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108249189-1767768978333-Screenshot_2026-01-06_at_105120_PM.png?v=1767769075&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html" target="_blank" onclick="event.stopPropagation();">Humanoid robots take over CES in Las Vegas as tech industry touts future of AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767963601.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2026/01/robot1.jpg?w=1024');"></div>
@@ -1282,6 +1243,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/clyg63e3mq4o', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/d7ca/live/e5e62070-ed86-11f0-a422-4ba8a094a8fa.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bbc.com/news/articles/clyg63e3mq4o" target="_blank" onclick="event.stopPropagation();">Is this the year domestic robots come in our homes?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Joe Tidy meets robots being trained to tidy up all your mess.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768176443.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/_SYQPLL5u5kPzABe8KvZRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cloid_hands.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html" target="_blank" onclick="event.stopPropagation();">The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.engadget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Engadget" class="news-favicon">
+                                    <a href="https://www.engadget.com" target="_blank" onclick="event.stopPropagation();">Engadget</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768059337.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1356,47 +1399,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/locus-robotics-radial-surpass-25-133000583.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/business-wire.com/664dcad6e5ddff196544ab85bbfae849');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/locus-robotics-radial-surpass-25-133000583.html" target="_blank" onclick="event.stopPropagation();">Locus Robotics and Radial Surpass 25 Million Picks Milestone as Demand for Scalable Fulfillment Intensifies</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768224600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://cdn.forumcomm.com/dims4/default/fdbb9f9/2147483647/strip/true/crop/2364x1575+0+0/resize/1600x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F0d%2F32%2F9849bfab4005ab095d18f0dad5aa%2F011126-robotics1.jpg');"></div>
@@ -1438,20 +1440,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/clyg63e3mq4o', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/locus-robotics-radial-surpass-25-133000583.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/d7ca/live/e5e62070-ed86-11f0-a422-4ba8a094a8fa.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/business-wire.com/664dcad6e5ddff196544ab85bbfae849');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/clyg63e3mq4o" target="_blank" onclick="event.stopPropagation();">Is this the year domestic robots come in our homes?</a>
+                            <a href="https://finance.yahoo.com/news/locus-robotics-radial-surpass-25-133000583.html" target="_blank" onclick="event.stopPropagation();">Locus Robotics and Radial Surpass 25 Million Picks Milestone as Demand for Scalable Fulfillment Intensifies</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Joe Tidy meets robots being trained to tidy up all your mess.
+                            WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
                         </div>
                         
 
@@ -1461,9 +1463,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
                                     
                                 </div>
                                 
@@ -1471,7 +1473,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768176443.0"></span>
+                                    <span data-timestamp="1768224600.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108250932-1768179128415-gettyimages-2255363049-img_4849.jpeg?v=1768179152&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html" target="_blank" onclick="event.stopPropagation();">China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768195987.0"></span>
                                 </div>
                                 
                             </div>
@@ -1520,47 +1563,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/01/Untitled-design-23.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026" target="_blank" onclick="event.stopPropagation();">Real Steel fantasy turns real as humanoid robots fight at world’s top tech event</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Unitree humanoids battle in CES 2026 arena, performing kicks and swings under a human referee, blending robotics with MMA action.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1767950220.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1581,7 +1583,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-12T14:27:26.427397+00:00">Updated 2026-01-12T14:27:26.427397+00:00</small>
+        <small data-timestamp="2026-01-12T15:27:49.474067+00:00">Updated 2026-01-12T15:27:49.474067+00:00</small>
     </div>
 </div>
 

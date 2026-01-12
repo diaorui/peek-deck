@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T14:55:07.052471+00:00'
+updated: '2026-01-12T15:27:50.897148+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 14:55 UTC  
+**Last Updated:** January 12, 2026 at 15:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,200.00
+### $90,619.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -3.8%  
-**30d:** +2.2%  
-**90d:** -18.9%  
-**1y:** -4.5%  
+**24h:** -0.1%  
+**7d:** -2.8%  
+**30d:** +3.2%  
+**90d:** -18.0%  
+**1y:** -3.5%  
 
 ---
 
@@ -95,19 +95,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-14h ago
-
----
-
-**[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
-
-8h ago
-
----
-
-**[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
-
-1h ago
+15h ago
 
 ---
 
@@ -115,21 +103,19 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
 
-1h ago
+2h ago
 
 ---
 
-**[Banks Quietly Accumulate Bitcoin While Retail Panic Sells](https://www.reddit.com/r/Bitcoin/comments/1qaazw5/banks_quietly_accumulate_bitcoin_while_retail/)**
+**[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
-
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 17h ago
+2h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -137,15 +123,27 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Keep calm while the storm pass
 
-3h ago
+4h ago
 
 ---
 
-**[South Korea to lift 9-year ban on corporate crypto investments](https://www.reddit.com/r/Bitcoin/comments/1qas3vt/south_korea_to_lift_9year_ban_on_corporate_crypto/)**
+**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-South Korea’s new guidelines will let corporations invest in top 20 cryptocurrencies, with trading expected to begin by the end of 2026.
+2h ago
 
-🔗 [crypto.news](https://crypto.news/south-korea-to-lift-9-year-ban-on-corporate-crypto-investments/) • 3h ago
+---
+
+**[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
+
+9h ago
+
+---
+
+**[Banks Quietly Accumulate Bitcoin While Retail Panic Sells](https://www.reddit.com/r/Bitcoin/comments/1qaazw5/banks_quietly_accumulate_bitcoin_while_retail/)**
+
+CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
+
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 18h ago
 
 ---
 
@@ -193,7 +191,7 @@ Yahoo Finance • 2d ago
 
 **['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -201,7 +199,7 @@ The Block • 1h ago
 
 Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -217,7 +215,7 @@ Yahoo Finance • 1h ago
 
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -289,7 +287,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
 
-⬆️ 1 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
+⬆️ 1 • 💬 0 • 5d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
 
 ---
 
@@ -297,7 +295,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 47 • 💬 8 • 7h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 52 • 💬 8 • 7h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -339,7 +337,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 32K • 👍 3K • 💬 118 • ⏱️ 10:58 • 9h ago
+👁️ 32K • 👍 3K • 💬 118 • ⏱️ 10:58 • 10h ago
 
 ---
 
@@ -369,7 +367,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 5K • 👍 463 • 💬 69 • ⏱️ 19:14 • 3h ago
+👁️ 5K • 👍 463 • 💬 69 • ⏱️ 19:14 • 4h ago
 
 ---
 
