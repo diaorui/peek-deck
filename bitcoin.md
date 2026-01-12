@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T11:21:37.783603+00:00'
+updated: '2026-01-12T11:42:39.679347+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 11:21 UTC  
+**Last Updated:** January 12, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1811.41B
+**Market Cap:** $1809.44B
 Rank #1
 
-**Circulating Supply:** 19,974,821 BTC
+**Circulating Supply:** 19,974,862 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.0%
+-28.2%
 
 **All-Time Low:** $67.81
-+133785.9%
++133331.6%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
 
-9h ago
+10h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 7h ago
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 8h ago
 
 The proposed deal would take Sweden-based H100 into Switzerland and deepen its institutional bitcoin treasury strategy.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 2h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 19h ago
+KITCO • 20h ago
 
 ---
 
@@ -321,7 +321,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 196 • 💬 179 • ⏱️ 7:14 • 12h ago
+👁️ 4K • 👍 195 • 💬 177 • ⏱️ 7:14 • 13h ago
 
 ---
 
@@ -331,37 +331,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 202 • ⏱️ 17:17 • 1d ago
-
----
-
-**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
-
-Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
-
-📺 Satoshi Alliance
-
-👁️ 11K • 👍 509 • 💬 275 • ⏱️ 3:25 • 2d ago
-
----
-
-**[&quot;Crypto Crash Not Over in 2026&quot; | Billionaire Stanley Druckenmiller](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 169 • ⏱️ 8:37 • 13h ago
-
----
-
-**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
-
-Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 18K • 👍 2K • 💬 84 • ⏱️ 10:58 • 6h ago
+👁️ 29K • 👍 2K • 💬 201 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -371,17 +341,37 @@ In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bi
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 710 • 💬 126 • ⏱️ 18:06 • 10h ago
+👁️ 10K • 👍 782 • 💬 127 • ⏱️ 18:06 • 11h ago
 
 ---
 
-**[&quot;I Lost $2.5 Billion While The Government Destroyed Crypto Investors&quot; | Charles Hoskinson](https://www.youtube.com/watch?v=6bfYKc-HxUY)**
+**[&quot;Crypto Crash Not Over in 2026&quot; | Billionaire Stanley Druckenmiller](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
 
-Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on the crypto industry's turbulent past four years ...
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-📺 The Wolf Of All Streets
+📺 Altcoin Daily
 
-👁️ 27K • 👍 1K • 💬 496 • ⏱️ 1:01:22 • 21h ago
+👁️ 34K • 👍 2K • 💬 171 • ⏱️ 8:37 • 14h ago
+
+---
+
+**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
+
+Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
+
+📺 Satoshi Alliance
+
+👁️ 11K • 👍 509 • 💬 271 • ⏱️ 3:25 • 2d ago
+
+---
+
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
+
+Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 26K • 👍 2K • 💬 97 • ⏱️ 10:58 • 6h ago
 
 ---
 
@@ -391,7 +381,27 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 74 • 💬 69 • ⏱️ 7:47 • 20h ago
+👁️ 4K • 👍 74 • 💬 66 • ⏱️ 7:47 • 21h ago
+
+---
+
+**[&quot;I Lost $2.5 Billion While The Government Destroyed Crypto Investors&quot; | Charles Hoskinson](https://www.youtube.com/watch?v=6bfYKc-HxUY)**
+
+Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on the crypto industry's turbulent past four years ...
+
+📺 The Wolf Of All Streets
+
+👁️ 28K • 👍 1K • 💬 515 • ⏱️ 1:01:22 • 21h ago
+
+---
+
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+
+📺 Digital Asset News
+
+👁️ 15K • 👍 786 • 💬 86 • ⏱️ 24:05 • 1d ago
 
 ---
 
@@ -401,17 +411,7 @@ Breaking Crypto News Today - Cathie Wood Just said this could happen next in the
 
 📺 Zach Humphries
 
-👁️ 8K • 👍 406 • 💬 325 • ⏱️ 6:53 • 2d ago
-
----
-
-**[This New Crypto Legislation Could Reshape the Entire Market](https://www.youtube.com/watch?v=NOP2UwV0hFw)**
-
-The new crypto rules coming this week? Could this change crypto forever? We have important updates on the regulatory front in ...
-
-📺 Zach Humphries
-
-👁️ 2K • 👍 115 • 💬 210 • ⏱️ 5:41 • 1d ago
+👁️ 8K • 👍 406 • 💬 321 • ⏱️ 6:53 • 2d ago
 
 ---
 

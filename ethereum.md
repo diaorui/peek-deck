@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T11:21:37.789651+00:00'
+updated: '2026-01-12T11:42:39.685381+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 11:21 UTC  
+**Last Updated:** January 12, 2026 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.76B
+**Market Cap:** $375.86B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-37.1%
 
 **All-Time Low:** $0.43
-+720018.1%
++718147.3%
 
 ---
 
@@ -156,7 +156,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -234,23 +234,33 @@ Coinpedia Fintech News • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=4UGdGboD9X4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 126 • 💬 8 • ⏱️ 4:37 • 7h ago
-
----
-
 **[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
 
 Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 778 • 💬 86 • ⏱️ 24:05 • 1d ago
+👁️ 15K • 👍 786 • 💬 86 • ⏱️ 24:05 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=4UGdGboD9X4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 130 • 💬 8 • ⏱️ 4:37 • 7h ago
+
+---
+
+**[The Imminent Ripple XRP Supply Shock Will RATTLE Bitcoin And Ethereum No One Is Talking About This](https://www.youtube.com/watch?v=EYjaoepZJz8)**
+
+The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shocks and people not being able to even buy ...
+
+📺 The Modern Investor
+
+👁️ 2K • 👍 291 • 💬 49 • ⏱️ 36:33 • 1h ago
 
 ---
 
@@ -260,27 +270,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 217 • 💬 35 • ⏱️ 12:34 • 1d ago
-
----
-
-**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 11K • 👍 255 • 💬 613 • ⏱️ 13:48 • 1d ago
-
----
-
-**[BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WhTxZW51neE)**
-
-BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 277 • 💬 130 • ⏱️ 14:54 • 15h ago
+👁️ 4K • 👍 220 • 💬 35 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -290,7 +280,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 29K • 👍 930 • 💬 196 • ⏱️ 19:42 • 1d ago
+👁️ 29K • 👍 937 • 💬 193 • ⏱️ 19:42 • 1d ago
+
+---
+
+**[BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WhTxZW51neE)**
+
+BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 291 • 💬 129 • ⏱️ 14:54 • 15h ago
 
 ---
 
@@ -300,7 +300,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 621 • 👍 25 • 💬 10 • ⏱️ 5:22 • 21h ago
+👁️ 643 • 👍 25 • 💬 10 • ⏱️ 5:22 • 21h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 11K • 👍 257 • 💬 606 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -310,27 +320,17 @@ Crie sua conta na corretora BingX: https://bingx.com/pt-br/partner/DougTadeu Ins
 
 📺 Douglas Tadeu
 
-👁️ 3K • 👍 459 • 💬 28 • ⏱️ 17:07 • 12h ago
+👁️ 4K • 👍 507 • 💬 29 • ⏱️ 17:07 • 12h ago
 
 ---
 
-**[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
+**[Privacy or Transparancy? Vitalik Buterin Explains #vitalikbuterin #ethereum #decentralization](https://www.youtube.com/watch?v=r4d7L4dm7k0)**
 
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
+Privacy or Transparancy by Vitalik Buterin. Check out The Ultimate Crypto Guide here: https://kit.co/CryptoMining​ More info ...
 
-📺 Stock Moe
+📺 Crypto Mining
 
-👁️ 16K • 👍 921 • 💬 96 • ⏱️ 12:30 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Kommt der Breakout in Richtung 95k?](https://www.youtube.com/watch?v=MZlx_P9ybUE)**
-
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 612 • 💬 102 • ⏱️ 9:05 • 6h ago
+👁️ 304 • 👍 4 • 💬 4 • ⏱️ 0:29 • 2h ago
 
 ---
 

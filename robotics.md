@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T11:21:37.792848+00:00'
+updated: '2026-01-12T11:42:39.688664+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 11:21 UTC  
+**Last Updated:** January 12, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Im making a project with a gripper, and im using a servo to move the gears to sq
 
 A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ A new report on the global warehouse robotics market projects huge growth, from 
 
 Hi all, currently working on a bionic hand project. The project itself is relatively easy except for the finger. I keep running into the issue of non simultaneous movement. The furthest joint bends first, then the middle, then the closest. The red line in there is a 1 mm UHMWPE poly cord. Real fingers have each joint bending at the same time, providing a smooth movement. The thing is, when the finger is hanging down (fingertip pointing to floor), the movement is perfect. But when it’s in a palms up position, I run into that sequential bending issue again. Any other fixes/approaches to this? I tried a linkage system but it was ridiculously weak. The only things I can think of are weak springs at each joint to provide some sort of weak extension torque (replicating gravity), or using multiple cords for each joint, which is something I’d rather not do due to complexity and power limitations.
 
-15h ago
+16h ago
 
 ---
 
@@ -192,23 +192,33 @@ Tech Xplore • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
-
-This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
-
-📺 Cybernews
-
-👁️ 303K • 👍 4K • 💬 671 • ⏱️ 4:29 • 4d ago
-
----
-
 **[Chinese Robots Just SHOCKED Everyone at CES 2026 Expo](https://www.youtube.com/watch?v=Hps7t7liOqM)**
 
 Chinese robotics took center stage at CES 2026, stunning visitors with rapid advances in AI, automation, and humanoid design.
 
 📺 Carros Show
 
-👁️ 10K • 👍 125 • 💬 6 • ⏱️ 8:33 • 4d ago
+👁️ 10K • 👍 127 • 💬 6 • ⏱️ 8:33 • 4d ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 10K • 👍 177 • 💬 30 • ⏱️ 11:29 • 1d ago
+
+---
+
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+
+📺 CNBC
+
+👁️ 76K • 👍 987 • 💬 232 • ⏱️ 11:46 • 19h ago
 
 ---
 
@@ -222,53 +232,23 @@ The next generation of Atlas is designed to interact with people and understand 
 
 ---
 
-**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
-
-Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
-
-📺 Carros Show
-
-👁️ 56K • 👍 481 • 💬 40 • ⏱️ 11:13 • 6d ago
-
----
-
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 10K • 👍 174 • 💬 29 • ⏱️ 11:29 • 1d ago
-
----
-
 **[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
 
 Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
 
 📺 The Verge
 
-👁️ 83K • 👍 967 • 💬 139 • ⏱️ 10:48 • 1d ago
+👁️ 85K • 👍 984 • 💬 142 • ⏱️ 10:48 • 1d ago
 
 ---
 
-**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
+**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
 
-LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
+Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
 
-📺 WION
+📺 Carros Show
 
-👁️ 5K • 👍 23 • 💬 13 • ⏱️ 1:15 • 5d ago
-
----
-
-**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
-
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
-
-📺 NBC News
-
-👁️ 195K • 👍 2K • 💬 213 • ⏱️ 0:22 • 5d ago
+👁️ 56K • 👍 484 • 💬 40 • ⏱️ 11:13 • 6d ago
 
 ---
 
@@ -278,17 +258,37 @@ The Chinese startup Zeroth Robotics just emerged from stealth with an aggressive
 
 📺 Kalil 4.0
 
-👁️ 363 • 👍 17 • 💬 3 • ⏱️ 1:10 • 5h ago
+👁️ 646 • 👍 28 • 💬 5 • ⏱️ 1:10 • 5h ago
 
 ---
 
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
 
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
 
-📺 CNBC
+📺 NBC News
 
-👁️ 74K • 👍 950 • 💬 228 • ⏱️ 11:46 • 19h ago
+👁️ 196K • 👍 2K • 💬 213 • ⏱️ 0:22 • 5d ago
+
+---
+
+**[2026 FIRST Robotics Competition Kickoff Broadcast: REBUILT presented by Haas](https://www.youtube.com/watch?v=9kRhE5vgCvY)**
+
+The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal of REBUILT presented by Haas. To learn ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 70K • 👍 2K • ⏱️ 56:16 • 1d ago
+
+---
+
+**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
+
+Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
+
+📺 Hyundai Motor Group
+
+👁️ 570K • 👍 45 • 💬 1 • ⏱️ 0:59 • 5d ago
 
 ---
 

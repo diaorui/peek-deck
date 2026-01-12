@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T11:21:37.775059+00:00'
+updated: '2026-01-12T11:42:39.670821+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 11:21 UTC  
+**Last Updated:** January 12, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 Google has removed some of its artificial intelligence health summaries after a Guardian investigation found people were being put at risk of harm by false and misleading information. The company has said its AI Overviews, which use generative AI to provide snapshots of essential information about a topic or question, are “helpful” and “reliable”. But some of the summaries, which appear at the top of search results, served up inaccurate health information, putting users at risk of harm.
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation) • 2h ago
 
 ---
 
@@ -87,7 +87,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-17h ago
+18h ago
 
 ---
 
@@ -147,19 +147,19 @@ Fortune • 1h ago
 
 Also: All the news and watercooler chat from Fortune.
 
-Fortune • 41m ago
+Fortune • 1h ago
 
 ---
 
 **[Behind the Curtain: AI rush creates rarified class of "Have-Lots"](https://www.axios.com/2026/01/12/ai-winners-wealth-inequality)**
 
-Axios • 40m ago
+Axios • 1h ago
 
 ---
 
 **[India's TCS beats quarterly revenue estimate on AI-led demand](https://www.reuters.com/world/india/indias-tcs-beats-quarterly-revenue-estimate-2026-01-12/)**
 
-Reuters • 40m ago
+Reuters • 1h ago
 
 ---
 
@@ -283,7 +283,7 @@ On Elon Musk's social media platform X, the Grok AI image generation reply bot h
 
 📺 NBC News
 
-👁️ 19K • 👍 152 • 💬 86 • ⏱️ 5:25 • 2d ago
+👁️ 20K • 👍 155 • 💬 89 • ⏱️ 5:25 • 2d ago
 
 ---
 
@@ -293,17 +293,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 2K • 👍 164 • 💬 48 • ⏱️ 24:00 • 15h ago
-
----
-
-**[I Asked AI If It Supports the Operation in Venezuela. And Here’s What It Said](https://www.youtube.com/watch?v=BLLa0DblYaE)**
-
-In this video, I ask AI what it thinks about the U.S. military operation in Venezuela, the real reason behind the capture of Nicolas ...
-
-📺 I Ask AI
-
-👁️ 12K • 👍 2K • 💬 296 • ⏱️ 14:02 • 1d ago
+👁️ 2K • 👍 170 • 💬 49 • ⏱️ 24:00 • 16h ago
 
 ---
 
@@ -313,7 +303,27 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 Dan Martell
 
-👁️ 95K • 👍 5K • 💬 294 • ⏱️ 19:15 • 2d ago
+👁️ 97K • 👍 5K • 💬 308 • ⏱️ 19:15 • 2d ago
+
+---
+
+**[&#39;NINJA TURTLES vs AVATAR&#39; #fanfilm #ai #parody](https://www.youtube.com/watch?v=uO-lcZylpO4)**
+
+What happens when the Teenage Mutant Ninja Turtles crash-land on Pandora? In this AI-generated fan film parody, the ...
+
+📺 Ai of Euphoria 
+
+👁️ 10K • 👍 322 • 💬 53 • ⏱️ 2:07 • 17h ago
+
+---
+
+**[[이런뉴스] 머스크 “AI 세상, 노후 준비는 필요 없다” 인터뷰 영상 보니④ / KBS 2026.01.12.](https://www.youtube.com/watch?v=XL1N51lii20)**
+
+일론 머스크 테슬라 CEO는 인공지능(AI)과 로봇 기술 발전으로 인해 미래에는 개인의 노후 저축 개념 자체가 무의미해질 수 있다고 ...
+
+📺 KBS News
+
+👁️ 269K • 👍 3K • 💬 1K • ⏱️ 7:45 • 6h ago
 
 ---
 
@@ -323,47 +333,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 Matt Wolfe
 
-👁️ 58K • 👍 2K • 💬 162 • ⏱️ 14:39 • 1d ago
-
----
-
-**[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 56K • 👍 2K • 💬 315 • ⏱️ 17:36 • 1d ago
-
----
-
-**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
-
-Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
-
-📺 MoreBeckBros
-
-👁️ 238K • 👍 9K • 💬 725 • ⏱️ 26:17 • 2d ago
-
----
-
-**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
-
-The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
-
-📺 Nate Ziller
-
-👁️ 200K • 👍 20K • 💬 2K • ⏱️ 4:38 • 1d ago
-
----
-
-**[Nvidia&#39;s Jensen Huang on an AI Bubble, Trump, and the Arms Race with China](https://www.youtube.com/watch?v=s4haopj2XeA)**
-
-00:00 Intro 00:48 AI Bubble 03:30 Working with President Trump 05:17 AI Arms Race with China 13:13 Taiwan's Future 18:02 ...
-
-📺 TIME
-
-👁️ 126K • 👍 4K • 💬 432 • ⏱️ 24:32 • 2d ago
+👁️ 59K • 👍 2K • 💬 166 • ⏱️ 14:39 • 1d ago
 
 ---
 
@@ -373,7 +343,37 @@ Join the most risk-free offer I've ever made before it's gone: https://lp.moneti
 
 📺 Iman Gadzhi
 
-👁️ 658K • 👍 30K • 💬 558 • ⏱️ 2:34:25 • 12h ago
+👁️ 672K • 👍 30K • 💬 641 • ⏱️ 2:34:25 • 13h ago
+
+---
+
+**[&#39;AI won&#39;t just take your job, it will take EVERY job&#39;](https://www.youtube.com/watch?v=9Yci0lq6bx0)**
+
+Artificial intelligence could eliminate millions of jobs within the next five years and ultimately pose an existential risk to humanity, ...
+
+📺 LBC
+
+👁️ 28K • 👍 480 • 💬 400 • ⏱️ 11:00 • 2d ago
+
+---
+
+**[Ai Bros Are Delusional](https://www.youtube.com/watch?v=BaNJtjsbBCo)**
+
+the ai bros are unreal in their delusions. "AI ART IS ART" watch me live: https://www.twitch.tv/luneisttv Join this channel to get ...
+
+📺 Luneist
+
+👁️ 18K • 👍 1K • 💬 392 • ⏱️ 10:57 • 16h ago
+
+---
+
+**[Reacting to our OWN AI VIDEOS!](https://www.youtube.com/watch?v=QtgKP5oyJJs)**
+
+Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Breakfast for 1 year! T&C apply. Reacting to our OWN ...
+
+📺 MoreBeckBros
+
+👁️ 240K • 👍 9K • 💬 728 • ⏱️ 26:17 • 2d ago
 
 ---
 
@@ -389,19 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 735,985 • ❤️ 809 • 4d ago
-
----
-
-**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
-
-*Tencent*
-
-HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
-
-`translation` `2.0B`
-
-⬇️ 10,682 • ❤️ 719 • 11d ago
+⬇️ 735,985 • ❤️ 819 • 4d ago
 
 ---
 
@@ -413,7 +401,19 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 23,889 • ❤️ 468 • 4d ago
+⬇️ 23,889 • ❤️ 475 • 4d ago
+
+---
+
+**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
+
+*Tencent*
+
+HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
+
+`translation` `2.0B`
+
+⬇️ 10,682 • ❤️ 721 • 11d ago
 
 ---
 
@@ -425,7 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,687 • ❤️ 306 • 6d ago
+⬇️ 2,687 • ❤️ 310 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 12,797 • ❤️ 274 • 3d ago
+⬇️ 12,797 • ❤️ 275 • 3d ago
 
 ---
 
@@ -461,7 +461,19 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 670 • ❤️ 215 • 6d ago
+⬇️ 670 • ❤️ 217 • 6d ago
+
+---
+
+**[Alpamayo-R1-10B](https://huggingface.co/nvidia/Alpamayo-R1-10B)**
+
+*NVIDIA*
+
+Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomous driving, integrating Chain-of-Causation reasoning with diffusion-based trajectory planning for complex scenarios and rare events. It processes multi-camera images, text commands, and egomotion history to output interpretable reasoning traces and a 6.4-second future trajectory.
+
+`robotics` `11.1B`
+
+⬇️ 13,820 • ❤️ 266 • 3d ago
 
 ---
 
@@ -477,27 +489,15 @@ MiroThinker-v1.5-235B is a large language model optimized for tool-augmented rea
 
 ---
 
-**[MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1)**
+**[LTXV2_comfy](https://huggingface.co/Kijai/LTXV2_comfy)**
 
-*MiniMax*
+*Jukka Seppänen*
 
-MiniMax-M2.1 is a text generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an alternative method for loading LTX2 models. It is compatible with LTX2 GGUFs that include metadata, though it may require a specific PR for ComfyUI-GGUF nodes.
 
-`text-generation` `228.7B`
+`18.9B`
 
-⬇️ 210,293 • ❤️ 1,020 • 15d ago
-
----
-
-**[Alpamayo-R1-10B](https://huggingface.co/nvidia/Alpamayo-R1-10B)**
-
-*NVIDIA*
-
-Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomous driving, integrating Chain-of-Causation reasoning with diffusion-based trajectory planning for complex scenarios and rare events. It processes multi-camera images, text commands, and egomotion history to output interpretable reasoning traces and a 6.4-second future trajectory.
-
-`robotics` `11.1B`
-
-⬇️ 13,820 • ❤️ 264 • 3d ago
+⬇️ 23,310 • ❤️ 185 • 1d ago
 
 ---
 
@@ -523,7 +523,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 96 • 💬 1 • ⭐ 2,027 • 5d ago
+▲ 98 • 💬 1 • ⭐ 2,090 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -581,15 +581,16 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[BitNet b1.58 2B4T Technical Report](https://huggingface.co/papers/2504.12285)**
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
 
-*Shuming Ma, Hongyu Wang, Shaohan Huang et al. (8 authors)*
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
 
-BitNet b1.58 2B4T, a 1-bit Large Language Model with 2 billion parameters, matches the performance of full-precision models while improving computational efficiency.
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 81 • 💬 2 • ⭐ 25,654 • 9mo ago
+▲ 28 • 💬 1 • ⭐ 67,327 • 28mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2504.12285) • [💻 code](https://github.com/microsoft/bitnet)
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -625,7 +626,7 @@ HunyuanVideo 1.5 is a lightweight video generation model with state-of-the-art v
 
 Multi-reward reinforcement learning suffers from reward normalization collapse in GRPO, which GDPO addresses by decoupling reward normalization for improved training stability and performance across reasoning tasks.
 
-▲ 150 • 💬 6 • ⭐ 164 • 3d ago
+▲ 152 • 💬 6 • ⭐ 164 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05242) • [💻 code](https://github.com/NVlabs/GDPO) • [🔗 project](https://nvlabs.github.io/GDPO/)
 
@@ -651,7 +652,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 407 • 4d ago
+⭐ 3.1k • 🔱 416 • 4d ago
 
 ---
 
@@ -661,7 +662,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 137 • 17h ago
+⭐ 2.3k • 🔱 137 • 24m ago
 
 ---
 
@@ -677,11 +678,11 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
 
-vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
+Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 124 • 2h ago
+⭐ 1.5k • 🔱 125 • 50m ago
 
 ---
 
@@ -711,7 +712,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 4h ago
+⭐ 1.2k • 🔱 143 • 1h ago
 
 ---
 
@@ -731,7 +732,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 950 • 🔱 39 • 3h ago
+⭐ 1.1k • 🔱 44 • 4h ago
 
 ---
 
