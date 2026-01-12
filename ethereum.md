@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T12:51:23.851581+00:00'
+updated: '2026-01-12T13:43:04.122470+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 12:51 UTC  
+**Last Updated:** January 12, 2026 at 13:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.86B
+**Market Cap:** $375.30B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.1%
 
 **All-Time Low:** $0.43
-+718147.3%
++718202.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -156,7 +156,7 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 EF co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 23h ago
 
 Ethereum co-founder Vitalik Buterin has reopened debate over the role of stablecoins in Ethereum’s future, warning that the network’s long-term independence may depend on developing decentralized alternatives that rely less on the U.S. dollar and centralized issuers.Stablecoins have become core infrastructure for crypto markets, with a combined market value of ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1h ago
 
 Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -180,7 +180,7 @@ CoinDesk • 23h ago
 
 Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
 
-Coinpedia Fintech News • 23h ago
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ Coinpedia Fintech News • 23h ago
 
 Sentiment for the number two digital asset, ETH, just reached levels that 99Bitcoins analysts say often precede major price runs. The Ethereum price is currently trading between $3,100 and $3,200, up +2% in the past 24 hours as traders step in to buy following last week’s minor pullback. The Ethereum ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 2h ago
 
 Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -240,7 +240,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 786 • 💬 86 • ⏱️ 24:05 • 1d ago
+👁️ 15K • 👍 792 • 💬 86 • ⏱️ 24:05 • 1d ago
 
 ---
 
@@ -250,7 +250,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 130 • 💬 8 • ⏱️ 4:37 • 8h ago
+👁️ 2K • 👍 139 • 💬 21 • ⏱️ 4:37 • 9h ago
+
+---
+
+**[Prepare For The Unthinkable Santiment Just Gave Earth Shattering News About Ethereum And Bitcoin](https://www.youtube.com/watch?v=YbzUZdxuP-I)**
+
+As we all continue our tumble into 2026, one thing remains crystal clear... not one single person knows whats coming next.
+
+📺 Money Rules - Investing Tips 
+
+👁️ 1K • 👍 218 • 💬 87 • ⏱️ 14:17 • 41m ago
 
 ---
 
@@ -260,7 +270,7 @@ The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shock
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 291 • 💬 49 • ⏱️ 36:33 • 2h ago
+👁️ 4K • 👍 682 • 💬 158 • ⏱️ 36:33 • 3h ago
 
 ---
 
@@ -270,7 +280,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 4K • 👍 220 • 💬 35 • ⏱️ 12:34 • 1d ago
+👁️ 4K • 👍 223 • 💬 35 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -280,7 +290,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 29K • 👍 937 • 💬 193 • ⏱️ 19:42 • 1d ago
+👁️ 29K • 👍 948 • 💬 193 • ⏱️ 19:42 • 1d ago
 
 ---
 
@@ -290,17 +300,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 291 • 💬 129 • ⏱️ 14:54 • 16h ago
-
----
-
-**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 643 • 👍 25 • 💬 10 • ⏱️ 5:22 • 23h ago
+👁️ 8K • 👍 295 • 💬 157 • ⏱️ 14:54 • 17h ago
 
 ---
 
@@ -310,27 +310,27 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 257 • 💬 606 • ⏱️ 13:48 • 1d ago
+👁️ 11K • 👍 258 • 💬 598 • ⏱️ 13:48 • 1d ago
 
 ---
 
-**[ETHEREUM PODE SER A MAIOR CRIPTO DE 2026](https://www.youtube.com/watch?v=lWHnp0qQ6Is)**
+**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
 
-Crie sua conta na corretora BingX: https://bingx.com/pt-br/partner/DougTadeu Instagram: ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Douglas Tadeu
+📺 Cilinix Crypto
 
-👁️ 4K • 👍 507 • 💬 29 • ⏱️ 17:07 • 13h ago
+👁️ 661 • 👍 26 • 💬 10 • ⏱️ 5:22 • 23h ago
 
 ---
 
-**[Privacy or Transparancy? Vitalik Buterin Explains #vitalikbuterin #ethereum #decentralization](https://www.youtube.com/watch?v=r4d7L4dm7k0)**
+**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Kommt der Breakout in Richtung 95k?](https://www.youtube.com/watch?v=MZlx_P9ybUE)**
 
-Privacy or Transparancy by Vitalik Buterin. Check out The Ultimate Crypto Guide here: https://kit.co/CryptoMining​ More info ...
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
 
-📺 Crypto Mining
+📺 Krypto Trading & Investing
 
-👁️ 304 • 👍 4 • 💬 4 • ⏱️ 0:29 • 3h ago
+👁️ 4K • 👍 688 • 💬 149 • ⏱️ 9:05 • 8h ago
 
 ---
 

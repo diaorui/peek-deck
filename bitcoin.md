@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T12:51:23.845506+00:00'
+updated: '2026-01-12T13:43:04.116523+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 12:51 UTC  
+**Last Updated:** January 12, 2026 at 13:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1809.44B
+**Market Cap:** $1810.13B
 Rank #1
 
-**Circulating Supply:** 19,974,862 BTC
+**Circulating Supply:** 19,974,915 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.1%
 
 **All-Time Low:** $67.81
-+133331.6%
++133538.1%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-9h ago
+10h ago
 
 ---
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -95,7 +95,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-8h ago
+9h ago
 
 ---
 
@@ -103,13 +103,13 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 15h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 16h ago
 
 ---
 
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -117,13 +117,13 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Keep calm while the storm pass
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -131,13 +131,13 @@ Keep calm while the storm pass
 
 South Korea’s new guidelines will let corporations invest in top 20 cryptocurrencies, with trading expected to begin by the end of 2026.
 
-🔗 [crypto.news](https://crypto.news/south-korea-to-lift-9-year-ban-on-corporate-crypto-investments/) • 1h ago
+🔗 [crypto.news](https://crypto.news/south-korea-to-lift-9-year-ban-on-corporate-crypto-investments/) • 2h ago
 
 ---
 
 **[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ South Korea’s new guidelines will let corporations invest in top 20 cryptocurr
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-19h ago
+20h ago
 
 ---
 
@@ -155,7 +155,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 1d ago
 
 Post-quantum cryptography specialist BTQ Technologies has introduced ‘Bitcoin Quantum,’ a permissionless fork and testnet of the largest cryptocurrency.
 
-CoinDesk • 18m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 18m ago
 
 Dollar weakness will send Bitcoin’s price soaring, analysts say. The top crypto is still down nearly 30% from its all-time high of $126,000. Other assets like stocks and gold are pushing their all-time highs.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ dlnews.com • 2h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 21h ago
+KITCO • 22h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 1d ago
 
 According to TradingView data, big holders on Bitfinex have been trimming long positions after a late-December peak of 73,000 BTC. The move follows a broader drop in whale holdings of roughly 220,000 BTC during 2025, a change that has analysts and traders parsing what comes next.Price action has be…
 
-TradingView — Track All Markets • 23h ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -249,7 +249,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 5d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -295,7 +295,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 44 • 💬 7 • 4h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 44 • 💬 7 • 5h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -317,27 +317,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 195 • 💬 177 • ⏱️ 7:14 • 14h ago
-
----
-
-**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
-
-Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 201 • ⏱️ 17:17 • 1d ago
-
----
-
-**[Did You Know the First $10M Bitcoin Price Prediction Was 17 Years Ago??](https://www.youtube.com/watch?v=YVlXwZldm6c)**
-
-In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bitcoin could one day be worth $10 million per coin.
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 782 • 💬 127 • ⏱️ 18:06 • 12h ago
+👁️ 4K • 👍 198 • 💬 177 • ⏱️ 7:14 • 15h ago
 
 ---
 
@@ -347,17 +327,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 171 • ⏱️ 8:37 • 15h ago
-
----
-
-**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
-
-Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
-
-📺 Satoshi Alliance
-
-👁️ 11K • 👍 509 • 💬 271 • ⏱️ 3:25 • 2d ago
+👁️ 36K • 👍 2K • 💬 180 • ⏱️ 8:37 • 16h ago
 
 ---
 
@@ -367,7 +337,55 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 26K • 👍 2K • 💬 97 • ⏱️ 10:58 • 7h ago
+👁️ 32K • 👍 3K • 💬 118 • ⏱️ 10:58 • 8h ago
+
+---
+
+**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+
+Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 202 • ⏱️ 17:17 • 1d ago
+
+---
+
+**[THIS IS A WARNING TO ALL BITCOIN BEARS](https://www.youtube.com/watch?v=6waE1ksKLaY)**
+
+BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 6K • 👍 496 • 💬 61 • ⏱️ 6:16 • 3h ago
+
+---
+
+**[Bitcoin’s About to Break (And Here’s Why)](https://www.youtube.com/watch?v=5XCWkRCaEmQ)**
+
+Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 5K • 👍 463 • 💬 69 • ⏱️ 19:14 • 2h ago
+
+---
+
+**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
+
+Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
+
+📺 Satoshi Alliance
+
+👁️ 11K • 👍 512 • 💬 270 • ⏱️ 3:25 • 2d ago
+
+---
+
+**[😭WORST WEEK FOR CRYPTO AND IT CAN GET WORSE #crypto #cryptocurrency #bitcoin #zcash](https://www.youtube.com/watch?v=QDVY7HgBdIA)**
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 409 • 💬 13 • ⏱️ 1:14 • 13h ago
 
 ---
 
@@ -377,7 +395,7 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 74 • 💬 66 • ⏱️ 7:47 • 22h ago
+👁️ 4K • 👍 76 • 💬 16 • ⏱️ 7:47 • 23h ago
 
 ---
 
@@ -387,27 +405,7 @@ Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on
 
 📺 The Wolf Of All Streets
 
-👁️ 28K • 👍 1K • 💬 515 • ⏱️ 1:01:22 • 22h ago
-
----
-
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
-
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
-
-📺 Digital Asset News
-
-👁️ 15K • 👍 786 • 💬 86 • ⏱️ 24:05 • 1d ago
-
----
-
-**[🚨BREAKING CRYPTO NEWS: COULD THIS REALLY HAPPEN NEXT?🚨](https://www.youtube.com/watch?v=vdJQ-XrR35k)**
-
-Breaking Crypto News Today - Cathie Wood Just said this could happen next in the united states and it could be huge for crypto ...
-
-📺 Zach Humphries
-
-👁️ 8K • 👍 406 • 💬 321 • ⏱️ 6:53 • 2d ago
+👁️ 29K • 👍 1K • 💬 565 • ⏱️ 1:01:22 • 23h ago
 
 ---
 

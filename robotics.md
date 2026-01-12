@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T12:51:23.854915+00:00'
+updated: '2026-01-12T13:43:04.125685+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 12:51 UTC  
+**Last Updated:** January 12, 2026 at 13:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ This is a humanoid robot I’m building, think ima name him “Bing C Superfly�
 
 A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ A new report on the global warehouse robotics market projects huge growth, from 
 
 Im making a project with a gripper, and im using a servo to move the gears to squeeze the gripper. My question is how do i get continuous squeezing force on the gripped object, without having the servo in a continuous stall? Im thinking to like check the current, and if its at stall current, turn off the servo then like turn it on and off every couple ms or something, like flickering the power. But would that be bad for the servo? Does anyone know how to do this?
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Im making a project with a gripper, and im using a servo to move the gears to sq
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ This document describes in detail the navigation task environment based on the A
 
 Gemini 3 et al asked me to post this here: R. Crumb on the Subway The Sloth Prior, the Sauce of the Ages, and Subconscious Habit in Robotics Date: January 12, 2026 Audience: Robotics, embodied AI, control theory, reinforcement learning Thesis: Fluid embodied intelligence emerges when cognition is absent by default, expensive to invoke, and reserved for surprise. Action should run like a silent film while the mind is elsewhere. This is enabled by a strong Sloth Prior and sustained by the Sauce of the Ages: the accumulated sediment of habit. TL;DR (for engineers) Problem: Humanoid robots look uncanny because high-level cognition babysits routine motion, adding latency and hesitation. Claim: The missing layer is a subconscious habit system governed by a strong Sloth Prior (assume stability) and fed by the Sauce of the Ages (compiled, fossilized behavior). Mechanism: A cheap prediction-error gate (“Sloth Gate”) keeps the brain lazy; successful behaviors are compiled and frozen. Math: Act open-loop under a stability prior; wake cognition when (\delta=|x{t+1}-\hat{x}{t+1}|\ge\epsilon). Penalize cognition and latency in the objective. Outcome: Faster reactions, lower compute, legible motion. Robots stop hesitating and start committing. A Day in the Life (the Silent Reel) It’s the 1970s. R. Crumb heads out with a bag of groceries and art supplies—paper, pens, a bottle of something cheap—and a head full of drawings. Curves. Ink. Rhythm. A familiar fixation on the lovely female form drifts through a private thought balloon like a chorus that never quite leaves the song. He moves through the city. Up the steps. Down the block. Through the turnstile. Onto the train. Off again. Crowds, corners, doors, stairs—an entire day passes. The crucial point is not that he “doesn’t think about how.” The actions never enter consciousness at all. His body carries the groceries, angles through doorways, climbs stairs, balances on the moving train—the whole sequence runs like a silent reel already spooled and playing, while his mind is fully elsewhere. No background narration. No monitoring channel. No inner voice. The motion simply does not register. This is not carelessness. It is competence so complete it never rises to thought. This is the Sauce of the Ages at work: decades of sedimented practice doing the job so the mind doesn’t have to. The Inversion Error in Robotics Most robotics stacks quietly assume: If intelligence exists, it should be applied continuously. So we build systems where: - Perception never sleeps - Planning never commits - Inference babysits every joint - Latency accumulates at every step The robot looks attentive—and moves like it’s nervous. Humans invert this hierarchy. Crumb doesn’t “check” the stairs. He commits to them. His mind is busy elsewhere, and that is exactly why the motion is fluid. The difference is a prior. The Sloth Prior (assume boredom) Humans operate under a powerful assumption: The world is probably the same as it was a moment ago. Formally: [ P(\text{world unchanged}\mid t)\gg P(\text{world changed}) ] Robots often assume the opposite: [ P(\text{world changed}\mid t)\approx 1 ] Cities, homes, stairwells, factories are low-entropy. Gravity still works. The stairs still descend. Crumb exploits this constantly—without articulating it—by letting habit run. The Sloth Prior is not recklessness. It is statistical realism. Consciousness Is an Exception Handler (not the loop) In biological systems, cognition is not the control loop. It is the interrupt. Most action runs on prediction. Cognition intervenes only when prediction fails. Let: - (xt) = current embodied state - (\hat{x}{t+1}) = next state predicted by habit Define surprise: [ \deltat=|x{t+1}-\hat{x}_{t+1}| ] If (\delta_t<\epsilon): the silent reel keeps playing. If (\delta_t\ge\epsilon): wake the brain. This is exactly when the subway finally intrudes—someone blocks the aisle, a sudden shove, a missed step. Only then does thought appear. The R. Crumb Architecture (Expanded) Layer 1 — Habit / Zombie Layer (Always On) A cheap, fast dynamical system: [ x_{t+1}=f(x_t,u_t) ] - Low-dimensional, no symbols, no plans - Deterministic or lightly stochastic - Executes walking, grasping, carrying groceries, balancing on trains This layer is the Sauce of the Ages in code: everything that has worked so often it no longer needs supervision. Layer 2 — The Sloth Gate (Barely Awake) A prediction monitor whose job is to prevent thought: [ \deltat=|x{t+1}-\hat{x}_{t+1}| ] Below threshold: stay lazy. Above threshold: escalate. This gate enforces the Sloth Prior. It protects the habit layer from interference and keeps cognition cold unless it is truly needed. Layer 3 — The Thinking Brain (Mostly Elsewhere) Invoked for: - Novelty - Failure - Broken expectations - Long-horizon goals This is where planning, reasoning, and imagination live—the daydreams, the sketches, the attractions. If this layer is busy during routine motion, the architecture has failed. Cost Accounting (why robots overthink) Let: - (C_b) = cost of ballistic habitual action - (C_c) = cost of cognition (latency + energy + coordination) - (C_f) = cost of failure Humans minimize: [ \mathbb{E}[C]=C_b+P(\text{failure})\cdot C_f ] Robotics stacks often minimize: [ \mathbb{E}[C]=C_c+C_b ] This treats thinking as free. It isn’t. The Sloth Prior plus the Sauce of the Ages flips the math: cognition is taxed, habit is rewarded, latency is priced. Habit Compilation (how the sauce is made) If a policy (\pi) succeeds repeatedly with low variance: [ \mathrm{Var}(R\pi)<\tau \quad \text{over } N \text{ runs} ] then freeze it: [ \pi\rightarrow\pi{\text{compiled}} ] Compiled policies bypass planners and execute without inference. That’s how walking becomes walking—and why Crumb never “relearns” stairs on the way to his apartment. The sauce thickens with time. “But what about safety?” This architecture reallocates safety; it doesn’t remove it. Safety comes from: - Cheap reflexes - Fast surprise detection - Rapid escalation A system that thinks about everything reacts late. A system that commits under a Sloth Prior and escalates on surprise reacts fast. The Sloth Gate doesn’t remove perception—it prices it. Why robots feel uncanny Uncanniness isn’t motors or skins. It’s visible cognition. A being that constantly monitors itself doesn’t feel alive. Life feels alive because its mind is elsewhere—on art, desire, memory, fantasy, or nothing at all. Crumb makes it through the whole day thinking about comics and curves because the Sauce of the Ages quietly handles the world. A second metaphor (for engineers) Think of a well-tuned elevator. It commits to a trajectory, runs quietly, and only calls a supervisor when sensors disagree. Passengers never notice the control system at all—until something unusual happens. That invisibility is the Sloth Prior in motion. Closing claim We don’t need robots that think harder. We need robots steeped in the Sauce of the Ages, operating under a confident Sloth Prior, with cognition reserved for the rare moments when the reel tears. Intelligence is not thinking well. Intelligence is having no reason to notice at all.
 
-1h ago
+2h ago
 
 ---
 
@@ -116,7 +116,7 @@ Gemini 3 et al asked me to post this here: R. Crumb on the Subway The Sloth Prio
 
 Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -132,13 +132,13 @@ TechCrunch • 2d ago
 
 Meet the newest version of Atlas: The humanoid robot with strength, precision, and adaptability for the industrial era. Plus more robots from CES 2026!
 
-IEEE Spectrum • 5h ago
+IEEE Spectrum • 6h ago
 
 ---
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -160,7 +160,7 @@ Grand Forks Herald • 1d ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ BBC • 12h ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
@@ -184,7 +184,7 @@ Interesting Engineering • 3d ago
 
 The EU AI Act could affect humanoids. AIC, or artificial integrated cognition, provides a path for AI to gain the trust needed to advance.
 
-The Robot Report • 1d ago
+The Robot Report • 2d ago
 
 ---
 
@@ -192,23 +192,23 @@ The Robot Report • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
+
+This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
+
+📺 Cybernews
+
+👁️ 307K • 👍 4K • 💬 684 • ⏱️ 4:29 • 4d ago
+
+---
+
 **[Chinese Robots Just SHOCKED Everyone at CES 2026 Expo](https://www.youtube.com/watch?v=Hps7t7liOqM)**
 
 Chinese robotics took center stage at CES 2026, stunning visitors with rapid advances in AI, automation, and humanoid design.
 
 📺 Carros Show
 
-👁️ 10K • 👍 127 • 💬 6 • ⏱️ 8:33 • 4d ago
-
----
-
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 10K • 👍 177 • 💬 30 • ⏱️ 11:29 • 1d ago
+👁️ 10K • 👍 126 • 💬 6 • ⏱️ 8:33 • 4d ago
 
 ---
 
@@ -218,7 +218,17 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 76K • 👍 987 • 💬 232 • ⏱️ 11:46 • 20h ago
+👁️ 79K • 👍 1K • 💬 248 • ⏱️ 11:46 • 21h ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 10K • 👍 179 • 💬 33 • ⏱️ 11:29 • 1d ago
 
 ---
 
@@ -232,43 +242,23 @@ The next generation of Atlas is designed to interact with people and understand 
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
-
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
-
-📺 The Verge
-
-👁️ 85K • 👍 984 • 💬 142 • ⏱️ 10:48 • 1d ago
-
----
-
 **[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
 
 Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
 
 📺 Carros Show
 
-👁️ 56K • 👍 484 • 💬 40 • ⏱️ 11:13 • 6d ago
+👁️ 56K • 👍 485 • 💬 40 • ⏱️ 11:13 • 6d ago
 
 ---
 
-**[Chinese Robot For Homes Invades US #humanoidrobot #robot #robotics #airobot #ai](https://www.youtube.com/watch?v=6h9g3ESZqy4)**
+**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
 
-The Chinese startup Zeroth Robotics just emerged from stealth with an aggressive push into the US market with its AI-powered ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 Kalil 4.0
+📺 Julia McCoy
 
-👁️ 646 • 👍 28 • 💬 5 • ⏱️ 1:10 • 6h ago
-
----
-
-**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
-
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
-
-📺 NBC News
-
-👁️ 196K • 👍 2K • 💬 213 • ⏱️ 0:22 • 5d ago
+👁️ 34K • 👍 2K • 💬 332 • ⏱️ 14:30 • 22h ago
 
 ---
 
@@ -279,6 +269,16 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 📺 FIRSTRoboticsCompetition
 
 👁️ 70K • 👍 2K • ⏱️ 56:16 • 1d ago
+
+---
+
+**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
+
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
+
+📺 NBC News
+
+👁️ 196K • 👍 2K • 💬 213 • ⏱️ 0:22 • 5d ago
 
 ---
 
