@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T17:27:10.112527+00:00'
+updated: '2026-01-12T17:46:43.493798+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 17:27 UTC  
+**Last Updated:** January 12, 2026 at 17:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,879.70
+### $91,323.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -1.9%  
-**30d:** +4.2%  
-**90d:** -17.2%  
-**1y:** -2.5%  
+**24h:** +0.7%  
+**7d:** -2.5%  
+**30d:** +3.5%  
+**90d:** -17.8%  
+**1y:** -3.2%  
 
 ---
 
@@ -85,11 +85,9 @@ Keep calm while the storm pass
 
 ---
 
-**[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
+**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
-
-12h ago
+4h ago
 
 ---
 
@@ -99,13 +97,13 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 ---
 
-**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
+**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
 4h ago
 
 ---
 
-**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
+**[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
 4h ago
 
@@ -119,9 +117,11 @@ That’s right, diamond-handed degens, stack those sats while it’s cold out th
 
 ---
 
-**[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
+**[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
 
-4h ago
+Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
+
+13h ago
 
 ---
 
@@ -129,21 +129,21 @@ That’s right, diamond-handed degens, stack those sats while it’s cold out th
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-13h ago
+14h ago
 
 ---
 
 **[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
-**[Banks Quietly Accumulate Bitcoin While Retail Panic Sells](https://www.reddit.com/r/Bitcoin/comments/1qaazw5/banks_quietly_accumulate_bitcoin_while_retail/)**
+**[I give up on trying to convince anyone](https://www.reddit.com/r/Bitcoin/comments/1qb0qem/i_give_up_on_trying_to_convince_anyone/)**
 
-CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
+I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 20h ago
+34m ago
 
 ---
 
@@ -155,7 +155,7 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 2h ago
 
 Explore DeFi, nonfungible tokens with real utility and tokenized assets. These crypto niches could offer alternatives to big cryptocurrency names in 2026.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -297,7 +297,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 55 • 💬 11 • 9h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 56 • 💬 12 • 9h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -319,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 658 • 💬 43 • ⏱️ 41:26 • 1h ago
+👁️ 8K • 👍 658 • 💬 43 • ⏱️ 41:26 • 2h ago
 
 ---
 
@@ -349,7 +349,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 178 • ⏱️ 8:37 • 19h ago
+👁️ 38K • 👍 2K • 💬 178 • ⏱️ 8:37 • 20h ago
 
 ---
 
@@ -369,7 +369,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 3h ago
+👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 4h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 569 • 💬 35 • ⏱️ 1:07:27 • 3h ago
+👁️ 5K • 👍 569 • 💬 35 • ⏱️ 1:07:27 • 4h ago
 
 ---
 

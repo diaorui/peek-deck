@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T17:27:10.118459+00:00'
+updated: '2026-01-12T17:46:43.499003+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 17:27 UTC  
+**Last Updated:** January 12, 2026 at 17:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,130.25
+### $3,091.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -4.8%  
-**30d:** +2.3%  
-**90d:** -21.4%  
-**1y:** +0.2%  
+**24h:** -1.1%  
+**7d:** -5.8%  
+**30d:** +1.2%  
+**90d:** -22.3%  
+**1y:** -0.9%  
 
 ---
 
@@ -92,19 +92,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Privacy and The Cypherpunk Revival](https://www.reddit.com/r/ethereum/comments/1q9b9hn/privacy_and_the_cypherpunk_revival/)**
-
-Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
-
-1d ago
-
----
-
 **[Vitalik Buterin Thinks Ethereum Should Be Boring, And That’s the Point](https://www.reddit.com/r/ethereum/comments/1q8wrf2/vitalik_buterin_thinks_ethereum_should_be_boring/)**
 
 Vitalik Buterin often compares Ethereum to Linux or BitTorrent: open systems that quietly power huge parts of the internet. The idea is that Ethereum shouldn’t feel like a startup chasing users, but like infrastructure institutions use because it reduces risk and removes intermediaries. If this works, Ethereum adoption won’t come with hype cycles. It will be slow, widespread, and sticky, just like real infrastructure. Do you think Ethereum can actually reach that stage, or does crypto always need hype to grow?
 
 2d ago
+
+---
+
+**[Privacy and The Cypherpunk Revival](https://www.reddit.com/r/ethereum/comments/1q9b9hn/privacy_and_the_cypherpunk_revival/)**
+
+Crypto started as a cypherpunk project, but somewhere along the way, privacy got sidelined. Interesting enough, over the past few months, privacy has reemerged not as ideology for its own sake, but as a practical response to surveillance, regulation, and institutionalization of crypto. I wrote an essay regarding why the cypherpunk ethos is resurfacing now, what changed structurally, and the ramifications going forward. https://open.substack.com/pub/defidave/p/privacy-and-the-cypherpunk-revival?r=zfakj&utm_medium=ios&shareImageVariant=overlay
+
+1d ago
 
 ---
 
@@ -190,7 +190,7 @@ Investing.com • 4h ago
 
 **[Standard Chartered says '2026 will be the year of Ethereum' as bank backs ETH outperformance](https://www.theblock.co/post/385097/standard-chartered-says-2026-will-be-the-year-of-ethereum?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -234,7 +234,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 3h ago
+👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 4h ago
 
 ---
 
@@ -304,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 157 • 👍 7 • 💬 1 • ⏱️ 4:34 • 6h ago
+👁️ 157 • 👍 7 • 💬 1 • ⏱️ 4:34 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T17:27:10.121678+00:00'
+updated: '2026-01-12T17:46:43.501740+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 17:27 UTC  
+**Last Updated:** January 12, 2026 at 17:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,6 +78,14 @@ I was looking at some 'frameless' motors and was considering playing around with
 
 ---
 
+**[Beginnings of a robot](https://www.reddit.com/r/robotics/comments/1qaf4ig/beginnings_of_a_robot/)**
+
+This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
+
+17h ago
+
+---
+
 **[Kutzbach criterion to get dof](https://www.reddit.com/r/robotics/comments/1qawvgb/kutzbach_criterion_to_get_dof/)**
 
 https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bcfbfbacf49ba5a0b91defd0ab1cb1b90cdf51 I am new to robotics, was trying to understand how to determine no. of dof. Where can I get a clear picture about finding dof and kutzback crietrion? I have several doubts in this image - how is the sliding joint considered a link? it has been numbered 8 in the image how to know if a joint has 1 or 2 dof what are all the links in this robot? is a platform (5 in the image) considered as a single link?
@@ -90,15 +98,7 @@ https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bc
 
 A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
 
-8h ago
-
----
-
-**[Beginnings of a robot](https://www.reddit.com/r/robotics/comments/1qaf4ig/beginnings_of_a_robot/)**
-
-This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
-
-17h ago
+9h ago
 
 ---
 
@@ -112,27 +112,11 @@ This is a humanoid robot I’m building, think ima name him “Bing C Superfly�
 
 ## Google News: "robotics"
 
-**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
+**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
 
-From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
+If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
 
-Engadget • 2d ago
-
----
-
-**[Video Friday: Robots Are Everywhere at CES 2026](https://spectrum.ieee.org/robots-ces-2026)**
-
-Meet the newest version of Atlas: The humanoid robot with strength, precision, and adaptability for the industrial era. Plus more robots from CES 2026!
-
-IEEE Spectrum • 9h ago
-
----
-
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
-
-Joe Tidy meets robots being trained to tidy up all your mess.
-
-BBC • 17h ago
+TechCrunch • 2d ago
 
 ---
 
@@ -148,6 +132,30 @@ Bloomberg.com • 12h ago
 
 ---
 
+**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
+
+From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
+
+Engadget • 2d ago
+
+---
+
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+
+Joe Tidy meets robots being trained to tidy up all your mess.
+
+BBC • 17h ago
+
+---
+
+**[Video Friday: Robots Are Everywhere at CES 2026](https://spectrum.ieee.org/robots-ces-2026)**
+
+Meet the newest version of Atlas: The humanoid robot with strength, precision, and adaptability for the industrial era. Plus more robots from CES 2026!
+
+IEEE Spectrum • 10h ago
+
+---
+
 **[UND organizers hope robotics competition's location in Alerus Center will help draw attention to the sport](https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport)**
 
 “This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
@@ -156,27 +164,19 @@ Grand Forks Herald • 1d ago
 
 ---
 
-**[Locus Robotics and Radial Surpass 25 Million Picks Milestone as Demand for Scalable Fulfillment Intensifies](https://finance.yahoo.com/news/locus-robotics-radial-surpass-25-133000583.html)**
-
-WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
-
-Yahoo Finance • 3h ago
-
----
-
 **[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
-**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
+**[Locus Robotics and Radial Surpass 25 Million Picks Milestone as Demand for Scalable Fulfillment Intensifies](https://finance.yahoo.com/news/locus-robotics-radial-surpass-25-133000583.html)**
 
-FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
+WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
 
-WYMT • 2d ago
+Yahoo Finance • 4h ago
 
 ---
 

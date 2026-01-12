@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-12T17:27:09.621223+00:00"
+          "dateModified": "2026-01-12T17:46:43.063640+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,6 +614,37 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qb0rry/geoffrey_hinton_says_agents_can_share_knowledge/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Y3owc24wMWZieWNnMSmyOjZYUjpRItNJWSM3m61SBYzhLUzB_9hlF-244PLt.png?width=640&crop=smart&auto=webp&s=4c6711127c7f1d2420695ed3edf8bf5a4e8184a7" alt="Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1qb0rry/geoffrey_hinton_says_agents_can_share_knowledge/" target="_blank" onclick="event.stopPropagation();">Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768238026.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -958,39 +989,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1q9ai6f/a_deep_dive_into_how_i_trained_an_edit_model_to/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1q9ai6f/a_deep_dive_into_how_i_trained_an_edit_model_to/" target="_blank" onclick="event.stopPropagation();">A deep dive into how I trained an edit model to show highly relevant code suggestions while programming</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768067334.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1014,7 +1012,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-12T16:28:46.163447+00:00">Updated 2026-01-12T16:28:46.163447+00:00</small>
+        <small data-timestamp="2026-01-12T17:46:26.629564+00:00">Updated 2026-01-12T17:46:26.629564+00:00</small>
     </div>
 </div>
 
@@ -1839,10 +1837,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 1125</span>
+                                    <span class="post-points">▲ 1141</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 1420</span>
+                                    <span style="color: #9ca3af;">💬 1455</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1890,7 +1888,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 612</span>
+                                    <span class="post-points">▲ 613</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 362</span>
@@ -1939,7 +1937,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 334</span>
+                                    <span class="post-points">▲ 335</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 328</span>
@@ -2037,10 +2035,10 @@ This is a demonstration of the genuine increase in capability of these tools in 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 103</span>
+                                    <span class="post-points">▲ 116</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 35</span>
+                                    <span style="color: #9ca3af;">💬 41</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2165,7 +2163,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 31</span>
+                                    <span class="post-points">▲ 32</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 7</span>
@@ -2231,20 +2229,20 @@ This is a demonstration of the genuine increase in capability of these tools in 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46559995', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=46586334', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://san.com/wp-content/uploads/2026/01/GettyImages-1399924401_Getty_Images_clean.jpg');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/cb80376c013a55c997e1ab182e63e06bd83a2db8/0_0_3937_3150/master/3937.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=065072f150ae7833118779693c492dc5');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=46559995" target="_blank" onclick="event.stopPropagation();">A lawsuit says Workday's AI shut out applicants over 40</a>
+                            <a href="https://news.ycombinator.com/item?id=46586334" target="_blank" onclick="event.stopPropagation();">UK threatens action against X over sexualised AI images of women and children</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            An AI program used by Workday allegedly put resumes of applicants who were Black, disabled, female or over 40 behind other job candidates.
+                            Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
                         </div>
                         
 
@@ -2255,23 +2253,23 @@ This is a demonstration of the genuine increase in capability of these tools in 
                                     <span class="post-points">▲ 27</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 5</span>
+                                    <span style="color: #9ca3af;">💬 42</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-01-09T22:01:21Z"></span>
+                                    <span class="post-age" data-timestamp="2026-01-12T10:03:29Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://san.com/cc/workday-hires-for-millions-a-lawsuit-seeking-plaintiffs-says-its-ai-shut-out-applicants-over-40/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://san.com/wp-content/uploads/2024/02/cropped-SAN-Logo.png?w=180" alt="" class="post-favicon">
+                                            <img src="https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg" alt="" class="post-favicon">
                                             
                                         
-                                        <span>Straight Arrow News</span>
+                                        <span>the Guardian</span>
                                     </a>
                                 </div>
                                 
@@ -2300,7 +2298,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-12T16:28:45.952047+00:00">Updated 2026-01-12T16:28:45.952047+00:00</small>
+        <small data-timestamp="2026-01-12T17:46:27.520412+00:00">Updated 2026-01-12T17:46:27.520412+00:00</small>
     </div>
 </div>
 
