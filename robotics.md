@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T14:27:39.969675+00:00'
+updated: '2026-01-12T14:55:07.061565+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 14:27 UTC  
+**Last Updated:** January 12, 2026 at 14:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Im making a project with a gripper, and im using a servo to move the gears to sq
 
 A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
 
-5h ago
+6h ago
 
 ---
 
@@ -132,7 +132,7 @@ TechCrunch • 2d ago
 
 Meet the newest version of Atlas: The humanoid robot with strength, precision, and adaptability for the industrial era. Plus more robots from CES 2026!
 
-IEEE Spectrum • 6h ago
+IEEE Spectrum • 7h ago
 
 ---
 
@@ -144,7 +144,7 @@ Tech Xplore • 2d ago
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bloomberg.com • 9h ago
 
 WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 

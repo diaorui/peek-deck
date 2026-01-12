@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T14:27:39.964650+00:00'
+updated: '2026-01-12T14:55:07.058376+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 14:27 UTC  
+**Last Updated:** January 12, 2026 at 14:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -198,7 +198,7 @@ The Block • 2h ago
 
 **[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
 
-CCN.com • 38m ago
+CCN.com • 1h ago
 
 ---
 

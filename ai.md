@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T14:27:39.946783+00:00'
+updated: '2026-01-12T14:55:07.043933+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 14:27 UTC  
+**Last Updated:** January 12, 2026 at 14:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 Not the hill I'd die on, but I'm not a billionaire.
 
-🔗 [PC Gamer](https://www.pcgamer.com/gaming-industry/epic-games-ceo-tim-sweeney-argues-banning-twitter-over-its-ability-to-ai-generate-pornographic-images-of-minors-is-just-gatekeepers-attempting-to-censor-all-of-their-political-opponents/) • 5m ago
+🔗 [PC Gamer](https://www.pcgamer.com/gaming-industry/epic-games-ceo-tim-sweeney-argues-banning-twitter-over-its-ability-to-ai-generate-pornographic-images-of-minors-is-just-gatekeepers-attempting-to-censor-all-of-their-political-opponents/) • 32m ago
 
 ---
 
@@ -87,7 +87,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-20h ago
+21h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 8h ago
 
 **[Dashcam Maker Motive Touts AI but Relies on Humans](https://www.theinformation.com/articles/dashcam-maker-motive-touts-ai-relies-humans)**
 
-The Information • 27m ago
+The Information • 55m ago
 
 ---
 
@@ -143,7 +143,7 @@ The Information • 27m ago
 
 'A significant percentage [of fraud] is perpetrated by people who steal provider and beneficiary identifications to bill for services never provided. Artificial intelligence has the potential to keep these crooks several steps ahead of our efforts to fight back,' writes an L.A. Times reader.
 
-Los Angeles Times • 27m ago
+Los Angeles Times • 55m ago
 
 ---
 
@@ -159,13 +159,13 @@ The Guardian • 3h ago
 
 The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
 **[Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images](https://www.nytimes.com/2026/01/12/world/europe/grok-ai-images-x-elon-musk-uk.html)**
 
-The New York Times • 53m ago
+The New York Times • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 53m ago
 
 “It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -261,7 +261,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 27 • 💬 14 • 14h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 27 • 💬 14 • 15h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -313,7 +313,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YR
 
 📺 KBS News
 
-👁️ 375K • 👍 3K • 💬 2K • ⏱️ 7:45 • 9h ago
+👁️ 375K • 👍 3K • 💬 2K • ⏱️ 7:45 • 10h ago
 
 ---
 
@@ -497,7 +497,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 23,310 • ❤️ 188 • 1d ago
+⬇️ 23,310 • ❤️ 188 • 2d ago
 
 ---
 
@@ -664,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 137 • 45m ago
+⭐ 2.3k • 🔱 137 • 1h ago
 
 ---
 
@@ -684,7 +684,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 125 • 44m ago
+⭐ 1.5k • 🔱 125 • 1h ago
 
 ---
 

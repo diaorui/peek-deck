@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T14:27:39.954907+00:00'
+updated: '2026-01-12T14:55:07.052471+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 14:27 UTC  
+**Last Updated:** January 12, 2026 at 14:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-10h ago
+11h ago
 
 ---
 
@@ -155,7 +155,7 @@ South Korea’s new guidelines will let corporations invest in top 20 cryptocurr
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Block • 8h ago
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 10h ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 1h ago
 
 Bitcoin may eventually hit $1 million, but not by 2030.
 
-Yahoo Finance • 37m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -297,7 +297,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 47 • 💬 8 • 6h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 47 • 💬 8 • 7h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -319,7 +319,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 198 • 💬 177 • ⏱️ 7:14 • 15h ago
+👁️ 4K • 👍 198 • 💬 177 • ⏱️ 7:14 • 16h ago
 
 ---
 
@@ -329,7 +329,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 180 • ⏱️ 8:37 • 16h ago
+👁️ 36K • 👍 2K • 💬 180 • ⏱️ 8:37 • 17h ago
 
 ---
 
@@ -359,7 +359,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 6K • 👍 496 • 💬 61 • ⏱️ 6:16 • 4h ago
+👁️ 6K • 👍 496 • 💬 61 • ⏱️ 6:16 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal 
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 409 • 💬 13 • ⏱️ 1:14 • 14h ago
+👁️ 6K • 👍 409 • 💬 13 • ⏱️ 1:14 • 15h ago
 
 ---
 
@@ -397,7 +397,7 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 76 • 💬 16 • ⏱️ 7:47 • 23h ago
+👁️ 4K • 👍 76 • 💬 16 • ⏱️ 7:47 • 1d ago
 
 ---
 
