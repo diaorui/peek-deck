@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T15:27:50.903446+00:00'
+updated: '2026-01-12T15:52:00.625952+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 15:27 UTC  
+**Last Updated:** January 12, 2026 at 15:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.30B
+**Market Cap:** $376.88B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-36.9%
 
 **All-Time Low:** $0.43
-+718202.7%
++721032.0%
 
 ---
 
@@ -168,19 +168,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Buterin: Ethereum’s Independence Hinges on Better Decentralized Stablecoins — Here’s Why](https://finance.yahoo.com/news/vitalik-buterin-ethereum-independence-hinges-110921823.html)**
+**[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-Ethereum co-founder Vitalik Buterin has reopened debate over the role of stablecoins in Ethereum’s future, warning that the network’s long-term independence may depend on developing decentralized alternatives that rely less on the U.S. dollar and centralized issuers.Stablecoins have become core infrastructure for crypto markets, with a combined market value of ...
-
-Yahoo Finance • 4h ago
+The Block • 3h ago
 
 ---
 
-**[New BlackRock report exposes a historic shift in crypto that leaves only one blockchain controlling the settlement layer](https://cryptoslate.com/blackrock-stablecoin-ethereum-settlement-standard-2026/)**
+**[Vitalik Buterin lays out 'walkaway test' for a quantum safe Ethereum](https://finance.yahoo.com/news/vitalik-buterin-lays-walkaway-test-131543594.html)**
 
-BlackRock says stablecoins are "no longer niche." Here’s why Ethereum is positioned as the settlement layer for digital dollars.
+Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
 
-CryptoSlate • 2d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -190,23 +188,9 @@ Investing.com • 2h ago
 
 ---
 
-**[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
-
-The Block • 3h ago
-
----
-
 **[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
 
-CCN.com • 1h ago
-
----
-
-**[A hidden "yield war" has begun in Ethereum ETFs, forcing issuers to finally pay you for holding](https://cryptoslate.com/eth-etfs-just-paid-a-dividend-grayscales-9-4m-staking-test/)**
-
-Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
-
-CryptoSlate • 23h ago
+CCN.com • 2h ago
 
 ---
 
@@ -226,9 +210,33 @@ The Motley Fool • 1d ago
 
 ---
 
+**[A hidden "yield war" has begun in Ethereum ETFs, forcing issuers to finally pay you for holding](https://cryptoslate.com/eth-etfs-just-paid-a-dividend-grayscales-9-4m-staking-test/)**
+
+Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
+
+CryptoSlate • 23h ago
+
+---
+
+**[Here’s XRP Price If XRP Reaches Ethereum’s Market Cap Today](https://www.binance.com/en/square/post/34936368127769)**
+
+Binance • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
+
+This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
+
+📺 Thomas Kralow
+
+👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 2h ago
+
+---
 
 **[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
 
@@ -236,7 +244,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 792 • 💬 86 • ⏱️ 24:05 • 1d ago
+👁️ 15K • 👍 793 • 💬 86 • ⏱️ 24:05 • 1d ago
 
 ---
 
@@ -246,27 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 21 • ⏱️ 4:37 • 11h ago
-
----
-
-**[Prepare For The Unthinkable Santiment Just Gave Earth Shattering News About Ethereum And Bitcoin](https://www.youtube.com/watch?v=YbzUZdxuP-I)**
-
-As we all continue our tumble into 2026, one thing remains crystal clear... not one single person knows whats coming next.
-
-📺 Money Rules - Investing Tips 
-
-👁️ 1K • 👍 218 • 💬 87 • ⏱️ 14:17 • 2h ago
-
----
-
-**[The Imminent Ripple XRP Supply Shock Will RATTLE Bitcoin And Ethereum No One Is Talking About This](https://www.youtube.com/watch?v=EYjaoepZJz8)**
-
-The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shocks and people not being able to even buy ...
-
-📺 The Modern Investor
-
-👁️ 4K • 👍 682 • 💬 158 • ⏱️ 36:33 • 5h ago
+👁️ 2K • 👍 144 • 💬 22 • ⏱️ 4:37 • 11h ago
 
 ---
 
@@ -276,27 +264,17 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 4K • 👍 223 • 💬 35 • ⏱️ 12:34 • 1d ago
+👁️ 4K • 👍 230 • 💬 35 • ⏱️ 12:34 • 1d ago
 
 ---
 
-**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
+**[The Imminent Ripple XRP Supply Shock Will RATTLE Bitcoin And Ethereum No One Is Talking About This](https://www.youtube.com/watch?v=EYjaoepZJz8)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shocks and people not being able to even buy ...
 
-📺 Crypto Nutshell
+📺 The Modern Investor
 
-👁️ 29K • 👍 948 • 💬 193 • ⏱️ 19:42 • 2d ago
-
----
-
-**[BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WhTxZW51neE)**
-
-BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 295 • 💬 157 • ⏱️ 14:54 • 19h ago
+👁️ 7K • 👍 898 • 💬 186 • ⏱️ 36:33 • 5h ago
 
 ---
 
@@ -306,27 +284,47 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 258 • 💬 598 • ⏱️ 13:48 • 1d ago
+👁️ 11K • 👍 259 • 💬 594 • ⏱️ 13:48 • 1d ago
 
 ---
 
-**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
+**[Prepare For The Unthinkable Santiment Just Gave Earth Shattering News About Ethereum And Bitcoin](https://www.youtube.com/watch?v=YbzUZdxuP-I)**
+
+As we all continue our tumble into 2026, one thing remains crystal clear... not one single person knows whats coming next.
+
+📺 Money Rules - Investing Tips 
+
+👁️ 4K • 👍 684 • 💬 157 • ⏱️ 14:17 • 2h ago
+
+---
+
+**[URGENT ETH UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=X91_CPEOtVI)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 661 • 👍 26 • 💬 10 • ⏱️ 5:22 • 1d ago
+👁️ 157 • 👍 7 • 💬 1 • ⏱️ 4:34 • 5h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin??? Kommt der Breakout in Richtung 95k?](https://www.youtube.com/watch?v=MZlx_P9ybUE)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tY2AxoGiu6Q)**
 
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Krypto Trading & Investing
+📺 More Crypto Online
 
-👁️ 4K • 👍 688 • 💬 149 • ⏱️ 9:05 • 10h ago
+👁️ 505 • 👍 71 • 💬 2 • ⏱️ 5:01 • 1h ago
+
+---
+
+**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 30K • 👍 959 • 💬 194 • ⏱️ 19:42 • 2d ago
 
 ---
 

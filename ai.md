@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T15:27:50.888077+00:00'
+updated: '2026-01-12T15:52:00.613368+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 15:27 UTC  
+**Last Updated:** January 12, 2026 at 15:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -95,7 +95,7 @@ We have entered an era of AI doing _almost_ anything. From vibe coding, to image
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-21h ago
+22h ago
 
 ---
 
@@ -119,39 +119,69 @@ Safety alignment in Large Language Models (LLMs) inherently presents a multi-obj
 
 ## Google News: "ai"
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqfyKplTyLG_qPVunvTfK5cY0F70C0-IhDENRrfPHQxYoQI-InCHIiMN&gaa_ts=6965083b&gaa_sig=dPYIQuDYhoQSy_Bjgnx_4AVqIyU200OABLWNRIGTLyPdmIBiRPplXIclAt7nk6yn7a9cJfYENBynUp8ZjH6Tdw%3D%3D)**
+**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
+
+“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcMoYbQUhVyLxV_ezXpnIiy31S_WUCHLcDIj3MLQfVY6aX5MWdLNH_b&gaa_ts=69651c01&gaa_sig=lqS5gHSZgg2Kj_YpEv2rBTXG4cJeyxfscjF828lZfaPVpuQ41kP0HLrcAbhsIv37ns-9oWOQjMsf7f7yr7-7uw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Publishers fear AI search summaries and chatbots mean ‘end of traffic era’](https://www.theguardian.com/media/2026/jan/12/publishers-fear-ai-search-summaries-and-chatbots-mean-end-of-traffic-era)**
+**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
 
-Media bosses expect web referrals to plunge and want journalists to emulate content creators, report finds
+Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-The Guardian • 9h ago
-
----
-
-**[Dashcam Maker Motive Touts AI but Relies on Humans](https://www.theinformation.com/articles/dashcam-maker-motive-touts-ai-relies-humans)**
-
-The Information • 1h ago
+The Guardian • 13h ago
 
 ---
 
-**[Letters to the Editor: AI could make Medicare and Medicaid fraud even harder to fight](https://www.latimes.com/opinion/letters-to-the-editor/story/2026-01-12/ai-medicare-medicaid-fraud)**
+**[Apple picks Google's Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)**
 
-'A significant percentage [of fraud] is perpetrated by people who steal provider and beneficiary identifications to bill for services never provided. Artificial intelligence has the potential to keep these crooks several steps ahead of our efforts to fight back,' writes an L.A. Times reader.
+Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
 
-Los Angeles Times • 1h ago
+CNBC • 32m ago
 
 ---
 
-**[Ofcom investigating Elon Musk’s X after outcry over sexualised AI images](https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk)**
+**[Nvidia to Invest $1 Billion in AI Drug Laboratory With Eli Lilly](https://www.bloomberg.com/news/articles/2026-01-12/nvidia-to-invest-1-billion-in-ai-drug-laboratory-with-eli-lilly)**
 
-Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
+Bloomberg.com • 52m ago
 
-The Guardian • 4h ago
+---
+
+**[Lilly, Nvidia tag on partnership with new AI co-innovation lab, $1B investment](https://www.fiercebiotech.com/biotech/lilly-nvidia-tag-partnership-new-ai-co-innovation-lab-1b-investment)**
+
+Eli Lilly and Nvidia, two primary drivers of the recent stock market rally, are deepening their alliance to connect silicon with biology through artificial-intelligence-powered drug development.
+
+Fierce Biotech • 52m ago
+
+---
+
+**[Nvidia has finally done the one AI thing I've been dreading — and PC gaming might never be the same](https://www.techradar.com/tech-events/nvidia-has-finally-done-the-one-ai-thing-ive-been-dreading-and-pc-gaming-might-never-be-the-same)**
+
+Nvidia's 'AI NPC' technology, ACE, is coming to more games in 2026 — and I've got some concerns about the direction this is going.
+
+TechRadar • 2h ago
+
+---
+
+**[AI needs spatial intelligence. The GEOINT industry will deliver it.](https://spacenews.com/ai-needs-spatial-intelligence-the-geoint-industry-will-deliver-it/)**
+
+SpaceNews • 52m ago
+
+---
+
+**[Malaysia, Indonesia become first to block Musk's Grok over AI deepfakes](https://www.npr.org/2026/01/12/nx-s1-5674660/malaysia-indonesia-block-grok-ai-deepfakes)**
+
+Malaysia and Indonesia have become the first countries to block Grok, the artificial intelligence chatbot developed by Elon Musk's xAI, after authorities said it was being misused to generate sexually explicit and non-consensual images.
+
+NPR • 8h ago
 
 ---
 
@@ -160,36 +190,6 @@ The Guardian • 4h ago
 The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
 BBC • 3h ago
-
----
-
-**[Elon Musk’s X Under UK Investigation Over Grok’s Sexualized A.I. Images](https://www.nytimes.com/2026/01/12/world/europe/grok-ai-images-x-elon-musk-uk.html)**
-
-The New York Times • 1h ago
-
----
-
-**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
-
-“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
-
-Yahoo Finance • 20h ago
-
----
-
-**[Hyperscale AI data centers: 10 Breakthrough Technologies 2026](https://www.technologyreview.com/2026/01/12/1129982/hyperscale-ai-data-centers-energy-usage-2026-breakthrough-technology/)**
-
-Hyperscale data centers are now powering AI models with a revolutionary architecture—at a staggering energy cost.
-
-MIT Technology Review • 4h ago
-
----
-
-**[Here Are My Top 10 Artificial Intelligence (AI) Stocks for 2026](https://www.fool.com/investing/2026/01/11/here-are-my-top-10-artificial-intelligence-ai-stoc/)**
-
-The AI sector continues to grow, and there are plenty of promising ways to invest in it.
-
-The Motley Fool • 13h ago
 
 ---
 
@@ -261,7 +261,7 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 28 • 💬 16 • 15h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 28 • 💬 16 • 16h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -277,13 +277,23 @@ An AI program used by Workday allegedly put resumes of applicants who were Black
 
 ## YouTube Videos: "ai"
 
+**[&#39;NINJA TURTLES vs AVATAR&#39; #fanfilm #ai #parody](https://www.youtube.com/watch?v=uO-lcZylpO4)**
+
+What happens when the Teenage Mutant Ninja Turtles crash-land on Pandora? In this AI-generated fan film parody, the ...
+
+📺 Ai of Euphoria 
+
+👁️ 12K • 👍 338 • 💬 55 • ⏱️ 2:07 • 21h ago
+
+---
+
 **[Grok AI model still generating sexualized content after changes](https://www.youtube.com/watch?v=Y3JZdJlwomE)**
 
 On Elon Musk's social media platform X, the Grok AI image generation reply bot has been changed to be for paying customers ...
 
 📺 NBC News
 
-👁️ 20K • 👍 160 • 💬 93 • ⏱️ 5:25 • 2d ago
+👁️ 21K • 👍 161 • 💬 95 • ⏱️ 5:25 • 2d ago
 
 ---
 
@@ -293,57 +303,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 2K • 👍 176 • 💬 55 • ⏱️ 24:00 • 20h ago
-
----
-
-**[I Ranked the Best AI Tools to Make Money in 2026](https://www.youtube.com/watch?v=xXxrvra9DQg)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/44Z7YRm Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 99K • 👍 5K • 💬 311 • ⏱️ 19:15 • 3d ago
-
----
-
-**[[이런뉴스] 머스크 “AI 세상, 노후 준비는 필요 없다” 인터뷰 영상 보니④ / KBS 2026.01.12.](https://www.youtube.com/watch?v=XL1N51lii20)**
-
-일론 머스크 테슬라 CEO는 인공지능(AI)과 로봇 기술 발전으로 인해 미래에는 개인의 노후 저축 개념 자체가 무의미해질 수 있다고 ...
-
-📺 KBS News
-
-👁️ 375K • 👍 3K • 💬 2K • ⏱️ 7:45 • 10h ago
-
----
-
-**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
-
-LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
-
-📺 Matt Wolfe
-
-👁️ 60K • 👍 2K • 💬 168 • ⏱️ 14:39 • 2d ago
-
----
-
-**[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
-
-The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
-
-📺 Wes Roth
-
-👁️ 57K • 👍 2K • 💬 366 • ⏱️ 17:36 • 1d ago
-
----
-
-**[Did AI Just Solve an Erdős Problem? (This Changes Everything)](https://www.youtube.com/watch?v=5DUabMi02js)**
-
-In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with solutions accepted by Terence Tao. This is not a ...
-
-📺 Dr Brian Keating
-
-👁️ 6K • 👍 181 • 💬 22 • ⏱️ 5:50 • 22h ago
+👁️ 2K • 👍 185 • 💬 57 • ⏱️ 24:00 • 20h ago
 
 ---
 
@@ -353,17 +313,37 @@ The next episode of my AI series. The AI character is making using AI, but is st
 
 📺 Nate Ziller
 
-👁️ 217K • 👍 22K • 💬 2K • ⏱️ 4:38 • 1d ago
+👁️ 229K • 👍 24K • 💬 2K • ⏱️ 4:38 • 1d ago
 
 ---
 
-**[Ai Bros Are Delusional](https://www.youtube.com/watch?v=BaNJtjsbBCo)**
+**[The Shocking AI Reveals That Stunned CES 2026 (DAY 3)](https://www.youtube.com/watch?v=3dfWWL5zylM)**
 
-the ai bros are unreal in their delusions. "AI ART IS ART" watch me live: https://www.twitch.tv/luneisttv Join this channel to get ...
+CES 2026 Day 3 felt different. The big robots and heavy autonomy already had their moment earlier in the week. Day 3 was ...
 
-📺 Luneist
+📺 AI Revolution
 
-👁️ 20K • 👍 1K • 💬 416 • ⏱️ 10:57 • 20h ago
+👁️ 37K • 👍 1K • 💬 50 • ⏱️ 11:06 • 2d ago
+
+---
+
+**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
+
+LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
+
+📺 Matt Wolfe
+
+👁️ 61K • 👍 2K • 💬 169 • ⏱️ 14:39 • 2d ago
+
+---
+
+**[&quot;RED QUEEN&quot; AI means &quot;GAME OVER&quot; for us....](https://www.youtube.com/watch?v=-EgTYDKtEw8)**
+
+The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the ...
+
+📺 Wes Roth
+
+👁️ 58K • 👍 2K • 💬 370 • ⏱️ 17:36 • 1d ago
 
 ---
 
@@ -373,7 +353,27 @@ Use my code https://factor.yt.link/T0BOsoa for 50% off your first box + Free Bre
 
 📺 MoreBeckBros
 
-👁️ 243K • 👍 9K • 💬 729 • ⏱️ 26:17 • 2d ago
+👁️ 246K • 👍 10K • 💬 731 • ⏱️ 26:17 • 2d ago
+
+---
+
+**[Nvidia&#39;s Jensen Huang on an AI Bubble, Trump, and the Arms Race with China](https://www.youtube.com/watch?v=s4haopj2XeA)**
+
+00:00 Intro 00:48 AI Bubble 03:30 Working with President Trump 05:17 AI Arms Race with China 13:13 Taiwan's Future 18:02 ...
+
+📺 TIME
+
+👁️ 139K • 👍 4K • 💬 498 • ⏱️ 24:32 • 2d ago
+
+---
+
+**[Did AI Just Solve an Erdős Problem? (This Changes Everything)](https://www.youtube.com/watch?v=5DUabMi02js)**
+
+In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with solutions accepted by Terence Tao. This is not a ...
+
+📺 Dr Brian Keating
+
+👁️ 7K • 👍 188 • 💬 22 • ⏱️ 5:50 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 735,985 • ❤️ 827 • 4d ago
+⬇️ 735,985 • ❤️ 837 • 4d ago
 
 ---
 
@@ -401,7 +401,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 23,889 • ❤️ 482 • 4d ago
+⬇️ 23,889 • ❤️ 491 • 4d ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 10,682 • ❤️ 722 • 11d ago
+⬇️ 10,682 • ❤️ 726 • 11d ago
 
 ---
 
@@ -425,7 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,687 • ❤️ 311 • 6d ago
+⬇️ 2,687 • ❤️ 315 • 6d ago
 
 ---
 
@@ -437,19 +437,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 12,797 • ❤️ 278 • 3d ago
-
----
-
-**[HyperCLOVAX-SEED-Think-32B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B)**
-
-*HyperCLOVA X*
-
-HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of multimodal understanding (text, image, video) with a 128K token context length. It excels at Korean-centric reasoning and offers an optional 'thinking mode' for deep, controllable analysis, making it suitable for complex agentic tasks and advanced multimodal QA.
-
-`text-generation` `33.3B`
-
-⬇️ 30,603 • ❤️ 359 • 6d ago
+⬇️ 12,797 • ❤️ 281 • 3d ago
 
 ---
 
@@ -461,7 +449,19 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 670 • ❤️ 221 • 6d ago
+⬇️ 670 • ❤️ 223 • 6d ago
+
+---
+
+**[HyperCLOVAX-SEED-Think-32B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B)**
+
+*HyperCLOVA X*
+
+HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of multimodal understanding (text, image, video) with a 128K token context length. It excels at Korean-centric reasoning and offers an optional 'thinking mode' for deep, controllable analysis, making it suitable for complex agentic tasks and advanced multimodal QA.
+
+`text-generation` `33.3B`
+
+⬇️ 30,603 • ❤️ 360 • 6d ago
 
 ---
 
@@ -477,18 +477,6 @@ Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomo
 
 ---
 
-**[MiroThinker-v1.5-235B](https://huggingface.co/miromind-ai/MiroThinker-v1.5-235B)**
-
-*MiroMind AI*
-
-MiroThinker-v1.5-235B is a large language model optimized for tool-augmented reasoning and information seeking, featuring interactive scaling for deeper agent-environment interactions. It excels at long-horizon tasks, supporting a 256K context window and up to 400 tool calls, making it ideal for complex research and general QA.
-
-`text-generation` `235.1B`
-
-⬇️ 1,448 • ❤️ 211 • 6d ago
-
----
-
 **[LTXV2_comfy](https://huggingface.co/Kijai/LTXV2_comfy)**
 
 *Jukka Seppänen*
@@ -497,7 +485,19 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 23,310 • ❤️ 188 • 2d ago
+⬇️ 23,310 • ❤️ 190 • 2d ago
+
+---
+
+**[Qwen3-VL-Embedding-8B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B)**
+
+*Qwen*
+
+Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimensional vectors from text, images, and videos for tasks like retrieval and clustering. It supports over 30 languages and customizable embedding dimensions, enabling efficient cross-modal understanding and search.
+
+`image-to-text` `8.1B`
+
+⬇️ 19,641 • ❤️ 179 • 3d ago
 
 ---
 
@@ -511,7 +511,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 173 • 💬 5 • ⭐ 4,478 • 1mo ago
+▲ 174 • 💬 5 • ⭐ 4,478 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -523,7 +523,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 99 • 💬 1 • ⭐ 2,090 • 6d ago
+▲ 100 • 💬 1 • ⭐ 2,090 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -537,7 +537,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
 
-▲ 122 • 💬 3 • ⭐ 102 • 3d ago
+▲ 124 • 💬 3 • ⭐ 102 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
 
@@ -563,7 +563,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 13 • 💬 1 • ⭐ 600 • 4d ago
+▲ 19 • 💬 1 • ⭐ 600 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
@@ -603,7 +603,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 Orient Anything V2 enhances 3D orientation understanding through scalable 3D asset synthesis, symmetry-aware periodic distribution fitting, and multi-frame relative rotation prediction, achieving state-of-the-art performance across multiple benchmarks.
 
-▲ 6 • 💬 1 • ⭐ 60 • 3d ago
+▲ 7 • 💬 1 • ⭐ 60 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05573) • [💻 code](https://github.com/SpatialVision/Orient-Anything-V2) • [🔗 project](https://orient-anythingv2.github.io/)
 
@@ -644,7 +644,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.1k • 🔱 1.0k • 2h ago
+⭐ 8.1k • 🔱 1.0k • 17m ago
 
 ---
 
@@ -654,7 +654,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 418 • 4d ago
+⭐ 3.2k • 🔱 425 • 4d ago
 
 ---
 
@@ -664,7 +664,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 137 • 1h ago
+⭐ 2.3k • 🔱 138 • 1h ago
 
 ---
 
@@ -678,23 +678,23 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 ---
 
+**[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)**
+
+Browser automation CLI for AI agents
+
+`TypeScript`
+
+⭐ 1.5k • 🔱 52 • 8h ago
+
+---
+
 **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
 
 Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 125 • 1h ago
-
----
-
-**[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)**
-
-Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
-
-`TypeScript`
-
-⭐ 1.3k • 🔱 111 • 2d ago
+⭐ 1.5k • 🔱 126 • 33m ago
 
 ---
 
@@ -704,17 +704,17 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.3k • 🔱 72 • 20d ago
+⭐ 1.3k • 🔱 73 • 20d ago
 
 ---
 
-**[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)**
+**[numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror)**
 
-Browser automation CLI for AI agents
+Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 49 • 8h ago
+⭐ 1.3k • 🔱 112 • 2d ago
 
 ---
 

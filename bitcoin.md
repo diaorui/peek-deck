@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T15:27:50.897148+00:00'
+updated: '2026-01-12T15:52:00.620766+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 15:27 UTC  
+**Last Updated:** January 12, 2026 at 15:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1810.13B
+**Market Cap:** $1825.43B
 Rank #1
 
-**Circulating Supply:** 19,974,915 BTC
+**Circulating Supply:** 19,974,953 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-27.5%
 
 **All-Time Low:** $67.81
-+133538.1%
++134660.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-11h ago
+12h ago
 
 ---
 
@@ -151,25 +151,11 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
-
-The Block • 9h ago
-
----
-
 **[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 11h ago
-
----
-
-**[Bitcoin price slips below $91,000 as privacy coins steal the spotlight: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today)**
-
-Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
-
-CoinDesk • 3h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -181,33 +167,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bernstein expects Bitcoin to Rise, Strategy (MSTR) Buys More Bitcoin](https://finance.yahoo.com/news/bernstein-expects-bitcoin-rise-strategy-170840095.html)**
+**[Ether (ETH) to outpace bitcoin (BTC) as Standard Chartered lifts 2030 price target to $40,000](https://www.coindesk.com/markets/2026/01/12/standard-chartered-predicts-ether-will-outperform-bitcoin-hit-usd40-000-by-2030)**
 
-Strategy Inc (NASDAQ:MSTR) is one of the 12 Stocks that Will Bounce Back According to Wall Street Analysts. On January 6, Bernstein analyst Gautam Chhugani released his 2026 crypto outlook. Chhugani forecasts that Bitcoin could rise to $150,000, with a peak cycle target of $200,000 in 2027. This outlook comes despite a weak finish to […]
+The bank sees ether benefiting from sector-specific tailwinds even as broader crypto momentum remains uneven.
 
-Yahoo Finance • 2d ago
-
----
-
-**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
-
-The Block • 2h ago
+CoinDesk • 38m ago
 
 ---
 
-**[Strategy boosts BTC holdings using digital credit STRC](https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc)**
+**[Strategy ($MSTR) Just Spent $1.25 Billion on 13,627 Bitcoin, Pushing BTC Holdings to 687,410](https://bitcoinmagazine.com/featured/strategy-mstr-buys-13627-bitcoin)**
 
-Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
+Strategy added 13,627 bitcoin for $1.25 billion last week, lifting its total holdings to 687,410 BTC as it funded the purchase through equity sales.
 
-CoinDesk • 2h ago
-
----
-
-**[Prediction: Bitcoin Will Not Be Worth $1 Million in 5 Years](https://finance.yahoo.com/news/prediction-bitcoin-not-worth-1-135000101.html)**
-
-Bitcoin may eventually hit $1 million, but not by 2030.
-
-Yahoo Finance • 1h ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -224,6 +196,34 @@ CNBC • 2d ago
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
 KITCO • 1d ago
+
+---
+
+**[Bitcoin miner moves $181 million, as expert speaks of ‘key inflection point’](https://www.dlnews.com/articles/markets/bitcoin-miner-moves-181-million/)**
+
+Miner active in the days of Bitcoin founder Satoshi Nakamoto, says expert. Two early “Bitcoin whales” moved coins worth $181 million late last year. VanEck predicts big Bitcoin price rises by 2050.
+
+dlnews.com • 23h ago
+
+---
+
+**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
+
+China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[This $59 Device Lets You Solo-Mine Bitcoin From Your Desk](https://www.entrepreneur.com/money-finance/this-59-device-lets-you-solo-mine-bitcoin-from-your-desk/501638)**
+
+entrepreneur.com • 2d ago
+
+---
+
+**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
+
+The Block • 2h ago
 
 ---
 
@@ -295,7 +295,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 52 • 💬 8 • 7h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 52 • 💬 8 • 8h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -311,53 +311,13 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=XAIerBMY1Nc)**
+**[DOJ Indictment on Powell Causes Panic (Bitcoin Retreats)](https://www.youtube.com/watch?v=sB5EKN1o364)**
 
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Road To $1 Million USD
+📺 CryptosRUs
 
-👁️ 4K • 👍 198 • 💬 177 • ⏱️ 7:14 • 16h ago
-
----
-
-**[&quot;Crypto Crash Not Over in 2026&quot; | Billionaire Stanley Druckenmiller](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 36K • 👍 2K • 💬 180 • ⏱️ 8:37 • 17h ago
-
----
-
-**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
-
-Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 32K • 👍 3K • 💬 118 • ⏱️ 10:58 • 10h ago
-
----
-
-**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
-
-Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 202 • ⏱️ 17:17 • 1d ago
-
----
-
-**[THIS IS A WARNING TO ALL BITCOIN BEARS](https://www.youtube.com/watch?v=6waE1ksKLaY)**
-
-BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
-
-📺 The Moon Show
-
-👁️ 6K • 👍 496 • 💬 61 • ⏱️ 6:16 • 5h ago
+👁️ 8K • 👍 658 • 💬 43 • ⏱️ 41:26 • 24m ago
 
 ---
 
@@ -367,25 +327,67 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 5K • 👍 463 • 💬 69 • ⏱️ 19:14 • 4h ago
+👁️ 10K • 👍 627 • 💬 86 • ⏱️ 19:14 • 4h ago
 
 ---
 
-**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
 
-Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
+Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
 
-📺 Satoshi Alliance
+📺 Benjamin Cowen
 
-👁️ 11K • 👍 512 • 💬 270 • ⏱️ 3:25 • 2d ago
+👁️ 40K • 👍 3K • 💬 126 • ⏱️ 10:58 • 10h ago
 
 ---
 
-**[😭WORST WEEK FOR CRYPTO AND IT CAN GET WORSE #crypto #cryptocurrency #bitcoin #zcash](https://www.youtube.com/watch?v=QDVY7HgBdIA)**
+**[&quot;Crypto Crash Not Over in 2026&quot; | Billionaire Stanley Druckenmiller](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
 
-📺 CryptoWendyO
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-👁️ 6K • 👍 409 • 💬 13 • ⏱️ 1:14 • 15h ago
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 178 • ⏱️ 8:37 • 18h ago
+
+---
+
+**[THIS IS A WARNING TO ALL BITCOIN BEARS](https://www.youtube.com/watch?v=6waE1ksKLaY)**
+
+BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 10K • 👍 592 • 💬 67 • ⏱️ 6:16 • 6h ago
+
+---
+
+**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
+
+This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
+
+📺 Thomas Kralow
+
+👁️ 3K • 👍 2K • 💬 4 • ⏱️ 8:17 • 2h ago
+
+---
+
+**[Bitcoin On Edge As Trump’s Policies Rattle Markets! What Comes Next?](https://www.youtube.com/watch?v=oAYFUtAhbyw)**
+
+Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles to gain traction and stocks wobble amid growing ...
+
+📺 The Wolf Of All Streets
+
+👁️ 5K • 👍 569 • 💬 35 • ⏱️ 1:07:27 • 2h ago
+
+---
+
+**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+
+Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 202 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -395,17 +397,15 @@ Steven McClurg says the four-year cycle for Bitcoin is "still very much intact,"
 
 📺 Schwab Network
 
-👁️ 4K • 👍 76 • 💬 16 • ⏱️ 7:47 • 1d ago
+👁️ 5K • 👍 79 • 💬 17 • ⏱️ 7:47 • 1d ago
 
 ---
 
-**[&quot;I Lost $2.5 Billion While The Government Destroyed Crypto Investors&quot; | Charles Hoskinson](https://www.youtube.com/watch?v=6bfYKc-HxUY)**
+**[😭WORST WEEK FOR CRYPTO AND IT CAN GET WORSE #crypto #cryptocurrency #bitcoin #zcash](https://www.youtube.com/watch?v=QDVY7HgBdIA)**
 
-Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on the crypto industry's turbulent past four years ...
+📺 CryptoWendyO
 
-📺 The Wolf Of All Streets
-
-👁️ 29K • 👍 1K • 💬 565 • ⏱️ 1:01:22 • 1d ago
+👁️ 7K • 👍 441 • 💬 38 • ⏱️ 1:14 • 16h ago
 
 ---
 

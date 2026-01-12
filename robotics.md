@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T15:27:50.906797+00:00'
+updated: '2026-01-12T15:52:00.628683+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 15:27 UTC  
+**Last Updated:** January 12, 2026 at 15:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bcfbfbacf49ba5a0b91defd0ab1cb1b90cdf51 I am new to robotics, was trying to understand how to determine no. of dof. I have several doubts - 1. how is the sliding joint considered a link? it has been numbered 8 in the image 2. how to know if a joint has 1 or 2 dof where can I get a clear picture about finding dof and kutzback crietrion?
 
-37m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ https://preview.redd.it/6wei272jlxcg1.png?width=1060&format=png&auto=webp&s=a0bc
 
 This is a humanoid robot I’m building, think ima name him “Bing C Superfly”, he will be more of an art exhibit than anything probably I wanna gussy him up make him look all pretty and whatnot
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Im making a project with a gripper, and im using a servo to move the gears to sq
 
 A new report on the global warehouse robotics market projects huge growth, from $8.75B in 2026 to $77.89B by 2040-a 15.69% CAGR. Currently, Autonomous Mobile Robots lead at almost a quarter of that market share, but the Asia-Pacific region has taken over with 41.95%. The key drivers are e-commerce growth at 27.27% market share, followed by labor shortages and a derived need for operational efficiency. The volume of pick-and-place function stands at 45%, while the hardware contributes to more than 70% of the market. Some of the other key trends in the current scenario include Robotics-as-a-Service, AI in warehouses, and Agility Robotics with Mercado Libre and Google Cloud with GreyOrange. What's the most impactful trend you're seeing in warehouse automation? Link: Warehouse Robotics Market
 
-6h ago
+7h ago
 
 ---
 
@@ -124,7 +124,7 @@ TechCrunch • 2d ago
 
 Meet the newest version of Atlas: The humanoid robot with strength, precision, and adaptability for the industrial era. Plus more robots from CES 2026!
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 8h ago
 
 ---
 
@@ -140,7 +140,7 @@ BBC • 15h ago
 
 From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
 
-Engadget • 1d ago
+Engadget • 2d ago
 
 ---
 
@@ -168,7 +168,7 @@ Grand Forks Herald • 1d ago
 
 WILMINGTON, Mass., January 12, 2026--Locus Robotics, the leader in autonomous mobile robots (AMRs) for warehouse and fulfillment operations, today announced that its partnership with Radial, Inc., a leader in eCommerce solutions, has surpassed 25 million units picked in Radial’s Shepherdsville warehouse. This milestone highlights how Locus’s proven and advanced automation and Robots-as-a-Service (RaaS) models are transforming fulfillment by delivering greater scalability, operational resilience,
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1h ago
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -198,7 +198,7 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 307K • 👍 4K • 💬 684 • ⏱️ 4:29 • 4d ago
+👁️ 309K • 👍 4K • 💬 690 • ⏱️ 4:29 • 4d ago
 
 ---
 
@@ -208,17 +208,7 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 📺 Carros Show
 
-👁️ 10K • 👍 126 • 💬 6 • ⏱️ 8:33 • 4d ago
-
----
-
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
-
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
-
-📺 CNBC
-
-👁️ 79K • 👍 1K • 💬 248 • ⏱️ 11:46 • 23h ago
+👁️ 10K • 👍 128 • 💬 6 • ⏱️ 8:33 • 4d ago
 
 ---
 
@@ -228,37 +218,17 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 📺 Cybernews
 
-👁️ 10K • 👍 179 • 💬 33 • ⏱️ 11:29 • 1d ago
+👁️ 11K • 👍 184 • 💬 33 • ⏱️ 11:29 • 1d ago
 
 ---
 
-**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
 
-The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
 
-📺 Hyundai Motor Group
+📺 CNBC
 
-👁️ 246K • 👍 62 • ⏱️ 1:15 • 5d ago
-
----
-
-**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
-
-Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
-
-📺 Carros Show
-
-👁️ 56K • 👍 485 • 💬 40 • ⏱️ 11:13 • 6d ago
-
----
-
-**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 34K • 👍 2K • 💬 332 • ⏱️ 14:30 • 1d ago
+👁️ 82K • 👍 1K • 💬 257 • ⏱️ 11:46 • 23h ago
 
 ---
 
@@ -272,23 +242,53 @@ The 2026 FIRST Robotics Competition Kickoff celebrates the start and game reveal
 
 ---
 
-**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
+**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
 
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
+Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
 
-📺 NBC News
+📺 Carros Show
 
-👁️ 196K • 👍 2K • 💬 213 • ⏱️ 0:22 • 5d ago
+👁️ 57K • 👍 487 • 💬 40 • ⏱️ 11:13 • 6d ago
 
 ---
 
-**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
+**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
 
-Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
+Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
 
-📺 Hyundai Motor Group
+📺 Trisha Hershberger
 
-👁️ 570K • 👍 45 • 💬 1 • ⏱️ 0:59 • 5d ago
+👁️ 9K • 👍 519 • 💬 35 • ⏱️ 9:28 • 1d ago
+
+---
+
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+
+📺 Kim Java
+
+👁️ 7K • 👍 897 • 💬 44 • ⏱️ 17:09 • 2h ago
+
+---
+
+**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 35K • 👍 2K • 💬 349 • ⏱️ 14:30 • 1d ago
+
+---
+
+**[Laundry-folding robot debuts at CES 2026](https://www.youtube.com/watch?v=W93GXR7jo5o)**
+
+Technology leaders are gathering in Las Vegas for CES, one of the industry's biggest conferences of the year. CNET editor at ...
+
+📺 CBS News
+
+👁️ 47K • 👍 120 • 💬 31 • ⏱️ 2:54 • 5d ago
 
 ---
 
