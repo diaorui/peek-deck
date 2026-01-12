@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T19:41:50.219284+00:00'
+updated: '2026-01-12T20:27:09.814754+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 19:41 UTC  
+**Last Updated:** January 12, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
+**24h:** +1.1%  
 **7d:** -2.1%  
-**30d:** +3.9%  
+**30d:** +4.0%  
 **90d:** -17.4%  
-**1y:** -2.8%  
+**1y:** -2.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,19 +87,13 @@ Rank #1
 
 Keep calm while the storm pass
 
-8h ago
+9h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-6h ago
-
----
-
-**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
-
-19h ago
+7h ago
 
 ---
 
@@ -107,13 +101,19 @@ Keep calm while the storm pass
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-2h ago
+3h ago
+
+---
+
+**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
+
+20h ago
 
 ---
 
 **[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -121,15 +121,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
 
-6h ago
-
----
-
-**[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
-
-Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
-
-15h ago
+7h ago
 
 ---
 
@@ -141,9 +133,17 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 ---
 
-**[Most People When Bitcoin Drops, Meanwhile Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qanks6/most_people_when_bitcoin_drops_meanwhile_bitcoin/)**
+**[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
 
-13h ago
+Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
+
+15h ago
+
+---
+
+**[Bullish?](https://www.reddit.com/r/Bitcoin/comments/1qb4im0/bullish/)**
+
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 SEC chairman Paul Atkins joins 'Varney & Co.' to discuss a report that Venezuela has a $60 billion stash of bitcoin, the role of stablecoin in the future as well as crypto legislation.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fox Business • 1h ago
 
 Jerome Powell described the criminal investigation as politically motivated.  Bitcoin jumped 1% on the news.  Analysts suggest it's a terrific opportunity for Bitcoin to prove its non-sovereign status.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -179,13 +179,13 @@ Yahoo Finance • 1h ago
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -199,7 +199,7 @@ CNBC • 2d ago
 
 **['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -223,7 +223,7 @@ CryptoSlate • 1d ago
 
 Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -287,7 +287,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 1 • 💬 0 • 33m ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 1 • 💬 0 • 1h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -303,7 +303,7 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 58 • 💬 12 • 11h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 58 • 💬 12 • 12h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -317,7 +317,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 47K • 👍 3K • 💬 144 • ⏱️ 10:58 • 14h ago
+👁️ 47K • 👍 3K • 💬 144 • ⏱️ 10:58 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 14K • 👍 728 • 💬 99 • ⏱️ 19:14 • 8h ago
+👁️ 14K • 👍 728 • 💬 99 • ⏱️ 19:14 • 9h ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 880 • 💬 246 • ⏱️ 1:07:27 • 3h ago
+👁️ 12K • 👍 880 • 💬 246 • ⏱️ 1:07:27 • 4h ago
 
 ---
 
@@ -387,7 +387,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 12K • 👍 689 • 💬 84 • ⏱️ 6:16 • 9h ago
+👁️ 12K • 👍 689 • 💬 84 • ⏱️ 6:16 • 10h ago
 
 ---
 
@@ -405,7 +405,7 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 470 • 💬 42 • ⏱️ 1:14 • 19h ago
+👁️ 7K • 👍 470 • 💬 42 • ⏱️ 1:14 • 20h ago
 
 ---
 

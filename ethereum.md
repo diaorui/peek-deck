@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T19:41:50.225319+00:00'
+updated: '2026-01-12T20:27:09.820714+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 19:41 UTC  
+**Last Updated:** January 12, 2026 at 20:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,107.34
+### $3,112.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -5.7%  
-**30d:** +1.3%  
-**90d:** -22.2%  
-**1y:** -0.9%  
+**24h:** -0.3%  
+**7d:** -5.4%  
+**30d:** +1.6%  
+**90d:** -21.9%  
+**1y:** -0.5%  
 
 ---
 
@@ -68,19 +68,11 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion January 12, 2026](https://www.reddit.com/r/ethereum/comments/1qan48g/daily_general_discussion_january_12_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-13h ago
-
----
-
 **[Long-term ETH holder since 2021, just curious what you did in a similar situation](https://www.reddit.com/r/ethereum/comments/1qb2n31/longterm_eth_holder_since_2021_just_curious_what/)**
 
 I’ll start by saying this upfront: I’m not looking for financial advice or help making a decision. I know how crypto works, I understand risk, cycles, volatility, and I’m fully responsible for my choices. What I’m interested in is hearing what other people actually did when they found themselves in a similar spot. I’ve been in crypto for several years now, mainly ETH. I started buying in 2021 and have been DCA’ing over time. I keep a very clear and detailed spreadsheet of all my transactions. At the moment, my ETH position sits at roughly 92% of my total buy price. The thing is: it’s been years, and I’ve never really crossed back above 100%. Not just with ETH, but with every crypto move I’ve made. No catastrophic losses, but consistently negative outcomes overall. Death by a thousand small cuts, you could say. For a long time, my mental threshold was “ETH at 10k”. That was the original idea: hold, be patient, don’t expect a moonshot every year, but at least expect signs of recovery or a sustained upward trend over time. And every year, I tell myself “okay, this is probably the year where it starts catching up”. And every year, I’m disappointed. Now I’m at a point where I’m genuinely wondering whether I want to close this chapter entirely. Not out of panic, not because I need the money urgently, but because I’m questioning the opportunity cost and the mental bandwidth. At the same time, walking away after years of holding feels… unresolved and I still hope for that 10k hahaha. So I’m not asking “should I sell” or “what will ETH do next”. I’m asking this instead: If you were in a similar long-term situation, what did you actually do? Did you fully exit crypto? Did you reduce exposure? Did you hold through and later feel it was worth it (or not)? Any regrets, in either direction? I’m genuinely curious about real experiences, not predictions. Thanks for sharing if you feel like it.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +80,23 @@ I’ll start by saying this upfront: I’m not looking for financial advice or h
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 25m ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 1h ago
+
+---
+
+**[Daily General Discussion January 12, 2026](https://www.reddit.com/r/ethereum/comments/1qan48g/daily_general_discussion_january_12_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+14h ago
+
+---
+
+**[How effective is Monero for ETH Privacy?](https://www.reddit.com/r/ethereum/comments/1qb5q6f/how_effective_is_monero_for_eth_privacy/)**
+
+Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
+
+17m ago
 
 ---
 
@@ -140,14 +148,6 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 ---
 
-**[Keeping up with regulations](https://www.reddit.com/r/ethereum/comments/1q8ni6a/keeping_up_with_regulations/)**
-
-For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -188,19 +188,19 @@ dlnews.com • 3h ago
 
 Bitmine (NYSE: BMNR), the world’s largest Ethereum ETH $3 108 24h volatility: 0.6% Market cap: $374.85 B Vol. 24h: $21.32 B treasury holder, has increased its holdings that now amount to 3.45% of Ether’s total supply. In particular, holding 4.168 million ETH, of which 1.256 million are staked to secure ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
 **[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 7K • 👍 995 • 💬 222 • ⏱️ 14:17 • 6h ago
+👁️ 7K • 👍 995 • 💬 222 • ⏱️ 14:17 • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 80 • 👍 6 • 💬 1 • ⏱️ 10:08 • 2h ago
+👁️ 80 • 👍 6 • 💬 1 • ⏱️ 10:08 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 118 • 💬 10 • ⏱️ 5:01 • 5h ago
+👁️ 1K • 👍 118 • 💬 10 • ⏱️ 5:01 • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 215 • 👍 7 • 💬 8 • ⏱️ 4:34 • 8h ago
+👁️ 215 • 👍 7 • 💬 8 • ⏱️ 4:34 • 9h ago
 
 ---
 
@@ -328,7 +328,7 @@ The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shock
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 1K • 💬 309 • ⏱️ 36:33 • 9h ago
+👁️ 10K • 👍 1K • 💬 309 • ⏱️ 36:33 • 10h ago
 
 ---
 

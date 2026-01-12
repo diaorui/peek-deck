@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T19:41:50.210637+00:00'
+updated: '2026-01-12T20:27:09.806302+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 19:41 UTC  
+**Last Updated:** January 12, 2026 at 20:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."](https://www.reddit.com/r/artificial/comments/1qb0rry/geoffrey_hinton_says_agents_can_share_knowledge/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 20h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 21h ago
 
 ---
 
@@ -55,7 +55,15 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-27m ago
+1h ago
+
+---
+
+**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
+
+Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
+
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 9m ago
 
 ---
 
@@ -63,7 +71,7 @@ As we scale to GPT-5.2 and beyond, the energy footprint of centralized data cent
 
 Found an article about a professor who used an AI bot to administer an oral exam to students because they were using AI to do school work. He them proceeded to have the AI bot grade the real exam. And now, an AI bot has found and summarized this news for me to read quicker. I guess all that's missing is to have an AI bot read this summary and react to it. Wait a minute... Source: Yahoo https://search.app/vWcje
 
-37m ago
+1h ago
 
 ---
 
@@ -71,7 +79,7 @@ Found an article about a professor who used an AI bot to administer an oral exam
 
 Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 19h ago
+🔗 [GitHub](https://github.com/katanemo/plano) • 20h ago
 
 ---
 
@@ -79,7 +87,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +95,7 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-15h ago
+16h ago
 
 ---
 
@@ -102,14 +110,6 @@ Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped
 **[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
 
 2d ago
-
----
-
-**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
-
-We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
-
-1d ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 5h ago
 
 Apple plans to use Google’s Gemini artificial intelligence model to power its updated version of Siri, which is set to launch later this year, the two companies announced Monday.
 
-CNN • 2h ago
+CNN • 3h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNN • 2h ago
 
 Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -169,13 +169,13 @@ CNBC • 4h ago
 
 Alphabet Inc. and Apple have announced a partnership to use Google's AI technology to power the foundation of Apple's Intelligence and Siri.
 
-USA Today • 39m ago
+USA Today • 1h ago
 
 ---
 
 **[Which countries are adopting AI the fastest?](https://www.economist.com/graphic-detail/2026/01/12/which-countries-are-adopting-ai-the-fastest)**
 
-The Economist • 59m ago
+The Economist • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Economist • 59m ago
 
 Transit officials are probing proposals from tech companies on how best to use artificial intelligence to patrol subway cars and buses in real-time through thousands of video feeds, documents revea…
 
-New York Post • 48m ago
+New York Post • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ New York Post • 48m ago
 
 Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Guardian • 8h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1160 • 💬 1487 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1167 • 💬 1496 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -219,7 +219,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 336 • 💬 328 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 337 • 💬 330 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -227,7 +227,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 136 • 💬 49 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 147 • 💬 51 • 11h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -235,7 +235,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 47 • 💬 27 • 2h ago • [TryLAD](https://www.trylad.com)
+⬆️ 70 • 💬 36 • 3h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -255,7 +255,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 31 • 💬 42 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 32 • 💬 43 • 10h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -263,7 +263,7 @@ Government signals support for possible Ofcom intervention on Grok as scrutiny o
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 29 • 💬 16 • 19h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 29 • 💬 16 • 20h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -285,7 +285,7 @@ The Join the #1 community for AI entrepreneurs and connect with 280k+ members: h
 
 📺 Liam Ottley
 
-👁️ 10K • 👍 829 • 💬 37 • ⏱️ 10:29 • 12h ago
+👁️ 10K • 👍 829 • 💬 37 • ⏱️ 10:29 • 13h ago
 
 ---
 
@@ -295,7 +295,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 454 • 💬 52 • ⏱️ 10:39 • 4h ago
+👁️ 4K • 👍 454 • 💬 52 • ⏱️ 10:39 • 5h ago
 
 ---
 
@@ -305,7 +305,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 10K • 👍 144 • 💬 40 • ⏱️ 7:57 • 5h ago
+👁️ 10K • 👍 144 • 💬 40 • ⏱️ 7:57 • 6h ago
 
 ---
 
@@ -365,7 +365,7 @@ LTX 2 Open-Source has officially launched! Explore the open-source release today
 
 📺 KBS News
 
-👁️ 504K • 👍 4K • 💬 2K • ⏱️ 7:45 • 14h ago
+👁️ 504K • 👍 4K • 💬 2K • ⏱️ 7:45 • 15h ago
 
 ---
 
@@ -666,7 +666,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 138 • 1h ago
+⭐ 2.3k • 🔱 138 • 2h ago
 
 ---
 
@@ -686,7 +686,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 58 • 1h ago
+⭐ 1.7k • 🔱 58 • 2h ago
 
 ---
 
@@ -696,7 +696,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 126 • 4h ago
+⭐ 1.5k • 🔱 126 • 5h ago
 
 ---
 
