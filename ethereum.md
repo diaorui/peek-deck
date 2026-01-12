@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T21:22:47.622725+00:00'
+updated: '2026-01-12T21:43:53.403289+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 21:22 UTC  
+**Last Updated:** January 12, 2026 at 21:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -5.4%  
-**30d:** +1.6%  
-**90d:** -21.9%  
-**1y:** -0.5%  
+**24h:** -0.6%  
+**7d:** -5.9%  
+**30d:** +1.1%  
+**90d:** -22.4%  
+**1y:** -1.1%  
 
 ---
 
@@ -68,11 +68,11 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Long-term ETH holder since 2021, just curious what you did in a similar situation](https://www.reddit.com/r/ethereum/comments/1qb2n31/longterm_eth_holder_since_2021_just_curious_what/)**
+**[How effective is Monero for ETH Privacy?](https://www.reddit.com/r/ethereum/comments/1qb5q6f/how_effective_is_monero_for_eth_privacy/)**
 
-I’ll start by saying this upfront: I’m not looking for financial advice or help making a decision. I know how crypto works, I understand risk, cycles, volatility, and I’m fully responsible for my choices. What I’m interested in is hearing what other people actually did when they found themselves in a similar spot. I’ve been in crypto for several years now, mainly ETH. I started buying in 2021 and have been DCA’ing over time. I keep a very clear and detailed spreadsheet of all my transactions. At the moment, my ETH position sits at roughly 92% of my total buy price. The thing is: it’s been years, and I’ve never really crossed back above 100%. Not just with ETH, but with every crypto move I’ve made. No catastrophic losses, but consistently negative outcomes overall. Death by a thousand small cuts, you could say. For a long time, my mental threshold was “ETH at 10k”. That was the original idea: hold, be patient, don’t expect a moonshot every year, but at least expect signs of recovery or a sustained upward trend over time. And every year, I tell myself “okay, this is probably the year where it starts catching up”. And every year, I’m disappointed. Now I’m at a point where I’m genuinely wondering whether I want to close this chapter entirely. Not out of panic, not because I need the money urgently, but because I’m questioning the opportunity cost and the mental bandwidth. At the same time, walking away after years of holding feels… unresolved and I still hope for that 10k hahaha. So I’m not asking “should I sell” or “what will ETH do next”. I’m asking this instead: If you were in a similar long-term situation, what did you actually do? Did you fully exit crypto? Did you reduce exposure? Did you hold through and later feel it was worth it (or not)? Any regrets, in either direction? I’m genuinely curious about real experiences, not predictions. Thanks for sharing if you feel like it.
+Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-3h ago
+1h ago
 
 ---
 
@@ -89,14 +89,6 @@ South Korea just opened the floodgates for institutional crypto adoption. Huge f
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 15h ago
-
----
-
-**[How effective is Monero for ETH Privacy?](https://www.reddit.com/r/ethereum/comments/1qb5q6f/how_effective_is_monero_for_eth_privacy/)**
-
-Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
-
-1h ago
 
 ---
 
@@ -148,6 +140,14 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 ---
 
+**[Keeping up with regulations](https://www.reddit.com/r/ethereum/comments/1q8ni6a/keeping_up_with_regulations/)**
+
+For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -194,7 +194,7 @@ CoinDesk • 6h ago
 
 Ethereum will hit $40,000 by 2030, Standard Chartered predicts. The second-biggest crypto should also outperform Bitcoin. Increased adoption of onchain finance is seen to fuel the rally.
 
-dlnews.com • 4h ago
+dlnews.com • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ dlnews.com • 4h ago
 
 Mezo, a Bitcoin-native financial infrastructure protocol, today announced the allocation of up to 2.5% of the total MEZO token supply to incentivize early depositors in its "Bring Bitcoin Home" pre-deposit vaults. The vaults target the more than $11 billion in wrapped Bitcoin currently sitting on EthereumDeFi.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 7h ago
+👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 104 • 👍 7 • 💬 2 • ⏱️ 5:00 • 1h ago
+👁️ 104 • 👍 7 • 💬 2 • ⏱️ 5:00 • 2h ago
 
 ---
 

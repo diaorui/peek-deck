@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T21:22:47.616692+00:00'
+updated: '2026-01-12T21:43:53.396999+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 21:22 UTC  
+**Last Updated:** January 12, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,828.82
+### $91,327.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -2.1%  
-**30d:** +4.0%  
-**90d:** -17.4%  
-**1y:** -2.7%  
+**24h:** +0.9%  
+**7d:** -2.6%  
+**30d:** +3.5%  
+**90d:** -17.8%  
+**1y:** -3.3%  
 
 ---
 
@@ -83,6 +83,12 @@ Rank #1
 
 ---
 
+**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
+
+8h ago
+
+---
+
 **[Bitcoin Cycle](https://www.reddit.com/r/Bitcoin/comments/1qasblm/bitcoin_cycle/)**
 
 Keep calm while the storm pass
@@ -91,9 +97,11 @@ Keep calm while the storm pass
 
 ---
 
-**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
+**[This is just the beginning 😎](https://www.reddit.com/r/Bitcoin/comments/1qb68kd/this_is_just_the_beginning/)**
 
-8h ago
+We're barely at the beginning, no panic, just HODL 💪🚀
+
+1h ago
 
 ---
 
@@ -129,21 +137,13 @@ That’s right, diamond-handed degens, stack those sats while it’s cold out th
 
 source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
 
-17h ago
-
----
-
-**[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
-
-Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
-
-16h ago
+18h ago
 
 ---
 
 **[Bullish?](https://www.reddit.com/r/Bitcoin/comments/1qb4im0/bullish/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ Started with small amounts back in February 2024 and I’ve finally reached 0.21
 
 XRP (CRYPTO: XRP) kicked off 2026 with a 30% rally that outpaced Bitcoin and Ethereum. But two legendary technical analysts are pumping the brakes. John Bollinger, creator of the Bollinger Bands indicator, called XRP’s chart structure “weaker” than Bitcoin’s. Peter Brandt, a veteran trader known for precise pattern analysis, posted a cryptic chart “without comment” ... John Bollinger Says XRP Pattern “Weaker” Than Bitcoin as Peter Brandt Urges Caution Despite 30% Rally
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ KITCO • 1d ago
 
 **[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://www.morningstar.com/news/pr-newswire/20260112ln61324/mezo-opens-pre-deposit-vaults-to-migrate-bitcoin-liquidity-from-ethereum-back-to-bitcoin-native-infrastructure)**
 
-Morningstar • 2h ago
+Morningstar • 3h ago
 
 ---
 
@@ -271,6 +271,14 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 ---
 
+**[Show HN: BitStory – a Bitcoin-native protocol for on-chain time capsules](https://news.ycombinator.com/item?id=46593968)**
+
+Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
+
+⬆️ 1 • 💬 1 • 1h ago • [GitHub](https://github.com/mflowrs/BitStory)
+
+---
+
 **[Water Heater Mines Bitcoin. It Could Help Solve AI's Energy Problem](https://news.ycombinator.com/item?id=46532869)**
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
@@ -295,14 +303,6 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ---
 
-**[US prosecutors launch criminal investigation into Federal Reserve chair](https://news.ycombinator.com/item?id=46585360)**
-
-Rolling coverage of the latest economic and financial news
-
-⬆️ 58 • 💬 12 • 13h ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -313,7 +313,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 209 • ⏱️ 8:37 • 23h ago
+👁️ 42K • 👍 2K • 💬 209 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 20K • 👍 2K • 💬 884 • ⏱️ 2:04:54 • 7h ago
+👁️ 20K • 👍 2K • 💬 884 • ⏱️ 2:04:54 • 8h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin adoption is following a familiar path. In this clip from Swan Signal Liv
 
 📺 Swan Bitcoin
 
-👁️ 1K • 👍 79 • 💬 73 • ⏱️ 14:33 • 2h ago
+👁️ 1K • 👍 79 • 💬 73 • ⏱️ 14:33 • 3h ago
 
 ---
 
@@ -363,7 +363,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 7h ago
+👁️ 12K • 👍 2K • 💬 76 • ⏱️ 8:17 • 8h ago
 
 ---
 

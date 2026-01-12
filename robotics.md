@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T21:22:47.626018+00:00'
+updated: '2026-01-12T21:43:53.406533+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 21:22 UTC  
+**Last Updated:** January 12, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,6 +54,12 @@ This document describes in detail the navigation task environment based on the A
 
 ---
 
+**[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
+
+1h ago
+
+---
+
 **[Toilet cleaning robot](https://www.reddit.com/r/robotics/comments/1q9y5wh/toilet_cleaning_robot/)**
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
@@ -66,21 +72,15 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 1h ago
+🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 2h ago
 
 ---
 
-**[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
+**[Was Figure AI at CES?](https://www.reddit.com/r/robotics/comments/1qb6ttr/was_figure_ai_at_ces/)**
 
-1h ago
+Looking through the recaps and don’t see much about Figure AI. Did anyone see their booth at CES? Anything noteworthy on display?
 
----
-
-**[January Gazebo Community Meeting: Forest3D Automatic Terrain Generation using Blender [Link Inside]](https://www.reddit.com/r/robotics/comments/1qb3c6o/january_gazebo_community_meeting_forest3d/)**
-
-RSVP Here
-
-2h ago
+53m ago
 
 ---
 
@@ -92,19 +92,19 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 ---
 
+**[January Gazebo Community Meeting: Forest3D Automatic Terrain Generation using Blender [Link Inside]](https://www.reddit.com/r/robotics/comments/1qb3c6o/january_gazebo_community_meeting_forest3d/)**
+
+RSVP Here
+
+2h ago
+
+---
+
 **[Latest version of Wuji hand (video on 1x)](https://www.reddit.com/r/robotics/comments/1q9ws10/latest_version_of_wuji_hand_video_on_1x/)**
 
 From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
 1d ago
-
----
-
-**[Robotics Joint CAD Example](https://www.reddit.com/r/robotics/comments/1qaz2hj/robotics_joint_cad_example/)**
-
-I was looking at some 'frameless' motors and was considering playing around with making an integrated motorized joint. Are there any open projects or CAD files around that show how these sorts of motors are integrated into a final design? Thanks!!
-
-5h ago
 
 ---
 
@@ -136,14 +136,6 @@ TechCrunch • 2d ago
 
 ---
 
-**[AGIBOT makes its U.S. debut with more than 5,100 robots shipped](https://www.therobotreport.com/agibot-makes-u-s-debut-with-more-than-5100-robots-shipped/)**
-
-A recent report from Omdia sheds light on the wider humanoid robot market and where AGIBOT fits into it all.
-
-The Robot Report • 2h ago
-
----
-
 **[Did that lamp just fold the laundry? Alumni rethink home robotics](https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html)**
 
 Tech Xplore • 2d ago
@@ -168,7 +160,7 @@ Grand Forks Herald • 1d ago
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -180,11 +172,19 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Real Steel fantasy turns real as humanoid robots fight at world’s top tech event](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026)**
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
 
-Unitree humanoids battle in CES 2026 arena, performing kicks and swings under a human referee, blending robotics with MMA action.
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
 
-Interesting Engineering • 3d ago
+WYMT • 3d ago
+
+---
+
+**[Northview High Alum Earns Doctorate In Intelligent Systems And Robotics](http://www.northescambia.com/2026/01/northview-high-alum-earns-doctorate-in-intelligent-systems-and-robotics)**
+
+Local online newspaper for North Escambia County Florida, Pensacola, Walnut Hill, Bratt, McDavid, Molino, Century, Cantonment, Atmore, Flomaton, News
+
+NorthEscambia.com • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ CES 2026 las vegas. Robotics demo at Booster Robotics. Explore the future of tec
 
 📺 The Laughing Lion
 
-👁️ 1K • 👍 24 • 💬 2 • ⏱️ 0:19 • 2h ago
+👁️ 1K • 👍 24 • 💬 2 • ⏱️ 0:19 • 3h ago
 
 ---
 
