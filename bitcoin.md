@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T03:51:01.591955+00:00'
+updated: '2026-01-12T04:52:31.476936+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 03:51 UTC  
+**Last Updated:** January 12, 2026 at 04:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,32 +45,32 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.6%  
-**7d:** -1.7%  
-**30d:** +4.4%  
-**90d:** -17.1%  
-**1y:** -2.4%  
+**7d:** -1.6%  
+**30d:** +4.5%  
+**90d:** -17.0%  
+**1y:** -2.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1824.42B
+**Market Cap:** $1839.96B
 Rank #1
 
-**Circulating Supply:** 19,974,696 BTC
+**Circulating Supply:** 19,974,746 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.0%
 
 **All-Time Low:** $67.81
-+134588.1%
++135714.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 29
+### 27
 **FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sell. This institutional purchasing is an indication of a market transformation, although the prices are volatile and politics is evolving.
 
-🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 6h ago
+🔗 [Live Bitcoin News](https://www.livebitcoinnews.com/banks-quietly-accumulate-bitcoin-while-retail-panic-sells/) • 7h ago
 
 ---
 
@@ -95,19 +95,27 @@ CZ reports that U.S. banks purchased Bitcoin as retail investors panicked to sel
 
 Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2027. This $500 buy was towards the bottom of the last cycle.
 
-10h ago
+11h ago
 
 ---
 
-**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
+**[Jerome Down Bad - Got Bitcoin ?](https://www.reddit.com/r/Bitcoin/comments/1qak4f0/jerome_down_bad_got_bitcoin/)**
 
-14h ago
+source is from the federal reserves twitter account: https://x.com/federalreserve/status/2010510130970849338
+
+1h ago
 
 ---
 
 **[Bitcoin vape I found at antique smoke shop](https://www.reddit.com/r/Bitcoin/comments/1qafhv5/bitcoin_vape_i_found_at_antique_smoke_shop/)**
 
-3h ago
+4h ago
+
+---
+
+**[He's not the same cat anymore](https://www.reddit.com/r/Bitcoin/comments/1q9z2wy/hes_not_the_same_cat_anymore/)**
+
+15h ago
 
 ---
 
@@ -115,13 +123,7 @@ Just wanted to give the newbies a little encouragement to stack sats in 2026 & 2
 
 With their collapse of the country and currency, they might have to buy Bitcoin.
 
-7h ago
-
----
-
-**[Could very well be my finest purchase](https://www.reddit.com/r/Bitcoin/comments/1qadw0k/could_very_well_be_my_finest_purchase/)**
-
-4h ago
+8h ago
 
 ---
 
@@ -129,19 +131,21 @@ With their collapse of the country and currency, they might have to buy Bitcoin.
 
 The current BTC setup is showing a very familiar structure: • ​Similar breakout pattern • ​Whales closing longs • ​Solid double-bottom formation ​We saw this exact same thing in April 2025 right before the Q2 rally started. It’s worth watching closely. ​What do you think? Repeat or deviation?
 
-2h ago
+3h ago
 
 ---
 
-**[River data shows $BTC rose over 800% from 2023–2025, averaging roughly 1.6% per week.](https://www.reddit.com/r/Bitcoin/comments/1q9xwqe/river_data_shows_btc_rose_over_800_from_20232025/)**
+**[Could very well be my finest purchase](https://www.reddit.com/r/Bitcoin/comments/1qadw0k/could_very_well_be_my_finest_purchase/)**
 
-15h ago
+5h ago
 
 ---
 
-**[A very good argument for holding bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qa3v1w/a_very_good_argument_for_holding_bitcoin/)**
+**[.21 BTC](https://www.reddit.com/r/Bitcoin/comments/1qali5m/21_btc/)**
 
-🔗 [X (formerly Twitter)](https://x.com/const_quary/status/2010383019786518824?s=46) • 11h ago
+Started with small amounts back in February 2024 and I’ve finally reached 0.21 BTC. Nothing special, just consistently stacking sats over time. I joined Reddit a few days ago and this community has already helped me better understand Bitcoin, thanks for that ! Sharing this mostly for motivation, it really shows how staying disciplined adds up !
+
+15m ago
 
 ---
 
@@ -161,7 +165,15 @@ CNBC • 1d ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 12h ago
+KITCO • 13h ago
+
+---
+
+**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
+
+Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -169,7 +181,7 @@ KITCO • 12h ago
 
 Despite a pullback in the crypto market, a few cryptocurrencies managed to post big gains in 2025.
 
-The Motley Fool • 13m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -177,7 +189,15 @@ The Motley Fool • 13m ago
 
 Bitcoin held near $92,000 early Monday as Asian equities opened slightly higher and traders kept one eye on US inflation data this week, another on Washington’s tariff fight and the Federal Reserve’s growing political drama.In China and Hong Kong, the tone stayed steady. Shanghai rose 0.24%, the SZSE Component climbed ...
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
+
+Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
+
+Bitbo • 21h ago
 
 ---
 
@@ -189,25 +209,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Hedge fund manager predicts Bitcoin market cap will surge 8 times](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-market-cap-will-surge-8-times)**
+**[Bitcoin Whales Hit The Sell Button — $135K Price Target Now Trending](https://www.tradingview.com/news/newsbtc:fa1ae5b35094b:0-bitcoin-whales-hit-the-sell-button-135k-price-target-now-trending/)**
 
-thestreet.com • 1d ago
+According to TradingView data, big holders on Bitfinex have been trimming long positions after a late-December peak of 73,000 BTC. The move follows a broader drop in whale holdings of roughly 220,000 BTC during 2025, a change that has analysts and traders parsing what comes next.Price action has be…
 
----
-
-**[Samson Mow Says Elon Musk Will 'Go Hard' Into Bitcoin](https://bitbo.io/news/mow-musk-bitcoin-2026/)**
-
-Jan3 founder Samson Mow predicted Elon Musk will aggressively move into bitcoin in 2026 and said bitcoin could reach $1.33 million that year.
-
-Bitbo • 20h ago
-
----
-
-**[Bitcoin Price Remains Below 50-Week Moving Average — What This Means](https://www.tradingview.com/news/newsbtc:853249915094b:0-bitcoin-price-remains-below-50-week-moving-average-what-this-means/)**
-
-The Bitcoin price has slowed down after a relatively hot start to the year, as it appears that not much has structurally changed for the market leader. A crypto analyst recently revealed that the premier cryptocurrency continues to trade beneath a critical price threshold.Why The Present Scenario R…
-
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 15h ago
 
 ---
 
@@ -299,7 +305,7 @@ According to @AltcoinDaily, CNBC reports that Walmart will accept Bitcoin (BTC),
 
 Voyage AI reduced embedding latency for short requests by 50% with 3x fewer GPUs. Learn how token-count batching and padding removal optimize inference efficiency.
 
-⬆️ 1 • 💬 0 • 3h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
+⬆️ 1 • 💬 0 • 4h ago • [MongoDB](https://www.mongodb.com/company/blog/engineering/token-count-based-batching-faster-cheaper-embedding-inference-for-queries)
 
 ---
 
@@ -313,27 +319,7 @@ Bitcoin's price explosion is changing more than portfolios — it's rewriting gl
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 194 • ⏱️ 17:17 • 1d ago
-
----
-
-**[&quot;I Lost $2.5 Billion While The Government Destroyed Crypto Investors&quot; | Charles Hoskinson](https://www.youtube.com/watch?v=6bfYKc-HxUY)**
-
-Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on the crypto industry's turbulent past four years ...
-
-📺 The Wolf Of All Streets
-
-👁️ 21K • 👍 988 • 💬 419 • ⏱️ 1:01:22 • 13h ago
-
----
-
-**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
-
-Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
-
-📺 Satoshi Alliance
-
-👁️ 10K • 👍 500 • 💬 281 • ⏱️ 3:25 • 2d ago
+👁️ 28K • 👍 2K • 💬 190 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -343,17 +329,37 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 1K • 👍 127 • 💬 71 • ⏱️ 7:14 • 5h ago
+👁️ 3K • 👍 167 • 💬 72 • ⏱️ 7:14 • 6h ago
 
 ---
 
-**[The AI Shock Is About to Reprice Bitcoin](https://www.youtube.com/watch?v=S-K-GTIIJfw)**
+**[Did You Know the First $10M Bitcoin Price Prediction Was 17 Years Ago??](https://www.youtube.com/watch?v=YVlXwZldm6c)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of experience and the author of the VisserLabs ...
+In 2009, just days after Bitcoin launched, Hal Finney made a bold prediction: Bitcoin could one day be worth $10 million per coin.
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 58K • 👍 2K • 💬 116 • ⏱️ 1:05:08 • 1d ago
+👁️ 5K • 👍 503 • 💬 69 • ⏱️ 18:06 • 4h ago
+
+---
+
+**[Why Bitcoin Is Stuck in the $90,000 Range](https://www.youtube.com/watch?v=v52G7lv9VuE)**
+
+Bitcoin is stuck around the $90000 range after a huge run to $126K and a brutal leveraged flush into the low $80Ks, and in this ...
+
+📺 Satoshi Alliance
+
+👁️ 10K • 👍 505 • 💬 282 • ⏱️ 3:25 • 2d ago
+
+---
+
+**[&quot;I Lost $2.5 Billion While The Government Destroyed Crypto Investors&quot; | Charles Hoskinson](https://www.youtube.com/watch?v=6bfYKc-HxUY)**
+
+Bitcoin #Crypto #Finance Charles Hoskinson Founder of IOHK & Cardano reflects on the crypto industry's turbulent past four years ...
+
+📺 The Wolf Of All Streets
+
+👁️ 24K • 👍 1K • 💬 436 • ⏱️ 1:01:22 • 14h ago
 
 ---
 
@@ -363,27 +369,27 @@ So I decided to have some fun and explore the five levels of Bitcoin wealth in 2
 
 📺 BTC Isla
 
-👁️ 21K • 👍 2K • 💬 425 • ⏱️ 10:43 • 2d ago
+👁️ 21K • 👍 2K • 💬 442 • ⏱️ 10:43 • 2d ago
 
 ---
 
-**[Will Trump’s $200B Move Trigger a Bitcoin Bull Market?](https://www.youtube.com/watch?v=7jhN_hZUq4k)**
+**[&quot;Crypto Crash Not Over in 2026&quot; | Billionaire Stanley Druckenmiller](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
 
-Donald Trump just triggered a $200B bond-buying spree sparking what's likely the biggest money printer moment since 2008.
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 248 • ⏱️ 17:07 • 2d ago
+👁️ 22K • 👍 1K • 💬 158 • ⏱️ 8:37 • 7h ago
 
 ---
 
-**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+**[Bitcoin vs Gold | The Chart Nobody&#39;s Talking About](https://www.youtube.com/watch?v=4rHwNTqFar4)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+Stay informed with the latest insights on **btc** as we analyze its performance against gold for 2026 and beyond. This video ...
 
-📺 Library Of Wealth
+📺 Krown
 
-👁️ 9K • 👍 241 • 💬 585 • ⏱️ 13:48 • 22h ago
+👁️ 3K • 👍 166 • 💬 192 • ⏱️ 2:48 • 11h ago
 
 ---
 
@@ -393,7 +399,7 @@ Superheat is announcing their new water heater at CES 2026 that can use the heat
 
 📺 Vortex Bitcoin
 
-👁️ 31K • 👍 405 • 💬 109 • ⏱️ 0:49 • 2d ago
+👁️ 31K • 👍 420 • 💬 106 • ⏱️ 0:49 • 2d ago
 
 ---
 
@@ -403,7 +409,7 @@ Breaking Crypto News Today - Cathie Wood Just said this could happen next in the
 
 📺 Zach Humphries
 
-👁️ 8K • 👍 406 • 💬 355 • ⏱️ 6:53 • 2d ago
+👁️ 8K • 👍 406 • 💬 339 • ⏱️ 6:53 • 2d ago
 
 ---
 

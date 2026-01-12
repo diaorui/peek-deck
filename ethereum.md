@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T03:51:01.597938+00:00'
+updated: '2026-01-12T04:52:31.482971+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 03:51 UTC  
+**Last Updated:** January 12, 2026 at 04:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** -4.0%  
-**30d:** +3.1%  
-**90d:** -20.8%  
-**1y:** +1.0%  
+**24h:** +2.1%  
+**7d:** -3.9%  
+**30d:** +3.3%  
+**90d:** -20.7%  
+**1y:** +1.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.06B
+**Market Cap:** $381.11B
 Rank #2
 
 **Circulating Supply:** 120,694,719 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.8%
+-36.1%
 
 **All-Time Low:** $0.43
-+721313.7%
++729316.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 1d ago
 
 SharpLink Gaming recently deployed US$170 million worth of Ethereum to Consensys’ Linea layer-2 network under a multi-year, multi-layered yield strategy that combines native staking, restaking rewards and structured incentives within a qualified custodian framework. This move cements SharpLink as the world’s second-largest corporate Ether holder and highlights how on-chain treasury management is evolving toward institutional-grade DeFi structures. We’ll now examine how SharpLink’s focus on...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 3h ago
 
 Ethereum activity is hitting records, but ETH’s price is lagging. Layer 2 growth, lower fees, and long-term infrastructure strategy explain the disconnect—and what it means for investors.
 
-eToro • 2h ago
+eToro • 3h ago
 
 ---
 
@@ -196,7 +196,15 @@ TradingView — Track All Markets • 1d ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 16h ago
+AMBCrypto • 17h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Says Crypto’s Stablecoin Model Is Not Built to Last](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-says-cryptos-stablecoin-model-is-not-built-to-last/)**
+
+Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
+
+Coinpedia Fintech News • 15h ago
 
 ---
 
@@ -204,15 +212,7 @@ AMBCrypto • 16h ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 17h ago
-
----
-
-**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
-
-Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
-
-Coinpedia Fintech News • 2d ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -224,11 +224,9 @@ Decrypt • 3d ago
 
 ---
 
-**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
+**[Ethereum ETF Attracts Fresh Cash as Investors Lean Into Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-attracts-fresh-cash-as-investors-lean-into-volatility)**
 
-Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
-
-CoinDesk • 14h ago
+TipRanks • 18h ago
 
 ---
 
@@ -236,23 +234,33 @@ CoinDesk • 14h ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
-
-Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
-
-📺 Michaël van de Poppe
-
-👁️ 3K • 👍 195 • 💬 31 • ⏱️ 12:34 • 18h ago
-
----
-
 **[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
 
 Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 759 • 💬 85 • ⏱️ 24:05 • 1d ago
+👁️ 14K • 👍 769 • 💬 85 • ⏱️ 24:05 • 1d ago
+
+---
+
+**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
+
+Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
+
+📺 Michaël van de Poppe
+
+👁️ 3K • 👍 204 • 💬 32 • ⏱️ 12:34 • 19h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=4UGdGboD9X4)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 255 • 👍 39 • 💬 2 • ⏱️ 4:37 • 36m ago
 
 ---
 
@@ -262,7 +270,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 241 • 💬 584 • ⏱️ 13:48 • 22h ago
+👁️ 10K • 👍 249 • 💬 599 • ⏱️ 13:48 • 23h ago
 
 ---
 
@@ -272,27 +280,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 227 • 💬 87 • ⏱️ 14:54 • 7h ago
-
----
-
-**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 549 • 👍 24 • 💬 12 • ⏱️ 5:22 • 14h ago
-
----
-
-**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 27K • 👍 897 • 💬 178 • ⏱️ 19:42 • 1d ago
+👁️ 6K • 👍 254 • 💬 131 • ⏱️ 14:54 • 8h ago
 
 ---
 
@@ -302,7 +290,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 8 • ⏱️ 5:19 • 12h ago
+👁️ 2K • 👍 139 • 💬 10 • ⏱️ 5:19 • 13h ago
+
+---
+
+**[THIS IS BULLISH FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-s8fTTstYHA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 583 • 👍 24 • 💬 12 • ⏱️ 5:22 • 15h ago
+
+---
+
+**[Tom Lee &quot;The 79x Opportunity EVEN Bigger Than Bitcoin&quot;](https://www.youtube.com/watch?v=AQekmXfssEs)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 28K • 👍 918 • 💬 175 • ⏱️ 19:42 • 1d ago
+
+---
+
+**[ETH Ethereum Price Prediction: 4K Incoming](https://www.youtube.com/watch?v=FSyXltjrny0)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 866 • 👍 46 • 💬 44 • ⏱️ 6:18 • 1d ago
 
 ---
 
@@ -312,27 +330,7 @@ Join our Safe and Private Discord Community → Daily analysis requests, Elliott
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 187 • 👍 15 • 💬 2 • ⏱️ 14:10 • 11h ago
-
----
-
-**[XRP Ethereum ‼️ PRICE PREDICTIONS (Don&#39;t Say I Didn&#39;t Tell You This)](https://www.youtube.com/watch?v=JwvuKlhiffM)**
-
-1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 16K • 👍 919 • 💬 98 • ⏱️ 12:30 • 2d ago
-
----
-
-**[Everyone&#39;s WRONG About Ethereum #crypto #eth](https://www.youtube.com/watch?v=gIKuID6p044)**
-
-Despite common sentiment suggesting Ethereum is declining, this video provides compelling proof that it remains one of the best ...
-
-📺 Michaël van de Poppe
-
-👁️ 2K • 👍 15 • 💬 4 • ⏱️ 0:14 • 16h ago
+👁️ 200 • 👍 15 • 💬 2 • ⏱️ 14:10 • 12h ago
 
 ---
 
