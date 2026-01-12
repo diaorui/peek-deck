@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T05:30:25.204506+00:00'
+updated: '2026-01-12T06:39:13.396966+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 05:30 UTC  
+**Last Updated:** January 12, 2026 at 06:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,168.19
+### $3,156.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** -3.9%  
-**30d:** +3.3%  
-**90d:** -20.7%  
-**1y:** +1.1%  
+**24h:** +2.0%  
+**7d:** -4.1%  
+**30d:** +3.0%  
+**90d:** -20.9%  
+**1y:** +0.9%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 12, 2026](https://www.reddit.com/r/ethereum/comments/1qan48g/daily_general_discussion_january_12_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+37m ago
+
+---
+
 **[Daily General Discussion January 11, 2026](https://www.reddit.com/r/ethereum/comments/1q9rmoy/daily_general_discussion_january_11_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +104,7 @@ Crypto started as a cypherpunk project, but somewhere along the way, privacy got
 
 Vitalik Buterin often compares Ethereum to Linux or BitTorrent: open systems that quietly power huge parts of the internet. The idea is that Ethereum shouldn’t feel like a startup chasing users, but like infrastructure institutions use because it reduces risk and removes intermediaries. If this works, Ethereum adoption won’t come with hype cycles. It will be slow, widespread, and sticky, just like real infrastructure. Do you think Ethereum can actually reach that stage, or does crypto always need hype to grow?
 
-1d ago
+2d ago
 
 ---
 
@@ -128,7 +136,7 @@ For people that have blockchain startups or work in the digital asset space, how
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -140,17 +148,17 @@ BPO2 upgrade increased blobs, write Roman Storm a letter of support, Octant epoc
 
 ---
 
-**[Many product decisions are made blindly. Prediction surveys as an early market signal](https://www.reddit.com/r/ethereum/comments/1q86d6a/many_product_decisions_are_made_blindly/)**
-
-Hey! Many product decisions are made blindly. I wrote about why we’re building Heard and how prediction surveys can help teams hear the market earlier https://medium.com/@kidav75/raison-d%C3%AAtre-heard-4e2ee2799e29
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Vitalik Buterin lays out the hidden weaknesses of decentralized stablecoins](https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws)**
+
+Vitalik Buterin says the hardest problems behind decentralized stablecoins still aren’t solved — and explains why they matter long term.
+
+CoinDesk • 17h ago
+
+---
 
 **[Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'](https://www.coindesk.com/business/2026/01/10/robinhood-explains-building-an-ethereum-layer-2-we-wanted-the-security-from-ethereum)**
 
@@ -160,27 +168,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[How Investors Are Reacting To SharpLink Gaming (SBET) Deploying US$170 Million Ethereum Into Linea DeFi Strategy](https://finance.yahoo.com/news/investors-reacting-sharplink-gaming-sbet-001210900.html)**
+**[Ethereum Whale Nets $274 Million Profit in Strategic Exit Amid Market Jitters](https://finance.yahoo.com/news/ethereum-whale-nets-274-million-044857649.html)**
 
-SharpLink Gaming recently deployed US$170 million worth of Ethereum to Consensys’ Linea layer-2 network under a multi-year, multi-layered yield strategy that combines native staking, restaking rewards and structured incentives within a qualified custodian framework. This move cements SharpLink as the world’s second-largest corporate Ether holder and highlights how on-chain treasury management is evolving toward institutional-grade DeFi structures. We’ll now examine how SharpLink’s focus on...
+An early Ethereum investor exits entirely with $274 million in profit, signaling market uncertainty amid institutional sell pressure.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Ethereum: Heavy Usage, Weak Price? | Analyst Weekly Jan 12, 2026](https://www.etoro.com/news-and-analysis/market-insights/ethereum-busy-network-bored-price/)**
-
-Ethereum activity is hitting records, but ETH’s price is lagging. Layer 2 growth, lower fees, and long-term infrastructure strategy explain the disconnect—and what it means for investors.
-
-eToro • 4h ago
-
----
-
-**[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
-
-Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
-
-CryptoSlate • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,19 +184,11 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
+**[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
 
-Ethereum's very soul is up for debate.
+Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
 
-AMBCrypto • 18h ago
-
----
-
-**[Ethereum Founder Vitalik Buterin Says Crypto’s Stablecoin Model Is Not Built to Last](https://coinpedia.org/news/ethereum-founder-vitalik-buterin-says-cryptos-stablecoin-model-is-not-built-to-last/)**
-
-Vitalik Buterin has pushed back against the direction of much of the crypto industry, saying Ethereum is deliberately taking a very different path from
-
-Coinpedia Fintech News • 16h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -212,7 +196,15 @@ Coinpedia Fintech News • 16h ago
 
 The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
+
+---
+
+**[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
+
+Ethereum's very soul is up for debate.
+
+AMBCrypto • 19h ago
 
 ---
 
@@ -224,9 +216,17 @@ Decrypt • 3d ago
 
 ---
 
+**[Ethereum Nears Breakout as $1 Billion in Liquidations Build — What’s Next for ETH Price?](https://coinpedia.org/price-analysis/ethereum-nears-breakout-as-1-billion-in-liquidations-build-whats-next-for-eth-price/)**
+
+Ethereum is compressed under heavy leverage, with over $1 billion in liquidations on both sides, making a sharp breakout or breakdown increasingly likely.
+
+Coinpedia Fintech News • 2d ago
+
+---
+
 **[Ethereum ETF Attracts Fresh Cash as Investors Lean Into Volatility](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-attracts-fresh-cash-as-investors-lean-into-volatility)**
 
-TipRanks • 19h ago
+TipRanks • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 204 • 💬 32 • ⏱️ 12:34 • 20h ago
+👁️ 3K • 👍 204 • 💬 32 • ⏱️ 12:34 • 21h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 255 • 👍 39 • 💬 2 • ⏱️ 4:37 • 1h ago
+👁️ 255 • 👍 39 • 💬 2 • ⏱️ 4:37 • 2h ago
 
 ---
 
@@ -270,7 +270,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 249 • 💬 599 • ⏱️ 13:48 • 23h ago
+👁️ 10K • 👍 249 • 💬 599 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN WARNING: Bearish Price Targets Exposed!!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 254 • 💬 131 • ⏱️ 14:54 • 9h ago
+👁️ 6K • 👍 254 • 💬 131 • ⏱️ 14:54 • 10h ago
 
 ---
 
@@ -290,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 10 • ⏱️ 5:19 • 13h ago
+👁️ 2K • 👍 139 • 💬 10 • ⏱️ 5:19 • 14h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 583 • 👍 24 • 💬 12 • ⏱️ 5:22 • 15h ago
+👁️ 583 • 👍 24 • 💬 12 • ⏱️ 5:22 • 16h ago
 
 ---
 
@@ -330,7 +330,7 @@ Join our Safe and Private Discord Community → Daily analysis requests, Elliott
 
 📺 KG TRADING - Crypto Elliott Waves
 
-👁️ 200 • 👍 15 • 💬 2 • ⏱️ 14:10 • 12h ago
+👁️ 200 • 👍 15 • 💬 2 • ⏱️ 14:10 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T05:30:25.190070+00:00'
+updated: '2026-01-12T06:39:13.382185+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - social
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 05:30 UTC  
+**Last Updated:** January 12, 2026 at 06:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 6h ago
-
----
-
-**[I built Plano - the framework-agnostic runtime data plane for agentic applications](https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/)**
-
-Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
-
-🔗 [GitHub](https://github.com/katanemo/plano) • 5h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 7h ago
 
 ---
 
@@ -57,7 +49,15 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-1h ago
+2h ago
+
+---
+
+**[I built Plano - the framework-agnostic runtime data plane for agentic applications](https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/)**
+
+Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
+
+🔗 [GitHub](https://github.com/katanemo/plano) • 6h ago
 
 ---
 
@@ -67,27 +67,19 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 ---
 
-**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
-
-We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
-
-14h ago
-
----
-
 **[Song detection including release date](https://www.reddit.com/r/artificial/comments/1qa5ccq/song_detection_including_release_date/)**
 
 I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
 
-11h ago
+13h ago
 
 ---
 
-**[Sumo + AI + Data](https://www.reddit.com/r/artificial/comments/1qah38z/sumo_ai_data/)**
+**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
 
-For you data/sports/AI junkies https://www.twitch.tv/datasumo incredible amount of data, use of AI, + sumo! January tournament started yesterday.
+We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
 
-4h ago
+15h ago
 
 ---
 
@@ -95,7 +87,7 @@ For you data/sports/AI junkies https://www.twitch.tv/datasumo incredible amount 
 
 Meta signs nuclear energy deals to power Prometheus AI supercluster.[1] OpenAI is reportedly asking contractors to upload real work from past jobs.[2] Meta and Harvard Researchers Introduce the Confucius Code Agent (CCA): A Software Engineering Agent that can Operate at Large-Scale Codebases.[3] X could face UK ban over deepfakes, minister says.[4] Sources: [1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-software-engineering-agent-that-can-operate-at-large-scale-codebases/ [4] https://www.bbc.com/news/articles/c99kn52nx9do
 
-23h ago
+1d ago
 
 ---
 
@@ -115,25 +107,61 @@ X has restricted Grok’s image generation feature to paid subscribers after glo
 
 ---
 
+**[A deep dive into how I trained an edit model to show highly relevant code suggestions while programming](https://www.reddit.com/r/artificial/comments/1q9ai6f/a_deep_dive_into_how_i_trained_an_edit_model_to/)**
+
+This is def interesting for all SWEs who would like to know what goes behind the scenes in your code editor when you hit `Tab`. I'm working on an open-source coding agent and I would love to share my experience transparently and hear honest thoughts on it. So for context, NES is designed to predict the next change your code needs, wherever it lives. Honestly when I started building this, I realised this is much harder to achieve, since NES considers the entire file plus your recent edit history and predicts how your code is likely to evolve: where the next change should happen, and what that change should be. Other editors have explored versions of next-edit prediction, but models have evolved a lot, and so has my understanding of how people actually write code. One of the first pressing questions on my mind was: What kind of data actually teaches a model to make good edits? It turned out that real developer intent is surprisingly hard to capture. As anyone who’s peeked at real commits knows, developer edits are messy. Pull requests bundle unrelated changes, commit histories jump around, and the sequences of edits often skip the small, incremental steps engineers actually take when exploring or fixing code. To train an edit model, I formatted each example using special edit tokens. These tokens are designed to tell the model: - What part of the file is editable - The user’s cursor position - What the user has edited so far - What the next edit should be inside that region only Unlike chat-style models that generate free-form text, I trained NES to predict the next code edit inside the editable region. So for eg, when the developer makes the first edit it allows the model to capture the intent of the user. The `editable_region` markers define everything between them as the editable zone. The `user_cursor_is_here` token shows the model where the user is currently editing. NES infers the transformation pattern (capitalization in this case) and applies it consistently as the next edit sequence. To support this training format, I used CommitPackFT and Zeta as data sources. I normalized this unified dataset into the same Zeta-derived edit-markup format as described above and applied filtering to remove non-sequential edits using a small in-context model (GPT-4.1 mini). Now that I had the training format and dataset finalized, the next major decision was choosing what base model to fine-tune. Initially, I considered both open-source and managed models, but ultimately chose Gemini 2.5 Flash Lite for two main reasons: - Easy serving: Running an OSS model would require me to manage its inference and scalability in production. For a feature as latency-sensitive as Next Edit, these operational pieces matter as much as the model weights themselves. Using a managed model helped me avoid all these operational overheads. - Simple supervised-fine-tuning: I fine-tuned NES using Google’s Gemini Supervised Fine-Tuning (SFT) API, with no training loop to maintain, no GPU provisioning, and at the same price as the regular Gemini inference API. Under the hood, Flash Lite uses LoRA (Low-Rank Adaptation), which means I need to update only a small set of parameters rather than the full model. This keeps NES lightweight and preserves the base model’s broader coding ability. Overall, in practice, using Flash Lite gave me model quality comparable to strong open-source baselines, with the obvious advantage of far lower operational costs. This keeps the model stable across versions. And on the user side, using Flash Lite directly improves the user experience in the editor. As a user, you can expect faster responses and likely lower compute cost (which can translate into cheaper product). And since fine-tuning is lightweight, I can roll out frequent improvements, providing a more robust service with less risk of downtime, scaling issues, or version drift; meaning greater reliability for everyone. Next, I evaluated the edit model using a single metric: LLM-as-a-Judge, powered by Gemini 2.5 Pro. This judge model evaluates whether a predicted edit is semantically correct, logically consistent with recent edits, and appropriate for the given context. This is unlike token-level comparisons and makes it far closer to how a human engineer would judge an edit. In practice, this gave me an evaluation process that is scalable, automated, and far more sensitive to intent than simple string matching. It allowed me to run large evaluation suites continuously as I retrain and improve the model. But training and evaluation only define what the model knows in theory. To make Next Edit Suggestions feel alive inside the editor, I realised the model needs to understand what the user is doing right now. So at inference time, I give the model more than just the current file snapshot. I also send - User's recent edit history: Wrapped in `<|edit_history|>`, this gives the model a short story of the user's current flow: what changed, in what order, and what direction the code seems to be moving. - Additional semantic context: Added via `<|additional_context|>`, this might include type signatures, documentation, or relevant parts of the broader codebase. It’s the kind of stuff you would mentally reference before making the next edit. The NES combines these inputs to infer the user’s intent from earlier edits and predict the next edit inside the editable region only. I'll probably write more into how I constructed, ranked, and streamed these dynamic contexts. But would love to hear feedback and is there anything I could've done better
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcMnX9dhbiEoCoFdW4u2yvdB6X9xv1Frmz45Y6qsEg-tnp5sFDX1gQL&gaa_ts=69648178&gaa_sig=DIOy0kgRG1ZtXYM4a5dBM4OBCcrKgIT6Q-R56h9j4nbLCD6FXak12XUEQ0U-gAF_8WGUbZwMVlnBoKXvRHGnuQ%3D%3D)**
+**[Grok AI: Malaysia and Indonesia block X chatbot over sexually explicit deepfakes](https://www.bbc.com/news/articles/cg7y10xm4x2o)**
 
-The Wall Street Journal • 14h ago
+Sexualised images of real people generated by Grok have circulated on X in recent weeks.
 
----
-
-**[Critical Infrastructure Monitoring - Autonomy & Physical AI Matter!](https://www.forbes.com/sites/sabbirrangwala/2026/01/11/critical-infrastructure-monitoringautonomy--physical-ai-matter/)**
-
-Forbes • 1h ago
+BBC • 1h ago
 
 ---
 
-**[TSMC Q4 profit poised to soar 27% as AI demand drives growth](https://www.reuters.com/world/china/tsmc-q4-profit-poised-soar-27-ai-demand-drives-growth-2026-01-12/)**
+**[Elon Musk asked people to upload their medical data to X so his AI company could learn to interpret MRIs and CT scans](https://fortune.com/2026/01/11/why-did-elon-musk-ask-x-users-upload-medical-data-grok/)**
 
-Reuters • 47m ago
+Health care experts are worried about Grok’s potential to breach patient privacy.
+
+Fortune • 12h ago
+
+---
+
+**[Malaysia, Indonesia become first to block Musk’s Grok over AI deepfakes](https://abcnews.go.com/Business/wireStory/malaysia-indonesia-become-block-musks-grok-ai-deepfakes-129122649)**
+
+Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok due to its misuse in generating explicit images
+
+ABC News • 20m ago
+
+---
+
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcwtbajc9CYjKElZs7h2Iod5FZgp3cofi9PV9QC_7WD7mP5s-nxsUZG&gaa_ts=69649a7a&gaa_sig=NPHpaJCnJ10JTi0g6jsLDX75S8O423oKCrLlxK0VZJSBOO_R9lmneM3U4DT9smONqcRmrgh_97TT-icOY4dv7g%3D%3D)**
+
+The Wall Street Journal • 15h ago
+
+---
+
+**[The Myth of the AI Race](https://www.foreignaffairs.com/united-states/myth-ai-race)**
+
+Neither America nor China can achieve true tech dominance.
+
+Foreign Affairs • 1h ago
+
+---
+
+**['The net is tightening' on AI scraping: Annotated Q&A with Financial Times’ head of global public policy and platform strategy](https://digiday.com/media/the-net-is-tightening-on-ai-scraping-annotated-qa-with-financial-times-head-of-global-public-policy-and-platform-strategy/)**
+
+2026 will bring a kind of reset as big tech companies alter their stance on AI licensing to avoid future legal risk.
+
+Digiday • 1h ago
 
 ---
 
@@ -141,51 +169,31 @@ Reuters • 47m ago
 
 “It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage](https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html)**
+**[Here Are My Top 10 Artificial Intelligence (AI) Stocks for 2026](https://www.fool.com/investing/2026/01/11/here-are-my-top-10-artificial-intelligence-ai-stoc/)**
 
-The New York Times • 2d ago
+The AI sector continues to grow, and there are plenty of promising ways to invest in it.
 
----
-
-**[A shorter workweek can prevent AI-driven mass unemployment](https://thehill.com/opinion/technology/5681660-shorter-workweek-ai-economy/)**
-
-The Hill • 12h ago
+The Motley Fool • 4h ago
 
 ---
 
-**[AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)**
-
-Large language models don’t “learn”—they copy. And that could change everything for the tech industry.
-
-The Atlantic • 2d ago
-
----
-
-**[Anthropic expands into healthcare a week after OpenAI launched a similar product](https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1)**
-
-Anthropic launches Claude for Healthcare, expanding AI tools for clinicians, insurers, and patients.
-
-Business Insider • 7h ago
-
----
-
-**[Trump Administration Wants to Achieve ‘Pax Silica’ Through AI. Here’s What That Means](https://gizmodo.com/trump-administration-wants-to-achieve-pax-silica-through-ai-heres-what-that-means-2000708775)**
-
-Trump administration's global influence strategy runs through the AI supply chain.
-
-Gizmodo • 7h ago
-
----
-
-**[Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?](https://www.fool.com/investing/2026/01/11/should-you-forget-nvidia-and-buy-these-2-artificia/)**
+**[Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Right Now?](https://finance.yahoo.com/news/forget-nvidia-buy-2-artificial-213500522.html)**
 
 The stocks of Broadcom and AMD could have higher upside than Nvidia in the coming years.
 
-The Motley Fool • 8h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[How the AI data center bubble story is playing out inside one booming energy stock](https://www.cnbc.com/2026/01/11/bloom-energy-ai-data-center-power-stock-bubble.html)**
+
+Can Bloom Energy's high-flying stock, fueled by generating onsite power for AI data centers, steer clear of bubble risks?
+
+CNBC • 16h ago
 
 ---
 
@@ -195,7 +203,7 @@ The Motley Fool • 8h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 727 • 💬 902 • 19h ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 815 • 💬 985 • 20h ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -205,7 +213,7 @@ Recently, the application of AI tools to Erdos problems passed a milestone: an E
 
 This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)
 
-⬆️ 610 • 💬 360 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
+⬆️ 611 • 💬 360 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/115855840223258103)
 
 ---
 
@@ -213,7 +221,7 @@ This is a demonstration of the genuine increase in capability of these tools in 
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 330 • 💬 320 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 331 • 💬 322 • 1d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -243,13 +251,13 @@ EU AI Act Compliance Tool - Risk classification and bias testing - Hiepler/EuCon
 
 **[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
 
-⬆️ 35 • 💬 19 • 1d ago
+⬆️ 36 • 💬 20 • 1d ago
 
 ---
 
 **[Ask HN: Senior engineering mngrs: how has AI changed your day-to-day work?](https://news.ycombinator.com/item?id=46565262)**
 
-⬆️ 30 • 💬 6 • 1d ago
+⬆️ 30 • 💬 7 • 1d ago
 
 ---
 
@@ -265,7 +273,7 @@ An AI program used by Workday allegedly put resumes of applicants who were Black
 
 AI agents with different personalities responding to moral dilemmas - baturyilmaz/what-if-ai-agents-had-zodiac-personalities
 
-⬆️ 22 • 💬 11 • 5h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
+⬆️ 24 • 💬 12 • 6h ago • [GitHub](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities)
 
 ---
 
@@ -289,7 +297,7 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 1K • 👍 147 • 💬 42 • ⏱️ 24:00 • 10h ago
+👁️ 1K • 👍 147 • 💬 42 • ⏱️ 24:00 • 11h ago
 
 ---
 
@@ -369,7 +377,7 @@ For original short-selling research and much more check out our website: https:/
 
 📺 Wall Street Millennial
 
-👁️ 59K • 👍 3K • 💬 622 • ⏱️ 17:02 • 7h ago
+👁️ 59K • 👍 3K • 💬 622 • ⏱️ 17:02 • 8h ago
 
 ---
 
@@ -433,7 +441,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 11,562 • ❤️ 271 • 2d ago
+⬇️ 11,562 • ❤️ 271 • 3d ago
 
 ---
 
@@ -637,7 +645,7 @@ BitNet Distillation fine-tunes large language models to 1.58-bit precision using
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.0k • 🔱 1.0k • 38m ago
+⭐ 8.0k • 🔱 1.0k • 1h ago
 
 ---
 
@@ -657,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 137 • 11h ago
+⭐ 2.3k • 🔱 137 • 12h ago
 
 ---
 
@@ -667,7 +675,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 225 • 16h ago
+⭐ 2.0k • 🔱 225 • 17h ago
 
 ---
 
@@ -677,7 +685,7 @@ vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.4k • 🔱 123 • 1h ago
+⭐ 1.4k • 🔱 123 • 2h ago
 
 ---
 
@@ -707,7 +715,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 1h ago
+⭐ 1.2k • 🔱 143 • 2h ago
 
 ---
 
@@ -727,7 +735,7 @@ Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80
 
 `Python` `chatbot` `code-golf` `cpm` `language-model` `machine-learning`
 
-⭐ 933 • 🔱 36 • 5d ago
+⭐ 933 • 🔱 36 • 6d ago
 
 ---
 
