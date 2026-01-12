@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-12T21:43:53.388565+00:00'
+updated: '2026-01-12T22:20:41.564803+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 12, 2026 at 21:43 UTC  
+**Last Updated:** January 12, 2026 at 22:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."](https://www.reddit.com/r/artificial/comments/1qb0rry/geoffrey_hinton_says_agents_can_share_knowledge/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
 
-🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 1h ago
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 2h ago
 
 ---
 
@@ -55,7 +55,7 @@ Claude Code's agentic capabilities, now for everyone. Give Claude access to your
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 22h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 23h ago
 
 ---
 
@@ -63,7 +63,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 Found an article about a professor who used an AI bot to administer an oral exam to students because they were using AI to do school work. He them proceeded to have the AI bot grade the real exam. And now, an AI bot has found and summarized this news for me to read quicker. I guess all that's missing is to have an AI bot read this summary and react to it. Wait a minute... Source: Yahoo https://search.app/vWcje
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Found an article about a professor who used an AI bot to administer an oral exam
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-17h ago
+18h ago
 
 ---
 
@@ -117,19 +117,11 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 ## Google News: "ai"
 
-**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
-
-“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
-
-Yahoo Finance • 1d ago
-
----
-
 **[UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images](https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk)**
 
 Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -141,39 +133,41 @@ BBC • 16h ago
 
 ---
 
-**[Elon Musk’s NSFW Grok AI chatbot is forcing countries to take this extreme step](https://www.fastcompany.com/91473199/grok-ai-chatbot-nsfw-porn-pornography-is-forcing-countries-to-take-this-extreme-step-elon-musk)**
+**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won't matter’](https://fortune.com/2026/01/12/elon-musk-retirement-savings-irrelevant-ai-robots-abundance/)**
 
-Fast Company • 1h ago
+Musk said a ‘supersonic tsunami’ of AI and robotics will bring about a world of zero scarcity.
 
----
-
-**[Apple's Siri will be powered by Google's Gemini AI in new partnership](https://www.usatoday.com/story/news/california/2026/01/12/apple-google-deal-gemini-ai-siri-california-artificial-intelligence/88144909007/)**
-
-Alphabet Inc. and Apple have announced a partnership to use Google's AI technology to power the foundation of Apple's Intelligence and Siri.
-
-USA Today • 2h ago
+Fortune • 6m ago
 
 ---
 
-**[Apple calls on Google to help smarten up Siri and bring other AI features to the iPhone](https://abcnews.go.com/Technology/wireStory/apple-calls-google-smarten-siri-bring-ai-features-129141852)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdJaz0-7MKHyIYP7JS_jC0uzefthjAWIzxDVk8VbwUQKpvrNjiuO5Z5&gaa_ts=69657720&gaa_sig=rjrZAdJMhG-zgZGh0DsW3Aw8hIE40VeS1mbf0Mh3FxL7X-zqBhWkLL7mnlx5CciAKqadr7xV78M9j6p3uxQyjw%3D%3D)**
 
-Apple will lean on Google to help finish its bungled attempts to smarten up its virtual assistant Siri and bring other artificial intelligence features to the iPhone as the trendsetting company plays catch up in technology’s latest craze
-
-ABC News • 1h ago
+The Wall Street Journal • 1d ago
 
 ---
 
-**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
+**[Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)**
 
-The New York Times • 1h ago
+Google said that merchants can now offer discounts to users directly in AI mode results.
+
+TechCrunch • 1d ago
 
 ---
 
-**[Anthropic wants you to use Claude to ‘Cowork’ in latest AI agent push](https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code)**
+**[Google launches new AI protocol for e-commerce](https://www.computerworld.com/article/4115682/google-launches-new-ai-protocol-for-e-commerce.html)**
 
-The new feature debuted today in research preview.
+The UCP protocol will first appear in instant checkout features in Google's AI mode in Search and in the Gemini app.
 
-The Verge • 2h ago
+Computerworld • 1h ago
+
+---
+
+**[Why Amazon bought Bee, an AI wearable](https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/)**
+
+Amazon explains where its wearable Bee fits in and whether it will merge with Alexa.
+
+TechCrunch • 24m ago
 
 ---
 
@@ -181,15 +175,21 @@ The Verge • 2h ago
 
 The AI sector continues to grow, and there are plenty of promising ways to invest in it.
 
-The Motley Fool • 19h ago
+The Motley Fool • 20h ago
 
 ---
 
-**[Why AI Could Be One of the Biggest Forces Shaping Markets in 2026](https://www.fool.com/investing/2026/01/12/why-ai-one-of-biggest-forces-shaping-markets-2026/)**
+**[Nvidia to Invest $1 Billion in AI Drug Lab With Eli Lilly](https://www.bloomberg.com/news/videos/2026-01-12/nvidia-to-invest-1-billion-in-ai-drug-lab-video)**
 
-AI in 2026: When the short-term noise clears, and long-term investors make a bet.
+Bloomberg.com • 1h ago
 
-The Motley Fool • 1h ago
+---
+
+**[A Once-in-a-Decade Investment Opportunity: The Best Artificial Intelligence (AI) Stock to Buy in 2026](https://www.fool.com/investing/2026/01/12/a-once-in-a-decade-investment-opportunity-the-best/)**
+
+Nvidia has been the star of the artificial intelligence show for three years, and its stellar performance doesn't appear to be coming to an end.
+
+The Motley Fool • 9h ago
 
 ---
 
@@ -225,7 +225,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 155 • 💬 53 • 12h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 155 • 💬 53 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -233,7 +233,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 86 • 💬 43 • 4h ago • [TryLAD](https://www.trylad.com)
+⬆️ 86 • 💬 43 • 5h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -241,7 +241,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 59 • 💬 20 • 1h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 59 • 💬 20 • 2h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -269,7 +269,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 32 • 💬 43 • 11h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 32 • 💬 43 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -283,7 +283,7 @@ The Join the #1 community for AI entrepreneurs and connect with 280k+ members: h
 
 📺 Liam Ottley
 
-👁️ 12K • 👍 926 • 💬 39 • ⏱️ 10:29 • 14h ago
+👁️ 12K • 👍 926 • 💬 39 • ⏱️ 10:29 • 15h ago
 
 ---
 
@@ -293,7 +293,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 17K • 👍 186 • 💬 48 • ⏱️ 7:57 • 7h ago
+👁️ 17K • 👍 186 • 💬 48 • ⏱️ 7:57 • 8h ago
 
 ---
 
@@ -313,7 +313,7 @@ In this video, I ask AI what it thinks about the U.S. military operation in Vene
 
 📺 I Ask AI
 
-👁️ 14K • 👍 3K • 💬 318 • ⏱️ 14:02 • 1d ago
+👁️ 14K • 👍 3K • 💬 318 • ⏱️ 14:02 • 2d ago
 
 ---
 
@@ -363,7 +363,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 8K • 👍 638 • 💬 76 • ⏱️ 10:39 • 6h ago
+👁️ 8K • 👍 638 • 💬 76 • ⏱️ 10:39 • 7h ago
 
 ---
 
@@ -684,7 +684,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 64 • 3h ago
+⭐ 1.8k • 🔱 64 • 4h ago
 
 ---
 
@@ -694,7 +694,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 126 • 6h ago
+⭐ 1.5k • 🔱 126 • 7h ago
 
 ---
 
@@ -734,7 +734,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.2k • 🔱 85 • 13d ago
+⭐ 1.2k • 🔱 85 • 14d ago
 
 ---
 

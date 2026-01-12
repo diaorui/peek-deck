@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-12T21:43:53.406533+00:00'
+updated: '2026-01-12T22:20:41.583369+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 12, 2026 at 21:43 UTC  
+**Last Updated:** January 12, 2026 at 22:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Looking through the recaps and don’t see much about Figure AI. Did anyone see their booth at CES? Anything noteworthy on display?
 
-53m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ This GitHub repo is basically a curated learning map for anyone trying to get in
 
 RSVP Here
 
-2h ago
+3h ago
 
 ---
 
@@ -124,7 +124,7 @@ Engadget • 2d ago
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -144,7 +144,7 @@ Tech Xplore • 2d ago
 
 **[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 65K • 👍 3K • 💬 187 • ⏱️ 17:09 • 8h ago
+👁️ 65K • 👍 3K • 💬 187 • ⏱️ 17:09 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ The next generation of Atlas is designed to interact with people and understand 
 
 📺 Hyundai Motor Group
 
-👁️ 246K • 👍 62 • ⏱️ 1:15 • 5d ago
+👁️ 246K • 👍 62 • ⏱️ 1:15 • 6d ago
 
 ---
 

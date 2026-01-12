@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-12T21:43:53.396999+00:00'
+updated: '2026-01-12T22:20:41.573704+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 21:43 UTC  
+**Last Updated:** January 12, 2026 at 22:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-8h ago
+9h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Keep calm while the storm pass
 
-10h ago
+11h ago
 
 ---
 
@@ -109,19 +109,19 @@ We're barely at the beginning, no panic, just HODL 💪🚀
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-4h ago
+5h ago
 
 ---
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -151,11 +151,19 @@ source is from the federal reserves twitter account: https://x.com/federalreserv
 
 ## Google News: "bitcoin"
 
-**[John Bollinger Says XRP Pattern “Weaker” Than Bitcoin as Peter Brandt Urges Caution Despite 30% Rally](https://finance.yahoo.com/news/john-bollinger-says-xrp-pattern-193024658.html)**
+**[Iran’s Rial Just Collapsed. Is It Time For Bitcoin?](https://bitcoinmagazine.com/news/irans-rial-collapses-bitcoin-alternative)**
 
-XRP (CRYPTO: XRP) kicked off 2026 with a 30% rally that outpaced Bitcoin and Ethereum. But two legendary technical analysts are pumping the brakes. John Bollinger, creator of the Bollinger Bands indicator, called XRP’s chart structure “weaker” than Bitcoin’s. Peter Brandt, a veteran trader known for precise pattern analysis, posted a cryptic chart “without comment” ... John Bollinger Says XRP Pattern “Weaker” Than Bitcoin as Peter Brandt Urges Caution Despite 30% Rally
+Iran’s national currency, the rial, has effectively collapsed, now trading at roughly 1.4 million rials per U.S. dollar.
 
-Yahoo Finance • 2h ago
+Bitcoin Magazine • 56m ago
+
+---
+
+**[Bitcoin Price Climbs Near $92,000 as the Federal Reserve and DOJ Showdown](https://bitcoinmagazine.com/markets/bitcoin-price-climbs-near-92000-fed-doj)**
+
+The bitcoin price climbed toward $92,000 as escalating tensions between the DOJ and Federal Reserve rattled traditional markets this morning.
+
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -163,35 +171,7 @@ Yahoo Finance • 2h ago
 
 SEC chairman Paul Atkins joins 'Varney & Co.' to discuss a report that Venezuela has a $60 billion stash of bitcoin, the role of stablecoin in the future as well as crypto legislation.
 
-Fox Business • 3h ago
-
----
-
-**['Big orange': Michael Saylor's Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision](https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision)**
-
-The Block • 8h ago
-
----
-
-**[Strategy boosts BTC holdings using digital credit STRC](https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc)**
-
-Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
-
-CoinDesk • 8h ago
-
----
-
-**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 1d ago
-
----
-
-**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://www.morningstar.com/news/pr-newswire/20260112ln61324/mezo-opens-pre-deposit-vaults-to-migrate-bitcoin-liquidity-from-ethereum-back-to-bitcoin-native-infrastructure)**
-
-Morningstar • 3h ago
+Fox Business • 4h ago
 
 ---
 
@@ -201,17 +181,39 @@ ETF Database • 1h ago
 
 ---
 
+**[Mezo Opens Pre-Deposit Vaults to Migrate Bitcoin Liquidity From Ethereum Back to Bitcoin-Native Infrastructure](https://www.morningstar.com/news/pr-newswire/20260112ln61324/mezo-opens-pre-deposit-vaults-to-migrate-bitcoin-liquidity-from-ethereum-back-to-bitcoin-native-infrastructure)**
+
+Morningstar • 3h ago
+
+---
+
 **[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 15h ago
+The Block • 16h ago
+
+---
+
+**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
+
+Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Bitcoin price slips below $91,000 as privacy coins steal the spotlight: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today)**
+
+Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
+
+CoinDesk • 10h ago
 
 ---
 
@@ -291,7 +293,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 1 • 💬 0 • 2h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 1 • 💬 0 • 3h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -343,7 +345,7 @@ Bitcoin #Crypto #Finance Markets are flashing warning signs as Bitcoin struggles
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 1K • 💬 293 • ⏱️ 1:07:27 • 5h ago
+👁️ 16K • 👍 1K • 💬 293 • ⏱️ 1:07:27 • 6h ago
 
 ---
 
@@ -353,7 +355,7 @@ BloFin: https://themoon.co/blofin300 Claim $300 Deposit Bonus BYBIT: http://them
 
 📺 The Moon Show
 
-👁️ 14K • 👍 731 • 💬 87 • ⏱️ 6:16 • 11h ago
+👁️ 14K • 👍 731 • 💬 87 • ⏱️ 6:16 • 12h ago
 
 ---
 
@@ -373,7 +375,7 @@ Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it
 
 📺 Crypto Banter
 
-👁️ 14K • 👍 1K • 💬 42 • ⏱️ 32:17 • 6h ago
+👁️ 14K • 👍 1K • 💬 42 • ⏱️ 32:17 • 7h ago
 
 ---
 
@@ -383,7 +385,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 Lark Davis
 
-👁️ 16K • 👍 779 • 💬 154 • ⏱️ 19:14 • 10h ago
+👁️ 16K • 👍 779 • 💬 154 • ⏱️ 19:14 • 11h ago
 
 ---
 
@@ -391,7 +393,7 @@ Bitcoin, Trump, the FED, hot stocks, and altcoin hopium! BITUNIX TRADE THE TOP C
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 487 • 💬 45 • ⏱️ 1:14 • 21h ago
+👁️ 8K • 👍 487 • 💬 45 • ⏱️ 1:14 • 22h ago
 
 ---
 
@@ -401,7 +403,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 3K • 💬 150 • ⏱️ 10:58 • 16h ago
+👁️ 51K • 👍 3K • 💬 150 • ⏱️ 10:58 • 17h ago
 
 ---
 

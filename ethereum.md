@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T21:43:53.403289+00:00'
+updated: '2026-01-12T22:20:41.580043+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 21:43 UTC  
+**Last Updated:** January 12, 2026 at 22:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Wondering how effective and reliable XMR / Monero is to contribute to ETH privac
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 2h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ South Korea just opened the floodgates for institutional crypto adoption. Huge f
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -172,13 +172,13 @@ CoinDesk • 1d ago
 
 Ethereum co-founder Vitalik Buterin says the network should be able to function for decades without relying on constant upgrades, including resisting future quantum computers.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -186,15 +186,7 @@ The Block • 9h ago
 
 Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.
 
-CoinDesk • 6h ago
-
----
-
-**[Ethereum to $40,000? Why one analyst expects the second-biggest crypto to outperform Bitcoin](https://www.dlnews.com/articles/markets/why-ethereum-will-outperform-bitcoin-by-2030-according-to-standard-chartered/)**
-
-Ethereum will hit $40,000 by 2030, Standard Chartered predicts. The second-biggest crypto should also outperform Bitcoin. Increased adoption of onchain finance is seen to fuel the rally.
-
-dlnews.com • 5h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -206,9 +198,11 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
+**[Bitcoin, Ethereum ETFs Shed Nearly All 2026 Gains as Rate Cut Hopes Fade](https://finance.yahoo.com/news/bitcoin-ethereum-etfs-shed-nearly-182549767.html)**
 
-CCN.com • 7h ago
+Bitcoin and Ethereum ETFs are surrendering nearly all 2026 gains as fading Fed rate cut hopes drive sizable crypto fund outflows.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -217,6 +211,12 @@ CCN.com • 7h ago
 Ethereum’s price action has spent an unusually long time moving sideways, and this behavior has tested the patience of many long-term bullish investors. When speaking of sideways movement, this movement has dragged on for many months, although Ethereum did manage to make a new all-time high in 2025…
 
 TradingView — Track All Markets • 1d ago
+
+---
+
+**[Ethereum Price Could Fall to $300, Says VanEck, but Tom Lee Claims It May Hit $9,000 in Weeks](https://www.ccn.com/news/crypto/ethereum-price-fall-300-vaneck-tom-lee-hit-9000-in-weeks/)**
+
+CCN.com • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 9K • 👍 1K • 💬 237 • ⏱️ 14:17 • 8h ago
+👁️ 9K • 👍 1K • 💬 237 • ⏱️ 14:17 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 129 • 💬 10 • ⏱️ 5:01 • 7h ago
+👁️ 1K • 👍 129 • 💬 10 • ⏱️ 5:01 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ The battle between bitcoin, ethereum and now XRP rages on. Talks of supply shock
 
 📺 The Modern Investor
 
-👁️ 11K • 👍 1K • 💬 307 • ⏱️ 36:33 • 11h ago
+👁️ 11K • 👍 1K • 💬 307 • ⏱️ 36:33 • 12h ago
 
 ---
 
