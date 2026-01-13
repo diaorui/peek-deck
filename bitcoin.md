@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T05:26:48.241734+00:00'
+updated: '2026-01-13T05:49:59.468425+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 05:26 UTC  
+**Last Updated:** January 13, 2026 at 05:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,403.66
+### $91,906.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -0.0%  
-**30d:** +5.6%  
-**90d:** -15.4%  
-**1y:** -5.4%  
+**24h:** +0.2%  
+**7d:** +0.7%  
+**30d:** +6.4%  
+**90d:** -14.8%  
+**1y:** -4.7%  
 
 ---
 
@@ -79,7 +79,21 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-7h ago
+8h ago
+
+---
+
+**[Caved](https://www.reddit.com/r/Bitcoin/comments/1qbgxmk/caved/)**
+
+Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
+
+2h ago
+
+---
+
+**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
+
+16h ago
 
 ---
 
@@ -91,31 +105,11 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 ---
 
-**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
-
-16h ago
-
----
-
-**[Caved](https://www.reddit.com/r/Bitcoin/comments/1qbgxmk/caved/)**
-
-Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
-
-1h ago
-
----
-
 **[BTW, STRC is 'working'. Every day, millions of dollars is used to buy bitcoin, a massive fiat onramp](https://www.reddit.com/r/Bitcoin/comments/1qbcgb2/btw_strc_is_working_every_day_millions_of_dollars/)**
 
 Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
 
-4h ago
-
----
-
-**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
-
-16h ago
+5h ago
 
 ---
 
@@ -127,15 +121,21 @@ Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin tra
 
 ---
 
-**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
+**[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
 
-1d ago
+2h ago
 
 ---
 
-**[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
+**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-1h ago
+16h ago
+
+---
+
+**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
+
+1d ago
 
 ---
 
@@ -175,13 +175,7 @@ Yahoo Finance • 19h ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 17h ago
-
----
-
-**[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
-
-Forbes • 3h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -189,7 +183,7 @@ Forbes • 3h ago
 
 Leverage has been flushed, and spot demand remains soft, keeping bitcoin range-bound while token unlocks and thin liquidity drive sharp, narrative-led moves in select altcoins.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -197,7 +191,7 @@ CoinDesk • 2h ago
 
 Bitcoin stayed pinned near $91,000 on Tuesday, as traders watched Japan’s stock market burst to fresh records and treated US macro headlines as the next real trigger for crypto direction.In Asia, Japan’s Nikkei surged to an all-time high, climbing as much as 3.6% to 53,814.79, and the Topix also set ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -214,6 +208,12 @@ The Motley Fool • 1d ago
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
 CNBC • 2d ago
+
+---
+
+**[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
+
+Forbes • 3h ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 8h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -315,7 +315,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 58 • ⏱️ 8:17 • 15h ago
+👁️ 17K • 👍 2K • 💬 58 • ⏱️ 8:17 • 16h ago
 
 ---
 
@@ -325,7 +325,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 49K • 👍 3K • 💬 1K • ⏱️ 2:04:54 • 15h ago
+👁️ 49K • 👍 3K • 💬 1K • ⏱️ 2:04:54 • 16h ago
 
 ---
 
@@ -355,7 +355,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 343 • ⏱️ 41:26 • 13h ago
+👁️ 30K • 👍 1K • 💬 343 • ⏱️ 41:26 • 14h ago
 
 ---
 

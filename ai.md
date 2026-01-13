@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T05:26:48.233326+00:00'
+updated: '2026-01-13T05:49:59.460009+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- news
 - social
 - repositories
-- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 05:26 UTC  
+**Last Updated:** January 13, 2026 at 05:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,38 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.reddit.com/r/artificial/comments/1qbi32n/pentagon_is_embracing_musks_grok_ai_chatbot_as_it/)**
+
+Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
+
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 1h ago
+
+---
+
+**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
+
+Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
+
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 55m ago
+
+---
+
+**[One-Minute Daily AI News 1/12/2026](https://www.reddit.com/r/artificial/comments/1qbjd7r/oneminute_daily_ai_news_1122026/)**
+
+Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
+
+1m ago
+
+---
+
+**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
+
+Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
+
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 9h ago
+
+---
+
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/)**
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
@@ -50,14 +82,6 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
 10h ago
-
----
-
-**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
-
-Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
-
-🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 9h ago
 
 ---
 
@@ -89,29 +113,7 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis
 
-10h ago
-
----
-
-**[Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."](https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/)**
-
-2d ago
-
----
-
-**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
-
-We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
-
-1d ago
-
----
-
-**[Song detection including release date](https://www.reddit.com/r/artificial/comments/1qa5ccq/song_detection_including_release_date/)**
-
-I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
-
-1d ago
+11h ago
 
 ---
 
@@ -119,31 +121,17 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 ## Google News: "ai"
 
-**[Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/cwy875j28k0o)**
+**[UK threatens action against X over sexualised AI images of women and children](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)**
 
-The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
+Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-BBC • 14h ago
+The Guardian • 18h ago
 
 ---
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdWgTZFT3C6e6SdAzcaOJL8ImWzvHtxvcS1G-pdLyXnCu7iMv7Ei7CQ&gaa_ts=6965d063&gaa_sig=hFg2mmaGkPMjxdSkmKHtC-8rLOKXgivdyKRv6Aux4hpDgjjBZ620BFFsFN68iJ4vClbj5IoTIizYR9pMuhwg-A%3D%3D)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqekjTYWILU2vwP0IeQyqX8jeePvwFqaHcSJtKhXZ1O01D0zAi65YS2D&gaa_ts=6965e070&gaa_sig=NMIg28hVDje9VNZKBqYNXohRiDdDgBhgF8hxEgNOFhVsoRE1LFiw4G_9alXuPJOt0IccdVBpiMxTBWHaB2q_tQ%3D%3D)**
 
 The Wall Street Journal • 1d ago
-
----
-
-**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
-
-Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
-
-The Guardian • 1d ago
-
----
-
-**[Gemini will power Apple's Siri](https://www.axios.com/2026/01/13/apple-intelligence-google-gemini-siri)**
-
-Axios • 2h ago
 
 ---
 
@@ -155,17 +143,33 @@ USA Today • 2h ago
 
 ---
 
-**[Hochul’s gigawatt-sized gaslighting on AI data centers](https://nypost.com/2026/01/12/opinion/hochuls-gigawatt-sized-gaslighting-on-ai-data-centers/)**
+**[Hegseth announces push to make US leader in AI, drones and space technology](https://www.foxbusiness.com/technology/hegseth-announces-push-make-us-leader-ai-drones-space-technology)**
 
-Every press conference and X video treating data centers as the boogeyman distracts from the far more complicated, but fixable, problems that are driving state electricity costs into the stratosphe…
+Pentagon chief Pete Hegseth unveiled an artificial intelligence strategy for the military, aiming to make the U.S. a global leader in AI and drones.
 
-New York Post • 2h ago
+Fox Business • 19m ago
 
 ---
 
-**[Baidu CFO on Business Strategy, AI Investments](https://www.bloomberg.com/news/videos/2026-01-13/baidu-cfo-on-business-strategy-ai-investments-video)**
+**[Pentagon is embracing Musk’s Grok AI chatbot amid global outcry](https://apnews.com/video/pentagon-is-embracing-musks-grok-ai-chatbot-amid-global-outcry-9732bf56596b492982a3b4d813be982f)**
 
-Bloomberg.com • 1h ago
+U.S. Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
+
+AP News • 51m ago
+
+---
+
+**[Nigeria Set to Pass Sweeping AI Rules for Digital Economy](https://www.bloomberg.com/news/articles/2026-01-13/nigeria-set-to-pass-sweeping-ai-rules-for-digital-economy)**
+
+Bloomberg.com • 49m ago
+
+---
+
+**[Trump Claims He and Microsoft Have a Solution for AI-Related Utility Price Spikes](https://gizmodo.com/trump-claims-he-and-microsoft-have-a-solution-for-ai-related-utility-price-spikes-2000709410)**
+
+Is Microsoftâ¦ going to subsidize our utility bills?
+
+Gizmodo • 2h ago
 
 ---
 
@@ -177,19 +181,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
+
+The New York Times • 19h ago
+
+---
+
 **[AI can now 'see' optical illusions. What does it tell us about our own brains?](https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions)**
 
 Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.
 
 BBC • 19h ago
-
----
-
-**[The Dangerous Paradox of A.I. Abundance](https://www.newyorker.com/news/the-financial-page/the-dangerous-paradox-of-ai-abundance)**
-
-Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
-
-The New Yorker • 18h ago
 
 ---
 
@@ -199,7 +201,7 @@ The New Yorker • 18h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1207 • 💬 1534 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1208 • 💬 1537 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -207,7 +209,7 @@ The New Yorker • 18h ago
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 338 • 💬 330 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 338 • 💬 333 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -215,7 +217,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 183 • 💬 143 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 198 • 💬 150 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -223,7 +225,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 178 • 💬 60 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 179 • 💬 60 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -231,7 +233,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 141 • 💬 78 • 12h ago • [TryLAD](https://www.trylad.com)
+⬆️ 144 • 💬 78 • 12h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -239,7 +241,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 119 • 💬 68 • 6h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 127 • 💬 76 • 6h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -247,7 +249,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 65 • 💬 54 • 10h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 70 • 💬 54 • 11h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -261,7 +263,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 42 • 💬 4 • 10h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 43 • 💬 4 • 11h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -643,7 +645,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.1k • 45m ago
+⭐ 8.2k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -693,7 +695,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 127 • 59m ago
+⭐ 1.5k • 🔱 127 • 1h ago
 
 ---
 
@@ -733,7 +735,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 18h ago
+⭐ 1.2k • 🔱 143 • 19h ago
 
 ---
 
