@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T01:46:56.326009+00:00'
+updated: '2026-01-13T03:39:02.416814+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 01:46 UTC  
+**Last Updated:** January 13, 2026 at 03:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."](https://www.reddit.com/r/artificial/comments/1qb0rry/geoffrey_hinton_says_agents_can_share_knowledge/)**
+**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
 
-8h ago
+Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
 
----
-
-**[The Intelligence Paradox: Why centralized AI is hitting a "Power Wall" and the case for decentralized inference hubs](https://www.reddit.com/r/artificial/comments/1qb46h5/the_intelligence_paradox_why_centralized_ai_is/)**
-
-As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
-
-6h ago
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 7h ago
 
 ---
 
@@ -59,11 +53,11 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 ---
 
-**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
+**[The Intelligence Paradox: Why centralized AI is hitting a "Power Wall" and the case for decentralized inference hubs](https://www.reddit.com/r/artificial/comments/1qb46h5/the_intelligence_paradox_why_centralized_ai_is/)**
 
-Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
+As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 5h ago
+8h ago
 
 ---
 
@@ -75,19 +69,19 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 ---
 
+**[What is something current AI systems are very good at, but people still don’t trust them to do?](https://www.reddit.com/r/artificial/comments/1qakw7h/what_is_something_current_ai_systems_are_very/)**
+
+We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
+
+23h ago
+
+---
+
 **[Multimodal LLMs are the real future of AI (especially for robotics)](https://www.reddit.com/r/artificial/comments/1qasdce/multimodal_llms_are_the_real_future_of_ai/)**
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-14h ago
-
----
-
-**[Is the snake eating its tail yet?](https://www.reddit.com/r/artificial/comments/1qb3wek/is_the_snake_eating_its_tail_yet/)**
-
-Found an article about a professor who used an AI bot to administer an oral exam to students because they were using AI to do school work. He them proceeded to have the AI bot grade the real exam. And now, an AI bot has found and summarized this news for me to read quicker. I guess all that's missing is to have an AI bot read this summary and react to it. Wait a minute... Source: Yahoo https://search.app/vWcje
-
-6h ago
+16h ago
 
 ---
 
@@ -95,15 +89,7 @@ Found an article about a professor who used an AI bot to administer an oral exam
 
 Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis
 
-7h ago
-
----
-
-**[What is something current AI systems are very good at, but people still don’t trust them to do?](https://www.reddit.com/r/artificial/comments/1qakw7h/what_is_something_current_ai_systems_are_very/)**
-
-We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
-
-21h ago
+9h ago
 
 ---
 
@@ -113,65 +99,75 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 ---
 
+**[What’s your wild take on the rise of AI?](https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/)**
+
+We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future?
+
+1d ago
+
+---
+
+**[Song detection including release date](https://www.reddit.com/r/artificial/comments/1qa5ccq/song_detection_including_release_date/)**
+
+I have an old collection of music around 20-30yo on my hard drive and some of it is unnamed or other missing info. I've slowly started sorting through but by far the most time consuming thing is either trying to find the artist and title or the release date manually. (not all of them are unnamed/undated, but a good chunk) Is there any AI or something like that, that can scan my file explorer and find/rename/date etc the tracks? I'd also be happy to scan them 1 by 1 if it meant I can find the correct info for them.
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[UK media regulator investigating Elon Musk’s X after outcry over sexualised AI images](https://www.theguardian.com/technology/2026/jan/12/ofcom-investigating-x-outcry-sexualised-ai-images-grok-elon-musk)**
+**[Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/cwy875j28k0o)**
 
-Media regulator investigating site under Online Safety Act, with a de facto ban among possible punishments
+The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
-The Guardian • 14h ago
+BBC • 13h ago
 
 ---
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqe1nnZpcXHoZQOMPu8EA0_RnejzYKP9ADsw7OjqMficPnjaJ6C1slVf&gaa_ts=6965a779&gaa_sig=f_tIYoNK5o20pEWkyeg0pqPl5ibGp5DpCpKZGsCpD65-Iivtj4No-sV-Lv0GavRYC_kYe4OKbxnRw0ALZizFCQ%3D%3D)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqc5lFph9ff9zXvrpEpWuw64AfUN59KXKQwbX71DEIZSBRkKV_fM1BzM&gaa_ts=6965c1c1&gaa_sig=VmAr2P6HH5ZAlmSNVWmg3H_a6AT5MNCAEEbjauvIebMR1XeaJ6EkHo7kITDlubr2f_FvFwPtAACBBcVGrmwidA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
 
-Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
-The Guardian • 23h ago
+blog.google • 4d ago
 
 ---
 
 **[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
 
-The New York Times • 4h ago
+The New York Times • 6h ago
 
 ---
 
-**[Trump says Microsoft will make changes to ensure consumers don't pay for power used in AI buildout](https://www.cnbc.com/2026/01/12/trump-microsoft-changes-ensure-ensure-consumers-dont-pay-for-power-ai.html)**
+**[Hegseth vows to develop military AI without 'woke' constraints](https://www.usatoday.com/story/news/politics/2026/01/12/pete-hegseth-woke-ai-military/88152569007/)**
 
-President Trump said in a social media post that Microsoft will "make major changes beginning this week" to make sure Americans don't see rising energy costs.
+Hegseth has been outspoken about ridding the military of so-called 'woke' policies, including diversity, equity and inclusion efforts.
 
-CNBC • 1h ago
-
----
-
-**[Hands-on with Bee, Amazon’s latest AI wearable](https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/)**
-
-We tried Amazon's new AI wearable Bee. It's not for pro users yet, but more features are expected this year.
-
-TechCrunch • 1h ago
+USA Today • 30m ago
 
 ---
 
-**[Responsible AI Leadership Isn’t Technical—It’s A Leadership Issue](https://www.forbes.com/sites/melissawheeler/2026/01/12/responsible-ai-leadership-isnt-technical-its-a-leadership-issue/)**
+**[Trump Claims He and Microsoft Have a Solution for AI-Related Utility Price Spikes](https://gizmodo.com/trump-claims-he-and-microsoft-have-a-solution-for-ai-related-utility-price-spikes-2000709410)**
 
-Forbes • 1h ago
+Is Microsoftâ¦ going to subsidize our utility bills?
+
+Gizmodo • 8m ago
 
 ---
 
-**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
+**[AI Singapore Collaborates with Dell Technologies to Help Democratise Access to AI in Southeast Asia](https://finance.yahoo.com/news/ai-singapore-collaborates-dell-technologies-020000820.html)**
 
-“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
+AI Singapore (AISG) is working with Dell Technologies to enhance its SEA-LION (Southeast Asian Languages in One Network) family of open-source large language models (LLMs). The organisations are testing and validating SEA-LION models across various Dell AI PCs and edge infrastructure, supporting AISG's efforts towards building models that are resource-efficient and deployable on lightweight setups.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -179,7 +175,7 @@ Yahoo Finance • 1d ago
 
 Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.
 
-BBC • 15h ago
+BBC • 17h ago
 
 ---
 
@@ -187,7 +183,13 @@ BBC • 15h ago
 
 Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
 
-The New Yorker • 14h ago
+The New Yorker • 16h ago
+
+---
+
+**[Behind the Curtain: AI rush creates rarified class of "Have-Lots"](https://www.axios.com/2026/01/12/ai-winners-wealth-inequality)**
+
+Axios • 16h ago
 
 ---
 
@@ -197,7 +199,7 @@ The New Yorker • 14h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1196 • 💬 1529 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1202 • 💬 1531 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -205,7 +207,7 @@ The New Yorker • 14h ago
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 337 • 💬 330 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 338 • 💬 331 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -213,7 +215,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 175 • 💬 60 • 16h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 178 • 💬 60 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -221,7 +223,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 149 • 💬 100 • 5h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 175 • 💬 127 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -229,7 +231,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 125 • 💬 66 • 8h ago • [TryLAD](https://www.trylad.com)
+⬆️ 137 • 💬 76 • 10h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -237,7 +239,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 66 • 💬 32 • 2h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 106 • 💬 58 • 4h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -245,7 +247,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 51 • 💬 40 • 7h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 61 • 💬 48 • 9h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -259,7 +261,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 34 • 💬 4 • 7h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 39 • 💬 4 • 9h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -267,7 +269,7 @@ Superhuman AI was able to exfiltrate sensitive emails from user accounts - witho
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 33 • 💬 43 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 35 • 💬 44 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -281,7 +283,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 902 • 💬 107 • ⏱️ 10:39 • 10h ago
+👁️ 13K • 👍 902 • 💬 107 • ⏱️ 10:39 • 12h ago
 
 ---
 
@@ -291,7 +293,7 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Wes Roth
 
-👁️ 76K • 👍 3K • 💬 627 • ⏱️ 23:05 • 21h ago
+👁️ 76K • 👍 3K • 💬 627 • ⏱️ 23:05 • 23h ago
 
 ---
 
@@ -311,7 +313,7 @@ The Join the #1 community for AI entrepreneurs and connect with 280k+ members: h
 
 📺 Liam Ottley
 
-👁️ 15K • 👍 1K • 💬 67 • ⏱️ 10:29 • 18h ago
+👁️ 15K • 👍 1K • 💬 67 • ⏱️ 10:29 • 20h ago
 
 ---
 
@@ -321,7 +323,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 27K • 👍 251 • 💬 58 • ⏱️ 7:57 • 11h ago
+👁️ 27K • 👍 251 • 💬 58 • ⏱️ 7:57 • 13h ago
 
 ---
 
@@ -371,7 +373,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 63K • 👍 2K • 💬 378 • ⏱️ 17:36 • 1d ago
+👁️ 63K • 👍 2K • 💬 378 • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -411,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 10,682 • ❤️ 732 • 11d ago
+⬇️ 10,682 • ❤️ 732 • 12d ago
 
 ---
 
@@ -459,7 +461,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,603 • ❤️ 361 • 6d ago
+⬇️ 30,603 • ❤️ 361 • 7d ago
 
 ---
 
@@ -561,7 +563,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 20 • 💬 2 • ⭐ 620 • 4d ago
+▲ 20 • 💬 2 • ⭐ 620 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
@@ -641,7 +643,7 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.0k • 9h ago
+⭐ 8.2k • 🔱 1.0k • 11h ago
 
 ---
 
@@ -661,7 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 139 • 26m ago
+⭐ 2.3k • 🔱 139 • 2h ago
 
 ---
 
@@ -671,7 +673,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 73 • 7h ago
+⭐ 2.0k • 🔱 73 • 9h ago
 
 ---
 
@@ -691,7 +693,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 127 • 4m ago
+⭐ 1.5k • 🔱 127 • 1h ago
 
 ---
 
@@ -711,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 4h ago
+⭐ 1.4k • 🔱 115 • 6h ago
 
 ---
 
@@ -731,7 +733,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 15h ago
+⭐ 1.2k • 🔱 143 • 17h ago
 
 ---
 

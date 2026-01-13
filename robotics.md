@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T01:46:56.343592+00:00'
+updated: '2026-01-13T03:39:02.434351+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 01:46 UTC  
+**Last Updated:** January 13, 2026 at 03:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -42,7 +42,13 @@ Robotics research and industry news
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-7h ago
+9h ago
+
+---
+
+**[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
+
+33m ago
 
 ---
 
@@ -50,7 +56,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 6h ago
+🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 8h ago
 
 ---
 
@@ -58,13 +64,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-14h ago
+16h ago
 
 ---
 
 **[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -76,11 +82,19 @@ I was doing research around Zurich and Swiss based robotics startups. Loki Robot
 
 ---
 
+**[Boston Dynamics Knocking it out of the Park.......... Again.](https://www.reddit.com/r/robotics/comments/1qbfwn6/boston_dynamics_knocking_it_out_of_the_park_again/)**
+
+Boston Dynamics is so far ahead of the imitators. Watch how many chinese imitators will look just like Boston Dynamics new model. So predictable. https://www.youtube.com/watch?v=qqi31z-R4hI
+
+39m ago
+
+---
+
 **[Was Figure AI at CES?](https://www.reddit.com/r/robotics/comments/1qb6ttr/was_figure_ai_at_ces/)**
 
 Looking through the recaps and don’t see much about Figure AI. Did anyone see their booth at CES? Anything noteworthy on display?
 
-4h ago
+6h ago
 
 ---
 
@@ -92,33 +106,9 @@ From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wu
 
 ---
 
-**[Robotics coursework (+3k ⭐️ on GitHub)](https://www.reddit.com/r/robotics/comments/1q9w06d/robotics_coursework_3k_on_github/)**
-
-This GitHub repo is basically a curated learning map for anyone trying to get into robotics. So many free courses on almost every topic related to robotics. It’s a structured collection of links to: → robotics courses (online + university) → ROS / embedded / hardware basics → math & algorithms that actually matter for robots Hope that by posting this, at least 10 new robotics builders will be made :) Use it!!! Check it out here: https://github.com/mithi/robotics-coursework
-
-1d ago
-
----
-
-**[January Gazebo Community Meeting: Forest3D Automatic Terrain Generation using Blender [Link Inside]](https://www.reddit.com/r/robotics/comments/1qb3c6o/january_gazebo_community_meeting_forest3d/)**
-
-RSVP Here
-
-7h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
-
-If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
-
-TechCrunch • 3d ago
-
----
 
 **[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
 
@@ -144,23 +134,23 @@ The Verge • 2d ago
 
 ---
 
+**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
+
+If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
+
+TechCrunch • 3d ago
+
+---
+
+**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
+
+Bloomberg.com • 17m ago
+
+---
+
 **[Did that lamp just fold the laundry? Alumni rethink home robotics](https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html)**
 
 Tech Xplore • 2d ago
-
----
-
-**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
-
-Bloomberg.com • 20h ago
-
----
-
-**[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
-
-New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
-
-CNBC • 20h ago
 
 ---
 
@@ -172,6 +162,14 @@ Grand Forks Herald • 1d ago
 
 ---
 
+**[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
+
+New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
+
+CNBC • 22h ago
+
+---
+
 **[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
@@ -180,11 +178,11 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
+**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
 
-Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
+FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
 
-WBAL-TV • 2d ago
+WYMT • 3d ago
 
 ---
 
@@ -198,7 +196,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 135K • 👍 6K • 💬 301 • ⏱️ 17:09 • 12h ago
+👁️ 135K • 👍 6K • 💬 301 • ⏱️ 17:09 • 14h ago
 
 ---
 
@@ -238,7 +236,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 554 • 👍 3 • ⏱️ 2:16 • 3h ago
+👁️ 554 • 👍 3 • ⏱️ 2:16 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T01:46:56.334440+00:00'
+updated: '2026-01-13T03:39:02.425199+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 01:46 UTC  
+**Last Updated:** January 13, 2026 at 03:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,409.57
+### $91,434.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -0.1%  
-**30d:** +5.6%  
+**24h:** -0.8%  
+**7d:** -0.0%  
+**30d:** +5.7%  
 **90d:** -15.4%  
-**1y:** -5.4%  
+**1y:** -5.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,25 +87,27 @@ Rank #1
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-8h ago
-
----
-
-**[Bitcoin is on a need to know basis](https://www.reddit.com/r/Bitcoin/comments/1qb9hmc/bitcoin_is_on_a_need_to_know_basis/)**
-
-3h ago
+10h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-12h ago
+14h ago
+
+---
+
+**[BTW, STRC is 'working'. Every day, millions of dollars is used to buy bitcoin, a massive fiat onramp](https://www.reddit.com/r/Bitcoin/comments/1qbcgb2/btw_strc_is_working_every_day_millions_of_dollars/)**
+
+Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
+
+3h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -115,31 +117,31 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 ---
 
-**[Largest drawdown since the Bitcoin ETFs launched](https://www.reddit.com/r/Bitcoin/comments/1qbdfnd/largest_drawdown_since_the_bitcoin_etfs_launched/)**
-
-The market looks scary right now, but this chart shows we’re just in a standard "health check." We are currently seeing the largest drawdown since the Bitcoin ETFs launched, with the price sitting about 30% below the October highs. The key is the grey line, which is the average cost basis for all the big institutional ETFs. As long as we stay above that line, the "Big Money" is still in the green. Historically, these deep red zones are where the market bottoms out before a major recovery.
-
-36m ago
-
----
-
-**[BTW, STRC is 'working'. Every day, millions of dollars is used to buy bitcoin, a massive fiat onramp](https://www.reddit.com/r/Bitcoin/comments/1qbcgb2/btw_strc_is_working_every_day_millions_of_dollars/)**
-
-Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
-
-1h ago
-
----
-
 **[Here we go!](https://www.reddit.com/r/Bitcoin/comments/1qauf71/here_we_go/)**
 
-12h ago
+14h ago
 
 ---
 
 **[Bullish?](https://www.reddit.com/r/Bitcoin/comments/1qb4im0/bullish/)**
 
-6h ago
+8h ago
+
+---
+
+**[Rise and shine, Hodlers! Don’t forget your cold storage wallets ‘cause institutions want your bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1qauq8n/rise_and_shine_hodlers_dont_forget_your_cold/)**
+
+That’s right, diamond-handed degens, stack those sats while it’s cold out there! Don’t forget your hardware wallets, ‘cause the bears looking to hibernate and the price can pump any minute! And remember, no paper hands today—HODL strong, check your node, and maybe DCA a little more before coffee. It’s gonna be a beautiful day in Bitcoin town!
+
+14h ago
+
+---
+
+**[17 years later: those 10 BTC from the first transaction are worth ~$917,000 USD](https://www.reddit.com/r/Bitcoin/comments/1qbet42/17_years_later_those_10_btc_from_the_first/)**
+
+Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin transaction: on January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney. Back then, they were literally worth $0. Today, with BTC hovering around $91,700 USD (according to data from CoinDesk, Yahoo Finance, and major exchanges), those 10 bitcoins are equivalent to approximately $917,000. From zero to nearly a million in less than two decades, without banks or anyone's permission. The cypherpunk experiment that changed the financial world continues to prove: the future of money is already here And it's still going up!
+
+1h ago
 
 ---
 
@@ -151,13 +153,13 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 19h ago
+The Block • 21h ago
 
 ---
 
@@ -165,7 +167,7 @@ The Block • 19h ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -173,7 +175,29 @@ CoinDesk • 14h ago
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
+
+Forbes • 1h ago
+
+---
+
+**[Asia Market Open: Bitcoin Holds $91k As Nikkei Prints Record High After Wall Street Rally](https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-024939955.html)**
+
+Bitcoin stayed pinned near $91,000 on Tuesday, as traders watched Japan’s stock market burst to fresh records and treated US macro headlines as the next real trigger for crypto direction.In Asia, Japan’s Nikkei surged to an all-time high, climbing as much as 3.6% to 53,814.79, and the Topix also set ...
+
+Yahoo Finance • 8m ago
+
+---
+
+**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
+
+Bitcoin has a lot going for it, but the near term could be bumpy.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -189,7 +213,7 @@ CNBC • 2d ago
 
 Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
 
-CoinDesk • 12h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -198,30 +222,6 @@ CoinDesk • 12h ago
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
 KITCO • 1d ago
-
----
-
-**[Why Bitcoin Cash Slumped 5% Over This Weekend](https://www.fool.com/investing/2026/01/12/why-bitcoin-cash-slumped-5-over-this-weekend/)**
-
-Bitcoin Cash has been among the worst-performing large-cap tokens over the course of the past weekend.
-
-The Motley Fool • 3h ago
-
----
-
-**[Bitcoin's $25 billion legacy exodus secretly cemented Wall Street’s grip on liquidity within 2 years](https://cryptoslate.com/two-years-of-bitcoin-etfs-56-6b-later-wall-street-owns-the-bid/)**
-
-Spot Bitcoin ETFs hit their two-year mark—here’s the brief history, the biggest trends, and what ETFs changed in Bitcoin’s market structure.
-
-CryptoSlate • 1d ago
-
----
-
-**[Fed rate cuts under fire: 5 things to know in Bitcoin this week](https://www.tradingview.com/news/cointelegraph:28bb3c18b094b:0-fed-rate-cuts-under-fire-5-things-to-know-in-bitcoin-this-week/)**
-
-Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
-
-TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 5h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 7h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -264,6 +264,14 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
 ⬆️ 2 • 💬 1 • 3d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+
+---
+
+**[Show HN: I built a watch-only Bitcoin address tracker for iOS](https://news.ycombinator.com/item?id=46592796)**
+
+Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
+
+⬆️ 2 • 💬 0 • 8h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -289,14 +297,6 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 ---
 
-**[Show HN: I built a watch-only Bitcoin address tracker for iOS](https://news.ycombinator.com/item?id=46592796)**
-
-Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
-
-⬆️ 1 • 💬 0 • 6h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
-
----
-
 **[In 2025, Bitcoin showed how spectacularly wrong price forecasts can be](https://news.ycombinator.com/item?id=46527258)**
 
 Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 303 • ⏱️ 41:26 • 10h ago
+👁️ 28K • 👍 1K • 💬 303 • ⏱️ 41:26 • 12h ago
 
 ---
 
@@ -325,7 +325,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 2K • 💬 55 • ⏱️ 8:17 • 12h ago
+👁️ 16K • 👍 2K • 💬 55 • ⏱️ 8:17 • 14h ago
 
 ---
 
@@ -335,7 +335,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 10K • 👍 813 • 💬 435 • ⏱️ 7:34 • 6h ago
+👁️ 10K • 👍 813 • 💬 435 • ⏱️ 7:34 • 8h ago
 
 ---
 
@@ -345,7 +345,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 41K • 👍 2K • 💬 1K • ⏱️ 2:04:54 • 12h ago
+👁️ 41K • 👍 2K • 💬 1K • ⏱️ 2:04:54 • 13h ago
 
 ---
 
@@ -375,7 +375,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 55K • 👍 4K • 💬 151 • ⏱️ 10:58 • 20h ago
+👁️ 55K • 👍 4K • 💬 151 • ⏱️ 10:58 • 22h ago
 
 ---
 
@@ -385,7 +385,7 @@ Federal Reserve Chair Jerome Powell is UNDER INVESTIGATION! The markets are havi
 
 📺 Discover Crypto
 
-👁️ 324 • 👍 33 • 💬 22 • ⏱️ 5:41 • 1h ago
+👁️ 324 • 👍 33 • 💬 22 • ⏱️ 5:41 • 3h ago
 
 ---
 
