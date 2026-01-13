@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T11:22:05.023138+00:00'
+updated: '2026-01-13T11:43:19.730357+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 11:22 UTC  
+**Last Updated:** January 13, 2026 at 11:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 6h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over its misuse to generate explicit images.
 
-🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 2h ago
+🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over i
 
 The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored by Gibson. I'm not sure if the video was created with ai or not. The video was sent to my 70 year old father from a scammer pretending to be her. I know the voice is not hers. First she's Brazilian and her native language is Portuguese. The real Larissa Liveir does speak English but I assume with a heavy accent. There's no accent in this. Can someone please tell me if the video is AI?
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ Yahoo Finance • 1d ago
 
 The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -141,7 +141,7 @@ BBC • 20h ago
 
 In an increasingly artificial world, Gen Z’s need for what’s real has never been stronger.
 
-Ad Age • 22m ago
+Ad Age • 43m ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 1h ago
 
 **[Nvidia Quietly Undermining Tesla’s Physical AI Story](https://www.forbes.com/sites/greatspeculations/2026/01/13/nvidia-quietly-undermining-teslas-physical-ai-story/)**
 
-Forbes • 51m ago
+Forbes • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 1d ago
 
 Defense Secretary Pete Hegseth says the Pentagon will start using Elon Musk's AI chatbot Grok. The word comes days after Grok drew global outcry for generating highly sexualized deepfake images.
 
-CBS News • 52m ago
+CBS News • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ CBS News • 52m ago
 
 Pentagon chief Pete Hegseth unveiled an artificial intelligence strategy for the military, aiming to make the U.S. a global leader in AI and drones.
 
-Fox Business • 5h ago
+Fox Business • 6h ago
 
 ---
 
@@ -249,7 +249,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 90 • 💬 67 • 16h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 90 • 💬 67 • 17h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -257,7 +257,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 49 • 💬 7 • 16h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 49 • 💬 7 • 17h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -283,7 +283,7 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Wes Roth
 
-👁️ 83K • 👍 3K • 💬 667 • ⏱️ 23:05 • 1d ago
+👁️ 84K • 👍 3K • 💬 679 • ⏱️ 23:05 • 1d ago
 
 ---
 
@@ -293,17 +293,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 1K • 💬 146 • ⏱️ 10:39 • 20h ago
-
----
-
-**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
-
-I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
-
-📺 I Ask AI
-
-👁️ 129K • 👍 11K • 💬 2K • ⏱️ 13:08 • 13h ago
+👁️ 18K • 👍 1K • 💬 161 • ⏱️ 10:39 • 20h ago
 
 ---
 
@@ -313,7 +303,7 @@ What happens when the Teenage Mutant Ninja Turtles crash-land on Pandora? In thi
 
 📺 Ai of Euphoria 
 
-👁️ 22K • 👍 441 • 💬 66 • ⏱️ 2:07 • 1d ago
+👁️ 23K • 👍 449 • 💬 66 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -323,27 +313,17 @@ Every month, it feels like a new update, model, or software hits the scene, and 
 
 📺 Seethruthescript
 
-👁️ 3K • 👍 224 • 💬 69 • ⏱️ 24:00 • 1d ago
+👁️ 3K • 👍 228 • 💬 69 • ⏱️ 24:00 • 1d ago
 
 ---
 
-**[Which Crazy Ocean Would You Swim In? | Super Satisfying AI ASMR](https://www.youtube.com/watch?v=Jy6yi-0ZFpY)**
+**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
 
-Tip: Use headphones for a fully immersive ASMR experience. Perfect For: • Meditation and mindfulness sessions • Background ...
+I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
 
-📺 AIsmr
+📺 I Ask AI
 
-👁️ 31K • 👍 3K • 💬 10 • ⏱️ 9:21 • 2d ago
-
----
-
-**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
-
-The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
-
-📺 Nate Ziller
-
-👁️ 326K • 👍 32K • 💬 2K • ⏱️ 4:38 • 2d ago
+👁️ 136K • 👍 12K • 💬 2K • ⏱️ 13:08 • 13h ago
 
 ---
 
@@ -353,7 +333,27 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 39K • 👍 309 • 💬 74 • ⏱️ 7:57 • 21h ago
+👁️ 41K • 👍 320 • 💬 80 • ⏱️ 7:57 • 21h ago
+
+---
+
+**[AI Hype](https://www.youtube.com/watch?v=90XC-Of43eE)**
+
+The next episode of my AI series. The AI character is making using AI, but is still pretty heavily edited. Everything else done ...
+
+📺 Nate Ziller
+
+👁️ 332K • 👍 32K • 💬 2K • ⏱️ 4:38 • 2d ago
+
+---
+
+**[So AI Makes Better Music Than You...Now What?](https://www.youtube.com/watch?v=NkNdnPYtXRw)**
+
+Well, AI music is everywhere and the robots are getting pretty good. But, I don't think we're doomed quite yet. Let's talk about it.
+
+📺 Venus Theory
+
+👁️ 56K • 👍 7K • 💬 1K • ⏱️ 15:12 • 19h ago
 
 ---
 
@@ -363,17 +363,17 @@ In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with s
 
 📺 Dr Brian Keating
 
-👁️ 8K • 👍 222 • 💬 30 • ⏱️ 5:50 • 1d ago
+👁️ 9K • 👍 224 • 💬 30 • ⏱️ 5:50 • 1d ago
 
 ---
 
-**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
+**[The Race to Create the Ultimate AI - Global Eye, BBC World Service](https://www.youtube.com/watch?v=_mtFW2ROEAI)**
 
-Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
+This week on #BBCGlobalEye, AI is changing everything – from how we work to how we live. Cyber correspondent Joe Tidy is in ...
 
-📺 AI Revolution
+📺 BBC World Service
 
-👁️ 35K • 👍 1K • 💬 47 • ⏱️ 14:29 • 1d ago
+👁️ 12K • 👍 245 • 💬 15 • ⏱️ 29:26 • 16h ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 860,720 • ❤️ 879 • 5d ago
+⬇️ 860,720 • ❤️ 886 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 30,479 • ❤️ 534 • 5d ago
+⬇️ 30,479 • ❤️ 536 • 5d ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 11,717 • ❤️ 737 • 12d ago
+⬇️ 11,717 • ❤️ 740 • 12d ago
 
 ---
 
@@ -425,7 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 3,162 • ❤️ 330 • 7d ago
+⬇️ 3,162 • ❤️ 331 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 15,073 • ❤️ 301 • 4d ago
+⬇️ 15,073 • ❤️ 302 • 4d ago
 
 ---
 
@@ -449,7 +449,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 1,062 • ❤️ 231 • 7d ago
+⬇️ 1,062 • ❤️ 234 • 7d ago
 
 ---
 
@@ -461,19 +461,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,825 • ❤️ 365 • 7d ago
-
----
-
-**[Alpamayo-R1-10B](https://huggingface.co/nvidia/Alpamayo-R1-10B)**
-
-*NVIDIA*
-
-Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomous driving, integrating Chain-of-Causation reasoning with diffusion-based trajectory planning for complex scenarios and rare events. It processes multi-camera images, text commands, and egomotion history to output interpretable reasoning traces and a 6.4-second future trajectory.
-
-`robotics` `11.1B`
-
-⬇️ 16,373 • ❤️ 281 • 4d ago
+⬇️ 30,825 • ❤️ 367 • 7d ago
 
 ---
 
@@ -485,7 +473,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 211 • 2d ago
+⬇️ 26,414 • ❤️ 215 • 2d ago
 
 ---
 
@@ -497,7 +485,19 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 23,229 • ❤️ 202 • 3d ago
+⬇️ 23,229 • ❤️ 205 • 3d ago
+
+---
+
+**[Qwen3-VL-Embedding-2B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B)**
+
+*Qwen*
+
+Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generates high-dimensional vectors for text, images, and videos. It excels at cross-modal understanding and retrieval tasks, supporting over 30 languages and customizable embedding dimensions for flexible integration.
+
+`image-to-text` `2.1B`
+
+⬇️ 23,003 • ❤️ 183 • 3d ago
 
 ---
 
@@ -523,7 +523,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 101 • 💬 1 • ⭐ 2,179 • 6d ago
+▲ 102 • 💬 1 • ⭐ 2,179 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -537,7 +537,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
 
-▲ 140 • 💬 4 • ⭐ 114 • 4d ago
+▲ 142 • 💬 4 • ⭐ 114 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
 
@@ -563,7 +563,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 25 • 💬 2 • ⭐ 655 • 5d ago
+▲ 26 • 💬 2 • ⭐ 655 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
@@ -643,7 +643,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.1k • 2h ago
+⭐ 8.2k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -653,7 +653,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 458 • 5d ago
+⭐ 3.5k • 🔱 463 • 5d ago
 
 ---
 
@@ -663,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 95 • 2h ago
+⭐ 2.8k • 🔱 101 • 2h ago
 
 ---
 
@@ -683,17 +683,17 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 230 • 1d ago
+⭐ 2.0k • 🔱 231 • 1d ago
 
 ---
 
 **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
 
-Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
+Learn vibe coding from 0 to 1 | 从实战中学会 vibe coding
 
 `ai` `coding` `course` `genai` `low-code`
 
-⭐ 1.5k • 🔱 128 • 3h ago
+⭐ 1.5k • 🔱 129 • 3h ago
 
 ---
 
@@ -703,7 +703,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.4k • 🔱 73 • 20d ago
+⭐ 1.4k • 🔱 74 • 20d ago
 
 ---
 

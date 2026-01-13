@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T11:22:05.038884+00:00'
+updated: '2026-01-13T11:43:19.748182+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 11:22 UTC  
+**Last Updated:** January 13, 2026 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,7 +78,7 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 Right now i am in class 11. I have a interest in doing robotics. I am confused to decide which bachelors should i need to take.. so that i can specialise in robotics in my masters…
 
-58m ago
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ Fourier GR-3, both the full and baby versions, are among the best looking to me.
 
 **[Rate my Maker space!](https://www.reddit.com/r/robotics/comments/1qbom9e/rate_my_maker_space/)**
 
-11m ago
+33m ago
 
 ---
 
@@ -194,7 +194,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 241K • 👍 8K • 💬 456 • ⏱️ 17:09 • 22h ago
+👁️ 253K • 👍 8K • 💬 473 • ⏱️ 17:09 • 22h ago
 
 ---
 
@@ -208,16 +208,6 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 ---
 
-**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
-
-This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
-
-📺 Cybernews
-
-👁️ 322K • 👍 4K • 💬 714 • ⏱️ 4:29 • 5d ago
-
----
-
 **[Chinese Robots Just SHOCKED Everyone at CES 2026 Expo](https://www.youtube.com/watch?v=Hps7t7liOqM)**
 
 Chinese robotics took center stage at CES 2026, stunning visitors with rapid advances in AI, automation, and humanoid design.
@@ -228,13 +218,23 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 ---
 
+**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
+
+This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
+
+📺 Cybernews
+
+👁️ 323K • 👍 4K • 💬 714 • ⏱️ 4:29 • 5d ago
+
+---
+
 **[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
 
 Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
 
 📺 CNBC
 
-👁️ 114K • 👍 1K • 💬 318 • ⏱️ 11:46 • 1d ago
+👁️ 115K • 👍 1K • 💬 319 • ⏱️ 11:46 • 1d ago
 
 ---
 
@@ -248,23 +248,13 @@ The next generation of Atlas is designed to interact with people and understand 
 
 ---
 
-**[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
-
-Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
-
-📺 Carros Show
-
-👁️ 59K • 👍 511 • 💬 40 • ⏱️ 11:13 • 7d ago
-
----
-
 **[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
 
 Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
 
 📺 The Verge
 
-👁️ 94K • 👍 1K • 💬 157 • ⏱️ 10:48 • 2d ago
+👁️ 94K • 👍 1K • 💬 158 • ⏱️ 10:48 • 2d ago
 
 ---
 
@@ -284,7 +274,17 @@ LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designe
 
 📺 WION
 
-👁️ 6K • 👍 24 • 💬 13 • ⏱️ 1:15 • 6d ago
+👁️ 6K • 👍 25 • 💬 13 • ⏱️ 1:15 • 6d ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 16K • 👍 220 • 💬 37 • ⏱️ 11:29 • 2d ago
 
 ---
 

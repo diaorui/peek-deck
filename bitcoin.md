@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T11:22:05.030749+00:00'
+updated: '2026-01-13T11:43:19.738746+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 11:22 UTC  
+**Last Updated:** January 13, 2026 at 11:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1845.66B
+**Market Cap:** $1837.61B
 Rank #1
 
-**Circulating Supply:** 19,975,290 BTC
+**Circulating Supply:** 19,975,300 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.7%
+-27.0%
 
 **All-Time Low:** $67.81
-+136185.2%
++135568.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-17m ago
+39m ago
 
 ---
 
@@ -99,7 +99,7 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 **[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -115,7 +115,7 @@ The US Senate has released a new draft bill to fix confusion around crypto regul
 
 Crypto taught me something simple: Most people don't lose money. They lose patience. And then call it a scam.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Crypto taught me something simple: Most people don't lose money. They lose patie
 
 FIAT : unlimited supply BTC : 21M Do the math.
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
 
-10h ago
+11h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdKUgDmoIT5gnYLQxEWBQYfazOK6ugksu3jd4L5W4HpY_79Fj5lfSYm&gaa_ts=69662e3d&gaa_sig=rr98LE1C5N2vK22-0X1V4HfJFlWtocyADqMMRdi9vjYUWGbiEXxVYrY0HQDMj1-VbvKuSZk14E9XNFNQLdEAEg%3D%3D)**
 
-Barron's • 30m ago
+Barron's • 51m ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 30m ago
 
 Patching a major vulnerability will result in a higher price for the coin.
 
-The Motley Fool • 52m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ CNBC • 2d ago
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 9m ago
+CCN.com • 31m ago
 
 ---
 
@@ -257,7 +257,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 14h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 15h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -317,7 +317,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 574 • ⏱️ 14:21 • 12h ago
+👁️ 48K • 👍 3K • 💬 587 • ⏱️ 14:21 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 205 • ⏱️ 8:37 • 1d ago
+👁️ 47K • 👍 2K • 💬 204 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -337,17 +337,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 59K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 21h ago
-
----
-
-**[why i&#39;m 100% convinced bitcoin is going to explode here . . .](https://www.youtube.com/watch?v=J9oEalGFY2A)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 14K • 👍 961 • 💬 472 • ⏱️ 7:34 • 16h ago
+👁️ 63K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 22h ago
 
 ---
 
@@ -357,17 +347,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 344 • ⏱️ 41:26 • 19h ago
+👁️ 32K • 👍 1K • 💬 348 • ⏱️ 41:26 • 20h ago
 
 ---
 
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=XAIerBMY1Nc)**
+**[why i&#39;m 100% convinced bitcoin is going to explode here . . .](https://www.youtube.com/watch?v=J9oEalGFY2A)**
 
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-📺 Road To $1 Million USD
+📺 Tyler S
 
-👁️ 5K • 👍 219 • 💬 113 • ⏱️ 7:14 • 1d ago
+👁️ 14K • 👍 980 • 💬 478 • ⏱️ 7:34 • 16h ago
 
 ---
 
@@ -377,7 +367,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 21h ago
+👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 22h ago
 
 ---
 
@@ -387,7 +377,17 @@ Aaron Arnold, Co-Host of Altcoin Daily, discusses the outlook for Bitcoin, Ether
 
 📺 David Lin 
 
-👁️ 4K • 👍 204 • 💬 120 • ⏱️ 42:44 • 7h ago
+👁️ 6K • 👍 294 • 💬 142 • ⏱️ 42:44 • 7h ago
+
+---
+
+**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+
+Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 2K • 💬 163 • ⏱️ 17:17 • 2d ago
 
 ---
 
@@ -401,13 +401,13 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 ---
 
-**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+**[Michael Saylor Just Bought MORE Bitcoin?! | Bitcoin vs Gold 2026](https://www.youtube.com/watch?v=03oz3f8SXQ8)**
 
-Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+Michael Saylor Just Doubled Down on Bitcoin! Here's Why That Matters… South Korea just lifted a 9-year ban on corporate ...
 
-📺 Simply Bitcoin
+📺 CryptosRus Extra
 
-👁️ 31K • 👍 2K • 💬 169 • ⏱️ 17:17 • 2d ago
+👁️ 5K • 👍 261 • 💬 105 • ⏱️ 8:25 • 11h ago
 
 ---
 
