@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T21:22:41.486767+00:00'
+updated: '2026-01-13T21:44:44.020808+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 21:22 UTC  
+**Last Updated:** January 13, 2026 at 21:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ---
 
+**[Elon Musk’s ex-girlfriend: ‘X is amplifying predatory and abusive men’](https://www.reddit.com/r/artificial/comments/1qc2r39/elon_musks_exgirlfriend_x_is_amplifying_predatory/)**
+
+Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘violated’ when the Grok AI chatbot generated sexualised images of her
+
+🔗 [thetimes.com](https://www.thetimes.com/article/0ecbb5ed-29b0-4d1b-bbd5-c613ec65e572?shareToken=206961617deb3028462bb8fb5f780710) • 1h ago
+
+---
+
 **[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.reddit.com/r/artificial/comments/1qbi32n/pentagon_is_embracing_musks_grok_ai_chatbot_as_it/)**
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 16h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 17h ago
 
 ---
 
@@ -65,7 +73,7 @@ McKinsey & Company CEO Bob Sternfels says he wants every employee working alongs
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +81,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-9h ago
+10h ago
 
 ---
 
@@ -109,14 +117,6 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 ---
 
-**[chatgpt vs claude opus 4.5: coding performance breakdown (building a business website)](https://www.reddit.com/r/artificial/comments/1qbkvv6/chatgpt_vs_claude_opus_45_coding_performance/)**
-
-While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
-
-14h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -135,9 +135,11 @@ BBC • 8h ago
 
 ---
 
-**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
+**[Apple picks Google's Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)**
 
-The New York Times • 1d ago
+Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
+
+CNBC • 1d ago
 
 ---
 
@@ -149,31 +151,39 @@ CNBC • 1h ago
 
 ---
 
-**[Aiomics and StreamedUp partner to deliver course on the general ”AI Literacy” required by European law](https://www.usatoday.com/press-release/story/23177/aiomics-and-streamedup-partner-to-deliver-course-on-the-general-ai-literacy-required-by-european-law/)**
+**[AI Chip Startup Etched Raises $500 Million to Take on Nvidia](https://www.bloomberg.com/news/articles/2026-01-13/ai-chip-startup-etched-raises-500-million-to-take-on-nvidia)**
 
-Aiomics partners with the medical education platform StreamedUp to launch a CME-certified curriculum on AI competence.
-
-USA Today • 56m ago
+Bloomberg.com • 50m ago
 
 ---
 
-**[Nvidia Is Launching a Monster AI Supercomputer for Businesses. Here's What You Need to Know](https://www.inc.com/chris-morris/nvidia-is-launching-a-monster-ai-supercomputer-for-businesses/91287483)**
+**[Utah Approves AI Prescriptions Drugs. How AI Is Saving Time, Cutting Costs - and Why Molecule.ai's Drug Discovery Platform Matters More Than Ever](https://finance.yahoo.com/news/utah-approves-ai-prescriptions-drugs-210000403.html)**
 
-inc.com • 1h ago
+Gaithersburg, Maryland--(Newsfile Corp. - January 13, 2026) - Shuttle Pharmaceuticals Holdings, Inc. (NASDAQ: SHPH) ("Shuttle Pharma" or the "Company"), applauds the state of Utah which has become the first state in the United States to allow artificial intelligence systems to authorize prescription refills without direct physician involvement — a regulatory first that signals how AI is beginning to reduce healthcare costs, eliminate delays, and expand access to care.The pilot program, launched.
 
----
-
-**[Robots come for advertising](https://www.axios.com/media-trends-membership/2026/01/13/ai-agents-advertising-automation)**
-
-Axios • 1h ago
+Yahoo Finance • 44m ago
 
 ---
 
-**[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.npr.org/2026/01/13/nx-s1-5675781/pentagon-musks-grok-ai-chatbot-global-outcry)**
+**[Salesforce and Adobe see their stocks slide as AI fears intensify](https://www.marketwatch.com/story/salesforce-and-adobe-see-their-stocks-slide-as-ai-fears-intensify-d0079df7?gaa_at=eafs&gaa_n=AWEtsqc-BpIASQfYGLxs3Dz8C2AviTf2MK0n9nnoXISkhJeE1Az2E-aa9l7e&gaa_ts=6966c033&gaa_sig=JWxd2pmkEaOCdkypxR1a80V1D_JTwBx6C_u1Qr1SFJoBDbs6b3dpf7MiaiGuvF-gUPgXsMA8HN7W3Bo3Vr7LiA%3D%3D)**
 
-Defense Secretary Pete Hegseth said Monday that Elon Musk's artificial intelligence chatbot Grok will join Google's generative AI engine in operating inside the Pentagon network, as part of a broader push to feed as much of the military's data as possible into the developing technology.
+MarketWatch • 9m ago
 
-NPR • 14h ago
+---
+
+**[Building Community-First AI Infrastructure](https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/)**
+
+Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
+
+The Official Microsoft Blog • 8h ago
+
+---
+
+**[Anthropic launches Claude Cowork, a file-managing AI agent that could threaten dozens of startups](https://fortune.com/2026/01/13/anthropic-claude-cowork-ai-agent-file-managing-threaten-startups/)**
+
+The new tool brings Claude Code's capabilities to non-technical users, positioning Anthropic to compete with productivity tools like Microsoft Copilot.
+
+Fortune • 7h ago
 
 ---
 
@@ -185,21 +195,19 @@ The Guardian • 5h ago
 
 ---
 
-**[Mom of one of Elon Musk's kids says AI chatbot Grok generated sexual deepfake images of her: "Make it stop"](https://www.cbsnews.com/news/mom-elon-musks-kid-says-ai-chatbot-grok-generated-sexual-deepfake-images/)**
-
-Ashley St. Clair, the mother of one of Elon Musk's children, alleges Grok generated and published sexual deepfake images of her without permission.
-
-CBS News • 2h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1257 • 💬 1580 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1259 • 💬 1586 • 2d ago • [antirez.com](https://antirez.com/news/158)
+
+---
+
+**[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
+
+⬆️ 389 • 💬 300 • 3h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -207,13 +215,7 @@ CBS News • 2h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 321 • 💬 323 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
-
----
-
-**[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
-
-⬆️ 247 • 💬 167 • 2h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 325 • 💬 324 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -221,7 +223,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 235 • 💬 69 • 2h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 287 • 💬 85 • 3h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -229,7 +231,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 214 • 💬 148 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 215 • 💬 151 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -245,7 +247,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 181 • 💬 101 • 1d ago • [TryLAD](https://www.trylad.com)
+⬆️ 182 • 💬 101 • 1d ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -253,13 +255,13 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 160 • 💬 133 • 9h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 175 • 💬 150 • 9h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 133 • 💬 97 • 11h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+⬆️ 138 • 💬 99 • 11h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -267,7 +269,7 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 116 • 💬 82 • 1d ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 117 • 💬 88 • 1d ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -361,7 +363,7 @@ U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in B
 
 📺 DWS News
 
-👁️ 41K • 👍 564 • 💬 7 • ⏱️ 8:05 • 14h ago
+👁️ 41K • 👍 564 • 💬 7 • ⏱️ 8:05 • 15h ago
 
 ---
 
@@ -641,7 +643,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 4h ago
+⭐ 8.3k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -661,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 125 • 29m ago
+⭐ 3.4k • 🔱 125 • 51m ago
 
 ---
 
@@ -671,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 3h ago
+⭐ 2.3k • 🔱 141 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T21:22:41.494321+00:00'
+updated: '2026-01-13T21:44:44.028721+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 21:22 UTC  
+**Last Updated:** January 13, 2026 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,450.00
+### $94,407.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.4%  
-**7d:** +3.1%  
-**30d:** +8.9%  
-**90d:** -12.8%  
-**1y:** -2.4%  
+**24h:** +3.2%  
+**7d:** +3.2%  
+**30d:** +9.1%  
+**90d:** -12.7%  
+**1y:** -2.3%  
 
 ---
 
@@ -76,6 +76,22 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[This message was embedded in Bitcoin's 666,666th block.](https://www.reddit.com/r/Bitcoin/comments/1qc1p2d/this_message_was_embedded_in_bitcoins_666666th/)**
+
+Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transactions Block reward: 6.25 BTC + fees
+
+1h ago
+
+---
+
+**[Singer Teyana Taylor spotted wearing a Satoshi Nakamoto jacket after the Golden Globes.](https://www.reddit.com/r/Bitcoin/comments/1qbtwlo/singer_teyana_taylor_spotted_wearing_a_satoshi/)**
+
+Bitcoin is going mainstream 🚀
+
+6h ago
+
+---
 
 **[Every crypto cycle in one chart](https://www.reddit.com/r/Bitcoin/comments/1qbpjbf/every_crypto_cycle_in_one_chart/)**
 
@@ -121,23 +137,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-1h ago
-
----
-
-**[This message was embedded in Bitcoin's 666,666th block.](https://www.reddit.com/r/Bitcoin/comments/1qc1p2d/this_message_was_embedded_in_bitcoins_666666th/)**
-
-Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transactions Block reward: 6.25 BTC + fees
-
-1h ago
-
----
-
-**[Singer Teyana Taylor spotted wearing a Satoshi Nakamoto jacket after the Golden Globes.](https://www.reddit.com/r/Bitcoin/comments/1qbtwlo/singer_teyana_taylor_spotted_wearing_a_satoshi/)**
-
-Bitcoin is going mainstream 🚀
-
-6h ago
+2h ago
 
 ---
 
@@ -175,17 +175,37 @@ TradingView — Track All Markets • 6h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqe_4wx_zeoW47Y-NYKacUkmV_jlFptiKN8k7j7wiOd8JBNPb7_tOrNz&gaa_ts=6966ae1d&gaa_sig=c0rBBSVLNJcUap6Y7cPni2KuE-nCOdpjVh0Z8aYELSxL_azdPpE1QRmCZIe6Lve04CclbDP5IwuwxtAMX1zqvQ%3D%3D)**
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdGYaOTLDWksfV-SZ19HBtSNgU264Zmnz08xcjuZA4wG3Pj1hSxjLg2&gaa_ts=6966c035&gaa_sig=e95GTt6uNlFoPsc2VTq7kFEPX_fx5ykoQo49Chcf9hr-WYwc4ElYABHkZn19lZU4nRk0pNQYE7-gMWd6yaZwrg%3D%3D)**
 
 Barron's • 10h ago
 
 ---
 
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://finance.yahoo.com/news/blackrock-moves-339m-bitcoin-traders-111215711.html)**
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-BlackRock moved approximately $361 million worth of Bitcoin and Ethereum to Coinbase Prime. While transfers to Coinbase Prime don’t automatically signal a sale, market observers ...
+CCN.com • 10h ago
 
-Yahoo Finance • 10h ago
+---
+
+**[Michael Saylor slams interviewer for questioning Bitcoin treasury model: ‘Ignorant and offensive’](https://www.dlnews.com/articles/markets/michael-saylor-hits-back-at-criticism-of-bitcoin-treasury-model/)**
+
+Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
+
+dlnews.com • 2h ago
+
+---
+
+**[VanEck Says Bitcoin Could Hit $53M. Here's What It Would Take](https://finance.yahoo.com/news/vaneck-says-bitcoin-could-hit-204001222.html)**
+
+Bitcoin could reach $53.4 million by 2050, according to VanEck. VanEck said in a Jan. 8 post that in its bull case, Bitcoin captures 20% of international trade and 10% of domestic GDP, sending its value to $53.4 million by...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Crypto Suddenly Braced For A ‘Massive’ Shock As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/01/13/crypto-suddenly-braced-for-a-massive-shock-as-the-bitcoin-price-soars/)**
+
+Forbes • 5h ago
 
 ---
 
@@ -197,31 +217,11 @@ dlnews.com • 1d ago
 
 ---
 
-**[Crypto Suddenly Braced For A ‘Massive’ Shock As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/01/13/crypto-suddenly-braced-for-a-massive-shock-as-the-bitcoin-price-soars/)**
+**[Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid](https://bitcoinmagazine.com/markets/bitcoin-price-jumps-above-92500)**
 
-Forbes • 5h ago
+The bitcoin price briefly rose above $92,700 after December U.S. CPI came in at 2.7% year over year, matching expectations and keeping markets focused on the Fed’s policy outlook.
 
----
-
-**[Bitcoin is “transitioning out of its most stressed phase”](https://sherwood.news/crypto/bitcoin-is-transitioning-out-of-its-most-stressed-phase/)**
-
-Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
-
-Sherwood News • 6h ago
-
----
-
-**[Bitcoin broke its classic macro correlation because the market is suddenly pricing a terrifying new risk](https://cryptoslate.com/crypto-traders-must-watch-three-specific-trust-signals-as-the-fed-faces-an-unprecedented-political-threat/)**
-
-The "rates up, bitcoin down" era is over—here is the exact dashboard you need to trade the fallout.
-
-CryptoSlate • 1d ago
-
----
-
-**[Taste Test: Penn Quarter's new "not a MAGA" Bitcoin bar](https://www.axios.com/local/washington-dc/2026/01/13/pubkey-bitcoin-bar-review-trump-penn-quarter)**
-
-Axios • 6h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 202 • ⏱️ 8:37 • 1d ago
+👁️ 49K • 👍 2K • 💬 202 • ⏱️ 8:37 • 2d ago
 
 ---
 
@@ -365,7 +365,7 @@ The 2026 Bull Run just got a massive booster shot. In today's video, we are brea
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 610 • 💬 60 • ⏱️ 52:06 • 4h ago
+👁️ 6K • 👍 610 • 💬 60 • ⏱️ 52:06 • 5h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 932 • 💬 91 • ⏱️ 19:27 • 9h ago
+👁️ 17K • 👍 932 • 💬 91 • ⏱️ 19:27 • 10h ago
 
 ---
 
@@ -395,7 +395,7 @@ Michael Saylor Just Doubled Down on Bitcoin! Here's Why That Matters… South Ko
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 291 • 💬 191 • ⏱️ 8:25 • 20h ago
+👁️ 5K • 👍 291 • 💬 191 • ⏱️ 8:25 • 21h ago
 
 ---
 

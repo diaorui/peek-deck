@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T21:22:41.502501+00:00'
+updated: '2026-01-13T21:44:44.036869+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 21:22 UTC  
+**Last Updated:** January 13, 2026 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,6 +62,12 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 ---
 
+**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
+
+2h ago
+
+---
+
 **[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
@@ -70,9 +76,9 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 ---
 
-**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
+**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-2h ago
+11h ago
 
 ---
 
@@ -84,12 +90,6 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 ---
 
-**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
-
-11h ago
-
----
-
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
 1d ago
@@ -98,13 +98,21 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 **[StackChan, a 100% Open-Source Robot by M5Stack Now Live on Kickstarter!](https://www.reddit.com/r/robotics/comments/1qbr8b5/stackchan_a_100_opensource_robot_by_m5stack_now/)**
 
-7h ago
+8h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
+
+ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
+
+Seeking Alpha • 1h ago
+
+---
 
 **[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
 
@@ -114,11 +122,19 @@ Financial Times • 16h ago
 
 ---
 
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+**[Are AI robots ready to do household chores?](https://www.bbc.com/news/videos/c5yxk3yznxyo)**
 
-Joe Tidy meets robots being trained to tidy up all your mess.
+Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
 
-BBC • 1d ago
+BBC • 7h ago
+
+---
+
+**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
+
+Home robots need common sense behavior and a deep understanding of the physical world.
+
+1X | Home Robots • 1d ago
 
 ---
 
@@ -130,35 +146,17 @@ TechCrunch • 4h ago
 
 ---
 
-**[WIRobotics Concludes CES 2026, Advancing into Execution Phase of Global Collaboration Across Humanoid and Wearable Robotics](https://finance.yahoo.com/news/wirobotics-concludes-ces-2026-advancing-170000720.html)**
+**[UND organizers hope robotics competition's location in Alerus Center will help draw attention to the sport](https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport)**
 
-WIRobotics, a global robotics company co-led by Co-CEOs Younbaek Lee and Yongjae Kim, announced the successful conclusion of its participation at CES 2026, marking a shift from technology demonstration to the execution phase of global collaboration across both humanoid and wearable robotics.
+“This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
-
-Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
-
-WBAL-TV • 2d ago
+Grand Forks Herald • 2d ago
 
 ---
 
-**[Hyundai Motor Shares Hit Records as Robotics Drive $24 Billion Rally](https://finance.yahoo.com/news/hyundai-motor-shares-hit-records-175641807.html)**
+**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
 
-Hyundai Motor group stocks surge after Atlas robot debut and Nvidia partnership lifts robotics optimism.
-
-Yahoo Finance • 3h ago
-
----
-
-**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
-
-ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
-
-Seeking Alpha • 1h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -178,9 +176,11 @@ TechRadar • 1d ago
 
 ---
 
-**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
 
-Bloomberg.com • 18h ago
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+
+The Robot Report • 35m ago
 
 ---
 
@@ -284,7 +284,7 @@ REBUILT Robot Systems Overview | Monday Recap | Ri3D Cranberry Alarm The robot i
 
 📺 FUN Robotics Network
 
-👁️ 8K • 👍 137 • 💬 7 • ⏱️ 27:12 • 17h ago
+👁️ 8K • 👍 137 • 💬 7 • ⏱️ 27:12 • 18h ago
 
 ---
 
