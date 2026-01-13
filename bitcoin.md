@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T14:27:28.428805+00:00'
+updated: '2026-01-13T14:54:17.633138+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 14:27 UTC  
+**Last Updated:** January 13, 2026 at 14:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -99,7 +99,7 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-35m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -121,7 +121,7 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-10h ago
+11h ago
 
 ---
 
@@ -137,13 +137,13 @@ everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
 Crypto taught me something simple: Most people don't lose money. They lose patience. And then call it a scam.
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1d ago
 
 The U.S. Consumer Price Index came in roughly in line with expectations as market participants largely expects the Fed to leave rates unchanged at the January meeting.
 
-CoinDesk • 20m ago
+CoinDesk • 47m ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 16h ago
 
 21Shares has launched its Bitcoin and gold exchange-traded product, BOLD, on the London Stock Exchange, offering UK retail investors a regulated, physically backed vehicle combining both assets.
 
-Bitcoin Magazine • 3m ago
+Bitcoin Magazine • 30m ago
 
 ---
 
@@ -211,7 +211,7 @@ CCN.com • 3h ago
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqcFjgGJ_llsIOjgV9DlX624DcZOv3rN3CY2CKTLJ0SNEF21g_FBYC1y&gaa_ts=696659b9&gaa_sig=JtVyisxI1Qb0RPcA6cbfKeh7elTVgUPyhW7PdL--Co6VmLbpt-oB94wujMoxqiSovkn2fRYY91jtDJU4DscmUA%3D%3D)**
 
-Barron's • 3h ago
+Barron's • 4h ago
 
 ---
 
@@ -253,7 +253,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 17h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 18h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 

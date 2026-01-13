@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T14:27:28.420500+00:00'
+updated: '2026-01-13T14:54:17.624747+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- social
 - repositories
 - news
-- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 14:27 UTC  
+**Last Updated:** January 13, 2026 at 14:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 9h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over i
 
 The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored by Gibson. I'm not sure if the video was created with ai or not. The video was sent to my 70 year old father from a scammer pretending to be her. I know the voice is not hers. First she's Brazilian and her native language is Portuguese. The real Larissa Liveir does speak English but I assume with a heavy accent. There's no accent in this. Can someone please tell me if the video is AI?
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is similar to having a real coworker complete tasks while you work on something else. Claude creates a plan, carries it out, and keeps you informed. The truth is, though, that this feels both strong and a little scary. If your prompt isn't clear, Claude can actually take action on your files, which could cause problems. Additionally, there are real worries regarding file access and safety. Has anyone here used Cowork yet? Blog link is in the comments.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ I recently read Claude's blog, and to be honest, this could really change how we
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-8h ago
+9h ago
 
 ---
 
@@ -163,13 +163,13 @@ Fast Company • 1h ago
 
 Microsoft is trying to win over communities concerned about AI data centers
 
-ABC News • 17m ago
+ABC News • 44m ago
 
 ---
 
 **[Middle managers have the jobs AI still can't do](https://qz.com/middle-management-jobs-ai)**
 
-qz.com • 20m ago
+qz.com • 47m ago
 
 ---
 
@@ -177,7 +177,7 @@ qz.com • 20m ago
 
 The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -185,7 +185,7 @@ BBC • 23h ago
 
 Defense Secretary Pete Hegseth says the Pentagon will start using Elon Musk's AI chatbot Grok. The word comes days after Grok drew global outcry for generating highly sexualized deepfake images.
 
-CBS News • 3h ago
+CBS News • 4h ago
 
 ---
 
@@ -249,13 +249,13 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 105 • 💬 76 • 19h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 105 • 💬 76 • 20h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 101 • 💬 61 • 4h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+⬆️ 101 • 💬 61 • 5h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -263,7 +263,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 52 • 💬 7 • 19h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 52 • 💬 7 • 20h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -345,7 +345,7 @@ Tip: Use headphones for a fully immersive ASMR experience. Perfect For: • Medi
 
 📺 AIsmr
 
-👁️ 32K • 👍 3K • 💬 10 • ⏱️ 9:21 • 2d ago
+👁️ 32K • 👍 3K • 💬 10 • ⏱️ 9:21 • 3d ago
 
 ---
 
@@ -373,7 +373,7 @@ Malaysia and Indonesia have banned Elon Musk's AI chatbot Grok amid concerns it'
 
 📺 Maggie McGaugh
 
-👁️ 229K • 👍 9K • 💬 100 • ⏱️ 0:49 • 20h ago
+👁️ 229K • 👍 9K • 💬 100 • ⏱️ 0:49 • 21h ago
 
 ---
 
@@ -461,7 +461,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 222 • 29m ago
+⬇️ 26,414 • ❤️ 222 • 55m ago
 
 ---
 
@@ -485,7 +485,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 23,229 • ❤️ 209 • 3d ago
+⬇️ 23,229 • ❤️ 209 • 4d ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 27m ago
+⭐ 2.3k • 🔱 141 • 54m ago
 
 ---
 
@@ -693,7 +693,7 @@ Learn vibe coding from 0 to 1 | 从实战中学会 vibe coding
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.5k • 🔱 129 • 1h ago
+⭐ 1.5k • 🔱 129 • 2h ago
 
 ---
 

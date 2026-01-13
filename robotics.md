@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T14:27:28.438187+00:00'
+updated: '2026-01-13T14:54:17.646772+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 14:27 UTC  
+**Last Updated:** January 13, 2026 at 14:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -92,7 +92,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Does anyone know of any model kits/figures/statues etc. of robots that actually exist? I have always thought the Atlas and Spot robots from Boston Dynamics looked really neat and would love a model of them on my desk. I haven't had luck finding any models that are based on real robots.
 
-20m ago
+47m ago
 
 ---
 
@@ -118,7 +118,7 @@ Engadget • 2d ago
 
 Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
 
-BBC • 15m ago
+BBC • 42m ago
 
 ---
 
@@ -132,7 +132,7 @@ Bloomberg.com • 1d ago
 
 By 2026, the convergence of Generative AI and humanoid form factors will enable robots to autonomously execute complex tasks. With 85 million global jobs projected to go unfilled by 2030, intelligent robots will transition from novelty to essential workforce multipliersChicago, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The global robotics market was valued at US$ 51.51 billion in 2025 and is projected to hit the market valuation of US$ 199.50 billion by 2035 at a CAGR of 14.5% during the forecast period
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
