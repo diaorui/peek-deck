@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T09:52:58.713427+00:00'
+updated: '2026-01-13T10:26:03.923203+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 09:52 UTC  
+**Last Updated:** January 13, 2026 at 10:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum is meant to be a home for trustless and trust-minimized applications, w
 
 Ethereum did a lot in 2025: gas limits increased, blob count increased, node software quality improved, zkEVMs blasted through their performance milestones, and with zkEVMs and PeerDAS ethereum made its largest step toward being a fundamentally new and more powerful kind of blockchain (more on this later) But we have a challenge: Ethereum needs to do more to meet its own stated goals. Not the quest of "winning the next meta" regardless of whether it's tokenized dollars or political memecoins, not arbitrarily convincing people to help us fill up blockspace to make ETH ultrasound again, but the mission: To build the world computer that serves as a central infrastructure piece of a more free and open internet. We're building decentralized applications. Applications that run without fraud, censorship or third-party interference. Applications that pass the walkaway test: they keep running even if the original developers disappear. Applications where if you're a user, you don't even notice if Cloudflare goes down - or even if all of Cloudflare gets hacked by North Korea. Applications whose stability transcends the rise and fall of companies, ideologies and political parties. And applications that protect your privacy. All this - for finance, and also for identity, governance and whatever other civilizational infrastructure people want to build. These properties sound radical, but we must remember that a generation ago any wallet, kitchen appliance, book or car would fulfill every single one of them. Today, all of the above are by default becoming subscription services, consigning you to permanent dependence on some centralized overlord. Ethereum is the rebellion against this. To achieve this, it needs to be (i) usable, and usable at scale, and (ii) actually decentralized. This needs to happen at both (a) the blockchain layer, including the software we use to run and talk to the blockchain, and (b) the application layer. All of these pieces must be improved - they are already being improved, but they must be improved more. Fortunately, we have powerful tools on our side - but we need to apply them, and we will. Wishing everyone an exciting 2026. Milady.
 
-4h ago
+5h ago
 
 ---
 
@@ -120,7 +120,7 @@ IMO there are three problems to doing so: Ideally figure out an index to track t
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 14h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 15h ago
 
 ---
 
@@ -136,7 +136,7 @@ I agree with maybe 60% of this, but one bit that is particularly important to hi
 
 Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-13h ago
+14h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -194,13 +194,13 @@ The Motley Fool • 6h ago
 
 The Bank of Italy has published a working paper exploring how to handle a loss of faith in a public blockchain, with Ethereum as one example. It sees it
 
-ledgerinsights.com • 16h ago
+ledgerinsights.com • 17h ago
 
 ---
 
 **[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
 
-thedefiant.io • 18h ago
+thedefiant.io • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 7K • 👍 322 • 💬 38 • ⏱️ 12:31 • 12h ago
+👁️ 7K • 👍 322 • 💬 38 • ⏱️ 12:31 • 13h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays v
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 27 • 💬 5 • ⏱️ 2:01 • 12h ago
+👁️ 4K • 👍 27 • 💬 5 • ⏱️ 2:01 • 13h ago
 
 ---
 
@@ -278,7 +278,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 1K • 💬 263 • ⏱️ 14:17 • 20h ago
+👁️ 12K • 👍 1K • 💬 263 • ⏱️ 14:17 • 21h ago
 
 ---
 
@@ -298,7 +298,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 695 • 💬 115 • ⏱️ 19:18 • 18h ago
+👁️ 20K • 👍 695 • 💬 115 • ⏱️ 19:18 • 19h ago
 
 ---
 

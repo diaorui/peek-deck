@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T09:52:58.700599+00:00'
+updated: '2026-01-13T10:26:03.908265+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 09:52 UTC  
+**Last Updated:** January 13, 2026 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over its misuse to generate explicit images.
 
-🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 1h ago
+🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over i
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 4h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored
 
 OpenAI launches Health and Jobs agents Claude Code 2.1.0 drops with 1096 commits Cursor agent reduces tokens by 47% A collection of AI Agent Updates! (yes made by me, a human, lmao)🧵 1. Claude Code 2.1.0 Released with Major Agent Updates 1096 commits shipped. Add hooks to agents & skills frontmatter, agents no longer stop on denied tool use, custom agent support, wildcard tool permissions, and multilingual support. Huge agentic workflow improvements. 2. OpenAI Launches ChatGPT Health Agent Dedicated space for health conversations. Securely connect medical records and wellness apps so responses are grounded in your health data. Designed to help navigate medical care, not replace it. Early access waitlist open. The personal health agent is now available. 3. Cursor Agent Implements Dynamic Context More intelligent context filling across all models while maintaining same quality. Reduces total tokens by 46.9% when using multiple MCP servers. Their agent efficiency is now dramatically improved. 4. Firecrawl Adds GitHub Search for Agents Set category: "github" on /search to get repos, starter kits, and open source projects with structured data in one call. Available in playground, API, and SDKs. Agents can now search GitHub programmatically. 5. Anthropic Publishes Guide on Evaluating AI Agents New engineering blog post: "Demystifying evals for AI agents." Shares evaluation strategies from real-world deployments. Addresses why agent capabilities make them harder to evaluate. Best practices for agent evaluation released. 6. Tailwind Lays Off 75% of Team Due to AI Agent Usage CSS framework became extremely popular with AI coding agents (75M downloads/mo). But agents don't visit docs where they promoted paid offerings. Result: 40% traffic drop, 80% revenue loss. Proves agents can disrupt business models. 7. Cognition Partners with Infosys to Deploy Devin AI Agent Infosys rolling out Devin across engineering organization and global client base. Early results show significant productivity gains, including complex COBOL migrations completed in record time. New enterprise deployment for coding agents. 8. ERC-8004 Proposal: Trustless AI Agents onchain New proposal enables agents from different orgs to interact without pre-existing trust. Three registries: Identity (unique identifiers), Reputation (scoring system), Verification (independent validator checks). Infra for cross-organizational agent interaction. 9. Early Look at Grok Build Coding Agent from xAI Vibe coding solution arriving as CLI tool with web UI support on Grok. Initially launching as local agent with CLI interface. Remote coding agents planned for later. xAI entering coding agent competition. 10. OpenAI Developing ChatGPT Jobs Career Agent Help with resume tips, job search, and career guidance. Features: resume improvement and positioning, role exploration, job search and comparison. Follows ChatGPT Health launch. What will they build once Health and Jobs are complete? That's a wrap on this week's Agentic news. Which update impacts you the most? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenAI launches Health and Jobs agents Claude Code 2.1.0 drops with 1096 commits
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-51m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-51m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ I used to prep by panic googling at midnight and it often took my whole evening.
 
 While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
 
-2h ago
+3h ago
 
 ---
 
@@ -133,7 +133,7 @@ Yahoo Finance • 1d ago
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-The Guardian • 22h ago
+The Guardian • 23h ago
 
 ---
 
@@ -141,13 +141,13 @@ The Guardian • 22h ago
 
 Malaysia's communications regulator said on Tuesday it will take legal action against social media ​platform X due to concerns over user safety in relation ‌to artificial intelligence feature Grok.  The generative AI chatbot Grok has sparked a global ‌backlash by allowing users to create and publish sexualised images, prompting authorities around the world to take action against xAI, the Elon Musk-led firm behind the chatbot.  Malaysia and Indonesia temporarily blocked Grok over the ⁠weekend, while Britain's media ‌regulator launched an investigation into Musk's X and French officials have reported the social media firm to prosecutors ‍and regulators.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
 **[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -159,7 +159,7 @@ Barron's • 2h ago
 
 **[California’s New Law On AI Companions Gets Underway To Protect Users From Mental Ruin By Pushy LLMs](https://www.forbes.com/sites/lanceeliot/2026/01/13/californias-new-law-on-ai-companions-gets-underway-to-protect-users-from-mental-ruin-by-pushy-llms/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 1h ago
 
 This AI and robotics company is growing like wildfire, but still has a lot to prove.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ NPR • 3h ago
 
 Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 233 • 💬 206 • 13h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 233 • 💬 206 • 14h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -231,7 +231,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 180 • 💬 117 • 10h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 180 • 💬 117 • 11h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -239,7 +239,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 162 • 💬 85 • 16h ago • [TryLAD](https://www.trylad.com)
+⬆️ 162 • 💬 85 • 17h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -269,7 +269,7 @@ Superhuman AI was able to exfiltrate sensitive emails from user accounts - witho
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 35 • 💬 44 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 35 • 💬 44 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -293,7 +293,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 1K • 💬 146 • ⏱️ 10:39 • 18h ago
+👁️ 18K • 👍 1K • 💬 146 • ⏱️ 10:39 • 19h ago
 
 ---
 
@@ -303,7 +303,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 129K • 👍 11K • 💬 2K • ⏱️ 13:08 • 11h ago
+👁️ 129K • 👍 11K • 💬 2K • ⏱️ 13:08 • 12h ago
 
 ---
 
@@ -353,7 +353,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 39K • 👍 309 • 💬 74 • ⏱️ 7:57 • 19h ago
+👁️ 39K • 👍 309 • 💬 74 • ⏱️ 7:57 • 20h ago
 
 ---
 
@@ -663,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 95 • 58m ago
+⭐ 2.6k • 🔱 95 • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 8h ago
+⭐ 2.3k • 🔱 141 • 9h ago
 
 ---
 
@@ -693,7 +693,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `genai` `low-code`
 
-⭐ 1.5k • 🔱 128 • 1h ago
+⭐ 1.5k • 🔱 128 • 2h ago
 
 ---
 
@@ -713,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 12h ago
+⭐ 1.4k • 🔱 115 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T09:52:58.708139+00:00'
+updated: '2026-01-13T10:26:03.916845+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 09:52 UTC  
+**Last Updated:** January 13, 2026 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -99,7 +99,7 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -107,7 +107,7 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-16h ago
+17h ago
 
 ---
 
@@ -139,13 +139,13 @@ FIAT : unlimited supply BTC : 21M Do the math.
 
 Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin transaction: on January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney. Back then, they were literally worth $0. Today, with BTC hovering around $91,700 USD (according to data from CoinDesk, Yahoo Finance, and major exchanges), those 10 bitcoins are equivalent to approximately $917,000. From zero to nearly a million in less than two decades, without banks or anyone's permission. The cypherpunk experiment that changed the financial world continues to prove: the future of money is already here And it's still going up!
 
-7h ago
+8h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Powell vows to hold firm as Trump launches new attack on Fed. Bitcoin’s price briefly jumped 2% before returning to just above $90,000.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 1d ago
 
 The ETP offers physically backed exposure to bitcoin and gold in a single investment vehicle.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 1h ago
 
 Bitcoin and ether traders are betting on low volatility and reduced near-term risks despite resilient dollar index and tepid demand for spot ETFs.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 2h ago
 
 Bitcoin is stabilizing after last week’s pullback, yet growing leverage and fading spot demand leave the market vulnerable to sharp moves.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -217,7 +217,7 @@ CNBC • 2d ago
 
 **[Bitcoin, XRP Prices Rise. Why a Familiar Catalyst Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-xrp-prices-crypto-legislation-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdXaFG-Gl9XoHQYpPnzLbX21MP2lNIWm_uf8sqcmZzEf7f4gVDOrapA&gaa_ts=6966195f&gaa_sig=uzqpMOi5MqpvZghyChXWbDThadppStAyVdBURc6OLmuhooSjphATC_Vp-BFhQkNiEJnbYjRW45m6N4X90pDZIw%3D%3D)**
 
-Barron's • 58m ago
+Barron's • 1h ago
 
 ---
 
@@ -275,7 +275,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 14h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 15h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -283,7 +283,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 4d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 5d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -319,7 +319,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 574 • ⏱️ 14:21 • 10h ago
+👁️ 43K • 👍 2K • 💬 574 • ⏱️ 14:21 • 11h ago
 
 ---
 
@@ -349,7 +349,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 961 • 💬 472 • ⏱️ 7:34 • 14h ago
+👁️ 14K • 👍 961 • 💬 472 • ⏱️ 7:34 • 15h ago
 
 ---
 
@@ -389,7 +389,7 @@ Aaron Arnold, Co-Host of Altcoin Daily, discusses the outlook for Bitcoin, Ether
 
 📺 David Lin 
 
-👁️ 4K • 👍 204 • 💬 120 • ⏱️ 42:44 • 5h ago
+👁️ 4K • 👍 204 • 💬 120 • ⏱️ 42:44 • 6h ago
 
 ---
 

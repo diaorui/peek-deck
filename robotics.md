@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T09:52:58.716295+00:00'
+updated: '2026-01-13T10:26:03.926550+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 09:52 UTC  
+**Last Updated:** January 13, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-2h ago
+3h ago
 
 ---
 
@@ -56,7 +56,7 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-15h ago
+16h ago
 
 ---
 
@@ -64,7 +64,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Fourier GR-3, both the full and baby versions, are among the best looking to me. Their designers deserved a raise!
 
-🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 5h ago
+🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey guys I have a comp engineering undergrad and most recently was building dist
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-22h ago
+23h ago
 
 ---
 
@@ -148,7 +148,7 @@ TechCrunch • 3d ago
 
 The food robotics market offers significant opportunities, driven by the integration of advanced robotics in culinary processes. Key areas include enhanced efficiency, safety, and innovation in food production and logistics. Regulatory shifts and demand for sustainable operations are boosting robotic adoption, especially in cold chain and manufacturing, creating strategic investment potential globally. Food Robotics Market Food Robotics Market Dublin, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The "Food
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 241K • 👍 8K • 💬 456 • ⏱️ 17:09 • 20h ago
+👁️ 241K • 👍 8K • 💬 456 • ⏱️ 17:09 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 59K • 👍 511 • 💬 40 • ⏱️ 11:13 • 6d ago
+👁️ 59K • 👍 511 • 💬 40 • ⏱️ 11:13 • 7d ago
 
 ---
 
@@ -278,7 +278,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 2 • ⏱️ 2:16 • 11h ago
+👁️ 1K • 👍 2 • ⏱️ 2:16 • 12h ago
 
 ---
 
