@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T03:39:02.416814+00:00'
+updated: '2026-01-13T04:41:35.875844+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 03:39 UTC  
+**Last Updated:** January 13, 2026 at 04:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
-
-Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
-
-🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 7h ago
-
----
-
 **[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/)**
 
 By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
@@ -57,7 +49,15 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-8h ago
+9h ago
+
+---
+
+**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
+
+Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
+
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Thrilled to be launching Plano today - delivery infrastructure for agentic apps:
 
 We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
 
-23h ago
+1d ago
 
 ---
 
@@ -81,7 +81,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-16h ago
+17h ago
 
 ---
 
@@ -89,7 +89,7 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis
 
-9h ago
+10h ago
 
 ---
 
@@ -123,27 +123,27 @@ I have an old collection of music around 20-30yo on my hard drive and some of it
 
 The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqc5lFph9ff9zXvrpEpWuw64AfUN59KXKQwbX71DEIZSBRkKV_fM1BzM&gaa_ts=6965c1c1&gaa_sig=VmAr2P6HH5ZAlmSNVWmg3H_a6AT5MNCAEEbjauvIebMR1XeaJ6EkHo7kITDlubr2f_FvFwPtAACBBcVGrmwidA%3D%3D)**
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdWgTZFT3C6e6SdAzcaOJL8ImWzvHtxvcS1G-pdLyXnCu7iMv7Ei7CQ&gaa_ts=6965d063&gaa_sig=hFg2mmaGkPMjxdSkmKHtC-8rLOKXgivdyKRv6Aux4hpDgjjBZ620BFFsFN68iJ4vClbj5IoTIizYR9pMuhwg-A%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
 ---
 
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
+**[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
 
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
+Guardian investigation finds AI Overviews provided inaccurate and false information when queried over blood tests
 
-blog.google • 4d ago
+The Guardian • 1d ago
 
 ---
 
-**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
+**[Gemini will power Apple's Siri](https://www.axios.com/2026/01/13/apple-intelligence-google-gemini-siri)**
 
-The New York Times • 6h ago
+Axios • 1h ago
 
 ---
 
@@ -151,23 +151,29 @@ The New York Times • 6h ago
 
 Hegseth has been outspoken about ridding the military of so-called 'woke' policies, including diversity, equity and inclusion efforts.
 
-USA Today • 30m ago
+USA Today • 1h ago
 
 ---
 
-**[Trump Claims He and Microsoft Have a Solution for AI-Related Utility Price Spikes](https://gizmodo.com/trump-claims-he-and-microsoft-have-a-solution-for-ai-related-utility-price-spikes-2000709410)**
+**[Hochul’s gigawatt-sized gaslighting on AI data centers](https://nypost.com/2026/01/12/opinion/hochuls-gigawatt-sized-gaslighting-on-ai-data-centers/)**
 
-Is Microsoftâ¦ going to subsidize our utility bills?
+Every press conference and X video treating data centers as the boogeyman distracts from the far more complicated, but fixable, problems that are driving state electricity costs into the stratosphe…
 
-Gizmodo • 8m ago
+New York Post • 2h ago
 
 ---
 
-**[AI Singapore Collaborates with Dell Technologies to Help Democratise Access to AI in Southeast Asia](https://finance.yahoo.com/news/ai-singapore-collaborates-dell-technologies-020000820.html)**
+**[Baidu CFO on Business Strategy, AI Investments](https://www.bloomberg.com/news/videos/2026-01-13/baidu-cfo-on-business-strategy-ai-investments-video)**
 
-AI Singapore (AISG) is working with Dell Technologies to enhance its SEA-LION (Southeast Asian Languages in One Network) family of open-source large language models (LLMs). The organisations are testing and validating SEA-LION models across various Dell AI PCs and edge infrastructure, supporting AISG's efforts towards building models that are resource-efficient and deployable on lightweight setups.
+Bloomberg.com • 1h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
+
+“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -175,7 +181,7 @@ Yahoo Finance • 1h ago
 
 Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
@@ -183,13 +189,7 @@ BBC • 17h ago
 
 Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
 
-The New Yorker • 16h ago
-
----
-
-**[Behind the Curtain: AI rush creates rarified class of "Have-Lots"](https://www.axios.com/2026/01/12/ai-winners-wealth-inequality)**
-
-Axios • 16h ago
+The New Yorker • 17h ago
 
 ---
 
@@ -199,7 +199,7 @@ Axios • 16h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1202 • 💬 1531 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1207 • 💬 1534 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -207,15 +207,7 @@ Axios • 16h ago
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 338 • 💬 331 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
-
----
-
-**[Ai, Japanese chimpanzee who counted and painted dies at 49](https://news.ycombinator.com/item?id=46585947)**
-
-Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
-
-⬆️ 178 • 💬 60 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 338 • 💬 330 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -223,7 +215,15 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 175 • 💬 127 • 7h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 183 • 💬 143 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+
+---
+
+**[Ai, Japanese chimpanzee who counted and painted dies at 49](https://news.ycombinator.com/item?id=46585947)**
+
+Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
+
+⬆️ 178 • 💬 60 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -231,7 +231,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 137 • 💬 76 • 10h ago • [TryLAD](https://www.trylad.com)
+⬆️ 141 • 💬 78 • 11h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -239,7 +239,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 106 • 💬 58 • 4h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 119 • 💬 68 • 5h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -247,7 +247,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 61 • 💬 48 • 9h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 65 • 💬 54 • 10h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -261,7 +261,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 39 • 💬 4 • 9h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 42 • 💬 4 • 10h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -269,7 +269,7 @@ Superhuman AI was able to exfiltrate sensitive emails from user accounts - witho
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 35 • 💬 44 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 35 • 💬 44 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -277,33 +277,23 @@ Government signals support for possible Ofcom intervention on Grok as scrutiny o
 
 ## YouTube Videos: "ai"
 
-**[The $1.5 Billion Anthropic Lawsuit That Could Change AI Forever](https://www.youtube.com/watch?v=XQXVA5M9AUk)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
-
-📺 Julia McCoy
-
-👁️ 13K • 👍 902 • 💬 107 • ⏱️ 10:39 • 12h ago
-
----
-
 **[we just arrived at the &quot;WTF&quot; moment in AI](https://www.youtube.com/watch?v=N8I2wYXt4m8)**
 
 GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially at the "WTF" moment in AI development. The latest ...
 
 📺 Wes Roth
 
-👁️ 76K • 👍 3K • 💬 627 • ⏱️ 23:05 • 23h ago
+👁️ 79K • 👍 3K • 💬 650 • ⏱️ 23:05 • 1d ago
 
 ---
 
-**[AI has gotten out of hand... (The Beast System)](https://www.youtube.com/watch?v=3468sgevZiU)**
+**[The $1.5 Billion Anthropic Lawsuit That Could Change AI Forever](https://www.youtube.com/watch?v=XQXVA5M9AUk)**
 
-Every month, it feels like a new update, model, or software hits the scene, and people are quick to either claim it's groundbreaking ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
 
-📺 Seethruthescript
+📺 Julia McCoy
 
-👁️ 3K • 👍 212 • 💬 65 • ⏱️ 24:00 • 1d ago
+👁️ 15K • 👍 998 • 💬 120 • ⏱️ 10:39 • 13h ago
 
 ---
 
@@ -313,47 +303,17 @@ The Join the #1 community for AI entrepreneurs and connect with 280k+ members: h
 
 📺 Liam Ottley
 
-👁️ 15K • 👍 1K • 💬 67 • ⏱️ 10:29 • 20h ago
+👁️ 16K • 👍 1K • 💬 69 • ⏱️ 10:29 • 21h ago
 
 ---
 
-**[Wired&#39;s Steven Levy on DeepSeek&#39;s latest AI model, state of AI tech race](https://www.youtube.com/watch?v=_67YjLqjYbk)**
+**[AI has gotten out of hand... (The Beast System)](https://www.youtube.com/watch?v=3468sgevZiU)**
 
-Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect from Chinese AI startup DeepSeek's latest model, ...
+Every month, it feels like a new update, model, or software hits the scene, and people are quick to either claim it's groundbreaking ...
 
-📺 CNBC Television
+📺 Seethruthescript
 
-👁️ 27K • 👍 251 • 💬 58 • ⏱️ 7:57 • 13h ago
-
----
-
-**[The Biggest AI News Updates Were NOT at CES](https://www.youtube.com/watch?v=LhpCVkDpYZM)**
-
-LTX 2 Open-Source has officially launched! Explore the open-source release today: https://ltx.io/model I thought this week would ...
-
-📺 Matt Wolfe
-
-👁️ 65K • 👍 2K • 💬 174 • ⏱️ 14:39 • 2d ago
-
----
-
-**[Did AI Just Solve an Erdős Problem? (This Changes Everything)](https://www.youtube.com/watch?v=5DUabMi02js)**
-
-In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with solutions accepted by Terence Tao. This is not a ...
-
-📺 Dr Brian Keating
-
-👁️ 8K • 👍 209 • 💬 28 • ⏱️ 5:50 • 1d ago
-
----
-
-**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
-
-Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
-
-📺 AI Revolution
-
-👁️ 32K • 👍 1K • 💬 46 • ⏱️ 14:29 • 1d ago
+👁️ 3K • 👍 217 • 💬 67 • ⏱️ 24:00 • 1d ago
 
 ---
 
@@ -363,7 +323,47 @@ The next episode of my AI series. The AI character is making using AI, but is st
 
 📺 Nate Ziller
 
-👁️ 296K • 👍 30K • 💬 2K • ⏱️ 4:38 • 2d ago
+👁️ 309K • 👍 31K • 💬 2K • ⏱️ 4:38 • 2d ago
+
+---
+
+**[Did AI Just Solve an Erdős Problem? (This Changes Everything)](https://www.youtube.com/watch?v=5DUabMi02js)**
+
+In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with solutions accepted by Terence Tao. This is not a ...
+
+📺 Dr Brian Keating
+
+👁️ 8K • 👍 218 • 💬 30 • ⏱️ 5:50 • 1d ago
+
+---
+
+**[Wired&#39;s Steven Levy on DeepSeek&#39;s latest AI model, state of AI tech race](https://www.youtube.com/watch?v=_67YjLqjYbk)**
+
+Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect from Chinese AI startup DeepSeek's latest model, ...
+
+📺 CNBC Television
+
+👁️ 33K • 👍 282 • 💬 62 • ⏱️ 7:57 • 14h ago
+
+---
+
+**[[이런뉴스] 머스크 “AI 세상, 노후 준비는 필요 없다” 인터뷰 영상 보니④ / KBS 2026.01.12.](https://www.youtube.com/watch?v=XL1N51lii20)**
+
+일론 머스크 테슬라 CEO는 인공지능(AI)과 로봇 기술 발전으로 인해 미래에는 개인의 노후 저축 개념 자체가 무의미해질 수 있다고 ...
+
+📺 KBS News
+
+👁️ 555K • 👍 4K • 💬 2K • ⏱️ 7:45 • 23h ago
+
+---
+
+**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
+
+Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 1K • 💬 49 • ⏱️ 14:29 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AG
 
 📺 Wes Roth
 
-👁️ 63K • 👍 2K • 💬 378 • ⏱️ 17:36 • 2d ago
+👁️ 63K • 👍 2K • 💬 380 • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 735,985 • ❤️ 855 • 4d ago
+⬇️ 735,985 • ❤️ 861 • 4d ago
 
 ---
 
@@ -401,7 +401,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 23,889 • ❤️ 512 • 5d ago
+⬇️ 23,889 • ❤️ 523 • 5d ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 10,682 • ❤️ 732 • 12d ago
+⬇️ 10,682 • ❤️ 734 • 12d ago
 
 ---
 
@@ -425,7 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 2,687 • ❤️ 322 • 7d ago
+⬇️ 2,687 • ❤️ 324 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 12,797 • ❤️ 290 • 3d ago
+⬇️ 12,797 • ❤️ 293 • 3d ago
 
 ---
 
@@ -449,7 +449,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 670 • ❤️ 226 • 7d ago
+⬇️ 670 • ❤️ 229 • 7d ago
 
 ---
 
@@ -461,7 +461,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,603 • ❤️ 361 • 7d ago
+⬇️ 30,603 • ❤️ 362 • 7d ago
 
 ---
 
@@ -473,7 +473,7 @@ Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomo
 
 `robotics` `11.1B`
 
-⬇️ 13,820 • ❤️ 272 • 4d ago
+⬇️ 13,820 • ❤️ 274 • 4d ago
 
 ---
 
@@ -485,7 +485,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 23,310 • ❤️ 198 • 2d ago
+⬇️ 23,310 • ❤️ 203 • 2d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 19,641 • ❤️ 185 • 3d ago
+⬇️ 19,641 • ❤️ 189 • 3d ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 174 • 💬 5 • ⭐ 4,585 • 1mo ago
+▲ 174 • 💬 5 • ⭐ 4,618 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -537,7 +537,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
 
-▲ 130 • 💬 4 • ⭐ 107 • 4d ago
+▲ 136 • 💬 4 • ⭐ 107 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
 
@@ -563,7 +563,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 20 • 💬 2 • ⭐ 620 • 5d ago
+▲ 23 • 💬 2 • ⭐ 620 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
@@ -591,7 +591,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-▲ 3 • 💬 0 • ⭐ 2,431 • 11mo ago
+▲ 3 • 💬 0 • ⭐ 2,448 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
@@ -609,6 +609,18 @@ Orient Anything V2 enhances 3D orientation understanding through scalable 3D ass
 
 ---
 
+**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
+
+*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
+
+Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
+
+▲ 0 • 💬 0 • ⭐ 28,400 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
+
+---
+
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -618,18 +630,6 @@ Agentic coding tools receive goals written in natural language as input, break t
 ▲ 19 • 💬 3 • ⭐ 14,915 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 3 • 💬 0 • ⭐ 28,333 • 19mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -643,7 +643,7 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.0k • 11h ago
+⭐ 8.2k • 🔱 1.1k • 46s ago
 
 ---
 
@@ -653,7 +653,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 442 • 5d ago
+⭐ 3.4k • 🔱 446 • 5d ago
 
 ---
 
@@ -663,7 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 139 • 2h ago
+⭐ 2.3k • 🔱 141 • 3h ago
 
 ---
 
@@ -673,7 +673,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 73 • 9h ago
+⭐ 2.3k • 🔱 82 • 10h ago
 
 ---
 
@@ -693,7 +693,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 127 • 1h ago
+⭐ 1.5k • 🔱 127 • 13m ago
 
 ---
 
@@ -713,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 6h ago
+⭐ 1.4k • 🔱 115 • 7h ago
 
 ---
 
@@ -733,7 +733,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 17h ago
+⭐ 1.2k • 🔱 143 • 18h ago
 
 ---
 

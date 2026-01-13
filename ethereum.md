@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T03:39:02.431155+00:00'
+updated: '2026-01-13T04:41:35.890257+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 03:39 UTC  
+**Last Updated:** January 13, 2026 at 04:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,093.72
+### $3,112.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -1.7%  
-**30d:** +5.0%  
-**90d:** -20.1%  
-**1y:** -3.4%  
+**24h:** -1.3%  
+**7d:** -1.5%  
+**30d:** +5.2%  
+**90d:** -19.9%  
+**1y:** -3.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $373.00B
+**Market Cap:** $375.51B
 Rank #2
 
 **Circulating Supply:** 120,694,706 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.5%
+-37.1%
 
 **All-Time Low:** $0.43
-+713551.2%
++718590.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 8h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 9h ago
 
 ---
 
@@ -80,7 +80,7 @@ South Korea just opened the floodgates for institutional crypto adoption. Huge f
 
 Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Wondering how effective and reliable XMR / Monero is to contribute to ETH privac
 
 Connect with other degens attending ETH Denver and discover resources for ETH Denver.
 
-🔗 [chaching.social](https://chaching.social/communities/eth-denver-2026?id=jaQBRd74TwKxDc65akj0) • 3h ago
+🔗 [chaching.social](https://chaching.social/communities/eth-denver-2026?id=jaQBRd74TwKxDc65akj0) • 4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Connect with other degens attending ETH Denver and discover resources for ETH De
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 last month, I was contacted by someone on LinkedIn about a crypto related job and was asked to install software to view a site locally. it worked, but I did not audit it so it could have installed something malicious and shortly after, they stopped responding entirely. I didn’t think much of it at the time. tonight, I saw what appeared to be a large ETH transaction leaving my wallet, complete with a tx hash, block number, confirmations, and receiver. however: it only appeared for MY wallet, and none others it only appeared in my normal Firefox session (main browser) it disappeared completely in private mode it did not appear in other browsers (edge, chrome) i checked my wallet directly on my laptop and everything was fine real blockchain transactions don’t selectively appear based on browser state. that strongly suggests browser side manipulation or injected scripts rather than an actual on-chain event. given that I installed questionable software, I think it’s reasonable to consider whether this was an attempt to induce panic and a rushed wallet interaction, which is how people actually get burned. pic for reference: https://preview.redd.it/843herzz91dg1.png?width=1263&format=png&auto=webp&s=f43f48ae9505773b7048cd836410cbb8e5e9a9e8
 
-28m ago
+1h ago
 
 ---
 
@@ -168,9 +168,17 @@ CoinDesk • 1d ago
 
 ---
 
+**[Can $1,000 in Ethereum Turn Into $20,000 in 2026?](https://www.fool.com/investing/2026/01/12/can-1000-in-ethereum-turn-into-20000-in-2026/)**
+
+Will a powerful new catalyst send Ethereum soaring this year?
+
+The Motley Fool • 56m ago
+
+---
+
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -182,33 +190,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2026/01/11/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
-
-The returns for Bitcoin and Ethereum during the past decade have just been too good to ignore.
-
-The Motley Fool • 1d ago
-
----
-
-**[Ethereum’s Inverted Chart May Be Setting Up Its Next Major Move: New ATH Soon?](https://www.tradingview.com/news/newsbtc:210e704de094b:0-ethereum-s-inverted-chart-may-be-setting-up-its-next-major-move-new-ath-soon/)**
-
-Ethereum’s price action has spent an unusually long time moving sideways, and this behavior has tested the patience of many long-term bullish investors. When speaking of sideways movement, this movement has dragged on for many months, although Ethereum did manage to make a new all-time high in 2025…
-
-TradingView — Track All Markets • 1d ago
-
----
-
 **[Bank of Italy: what if TradFi adopts Ethereum but ETH collapses?](https://www.ledgerinsights.com/bank-of-italy-what-if-tradfi-adopts-ethereum-but-eth-collapses/)**
 
 The Bank of Italy has published a working paper exploring how to handle a loss of faith in a public blockchain, with Ethereum as one example. It sees it
 
-ledgerinsights.com • 10h ago
+ledgerinsights.com • 11h ago
 
 ---
 
 **[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
 
-thedefiant.io • 12h ago
+thedefiant.io • 13h ago
 
 ---
 
@@ -220,11 +212,17 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine stakes $3.9 billion in Ethereum, hits nearly 70% of accumulation goal](https://cryptobriefing.com/bitmine-ethereum-staked-update-70-percent-accumulation-goal/)**
+**[Ethereum’s Inverted Chart May Be Setting Up Its Next Major Move: New ATH Soon?](https://www.tradingview.com/news/newsbtc:210e704de094b:0-ethereum-s-inverted-chart-may-be-setting-up-its-next-major-move-new-ath-soon/)**
 
-Bitmine has staked $3.9 billion in Ethereum, cements its position as a leading crypto treasury powerhouse, aiming to own 5% of all ETH.
+Ethereum’s price action has spent an unusually long time moving sideways, and this behavior has tested the patience of many long-term bullish investors. When speaking of sideways movement, this movement has dragged on for many months, although Ethereum did manage to make a new all-time high in 2025…
 
-Crypto Briefing • 12h ago
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Here’s XRP Price If XRP Reaches Ethereum’s Market Cap Today](https://www.binance.com/en/square/post/34936368127769)**
+
+Binance • 1d ago
 
 ---
 
@@ -238,67 +236,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 2K • 💬 55 • ⏱️ 8:17 • 14h ago
-
----
-
-**[Prepare For The Unthinkable Santiment Just Gave Earth Shattering News About Ethereum And Bitcoin](https://www.youtube.com/watch?v=YbzUZdxuP-I)**
-
-As we all continue our tumble into 2026, one thing remains crystal clear... not one single person knows whats coming next.
-
-📺 Money Rules - Investing Tips 
-
-👁️ 11K • 👍 1K • 💬 270 • ⏱️ 14:17 • 14h ago
-
----
-
-**[Ethereum Airdrop 2026: How To Get FREE ETH Step-By-Step Tutorial!](https://www.youtube.com/watch?v=X107hVaz-W0)**
-
-Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays video we are going to talk about Ethereum ...
-
-📺 World Liberty Financial
-
-👁️ 3K • 👍 24 • 💬 5 • ⏱️ 2:01 • 6h ago
-
----
-
-**[BITCOIN REPEATING HISTORY: Don&#39;t Be FOOLED!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eTLBnzBc7D4)**
-
-BITCOIN REPEATING HISTORY: Don't Be FOOLED!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 195 • 💬 187 • ⏱️ 18:43 • 6h ago
-
----
-
-**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=joApN69akMc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 13K • 👍 532 • 💬 57 • ⏱️ 19:18 • 12h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tY2AxoGiu6Q)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 143 • 💬 4 • ⏱️ 5:01 • 13h ago
-
----
-
-**[Ethereum Breakdown Looks Inevitable: Crash Incoming?](https://www.youtube.com/watch?v=j5q9B3GFsJk)**
-
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 267 • 👍 10 • 💬 7 • ⏱️ 5:00 • 7h ago
+👁️ 17K • 👍 2K • 💬 58 • ⏱️ 8:17 • 15h ago
 
 ---
 
@@ -308,17 +246,47 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 2K • 👍 195 • 💬 23 • ⏱️ 12:31 • 6h ago
+👁️ 4K • 👍 281 • 💬 30 • ⏱️ 12:31 • 7h ago
 
 ---
 
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+**[Ethereum Airdrop 2026: How To Get FREE ETH Step-By-Step Tutorial!](https://www.youtube.com/watch?v=X107hVaz-W0)**
 
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays video we are going to talk about Ethereum ...
 
-📺 Digital Asset News
+📺 World Liberty Financial
 
-👁️ 15K • 👍 803 • 💬 86 • ⏱️ 24:05 • 2d ago
+👁️ 4K • 👍 19 • 💬 5 • ⏱️ 2:01 • 7h ago
+
+---
+
+**[Prepare For The Unthinkable Santiment Just Gave Earth Shattering News About Ethereum And Bitcoin](https://www.youtube.com/watch?v=YbzUZdxuP-I)**
+
+As we all continue our tumble into 2026, one thing remains crystal clear... not one single person knows whats coming next.
+
+📺 Money Rules - Investing Tips 
+
+👁️ 12K • 👍 1K • 💬 270 • ⏱️ 14:17 • 15h ago
+
+---
+
+**[BITCOIN REPEATING HISTORY: Don&#39;t Be FOOLED!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eTLBnzBc7D4)**
+
+BITCOIN REPEATING HISTORY: Don't Be FOOLED!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 220 • 💬 254 • ⏱️ 18:43 • 7h ago
+
+---
+
+**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=joApN69akMc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 585 • 💬 91 • ⏱️ 19:18 • 13h ago
 
 ---
 
@@ -328,7 +296,37 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 271 • 💬 329 • ⏱️ 13:48 • 1d ago
+👁️ 13K • 👍 274 • 💬 336 • ⏱️ 13:48 • 1d ago
+
+---
+
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+
+📺 Digital Asset News
+
+👁️ 16K • 👍 805 • 💬 87 • ⏱️ 24:05 • 2d ago
+
+---
+
+**[Ethereum Breakdown Looks Inevitable: Crash Incoming?](https://www.youtube.com/watch?v=j5q9B3GFsJk)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 305 • 👍 10 • 💬 8 • ⏱️ 5:00 • 8h ago
+
+---
+
+**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
+
+Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
+
+📺 Michaël van de Poppe
+
+👁️ 4K • 👍 247 • 💬 36 • ⏱️ 12:34 • 1d ago
 
 ---
 
