@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T08:33:23.505781+00:00'
+updated: '2026-01-13T09:29:38.900095+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 08:33 UTC  
+**Last Updated:** January 13, 2026 at 09:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1833.94B
+**Market Cap:** $1845.66B
 Rank #1
 
-**Circulating Supply:** 19,975,187 BTC
+**Circulating Supply:** 19,975,290 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.1%
+-26.7%
 
 **All-Time Low:** $67.81
-+135447.9%
++136185.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-4h ago
+5h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-15h ago
+16h ago
 
 ---
 
@@ -115,7 +115,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
 
-🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 2h ago
+🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 3h ago
 
 ---
 
@@ -131,13 +131,13 @@ The US Senate has released a new draft bill to fix confusion around crypto regul
 
 Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin transaction: on January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney. Back then, they were literally worth $0. Today, with BTC hovering around $91,700 USD (according to data from CoinDesk, Yahoo Finance, and major exchanges), those 10 bitcoins are equivalent to approximately $917,000. From zero to nearly a million in less than two decades, without banks or anyone's permission. The cypherpunk experiment that changed the financial world continues to prove: the future of money is already here And it's still going up!
 
-6h ago
+7h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -145,7 +145,7 @@ Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin tra
 
 FIAT : unlimited supply BTC : 21M Do the math.
 
-5h ago
+6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 20h ago
 
 The ETP offers physically backed exposure to bitcoin and gold in a single investment vehicle.
 
-CoinDesk • 31m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 31m ago
 
 Bitcoin and ether traders are betting on low volatility and reduced near-term risks despite resilient dollar index and tepid demand for spot ETFs.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 1h ago
 
 On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Motley Fool • 1d ago
 
 **[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -259,7 +259,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 11h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -267,7 +267,7 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 3d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 4d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -275,7 +275,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 13h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 14h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -319,17 +319,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 435 • ⏱️ 14:21 • 9h ago
-
----
-
-**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
-
-Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
-
-📺 What Bitcoin Did
-
-👁️ 55K • 👍 3K • 💬 1K • ⏱️ 2:04:54 • 18h ago
+👁️ 43K • 👍 2K • 💬 574 • ⏱️ 14:21 • 10h ago
 
 ---
 
@@ -339,17 +329,17 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 206 • ⏱️ 8:37 • 1d ago
+👁️ 47K • 👍 2K • 💬 205 • ⏱️ 8:37 • 1d ago
 
 ---
 
-**[Fed Under Siege📉Crypto Market Update](https://www.youtube.com/watch?v=6db7n99C-bA)**
+**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
 
-The Justice Department investigation into Federal Reserve Chairman Jerome Powell is sparking backlash from former Federal ...
+Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
 
-📺 Paul Barron Network
+📺 What Bitcoin Did
 
-👁️ 22K • 👍 1K • 💬 187 • ⏱️ 11:08 • 11h ago
+👁️ 59K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 19h ago
 
 ---
 
@@ -359,7 +349,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 13K • 👍 934 • 💬 474 • ⏱️ 7:34 • 13h ago
+👁️ 14K • 👍 961 • 💬 472 • ⏱️ 7:34 • 14h ago
 
 ---
 
@@ -369,27 +359,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 345 • ⏱️ 41:26 • 17h ago
-
----
-
-**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
-
-Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 57K • 👍 4K • 💬 151 • ⏱️ 10:58 • 1d ago
-
----
-
-**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
-
-This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
-
-📺 Thomas Kralow
-
-👁️ 17K • 👍 3K • 💬 58 • ⏱️ 8:17 • 19h ago
+👁️ 31K • 👍 1K • 💬 344 • ⏱️ 41:26 • 18h ago
 
 ---
 
@@ -399,15 +369,47 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 218 • 💬 118 • ⏱️ 7:14 • 1d ago
+👁️ 5K • 👍 219 • 💬 113 • ⏱️ 7:14 • 1d ago
 
 ---
 
-**[😭WORST WEEK FOR CRYPTO AND IT CAN GET WORSE #crypto #cryptocurrency #bitcoin #zcash](https://www.youtube.com/watch?v=QDVY7HgBdIA)**
+**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
 
-📺 CryptoWendyO
+This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
 
-👁️ 9K • 👍 507 • 💬 42 • ⏱️ 1:14 • 1d ago
+📺 Thomas Kralow
+
+👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 19h ago
+
+---
+
+**[Why Trump Is About To Make Bitcoin Explode: Next Cycle Peak Revealed | Aaron Arnold ](https://www.youtube.com/watch?v=DmXwehNRgPU)**
+
+Aaron Arnold, Co-Host of Altcoin Daily, discusses the outlook for Bitcoin, Ethereum, and stablecoins. *This video was recorded on ...
+
+📺 David Lin 
+
+👁️ 4K • 👍 204 • 💬 120 • ⏱️ 42:44 • 5h ago
+
+---
+
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
+
+Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 58K • 👍 4K • 💬 152 • ⏱️ 10:58 • 1d ago
+
+---
+
+**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+
+Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 2K • 💬 169 • ⏱️ 17:17 • 2d ago
 
 ---
 

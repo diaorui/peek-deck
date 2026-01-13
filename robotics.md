@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T08:33:23.513922+00:00'
+updated: '2026-01-13T09:29:38.909503+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 08:33 UTC  
+**Last Updated:** January 13, 2026 at 09:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 Fourier GR-3, both the full and baby versions, are among the best looking to me. Their designers deserved a raise!
 
-🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 4h ago
+🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 5h ago
 
 ---
 
@@ -72,7 +72,7 @@ Fourier GR-3, both the full and baby versions, are among the best looking to me.
 
 I wrote a step-by-step guide about Learning Rate in RL: how the reward curves for Q-Learning, DQN and PPO change, why PPO is much more sensitive to LR than you think, which values ​​are safe and which values ​​are dangerous, what divergence looks like in TensorBoard, how to test the optimal LR quickly, without guesswork. Everything is tested. Everything is visual. Everything is explained simply. Here is the link: https://www.reinforcementlearningpath.com/the-complete-guide-of-learning-rate-in-rl/
 
-46m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi, I’m a college student currently majoring in Mechanical Engineering. I’ve talked to a counselor who suggested I take some engineering technology classes as that serves more of experience rather than regular engineering classes as those are more theory based classes. I really enjoyed taking some of those classes and was thinking of pivoting towards engineer technology, but I was wondering how well that degree would serve robotics. Also my goal is to eventually be able to design some things and actually build something. What do you guys think?
 
-57m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi, I’m a college student currently majoring in Mechanical Engineering. I’ve
 
 Hey guys I have a comp engineering undergrad and most recently was building distribution systems, schedulers / game engines in rust adjacent to cryptography and hardware… The SWE industry is truly windling with AI being a success..so I am curious how I can leverage my previous education in math and EE with my systems engineering know how to break into the robotics field
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey guys I have a comp engineering undergrad and most recently was building dist
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-21h ago
+22h ago
 
 ---
 
@@ -198,17 +198,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 222K • 👍 7K • 💬 435 • ⏱️ 17:09 • 19h ago
-
----
-
-**[Chinese Robots Just SHOCKED Everyone at CES 2026 Expo](https://www.youtube.com/watch?v=Hps7t7liOqM)**
-
-Chinese robotics took center stage at CES 2026, stunning visitors with rapid advances in AI, automation, and humanoid design.
-
-📺 Carros Show
-
-👁️ 10K • 👍 130 • 💬 6 • ⏱️ 8:33 • 5d ago
+👁️ 241K • 👍 8K • 💬 456 • ⏱️ 17:09 • 20h ago
 
 ---
 
@@ -228,7 +218,17 @@ This year at CES 2026, Boston Dynamics are back with their latest Atlas robot th
 
 📺 Cybernews
 
-👁️ 320K • 👍 4K • 💬 710 • ⏱️ 4:29 • 5d ago
+👁️ 322K • 👍 4K • 💬 714 • ⏱️ 4:29 • 5d ago
+
+---
+
+**[Chinese Robots Just SHOCKED Everyone at CES 2026 Expo](https://www.youtube.com/watch?v=Hps7t7liOqM)**
+
+Chinese robotics took center stage at CES 2026, stunning visitors with rapid advances in AI, automation, and humanoid design.
+
+📺 Carros Show
+
+👁️ 10K • 👍 129 • 💬 6 • ⏱️ 8:33 • 5d ago
 
 ---
 
@@ -238,7 +238,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 112K • 👍 1K • 💬 315 • ⏱️ 11:46 • 1d ago
+👁️ 114K • 👍 1K • 💬 318 • ⏱️ 11:46 • 1d ago
 
 ---
 
@@ -252,23 +252,13 @@ The next generation of Atlas is designed to interact with people and understand 
 
 ---
 
-**[Meet the Robots of CES 2026 🤖✨](https://www.youtube.com/watch?v=7_dbRn0N5io)**
-
-A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The future of automation, AI and robotics is here.
-
-📺 SME Media
-
-👁️ 1K • 👍 2 • ⏱️ 2:16 • 10h ago
-
----
-
 **[Japanese Robots Are Taking Over the World at the Largest IREX 2026 Expo](https://www.youtube.com/watch?v=ulU9XGBMlAQ)**
 
 Japanese robotics has taken center stage at IREX, the world's largest robotics exhibition, showcasing machines that are rapidly ...
 
 📺 Carros Show
 
-👁️ 59K • 👍 508 • 💬 40 • ⏱️ 11:13 • 6d ago
+👁️ 59K • 👍 511 • 💬 40 • ⏱️ 11:13 • 6d ago
 
 ---
 
@@ -278,17 +268,27 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 94K • 👍 1K • 💬 156 • ⏱️ 10:48 • 2d ago
+👁️ 94K • 👍 1K • 💬 157 • ⏱️ 10:48 • 2d ago
 
 ---
 
-**[LG’s New AI Robot Promisses Consumers a ‘Zero Labor Home’](https://www.youtube.com/watch?v=KScg3q4XqOM)**
+**[Meet the Robots of CES 2026 🤖✨](https://www.youtube.com/watch?v=7_dbRn0N5io)**
 
-LG unveiled its new AI-powdered Robot named CLOiD at the CES tech event in Las Vegas, Nevada. CLOiD is programed to work ...
+A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The future of automation, AI and robotics is here.
 
-📺 New York Post
+📺 SME Media
 
-👁️ 7K • 👍 100 • 💬 61 • ⏱️ 4:23 • 6d ago
+👁️ 1K • 👍 2 • ⏱️ 2:16 • 11h ago
+
+---
+
+**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
+
+LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
+
+📺 WION
+
+👁️ 6K • 👍 24 • 💬 13 • ⏱️ 1:15 • 6d ago
 
 ---
 
