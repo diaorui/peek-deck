@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T20:49:06.120004+00:00'
+updated: '2026-01-13T21:22:41.494321+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 20:49 UTC  
+**Last Updated:** January 13, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1867.75B
+**Market Cap:** $1885.95B
 Rank #1
 
-**Circulating Supply:** 19,975,465 BTC
+**Circulating Supply:** 19,975,481 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--25.8%
+-25.1%
 
 **All-Time Low:** $67.81
-+137795.6%
++139069.7%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
 
-8h ago
+9h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-7h ago
+8h ago
 
 ---
 
@@ -109,13 +109,13 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-4h ago
+5h ago
 
 ---
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -129,7 +129,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transactions Block reward: 6.25 BTC + fees
 
-45m ago
+1h ago
 
 ---
 
@@ -137,13 +137,13 @@ Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transac
 
 Bitcoin is going mainstream 🚀
 
-5h ago
+6h ago
 
 ---
 
 **[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bitcoin is going mainstream 🚀
 
 The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 3h ago
 
 Bitcoin reclaimed $93,000 on Tuesday as trading volume surged by 20%, but data analysts flag that there's rising sell-side pressure.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -171,13 +171,13 @@ Decrypt • 2h ago
 
 Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqe_4wx_zeoW47Y-NYKacUkmV_jlFptiKN8k7j7wiOd8JBNPb7_tOrNz&gaa_ts=6966ae1d&gaa_sig=c0rBBSVLNJcUap6Y7cPni2KuE-nCOdpjVh0Z8aYELSxL_azdPpE1QRmCZIe6Lve04CclbDP5IwuwxtAMX1zqvQ%3D%3D)**
 
-Barron's • 9h ago
+Barron's • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ Barron's • 9h ago
 
 BlackRock moved approximately $361 million worth of Bitcoin and Ethereum to Coinbase Prime. While transfers to Coinbase Prime don’t automatically signal a sale, market observers ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -199,7 +199,7 @@ dlnews.com • 1d ago
 
 **[Crypto Suddenly Braced For A ‘Massive’ Shock As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/01/13/crypto-suddenly-braced-for-a-massive-shock-as-the-bitcoin-price-soars/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -207,7 +207,7 @@ Forbes • 4h ago
 
 Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
 
-Sherwood News • 5h ago
+Sherwood News • 6h ago
 
 ---
 
@@ -221,7 +221,7 @@ CryptoSlate • 1d ago
 
 **[Taste Test: Penn Quarter's new "not a MAGA" Bitcoin bar](https://www.axios.com/local/washington-dc/2026/01/13/pubkey-bitcoin-bar-review-trump-penn-quarter)**
 
-Axios • 5h ago
+Axios • 6h ago
 
 ---
 
@@ -293,7 +293,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 1 • 5d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 1 • 6d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -309,13 +309,13 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ## YouTube Videos: "bitcoin"
 
-**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
+**[Bitcoin&#39;s Next Shocking Move is Coming](https://www.youtube.com/watch?v=kAsjV4537wA)**
 
-Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 What Bitcoin Did
+📺 CryptosRUs
 
-👁️ 76K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 1d ago
+👁️ 19K • 👍 1K • 💬 229 • ⏱️ 39:49 • 6h ago
 
 ---
 
@@ -325,47 +325,27 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 630 • ⏱️ 14:21 • 21h ago
+👁️ 61K • 👍 3K • 💬 635 • ⏱️ 14:21 • 22h ago
 
 ---
 
-**[Bitcoin&#39;s Next Shocking Move is Coming](https://www.youtube.com/watch?v=kAsjV4537wA)**
+**[Bitcoin: The Future Reserve Currency Strategy](https://www.youtube.com/watch?v=diRkGPEBOqU)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 190 • ⏱️ 39:49 • 5h ago
-
----
-
-**[why i&#39;m 100% convinced bitcoin is going to explode here . . .](https://www.youtube.com/watch?v=J9oEalGFY2A)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 16K • 👍 1K • 💬 489 • ⏱️ 7:34 • 1d ago
+👁️ 1K • 👍 24 • 💬 59 • ⏱️ 0:53 • 7h ago
 
 ---
 
-**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
+**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
 
-This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
+Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
 
-📺 Thomas Kralow
+📺 What Bitcoin Did
 
-👁️ 20K • 👍 3K • 💬 62 • ⏱️ 8:17 • 1d ago
-
----
-
-**[DOJ Indictment on Powell Causes Panic (Bitcoin Retreats)](https://www.youtube.com/watch?v=sB5EKN1o364)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 33K • 👍 1K • 💬 372 • ⏱️ 41:26 • 1d ago
+👁️ 79K • 👍 4K • 💬 2K • ⏱️ 2:04:54 • 1d ago
 
 ---
 
@@ -375,25 +355,47 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 202 • ⏱️ 8:37 • 1d ago
+👁️ 49K • 👍 2K • 💬 202 • ⏱️ 8:37 • 1d ago
 
 ---
 
-**[THIS is crazy about Bitcoin](https://www.youtube.com/watch?v=GdKKeQNRyZE)**
+**[The Most Bullish Crypto Development This Year](https://www.youtube.com/watch?v=kIzgsdTMaRg)**
 
-📺 Natalie Brunell
+The 2026 Bull Run just got a massive booster shot. In today's video, we are breaking down the single most important ...
 
-👁️ 6K • 👍 168 • 💬 120 • ⏱️ 0:46 • 19h ago
+📺 Discover Crypto
+
+👁️ 6K • 👍 610 • 💬 60 • ⏱️ 52:06 • 4h ago
 
 ---
 
-**[The Four-Year Cycle Died. What Comes Next for Bitcoin?](https://www.youtube.com/watch?v=LwZdCQqco7w)**
+**[Bitcoin Just Reclaimed A 3-Year Uptrend! [This Is Next]](https://www.youtube.com/watch?v=s2ffEVcqBUo)**
 
-Is the four-year Bitcoin cycle officially dead? In this clip, Jeff Ross breaks down why the old cycle framework no longer applies, ...
+CPI is out today, but most traders are missing a crucial detail that makes this print far less important for Bitcoin and altcoins than ...
 
-📺 Swan Bitcoin
+📺 Crypto Banter
 
-👁️ 6K • 👍 187 • 💬 18 • ⏱️ 1:13 • 2d ago
+👁️ 19K • 👍 2K • 💬 23 • ⏱️ 29:19 • 4h ago
+
+---
+
+**[Crypto JUST Flipped (Are You Ready?)](https://www.youtube.com/watch?v=Q5Oh4w02Wlc)**
+
+Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 17K • 👍 932 • 💬 91 • ⏱️ 19:27 • 9h ago
+
+---
+
+**[Michael Saylor Just Bought MORE Bitcoin?! | Bitcoin vs Gold 2026](https://www.youtube.com/watch?v=03oz3f8SXQ8)**
+
+Michael Saylor Just Doubled Down on Bitcoin! Here's Why That Matters… South Korea just lifted a 9-year ban on corporate ...
+
+📺 CryptosRus Extra
+
+👁️ 5K • 👍 291 • 💬 191 • ⏱️ 8:25 • 20h ago
 
 ---
 
@@ -403,7 +405,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 61K • 👍 4K • 💬 157 • ⏱️ 10:58 • 1d ago
+👁️ 62K • 👍 4K • 💬 160 • ⏱️ 10:58 • 1d ago
 
 ---
 

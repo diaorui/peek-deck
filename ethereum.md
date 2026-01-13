@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T20:49:06.126011+00:00'
+updated: '2026-01-13T21:22:41.499661+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 20:49 UTC  
+**Last Updated:** January 13, 2026 at 21:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $385.28B
+**Market Cap:** $387.25B
 Rank #2
 
 **Circulating Supply:** 120,694,706 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.4%
+-35.1%
 
 **All-Time Low:** $0.43
-+737316.8%
++741698.1%
 
 ---
 
@@ -80,7 +80,7 @@ Ethereum is meant to be a home for trustless and trust-minimized applications, w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 Ethereum treasury firm SharpLink Gaming intends to lead the way when it comes to publicly traded firms productively using their ETH.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 53m ago
 
 Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
 
-dlnews.com • 10h ago
+dlnews.com • 11h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 1d ago
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 9h ago
+CCN.com • 10h ago
 
 ---
 
@@ -238,27 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 264 • 💬 96 • ⏱️ 17:37 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EF94EIeGNEc)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 116 • 💬 54 • ⏱️ 3:31 • 6h ago
-
----
-
-**[Ethereum&#39;s Inverted Chart Might Be Setting The Crypto Market &amp; Bitcoin For A New All Time High](https://www.youtube.com/watch?v=R8ABCFFXZAk)**
-
-Looks like we might have been thrown back into the four year cryptocurrency cycle without even noticing it. Ethereum is the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 4K • 👍 603 • 💬 365 • ⏱️ 11:09 • 7h ago
+👁️ 5K • 👍 328 • 💬 110 • ⏱️ 17:37 • 6h ago
 
 ---
 
@@ -268,17 +248,17 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 8K • 👍 387 • 💬 45 • ⏱️ 12:31 • 23h ago
+👁️ 9K • 👍 395 • 💬 47 • ⏱️ 12:31 • 1d ago
 
 ---
 
-**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EF94EIeGNEc)**
 
-From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 The Value Thinker
+📺 More Crypto Online
 
-👁️ 2K • 👍 231 • 💬 24 • ⏱️ 26:25 • 3h ago
+👁️ 2K • 👍 125 • 💬 55 • ⏱️ 3:31 • 6h ago
 
 ---
 
@@ -288,7 +268,27 @@ Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays v
 
 📺 World Liberty Financial
 
-👁️ 9K • 👍 25 • 💬 5 • ⏱️ 2:01 • 23h ago
+👁️ 4K • 👍 26 • 💬 5 • ⏱️ 2:01 • 23h ago
+
+---
+
+**[BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=KnMaBQjnRsw)**
+
+BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 274 • 💬 220 • ⏱️ 18:38 • 10h ago
+
+---
+
+**[Ethereum&#39;s Inverted Chart Might Be Setting The Crypto Market &amp; Bitcoin For A New All Time High](https://www.youtube.com/watch?v=R8ABCFFXZAk)**
+
+Looks like we might have been thrown back into the four year cryptocurrency cycle without even noticing it. Ethereum is the ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 5K • 👍 659 • 💬 364 • ⏱️ 11:09 • 8h ago
 
 ---
 
@@ -302,33 +302,33 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 ---
 
-**[BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=KnMaBQjnRsw)**
+**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=joApN69akMc)**
 
-BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Crypto World
+📺 Crypto Nutshell
 
-👁️ 5K • 👍 249 • 💬 226 • ⏱️ 18:38 • 9h ago
-
----
-
-**[BMNR Stock &amp; Ethereum Technical Analysis Prediction: Tom Lee Predicts $9,000 ETH Rally in Early 2026](https://www.youtube.com/watch?v=poWPZoP4hZQ)**
-
-ethereum #bmnr #tomlee Total staked Ethereum now exceeds 1.3 million ETH Another 154208 ETH added recently Total staked ...
-
-📺 alliseeisW 
-
-👁️ 1K • 👍 85 • 💬 23 • ⏱️ 12:40 • 17h ago
+👁️ 26K • 👍 832 • 💬 137 • ⏱️ 19:18 • 1d ago
 
 ---
 
-**[CAN ETH BREAKOUT SOON?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=c8bwL1qbti4)**
+**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
 
-📺 Cilinix Crypto
+📺 The Value Thinker
 
-👁️ 148 • 👍 11 • 💬 18 • ⏱️ 5:04 • 10h ago
+👁️ 4K • 👍 417 • 💬 58 • ⏱️ 26:25 • 3h ago
+
+---
+
+**[Ethereum Breaks the Downtrend: Why $6,400 Is Back on the Table (ETH 2026 Outlook)](https://www.youtube.com/watch?v=gbCF43nT4UA)**
+
+Ethereum just broke out of a months-long downtrend as on-chain staking activity strengthens the bullish case. In this video, we ...
+
+📺 CoinCodex
+
+👁️ 40 • 👍 5 • 💬 20 • ⏱️ 4:25 • 2h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T20:49:06.129283+00:00'
+updated: '2026-01-13T21:22:41.502501+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 20:49 UTC  
+**Last Updated:** January 13, 2026 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 8h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 9h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-13h ago
+14h ago
 
 ---
 
@@ -66,13 +66,13 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-10h ago
+11h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -80,13 +80,13 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-3h ago
+4h ago
 
 ---
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -110,7 +110,7 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 Implementing automation systems requires a lot of planning, time and money
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -126,7 +126,7 @@ BBC • 1d ago
 
 1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.
 
-TechCrunch • 3h ago
+TechCrunch • 4h ago
 
 ---
 
@@ -134,7 +134,7 @@ TechCrunch • 3h ago
 
 WIRobotics, a global robotics company co-led by Co-CEOs Younbaek Lee and Yongjae Kim, announced the successful conclusion of its participation at CES 2026, marking a shift from technology demonstration to the execution phase of global collaboration across both humanoid and wearable robotics.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -150,7 +150,7 @@ WBAL-TV • 2d ago
 
 Hyundai Motor group stocks surge after Atlas robot debut and Nvidia partnership lifts robotics optimism.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 2h ago
 
 ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
 
-Seeking Alpha • 43m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ TechRadar • 1d ago
 
 **[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -188,91 +188,43 @@ Bloomberg.com • 17h ago
 
 ## YouTube Videos: "robotics"
 
-**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
-
-Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
-
-📺 Kim Java
-
-👁️ 312K • 👍 10K • 💬 580 • ⏱️ 17:09 • 1d ago
-
----
-
 **[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
 
 This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
 
 📺 Cybernews
 
-👁️ 329K • 👍 4K • 💬 726 • ⏱️ 4:29 • 6d ago
+👁️ 330K • 👍 4K • 💬 727 • ⏱️ 4:29 • 6d ago
 
 ---
 
-**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
 
-Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
 
-📺 Trisha Hershberger
+📺 Kim Java
 
-👁️ 10K • 👍 569 • 💬 37 • ⏱️ 9:28 • 3d ago
-
----
-
-**[CES 2026 Highlights | Atlas Powered by Gemini Robotics | #Shorts](https://www.youtube.com/watch?v=39n2Efch6oE)**
-
-The next generation of Atlas is designed to interact with people and understand changing environments. Powered by Gemini ...
-
-📺 Hyundai Motor Group
-
-👁️ 246K • 👍 63 • ⏱️ 1:15 • 6d ago
+👁️ 324K • 👍 10K • 💬 593 • ⏱️ 17:09 • 1d ago
 
 ---
 
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+**[The Biggest Robot Exhibition in Las Vegas | CES 2026](https://www.youtube.com/watch?v=Kpw1N-Ej_xo)**
 
-📺 Wowearth
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hello, friends! Welcome to the future. Today we're ...
 
-👁️ 19K • 👍 319 • 💬 30 • ⏱️ 1:16 • 10h ago
+📺 PRO ROBOTS
 
----
-
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
-
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
-
-📺 CNBC
-
-👁️ 124K • 👍 1K • 💬 341 • ⏱️ 11:46 • 2d ago
+👁️ 60K • 👍 1K • 💬 95 • ⏱️ 18:58 • 5d ago
 
 ---
 
-**[Unitree New Robot Goes Superhuman on Camera (Snaps Into Attack State)](https://www.youtube.com/watch?v=T4ekeXQ2B6Q)**
+**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
 
-Unitree just unleashed a humanoid robot that doesn't just mimic human motion — it executes it. In a new demo, the H2 throws ...
+This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
 
-📺 AI Revolution
+📺 FIRSTRoboticsCompetition
 
-👁️ 67K • 👍 1K • 💬 241 • ⏱️ 9:33 • 6d ago
-
----
-
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 17K • 👍 228 • 💬 37 • ⏱️ 11:29 • 2d ago
-
----
-
-**[Laundry-folding robot debuts at CES 2026](https://www.youtube.com/watch?v=W93GXR7jo5o)**
-
-Technology leaders are gathering in Las Vegas for CES, one of the industry's biggest conferences of the year. CNET editor at ...
-
-📺 CBS News
-
-👁️ 47K • 👍 122 • 💬 31 • ⏱️ 2:54 • 6d ago
+👁️ 101K • 👍 2K • 💬 201 • ⏱️ 3:13 • 3d ago
 
 ---
 
@@ -282,7 +234,57 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 96K • 👍 1K • 💬 160 • ⏱️ 10:48 • 3d ago
+👁️ 96K • 👍 1K • 💬 166 • ⏱️ 10:48 • 3d ago
+
+---
+
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+
+📺 CNBC
+
+👁️ 126K • 👍 2K • 💬 345 • ⏱️ 11:46 • 2d ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 17K • 👍 232 • 💬 37 • ⏱️ 11:29 • 3d ago
+
+---
+
+**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
+
+Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
+
+📺 Trisha Hershberger
+
+👁️ 10K • 👍 570 • 💬 37 • ⏱️ 9:28 • 3d ago
+
+---
+
+**[2026 FIRST Robotics Competition Field Tour: Bump and Trench](https://www.youtube.com/watch?v=h2JBcmpRxA0)**
+
+Watch this video to learn about the Bump and Trench for REBUILT presented by Haas. To download season materials, including ...
+
+📺 FIRSTRoboticsCompetition
+
+👁️ 7K • 👍 64 • 💬 4 • ⏱️ 2:23 • 3d ago
+
+---
+
+**[REBUILT Robot Systems Overview | Monday Recap | Ri3D Cranberry Alarm](https://www.youtube.com/watch?v=qxTU4_RFJNo)**
+
+REBUILT Robot Systems Overview | Monday Recap | Ri3D Cranberry Alarm The robot is coming together as Cranberry Alarm ...
+
+📺 FUN Robotics Network
+
+👁️ 8K • 👍 137 • 💬 7 • ⏱️ 27:12 • 17h ago
 
 ---
 

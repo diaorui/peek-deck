@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T20:49:06.111410+00:00'
+updated: '2026-01-13T21:22:41.486767+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 20:49 UTC  
+**Last Updated:** January 13, 2026 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-57m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 McKinsey & Company CEO Bob Sternfels says he wants every employee working alongside an AI agent within a year and a half.
 
-🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
 
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 4h ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ We are moving from experimentation to deployment while confronting economic and 
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 15h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 16h ago
 
 ---
 
@@ -97,7 +97,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 2h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ While working on a business website i needed to figure out which model actually 
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 10h ago
 
 Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 1d ago
 
 Wall Street analysts applauded the new Apple-Alphabet deal as one that would bolster the investment case for both companies.
 
-CNBC • 49m ago
+CNBC • 1h ago
 
 ---
 
@@ -153,19 +153,19 @@ CNBC • 49m ago
 
 Aiomics partners with the medical education platform StreamedUp to launch a CME-certified curriculum on AI competence.
 
-USA Today • 23m ago
+USA Today • 56m ago
 
 ---
 
 **[Nvidia Is Launching a Monster AI Supercomputer for Businesses. Here's What You Need to Know](https://www.inc.com/chris-morris/nvidia-is-launching-a-monster-ai-supercomputer-for-businesses/91287483)**
 
-inc.com • 46m ago
+inc.com • 1h ago
 
 ---
 
 **[Robots come for advertising](https://www.axios.com/media-trends-membership/2026/01/13/ai-agents-advertising-automation)**
 
-Axios • 40m ago
+Axios • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ NPR • 14h ago
 
 Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 4h ago
 
 Ashley St. Clair, the mother of one of Elon Musk's children, alleges Grok generated and published sexual deepfake images of her without permission.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -229,7 +229,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 214 • 💬 148 • 21h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 214 • 💬 148 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -253,7 +253,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 160 • 💬 133 • 8h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 160 • 💬 133 • 9h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -281,37 +281,7 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Wes Roth
 
-👁️ 88K • 👍 3K • 💬 701 • ⏱️ 23:05 • 1d ago
-
----
-
-**[OpenAI Just Dropped GPT HEALTH And People Are Freaking Out](https://www.youtube.com/watch?v=sPl_jYF8E5k)**
-
-OpenAI just launched ChatGPT Health — a dedicated health and wellness space inside ChatGPT — and it pushes ChatGPT into ...
-
-📺 AI Revolution
-
-👁️ 35K • 👍 1K • 💬 162 • ⏱️ 14:42 • 20h ago
-
----
-
-**[The $1.5 Billion Anthropic Lawsuit That Could Change AI Forever](https://www.youtube.com/watch?v=XQXVA5M9AUk)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
-
-📺 Julia McCoy
-
-👁️ 20K • 👍 1K • 💬 173 • ⏱️ 10:39 • 1d ago
-
----
-
-**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
-
-Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
-
-📺 AI Revolution
-
-👁️ 38K • 👍 1K • 💬 51 • ⏱️ 14:29 • 1d ago
+👁️ 89K • 👍 3K • 💬 705 • ⏱️ 23:05 • 1d ago
 
 ---
 
@@ -321,17 +291,27 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 48K • 👍 381 • 💬 92 • ⏱️ 7:57 • 1d ago
+👁️ 49K • 👍 392 • 💬 92 • ⏱️ 7:57 • 1d ago
 
 ---
 
-**[Which One is AI?](https://www.youtube.com/watch?v=1ttPxy5d1xg)**
+**[The $1.5 Billion Anthropic Lawsuit That Could Change AI Forever](https://www.youtube.com/watch?v=XQXVA5M9AUk)**
 
-ZoomPartner Which one do you think it is? So excited to host this Live Event with Zoom please sign up and tell your school so we ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *The ...
 
-📺 Rebecca Zamolo
+📺 Julia McCoy
 
-👁️ 177K • 👍 4K • 💬 222 • ⏱️ 0:23 • 22h ago
+👁️ 20K • 👍 1K • 💬 174 • ⏱️ 10:39 • 1d ago
+
+---
+
+**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
+
+Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
+
+📺 AI Revolution
+
+👁️ 39K • 👍 1K • 💬 51 • ⏱️ 14:29 • 1d ago
 
 ---
 
@@ -341,15 +321,7 @@ British regulators are investigating X for lewd AI images generated by Grok, the
 
 📺 CBS News
 
-👁️ 13K • 👍 185 • 💬 101 • ⏱️ 3:51 • 6h ago
-
----
-
-**[ai influencers are making everything worse](https://www.youtube.com/watch?v=_gKe1cKL4F8)**
-
-📺 D'Angelo
-
-👁️ 8K • 👍 804 • 3h ago
+👁️ 17K • 👍 198 • 💬 108 • ⏱️ 3:51 • 6h ago
 
 ---
 
@@ -359,15 +331,47 @@ In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with s
 
 📺 Dr Brian Keating
 
-👁️ 9K • 👍 229 • 💬 32 • ⏱️ 5:50 • 2d ago
+👁️ 9K • 👍 235 • 💬 34 • ⏱️ 5:50 • 2d ago
 
 ---
 
-**[I bought 2 AI-generated dresses… here’s what they REALLY look like. 🙄](https://www.youtube.com/watch?v=BqbcrZUfTqo)**
+**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
 
-📺 Maggie McGaugh
+I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
 
-👁️ 263K • 👍 10K • 💬 104 • ⏱️ 0:49 • 1d ago
+📺 I Ask AI
+
+👁️ 161K • 👍 14K • 💬 3K • ⏱️ 13:08 • 23h ago
+
+---
+
+**[How To Build a One Person Solo Business Using AI!](https://www.youtube.com/watch?v=_8tIhVQ4C3M)**
+
+Your Complete Solopreneur Workflow - https://bit.ly/454YuUK How To Build a One Person Solo Business Using AI! This video ...
+
+📺 Anik Singal
+
+👁️ 5K • 👍 316 • 💬 15 • ⏱️ 16:31 • 1d ago
+
+---
+
+**[HISTORIC MOMENT: Hegseth Joins Elon Musk at SpaceX to Launch Military AI Revolution | AI1Z](https://www.youtube.com/watch?v=K0eTdhGPxG8)**
+
+U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in Brownsville, Texas, on January 12, 2026, ...
+
+📺 DWS News
+
+👁️ 41K • 👍 564 • 💬 7 • ⏱️ 8:05 • 14h ago
+
+---
+
+**[Meta Wasting $600 Billion On AI](https://www.youtube.com/watch?v=lj_PDjfYIO0)**
+
+For original short-selling research and much more check out our website: https://www.differentiatedanalytics.com/ Use promo ...
+
+📺 Wall Street Millennial
+
+👁️ 174K • 👍 6K • 💬 1K • ⏱️ 17:02 • 1d ago
 
 ---
 
@@ -383,7 +387,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 860,720 • ❤️ 900 • 5d ago
+⬇️ 860,720 • ❤️ 905 • 5d ago
 
 ---
 
@@ -395,7 +399,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 30,479 • ❤️ 550 • 6d ago
+⬇️ 30,479 • ❤️ 554 • 6d ago
 
 ---
 
@@ -407,7 +411,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 11,717 • ❤️ 744 • 12d ago
+⬇️ 11,717 • ❤️ 747 • 12d ago
 
 ---
 
@@ -419,7 +423,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 3,162 • ❤️ 338 • 7d ago
+⬇️ 3,162 • ❤️ 339 • 7d ago
 
 ---
 
@@ -431,7 +435,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 15,073 • ❤️ 310 • 4d ago
+⬇️ 15,073 • ❤️ 312 • 4d ago
 
 ---
 
@@ -443,7 +447,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 229 • 5h ago
+⬇️ 26,414 • ❤️ 229 • 6h ago
 
 ---
 
@@ -455,7 +459,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 1,062 • ❤️ 238 • 7d ago
+⬇️ 1,062 • ❤️ 240 • 7d ago
 
 ---
 
@@ -479,7 +483,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 23,229 • ❤️ 213 • 4d ago
+⬇️ 23,229 • ❤️ 214 • 4d ago
 
 ---
 
@@ -491,7 +495,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 23,003 • ❤️ 192 • 4d ago
+⬇️ 23,003 • ❤️ 193 • 4d ago
 
 ---
 
@@ -596,7 +600,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 28 • 💬 2 • ⭐ 675 • 5d ago
+▲ 29 • 💬 2 • ⭐ 675 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
@@ -647,7 +651,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 480 • 5d ago
+⭐ 3.6k • 🔱 482 • 6d ago
 
 ---
 
@@ -657,7 +661,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 122 • 11h ago
+⭐ 3.4k • 🔱 125 • 29m ago
 
 ---
 
@@ -687,7 +691,7 @@ Learn vibe coding from 0 to 1 | 从实战中系统学会 vibe coding｜产品思
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.5k • 🔱 129 • 4h ago
+⭐ 1.5k • 🔱 129 • 5h ago
 
 ---
 
@@ -707,7 +711,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 23h ago
+⭐ 1.4k • 🔱 115 • 1d ago
 
 ---
 
