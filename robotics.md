@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T09:29:38.909503+00:00'
+updated: '2026-01-13T09:52:58.716295+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 09:29 UTC  
+**Last Updated:** January 13, 2026 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,19 +44,19 @@ Robotics research and industry news
 
 ---
 
-**[My robot can recognize itself in the mirror!](https://www.reddit.com/r/robotics/comments/1qb1x6f/my_robot_can_recognize_itself_in_the_mirror/)**
-
-And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
-
-15h ago
-
----
-
 **[Should a robot lamp talk or not?](https://www.reddit.com/r/robotics/comments/1qbktwk/should_a_robot_lamp_talk_or_not/)**
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
 2h ago
+
+---
+
+**[My robot can recognize itself in the mirror!](https://www.reddit.com/r/robotics/comments/1qb1x6f/my_robot_can_recognize_itself_in_the_mirror/)**
+
+And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
+
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ Fourier GR-3, both the full and baby versions, are among the best looking to me.
 
 I wrote a step-by-step guide about Learning Rate in RL: how the reward curves for Q-Learning, DQN and PPO change, why PPO is much more sensitive to LR than you think, which values ​​are safe and which values ​​are dangerous, what divergence looks like in TensorBoard, how to test the optimal LR quickly, without guesswork. Everything is tested. Everything is visual. Everything is explained simply. Here is the link: https://www.reinforcementlearningpath.com/the-complete-guide-of-learning-rate-in-rl/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ I wrote a step-by-step guide about Learning Rate in RL: how the reward curves fo
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 13h ago
+🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi, I’m a college student currently majoring in Mechanical Engineering. I’ve talked to a counselor who suggested I take some engineering technology classes as that serves more of experience rather than regular engineering classes as those are more theory based classes. I really enjoyed taking some of those classes and was thinking of pivoting towards engineer technology, but I was wondering how well that degree would serve robotics. Also my goal is to eventually be able to design some things and actually build something. What do you guys think?
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi, I’m a college student currently majoring in Mechanical Engineering. I’ve
 
 Hey guys I have a comp engineering undergrad and most recently was building distribution systems, schedulers / game engines in rust adjacent to cryptography and hardware… The SWE industry is truly windling with AI being a success..so I am curious how I can leverage my previous education in math and EE with my systems engineering know how to break into the robotics field
 
-3h ago
+4h ago
 
 ---
 
@@ -120,6 +120,14 @@ Engadget • 2d ago
 
 ---
 
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+
+Joe Tidy meets robots being trained to tidy up all your mess.
+
+BBC • 1d ago
+
+---
+
 **[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
 
 Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
@@ -128,19 +136,19 @@ The Verge • 2d ago
 
 ---
 
-**[Video: China’s humanoid robot masters complex skills in hours without prior setup](https://interestingengineering.com/ai-robotics/chinas-humanoid-robot-masters-complex-skills)**
-
-PNDbotics unveils Adam-U Ultra, a humanoid robot with VLA AI and 10,000+ data samples, learning new skills in hours.
-
-Interesting Engineering • 1d ago
-
----
-
 **[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
 
 If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
 
 TechCrunch • 3d ago
+
+---
+
+**[Food Robotics Market - Global Forecast 2025-2032: Use of Collaborative Robots Alongside Kitchen Staff to Streamline Meal Assembly in Quick Service Restaurants](https://finance.yahoo.com/news/food-robotics-market-global-forecast-090200273.html)**
+
+The food robotics market offers significant opportunities, driven by the integration of advanced robotics in culinary processes. Key areas include enhanced efficiency, safety, and innovation in food production and logistics. Regulatory shifts and demand for sustainable operations are boosting robotic adoption, especially in cold chain and manufacturing, creating strategic investment potential globally. Food Robotics Market Food Robotics Market Dublin, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The "Food
+
+Yahoo Finance • 50m ago
 
 ---
 
@@ -169,14 +177,6 @@ CNBC • 1d ago
 “This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
 
 Grand Forks Herald • 1d ago
-
----
-
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
-
-Joe Tidy meets robots being trained to tidy up all your mess.
-
-BBC • 1d ago
 
 ---
 

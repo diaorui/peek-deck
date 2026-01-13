@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T09:29:38.900095+00:00'
+updated: '2026-01-13T09:52:58.708139+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 09:29 UTC  
+**Last Updated:** January 13, 2026 at 09:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,840.36
+### $92,630.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.6%  
-**30d:** +6.3%  
-**90d:** -14.9%  
-**1y:** -4.8%  
+**24h:** +1.7%  
+**7d:** +0.9%  
+**30d:** +6.7%  
+**90d:** -14.6%  
+**1y:** -4.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
+
+6h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
 20h ago
-
----
-
-**[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
-
-5h ago
 
 ---
 
@@ -111,6 +111,14 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 ---
 
+**[US Senate Big Move On Crypto New Draft Bill Explained - BigBreakingWire](https://www.reddit.com/r/Bitcoin/comments/1qbj9y2/us_senate_big_move_on_crypto_new_draft_bill/)**
+
+The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
+
+🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 4h ago
+
+---
+
 **[BTW, STRC is 'working'. Every day, millions of dollars is used to buy bitcoin, a massive fiat onramp](https://www.reddit.com/r/Bitcoin/comments/1qbcgb2/btw_strc_is_working_every_day_millions_of_dollars/)**
 
 Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
@@ -119,11 +127,11 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 ---
 
-**[US Senate Big Move On Crypto New Draft Bill Explained - BigBreakingWire](https://www.reddit.com/r/Bitcoin/comments/1qbj9y2/us_senate_big_move_on_crypto_new_draft_bill/)**
+**[When BTC Hits 1M$ in 2040](https://www.reddit.com/r/Bitcoin/comments/1qbgip5/when_btc_hits_1m_in_2040/)**
 
-The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
+FIAT : unlimited supply BTC : 21M Do the math.
 
-🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 3h ago
+6h ago
 
 ---
 
@@ -141,14 +149,6 @@ Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin tra
 
 ---
 
-**[When BTC Hits 1M$ in 2040](https://www.reddit.com/r/Bitcoin/comments/1qbgip5/when_btc_hits_1m_in_2040/)**
-
-FIAT : unlimited supply BTC : 21M Do the math.
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -161,12 +161,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
-
-The Block • 1d ago
-
----
-
 **[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
 
 Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
@@ -175,11 +169,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price slips below $91,000 as privacy coins steal the spotlight: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today)**
+**[Bitcoin price up after Fed chair vows to fight new Trump attack](https://finance.yahoo.com/news/bitcoin-price-fed-chair-vows-102009622.html)**
 
-Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
+Powell vows to hold firm as Trump launches new attack on Fed. Bitcoin’s price briefly jumped 2% before returning to just above $90,000.
 
-CoinDesk • 21h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
+
+The Block • 1d ago
 
 ---
 
@@ -199,11 +199,11 @@ CoinDesk • 2h ago
 
 ---
 
-**[Former 'bitcoin mayor' Eric Adams faces $3 million rugpull allegation after issuing NYC coin](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)**
+**[Bitcoin’s Price Recovery Masks Growing Risk From Overleveraged Long Positions](https://finance.yahoo.com/news/bitcoin-price-recovery-masks-growing-075548028.html)**
 
-On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
+Bitcoin is stabilizing after last week’s pullback, yet growing leverage and fading spot demand leave the market vulnerable to sharp moves.
 
-CoinDesk • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -215,17 +215,17 @@ CNBC • 2d ago
 
 ---
 
+**[Bitcoin, XRP Prices Rise. Why a Familiar Catalyst Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-xrp-prices-crypto-legislation-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdXaFG-Gl9XoHQYpPnzLbX21MP2lNIWm_uf8sqcmZzEf7f4gVDOrapA&gaa_ts=6966195f&gaa_sig=uzqpMOi5MqpvZghyChXWbDThadppStAyVdBURc6OLmuhooSjphATC_Vp-BFhQkNiEJnbYjRW45m6N4X90pDZIw%3D%3D)**
+
+Barron's • 58m ago
+
+---
+
 **[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
 
 Bitcoin has a lot going for it, but the near term could be bumpy.
 
 The Motley Fool • 1d ago
-
----
-
-**[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
-
-Forbes • 7h ago
 
 ---
 
@@ -259,7 +259,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 13h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -339,7 +339,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 59K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 19h ago
+👁️ 59K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 20h ago
 
 ---
 
@@ -379,7 +379,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 19h ago
+👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 20h ago
 
 ---
 
