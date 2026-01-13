@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T14:54:17.646772+00:00'
+updated: '2026-01-13T15:30:32.069542+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 14:54 UTC  
+**Last Updated:** January 13, 2026 at 15:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-7h ago
-
----
-
-**[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
-
-Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
-
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 2h ago
+8h ago
 
 ---
 
@@ -58,7 +50,15 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-4h ago
+5h ago
+
+---
+
+**[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
+
+Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
+
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 3h ago
 
 ---
 
@@ -70,7 +70,7 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -78,13 +78,13 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-20h ago
+21h ago
 
 ---
 
 **[StackChan, a 100% Open-Source Robot by M5Stack Now Live on Kickstarter!](https://www.reddit.com/r/robotics/comments/1qbr8b5/stackchan_a_100_opensource_robot_by_m5stack_now/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -92,13 +92,13 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Does anyone know of any model kits/figures/statues etc. of robots that actually exist? I have always thought the Atlas and Spot robots from Boston Dynamics looked really neat and would love a model of them on my desk. I haven't had luck finding any models that are based on real robots.
 
-47m ago
+1h ago
 
 ---
 
-**[LimX COSA](https://www.reddit.com/r/robotics/comments/1qbpxo3/limx_cosa/)**
+**[Rate my Maker space!](https://www.reddit.com/r/robotics/comments/1qbom9e/rate_my_maker_space/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -118,7 +118,7 @@ Engadget • 2d ago
 
 Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
 
-BBC • 42m ago
+BBC • 1h ago
 
 ---
 
@@ -132,7 +132,7 @@ Bloomberg.com • 1d ago
 
 By 2026, the convergence of Generative AI and humanoid form factors will enable robots to autonomously execute complex tasks. With 85 million global jobs projected to go unfilled by 2030, intelligent robots will transition from novelty to essential workforce multipliersChicago, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The global robotics market was valued at US$ 51.51 billion in 2025 and is projected to hit the market valuation of US$ 199.50 billion by 2035 at a CAGR of 14.5% during the forecast period
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -158,19 +158,19 @@ CNBC • 1d ago
 
 ---
 
-**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
-
-BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
-
-Seeking Alpha • 3d ago
-
----
-
 **[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
 
 Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
 
 WBAL-TV • 2d ago
+
+---
+
+**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
+
+BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
+
+Seeking Alpha • 3d ago
 
 ---
 
@@ -262,7 +262,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 95K • 👍 1K • 💬 159 • ⏱️ 10:48 • 2d ago
+👁️ 95K • 👍 1K • 💬 159 • ⏱️ 10:48 • 3d ago
 
 ---
 
@@ -272,7 +272,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 3 • ⏱️ 2:16 • 16h ago
+👁️ 1K • 👍 3 • ⏱️ 2:16 • 17h ago
 
 ---
 

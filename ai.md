@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T14:54:17.624747+00:00'
+updated: '2026-01-13T15:30:32.051149+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 14:54 UTC  
+**Last Updated:** January 13, 2026 at 15:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over its misuse to generate explicit images.
 
-🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 6h ago
+🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 7h ago
 
 ---
 
@@ -61,27 +61,19 @@ The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored
 
 ---
 
-**[I bought an LG TV for the first time in my life, and it’s weird.](https://www.reddit.com/r/artificial/comments/1qbmjl2/i_bought_an_lg_tv_for_the_first_time_in_my_life/)**
-
-It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
-
-5h ago
-
----
-
 **[European banks plan to cut 200,000 jobs as AI takes hold | TechCrunch](https://www.reddit.com/r/artificial/comments/1qbnflg/european_banks_plan_to_cut_200000_jobs_as_ai/)**
 
 The bloodletting will hit hardest in back-office operations, risk management, and compliance.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) • 4h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) • 5h ago
 
 ---
 
-**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
+**[I bought an LG TV for the first time in my life, and it’s weird.](https://www.reddit.com/r/artificial/comments/1qbmjl2/i_bought_an_lg_tv_for_the_first_time_in_my_life/)**
 
-Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
+It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 9h ago
+6h ago
 
 ---
 
@@ -93,11 +85,27 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 ---
 
+**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
+
+Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
+
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 10h ago
+
+---
+
 **[Claude recently dropped Cowork, and this feels like a real step forward.](https://www.reddit.com/r/artificial/comments/1qbqiro/claude_recently_dropped_cowork_and_this_feels/)**
 
 I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is similar to having a real coworker complete tasks while you work on something else. Claude creates a plan, carries it out, and keeps you informed. The truth is, though, that this feels both strong and a little scary. If your prompt isn't clear, Claude can actually take action on your files, which could cause problems. Additionally, there are real worries regarding file access and safety. Has anyone here used Cowork yet? Blog link is in the comments.
 
 2h ago
+
+---
+
+**[chatgpt vs claude opus 4.5: coding performance breakdown (building a business website)](https://www.reddit.com/r/artificial/comments/1qbkvv6/chatgpt_vs_claude_opus_45_coding_performance/)**
+
+While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
+
+8h ago
 
 ---
 
@@ -109,17 +117,23 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 ---
 
-**[I bought an LG TV for the first time in my life, and it’s weird.](https://www.reddit.com/r/artificial/comments/1qbmjgj/i_bought_an_lg_tv_for_the_first_time_in_my_life/)**
-
-It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
-
-5h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Apple picks Google's Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)**
+
+Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
+
+CNBC • 1d ago
+
+---
+
+**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
+
+The New York Times • 18h ago
+
+---
 
 **[‘Dangerous and alarming’: Google removes some of its AI summaries after users’ health put at risk](https://www.theguardian.com/technology/2026/jan/11/google-ai-overviews-health-guardian-investigation)**
 
@@ -129,69 +143,55 @@ The Guardian • 1d ago
 
 ---
 
-**[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
+**[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.npr.org/2026/01/13/nx-s1-5675781/pentagon-musks-grok-ai-chatbot-global-outcry)**
 
-“It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
+Defense Secretary Pete Hegseth said Monday that Elon Musk's artificial intelligence chatbot Grok will join Google's generative AI engine in operating inside the Pentagon network, as part of a broader push to feed as much of the military's data as possible into the developing technology.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Salesforce releases updated Slackbot powered by Anthropic's AI model](https://www.cnbc.com/2026/01/13/salesforce-releases-updated-slackbot-powered-by-anthropics-ai-model.html)**
-
-Slack is upgrading Slackbot, its personal assistant, with generative AI.
-
-CNBC • 1h ago
+NPR • 8h ago
 
 ---
 
-**[Slackbot is an AI agent now](https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/)**
+**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’](https://finance.yahoo.com/news/elon-musk-says-saving-retirement-221451637.html)**
 
-Salesforce unveils Slackbot, a new AI agent that allows users to complete tasks across multiple enterprise applications from Slack.
+Musk said a "supersonic tsunami" of AI and robotics will bring about a world of zero scarcity.
 
-TechCrunch • 1h ago
-
----
-
-**[Slack’s automated bot is getting an upgrade into an AI workplace helper](https://www.fastcompany.com/91473260/slacks-automated-bot-is-getting-an-upgrade-into-an-ai-workplace-helper)**
-
-Fast Company • 1h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Microsoft's Brad Smith pushes Big Tech to 'pay our way' for AI data centers amid rising opposition](https://abcnews.go.com/Business/wireStory/microsofts-brad-smith-pushes-big-tech-pay-ai-129162408)**
+**[What a new law and an investigation could mean for Grok AI deepfakes](https://www.bbc.com/news/articles/ckgvx88md4do)**
 
-Microsoft is trying to win over communities concerned about AI data centers
+Elon Musk's chatbot is under fire for altering images of women to remove their clothes without their consent.
 
-ABC News • 44m ago
-
----
-
-**[Middle managers have the jobs AI still can't do](https://qz.com/middle-management-jobs-ai)**
-
-qz.com • 47m ago
+BBC • 19h ago
 
 ---
 
-**[Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/cwy875j28k0o)**
+**[Adobe Analysts Turn Most Bearish Since 2013 as AI Threat Looms](https://www.bloomberg.com/news/articles/2026-01-13/adobe-analysts-turn-most-bearish-since-2013-as-ai-threat-looms)**
 
-The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
-
-BBC • 1d ago
+Bloomberg.com • 17m ago
 
 ---
 
-**[Elon Musk's Grok AI being adopted by Pentagon despite growing backlash against it](https://www.cbsnews.com/news/elon-musk-grok-ai-pentagon-growing-backlash/)**
+**[The 2 Biggest Risks AI Stock Investors Fear Most (It's Not What You'd Expect)](https://www.fool.com/investing/2026/01/13/the-2-biggest-risks-ai-stock-investors-fear-most/)**
 
-Defense Secretary Pete Hegseth says the Pentagon will start using Elon Musk's AI chatbot Grok. The word comes days after Grok drew global outcry for generating highly sexualized deepfake images.
+Artificial intelligence (AI) is driving impressive growth, but investors are worried about a couple of serious risks.
 
-CBS News • 4h ago
+The Motley Fool • 45m ago
 
 ---
 
-**[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
+**[AI becomes the new battlefield as tech giants power US defense surge](https://www.foxbusiness.com/video/6387662826112)**
 
-The New York Times • 1d ago
+8VC Managing Partner & Palantir Co-Founder Joe Lonsdale joins ‘Mornings with Maria’ to discuss how AI is reshaping US military power as global threats from China, Iran and Latin America intensify.
+
+Fox Business • 21m ago
+
+---
+
+**[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
+
+The New York Times • 5h ago
 
 ---
 
@@ -201,7 +201,7 @@ The New York Times • 1d ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1245 • 💬 1562 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1249 • 💬 1569 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -217,7 +217,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 279 • 💬 245 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 284 • 💬 252 • 19h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -225,7 +225,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 201 • 💬 137 • 15h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 203 • 💬 139 • 16h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -241,7 +241,13 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 175 • 💬 95 • 21h ago • [TryLAD](https://www.trylad.com)
+⬆️ 177 • 💬 95 • 22h ago • [TryLAD](https://www.trylad.com)
+
+---
+
+**[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
+
+⬆️ 115 • 💬 72 • 5h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -249,13 +255,15 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 105 • 💬 76 • 20h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 106 • 💬 78 • 20h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
-**[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
+**[Owners, not renters: Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
 
-⬆️ 101 • 💬 61 • 5h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
+
+⬆️ 88 • 💬 56 • 3h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -264,14 +272,6 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
 ⬆️ 52 • 💬 7 • 20h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
-
----
-
-**[Owners, not renters: Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
-
-The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
-
-⬆️ 51 • 💬 37 • 2h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -295,7 +295,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 19K • 👍 1K • 💬 163 • ⏱️ 10:39 • 23h ago
+👁️ 19K • 👍 1K • 💬 163 • ⏱️ 10:39 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Malaysia and Indonesia have banned Elon Musk's AI chatbot Grok amid concerns it'
 
 📺 7NEWS Australia
 
-👁️ 18K • 👍 312 • ⏱️ 1:54 • 19h ago
+👁️ 18K • 👍 312 • ⏱️ 1:54 • 20h ago
 
 ---
 
@@ -461,7 +461,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 222 • 55m ago
+⬇️ 26,414 • ❤️ 222 • 1h ago
 
 ---
 
@@ -643,7 +643,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 1h ago
+⭐ 8.3k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -663,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 106 • 5h ago
+⭐ 3.0k • 🔱 106 • 6h ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 54m ago
+⭐ 2.3k • 🔱 141 • 1h ago
 
 ---
 
@@ -703,7 +703,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.4k • 🔱 75 • 20d ago
+⭐ 1.4k • 🔱 75 • 21d ago
 
 ---
 
@@ -713,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 17h ago
+⭐ 1.4k • 🔱 115 • 18h ago
 
 ---
 
