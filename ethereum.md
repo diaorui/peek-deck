@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T10:50:58.350474+00:00'
+updated: '2026-01-13T11:22:05.036064+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 10:50 UTC  
+**Last Updated:** January 13, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -1.1%  
-**30d:** +5.7%  
-**90d:** -19.6%  
-**1y:** -2.8%  
+**24h:** +0.6%  
+**7d:** -0.9%  
+**30d:** +5.9%  
+**90d:** -19.4%  
+**1y:** -2.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -92,17 +92,17 @@ Ethereum did a lot in 2025: gas limits increased, blob count increased, node sof
 
 ---
 
-**[On ZK-EVMs](https://www.reddit.com/r/ethereum/comments/1qbiyl2/on_zkevms/)**
+**[Ethereum was not created to make finance efficient or apps convenient. It was created to set people free](https://www.reddit.com/r/ethereum/comments/1qbiyvv/ethereum_was_not_created_to_make_finance/)**
 
-Now that ZKEVMs are at alpha stage (production-quality performance, remaining work is safety) and PeerDAS is live on mainnet, it's time to talk more about what this combination means for Ethereum. These are not minor improvements; they are shifting Ethereum into being a fundamentally new and more powerful kind of decentralized network. To see why, let's look at the two major types of p2p network so far: BitTorrent (2000): huge total bandwidth, highly decentralized, no consensus Bitcoin (2009): highly decentralized, consensus, but low bandwidth - because it’s not “distributed” in the sense of work being split up, it’s replicated Now, Ethereum with PeerDAS (2025) and ZK-EVMs (expect small portions of the network using it in 2026), we get: decentralized, consensus and high bandwidth The trilemma has been solved - not on paper, but with live running code, of which one half (data availability sampling) is on mainnet today, and the other half (ZK-EVMs) is production-quality on performance today - safety is what remains. This was a 10-year journey (see the first commit of my original post on DAS here: github.com/ethereum/research/… , and ZK-EVM attempts started in ~2020), but it's finally here. Over the next ~4 years, expect to see the full extent of this vision roll out: In 2026, large non-ZKEVM-dependent gas limit increases due to BALs and ePBS, and we'll see the first opportunities to run a ZKEVM node In 2026-28, gas repricings, changes to state structure, exec payload going into blobs, and other adjustments to make higher gas limits safe In 2027-30, large further gas limit increases, as ZKEVM becomes the primary way to validate blocks on the network A third piece of this is distributed block building. A long-term ideal holy grail is to get to a future where the full block is never constituted in one single place. This will not be necessary for a long time, but IMO it is worth striving for us at least have the capability to do that. Even before that point, we want the meaningful authority in block building to be as distributed as possible. This can be done either in-protocol (eg. maybe we figure out how to expand FOCIL to make it a primary channel for txs), or out-of-protocol with distributed builder marketplaces. This reduces risk of centralized interference with real-time transaction inclusion, AND it creates a better environment for geographical fairness. Onward.
+“Ethereum was not created to make finance efficient or apps convenient. It was created to set people free” This was an important - and controversial - line from the Trustless Manifesto ( trustlessness.eth.limo ), and it is worth revisiting it and better understanding what it means. “efficient” and “convenient” have the connotation of improving the average case, in situations where it’s already pretty good. Efficiency is about telling the world's best engineers to put their souls into reducing latency from 473 ms to 368ms, or increasing yields from 4.5% APY to 5.3% APY. Convenience is about people making one click instead of three, and reducing signup times from 1 min to 20 sec. These things can be good to do. But we must do them under the understanding that we will never be as good at this game as the Silicon Valley corporate players. And so the primary underlying game that Ethereum plays must be a different game. What is the game? Resilience. Resilience is the game where it’s not about 4.5% APY vs 5.3% APY - rather, it’s about minimizing the chance that you get -100% APY. Resilience is the game where if you become politically unpopular and get deplatformed, or if a the developers of your application go bankrupt or disappear, or if Cloudflare goes down, or if an internet cyberwar breaks out, your 2000ms latency continues to be 2000ms. Resilience is the game where anyone, anywhere in the world will be able to access the network and be a first-class participant. Resilience is sovereignty. Not sovereignty in the sense of lobbying to become a UN member state and shaking hands at Davos in two weeks, but sovereignty in the sense that people talk about "digital sovereignty" or "food sovereignty" - aggressively reducing your vulnerabilities to external dependencies that can be taken away from you on a whim. This is the sense in which the world computer can be sovereign, and in doing so make its users also sovereign. This baseline is what enables interdependence as equals, and not as vassals of corporate overlords thousands of kilometers away. This is the game that Ethereum is suited to win, and it delivers a type of value that, in our increasingly unstable world, a lot of people are going to need. The fundamental DNA of web2 consumer tech is not suited to resilience. The fundamental DNA of finance often spends considerable effort on resilience, but it is a very partial form of resilience, good at solving for some types of risks but not others. Blockspace is abundant. Decentralized, permissionless and resilient blockspace is not. Ethereum must first and foremost be decentralized, permissionless and resilient block space - and then make that abundant.
 
 5h ago
 
 ---
 
-**[Ethereum was not created to make finance efficient or apps convenient. It was created to set people free](https://www.reddit.com/r/ethereum/comments/1qbiyvv/ethereum_was_not_created_to_make_finance/)**
+**[On ZK-EVMs](https://www.reddit.com/r/ethereum/comments/1qbiyl2/on_zkevms/)**
 
-“Ethereum was not created to make finance efficient or apps convenient. It was created to set people free” This was an important - and controversial - line from the Trustless Manifesto ( trustlessness.eth.limo ), and it is worth revisiting it and better understanding what it means. “efficient” and “convenient” have the connotation of improving the average case, in situations where it’s already pretty good. Efficiency is about telling the world's best engineers to put their souls into reducing latency from 473 ms to 368ms, or increasing yields from 4.5% APY to 5.3% APY. Convenience is about people making one click instead of three, and reducing signup times from 1 min to 20 sec. These things can be good to do. But we must do them under the understanding that we will never be as good at this game as the Silicon Valley corporate players. And so the primary underlying game that Ethereum plays must be a different game. What is the game? Resilience. Resilience is the game where it’s not about 4.5% APY vs 5.3% APY - rather, it’s about minimizing the chance that you get -100% APY. Resilience is the game where if you become politically unpopular and get deplatformed, or if a the developers of your application go bankrupt or disappear, or if Cloudflare goes down, or if an internet cyberwar breaks out, your 2000ms latency continues to be 2000ms. Resilience is the game where anyone, anywhere in the world will be able to access the network and be a first-class participant. Resilience is sovereignty. Not sovereignty in the sense of lobbying to become a UN member state and shaking hands at Davos in two weeks, but sovereignty in the sense that people talk about "digital sovereignty" or "food sovereignty" - aggressively reducing your vulnerabilities to external dependencies that can be taken away from you on a whim. This is the sense in which the world computer can be sovereign, and in doing so make its users also sovereign. This baseline is what enables interdependence as equals, and not as vassals of corporate overlords thousands of kilometers away. This is the game that Ethereum is suited to win, and it delivers a type of value that, in our increasingly unstable world, a lot of people are going to need. The fundamental DNA of web2 consumer tech is not suited to resilience. The fundamental DNA of finance often spends considerable effort on resilience, but it is a very partial form of resilience, good at solving for some types of risks but not others. Blockspace is abundant. Decentralized, permissionless and resilient blockspace is not. Ethereum must first and foremost be decentralized, permissionless and resilient block space - and then make that abundant.
+Now that ZKEVMs are at alpha stage (production-quality performance, remaining work is safety) and PeerDAS is live on mainnet, it's time to talk more about what this combination means for Ethereum. These are not minor improvements; they are shifting Ethereum into being a fundamentally new and more powerful kind of decentralized network. To see why, let's look at the two major types of p2p network so far: BitTorrent (2000): huge total bandwidth, highly decentralized, no consensus Bitcoin (2009): highly decentralized, consensus, but low bandwidth - because it’s not “distributed” in the sense of work being split up, it’s replicated Now, Ethereum with PeerDAS (2025) and ZK-EVMs (expect small portions of the network using it in 2026), we get: decentralized, consensus and high bandwidth The trilemma has been solved - not on paper, but with live running code, of which one half (data availability sampling) is on mainnet today, and the other half (ZK-EVMs) is production-quality on performance today - safety is what remains. This was a 10-year journey (see the first commit of my original post on DAS here: github.com/ethereum/research/… , and ZK-EVM attempts started in ~2020), but it's finally here. Over the next ~4 years, expect to see the full extent of this vision roll out: In 2026, large non-ZKEVM-dependent gas limit increases due to BALs and ePBS, and we'll see the first opportunities to run a ZKEVM node In 2026-28, gas repricings, changes to state structure, exec payload going into blobs, and other adjustments to make higher gas limits safe In 2027-30, large further gas limit increases, as ZKEVM becomes the primary way to validate blocks on the network A third piece of this is distributed block building. A long-term ideal holy grail is to get to a future where the full block is never constituted in one single place. This will not be necessary for a long time, but IMO it is worth striving for us at least have the capability to do that. Even before that point, we want the meaningful authority in block building to be as distributed as possible. This can be done either in-protocol (eg. maybe we figure out how to expand FOCIL to make it a primary channel for txs), or out-of-protocol with distributed builder marketplaces. This reduces risk of centralized interference with real-time transaction inclusion, AND it creates a better environment for geographical fairness. Onward.
 
 5h ago
 
@@ -116,14 +116,6 @@ IMO there are three problems to doing so: Ideally figure out an index to track t
 
 ---
 
-**[South Korea Ends Its Crypto Ban!!](https://www.reddit.com/r/ethereum/comments/1qb48hy/south_korea_ends_its_crypto_ban/)**
-
-South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
-
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 15h ago
-
----
-
 **[Corposlop vs sovereign](https://www.reddit.com/r/ethereum/comments/1qbj11w/corposlop_vs_sovereign/)**
 
 I agree with maybe 60% of this, but one bit that is particularly important to highlight is the explicit separation between what the poster calls "the open web" (really, the corposlop web), and "the sovereign web". https://firefly.social/post/x/2006710624424702362 This is a distinction I did not realize until recently, and I must admit the bitcoin maximalists were far ahead: a big part of their resistance to ICOs, tokens other than bitcoin, arbitrary financial applications, etc was precisely about keeping bitcoin "sovereign" and not "corposlop". The big error that many of them made was trying to achieve this goal with either government crackdowns or user disempowerment (keeping bitcoin script limited, and rejecting many categories of applications entirely), but their fear was real. So what is corposlop? In essence, it is the combination of three things: Corporate optimization power An aura of respectableness of being a company with sleek polished branding Behavior that the exact opposite of respectable, because that's what's needed to maximize profit Corposlop includes things like: Social media that maximizes dopamine, outrage, other methods of short-term engagement, at the expense of long-term value and fulfillment Needless mass data collection from users, often followed by managing it carelessly or even casually selling it to third parties Walled gardens charging monopolistic high fees and actively preventing people from even linking to other platforms Hollywood releasing the 7th sequel to some tired franchise, because that's the most risk-averse thing to do Every corporation that rallied around slogans of diversity and equity and the need to overturn society to fight racism in 2020, and then publicly mocked those causes for engagement in 2025 This is all digital corposlop; there are big and important analogues to this in the physical world too. Corposlop is soulless: trend-following homogeneity that is both evil and lame https://vitalik.eth.limo/general/2025/12/30/balance_of_power.html#how-we-fear-big-business These are things that appear to serve the user, but actually disempower the user. I have many qualms with Apple, but aside from their monopolistic practices, they actually have many non-corposlop traits. They serve users not by constantly asking "what do users want this quarter", but by having an opinionated long-term vision. They have a strong emphasis on privacy. They resist and create trends rather than following them. I just wish they could take the brave step of ending their monopolistic practices and switch to an open source first strategy. It may damage their market cap, but man must live for something higher than market caps. Zac from Aztec was also early to recognize the importance of this, with a post that is on the whole very pro-freedom, but at the same time does not shrink back from labeling what is essentially corposlop a primary enemy, even when it does not violate the libertarian non-aggression principle. https://firefly.social/post/x/1986086241276657868 In 2000, the understanding of "sovereignty" largely focused on avoiding the iron fist of government. Today, "sovereignty" also means securing your digital privacy through cryptography, and securing your own mind from corporate mind warfare trying to extract your attention and your dollars. It also means doing things because you believe in them, and declaring independence from the homogenizing and soul-sucking concept of "the meta". These are the kinds of tools that we should build more of. Build tools like: Privacy-preserving local-first applications that minimize dependence on and data leaks to third parties Social media platforms and tools that let the user take control of what content they see. Appeal to people's long-term goals, not short-term impulses Financial tools that help users grow their wealth, and do not encourage 50x leverage or sports betting or taking out a loan to pay for a burrito AI tools that are maximally open and privacy and local-friendly, and that maximize productivity from merging the power of human and bot, rather than encouraging the user to sit back and let the bot do all the work, so they learn nothing Applications, companies, and physical environments that take an opinionated view on the kind of world they want to see, and have an opinionated culture DAOs that can support organizations and communities that steadfastly pursue a unique objective, and do not all get captured by the same groups. Privacy-preserving and non-tokenholder-driven voting can help here Be sovereign. Reject corposlop. Believe in somETHing.
@@ -132,19 +124,27 @@ I agree with maybe 60% of this, but one bit that is particularly important to hi
 
 ---
 
-**[How effective is Monero for ETH Privacy?](https://www.reddit.com/r/ethereum/comments/1qb5q6f/how_effective_is_monero_for_eth_privacy/)**
-
-Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
-
-14h ago
-
----
-
 **[Increasing bandwidth is safer than reducing latency](https://www.reddit.com/r/ethereum/comments/1qbj03e/increasing_bandwidth_is_safer_than_reducing/)**
 
 With PeerDAS and ZKPs, we know how to scale, and potentially we can scale thousands of times compared to the status quo. The numbers become far more favorable than before (eg. see analysis here, pre and post-sharding https://vitalik.eth.limo/general/2021/05/23/scaling.html ). There is no law of physics that prevents combining extreme scale with decentralization. Reducing latency is not like this. We are fundamentally constrained by speed of light, and on top of that we are also constrained by: Need to support nodes (especially attesters) in rural environments, worldwide, and in home or commercial environments outside of data centers. Need to support censorship-resistance and anonymity for nodes (especially proposers and attesters). The fact that running a node in a non-super-concentrated location must be not only possible, but also economically viable. If staking outside NYC drops your revenues by 10%, over time more and more people will stake in NYC. Ethereum itself must pass the walkaway test, and so we cannot build a blockchain that depends on constant social re-juggling to ensure decentralization. Economics cannot handle the entire load, but it must handle most. Now, we can decrease latency quite a bit from the present-day situation without making tradeoffs. In particular: P2P improvements (esp erasure coding) can decrease message propagation times without requiring individual nodes to have lower bandwidth An available chain with a smaller node count per slot (eg. 512 instead of 30,000) can remove the need for an aggregation step, allowing the entire hot path to happen in one subnet This plausibly buys us 3-6x. Hence, I think moderate latency decreases, to a 2-4s level, are very much in the realm of possibility. But Ethereum is NOT the world video game server, it is the world heartbeat. If you need to build applications that are faster than the heartbeat, they will need to have offchain components. This is a big part of why L2s will continue to have a role even in a greatly scaled Ethereum (there are other reasons too, around VM customization, and around applications that need even more scale). Ultimately, AI will necessitate applications that go faster than the heartbeat no matter what we do. If an AI can think 1000x faster than humans, then to the AI, the "subjective speed of light" is only 300 km/s. Hence, it can talk near-instantly within the scope of a city, but not further. As a result, there will inevitably be AI-focused applications that will need "city chains", potentially even chains localized to a single building. These will have to be L2s. And on the flipside, it would be too much of a cost to make it viable to run a staking node on Mars. Even Bitcoin does not strive for this. Ultimately, Ethereum belongs to Terra, and its L2s will serve both hyper-localized needs in its cities, and hyper-scaled needs planet-wide, and users on other worlds.
 
 5h ago
+
+---
+
+**[Linux as a north star](https://www.reddit.com/r/ethereum/comments/1qbiz8k/linux_as_a_north_star/)**
+
+One metaphor for Ethereum is BitTorrent, and how that p2p network combines decentralization and mass scale. Ethereum's goal is to do the same thing but with consensus. Another metaphor for Ethereum is Linux. Linux is free and open source software, and does not compromise on this Linux is quietly depended on by billions of people and enterprises worldwide. Governments regularly use it. There are many operating systems based on Linux that pursue mass adoption There are Linux distributions (eg. Arch) that are highly purist, minimalistic and technologically beautiful, and focus on making the user feel powerful, not comfortable (Actually, BitTorrent is depended on by enterprises too: many businesses and even governments (!!) use it to distribute large files to their users https://www.makeuseof.com/tag/8-legal-uses-for-bittorrent-youd-be-surprised ) We must make sure that Ethereum L1 works as the financial (and ultimately identity, social, governance...) home for individuals and organizations who want the higher level of autonomy, and give them access to the full power of the network without dependence on intermediaries. At the same time, what Linux shows is that this is fully compatible with providing value to very large numbers of people, and even being loved and trusted by enterprises worldwide. Many enterprises in fact desperately want to build on an open and resilient ecosystem - what we call trustlessness, they call prudent counterparty risk minimization. This is the gwei.
+
+5h ago
+
+---
+
+**[South Korea Ends Its Crypto Ban!!](https://www.reddit.com/r/ethereum/comments/1qb48hy/south_korea_ends_its_crypto_ban/)**
+
+South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
+
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 16h ago
 
 ---
 
@@ -168,9 +168,17 @@ CoinDesk • 1d ago
 
 ---
 
+**[Bitmine stakes $4bn Ethereum. Why Tom Lee forecasts price jump in 2026](https://www.dlnews.com/articles/markets/bitmine-stakes-usd-4bn-ethereum-tom-lee-forecasts-price-jump/)**
+
+Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
+
+dlnews.com • 1h ago
+
+---
+
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -190,17 +198,25 @@ The Motley Fool • 7h ago
 
 ---
 
+**[XRP and Solana ETFs Destroy Ethereum and Bitcoin as Institutional Exposure Pivots](https://www.tradingview.com/news/u_today:640737c00094b:0-xrp-and-solana-etfs-destroy-ethereum-and-bitcoin-as-institutional-exposure-pivots/)**
+
+Institutional crypto exposure is undergoing a subtle but significant change, and the figures from Jan. 5 to Jan. 9 make it difficult to ignore. There was a net $681 million withdrawal from Bitcoin spot ETFs. With outflows of $68.57 million, Ethereum came next. While XRP spot ETFs brought in $38.07…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
 **[Bank of Italy: what if TradFi adopts Ethereum but ETH collapses?](https://www.ledgerinsights.com/bank-of-italy-what-if-tradfi-adopts-ethereum-but-eth-collapses/)**
 
 The Bank of Italy has published a working paper exploring how to handle a loss of faith in a public blockchain, with Ethereum as one example. It sees it
 
-ledgerinsights.com • 17h ago
+ledgerinsights.com • 18h ago
 
 ---
 
 **[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
 
-thedefiant.io • 19h ago
+thedefiant.io • 20h ago
 
 ---
 
@@ -208,23 +224,7 @@ thedefiant.io • 19h ago
 
 Ethereum's very soul is up for debate.
 
-AMBCrypto • 1d ago
-
----
-
-**[A hidden "yield war" has begun in Ethereum ETFs, forcing issuers to finally pay you for holding](https://cryptoslate.com/eth-etfs-just-paid-a-dividend-grayscales-9-4m-staking-test/)**
-
-Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
-
-CryptoSlate • 1d ago
-
----
-
-**[Ethereum sentiment mirrors levels seen before ‘major run’: Santiment](https://www.tradingview.com/news/cointelegraph:c651bda89094b:0-ethereum-sentiment-mirrors-levels-seen-before-major-run-santiment/)**
-
-Ethereum’s declining social media sentiment is mirroring levels similar to those seen before its 2025 price rally, which eventually pushed the asset back to its 2021 all-time highs, according to a crypto sentiment analyst.“Ethereum is actually way down, this would argue against us falling too much…
-
-TradingView — Track All Markets • 2d ago
+AMBCrypto • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 7K • 👍 322 • 💬 38 • ⏱️ 12:31 • 13h ago
+👁️ 7K • 👍 322 • 💬 38 • ⏱️ 12:31 • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 1K • 💬 263 • ⏱️ 14:17 • 21h ago
+👁️ 12K • 👍 1K • 💬 263 • ⏱️ 14:17 • 22h ago
 
 ---
 
@@ -298,7 +298,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 695 • 💬 115 • ⏱️ 19:18 • 19h ago
+👁️ 20K • 👍 695 • 💬 115 • ⏱️ 19:18 • 20h ago
 
 ---
 

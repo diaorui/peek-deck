@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T10:50:58.353738+00:00'
+updated: '2026-01-13T11:22:05.038884+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 10:50 UTC  
+**Last Updated:** January 13, 2026 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-3h ago
+4h ago
 
 ---
 
@@ -56,15 +56,29 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-16h ago
+17h ago
 
 ---
 
-**[Fourier Care-Bot - a deskbot that i actually want](https://www.reddit.com/r/robotics/comments/1qbh9mu/fourier_carebot_a_deskbot_that_i_actually_want/)**
+**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-Fourier GR-3, both the full and baby versions, are among the best looking to me. Their designers deserved a raise!
+1h ago
 
-🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 6h ago
+---
+
+**[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
+
+From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
+
+1h ago
+
+---
+
+**[Figure me out which bachelors should i take to become a robotics engineer.](https://www.reddit.com/r/robotics/comments/1qbnukh/figure_me_out_which_bachelors_should_i_take_to/)**
+
+Right now i am in class 11. I have a interest in doing robotics. I am confused to decide which bachelors should i need to take.. so that i can specialise in robotics in my masters…
+
+58m ago
 
 ---
 
@@ -76,35 +90,17 @@ I wrote a step-by-step guide about Learning Rate in RL: how the reward curves fo
 
 ---
 
-**[A quick tutorial on copper-rs the robotic runtime on 2 new concepts - YouTube](https://www.reddit.com/r/robotics/comments/1qb4nvb/a_quick_tutorial_on_copperrs_the_robotic_runtime/)**
+**[Fourier Care-Bot - a deskbot that i actually want](https://www.reddit.com/r/robotics/comments/1qbh9mu/fourier_carebot_a_deskbot_that_i_actually_want/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Fourier GR-3, both the full and baby versions, are among the best looking to me. Their designers deserved a raise!
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 15h ago
-
----
-
-**[Robotics with ET Degree?](https://www.reddit.com/r/robotics/comments/1qbl7cm/robotics_with_et_degree/)**
-
-Hi, I’m a college student currently majoring in Mechanical Engineering. I’ve talked to a counselor who suggested I take some engineering technology classes as that serves more of experience rather than regular engineering classes as those are more theory based classes. I really enjoyed taking some of those classes and was thinking of pivoting towards engineer technology, but I was wondering how well that degree would serve robotics. Also my goal is to eventually be able to design some things and actually build something. What do you guys think?
-
-3h ago
+🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 7h ago
 
 ---
 
-**[How can I break into robotics?](https://www.reddit.com/r/robotics/comments/1qbjb7m/how_can_i_break_into_robotics/)**
+**[Rate my Maker space!](https://www.reddit.com/r/robotics/comments/1qbom9e/rate_my_maker_space/)**
 
-Hey guys I have a comp engineering undergrad and most recently was building distribution systems, schedulers / game engines in rust adjacent to cryptography and hardware… The SWE industry is truly windling with AI being a success..so I am curious how I can leverage my previous education in math and EE with my systems engineering know how to break into the robotics field
-
-5h ago
-
----
-
-**[ANYmal-C Locomotion](https://www.reddit.com/r/robotics/comments/1qaryjy/anymalc_locomotion/)**
-
-This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
-
-23h ago
+11m ago
 
 ---
 
@@ -148,7 +144,7 @@ TechCrunch • 3d ago
 
 The food robotics market offers significant opportunities, driven by the integration of advanced robotics in culinary processes. Key areas include enhanced efficiency, safety, and innovation in food production and logistics. Regulatory shifts and demand for sustainable operations are boosting robotic adoption, especially in cold chain and manufacturing, creating strategic investment potential globally. Food Robotics Market Food Robotics Market Dublin, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The "Food
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -198,7 +194,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 241K • 👍 8K • 💬 456 • ⏱️ 17:09 • 21h ago
+👁️ 241K • 👍 8K • 💬 456 • ⏱️ 17:09 • 22h ago
 
 ---
 
@@ -278,7 +274,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 2 • ⏱️ 2:16 • 12h ago
+👁️ 1K • 👍 2 • ⏱️ 2:16 • 13h ago
 
 ---
 

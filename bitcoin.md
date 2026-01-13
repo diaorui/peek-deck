@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T10:50:58.344419+00:00'
+updated: '2026-01-13T11:22:05.030749+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 10:50 UTC  
+**Last Updated:** January 13, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +0.9%  
-**30d:** +6.7%  
-**90d:** -14.6%  
-**1y:** -4.4%  
+**24h:** +1.5%  
+**7d:** +0.8%  
+**30d:** +6.5%  
+**90d:** -14.7%  
+**1y:** -4.6%  
 
 ---
 
@@ -83,6 +83,12 @@ Rank #1
 
 ---
 
+**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
+
+17m ago
+
+---
+
 **[Caved](https://www.reddit.com/r/Bitcoin/comments/1qbgxmk/caved/)**
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
@@ -97,20 +103,6 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 ---
 
-**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
-
-21h ago
-
----
-
-**[I give up on trying to convince anyone](https://www.reddit.com/r/Bitcoin/comments/1qb0qem/i_give_up_on_trying_to_convince_anyone/)**
-
-I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
-
-17h ago
-
----
-
 **[US Senate Big Move On Crypto New Draft Bill Explained - BigBreakingWire](https://www.reddit.com/r/Bitcoin/comments/1qbj9y2/us_senate_big_move_on_crypto_new_draft_bill/)**
 
 The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
@@ -119,11 +111,11 @@ The US Senate has released a new draft bill to fix confusion around crypto regul
 
 ---
 
-**[BTW, STRC is 'working'. Every day, millions of dollars is used to buy bitcoin, a massive fiat onramp](https://www.reddit.com/r/Bitcoin/comments/1qbcgb2/btw_strc_is_working_every_day_millions_of_dollars/)**
+**[Right?](https://www.reddit.com/r/Bitcoin/comments/1qbn5cr/right/)**
 
-Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
+Crypto taught me something simple: Most people don't lose money. They lose patience. And then call it a scam.
 
-10h ago
+1h ago
 
 ---
 
@@ -135,17 +127,25 @@ FIAT : unlimited supply BTC : 21M Do the math.
 
 ---
 
-**[17 years later: those 10 BTC from the first transaction are worth ~$917,000 USD](https://www.reddit.com/r/Bitcoin/comments/1qbet42/17_years_later_those_10_btc_from_the_first/)**
+**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin transaction: on January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney. Back then, they were literally worth $0. Today, with BTC hovering around $91,700 USD (according to data from CoinDesk, Yahoo Finance, and major exchanges), those 10 bitcoins are equivalent to approximately $917,000. From zero to nearly a million in less than two decades, without banks or anyone's permission. The cypherpunk experiment that changed the financial world continues to prove: the future of money is already here And it's still going up!
-
-8h ago
+22h ago
 
 ---
 
-**[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
+**[I give up on trying to convince anyone](https://www.reddit.com/r/Bitcoin/comments/1qb0qem/i_give_up_on_trying_to_convince_anyone/)**
 
-21h ago
+I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
+
+18h ago
+
+---
+
+**[BTW, STRC is 'working'. Every day, millions of dollars is used to buy bitcoin, a massive fiat onramp](https://www.reddit.com/r/Bitcoin/comments/1qbcgb2/btw_strc_is_working_every_day_millions_of_dollars/)**
+
+Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
+
+10h ago
 
 ---
 
@@ -156,14 +156,6 @@ Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin tra
 **[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
-
-Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
 Yahoo Finance • 1d ago
 
@@ -183,27 +175,33 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates](https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates)**
+
+Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdKUgDmoIT5gnYLQxEWBQYfazOK6ugksu3jd4L5W4HpY_79Fj5lfSYm&gaa_ts=69662e3d&gaa_sig=rr98LE1C5N2vK22-0X1V4HfJFlWtocyADqMMRdi9vjYUWGbiEXxVYrY0HQDMj1-VbvKuSZk14E9XNFNQLdEAEg%3D%3D)**
+
+Barron's • 30m ago
+
+---
+
+**[Here's Why I Just Raised My 2026 Price Target for Bitcoin to $150,000](https://www.fool.com/investing/2026/01/13/heres-why-i-just-raised-my-2026-price-target-for-b/)**
+
+Patching a major vulnerability will result in a higher price for the coin.
+
+The Motley Fool • 52m ago
+
+---
+
 **[21Shares' bitcoin (BTC) and gold ETP debuts on London Stock Exchange (LSE)](https://www.coindesk.com/markets/2026/01/13/21shares-bitcoin-and-gold-exchange-traded-product-debuts-on-london-stock-exchange)**
 
 The ETP offers physically backed exposure to bitcoin and gold in a single investment vehicle.
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin and ether traders bet on calmer times](https://www.coindesk.com/markets/2026/01/13/bitcoin-and-ether-traders-bet-on-calmer-times)**
-
-Bitcoin and ether traders are betting on low volatility and reduced near-term risks despite resilient dollar index and tepid demand for spot ETFs.
-
 CoinDesk • 3h ago
-
----
-
-**[Bitcoin’s Price Recovery Masks Growing Risk From Overleveraged Long Positions](https://finance.yahoo.com/news/bitcoin-price-recovery-masks-growing-075548028.html)**
-
-Bitcoin is stabilizing after last week’s pullback, yet growing leverage and fading spot demand leave the market vulnerable to sharp moves.
-
-Yahoo Finance • 2h ago
 
 ---
 
@@ -215,17 +213,17 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise. Why a Familiar Catalyst Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-xrp-prices-crypto-legislation-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdXaFG-Gl9XoHQYpPnzLbX21MP2lNIWm_uf8sqcmZzEf7f4gVDOrapA&gaa_ts=6966195f&gaa_sig=uzqpMOi5MqpvZghyChXWbDThadppStAyVdBURc6OLmuhooSjphATC_Vp-BFhQkNiEJnbYjRW45m6N4X90pDZIw%3D%3D)**
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-Barron's • 1h ago
+CCN.com • 9m ago
 
 ---
 
-**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
+**[Fed rate cuts under fire: 5 things to know in Bitcoin this week](https://www.tradingview.com/news/cointelegraph:28bb3c18b094b:0-fed-rate-cuts-under-fire-5-things-to-know-in-bitcoin-this-week/)**
 
-Bitcoin has a lot going for it, but the near term could be bumpy.
+Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
 
-The Motley Fool • 1d ago
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -275,7 +273,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 15h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 16h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -319,7 +317,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 574 • ⏱️ 14:21 • 11h ago
+👁️ 43K • 👍 2K • 💬 574 • ⏱️ 14:21 • 12h ago
 
 ---
 
@@ -349,7 +347,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 961 • 💬 472 • ⏱️ 7:34 • 15h ago
+👁️ 14K • 👍 961 • 💬 472 • ⏱️ 7:34 • 16h ago
 
 ---
 
@@ -389,7 +387,7 @@ Aaron Arnold, Co-Host of Altcoin Daily, discusses the outlook for Bitcoin, Ether
 
 📺 David Lin 
 
-👁️ 4K • 👍 204 • 💬 120 • ⏱️ 42:44 • 6h ago
+👁️ 4K • 👍 204 • 💬 120 • ⏱️ 42:44 • 7h ago
 
 ---
 
