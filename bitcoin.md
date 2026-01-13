@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T11:43:19.738746+00:00'
+updated: '2026-01-13T12:51:24.286070+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 11:43 UTC  
+**Last Updated:** January 13, 2026 at 12:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,630.67
+### $92,077.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
+**24h:** +1.6%  
 **7d:** +0.8%  
 **30d:** +6.5%  
 **90d:** -14.7%  
@@ -77,15 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
+**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-14h ago
+1h ago
 
 ---
 
-**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
+**[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-39m ago
+15h ago
+
+---
+
+**[Every crypto cycle in one chart](https://www.reddit.com/r/Bitcoin/comments/1qbpjbf/every_crypto_cycle_in_one_chart/)**
+
+I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
+
+49m ago
+
+---
+
+**[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
+
+1h ago
 
 ---
 
@@ -93,21 +107,7 @@ Rank #1
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-7h ago
-
----
-
-**[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
-
-8h ago
-
----
-
-**[US Senate Big Move On Crypto New Draft Bill Explained - BigBreakingWire](https://www.reddit.com/r/Bitcoin/comments/1qbj9y2/us_senate_big_move_on_crypto_new_draft_bill/)**
-
-The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
-
-🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 5h ago
+9h ago
 
 ---
 
@@ -115,7 +115,21 @@ The US Senate has released a new draft bill to fix confusion around crypto regul
 
 Crypto taught me something simple: Most people don't lose money. They lose patience. And then call it a scam.
 
-2h ago
+3h ago
+
+---
+
+**[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
+
+9h ago
+
+---
+
+**[US Senate Big Move On Crypto New Draft Bill Explained - BigBreakingWire](https://www.reddit.com/r/Bitcoin/comments/1qbj9y2/us_senate_big_move_on_crypto_new_draft_bill/)**
+
+The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
+
+🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 7h ago
 
 ---
 
@@ -123,29 +137,13 @@ Crypto taught me something simple: Most people don't lose money. They lose patie
 
 FIAT : unlimited supply BTC : 21M Do the math.
 
-8h ago
+9h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-22h ago
-
----
-
-**[I give up on trying to convince anyone](https://www.reddit.com/r/Bitcoin/comments/1qb0qem/i_give_up_on_trying_to_convince_anyone/)**
-
-I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
-
-18h ago
-
----
-
-**[BTW, STRC is 'working'. Every day, millions of dollars is used to buy bitcoin, a massive fiat onramp](https://www.reddit.com/r/Bitcoin/comments/1qbcgb2/btw_strc_is_working_every_day_millions_of_dollars/)**
-
-Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
-
-11h ago
+23h ago
 
 ---
 
@@ -161,31 +159,39 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price up after Fed chair vows to fight new Trump attack](https://finance.yahoo.com/news/bitcoin-price-fed-chair-vows-102009622.html)**
-
-Powell vows to hold firm as Trump launches new attack on Fed. Bitcoin’s price briefly jumped 2% before returning to just above $90,000.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
 The Block • 1d ago
 
 ---
 
-**[Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates](https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates)**
+**[Binance Founder CZ Encourages Crypto Holders As Wells Fargo Reports Bitcoin ETF Holdings (CORRECTED)](https://finance.yahoo.com/news/binance-founder-cz-encourages-crypto-164653277.html)**
 
-Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.
+Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
 
-CoinDesk • 1d ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdKUgDmoIT5gnYLQxEWBQYfazOK6ugksu3jd4L5W4HpY_79Fj5lfSYm&gaa_ts=69662e3d&gaa_sig=rr98LE1C5N2vK22-0X1V4HfJFlWtocyADqMMRdi9vjYUWGbiEXxVYrY0HQDMj1-VbvKuSZk14E9XNFNQLdEAEg%3D%3D)**
+**[XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows](https://www.theblock.co/post/384997/xrp-etfs-hit-record-weekly-volume-as-bitcoin-ether-funds-face-750-million-in-combined-outflows)**
 
-Barron's • 51m ago
+The Block • 2d ago
+
+---
+
+**[2 Things to Expect From Your First Bitcoin ETF Purchase in 2026](https://www.fool.com/investing/2026/01/13/2-things-to-expect-from-first-bitcoin-etf-purchase/)**
+
+If you're considering using a Bitcoin ETF instead of spot Bitcoin for your crypto exposure, you should know a couple of things before your first trade.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Altcoins, led by dash, heat up as bitcoin nears breakout: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/13/altcoins-led-by-dash-heat-up-as-bitcoin-nears-breakout-crypto-markets-today)**
+
+Bitcoin pushed above $92,000 with rising volume; altcoins outperformed as traders rotated into privacy coins and memecoins.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -193,15 +199,19 @@ Barron's • 51m ago
 
 Patching a major vulnerability will result in a higher price for the coin.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[21Shares' bitcoin (BTC) and gold ETP debuts on London Stock Exchange (LSE)](https://www.coindesk.com/markets/2026/01/13/21shares-bitcoin-and-gold-exchange-traded-product-debuts-on-london-stock-exchange)**
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-The ETP offers physically backed exposure to bitcoin and gold in a single investment vehicle.
+CCN.com • 1h ago
 
-CoinDesk • 3h ago
+---
+
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdVpPz_RKEjnFGr_M-Gkq5Jlhufa8bZJcCIzxRqj3KvWIYaHjAvB9Vd&gaa_ts=6966432f&gaa_sig=Bbdk-3Fh7SFJU56uBHmd97dwQ_VGXlgMLm0zkKoHhgk94oiP7YweLTZB1jbacSzPpbpueLVrx0wk9iSfXbAqoQ%3D%3D)**
+
+Barron's • 1h ago
 
 ---
 
@@ -210,20 +220,6 @@ CoinDesk • 3h ago
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
 
 CNBC • 2d ago
-
----
-
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
-
-CCN.com • 31m ago
-
----
-
-**[Fed rate cuts under fire: 5 things to know in Bitcoin this week](https://www.tradingview.com/news/cointelegraph:28bb3c18b094b:0-fed-rate-cuts-under-fire-5-things-to-know-in-bitcoin-this-week/)**
-
-Bitcoin BITSTAMP:BTCUSD bounces into a new week as volatility catalysts multiply worldwide.Traders fade another weekend BTC price pumpBitcoin began the weekly candle on a high thanks to some volatility into the Asia market open.Data from TradingView showed BITSTAMP:BTCUSD hitting local highs of $92…
-
-TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -241,7 +237,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 4d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 5d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -257,7 +253,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 15h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 16h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -273,7 +269,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 16h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 17h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -287,7 +283,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 **[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
 
-⬆️ 2 • 💬 0 • 5d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
+⬆️ 2 • 💬 0 • 6d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
 
 ---
 
@@ -317,7 +313,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 587 • ⏱️ 14:21 • 12h ago
+👁️ 48K • 👍 3K • 💬 587 • ⏱️ 14:21 • 13h ago
 
 ---
 
@@ -337,7 +333,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 63K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 22h ago
+👁️ 63K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 23h ago
 
 ---
 
@@ -347,7 +343,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 348 • ⏱️ 41:26 • 20h ago
+👁️ 32K • 👍 1K • 💬 348 • ⏱️ 41:26 • 21h ago
 
 ---
 
@@ -357,7 +353,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 980 • 💬 478 • ⏱️ 7:34 • 16h ago
+👁️ 14K • 👍 980 • 💬 478 • ⏱️ 7:34 • 17h ago
 
 ---
 
@@ -367,7 +363,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 22h ago
+👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 23h ago
 
 ---
 
@@ -377,7 +373,7 @@ Aaron Arnold, Co-Host of Altcoin Daily, discusses the outlook for Bitcoin, Ether
 
 📺 David Lin 
 
-👁️ 6K • 👍 294 • 💬 142 • ⏱️ 42:44 • 7h ago
+👁️ 6K • 👍 294 • 💬 142 • ⏱️ 42:44 • 8h ago
 
 ---
 
@@ -407,7 +403,7 @@ Michael Saylor Just Doubled Down on Bitcoin! Here's Why That Matters… South Ko
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 261 • 💬 105 • ⏱️ 8:25 • 11h ago
+👁️ 5K • 👍 261 • 💬 105 • ⏱️ 8:25 • 12h ago
 
 ---
 

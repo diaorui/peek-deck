@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T11:43:19.748182+00:00'
+updated: '2026-01-13T12:51:24.296034+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 11:43 UTC  
+**Last Updated:** January 13, 2026 at 12:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-8h ago
+9h ago
+
+---
+
+**[Should a robot lamp talk or not?](https://www.reddit.com/r/robotics/comments/1qbktwk/should_a_robot_lamp_talk_or_not/)**
+
+Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
+
+5h ago
 
 ---
 
@@ -44,11 +52,17 @@ Robotics research and industry news
 
 ---
 
-**[Should a robot lamp talk or not?](https://www.reddit.com/r/robotics/comments/1qbktwk/should_a_robot_lamp_talk_or_not/)**
+**[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
 
-Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
+From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-4h ago
+2h ago
+
+---
+
+**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
+
+2h ago
 
 ---
 
@@ -56,21 +70,21 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-17h ago
+18h ago
 
 ---
 
-**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
+**[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
 
-1h ago
+Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
+
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 34m ago
 
 ---
 
-**[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
+**[LimX COSA](https://www.reddit.com/r/robotics/comments/1qbpxo3/limx_cosa/)**
 
-From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
-
-1h ago
+28m ago
 
 ---
 
@@ -78,7 +92,7 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 Right now i am in class 11. I have a interest in doing robotics. I am confused to decide which bachelors should i need to take.. so that i can specialise in robotics in my masters…
 
-1h ago
+2h ago
 
 ---
 
@@ -86,21 +100,7 @@ Right now i am in class 11. I have a interest in doing robotics. I am confused t
 
 I wrote a step-by-step guide about Learning Rate in RL: how the reward curves for Q-Learning, DQN and PPO change, why PPO is much more sensitive to LR than you think, which values ​​are safe and which values ​​are dangerous, what divergence looks like in TensorBoard, how to test the optimal LR quickly, without guesswork. Everything is tested. Everything is visual. Everything is explained simply. Here is the link: https://www.reinforcementlearningpath.com/the-complete-guide-of-learning-rate-in-rl/
 
-3h ago
-
----
-
-**[Fourier Care-Bot - a deskbot that i actually want](https://www.reddit.com/r/robotics/comments/1qbh9mu/fourier_carebot_a_deskbot_that_i_actually_want/)**
-
-Fourier GR-3, both the full and baby versions, are among the best looking to me. Their designers deserved a raise!
-
-🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 7h ago
-
----
-
-**[Rate my Maker space!](https://www.reddit.com/r/robotics/comments/1qbom9e/rate_my_maker_space/)**
-
-33m ago
+5h ago
 
 ---
 
@@ -132,19 +132,11 @@ The Verge • 2d ago
 
 ---
 
-**[I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/)**
+**[Robotics Market Projected to Reach US$ 199.50 Billion by 2035, Supported by Continued Investment Activity Says Astute Analytica](https://finance.yahoo.com/news/robotics-market-projected-reach-us-123000827.html)**
 
-If the robots don't always give a totally accurate representation of where commercial deployment is at the moment, they do give visitors a peek at where their parent companies might be headed.
+By 2026, the convergence of Generative AI and humanoid form factors will enable robots to autonomously execute complex tasks. With 85 million global jobs projected to go unfilled by 2030, intelligent robots will transition from novelty to essential workforce multipliersChicago, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The global robotics market was valued at US$ 51.51 billion in 2025 and is projected to hit the market valuation of US$ 199.50 billion by 2035 at a CAGR of 14.5% during the forecast period
 
-TechCrunch • 3d ago
-
----
-
-**[Food Robotics Market - Global Forecast 2025-2032: Use of Collaborative Robots Alongside Kitchen Staff to Streamline Meal Assembly in Quick Service Restaurants](https://finance.yahoo.com/news/food-robotics-market-global-forecast-090200273.html)**
-
-The food robotics market offers significant opportunities, driven by the integration of advanced robotics in culinary processes. Key areas include enhanced efficiency, safety, and innovation in food production and logistics. Regulatory shifts and demand for sustainable operations are boosting robotic adoption, especially in cold chain and manufacturing, creating strategic investment potential globally. Food Robotics Market Food Robotics Market Dublin, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The "Food
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 21m ago
 
 ---
 
@@ -156,7 +148,15 @@ Bloomberg.com • 1d ago
 
 **[Did that lamp just fold the laundry? Alumni rethink home robotics](https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html)**
 
-Tech Xplore • 2d ago
+Tech Xplore • 3d ago
+
+---
+
+**[UND organizers hope robotics competition's location in Alerus Center will help draw attention to the sport](https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport)**
+
+“This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
+
+Grand Forks Herald • 2d ago
 
 ---
 
@@ -168,19 +168,19 @@ CNBC • 1d ago
 
 ---
 
-**[UND organizers hope robotics competition's location in Alerus Center will help draw attention to the sport](https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport)**
-
-“This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
-
-Grand Forks Herald • 1d ago
-
----
-
 **[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
 Seeking Alpha • 2d ago
+
+---
+
+**[WSU researchers develop robotic arm to aid with labor and boost productivity in orchards](https://komonews.com/news/local/wsu-washington-state-university-school-of-mechanical-and-materials-engineering-researchers-agriculture-robotic-apple-picking-arm-washington-orchards-migrant-farm-workers)**
+
+A cost-effective, robotic apple picker arm developed by Washington State University (WSU) researchers may someday help with fruit picking and other farm chores.
+
+KOMO • 2d ago
 
 ---
 
@@ -194,7 +194,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 253K • 👍 8K • 💬 473 • ⏱️ 17:09 • 22h ago
+👁️ 253K • 👍 8K • 💬 473 • ⏱️ 17:09 • 23h ago
 
 ---
 
@@ -264,7 +264,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 2 • ⏱️ 2:16 • 13h ago
+👁️ 1K • 👍 2 • ⏱️ 2:16 • 14h ago
 
 ---
 
