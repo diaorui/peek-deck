@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T07:26:26.323465+00:00'
+updated: '2026-01-13T07:45:36.991858+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 07:26 UTC  
+**Last Updated:** January 13, 2026 at 07:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 **[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
 
-🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 1h ago
+🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 21h ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 19h ago
 
 Bitcoin and ether traders are betting on low volatility and reduced near-term risks despite resilient dollar index and tepid demand for spot ETFs.
 
-CoinDesk • 20m ago
+CoinDesk • 39m ago
 
 ---
 
@@ -193,7 +193,7 @@ CoinDesk • 20m ago
 
 On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -257,7 +257,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 10h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 11h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -327,7 +327,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 55K • 👍 3K • 💬 1K • ⏱️ 2:04:54 • 17h ago
+👁️ 55K • 👍 3K • 💬 1K • ⏱️ 2:04:54 • 18h ago
 
 ---
 
@@ -367,7 +367,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 345 • ⏱️ 41:26 • 15h ago
+👁️ 31K • 👍 1K • 💬 345 • ⏱️ 41:26 • 16h ago
 
 ---
 
@@ -387,7 +387,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 3K • 💬 58 • ⏱️ 8:17 • 17h ago
+👁️ 17K • 👍 3K • 💬 58 • ⏱️ 8:17 • 18h ago
 
 ---
 

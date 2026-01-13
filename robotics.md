@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T07:26:26.332891+00:00'
+updated: '2026-01-13T07:45:37.001155+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 07:26 UTC  
+**Last Updated:** January 13, 2026 at 07:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-13m ago
+33m ago
 
 ---
 
@@ -72,7 +72,7 @@ Fourier GR-3, both the full and baby versions, are among the best looking to me.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 11h ago
+🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hey guys I have a comp engineering undergrad and most recently was building distribution systems, schedulers / game engines in rust adjacent to cryptography and hardware… The SWE industry is truly windling with AI being a success..so I am curious how I can leverage my previous education in math and EE with my systems engineering know how to break into the robotics field
 
-1h ago
+2h ago
 
 ---
 
@@ -130,7 +130,7 @@ The Verge • 2d ago
 
 PNDbotics unveils Adam-U Ultra, a humanoid robot with VLA AI and 10,000+ data samples, learning new skills in hours.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
