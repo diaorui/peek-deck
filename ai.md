@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T20:27:31.455255+00:00'
+updated: '2026-01-13T20:49:06.111410+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 20:27 UTC  
+**Last Updated:** January 13, 2026 at 20:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-35m ago
+57m ago
 
 ---
 
@@ -49,7 +49,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 15h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ McKinsey & Company CEO Bob Sternfels says he wants every employee working alongs
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-51m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-14h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 1d ago
 
 Wall Street analysts applauded the new Apple-Alphabet deal as one that would bolster the investment case for both companies.
 
-CNBC • 28m ago
+CNBC • 49m ago
 
 ---
 
@@ -153,19 +153,19 @@ CNBC • 28m ago
 
 Aiomics partners with the medical education platform StreamedUp to launch a CME-certified curriculum on AI competence.
 
-USA Today • 1m ago
+USA Today • 23m ago
 
 ---
 
 **[Nvidia Is Launching a Monster AI Supercomputer for Businesses. Here's What You Need to Know](https://www.inc.com/chris-morris/nvidia-is-launching-a-monster-ai-supercomputer-for-businesses/91287483)**
 
-inc.com • 24m ago
+inc.com • 46m ago
 
 ---
 
 **[Robots come for advertising](https://www.axios.com/media-trends-membership/2026/01/13/ai-agents-advertising-automation)**
 
-Axios • 18m ago
+Axios • 40m ago
 
 ---
 
@@ -173,7 +173,7 @@ Axios • 18m ago
 
 Defense Secretary Pete Hegseth said Monday that Elon Musk's artificial intelligence chatbot Grok will join Google's generative AI engine in operating inside the Pentagon network, as part of a broader push to feed as much of the military's data as possible into the developing technology.
 
-NPR • 13h ago
+NPR • 14h ago
 
 ---
 
@@ -213,7 +213,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 247 • 💬 167 • 1h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 247 • 💬 167 • 2h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -221,7 +221,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 235 • 💬 69 • 1h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 235 • 💬 69 • 2h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -259,7 +259,7 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 133 • 💬 97 • 10h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+⬆️ 133 • 💬 97 • 11h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -341,7 +341,7 @@ British regulators are investigating X for lewd AI images generated by Grok, the
 
 📺 CBS News
 
-👁️ 13K • 👍 185 • 💬 101 • ⏱️ 3:51 • 5h ago
+👁️ 13K • 👍 185 • 💬 101 • ⏱️ 3:51 • 6h ago
 
 ---
 
@@ -637,7 +637,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 3h ago
+⭐ 8.3k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -667,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 2h ago
+⭐ 2.3k • 🔱 141 • 3h ago
 
 ---
 
