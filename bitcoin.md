@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T12:51:24.286070+00:00'
+updated: '2026-01-13T13:42:13.672699+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 12:51 UTC  
+**Last Updated:** January 13, 2026 at 13:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
 
-49m ago
+1h ago
 
 ---
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -115,13 +115,13 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 Crypto taught me something simple: Most people don't lose money. They lose patience. And then call it a scam.
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -137,13 +137,13 @@ The US Senate has released a new draft bill to fix confusion around crypto regul
 
 FIAT : unlimited supply BTC : 21M Do the math.
 
-9h ago
+10h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 1d ago
 
 Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Block • 2d ago
 
 If you're considering using a Bitcoin ETF instead of spot Bitcoin for your crypto exposure, you should know a couple of things before your first trade.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -199,19 +199,19 @@ CoinDesk • 1h ago
 
 Patching a major vulnerability will result in a higher price for the coin.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 1h ago
+CCN.com • 2h ago
 
 ---
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdVpPz_RKEjnFGr_M-Gkq5Jlhufa8bZJcCIzxRqj3KvWIYaHjAvB9Vd&gaa_ts=6966432f&gaa_sig=Bbdk-3Fh7SFJU56uBHmd97dwQ_VGXlgMLm0zkKoHhgk94oiP7YweLTZB1jbacSzPpbpueLVrx0wk9iSfXbAqoQ%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -245,7 +245,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 5d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -253,7 +253,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 16h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 17h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -269,7 +269,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 17h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 18h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -313,7 +313,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 587 • ⏱️ 14:21 • 13h ago
+👁️ 48K • 👍 3K • 💬 587 • ⏱️ 14:21 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 63K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 23h ago
+👁️ 63K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 1d ago
 
 ---
 
@@ -343,7 +343,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 348 • ⏱️ 41:26 • 21h ago
+👁️ 32K • 👍 1K • 💬 348 • ⏱️ 41:26 • 22h ago
 
 ---
 
@@ -353,7 +353,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 980 • 💬 478 • ⏱️ 7:34 • 17h ago
+👁️ 14K • 👍 980 • 💬 478 • ⏱️ 7:34 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 23h ago
+👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ Aaron Arnold, Co-Host of Altcoin Daily, discusses the outlook for Bitcoin, Ether
 
 📺 David Lin 
 
-👁️ 6K • 👍 294 • 💬 142 • ⏱️ 42:44 • 8h ago
+👁️ 6K • 👍 294 • 💬 142 • ⏱️ 42:44 • 9h ago
 
 ---
 
@@ -403,7 +403,7 @@ Michael Saylor Just Doubled Down on Bitcoin! Here's Why That Matters… South Ko
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 261 • 💬 105 • ⏱️ 8:25 • 12h ago
+👁️ 5K • 👍 261 • 💬 105 • ⏱️ 8:25 • 13h ago
 
 ---
 

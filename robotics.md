@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T12:51:24.296034+00:00'
+updated: '2026-01-13T13:42:13.682018+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 12:51 UTC  
+**Last Updated:** January 13, 2026 at 13:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-5h ago
+6h ago
 
 ---
 
@@ -56,13 +56,13 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-2h ago
+3h ago
 
 ---
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-18h ago
+19h ago
 
 ---
 
@@ -78,13 +78,13 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 34m ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 1h ago
 
 ---
 
 **[LimX COSA](https://www.reddit.com/r/robotics/comments/1qbpxo3/limx_cosa/)**
 
-28m ago
+1h ago
 
 ---
 
@@ -92,7 +92,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Right now i am in class 11. I have a interest in doing robotics. I am confused to decide which bachelors should i need to take.. so that i can specialise in robotics in my masters…
 
-2h ago
+3h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Verge • 2d ago
 
 By 2026, the convergence of Generative AI and humanoid form factors will enable robots to autonomously execute complex tasks. With 85 million global jobs projected to go unfilled by 2030, intelligent robots will transition from novelty to essential workforce multipliersChicago, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The global robotics market was valued at US$ 51.51 billion in 2025 and is projected to hit the market valuation of US$ 199.50 billion by 2035 at a CAGR of 14.5% during the forecast period
 
-Yahoo Finance • 21m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ CNBC • 1d ago
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
-Seeking Alpha • 2d ago
+Seeking Alpha • 3d ago
 
 ---
 
@@ -194,7 +194,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 253K • 👍 8K • 💬 473 • ⏱️ 17:09 • 23h ago
+👁️ 253K • 👍 8K • 💬 473 • ⏱️ 17:09 • 1d ago
 
 ---
 
@@ -264,7 +264,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 2 • ⏱️ 2:16 • 14h ago
+👁️ 1K • 👍 2 • ⏱️ 2:16 • 15h ago
 
 ---
 

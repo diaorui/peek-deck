@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T12:51:24.276973+00:00'
+updated: '2026-01-13T13:42:13.664284+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 12:51 UTC  
+**Last Updated:** January 13, 2026 at 13:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 8h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over its misuse to generate explicit images.
 
-🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 4h ago
+🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over i
 
 The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored by Gibson. I'm not sure if the video was created with ai or not. The video was sent to my 70 year old father from a scammer pretending to be her. I know the voice is not hers. First she's Brazilian and her native language is Portuguese. The real Larissa Liveir does speak English but I assume with a heavy accent. There's no accent in this. Can someone please tell me if the video is AI?
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 7h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 The bloodletting will hit hardest in back-office operations, risk management, and compliance.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) • 2h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ The bloodletting will hit hardest in back-office operations, risk management, an
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-3h ago
+4h ago
 
 ---
 
@@ -133,19 +133,19 @@ The Guardian • 1d ago
 
 The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
 **[Investors Want a Broader AI Trade, But It’s Volatile Out There](https://www.bloomberg.com/news/articles/2026-01-13/investors-want-a-broader-ai-trade-but-it-s-volatile-out-there)**
 
-Bloomberg.com • 45m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Exclusive: RISA Labs raises $11.1M for oncology AI agents](https://www.axios.com/pro/health-tech-deals/2026/01/13/risa-labs-111-million-oncology-ai-agents)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Axios • 1h ago
 
 Brazil's competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app. The agency has also started an investigation against the company to determine if the policy is anti-competitive.
 
-TechCrunch • 29m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The New Yorker • 1d ago
 
 The pandemic gave workers increased options as home offices became the norm in some fields. Now, with the EU experiencing industrial slowdown and AI automation, workers are growing increasingly wary of switching jobs.
 
-dw.com • 22h ago
+dw.com • 23h ago
 
 ---
 
@@ -217,7 +217,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 259 • 💬 231 • 16h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 259 • 💬 231 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -225,7 +225,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 195 • 💬 133 • 13h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 195 • 💬 133 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -241,7 +241,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 170 • 💬 90 • 19h ago • [TryLAD](https://www.trylad.com)
+⬆️ 170 • 💬 90 • 20h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -249,7 +249,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 99 • 💬 72 • 18h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 99 • 💬 72 • 19h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -263,7 +263,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 50 • 💬 7 • 18h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 50 • 💬 7 • 19h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -293,7 +293,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 1K • 💬 161 • ⏱️ 10:39 • 21h ago
+👁️ 18K • 👍 1K • 💬 161 • ⏱️ 10:39 • 22h ago
 
 ---
 
@@ -323,7 +323,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 136K • 👍 12K • 💬 2K • ⏱️ 13:08 • 14h ago
+👁️ 136K • 👍 12K • 💬 2K • ⏱️ 13:08 • 15h ago
 
 ---
 
@@ -333,7 +333,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 41K • 👍 320 • 💬 80 • ⏱️ 7:57 • 22h ago
+👁️ 41K • 👍 320 • 💬 80 • ⏱️ 7:57 • 23h ago
 
 ---
 
@@ -353,7 +353,7 @@ Well, AI music is everywhere and the robots are getting pretty good. But, I don'
 
 📺 Venus Theory
 
-👁️ 56K • 👍 7K • 💬 1K • ⏱️ 15:12 • 20h ago
+👁️ 56K • 👍 7K • 💬 1K • ⏱️ 15:12 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ This week on #BBCGlobalEye, AI is changing everything – from how we work to ho
 
 📺 BBC World Service
 
-👁️ 12K • 👍 245 • 💬 15 • ⏱️ 29:26 • 17h ago
+👁️ 12K • 👍 245 • 💬 15 • ⏱️ 29:26 • 18h ago
 
 ---
 
@@ -523,7 +523,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 102 • 💬 1 • ⭐ 2,179 • 6d ago
+▲ 102 • 💬 1 • ⭐ 2,179 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -643,7 +643,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.1k • 4h ago
+⭐ 8.2k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -663,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 101 • 3h ago
+⭐ 2.8k • 🔱 101 • 4h ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 11h ago
+⭐ 2.3k • 🔱 141 • 12h ago
 
 ---
 
@@ -683,7 +683,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 231 • 1d ago
+⭐ 2.0k • 🔱 231 • 2d ago
 
 ---
 
@@ -693,7 +693,7 @@ Learn vibe coding from 0 to 1 | 从实战中学会 vibe coding
 
 `ai` `coding` `course` `genai` `low-code`
 
-⭐ 1.5k • 🔱 129 • 4h ago
+⭐ 1.5k • 🔱 129 • 5h ago
 
 ---
 
@@ -713,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 15h ago
+⭐ 1.4k • 🔱 115 • 16h ago
 
 ---
 
