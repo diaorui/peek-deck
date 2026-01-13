@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T05:49:59.468425+00:00'
+updated: '2026-01-13T06:36:18.726931+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 05:49 UTC  
+**Last Updated:** January 13, 2026 at 06:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -101,7 +101,7 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-12h ago
+13h ago
 
 ---
 
@@ -109,7 +109,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin transaction: on January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney. Back then, they were literally worth $0. Today, with BTC hovering around $91,700 USD (according to data from CoinDesk, Yahoo Finance, and major exchanges), those 10 bitcoins are equivalent to approximately $917,000. From zero to nearly a million in less than two decades, without banks or anyone's permission. The cypherpunk experiment that changed the financial world continues to prove: the future of money is already here And it's still going up!
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin tra
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin tra
 
 **[Bullish?](https://www.reddit.com/r/Bitcoin/comments/1qb4im0/bullish/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 23h ago
 
 Powell vows to hold firm as Trump launches new attack on Fed. Bitcoin’s price briefly jumped 2% before returning to just above $90,000.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 3h ago
 
 Bitcoin stayed pinned near $91,000 on Tuesday, as traders watched Japan’s stock market burst to fresh records and treated US macro headlines as the next real trigger for crypto direction.In Asia, Japan’s Nikkei surged to an all-time high, climbing as much as 3.6% to 53,814.79, and the Topix also set ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ CNBC • 2d ago
 
 **[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -271,7 +271,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 10h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 11h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -315,7 +315,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 58 • ⏱️ 8:17 • 16h ago
+👁️ 17K • 👍 2K • 💬 58 • ⏱️ 8:17 • 17h ago
 
 ---
 
@@ -345,7 +345,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 12K • 👍 884 • 💬 472 • ⏱️ 7:34 • 10h ago
+👁️ 12K • 👍 884 • 💬 472 • ⏱️ 7:34 • 11h ago
 
 ---
 
@@ -355,7 +355,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 343 • ⏱️ 41:26 • 14h ago
+👁️ 30K • 👍 1K • 💬 343 • ⏱️ 41:26 • 15h ago
 
 ---
 
@@ -365,7 +365,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 377 • ⏱️ 14:21 • 6h ago
+👁️ 27K • 👍 2K • 💬 377 • ⏱️ 14:21 • 7h ago
 
 ---
 
@@ -375,7 +375,7 @@ The Justice Department investigation into Federal Reserve Chairman Jerome Powell
 
 📺 Paul Barron Network
 
-👁️ 20K • 👍 1K • 💬 180 • ⏱️ 11:08 • 8h ago
+👁️ 20K • 👍 1K • 💬 180 • ⏱️ 11:08 • 9h ago
 
 ---
 
@@ -405,7 +405,7 @@ Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 51 • ⏱️ 32:17 • 14h ago
+👁️ 20K • 👍 1K • 💬 51 • ⏱️ 32:17 • 15h ago
 
 ---
 

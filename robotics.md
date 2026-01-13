@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T05:49:59.477686+00:00'
+updated: '2026-01-13T06:36:18.736227+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 05:49 UTC  
+**Last Updated:** January 13, 2026 at 06:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-11h ago
+12h ago
 
 ---
 
@@ -56,7 +56,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Fourier GR-3, both the full and baby versions, are among the best looking to me. Their designers deserved a raise!
 
-🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 1h ago
+🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 2h ago
 
 ---
 
@@ -64,7 +64,7 @@ Fourier GR-3, both the full and baby versions, are among the best looking to me.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 10h ago
+🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 11h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hey guys I have a comp engineering undergrad and most recently was building distribution systems, schedulers / game engines in rust adjacent to cryptography and hardware… The SWE industry is truly windling with AI being a success..so I am curious how I can leverage my previous education in math and EE with my systems engineering know how to break into the robotics field
 
-4m ago
+50m ago
 
 ---
 
@@ -80,13 +80,13 @@ Hey guys I have a comp engineering undergrad and most recently was building dist
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-18h ago
+19h ago
 
 ---
 
 **[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -130,7 +130,7 @@ BBC • 1d ago
 
 Implementing automation systems requires a lot of planning, time and money
 
-Financial Times • 49m ago
+Financial Times • 1h ago
 
 ---
 
@@ -144,7 +144,7 @@ TechCrunch • 3d ago
 
 **[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 182K • 👍 7K • 💬 373 • ⏱️ 17:09 • 16h ago
+👁️ 182K • 👍 7K • 💬 373 • ⏱️ 17:09 • 17h ago
 
 ---
 
@@ -256,7 +256,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 4 • ⏱️ 2:16 • 7h ago
+👁️ 1K • 👍 4 • ⏱️ 2:16 • 8h ago
 
 ---
 

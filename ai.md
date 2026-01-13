@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T05:49:59.460009+00:00'
+updated: '2026-01-13T06:36:18.718411+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - news
 - social
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 05:49 UTC  
+**Last Updated:** January 13, 2026 at 06:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 55m ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-1m ago
+47m ago
 
 ---
 
@@ -65,7 +65,7 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
 
-🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 9h ago
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 10h ago
 
 ---
 
@@ -81,7 +81,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ I strongly believe multimodal LLMs (AI that can understand text, images, audio, 
 
 Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Wall Street Journal • 1d ago
 
 Hegseth has been outspoken about ridding the military of so-called 'woke' policies, including diversity, equity and inclusion efforts.
 
-USA Today • 2h ago
+USA Today • 3h ago
 
 ---
 
@@ -147,7 +147,7 @@ USA Today • 2h ago
 
 Pentagon chief Pete Hegseth unveiled an artificial intelligence strategy for the military, aiming to make the U.S. a global leader in AI and drones.
 
-Fox Business • 19m ago
+Fox Business • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ Fox Business • 19m ago
 
 U.S. Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-AP News • 51m ago
+AP News • 1h ago
 
 ---
 
 **[Nigeria Set to Pass Sweeping AI Rules for Digital Economy](https://www.bloomberg.com/news/articles/2026-01-13/nigeria-set-to-pass-sweeping-ai-rules-for-digital-economy)**
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 49m ago
 
 Is Microsoftâ¦ going to subsidize our utility bills?
 
-Gizmodo • 2h ago
+Gizmodo • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1d ago
 
 **[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 19h ago
 
 Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
@@ -217,7 +217,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 198 • 💬 150 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 198 • 💬 150 • 10h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -225,7 +225,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 179 • 💬 60 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 179 • 💬 60 • 21h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -233,7 +233,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 144 • 💬 78 • 12h ago • [TryLAD](https://www.trylad.com)
+⬆️ 144 • 💬 78 • 13h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -241,7 +241,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 127 • 💬 76 • 6h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 127 • 💬 76 • 7h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -249,7 +249,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 70 • 💬 54 • 11h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 70 • 💬 54 • 12h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -271,7 +271,7 @@ Superhuman AI was able to exfiltrate sensitive emails from user accounts - witho
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 35 • 💬 44 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 35 • 💬 44 • 20h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -295,7 +295,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 15K • 👍 998 • 💬 120 • ⏱️ 10:39 • 14h ago
+👁️ 15K • 👍 998 • 💬 120 • ⏱️ 10:39 • 15h ago
 
 ---
 
@@ -305,7 +305,7 @@ The Join the #1 community for AI entrepreneurs and connect with 280k+ members: h
 
 📺 Liam Ottley
 
-👁️ 16K • 👍 1K • 💬 69 • ⏱️ 10:29 • 22h ago
+👁️ 16K • 👍 1K • 💬 69 • ⏱️ 10:29 • 23h ago
 
 ---
 
@@ -345,7 +345,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 33K • 👍 282 • 💬 62 • ⏱️ 7:57 • 15h ago
+👁️ 33K • 👍 282 • 💬 62 • ⏱️ 7:57 • 16h ago
 
 ---
 
@@ -439,7 +439,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 12,797 • ❤️ 293 • 3d ago
+⬇️ 12,797 • ❤️ 293 • 4d ago
 
 ---
 
@@ -665,7 +665,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 4h ago
+⭐ 2.3k • 🔱 141 • 5h ago
 
 ---
 
@@ -675,7 +675,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 82 • 11h ago
+⭐ 2.3k • 🔱 82 • 12h ago
 
 ---
 
@@ -695,7 +695,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 127 • 1h ago
+⭐ 1.5k • 🔱 127 • 2h ago
 
 ---
 
@@ -715,7 +715,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 8h ago
+⭐ 1.4k • 🔱 115 • 9h ago
 
 ---
 
@@ -735,7 +735,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 19h ago
+⭐ 1.2k • 🔱 143 • 20h ago
 
 ---
 
