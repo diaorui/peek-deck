@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T10:26:03.908265+00:00'
+updated: '2026-01-13T10:50:58.335969+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 10:26 UTC  
+**Last Updated:** January 13, 2026 at 10:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 5h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored by Gibson. I'm not sure if the video was created with ai or not. The video was sent to my 70 year old father from a scammer pretending to be her. I know the voice is not hers. First she's Brazilian and her native language is Portuguese. The real Larissa Liveir does speak English but I assume with a heavy accent. There's no accent in this. Can someone please tell me if the video is AI?
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the
 
 I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned.
 
-2h ago
+3h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 1d ago
 
 **[The Earnings Season is Still All About AI and Big Tech. That Won’t Last.](https://www.barrons.com/articles/stocks-ai-earnings-season-5cd39c11?gaa_at=eafs&gaa_n=AWEtsqd8MY0QGKDDkRl005QRzTSMtb6ToY4ferSttzPxXhkwrfxSqVGcZ_XH&gaa_ts=6966195d&gaa_sig=ibEHtZtIuOSaFa47FRMXrgmbbynPxJ3YYw92CGedugLuYgRXw0guqtpwY6SQNmKuTsA6M3PuutKA9QxX3hxSdA%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Wall Street Journal • 1d ago
 
 Defense Secretary Pete Hegseth said Monday that Elon Musk's artificial intelligence chatbot Grok will join Google's generative AI engine in operating inside the Pentagon network, as part of a broader push to feed as much of the military's data as possible into the developing technology.
 
-NPR • 3h ago
+NPR • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ BBC • 1d ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1227 • 💬 1550 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1227 • 💬 1550 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -247,7 +247,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 82 • 💬 67 • 15h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 82 • 💬 67 • 16h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -255,7 +255,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 47 • 💬 7 • 15h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 47 • 💬 7 • 16h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -643,7 +643,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.1k • 1h ago
+⭐ 8.2k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -733,7 +733,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 23h ago
+⭐ 1.2k • 🔱 143 • 1d ago
 
 ---
 

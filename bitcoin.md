@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T10:26:03.916845+00:00'
+updated: '2026-01-13T10:50:58.344419+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 10:26 UTC  
+**Last Updated:** January 13, 2026 at 10:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -115,7 +115,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
 
-🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 4h ago
+🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 5h ago
 
 ---
 
@@ -123,7 +123,7 @@ The US Senate has released a new draft bill to fix confusion around crypto regul
 
 Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
 
-9h ago
+10h ago
 
 ---
 
@@ -131,7 +131,7 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 FIAT : unlimited supply BTC : 21M Do the math.
 
-6h ago
+7h ago
 
 ---
 
@@ -259,7 +259,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 13h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 14h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -339,7 +339,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 59K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 20h ago
+👁️ 59K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 21h ago
 
 ---
 
@@ -359,7 +359,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 344 • ⏱️ 41:26 • 18h ago
+👁️ 31K • 👍 1K • 💬 344 • ⏱️ 41:26 • 19h ago
 
 ---
 
@@ -379,7 +379,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 20h ago
+👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 21h ago
 
 ---
 

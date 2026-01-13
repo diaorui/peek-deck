@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T10:26:03.926550+00:00'
+updated: '2026-01-13T10:50:58.353738+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 10:26 UTC  
+**Last Updated:** January 13, 2026 at 10:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Fourier GR-3, both the full and baby versions, are among the best looking to me.
 
 I wrote a step-by-step guide about Learning Rate in RL: how the reward curves for Q-Learning, DQN and PPO change, why PPO is much more sensitive to LR than you think, which values ​​are safe and which values ​​are dangerous, what divergence looks like in TensorBoard, how to test the optimal LR quickly, without guesswork. Everything is tested. Everything is visual. Everything is explained simply. Here is the link: https://www.reinforcementlearningpath.com/the-complete-guide-of-learning-rate-in-rl/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ I wrote a step-by-step guide about Learning Rate in RL: how the reward curves fo
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 14h ago
+🔗 [youtu.be](https://youtu.be/TB4oo9S3pfw) • 15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hi, I’m a college student currently majoring in Mechanical Engineering. I’ve talked to a counselor who suggested I take some engineering technology classes as that serves more of experience rather than regular engineering classes as those are more theory based classes. I really enjoyed taking some of those classes and was thinking of pivoting towards engineer technology, but I was wondering how well that degree would serve robotics. Also my goal is to eventually be able to design some things and actually build something. What do you guys think?
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi, I’m a college student currently majoring in Mechanical Engineering. I’ve
 
 Hey guys I have a comp engineering undergrad and most recently was building distribution systems, schedulers / game engines in rust adjacent to cryptography and hardware… The SWE industry is truly windling with AI being a success..so I am curious how I can leverage my previous education in math and EE with my systems engineering know how to break into the robotics field
 
-4h ago
+5h ago
 
 ---
 
