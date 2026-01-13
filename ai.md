@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T04:41:35.875844+00:00'
+updated: '2026-01-13T05:26:48.233326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 04:41 UTC  
+**Last Updated:** January 13, 2026 at 05:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ As we scale to GPT-5.2 and beyond, the energy footprint of centralized data cent
 
 Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
 
-🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 8h ago
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 9h ago
 
 ---
 
@@ -81,7 +81,7 @@ We see benchmarks and demos showing strong performance, but hesitation still sho
 
 I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances accelerate, the demand for multimodal intelligence is going to explode, because robots are not operating inside a browser, they’re operating in the real world. I’m building in this space. What’s your opinion on the future of multimodal LLMs?
 
-17h ago
+18h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Guardian • 1d ago
 
 **[Gemini will power Apple's Siri](https://www.axios.com/2026/01/13/apple-intelligence-google-gemini-siri)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 1h ago
 
 Hegseth has been outspoken about ridding the military of so-called 'woke' policies, including diversity, equity and inclusion efforts.
 
-USA Today • 1h ago
+USA Today • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -189,7 +189,7 @@ BBC • 18h ago
 
 Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
 
-The New Yorker • 17h ago
+The New Yorker • 18h ago
 
 ---
 
@@ -215,7 +215,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 183 • 💬 143 • 8h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 183 • 💬 143 • 9h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -223,7 +223,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 178 • 💬 60 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 178 • 💬 60 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -231,7 +231,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 141 • 💬 78 • 11h ago • [TryLAD](https://www.trylad.com)
+⬆️ 141 • 💬 78 • 12h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -239,7 +239,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 119 • 💬 68 • 5h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 119 • 💬 68 • 6h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -269,7 +269,7 @@ Superhuman AI was able to exfiltrate sensitive emails from user accounts - witho
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 35 • 💬 44 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 35 • 💬 44 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -293,7 +293,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 15K • 👍 998 • 💬 120 • ⏱️ 10:39 • 13h ago
+👁️ 15K • 👍 998 • 💬 120 • ⏱️ 10:39 • 14h ago
 
 ---
 
@@ -303,7 +303,7 @@ The Join the #1 community for AI entrepreneurs and connect with 280k+ members: h
 
 📺 Liam Ottley
 
-👁️ 16K • 👍 1K • 💬 69 • ⏱️ 10:29 • 21h ago
+👁️ 16K • 👍 1K • 💬 69 • ⏱️ 10:29 • 22h ago
 
 ---
 
@@ -343,7 +343,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 33K • 👍 282 • 💬 62 • ⏱️ 7:57 • 14h ago
+👁️ 33K • 👍 282 • 💬 62 • ⏱️ 7:57 • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 KBS News
 
-👁️ 555K • 👍 4K • 💬 2K • ⏱️ 7:45 • 23h ago
+👁️ 555K • 👍 4K • 💬 2K • ⏱️ 7:45 • 1d ago
 
 ---
 
@@ -643,7 +643,7 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.1k • 46s ago
+⭐ 8.2k • 🔱 1.1k • 45m ago
 
 ---
 
@@ -663,7 +663,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 3h ago
+⭐ 2.3k • 🔱 141 • 4h ago
 
 ---
 
@@ -673,7 +673,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 82 • 10h ago
+⭐ 2.3k • 🔱 82 • 11h ago
 
 ---
 
@@ -693,7 +693,7 @@ Learn vibe coding from 0 to 1 | 从零学会 vibe coding，项目制学习
 
 `ai` `coding` `course` `vibe-coding`
 
-⭐ 1.5k • 🔱 127 • 13m ago
+⭐ 1.5k • 🔱 127 • 59m ago
 
 ---
 
@@ -713,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 7h ago
+⭐ 1.4k • 🔱 115 • 8h ago
 
 ---
 

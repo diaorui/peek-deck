@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T04:41:35.884330+00:00'
+updated: '2026-01-13T05:26:48.241734+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 04:41 UTC  
+**Last Updated:** January 13, 2026 at 05:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 27
+### 26
 **FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-11h ago
+12h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -101,7 +101,7 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-55m ago
+1h ago
 
 ---
 
@@ -115,7 +115,7 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin transaction: on January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney. Back then, they were literally worth $0. Today, with BTC hovering around $91,700 USD (according to data from CoinDesk, Yahoo Finance, and major exchanges), those 10 bitcoins are equivalent to approximately $917,000. From zero to nearly a million in less than two decades, without banks or anyone's permission. The cypherpunk experiment that changed the financial world continues to prove: the future of money is already here And it's still going up!
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin tra
 
 **[Bullish?](https://www.reddit.com/r/Bitcoin/comments/1qb4im0/bullish/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 22h ago
 
 Powell vows to hold firm as Trump launches new attack on Fed. Bitcoin’s price briefly jumped 2% before returning to just above $90,000.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -175,13 +175,13 @@ Yahoo Finance • 18h ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
 **[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
 
-Forbes • 2h ago
+Forbes • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ Forbes • 2h ago
 
 Leverage has been flushed, and spot demand remains soft, keeping bitcoin range-bound while token unlocks and thin liquidity drive sharp, narrative-led moves in select altcoins.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -271,7 +271,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 9h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 10h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -345,7 +345,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 12K • 👍 884 • 💬 472 • ⏱️ 7:34 • 9h ago
+👁️ 12K • 👍 884 • 💬 472 • ⏱️ 7:34 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 377 • ⏱️ 14:21 • 5h ago
+👁️ 27K • 👍 2K • 💬 377 • ⏱️ 14:21 • 6h ago
 
 ---
 
@@ -375,7 +375,7 @@ The Justice Department investigation into Federal Reserve Chairman Jerome Powell
 
 📺 Paul Barron Network
 
-👁️ 20K • 👍 1K • 💬 180 • ⏱️ 11:08 • 7h ago
+👁️ 20K • 👍 1K • 💬 180 • ⏱️ 11:08 • 8h ago
 
 ---
 
@@ -385,7 +385,7 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 4K • 💬 151 • ⏱️ 10:58 • 23h ago
+👁️ 56K • 👍 4K • 💬 151 • ⏱️ 10:58 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it
 
 📺 Crypto Banter
 
-👁️ 20K • 👍 1K • 💬 51 • ⏱️ 32:17 • 13h ago
+👁️ 20K • 👍 1K • 💬 51 • ⏱️ 32:17 • 14h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T04:41:35.893466+00:00'
+updated: '2026-01-13T05:26:48.250930+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 04:41 UTC  
+**Last Updated:** January 13, 2026 at 05:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-10h ago
+11h ago
 
 ---
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -56,7 +56,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Fourier GR-3, both the full and baby versions, are among the best looking to me. Their designers deserved a raise!
 
-🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 39m ago
+🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-17h ago
+18h ago
 
 ---
 
@@ -80,13 +80,13 @@ This document describes in detail the navigation task environment based on the A
 
 I’m keenly working on a hospitality robot project driven by genuine enthusiasm for robotics, and I’m seeking guidance on what to focus on next. I currently have a solid grasp of ROS 2 Jazzy fundamentals, including nodes, topics, services, actions, lifecycle nodes, URDF/Xacro, launch files, and executors. I’m comfortable bringing up a robot model and understanding how the ROS 2 system fits together. My aim is to build a simulation-first MVP for a lobby scenario (greeter, wayfinding, and escort use cases). I’m deliberately keeping the scope practical and do not plan to add arms initially unless they become necessary. At this stage, I would really value direction from more experienced practitioners on how to progress from foundational ROS knowledge toward a real, working robot. In particular, I’d appreciate insights on: What are the most important areas to focus on after mastering ROS 2 basics? Which subsystems are best tackled first? What level of completeness is typically expected in simulation before transitioning to physical hardware? Are there recommended ROS 2 packages, example bringups, or architectural patterns well suited for this type of robot? Any advice, lessons learned, or references that could help shape the next phase of development would be greatly appreciated.
 
-38m ago
+1h ago
 
 ---
 
 **[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -144,7 +144,7 @@ TechCrunch • 3d ago
 
 **[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 182K • 👍 7K • 💬 373 • ⏱️ 17:09 • 15h ago
+👁️ 182K • 👍 7K • 💬 373 • ⏱️ 17:09 • 16h ago
 
 ---
 
@@ -256,7 +256,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 4 • ⏱️ 2:16 • 6h ago
+👁️ 1K • 👍 4 • ⏱️ 2:16 • 7h ago
 
 ---
 
