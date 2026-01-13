@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T22:48:13.657773+00:00'
+updated: '2026-01-13T23:20:46.336961+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 22:48 UTC  
+**Last Updated:** January 13, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Ethereum is meant to be a home for trustless and trust-minimized applications, w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -178,7 +178,7 @@ ETF Trends • 1d ago
 
 Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
 
-dlnews.com • 12h ago
+dlnews.com • 13h ago
 
 ---
 
@@ -186,7 +186,7 @@ dlnews.com • 12h ago
 
 ETHGas has officially $GWEI, a governance token designed to transform the way Ethereum handles transaction fees and blockspace allocation. The move shows the beginning of what the project calls the Realtime Ethereum era, seeking to solve long-standing issues around Ethereum’s gas market by turning…
 
-TradingView — Track All Markets • 56m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -194,13 +194,13 @@ TradingView — Track All Markets • 56m ago
 
 Ethereum treasury firm SharpLink Gaming intends to lead the way when it comes to publicly traded firms productively using their ETH.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
 **[Ethena Labs looks to boost USDe Safe holdings with gas-free Ethereum transactions and 10x rewards bump](https://www.theblock.co/post/385396/ethena-labs-boost-usde-safe-holdings-gas-free-ethereum-transactions-10x-rewards)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -214,7 +214,7 @@ Yahoo Finance • 3d ago
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 11h ago
+CCN.com • 12h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 328 • 💬 110 • ⏱️ 17:37 • 7h ago
+👁️ 5K • 👍 328 • 💬 110 • ⏱️ 17:37 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 5K • 👍 274 • 💬 220 • ⏱️ 18:38 • 11h ago
+👁️ 5K • 👍 274 • 💬 220 • ⏱️ 18:38 • 12h ago
 
 ---
 
@@ -286,7 +286,7 @@ Looks like we might have been thrown back into the four year cryptocurrency cycl
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 659 • 💬 364 • ⏱️ 11:09 • 9h ago
+👁️ 5K • 👍 659 • 💬 364 • ⏱️ 11:09 • 10h ago
 
 ---
 

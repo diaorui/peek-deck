@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T22:48:13.651624+00:00'
+updated: '2026-01-13T23:20:46.330939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 22:48 UTC  
+**Last Updated:** January 13, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Big jump in price today!
 
-32m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ Big jump in price today!
 
 Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transactions Block reward: 6.25 BTC + fees
 
-2h ago
+3h ago
 
 ---
 
@@ -103,19 +103,19 @@ Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transac
 
 Bitcoin is going mainstream 🚀
 
-7h ago
+8h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Bitcoin is going mainstream 🚀
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-9h ago
+10h ago
 
 ---
 
@@ -131,13 +131,13 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-6h ago
+7h ago
 
 ---
 
 **[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -145,7 +145,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 I was just about to buy and suddenly the candle goes vertical and no joke it went from 95 to over 96 in seconds (on kraken pro anyway).
 
-29m ago
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ I was just about to buy and suddenly the candle goes vertical and no joke it wen
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqepl1DjqIqU1wADSDhfOCm6k5HssWfe4EayJB15NEiUC3a326E_kdrd&gaa_ts=6966cf19&gaa_sig=3fxNifqzZHFXLoHlvexMl5l379RZcKnJehZcsfdIiYZfrGGogYdcXXM0osXGbgPvqVHX9o_mQuNNAl0ZbZBWSQ%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -163,7 +163,7 @@ Barron's • 11h ago
 
 The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 5h ago
 
 Bitcoin reclaimed $93,000 on Tuesday as trading volume surged by 20%, but data analysts flag that there's rising sell-side pressure.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ Decrypt • 4h ago
 
 Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
 
-TradingView — Track All Markets • 7h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ TradingView — Track All Markets • 7h ago
 
 Bitcoin has started the year on firmer footing, recovering from late-2025 weakness and pushing back toward the $92,000 level. Price action has improved, and short-term momentum has turned constructive, but conviction remains fragile. Despite the rebound, Bitcoin continues to trade within a broader…
 
-TradingView — Track All Markets • 47m ago
+TradingView — Track All Markets • 1h ago
 
 ---
 
@@ -195,13 +195,13 @@ TradingView — Track All Markets • 47m ago
 
 US stocks (^DJI, ^IXIC, ^GSPC) fell in Tuesday's trading session following the release of December's Consumer Price Index (CPI) inflation report this morning. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including Big Bank earnings season kicking off with JPMorgan Chase's (JPM) results, Intel (INTC) breaking outside its trading range, and bitcoin (BTC-USD) bouncing back above $94,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 11h ago
+CCN.com • 12h ago
 
 ---
 
@@ -209,7 +209,7 @@ CCN.com • 11h ago
 
 The asset manager sent 3,290 bitcoin, worth about $298 million, along with 5,692 ether valued near $17.8 million.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -225,7 +225,7 @@ TradingView — Track All Markets • 2h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
@@ -237,7 +237,7 @@ dlnews.com • 3h ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 45 • 💬 3 • 4d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 45 • 💬 3 • 5d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -329,7 +329,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 635 • ⏱️ 14:21 • 23h ago
+👁️ 61K • 👍 3K • 💬 635 • ⏱️ 14:21 • 1d ago
 
 ---
 
@@ -339,7 +339,7 @@ Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you 
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 24 • 💬 59 • ⏱️ 0:53 • 8h ago
+👁️ 1K • 👍 24 • 💬 59 • ⏱️ 0:53 • 9h ago
 
 ---
 
@@ -379,7 +379,7 @@ CPI is out today, but most traders are missing a crucial detail that makes this 
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 2K • 💬 23 • ⏱️ 29:19 • 5h ago
+👁️ 19K • 👍 2K • 💬 23 • ⏱️ 29:19 • 6h ago
 
 ---
 
