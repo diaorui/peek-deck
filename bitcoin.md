@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T16:34:17.004521+00:00'
+updated: '2026-01-13T17:27:19.607894+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 16:34 UTC  
+**Last Updated:** January 13, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-3h ago
+4h ago
 
 ---
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -107,7 +107,7 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-41m ago
+1h ago
 
 ---
 
@@ -115,7 +115,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
 
-4h ago
+5h ago
 
 ---
 
@@ -123,13 +123,13 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 Bitcoin is going mainstream 🚀
 
-1h ago
+2h ago
 
 ---
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ Bitcoin is going mainstream 🚀
 
 everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
-4h ago
+5h ago
 
 ---
 
@@ -145,7 +145,7 @@ everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-12h ago
+13h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1d ago
 
 Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
 
-Sherwood News • 1h ago
+Sherwood News • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Sherwood News • 1h ago
 
 The U.S. Consumer Price Index came in roughly in line with expectations as market participants largely expects the Fed to leave rates unchanged at the January meeting.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -193,19 +193,19 @@ CNBC • 3d ago
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 5h ago
+CCN.com • 6h ago
 
 ---
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqcyyiUJTu_ta41LonaJOhgIE7KHCDXspsD-VNPZeMdJADBwdivO27wX&gaa_ts=69667770&gaa_sig=WVOJzQ-SYQgvvGWD_d5RwjR8ao9Wl2sx7BtopvmFincSd5ljonQfEdrcsUKnF9yDhk44MyNBrBA7ojm3x0YUaw%3D%3D)**
 
-Barron's • 5h ago
+Barron's • 6h ago
 
 ---
 
 **[Taste Test: Penn Quarter's new "not a MAGA" Bitcoin bar](https://www.axios.com/local/washington-dc/2026/01/13/pubkey-bitcoin-bar-review-trump-penn-quarter)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 19h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 20h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -271,7 +271,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 21h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 22h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 765 • 💬 149 • ⏱️ 39:49 • 1h ago
+👁️ 8K • 👍 765 • 💬 149 • ⏱️ 39:49 • 2h ago
 
 ---
 
@@ -325,7 +325,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 627 • ⏱️ 14:21 • 17h ago
+👁️ 56K • 👍 3K • 💬 627 • ⏱️ 14:21 • 18h ago
 
 ---
 
@@ -355,7 +355,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 1K • 💬 493 • ⏱️ 7:34 • 21h ago
+👁️ 15K • 👍 1K • 💬 493 • ⏱️ 7:34 • 22h ago
 
 ---
 
@@ -365,7 +365,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Yoshidoll
 
-👁️ 2K • 👍 2K • 12m ago
+👁️ 2K • 👍 2K • 1h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 742 • 💬 73 • ⏱️ 19:27 • 5h ago
+👁️ 12K • 👍 742 • 💬 73 • ⏱️ 19:27 • 6h ago
 
 ---
 
@@ -405,7 +405,7 @@ Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you 
 
 📺 Simply Bitcoin
 
-👁️ 437 • 👍 9 • 💬 41 • ⏱️ 0:53 • 2h ago
+👁️ 437 • 👍 9 • 💬 41 • ⏱️ 0:53 • 3h ago
 
 ---
 

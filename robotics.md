@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T16:34:17.013725+00:00'
+updated: '2026-01-13T17:27:19.617230+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 16:34 UTC  
+**Last Updated:** January 13, 2026 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 4h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 5h ago
 
 ---
 
@@ -58,13 +58,13 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-6h ago
+7h ago
 
 ---
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -78,13 +78,13 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-22h ago
+23h ago
 
 ---
 
 **[StackChan, a 100% Open-Source Robot by M5Stack Now Live on Kickstarter!](https://www.reddit.com/r/robotics/comments/1qbr8b5/stackchan_a_100_opensource_robot_by_m5stack_now/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -92,7 +92,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Does anyone know of any model kits/figures/statues etc. of robots that actually exist? I have always thought the Atlas and Spot robots from Boston Dynamics looked really neat and would love a model of them on my desk. I haven't had luck finding any models that are based on real robots.
 
-2h ago
+3h ago
 
 ---
 
@@ -100,7 +100,7 @@ Does anyone know of any model kits/figures/statues etc. of robots that actually 
 
 I wrote a step-by-step guide about Learning Rate in RL: how the reward curves for Q-Learning, DQN and PPO change, why PPO is much more sensitive to LR than you think, which values ​​are safe and which values ​​are dangerous, what divergence looks like in TensorBoard, how to test the optimal LR quickly, without guesswork. Everything is tested. Everything is visual. Everything is explained simply. Here is the link: https://www.reinforcementlearningpath.com/the-complete-guide-of-learning-rate-in-rl/
 
-8h ago
+9h ago
 
 ---
 
@@ -112,7 +112,7 @@ I wrote a step-by-step guide about Learning Rate in RL: how the reward curves fo
 
 Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -140,7 +140,7 @@ Tech Xplore • 3d ago
 
 Implementing automation systems requires a lot of planning, time and money
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 

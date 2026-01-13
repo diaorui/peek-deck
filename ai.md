@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T16:34:16.996122+00:00'
+updated: '2026-01-13T17:27:19.599404+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- social
 - repositories
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 16:34 UTC  
+**Last Updated:** January 13, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 11h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 11h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 12h ago
 
 ---
 
@@ -73,7 +73,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
 
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 28m ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ We are moving from experimentation to deployment while confronting economic and 
 
 I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned.
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ I used to prep by panic googling at midnight and it often took my whole evening.
 
 While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ While working on a business website i needed to figure out which model actually 
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is similar to having a real coworker complete tasks while you work on something else. Claude creates a plan, carries it out, and keeps you informed. The truth is, though, that this feels both strong and a little scary. If your prompt isn't clear, Claude can actually take action on your files, which could cause problems. Additionally, there are real worries regarding file access and safety. Has anyone here used Cowork yet? Blog link is in the comments.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ I recently read Claude's blog, and to be honest, this could really change how we
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 6h ago
 
 Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -143,7 +143,7 @@ Reuters • 7h ago
 
 **[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 20h ago
 
 Defense Secretary Pete Hegseth said Monday that Elon Musk's artificial intelligence chatbot Grok will join Google's generative AI engine in operating inside the Pentagon network, as part of a broader push to feed as much of the military's data as possible into the developing technology.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
@@ -171,7 +171,7 @@ USA Today • 1h ago
 
 **[Caterpillar Crosses $300 Billion in Market Value on AI Rally](https://www.bloomberg.com/news/articles/2026-01-13/caterpillar-crosses-300-billion-in-market-value-on-ai-rally)**
 
-Bloomberg.com • 45m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 45m ago
 
 AI may be rewriting “how” we work — but not “why” we work. And this has profound implications for leadership.
 
-Big Think • 34m ago
+Big Think • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Big Think • 34m ago
 
 "We are at a point in history where something amazing is happening, and it may be amazingly good, and it may be amazingly bad."
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -205,7 +205,7 @@ Yahoo Finance • 21h ago
 
 AI commoditizes anything you can specify. It can't commoditize what you have to operate.
 
-⬆️ 338 • 💬 333 • 2d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 338 • 💬 333 • 3d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
 
 ---
 
@@ -213,7 +213,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 297 • 💬 271 • 20h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 297 • 💬 271 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -221,7 +221,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 210 • 💬 141 • 17h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 210 • 💬 141 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -237,13 +237,13 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 179 • 💬 97 • 23h ago • [TryLAD](https://www.trylad.com)
+⬆️ 179 • 💬 97 • 1d ago • [TryLAD](https://www.trylad.com)
 
 ---
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 123 • 💬 81 • 6h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+⬆️ 123 • 💬 81 • 7h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -259,7 +259,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 101 • 💬 78 • 4h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 101 • 💬 78 • 5h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -267,7 +267,7 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 52 • 💬 7 • 21h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 52 • 💬 7 • 22h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -289,7 +289,7 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Alieff Irfan
 
-👁️ 206K • 👍 24K • 💬 3K • ⏱️ 54:22 • 1h ago
+👁️ 206K • 👍 24K • 💬 3K • ⏱️ 54:22 • 2h ago
 
 ---
 
@@ -359,7 +359,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 149K • 👍 13K • 💬 2K • ⏱️ 13:08 • 18h ago
+👁️ 149K • 👍 13K • 💬 2K • ⏱️ 13:08 • 19h ago
 
 ---
 
@@ -397,7 +397,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 30,479 • ❤️ 546 • 5d ago
+⬇️ 30,479 • ❤️ 546 • 6d ago
 
 ---
 
@@ -457,7 +457,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 225 • 1h ago
+⬇️ 26,414 • ❤️ 225 • 2h ago
 
 ---
 
@@ -639,7 +639,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 42s ago
+⭐ 8.3k • 🔱 1.1k • 53m ago
 
 ---
 
@@ -659,7 +659,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 113 • 7h ago
+⭐ 3.2k • 🔱 113 • 8h ago
 
 ---
 
@@ -669,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 57m ago
+⭐ 2.3k • 🔱 141 • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ Learn vibe coding from 0 to 1 | 从实战中系统学会 vibe coding｜产品思
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.5k • 🔱 129 • 30m ago
+⭐ 1.5k • 🔱 129 • 1h ago
 
 ---
 
@@ -709,7 +709,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 19h ago
+⭐ 1.4k • 🔱 115 • 20h ago
 
 ---
 
