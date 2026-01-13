@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T21:44:44.020808+00:00'
+updated: '2026-01-13T22:23:15.568081+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 21:44 UTC  
+**Last Updated:** January 13, 2026 at 22:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 McKinsey & Company CEO Bob Sternfels says he wants every employee working alongside an AI agent within a year and a half.
 
-🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
 
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 5h ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 6h ago
 
 ---
 
@@ -97,7 +97,7 @@ We are moving from experimentation to deployment while confronting economic and 
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 16h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 17h ago
 
 ---
 
@@ -105,7 +105,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 4h ago
 
 ---
 
@@ -113,7 +113,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 11h ago
 
 Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -147,13 +147,13 @@ CNBC • 1d ago
 
 Wall Street analysts applauded the new Apple-Alphabet deal as one that would bolster the investment case for both companies.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[AI Chip Startup Etched Raises $500 Million to Take on Nvidia](https://www.bloomberg.com/news/articles/2026-01-13/ai-chip-startup-etched-raises-500-million-to-take-on-nvidia)**
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -161,13 +161,13 @@ Bloomberg.com • 50m ago
 
 Gaithersburg, Maryland--(Newsfile Corp. - January 13, 2026) - Shuttle Pharmaceuticals Holdings, Inc. (NASDAQ: SHPH) ("Shuttle Pharma" or the "Company"), applauds the state of Utah which has become the first state in the United States to allow artificial intelligence systems to authorize prescription refills without direct physician involvement — a regulatory first that signals how AI is beginning to reduce healthcare costs, eliminate delays, and expand access to care.The pilot program, launched.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Salesforce and Adobe see their stocks slide as AI fears intensify](https://www.marketwatch.com/story/salesforce-and-adobe-see-their-stocks-slide-as-ai-fears-intensify-d0079df7?gaa_at=eafs&gaa_n=AWEtsqc-BpIASQfYGLxs3Dz8C2AviTf2MK0n9nnoXISkhJeE1Az2E-aa9l7e&gaa_ts=6966c033&gaa_sig=JWxd2pmkEaOCdkypxR1a80V1D_JTwBx6C_u1Qr1SFJoBDbs6b3dpf7MiaiGuvF-gUPgXsMA8HN7W3Bo3Vr7LiA%3D%3D)**
 
-MarketWatch • 9m ago
+MarketWatch • 48m ago
 
 ---
 
@@ -183,7 +183,7 @@ The Official Microsoft Blog • 8h ago
 
 The new tool brings Claude Code's capabilities to non-technical users, positioning Anthropic to compete with productivity tools like Microsoft Copilot.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -191,7 +191,7 @@ Fortune • 7h ago
 
 Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -231,7 +231,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 215 • 💬 151 • 22h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 215 • 💬 151 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -255,13 +255,13 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 175 • 💬 150 • 9h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 175 • 💬 150 • 10h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 138 • 💬 99 • 11h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+⬆️ 138 • 💬 99 • 12h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -323,7 +323,7 @@ British regulators are investigating X for lewd AI images generated by Grok, the
 
 📺 CBS News
 
-👁️ 17K • 👍 198 • 💬 108 • ⏱️ 3:51 • 6h ago
+👁️ 17K • 👍 198 • 💬 108 • ⏱️ 3:51 • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 161K • 👍 14K • 💬 3K • ⏱️ 13:08 • 23h ago
+👁️ 161K • 👍 14K • 💬 3K • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -449,7 +449,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 229 • 6h ago
+⬇️ 26,414 • ❤️ 229 • 7h ago
 
 ---
 
@@ -663,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.4k • 🔱 125 • 51m ago
+⭐ 3.4k • 🔱 125 • 1h ago
 
 ---
 
@@ -693,7 +693,7 @@ Learn vibe coding from 0 to 1 | 从实战中系统学会 vibe coding｜产品思
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.5k • 🔱 129 • 5h ago
+⭐ 1.5k • 🔱 129 • 6h ago
 
 ---
 
@@ -723,7 +723,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.2k • 🔱 88 • 14d ago
+⭐ 1.2k • 🔱 88 • 15d ago
 
 ---
 

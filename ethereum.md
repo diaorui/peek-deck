@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T21:44:44.034020+00:00'
+updated: '2026-01-13T22:23:15.582691+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 21:44 UTC  
+**Last Updated:** January 13, 2026 at 22:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Ethereum is meant to be a home for trustless and trust-minimized applications, w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -164,19 +164,19 @@ CoinDesk • 2d ago
 
 Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
 
-dlnews.com • 11h ago
+dlnews.com • 12h ago
 
 ---
 
 **[Ethena Labs looks to boost USDe Safe holdings with gas-free Ethereum transactions and 10x rewards bump](https://www.theblock.co/post/385396/ethena-labs-boost-usde-safe-holdings-gas-free-ethereum-transactions-10x-rewards)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 10h ago
+CCN.com • 11h ago
 
 ---
 
@@ -224,7 +224,7 @@ AMBCrypto • 2d ago
 
 Vitalik Buterin is arguing that Ethereum’s long-term credibility hinges on a standard usually applied to applications, not base layers: the chain should
 
-Bitcoinist.com • 6h ago
+Bitcoinist.com • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 328 • 💬 110 • ⏱️ 17:37 • 6h ago
+👁️ 5K • 👍 328 • 💬 110 • ⏱️ 17:37 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 5K • 👍 274 • 💬 220 • ⏱️ 18:38 • 10h ago
+👁️ 5K • 👍 274 • 💬 220 • ⏱️ 18:38 • 11h ago
 
 ---
 
@@ -288,7 +288,7 @@ Looks like we might have been thrown back into the four year cryptocurrency cycl
 
 📺 Money Rules - Investing Tips 
 
-👁️ 5K • 👍 659 • 💬 364 • ⏱️ 11:09 • 8h ago
+👁️ 5K • 👍 659 • 💬 364 • ⏱️ 11:09 • 9h ago
 
 ---
 

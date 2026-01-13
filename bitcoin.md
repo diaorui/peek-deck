@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T21:44:44.028721+00:00'
+updated: '2026-01-13T22:23:15.576519+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 21:44 UTC  
+**Last Updated:** January 13, 2026 at 22:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transactions Block reward: 6.25 BTC + fees
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transac
 
 Bitcoin is going mainstream 🚀
 
-6h ago
+7h ago
 
 ---
 
@@ -97,19 +97,19 @@ Bitcoin is going mainstream 🚀
 
 I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
 
-9h ago
+10h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-8h ago
+9h ago
 
 ---
 
@@ -125,13 +125,13 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-5h ago
+6h ago
 
 ---
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -143,7 +143,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 **[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -155,7 +155,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 4h ago
 
 Bitcoin reclaimed $93,000 on Tuesday as trading volume surged by 20%, but data analysts flag that there's rising sell-side pressure.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -171,19 +171,19 @@ Decrypt • 3h ago
 
 Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
 
-TradingView — Track All Markets • 6h ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdGYaOTLDWksfV-SZ19HBtSNgU264Zmnz08xcjuZA4wG3Pj1hSxjLg2&gaa_ts=6966c035&gaa_sig=e95GTt6uNlFoPsc2VTq7kFEPX_fx5ykoQo49Chcf9hr-WYwc4ElYABHkZn19lZU4nRk0pNQYE7-gMWd6yaZwrg%3D%3D)**
 
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 10h ago
+CCN.com • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ CCN.com • 10h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ Yahoo Finance • 1h ago
 
 **[Crypto Suddenly Braced For A ‘Massive’ Shock As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/01/13/crypto-suddenly-braced-for-a-massive-shock-as-the-bitcoin-price-soars/)**
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -221,7 +221,7 @@ dlnews.com • 1d ago
 
 The bitcoin price briefly rose above $92,700 after December U.S. CPI came in at 2.7% year over year, matching expectations and keeping markets focused on the Fed’s policy outlook.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 229 • ⏱️ 39:49 • 6h ago
+👁️ 19K • 👍 1K • 💬 229 • ⏱️ 39:49 • 7h ago
 
 ---
 
@@ -325,7 +325,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 635 • ⏱️ 14:21 • 22h ago
+👁️ 61K • 👍 3K • 💬 635 • ⏱️ 14:21 • 23h ago
 
 ---
 
@@ -335,7 +335,7 @@ Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you 
 
 📺 Simply Bitcoin
 
-👁️ 1K • 👍 24 • 💬 59 • ⏱️ 0:53 • 7h ago
+👁️ 1K • 👍 24 • 💬 59 • ⏱️ 0:53 • 8h ago
 
 ---
 
@@ -375,7 +375,7 @@ CPI is out today, but most traders are missing a crucial detail that makes this 
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 2K • 💬 23 • ⏱️ 29:19 • 4h ago
+👁️ 19K • 👍 2K • 💬 23 • ⏱️ 29:19 • 5h ago
 
 ---
 
