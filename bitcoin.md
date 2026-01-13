@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T15:53:07.966566+00:00'
+updated: '2026-01-13T16:34:17.004521+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 15:53 UTC  
+**Last Updated:** January 13, 2026 at 16:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,477.48
+### $93,304.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +1.0%  
-**30d:** +6.7%  
-**90d:** -14.6%  
-**1y:** -4.4%  
+**24h:** +2.1%  
+**7d:** +2.2%  
+**30d:** +8.0%  
+**90d:** -13.5%  
+**1y:** -3.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1839.75B
+**Market Cap:** $1862.74B
 Rank #1
 
-**Circulating Supply:** 19,975,359 BTC
+**Circulating Supply:** 19,975,384 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.9%
+-26.0%
 
 **All-Time Low:** $67.81
-+135757.5%
++137457.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,13 +93,21 @@ Rank #1
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-2h ago
+3h ago
 
 ---
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
-4h ago
+5h ago
+
+---
+
+**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
+
+Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
+
+41m ago
 
 ---
 
@@ -107,7 +115,15 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
 
-3h ago
+4h ago
+
+---
+
+**[Singer Teyana Taylor spotted wearing a Satoshi Nakamoto jacket after the Golden Globes.](https://www.reddit.com/r/Bitcoin/comments/1qbtwlo/singer_teyana_taylor_spotted_wearing_a_satoshi/)**
+
+Bitcoin is going mainstream 🚀
+
+1h ago
 
 ---
 
@@ -121,7 +137,7 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
-3h ago
+4h ago
 
 ---
 
@@ -130,22 +146,6 @@ everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
 12h ago
-
----
-
-**[Singer Teyana Taylor spotted wearing a Satoshi Nakamoto jacket after the Golden Globes.](https://www.reddit.com/r/Bitcoin/comments/1qbtwlo/singer_teyana_taylor_spotted_wearing_a_satoshi/)**
-
-Bitcoin is going mainstream 🚀
-
-39m ago
-
----
-
-**[Right?](https://www.reddit.com/r/Bitcoin/comments/1qbn5cr/right/)**
-
-Crypto taught me something simple: Most people don't lose money. They lose patience. And then call it a scam.
-
-6h ago
 
 ---
 
@@ -167,11 +167,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin is “transitioning out of its most stressed phase”](https://sherwood.news/crypto/bitcoin-is-transitioning-out-of-its-most-stressed-phase/)**
+
+Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
+
+Sherwood News • 1h ago
+
+---
+
 **[Bitcoin spikes to $92,500 as U.S. December consumer prices rise 0.3%](https://www.coindesk.com/markets/2026/01/13/bitcoin-spikes-to-usd92-500-as-u-s-december-consumer-prices-rise-0-3)**
 
 The U.S. Consumer Price Index came in roughly in line with expectations as market participants largely expects the Fed to leave rates unchanged at the January meeting.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -183,21 +191,21 @@ CNBC • 3d ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqd5-nidJyZM8O_rCjavUmwBMWNqOuihvt2V30DyG5M0wWuVZcaKnqJ0&gaa_ts=69666883&gaa_sig=ULGrRTp0ydYh245q2H_zznnCDie9gUFjwkILcvE590C6AGaO6OZmNGA-vWp7VmzJinDPN86guGcnNy7itnYQXA%3D%3D)**
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+
+CCN.com • 5h ago
+
+---
+
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqcyyiUJTu_ta41LonaJOhgIE7KHCDXspsD-VNPZeMdJADBwdivO27wX&gaa_ts=69667770&gaa_sig=WVOJzQ-SYQgvvGWD_d5RwjR8ao9Wl2sx7BtopvmFincSd5ljonQfEdrcsUKnF9yDhk44MyNBrBA7ojm3x0YUaw%3D%3D)**
 
 Barron's • 5h ago
 
 ---
 
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
-
-CCN.com • 4h ago
-
----
-
 **[Taste Test: Penn Quarter's new "not a MAGA" Bitcoin bar](https://www.axios.com/local/washington-dc/2026/01/13/pubkey-bitcoin-bar-review-trump-penn-quarter)**
 
-Axios • 51m ago
+Axios • 1h ago
 
 ---
 
@@ -205,7 +213,7 @@ Axios • 51m ago
 
 Patching a major vulnerability will result in a higher price for the coin.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -214,14 +222,6 @@ The Motley Fool • 5h ago
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
 KITCO • 2d ago
-
----
-
-**[Bitcoin Whales Hit The Sell Button — $135K Price Target Now Trending](https://www.tradingview.com/news/newsbtc:fa1ae5b35094b:0-bitcoin-whales-hit-the-sell-button-135k-price-target-now-trending/)**
-
-According to TradingView data, big holders on Bitfinex have been trimming long positions after a late-December peak of 73,000 BTC. The move follows a broader drop in whale holdings of roughly 220,000 BTC during 2025, a change that has analysts and traders parsing what comes next.Price action has be…
-
-TradingView — Track All Markets • 2d ago
 
 ---
 
@@ -271,7 +271,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 20h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 21h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -309,13 +309,23 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin&#39;s Next Shocking Move is Coming](https://www.youtube.com/watch?v=kAsjV4537wA)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 8K • 👍 765 • 💬 149 • ⏱️ 39:49 • 1h ago
+
+---
+
 **[WARNING: Crypto in 2026 is About to Get Absurd..](https://www.youtube.com/watch?v=nak-TIrj4vA)**
 
 WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 615 • ⏱️ 14:21 • 16h ago
+👁️ 56K • 👍 3K • 💬 627 • ⏱️ 14:21 • 17h ago
 
 ---
 
@@ -325,17 +335,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 67K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 1d ago
-
----
-
-**[Stanley Druckenmiller reveals WHY crypto is crashing in 2026](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 2K • 💬 204 • ⏱️ 8:37 • 1d ago
+👁️ 71K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 1d ago
 
 ---
 
@@ -345,7 +345,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 369 • ⏱️ 41:26 • 1d ago
+👁️ 33K • 👍 1K • 💬 366 • ⏱️ 41:26 • 1d ago
 
 ---
 
@@ -355,7 +355,37 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 1K • 💬 495 • ⏱️ 7:34 • 20h ago
+👁️ 15K • 👍 1K • 💬 493 • ⏱️ 7:34 • 21h ago
+
+---
+
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=0J2ox23elXU)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Yoshidoll
+
+👁️ 2K • 👍 2K • 12m ago
+
+---
+
+**[Crypto JUST Flipped (Are You Ready?)](https://www.youtube.com/watch?v=Q5Oh4w02Wlc)**
+
+Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 12K • 👍 742 • 💬 73 • ⏱️ 19:27 • 5h ago
+
+---
+
+**[Stanley Druckenmiller reveals WHY crypto is crashing in 2026](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 48K • 👍 2K • 💬 204 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -365,47 +395,17 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 64 • ⏱️ 8:17 • 1d ago
+👁️ 19K • 👍 3K • 💬 63 • ⏱️ 8:17 • 1d ago
 
 ---
 
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
+**[Bitcoin: The Future Reserve Currency Strategy](https://www.youtube.com/watch?v=diRkGPEBOqU)**
 
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
+Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
 
-📺 Digital Asset News
+📺 Simply Bitcoin
 
-👁️ 16K • 👍 810 • 💬 88 • ⏱️ 24:05 • 2d ago
-
----
-
-**[Trump Threatens Powell With Criminal Action! [What This Means For Bitcoin]](https://www.youtube.com/watch?v=qQ9Clv1qaB8)**
-
-Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it beyond politics and into legal territory. For the ...
-
-📺 Crypto Banter
-
-👁️ 22K • 👍 1K • 💬 53 • ⏱️ 32:17 • 1d ago
-
----
-
-**[Fed Under Siege📉Crypto Market Update](https://www.youtube.com/watch?v=6db7n99C-bA)**
-
-The Justice Department investigation into Federal Reserve Chairman Jerome Powell is sparking backlash from former Federal ...
-
-📺 Paul Barron Network
-
-👁️ 24K • 👍 1K • 💬 197 • ⏱️ 11:08 • 18h ago
-
----
-
-**[THIS BITCOIN PUMP WILL LIQUIDATE YOU... (URGENT)](https://www.youtube.com/watch?v=GALMToiISag)**
-
-Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ...
-
-📺 100XClub
-
-👁️ 5K • 👍 712 • 💬 148 • ⏱️ 8:33 • 5h ago
+👁️ 437 • 👍 9 • 💬 41 • ⏱️ 0:53 • 2h ago
 
 ---
 
