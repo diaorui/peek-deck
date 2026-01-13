@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T23:20:46.330939+00:00'
+updated: '2026-01-13T23:41:08.138108+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 23:20 UTC  
+**Last Updated:** January 13, 2026 at 23:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1885.95B
+**Market Cap:** $1901.37B
 Rank #1
 
-**Circulating Supply:** 19,975,481 BTC
+**Circulating Supply:** 19,975,509 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--25.1%
+-24.5%
 
 **All-Time Low:** $67.81
-+139069.7%
++140194.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -217,7 +217,7 @@ CoinDesk • 9h ago
 
 Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -319,57 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 229 • ⏱️ 39:49 • 7h ago
-
----
-
-**[WARNING: Crypto in 2026 is About to Get Absurd..](https://www.youtube.com/watch?v=nak-TIrj4vA)**
-
-WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 61K • 👍 3K • 💬 635 • ⏱️ 14:21 • 1d ago
-
----
-
-**[Bitcoin: The Future Reserve Currency Strategy](https://www.youtube.com/watch?v=diRkGPEBOqU)**
-
-Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
-
-📺 Simply Bitcoin
-
-👁️ 1K • 👍 24 • 💬 59 • ⏱️ 0:53 • 9h ago
-
----
-
-**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
-
-Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
-
-📺 What Bitcoin Did
-
-👁️ 79K • 👍 4K • 💬 2K • ⏱️ 2:04:54 • 1d ago
-
----
-
-**[Stanley Druckenmiller reveals WHY crypto is crashing in 2026](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 2K • 💬 202 • ⏱️ 8:37 • 2d ago
-
----
-
-**[The Most Bullish Crypto Development This Year](https://www.youtube.com/watch?v=kIzgsdTMaRg)**
-
-The 2026 Bull Run just got a massive booster shot. In today's video, we are breaking down the single most important ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 610 • 💬 60 • ⏱️ 52:06 • 6h ago
+👁️ 21K • 👍 1K • 💬 190 • ⏱️ 39:49 • 8h ago
 
 ---
 
@@ -379,7 +329,57 @@ CPI is out today, but most traders are missing a crucial detail that makes this 
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 2K • 💬 23 • ⏱️ 29:19 • 6h ago
+👁️ 23K • 👍 2K • 💬 28 • ⏱️ 29:19 • 6h ago
+
+---
+
+**[WARNING: Crypto in 2026 is About to Get Absurd..](https://www.youtube.com/watch?v=nak-TIrj4vA)**
+
+WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 62K • 👍 3K • 💬 561 • ⏱️ 14:21 • 1d ago
+
+---
+
+**[Bitcoin: The Future Reserve Currency Strategy](https://www.youtube.com/watch?v=diRkGPEBOqU)**
+
+Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
+
+📺 Simply Bitcoin
+
+👁️ 1K • 👍 32 • 💬 69 • ⏱️ 0:53 • 9h ago
+
+---
+
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=OJGD6BeLZQc)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Classified Defense Files
+
+👁️ 3K • 27m ago
+
+---
+
+**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
+
+This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
+
+📺 Thomas Kralow
+
+👁️ 20K • 👍 3K • 💬 31 • ⏱️ 8:17 • 1d ago
+
+---
+
+**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 9K • 👍 1K • 💬 89 • ⏱️ 9:23 • 1h ago
 
 ---
 
@@ -389,17 +389,7 @@ Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 932 • 💬 91 • ⏱️ 19:27 • 11h ago
-
----
-
-**[Michael Saylor Just Bought MORE Bitcoin?! | Bitcoin vs Gold 2026](https://www.youtube.com/watch?v=03oz3f8SXQ8)**
-
-Michael Saylor Just Doubled Down on Bitcoin! Here's Why That Matters… South Korea just lifted a 9-year ban on corporate ...
-
-📺 CryptosRus Extra
-
-👁️ 5K • 👍 291 • 💬 191 • ⏱️ 8:25 • 22h ago
+👁️ 19K • 👍 962 • 💬 94 • ⏱️ 19:27 • 12h ago
 
 ---
 
@@ -409,7 +399,17 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 160 • ⏱️ 10:58 • 1d ago
+👁️ 63K • 👍 4K • 💬 162 • ⏱️ 10:58 • 1d ago
+
+---
+
+**[Senate to Vote on Crypto Bill, Traders Overlook Geopolitical Risks | Bloomberg Crypto 1/13/2025](https://www.youtube.com/watch?v=fLFdOXwprQw)**
+
+"Bloomberg Crypto" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: ...
+
+📺 Bloomberg Television
+
+👁️ 2K • 👍 81 • 💬 59 • ⏱️ 22:50 • 4h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T23:20:46.340215+00:00'
+updated: '2026-01-13T23:41:08.147533+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 23:20 UTC  
+**Last Updated:** January 13, 2026 at 23:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -98,7 +98,7 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 **[StackChan, a 100% Open-Source Robot by M5Stack Now Live on Kickstarter!](https://www.reddit.com/r/robotics/comments/1qbr8b5/stackchan_a_100_opensource_robot_by_m5stack_now/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -154,7 +154,7 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 **[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -186,23 +186,13 @@ WBAL-TV • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
-
-This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
-
-📺 Cybernews
-
-👁️ 330K • 👍 4K • 💬 727 • ⏱️ 4:29 • 6d ago
-
----
-
 **[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
 
 Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
 
 📺 Kim Java
 
-👁️ 324K • 👍 10K • 💬 593 • ⏱️ 17:09 • 1d ago
+👁️ 333K • 👍 10K • 💬 603 • ⏱️ 17:09 • 1d ago
 
 ---
 
@@ -216,43 +206,13 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 ---
 
-**[2026 FIRST Robotics Competition REBUILT Presented by Haas Game Animation](https://www.youtube.com/watch?v=_fybREErgyM)**
-
-This is the official game animation for the 2026 FIRST Robotics Competition game, REBUILT presented by Haas. The game was ...
-
-📺 FIRSTRoboticsCompetition
-
-👁️ 101K • 👍 2K • 💬 201 • ⏱️ 3:13 • 3d ago
-
----
-
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
-
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
-
-📺 The Verge
-
-👁️ 96K • 👍 1K • 💬 166 • ⏱️ 10:48 • 3d ago
-
----
-
 **[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
 
 Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
 
 📺 CNBC
 
-👁️ 126K • 👍 2K • 💬 345 • ⏱️ 11:46 • 2d ago
-
----
-
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 17K • 👍 232 • 💬 37 • ⏱️ 11:29 • 3d ago
+👁️ 128K • 👍 2K • 💬 347 • ⏱️ 11:46 • 2d ago
 
 ---
 
@@ -262,27 +222,65 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 10K • 👍 570 • 💬 37 • ⏱️ 9:28 • 3d ago
+👁️ 10K • 👍 573 • 💬 37 • ⏱️ 9:28 • 3d ago
 
 ---
 
-**[2026 FIRST Robotics Competition Field Tour: Bump and Trench](https://www.youtube.com/watch?v=h2JBcmpRxA0)**
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
 
-Watch this video to learn about the Bump and Trench for REBUILT presented by Haas. To download season materials, including ...
+📺 Wowearth
 
-📺 FIRSTRoboticsCompetition
-
-👁️ 7K • 👍 64 • 💬 4 • ⏱️ 2:23 • 3d ago
+👁️ 25K • 👍 380 • 💬 36 • ⏱️ 1:16 • 13h ago
 
 ---
 
-**[REBUILT Robot Systems Overview | Monday Recap | Ri3D Cranberry Alarm](https://www.youtube.com/watch?v=qxTU4_RFJNo)**
+**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
 
-REBUILT Robot Systems Overview | Monday Recap | Ri3D Cranberry Alarm The robot is coming together as Cranberry Alarm ...
+Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
 
-📺 FUN Robotics Network
+📺 The Verge
 
-👁️ 8K • 👍 137 • 💬 7 • ⏱️ 27:12 • 19h ago
+👁️ 97K • 👍 1K • 💬 166 • ⏱️ 10:48 • 3d ago
+
+---
+
+**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
+
+Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
+
+📺 Hyundai Motor Group
+
+👁️ 570K • 👍 45 • 💬 1 • ⏱️ 0:59 • 6d ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 17K • 👍 234 • 💬 37 • ⏱️ 11:29 • 3d ago
+
+---
+
+**[CES 2026 | How MobED Brings AI Robotics into Daily Life](https://www.youtube.com/watch?v=tbc2F_w4JXU)**
+
+MobED takes the CES 2026 stage, showcasing how AI robotics supports everyday life. From autonomous movement to modular ...
+
+📺 Hyundai Motor Group
+
+👁️ 440K • 👍 269 • 💬 14 • ⏱️ 0:47 • 6d ago
+
+---
+
+**[Giving a bar of GOLD to a Robot](https://www.youtube.com/watch?v=HX-Jk7R50MA)**
+
+When a robo-cleaner can notify you that a bar of gold was left on your living room floor, you know this technology is getting pretty ...
+
+📺 mryeester
+
+👁️ 91K • 👍 5K • 💬 170 • ⏱️ 1:06 • 4d ago
 
 ---
 
