@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T13:42:13.672699+00:00'
+updated: '2026-01-13T14:27:28.428805+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 13:42 UTC  
+**Last Updated:** January 13, 2026 at 14:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,077.03
+### $92,143.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +0.8%  
-**30d:** +6.5%  
-**90d:** -14.7%  
-**1y:** -4.6%  
+**24h:** +0.6%  
+**7d:** +0.9%  
+**30d:** +6.6%  
+**90d:** -14.6%  
+**1y:** -4.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1837.61B
+**Market Cap:** $1839.75B
 Rank #1
 
-**Circulating Supply:** 19,975,300 BTC
+**Circulating Supply:** 19,975,359 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.0%
+-26.9%
 
 **All-Time Low:** $67.81
-+135568.8%
++135757.5%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-2h ago
+3h ago
 
 ---
 
-**[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
+**[Iranian currency collapsed](https://www.reddit.com/r/Bitcoin/comments/1qbqm5r/iranian_currency_collapsed/)**
 
-15h ago
-
----
-
-**[Every crypto cycle in one chart](https://www.reddit.com/r/Bitcoin/comments/1qbpjbf/every_crypto_cycle_in_one_chart/)**
-
-I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
+Wonder what Bitcoiners in Iran is feeling today.
 
 1h ago
 
@@ -99,7 +93,27 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
+3h ago
+
+---
+
+**[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
+
+35m ago
+
+---
+
+**[Every crypto cycle in one chart](https://www.reddit.com/r/Bitcoin/comments/1qbpjbf/every_crypto_cycle_in_one_chart/)**
+
+I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
+
 2h ago
+
+---
+
+**[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
+
+16h ago
 
 ---
 
@@ -107,7 +121,15 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-9h ago
+10h ago
+
+---
+
+**[everyone : " 2026 Bitcoin is very bullish " Bitcoin⬇️](https://www.reddit.com/r/Bitcoin/comments/1qbpyby/everyone_2026_bitcoin_is_very_bullish_bitcoin/)**
+
+everyone : " 2026 Bitcoin is very bullish " Bitcoin :
+
+2h ago
 
 ---
 
@@ -125,31 +147,15 @@ Crypto taught me something simple: Most people don't lose money. They lose patie
 
 ---
 
-**[US Senate Big Move On Crypto New Draft Bill Explained - BigBreakingWire](https://www.reddit.com/r/Bitcoin/comments/1qbj9y2/us_senate_big_move_on_crypto_new_draft_bill/)**
-
-The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
-
-🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 7h ago
-
----
-
-**[When BTC Hits 1M$ in 2040](https://www.reddit.com/r/Bitcoin/comments/1qbgip5/when_btc_hits_1m_in_2040/)**
-
-FIAT : unlimited supply BTC : 21M Do the math.
-
-10h ago
-
----
-
-**[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
+
+The Block • 1d ago
+
+---
 
 **[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
 
@@ -159,17 +165,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
+**[Bitcoin (BTC) price rises to $92,500 as U.S. consumer prices rose 0.3% in December](https://www.coindesk.com/markets/2026/01/13/bitcoin-spikes-to-usd92-500-as-u-s-december-consumer-prices-rise-0-3)**
 
-The Block • 1d ago
+The U.S. Consumer Price Index came in roughly in line with expectations as market participants largely expects the Fed to leave rates unchanged at the January meeting.
 
----
-
-**[Binance Founder CZ Encourages Crypto Holders As Wells Fargo Reports Bitcoin ETF Holdings (CORRECTED)](https://finance.yahoo.com/news/binance-founder-cz-encourages-crypto-164653277.html)**
-
-Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
-
-Yahoo Finance • 15h ago
+CoinDesk • 20m ago
 
 ---
 
@@ -183,35 +183,35 @@ The Block • 2d ago
 
 If you're considering using a Bitcoin ETF instead of spot Bitcoin for your crypto exposure, you should know a couple of things before your first trade.
 
-The Motley Fool • 2h ago
-
----
-
-**[Altcoins, led by dash, heat up as bitcoin nears breakout: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/13/altcoins-led-by-dash-heat-up-as-bitcoin-nears-breakout-crypto-markets-today)**
-
-Bitcoin pushed above $92,000 with rising volume; altcoins outperformed as traders rotated into privacy coins and memecoins.
-
-CoinDesk • 1h ago
-
----
-
-**[Here's Why I Just Raised My 2026 Price Target for Bitcoin to $150,000](https://www.fool.com/investing/2026/01/13/heres-why-i-just-raised-my-2026-price-target-for-b/)**
-
-Patching a major vulnerability will result in a higher price for the coin.
-
 The Motley Fool • 3h ago
+
+---
+
+**[Binance Founder CZ Encourages Crypto Holders As Wells Fargo Reports Bitcoin ETF Holdings (CORRECTED)](https://finance.yahoo.com/news/binance-founder-cz-encourages-crypto-164653277.html)**
+
+Last week Wells Fargo begun to amass Bitcoin (CRYPTO: BTC) in substantial amounts. This development has elicited reactions from the cryptocurrency community, including a response from Changpeng Zhao, the founder of Binance. Wells Fargo’s decision to purchase large quantities of Bitcoin comes at a time of increasing uncertainty in the wider cryptocurrency market. In response to this move, Changpeng Zhao, Binance’s founder, has called on traders to remain resilient. While you were panic selling, U
+
+Yahoo Finance • 16h ago
+
+---
+
+**[21Shares Launches Bitcoin and Gold ETP on London Stock Exchange](https://bitcoinmagazine.com/news/21shares-launches-bitcoin-and-gold-etp)**
+
+21Shares has launched its Bitcoin and gold exchange-traded product, BOLD, on the London Stock Exchange, offering UK retail investors a regulated, physically backed vehicle combining both assets.
+
+Bitcoin Magazine • 3m ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 2h ago
+CCN.com • 3h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdVpPz_RKEjnFGr_M-Gkq5Jlhufa8bZJcCIzxRqj3KvWIYaHjAvB9Vd&gaa_ts=6966432f&gaa_sig=Bbdk-3Fh7SFJU56uBHmd97dwQ_VGXlgMLm0zkKoHhgk94oiP7YweLTZB1jbacSzPpbpueLVrx0wk9iSfXbAqoQ%3D%3D)**
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqcFjgGJ_llsIOjgV9DlX624DcZOv3rN3CY2CKTLJ0SNEF21g_FBYC1y&gaa_ts=696659b9&gaa_sig=JtVyisxI1Qb0RPcA6cbfKeh7elTVgUPyhW7PdL--Co6VmLbpt-oB94wujMoxqiSovkn2fRYY91jtDJU4DscmUA%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -269,7 +269,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 18h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 19h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -313,7 +313,17 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 587 • ⏱️ 14:21 • 14h ago
+👁️ 53K • 👍 3K • 💬 615 • ⏱️ 14:21 • 15h ago
+
+---
+
+**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
+
+Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
+
+📺 What Bitcoin Did
+
+👁️ 67K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 1d ago
 
 ---
 
@@ -327,23 +337,13 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 ---
 
-**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
-
-Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
-
-📺 What Bitcoin Did
-
-👁️ 63K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 1d ago
-
----
-
 **[DOJ Indictment on Powell Causes Panic (Bitcoin Retreats)](https://www.youtube.com/watch?v=sB5EKN1o364)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 348 • ⏱️ 41:26 • 22h ago
+👁️ 32K • 👍 1K • 💬 369 • ⏱️ 41:26 • 23h ago
 
 ---
 
@@ -353,7 +353,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 14K • 👍 980 • 💬 478 • ⏱️ 7:34 • 18h ago
+👁️ 15K • 👍 1K • 💬 495 • ⏱️ 7:34 • 19h ago
 
 ---
 
@@ -363,47 +363,47 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 56 • ⏱️ 8:17 • 1d ago
+👁️ 19K • 👍 3K • 💬 64 • ⏱️ 8:17 • 1d ago
 
 ---
 
-**[Why Trump Is About To Make Bitcoin Explode: Next Cycle Peak Revealed | Aaron Arnold ](https://www.youtube.com/watch?v=DmXwehNRgPU)**
+**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
 
-Aaron Arnold, Co-Host of Altcoin Daily, discusses the outlook for Bitcoin, Ethereum, and stablecoins. *This video was recorded on ...
+Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
 
-📺 David Lin 
+📺 Digital Asset News
 
-👁️ 6K • 👍 294 • 💬 142 • ⏱️ 42:44 • 9h ago
-
----
-
-**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
-
-Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 2K • 💬 163 • ⏱️ 17:17 • 2d ago
+👁️ 16K • 👍 810 • 💬 88 • ⏱️ 24:05 • 2d ago
 
 ---
 
-**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
+**[Trump Threatens Powell With Criminal Action! [What This Means For Bitcoin]](https://www.youtube.com/watch?v=qQ9Clv1qaB8)**
 
-Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
+Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it beyond politics and into legal territory. For the ...
 
-📺 Benjamin Cowen
+📺 Crypto Banter
 
-👁️ 58K • 👍 4K • 💬 152 • ⏱️ 10:58 • 1d ago
+👁️ 22K • 👍 1K • 💬 53 • ⏱️ 32:17 • 23h ago
 
 ---
 
-**[Michael Saylor Just Bought MORE Bitcoin?! | Bitcoin vs Gold 2026](https://www.youtube.com/watch?v=03oz3f8SXQ8)**
+**[Fed Under Siege📉Crypto Market Update](https://www.youtube.com/watch?v=6db7n99C-bA)**
 
-Michael Saylor Just Doubled Down on Bitcoin! Here's Why That Matters… South Korea just lifted a 9-year ban on corporate ...
+The Justice Department investigation into Federal Reserve Chairman Jerome Powell is sparking backlash from former Federal ...
 
-📺 CryptosRus Extra
+📺 Paul Barron Network
 
-👁️ 5K • 👍 261 • 💬 105 • ⏱️ 8:25 • 13h ago
+👁️ 24K • 👍 1K • 💬 197 • ⏱️ 11:08 • 17h ago
+
+---
+
+**[THIS BITCOIN PUMP WILL LIQUIDATE YOU... (URGENT)](https://www.youtube.com/watch?v=GALMToiISag)**
+
+Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ...
+
+📺 100XClub
+
+👁️ 5K • 👍 712 • 💬 148 • ⏱️ 8:33 • 4h ago
 
 ---
 

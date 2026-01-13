@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T13:42:13.682018+00:00'
+updated: '2026-01-13T14:27:28.438187+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 13:42 UTC  
+**Last Updated:** January 13, 2026 at 14:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,7 +42,23 @@ Robotics research and industry news
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-6h ago
+7h ago
+
+---
+
+**[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
+
+Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
+
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 2h ago
+
+---
+
+**[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
+
+From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
+
+4h ago
 
 ---
 
@@ -52,17 +68,9 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 ---
 
-**[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
-
-From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
-
-3h ago
-
----
-
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -70,37 +78,27 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-19h ago
+20h ago
 
 ---
 
-**[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
-
-Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
-
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 1h ago
-
----
-
-**[LimX COSA](https://www.reddit.com/r/robotics/comments/1qbpxo3/limx_cosa/)**
+**[StackChan, a 100% Open-Source Robot by M5Stack Now Live on Kickstarter!](https://www.reddit.com/r/robotics/comments/1qbr8b5/stackchan_a_100_opensource_robot_by_m5stack_now/)**
 
 1h ago
 
 ---
 
-**[Figure me out which bachelors should i take to become a robotics engineer.](https://www.reddit.com/r/robotics/comments/1qbnukh/figure_me_out_which_bachelors_should_i_take_to/)**
+**[Robot Model Kits](https://www.reddit.com/r/robotics/comments/1qbs7js/robot_model_kits/)**
 
-Right now i am in class 11. I have a interest in doing robotics. I am confused to decide which bachelors should i need to take.. so that i can specialise in robotics in my masters…
+Does anyone know of any model kits/figures/statues etc. of robots that actually exist? I have always thought the Atlas and Spot robots from Boston Dynamics looked really neat and would love a model of them on my desk. I haven't had luck finding any models that are based on real robots.
 
-3h ago
+20m ago
 
 ---
 
-**[If you're learning RL, I made a complete guide of Learning Rate in RL and Robotics](https://www.reddit.com/r/robotics/comments/1qble17/if_youre_learning_rl_i_made_a_complete_guide_of/)**
+**[LimX COSA](https://www.reddit.com/r/robotics/comments/1qbpxo3/limx_cosa/)**
 
-I wrote a step-by-step guide about Learning Rate in RL: how the reward curves for Q-Learning, DQN and PPO change, why PPO is much more sensitive to LR than you think, which values ​​are safe and which values ​​are dangerous, what divergence looks like in TensorBoard, how to test the optimal LR quickly, without guesswork. Everything is tested. Everything is visual. Everything is explained simply. Here is the link: https://www.reinforcementlearningpath.com/the-complete-guide-of-learning-rate-in-rl/
-
-5h ago
+2h ago
 
 ---
 
@@ -116,19 +114,17 @@ Engadget • 2d ago
 
 ---
 
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+**[Are AI robots ready to do household chores?](https://www.bbc.com/news/videos/c5yxk3yznxyo)**
 
-Joe Tidy meets robots being trained to tidy up all your mess.
+Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
 
-BBC • 1d ago
+BBC • 15m ago
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
+**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
 
-Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
-
-The Verge • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -137,12 +133,6 @@ The Verge • 2d ago
 By 2026, the convergence of Generative AI and humanoid form factors will enable robots to autonomously execute complex tasks. With 85 million global jobs projected to go unfilled by 2030, intelligent robots will transition from novelty to essential workforce multipliersChicago, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The global robotics market was valued at US$ 51.51 billion in 2025 and is projected to hit the market valuation of US$ 199.50 billion by 2035 at a CAGR of 14.5% during the forecast period
 
 Yahoo Finance • 1h ago
-
----
-
-**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -176,11 +166,19 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[WSU researchers develop robotic arm to aid with labor and boost productivity in orchards](https://komonews.com/news/local/wsu-washington-state-university-school-of-mechanical-and-materials-engineering-researchers-agriculture-robotic-apple-picking-arm-washington-orchards-migrant-farm-workers)**
+**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
 
-A cost-effective, robotic apple picker arm developed by Washington State University (WSU) researchers may someday help with fruit picking and other farm chores.
+Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
 
-KOMO • 2d ago
+WBAL-TV • 2d ago
+
+---
+
+**[Northview High Alum Earns Doctorate In Intelligent Systems And Robotics](http://www.northescambia.com/2026/01/northview-high-alum-earns-doctorate-in-intelligent-systems-and-robotics)**
+
+Local online newspaper for North Escambia County Florida, Pensacola, Walnut Hill, Bratt, McDavid, Molino, Century, Cantonment, Atmore, Flomaton, News
+
+NorthEscambia.com • 2d ago
 
 ---
 
@@ -194,7 +192,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 253K • 👍 8K • 💬 473 • ⏱️ 17:09 • 1d ago
+👁️ 273K • 👍 9K • 💬 515 • ⏱️ 17:09 • 1d ago
 
 ---
 
@@ -218,23 +216,23 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 ---
 
-**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
-
-This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
-
-📺 Cybernews
-
-👁️ 323K • 👍 4K • 💬 714 • ⏱️ 4:29 • 5d ago
-
----
-
 **[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
 
 Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
 
 📺 CNBC
 
-👁️ 115K • 👍 1K • 💬 319 • ⏱️ 11:46 • 1d ago
+👁️ 118K • 👍 1K • 💬 328 • ⏱️ 11:46 • 1d ago
+
+---
+
+**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
+
+This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
+
+📺 Cybernews
+
+👁️ 325K • 👍 4K • 💬 725 • ⏱️ 4:29 • 5d ago
 
 ---
 
@@ -244,7 +242,17 @@ The next generation of Atlas is designed to interact with people and understand 
 
 📺 Hyundai Motor Group
 
-👁️ 246K • 👍 62 • ⏱️ 1:15 • 6d ago
+👁️ 246K • 👍 63 • ⏱️ 1:15 • 6d ago
+
+---
+
+**[LG’s New AI Robot Promisses Consumers a ‘Zero Labor Home’](https://www.youtube.com/watch?v=KScg3q4XqOM)**
+
+LG unveiled its new AI-powdered Robot named CLOiD at the CES tech event in Las Vegas, Nevada. CLOiD is programed to work ...
+
+📺 New York Post
+
+👁️ 7K • 👍 101 • 💬 61 • ⏱️ 4:23 • 6d ago
 
 ---
 
@@ -254,7 +262,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 94K • 👍 1K • 💬 158 • ⏱️ 10:48 • 2d ago
+👁️ 95K • 👍 1K • 💬 159 • ⏱️ 10:48 • 2d ago
 
 ---
 
@@ -264,27 +272,17 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 2 • ⏱️ 2:16 • 15h ago
+👁️ 1K • 👍 3 • ⏱️ 2:16 • 16h ago
 
 ---
 
-**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
+**[Boston Dynamics unveils humanoid robot Atlas](https://www.youtube.com/watch?v=Ql1htbs6RWA)**
 
-LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
 
-📺 WION
+📺 NBC News
 
-👁️ 6K • 👍 25 • 💬 13 • ⏱️ 1:15 • 6d ago
-
----
-
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
-
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
-
-📺 Cybernews
-
-👁️ 16K • 👍 220 • 💬 37 • ⏱️ 11:29 • 2d ago
+👁️ 202K • 👍 2K • 💬 222 • ⏱️ 0:22 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T13:42:13.664284+00:00'
+updated: '2026-01-13T14:27:28.420500+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 13:42 UTC  
+**Last Updated:** January 13, 2026 at 14:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over its misuse to generate explicit images.
 
-🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 5h ago
+🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 6h ago
 
 ---
 
@@ -65,15 +65,7 @@ The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-4h ago
-
----
-
-**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
-
-Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
-
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 8h ago
+5h ago
 
 ---
 
@@ -81,7 +73,15 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 The bloodletting will hit hardest in back-office operations, risk management, and compliance.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) • 3h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) • 4h ago
+
+---
+
+**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
+
+Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
+
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 9h ago
 
 ---
 
@@ -93,25 +93,25 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 ---
 
+**[Claude recently dropped Cowork, and this feels like a real step forward.](https://www.reddit.com/r/artificial/comments/1qbqiro/claude_recently_dropped_cowork_and_this_feels/)**
+
+I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is similar to having a real coworker complete tasks while you work on something else. Claude creates a plan, carries it out, and keeps you informed. The truth is, though, that this feels both strong and a little scary. If your prompt isn't clear, Claude can actually take action on your files, which could cause problems. Additionally, there are real worries regarding file access and safety. Has anyone here used Cowork yet? Blog link is in the comments.
+
+1h ago
+
+---
+
 **[One-Minute Daily AI News 1/12/2026](https://www.reddit.com/r/artificial/comments/1qbjd7r/oneminute_daily_ai_news_1122026/)**
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-7h ago
+8h ago
 
 ---
 
 **[I bought an LG TV for the first time in my life, and it’s weird.](https://www.reddit.com/r/artificial/comments/1qbmjgj/i_bought_an_lg_tv_for_the_first_time_in_my_life/)**
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
-
-4h ago
-
----
-
-**[I treated job hunting and interviewing like a second job… so I built a lazy AI workflow](https://www.reddit.com/r/artificial/comments/1qblfdn/i_treated_job_hunting_and_interviewing_like_a/)**
-
-I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned.
 
 5h ago
 
@@ -129,40 +129,6 @@ The Guardian • 1d ago
 
 ---
 
-**[Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/cwy875j28k0o)**
-
-The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
-
-BBC • 23h ago
-
----
-
-**[Investors Want a Broader AI Trade, But It’s Volatile Out There](https://www.bloomberg.com/news/articles/2026-01-13/investors-want-a-broader-ai-trade-but-it-s-volatile-out-there)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Exclusive: RISA Labs raises $11.1M for oncology AI agents](https://www.axios.com/pro/health-tech-deals/2026/01/13/risa-labs-111-million-oncology-ai-agents)**
-
-Axios • 2h ago
-
----
-
-**[Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp](https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/)**
-
-Brazil's competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app. The agency has also started an investigation against the company to determine if the policy is anti-competitive.
-
-TechCrunch • 1h ago
-
----
-
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqcqdm7oTna4_YKanqS_MyaJdnd3-iYe-_d9X8eULFPXbviw2-cmypM7&gaa_ts=6966432e&gaa_sig=9KSQ_qP-U0g_JfY8Hv1uOjc3yetOKQwm90CP9lqQmvsq5QlvOz9zzY47W5H98Y4QEm2j4SwFLELW_SzjzHh_9Q%3D%3D)**
-
-The Wall Street Journal • 1d ago
-
----
-
 **[This CEO laid off nearly 80% of his staff because they refused to adopt AI fast enough. 2 years later, he says he’d do it again](https://finance.yahoo.com/news/ceo-laid-off-nearly-80-185033733.html)**
 
 “It was extremely difficult,” IgniteTech CEO Eric Vaughan tells Fortune. “But changing minds was harder than adding skills.”
@@ -171,27 +137,61 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[The Dangerous Paradox of A.I. Abundance](https://www.newyorker.com/news/the-financial-page/the-dangerous-paradox-of-ai-abundance)**
+**[Salesforce releases updated Slackbot powered by Anthropic's AI model](https://www.cnbc.com/2026/01/13/salesforce-releases-updated-slackbot-powered-by-anthropics-ai-model.html)**
 
-Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
+Slack is upgrading Slackbot, its personal assistant, with generative AI.
 
-The New Yorker • 1d ago
-
----
-
-**[European firms hit hiring brakes over AI and slowing growth](https://www.dw.com/en/european-eurozone-job-labor-market-unemployment-company-hiring-practice-covid-19-ai-automation/a-75394016)**
-
-The pandemic gave workers increased options as home offices became the norm in some fields. Now, with the EU experiencing industrial slowdown and AI automation, workers are growing increasingly wary of switching jobs.
-
-dw.com • 23h ago
+CNBC • 1h ago
 
 ---
 
-**[‘Unthinkable behavior’: Von der Leyen slams Musk’s AI for undressing photos of women](https://www.politico.eu/article/european-commission-ursula-von-der-leyen-grok-deepfake-nude-elon-musk-ai-x/)**
+**[Slackbot is an AI agent now](https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/)**
 
-A deepfake tool has sparked investigations and now furious criticism from the head of the European Commission.
+Salesforce unveils Slackbot, a new AI agent that allows users to complete tasks across multiple enterprise applications from Slack.
 
-politico.eu • 1d ago
+TechCrunch • 1h ago
+
+---
+
+**[Slack’s automated bot is getting an upgrade into an AI workplace helper](https://www.fastcompany.com/91473260/slacks-automated-bot-is-getting-an-upgrade-into-an-ai-workplace-helper)**
+
+Fast Company • 1h ago
+
+---
+
+**[Microsoft's Brad Smith pushes Big Tech to 'pay our way' for AI data centers amid rising opposition](https://abcnews.go.com/Business/wireStory/microsofts-brad-smith-pushes-big-tech-pay-ai-129162408)**
+
+Microsoft is trying to win over communities concerned about AI data centers
+
+ABC News • 17m ago
+
+---
+
+**[Middle managers have the jobs AI still can't do](https://qz.com/middle-management-jobs-ai)**
+
+qz.com • 20m ago
+
+---
+
+**[Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/cwy875j28k0o)**
+
+The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
+
+BBC • 23h ago
+
+---
+
+**[Elon Musk's Grok AI being adopted by Pentagon despite growing backlash against it](https://www.cbsnews.com/news/elon-musk-grok-ai-pentagon-growing-backlash/)**
+
+Defense Secretary Pete Hegseth says the Pentagon will start using Elon Musk's AI chatbot Grok. The word comes days after Grok drew global outcry for generating highly sexualized deepfake images.
+
+CBS News • 3h ago
+
+---
+
+**[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ politico.eu • 1d ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1237 • 💬 1556 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1245 • 💬 1562 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -217,7 +217,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 259 • 💬 231 • 17h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 279 • 💬 245 • 18h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -225,7 +225,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 195 • 💬 133 • 14h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 201 • 💬 137 • 15h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -233,7 +233,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 184 • 💬 62 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 187 • 💬 63 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -241,7 +241,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 170 • 💬 90 • 20h ago • [TryLAD](https://www.trylad.com)
+⬆️ 175 • 💬 95 • 21h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -249,13 +249,13 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 99 • 💬 72 • 19h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 105 • 💬 76 • 19h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 51 • 💬 25 • 3h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+⬆️ 101 • 💬 61 • 4h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -263,13 +263,15 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 50 • 💬 7 • 19h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 52 • 💬 7 • 19h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
-**[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
+**[Owners, not renters: Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
 
-⬆️ 43 • 💬 27 • 2d ago
+The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
+
+⬆️ 51 • 💬 37 • 2h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -283,7 +285,7 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Wes Roth
 
-👁️ 84K • 👍 3K • 💬 679 • ⏱️ 23:05 • 1d ago
+👁️ 85K • 👍 3K • 💬 685 • ⏱️ 23:05 • 1d ago
 
 ---
 
@@ -293,7 +295,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 1K • 💬 161 • ⏱️ 10:39 • 22h ago
+👁️ 19K • 👍 1K • 💬 163 • ⏱️ 10:39 • 23h ago
 
 ---
 
@@ -303,37 +305,7 @@ What happens when the Teenage Mutant Ninja Turtles crash-land on Pandora? In thi
 
 📺 Ai of Euphoria 
 
-👁️ 23K • 👍 449 • 💬 66 • ⏱️ 2:07 • 1d ago
-
----
-
-**[AI has gotten out of hand... (The Beast System)](https://www.youtube.com/watch?v=3468sgevZiU)**
-
-Every month, it feels like a new update, model, or software hits the scene, and people are quick to either claim it's groundbreaking ...
-
-📺 Seethruthescript
-
-👁️ 3K • 👍 228 • 💬 69 • ⏱️ 24:00 • 1d ago
-
----
-
-**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
-
-I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
-
-📺 I Ask AI
-
-👁️ 136K • 👍 12K • 💬 2K • ⏱️ 13:08 • 15h ago
-
----
-
-**[Wired&#39;s Steven Levy on DeepSeek&#39;s latest AI model, state of AI tech race](https://www.youtube.com/watch?v=_67YjLqjYbk)**
-
-Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect from Chinese AI startup DeepSeek's latest model, ...
-
-📺 CNBC Television
-
-👁️ 41K • 👍 320 • 💬 80 • ⏱️ 7:57 • 23h ago
+👁️ 25K • 👍 472 • 💬 67 • ⏱️ 2:07 • 1d ago
 
 ---
 
@@ -343,17 +315,37 @@ The next episode of my AI series. The AI character is making using AI, but is st
 
 📺 Nate Ziller
 
-👁️ 332K • 👍 32K • 💬 2K • ⏱️ 4:38 • 2d ago
+👁️ 340K • 👍 33K • 💬 2K • ⏱️ 4:38 • 2d ago
 
 ---
 
-**[So AI Makes Better Music Than You...Now What?](https://www.youtube.com/watch?v=NkNdnPYtXRw)**
+**[AI has gotten out of hand... (The Beast System)](https://www.youtube.com/watch?v=3468sgevZiU)**
 
-Well, AI music is everywhere and the robots are getting pretty good. But, I don't think we're doomed quite yet. Let's talk about it.
+Every month, it feels like a new update, model, or software hits the scene, and people are quick to either claim it's groundbreaking ...
 
-📺 Venus Theory
+📺 Seethruthescript
 
-👁️ 56K • 👍 7K • 💬 1K • ⏱️ 15:12 • 21h ago
+👁️ 3K • 👍 231 • 💬 71 • ⏱️ 24:00 • 1d ago
+
+---
+
+**[Wired&#39;s Steven Levy on DeepSeek&#39;s latest AI model, state of AI tech race](https://www.youtube.com/watch?v=_67YjLqjYbk)**
+
+Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect from Chinese AI startup DeepSeek's latest model, ...
+
+📺 CNBC Television
+
+👁️ 43K • 👍 344 • 💬 86 • ⏱️ 7:57 • 1d ago
+
+---
+
+**[Which Crazy Ocean Would You Swim In? | Super Satisfying AI ASMR](https://www.youtube.com/watch?v=Jy6yi-0ZFpY)**
+
+Tip: Use headphones for a fully immersive ASMR experience. Perfect For: • Meditation and mindfulness sessions • Background ...
+
+📺 AIsmr
+
+👁️ 32K • 👍 3K • 💬 10 • ⏱️ 9:21 • 2d ago
 
 ---
 
@@ -363,17 +355,25 @@ In recent days, multiple Erdős problems have been solved by GPT-5.2 Pro, with s
 
 📺 Dr Brian Keating
 
-👁️ 9K • 👍 224 • 💬 30 • ⏱️ 5:50 • 1d ago
+👁️ 9K • 👍 226 • 💬 30 • ⏱️ 5:50 • 1d ago
 
 ---
 
-**[The Race to Create the Ultimate AI - Global Eye, BBC World Service](https://www.youtube.com/watch?v=_mtFW2ROEAI)**
+**[Elon Musk&#39;s Grok AI faces global bans | 7NEWS](https://www.youtube.com/watch?v=szrTHR_jjEw)**
 
-This week on #BBCGlobalEye, AI is changing everything – from how we work to how we live. Cyber correspondent Joe Tidy is in ...
+Malaysia and Indonesia have banned Elon Musk's AI chatbot Grok amid concerns it's being used to create non-consensual ...
 
-📺 BBC World Service
+📺 7NEWS Australia
 
-👁️ 12K • 👍 245 • 💬 15 • ⏱️ 29:26 • 18h ago
+👁️ 18K • 👍 312 • ⏱️ 1:54 • 19h ago
+
+---
+
+**[I bought 2 AI-generated dresses… here’s what they REALLY look like. 🙄](https://www.youtube.com/watch?v=BqbcrZUfTqo)**
+
+📺 Maggie McGaugh
+
+👁️ 229K • 👍 9K • 💬 100 • ⏱️ 0:49 • 20h ago
 
 ---
 
@@ -389,7 +389,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 860,720 • ❤️ 886 • 5d ago
+⬇️ 860,720 • ❤️ 890 • 5d ago
 
 ---
 
@@ -401,7 +401,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 30,479 • ❤️ 536 • 5d ago
+⬇️ 30,479 • ❤️ 544 • 5d ago
 
 ---
 
@@ -413,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 11,717 • ❤️ 740 • 12d ago
+⬇️ 11,717 • ❤️ 741 • 12d ago
 
 ---
 
@@ -425,7 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 3,162 • ❤️ 331 • 7d ago
+⬇️ 3,162 • ❤️ 335 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 15,073 • ❤️ 302 • 4d ago
+⬇️ 15,073 • ❤️ 306 • 4d ago
 
 ---
 
@@ -449,19 +449,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 1,062 • ❤️ 234 • 7d ago
-
----
-
-**[HyperCLOVAX-SEED-Think-32B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B)**
-
-*HyperCLOVA X*
-
-HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of multimodal understanding (text, image, video) with a 128K token context length. It excels at Korean-centric reasoning and offers an optional 'thinking mode' for deep, controllable analysis, making it suitable for complex agentic tasks and advanced multimodal QA.
-
-`text-generation` `33.3B`
-
-⬇️ 30,825 • ❤️ 367 • 7d ago
+⬇️ 1,062 • ❤️ 237 • 7d ago
 
 ---
 
@@ -473,7 +461,19 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 215 • 2d ago
+⬇️ 26,414 • ❤️ 222 • 29m ago
+
+---
+
+**[HyperCLOVAX-SEED-Think-32B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B)**
+
+*HyperCLOVA X*
+
+HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of multimodal understanding (text, image, video) with a 128K token context length. It excels at Korean-centric reasoning and offers an optional 'thinking mode' for deep, controllable analysis, making it suitable for complex agentic tasks and advanced multimodal QA.
+
+`text-generation` `33.3B`
+
+⬇️ 30,825 • ❤️ 368 • 7d ago
 
 ---
 
@@ -485,19 +485,19 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 23,229 • ❤️ 205 • 3d ago
+⬇️ 23,229 • ❤️ 209 • 3d ago
 
 ---
 
-**[Qwen3-VL-Embedding-2B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B)**
+**[Alpamayo-R1-10B](https://huggingface.co/nvidia/Alpamayo-R1-10B)**
 
-*Qwen*
+*NVIDIA*
 
-Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generates high-dimensional vectors for text, images, and videos. It excels at cross-modal understanding and retrieval tasks, supporting over 30 languages and customizable embedding dimensions for flexible integration.
+Alpamayo-R1-10B is a Vision-Language-Action (VLA) Transformer model for autonomous driving, integrating Chain-of-Causation reasoning with diffusion-based trajectory planning for complex scenarios and rare events. It processes multi-camera images, text commands, and egomotion history to output interpretable reasoning traces and a 6.4-second future trajectory.
 
-`image-to-text` `2.1B`
+`robotics` `11.1B`
 
-⬇️ 23,003 • ❤️ 183 • 3d ago
+⬇️ 16,373 • ❤️ 285 • 4d ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 175 • 💬 5 • ⭐ 4,618 • 1mo ago
+▲ 175 • 💬 5 • ⭐ 4,692 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -537,7 +537,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
 
-▲ 142 • 💬 4 • ⭐ 114 • 4d ago
+▲ 143 • 💬 4 • ⭐ 114 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
 
@@ -549,7 +549,7 @@ Large vision-language models are enhanced for image geolocalization by incorpora
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 23 • 💬 2 • ⭐ 853 • 7d ago
+▲ 23 • 💬 2 • ⭐ 888 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -563,9 +563,21 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 26 • 💬 2 • ⭐ 655 • 5d ago
+▲ 28 • 💬 2 • ⭐ 655 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
+
+---
+
+**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
+
+*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
+
+Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
+
+▲ 0 • 💬 0 • ⭐ 28,498 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
 
 ---
 
@@ -596,19 +608,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
-  Videos](https://huggingface.co/papers/2502.01549)**
-
-*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
-
-VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
-
-▲ 3 • 💬 0 • ⭐ 2,448 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
-
----
-
 **[Orient Anything V2: Unifying Orientation and Rotation Understanding](https://huggingface.co/papers/2601.05573)**
 
 *Zehan Wang, Ziang Zhang, Jiayang Xu et al. (8 authors)*
@@ -621,15 +620,16 @@ Orient Anything V2 enhances 3D orientation understanding through scalable 3D ass
 
 ---
 
-**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
+**[VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context
+  Videos](https://huggingface.co/papers/2502.01549)**
 
-*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
+*Xubin Ren, Lingrui Xu, Long Xia et al. (6 authors)*
 
-Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
+VideoRAG enhances large language models for multi-modal video processing with a dual-channel architecture that integrates textual knowledge grounding and multi-modal context encoding.
 
-▲ 0 • 💬 0 • ⭐ 28,400 • 19mo ago
+▲ 3 • 💬 0 • ⭐ 2,464 • 11mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
+[🎓 arXiv](https://arxiv.org/abs/2502.01549) • [💻 code](https://github.com/hkuds/videorag)
 
 ---
 
@@ -643,7 +643,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.2k • 🔱 1.1k • 5h ago
+⭐ 8.3k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -653,7 +653,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 463 • 5d ago
+⭐ 3.5k • 🔱 472 • 5d ago
 
 ---
 
@@ -663,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 101 • 4h ago
+⭐ 3.0k • 🔱 106 • 5h ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 12h ago
+⭐ 2.3k • 🔱 141 • 27m ago
 
 ---
 
@@ -683,7 +683,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.0k • 🔱 231 • 2d ago
+⭐ 2.1k • 🔱 231 • 2d ago
 
 ---
 
@@ -691,9 +691,9 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 Learn vibe coding from 0 to 1 | 从实战中学会 vibe coding
 
-`ai` `coding` `course` `genai` `low-code`
+`JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.5k • 🔱 129 • 5h ago
+⭐ 1.5k • 🔱 129 • 1h ago
 
 ---
 
@@ -703,7 +703,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.4k • 🔱 74 • 20d ago
+⭐ 1.4k • 🔱 75 • 20d ago
 
 ---
 
@@ -713,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 16h ago
+⭐ 1.4k • 🔱 115 • 17h ago
 
 ---
 
