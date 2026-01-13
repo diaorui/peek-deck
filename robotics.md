@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T19:39:37.762460+00:00'
+updated: '2026-01-13T20:27:31.473495+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 19:39 UTC  
+**Last Updated:** January 13, 2026 at 20:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 7h ago
-
----
-
-**[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
-
-16h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 8h ago
 
 ---
 
@@ -50,7 +44,13 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-1h ago
+2h ago
+
+---
+
+**[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
+
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-12h ago
+13h ago
 
 ---
 
@@ -66,13 +66,13 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-9h ago
+10h ago
 
 ---
 
-**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
+**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-9h ago
+1h ago
 
 ---
 
@@ -80,7 +80,13 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-2h ago
+3h ago
+
+---
+
+**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
+
+10h ago
 
 ---
 
@@ -92,15 +98,7 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 **[StackChan, a 100% Open-Source Robot by M5Stack Now Live on Kickstarter!](https://www.reddit.com/r/robotics/comments/1qbr8b5/stackchan_a_100_opensource_robot_by_m5stack_now/)**
 
-6h ago
-
----
-
-**[My robot can recognize itself in the mirror!](https://www.reddit.com/r/robotics/comments/1qb1x6f/my_robot_can_recognize_itself_in_the_mirror/)**
-
-And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
-
-1d ago
+7h ago
 
 ---
 
@@ -108,39 +106,11 @@ And the best part is that his response is totally organic and unscripted. He was
 
 ## Google News: "robotics"
 
-**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
 
 Implementing automation systems requires a lot of planning, time and money
 
-Financial Times • 14h ago
-
----
-
-**[Did that lamp just fold the laundry? Alumni rethink home robotics](https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html)**
-
-Tech Xplore • 3d ago
-
----
-
-**[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
-
-New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
-
-CNBC • 1d ago
-
----
-
-**[UND organizers hope robotics competition's location in Alerus Center will help draw attention to the sport](https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport)**
-
-“This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
-
-Grand Forks Herald • 2d ago
+Financial Times • 15h ago
 
 ---
 
@@ -156,7 +126,7 @@ BBC • 1d ago
 
 1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
@@ -164,15 +134,15 @@ TechCrunch • 2h ago
 
 WIRobotics, a global robotics company co-led by Co-CEOs Younbaek Lee and Yongjae Kim, announced the successful conclusion of its participation at CES 2026, marking a shift from technology demonstration to the execution phase of global collaboration across both humanoid and wearable robotics.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
+**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
 
-BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
+Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
 
-Seeking Alpha • 3d ago
+WBAL-TV • 2d ago
 
 ---
 
@@ -180,7 +150,37 @@ Seeking Alpha • 3d ago
 
 Hyundai Motor group stocks surge after Atlas robot debut and Nvidia partnership lifts robotics optimism.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
+
+ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
+
+Seeking Alpha • 21m ago
+
+---
+
+**[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
+
+New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
+
+CNBC • 1d ago
+
+---
+
+**[Forget the robots, these are the best computing innovations at CES 2026](https://www.techradar.com/computing/forget-the-robots-these-are-the-best-computing-innovations-at-ces-2026)**
+
+CES is more than just dancing robots.
+
+TechRadar • 1d ago
+
+---
+
+**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
+
+Bloomberg.com • 17h ago
 
 ---
 
@@ -232,7 +232,7 @@ The next generation of Atlas is designed to interact with people and understand 
 
 📺 Wowearth
 
-👁️ 19K • 👍 319 • 💬 30 • ⏱️ 1:16 • 9h ago
+👁️ 19K • 👍 319 • 💬 30 • ⏱️ 1:16 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T19:39:37.744903+00:00'
+updated: '2026-01-13T20:27:31.455255+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 19:39 UTC  
+**Last Updated:** January 13, 2026 at 20:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,35 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Jeff Bezos Says the AI Bubble is Like the Industrial Bubble](https://www.reddit.com/r/artificial/comments/1qc1dif/jeff_bezos_says_the_ai_bubble_is_like_the/)**
+
+Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
+
+35m ago
+
+---
+
 **[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.reddit.com/r/artificial/comments/1qbi32n/pentagon_is_embracing_musks_grok_ai_chatbot_as_it/)**
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 14h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 15h ago
+
+---
+
+**[McKinsey CEO Bob Sternfels says the firm now has 60,000 employees: 25,000 of them are AI agents](https://www.reddit.com/r/artificial/comments/1qbzrwn/mckinsey_ceo_bob_sternfels_says_the_firm_now_has/)**
+
+McKinsey & Company CEO Bob Sternfels says he wants every employee working alongside an AI agent within a year and a half.
+
+🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 1h ago
+
+---
+
+**[Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.](https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/)**
+
+Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
+
+51m ago
 
 ---
 
@@ -57,7 +81,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
 
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 3h ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 4h ago
 
 ---
 
@@ -65,15 +89,7 @@ We are moving from experimentation to deployment while confronting economic and 
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 14h ago
-
----
-
-**[McKinsey CEO Bob Sternfels says the firm now has 60,000 employees: 25,000 of them are AI agents](https://www.reddit.com/r/artificial/comments/1qbzrwn/mckinsey_ceo_bob_sternfels_says_the_firm_now_has/)**
-
-McKinsey & Company CEO Bob Sternfels says he wants every employee working alongside an AI agent within a year and a half.
-
-🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 45m ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 15h ago
 
 ---
 
@@ -81,23 +97,7 @@ McKinsey & Company CEO Bob Sternfels says he wants every employee working alongs
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 1h ago
-
----
-
-**[I treated job hunting and interviewing like a second job… so I built a lazy AI workflow](https://www.reddit.com/r/artificial/comments/1qblfdn/i_treated_job_hunting_and_interviewing_like_a/)**
-
-I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned.
-
-11h ago
-
----
-
-**[chatgpt vs claude opus 4.5: coding performance breakdown (building a business website)](https://www.reddit.com/r/artificial/comments/1qbkvv6/chatgpt_vs_claude_opus_45_coding_performance/)**
-
-While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
-
-12h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 2h ago
 
 ---
 
@@ -105,15 +105,15 @@ While working on a business website i needed to figure out which model actually 
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-13h ago
+14h ago
 
 ---
 
-**[Claude recently dropped Cowork, and this feels like a real step forward.](https://www.reddit.com/r/artificial/comments/1qbqiro/claude_recently_dropped_cowork_and_this_feels/)**
+**[chatgpt vs claude opus 4.5: coding performance breakdown (building a business website)](https://www.reddit.com/r/artificial/comments/1qbkvv6/chatgpt_vs_claude_opus_45_coding_performance/)**
 
-I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is similar to having a real coworker complete tasks while you work on something else. Claude creates a plan, carries it out, and keeps you informed. The truth is, though, that this feels both strong and a little scary. If your prompt isn't clear, Claude can actually take action on your files, which could cause problems. Additionally, there are real worries regarding file access and safety. Has anyone here used Cowork yet? Blog link is in the comments.
+While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
 
-6h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ I recently read Claude's blog, and to be honest, this could really change how we
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -131,29 +131,41 @@ The New York Times • 9h ago
 
 Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
 **[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
 
-The New York Times • 22h ago
+The New York Times • 1d ago
 
 ---
 
-**[JPMorgan’s Dimon Bets on Tech and AI as Apple Card Buildout Begins](https://www.pymnts.com/earnings/2026/jpmorgan-jamie-dimon-tech-ai-apple-card-buildout-begins/)**
+**[Apple and Google are teaming up on AI. What it means for both stocks](https://www.cnbc.com/2026/01/13/apple-and-google-are-teaming-up-on-ai-what-it-means-for-both-stocks.html)**
 
-JPMorgan Chase’s fourth-quarter 2025 earnings results, released before the market opened Tuesday (Jan. 13), reflect a bank preparing to spend more through
+Wall Street analysts applauded the new Apple-Alphabet deal as one that would bolster the investment case for both companies.
 
-PYMNTS.com • 1h ago
+CNBC • 28m ago
 
 ---
 
-**[Roblox’s AI-Powered Age Verification Is a Complete Mess](https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/)**
+**[Aiomics and StreamedUp partner to deliver course on the general ”AI Literacy” required by European law](https://www.usatoday.com/press-release/story/23177/aiomics-and-streamedup-partner-to-deliver-course-on-the-general-ai-literacy-required-by-european-law/)**
 
-Kids are being identified as adults—and vice versa—on Roblox, while age-verified accounts are already being sold online.
+Aiomics partners with the medical education platform StreamedUp to launch a CME-certified curriculum on AI competence.
 
-WIRED • 45m ago
+USA Today • 1m ago
+
+---
+
+**[Nvidia Is Launching a Monster AI Supercomputer for Businesses. Here's What You Need to Know](https://www.inc.com/chris-morris/nvidia-is-launching-a-monster-ai-supercomputer-for-businesses/91287483)**
+
+inc.com • 24m ago
+
+---
+
+**[Robots come for advertising](https://www.axios.com/media-trends-membership/2026/01/13/ai-agents-advertising-automation)**
+
+Axios • 18m ago
 
 ---
 
@@ -165,33 +177,19 @@ NPR • 13h ago
 
 ---
 
-**[‘Godfather of AI’ says the technology will create massive unemployment and send profits soaring — ‘that is the capitalist system’](https://finance.yahoo.com/news/godfather-ai-says-technology-create-184754671.html)**
+**[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
 
-"We are at a point in history where something amazing is happening, and it may be amazingly good, and it may be amazingly bad."
+Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-Yahoo Finance • 1d ago
-
----
-
-**[Building Community-First AI Infrastructure](https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/)**
-
-Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
-
-The Official Microsoft Blog • 6h ago
+The Guardian • 4h ago
 
 ---
 
-**[Microsoft warns that China is winning AI race outside the west](https://www.ft.com/content/f7a5b184-1fef-4f02-b957-4c2b07adf91f)**
+**[Mom of one of Elon Musk's kids says AI chatbot Grok generated sexual deepfake images of her: "Make it stop"](https://www.cbsnews.com/news/mom-elon-musks-kid-says-ai-chatbot-grok-generated-sexual-deepfake-images/)**
 
-DeepSeek’s technology is being rapidly adopted across Africa and beyond, tech group’s research shows
+Ashley St. Clair, the mother of one of Elon Musk's children, alleges Grok generated and published sexual deepfake images of her without permission.
 
-Financial Times • 14h ago
-
----
-
-**[Trump wants Big Tech to 'pay its own way' for AI power](https://qz.com/data-centers-ai-microsoft-trump-electricity-bills)**
-
-qz.com • 51m ago
+CBS News • 1h ago
 
 ---
 
@@ -201,7 +199,7 @@ qz.com • 51m ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1253 • 💬 1578 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1257 • 💬 1580 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -209,7 +207,21 @@ qz.com • 51m ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 320 • 💬 322 • 23h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 321 • 💬 323 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+
+---
+
+**[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
+
+⬆️ 247 • 💬 167 • 1h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+
+---
+
+**[Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://news.ycombinator.com/item?id=46605553)**
+
+With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
+
+⬆️ 235 • 💬 69 • 1h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -217,7 +229,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 213 • 💬 148 • 20h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 214 • 💬 148 • 21h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -241,13 +253,13 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 143 • 💬 110 • 7h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 160 • 💬 133 • 8h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 131 • 💬 93 • 9h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+⬆️ 133 • 💬 97 • 10h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -255,21 +267,7 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 115 • 💬 82 • 1d ago • [GitHub](https://github.com/finbarr/yolobox)
-
----
-
-**[Signal leaders warn agentic AI is an insecure, unreliable surveillance risk](https://news.ycombinator.com/item?id=46605553)**
-
-With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
-
-⬆️ 108 • 💬 23 • 1h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
-
----
-
-**[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
-
-⬆️ 99 • 💬 51 • 1h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 116 • 💬 82 • 1d ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -293,7 +291,7 @@ OpenAI just launched ChatGPT Health — a dedicated health and wellness space in
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 162 • ⏱️ 14:42 • 19h ago
+👁️ 35K • 👍 1K • 💬 162 • ⏱️ 14:42 • 20h ago
 
 ---
 
@@ -333,7 +331,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 177K • 👍 4K • 💬 222 • ⏱️ 0:23 • 21h ago
+👁️ 177K • 👍 4K • 💬 222 • ⏱️ 0:23 • 22h ago
 
 ---
 
@@ -343,7 +341,7 @@ British regulators are investigating X for lewd AI images generated by Grok, the
 
 📺 CBS News
 
-👁️ 13K • 👍 185 • 💬 101 • ⏱️ 3:51 • 4h ago
+👁️ 13K • 👍 185 • 💬 101 • ⏱️ 3:51 • 5h ago
 
 ---
 
@@ -351,7 +349,7 @@ British regulators are investigating X for lewd AI images generated by Grok, the
 
 📺 D'Angelo
 
-👁️ 8K • 👍 804 • 2h ago
+👁️ 8K • 👍 804 • 3h ago
 
 ---
 
@@ -445,7 +443,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 229 • 4h ago
+⬇️ 26,414 • ❤️ 229 • 5h ago
 
 ---
 
@@ -659,7 +657,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.3k • 🔱 122 • 10h ago
+⭐ 3.3k • 🔱 122 • 11h ago
 
 ---
 
@@ -689,7 +687,7 @@ Learn vibe coding from 0 to 1 | 从实战中系统学会 vibe coding｜产品思
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.5k • 🔱 129 • 3h ago
+⭐ 1.5k • 🔱 129 • 4h ago
 
 ---
 
@@ -709,7 +707,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 22h ago
+⭐ 1.4k • 🔱 115 • 23h ago
 
 ---
 

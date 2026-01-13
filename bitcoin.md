@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T19:39:37.753260+00:00'
+updated: '2026-01-13T20:27:31.463962+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 19:39 UTC  
+**Last Updated:** January 13, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,800.00
+### $94,450.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +2.6%  
-**30d:** +8.5%  
-**90d:** -13.1%  
-**1y:** -2.8%  
+**24h:** +3.4%  
+**7d:** +3.1%  
+**30d:** +8.9%  
+**90d:** -12.8%  
+**1y:** -2.4%  
 
 ---
 
@@ -81,27 +81,19 @@ Rank #1
 
 I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
 
-7h ago
+8h ago
 
 ---
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-5h ago
-
----
-
-**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
-
-Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
-
-3h ago
+6h ago
 
 ---
 
@@ -109,13 +101,35 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-6h ago
+7h ago
+
+---
+
+**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
+
+Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
+
+4h ago
 
 ---
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
-8h ago
+9h ago
+
+---
+
+**[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
+
+1h ago
+
+---
+
+**[This message was embedded in Bitcoin's 666,666th block.](https://www.reddit.com/r/Bitcoin/comments/1qc1p2d/this_message_was_embedded_in_bitcoins_666666th/)**
+
+Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transactions Block reward: 6.25 BTC + fees
+
+23m ago
 
 ---
 
@@ -123,27 +137,13 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Bitcoin is going mainstream 🚀
 
-4h ago
+5h ago
 
 ---
 
 **[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
 
-2h ago
-
----
-
-**[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
-
-21h ago
-
----
-
-**[everyone : " 2026 Bitcoin is very bullish " Bitcoin⬇️](https://www.reddit.com/r/Bitcoin/comments/1qbpyby/everyone_2026_bitcoin_is_very_bullish_bitcoin/)**
-
-everyone : " 2026 Bitcoin is very bullish " Bitcoin :
-
-7h ago
+3h ago
 
 ---
 
@@ -151,23 +151,11 @@ everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
+**[BTC Price News: Bitcoin rises to key level while analyst sets $100,000 target](https://www.coindesk.com/markets/2026/01/13/bitcoin-rises-2-to-usd93-500-after-inflation-data-increased-chances-of-further-rate-cuts)**
 
-The Block • 1d ago
+The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
----
-
-**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
-
-China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
-
-Yahoo Finance • 1d ago
-
----
-
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
-
-CCN.com • 8h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,15 +163,7 @@ CCN.com • 8h ago
 
 Bitcoin reclaimed $93,000 on Tuesday as trading volume surged by 20%, but data analysts flag that there's rising sell-side pressure.
 
-Decrypt • 1h ago
-
----
-
-**[BTC Price News: Bitcoin rises to key level while analyst sets $100,000 target](https://www.coindesk.com/markets/2026/01/13/bitcoin-rises-2-to-usd93-500-after-inflation-data-increased-chances-of-further-rate-cuts)**
-
-The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
-
-CoinDesk • 2h ago
+Decrypt • 2h ago
 
 ---
 
@@ -191,13 +171,35 @@ CoinDesk • 2h ago
 
 Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
+
+---
+
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqe_4wx_zeoW47Y-NYKacUkmV_jlFptiKN8k7j7wiOd8JBNPb7_tOrNz&gaa_ts=6966ae1d&gaa_sig=c0rBBSVLNJcUap6Y7cPni2KuE-nCOdpjVh0Z8aYELSxL_azdPpE1QRmCZIe6Lve04CclbDP5IwuwxtAMX1zqvQ%3D%3D)**
+
+Barron's • 9h ago
+
+---
+
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://finance.yahoo.com/news/blackrock-moves-339m-bitcoin-traders-111215711.html)**
+
+BlackRock moved approximately $361 million worth of Bitcoin and Ethereum to Coinbase Prime. While transfers to Coinbase Prime don’t automatically signal a sale, market observers ...
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Bitcoin faces fresh test as Fed feud with Trump escalates](https://www.dlnews.com/articles/regulation/bitcoin-faces-fresh-test-as-fed-feud-with-trump-escalates/)**
+
+Jerome Powell described the criminal investigation as politically motivated.  Bitcoin jumped 1% on the news.  Analysts suggest it's a terrific opportunity for Bitcoin to prove its non-sovereign status.
+
+dlnews.com • 1d ago
 
 ---
 
 **[Crypto Suddenly Braced For A ‘Massive’ Shock As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/01/13/crypto-suddenly-braced-for-a-massive-shock-as-the-bitcoin-price-soars/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -205,23 +207,21 @@ Forbes • 3h ago
 
 Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
 
-Sherwood News • 4h ago
+Sherwood News • 5h ago
 
 ---
 
-**[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
+**[Bitcoin broke its classic macro correlation because the market is suddenly pricing a terrifying new risk](https://cryptoslate.com/crypto-traders-must-watch-three-specific-trust-signals-as-the-fed-faces-an-unprecedented-political-threat/)**
 
-With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
+The "rates up, bitcoin down" era is over—here is the exact dashboard you need to trade the fallout.
 
-CNBC • 3d ago
+CryptoSlate • 1d ago
 
 ---
 
-**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
+**[Taste Test: Penn Quarter's new "not a MAGA" Bitcoin bar](https://www.axios.com/local/washington-dc/2026/01/13/pubkey-bitcoin-bar-review-trump-penn-quarter)**
 
-Bitcoin has a lot going for it, but the near term could be bumpy.
-
-The Motley Fool • 2d ago
+Axios • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 630 • ⏱️ 14:21 • 20h ago
+👁️ 59K • 👍 3K • 💬 630 • ⏱️ 14:21 • 21h ago
 
 ---
 
@@ -335,7 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 190 • ⏱️ 39:49 • 4h ago
+👁️ 15K • 👍 1K • 💬 190 • ⏱️ 39:49 • 5h ago
 
 ---
 
@@ -383,7 +383,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Natalie Brunell
 
-👁️ 6K • 👍 168 • 💬 120 • ⏱️ 0:46 • 18h ago
+👁️ 6K • 👍 168 • 💬 120 • ⏱️ 0:46 • 19h ago
 
 ---
 
