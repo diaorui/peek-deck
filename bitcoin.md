@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T17:27:19.607894+00:00'
+updated: '2026-01-13T17:53:05.439056+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 17:27 UTC  
+**Last Updated:** January 13, 2026 at 17:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,304.01
+### $93,318.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
+**24h:** +1.9%  
 **7d:** +2.2%  
-**30d:** +8.0%  
-**90d:** -13.5%  
-**1y:** -3.2%  
+**30d:** +7.8%  
+**90d:** -13.6%  
+**1y:** -3.4%  
 
 ---
 
@@ -85,7 +85,15 @@ Rank #1
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-3h ago
+4h ago
+
+---
+
+**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
+
+Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
+
+2h ago
 
 ---
 
@@ -100,14 +108,6 @@ Wonder what Bitcoiners in Iran is feeling today.
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
 6h ago
-
----
-
-**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
-
-Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
-
-1h ago
 
 ---
 
@@ -129,7 +129,13 @@ Bitcoin is going mainstream 🚀
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-19h ago
+20h ago
+
+---
+
+**[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
+
+35m ago
 
 ---
 
@@ -141,29 +147,37 @@ everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
 ---
 
-**[Caved](https://www.reddit.com/r/Bitcoin/comments/1qbgxmk/caved/)**
-
-Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
-
-The Block • 1d ago
-
----
 
 **[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin's Four-Year Cycle Broken: VanEck](https://decrypt.co/354389/bitcoins-four-year-cycle-broken-vaneck)**
+
+The investment manager sees a split Bitcoin outlook but is bullish on gold and AI stocks, as political risks challenge traditional market anchors.
+
+Decrypt • 4h ago
+
+---
+
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+
+CCN.com • 6h ago
+
+---
+
+**[BTC Price News: Bitcoin rises to key level while analyst sets $100,000 target](https://www.coindesk.com/markets/2026/01/13/bitcoin-rises-2-to-usd93-500-after-inflation-data-increased-chances-of-further-rate-cuts)**
+
+The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -175,14 +189,6 @@ Sherwood News • 2h ago
 
 ---
 
-**[Bitcoin spikes to $92,500 as U.S. December consumer prices rise 0.3%](https://www.coindesk.com/markets/2026/01/13/bitcoin-spikes-to-usd92-500-as-u-s-december-consumer-prices-rise-0-3)**
-
-The U.S. Consumer Price Index came in roughly in line with expectations as market participants largely expects the Fed to leave rates unchanged at the January meeting.
-
-CoinDesk • 3h ago
-
----
-
 **[The crypto ATM's days in America may be numbered](https://www.cnbc.com/2026/01/10/bitcoin-crypto-atm-scam-fraud-regulation.html)**
 
 With scammers using crypto ATMs to steal hundreds of millions of dollars from Americans, a movement to ban bitcoin teller machines is growing nationwide.
@@ -191,15 +197,17 @@ CNBC • 3d ago
 
 ---
 
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+**[Bitcoin attempts $92K breakout as stocks hit new record on low US CPI data](https://www.tradingview.com/news/cointelegraph:25c825c2c094b:0-bitcoin-attempts-92k-breakout-as-stocks-hit-new-record-on-low-us-cpi-data/)**
 
-CCN.com • 6h ago
+Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqcyyiUJTu_ta41LonaJOhgIE7KHCDXspsD-VNPZeMdJADBwdivO27wX&gaa_ts=69667770&gaa_sig=WVOJzQ-SYQgvvGWD_d5RwjR8ao9Wl2sx7BtopvmFincSd5ljonQfEdrcsUKnF9yDhk44MyNBrBA7ojm3x0YUaw%3D%3D)**
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqejnUJ9wt-oZSxxfMHVdEKoUzALPOnpe8vmOxBEye5-fx1xsPWzOldF&gaa_ts=696689eb&gaa_sig=-gRDgLkIuXMe7tRNzNzhUqUkKNqbNi81LQ6YwrdE20SRyQn6-f7oJBeE2jPn6KUOF2LnEbBo1SIqBdI32VPhEg%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
@@ -213,15 +221,7 @@ Axios • 2h ago
 
 Patching a major vulnerability will result in a higher price for the coin.
 
-The Motley Fool • 6h ago
-
----
-
-**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 2d ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 20h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 21h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 

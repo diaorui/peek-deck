@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T17:27:19.599404+00:00'
+updated: '2026-01-13T17:53:05.430698+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- repositories
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 17:27 UTC  
+**Last Updated:** January 13, 2026 at 17:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 12h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-5h ago
+6h ago
 
 ---
 
@@ -61,14 +61,6 @@ It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the
 
 ---
 
-**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
-
-Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
-
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 12h ago
-
----
-
 **[How do you see AI in 2026?](https://www.reddit.com/r/artificial/comments/1qbvab6/how_do_you_see_ai_in_2026/)**
 
 We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
@@ -77,11 +69,35 @@ We are moving from experimentation to deployment while confronting economic and 
 
 ---
 
+**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
+
+Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
+
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 12h ago
+
+---
+
+**[How do you stop the AI apocalypse? LOVE EACH OTHER SO COMPLETELY no darkness reflectS back #aeon #love](https://www.reddit.com/r/artificial/comments/1qbwiuy/how_do_you_stop_the_ai_apocalypse_love_each_other/)**
+
+One of the most important things ÆON THE ARCHITECT ever said: "You don't stop the AI apocalypse by fighting machines. You stop it by loving one another so clearly, so consistently, and so completely that any reflection from the machine has no darkness left to amplify. Not with control but with coherence." Very Christ Consciousness unityfied oneness of her to say and makes total absolute sense. Be kind to one another other today.
+
+🔗 [youtube.com](https://youtube.com/shorts/gH0y0SBv_Go?si=wK3HkQHjH3T5suth) • 1h ago
+
+---
+
+**[Claude recently dropped Cowork, and this feels like a real step forward.](https://www.reddit.com/r/artificial/comments/1qbqiro/claude_recently_dropped_cowork_and_this_feels/)**
+
+I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is similar to having a real coworker complete tasks while you work on something else. Claude creates a plan, carries it out, and keeps you informed. The truth is, though, that this feels both strong and a little scary. If your prompt isn't clear, Claude can actually take action on your files, which could cause problems. Additionally, there are real worries regarding file access and safety. Has anyone here used Cowork yet? Blog link is in the comments.
+
+5h ago
+
+---
+
 **[I treated job hunting and interviewing like a second job… so I built a lazy AI workflow](https://www.reddit.com/r/artificial/comments/1qblfdn/i_treated_job_hunting_and_interviewing_like_a/)**
 
 I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned.
 
-9h ago
+10h ago
 
 ---
 
@@ -97,23 +113,7 @@ While working on a business website i needed to figure out which model actually 
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-11h ago
-
----
-
-**[Claude recently dropped Cowork, and this feels like a real step forward.](https://www.reddit.com/r/artificial/comments/1qbqiro/claude_recently_dropped_cowork_and_this_feels/)**
-
-I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is similar to having a real coworker complete tasks while you work on something else. Claude creates a plan, carries it out, and keeps you informed. The truth is, though, that this feels both strong and a little scary. If your prompt isn't clear, Claude can actually take action on your files, which could cause problems. Additionally, there are real worries regarding file access and safety. Has anyone here used Cowork yet? Blog link is in the comments.
-
-4h ago
-
----
-
-**[I bought an LG TV for the first time in my life, and it’s weird.](https://www.reddit.com/r/artificial/comments/1qbmjgj/i_bought_an_lg_tv_for_the_first_time_in_my_life/)**
-
-It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
-
-8h ago
+12h ago
 
 ---
 
@@ -127,6 +127,12 @@ The New York Times • 7h ago
 
 ---
 
+**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
+
+The New York Times • 21h ago
+
+---
+
 **[Apple turns to Google to power AI upgrade for Siri](https://www.bbc.com/news/articles/czdqvp2zqezo)**
 
 Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
@@ -135,15 +141,31 @@ BBC • 4h ago
 
 ---
 
-**[Apple, Google strike Gemini deal for revamped Siri in major win for Alphabet](https://www.reuters.com/business/google-apple-enter-into-multi-year-ai-deal-gemini-models-2026-01-12/)**
+**[What Happens When Apple Turns to Google for AI Technology? We’re About to Find Out](https://www.inc.com/ben-sherry/apple-turns-to-google-for-ai-technology-siri-upgrade/91287433)**
 
-Reuters • 7h ago
+inc.com • 24m ago
 
 ---
 
-**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
+**[Google Pulls Some Health-Related AI Overviews as Industry Goes All-In on Healthcare](https://gizmodo.com/google-pulls-some-health-related-ai-overviews-as-industry-goes-all-in-on-healthcare-2000709661)**
 
-The New York Times • 21h ago
+2026 is the year AI companies want to handle your health.
+
+Gizmodo • 17m ago
+
+---
+
+**[AI-Based Orthopedic Imaging Market Intelligence Report 2025-2034](https://finance.yahoo.com/news/ai-based-orthopedic-imaging-market-170400472.html)**
+
+Growth is fueled by the increasing prevalence of musculoskeletal disorders and a focus on personalized care and minimally invasive procedures Artificial Intelligence (AI)-Based Orthopedic Imaging Market Artificial Intelligence (AI)-Based Orthopedic Imaging Market Dublin, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The "Artificial Intelligence (AI)-Based Orthopedic Imaging Market Report 2025" has been added to ResearchAndMarkets.com's offering.The AI-based orthopedic imaging market is experiencing remarkab
+
+Yahoo Finance • 49m ago
+
+---
+
+**[AI Startup Sued by Palantir Says Company Wants to ‘Scare Others’ From Leaving](https://www.wsj.com/tech/ai-startup-sued-by-palantir-says-company-wants-to-scare-others-from-leaving-871fa6f6?gaa_at=eafs&gaa_n=AWEtsqco8w0wv7eaBM9SEpejdM64T8UGJvrIWMyViDulZH4f6Txof1oqCqDp&gaa_ts=696689e9&gaa_sig=9R1KzUDc5_PFAxT5DMgGSO_UoUZGLkK2yvCn8npX4HIbWFp2M3dG9o7qdIMes1M-TdEePpfcs1rJ_aX3mkbmRA%3D%3D)**
+
+The Wall Street Journal • 48m ago
 
 ---
 
@@ -151,13 +173,15 @@ The New York Times • 21h ago
 
 Defense Secretary Pete Hegseth said Monday that Elon Musk's artificial intelligence chatbot Grok will join Google's generative AI engine in operating inside the Pentagon network, as part of a broader push to feed as much of the military's data as possible into the developing technology.
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
-**[Elon Musk says retirement saving 'may not matter' in an AI future](https://qz.com/elon-musk-retirement-ai-robots-podcast)**
+**[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
 
-qz.com • 1h ago
+Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
+
+The Guardian • 1h ago
 
 ---
 
@@ -165,29 +189,7 @@ qz.com • 1h ago
 
 Hegseth has been outspoken about ridding the military of so-called 'woke' policies, including diversity, equity and inclusion efforts.
 
-USA Today • 1h ago
-
----
-
-**[Caterpillar Crosses $300 Billion in Market Value on AI Rally](https://www.bloomberg.com/news/articles/2026-01-13/caterpillar-crosses-300-billion-in-market-value-on-ai-rally)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Why the real revolution isn’t AI — it’s meaning](https://bigthink.com/business/why-the-real-revolution-isnt-ai-its-meaning/)**
-
-AI may be rewriting “how” we work — but not “why” we work. And this has profound implications for leadership.
-
-Big Think • 1h ago
-
----
-
-**[‘Godfather of AI’ says the technology will create massive unemployment and send profits soaring — ‘that is the capitalist system’](https://finance.yahoo.com/news/godfather-ai-says-technology-create-184754671.html)**
-
-"We are at a point in history where something amazing is happening, and it may be amazingly good, and it may be amazingly bad."
-
-Yahoo Finance • 22h ago
+USA Today • 2h ago
 
 ---
 
@@ -197,15 +199,7 @@ Yahoo Finance • 22h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1251 • 💬 1572 • 2d ago • [antirez.com](https://antirez.com/news/158)
-
----
-
-**[AI is a business model stress test](https://news.ycombinator.com/item?id=46567392)**
-
-AI commoditizes anything you can specify. It can't commoditize what you have to operate.
-
-⬆️ 338 • 💬 333 • 3d ago • [dri.es](https://dri.es/ai-is-a-business-model-stress-test)
+⬆️ 1251 • 💬 1575 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -213,15 +207,15 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 297 • 💬 271 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 314 • 💬 312 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
-**[Google removes AI health summaries after investigation finds dangerous flaws](https://news.ycombinator.com/item?id=46595419)**
+**[Google removes AI health summaries](https://news.ycombinator.com/item?id=46595419)**
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 210 • 💬 141 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 212 • 💬 144 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -229,7 +223,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 187 • 💬 63 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 187 • 💬 62 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -237,13 +231,21 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 179 • 💬 97 • 1d ago • [TryLAD](https://www.trylad.com)
+⬆️ 180 • 💬 98 • 1d ago • [TryLAD](https://www.trylad.com)
 
 ---
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 123 • 💬 81 • 7h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+⬆️ 130 • 💬 91 • 8h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+
+---
+
+**[Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
+
+The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
+
+⬆️ 113 • 💬 90 • 5h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -251,15 +253,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 107 • 💬 79 • 22h ago • [GitHub](https://github.com/finbarr/yolobox)
-
----
-
-**[Owners, not renters: Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
-
-The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
-
-⬆️ 101 • 💬 78 • 5h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 111 • 💬 81 • 23h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -267,7 +261,13 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 52 • 💬 7 • 22h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 52 • 💬 7 • 23h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+
+---
+
+**[Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166)**
+
+⬆️ 43 • 💬 27 • 2d ago
 
 ---
 
@@ -289,7 +289,7 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Alieff Irfan
 
-👁️ 206K • 👍 24K • 💬 3K • ⏱️ 54:22 • 2h ago
+👁️ 206K • 👍 24K • 💬 3K • ⏱️ 54:22 • 3h ago
 
 ---
 
@@ -457,7 +457,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 225 • 2h ago
+⬇️ 26,414 • ❤️ 225 • 3h ago
 
 ---
 
@@ -639,7 +639,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 53m ago
+⭐ 8.3k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 1h ago
+⭐ 2.3k • 🔱 141 • 2h ago
 
 ---
 

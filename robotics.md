@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T17:27:19.617230+00:00'
+updated: '2026-01-13T17:53:05.448236+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 17:27 UTC  
+**Last Updated:** January 13, 2026 at 17:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,19 +38,19 @@ Robotics research and industry news
 
 ---
 
-**[Should a robot lamp talk or not?](https://www.reddit.com/r/robotics/comments/1qbktwk/should_a_robot_lamp_talk_or_not/)**
-
-Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
-
-10h ago
-
----
-
 **[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
 🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 5h ago
+
+---
+
+**[Should a robot lamp talk or not?](https://www.reddit.com/r/robotics/comments/1qbktwk/should_a_robot_lamp_talk_or_not/)**
+
+Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
+
+10h ago
 
 ---
 
@@ -96,11 +96,11 @@ Does anyone know of any model kits/figures/statues etc. of robots that actually 
 
 ---
 
-**[If you're learning RL, I made a complete guide of Learning Rate in RL and Robotics](https://www.reddit.com/r/robotics/comments/1qble17/if_youre_learning_rl_i_made_a_complete_guide_of/)**
+**[Big step for embodied AI if the latency is as low as they claim.](https://www.reddit.com/r/robotics/comments/1qbx10w/big_step_for_embodied_ai_if_the_latency_is_as_low/)**
 
-I wrote a step-by-step guide about Learning Rate in RL: how the reward curves for Q-Learning, DQN and PPO change, why PPO is much more sensitive to LR than you think, which values ​​are safe and which values ​​are dangerous, what divergence looks like in TensorBoard, how to test the optimal LR quickly, without guesswork. Everything is tested. Everything is visual. Everything is explained simply. Here is the link: https://www.reinforcementlearningpath.com/the-complete-guide-of-learning-rate-in-rl/
+LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-9h ago
+35m ago
 
 ---
 
@@ -108,31 +108,19 @@ I wrote a step-by-step guide about Learning Rate in RL: how the reward curves fo
 
 ## Google News: "robotics"
 
-**[Are AI robots ready to do household chores?](https://www.bbc.com/news/videos/c5yxk3yznxyo)**
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
 
-Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
+Joe Tidy meets robots being trained to tidy up all your mess.
 
-BBC • 3h ago
-
----
-
-**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
-
-Bloomberg.com • 1d ago
+BBC • 1d ago
 
 ---
 
-**[Robotics Market Projected to Reach US$ 199.50 Billion by 2035, Supported by Continued Investment Activity Says Astute Analytica](https://finance.yahoo.com/news/robotics-market-projected-reach-us-123000827.html)**
+**[Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/)**
 
-By 2026, the convergence of Generative AI and humanoid form factors will enable robots to autonomously execute complex tasks. With 85 million global jobs projected to go unfilled by 2030, intelligent robots will transition from novelty to essential workforce multipliersChicago, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The global robotics market was valued at US$ 51.51 billion in 2025 and is projected to hit the market valuation of US$ 199.50 billion by 2035 at a CAGR of 14.5% during the forecast period
+1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Did that lamp just fold the laundry? Alumni rethink home robotics](https://techxplore.com/news/2026-01-lamp-laundry-alumni-rethink-home.html)**
-
-Tech Xplore • 3d ago
+TechCrunch • 38m ago
 
 ---
 
@@ -144,6 +132,44 @@ Financial Times • 12h ago
 
 ---
 
+**[WIRobotics Concludes CES 2026, Advancing into Execution Phase of Global Collaboration Across Humanoid and Wearable Robotics](https://finance.yahoo.com/news/wirobotics-concludes-ces-2026-advancing-170000720.html)**
+
+WIRobotics, a global robotics company co-led by Co-CEOs Younbaek Lee and Yongjae Kim, announced the successful conclusion of its participation at CES 2026, marking a shift from technology demonstration to the execution phase of global collaboration across both humanoid and wearable robotics.
+
+Yahoo Finance • 53m ago
+
+---
+
+**[Pentagon to integrate Elon Musk's Grok AI into military networks](https://interestingengineering.com/ai-robotics/pentagon-grok-ai-classified-networks)**
+
+The Pentagon plans to deploy Elon Musk's Grok AI across military systems as part of a new AI acceleration strategy announced by Pete Hegseth.
+
+Interesting Engineering • 36m ago
+
+---
+
+**[Are AI robots ready to do household chores?](https://www.bbc.com/news/videos/c5yxk3yznxyo)**
+
+Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
+
+BBC • 3h ago
+
+---
+
+**[China’s new humanoid robot senses delicate touch with soft skin tech](https://interestingengineering.com/ai-robotics/china-humanoid-robot-moves-human-style)**
+
+China’s Matrix Robotics unveils MATRIX-3, a humanoid robot built to adapt and learn in real-world environments.
+
+Interesting Engineering • 6h ago
+
+---
+
+**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[UND organizers hope robotics competition's location in Alerus Center will help draw attention to the sport](https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport)**
 
 “This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
@@ -152,35 +178,11 @@ Grand Forks Herald • 2d ago
 
 ---
 
-**[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
+**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
 
-New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
+Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
 
-CNBC • 1d ago
-
----
-
-**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
-
-BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
-
-Seeking Alpha • 3d ago
-
----
-
-**[The robots we saw at CES 2026: The lovable, the creepy and the utterly confusing](https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html)**
-
-From sassy humanoids, to AI-powered pets and chore-handling assistants, we sought out as many cute, strange and capable robots as we could find during CES.
-
-Engadget • 3d ago
-
----
-
-**[Is this the year domestic robots come in our homes?](https://www.bbc.co.uk/news/articles/clyg63e3mq4o)**
-
-Joe Tidy meets robots being trained to tidy up all your mess.
-
-BBC • 1d ago
+WBAL-TV • 2d ago
 
 ---
 
