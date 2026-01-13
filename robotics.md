@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T06:36:18.736227+00:00'
+updated: '2026-01-13T07:26:26.332891+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 06:36 UTC  
+**Last Updated:** January 13, 2026 at 07:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -48,7 +48,15 @@ Robotics research and industry news
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-12h ago
+13h ago
+
+---
+
+**[Should a robot lamp talk or not?](https://www.reddit.com/r/robotics/comments/1qbktwk/should_a_robot_lamp_talk_or_not/)**
+
+Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
+
+13m ago
 
 ---
 
@@ -56,7 +64,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Fourier GR-3, both the full and baby versions, are among the best looking to me. Their designers deserved a raise!
 
-🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 2h ago
+🔗 [youtu.be](https://youtu.be/_v77-uoLDIQ) • 3h ago
 
 ---
 
@@ -72,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hey guys I have a comp engineering undergrad and most recently was building distribution systems, schedulers / game engines in rust adjacent to cryptography and hardware… The SWE industry is truly windling with AI being a success..so I am curious how I can leverage my previous education in math and EE with my systems engineering know how to break into the robotics field
 
-50m ago
+1h ago
 
 ---
 
@@ -80,27 +88,19 @@ Hey guys I have a comp engineering undergrad and most recently was building dist
 
 This document describes in detail the navigation task environment based on the ANYmal-C quadruped robot. This environment is part of the navigation task collection in the MotrixLab project, providing a complete implementation for training quadruped robots to navigate to target positions and orientations using reinforcement learning. Environment Description The ANYmal-C navigation task environment is built based on the real ANYmal-C quadruped robot, designed to train robots to navigate to specified target positions and orientations on flat terrain. This environment uses the MotrixSim physics engine for simulation, providing high-fidelity dynamic simulation. Robot Structure ANYmal-C is a quadruped robot composed of the following main parts: Base: The core torso of the robot, containing sensor modules such as IMU, camera, and lidar Four Legs: Each leg contains three joints HAA (Hip Abduction/Adduction): Hip abduction/adduction joint HFE (Hip Flexion/Extension): Hip flexion/extension joint KFE (Knee Flexion/Extension): Knee flexion/extension Four Feet: Spherical contact geometries that generate frictional contact with the ground Task Objective The robot needs to complete the following navigation objectives: Position Navigation: Move to the specified target position (XY plane coordinates) Orientation Control: Adjust robot orientation to the target heading angle (yaw angle) Stable Stop: Maintain stable standing after reaching the target, with linear and angular velocities approaching zero The environment provides visualization markers: Green Arrow: Indicates target position and orientation Green Arrow Above Robot: Current actual movement direction Blue Arrow Above Robot: Desired movement direction
 
-19h ago
+20h ago
 
 ---
 
 **[Would a shelf-restocking robot actually help grocery stores? Looking for real-world feedback](https://www.reddit.com/r/robotics/comments/1qb61qp/would_a_shelfrestocking_robot_actually_help/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Toilet cleaning robot](https://www.reddit.com/r/robotics/comments/1q9y5wh/toilet_cleaning_robot/)**
 
 I was doing research around Zurich and Swiss based robotics startups. Loki Robotics is going after automating human-level cleaning in semi-structured places like public restrooms. The robot has to physically interact with the environment: sinks, counters, toilets, fixtures, surfaces with different friction and geometry, plus cleaning liquids and tools. Their strategy is a blend of teleoperation and machine learning. Humans guide and demonstrate the tasks remotely to bootstrap capabilities quickly, then ML helps generalize the behavior across different layouts and edge cases. The manipulation side is the core as Loki relies on compliant tooling and force and impedance-style control so the robot can regulate pressure during contact, similar to how a person scrubs without damaging surfaces. They also can do tool swapping mid-task, so a single robot can apply scrub, wipe, and switch tools depending on what it touches. What might be the limitations in your opinion? I've seen already one company like this before (I believe it was SOMATIC). Source: https://x.com/lukas_m_ziegler/status/2010295446372036949
-
-1d ago
-
----
-
-**[Latest version of Wuji hand (video on 1x)](https://www.reddit.com/r/robotics/comments/1q9ws10/latest_version_of_wuji_hand_video_on_1x/)**
-
-From Remi Cadene on 𝕏: https://x.com/RemiCadene/status/2010062528752308636 Wuji Tech website: https://wuji.tech/
 
 1d ago
 
@@ -118,19 +118,19 @@ Engadget • 2d ago
 
 ---
 
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+**[Are humanoid robots the next smart home gadget?](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry)**
 
-Joe Tidy meets robots being trained to tidy up all your mess.
+Verge senior reviewer scours the CES 2026 show floor to find one robot that might be.
 
-BBC • 1d ago
+The Verge • 2d ago
 
 ---
 
-**[When robots meet commercial reality](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
+**[Video: China’s humanoid robot masters complex skills in hours without prior setup](https://interestingengineering.com/ai-robotics/chinas-humanoid-robot-masters-complex-skills)**
 
-Implementing automation systems requires a lot of planning, time and money
+PNDbotics unveils Adam-U Ultra, a humanoid robot with VLA AI and 10,000+ data samples, learning new skills in hours.
 
-Financial Times • 1h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -144,7 +144,7 @@ TechCrunch • 3d ago
 
 **[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -170,19 +170,19 @@ CNBC • 1d ago
 
 ---
 
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+
+Joe Tidy meets robots being trained to tidy up all your mess.
+
+BBC • 1d ago
+
+---
+
 **[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
 
 BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
 
 Seeking Alpha • 2d ago
-
----
-
-**[15 Appalachian school teams compete in First Lego Robotics Tournament](https://www.wymt.com/2026/01/09/15-appalachian-school-teams-compete-first-lego-robotics-tournament/)**
-
-FIRST officials said the challenge is aimed to build a pipeline and pathway for students, while they have fun doing it.
-
-WYMT • 3d ago
 
 ---
 
@@ -196,17 +196,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 182K • 👍 7K • 💬 373 • ⏱️ 17:09 • 17h ago
-
----
-
-**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
-
-This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
-
-📺 Cybernews
-
-👁️ 319K • 👍 4K • 💬 706 • ⏱️ 4:29 • 5d ago
+👁️ 222K • 👍 7K • 💬 435 • ⏱️ 17:09 • 18h ago
 
 ---
 
@@ -216,7 +206,7 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 📺 Carros Show
 
-👁️ 10K • 👍 129 • 💬 6 • ⏱️ 8:33 • 5d ago
+👁️ 10K • 👍 130 • 💬 6 • ⏱️ 8:33 • 5d ago
 
 ---
 
@@ -226,7 +216,17 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 📺 PRO ROBOTS
 
-👁️ 58K • 👍 1K • 💬 92 • ⏱️ 18:58 • 4d ago
+👁️ 59K • 👍 1K • 💬 93 • ⏱️ 18:58 • 4d ago
+
+---
+
+**[Atlas Robot First Look - Boston Dynamics at CES 2026](https://www.youtube.com/watch?v=YIhzUnvi7Fw)**
+
+This year at CES 2026, Boston Dynamics are back with their latest Atlas robot that has exclusive features and a deeper attention ...
+
+📺 Cybernews
+
+👁️ 320K • 👍 4K • 💬 710 • ⏱️ 4:29 • 5d ago
 
 ---
 
@@ -236,7 +236,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 107K • 👍 1K • 💬 313 • ⏱️ 11:46 • 1d ago
+👁️ 112K • 👍 1K • 💬 315 • ⏱️ 11:46 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ A quick look at the incredible robots showcased at CES 2026 in Las Vegas. The fu
 
 📺 SME Media
 
-👁️ 1K • 👍 4 • ⏱️ 2:16 • 8h ago
+👁️ 1K • 👍 2 • ⏱️ 2:16 • 9h ago
 
 ---
 
@@ -266,7 +266,7 @@ Japanese robotics has taken center stage at IREX, the world's largest robotics e
 
 📺 Carros Show
 
-👁️ 59K • 👍 502 • 💬 40 • ⏱️ 11:13 • 6d ago
+👁️ 59K • 👍 508 • 💬 40 • ⏱️ 11:13 • 6d ago
 
 ---
 
@@ -276,17 +276,17 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 93K • 👍 1K • 💬 156 • ⏱️ 10:48 • 2d ago
+👁️ 94K • 👍 1K • 💬 156 • ⏱️ 10:48 • 2d ago
 
 ---
 
-**[Cloid: The AI Robot That Manages Your Entire Home | CES 2026](https://www.youtube.com/watch?v=5iM5e1frCis)**
+**[LG’s New AI Robot Promisses Consumers a ‘Zero Labor Home’](https://www.youtube.com/watch?v=KScg3q4XqOM)**
 
-LG has unveiled its ai-powered robot home assistant, cloid, at ces 2026. Designed to handle daily household chores, cloid can ...
+LG unveiled its new AI-powdered Robot named CLOiD at the CES tech event in Las Vegas, Nevada. CLOiD is programed to work ...
 
-📺 WION
+📺 New York Post
 
-👁️ 6K • 👍 24 • 💬 13 • ⏱️ 1:15 • 6d ago
+👁️ 7K • 👍 100 • 💬 61 • ⏱️ 4:23 • 6d ago
 
 ---
 

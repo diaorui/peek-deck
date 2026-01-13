@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T06:36:18.726931+00:00'
+updated: '2026-01-13T07:26:26.323465+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 06:36 UTC  
+**Last Updated:** January 13, 2026 at 07:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,906.34
+### $92,046.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +1.5%  
 **7d:** +0.7%  
 **30d:** +6.4%  
 **90d:** -14.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1823.03B
+**Market Cap:** $1833.94B
 Rank #1
 
 **Circulating Supply:** 19,975,187 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.1%
 
 **All-Time Low:** $67.81
-+134492.2%
++135447.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-2h ago
+3h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,13 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
 
-13h ago
+14h ago
+
+---
+
+**[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
+
+3h ago
 
 ---
 
@@ -113,35 +119,31 @@ Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed a
 
 ---
 
+**[US Senate Big Move On Crypto New Draft Bill Explained - BigBreakingWire](https://www.reddit.com/r/Bitcoin/comments/1qbj9y2/us_senate_big_move_on_crypto_new_draft_bill/)**
+
+The US Senate has released a new draft bill to fix confusion around crypto regulation. The goal is simple. Clear rules for crypto companies, investors, and
+
+🔗 [BigBreakingWire](https://bigbreakingwire.in/breaking_news/us-senate-big-move-on-crypto-new-draft-bill-explained/) • 1h ago
+
+---
+
 **[17 years later: those 10 BTC from the first transaction are worth ~$917,000 USD](https://www.reddit.com/r/Bitcoin/comments/1qbet42/17_years_later_those_10_btc_from_the_first/)**
 
 Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin transaction: on January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney. Back then, they were literally worth $0. Today, with BTC hovering around $91,700 USD (according to data from CoinDesk, Yahoo Finance, and major exchanges), those 10 bitcoins are equivalent to approximately $917,000. From zero to nearly a million in less than two decades, without banks or anyone's permission. The cypherpunk experiment that changed the financial world continues to prove: the future of money is already here And it's still going up!
 
-4h ago
-
----
-
-**[Bitcoin is the only real money.](https://www.reddit.com/r/Bitcoin/comments/1qbgsgy/bitcoin_is_the_only_real_money/)**
-
-2h ago
+5h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
 
 1d ago
-
----
-
-**[Bullish?](https://www.reddit.com/r/Bitcoin/comments/1qb4im0/bullish/)**
-
-11h ago
 
 ---
 
@@ -167,7 +169,7 @@ The Block • 1d ago
 
 Powell vows to hold firm as Trump launches new attack on Fed. Bitcoin’s price briefly jumped 2% before returning to just above $90,000.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -175,31 +177,23 @@ Yahoo Finance • 20h ago
 
 Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
-**[BTC stalls near $90,000 as liquidity fuels altcoin rallies: Asia Morning Briefing](https://www.coindesk.com/markets/2026/01/13/btc-stalls-near-usd90-000-as-liquidity-fuels-altcoin-rallies-asia-morning-briefing)**
+**[Bitcoin and ether traders bet on calmer times](https://www.coindesk.com/markets/2026/01/13/bitcoin-and-ether-traders-bet-on-calmer-times)**
 
-Leverage has been flushed, and spot demand remains soft, keeping bitcoin range-bound while token unlocks and thin liquidity drive sharp, narrative-led moves in select altcoins.
+Bitcoin and ether traders are betting on low volatility and reduced near-term risks despite resilient dollar index and tepid demand for spot ETFs.
 
-CoinDesk • 3h ago
-
----
-
-**[Asia Market Open: Bitcoin Holds $91k As Nikkei Prints Record High After Wall Street Rally](https://finance.yahoo.com/news/asia-market-open-bitcoin-holds-024939955.html)**
-
-Bitcoin stayed pinned near $91,000 on Tuesday, as traders watched Japan’s stock market burst to fresh records and treated US macro headlines as the next real trigger for crypto direction.In Asia, Japan’s Nikkei surged to an all-time high, climbing as much as 3.6% to 53,814.79, and the Topix also set ...
-
-Yahoo Finance • 3h ago
+CoinDesk • 20m ago
 
 ---
 
-**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
+**[Former 'bitcoin mayor' Eric Adams faces $3 million rugpull allegation after issuing NYC coin](https://www.coindesk.com/markets/2026/01/13/former-bitcoin-mayor-eric-adams-faces-usd3-million-rugpull-allegation-after-issuing-nyc-coin)**
 
-Bitcoin has a lot going for it, but the near term could be bumpy.
+On-chain data revealed that a wallet linked to the token's deployer removed $2.5 million in liquidity, prompting accusations of a possible rug pull.
 
-The Motley Fool • 1d ago
+CoinDesk • 1h ago
 
 ---
 
@@ -211,9 +205,17 @@ CNBC • 2d ago
 
 ---
 
+**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
+
+Bitcoin has a lot going for it, but the near term could be bumpy.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -255,7 +257,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 10h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -271,7 +273,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 11h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 12h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -309,13 +311,13 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ## YouTube Videos: "bitcoin"
 
-**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
+**[WARNING: Crypto in 2026 is About to Get Absurd..](https://www.youtube.com/watch?v=nak-TIrj4vA)**
 
-This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
+WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 Thomas Kralow
+📺 Altcoin Daily
 
-👁️ 17K • 👍 2K • 💬 58 • ⏱️ 8:17 • 17h ago
+👁️ 37K • 👍 2K • 💬 435 • ⏱️ 14:21 • 8h ago
 
 ---
 
@@ -325,7 +327,7 @@ Michael Saylor joins the show for a conversation on Bitcoin, power, and the trea
 
 📺 What Bitcoin Did
 
-👁️ 49K • 👍 3K • 💬 1K • ⏱️ 2:04:54 • 16h ago
+👁️ 55K • 👍 3K • 💬 1K • ⏱️ 2:04:54 • 17h ago
 
 ---
 
@@ -339,13 +341,23 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 ---
 
+**[Fed Under Siege📉Crypto Market Update](https://www.youtube.com/watch?v=6db7n99C-bA)**
+
+The Justice Department investigation into Federal Reserve Chairman Jerome Powell is sparking backlash from former Federal ...
+
+📺 Paul Barron Network
+
+👁️ 22K • 👍 1K • 💬 187 • ⏱️ 11:08 • 10h ago
+
+---
+
 **[why i&#39;m 100% convinced bitcoin is going to explode here . . .](https://www.youtube.com/watch?v=J9oEalGFY2A)**
 
 Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
 📺 Tyler S
 
-👁️ 12K • 👍 884 • 💬 472 • ⏱️ 7:34 • 11h ago
+👁️ 13K • 👍 934 • 💬 474 • ⏱️ 7:34 • 12h ago
 
 ---
 
@@ -355,27 +367,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 343 • ⏱️ 41:26 • 15h ago
-
----
-
-**[WARNING: Crypto in 2026 is About to Get Absurd..](https://www.youtube.com/watch?v=nak-TIrj4vA)**
-
-WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
-
-📺 Altcoin Daily
-
-👁️ 27K • 👍 2K • 💬 377 • ⏱️ 14:21 • 7h ago
-
----
-
-**[Fed Under Siege📉Crypto Market Update](https://www.youtube.com/watch?v=6db7n99C-bA)**
-
-The Justice Department investigation into Federal Reserve Chairman Jerome Powell is sparking backlash from former Federal ...
-
-📺 Paul Barron Network
-
-👁️ 20K • 👍 1K • 💬 180 • ⏱️ 11:08 • 9h ago
+👁️ 31K • 👍 1K • 💬 345 • ⏱️ 41:26 • 15h ago
 
 ---
 
@@ -385,27 +377,35 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Benjamin Cowen
 
-👁️ 56K • 👍 4K • 💬 151 • ⏱️ 10:58 • 1d ago
+👁️ 57K • 👍 4K • 💬 151 • ⏱️ 10:58 • 1d ago
 
 ---
 
-**[This Is What Happens When Bitcoin Goes Parabolic!](https://www.youtube.com/watch?v=BGGKFiXqbh4)**
+**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
 
-Bitcoin's price explosion is changing more than portfolios — it's rewriting global power dynamics. As companies and nations ...
+This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
 
-📺 Simply Bitcoin
+📺 Thomas Kralow
 
-👁️ 31K • 👍 2K • 💬 173 • ⏱️ 17:17 • 2d ago
+👁️ 17K • 👍 3K • 💬 58 • ⏱️ 8:17 • 17h ago
 
 ---
 
-**[Trump Threatens Powell With Criminal Action! [What This Means For Bitcoin]](https://www.youtube.com/watch?v=qQ9Clv1qaB8)**
+**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=XAIerBMY1Nc)**
 
-Donald Trump has escalated his conflict with Fed Chair Jerome Powell, pushing it beyond politics and into legal territory. For the ...
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
 
-📺 Crypto Banter
+📺 Road To $1 Million USD
 
-👁️ 20K • 👍 1K • 💬 51 • ⏱️ 32:17 • 15h ago
+👁️ 5K • 👍 218 • 💬 118 • ⏱️ 7:14 • 1d ago
+
+---
+
+**[😭WORST WEEK FOR CRYPTO AND IT CAN GET WORSE #crypto #cryptocurrency #bitcoin #zcash](https://www.youtube.com/watch?v=QDVY7HgBdIA)**
+
+📺 CryptoWendyO
+
+👁️ 9K • 👍 507 • 💬 42 • ⏱️ 1:14 • 1d ago
 
 ---
 

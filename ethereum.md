@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T06:36:18.732961+00:00'
+updated: '2026-01-13T07:26:26.329592+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 06:36 UTC  
+**Last Updated:** January 13, 2026 at 07:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,41 +36,57 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,145.21
+### $3,127.55
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.1%  
-**30d:** +5.7%  
-**90d:** -19.5%  
-**1y:** -2.8%  
+**24h:** +0.3%  
+**7d:** -1.3%  
+**30d:** +5.4%  
+**90d:** -19.7%  
+**1y:** -3.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.51B
+**Market Cap:** $376.93B
 Rank #2
 
 **Circulating Supply:** 120,694,706 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-36.8%
 
 **All-Time Low:** $0.43
-+718590.7%
++721431.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion January 13, 2026](https://www.reddit.com/r/ethereum/comments/1qbjlpk/daily_general_discussion_january_13_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Welcome to 2026!](https://www.reddit.com/r/ethereum/comments/1qbiyab/welcome_to_2026/)**
 
 Ethereum did a lot in 2025: gas limits increased, blob count increased, node software quality improved, zkEVMs blasted through their performance milestones, and with zkEVMs and PeerDAS ethereum made its largest step toward being a fundamentally new and more powerful kind of blockchain (more on this later) But we have a challenge: Ethereum needs to do more to meet its own stated goals. Not the quest of "winning the next meta" regardless of whether it's tokenized dollars or political memecoins, not arbitrarily convincing people to help us fill up blockspace to make ETH ultrasound again, but the mission: To build the world computer that serves as a central infrastructure piece of a more free and open internet. We're building decentralized applications. Applications that run without fraud, censorship or third-party interference. Applications that pass the walkaway test: they keep running even if the original developers disappear. Applications where if you're a user, you don't even notice if Cloudflare goes down - or even if all of Cloudflare gets hacked by North Korea. Applications whose stability transcends the rise and fall of companies, ideologies and political parties. And applications that protect your privacy. All this - for finance, and also for identity, governance and whatever other civilizational infrastructure people want to build. These properties sound radical, but we must remember that a generation ago any wallet, kitchen appliance, book or car would fulfill every single one of them. Today, all of the above are by default becoming subscription services, consigning you to permanent dependence on some centralized overlord. Ethereum is the rebellion against this. To achieve this, it needs to be (i) usable, and usable at scale, and (ii) actually decentralized. This needs to happen at both (a) the blockchain layer, including the software we use to run and talk to the blockchain, and (b) the application layer. All of these pieces must be improved - they are already being improved, but they must be improved more. Fortunately, we have powerful tools on our side - but we need to apply them, and we will. Wishing everyone an exciting 2026. Milady.
+
+2h ago
+
+---
+
+**[Ethereum itself must pass the walkaway test.](https://www.reddit.com/r/ethereum/comments/1qbj1wd/ethereum_itself_must_pass_the_walkaway_test/)**
+
+Ethereum is meant to be a home for trustless and trust-minimized applications, whether in finance, governance or elsewhere. It must support applications that are more like tools - the hammer that once you buy it's yours - than like services that lose all functionality once the vendor loses interest in maintaining them (or worse, gets hacked or becomes value-extractive). Even when applications do have functionality that depends on a vendor, Ethereum can help reduce those dependencies as much as possible, and protect the user as much as possible in those cases where the dependencies fail. But building such applications is not possible on a base layer which itself depends on ongoing updates from a vendor in order to continue being usable - even if that "vendor" is the all core devs process. Ethereum the blockchain must have the traits that we strive for in Ethereum's applications. Hence, Ethereum itself must pass the walkaway test. This means that Ethereum must get to a place where we can ossify if we want to. We do not have to stop making changes to the protocol, but we must get to a place where Ethereum's value proposition does not strictly depend on any features that are not in the protocol already. This includes the following: Full quantum-resistance. We should resist the trap of saying "let's delay quantum-resistance until the last possible moment in the name of ekeing out more efficiencies for a while longer". Individual users have that right, but the protocol should not. Being able to say "Ethereum's protocol, as it stands today, is cryptographically safe for a hundred years" is something we should strive to get to as soon as possible, and insist on as a point of pride. An architecture that can expand to sufficient scalability. The protocol needs to have the properties that allow it to expand to many thousands of TPS over time, most notably ZK-EVM validation and data sampling through PeerDAS. Ideally, we get to a point where further scaling is done through "parameter only" changes - and ideally those changes are not BPO-style forks, but rather are made with the same validator voting mechanism we use for the gas limit. A state architecture that can last decades. This means deciding, and implementing, whatever form of partial statelessness and state expiry will let us feel comfortable letting Ethereum run with thousands of TPS for decades, without breaking sync or hard disk or I/O requirements. It also means future-proofing the tree and storage types to work well with this long-term environment. An account model that is general-purpose (this is "full account abstraction": move away from enshrined ECDSA for signature validation) A gas schedule that we are confident is free of DoS vulnerabilities, both for execution and for ZK-proving A PoS economic model that, with all we have learned over the past half decade of proof of stake in Ethereum and full decade beyond, we are confident can last and remain decentralized for decades, and supports the usefulness of ETH as trustless collateral (eg. in governance-minimized ETH-backed stablecoins) A block building model that we are confident will resist centralization pressure and guarantee censorship resistance even in unknown future environments Ideally, we do the hard work over the next few years, to get to a point where in the future almost all future innovation can happen through client optimization, and get reflected in the protocol through parameter changes. Every year, we should tick off at least one of these boxes, and ideally multiple. Do the right thing once, based on knowledge of what is truly the right thing (and not compromise halfway fixes), and maximize Ethereum's technological and social robustness for the long term. Ethereum goes hard. This is the gwei.
 
 1h ago
 
@@ -80,7 +96,15 @@ Ethereum did a lot in 2025: gas limits increased, blob count increased, node sof
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 11h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 12h ago
+
+---
+
+**[On ZK-EVMs](https://www.reddit.com/r/ethereum/comments/1qbiyl2/on_zkevms/)**
+
+Now that ZKEVMs are at alpha stage (production-quality performance, remaining work is safety) and PeerDAS is live on mainnet, it's time to talk more about what this combination means for Ethereum. These are not minor improvements; they are shifting Ethereum into being a fundamentally new and more powerful kind of decentralized network. To see why, let's look at the two major types of p2p network so far: BitTorrent (2000): huge total bandwidth, highly decentralized, no consensus Bitcoin (2009): highly decentralized, consensus, but low bandwidth - because it’s not “distributed” in the sense of work being split up, it’s replicated Now, Ethereum with PeerDAS (2025) and ZK-EVMs (expect small portions of the network using it in 2026), we get: decentralized, consensus and high bandwidth The trilemma has been solved - not on paper, but with live running code, of which one half (data availability sampling) is on mainnet today, and the other half (ZK-EVMs) is production-quality on performance today - safety is what remains. This was a 10-year journey (see the first commit of my original post on DAS here: github.com/ethereum/research/… , and ZK-EVM attempts started in ~2020), but it's finally here. Over the next ~4 years, expect to see the full extent of this vision roll out: In 2026, large non-ZKEVM-dependent gas limit increases due to BALs and ePBS, and we'll see the first opportunities to run a ZKEVM node In 2026-28, gas repricings, changes to state structure, exec payload going into blobs, and other adjustments to make higher gas limits safe In 2027-30, large further gas limit increases, as ZKEVM becomes the primary way to validate blocks on the network A third piece of this is distributed block building. A long-term ideal holy grail is to get to a future where the full block is never constituted in one single place. This will not be necessary for a long time, but IMO it is worth striving for us at least have the capability to do that. Even before that point, we want the meaningful authority in block building to be as distributed as possible. This can be done either in-protocol (eg. maybe we figure out how to expand FOCIL to make it a primary channel for txs), or out-of-protocol with distributed builder marketplaces. This reduces risk of centralized interference with real-time transaction inclusion, AND it creates a better environment for geographical fairness. Onward.
+
+2h ago
 
 ---
 
@@ -88,7 +112,7 @@ South Korea just opened the floodgates for institutional crypto adoption. Huge f
 
 Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-10h ago
+11h ago
 
 ---
 
@@ -96,15 +120,7 @@ Wondering how effective and reliable XMR / Monero is to contribute to ETH privac
 
 Connect with other degens attending ETH Denver and discover resources for ETH Denver.
 
-🔗 [chaching.social](https://chaching.social/communities/eth-denver-2026?id=jaQBRd74TwKxDc65akj0) • 6h ago
-
----
-
-**[Ethereum itself must pass the walkaway test.](https://www.reddit.com/r/ethereum/comments/1qbj1wd/ethereum_itself_must_pass_the_walkaway_test/)**
-
-Ethereum is meant to be a home for trustless and trust-minimized applications, whether in finance, governance or elsewhere. It must support applications that are more like tools - the hammer that once you buy it's yours - than like services that lose all functionality once the vendor loses interest in maintaining them (or worse, gets hacked or becomes value-extractive). Even when applications do have functionality that depends on a vendor, Ethereum can help reduce those dependencies as much as possible, and protect the user as much as possible in those cases where the dependencies fail. But building such applications is not possible on a base layer which itself depends on ongoing updates from a vendor in order to continue being usable - even if that "vendor" is the all core devs process. Ethereum the blockchain must have the traits that we strive for in Ethereum's applications. Hence, Ethereum itself must pass the walkaway test. This means that Ethereum must get to a place where we can ossify if we want to. We do not have to stop making changes to the protocol, but we must get to a place where Ethereum's value proposition does not strictly depend on any features that are not in the protocol already. This includes the following: Full quantum-resistance. We should resist the trap of saying "let's delay quantum-resistance until the last possible moment in the name of ekeing out more efficiencies for a while longer". Individual users have that right, but the protocol should not. Being able to say "Ethereum's protocol, as it stands today, is cryptographically safe for a hundred years" is something we should strive to get to as soon as possible, and insist on as a point of pride. An architecture that can expand to sufficient scalability. The protocol needs to have the properties that allow it to expand to many thousands of TPS over time, most notably ZK-EVM validation and data sampling through PeerDAS. Ideally, we get to a point where further scaling is done through "parameter only" changes - and ideally those changes are not BPO-style forks, but rather are made with the same validator voting mechanism we use for the gas limit. A state architecture that can last decades. This means deciding, and implementing, whatever form of partial statelessness and state expiry will let us feel comfortable letting Ethereum run with thousands of TPS for decades, without breaking sync or hard disk or I/O requirements. It also means future-proofing the tree and storage types to work well with this long-term environment. An account model that is general-purpose (this is "full account abstraction": move away from enshrined ECDSA for signature validation) A gas schedule that we are confident is free of DoS vulnerabilities, both for execution and for ZK-proving A PoS economic model that, with all we have learned over the past half decade of proof of stake in Ethereum and full decade beyond, we are confident can last and remain decentralized for decades, and supports the usefulness of ETH as trustless collateral (eg. in governance-minimized ETH-backed stablecoins) A block building model that we are confident will resist centralization pressure and guarantee censorship resistance even in unknown future environments Ideally, we do the hard work over the next few years, to get to a point where in the future almost all future innovation can happen through client optimization, and get reflected in the protocol through parameter changes. Every year, we should tick off at least one of these boxes, and ideally multiple. Do the right thing once, based on knowledge of what is truly the right thing (and not compromise halfway fixes), and maximize Ethereum's technological and social robustness for the long term. Ethereum goes hard. This is the gwei.
-
-1h ago
+🔗 [chaching.social](https://chaching.social/communities/eth-denver-2026?id=jaQBRd74TwKxDc65akj0) • 7h ago
 
 ---
 
@@ -132,22 +148,6 @@ I agree with maybe 60% of this, but one bit that is particularly important to hi
 
 ---
 
-**[Increasing bandwidth is safer than reducing latency](https://www.reddit.com/r/ethereum/comments/1qbj03e/increasing_bandwidth_is_safer_than_reducing/)**
-
-With PeerDAS and ZKPs, we know how to scale, and potentially we can scale thousands of times compared to the status quo. The numbers become far more favorable than before (eg. see analysis here, pre and post-sharding https://vitalik.eth.limo/general/2021/05/23/scaling.html ). There is no law of physics that prevents combining extreme scale with decentralization. Reducing latency is not like this. We are fundamentally constrained by speed of light, and on top of that we are also constrained by: Need to support nodes (especially attesters) in rural environments, worldwide, and in home or commercial environments outside of data centers. Need to support censorship-resistance and anonymity for nodes (especially proposers and attesters). The fact that running a node in a non-super-concentrated location must be not only possible, but also economically viable. If staking outside NYC drops your revenues by 10%, over time more and more people will stake in NYC. Ethereum itself must pass the walkaway test, and so we cannot build a blockchain that depends on constant social re-juggling to ensure decentralization. Economics cannot handle the entire load, but it must handle most. Now, we can decrease latency quite a bit from the present-day situation without making tradeoffs. In particular: P2P improvements (esp erasure coding) can decrease message propagation times without requiring individual nodes to have lower bandwidth An available chain with a smaller node count per slot (eg. 512 instead of 30,000) can remove the need for an aggregation step, allowing the entire hot path to happen in one subnet This plausibly buys us 3-6x. Hence, I think moderate latency decreases, to a 2-4s level, are very much in the realm of possibility. But Ethereum is NOT the world video game server, it is the world heartbeat. If you need to build applications that are faster than the heartbeat, they will need to have offchain components. This is a big part of why L2s will continue to have a role even in a greatly scaled Ethereum (there are other reasons too, around VM customization, and around applications that need even more scale). Ultimately, AI will necessitate applications that go faster than the heartbeat no matter what we do. If an AI can think 1000x faster than humans, then to the AI, the "subjective speed of light" is only 300 km/s. Hence, it can talk near-instantly within the scope of a city, but not further. As a result, there will inevitably be AI-focused applications that will need "city chains", potentially even chains localized to a single building. These will have to be L2s. And on the flipside, it would be too much of a cost to make it viable to run a staking node on Mars. Even Bitcoin does not strive for this. Ultimately, Ethereum belongs to Terra, and its L2s will serve both hyper-localized needs in its cities, and hyper-scaled needs planet-wide, and users on other worlds.
-
-1h ago
-
----
-
-**[Linux as a north star](https://www.reddit.com/r/ethereum/comments/1qbiz8k/linux_as_a_north_star/)**
-
-One metaphor for Ethereum is BitTorrent, and how that p2p network combines decentralization and mass scale. Ethereum's goal is to do the same thing but with consensus. Another metaphor for Ethereum is Linux. Linux is free and open source software, and does not compromise on this Linux is quietly depended on by billions of people and enterprises worldwide. Governments regularly use it. There are many operating systems based on Linux that pursue mass adoption There are Linux distributions (eg. Arch) that are highly purist, minimalistic and technologically beautiful, and focus on making the user feel powerful, not comfortable (Actually, BitTorrent is depended on by enterprises too: many businesses and even governments (!!) use it to distribute large files to their users https://www.makeuseof.com/tag/8-legal-uses-for-bittorrent-youd-be-surprised ) We must make sure that Ethereum L1 works as the financial (and ultimately identity, social, governance...) home for individuals and organizations who want the higher level of autonomy, and give them access to the full power of the network without dependence on intermediaries. At the same time, what Linux shows is that this is fully compatible with providing value to very large numbers of people, and even being loved and trusted by enterprises worldwide. Many enterprises in fact desperately want to build on an open and resilient ecosystem - what we call trustlessness, they call prudent counterparty risk minimization. This is the gwei.
-
-1h ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -170,7 +170,7 @@ CoinDesk • 1d ago
 
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Block • 18h ago
 
 Will a powerful new catalyst send Ethereum soaring this year?
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -186,21 +186,7 @@ The Motley Fool • 2h ago
 
 The Bank of Italy has published a working paper exploring how to handle a loss of faith in a public blockchain, with Ethereum as one example. It sees it
 
-ledgerinsights.com • 13h ago
-
----
-
-**[A hidden "yield war" has begun in Ethereum ETFs, forcing issuers to finally pay you for holding](https://cryptoslate.com/eth-etfs-just-paid-a-dividend-grayscales-9-4m-staking-test/)**
-
-Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
-
-CryptoSlate • 1d ago
-
----
-
-**[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
-
-thedefiant.io • 15h ago
+ledgerinsights.com • 14h ago
 
 ---
 
@@ -212,6 +198,20 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
+**[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
+
+thedefiant.io • 16h ago
+
+---
+
+**[A hidden "yield war" has begun in Ethereum ETFs, forcing issuers to finally pay you for holding](https://cryptoslate.com/eth-etfs-just-paid-a-dividend-grayscales-9-4m-staking-test/)**
+
+Grayscale’s just paid $9.4M to ETHE holders, turning Ethereum yield into an ETF-style “dividend.” Here’s what this changes.
+
+CryptoSlate • 1d ago
+
+---
+
 **[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
 
 Ethereum's very soul is up for debate.
@@ -220,11 +220,9 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine stakes $3.9 billion in Ethereum, hits nearly 70% of accumulation goal](https://cryptobriefing.com/bitmine-ethereum-staked-update-70-percent-accumulation-goal/)**
+**[Here’s XRP Price If XRP Reaches Ethereum’s Market Cap Today](https://www.binance.com/en/square/post/34936368127769)**
 
-Bitmine has staked $3.9 billion in Ethereum, cements its position as a leading crypto treasury powerhouse, aiming to own 5% of all ETH.
-
-Crypto Briefing • 15h ago
+Binance • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 58 • ⏱️ 8:17 • 17h ago
+👁️ 17K • 👍 3K • 💬 58 • ⏱️ 8:17 • 17h ago
 
 ---
 
@@ -248,7 +246,7 @@ Join the LTMP group for $1 per day for your first month with code "january" HERE
 
 📺 Short The Vix
 
-👁️ 4K • 👍 281 • 💬 30 • ⏱️ 12:31 • 9h ago
+👁️ 6K • 👍 313 • 💬 36 • ⏱️ 12:31 • 10h ago
 
 ---
 
@@ -258,7 +256,17 @@ Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays v
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 19 • 💬 5 • ⏱️ 2:01 • 9h ago
+👁️ 4K • 👍 22 • 💬 5 • ⏱️ 2:01 • 10h ago
+
+---
+
+**[BMNR Stock &amp; Ethereum Technical Analysis Prediction: Tom Lee Predicts $9,000 ETH Rally in Early 2026](https://www.youtube.com/watch?v=poWPZoP4hZQ)**
+
+ethereum #bmnr #tomlee Total staked Ethereum now exceeds 1.3 million ETH Another 154208 ETH added recently Total staked ...
+
+📺 alliseeisW 
+
+👁️ 465 • 👍 47 • 💬 5 • ⏱️ 12:40 • 3h ago
 
 ---
 
@@ -268,17 +276,27 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 1K • 💬 270 • ⏱️ 14:17 • 17h ago
+👁️ 12K • 👍 1K • 💬 253 • ⏱️ 14:17 • 18h ago
 
 ---
 
-**[BITCOIN REPEATING HISTORY: Don&#39;t Be FOOLED!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eTLBnzBc7D4)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=aPqyuxjpY10)**
 
-BITCOIN REPEATING HISTORY: Don't Be FOOLED!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 5K • 👍 220 • 💬 254 • ⏱️ 18:43 • 9h ago
+👁️ 337 • 👍 45 • 💬 2 • ⏱️ 4:24 • 1h ago
+
+---
+
+**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
+
+Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
+
+📺 Michaël van de Poppe
+
+👁️ 4K • 👍 250 • 💬 36 • ⏱️ 12:34 • 1d ago
 
 ---
 
@@ -288,7 +306,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 585 • 💬 91 • ⏱️ 19:18 • 15h ago
+👁️ 17K • 👍 652 • 💬 95 • ⏱️ 19:18 • 16h ago
 
 ---
 
@@ -298,7 +316,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 13K • 👍 274 • 💬 336 • ⏱️ 13:48 • 2d ago
+👁️ 13K • 👍 275 • 💬 314 • ⏱️ 13:48 • 2d ago
 
 ---
 
@@ -309,26 +327,6 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 📺 Digital Asset News
 
 👁️ 16K • 👍 805 • 💬 87 • ⏱️ 24:05 • 2d ago
-
----
-
-**[Ethereum Breakdown Looks Inevitable: Crash Incoming?](https://www.youtube.com/watch?v=j5q9B3GFsJk)**
-
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 305 • 👍 10 • 💬 8 • ⏱️ 5:00 • 10h ago
-
----
-
-**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
-
-Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
-
-📺 Michaël van de Poppe
-
-👁️ 4K • 👍 247 • 💬 36 • ⏱️ 12:34 • 1d ago
 
 ---
 
