@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T22:23:15.568081+00:00'
+updated: '2026-01-13T22:48:13.643067+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 22:23 UTC  
+**Last Updated:** January 13, 2026 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,22 +45,6 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ---
 
-**[Elon Musk’s ex-girlfriend: ‘X is amplifying predatory and abusive men’](https://www.reddit.com/r/artificial/comments/1qc2r39/elon_musks_exgirlfriend_x_is_amplifying_predatory/)**
-
-Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘violated’ when the Grok AI chatbot generated sexualised images of her
-
-🔗 [thetimes.com](https://www.thetimes.com/article/0ecbb5ed-29b0-4d1b-bbd5-c613ec65e572?shareToken=206961617deb3028462bb8fb5f780710) • 1h ago
-
----
-
-**[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.reddit.com/r/artificial/comments/1qbi32n/pentagon_is_embracing_musks_grok_ai_chatbot_as_it/)**
-
-Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
-
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 17h ago
-
----
-
 **[McKinsey CEO Bob Sternfels says the firm now has 60,000 employees: 25,000 of them are AI agents](https://www.reddit.com/r/artificial/comments/1qbzrwn/mckinsey_ceo_bob_sternfels_says_the_firm_now_has/)**
 
 McKinsey & Company CEO Bob Sternfels says he wants every employee working alongside an AI agent within a year and a half.
@@ -69,11 +53,27 @@ McKinsey & Company CEO Bob Sternfels says he wants every employee working alongs
 
 ---
 
+**[Elon Musk’s ex-girlfriend: ‘X is amplifying predatory and abusive men’](https://www.reddit.com/r/artificial/comments/1qc2r39/elon_musks_exgirlfriend_x_is_amplifying_predatory/)**
+
+Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘violated’ when the Grok AI chatbot generated sexualised images of her
+
+🔗 [thetimes.com](https://www.thetimes.com/article/0ecbb5ed-29b0-4d1b-bbd5-c613ec65e572?shareToken=206961617deb3028462bb8fb5f780710) • 2h ago
+
+---
+
+**[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.reddit.com/r/artificial/comments/1qbi32n/pentagon_is_embracing_musks_grok_ai_chatbot_as_it/)**
+
+Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
+
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 18h ago
+
+---
+
 **[Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.](https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/)**
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-10h ago
+11h ago
 
 ---
 
@@ -143,39 +143,39 @@ CNBC • 1d ago
 
 ---
 
-**[Apple and Google are teaming up on AI. What it means for both stocks](https://www.cnbc.com/2026/01/13/apple-and-google-are-teaming-up-on-ai-what-it-means-for-both-stocks.html)**
+**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
 
-Wall Street analysts applauded the new Apple-Alphabet deal as one that would bolster the investment case for both companies.
-
-CNBC • 2h ago
+The New York Times • 1d ago
 
 ---
 
-**[AI Chip Startup Etched Raises $500 Million to Take on Nvidia](https://www.bloomberg.com/news/articles/2026-01-13/ai-chip-startup-etched-raises-500-million-to-take-on-nvidia)**
+**[FTC accuses AI search engine of 'rampant consumer deception'](https://www.npr.org/2026/01/13/nx-s1-5676150/ftc-lawsuit-just-answers-consumer-deception)**
 
-Bloomberg.com • 1h ago
+Federal officials say a company that operates hundreds of landing pages for AI answers is running an operation that has duped thousands of users, who were unable to stop costly monthly charges.
 
----
-
-**[Utah Approves AI Prescriptions Drugs. How AI Is Saving Time, Cutting Costs - and Why Molecule.ai's Drug Discovery Platform Matters More Than Ever](https://finance.yahoo.com/news/utah-approves-ai-prescriptions-drugs-210000403.html)**
-
-Gaithersburg, Maryland--(Newsfile Corp. - January 13, 2026) - Shuttle Pharmaceuticals Holdings, Inc. (NASDAQ: SHPH) ("Shuttle Pharma" or the "Company"), applauds the state of Utah which has become the first state in the United States to allow artificial intelligence systems to authorize prescription refills without direct physician involvement — a regulatory first that signals how AI is beginning to reduce healthcare costs, eliminate delays, and expand access to care.The pilot program, launched.
-
-Yahoo Finance • 1h ago
+NPR • 1h ago
 
 ---
 
-**[Salesforce and Adobe see their stocks slide as AI fears intensify](https://www.marketwatch.com/story/salesforce-and-adobe-see-their-stocks-slide-as-ai-fears-intensify-d0079df7?gaa_at=eafs&gaa_n=AWEtsqc-BpIASQfYGLxs3Dz8C2AviTf2MK0n9nnoXISkhJeE1Az2E-aa9l7e&gaa_ts=6966c033&gaa_sig=JWxd2pmkEaOCdkypxR1a80V1D_JTwBx6C_u1Qr1SFJoBDbs6b3dpf7MiaiGuvF-gUPgXsMA8HN7W3Bo3Vr7LiA%3D%3D)**
+**[Salesforce and Adobe see their stocks slide as AI fears intensify](https://www.marketwatch.com/story/salesforce-and-adobe-see-their-stocks-slide-as-ai-fears-intensify-d0079df7?gaa_at=eafs&gaa_n=AWEtsqf7ti_i5O8Z6mYpc3dhhHSaMHTy-Y_UlrLCNl-c_lrtn8PIjUgrWuQQ&gaa_ts=6966cf17&gaa_sig=lbjfEpgmmK14CCPvytpAoqEjPvtyZWjwmB1PvVxloO64eKL8ITl73qPTcm5Az3ZR3wHUKmWDC1V6kMRukxv8jA%3D%3D)**
 
-MarketWatch • 48m ago
+MarketWatch • 1h ago
 
 ---
 
-**[Building Community-First AI Infrastructure](https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/)**
+**[East Lansdowne police begin using AI cameras to track criminals in public spaces](https://www.nbcphiladelphia.com/news/local/east-lansdowne-police-ai-cameras/4332621/)**
 
-Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
+Cameras using artificial intelligence are being installed in East Lansdowne, giving police the ability to track people's movements in real time.
 
-The Official Microsoft Blog • 8h ago
+NBC10 Philadelphia • 1h ago
+
+---
+
+**[‘Godfather of AI’ says the technology will create massive unemployment and send profits soaring — ‘that is the capitalist system’](https://finance.yahoo.com/news/godfather-ai-says-technology-create-184754671.html)**
+
+"We are at a point in history where something amazing is happening, and it may be amazingly good, and it may be amazingly bad."
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -187,11 +187,11 @@ Fortune • 8h ago
 
 ---
 
-**[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
+**[Salesforce releases updated Slackbot powered by Anthropic's AI model](https://www.cnbc.com/2026/01/13/salesforce-releases-updated-slackbot-powered-by-anthropics-ai-model.html)**
 
-Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
+Slack is upgrading Slackbot, its personal assistant, with generative AI.
 
-The Guardian • 6h ago
+CNBC • 9h ago
 
 ---
 
@@ -201,13 +201,13 @@ The Guardian • 6h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1259 • 💬 1586 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1260 • 💬 1586 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
 **[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 389 • 💬 300 • 3h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 467 • 💬 375 • 4h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -215,7 +215,7 @@ The Guardian • 6h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 325 • 💬 324 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 326 • 💬 325 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -223,7 +223,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 287 • 💬 85 • 3h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 305 • 💬 91 • 4h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -231,7 +231,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 215 • 💬 151 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 215 • 💬 157 • 23h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -255,21 +255,21 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 175 • 💬 150 • 10h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 177 • 💬 162 • 10h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+
+---
+
+**[Games Workshop bans staff from using AI](https://news.ycombinator.com/item?id=46607681)**
+
+Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
+
+⬆️ 175 • 💬 89 • 2h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
 **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
 
-⬆️ 138 • 💬 99 • 12h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
-
----
-
-**[Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir](https://news.ycombinator.com/item?id=46592344)**
-
-Let your AI go full send. Your home directory stays home. - finbarr/yolobox
-
-⬆️ 117 • 💬 88 • 1d ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 139 • 💬 100 • 13h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
 
 ---
 
@@ -323,7 +323,7 @@ British regulators are investigating X for lewd AI images generated by Grok, the
 
 📺 CBS News
 
-👁️ 17K • 👍 198 • 💬 108 • ⏱️ 3:51 • 7h ago
+👁️ 17K • 👍 198 • 💬 108 • ⏱️ 3:51 • 8h ago
 
 ---
 
@@ -363,7 +363,7 @@ U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in B
 
 📺 DWS News
 
-👁️ 41K • 👍 564 • 💬 7 • ⏱️ 8:05 • 15h ago
+👁️ 41K • 👍 564 • 💬 7 • ⏱️ 8:05 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ For original short-selling research and much more check out our website: https:/
 
 📺 Wall Street Millennial
 
-👁️ 174K • 👍 6K • 💬 1K • ⏱️ 17:02 • 1d ago
+👁️ 174K • 👍 6K • 💬 1K • ⏱️ 17:02 • 2d ago
 
 ---
 
@@ -643,7 +643,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 5h ago
+⭐ 8.3k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 4h ago
+⭐ 2.3k • 🔱 141 • 5h ago
 
 ---
 

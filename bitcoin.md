@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T22:23:15.576519+00:00'
+updated: '2026-01-13T22:48:13.651624+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 22:23 UTC  
+**Last Updated:** January 13, 2026 at 22:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,407.02
+### $95,502.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.2%  
-**7d:** +3.2%  
-**30d:** +9.1%  
-**90d:** -12.7%  
-**1y:** -2.3%  
+**24h:** +4.8%  
+**7d:** +4.7%  
+**30d:** +10.6%  
+**90d:** -11.4%  
+**1y:** -0.9%  
 
 ---
 
@@ -77,6 +77,20 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
+
+3h ago
+
+---
+
+**[$95,000](https://www.reddit.com/r/Bitcoin/comments/1qc57rs/95000/)**
+
+Big jump in price today!
+
+32m ago
+
+---
+
 **[This message was embedded in Bitcoin's 666,666th block.](https://www.reddit.com/r/Bitcoin/comments/1qc1p2d/this_message_was_embedded_in_bitcoins_666666th/)**
 
 Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transactions Block reward: 6.25 BTC + fees
@@ -90,14 +104,6 @@ Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transac
 Bitcoin is going mainstream 🚀
 
 7h ago
-
----
-
-**[Every crypto cycle in one chart](https://www.reddit.com/r/Bitcoin/comments/1qbpjbf/every_crypto_cycle_in_one_chart/)**
-
-I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
-
-10h ago
 
 ---
 
@@ -129,27 +135,29 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 ---
 
-**[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
-
-11h ago
-
----
-
-**[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
-
-2h ago
-
----
-
 **[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
 
 5h ago
 
 ---
 
+**[That was kinda crazy](https://www.reddit.com/r/Bitcoin/comments/1qc5ams/that_was_kinda_crazy/)**
+
+I was just about to buy and suddenly the candle goes vertical and no joke it went from 95 to over 96 in seconds (on kraken pro anyway).
+
+29m ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqepl1DjqIqU1wADSDhfOCm6k5HssWfe4EayJB15NEiUC3a326E_kdrd&gaa_ts=6966cf19&gaa_sig=3fxNifqzZHFXLoHlvexMl5l379RZcKnJehZcsfdIiYZfrGGogYdcXXM0osXGbgPvqVHX9o_mQuNNAl0ZbZBWSQ%3D%3D)**
+
+Barron's • 11h ago
+
+---
 
 **[BTC Price News: Bitcoin rises to key level while analyst sets $100,000 target](https://www.coindesk.com/markets/2026/01/13/bitcoin-rises-2-to-usd93-500-after-inflation-data-increased-chances-of-further-rate-cuts)**
 
@@ -175,9 +183,19 @@ TradingView — Track All Markets • 7h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqdGYaOTLDWksfV-SZ19HBtSNgU264Zmnz08xcjuZA4wG3Pj1hSxjLg2&gaa_ts=6966c035&gaa_sig=e95GTt6uNlFoPsc2VTq7kFEPX_fx5ykoQo49Chcf9hr-WYwc4ElYABHkZn19lZU4nRk0pNQYE7-gMWd6yaZwrg%3D%3D)**
+**[Bitcoin Short-Term Holders Near A Profit Flip: A Key Level Comes Into Focus](https://www.tradingview.com/news/newsbtc:416605423094b:0-bitcoin-short-term-holders-near-a-profit-flip-a-key-level-comes-into-focus/)**
 
-Barron's • 11h ago
+Bitcoin has started the year on firmer footing, recovering from late-2025 weakness and pushing back toward the $92,000 level. Price action has improved, and short-term momentum has turned constructive, but conviction remains fragile. Despite the rebound, Bitcoin continues to trade within a broader…
+
+TradingView — Track All Markets • 47m ago
+
+---
+
+**[JPMorgan earnings, Intel, bitcoin above $94K: Market Takeaways](https://finance.yahoo.com/video/jpmorgan-earnings-intel-bitcoin-above-221500740.html)**
+
+US stocks (^DJI, ^IXIC, ^GSPC) fell in Tuesday's trading session following the release of December's Consumer Price Index (CPI) inflation report this morning. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including Big Bank earnings season kicking off with JPMorgan Chase's (JPM) results, Intel (INTC) breaking outside its trading range, and bitcoin (BTC-USD) bouncing back above $94,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+
+Yahoo Finance • 33m ago
 
 ---
 
@@ -187,41 +205,27 @@ CCN.com • 11h ago
 
 ---
 
+**[BTC, ETH news: BlackRock moves $300 million in bitcoin and ether to Coinbase Prime](https://www.coindesk.com/markets/2026/01/13/bitcoin-rose-above-usd92-000-as-blackrock-etf-moved-usd300-million-to-coinbase-prime)**
+
+The asset manager sent 3,290 bitcoin, worth about $298 million, along with 5,692 ether valued near $17.8 million.
+
+CoinDesk • 8h ago
+
+---
+
+**[Bitcoin, Ethereum and Solana Primed for Major Price Run as ETF Volumes Soar in 2026](https://www.tradingview.com/news/zycrypto:84d87733f094b:0-bitcoin-ethereum-and-solana-primed-for-major-price-run-as-etf-volumes-soar-in-2026/)**
+
+Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
+
+TradingView — Track All Markets • 2h ago
+
+---
+
 **[Michael Saylor slams interviewer for questioning Bitcoin treasury model: ‘Ignorant and offensive’](https://www.dlnews.com/articles/markets/michael-saylor-hits-back-at-criticism-of-bitcoin-treasury-model/)**
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
 dlnews.com • 3h ago
-
----
-
-**[VanEck Says Bitcoin Could Hit $53M. Here's What It Would Take](https://finance.yahoo.com/news/vaneck-says-bitcoin-could-hit-204001222.html)**
-
-Bitcoin could reach $53.4 million by 2050, according to VanEck. VanEck said in a Jan. 8 post that in its bull case, Bitcoin captures 20% of international trade and 10% of domestic GDP, sending its value to $53.4 million by...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto Suddenly Braced For A ‘Massive’ Shock As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/01/13/crypto-suddenly-braced-for-a-massive-shock-as-the-bitcoin-price-soars/)**
-
-Forbes • 6h ago
-
----
-
-**[Bitcoin faces fresh test as Fed feud with Trump escalates](https://www.dlnews.com/articles/regulation/bitcoin-faces-fresh-test-as-fed-feud-with-trump-escalates/)**
-
-Jerome Powell described the criminal investigation as politically motivated.  Bitcoin jumped 1% on the news.  Analysts suggest it's a terrific opportunity for Bitcoin to prove its non-sovereign status.
-
-dlnews.com • 1d ago
-
----
-
-**[Bitcoin Price Briefly Jumps Above $92,800 As CPI Meets Forecasts, Powell DOJ Dispute Fuels Safe-Haven Bid](https://bitcoinmagazine.com/markets/bitcoin-price-jumps-above-92500)**
-
-The bitcoin price briefly rose above $92,700 after December U.S. CPI came in at 2.7% year over year, matching expectations and keeping markets focused on the Fed’s policy outlook.
-
-Bitcoin Magazine • 7h ago
 
 ---
 
@@ -365,7 +369,7 @@ The 2026 Bull Run just got a massive booster shot. In today's video, we are brea
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 610 • 💬 60 • ⏱️ 52:06 • 5h ago
+👁️ 6K • 👍 610 • 💬 60 • ⏱️ 52:06 • 6h ago
 
 ---
 
@@ -385,7 +389,7 @@ Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 932 • 💬 91 • ⏱️ 19:27 • 10h ago
+👁️ 17K • 👍 932 • 💬 91 • ⏱️ 19:27 • 11h ago
 
 ---
 
@@ -395,7 +399,7 @@ Michael Saylor Just Doubled Down on Bitcoin! Here's Why That Matters… South Ko
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 291 • 💬 191 • ⏱️ 8:25 • 21h ago
+👁️ 5K • 👍 291 • 💬 191 • ⏱️ 8:25 • 22h ago
 
 ---
 

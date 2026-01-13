@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T22:23:15.586035+00:00'
+updated: '2026-01-13T22:48:13.661072+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 22:23 UTC  
+**Last Updated:** January 13, 2026 at 22:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,21 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-4h ago
+5h ago
 
 ---
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
 19h ago
+
+---
+
+**[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
+
+From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
+
+12h ago
 
 ---
 
@@ -65,14 +73,6 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
 3h ago
-
----
-
-**[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
-
-From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
-
-12h ago
 
 ---
 
@@ -98,13 +98,19 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 **[StackChan, a 100% Open-Source Robot by M5Stack Now Live on Kickstarter!](https://www.reddit.com/r/robotics/comments/1qbr8b5/stackchan_a_100_opensource_robot_by_m5stack_now/)**
 
-8h ago
+9h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
+
+Reuters • 21h ago
+
+---
 
 **[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
 
@@ -122,22 +128,6 @@ Financial Times • 17h ago
 
 ---
 
-**[Are AI robots ready to do household chores?](https://www.bbc.com/news/videos/c5yxk3yznxyo)**
-
-Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
-
-BBC • 8h ago
-
----
-
-**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
-
-Home robots need common sense behavior and a deep understanding of the physical world.
-
-1X | Home Robots • 1d ago
-
----
-
 **[Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/)**
 
 1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.
@@ -146,11 +136,19 @@ TechCrunch • 5h ago
 
 ---
 
-**[UND organizers hope robotics competition's location in Alerus Center will help draw attention to the sport](https://www.grandforksherald.com/news/local/und-organizers-hope-robotics-competitions-location-in-alerus-center-will-help-draw-attention-to-the-sport)**
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
 
-“This is no longer just a kitschy little sport that’s happening,” Andrew Dahlen, UND mechanical engineering lecturer, said.
+Joe Tidy meets robots being trained to tidy up all your mess.
 
-Grand Forks Herald • 2d ago
+BBC • 1d ago
+
+---
+
+**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
+
+Home robots need common sense behavior and a deep understanding of the physical world.
+
+1X | Home Robots • 1d ago
 
 ---
 
@@ -176,11 +174,11 @@ TechRadar • 1d ago
 
 ---
 
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
 
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
 
-The Robot Report • 1h ago
+WBAL-TV • 2d ago
 
 ---
 
@@ -284,7 +282,7 @@ REBUILT Robot Systems Overview | Monday Recap | Ri3D Cranberry Alarm The robot i
 
 📺 FUN Robotics Network
 
-👁️ 8K • 👍 137 • 💬 7 • ⏱️ 27:12 • 18h ago
+👁️ 8K • 👍 137 • 💬 7 • ⏱️ 27:12 • 19h ago
 
 ---
 
