@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-13T17:53:05.448236+00:00'
+updated: '2026-01-13T18:33:09.443782+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 13, 2026 at 17:53 UTC  
+**Last Updated:** January 13, 2026 at 18:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 5h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-10h ago
+11h ago
 
 ---
 
@@ -58,13 +58,13 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-7h ago
+8h ago
 
 ---
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -78,13 +78,13 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 And the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance. The LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result!
 
-23h ago
+1d ago
 
 ---
 
 **[StackChan, a 100% Open-Source Robot by M5Stack Now Live on Kickstarter!](https://www.reddit.com/r/robotics/comments/1qbr8b5/stackchan_a_100_opensource_robot_by_m5stack_now/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -92,7 +92,7 @@ And the best part is that his response is totally organic and unscripted. He was
 
 Does anyone know of any model kits/figures/statues etc. of robots that actually exist? I have always thought the Atlas and Spot robots from Boston Dynamics looked really neat and would love a model of them on my desk. I haven't had luck finding any models that are based on real robots.
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Does anyone know of any model kits/figures/statues etc. of robots that actually 
 
 LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-35m ago
+1h ago
 
 ---
 
@@ -120,7 +120,7 @@ BBC • 1d ago
 
 1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.
 
-TechCrunch • 38m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -128,7 +128,7 @@ TechCrunch • 38m ago
 
 Implementing automation systems requires a lot of planning, time and money
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -136,7 +136,7 @@ Financial Times • 12h ago
 
 WIRobotics, a global robotics company co-led by Co-CEOs Younbaek Lee and Yongjae Kim, announced the successful conclusion of its participation at CES 2026, marking a shift from technology demonstration to the execution phase of global collaboration across both humanoid and wearable robotics.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -144,7 +144,7 @@ Yahoo Finance • 53m ago
 
 The Pentagon plans to deploy Elon Musk's Grok AI across military systems as part of a new AI acceleration strategy announced by Pete Hegseth.
 
-Interesting Engineering • 36m ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -152,7 +152,7 @@ Interesting Engineering • 36m ago
 
 Joe Tidy went to Silicon Valley where they're being trained at speed to fold laundry, load the dishwasher, and clean up after us.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ BBC • 3h ago
 
 China’s Matrix Robotics unveils MATRIX-3, a humanoid robot built to adapt and learn in real-world environments.
 
-Interesting Engineering • 6h ago
+Interesting Engineering • 7h ago
 
 ---
 

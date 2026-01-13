@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T17:53:05.430698+00:00'
+updated: '2026-01-13T18:33:09.425964+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 17:53 UTC  
+**Last Updated:** January 13, 2026 at 18:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the
 
 We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
 
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 1h ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ We are moving from experimentation to deployment while confronting economic and 
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 12h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 13h ago
 
 ---
 
@@ -105,7 +105,7 @@ I used to prep by panic googling at midnight and it often took my whole evening.
 
 While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
 
-10h ago
+11h ago
 
 ---
 
@@ -123,13 +123,13 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
 **[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -137,13 +137,13 @@ The New York Times • 21h ago
 
 Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
 **[What Happens When Apple Turns to Google for AI Technology? We’re About to Find Out](https://www.inc.com/ben-sherry/apple-turns-to-google-for-ai-technology-siri-upgrade/91287433)**
 
-inc.com • 24m ago
+inc.com • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ inc.com • 24m ago
 
 2026 is the year AI companies want to handle your health.
 
-Gizmodo • 17m ago
+Gizmodo • 57m ago
 
 ---
 
@@ -159,13 +159,13 @@ Gizmodo • 17m ago
 
 Growth is fueled by the increasing prevalence of musculoskeletal disorders and a focus on personalized care and minimally invasive procedures Artificial Intelligence (AI)-Based Orthopedic Imaging Market Artificial Intelligence (AI)-Based Orthopedic Imaging Market Dublin, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The "Artificial Intelligence (AI)-Based Orthopedic Imaging Market Report 2025" has been added to ResearchAndMarkets.com's offering.The AI-based orthopedic imaging market is experiencing remarkab
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[AI Startup Sued by Palantir Says Company Wants to ‘Scare Others’ From Leaving](https://www.wsj.com/tech/ai-startup-sued-by-palantir-says-company-wants-to-scare-others-from-leaving-871fa6f6?gaa_at=eafs&gaa_n=AWEtsqco8w0wv7eaBM9SEpejdM64T8UGJvrIWMyViDulZH4f6Txof1oqCqDp&gaa_ts=696689e9&gaa_sig=9R1KzUDc5_PFAxT5DMgGSO_UoUZGLkK2yvCn8npX4HIbWFp2M3dG9o7qdIMes1M-TdEePpfcs1rJ_aX3mkbmRA%3D%3D)**
 
-The Wall Street Journal • 48m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ NPR • 11h ago
 
 Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 1h ago
 
 Hegseth has been outspoken about ridding the military of so-called 'woke' policies, including diversity, equity and inclusion efforts.
 
-USA Today • 2h ago
+USA Today • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ USA Today • 2h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 314 • 💬 312 • 21h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 314 • 💬 312 • 22h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -215,7 +215,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 212 • 💬 144 • 18h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 212 • 💬 144 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -245,7 +245,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 113 • 💬 90 • 5h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 113 • 💬 90 • 6h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -359,7 +359,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 149K • 👍 13K • 💬 2K • ⏱️ 13:08 • 19h ago
+👁️ 149K • 👍 13K • 💬 2K • ⏱️ 13:08 • 20h ago
 
 ---
 
@@ -659,7 +659,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 113 • 8h ago
+⭐ 3.2k • 🔱 113 • 9h ago
 
 ---
 
@@ -689,7 +689,7 @@ Learn vibe coding from 0 to 1 | 从实战中系统学会 vibe coding｜产品思
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.5k • 🔱 129 • 1h ago
+⭐ 1.5k • 🔱 129 • 2h ago
 
 ---
 
@@ -709,7 +709,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 20h ago
+⭐ 1.4k • 🔱 115 • 21h ago
 
 ---
 

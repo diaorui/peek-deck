@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T17:53:05.439056+00:00'
+updated: '2026-01-13T18:33:09.434383+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 17:53 UTC  
+**Last Updated:** January 13, 2026 at 18:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,13 +101,13 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-4h ago
+5h ago
 
 ---
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -115,7 +115,7 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 Bitcoin is going mainstream 🚀
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Bitcoin is going mainstream 🚀
 
 **[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
 
-35m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Bitcoin is going mainstream 🚀
 
 everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
-5h ago
+6h ago
 
 ---
 
@@ -169,7 +169,7 @@ Decrypt • 4h ago
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 1h ago
 
 Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
 
-Sherwood News • 2h ago
+Sherwood News • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 3d ago
 
 Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
@@ -213,7 +213,7 @@ Barron's • 7h ago
 
 **[Taste Test: Penn Quarter's new "not a MAGA" Bitcoin bar](https://www.axios.com/local/washington-dc/2026/01/13/pubkey-bitcoin-bar-review-trump-penn-quarter)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -221,7 +221,7 @@ Axios • 2h ago
 
 Patching a major vulnerability will result in a higher price for the coin.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -271,7 +271,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 22h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 23h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 765 • 💬 149 • ⏱️ 39:49 • 2h ago
+👁️ 8K • 👍 765 • 💬 149 • ⏱️ 39:49 • 3h ago
 
 ---
 
@@ -325,7 +325,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 627 • ⏱️ 14:21 • 18h ago
+👁️ 56K • 👍 3K • 💬 627 • ⏱️ 14:21 • 19h ago
 
 ---
 
@@ -355,7 +355,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 1K • 💬 493 • ⏱️ 7:34 • 22h ago
+👁️ 15K • 👍 1K • 💬 493 • ⏱️ 7:34 • 23h ago
 
 ---
 
@@ -365,7 +365,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Yoshidoll
 
-👁️ 2K • 👍 2K • 1h ago
+👁️ 2K • 👍 2K • 2h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 742 • 💬 73 • ⏱️ 19:27 • 6h ago
+👁️ 12K • 👍 742 • 💬 73 • ⏱️ 19:27 • 7h ago
 
 ---
 
@@ -405,7 +405,7 @@ Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you 
 
 📺 Simply Bitcoin
 
-👁️ 437 • 👍 9 • 💬 41 • ⏱️ 0:53 • 3h ago
+👁️ 437 • 👍 9 • 💬 41 • ⏱️ 0:53 • 4h ago
 
 ---
 
