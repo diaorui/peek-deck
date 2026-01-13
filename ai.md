@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T07:45:36.983428+00:00'
+updated: '2026-01-13T08:33:23.498209+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 07:45 UTC  
+**Last Updated:** January 13, 2026 at 08:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,15 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 2h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 3h ago
+
+---
+
+**[Malaysia and Indonesia become the first countries to block Musk’s Grok over sexualized AI images](https://www.reddit.com/r/artificial/comments/1qblz9x/malaysia_and_indonesia_become_the_first_countries/)**
+
+Malaysia and Indonesia have blocked access to Elon Musk's AI chatbot Grok over its misuse to generate explicit images.
+
+🔗 [AP News](https://apnews.com/article/grok-malaysia-indonesia-block-c7cb320327f259c4da35908e1269c225?utm_source=reddit.com&utm_medium=referral&utm_campaign=post) • 8m ago
 
 ---
 
@@ -57,7 +65,23 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 OpenAI launches Health and Jobs agents Claude Code 2.1.0 drops with 1096 commits Cursor agent reduces tokens by 47% A collection of AI Agent Updates! (yes made by me, a human, lmao)🧵 1. Claude Code 2.1.0 Released with Major Agent Updates 1096 commits shipped. Add hooks to agents & skills frontmatter, agents no longer stop on denied tool use, custom agent support, wildcard tool permissions, and multilingual support. Huge agentic workflow improvements. 2. OpenAI Launches ChatGPT Health Agent Dedicated space for health conversations. Securely connect medical records and wellness apps so responses are grounded in your health data. Designed to help navigate medical care, not replace it. Early access waitlist open. The personal health agent is now available. 3. Cursor Agent Implements Dynamic Context More intelligent context filling across all models while maintaining same quality. Reduces total tokens by 46.9% when using multiple MCP servers. Their agent efficiency is now dramatically improved. 4. Firecrawl Adds GitHub Search for Agents Set category: "github" on /search to get repos, starter kits, and open source projects with structured data in one call. Available in playground, API, and SDKs. Agents can now search GitHub programmatically. 5. Anthropic Publishes Guide on Evaluating AI Agents New engineering blog post: "Demystifying evals for AI agents." Shares evaluation strategies from real-world deployments. Addresses why agent capabilities make them harder to evaluate. Best practices for agent evaluation released. 6. Tailwind Lays Off 75% of Team Due to AI Agent Usage CSS framework became extremely popular with AI coding agents (75M downloads/mo). But agents don't visit docs where they promoted paid offerings. Result: 40% traffic drop, 80% revenue loss. Proves agents can disrupt business models. 7. Cognition Partners with Infosys to Deploy Devin AI Agent Infosys rolling out Devin across engineering organization and global client base. Early results show significant productivity gains, including complex COBOL migrations completed in record time. New enterprise deployment for coding agents. 8. ERC-8004 Proposal: Trustless AI Agents onchain New proposal enables agents from different orgs to interact without pre-existing trust. Three registries: Identity (unique identifiers), Reputation (scoring system), Verification (independent validator checks). Infra for cross-organizational agent interaction. 9. Early Look at Grok Build Coding Agent from xAI Vibe coding solution arriving as CLI tool with web UI support on Grok. Initially launching as local agent with CLI interface. Remote coding agents planned for later. xAI entering coding agent competition. 10. OpenAI Developing ChatGPT Jobs Career Agent Help with resume tips, job search, and career guidance. Features: resume improvement and positioning, role exploration, job search and comparison. Follows ChatGPT Health launch. What will they build once Health and Jobs are complete? That's a wrap on this week's Agentic news. Which update impacts you the most? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
+1h ago
+
+---
+
+**[I treated job hunting and interviewing like a second job… so I built a lazy AI workflow](https://www.reddit.com/r/artificial/comments/1qblfdn/i_treated_job_hunting_and_interviewing_like_a/)**
+
+I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned.
+
 43m ago
+
+---
+
+**[Please Help! My father is being scammed!](https://www.reddit.com/r/artificial/comments/1qbl8c0/please_help_my_father_is_being_scammed/)**
+
+The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored by Gibson. I'm not sure if the video was created with ai or not. The video was sent to my 70 year old father from a scammer pretending to be her. I know the voice is not hers. First she's Brazilian and her native language is Portuguese. The real Larissa Liveir does speak English but I assume with a heavy accent. There's no accent in this. Can someone please tell me if the video is AI?
+
+56m ago
 
 ---
 
@@ -65,7 +89,7 @@ OpenAI launches Health and Jobs agents Claude Code 2.1.0 drops with 1096 commits
 
 While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's 65%. the thing that really stood out was context retention. Claude handled 8-10 files no problem, chatgpt started losing track after 5-6 especially with heavy cross-references. Token efficiency went to claude too, ~120k tokens per full run vs chatgpt's 180k for the same task. Claude's just noticeably better at the spatial reasoning side of code architecture, chatgpt loses dependency chains quicker when everything references everything else. While digging around i came across qwen3 coder 480b on deepinfra - apparently solid benchmarks for agentic coding tasks and performance pretty comparable to claude. Keeping it on the list to try later, but we're already hooked up with claude and it's working good enough right now.
 
-29m ago
+1h ago
 
 ---
 
@@ -73,23 +97,7 @@ While working on a business website i needed to figure out which model actually 
 
 Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
 
-1h ago
-
----
-
-**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
-
-Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
-
-🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 11h ago
-
----
-
-**[China is closing in on US technology lead despite constraints, AI researchers say](https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/)**
-
-By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological gap with the U.S. driven by growing risk-taking and innovation, though the lack of advanced chipmaking tools is hobbling
-
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html) • 1d ago
+2h ago
 
 ---
 
@@ -97,29 +105,47 @@ By Laurie Chen BEIJING, Jan 10 (Reuters) - China can narrow its technological ga
 
 As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes?
 
-12h ago
+13h ago
 
 ---
 
-**[I built Plano - the framework-agnostic runtime data plane for agentic applications](https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/)**
+**[Cowork: Claude Code for the rest of your work](https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/)**
 
-Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In practice, teams keep rebuilding the same concerns that sit outside any single agent’s core logic: This includes model agility - the ability to pull from a large set of LLMs and swap providers without refactoring prompts or streaming handlers. Developers need to learn from production by collecting signals and traces that tell them what to fix. They also need consistent policy enforcement for moderation and jailbreak protection, rather than sprinkling hooks across codebases. And they need multi-agent patterns to improve performance and latency without turning their app into orchestration glue. These concerns get rebuilt and maintained inside fast-changing frameworks and application code, coupling product logic to infrastructure decisions. It’s brittle, and pulls teams away from core product work into plumbing they shouldn’t have to own. What Plano does Plano moves core delivery concerns out of process into a modular proxy and dataplane designed for agents. It supports inbound listeners (agent orchestration, safety and moderation hooks), outbound listeners (hosted or API-based LLM routing), or both together. Plano provides the following capabilities via a unified dataplane: - Orchestration: Low-latency routing and handoff between agents. Add or change agents without modifying app code, and evolve strategies centrally instead of duplicating logic across services. - Guardrails & Memory Hooks: Apply jailbreak protection, content policies, and context workflows (rewriting, retrieval, redaction) once via filter chains. This centralizes governance and ensures consistent behavior across your stack. - Model Agility: Route by model name, semantic alias, or preference-based policies. Swap or add models without refactoring prompts, tool calls, or streaming handlers. - Agentic Signals™: Zero-code capture of behavior signals, traces, and metrics across every agent, surfacing traces, token usage, and learning signals in one place. The goal is to keep application code focused on product logic while Plano owns delivery mechanics. More on Architecture Plano has two main parts: Envoy-based data plane. Uses Envoy’s HTTP connection management to talk to model APIs, services, and tool backends. We didn’t build a separate model server—Envoy already handles streaming, retries, timeouts, and connection pooling. Some of us are core Envoy contributors at Katanemo. Brightstaff, a lightweight controller and state machine written in Rust. It inspects prompts and conversation state, decides which agents to call and in what order, and coordinates routing and fallback. It uses small LLMs (1–4B parameters) trained for constrained routing and orchestration. These models do not generate responses and fall back to static policies on failure. The models are open sourced here: https://huggingface.co/katanemo
+Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.
 
-🔗 [GitHub](https://github.com/katanemo/plano) • 1d ago
-
----
-
-**[What is something current AI systems are very good at, but people still don’t trust them to do?](https://www.reddit.com/r/artificial/comments/1qakw7h/what_is_something_current_ai_systems_are_very/)**
-
-We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology.
-
-1d ago
+🔗 [claude.com](https://claude.com/blog/cowork-research-preview) • 12h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[UK threatens action against X over sexualised AI images of women and children](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)**
+
+Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
+
+The Guardian • 21h ago
+
+---
+
+**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqc1EsZXUCQHo3zXz5_uWfKWPNVriTdZJ3rhhEiMl2tIqnw00YiAb0Px&gaa_ts=696606b9&gaa_sig=G2mspXwXB7GviXQPVILoazEPI3-bdVJDVxtxBYZJrb5j6VaQx8MdGu2WaItr5lDgtDzBtJUgVr8wHOmRqo6SBw%3D%3D)**
+
+The Wall Street Journal • 1d ago
+
+---
+
+**[Investors back energy providers over big tech for 2026 AI bets, says BlackRock](https://www.reuters.com/business/investors-back-energy-providers-over-big-tech-2026-ai-bets-says-blackrock-2026-01-13/)**
+
+Reuters • 25m ago
+
+---
+
+**[UK Recruiters Face Dire Year With Tough Jobs Market, AI Threat](https://www.bloomberg.com/news/articles/2026-01-13/uk-recruiters-face-dire-year-with-tough-jobs-market-ai-threat)**
+
+Bloomberg.com • 2h ago
+
+---
 
 **[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.npr.org/2026/01/13/nx-s1-5675781/pentagon-musks-grok-ai-chatbot-global-outcry)**
 
@@ -129,59 +155,19 @@ NPR • 1h ago
 
 ---
 
-**[Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes](https://www.bbc.com/news/articles/cwy875j28k0o)**
+**[Hegseth vows to develop military AI without 'woke' constraints](https://www.usatoday.com/story/news/politics/2026/01/12/pete-hegseth-woke-ai-military/88152569007/)**
 
-The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.
+Hegseth has been outspoken about ridding the military of so-called 'woke' policies, including diversity, equity and inclusion efforts.
 
-BBC • 17h ago
-
----
-
-**[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
-
-The New York Times • 21h ago
+USA Today • 5h ago
 
 ---
 
-**[Google Bets on AI-Based Shopping With New AI Agents for Retailers](https://www.wsj.com/articles/google-bets-on-ai-based-shopping-with-new-ai-agents-for-retailers-45ad3f27?gaa_at=eafs&gaa_n=AWEtsqdjoBNa_gLNfue-nerZL8sCZb24b5zHt4T26REQWeLz20Y30j_VUn7x&gaa_ts=6965f705&gaa_sig=QGgX_-hTxo0T-WdIc9S7RMytx-WF4YcREiVPISLF00QaPWlIvPfUAOKe4njrCvmj17jVFgYVQQHfnoF0R_pAdw%3D%3D)**
+**[Hegseth announces push to make US leader in AI, drones and space technology](https://www.foxbusiness.com/technology/hegseth-announces-push-make-us-leader-ai-drones-space-technology)**
 
-The Wall Street Journal • 1d ago
+Pentagon chief Pete Hegseth unveiled an artificial intelligence strategy for the military, aiming to make the U.S. a global leader in AI and drones.
 
----
-
-**[AI Has Shopping in Its Sights. Amazon Is Pushing Back.](https://www.barrons.com/articles/ai-shopping-chatgpt-google-amazon-comet-0b6d61f3?gaa_at=eafs&gaa_n=AWEtsqeRpHNjgrrqGsVshFb7qgnIYgVj6onNONS0-OUkkV3zcPH316CUJ08_&gaa_ts=6965f705&gaa_sig=arbTIad47sOgti_6ZvB-1fL9Zzhypu0tuDZQ69wZLQG5jhHg6qU4Rclg8UHKtqKEirJZTvsHJZQgGzG0Y3xrqA%3D%3D)**
-
-Barron's • 45m ago
-
----
-
-**[JD Sports plans to let shoppers buy through AI platforms](https://www.theguardian.com/business/2026/jan/12/jd-sports-shoppers-buy-ai-platforms-chatgpt-microsoft-copilot-us)**
-
-Retailer to allow ‘one-click purchases’ through assistants such as ChatGPT and Microsoft Copilot, beginning in US
-
-The Guardian • 5h ago
-
----
-
-**[Nobel Laureate Acemoglu on Fed Independence, AI](https://www.bloomberg.com/news/videos/2026-01-13/nobel-laureate-acemoglu-on-fed-independence-ai-video)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Cisco Systems Stock: The Silent Giant Of The AI Revolution (NASDAQ:CSCO)](https://seekingalpha.com/article/4859051-cisco-systems-stock-silent-giant-ai-revolution)**
-
-Cisco (CSCO) stock shifts to AI infrastructure as AI orders surge; Splunk boosts recurring cloud revenue. Read here for an investment analysis.
-
-Seeking Alpha • 57m ago
-
----
-
-**[CES 2026: Agentic AI hype vs. media buyers’ pragmatism](https://digiday.com/podcasts/ces-2026-agentic-ai-hype-vs-media-buyers-pragmatism/)**
-
-CES 2026 was all about agentic AI, but media buyers are approaching the hype around autonomous media buying with pragmatism over urgency.
-
-Digiday • 2h ago
+Fox Business • 3h ago
 
 ---
 
@@ -193,13 +179,27 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Opinion | Grok Is Undressing People Online. Here’s How to Fix It.](https://www.nytimes.com/2026/01/12/opinion/grok-digital-undressing.html)**
+
+The New York Times • 22h ago
+
+---
+
+**[AI can now 'see' optical illusions. What does it tell us about our own brains?](https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions)**
+
+Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intelligence can fall for the same illusions.
+
+BBC • 22h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1216 • 💬 1545 • 1d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1221 • 💬 1548 • 1d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
@@ -215,7 +215,7 @@ AI commoditizes anything you can specify. It can't commoditize what you have to 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 211 • 💬 163 • 11h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 220 • 💬 184 • 12h ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -223,7 +223,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
-⬆️ 179 • 💬 61 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+⬆️ 180 • 💬 62 • 23h ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
 
 ---
 
@@ -231,7 +231,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 152 • 💬 88 • 8h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 167 • 💬 103 • 9h ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -239,7 +239,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 148 • 💬 81 • 14h ago • [TryLAD](https://www.trylad.com)
+⬆️ 152 • 💬 83 • 15h ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -247,7 +247,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
-⬆️ 76 • 💬 60 • 13h ago • [GitHub](https://github.com/finbarr/yolobox)
+⬆️ 79 • 💬 65 • 13h ago • [GitHub](https://github.com/finbarr/yolobox)
 
 ---
 
@@ -255,7 +255,7 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 Superhuman AI was able to exfiltrate sensitive emails from user accounts - without the user even being aware. This vulnerability was rapidly remediated by the Superhuman team.
 
-⬆️ 46 • 💬 4 • 13h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
+⬆️ 46 • 💬 5 • 13h ago • [promptarmor.com](https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails)
 
 ---
 
@@ -269,7 +269,7 @@ Superhuman AI was able to exfiltrate sensitive emails from user accounts - witho
 
 Government signals support for possible Ofcom intervention on Grok as scrutiny of X’s AI tool intensifies
 
-⬆️ 35 • 💬 44 • 21h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
+⬆️ 35 • 💬 44 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/jan/12/uk-threatens-action-against-x-over-sexualised-ai-images-of-women-and-children)
 
 ---
 
@@ -293,7 +293,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 119K • 👍 11K • 💬 2K • ⏱️ 13:08 • 9h ago
+👁️ 119K • 👍 11K • 💬 2K • ⏱️ 13:08 • 10h ago
 
 ---
 
@@ -303,7 +303,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 17K • 👍 1K • 💬 144 • ⏱️ 10:39 • 16h ago
+👁️ 17K • 👍 1K • 💬 144 • ⏱️ 10:39 • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 37K • 👍 302 • 💬 71 • ⏱️ 7:57 • 17h ago
+👁️ 37K • 👍 302 • 💬 71 • ⏱️ 7:57 • 18h ago
 
 ---
 
@@ -343,7 +343,7 @@ Well, AI music is everywhere and the robots are getting pretty good. But, I don'
 
 📺 Venus Theory
 
-👁️ 47K • 👍 6K • 💬 1K • ⏱️ 15:12 • 15h ago
+👁️ 47K • 👍 6K • 💬 1K • ⏱️ 15:12 • 16h ago
 
 ---
 
@@ -663,7 +663,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 91 • 52m ago
+⭐ 2.5k • 🔱 91 • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 6h ago
+⭐ 2.3k • 🔱 141 • 7h ago
 
 ---
 
@@ -713,7 +713,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 10h ago
+⭐ 1.4k • 🔱 115 • 11h ago
 
 ---
 
@@ -733,7 +733,7 @@ AIFlowy is an enterprise-grade AI application development platform based on Java
 
 `Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
 
-⭐ 1.2k • 🔱 143 • 21h ago
+⭐ 1.2k • 🔱 143 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T07:45:36.991858+00:00'
+updated: '2026-01-13T08:33:23.505781+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 07:45 UTC  
+**Last Updated:** January 13, 2026 at 08:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,046.28
+### $91,840.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +0.7%  
-**30d:** +6.4%  
-**90d:** -14.8%  
-**1y:** -4.7%  
+**24h:** +1.0%  
+**7d:** +0.6%  
+**30d:** +6.3%  
+**90d:** -14.9%  
+**1y:** -4.8%  
 
 ---
 
@@ -87,21 +87,13 @@ Rank #1
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-3h ago
+4h ago
 
 ---
 
 **[In the last 5 years, the global money supply increased by over 16 trillion Dollars. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1qau84f/in_the_last_5_years_the_global_money_supply/)**
 
-18h ago
-
----
-
-**[I give up on trying to convince anyone](https://www.reddit.com/r/Bitcoin/comments/1qb0qem/i_give_up_on_trying_to_convince_anyone/)**
-
-I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
-
-14h ago
+19h ago
 
 ---
 
@@ -111,11 +103,19 @@ I honestly have just given up. No one cares, no one believes me, no one is inter
 
 ---
 
+**[I give up on trying to convince anyone](https://www.reddit.com/r/Bitcoin/comments/1qb0qem/i_give_up_on_trying_to_convince_anyone/)**
+
+I honestly have just given up. No one cares, no one believes me, no one is interested. I am realizing you really need an open mind, real curiosity, or real pain to change your mind/accept new ideas. Over the holidays, I tried a little to talk, but no one was interested. My friend sees it's dropped 30% and he thinks it's a bad investment. People really just don't get it. No one has the interest to read the books, listen to the podcasts, to DCA over years. There's little hope for my immediate friends and family to ever get this.
+
+15h ago
+
+---
+
 **[BTW, STRC is 'working'. Every day, millions of dollars is used to buy bitcoin, a massive fiat onramp](https://www.reddit.com/r/Bitcoin/comments/1qbcgb2/btw_strc_is_working_every_day_millions_of_dollars/)**
 
 Strategy likely bought 800+ BTC today (1/12/2026) from STRC alone. STRC closed at $100.07 with a whopping $176M in volume, without a single tick below $100. Last week they raised ~43% of the volume, which would mean $75M today. If true, they acquired 800 BTC in a single day. https://x.com/RoaringRagnar/status/2010830094097322241
 
-7h ago
+8h ago
 
 ---
 
@@ -131,19 +131,21 @@ The US Senate has released a new draft bill to fix confusion around crypto regul
 
 Today, January 12, 2026, marks exactly 17 years since the first real Bitcoin transaction: on January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney. Back then, they were literally worth $0. Today, with BTC hovering around $91,700 USD (according to data from CoinDesk, Yahoo Finance, and major exchanges), those 10 bitcoins are equivalent to approximately $917,000. From zero to nearly a million in less than two decades, without banks or anyone's permission. The cypherpunk experiment that changed the financial world continues to prove: the future of money is already here And it's still going up!
 
-5h ago
+6h ago
 
 ---
 
 **[So much potential here...](https://www.reddit.com/r/Bitcoin/comments/1qauktw/so_much_potential_here/)**
 
-18h ago
+19h ago
 
 ---
 
-**[Not gonna lie i love the bottom one](https://www.reddit.com/r/Bitcoin/comments/1qafubg/not_gonna_lie_i_love_the_bottom_one/)**
+**[When BTC Hits 1M$ in 2040](https://www.reddit.com/r/Bitcoin/comments/1qbgip5/when_btc_hits_1m_in_2040/)**
 
-1d ago
+FIAT : unlimited supply BTC : 21M Do the math.
+
+5h ago
 
 ---
 
@@ -165,11 +167,11 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin price up after Fed chair vows to fight new Trump attack](https://finance.yahoo.com/news/bitcoin-price-fed-chair-vows-102009622.html)**
+**[Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair](https://finance.yahoo.com/news/bitcoin-shrugs-off-powell-probe-033925852.html)**
 
-Powell vows to hold firm as Trump launches new attack on Fed. Bitcoin’s price briefly jumped 2% before returning to just above $90,000.
+Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -181,11 +183,19 @@ CoinDesk • 20h ago
 
 ---
 
+**[21Shares' bitcoin (BTC) and gold ETP debuts on London Stock Exchange (LSE)](https://www.coindesk.com/markets/2026/01/13/21shares-bitcoin-and-gold-exchange-traded-product-debuts-on-london-stock-exchange)**
+
+The ETP offers physically backed exposure to bitcoin and gold in a single investment vehicle.
+
+CoinDesk • 31m ago
+
+---
+
 **[Bitcoin and ether traders bet on calmer times](https://www.coindesk.com/markets/2026/01/13/bitcoin-and-ether-traders-bet-on-calmer-times)**
 
 Bitcoin and ether traders are betting on low volatility and reduced near-term risks despite resilient dollar index and tepid demand for spot ETFs.
 
-CoinDesk • 39m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -215,15 +225,7 @@ The Motley Fool • 1d ago
 
 **[Bitcoin Price Breakout Likely ‘Imminent,’ Says Technical Analyst](https://www.forbes.com/sites/digital-assets/2026/01/12/bitcoin-price-breakout-likely-imminent-says-technical-analyst/)**
 
-Forbes • 5h ago
-
----
-
-**[Is Bitcoin really "digital gold"?](https://www.kitco.com/opinion/2026-01-11/bitcoin-really-digital-gold)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 1d ago
+Forbes • 6h ago
 
 ---
 
@@ -273,7 +275,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 12h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 13h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -317,7 +319,7 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 435 • ⏱️ 14:21 • 8h ago
+👁️ 37K • 👍 2K • 💬 435 • ⏱️ 14:21 • 9h ago
 
 ---
 
@@ -347,7 +349,7 @@ The Justice Department investigation into Federal Reserve Chairman Jerome Powell
 
 📺 Paul Barron Network
 
-👁️ 22K • 👍 1K • 💬 187 • ⏱️ 11:08 • 10h ago
+👁️ 22K • 👍 1K • 💬 187 • ⏱️ 11:08 • 11h ago
 
 ---
 
@@ -357,7 +359,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 13K • 👍 934 • 💬 474 • ⏱️ 7:34 • 12h ago
+👁️ 13K • 👍 934 • 💬 474 • ⏱️ 7:34 • 13h ago
 
 ---
 
@@ -367,7 +369,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 345 • ⏱️ 41:26 • 16h ago
+👁️ 31K • 👍 1K • 💬 345 • ⏱️ 41:26 • 17h ago
 
 ---
 
@@ -387,7 +389,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 3K • 💬 58 • ⏱️ 8:17 • 18h ago
+👁️ 17K • 👍 3K • 💬 58 • ⏱️ 8:17 • 19h ago
 
 ---
 
