@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T15:30:32.066133+00:00'
+updated: '2026-01-13T15:53:07.972550+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 15:30 UTC  
+**Last Updated:** January 13, 2026 at 15:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum is meant to be a home for trustless and trust-minimized applications, whether in finance, governance or elsewhere. It must support applications that are more like tools - the hammer that once you buy it's yours - than like services that lose all functionality once the vendor loses interest in maintaining them (or worse, gets hacked or becomes value-extractive). Even when applications do have functionality that depends on a vendor, Ethereum can help reduce those dependencies as much as possible, and protect the user as much as possible in those cases where the dependencies fail. But building such applications is not possible on a base layer which itself depends on ongoing updates from a vendor in order to continue being usable - even if that "vendor" is the all core devs process. Ethereum the blockchain must have the traits that we strive for in Ethereum's applications. Hence, Ethereum itself must pass the walkaway test. This means that Ethereum must get to a place where we can ossify if we want to. We do not have to stop making changes to the protocol, but we must get to a place where Ethereum's value proposition does not strictly depend on any features that are not in the protocol already. This includes the following: Full quantum-resistance. We should resist the trap of saying "let's delay quantum-resistance until the last possible moment in the name of ekeing out more efficiencies for a while longer". Individual users have that right, but the protocol should not. Being able to say "Ethereum's protocol, as it stands today, is cryptographically safe for a hundred years" is something we should strive to get to as soon as possible, and insist on as a point of pride. An architecture that can expand to sufficient scalability. The protocol needs to have the properties that allow it to expand to many thousands of TPS over time, most notably ZK-EVM validation and data sampling through PeerDAS. Ideally, we get to a point where further scaling is done through "parameter only" changes - and ideally those changes are not BPO-style forks, but rather are made with the same validator voting mechanism we use for the gas limit. A state architecture that can last decades. This means deciding, and implementing, whatever form of partial statelessness and state expiry will let us feel comfortable letting Ethereum run with thousands of TPS for decades, without breaking sync or hard disk or I/O requirements. It also means future-proofing the tree and storage types to work well with this long-term environment. An account model that is general-purpose (this is "full account abstraction": move away from enshrined ECDSA for signature validation) A gas schedule that we are confident is free of DoS vulnerabilities, both for execution and for ZK-proving A PoS economic model that, with all we have learned over the past half decade of proof of stake in Ethereum and full decade beyond, we are confident can last and remain decentralized for decades, and supports the usefulness of ETH as trustless collateral (eg. in governance-minimized ETH-backed stablecoins) A block building model that we are confident will resist centralization pressure and guarantee censorship resistance even in unknown future environments Ideally, we do the hard work over the next few years, to get to a point where in the future almost all future innovation can happen through client optimization, and get reflected in the protocol through parameter changes. Every year, we should tick off at least one of these boxes, and ideally multiple. Do the right thing once, based on knowledge of what is truly the right thing (and not compromise halfway fixes), and maximize Ethereum's technological and social robustness for the long term. Ethereum goes hard. This is the gwei.
 
-9h ago
+10h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2d ago
 
 The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
 
-CoinDesk • 25m ago
+CoinDesk • 47m ago
 
 ---
 
@@ -200,7 +200,7 @@ Binance • 2d ago
 
 Explore how Ethereum co-founder Vitalik Buterin strategically manages unsolicited tokens by periodically exchanging them for Ethereum.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ ALL TRADING PLATFORMS (CRYPTO) Delta Exchange India :- https://india.delta.excha
 
 📺 Vibe With Sahil
 
-👁️ 4K • 👍 347 • 1h ago
+👁️ 4K • 👍 347 • 2h ago
 
 ---
 

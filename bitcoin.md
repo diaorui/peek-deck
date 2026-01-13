@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T15:30:32.059894+00:00'
+updated: '2026-01-13T15:53:07.966566+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 15:30 UTC  
+**Last Updated:** January 13, 2026 at 15:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 **[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -129,7 +129,7 @@ everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
 Not looking for gains. Just want a piece to leave my daughter if/when fiat plumits. It's not much. Not my last purchase
 
-11h ago
+12h ago
 
 ---
 
@@ -137,7 +137,7 @@ Not looking for gains. Just want a piece to leave my daughter if/when fiat plumi
 
 Bitcoin is going mainstream 🚀
 
-16m ago
+39m ago
 
 ---
 
@@ -145,7 +145,7 @@ Bitcoin is going mainstream 🚀
 
 Crypto taught me something simple: Most people don't lose money. They lose patience. And then call it a scam.
 
-5h ago
+6h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 3d ago
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqd5-nidJyZM8O_rCjavUmwBMWNqOuihvt2V30DyG5M0wWuVZcaKnqJ0&gaa_ts=69666883&gaa_sig=ULGrRTp0ydYh245q2H_zznnCDie9gUFjwkILcvE590C6AGaO6OZmNGA-vWp7VmzJinDPN86guGcnNy7itnYQXA%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -197,7 +197,7 @@ CCN.com • 4h ago
 
 **[Taste Test: Penn Quarter's new "not a MAGA" Bitcoin bar](https://www.axios.com/local/washington-dc/2026/01/13/pubkey-bitcoin-bar-review-trump-penn-quarter)**
 
-Axios • 28m ago
+Axios • 51m ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 18h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 19h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
