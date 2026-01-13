@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T19:21:17.125352+00:00'
+updated: '2026-01-13T19:39:37.753260+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 19:21 UTC  
+**Last Updated:** January 13, 2026 at 19:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -143,7 +143,7 @@ Bitcoin is going mainstream 🚀
 
 everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
-6h ago
+7h ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 22h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 23h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -335,7 +335,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 190 • ⏱️ 39:49 • 3h ago
+👁️ 15K • 👍 1K • 💬 190 • ⏱️ 39:49 • 4h ago
 
 ---
 

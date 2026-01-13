@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T19:21:17.117923+00:00'
+updated: '2026-01-13T19:39:37.744903+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 19:21 UTC  
+**Last Updated:** January 13, 2026 at 19:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-7h ago
+8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 McKinsey & Company CEO Bob Sternfels says he wants every employee working alongside an AI agent within a year and a half.
 
-🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 26m ago
+🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 45m ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 6h ago
 
 **[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -153,7 +153,7 @@ PYMNTS.com • 1h ago
 
 Kids are being identified as adults—and vice versa—on Roblox, while age-verified accounts are already being sold online.
 
-WIRED • 27m ago
+WIRED • 45m ago
 
 ---
 
@@ -161,7 +161,7 @@ WIRED • 27m ago
 
 Defense Secretary Pete Hegseth said Monday that Elon Musk's artificial intelligence chatbot Grok will join Google's generative AI engine in operating inside the Pentagon network, as part of a broader push to feed as much of the military's data as possible into the developing technology.
 
-NPR • 12h ago
+NPR • 13h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
 
-The Official Microsoft Blog • 5h ago
+The Official Microsoft Blog • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ Financial Times • 14h ago
 
 **[Trump wants Big Tech to 'pay its own way' for AI power](https://qz.com/data-centers-ai-microsoft-trump-electricity-bills)**
 
-qz.com • 33m ago
+qz.com • 51m ago
 
 ---
 
@@ -263,13 +263,13 @@ Let your AI go full send. Your home directory stays home. - finbarr/yolobox
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 108 • 💬 23 • 45m ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 108 • 💬 23 • 1h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
 **[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 99 • 💬 51 • 49m ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 99 • 💬 51 • 1h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -333,7 +333,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 177K • 👍 4K • 💬 222 • ⏱️ 0:23 • 20h ago
+👁️ 177K • 👍 4K • 💬 222 • ⏱️ 0:23 • 21h ago
 
 ---
 
@@ -639,7 +639,7 @@ VideoRAG enhances large language models for multi-modal video processing with a 
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 2h ago
+⭐ 8.3k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -669,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 1h ago
+⭐ 2.3k • 🔱 141 • 2h ago
 
 ---
 
