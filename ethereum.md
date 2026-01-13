@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-13T18:33:09.440513+00:00'
+updated: '2026-01-13T19:21:17.130551+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 18:33 UTC  
+**Last Updated:** January 13, 2026 at 19:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +0.7%  
-**30d:** +7.6%  
-**90d:** -18.1%  
-**1y:** -1.0%  
+**24h:** +3.2%  
+**7d:** +1.0%  
+**30d:** +7.9%  
+**90d:** -17.9%  
+**1y:** -0.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $382.80B
+**Market Cap:** $385.28B
 Rank #2
 
 **Circulating Supply:** 120,694,706 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--35.8%
+-35.4%
 
 **All-Time Low:** $0.43
-+733630.7%
++737316.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -124,17 +124,17 @@ I agree with maybe 60% of this, but one bit that is particularly important to hi
 
 ---
 
-**[Increasing bandwidth is safer than reducing latency](https://www.reddit.com/r/ethereum/comments/1qbj03e/increasing_bandwidth_is_safer_than_reducing/)**
+**[Linux as a north star](https://www.reddit.com/r/ethereum/comments/1qbiz8k/linux_as_a_north_star/)**
 
-With PeerDAS and ZKPs, we know how to scale, and potentially we can scale thousands of times compared to the status quo. The numbers become far more favorable than before (eg. see analysis here, pre and post-sharding https://vitalik.eth.limo/general/2021/05/23/scaling.html ). There is no law of physics that prevents combining extreme scale with decentralization. Reducing latency is not like this. We are fundamentally constrained by speed of light, and on top of that we are also constrained by: Need to support nodes (especially attesters) in rural environments, worldwide, and in home or commercial environments outside of data centers. Need to support censorship-resistance and anonymity for nodes (especially proposers and attesters). The fact that running a node in a non-super-concentrated location must be not only possible, but also economically viable. If staking outside NYC drops your revenues by 10%, over time more and more people will stake in NYC. Ethereum itself must pass the walkaway test, and so we cannot build a blockchain that depends on constant social re-juggling to ensure decentralization. Economics cannot handle the entire load, but it must handle most. Now, we can decrease latency quite a bit from the present-day situation without making tradeoffs. In particular: P2P improvements (esp erasure coding) can decrease message propagation times without requiring individual nodes to have lower bandwidth An available chain with a smaller node count per slot (eg. 512 instead of 30,000) can remove the need for an aggregation step, allowing the entire hot path to happen in one subnet This plausibly buys us 3-6x. Hence, I think moderate latency decreases, to a 2-4s level, are very much in the realm of possibility. But Ethereum is NOT the world video game server, it is the world heartbeat. If you need to build applications that are faster than the heartbeat, they will need to have offchain components. This is a big part of why L2s will continue to have a role even in a greatly scaled Ethereum (there are other reasons too, around VM customization, and around applications that need even more scale). Ultimately, AI will necessitate applications that go faster than the heartbeat no matter what we do. If an AI can think 1000x faster than humans, then to the AI, the "subjective speed of light" is only 300 km/s. Hence, it can talk near-instantly within the scope of a city, but not further. As a result, there will inevitably be AI-focused applications that will need "city chains", potentially even chains localized to a single building. These will have to be L2s. And on the flipside, it would be too much of a cost to make it viable to run a staking node on Mars. Even Bitcoin does not strive for this. Ultimately, Ethereum belongs to Terra, and its L2s will serve both hyper-localized needs in its cities, and hyper-scaled needs planet-wide, and users on other worlds.
+One metaphor for Ethereum is BitTorrent, and how that p2p network combines decentralization and mass scale. Ethereum's goal is to do the same thing but with consensus. Another metaphor for Ethereum is Linux. Linux is free and open source software, and does not compromise on this Linux is quietly depended on by billions of people and enterprises worldwide. Governments regularly use it. There are many operating systems based on Linux that pursue mass adoption There are Linux distributions (eg. Arch) that are highly purist, minimalistic and technologically beautiful, and focus on making the user feel powerful, not comfortable (Actually, BitTorrent is depended on by enterprises too: many businesses and even governments (!!) use it to distribute large files to their users https://www.makeuseof.com/tag/8-legal-uses-for-bittorrent-youd-be-surprised ) We must make sure that Ethereum L1 works as the financial (and ultimately identity, social, governance...) home for individuals and organizations who want the higher level of autonomy, and give them access to the full power of the network without dependence on intermediaries. At the same time, what Linux shows is that this is fully compatible with providing value to very large numbers of people, and even being loved and trusted by enterprises worldwide. Many enterprises in fact desperately want to build on an open and resilient ecosystem - what we call trustlessness, they call prudent counterparty risk minimization. This is the gwei.
 
 13h ago
 
 ---
 
-**[Linux as a north star](https://www.reddit.com/r/ethereum/comments/1qbiz8k/linux_as_a_north_star/)**
+**[Increasing bandwidth is safer than reducing latency](https://www.reddit.com/r/ethereum/comments/1qbj03e/increasing_bandwidth_is_safer_than_reducing/)**
 
-One metaphor for Ethereum is BitTorrent, and how that p2p network combines decentralization and mass scale. Ethereum's goal is to do the same thing but with consensus. Another metaphor for Ethereum is Linux. Linux is free and open source software, and does not compromise on this Linux is quietly depended on by billions of people and enterprises worldwide. Governments regularly use it. There are many operating systems based on Linux that pursue mass adoption There are Linux distributions (eg. Arch) that are highly purist, minimalistic and technologically beautiful, and focus on making the user feel powerful, not comfortable (Actually, BitTorrent is depended on by enterprises too: many businesses and even governments (!!) use it to distribute large files to their users https://www.makeuseof.com/tag/8-legal-uses-for-bittorrent-youd-be-surprised ) We must make sure that Ethereum L1 works as the financial (and ultimately identity, social, governance...) home for individuals and organizations who want the higher level of autonomy, and give them access to the full power of the network without dependence on intermediaries. At the same time, what Linux shows is that this is fully compatible with providing value to very large numbers of people, and even being loved and trusted by enterprises worldwide. Many enterprises in fact desperately want to build on an open and resilient ecosystem - what we call trustlessness, they call prudent counterparty risk minimization. This is the gwei.
+With PeerDAS and ZKPs, we know how to scale, and potentially we can scale thousands of times compared to the status quo. The numbers become far more favorable than before (eg. see analysis here, pre and post-sharding https://vitalik.eth.limo/general/2021/05/23/scaling.html ). There is no law of physics that prevents combining extreme scale with decentralization. Reducing latency is not like this. We are fundamentally constrained by speed of light, and on top of that we are also constrained by: Need to support nodes (especially attesters) in rural environments, worldwide, and in home or commercial environments outside of data centers. Need to support censorship-resistance and anonymity for nodes (especially proposers and attesters). The fact that running a node in a non-super-concentrated location must be not only possible, but also economically viable. If staking outside NYC drops your revenues by 10%, over time more and more people will stake in NYC. Ethereum itself must pass the walkaway test, and so we cannot build a blockchain that depends on constant social re-juggling to ensure decentralization. Economics cannot handle the entire load, but it must handle most. Now, we can decrease latency quite a bit from the present-day situation without making tradeoffs. In particular: P2P improvements (esp erasure coding) can decrease message propagation times without requiring individual nodes to have lower bandwidth An available chain with a smaller node count per slot (eg. 512 instead of 30,000) can remove the need for an aggregation step, allowing the entire hot path to happen in one subnet This plausibly buys us 3-6x. Hence, I think moderate latency decreases, to a 2-4s level, are very much in the realm of possibility. But Ethereum is NOT the world video game server, it is the world heartbeat. If you need to build applications that are faster than the heartbeat, they will need to have offchain components. This is a big part of why L2s will continue to have a role even in a greatly scaled Ethereum (there are other reasons too, around VM customization, and around applications that need even more scale). Ultimately, AI will necessitate applications that go faster than the heartbeat no matter what we do. If an AI can think 1000x faster than humans, then to the AI, the "subjective speed of light" is only 300 km/s. Hence, it can talk near-instantly within the scope of a city, but not further. As a result, there will inevitably be AI-focused applications that will need "city chains", potentially even chains localized to a single building. These will have to be L2s. And on the flipside, it would be too much of a cost to make it viable to run a staking node on Mars. Even Bitcoin does not strive for this. Ultimately, Ethereum belongs to Terra, and its L2s will serve both hyper-localized needs in its cities, and hyper-scaled needs planet-wide, and users on other worlds.
 
 13h ago
 
@@ -144,7 +144,7 @@ One metaphor for Ethereum is BitTorrent, and how that p2p network combines decen
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 23h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 1d ago
 
 ---
 
@@ -164,13 +164,21 @@ CoinDesk • 2d ago
 
 Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
 
-dlnews.com • 8h ago
+dlnews.com • 9h ago
 
 ---
 
-**[Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://finance.yahoo.com/news/tom-lee-ethereum-supercycle-call-152502988.html)**
+**[Tom Lee's Ethereum "Supercycle" Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://247wallst.com/investing/2026/01/13/tom-lees-ethereum-supercycle-call-why-he-bought-88m-more-eth-at-3200-and-predicts-10x-returns/)**
 
-Ethereum (CRYPTO: ETH) enters 2026 under intense institutional spotlight, and Tom Lee believes a supercycle is unfolding. The Fundstrat co-founder and Bitmine chairman has made increasingly aggressive Ethereum price predictions, ranging from $7,000-$9,000 near-term to as high as $60,000 over the long haul. Lee’s firm recently added $88 million in ETH at roughly $3,200 per ... Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns
+Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
+
+24/7 Wall St. • 3h ago
+
+---
+
+**[BitMine’s Shareholder Vote Could Decide the Future of Ethereum Treasuries | US Crypto News](https://finance.yahoo.com/news/bitmine-shareholder-vote-could-decide-154944510.html)**
+
+What is the biggest crypto news today? BitMine vote and Senate crypto bill set stage for Ethereum surge amid tight supply.
 
 Yahoo Finance • 3h ago
 
@@ -178,7 +186,13 @@ Yahoo Finance • 3h ago
 
 **[Ethena Labs looks to boost USDe Safe holdings with gas-free Ethereum transactions and 10x rewards bump](https://www.theblock.co/post/385396/ethena-labs-boost-usde-safe-holdings-gas-free-ethereum-transactions-10x-rewards)**
 
-The Block • 2h ago
+The Block • 3h ago
+
+---
+
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+
+CCN.com • 8h ago
 
 ---
 
@@ -198,19 +212,11 @@ TradingView — Track All Markets • 1d ago
 
 ---
 
-**[Bank of Italy: what if TradFi adopts Ethereum but ETH collapses?](https://www.ledgerinsights.com/bank-of-italy-what-if-tradfi-adopts-ethereum-but-eth-collapses/)**
-
-The Bank of Italy has published a working paper exploring how to handle a loss of faith in a public blockchain, with Ethereum as one example. It sees it
-
-ledgerinsights.com • 1d ago
-
----
-
 **[Vitalik Buterin sells tokens for $29,000 in Ethereum](https://cryptobriefing.com/vitalik-buterin-sells-tokens-for-29k/)**
 
 Explore how Ethereum co-founder Vitalik Buterin strategically manages unsolicited tokens by periodically exchanging them for Ethereum.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -220,17 +226,19 @@ Binance • 2d ago
 
 ---
 
-**[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
-
-Ethereum's very soul is up for debate.
-
-AMBCrypto • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 264 • 💬 96 • ⏱️ 17:37 • 4h ago
+
+---
 
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EF94EIeGNEc)**
 
@@ -238,47 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 615 • 👍 69 • 💬 55 • ⏱️ 3:31 • 4h ago
-
----
-
-**[[LEAKED] ⚠️TOM LEE &quot;ETH IS ABOUT TO SQUEEZE BECAUSE OF THIS! BMNR STOCK⚠️](https://www.youtube.com/watch?v=R5c1E7QOjLQ)**
-
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
-
-📺 Short The Vix
-
-👁️ 8K • 👍 379 • 💬 42 • ⏱️ 12:31 • 21h ago
-
----
-
-**[BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=KnMaBQjnRsw)**
-
-BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 219 • 💬 171 • ⏱️ 18:38 • 7h ago
-
----
-
-**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
-
-This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
-
-📺 Thomas Kralow
-
-👁️ 19K • 👍 3K • 💬 63 • ⏱️ 8:17 • 1d ago
-
----
-
-**[Ethereum Airdrop 2026: How To Get FREE ETH Step-By-Step Tutorial!](https://www.youtube.com/watch?v=X107hVaz-W0)**
-
-Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays video we are going to talk about Ethereum ...
-
-📺 World Liberty Financial
-
-👁️ 4K • 👍 25 • 💬 5 • ⏱️ 2:01 • 21h ago
+👁️ 1K • 👍 116 • 💬 54 • ⏱️ 3:31 • 4h ago
 
 ---
 
@@ -288,17 +256,57 @@ Looks like we might have been thrown back into the four year cryptocurrency cycl
 
 📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 457 • 💬 313 • ⏱️ 11:09 • 5h ago
+👁️ 4K • 👍 603 • 💬 365 • ⏱️ 11:09 • 6h ago
 
 ---
 
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+**[[LEAKED] ⚠️TOM LEE &quot;ETH IS ABOUT TO SQUEEZE BECAUSE OF THIS! BMNR STOCK⚠️](https://www.youtube.com/watch?v=R5c1E7QOjLQ)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
 
-📺 Crypto Nutshell
+📺 Short The Vix
 
-👁️ 873 • 👍 98 • 💬 90 • ⏱️ 17:37 • 3h ago
+👁️ 8K • 👍 387 • 💬 45 • ⏱️ 12:31 • 22h ago
+
+---
+
+**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
+
+From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
+
+📺 The Value Thinker
+
+👁️ 2K • 👍 231 • 💬 24 • ⏱️ 26:25 • 1h ago
+
+---
+
+**[Ethereum Airdrop 2026: How To Get FREE ETH Step-By-Step Tutorial!](https://www.youtube.com/watch?v=X107hVaz-W0)**
+
+Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays video we are going to talk about Ethereum ...
+
+📺 World Liberty Financial
+
+👁️ 9K • 👍 25 • 💬 5 • ⏱️ 2:01 • 21h ago
+
+---
+
+**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
+
+This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
+
+📺 Thomas Kralow
+
+👁️ 20K • 👍 3K • 💬 62 • ⏱️ 8:17 • 1d ago
+
+---
+
+**[BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=KnMaBQjnRsw)**
+
+BITCOIN WILL SHOCK EVERYONE IF THIS BREAKS (soon)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 249 • 💬 226 • ⏱️ 18:38 • 8h ago
 
 ---
 
@@ -308,7 +316,7 @@ ethereum #bmnr #tomlee Total staked Ethereum now exceeds 1.3 million ETH Another
 
 📺 alliseeisW 
 
-👁️ 1K • 👍 80 • 💬 22 • ⏱️ 12:40 • 15h ago
+👁️ 1K • 👍 85 • 💬 23 • ⏱️ 12:40 • 15h ago
 
 ---
 
@@ -318,17 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 116 • 👍 10 • 💬 21 • ⏱️ 5:04 • 8h ago
-
----
-
-**[Ethereum Price Prediction Is Unreal. Don&#39;t Buy Bitcoin Until This Happens.](https://www.youtube.com/watch?v=w8Zulr8CzkQ)**
-
-Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on crypto. CASH APP for BTC ...
-
-📺 Digital Asset News
-
-👁️ 16K • 👍 810 • 💬 89 • ⏱️ 24:05 • 2d ago
+👁️ 148 • 👍 11 • 💬 18 • ⏱️ 5:04 • 8h ago
 
 ---
 

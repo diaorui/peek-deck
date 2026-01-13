@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T18:33:09.434383+00:00'
+updated: '2026-01-13T19:21:17.125352+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 18:33 UTC  
+**Last Updated:** January 13, 2026 at 19:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,318.70
+### $93,800.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +2.2%  
-**30d:** +7.8%  
-**90d:** -13.6%  
-**1y:** -3.4%  
+**24h:** +2.5%  
+**7d:** +2.6%  
+**30d:** +8.5%  
+**90d:** -13.1%  
+**1y:** -2.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1862.74B
+**Market Cap:** $1867.75B
 Rank #1
 
-**Circulating Supply:** 19,975,384 BTC
+**Circulating Supply:** 19,975,465 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--26.0%
+-25.8%
 
 **All-Time Low:** $67.81
-+137457.9%
++137795.6%
 
 ---
 
@@ -77,15 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
+**[Every crypto cycle in one chart](https://www.reddit.com/r/Bitcoin/comments/1qbpjbf/every_crypto_cycle_in_one_chart/)**
+
+I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
 
 7h ago
 
 ---
 
+**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
+
+8h ago
+
+---
+
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +101,7 @@ Rank #1
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-2h ago
+3h ago
 
 ---
 
@@ -101,21 +109,13 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-5h ago
+6h ago
 
 ---
 
 **[it just went there](https://www.reddit.com/r/Bitcoin/comments/1qboq5a/it_just_went_there/)**
 
-7h ago
-
----
-
-**[Every crypto cycle in one chart](https://www.reddit.com/r/Bitcoin/comments/1qbpjbf/every_crypto_cycle_in_one_chart/)**
-
-I think most of us have lived this at least once. The coin you sold because it was “going nowhere” suddenly takes off. The coin you almost bought but decided to “wait for a pullback” goes parabolic. And your actual portfolio… does its own thing. Not blaming the market. Just another reminder that timing, patience, and emotions matter more than we like to admit in crypto. Posting this as therapy more than analysis 😅
-
-6h ago
+8h ago
 
 ---
 
@@ -123,19 +123,19 @@ I think most of us have lived this at least once. The coin you sold because it w
 
 Bitcoin is going mainstream 🚀
 
-3h ago
-
----
-
-**[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
-
-20h ago
+4h ago
 
 ---
 
 **[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
 
-1h ago
+2h ago
+
+---
+
+**[My heart belongs to only BTC](https://www.reddit.com/r/Bitcoin/comments/1qb88fs/my_heart_belongs_to_only_btc/)**
+
+21h ago
 
 ---
 
@@ -151,6 +151,12 @@ everyone : " 2026 Bitcoin is very bullish " Bitcoin :
 
 ## Google News: "bitcoin"
 
+**[Bitcoin, privacy coins rally as Trump-Powell conflict escalates](https://www.theblock.co/post/385042/bitcoin-rally-powell-warning)**
+
+The Block • 1d ago
+
+---
+
 **[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://finance.yahoo.com/news/us-stole-chinese-scam-king-030306757.html)**
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
@@ -159,17 +165,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin's Four-Year Cycle Broken: VanEck](https://decrypt.co/354389/bitcoins-four-year-cycle-broken-vaneck)**
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-The investment manager sees a split Bitcoin outlook but is bullish on gold and AI stocks, as political risks challenge traditional market anchors.
-
-Decrypt • 4h ago
+CCN.com • 8h ago
 
 ---
 
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+**[Bitcoin Climbs Above $93K as US Inflation Holds Steady](https://decrypt.co/354409/bitcoin-climbs-above-93k-us-inflation-holds-steady)**
 
-CCN.com • 7h ago
+Bitcoin reclaimed $93,000 on Tuesday as trading volume surged by 20%, but data analysts flag that there's rising sell-side pressure.
+
+Decrypt • 1h ago
 
 ---
 
@@ -177,7 +183,21 @@ CCN.com • 7h ago
 
 The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin attempts $92K breakout as stocks hit new record on low US CPI data](https://www.tradingview.com/news/cointelegraph:25c825c2c094b:0-bitcoin-attempts-92k-breakout-as-stocks-hit-new-record-on-low-us-cpi-data/)**
+
+Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
+
+TradingView — Track All Markets • 4h ago
+
+---
+
+**[Crypto Suddenly Braced For A ‘Massive’ Shock As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/01/13/crypto-suddenly-braced-for-a-massive-shock-as-the-bitcoin-price-soars/)**
+
+Forbes • 3h ago
 
 ---
 
@@ -185,7 +205,7 @@ CoinDesk • 1h ago
 
 Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
 
-Sherwood News • 3h ago
+Sherwood News • 4h ago
 
 ---
 
@@ -197,31 +217,11 @@ CNBC • 3d ago
 
 ---
 
-**[Bitcoin attempts $92K breakout as stocks hit new record on low US CPI data](https://www.tradingview.com/news/cointelegraph:25c825c2c094b:0-bitcoin-attempts-92k-breakout-as-stocks-hit-new-record-on-low-us-cpi-data/)**
+**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
 
-Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
+Bitcoin has a lot going for it, but the near term could be bumpy.
 
-TradingView — Track All Markets • 3h ago
-
----
-
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqejnUJ9wt-oZSxxfMHVdEKoUzALPOnpe8vmOxBEye5-fx1xsPWzOldF&gaa_ts=696689eb&gaa_sig=-gRDgLkIuXMe7tRNzNzhUqUkKNqbNi81LQ6YwrdE20SRyQn6-f7oJBeE2jPn6KUOF2LnEbBo1SIqBdI32VPhEg%3D%3D)**
-
-Barron's • 7h ago
-
----
-
-**[Taste Test: Penn Quarter's new "not a MAGA" Bitcoin bar](https://www.axios.com/local/washington-dc/2026/01/13/pubkey-bitcoin-bar-review-trump-penn-quarter)**
-
-Axios • 3h ago
-
----
-
-**[Here's Why I Just Raised My 2026 Price Target for Bitcoin to $150,000](https://www.fool.com/investing/2026/01/13/heres-why-i-just-raised-my-2026-price-target-for-b/)**
-
-Patching a major vulnerability will result in a higher price for the coin.
-
-The Motley Fool • 8h ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -255,7 +255,7 @@ The crypto merchant bank's head of research said bitcoin's price in 2020 dollar 
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 21h ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 22h ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -271,7 +271,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 23h ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 1d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -309,13 +309,13 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s Next Shocking Move is Coming](https://www.youtube.com/watch?v=kAsjV4537wA)**
+**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
 
-📺 CryptosRUs
+📺 What Bitcoin Did
 
-👁️ 8K • 👍 765 • 💬 149 • ⏱️ 39:49 • 3h ago
+👁️ 76K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 1d ago
 
 ---
 
@@ -325,27 +325,17 @@ WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin D
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 627 • ⏱️ 14:21 • 19h ago
+👁️ 59K • 👍 3K • 💬 630 • ⏱️ 14:21 • 20h ago
 
 ---
 
-**[Michael Saylor | The Bitcoin Treasury Debate Gets Heated](https://www.youtube.com/watch?v=J85O-ckNxCw)**
-
-Michael Saylor joins the show for a conversation on Bitcoin, power, and the treasury company playbook. We recap 2025 and look ...
-
-📺 What Bitcoin Did
-
-👁️ 71K • 👍 3K • 💬 2K • ⏱️ 2:04:54 • 1d ago
-
----
-
-**[DOJ Indictment on Powell Causes Panic (Bitcoin Retreats)](https://www.youtube.com/watch?v=sB5EKN1o364)**
+**[Bitcoin&#39;s Next Shocking Move is Coming](https://www.youtube.com/watch?v=kAsjV4537wA)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 1K • 💬 366 • ⏱️ 41:26 • 1d ago
+👁️ 15K • 👍 1K • 💬 190 • ⏱️ 39:49 • 3h ago
 
 ---
 
@@ -355,37 +345,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 1K • 💬 493 • ⏱️ 7:34 • 23h ago
-
----
-
-**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=0J2ox23elXU)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Yoshidoll
-
-👁️ 2K • 👍 2K • 2h ago
-
----
-
-**[Crypto JUST Flipped (Are You Ready?)](https://www.youtube.com/watch?v=Q5Oh4w02Wlc)**
-
-Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 12K • 👍 742 • 💬 73 • ⏱️ 19:27 • 7h ago
-
----
-
-**[Stanley Druckenmiller reveals WHY crypto is crashing in 2026](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 2K • 💬 204 • ⏱️ 8:37 • 1d ago
+👁️ 16K • 👍 1K • 💬 489 • ⏱️ 7:34 • 1d ago
 
 ---
 
@@ -395,17 +355,55 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 63 • ⏱️ 8:17 • 1d ago
+👁️ 20K • 👍 3K • 💬 62 • ⏱️ 8:17 • 1d ago
 
 ---
 
-**[Bitcoin: The Future Reserve Currency Strategy](https://www.youtube.com/watch?v=diRkGPEBOqU)**
+**[DOJ Indictment on Powell Causes Panic (Bitcoin Retreats)](https://www.youtube.com/watch?v=sB5EKN1o364)**
 
-Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 437 • 👍 9 • 💬 41 • ⏱️ 0:53 • 4h ago
+👁️ 33K • 👍 1K • 💬 372 • ⏱️ 41:26 • 1d ago
+
+---
+
+**[Stanley Druckenmiller reveals WHY crypto is crashing in 2026](https://www.youtube.com/watch?v=Kyg-CiLd9uc)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 48K • 👍 2K • 💬 202 • ⏱️ 8:37 • 1d ago
+
+---
+
+**[THIS is crazy about Bitcoin](https://www.youtube.com/watch?v=GdKKeQNRyZE)**
+
+📺 Natalie Brunell
+
+👁️ 6K • 👍 168 • 💬 120 • ⏱️ 0:46 • 18h ago
+
+---
+
+**[The Four-Year Cycle Died. What Comes Next for Bitcoin?](https://www.youtube.com/watch?v=LwZdCQqco7w)**
+
+Is the four-year Bitcoin cycle officially dead? In this clip, Jeff Ross breaks down why the old cycle framework no longer applies, ...
+
+📺 Swan Bitcoin
+
+👁️ 6K • 👍 187 • 💬 18 • ⏱️ 1:13 • 2d ago
+
+---
+
+**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
+
+Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
+
+📺 Benjamin Cowen
+
+👁️ 61K • 👍 4K • 💬 157 • ⏱️ 10:58 • 1d ago
 
 ---
 
