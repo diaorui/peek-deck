@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-12T23:40:27.810366+00:00'
+updated: '2026-01-13T01:46:56.340416+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 12, 2026 at 23:40 UTC  
+**Last Updated:** January 13, 2026 at 01:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,112.37
+### $3,093.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -5.9%  
-**30d:** +1.1%  
-**90d:** -22.4%  
-**1y:** -1.1%  
+**24h:** -2.0%  
+**7d:** -2.1%  
+**30d:** +4.5%  
+**90d:** -20.4%  
+**1y:** -3.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.69B
+**Market Cap:** $373.00B
 Rank #2
 
-**Circulating Supply:** 120,694,719 ETH
+**Circulating Supply:** 120,694,706 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.6%
+-37.5%
 
 **All-Time Low:** $0.43
-+713197.9%
++713551.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 South Korea just opened the floodgates for institutional crypto adoption. Huge for Ethereum!
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 4h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/south-korea-ends-corporate-crypto-ban-fsc-5-percent-top-20-tokens/) • 6h ago
 
 ---
 
@@ -80,7 +80,7 @@ South Korea just opened the floodgates for institutional crypto adoption. Huge f
 
 Wondering how effective and reliable XMR / Monero is to contribute to ETH privacy as there are issues with traditional mixers like TornadoCash, could that be a replacement? Thanks for infos, just wondering through recent price rise
 
-3h ago
+5h ago
 
 ---
 
@@ -88,7 +88,15 @@ Wondering how effective and reliable XMR / Monero is to contribute to ETH privac
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
+
+---
+
+**[ETH Denver 2026 - Community Page](https://www.reddit.com/r/ethereum/comments/1qbcahz/eth_denver_2026_community_page/)**
+
+Connect with other degens attending ETH Denver and discover resources for ETH Denver.
+
+🔗 [chaching.social](https://chaching.social/communities/eth-denver-2026?id=jaQBRd74TwKxDc65akj0) • 1h ago
 
 ---
 
@@ -140,14 +148,6 @@ Hey We’re building Heard, a decision analytics platform for founders/teams: ta
 
 ---
 
-**[Keeping up with regulations](https://www.reddit.com/r/ethereum/comments/1q8ni6a/keeping_up_with_regulations/)**
-
-For people that have blockchain startups or work in the digital asset space, how are you guys keeping up with all the regulatory updates that are being published in the jurisdictions you operate in?
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -168,17 +168,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Staking goes mainstream: what 2026 could look like for ether investors](https://www.coindesk.com/markets/2026/01/07/staking-goes-mainstream-what-2026-could-look-like-for-ether-investors)**
-
-From fully staked ETFs to customizable institutional vaults, staking is evolving from a secondary consideration into a foundational pillar of Ethereum’s market structure.
-
-CoinDesk • 4h ago
-
----
-
 **[Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum](https://www.theblock.co/post/385074/vitalik-buterin-outlines-conditions-for-ossifiable-quantum-safe-ethereum)**
 
-The Block • 11h ago
+The Block • 13h ago
 
 ---
 
@@ -210,21 +202,29 @@ The Motley Fool • 1d ago
 
 The Bank of Italy has published a working paper exploring how to handle a loss of faith in a public blockchain, with Ethereum as one example. It sees it
 
-ledgerinsights.com • 6h ago
-
----
-
-**[Ethereum just solved a critical problem Bitcoin doesn't want to fix on its own network - but why?](https://cryptoslate.com/how-cryptos-biggest-problem-the-trilemma-was-finally-solved-and-why-bitcoin-should-pay-attention/)**
-
-Ethereum co-founder says "PeerDAS" and zk-proofs have finally broken the scaling ceiling, leaving Bitcoin’s conservative design looking intentionally slow.
-
-CryptoSlate • 2d ago
+ledgerinsights.com • 8h ago
 
 ---
 
 **[Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers](https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum)**
 
-thedefiant.io • 8h ago
+thedefiant.io • 10h ago
+
+---
+
+**[Ethereum locks 1mln as Vitalik Buterin warns of ‘corposlop’ – Identity crisis ahead?](https://ambcrypto.com/ethereum-locks-1mln-as-vitalik-buterin-warns-of-corposlop-identity-crisis-ahead/)**
+
+Ethereum's very soul is up for debate.
+
+AMBCrypto • 1d ago
+
+---
+
+**[Tom Lee's Bitmine stakes $3.9 billion in Ethereum, hits nearly 70% of accumulation goal](https://cryptobriefing.com/bitmine-ethereum-staked-update-70-percent-accumulation-goal/)**
+
+Bitmine has staked $3.9 billion in Ethereum, cements its position as a leading crypto treasury powerhouse, aiming to own 5% of all ETH.
+
+Crypto Briefing • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ This week will be the most important for bitcoin, ethereum and the rest of crypt
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 2K • 💬 55 • ⏱️ 8:17 • 10h ago
+👁️ 16K • 👍 2K • 💬 55 • ⏱️ 8:17 • 12h ago
 
 ---
 
@@ -248,27 +248,7 @@ As we all continue our tumble into 2026, one thing remains crystal clear... not 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 10K • 👍 1K • 💬 266 • ⏱️ 14:17 • 10h ago
-
----
-
-**[BITCOIN REPEATING HISTORY: Don&#39;t Be FOOLED!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eTLBnzBc7D4)**
-
-BITCOIN REPEATING HISTORY: Don't Be FOOLED!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 141 • 💬 153 • ⏱️ 18:43 • 2h ago
-
----
-
-**[ETH Ethereum Price Prediction: $4,300-$4600 Target](https://www.youtube.com/watch?v=O7hTuhzc4JM)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 289 • 👍 23 • 💬 64 • ⏱️ 10:08 • 6h ago
+👁️ 11K • 👍 1K • 💬 270 • ⏱️ 14:17 • 12h ago
 
 ---
 
@@ -278,37 +258,27 @@ Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays v
 
 📺 World Liberty Financial
 
-👁️ 2K • 👍 22 • 💬 5 • ⏱️ 2:01 • 2h ago
+👁️ 3K • 👍 24 • 💬 5 • ⏱️ 2:01 • 4h ago
 
 ---
 
-**[Ethereum Breakdown Looks Inevitable: Crash Incoming?](https://www.youtube.com/watch?v=j5q9B3GFsJk)**
+**[BITCOIN REPEATING HISTORY: Don&#39;t Be FOOLED!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eTLBnzBc7D4)**
 
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+BITCOIN REPEATING HISTORY: Don't Be FOOLED!!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Trade Confident
+📺 Crypto World
 
-👁️ 192 • 👍 10 • 💬 6 • ⏱️ 5:00 • 3h ago
-
----
-
-**[ETH Is Dead... Here&#39;s Why I&#39;m Buying](https://www.youtube.com/watch?v=r985AUbr13U)**
-
-Everyone says Ethereum is dead. I'm buying. Here's why. In this video, I break down the ETH/BTC chart and show you what most ...
-
-📺 Michaël van de Poppe
-
-👁️ 4K • 👍 245 • 💬 36 • ⏱️ 12:34 • 1d ago
+👁️ 3K • 👍 195 • 💬 187 • ⏱️ 18:43 • 4h ago
 
 ---
 
-**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=joApN69akMc)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Library Of Wealth
+📺 Crypto Nutshell
 
-👁️ 12K • 👍 268 • 💬 331 • ⏱️ 13:48 • 1d ago
+👁️ 13K • 👍 532 • 💬 57 • ⏱️ 19:18 • 10h ago
 
 ---
 
@@ -318,7 +288,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 5 • ⏱️ 5:01 • 9h ago
+👁️ 2K • 👍 143 • 💬 4 • ⏱️ 5:01 • 11h ago
+
+---
+
+**[Ethereum Breakdown Looks Inevitable: Crash Incoming?](https://www.youtube.com/watch?v=j5q9B3GFsJk)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 267 • 👍 10 • 💬 7 • ⏱️ 5:00 • 6h ago
+
+---
+
+**[[LEAKED] ⚠️TOM LEE &quot;ETH IS ABOUT TO SQUEEZE BECAUSE OF THIS! BMNR STOCK⚠️](https://www.youtube.com/watch?v=R5c1E7QOjLQ)**
+
+Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
+
+📺 Short The Vix
+
+👁️ 2K • 👍 195 • 💬 23 • ⏱️ 12:31 • 4h ago
 
 ---
 
@@ -329,6 +319,16 @@ Van Eck has the BEST price prediction for ETH EVER and Trump keeps promises on c
 📺 Digital Asset News
 
 👁️ 15K • 👍 803 • 💬 86 • ⏱️ 24:05 • 2d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Moment For Crypto EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=vSOeqzNiQk8)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 12K • 👍 271 • 💬 329 • ⏱️ 13:48 • 1d ago
 
 ---
 
