@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T07:47:20.882064+00:00'
+updated: '2026-01-14T08:32:35.283935+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 07:47 UTC  
+**Last Updated:** January 14, 2026 at 08:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 19h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 20h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-1h ago
+2h ago
 
 ---
 
@@ -66,13 +66,13 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-21h ago
+22h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 CES 2026 hosted the first "Ultimate Fighting Robot" (UFB) matches, where full-sized humanoid robots (including Unitree models) traded punches and kicks in a boxing ring. Unlike BattleBots, these droids weren't just smashing metal—they were teleoperated in real-time by human "pilots" using motion controllers, mimicking their movements to fight MMA-style.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026) • 11m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026) • 57m ago
 
 ---
 
@@ -96,7 +96,7 @@ CES 2026 hosted the first "Ultimate Fighting Robot" (UFB) matches, where full-si
 
 i've been thinking a lot lately about robots and the spaces they will occupy in our homes. we did some concept art last month to imagine and think where a robot lamp fits best. i have my intuition here but wanted to reach out to the community. please share your thoughts/ideas/critique, and if you there's something you imagine thats not here and share - we may illustrate it!
 
-50m ago
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ i've been thinking a lot lately about robots and the spaces they will occupy in 
 
 https://preview.redd.it/ge1vg4ccb9dg1.png?width=897&format=png&auto=webp&s=05416e49534382b7a48ae021b7b6bbd673f090c9 I recently came across an interesting article on how FANUC India is approaching “human-robot fusion” in industrial automation. The core idea isn’t robots replacing people, but robots evolving into adaptive collaborators that learn from data, assist human decision-making, and handle precision-heavy tasks while humans focus on judgment, creativity, and problem-solving. A few things that stood out to me: Automation moving beyond repetitive motion into AI-assisted adaptability Humans staying in the loop instead of being engineered out Robotics being positioned as a long-term productivity partner rather than a cost-cutting tool Article link for context (not affiliated, just sharing): https://ciolookmagazine.com/driving-intelligent-automation-how-fanuc-india-guided-by-yuki-kita-is-putting-human-robotics-fusion-on-the-global-map/
 
-1h ago
+2h ago
 
 ---
 
@@ -152,7 +152,7 @@ BBC • 2d ago
 
 Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
 
-The Robot Report • 21h ago
+The Robot Report • 22h ago
 
 ---
 
@@ -168,7 +168,7 @@ CNBC • 2d ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 7h ago
+The Free Press • 8h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Free Press • 7h ago
 
 ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -184,7 +184,7 @@ Seeking Alpha • 11h ago
 
 Sen. Bernie Sanders (I-VT) has renewed his criticism of the tech industry's investment in AI and Robotics, expressing concern about its widespread application. Making Huge Amounts Of Money In a video shared on the social media platform X on Saturday, the senator called out tech companies and CEOs, like Tesla Inc.'s (NASDAQ:TSLA) CEO Elon Musk, Nvidia Corp's (NASDAQ:NVDA) Jensen Huang, as well as Meta Platforms Inc. (NASDAQ:META) CEO Mark Zuckerberg, OpenAI CEO Sam Altman, billionaire Jeff Bezos
 
-Yahoo • 7h ago
+Yahoo • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 121K • 👍 9K • 💬 2K • ⏱️ 5:12 • 10h ago
+👁️ 121K • 👍 9K • 💬 2K • ⏱️ 5:12 • 11h ago
 
 ---
 
@@ -268,7 +268,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 560 • 👍 3 • 💬 1 • ⏱️ 0:33 • 6h ago
+👁️ 560 • 👍 3 • 💬 1 • ⏱️ 0:33 • 7h ago
 
 ---
 

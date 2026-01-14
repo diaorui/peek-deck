@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T07:47:20.863765+00:00'
+updated: '2026-01-14T08:32:35.266034+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 07:47 UTC  
+**Last Updated:** January 14, 2026 at 08:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-1h ago
+2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Slackbot, the automated assistant baked into the Salesforce-owned corporate mess
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 1h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 2h ago
 
 ---
 
@@ -81,7 +81,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
 
-🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 5h ago
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Z.ai (creators of GLM) have released an open weight image generation model that 
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 13h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -133,19 +133,19 @@ BBC • 3h ago
 
 The Trump administration greenlit Nvidia’s AI chip exports to China, a move the company says supports U.S. jobs, manufacturing and America’s leadership in artificial intelligence.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
 **[China’s Zhipu Unveils New AI Model Trained on Huawei’s Chips](https://www.bloomberg.com/news/articles/2026-01-14/china-s-zhipu-unveils-new-ai-model-trained-on-huawei-s-chips)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 21h ago
+The New York Times • 22h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 21h ago
 
 Hires of energy-related talent by Big Tech was 30% higher in 2025 than pre-AI levels.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 1h ago
 
 MUMBAI, India and SANTA CLARA, Calif., Jan. 14, 2026 (GLOBE NEWSWIRE) -- Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a global leader in IT services, consulting, and business solutions, today announced a strategic collaboration with AMD (NASDAQ: AMD) to help enterprises scale AI adoption from pilots to production, modernize legacy environments, and build secure, high performance digital workplaces. Under the collaboration, TCS and AMD plan to engage on the co-development of industry
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1h ago
 
 The new tool brings Claude Code's capabilities to non-technical users, positioning Anthropic to compete with productivity tools like Microsoft Copilot.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New Yorker • 1d ago
 
 Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
 
-The Official Microsoft Blog • 18h ago
+The Official Microsoft Blog • 19h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Official Microsoft Blog • 18h ago
 
 Microsoft says it will ask to pay higher electricity bills in areas where it’s building data centers, in an effort to prevent electricity prices for local residents from rising in those areas. The move is part of a broader plan to address rising prices and other concerns sparked by the tech industry’s massive buildout of artificial intelligence infrastructure across the United States.
 
-CNN • 16h ago
+CNN • 17h ago
 
 ---
 
@@ -209,13 +209,13 @@ CNN • 16h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 726 • 💬 513 • 13h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 726 • 💬 513 • 14h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 376 • 💬 198 • 9h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 376 • 💬 198 • 10h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -271,7 +271,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 183 • 💬 188 • 19h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 183 • 💬 188 • 20h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -285,7 +285,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 19K • 👍 661 • 💬 85 • ⏱️ 14:32 • 8h ago
+👁️ 19K • 👍 661 • 💬 85 • ⏱️ 14:32 • 9h ago
 
 ---
 
@@ -447,7 +447,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 0 • ❤️ 274 • 1h ago
+⬇️ 0 • ❤️ 274 • 2h ago
 
 ---
 
@@ -459,7 +459,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 241 • 9h ago
+⬇️ 26,414 • ❤️ 241 • 10h ago
 
 ---
 
@@ -640,7 +640,7 @@ A data-free self-evolution framework enables large language models to autonomous
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.4k • 🔱 1.1k • 2h ago
+⭐ 8.4k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 150 • 3h ago
+⭐ 4.0k • 🔱 150 • 4h ago
 
 ---
 
@@ -670,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 142 • 6h ago
+⭐ 2.3k • 🔱 142 • 7h ago
 
 ---
 
@@ -690,7 +690,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 129 • 5h ago
+⭐ 1.6k • 🔱 129 • 6h ago
 
 ---
 
@@ -720,7 +720,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.2k • 🔱 909 • 16h ago
+⭐ 1.2k • 🔱 909 • 17h ago
 
 ---
 

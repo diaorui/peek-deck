@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T07:47:20.872518+00:00'
+updated: '2026-01-14T08:32:35.274604+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 07:47 UTC  
+**Last Updated:** January 14, 2026 at 08:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Big jump in price today!
 
-9h ago
+10h ago
 
 ---
 
@@ -95,13 +95,13 @@ Big jump in price today!
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-18h ago
+19h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,19 +109,19 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-15h ago
+16h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
 I was just about to buy and suddenly the candle goes vertical and no joke it went from 95 to over 96 in seconds (on kraken pro anyway).
 
-9h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ I was just about to buy and suddenly the candle goes vertical and no joke it wen
 
 The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 14h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 12h ago
+dlnews.com • 13h ago
 
 ---
 
@@ -187,7 +187,7 @@ thestreet.com • 1d ago
 
 Strive acquires Semler Scientific, boosting Bitcoin holdings to 12,797.9 BTC, but shares fall 12% after the all-stock deal approval.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Decrypt • 11h ago
 
 **[Strive Advances Semler Merger and Expands Bitcoin Holdings](https://www.tipranks.com/news/company-announcements/strive-advances-semler-merger-and-expands-bitcoin-holdings)**
 
-TipRanks • 14h ago
+TipRanks • 15h ago
 
 ---
 
@@ -209,7 +209,7 @@ TipRanks • 14h ago
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -319,7 +319,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 340 • ⏱️ 5:56 • 6h ago
+👁️ 18K • 👍 1K • 💬 340 • ⏱️ 5:56 • 7h ago
 
 ---
 
@@ -329,7 +329,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 4K • 💬 198 • ⏱️ 9:23 • 9h ago
+👁️ 50K • 👍 4K • 💬 198 • ⏱️ 9:23 • 10h ago
 
 ---
 
@@ -339,7 +339,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 9K • 👍 923 • 💬 264 • ⏱️ 26:56 • 5h ago
+👁️ 9K • 👍 923 • 💬 264 • ⏱️ 26:56 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 239 • 💬 158 • ⏱️ 10:22 • 2h ago
+👁️ 2K • 👍 239 • 💬 158 • ⏱️ 10:22 • 3h ago
 
 ---
 
@@ -379,7 +379,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 425 • 💬 58 • ⏱️ 8:20 • 8h ago
+👁️ 7K • 👍 425 • 💬 58 • ⏱️ 8:20 • 9h ago
 
 ---
 
@@ -389,7 +389,7 @@ CPI is out today, but most traders are missing a crucial detail that makes this 
 
 📺 Crypto Banter
 
-👁️ 31K • 👍 2K • 💬 31 • ⏱️ 29:19 • 14h ago
+👁️ 31K • 👍 2K • 💬 31 • ⏱️ 29:19 • 15h ago
 
 ---
 
@@ -399,7 +399,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 248 • 💬 73 • ⏱️ 5:45 • 9h ago
+👁️ 5K • 👍 248 • 💬 73 • ⏱️ 5:45 • 10h ago
 
 ---
 

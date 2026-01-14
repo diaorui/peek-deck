@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T07:47:20.878758+00:00'
+updated: '2026-01-14T08:32:35.280637+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 07:47 UTC  
+**Last Updated:** January 14, 2026 at 08:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have one. What do you use?
 
-12m ago
+58m ago
 
 ---
 
@@ -99,7 +99,7 @@ vulnerabilities reported through the Ethereum Foundation bug bounty program.
 
 As with all our previous releases,...
 
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 5h ago
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 6h ago
 
 ---
 
@@ -159,7 +159,7 @@ IMO there are three problems to doing so: Ideally figure out an index to track t
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -173,13 +173,13 @@ Cryptonews • 8h ago
 
 Standard Chartered has published yet another uber-bullish prediction for Ethereum BITSTAMP:ETHUSD.The multinational banking institution is now forecasting that the asset will outperform Bitcoin BITSTAMP:BTCUSD throughout 2026. The bank’s team of analysts, which is spearheaded by Geoff Kendrick, is…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
 **[ETHGas launches GWEI token to govern Ethereum blockspace and make onchain execution predictable](https://www.theblock.co/post/385414/ethgas-launches-gwei-token-govern-ethereum-blockspace-onchain-execution-predictable)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 14h ago
 
 Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
 
-dlnews.com • 21h ago
+dlnews.com • 22h ago
 
 ---
 
@@ -201,7 +201,7 @@ ETF Trends • 1d ago
 
 The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 16h ago
 
 Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
 
-24/7 Wall St. • 16h ago
+24/7 Wall St. • 17h ago
 
 ---
 
@@ -223,7 +223,7 @@ TradingView — Track All Markets • 11h ago
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 20h ago
+CCN.com • 21h ago
 
 ---
 
@@ -237,7 +237,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 493 • 💬 53 • ⏱️ 17:37 • 16h ago
+👁️ 12K • 👍 493 • 💬 53 • ⏱️ 17:37 • 17h ago
 
 ---
 
@@ -247,7 +247,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 4K • 💬 198 • ⏱️ 9:23 • 9h ago
+👁️ 50K • 👍 4K • 💬 198 • ⏱️ 9:23 • 10h ago
 
 ---
 
@@ -267,7 +267,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 142 • 💬 17 • ⏱️ 6:20 • 6h ago
+👁️ 1K • 👍 142 • 💬 17 • ⏱️ 6:20 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 136 • 💬 6 • ⏱️ 3:31 • 17h ago
+👁️ 2K • 👍 136 • 💬 6 • ⏱️ 3:31 • 18h ago
 
 ---
 
