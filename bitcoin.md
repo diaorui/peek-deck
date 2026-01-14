@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T05:49:55.407961+00:00'
+updated: '2026-01-14T06:36:38.419429+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 05:49 UTC  
+**Last Updated:** January 14, 2026 at 06:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +4.3%  
-**30d:** +8.4%  
-**90d:** -11.0%  
-**1y:** -5.3%  
+**24h:** +2.8%  
+**7d:** +3.9%  
+**30d:** +8.0%  
+**90d:** -11.3%  
+**1y:** -5.7%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Big jump in price today!
 
-7h ago
+8h ago
 
 ---
 
@@ -101,13 +101,13 @@ Big jump in price today!
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-16h ago
+17h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -115,7 +115,13 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-13h ago
+14h ago
+
+---
+
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
+
+2h ago
 
 ---
 
@@ -127,25 +133,19 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 ---
 
+**[Bitcoin responds to beating up Danny](https://www.reddit.com/r/Bitcoin/comments/1qcbbkb/bitcoin_responds_to_beating_up_danny/)**
+
+Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
+
+4h ago
+
+---
+
 **[That was kinda crazy](https://www.reddit.com/r/Bitcoin/comments/1qc5ams/that_was_kinda_crazy/)**
 
 I was just about to buy and suddenly the candle goes vertical and no joke it went from 95 to over 96 in seconds (on kraken pro anyway).
 
-7h ago
-
----
-
-**[Singer Teyana Taylor spotted wearing a Satoshi Nakamoto jacket after the Golden Globes.](https://www.reddit.com/r/Bitcoin/comments/1qbtwlo/singer_teyana_taylor_spotted_wearing_a_satoshi/)**
-
-Bitcoin is going mainstream 🚀
-
-14h ago
-
----
-
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
-
-1h ago
+8h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bitcoin is going mainstream 🚀
 
 The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 12h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 10h ago
+dlnews.com • 11h ago
 
 ---
 
@@ -183,25 +183,37 @@ thestreet.com • 1d ago
 
 ---
 
-**[VanEck Says Bitcoin Could Hit $53M. Here's What It Would Take](https://finance.yahoo.com/news/vaneck-says-bitcoin-could-hit-204001222.html)**
+**[Bitcoin Advocates Press US Lawmakers on Stablecoin Tax Rules](https://finance.yahoo.com/news/bitcoin-advocates-press-us-lawmakers-051610918.html)**
 
-Bitcoin could reach $53.4 million by 2050, according to VanEck. VanEck said in a Jan. 8 post that in its bull case, Bitcoin captures 20% of international trade and 10% of domestic GDP, sending its value to $53.4 million by...
+The groups urged Congress to extend crypto tax relief beyond stablecoins, warning the current approach would not simplify everyday payments.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Why Ethereum Could Be Ready to Outperform Bitcoin in 2026](https://finance.yahoo.com/news/why-ethereum-could-ready-outperform-054906984.html)**
+
+Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
+
+Yahoo Finance • 47m ago
+
+---
+
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+
+CCN.com • 19h ago
+
+---
+
+**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
+
+Bloomberg.com • 3h ago
 
 ---
 
 **[Bitcoin, XRP surge amid rising US-Iran tensions](https://www.thestreet.com/crypto/markets/bitcoin-xrp-surge-amid-rising-us-iran-tensions)**
 
-thestreet.com • 8h ago
-
----
-
-**[Bitcoin Short-Term Holders Near A Profit Flip: A Key Level Comes Into Focus](https://www.tradingview.com/news/newsbtc:416605423094b:0-bitcoin-short-term-holders-near-a-profit-flip-a-key-level-comes-into-focus/)**
-
-Bitcoin has started the year on firmer footing, recovering from late-2025 weakness and pushing back toward the $92,000 level. Price action has improved, and short-term momentum has turned constructive, but conviction remains fragile. Despite the rebound, Bitcoin continues to trade within a broader…
-
-TradingView — Track All Markets • 7h ago
+thestreet.com • 9h ago
 
 ---
 
@@ -210,22 +222,6 @@ TradingView — Track All Markets • 7h ago
 Precious metals hit new highs as political pressure on the Federal Reserve spurred a safe-haven rush ahead of critical U.S. inflation data.
 
 Decrypt • 1d ago
-
----
-
-**[Bitcoin is “transitioning out of its most stressed phase”](https://sherwood.news/crypto/bitcoin-is-transitioning-out-of-its-most-stressed-phase/)**
-
-Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
-
-Sherwood News • 14h ago
-
----
-
-**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://beincrypto.com/us-stole-chinese-scam-kings-15b-bitcoin/)**
-
-China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
-
-BeInCrypto • 2d ago
 
 ---
 
@@ -319,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 1K • 💬 210 • ⏱️ 5:56 • 4h ago
+👁️ 12K • 👍 1K • 💬 210 • ⏱️ 5:56 • 5h ago
 
 ---
 
@@ -329,7 +325,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 176 • ⏱️ 9:23 • 7h ago
+👁️ 39K • 👍 3K • 💬 176 • ⏱️ 9:23 • 8h ago
 
 ---
 
@@ -339,7 +335,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 4K • 👍 566 • 💬 173 • ⏱️ 26:56 • 3h ago
+👁️ 4K • 👍 566 • 💬 173 • ⏱️ 26:56 • 4h ago
 
 ---
 
@@ -359,7 +355,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 394 • 💬 60 • ⏱️ 8:20 • 6h ago
+👁️ 6K • 👍 394 • 💬 60 • ⏱️ 8:20 • 7h ago
 
 ---
 
@@ -369,7 +365,7 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 2K • 👍 202 • 💬 54 • ⏱️ 3:40 • 5h ago
+👁️ 2K • 👍 202 • 💬 54 • ⏱️ 3:40 • 6h ago
 
 ---
 
@@ -379,7 +375,7 @@ CPI is out today, but most traders are missing a crucial detail that makes this 
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 29 • ⏱️ 29:19 • 12h ago
+👁️ 29K • 👍 2K • 💬 29 • ⏱️ 29:19 • 13h ago
 
 ---
 
@@ -399,7 +395,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 North Idaho Nomads
 
-👁️ 4K • 👍 3K • 1h ago
+👁️ 4K • 👍 3K • 2h ago
 
 ---
 
@@ -409,7 +405,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 188 • ⏱️ 39:49 • 14h ago
+👁️ 24K • 👍 1K • 💬 188 • ⏱️ 39:49 • 15h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T05:49:55.417141+00:00'
+updated: '2026-01-14T06:36:38.428623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 05:49 UTC  
+**Last Updated:** January 14, 2026 at 06:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 17h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 18h ago
 
 ---
 
@@ -45,6 +45,14 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
 12h ago
+
+---
+
+**[How many fingers does a robot really need?](https://www.reddit.com/r/robotics/comments/1qcfite/how_many_fingers_does_a_robot_really_need/)**
+
+Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
+
+35m ago
 
 ---
 
@@ -58,7 +66,13 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-19h ago
+20h ago
+
+---
+
+**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
+
+11h ago
 
 ---
 
@@ -66,19 +80,21 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-22h ago
+23h ago
 
 ---
 
-**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
+**[Human Robot Fusion in Manufacturing. Is This the Next Real Shift or Just Better Automation Branding?](https://www.reddit.com/r/robotics/comments/1qcfrdk/human_robot_fusion_in_manufacturing_is_this_the/)**
 
-10h ago
+https://preview.redd.it/ge1vg4ccb9dg1.png?width=897&format=png&auto=webp&s=05416e49534382b7a48ae021b7b6bbd673f090c9 I recently came across an interesting article on how FANUC India is approaching “human-robot fusion” in industrial automation. The core idea isn’t robots replacing people, but robots evolving into adaptive collaborators that learn from data, assist human decision-making, and handle precision-heavy tasks while humans focus on judgment, creativity, and problem-solving. A few things that stood out to me: Automation moving beyond repetitive motion into AI-assisted adaptability Humans staying in the loop instead of being engineered out Robotics being positioned as a long-term productivity partner rather than a cost-cutting tool Article link for context (not affiliated, just sharing): https://ciolookmagazine.com/driving-intelligent-automation-how-fanuc-india-guided-by-yuki-kita-is-putting-human-robotics-fusion-on-the-global-map/
+
+23m ago
 
 ---
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -86,21 +102,7 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-12h ago
-
----
-
-**[Curated 200+ papers on robot foundation models, VLAs, and world models](https://www.reddit.com/r/robotics/comments/1qc6r6l/curated_200_papers_on_robot_foundation_models/)**
-
-Made a list tracking the Physical AI space — foundation models that control robots. Covers Vision-Language-Action (VLA) models like RT-2 and π₀, world models (DreamerV3, Genie 2), diffusion policies, real-world deployment and latency problems, cross-embodiment transfer, humanoids, manipulation, and navigation. Also datasets (Open X-Embodiment, DROID) and sim platforms (Isaac, ManiSkill3, Genesis). GitHub in comments. PRs welcome.
-
-🔗 [GitHub](https://github.com/keon/awesome-physical-ai) • 6h ago
-
----
-
-**[Driverless delivery vans in China plow through crumbling roads, fresh concrete, motorcycles...](https://www.reddit.com/r/robotics/comments/1qaqycu/driverless_delivery_vans_in_china_plow_through/)**
-
-1d ago
+13h ago
 
 ---
 
@@ -111,12 +113,6 @@ Made a list tracking the Physical AI space — foundation models that control ro
 **[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
 
 Reuters • 1d ago
-
----
-
-**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -136,19 +132,41 @@ BBC • 2d ago
 
 ---
 
-**[Schaeffler to deploy hundreds of Humanoid robots in its factories](https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/)**
-
-Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
-
-The Robot Report • 19h ago
-
----
-
 **[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
 
 Home robots need common sense behavior and a deep understanding of the physical world.
 
 1X | Home Robots • 1d ago
+
+---
+
+**[Hyundai Motor Shares Hit Records as Robotics Drive $24 Billion Rally](https://finance.yahoo.com/news/hyundai-motor-shares-hit-records-175641807.html)**
+
+Hyundai Motor group stocks surge after Atlas robot debut and Nvidia partnership lifts robotics optimism.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
+
+The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
+
+The Free Press • 6h ago
+
+---
+
+**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
+
+ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
+
+Seeking Alpha • 10h ago
+
+---
+
+**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -160,27 +178,11 @@ CNBC • 2d ago
 
 ---
 
-**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
+**[Robots compete on the ice: Frozen arena becomes a tech playground](https://news.cgtn.com/news/2026-01-13/Robots-compete-on-the-ice-Frozen-arena-becomes-a-tech-playground-1JTGZr9Y7Cw/p.html)**
 
-ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
+Robots hit the snow at the first Jingyue Robotics Ice and Snow Fun Competition, held on Saturday in Changchun, northeast China's Jilin Province, turning a frozen arena into a testing ground for intelligent technology.From skiing and sled pulling to snowball
 
-Seeking Alpha • 9h ago
-
----
-
-**[Leadshine Achieves Great Success at CES 2026, Entering US and European Robotics Supply Chain](https://finance.yahoo.com/news/leadshine-achieves-great-success-ces-035700514.html)**
-
-From January 6th to 9th, 2026, Leadshine made its debut at the Consumer Electronics Show (CES 2026) in Las Vegas. As a "full-stack solution provider for humanoid robot core components," Leadshine captured worldwide attention in the North Hall's humanoid robot core exhibition area, showcasing its comprehensive family of core components, from the "heart" (motors) to the "skeleton" (joints) and the "fingertips" (dexterous hands). With its innovative solutions featuring high density, high responsive
-
-Yahoo Finance • 1h ago
-
----
-
-**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
-
-Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
-
-WBAL-TV • 3d ago
+news.cgtn.com • 1d ago
 
 ---
 
@@ -244,7 +246,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 394 • 👍 1 • ⏱️ 0:33 • 4h ago
+👁️ 394 • 👍 1 • ⏱️ 0:33 • 5h ago
 
 ---
 
@@ -252,7 +254,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Wowearth
 
-👁️ 30K • 👍 443 • 💬 39 • ⏱️ 1:16 • 19h ago
+👁️ 30K • 👍 443 • 💬 39 • ⏱️ 1:16 • 20h ago
 
 ---
 
@@ -262,7 +264,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 96K • 👍 8K • 💬 1K • ⏱️ 5:12 • 8h ago
+👁️ 96K • 👍 8K • 💬 1K • ⏱️ 5:12 • 9h ago
 
 ---
 
@@ -272,7 +274,7 @@ This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with exc
 
 📺 KhanFlicks
 
-👁️ 2K • 👍 25 • 💬 31 • ⏱️ 8:09 • 16h ago
+👁️ 2K • 👍 25 • 💬 31 • ⏱️ 8:09 • 17h ago
 
 ---
 
@@ -282,7 +284,7 @@ Robot Scoring Demonstrations and Breakdown | Ri3D Cranberry Alarm | REBUILT 2026
 
 📺 FUN Robotics Network
 
-👁️ 9K • 👍 242 • 💬 13 • ⏱️ 57:02 • 10h ago
+👁️ 9K • 👍 242 • 💬 13 • ⏱️ 57:02 • 11h ago
 
 ---
 
