@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T11:22:13.174832+00:00'
+updated: '2026-01-14T11:44:12.247377+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 11:22 UTC  
+**Last Updated:** January 14, 2026 at 11:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-44m ago
+1h ago
 
 ---
 
@@ -201,23 +201,23 @@ The Jerusalem Post • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
-
-Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
-
-📺 Kim Java
-
-👁️ 374K • 👍 11K • 💬 658 • ⏱️ 17:09 • 1d ago
-
----
-
 **[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
 
 Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
 
 📺 CNBC
 
-👁️ 137K • 👍 2K • 💬 358 • ⏱️ 11:46 • 2d ago
+👁️ 138K • 👍 2K • 💬 359 • ⏱️ 11:46 • 2d ago
+
+---
+
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+
+📺 Kim Java
+
+👁️ 378K • 👍 11K • 💬 670 • ⏱️ 17:09 • 1d ago
 
 ---
 
@@ -227,7 +227,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 10K • 👍 583 • 💬 37 • ⏱️ 9:28 • 3d ago
+👁️ 10K • 👍 586 • 💬 37 • ⏱️ 9:28 • 3d ago
 
 ---
 
@@ -237,17 +237,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 980K • 👍 31K • 💬 954 • ⏱️ 0:39 • 5d ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 136K • 👍 10K • 💬 2K • ⏱️ 5:12 • 13h ago
+👁️ 981K • 👍 31K • 💬 958 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -267,7 +257,27 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 667 • 👍 3 • 💬 1 • ⏱️ 0:33 • 10h ago
+👁️ 719 • 👍 5 • 💬 1 • ⏱️ 0:33 • 10h ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 146K • 👍 10K • 💬 2K • ⏱️ 5:12 • 14h ago
+
+---
+
+**[The FUTURE of ROBOTS? AGIBOT X2 at CES 2026](https://www.youtube.com/watch?v=vllp72F8njU)**
+
+This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with excitement around what could be the next major leap ...
+
+📺 KhanFlicks
+
+👁️ 4K • 👍 26 • 💬 33 • ⏱️ 8:09 • 22h ago
 
 ---
 
@@ -277,7 +287,7 @@ When a robo-cleaner can notify you that a bar of gold was left on your living ro
 
 📺 mryeester
 
-👁️ 95K • 👍 5K • 💬 175 • ⏱️ 1:06 • 4d ago
+👁️ 96K • 👍 5K • 💬 177 • ⏱️ 1:06 • 4d ago
 
 ---
 
@@ -288,16 +298,6 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 📺 CNET
 
 👁️ 136K • 👍 458 • 💬 336 • ⏱️ 5:07 • 6d ago
-
----
-
-**[BENDBOT V7 - RESULTS! Merrick &amp; #LibertyBarros #shorts #robot #gottalent  #flexible #agt #trend](https://www.youtube.com/watch?v=fZ7yx4NtoI0)**
-
-BENDBOT V7 - RESULTS! Merrick & #LibertyBarros #shorts #robot #gottalent #flexible #agt #trend.
-
-📺 VibeTwist⚡1000
-
-👁️ 32K • 💬 3 • ⏱️ 0:11 • 5d ago
 
 ---
 

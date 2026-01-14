@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T11:22:13.165440+00:00'
+updated: '2026-01-14T11:44:12.238048+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 11:22 UTC  
+**Last Updated:** January 14, 2026 at 11:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1900.03B
+**Market Cap:** $1895.71B
 Rank #1
 
-**Circulating Supply:** 19,975,671 BTC
+**Circulating Supply:** 19,975,706 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.6%
+-24.7%
 
 **All-Time Low:** $67.81
-+140041.6%
++139851.3%
 
 ---
 
@@ -103,7 +103,7 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-12h ago
+13h ago
 
 ---
 
@@ -145,7 +145,7 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
-8h ago
+9h ago
 
 ---
 
@@ -155,7 +155,7 @@ Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
 **[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -315,17 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 378 • ⏱️ 5:56 • 10h ago
-
----
-
-**[The Next Great Depression Is NOW?! (What it Means for Bitcoin)](https://www.youtube.com/watch?v=LVv1NHFXon8)**
-
-The Fed's latest moves aren't just monetary policy — they're signals. Quiet, coordinated, and global. Powell's speech and the ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 1K • 💬 177 • ⏱️ 15:44 • 11h ago
+👁️ 22K • 👍 1K • 💬 455 • ⏱️ 5:56 • 10h ago
 
 ---
 
@@ -335,7 +325,27 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 4K • 💬 204 • ⏱️ 9:23 • 12h ago
+👁️ 61K • 👍 4K • 💬 225 • ⏱️ 9:23 • 13h ago
+
+---
+
+**[The Next Great Depression Is NOW?! (What it Means for Bitcoin)](https://www.youtube.com/watch?v=LVv1NHFXon8)**
+
+The Fed's latest moves aren't just monetary policy — they're signals. Quiet, coordinated, and global. Powell's speech and the ...
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 1K • 💬 168 • ⏱️ 15:44 • 11h ago
+
+---
+
+**[MY EXACT TRADING PLAN FOR THIS BITCOIN PUMP](https://www.youtube.com/watch?v=QTH4YZd8kjU)**
+
+Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ...
+
+📺 100XClub
+
+👁️ 3K • 👍 604 • 💬 141 • ⏱️ 9:23 • 2h ago
 
 ---
 
@@ -345,27 +355,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 13K • 👍 1K • 💬 298 • ⏱️ 26:56 • 8h ago
-
----
-
-**[Why Bitcoin Is Up Today](https://www.youtube.com/watch?v=43dND20hWSA)**
-
-Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this fresh high in just 24 hours. Bitcoin made a nice ...
-
-📺 Satoshi Alliance
-
-👁️ 3K • 👍 277 • 💬 102 • ⏱️ 3:40 • 10h ago
-
----
-
-**[BITCOIN: NEW SIGNAL FLASHING!!! #BTC Price Prediction &amp; Crypto News Today](https://www.youtube.com/watch?v=atj8JR-9N0o)**
-
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
-
-📺 Road To $1 Million USD
-
-👁️ 5K • 👍 258 • 💬 73 • ⏱️ 5:45 • 12h ago
+👁️ 15K • 👍 1K • 💬 387 • ⏱️ 26:56 • 9h ago
 
 ---
 
@@ -375,17 +365,37 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 385 • 💬 185 • ⏱️ 10:22 • 6h ago
+👁️ 6K • 👍 466 • 💬 32 • ⏱️ 10:22 • 6h ago
 
 ---
 
-**[CRYPTO MARKET HEATS UP AS BITCOIN BREAKS OUT &amp; ALTCOINS ARE SET TO FOLLOW!](https://www.youtube.com/watch?v=06KRHHYI-kw)**
+**[Crypto Ghost Town](https://www.youtube.com/watch?v=YA-7M-01d84)**
 
-Crypto News: Bitcoin crosses $95000 again and the total altcoin market looks primed to pump higher. Major updates on the crypto ...
+Why does crypto feel like a ghost town? For inquiries: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
 
-📺 Thinking Crypto
+📺 Benjamin Cowen
 
-👁️ 3K • 👍 365 • 💬 46 • ⏱️ 17:44 • 6h ago
+👁️ 53K • 👍 3K • 💬 319 • ⏱️ 29:39 • 15h ago
+
+---
+
+**[BITCOIN: NEW SIGNAL FLASHING!!! #BTC Price Prediction &amp; Crypto News Today](https://www.youtube.com/watch?v=atj8JR-9N0o)**
+
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+
+📺 Road To $1 Million USD
+
+👁️ 5K • 👍 264 • 💬 84 • ⏱️ 5:45 • 13h ago
+
+---
+
+**[Why Bitcoin Is Up Today](https://www.youtube.com/watch?v=43dND20hWSA)**
+
+Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this fresh high in just 24 hours. Bitcoin made a nice ...
+
+📺 Satoshi Alliance
+
+👁️ 3K • 👍 302 • 💬 114 • ⏱️ 3:40 • 11h ago
 
 ---
 
@@ -396,16 +406,6 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 📺 Classified Defense Files
 
 👁️ 29K • 👍 5K • 12h ago
-
----
-
-**[BITCOIN](https://www.youtube.com/watch?v=9hAIFCcW6gc)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 8K • 👍 434 • 💬 74 • ⏱️ 8:20 • 11h ago
 
 ---
 

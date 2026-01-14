@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T11:22:13.156888+00:00'
+updated: '2026-01-14T11:44:12.229495+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 11:22 UTC  
+**Last Updated:** January 14, 2026 at 11:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice:
 
 Like a lot of people here, I keep seeing new AI tools pop up every single day. Some are amazing, some are half-baked, and some disappear a month later. After bookmarking many random sites, I realized there wasn’t a clean, centralized place to explore solid AI tools without the noise. So I ended up building top-ai-sites.com What it is A curated directory of AI websites and tools, organized so you can actually find something useful instead of scrolling endlessly. What makes it different 🔍 Hand-picked AI tools (not auto-scraped junk) 🧠 Covers multiple categories: writing, coding, design, productivity, and more 🚀 Easy to browse when you just want inspiration or a specific solution 🆓 Free to use — no sign-up required Who it’s for People experimenting with AI and want to discover new tools Founders looking for AI services to speed up work Developers & creators who want to stay updated without doomscrolling Anyone overwhelmed by “Top 500 AI tools” lists 😅 Why I’m sharing here I built this because.... I wanted it, and I figured others here might find it useful too :). I’m actively improving it, so feedback (good or bad) is genuinely welcome. 👉 Check it out: https://top-ai-sites.com If you have favorite AI tools you think should be listed - or ideas to make it better - drop a comment. Happy to iterate based on what the community actually wants. Thanks!🙌I got tired of hunting for good AI tools, so I made"top ai sites"
 
-57m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ Z.ai (creators of GLM) have released an open weight image generation model that 
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-23h ago
+1d ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 1d ago
 
 **[AI speeds up work and creates more of it](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 48m ago
 
 Workday, Inc (NASDAQ: WDAY) today released new global research showing that while AI is delivering productivity gains, many organizations aren't fully capturing its value. Employees are saving meaningful time with AI tools, but too often those gains are being absorbed by rework – fixing mistakes, rewriting content, and double-checking outputs from generic tools – leaving significant value on the table.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ BBC • 7h ago
 
 The Trump administration greenlit Nvidia’s AI chip exports to China, a move the company says supports U.S. jobs, manufacturing and America’s leadership in artificial intelligence.
 
-Fox Business • 4h ago
+Fox Business • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ Fox Business • 4h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 792 • 💬 567 • 16h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 792 • 💬 567 • 17h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -225,7 +225,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 330 • 💬 98 • 16h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 330 • 💬 98 • 17h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -271,7 +271,7 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 176 • 💬 219 • 16h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 176 • 💬 219 • 17h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -285,7 +285,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 23K • 👍 727 • 💬 84 • ⏱️ 14:32 • 12h ago
+👁️ 25K • 👍 782 • 💬 91 • ⏱️ 14:32 • 12h ago
 
 ---
 
@@ -295,7 +295,7 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Wes Roth
 
-👁️ 94K • 👍 3K • 💬 705 • ⏱️ 23:05 • 2d ago
+👁️ 94K • 👍 3K • 💬 709 • ⏱️ 23:05 • 2d ago
 
 ---
 
@@ -315,7 +315,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 250K • 👍 25K • 💬 3K • ⏱️ 11:40 • 20h ago
+👁️ 266K • 👍 26K • 💬 3K • ⏱️ 11:40 • 20h ago
 
 ---
 
@@ -335,17 +335,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 59K • 👍 451 • 💬 107 • ⏱️ 7:57 • 1d ago
-
----
-
-**[Why Rezolve AI Is Still Under $4 — And Why That May Change Fast](https://www.youtube.com/watch?v=3UuuNo6ec9E)**
-
-rezolveai #rzlv #rezolve Why Resolve AI Is Still Under $4 — And Why That May Change Fast Before numbers, charts, or hype ...
-
-📺 Stocks News
-
-👁️ 1K • 👍 35 • 💬 26 • ⏱️ 7:54 • 20h ago
+👁️ 60K • 👍 456 • 💬 108 • ⏱️ 7:57 • 1d ago
 
 ---
 
@@ -355,27 +345,37 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 274K • 👍 6K • 💬 289 • ⏱️ 0:23 • 1d ago
+👁️ 294K • 👍 6K • 💬 290 • ⏱️ 0:23 • 1d ago
 
 ---
 
-**[Which AI Retopology Is The Best? I Tested Them All](https://www.youtube.com/watch?v=3hagi51IxeY)**
+**[Why Rezolve AI Is Still Under $4 — And Why That May Change Fast](https://www.youtube.com/watch?v=3UuuNo6ec9E)**
 
-The new wave of "AI Retopology" tools claims to fix many generation's errors with one click. Can we finally get game-ready assets ...
+rezolveai #rzlv #rezolve Why Resolve AI Is Still Under $4 — And Why That May Change Fast Before numbers, charts, or hype ...
 
-📺 Stefan 3D AI Lab
+📺 Stocks News
 
-👁️ 10K • 👍 514 • 💬 54 • ⏱️ 13:39 • 2d ago
+👁️ 1K • 👍 35 • 💬 26 • ⏱️ 7:54 • 21h ago
 
 ---
 
-**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
+**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
 
-Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
+I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
 
-📺 AI Revolution
+📺 I Ask AI
 
-👁️ 41K • 👍 1K • 💬 55 • ⏱️ 14:29 • 2d ago
+👁️ 178K • 👍 15K • 💬 3K • ⏱️ 13:08 • 1d ago
+
+---
+
+**[Marking Exam Done by A.I. - Sixty Symbols](https://www.youtube.com/watch?v=JcQPAZP7-sE)**
+
+Physics Professor Phil Moriarty puts ChatGPT to the test with a second-year quantum mechanics exam... Extra footage from this ...
+
+📺 Sixty Symbols
+
+👁️ 91K • 👍 4K • 💬 803 • ⏱️ 17:17 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 941 • 6d ago
+⬇️ 1,064,063 • ❤️ 955 • 6d ago
 
 ---
 
@@ -403,31 +403,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 36,933 • ❤️ 582 • 6d ago
-
----
-
-**[HY-MT1.5-1.8B](https://huggingface.co/tencent/HY-MT1.5-1.8B)**
-
-*Tencent*
-
-HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, offering high-speed, high-quality translation comparable to larger models. It is optimized for edge device deployment and real-time scenarios, with capabilities for terminology intervention, contextual translation, and formatted translation.
-
-`translation` `2.0B`
-
-⬇️ 13,243 • ❤️ 756 • 13d ago
-
----
-
-**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
-
-*NVIDIA*
-
-Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
-
-`automatic-speech-recognition`
-
-⬇️ 3,897 • ❤️ 351 • 8d ago
+⬇️ 36,933 • ❤️ 593 • 6d ago
 
 ---
 
@@ -439,19 +415,19 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 329 • 5h ago
+⬇️ 203 • ❤️ 385 • 5h ago
 
 ---
 
-**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
+**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
 
-*Liquid AI*
+*NVIDIA*
 
-LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
+Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
 
-`text-generation` `1.2B`
+`automatic-speech-recognition`
 
-⬇️ 22,649 • ❤️ 322 • 5d ago
+⬇️ 3,897 • ❤️ 357 • 8d ago
 
 ---
 
@@ -463,19 +439,19 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 243 • 13h ago
+⬇️ 32,276 • ❤️ 247 • 13h ago
 
 ---
 
-**[LFM2.5-Audio-1.5B](https://huggingface.co/LiquidAI/LFM2.5-Audio-1.5B)**
+**[Qwen3-VL-Embedding-8B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B)**
 
-*Liquid AI*
+*Qwen*
 
-LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time speech-to-speech conversational interactions with low latency. It supports interleaved and sequential generation for tasks like ASR, TTS, and seamless chatbot conversations.
+Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimensional vectors from text, images, and videos for tasks like retrieval and clustering. It supports over 30 languages and customizable embedding dimensions, enabling efficient cross-modal understanding and search.
 
-`audio-to-audio` `1.5B`
+`image-to-text` `8.1B`
 
-⬇️ 1,447 • ❤️ 245 • 8d ago
+⬇️ 26,915 • ❤️ 231 • 4d ago
 
 ---
 
@@ -491,15 +467,39 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 ---
 
-**[Qwen3-VL-Embedding-8B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-8B)**
+**[Qwen3-VL-Embedding-2B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B)**
 
 *Qwen*
 
-Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimensional vectors from text, images, and videos for tasks like retrieval and clustering. It supports over 30 languages and customizable embedding dimensions, enabling efficient cross-modal understanding and search.
+Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generates high-dimensional vectors for text, images, and videos. It excels at cross-modal understanding and retrieval tasks, supporting over 30 languages and customizable embedding dimensions for flexible integration.
 
-`image-to-text` `8.1B`
+`image-to-text` `2.1B`
 
-⬇️ 26,915 • ❤️ 225 • 4d ago
+⬇️ 28,833 • ❤️ 207 • 4d ago
+
+---
+
+**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
+
+*Liquid AI*
+
+LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
+
+`text-generation` `1.2B`
+
+⬇️ 22,649 • ❤️ 322 • 5d ago
+
+---
+
+**[AgentCPM-Explore](https://huggingface.co/openbmb/AgentCPM-Explore)**
+
+*OpenBMB*
+
+AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-horizon tasks across 8 benchmarks like GAIA and BrowserComp. It features over 100 rounds of continuous interaction, multi-source validation, and dynamic strategy adjustment for on-device deep research.
+
+`text-generation` `4.0B`
+
+⬇️ 77 • ❤️ 174 • 2h ago
 
 ---
 
@@ -513,7 +513,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 177 • 💬 5 • ⭐ 4,813 • 2mo ago
+▲ 178 • 💬 5 • ⭐ 4,813 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -525,7 +525,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 105 • 💬 2 • ⭐ 2,266 • 7d ago
+▲ 106 • 💬 3 • ⭐ 2,334 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -537,7 +537,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 25 • 💬 2 • ⭐ 938 • 8d ago
+▲ 25 • 💬 2 • ⭐ 983 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -576,7 +576,7 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 130 • 💬 19 • ⭐ 49,966 • 10mo ago
+▲ 131 • 💬 19 • ⭐ 49,966 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -604,7 +604,7 @@ Large vision-language models are enhanced for image geolocalization by incorpora
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 35 • 💬 2 • ⭐ 687 • 6d ago
+▲ 36 • 💬 2 • ⭐ 687 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
@@ -628,7 +628,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 A data-free self-evolution framework enables large language models to autonomously improve reasoning capabilities through iterative question generation and solving, achieving performance comparable to supervised methods.
 
-▲ 9 • 💬 1 • ⭐ 74 • 2d ago
+▲ 10 • 💬 1 • ⭐ 91 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07055) • [💻 code](https://github.com/facebookresearch/drzero)
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.2k • 🔱 161 • 7h ago
+⭐ 4.3k • 🔱 170 • 7h ago
 
 ---
 
@@ -664,7 +664,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 508 • 6d ago
+⭐ 3.8k • 🔱 511 • 6d ago
 
 ---
 
@@ -674,7 +674,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 142 • 9h ago
+⭐ 2.3k • 🔱 143 • 21m ago
 
 ---
 
@@ -694,7 +694,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 2h ago
+⭐ 1.6k • 🔱 130 • 39m ago
 
 ---
 
@@ -724,7 +724,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.3k • 🔱 989 • 20h ago
+⭐ 1.3k • 🔱 1.0k • 20h ago
 
 ---
 
