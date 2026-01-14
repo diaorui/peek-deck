@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T19:20:43.806608+00:00'
+updated: '2026-01-14T19:41:23.214723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 19:20 UTC  
+**Last Updated:** January 14, 2026 at 19:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -107,7 +107,7 @@ What’s happening?
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-11h ago
+12h ago
 
 ---
 
@@ -115,7 +115,7 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-35m ago
+55m ago
 
 ---
 
@@ -133,7 +133,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -157,13 +157,13 @@ Barron's • 9h ago
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
 **[Bitcoin Hits 2-Month High—Here’s Why Crypto Is Rallying](https://www.forbes.com/sites/tylerroush/2026/01/14/bitcoin-reaches-2-month-high-as-crypto-rallies-heres-why/)**
 
-Forbes • 9m ago
+Forbes • 29m ago
 
 ---
 
@@ -177,7 +177,7 @@ Bitcoin Magazine • 1h ago
 
 **[The Daily: Bitcoin taps $97K amid 'Goldilocks' macro backdrop, Ripple secures preliminary license in EU payments push, and more](https://www.theblock.co/post/385632/the-daily-bitcoin-taps-97k-amid-goldilocks-macro-backdrop-ripple-secures-preliminary-license-in-eu-payments-push-and-more?utm_source=policy.xml&utm_medium=rss)**
 
-The Block • 33m ago
+The Block • 53m ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 1d ago
 
 Strategy (MSTR) stock roared above $189 this morning as renewed bitcoin strength and continued corporate BTC purchases drove demand.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ dlnews.com • 1d ago
 
 Can the reuse of crypto mining’s waste heat redeem its carbon footprint?
 
-grist.org • 1h ago
+grist.org • 2h ago
 
 ---
 
@@ -313,7 +313,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 1K • 💬 144 • ⏱️ 46:37 • 3h ago
+👁️ 16K • 👍 1K • 💬 144 • ⏱️ 46:37 • 4h ago
 
 ---
 
@@ -353,7 +353,7 @@ The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway aler
 
 📺 Gareth Soloway
 
-👁️ 22K • 👍 2K • 💬 188 • ⏱️ 11:07 • 5h ago
+👁️ 22K • 👍 2K • 💬 188 • ⏱️ 11:07 • 6h ago
 
 ---
 
@@ -393,7 +393,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 20h ago
+👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 21h ago
 
 ---
 
@@ -403,7 +403,7 @@ BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: https://partner.bybi
 
 📺 Team Underground
 
-👁️ 483 • 👍 38 • 💬 31 • ⏱️ 13:24 • 2h ago
+👁️ 483 • 👍 38 • 💬 31 • ⏱️ 13:24 • 3h ago
 
 ---
 
