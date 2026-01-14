@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T05:27:10.293012+00:00'
+updated: '2026-01-14T05:49:55.407961+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 05:27 UTC  
+**Last Updated:** January 14, 2026 at 05:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -123,7 +123,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-6h ago
+7h ago
 
 ---
 
@@ -187,7 +187,7 @@ thestreet.com • 1d ago
 
 Bitcoin could reach $53.4 million by 2050, according to VanEck. VanEck said in a Jan. 8 post that in its bull case, Bitcoin captures 20% of international trade and 10% of domestic GDP, sending its value to $53.4 million by...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -339,7 +339,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 4K • 👍 566 • 💬 173 • ⏱️ 26:56 • 2h ago
+👁️ 4K • 👍 566 • 💬 173 • ⏱️ 26:56 • 3h ago
 
 ---
 
@@ -349,7 +349,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 973 • 💬 86 • ⏱️ 15:44 • 5h ago
+👁️ 10K • 👍 973 • 💬 86 • ⏱️ 15:44 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 2K • 👍 202 • 💬 54 • ⏱️ 3:40 • 4h ago
+👁️ 2K • 👍 202 • 💬 54 • ⏱️ 3:40 • 5h ago
 
 ---
 
@@ -389,7 +389,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 5K • 👍 250 • 💬 5 • ⏱️ 1:29 • 8h ago
+👁️ 5K • 👍 250 • 💬 5 • ⏱️ 1:29 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T05:27:10.284471+00:00'
+updated: '2026-01-14T05:49:55.399627+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 05:27 UTC  
+**Last Updated:** January 14, 2026 at 05:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Bandcamp has announced that music and audio that is generated wholly or in substantial part by AI is not permitted on its platform.
 
-🔗 [Consequence](https://consequence.net/2026/01/bandcamp-bans-all-ai-music/) • 1h ago
+🔗 [Consequence](https://consequence.net/2026/01/bandcamp-bans-all-ai-music/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 1h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-9h ago
+10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Z.ai (creators of GLM) have released an open weight image generation model that 
 
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-9m ago
+32m ago
 
 ---
 
@@ -105,7 +105,7 @@ Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice:
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-17h ago
+18h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 4h ago
 
 Federal officials say a company that operates hundreds of landing pages for AI answers is running an operation that has duped thousands of users, who were unable to stop costly monthly charges.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Washington Post • 10h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 673 • 💬 489 • 10h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 673 • 💬 489 • 11h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -227,7 +227,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 324 • 💬 96 • 10h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 324 • 💬 96 • 11h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -243,7 +243,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 212 • 💬 111 • 8h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 212 • 💬 111 • 9h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -349,7 +349,7 @@ In this video, I explore the newly released open-source model LTX 2, offering a 
 
 📺 MattVidPro AI
 
-👁️ 5K • 👍 333 • 💬 69 • ⏱️ 21:39 • 8h ago
+👁️ 5K • 👍 333 • 💬 69 • ⏱️ 21:39 • 9h ago
 
 ---
 
@@ -359,7 +359,7 @@ U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in B
 
 📺 DWS News
 
-👁️ 52K • 👍 618 • 💬 7 • ⏱️ 8:05 • 22h ago
+👁️ 52K • 👍 618 • 💬 7 • ⏱️ 8:05 • 23h ago
 
 ---
 
@@ -367,7 +367,7 @@ U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in B
 
 📺 Garett
 
-👁️ 497K • 👍 41K • 💬 2K • ⏱️ 0:43 • 12h ago
+👁️ 497K • 👍 41K • 💬 2K • ⏱️ 0:43 • 13h ago
 
 ---
 
@@ -636,7 +636,7 @@ A data-free self-evolution framework enables large language models to autonomous
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.4k • 🔱 1.1k • 39m ago
+⭐ 8.4k • 🔱 1.1k • 1h ago
 
 ---
 
