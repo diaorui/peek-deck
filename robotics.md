@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T22:23:40.573495+00:00'
+updated: '2026-01-14T22:48:50.110815+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 22:23 UTC  
+**Last Updated:** January 14, 2026 at 22:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-11h ago
+12h ago
 
 ---
 
@@ -44,21 +44,21 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-1h ago
+2h ago
+
+---
+
+**[The Race for Trillions - Tesla Optimus V3 and the Evolving Robotics Battlefield 2026](https://www.reddit.com/r/robotics/comments/1qcy7dl/the_race_for_trillions_tesla_optimus_v3_and_the/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 2h ago
 
 ---
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
 11h ago
-
----
-
-**[Can an Arducam ToF + Raspberry Pi detect the tip of a Christmas tree?](https://www.reddit.com/r/robotics/comments/1qcxeyq/can_an_arducam_tof_raspberry_pi_detect_the_tip_of/)**
-
-Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
-
-2h ago
 
 ---
 
@@ -70,11 +70,11 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 ---
 
-**[The Race for Trillions - Tesla Optimus V3 and the Evolving Robotics Battlefield 2026](https://www.reddit.com/r/robotics/comments/1qcy7dl/the_race_for_trillions_tesla_optimus_v3_and_the/)**
+**[Can an Arducam ToF + Raspberry Pi detect the tip of a Christmas tree?](https://www.reddit.com/r/robotics/comments/1qcxeyq/can_an_arducam_tof_raspberry_pi_detect_the_tip_of/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 2h ago
+2h ago
 
 ---
 
@@ -94,6 +94,14 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 ---
 
+**[Generalist Models and Embodied AI](https://www.reddit.com/r/robotics/comments/1qcmit2/generalist_models_and_embodied_ai/)**
+
+Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Google Robotics, discusses whether robotics could follow the same shift seen in AI, where generalist models eventually replaced task-specific systems. In AI, large models now handle many domains at once and can be adapted to specialized tasks with limited additional training. He outlines what would need to be true for robotics to make a similar transition, including access to large-scale data, scalable data collection, and effective use of simulation. At the same time, he points out that physical systems introduce constraints that software does not, such as safety, hardware limits, and real-world variability, leaving open the question of whether generalist approaches will outperform specialist robots or whether specialization will remain dominant longer in embodied AI.
+
+9h ago
+
+---
+
 **[Motor Cassettes](https://www.reddit.com/r/robotics/comments/1qcpcc8/motor_cassettes/)**
 
 Hello! I’m trying to design and configure something to put 12 stepper motors into a cassette for tendon based actuation along 36” and 3 points of movement. Has something like this been done? I’ve done some searches and I’m not finding much on compacting 12 stepper motors into a 12” space. I was looking at linear actuators, but even the research on them is scarce it seems and is gated behind pay walls. They also seem too large for what I am trying to accomplish. I don’t mind designing something of my own, but before I start from scratch, I wanted to see if I could accumulate some references or previous successes. Looking for resources or research papers on anything close. Thanks!
@@ -102,23 +110,13 @@ Hello! I’m trying to design and configure something to put 12 stepper motors i
 
 ---
 
-**[Arduino Uno + TB6612FNG 4WD Robot Not Working – Wiring and Code Included](https://www.reddit.com/r/robotics/comments/1qcvbb9/arduino_uno_tb6612fng_4wd_robot_not_working/)**
-
-Hello everyone, I am currently working on a 4-wheel drive robotic car using an Arduino Uno and a TB6612FNG motor driver, and I am facing an issue where the motors do not operate as expected when connected through the driver. I am seeking guidance to identify any mistakes in my wiring or code. I have provided complete details below to make troubleshooting easier. Components Used Arduino Uno TB6612FNG Dual Motor Driver 4 × DC TT Gear Motors 2 motors connected in parallel on the left side 2 motors connected in parallel on the right side HC-05 Bluetooth Module Li-ion Battery Pack (~14–16 V) Direct wiring (no breadboard) Power Connections Battery positive → VM (TB6612FNG) Battery negative → GND (TB6612FNG) Arduino 5V → VCC (TB6612FNG logic supply) Arduino GND → Common ground with TB6612FNG and Bluetooth Arduino VIN is not connected TB6612FNG to Arduino Pin Connections AIN1 → Arduino D7 AIN2 → Arduino D6 BIN1 → Arduino D5 BIN2 → Arduino D4 PWMA → Arduino D9 (PWM) PWMB → Arduino D10 (PWM) STBY → Arduino D8 VCC → Arduino 5V GND → Arduino GND VM → Battery positive Motor Connections Left side motors (parallel) → A01 and A02 Right side motors (parallel) → B01 and B02 Bluetooth (HC-05) Connections TX → Arduino RX RX → Arduino TX (with voltage divider) VCC → Arduino 5V GND → Arduino GND The Bluetooth module sends single-character commands. Arduino Code #define AIN1 7 #define AIN2 6 #define BIN1 5 #define BIN2 4 #define PWMA 9 #define PWMB 10 #define STBY 8 char cmd; int baseSpeed = 200; int turnSpeed = 120; void setup() { Serial.begin(9600); pinMode(AIN1, OUTPUT); pinMode(AIN2, OUTPUT); pinMode(BIN1, OUTPUT); pinMode(BIN2, OUTPUT); pinMode(PWMA, OUTPUT); pinMode(PWMB, OUTPUT); pinMode(STBY, OUTPUT); digitalWrite(STBY, HIGH); stopCar(); } void loop() { if (Serial.available()) { cmd = Serial.read(); switch (cmd) { case 'F': forward(); break; case 'B': backward(); break; case 'L': left(); break; case 'R': right(); break; case 'I': northeast(); break; case 'G': northwest(); break; case 'J': southeast(); break; case 'H': southwest(); break; case 'S': stopCar(); break; default: stopCar(); break; } } } void forward() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, baseSpeed); } void backward() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, baseSpeed); } void left() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void right() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void northeast() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void northwest() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void southeast() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void southwest() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void stopCar() { analogWrite(PWMA, 0); analogWrite(PWMB, 0); } Problem Description Motors run at high speed when directly connected to the battery Motors fail to operate correctly when connected through TB6612FNG and Arduino Code uploads successfully Bluetooth communication is working Assistance Requested I would appreciate help in identifying: Any wiring or power-distribution issues Whether TB6612FNG can reliably drive four motors in this configuration Any missing protection components or logic errors Improvements or corrections to the code
-
-3h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
+**[Skild AI aims to be the picks and shovels of robotics with $14b valuation](https://www.axios.com/pro/all-deals/2026/01/14/skild-ai-14-billion-valuation)**
 
-Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
-
-TechCrunch • 6h ago
+Axios • 52m ago
 
 ---
 
@@ -128,33 +126,29 @@ Bloomberg.com • 9h ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqeDpVf_jZDfIcxq4SluZ5sb5qopL0iuvgbdPFtvV6sNDy3RUThWkNZ0&gaa_ts=696811cc&gaa_sig=EiKZaJSYXTzLHww1Mhj4FXBoeroMZS29Ajo_tYjgbZr_3GPf4U-yiZUtAHzfGxvRHygJyr90EUuSChDG2uamBQ%3D%3D)**
+**[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
 
-MarketWatch • 1h ago
-
----
-
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
-
-Joe Tidy meets robots being trained to tidy up all your mess.
-
-BBC • 2d ago
+Business Wire • 7h ago
 
 ---
 
-**[Schaeffler to deploy hundreds of Humanoid robots in its factories](https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/)**
+**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
+GeekWire • 6h ago
+
+---
+
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqeTPCPGJbahgpR8Nv3_S76RwIL8KozrUamUVbPfBAT72T4dH-NXy022&gaa_ts=696820b1&gaa_sig=oewAaUfTHDxnDwVEzVOZn0_WndoF92OgSZp8hW7qQENnnDAWJZPUI0SdwLG-j_ZOi0KKJgjZNrYdjpIB_k1cbw%3D%3D)**
+
+MarketWatch • 2h ago
+
+---
+
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
 
 The Robot Report • 1d ago
-
----
-
-**[Patents vs. trade secrets in the age of AI robotics](https://www.therobotreport.com/patents-vs-trade-secrets-in-the-age-of-ai-robotics/)**
-
-Greenberg Traurig shares insights about how to choose the right IP strategy when algorithms, and not humans, drive innovation.
-
-The Robot Report • 3h ago
 
 ---
 
@@ -164,17 +158,17 @@ Reuters • 1d ago
 
 ---
 
+**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit](https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html)**
 
 ​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
 
 Yahoo Finance • 2d ago
-
----
-
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
-
-GeekWire • 6h ago
 
 ---
 
@@ -196,7 +190,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 397K • 👍 12K • 💬 717 • ⏱️ 17:09 • 2d ago
+👁️ 401K • 👍 12K • 💬 719 • ⏱️ 17:09 • 2d ago
 
 ---
 
@@ -206,7 +200,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 143K • 👍 2K • 💬 375 • ⏱️ 11:46 • 3d ago
+👁️ 144K • 👍 2K • 💬 375 • ⏱️ 11:46 • 3d ago
 
 ---
 
@@ -216,17 +210,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 10K • 👍 591 • 💬 37 • ⏱️ 9:28 • 4d ago
-
----
-
-**[Chinese Robots Just SHOCKED Everyone at CES 2026 Expo](https://www.youtube.com/watch?v=Hps7t7liOqM)**
-
-Chinese robotics took center stage at CES 2026, stunning visitors with rapid advances in AI, automation, and humanoid design.
-
-📺 Carros Show
-
-👁️ 10K • 👍 133 • 💬 7 • ⏱️ 8:33 • 7d ago
+👁️ 11K • 👍 593 • 💬 37 • ⏱️ 9:28 • 4d ago
 
 ---
 
@@ -236,7 +220,17 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 994K • 👍 32K • 💬 970 • ⏱️ 0:39 • 6d ago
+👁️ 998K • 👍 32K • 💬 971 • ⏱️ 0:39 • 6d ago
+
+---
+
+**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
+
+Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
+
+📺 The Verge
+
+👁️ 98K • 👍 1K • 💬 168 • ⏱️ 10:48 • 4d ago
 
 ---
 
@@ -250,33 +244,21 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
+**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
 
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
+ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
 
-📺 The Verge
+📺 Gohar Khan
 
-👁️ 97K • 👍 1K • 💬 168 • ⏱️ 10:48 • 4d ago
-
----
-
-**[Al Robots Are Replacing Humans Faster Than You Think ( How can Robot dance )](https://www.youtube.com/watch?v=O-FS7-DxStg)**
-
-Al Robots Are Replacing Humans Faster Than You Think #shorts This Robot Doesn't Feel Real... It's Scary #Robot #Technology ...
-
-📺 Tip Top Fact 
-
-👁️ 391 • 👍 7 • ⏱️ 0:52 • 1h ago
+👁️ 19K • 👍 2K • 💬 69 • ⏱️ 0:49 • 1h ago
 
 ---
 
-**[Realistic Human Robots #robot #robotics #tech](https://www.youtube.com/watch?v=LLXO0DAiOc8)**
+**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
 
-shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgEyv FACEBOOK: ...
+📺 Wowearth
 
-📺 Shacknews
-
-👁️ 855 • 👍 8 • 💬 1 • ⏱️ 0:33 • 21h ago
+👁️ 41K • 👍 662 • 💬 48 • ⏱️ 1:16 • 1d ago
 
 ---
 
@@ -286,7 +268,17 @@ When a robo-cleaner can notify you that a bar of gold was left on your living ro
 
 📺 mryeester
 
-👁️ 99K • 👍 5K • 💬 184 • ⏱️ 1:06 • 5d ago
+👁️ 99K • 👍 5K • 💬 186 • ⏱️ 1:06 • 5d ago
+
+---
+
+**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+
+We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+
+📺 CNET
+
+👁️ 136K • 👍 461 • 💬 336 • ⏱️ 5:07 • 6d ago
 
 ---
 

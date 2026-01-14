@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T22:23:40.570592+00:00'
+updated: '2026-01-14T22:48:50.107516+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 22:23 UTC  
+**Last Updated:** January 14, 2026 at 22:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +8.3%  
-**30d:** +13.8%  
-**90d:** -12.0%  
-**1y:** -2.3%  
+**24h:** +0.8%  
+**7d:** +7.6%  
+**30d:** +13.1%  
+**90d:** -12.5%  
+**1y:** -2.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $407.79B
+**Market Cap:** $404.31B
 Rank #2
 
 **Circulating Supply:** 120,694,681 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--31.7%
+-32.2%
 
 **All-Time Low:** $0.43
-+779840.8%
++774586.5%
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2014, there was a vision: you can have permissionless, decentralized applications that could support finance, social media, ride sharing, governing organizations, crowdfunding, potentially create an entire alternative web, all on the backs of a suite of technologies. Ethereum: the blockchain. The world computer that could give any application its shared memory. Whisper: the data layer. Messages too expensive for a blockchain, that do no need consensus. Swarm: the storage layer. Store files for long-term access. Over the last five years, this core vision has at times become obscured, with various "metas" and "narratives" at various times taking center stage. But the core vision has never died. And in fact, the core technologies behind it are only growing stronger. Ethereum is now proof of stake. Ethereum is now scaling, it is now cheap, and it is on track to get more scalable and cheaper thanks to the power of ZK-EVMs. Thanks to ZK-EVM + PeerDAS, the "sharding" vision is effectively being realized. And L2s can give additional and different kinds of gains in speed on top. Whisper is now Waku ( https://docs.waku.org/ ), and already powers many applications (eg. https://www.railway.xyz/, https://status.app/ just to name two I use). Even outside of Waku, the quality of decentralized messaging has increased. Fileverse (decentralized Google Docs and Sheets alternative: https://fileverse.io/ ) has seen massive gains in usability over the past year. IPFS is now highly performant and robust as a decentralized way of retrieving files, though IPFS alone does not solve the storage problem. Hence, there is still room to improve there. All of the prerequisites for the original web3 vision are here, in full force, and are continuing to get stronger over the next few years. Hence, it's time to buidl, and buidl decentralized. Fileverse is an excellent example of the right way to do things: It uses Ethereum and Gnosis Chain for what they are good for: names, accounts and permissioning, document registration It uses decentralized messaging and file storage to store documents and propagate changes to documents The application passes the walkaway test: https://github.com/fileverse/walk-away-ddocs (even if Fileverse disappears, you can still retrieve them and even keep editing them with the open source UI) This is what we mean by "build a hammer that is a tool you buy once and it's yours, not a corposlop AI dishwasher that requires you to register for a google account and charges a subscription fee per month for extra washing modes, and probably spies on you and stops working if you get politically disfavored by a foreign country". If you think this criticism of corposlop is hyperbolic, well turns out, it's literally a concatenation of these three: https://mein-mmo.de/en/user-buys-new-dishwasher-can-only-use-some-features-if-he-subscribes,1186249/ https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers https://www.irishtimes.com/world/us/2025/12/12/its-surreal-us-sanctions-lock-international-criminal-court-judge-out-of-daily-life/ In 2014, decentralized applications were toys, hundreds of times more difficult to use in web2. In 2026, fileverse is now usable enough that I regularly write documents in it and send them to other people to collaborate. The decentralized renaissance is coming, and you can be part of making it happen.
 
-15h ago
+16h ago
+
+---
+
+**[#134 "Blockchain and Belief" - Professor's Roundtable](https://www.reddit.com/r/ethereum/comments/1qd0oxt/134_blockchain_and_belief_professors_roundtable/)**
+
+The Weekly Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard THE PRINCESTON DECENTER PROFESSOR'S ROUNDTABLE Carolyn Biltoft: https://www.graduateinstitute.ch/facu... Andrew Chignell: https://chignell.net/ Devin P. Singh: https://religion.dartmouth.edu/people... Gordon Grant: Principal at ChiSquared Technologies Mike Maizels: https://engineering.princeton.edu/sta... Carolyn Biltoft holds a PhD from Princeton University and is an Associate Professor of International History and Politics at the Geneva Graduate Institute. Carolyn writes and writes on the relationship between the history of epistemology and economic thought since the 18th century. Her acclaimed book A Violent Peace: Truth, Media and Power at the League of Nations explores media, propaganda, and truth claims in early global institutions and contains a chapter on counterfeit currency in the age of fascism. Carolyn is a founding editor of Capitalism: a journal of history and economics https://www.pennpress.org/journals/jo... Andrew Chignell is a professor at Princeton University's Center for Human Values, with appointments in Religion and Philosophy. His research spans the work of Immanuel Kant and other Enlightenment philosophers, philosophy of religion, epistemology and the ethics of belief, and topics in moral psychology like hope and despair. Recently, he has directed the Princeton Project in Philosophy and Religion and led efforts for a major cross-disciplinary grant on optimism, pessimism, hope, and despair. chignell.net Devin P. Singh holds a PhD from Yale University and is an Associate Professor of Religion at Dartmouth College. His work examines intersections of Christian thought with economy, politics, money, and secularization. Recent publications include the book Economy and Modern Christian Thought and an ongoing project on the religious and social roles of debt. devinsingh.com Gordon Grant is a seasoned cryptocurrency trader and derivatives expert. Graduating from Princeton University with a focus on econometrics and quantitative finance, he built his early career as a derivatives portfolio manager before he discovered Bitcoin in 2013 and made a full pivot to digital assets, He played a pivotal role at Genesis Trading from 2019 to 2023 and Today Gordon serves as Principal at ChiSquared Technologies Mike Maizels (Michael Maizels) is the Executive Director of Princeton University's DeCenter for blockchain and decentralization research. With a background in interdisciplinary technology and societal change, he leads efforts to advance education, research, and policy around blockchain's potential to shift power structures. He co-directs major events like the DeCenter's annual Spring Conference on decentralization's infrastructure and implications. decenter.princeton.edu
+
+🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 54m ago
 
 ---
 
@@ -88,7 +96,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have one. What do you use?
 
-14h ago
+15h ago
 
 ---
 
@@ -111,14 +119,6 @@ Ethereum is meant to be a home for trustless and trust-minimized applications, w
 
 ---
 
-**[A new staking pool idea](https://www.reddit.com/r/ethereum/comments/1qcp573/a_new_staking_pool_idea/)**
-
-I had a concept that I may begin programming based on what you guys say here. What if you could earn extra yield on staked ETH just by signing a message every 6 months? The idea is that I'd make an on chain (and possibly on scaling solutions) smart contract where you can deposit your Staked ETH, then everyone needs to sign a message every 6 months for example. If they don't sign the message on the 6th month, then on the 7th month 10% of their balance gets equally distributed between all staked staked tokens. If you fail to sign you'd forfeit 10% of your balance, which would keep going down every month until your wallet is eventually drained. I (The creator) would make money by charging a 2.5% fee on re-distributing the forfeited funds. It would be 6 months after you sign up, so there would in theory be consistent rewards year round (Avoiding people buying Staked Staked ETH right before the forfeit date) This would earn extra yield on already staked coins just by signing a message every few months. With a transparent smart contract there would be near zero need to trust me, no counterparty risk. Updates could be voted on by holding Staked Staked ETH
-
-7h ago
-
----
-
 **[Daily General Discussion January 13, 2026](https://www.reddit.com/r/ethereum/comments/1qbjlpk/daily_general_discussion_january_13_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -135,17 +135,17 @@ Ethereum did a lot in 2025: gas limits increased, blob count increased, node sof
 
 ---
 
-**[Ethereum was not created to make finance efficient or apps convenient. It was created to set people free](https://www.reddit.com/r/ethereum/comments/1qbiyvv/ethereum_was_not_created_to_make_finance/)**
+**[A new staking pool idea](https://www.reddit.com/r/ethereum/comments/1qcp573/a_new_staking_pool_idea/)**
 
-“Ethereum was not created to make finance efficient or apps convenient. It was created to set people free” This was an important - and controversial - line from the Trustless Manifesto ( trustlessness.eth.limo ), and it is worth revisiting it and better understanding what it means. “efficient” and “convenient” have the connotation of improving the average case, in situations where it’s already pretty good. Efficiency is about telling the world's best engineers to put their souls into reducing latency from 473 ms to 368ms, or increasing yields from 4.5% APY to 5.3% APY. Convenience is about people making one click instead of three, and reducing signup times from 1 min to 20 sec. These things can be good to do. But we must do them under the understanding that we will never be as good at this game as the Silicon Valley corporate players. And so the primary underlying game that Ethereum plays must be a different game. What is the game? Resilience. Resilience is the game where it’s not about 4.5% APY vs 5.3% APY - rather, it’s about minimizing the chance that you get -100% APY. Resilience is the game where if you become politically unpopular and get deplatformed, or if a the developers of your application go bankrupt or disappear, or if Cloudflare goes down, or if an internet cyberwar breaks out, your 2000ms latency continues to be 2000ms. Resilience is the game where anyone, anywhere in the world will be able to access the network and be a first-class participant. Resilience is sovereignty. Not sovereignty in the sense of lobbying to become a UN member state and shaking hands at Davos in two weeks, but sovereignty in the sense that people talk about "digital sovereignty" or "food sovereignty" - aggressively reducing your vulnerabilities to external dependencies that can be taken away from you on a whim. This is the sense in which the world computer can be sovereign, and in doing so make its users also sovereign. This baseline is what enables interdependence as equals, and not as vassals of corporate overlords thousands of kilometers away. This is the game that Ethereum is suited to win, and it delivers a type of value that, in our increasingly unstable world, a lot of people are going to need. The fundamental DNA of web2 consumer tech is not suited to resilience. The fundamental DNA of finance often spends considerable effort on resilience, but it is a very partial form of resilience, good at solving for some types of risks but not others. Blockspace is abundant. Decentralized, permissionless and resilient blockspace is not. Ethereum must first and foremost be decentralized, permissionless and resilient block space - and then make that abundant.
+I had a concept that I may begin programming based on what you guys say here. What if you could earn extra yield on staked ETH just by signing a message every 6 months? The idea is that I'd make an on chain (and possibly on scaling solutions) smart contract where you can deposit your Staked ETH, then everyone needs to sign a message every 6 months for example. If they don't sign the message on the 6th month, then on the 7th month 10% of their balance gets equally distributed between all staked staked tokens. If you fail to sign you'd forfeit 10% of your balance, which would keep going down every month until your wallet is eventually drained. I (The creator) would make money by charging a 2.5% fee on re-distributing the forfeited funds. It would be 6 months after you sign up, so there would in theory be consistent rewards year round (Avoiding people buying Staked Staked ETH right before the forfeit date) This would earn extra yield on already staked coins just by signing a message every few months. With a transparent smart contract there would be near zero need to trust me, no counterparty risk. Updates could be voted on by holding Staked Staked ETH Key points: •Make extra yield on staked ETH •Transparent smart contract that re-allocates funds from lost or forgotten wallets evenly between all these possible new tokens •Not risk free, you must sign the message in a 1 month period every 6 months •Receive staked ETH anytime (I wouldn’t stake the ETH, it would use a staked ETH token like stETH by Lido
 
-1d ago
+8h ago
 
 ---
 
-**[On ZK-EVMs](https://www.reddit.com/r/ethereum/comments/1qbiyl2/on_zkevms/)**
+**[Ethereum was not created to make finance efficient or apps convenient. It was created to set people free](https://www.reddit.com/r/ethereum/comments/1qbiyvv/ethereum_was_not_created_to_make_finance/)**
 
-Now that ZKEVMs are at alpha stage (production-quality performance, remaining work is safety) and PeerDAS is live on mainnet, it's time to talk more about what this combination means for Ethereum. These are not minor improvements; they are shifting Ethereum into being a fundamentally new and more powerful kind of decentralized network. To see why, let's look at the two major types of p2p network so far: BitTorrent (2000): huge total bandwidth, highly decentralized, no consensus Bitcoin (2009): highly decentralized, consensus, but low bandwidth - because it’s not “distributed” in the sense of work being split up, it’s replicated Now, Ethereum with PeerDAS (2025) and ZK-EVMs (expect small portions of the network using it in 2026), we get: decentralized, consensus and high bandwidth The trilemma has been solved - not on paper, but with live running code, of which one half (data availability sampling) is on mainnet today, and the other half (ZK-EVMs) is production-quality on performance today - safety is what remains. This was a 10-year journey (see the first commit of my original post on DAS here: github.com/ethereum/research/… , and ZK-EVM attempts started in ~2020), but it's finally here. Over the next ~4 years, expect to see the full extent of this vision roll out: In 2026, large non-ZKEVM-dependent gas limit increases due to BALs and ePBS, and we'll see the first opportunities to run a ZKEVM node In 2026-28, gas repricings, changes to state structure, exec payload going into blobs, and other adjustments to make higher gas limits safe In 2027-30, large further gas limit increases, as ZKEVM becomes the primary way to validate blocks on the network A third piece of this is distributed block building. A long-term ideal holy grail is to get to a future where the full block is never constituted in one single place. This will not be necessary for a long time, but IMO it is worth striving for us at least have the capability to do that. Even before that point, we want the meaningful authority in block building to be as distributed as possible. This can be done either in-protocol (eg. maybe we figure out how to expand FOCIL to make it a primary channel for txs), or out-of-protocol with distributed builder marketplaces. This reduces risk of centralized interference with real-time transaction inclusion, AND it creates a better environment for geographical fairness. Onward.
+“Ethereum was not created to make finance efficient or apps convenient. It was created to set people free” This was an important - and controversial - line from the Trustless Manifesto ( trustlessness.eth.limo ), and it is worth revisiting it and better understanding what it means. “efficient” and “convenient” have the connotation of improving the average case, in situations where it’s already pretty good. Efficiency is about telling the world's best engineers to put their souls into reducing latency from 473 ms to 368ms, or increasing yields from 4.5% APY to 5.3% APY. Convenience is about people making one click instead of three, and reducing signup times from 1 min to 20 sec. These things can be good to do. But we must do them under the understanding that we will never be as good at this game as the Silicon Valley corporate players. And so the primary underlying game that Ethereum plays must be a different game. What is the game? Resilience. Resilience is the game where it’s not about 4.5% APY vs 5.3% APY - rather, it’s about minimizing the chance that you get -100% APY. Resilience is the game where if you become politically unpopular and get deplatformed, or if a the developers of your application go bankrupt or disappear, or if Cloudflare goes down, or if an internet cyberwar breaks out, your 2000ms latency continues to be 2000ms. Resilience is the game where anyone, anywhere in the world will be able to access the network and be a first-class participant. Resilience is sovereignty. Not sovereignty in the sense of lobbying to become a UN member state and shaking hands at Davos in two weeks, but sovereignty in the sense that people talk about "digital sovereignty" or "food sovereignty" - aggressively reducing your vulnerabilities to external dependencies that can be taken away from you on a whim. This is the sense in which the world computer can be sovereign, and in doing so make its users also sovereign. This baseline is what enables interdependence as equals, and not as vassals of corporate overlords thousands of kilometers away. This is the game that Ethereum is suited to win, and it delivers a type of value that, in our increasingly unstable world, a lot of people are going to need. The fundamental DNA of web2 consumer tech is not suited to resilience. The fundamental DNA of finance often spends considerable effort on resilience, but it is a very partial form of resilience, good at solving for some types of risks but not others. Blockspace is abundant. Decentralized, permissionless and resilient blockspace is not. Ethereum must first and foremost be decentralized, permissionless and resilient block space - and then make that abundant.
 
 1d ago
 
@@ -185,11 +185,19 @@ Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at 
 
 ---
 
-**[Clarity Act Watch List: Bitcoin, Ethereum, and Solana in Focus as Senate Action Looms](https://www.nbcpalmsprings.com/2026/01/14/clarity-act-watch-list-bitcoin-ethereum-and-solana-in-focus-as-senate-action-looms)**
+**[How Ethereum, Solana Could Benefit From The CLARITY Act](https://finance.yahoo.com/news/ethereum-solana-could-benefit-clarity-143111086.html)**
 
-As the Clarity Act moves closer to Senate consideration, market watchers are keeping a close eye on which digital assets could benefit most if the legislation b
+The U.S. CLARITY Act could become a major catalyst for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and broader institutional crypto adoption, according to Bitwise Chief Investment Officer Matt Hougan. What Happened: Crypto markets are entering a transition phase where regulation,...
 
-NBC Palm Springs • 2h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Why Is Ethereum Jumping Today?](https://www.fool.com/investing/2026/01/14/why-is-ethereum-jumping-today/)**
+
+More crypto regulation could be coming soon.
+
+The Motley Fool • 38m ago
 
 ---
 
@@ -221,45 +229,17 @@ Investing.com • 1d ago
 
 ---
 
-**[Ethereum price prediction: top reasons ETH is about to rocket higher](https://www.tradingview.com/news/invezz:80cafb9e3094b:0-ethereum-price-prediction-top-reasons-eth-is-about-to-rocket-higher/)**
-
-Ethereum price held steady on Wednesday, continuing a trend that has been going on in the past few weeks. ETH token rose to $3,340, and this trend may accelerate in the coming months as it has formed the highly bullish inverse head-and-shoulders pattern, and the spot ETH ETF inflows have continued…
-
-TradingView — Track All Markets • 13h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zl1Xo0nOKkA)**
+**[Ethereum Can Dominate Crypto and Still Be a Bad Investment w/ Christopher Keshian](https://www.youtube.com/watch?v=YVJvZsVs-y0)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+In this episode of The Milk Road Show, we sit down with Christopher Keshian, founder of Triton Liquid Fund, to unpack a ...
 
-📺 More Crypto Online
+📺 Milk Road
 
-👁️ 2K • 👍 162 • 💬 6 • ⏱️ 3:42 • 7h ago
-
----
-
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 15K • 👍 565 • 💬 44 • ⏱️ 17:37 • 1d ago
-
----
-
-**[Ethereum Is Bullish But Danger Is Close](https://www.youtube.com/watch?v=i7l_YAHgdIc)**
-
-Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 69 • 👍 9 • 💬 1 • ⏱️ 5:17 • 3h ago
+👁️ 421 • 👍 34 • 💬 21 • ⏱️ 36:50 • 3h ago
 
 ---
 
@@ -269,17 +249,47 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 446 • 👍 23 • 💬 4 • ⏱️ 20:12 • 5h ago
+👁️ 716 • 👍 31 • 💬 4 • ⏱️ 20:12 • 5h ago
 
 ---
 
-**[ETH: Elliott Wave Analysis Price Prediction | Weekly &amp; Daily | Ethererum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=Yc66obm9MtE)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zl1Xo0nOKkA)**
 
-Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break down Bitcoin on the 4h and 1h charts using ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Koenz Trading
+📺 More Crypto Online
 
-👁️ 871 • 👍 76 • 💬 13 • ⏱️ 6:04 • 8h ago
+👁️ 2K • 👍 172 • 💬 7 • ⏱️ 3:42 • 8h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 575 • 💬 25 • ⏱️ 17:37 • 1d ago
+
+---
+
+**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xSP3p-zUW3I)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 263 • 👍 17 • 💬 1 • ⏱️ 4:52 • 13h ago
+
+---
+
+**[Ethereum Is Bullish But Danger Is Close](https://www.youtube.com/watch?v=i7l_YAHgdIc)**
+
+Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ New Members! Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 112 • 👍 5 • 💬 1 • ⏱️ 5:17 • 3h ago
 
 ---
 
@@ -289,7 +299,17 @@ Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 5K • 💬 279 • ⏱️ 9:23 • 1d ago
+👁️ 75K • 👍 5K • 💬 258 • ⏱️ 9:23 • 1d ago
+
+---
+
+**[ETH: Elliott Wave Analysis Price Prediction | Weekly &amp; Daily | Ethererum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=Yc66obm9MtE)**
+
+Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break down Bitcoin on the 4h and 1h charts using ...
+
+📺 Koenz Trading
+
+👁️ 1K • 👍 84 • 💬 14 • ⏱️ 6:04 • 9h ago
 
 ---
 
@@ -299,7 +319,7 @@ BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 5K • 👍 353 • 💬 175 • ⏱️ 22:39 • 13h ago
+👁️ 6K • 👍 370 • 💬 110 • ⏱️ 22:39 • 13h ago
 
 ---
 
@@ -309,27 +329,7 @@ Ethereum just broke out of a months-long downtrend as on-chain staking activity 
 
 📺 CoinCodex
 
-👁️ 507 • 👍 17 • 💬 4 • ⏱️ 4:25 • 1d ago
-
----
-
-**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
-
-From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
-
-📺 The Value Thinker
-
-👁️ 17K • 👍 1K • 💬 172 • ⏱️ 26:25 • 1d ago
-
----
-
-**[THE SIGNAL IS HERE Why Is No On Talking About This In The Crypto And Bitcoin Market?](https://www.youtube.com/watch?v=R8ABCFFXZAk)**
-
-Looks like we might have been thrown back into the four year cryptocurrency cycle without even noticing it. Ethereum is the ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 7K • 👍 809 • 💬 86 • ⏱️ 11:09 • 1d ago
+👁️ 561 • 👍 17 • 💬 4 • ⏱️ 4:25 • 1d ago
 
 ---
 

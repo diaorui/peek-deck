@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T22:23:40.565270+00:00'
+updated: '2026-01-14T22:48:50.101425+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 22:23 UTC  
+**Last Updated:** January 14, 2026 at 22:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $97,481.81
+### $96,975.74
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.8%  
-**7d:** +7.0%  
-**30d:** +11.3%  
-**90d:** -8.6%  
-**1y:** -2.8%  
+**7d:** +6.6%  
+**30d:** +10.8%  
+**90d:** -9.0%  
+**1y:** -3.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1951.04B
+**Market Cap:** $1936.72B
 Rank #1
 
-**Circulating Supply:** 19,975,862 BTC
+**Circulating Supply:** 19,975,903 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--22.6%
+-23.0%
 
 **All-Time Low:** $67.81
-+143869.9%
++143004.3%
 
 ---
 
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
+
+4h ago
+
+---
+
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +105,7 @@ Rank #1
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-3h ago
+4h ago
 
 ---
 
@@ -117,29 +123,23 @@ What’s happening?
 
 ---
 
-**[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
-
-4h ago
-
----
-
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
 4h ago
 
 ---
 
-**[The 401(k) was never designed to be a retirement plan](https://www.reddit.com/r/Bitcoin/comments/1qch0t8/the_401k_was_never_designed_to_be_a_retirement/)**
+**[KEEP BUYING](https://www.reddit.com/r/Bitcoin/comments/1qcyixe/keep_buying/)**
 
-The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
+my hands are made of diamonds and there is goop inside of my skull
 
-14h ago
+2h ago
 
 ---
 
 **[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -155,59 +155,61 @@ CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
+**[Bitcoin Price Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqfBF4S2tu91OQ-A3YZ_BliYh3QBnpoAuK-Wfx7Ab7j32sqkGnP1C7zK&gaa_ts=696820ac&gaa_sig=thT_yRXOv-5K7caIEyLO2kFfe6ZsSHHKTnECyoPEk3MILBSEIb83elqBBdUFUrOCx4fB9H7Wkj2upjOwyI6T8Q%3D%3D)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
-
-Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
-
-CoinDesk • 14h ago
+Barron's • 1h ago
 
 ---
 
-**[Bitcoin Stuck at $90K as $1.1 Billion ETF Outflows Signal “Boring Sideways” Era](https://finance.yahoo.com/news/bitcoin-stuck-90k-1-1-184256155.html)**
+**[Senate Draft Bill Puts XRP, Solana, Dogecoin on Bitcoin’s Level](https://finance.yahoo.com/news/senate-draft-bill-puts-xrp-221534852.html)**
 
-Bitcoin ETF outflows have reached $1.1 billion in just three days—yet the price hasn’t collapsed. That kind of exit usually signals trouble, but the market reaction has been different this time. Bitcoin (CRYPTO: BTC) has traded between $90,000 and $95,000 through early January despite the ETF exodus, creating a disconnect that defines the current market ... Bitcoin Stuck at $90K as $1.1 Billion ETF Outflows Signal “Boring Sideways” Era
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
-
-Investor's Business Daily • 56m ago
-
----
-
-**[Will CleanSpark's (CLSK) 2025 Bitcoin Output at Higher Prices Change Its Investment Narrative?](https://finance.yahoo.com/news/cleansparks-clsk-2025-bitcoin-output-171243613.html)**
-
-In early January 2026, CleanSpark reported unaudited results showing it produced 622 bitcoin in December 2025 and 7,746 bitcoin for the 2025 calendar year, with average daily production of just over 20 bitcoin. This operational update arrives as bitcoin’s move above US$92,000 has lifted sentiment across mining stocks, putting CleanSpark’s production scale into sharper focus. With CleanSpark’s 2025 production now in view amid bitcoin’s recent strength, we’ll examine how this output reshapes...
+A draft US Senate bill reportedly places XRP, Solana, and Dogecoin in the same legal bucket as Bitcoin. Bitcoin traded near $93,000 after the text circulated, while major altcoins showed muted moves. This fits a wider push in Washington to draw clean rules for crypto after years of court fights ...
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
+**[Senate Committees Coordinate CLARITY Act Timelines, Raising Stakes for US Crypto Markets](https://news.bitcoin.com/senate-committees-coordinate-clarity-act-timelines-raising-stakes-for-us-crypto-markets/)**
 
-The Block • 23h ago
+Senate leaders have locked in committee deadlines for a sweeping crypto market overhaul that could reshape U.S. digital asset regulation, redefine stablecoin rules, and set the stage for a decisive floor vote before the 2026 election cycle.
+
+Bitcoin.com News • 18m ago
+
+---
+
+**[Shiba Inu vs. Bitcoin: Which Is More Likely to Be a Millionaire-Maker?](https://www.fool.com/investing/2026/01/14/shiba-inu-vs-bitcoin-which-is-more-likely-to-be-a/)**
+
+Does the meme coin or the "blue chip" coin have a brighter future?
+
+The Motley Fool • 35m ago
+
+---
+
+**[Strategy, BitMine Rise While Bitcoin Miners Surge—As BTC Inches Towards $100K](https://finance.yahoo.com/news/strategy-bitmine-rise-while-bitcoin-213638010.html)**
+
+Bitcoin mining stocks like Bitdeer and CleanSpark jumped Wednesday as BTC climbed above $97,000 for the first time since November.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
+
+Investor's Business Daily • 1h ago
 
 ---
 
 **[Bitcoin and gold allocation outperforms traditional portfolios, backing Ray Dalio's 15% hedge thesis, Bitwise finds](https://www.theblock.co/post/385526/gold-bitcoin-combined-allocation-outperforms-traditional-portfolios-bitwise)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
-**[Strategy ($MSTR) Stock Soars 10% Above $189 as Bitcoin Nears $100,000](https://bitcoinmagazine.com/markets/strategy-mstr-stock-soars-10-percent)**
+**[Strategy Buys 13,627 Bitcoin for $1.25B, Total Holdings Now Top 687,000 BTC](https://finance.yahoo.com/news/strategy-buys-13-627-bitcoin-155318011.html)**
 
-Strategy (MSTR) stock roared above $189 this morning as renewed bitcoin strength and continued corporate BTC purchases drove demand.
+Strategy, formerly MicroStrategy, acquired 13,627 Bitcoin BTC $92 223 24h volatility: 1.2% Market cap: $1.85 T Vol. 24h: $45.51 B for approximately $1.25 billion between Jan. 5-11, bringing its total holdings to 687,410 BTC. The company paid an average price of $91,519 per Bitcoin for the latest purchase. The acquisition ...
 
-Bitcoin Magazine • 5h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -303,63 +305,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s Bull Market is Back](https://www.youtube.com/watch?v=bJQ31AcVyRA)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 158 • ⏱️ 46:37 • 6h ago
-
----
-
 **[Bitcoin BREAKS Towards $100K As Senate DELAYS The CLARITY Act!](https://www.youtube.com/watch?v=ZEl1zQNU4po)**
 
 Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointed to a massive $130B jump in total crypto market ...
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 977 • 💬 170 • ⏱️ 47:15 • 7h ago
-
----
-
-**[Fred Thiel: Bitcoin enters geopolitical era as miners become key infrastructure](https://www.youtube.com/watch?v=ljwErl6jsp0)**
-
-Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from speculation to strategic asset. Liquidity, energy, and ...
-
-📺 CNBC Television
-
-👁️ 8K • 👍 88 • 💬 70 • ⏱️ 5:02 • 10h ago
-
----
-
-**[MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON’T MISS OUT!](https://www.youtube.com/watch?v=DFSfetSV6QM)**
-
-MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S CHANNEL (AUSTIN'S ...
-
-📺 Austin Hilton
-
-👁️ 5K • 👍 506 • 💬 51 • ⏱️ 6:09 • 6h ago
-
----
-
-**[Altcoins Jump, Bitcoin Surges: Here Is The Latest Forecast And Trade Levels](https://www.youtube.com/watch?v=9LhOGTfAXas)**
-
-The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway alerted investors to a high-probability "Bull Flag" setup ...
-
-📺 Gareth Soloway
-
-👁️ 31K • 👍 3K • 💬 201 • ⏱️ 11:07 • 8h ago
-
----
-
-**[Why Bitcoin Is Up Today](https://www.youtube.com/watch?v=43dND20hWSA)**
-
-Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this fresh high in just 24 hours. Bitcoin made a nice ...
-
-📺 Satoshi Alliance
-
-👁️ 4K • 👍 347 • 💬 149 • ⏱️ 3:40 • 21h ago
+👁️ 21K • 👍 1K • 💬 149 • ⏱️ 47:15 • 7h ago
 
 ---
 
@@ -369,27 +321,57 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 477 • 💬 44 • ⏱️ 6:42 • 3h ago
+👁️ 8K • 👍 694 • 💬 101 • ⏱️ 6:42 • 3h ago
 
 ---
 
-**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
+**[MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON’T MISS OUT!](https://www.youtube.com/watch?v=DFSfetSV6QM)**
 
-Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
+MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S CHANNEL (AUSTIN'S ...
 
-📺 Altcoin Daily
+📺 Austin Hilton
 
-👁️ 73K • 👍 5K • 💬 279 • ⏱️ 9:23 • 1d ago
+👁️ 7K • 👍 559 • 💬 18 • ⏱️ 6:09 • 7h ago
 
 ---
 
-**[BITCOIN IT&#39;S HAPPENING!!](https://www.youtube.com/watch?v=m-UwQlvSaYI)**
+**[THIS BITCOIN SIGNAL HAS NEVER BEEN WRONG BEFORE!! - Silver And Gold PUSHING BTC Higher!? - Analaysis](https://www.youtube.com/watch?v=oPvsP5BGtVE)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: https://partner.bybit.com/b/65864 Follow us on X: ...
 
-📺 My Financial Friend
+📺 Team Underground
 
-👁️ 7K • 👍 496 • 💬 94 • ⏱️ 10:44 • 6h ago
+👁️ 1K • 👍 77 • 💬 6 • ⏱️ 13:24 • 6h ago
+
+---
+
+**[Bitcoin&#39;s Bull Market is Back](https://www.youtube.com/watch?v=bJQ31AcVyRA)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 126 • ⏱️ 46:37 • 7h ago
+
+---
+
+**[Fred Thiel: Bitcoin enters geopolitical era as miners become key infrastructure](https://www.youtube.com/watch?v=ljwErl6jsp0)**
+
+Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from speculation to strategic asset. Liquidity, energy, and ...
+
+📺 CNBC Television
+
+👁️ 9K • 👍 92 • 💬 24 • ⏱️ 5:02 • 10h ago
+
+---
+
+**[Altcoins Jump, Bitcoin Surges: Here Is The Latest Forecast And Trade Levels](https://www.youtube.com/watch?v=9LhOGTfAXas)**
+
+The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway alerted investors to a high-probability "Bull Flag" setup ...
+
+📺 Gareth Soloway
+
+👁️ 35K • 👍 3K • 💬 125 • ⏱️ 11:07 • 9h ago
 
 ---
 
@@ -399,7 +381,27 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 189 • ⏱️ 15:44 • 22h ago
+👁️ 22K • 👍 2K • 💬 151 • ⏱️ 15:44 • 23h ago
+
+---
+
+**[You WILL NEVER Believe What Blackrock Just Did...](https://www.youtube.com/watch?v=Je5A3yiR0t4)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 10K • 👍 867 • 💬 68 • ⏱️ 9:34 • 5h ago
+
+---
+
+**[Bitcoin Has Entered the Housekeeping Zone (URGENT Update)](https://www.youtube.com/watch?v=_xWL7IRKTB0)**
+
+Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeeping zone” the market always reacts to. ➡ Follow ...
+
+📺 EllioTrades
+
+👁️ 6K • 👍 590 • 💬 62 • ⏱️ 17:03 • 2h ago
 
 ---
 
