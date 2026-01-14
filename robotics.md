@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T09:30:58.424641+00:00'
+updated: '2026-01-14T10:27:18.688047+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 09:30 UTC  
+**Last Updated:** January 14, 2026 at 10:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 21h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 22h ago
 
 ---
 
@@ -44,7 +44,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,7 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 So I'm working on a mentorpi robot with a mecanum chasis and a depth camera and a LIDAR sensor. Basically, I want to try and get it so that object recognition works first as a start, which I think is possible with the depth camera but aren't sure. I've been looking through this:https://docs.hiwonder.com/projects/MentorPi/en/latest/index.html documentation but am getting really confused as I'm going sequentially through it and it is talking a lot about different things like ROS2 and docker which I've 0 experience with. So basically I wanted to know if there were any other supplemental things I should know about that helps a lot to get towards my goal of object recognition. https://preview.redd.it/ztj7i1dqu9dg1.png?width=614&format=png&auto=webp&s=52fcaabbf7d0de56c393b627df50226db7e8f481
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ So I'm working on a mentorpi robot with a mecanum chasis and a depth camera and 
 
 CES 2026 hosted the first "Ultimate Fighting Robot" (UFB) matches, where full-sized humanoid robots (including Unitree models) traded punches and kicks in a boxing ring. Unlike BattleBots, these droids weren't just smashing metal—they were teleoperated in real-time by human "pilots" using motion controllers, mimicking their movements to fight MMA-style.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026) • 2h ago
 
 ---
 
@@ -104,7 +104,7 @@ CES 2026 hosted the first "Ultimate Fighting Robot" (UFB) matches, where full-si
 
 https://preview.redd.it/ge1vg4ccb9dg1.png?width=897&format=png&auto=webp&s=05416e49534382b7a48ae021b7b6bbd673f090c9 I recently came across an interesting article on how FANUC India is approaching “human-robot fusion” in industrial automation. The core idea isn’t robots replacing people, but robots evolving into adaptive collaborators that learn from data, assist human decision-making, and handle precision-heavy tasks while humans focus on judgment, creativity, and problem-solving. A few things that stood out to me: Automation moving beyond repetitive motion into AI-assisted adaptability Humans staying in the loop instead of being engineered out Robotics being positioned as a long-term productivity partner rather than a cost-cutting tool Article link for context (not affiliated, just sharing): https://ciolookmagazine.com/driving-intelligent-automation-how-fanuc-india-guided-by-yuki-kita-is-putting-human-robotics-fusion-on-the-global-map/
 
-3h ago
+4h ago
 
 ---
 
@@ -132,7 +132,7 @@ BBC • 2d ago
 
 Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
 
-The Robot Report • 23h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -149,7 +149,7 @@ The future of intralogistics is quietly shifting from “bigger machines” to s
 
 #Robotics #Automation #Warehousing #Intralogistics #SupplyChain #FutureOfWork #Industry40
 
-LinkedIn • 1h ago
+LinkedIn • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 2d ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 9h ago
+The Free Press • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Free Press • 9h ago
 
 ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -267,7 +267,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 667 • 👍 3 • 💬 1 • ⏱️ 0:33 • 8h ago
+👁️ 667 • 👍 3 • 💬 1 • ⏱️ 0:33 • 9h ago
 
 ---
 

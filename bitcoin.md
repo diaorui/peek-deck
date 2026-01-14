@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T09:30:58.415325+00:00'
+updated: '2026-01-14T10:27:18.678838+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 09:30 UTC  
+**Last Updated:** January 14, 2026 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Big jump in price today!
 
-11h ago
+12h ago
 
 ---
 
@@ -95,13 +95,13 @@ Big jump in price today!
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-20h ago
+21h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-2h ago
+3h ago
 
 ---
 
@@ -117,19 +117,19 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-17h ago
+18h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-10h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
-6h ago
+7h ago
 
 ---
 
@@ -155,13 +155,13 @@ Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
 **[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
 **[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqf-R5EyVnz2YYklUBIVJycEwkfSqyHRjVgEwcjSYL-I_AcFu58I6KL2&gaa_ts=696765be&gaa_sig=35Xdq4cGBJWeoJORYwf2-JrChjrNw3_adacjmbKAtr678P7zckTlrKVYdARChxIEN6nlM5WH5RefCllSQ1w7iw%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -169,7 +169,7 @@ Barron's • 22h ago
 
 Bitfarms (NASDAQ:BITF) executives used a recent investor presentation to detail the company’s strategy to transition from Bitcoin mining toward high-performance computing (HPC) and artificial intelligence (AI) data center infrastructure, emphasizing the growing value of power and purpose-built facil
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,13 +181,13 @@ Bloomberg.com • 3h ago
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 22h ago
+CCN.com • 23h ago
 
 ---
 
 **[🚨🇮🇷 BITCOIN BECOMES KING IN IRAN Not out of nowhere. This is where real pressure pushes real behavior. Here’s what’s actually happening and why BTC is spiking: Iran’s fiat is imploding. The rial has collapsed massively against the dollar as inflation ex](https://x.com/MarioNawfal/status/2011024172408041799)**
 
-x.com • 22h ago
+x.com • 23h ago
 
 ---
 
@@ -195,7 +195,7 @@ x.com • 22h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 14h ago
+dlnews.com • 15h ago
 
 ---
 
@@ -275,7 +275,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 5d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 6d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -311,7 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 378 • ⏱️ 5:56 • 8h ago
+👁️ 21K • 👍 1K • 💬 378 • ⏱️ 5:56 • 9h ago
 
 ---
 
@@ -321,7 +321,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 177 • ⏱️ 15:44 • 9h ago
+👁️ 16K • 👍 1K • 💬 177 • ⏱️ 15:44 • 10h ago
 
 ---
 
@@ -331,7 +331,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 4K • 💬 204 • ⏱️ 9:23 • 11h ago
+👁️ 57K • 👍 4K • 💬 204 • ⏱️ 9:23 • 12h ago
 
 ---
 
@@ -341,7 +341,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 13K • 👍 1K • 💬 298 • ⏱️ 26:56 • 6h ago
+👁️ 13K • 👍 1K • 💬 298 • ⏱️ 26:56 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 3K • 👍 277 • 💬 102 • ⏱️ 3:40 • 8h ago
+👁️ 3K • 👍 277 • 💬 102 • ⏱️ 3:40 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 385 • 💬 185 • ⏱️ 10:22 • 4h ago
+👁️ 4K • 👍 385 • 💬 185 • ⏱️ 10:22 • 5h ago
 
 ---
 
@@ -381,7 +381,7 @@ Crypto News: Bitcoin crosses $95000 again and the total altcoin market looks pri
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 365 • 💬 46 • ⏱️ 17:44 • 5h ago
+👁️ 3K • 👍 365 • 💬 46 • ⏱️ 17:44 • 6h ago
 
 ---
 
@@ -391,7 +391,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Classified Defense Files
 
-👁️ 29K • 👍 5K • 10h ago
+👁️ 29K • 👍 5K • 11h ago
 
 ---
 
@@ -401,7 +401,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 8K • 👍 434 • 💬 74 • ⏱️ 8:20 • 10h ago
+👁️ 8K • 👍 434 • 💬 74 • ⏱️ 8:20 • 11h ago
 
 ---
 
