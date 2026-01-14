@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T01:53:47.415731+00:00'
+updated: '2026-01-14T03:48:53.492271+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 01:53 UTC  
+**Last Updated:** January 14, 2026 at 03:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-6h ago
-
----
-
-**[McKinsey CEO Bob Sternfels says the firm now has 60,000 employees: 25,000 of them are AI agents](https://www.reddit.com/r/artificial/comments/1qbzrwn/mckinsey_ceo_bob_sternfels_says_the_firm_now_has/)**
-
-McKinsey & Company CEO Bob Sternfels says he wants every employee working alongside an AI agent within a year and a half.
-
-🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 6h ago
+7h ago
 
 ---
 
@@ -57,7 +49,7 @@ McKinsey & Company CEO Bob Sternfels says he wants every employee working alongs
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 21h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 23h ago
 
 ---
 
@@ -65,7 +57,31 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-6h ago
+8h ago
+
+---
+
+**[zai-org/GLM-Image · Hugging Face](https://www.reddit.com/r/artificial/comments/1qcazo8/zaiorgglmimage_hugging_face/)**
+
+Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
+
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 1h ago
+
+---
+
+**[Bandcamp Bans All Music Made with AI](https://www.reddit.com/r/artificial/comments/1qccxaw/bandcamp_bans_all_music_made_with_ai/)**
+
+Bandcamp has announced that music and audio that is generated wholly or in substantial part by AI is not permitted on its platform.
+
+🔗 [Consequence](https://consequence.net/2026/01/bandcamp-bans-all-ai-music/) • 1m ago
+
+---
+
+**[Apple Creator Studio Is Here: A New Creative Suite Challenging Adobe](https://www.reddit.com/r/artificial/comments/1qccvkb/apple_creator_studio_is_here_a_new_creative_suite/)**
+
+Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
+
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 3m ago
 
 ---
 
@@ -73,15 +89,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-14h ago
-
----
-
-**[How do you see AI in 2026?](https://www.reddit.com/r/artificial/comments/1qbvab6/how_do_you_see_ai_in_2026/)**
-
-We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
-
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 9h ago
+16h ago
 
 ---
 
@@ -89,7 +97,7 @@ We are moving from experimentation to deployment while confronting economic and 
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 9h ago
 
 ---
 
@@ -97,23 +105,15 @@ We are moving from experimentation to deployment while confronting economic and 
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 20h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 22h ago
 
 ---
 
-**[Is the "Water Argument" getting on anyone else's nerves?](https://www.reddit.com/r/artificial/comments/1qc8vl7/is_the_water_argument_getting_on_anyone_elses/)**
+**[How do you see AI in 2026?](https://www.reddit.com/r/artificial/comments/1qbvab6/how_do_you_see_ai_in_2026/)**
 
-In my daily life those around me always complain about how much water is used when we do a single prompt on chatGPT or Gemini, I just get annoyed now. If it bothers you so much, stop eating meat, every pound of beef is costs 1200 gallons of water or more. Like, can we stop the scorekeeping yet?
+We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
 
-1h ago
-
----
-
-**[I bought an LG TV for the first time in my life, and it’s weird.](https://www.reddit.com/r/artificial/comments/1qbmjgj/i_bought_an_lg_tv_for_the_first_time_in_my_life/)**
-
-It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
-
-16h ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 11h ago
 
 ---
 
@@ -123,7 +123,7 @@ It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 15h ago
+The New York Times • 17h ago
 
 ---
 
@@ -135,35 +135,31 @@ CNBC • 1d ago
 
 ---
 
-**[Apple turns to Google to power AI upgrade for Siri](https://www.bbc.com/news/articles/czdqvp2zqezo)**
+**[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqf_WeNgrwomazndY3tTTMXGD5Tn2v2vjaSxeW137yt9GIkQ-kizQaKN&gaa_ts=69671590&gaa_sig=tHs-BWBZjaEpnFLY6lrXulKrAGQSZtaIgp63ki_hzGIPVENOdhmuN-NzhlSMTrym7PzH0p0vkLIubPagz1ZkDg%3D%3D)**
 
-Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
-
-BBC • 12h ago
+The Wall Street Journal • 48m ago
 
 ---
 
-**[Google has the best AI for enterprise right now, Ray Wang](https://www.foxbusiness.com/video/6387680452112)**
+**[Microsoft Unveils “Community-First” Plan for U.S. AI Data Center Buildout](https://finance.yahoo.com/news/microsoft-unveils-community-first-plan-024305504.html)**
 
-Constellation Research founder details Palantir's military AI, OpenAI's health-tech acquisition, and Apple's Gemini partnership on 'Varney & Co.'
+Microsoft says it will fund power and water impacts, expand local hiring and training, and boost municipal revenues as it accelerates U.S. data center growth.
 
-Fox Business • 55m ago
-
----
-
-**[Dr. Tamara Patzer Publishes Analysis on How AI Is Influencing Legal Visibility for Law Firms and Attorneys](https://www.usatoday.com/press-release/story/23191/dr-tamara-patzer-publishes-analysis-on-how-ai-is-influencing-legal-visibility-for-law-firms-and-attorneys/)**
-
-Dr. Tamara Patzer, a media strategist and researcher focused on digital identity and AI-driven discoverability, has
-
-USA Today • 23m ago
+Yahoo Finance • 34m ago
 
 ---
 
-**[‘Godfather of AI’ says the technology will create massive unemployment and send profits soaring — ‘that is the capitalist system’](https://finance.yahoo.com/news/godfather-ai-says-technology-create-184754671.html)**
+**[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
 
-"We are at a point in history where something amazing is happening, and it may be amazingly good, and it may be amazingly bad."
+Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-Yahoo Finance • 1d ago
+The Guardian • 11h ago
+
+---
+
+**[Adobe Analysts Turn Most Bearish Since 2013 as AI Threat Looms](https://www.bloomberg.com/news/articles/2026-01-13/adobe-analysts-turn-most-bearish-since-2013-as-ai-threat-looms)**
+
+Bloomberg.com • 12h ago
 
 ---
 
@@ -171,7 +167,7 @@ Yahoo Finance • 1d ago
 
 Federal officials say a company that operates hundreds of landing pages for AI answers is running an operation that has duped thousands of users, who were unable to stop costly monthly charges.
 
-NPR • 4h ago
+NPR • 6h ago
 
 ---
 
@@ -179,23 +175,23 @@ NPR • 4h ago
 
 Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
 
-The Official Microsoft Blog • 12h ago
+The Official Microsoft Blog • 14h ago
 
 ---
 
-**[Microsoft has a plan to stop AI data centers from hiking up your electricity bill](https://www.cnn.com/2026/01/13/tech/microsoft-ai-data-centers-electricity-bills-plan)**
+**[Instagram AI Influencers Are Defaming Celebrities With Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)**
 
-Microsoft says it will ask to pay higher electricity bills in areas where it’s building data centers, in an effort to prevent electricity prices for local residents from rising in those areas. The move is part of a broader plan to address rising prices and other concerns sparked by the tech industry’s massive buildout of artificial intelligence infrastructure across the United States.
+Fake images of LeBron James, iShowSpeed, Dwayne “The Rock” Johnson, and even Nicolás Maduro show them in bed with AI-generated influencers.
 
-CNN • 10h ago
+404 Media • 9h ago
 
 ---
 
-**[Honey, I shrunk the data centres: Is small the new big?](https://www.bbc.com/news/articles/cd0ynenr1eno)**
+**[Microsoft warns that China is winning AI race outside the west](https://www.ft.com/content/f7a5b184-1fef-4f02-b957-4c2b07adf91f)**
 
-Huge data centres are being built to handle AI computing but some experts say they aren't necessary.
+DeepSeek’s technology is being rapidly adopted across Africa and beyond, tech group’s research shows
 
-BBC • 1h ago
+Financial Times • 22h ago
 
 ---
 
@@ -205,13 +201,13 @@ BBC • 1h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1263 • 💬 1591 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1265 • 💬 1596 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
-**[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
+**[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 571 • 💬 435 • 7h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 631 • 💬 466 • 9h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -219,7 +215,7 @@ BBC • 1h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 327 • 💬 325 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 329 • 💬 325 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -227,13 +223,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 321 • 💬 96 • 7h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 323 • 💬 96 • 9h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 265 • 💬 149 • 3h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 309 • 💬 168 • 5h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -241,7 +237,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 217 • 💬 163 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 219 • 💬 165 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -249,7 +245,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 202 • 💬 108 • 5h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 208 • 💬 111 • 7h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -265,7 +261,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 183 • 💬 103 • 1d ago • [TryLAD](https://www.trylad.com)
+⬆️ 184 • 💬 104 • 1d ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -273,7 +269,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 182 • 💬 181 • 13h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 182 • 💬 181 • 15h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -307,7 +303,7 @@ An AI chatbot linked to Elon Musk is under fire after allegedly generating non�
 
 📺 CBS TEXAS
 
-👁️ 719 • 👍 1 • 💬 1 • ⏱️ 4:05 • 2h ago
+👁️ 719 • 👍 1 • 💬 1 • ⏱️ 4:05 • 4h ago
 
 ---
 
@@ -337,7 +333,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 13K • 👍 519 • 💬 100 • ⏱️ 25:36 • 10h ago
+👁️ 13K • 👍 519 • 💬 100 • ⏱️ 25:36 • 12h ago
 
 ---
 
@@ -347,7 +343,7 @@ U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in B
 
 📺 DWS News
 
-👁️ 50K • 👍 605 • 💬 7 • ⏱️ 8:05 • 19h ago
+👁️ 50K • 👍 605 • 💬 7 • ⏱️ 8:05 • 21h ago
 
 ---
 
@@ -417,7 +413,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 11,717 • ❤️ 748 • 12d ago
+⬇️ 11,717 • ❤️ 748 • 13d ago
 
 ---
 
@@ -453,7 +449,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 232 • 3h ago
+⬇️ 26,414 • ❤️ 232 • 5h ago
 
 ---
 
@@ -477,7 +473,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,825 • ❤️ 373 • 7d ago
+⬇️ 30,825 • ❤️ 373 • 8d ago
 
 ---
 
@@ -606,7 +602,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 30 • 💬 2 • ⭐ 675 • 5d ago
+▲ 30 • 💬 2 • ⭐ 675 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
@@ -646,7 +642,7 @@ A data-free self-evolution framework enables large language models to autonomous
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 9h ago
+⭐ 8.3k • 🔱 1.1k • 11h ago
 
 ---
 
@@ -666,7 +662,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 132 • 3h ago
+⭐ 3.6k • 🔱 132 • 5h ago
 
 ---
 
@@ -676,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 142 • 27m ago
+⭐ 2.3k • 🔱 142 • 2h ago
 
 ---
 
@@ -696,7 +692,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 129 • 37m ago
+⭐ 1.6k • 🔱 129 • 2h ago
 
 ---
 
@@ -736,7 +732,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.1k • 🔱 745 • 11h ago
+⭐ 1.1k • 🔱 745 • 12h ago
 
 ---
 

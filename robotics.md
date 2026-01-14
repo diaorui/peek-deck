@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T01:53:47.433524+00:00'
+updated: '2026-01-14T03:48:53.510038+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 01:53 UTC  
+**Last Updated:** January 14, 2026 at 03:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 13h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 15h ago
 
 ---
 
@@ -44,13 +44,13 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-8h ago
+10h ago
 
 ---
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -58,7 +58,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-15h ago
+17h ago
 
 ---
 
@@ -66,13 +66,13 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-18h ago
+20h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -80,13 +80,13 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-8h ago
+10h ago
 
 ---
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 Made a list tracking the Physical AI space — foundation models that control robots. Covers Vision-Language-Action (VLA) models like RT-2 and π₀, world models (DreamerV3, Genie 2), diffusion policies, real-world deployment and latency problems, cross-embodiment transfer, humanoids, manipulation, and navigation. Also datasets (Open X-Embodiment, DROID) and sim platforms (Isaac, ManiSkill3, Genesis). GitHub in comments. PRs welcome.
 
-🔗 [GitHub](https://github.com/keon/awesome-physical-ai) • 2h ago
+🔗 [GitHub](https://github.com/keon/awesome-physical-ai) • 4h ago
 
 ---
 
@@ -108,11 +108,15 @@ Made a list tracking the Physical AI space — foundation models that control ro
 
 ## Google News: "robotics"
 
-**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning)**
+**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
 
-Home robots need common sense behavior and a deep understanding of the physical world.
+Reuters • 1d ago
 
-1X | Home Robots • 1d ago
+---
+
+**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -120,7 +124,7 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 Implementing automation systems requires a lot of planning, time and money
 
-Financial Times • 20h ago
+Financial Times • 22h ago
 
 ---
 
@@ -132,35 +136,27 @@ BBC • 2d ago
 
 ---
 
-**[Hyundai Motor Shares Hit Records as Robotics Drive $24 Billion Rally](https://finance.yahoo.com/news/hyundai-motor-shares-hit-records-175641807.html)**
+**[Schaeffler to deploy hundreds of Humanoid robots in its factories](https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/)**
 
-Hyundai Motor group stocks surge after Atlas robot debut and Nvidia partnership lifts robotics optimism.
+Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
 
-Yahoo Finance • 7h ago
-
----
-
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
-
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 4h ago
+The Robot Report • 17h ago
 
 ---
 
-**[Robotics arise as key new market in tech sector: BNP Paribas (NVDA:NASDAQ)](https://seekingalpha.com/news/4538110-robotics-arise-as-key-new-market-in-tech-sector-bnp-paribas)**
+**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
 
-BNP Paribas on CES 2026: robotics set to take off, AI & AR glasses gaining, and NVDA/AMD trends plus 2026 memory crunchâread the investor insights now.
+Home robots need common sense behavior and a deep understanding of the physical world.
 
-Seeking Alpha • 3d ago
+1X | Home Robots • 1d ago
 
 ---
 
-**[Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/)**
+**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
 
-1X released a new world model that it says is a solid step toward its robots being able to teach themselves new tasks.
+ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
 
-TechCrunch • 8h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -180,11 +176,11 @@ CNBC • 1d ago
 
 ---
 
-**[Pentagon to integrate Elon Musk's Grok AI into military networks](https://interestingengineering.com/ai-robotics/pentagon-grok-ai-classified-networks)**
+**[New adaptive system lets robots replicate human touch with far less training data](https://interestingengineering.com/ai-robotics/adaptive-robot-motion-gaussian-process-regression)**
 
-The Pentagon plans to deploy Elon Musk's Grok AI across military systems as part of a new AI acceleration strategy announced by Pete Hegseth.
+Japanese researchers develop an adaptive robot motion system that enables human-like grasping using minimal training data.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 3h ago
 
 ---
 
@@ -246,7 +242,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 Wowearth
 
-👁️ 27K • 👍 411 • 💬 39 • ⏱️ 1:16 • 15h ago
+👁️ 27K • 👍 411 • 💬 39 • ⏱️ 1:16 • 17h ago
 
 ---
 
@@ -276,7 +272,7 @@ Inside the core technologies shaping the AI Robotics ecosystem. From next-genera
 
 📺 Hyundai Motor Group
 
-👁️ 141K • 👍 182 • 💬 8 • ⏱️ 1:06 • 6d ago
+👁️ 141K • 👍 182 • 💬 8 • ⏱️ 1:06 • 7d ago
 
 ---
 
