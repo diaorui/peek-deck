@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T20:45:41.615642+00:00'
+updated: '2026-01-14T21:22:45.013327+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 20:45 UTC  
+**Last Updated:** January 14, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,13 @@ Rank #1
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,19 +107,19 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 What’s happening?
 
-5h ago
+6h ago
 
 ---
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-2h ago
+3h ago
 
 ---
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 Big jump in price today!
 
-22h ago
+23h ago
 
 ---
 
@@ -151,7 +151,7 @@ Big jump in price today!
 
 **[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqdcC_2I0vApJ9CvKfgVoWU6eh6CORVbLTqDkXWAUgzSMfUYDBuedb_3&gaa_ts=6967feba&gaa_sig=fWP9Xv2B_oeo1I3lcn6gmxASRrr_smirFc1EyMwa7buAbldC3dmLqEo4hzgW6aqnPA__XsQDdKfMTqhHQgIWJg%3D%3D)**
 
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
@@ -165,13 +165,13 @@ Investor's Business Daily • 5h ago
 
 US stocks (^DJI, ^IXIC, ^GSPC) fell in Tuesday's trading session following the release of December's Consumer Price Index (CPI) inflation report this morning. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including Big Bank earnings season kicking off with JPMorgan Chase's (JPM) results, Intel (INTC) breaking outside its trading range, and bitcoin (BTC-USD) bouncing back above $94,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[The Daily: Bitcoin taps $97K amid 'Goldilocks' macro backdrop, Ripple secures preliminary license in EU payments push, and more](https://www.theblock.co/post/385632/the-daily-bitcoin-taps-97k-amid-goldilocks-macro-backdrop-ripple-secures-preliminary-license-in-eu-payments-push-and-more?utm_source=policy.xml&utm_medium=rss)**
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 13h ago
 
 Bitcoin tops $95K as spot BTC ETF inflows hit the highest since Oct, signaling renewed risk appetite.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -277,7 +277,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
 
-⬆️ 1 • 💬 1 • 6d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
+⬆️ 1 • 💬 1 • 7d ago • [CNET](https://www.cnet.com/home/energy-and-utilities/superheat-bitcoin-water-heater-ces-2026/)
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 977 • 💬 170 • ⏱️ 47:15 • 5h ago
+👁️ 17K • 👍 977 • 💬 170 • ⏱️ 47:15 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 8K • 👍 88 • 💬 70 • ⏱️ 5:02 • 8h ago
+👁️ 8K • 👍 88 • 💬 70 • ⏱️ 5:02 • 9h ago
 
 ---
 
@@ -375,7 +375,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 477 • 💬 44 • ⏱️ 6:42 • 1h ago
+👁️ 4K • 👍 477 • 💬 44 • ⏱️ 6:42 • 2h ago
 
 ---
 
@@ -395,7 +395,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 496 • 💬 94 • ⏱️ 10:44 • 4h ago
+👁️ 7K • 👍 496 • 💬 94 • ⏱️ 10:44 • 5h ago
 
 ---
 

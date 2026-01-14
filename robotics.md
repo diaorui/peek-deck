@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T20:45:41.624919+00:00'
+updated: '2026-01-14T21:22:45.022702+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 20:45 UTC  
+**Last Updated:** January 14, 2026 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 26m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Robotic arm attached to your monitor… thoughts? I personally think it’s pretty cool! I mean it’s like Ironman but it’s not lol
 
-🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 27m ago
+🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 1h ago
 
 ---
 
@@ -74,7 +74,7 @@ Robotic arm attached to your monitor… thoughts? I personally think it’s pret
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-10h ago
+11h ago
 
 ---
 
@@ -82,7 +82,7 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
 
-54m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, I’m looking for real-world experience with Arducam ToF sensors us
 
 Hello! I’m trying to design and configure something to put 12 stepper motors into a cassette for tendon based actuation along 36” and 3 points of movement. Has something like this been done? I’ve done some searches and I’m not finding much on compacting 12 stepper motors into a 12” space. I was looking at linear actuators, but even the research on them is scarce it seems and is gated behind pay walls. They also seem too large for what I am trying to accomplish. I don’t mind designing something of my own, but before I start from scratch, I wanted to see if I could accumulate some references or previous successes. Looking for resources or research papers on anything close. Thanks!
 
-5h ago
+6h ago
 
 ---
 
@@ -118,13 +118,13 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
 
 ---
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -132,7 +132,7 @@ Bloomberg.com • 7h ago
 
 Greenberg Traurig shares insights about how to choose the right IP strategy when algorithms, and not humans, drive innovation.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -144,7 +144,7 @@ Reuters • 1d ago
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 4h ago
+GeekWire • 5h ago
 
 ---
 
@@ -168,7 +168,7 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 20h ago
+The Free Press • 21h ago
 
 ---
 
@@ -184,7 +184,7 @@ BBC • 2d ago
 
 While physical products made the biggest initial splash at this yearâs CES, itâs the news about robotics platforms and tools that will have the most long-term impact. Read more here...
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -228,7 +228,7 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 📺 Carros Show
 
-👁️ 10K • 👍 133 • 💬 7 • ⏱️ 8:33 • 6d ago
+👁️ 10K • 👍 133 • 💬 7 • ⏱️ 8:33 • 7d ago
 
 ---
 
@@ -268,7 +268,7 @@ Al Robots Are Replacing Humans Faster Than You Think #shorts This Robot Doesn't 
 
 📺 Tip Top Fact 
 
-👁️ 391 • 👍 7 • ⏱️ 0:52 • 21m ago
+👁️ 391 • 👍 7 • ⏱️ 0:52 • 58m ago
 
 ---
 
@@ -278,7 +278,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 855 • 👍 8 • 💬 1 • ⏱️ 0:33 • 19h ago
+👁️ 855 • 👍 8 • 💬 1 • ⏱️ 0:33 • 20h ago
 
 ---
 
