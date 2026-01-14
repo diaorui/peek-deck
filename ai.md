@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T07:26:57.300177+00:00'
+updated: '2026-01-14T07:47:20.863765+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- videos
 - repositories
 - news
-- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 07:26 UTC  
+**Last Updated:** January 14, 2026 at 07:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 3h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 4h ago
 
 ---
 
@@ -58,30 +58,6 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
 🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 1d ago
-
----
-
-**[kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required](https://www.reddit.com/r/artificial/comments/1qceq2y/kyutai_just_introduced_pocket_tts_a_100mparameter/)**
-
-Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
-
-2h ago
-
----
-
-**[Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.](https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/)**
-
-Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
-
-11h ago
-
----
-
-**[zai-org/GLM-Image · Hugging Face](https://www.reddit.com/r/artificial/comments/1qcazo8/zaiorgglmimage_hugging_face/)**
-
-Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
-
-🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 5h ago
 
 ---
 
@@ -101,6 +77,30 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 ---
 
+**[kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required](https://www.reddit.com/r/artificial/comments/1qceq2y/kyutai_just_introduced_pocket_tts_a_100mparameter/)**
+
+Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
+
+2h ago
+
+---
+
+**[Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.](https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/)**
+
+Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
+
+12h ago
+
+---
+
+**[zai-org/GLM-Image · Hugging Face](https://www.reddit.com/r/artificial/comments/1qcazo8/zaiorgglmimage_hugging_face/)**
+
+Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
+
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 5h ago
+
+---
+
 **[Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://www.reddit.com/r/artificial/comments/1qby3z0/signal_creator_moxie_marlinspike_wants_to_do_for/)**
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
@@ -113,7 +113,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-19h ago
+20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 ## Google News: "ai"
 
-**[US approves sale of Nvidia's advanced H200 chips to China](https://www.bbc.com/news/articles/cg4erx1n04lo)**
+**[US approves sale of Nvidia's advanced AI chips to China](https://www.bbc.com/news/articles/cg4erx1n04lo)**
 
 Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.
 
@@ -129,11 +129,11 @@ BBC • 3h ago
 
 ---
 
-**[US allows Nvidia to send advanced AI chips to China with restrictions](https://finance.yahoo.com/news/us-allows-nvidia-send-advanced-013316921.html)**
+**[Trump administration greenlights Nvidia AI chip exports to China](https://www.foxbusiness.com/politics/trump-administration-greenlights-nvidia-ai-chip-exports-china)**
 
-The US Commerce Department on Tuesday opened the door for Nvidia to sell advanced artificial intelligence chips in China with restrictions, following through on a policy shift announced last month by President Donald Trump.Trump announced on December 9, 2025 that he had reached an agreement with Chinese President Xi Jinping to allow Nvidia to export its H200 chips to China, with the US government getting a 25-percent cut of sales.
+The Trump administration greenlit Nvidia’s AI chip exports to China, a move the company says supports U.S. jobs, manufacturing and America’s leadership in artificial intelligence.
 
-Yahoo Finance • 5h ago
+Fox Business • 1h ago
 
 ---
 
@@ -149,14 +149,6 @@ The New York Times • 21h ago
 
 ---
 
-**[McKinsey challenges graduates to use AI chatbot in recruitment overhaul](https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586)**
-
-Candidates in pilot assessed on how they prompted consulting firm’s AI assistant and ability to adapt responses
-
-Financial Times • 2h ago
-
----
-
 **[Big Tech is poaching energy talent to fuel its AI ambitions](https://www.cnbc.com/2026/01/14/big-tech-google-microsoft-energy-hiring-ai.html)**
 
 Hires of energy-related talent by Big Tech was 30% higher in 2025 than pre-AI levels.
@@ -165,11 +157,11 @@ CNBC • 1h ago
 
 ---
 
-**[After an oversaturation of AI-generated content, creators’ authenticity and ‘messiness’ are in high demand](https://digiday.com/media/after-an-oversaturation-of-ai-generated-content-creators-authenticity-and-messiness-are-in-high-demand/)**
+**[TCS and AMD Announce Strategic Collaboration to Drive AI Adoption at Scale](https://finance.yahoo.com/news/tcs-amd-announce-strategic-collaboration-060000843.html)**
 
-Marketers and content creators on how authenticity is even more crucial after rampant AI-generated "slop" flooded social media platforms
+MUMBAI, India and SANTA CLARA, Calif., Jan. 14, 2026 (GLOBE NEWSWIRE) -- Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a global leader in IT services, consulting, and business solutions, today announced a strategic collaboration with AMD (NASDAQ: AMD) to help enterprises scale AI adoption from pilots to production, modernize legacy environments, and build secure, high performance digital workplaces. Under the collaboration, TCS and AMD plan to engage on the co-development of industry
 
-Digiday • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,9 +181,19 @@ The New Yorker • 1d ago
 
 ---
 
-**[College paper fights to stop AI slop website from stealing its identity](https://www.washingtonpost.com/nation/2026/01/13/colorado-student-newspaper-artificial-intelligence/)**
+**[Building Community-First AI Infrastructure](https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/)**
 
-The Washington Post • 12h ago
+Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
+
+The Official Microsoft Blog • 18h ago
+
+---
+
+**[Microsoft has a plan to stop AI data centers from hiking up your electricity bill](https://www.cnn.com/2026/01/13/tech/microsoft-ai-data-centers-electricity-bills-plan)**
+
+Microsoft says it will ask to pay higher electricity bills in areas where it’s building data centers, in an effort to prevent electricity prices for local residents from rising in those areas. The move is part of a broader plan to address rising prices and other concerns sparked by the tech industry’s massive buildout of artificial intelligence infrastructure across the United States.
+
+CNN • 16h ago
 
 ---
 
@@ -201,19 +203,19 @@ The Washington Post • 12h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1266 • 💬 1602 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1267 • 💬 1602 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 704 • 💬 497 • 12h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 726 • 💬 513 • 13h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 357 • 💬 186 • 9h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 376 • 💬 198 • 9h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -221,7 +223,7 @@ The Washington Post • 12h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 332 • 💬 327 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 333 • 💬 327 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -229,7 +231,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 325 • 💬 96 • 12h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 327 • 💬 97 • 13h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -237,7 +239,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 220 • 💬 166 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 221 • 💬 168 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -245,7 +247,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 213 • 💬 112 • 10h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 217 • 💬 113 • 11h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -269,7 +271,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 183 • 💬 185 • 19h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 183 • 💬 188 • 19h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -351,7 +353,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Garett
 
-👁️ 536K • 👍 44K • 💬 2K • ⏱️ 0:43 • 14h ago
+👁️ 536K • 👍 44K • 💬 2K • ⏱️ 0:43 • 15h ago
 
 ---
 

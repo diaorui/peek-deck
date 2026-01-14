@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T07:26:57.318175+00:00'
+updated: '2026-01-14T07:47:20.882064+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 07:26 UTC  
+**Last Updated:** January 14, 2026 at 07:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-13h ago
+14h ago
 
 ---
 
@@ -84,25 +84,27 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 ---
 
+**[Real Steel fantasy turns real as Humanoid robots fight at CES 2026](https://www.reddit.com/r/robotics/comments/1qch5q3/real_steel_fantasy_turns_real_as_humanoid_robots/)**
+
+CES 2026 hosted the first "Ultimate Fighting Robot" (UFB) matches, where full-sized humanoid robots (including Unitree models) traded punches and kicks in a boxing ring. Unlike BattleBots, these droids weren't just smashing metal—they were teleoperated in real-time by human "pilots" using motion controllers, mimicking their movements to fight MMA-style.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026) • 11m ago
+
+---
+
+**[Robots for different parts of the home?](https://www.reddit.com/r/robotics/comments/1qcgimt/robots_for_different_parts_of_the_home/)**
+
+i've been thinking a lot lately about robots and the spaces they will occupy in our homes. we did some concept art last month to imagine and think where a robot lamp fits best. i have my intuition here but wanted to reach out to the community. please share your thoughts/ideas/critique, and if you there's something you imagine thats not here and share - we may illustrate it!
+
+50m ago
+
+---
+
 **[Human Robot Fusion in Manufacturing. Is This the Next Real Shift or Just Better Automation Branding?](https://www.reddit.com/r/robotics/comments/1qcfrdk/human_robot_fusion_in_manufacturing_is_this_the/)**
 
 https://preview.redd.it/ge1vg4ccb9dg1.png?width=897&format=png&auto=webp&s=05416e49534382b7a48ae021b7b6bbd673f090c9 I recently came across an interesting article on how FANUC India is approaching “human-robot fusion” in industrial automation. The core idea isn’t robots replacing people, but robots evolving into adaptive collaborators that learn from data, assist human decision-making, and handle precision-heavy tasks while humans focus on judgment, creativity, and problem-solving. A few things that stood out to me: Automation moving beyond repetitive motion into AI-assisted adaptability Humans staying in the loop instead of being engineered out Robotics being positioned as a long-term productivity partner rather than a cost-cutting tool Article link for context (not affiliated, just sharing): https://ciolookmagazine.com/driving-intelligent-automation-how-fanuc-india-guided-by-yuki-kita-is-putting-human-robotics-fusion-on-the-global-map/
 
 1h ago
-
----
-
-**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
-
-21h ago
-
----
-
-**[Big step for embodied AI if the latency is as low as they claim.](https://www.reddit.com/r/robotics/comments/1qbx10w/big_step_for_embodied_ai_if_the_latency_is_as_low/)**
-
-LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
-
-14h ago
 
 ---
 
@@ -113,6 +115,20 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 **[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
 
 Reuters • 1d ago
+
+---
+
+**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
+
+Home robots need common sense behavior and a deep understanding of the physical world.
+
+1X | Home Robots • 1d ago
 
 ---
 
@@ -132,19 +148,19 @@ BBC • 2d ago
 
 ---
 
-**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
+**[Schaeffler to deploy hundreds of Humanoid robots in its factories](https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/)**
 
-Home robots need common sense behavior and a deep understanding of the physical world.
+Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
 
-1X | Home Robots • 1d ago
+The Robot Report • 21h ago
 
 ---
 
-**[Hyundai Motor Shares Hit Records as Robotics Drive $24 Billion Rally](https://finance.yahoo.com/news/hyundai-motor-shares-hit-records-175641807.html)**
+**[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
 
-Hyundai Motor group stocks surge after Atlas robot debut and Nvidia partnership lifts robotics optimism.
+New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
-Yahoo Finance • 13h ago
+CNBC • 2d ago
 
 ---
 
@@ -164,25 +180,11 @@ Seeking Alpha • 11h ago
 
 ---
 
-**[HD Hyundai Robotics Hires Banks for South Korea IPO](https://www.bloomberg.com/news/articles/2026-01-12/hd-hyundai-robotics-hires-banks-for-south-korea-ipo)**
+**[Bernie Sanders Renews Criticism Of Tech Industry's AI, Robotics Push: 'Multi-Multi-Billionaires Are Pouring…'](https://www.yahoo.com/news/articles/bernie-sanders-renews-criticism-tech-003129748.html)**
 
-Bloomberg.com • 2d ago
+Sen. Bernie Sanders (I-VT) has renewed his criticism of the tech industry's investment in AI and Robotics, expressing concern about its widespread application. Making Huge Amounts Of Money In a video shared on the social media platform X on Saturday, the senator called out tech companies and CEOs, like Tesla Inc.'s (NASDAQ:TSLA) CEO Elon Musk, Nvidia Corp's (NASDAQ:NVDA) Jensen Huang, as well as Meta Platforms Inc. (NASDAQ:META) CEO Mark Zuckerberg, OpenAI CEO Sam Altman, billionaire Jeff Bezos
 
----
-
-**[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
-
-New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
-
-CNBC • 2d ago
-
----
-
-**[Robots compete on the ice: Frozen arena becomes a tech playground](https://news.cgtn.com/news/2026-01-13/Robots-compete-on-the-ice-Frozen-arena-becomes-a-tech-playground-1JTGZr9Y7Cw/p.html)**
-
-Robots hit the snow at the first Jingyue Robotics Ice and Snow Fun Competition, held on Saturday in Changchun, northeast China's Jilin Province, turning a frozen arena into a testing ground for intelligent technology.From skiing and sled pulling to snowball
-
-news.cgtn.com • 1d ago
+Yahoo • 7h ago
 
 ---
 
@@ -246,7 +248,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 121K • 👍 9K • 💬 2K • ⏱️ 5:12 • 9h ago
+👁️ 121K • 👍 9K • 💬 2K • ⏱️ 5:12 • 10h ago
 
 ---
 

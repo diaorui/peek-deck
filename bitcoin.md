@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T07:26:57.308736+00:00'
+updated: '2026-01-14T07:47:20.872518+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 07:26 UTC  
+**Last Updated:** January 14, 2026 at 07:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,308.70
+### $94,888.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +3.9%  
-**30d:** +8.0%  
-**90d:** -11.3%  
-**1y:** -5.7%  
+**24h:** +3.1%  
+**7d:** +4.3%  
+**30d:** +8.4%  
+**90d:** -11.0%  
+**1y:** -5.4%  
 
 ---
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
-
-12h ago
-
----
-
 **[$95,000](https://www.reddit.com/r/Bitcoin/comments/1qc57rs/95000/)**
 
 Big jump in price today!
@@ -105,9 +99,9 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 ---
 
-**[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-17h ago
+3h ago
 
 ---
 
@@ -119,9 +113,15 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 ---
 
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
+**[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-3h ago
+17h ago
+
+---
+
+**[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
+
+12h ago
 
 ---
 
@@ -129,7 +129,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
-4h ago
+5h ago
 
 ---
 
@@ -183,45 +183,49 @@ thestreet.com • 1d ago
 
 ---
 
-**[Bitcoin Advocates Press US Lawmakers on Stablecoin Tax Rules](https://finance.yahoo.com/news/bitcoin-advocates-press-us-lawmakers-051610918.html)**
+**[Strive’s Semler Scientific Acquisition Lifts Bitcoin Holdings but Sends Stock Down 12%](https://finance.yahoo.com/news/strive-semler-scientific-acquisition-lifts-061823293.html)**
 
-The groups urged Congress to extend crypto tax relief beyond stablecoins, warning the current approach would not simplify everyday payments.
+Strive acquires Semler Scientific, boosting Bitcoin holdings to 12,797.9 BTC, but shares fall 12% after the all-stock deal approval.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Why Ethereum Could Be Ready to Outperform Bitcoin in 2026](https://finance.yahoo.com/news/why-ethereum-could-ready-outperform-054906984.html)**
+**[Strive, Semler Stocks Fall After Shareholders Approve Bitcoin Treasury Acquisition](https://decrypt.co/354436/strive-semler-stocks-fall-shareholders-approve-bitcoin-treasury-acquisition)**
+
+Semler Scientific shareholders approved Strive's acquisition in an all-stock deal, but both Bitcoin treasury stocks dropped on the news.
+
+Decrypt • 11h ago
+
+---
+
+**[Strive Advances Semler Merger and Expands Bitcoin Holdings](https://www.tipranks.com/news/company-announcements/strive-advances-semler-merger-and-expands-bitcoin-holdings)**
+
+TipRanks • 14h ago
+
+---
+
+**[Why Ethereum Could Be Ready to Outperform Bitcoin in 2026](https://decrypt.co/354515/ethereum-outperform-bitcoin-2026)**
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Yahoo Finance • 1h ago
+Decrypt • 1h ago
 
 ---
 
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://beincrypto.com/us-stole-chinese-scam-kings-15b-bitcoin/)**
 
-CCN.com • 20h ago
+China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
----
-
-**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
-
-Bloomberg.com • 3h ago
+BeInCrypto • 2d ago
 
 ---
 
-**[Bitcoin, XRP surge amid rising US-Iran tensions](https://www.thestreet.com/crypto/markets/bitcoin-xrp-surge-amid-rising-us-iran-tensions)**
+**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
 
-thestreet.com • 10h ago
+The dog token's much bigger trailing-10-year return can draw interest from some market participants.
 
----
-
-**[Gold, Silver Hit New Highs as Bitcoin Trades Flat Ahead of Key Macroeconomic Events](https://decrypt.co/354236/gold-silver-hit-new-highs-as-bitcoin-trades-flat-ahead-of-key-macroeconomic-events)**
-
-Precious metals hit new highs as political pressure on the Federal Reserve spurred a safe-haven rush ahead of critical U.S. inflation data.
-
-Decrypt • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -335,7 +339,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 9K • 👍 923 • 💬 264 • ⏱️ 26:56 • 4h ago
+👁️ 9K • 👍 923 • 💬 264 • ⏱️ 26:56 • 5h ago
 
 ---
 
@@ -345,7 +349,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 181 • ⏱️ 15:44 • 7h ago
+👁️ 14K • 👍 1K • 💬 181 • ⏱️ 15:44 • 8h ago
 
 ---
 
@@ -355,7 +359,7 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 3K • 👍 250 • 💬 107 • ⏱️ 3:40 • 6h ago
+👁️ 3K • 👍 250 • 💬 107 • ⏱️ 3:40 • 7h ago
 
 ---
 
@@ -395,7 +399,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 248 • 💬 73 • ⏱️ 5:45 • 8h ago
+👁️ 5K • 👍 248 • 💬 73 • ⏱️ 5:45 • 9h ago
 
 ---
 
@@ -405,7 +409,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 5K • 👍 491 • 💬 13 • ⏱️ 4:22 • 5h ago
+👁️ 5K • 👍 491 • 💬 13 • ⏱️ 4:22 • 6h ago
 
 ---
 

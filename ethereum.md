@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T07:26:57.314882+00:00'
+updated: '2026-01-14T07:47:20.878758+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- videos
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 07:26 UTC  
+**Last Updated:** January 14, 2026 at 07:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,331.68
+### $3,336.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.3%  
-**7d:** +6.7%  
-**30d:** +12.1%  
-**90d:** -13.3%  
-**1y:** -3.7%  
+**24h:** +6.5%  
+**7d:** +7.0%  
+**30d:** +12.4%  
+**90d:** -13.1%  
+**1y:** -3.6%  
 
 ---
 
@@ -76,6 +76,33 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[The web3 vision of decentralized applications](https://www.reddit.com/r/ethereum/comments/1qcg3jc/the_web3_vision_of_decentralized_applications/)**
+
+In 2014, there was a vision: you can have permissionless, decentralized applications that could support finance, social media, ride sharing, governing organizations, crowdfunding, potentially create an entire alternative web, all on the backs of a suite of technologies. Ethereum: the blockchain. The world computer that could give any application its shared memory. Whisper: the data layer. Messages too expensive for a blockchain, that do no need consensus. Swarm: the storage layer. Store files for long-term access. Over the last five years, this core vision has at times become obscured, with various "metas" and "narratives" at various times taking center stage. But the core vision has never died. And in fact, the core technologies behind it are only growing stronger. Ethereum is now proof of stake. Ethereum is now scaling, it is now cheap, and it is on track to get more scalable and cheaper thanks to the power of ZK-EVMs. Thanks to ZK-EVM + PeerDAS, the "sharding" vision is effectively being realized. And L2s can give additional and different kinds of gains in speed on top. Whisper is now Waku ( https://docs.waku.org/ ), and already powers many applications (eg. https://www.railway.xyz/, https://status.app/ just to name two I use). Even outside of Waku, the quality of decentralized messaging has increased. Fileverse (decentralized Google Docs and Sheets alternative: https://fileverse.io/ ) has seen massive gains in usability over the past year. IPFS is now highly performant and robust as a decentralized way of retrieving files, though IPFS alone does not solve the storage problem. Hence, there is still room to improve there. All of the prerequisites for the original web3 vision are here, in full force, and are continuing to get stronger over the next few years. Hence, it's time to buidl, and buidl decentralized. Fileverse is an excellent example of the right way to do things: It uses Ethereum and Gnosis Chain for what they are good for: names, accounts and permissioning, document registration It uses decentralized messaging and file storage to store documents and propagate changes to documents The application passes the walkaway test: https://github.com/fileverse/walk-away-ddocs (even if Fileverse disappears, you can still retrieve them and even keep editing them with the open source UI) This is what we mean by "build a hammer that is a tool you buy once and it's yours, not a corposlop AI dishwasher that requires you to register for a google account and charges a subscription fee per month for extra washing modes, and probably spies on you and stops working if you get politically disfavored by a foreign country". If you think this criticism of corposlop is hyperbolic, well turns out, it's literally a concatenation of these three: https://mein-mmo.de/en/user-buys-new-dishwasher-can-only-use-some-features-if-he-subscribes,1186249/ https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers https://www.irishtimes.com/world/us/2025/12/12/its-surreal-us-sanctions-lock-international-criminal-court-judge-out-of-daily-life/ In 2014, decentralized applications were toys, hundreds of times more difficult to use in web2. In 2026, fileverse is now usable enough that I regularly write documents in it and send them to other people to collaborate. The decentralized renaissance is coming, and you can be part of making it happen.
+
+1h ago
+
+---
+
+**[ETH/USD widget for iPhone](https://www.reddit.com/r/ethereum/comments/1qch56t/ethusd_widget_for_iphone/)**
+
+I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have one. What do you use?
+
+12m ago
+
+---
+
+**[Geth: security fix release recommended for all users. Resolves two p2p vulnerabilities reported through the Ethereum Foundation bug bounty program.](https://www.reddit.com/r/ethereum/comments/1qcaq1y/geth_security_fix_release_recommended_for_all/)**
+
+This is a security fix release and is recommended for all users. It resolves two p2p
+vulnerabilities reported through the Ethereum Foundation bug bounty program.
+
+As with all our previous releases,...
+
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 5h ago
+
+---
+
 **[Ethereum itself must pass the walkaway test.](https://www.reddit.com/r/ethereum/comments/1qbj1wd/ethereum_itself_must_pass_the_walkaway_test/)**
 
 Ethereum is meant to be a home for trustless and trust-minimized applications, whether in finance, governance or elsewhere. It must support applications that are more like tools - the hammer that once you buy it's yours - than like services that lose all functionality once the vendor loses interest in maintaining them (or worse, gets hacked or becomes value-extractive). Even when applications do have functionality that depends on a vendor, Ethereum can help reduce those dependencies as much as possible, and protect the user as much as possible in those cases where the dependencies fail. But building such applications is not possible on a base layer which itself depends on ongoing updates from a vendor in order to continue being usable - even if that "vendor" is the all core devs process. Ethereum the blockchain must have the traits that we strive for in Ethereum's applications. Hence, Ethereum itself must pass the walkaway test. This means that Ethereum must get to a place where we can ossify if we want to. We do not have to stop making changes to the protocol, but we must get to a place where Ethereum's value proposition does not strictly depend on any features that are not in the protocol already. This includes the following: Full quantum-resistance. We should resist the trap of saying "let's delay quantum-resistance until the last possible moment in the name of ekeing out more efficiencies for a while longer". Individual users have that right, but the protocol should not. Being able to say "Ethereum's protocol, as it stands today, is cryptographically safe for a hundred years" is something we should strive to get to as soon as possible, and insist on as a point of pride. An architecture that can expand to sufficient scalability. The protocol needs to have the properties that allow it to expand to many thousands of TPS over time, most notably ZK-EVM validation and data sampling through PeerDAS. Ideally, we get to a point where further scaling is done through "parameter only" changes - and ideally those changes are not BPO-style forks, but rather are made with the same validator voting mechanism we use for the gas limit. A state architecture that can last decades. This means deciding, and implementing, whatever form of partial statelessness and state expiry will let us feel comfortable letting Ethereum run with thousands of TPS for decades, without breaking sync or hard disk or I/O requirements. It also means future-proofing the tree and storage types to work well with this long-term environment. An account model that is general-purpose (this is "full account abstraction": move away from enshrined ECDSA for signature validation) A gas schedule that we are confident is free of DoS vulnerabilities, both for execution and for ZK-proving A PoS economic model that, with all we have learned over the past half decade of proof of stake in Ethereum and full decade beyond, we are confident can last and remain decentralized for decades, and supports the usefulness of ETH as trustless collateral (eg. in governance-minimized ETH-backed stablecoins) A block building model that we are confident will resist centralization pressure and guarantee censorship resistance even in unknown future environments Ideally, we do the hard work over the next few years, to get to a point where in the future almost all future innovation can happen through client optimization, and get reflected in the protocol through parameter changes. Every year, we should tick off at least one of these boxes, and ideally multiple. Do the right thing once, based on knowledge of what is truly the right thing (and not compromise halfway fixes), and maximize Ethereum's technological and social robustness for the long term. Ethereum goes hard. This is the gwei.
@@ -92,30 +119,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Geth: security fix release recommended for all users. Resolves two p2p vulnerabilities reported through the Ethereum Foundation bug bounty program.](https://www.reddit.com/r/ethereum/comments/1qcaq1y/geth_security_fix_release_recommended_for_all/)**
-
-This is a security fix release and is recommended for all users. It resolves two p2p
-vulnerabilities reported through the Ethereum Foundation bug bounty program.
-
-As with all our previous releases,...
-
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 5h ago
-
----
-
 **[Welcome to 2026!](https://www.reddit.com/r/ethereum/comments/1qbiyab/welcome_to_2026/)**
 
 Ethereum did a lot in 2025: gas limits increased, blob count increased, node software quality improved, zkEVMs blasted through their performance milestones, and with zkEVMs and PeerDAS ethereum made its largest step toward being a fundamentally new and more powerful kind of blockchain (more on this later) But we have a challenge: Ethereum needs to do more to meet its own stated goals. Not the quest of "winning the next meta" regardless of whether it's tokenized dollars or political memecoins, not arbitrarily convincing people to help us fill up blockspace to make ETH ultrasound again, but the mission: To build the world computer that serves as a central infrastructure piece of a more free and open internet. We're building decentralized applications. Applications that run without fraud, censorship or third-party interference. Applications that pass the walkaway test: they keep running even if the original developers disappear. Applications where if you're a user, you don't even notice if Cloudflare goes down - or even if all of Cloudflare gets hacked by North Korea. Applications whose stability transcends the rise and fall of companies, ideologies and political parties. And applications that protect your privacy. All this - for finance, and also for identity, governance and whatever other civilizational infrastructure people want to build. These properties sound radical, but we must remember that a generation ago any wallet, kitchen appliance, book or car would fulfill every single one of them. Today, all of the above are by default becoming subscription services, consigning you to permanent dependence on some centralized overlord. Ethereum is the rebellion against this. To achieve this, it needs to be (i) usable, and usable at scale, and (ii) actually decentralized. This needs to happen at both (a) the blockchain layer, including the software we use to run and talk to the blockchain, and (b) the application layer. All of these pieces must be improved - they are already being improved, but they must be improved more. Fortunately, we have powerful tools on our side - but we need to apply them, and we will. Wishing everyone an exciting 2026. Milady.
 
 1d ago
-
----
-
-**[The web3 vision of decentralized applications](https://www.reddit.com/r/ethereum/comments/1qcg3jc/the_web3_vision_of_decentralized_applications/)**
-
-In 2014, there was a vision: you can have permissionless, decentralized applications that could support finance, social media, ride sharing, governing organizations, crowdfunding, potentially create an entire alternative web, all on the backs of a suite of technologies. Ethereum: the blockchain. The world computer that could give any application its shared memory. Whisper: the data layer. Messages too expensive for a blockchain, that do no need consensus. Swarm: the storage layer. Store files for long-term access. Over the last five years, this core vision has at times become obscured, with various "metas" and "narratives" at various times taking center stage. But the core vision has never died. And in fact, the core technologies behind it are only growing stronger. Ethereum is now proof of stake. Ethereum is now scaling, it is now cheap, and it is on track to get more scalable and cheaper thanks to the power of ZK-EVMs. Thanks to ZK-EVM + PeerDAS, the "sharding" vision is effectively being realized. And L2s can give additional and different kinds of gains in speed on top. Whisper is now Waku ( https://docs.waku.org/ ), and already powers many applications (eg. https://www.railway.xyz/, https://status.app/ just to name two I use). Even outside of Waku, the quality of decentralized messaging has increased. Fileverse (decentralized Google Docs and Sheets alternative: https://fileverse.io/ ) has seen massive gains in usability over the past year. IPFS is now highly performant and robust as a decentralized way of retrieving files, though IPFS alone does not solve the storage problem. Hence, there is still room to improve there. All of the prerequisites for the original web3 vision are here, in full force, and are continuing to get stronger over the next few years. Hence, it's time to buidl, and buidl decentralized. Fileverse is an excellent example of the right way to do things: It uses Ethereum and Gnosis Chain for what they are good for: names, accounts and permissioning, document registration It uses decentralized messaging and file storage to store documents and propagate changes to documents The application passes the walkaway test: https://github.com/fileverse/walk-away-ddocs (even if Fileverse disappears, you can still retrieve them and even keep editing them with the open source UI) This is what we mean by "build a hammer that is a tool you buy once and it's yours, not a corposlop AI dishwasher that requires you to register for a google account and charges a subscription fee per month for extra washing modes, and probably spies on you and stops working if you get politically disfavored by a foreign country". If you think this criticism of corposlop is hyperbolic, well turns out, it's literally a concatenation of these three: https://mein-mmo.de/en/user-buys-new-dishwasher-can-only-use-some-features-if-he-subscribes,1186249/ https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers https://www.irishtimes.com/world/us/2025/12/12/its-surreal-us-sanctions-lock-international-criminal-court-judge-out-of-daily-life/ In 2014, decentralized applications were toys, hundreds of times more difficult to use in web2. In 2026, fileverse is now usable enough that I regularly write documents in it and send them to other people to collaborate. The decentralized renaissance is coming, and you can be part of making it happen.
-
-54m ago
 
 ---
 
@@ -143,37 +151,35 @@ IMO there are three problems to doing so: Ideally figure out an index to track t
 
 ---
 
-**[Linux as a north star](https://www.reddit.com/r/ethereum/comments/1qbiz8k/linux_as_a_north_star/)**
-
-One metaphor for Ethereum is BitTorrent, and how that p2p network combines decentralization and mass scale. Ethereum's goal is to do the same thing but with consensus. Another metaphor for Ethereum is Linux. Linux is free and open source software, and does not compromise on this Linux is quietly depended on by billions of people and enterprises worldwide. Governments regularly use it. There are many operating systems based on Linux that pursue mass adoption There are Linux distributions (eg. Arch) that are highly purist, minimalistic and technologically beautiful, and focus on making the user feel powerful, not comfortable (Actually, BitTorrent is depended on by enterprises too: many businesses and even governments (!!) use it to distribute large files to their users https://www.makeuseof.com/tag/8-legal-uses-for-bittorrent-youd-be-surprised ) We must make sure that Ethereum L1 works as the financial (and ultimately identity, social, governance...) home for individuals and organizations who want the higher level of autonomy, and give them access to the full power of the network without dependence on intermediaries. At the same time, what Linux shows is that this is fully compatible with providing value to very large numbers of people, and even being loved and trusted by enterprises worldwide. Many enterprises in fact desperately want to build on an open and resilient ecosystem - what we call trustlessness, they call prudent counterparty risk minimization. This is the gwei.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[ETHGas launches GWEI token to govern Ethereum blockspace and make onchain execution predictable](https://www.theblock.co/post/385414/ethgas-launches-gwei-token-govern-ethereum-blockspace-onchain-execution-predictable)**
-
-The Block • 14h ago
-
----
-
-**[Tom Lee's Ethereum "Supercycle" Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://247wallst.com/investing/2026/01/13/tom-lees-ethereum-supercycle-call-why-he-bought-88m-more-eth-at-3200-and-predicts-10x-returns/)**
-
-Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
-
-24/7 Wall St. • 16h ago
-
----
-
-**[Why Ethereum Could Be Ready to Outperform Bitcoin in 2026](https://finance.yahoo.com/news/why-ethereum-could-ready-outperform-054906984.html)**
+**[Why Ethereum Could Be Ready to Outperform Bitcoin in 2026](https://decrypt.co/354515/ethereum-outperform-bitcoin-2026)**
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Yahoo Finance • 1h ago
+Decrypt • 1h ago
+
+---
+
+**[Ethereum Price Prediction: Banking Giant Standard Chartered Says ETH Will Beat Bitcoin – Can ETH Reach $100,000?](https://cryptonews.com/news/ethereum-price-prediction-banking-giant-standard-chartered-says-eth-will-beat-bitcoin-can-eth-reach-100000/)**
+
+Cryptonews • 8h ago
+
+---
+
+**[Standard Chartered Names $30,000 Target for ETH](https://www.tradingview.com/news/u_today:88c96cd56094b:0-standard-chartered-names-30-000-target-for-eth/)**
+
+Standard Chartered has published yet another uber-bullish prediction for Ethereum BITSTAMP:ETHUSD.The multinational banking institution is now forecasting that the asset will outperform Bitcoin BITSTAMP:BTCUSD throughout 2026. The bank’s team of analysts, which is spearheaded by Geoff Kendrick, is…
+
+TradingView — Track All Markets • 16h ago
+
+---
+
+**[ETHGas launches GWEI token to govern Ethereum blockspace and make onchain execution predictable](https://www.theblock.co/post/385414/ethgas-launches-gwei-token-govern-ethereum-blockspace-onchain-execution-predictable)**
+
+The Block • 14h ago
 
 ---
 
@@ -199,11 +205,11 @@ CoinDesk • 16h ago
 
 ---
 
-**[How SharpLink Plans to Grow in 2026 After Amassing Nearly $3 Billion in Ethereum](https://decrypt.co/354437/how-sharplink-plans-grow-2026-after-amassing-3-billion-ethereum)**
+**[Tom Lee's Ethereum "Supercycle" Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://247wallst.com/investing/2026/01/13/tom-lees-ethereum-supercycle-call-why-he-bought-88m-more-eth-at-3200-and-predicts-10x-returns/)**
 
-Ethereum treasury firm SharpLink Gaming intends to lead the way when it comes to publicly traded firms productively using their ETH.
+Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
 
-Decrypt • 11h ago
+24/7 Wall St. • 16h ago
 
 ---
 
@@ -211,21 +217,13 @@ Decrypt • 11h ago
 
 Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
 CCN.com • 20h ago
-
----
-
-**[Vitalik Buterin sells tokens for $29,000 in Ethereum](https://cryptobriefing.com/vitalik-buterin-sells-tokens-for-29k/)**
-
-Explore how Ethereum co-founder Vitalik Buterin strategically manages unsolicited tokens by periodically exchanging them for Ethereum.
-
-Crypto Briefing • 19h ago
 
 ---
 
@@ -259,7 +257,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 13K • 👍 899 • 💬 237 • ⏱️ 13:02 • 10h ago
+👁️ 13K • 👍 899 • 💬 237 • ⏱️ 13:02 • 11h ago
 
 ---
 
@@ -279,7 +277,7 @@ From BMNR's balance sheet to Ethereum's core fundamentals, we look at the update
 
 📺 The Value Thinker
 
-👁️ 13K • 👍 877 • 💬 130 • ⏱️ 26:25 • 13h ago
+👁️ 13K • 👍 877 • 💬 130 • ⏱️ 26:25 • 14h ago
 
 ---
 
@@ -289,7 +287,7 @@ Ethereum just broke out of a months-long downtrend as on-chain staking activity 
 
 📺 CoinCodex
 
-👁️ 274 • 👍 17 • 💬 31 • ⏱️ 4:25 • 12h ago
+👁️ 274 • 👍 17 • 💬 31 • ⏱️ 4:25 • 13h ago
 
 ---
 
@@ -319,7 +317,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 136 • 💬 6 • ⏱️ 3:31 • 16h ago
+👁️ 2K • 👍 136 • 💬 6 • ⏱️ 3:31 • 17h ago
 
 ---
 
