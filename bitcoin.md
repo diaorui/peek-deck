@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T21:45:09.962456+00:00'
+updated: '2026-01-14T22:23:40.565270+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 21:45 UTC  
+**Last Updated:** January 14, 2026 at 22:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,13 @@ Rank #1
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-2h ago
+3h ago
 
 ---
 
@@ -107,25 +107,25 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 What’s happening?
 
-6h ago
+7h ago
 
 ---
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-3h ago
+4h ago
 
 ---
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -151,7 +151,7 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 The largest cryptocurrency extended its rally, pushing related equities higher as well.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 3h ago
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 18m ago
+Investor's Business Daily • 56m ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 5h ago
 
 Strategy’s $1.25 billion Bitcoin buy puts the $88K-$92K band in focus. A breakdown could rattle MSTR sentiment.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 977 • 💬 170 • ⏱️ 47:15 • 6h ago
+👁️ 17K • 👍 977 • 💬 170 • ⏱️ 47:15 • 7h ago
 
 ---
 
@@ -329,7 +329,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 8K • 👍 88 • 💬 70 • ⏱️ 5:02 • 9h ago
+👁️ 8K • 👍 88 • 💬 70 • ⏱️ 5:02 • 10h ago
 
 ---
 
@@ -369,7 +369,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 4K • 👍 477 • 💬 44 • ⏱️ 6:42 • 2h ago
+👁️ 4K • 👍 477 • 💬 44 • ⏱️ 6:42 • 3h ago
 
 ---
 
@@ -379,7 +379,7 @@ Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 5K • 💬 279 • ⏱️ 9:23 • 23h ago
+👁️ 73K • 👍 5K • 💬 279 • ⏱️ 9:23 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 496 • 💬 94 • ⏱️ 10:44 • 5h ago
+👁️ 7K • 👍 496 • 💬 94 • ⏱️ 10:44 • 6h ago
 
 ---
 

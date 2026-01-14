@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T21:45:09.953368+00:00'
+updated: '2026-01-14T22:23:40.557701+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 21:45 UTC  
+**Last Updated:** January 14, 2026 at 22:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 6h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 15h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 2h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The feature will start with paid users only, and it's off by default.
 
 So, some kind of identifier is assigned to you but it or its corporate overlords never know who you are. No cookies, no tracking, etc. Maybe just a white, female, 2 kids, interested in dogs, biking, business, making cakes, etc. So it knows you and is more helpful that way but not who you are specifically. IOW: privately but not total and forgotten anonymity with each session. The only options I can find are to use Apple Intelligence (not ready for prime time, maybe when Gemini is fully integrated…) or create an anonymous Google account while on a VPN (don't have one) and just use that with Gemini. But the second you are off the VPN, Google will connect the dots and know who you are. If I use Apple Private Relay, it will figure me out even faster. A final option is to set up an AI on your Mac. No thanks on that one. It seems like there should be a privacy AI relay which makes an artificial version of you, which the AI thinks is you in Amsterdam or Bogata or Vancouver or Palo Alto but other than working with what you have asked, is not knowing a damn thing about the real you. OK, maybe I need a VPN but, why should I need one for something so simply obvious desired by so many: Privacy. Just wondering how can I remain private in my use of AI but still train it to know me? Simply. On a Mac.
 
-14m ago
+53m ago
 
 ---
 
@@ -81,7 +81,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Elon Musk’s X is living up to its name.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 1h ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ In the early days of generative AI, an "assistant" was little more than a text b
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 17h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 18h ago
 
 ---
 
@@ -105,7 +105,7 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-15h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ Slackbot, the automated assistant baked into the Salesforce-owned corporate mess
 
 I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map, and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impressed, last time I used ChatGPT for anything involving calculation (years ago) it was laughably bad at it. Out of curiosity I've also asked it to analyze the energy consumption and environmental impact of the query as compared to baking some potatoes in an electric oven (something I do often). It - See the conversation yourselves if curious: https://chatgpt.com/share/6967989b-7bfc-800b-822f-6e59810e0463 Hoping this post belongs here, the chatgpt conversation log is only added for people's curiosity, not necessary for the content of this post to be understood.
 
-7h ago
+8h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 4h ago
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-NPR • 9h ago
+NPR • 10h ago
 
 ---
 
 **[How to pitch voters on the AI apocalypse](https://www.politico.com/newsletters/digital-future-daily/2026/01/14/washington-ponders-how-to-pitch-voters-on-the-ai-apocalypse-00729258)**
 
-Politico • 35m ago
+Politico • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Politico • 35m ago
 
 Richard Gallagher was arrested and charged with 12 felony counts of sexual exploitation of children.
 
-KOAT • 23m ago
+KOAT • 1h ago
 
 ---
 
@@ -153,19 +153,19 @@ KOAT • 23m ago
 
 AI is big business, but can the start-up that made it mainstream stand up to an industry giant throwing its weight around?
 
-The Motley Fool • 30m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqcXTat6Rn3A1N4AGDi6hUca-VPfGg0OABCY3recZEUj1WOat6GVq61b&gaa_ts=696811c7&gaa_sig=3TI_l-5hW0rZNxwXY9Gc8mWlBRZE9Daqm5A2rQlcaH54BCMxCfkIf_tEhss1w4Gr3p6PVBIYqVV-NegAJ7mq_w%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
 **[OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/)**
 
-OpenAI • 1h ago
+OpenAI • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ OpenAI • 1h ago
 
 The state attorney general urges xAI to take action over the "shocking" material as Musk denies the allegations.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 1h ago
 
 Musk said a "supersonic tsunami" of AI and robotics will bring about a world of zero scarcity.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -205,7 +205,7 @@ Financial Times • 1h ago
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 447 • 💬 247 • 23h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 447 • 💬 247 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -251,7 +251,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
 
-⬆️ 198 • 💬 89 • 19h ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
+⬆️ 198 • 💬 89 • 20h ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
 
 ---
 
@@ -291,7 +291,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 34K • 👍 989 • 💬 143 • ⏱️ 14:32 • 22h ago
+👁️ 34K • 👍 989 • 💬 143 • ⏱️ 14:32 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 558K • 👍 7K • 💬 314 • ⏱️ 0:23 • 1d ago
+👁️ 558K • 👍 7K • 💬 314 • ⏱️ 0:23 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 988 • 3h ago
+⬇️ 1,064,063 • ❤️ 988 • 4h ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 484 • 15h ago
+⬇️ 203 • ❤️ 484 • 16h ago
 
 ---
 
@@ -435,7 +435,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 251 • 12h ago
+⬇️ 77 • ❤️ 251 • 13h ago
 
 ---
 
@@ -640,7 +640,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 1h ago
+⭐ 8.5k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 191 • 17h ago
+⭐ 4.7k • 🔱 191 • 18h ago
 
 ---
 
@@ -690,7 +690,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 10h ago
+⭐ 1.6k • 🔱 130 • 11h ago
 
 ---
 
@@ -700,7 +700,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.4k • 🔱 1.1k • 7h ago
+⭐ 1.4k • 🔱 1.1k • 8h ago
 
 ---
 
@@ -730,7 +730,7 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
-⭐ 1.2k • 🔱 90 • 15d ago
+⭐ 1.2k • 🔱 90 • 16d ago
 
 ---
 

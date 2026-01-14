@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T21:45:09.968538+00:00'
+updated: '2026-01-14T22:23:40.570592+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 21:45 UTC  
+**Last Updated:** January 14, 2026 at 22:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -99,7 +99,7 @@ vulnerabilities reported through the Ethereum Foundation bug bounty program.
 
 As with all our previous releases,...
 
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 19h ago
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 20h ago
 
 ---
 
@@ -115,7 +115,7 @@ Ethereum is meant to be a home for trustless and trust-minimized applications, w
 
 I had a concept that I may begin programming based on what you guys say here. What if you could earn extra yield on staked ETH just by signing a message every 6 months? The idea is that I'd make an on chain (and possibly on scaling solutions) smart contract where you can deposit your Staked ETH, then everyone needs to sign a message every 6 months for example. If they don't sign the message on the 6th month, then on the 7th month 10% of their balance gets equally distributed between all staked staked tokens. If you fail to sign you'd forfeit 10% of your balance, which would keep going down every month until your wallet is eventually drained. I (The creator) would make money by charging a 2.5% fee on re-distributing the forfeited funds. It would be 6 months after you sign up, so there would in theory be consistent rewards year round (Avoiding people buying Staked Staked ETH right before the forfeit date) This would earn extra yield on already staked coins just by signing a message every few months. With a transparent smart contract there would be near zero need to trust me, no counterparty risk. Updates could be voted on by holding Staked Staked ETH
 
-6h ago
+7h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 2d ago
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -209,7 +209,7 @@ ETF Trends • 2d ago
 
 **[Here Are the Exact Reasons Why Ethereum, Bitcoin, and Crypto Prices Are Up](https://www.binance.com/en/square/post/35068819106073)**
 
-Binance • 11h ago
+Binance • 12h ago
 
 ---
 
@@ -225,7 +225,7 @@ Investing.com • 1d ago
 
 Ethereum price held steady on Wednesday, continuing a trend that has been going on in the past few weeks. ETH token rose to $3,340, and this trend may accelerate in the coming months as it has formed the highly bullish inverse head-and-shoulders pattern, and the spot ETH ETF inflows have continued…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -259,7 +259,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 69 • 👍 9 • 💬 1 • ⏱️ 5:17 • 2h ago
+👁️ 69 • 👍 9 • 💬 1 • ⏱️ 5:17 • 3h ago
 
 ---
 
@@ -269,7 +269,7 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 446 • 👍 23 • 💬 4 • ⏱️ 20:12 • 4h ago
+👁️ 446 • 👍 23 • 💬 4 • ⏱️ 20:12 • 5h ago
 
 ---
 
@@ -289,7 +289,7 @@ Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 5K • 💬 279 • ⏱️ 9:23 • 23h ago
+👁️ 73K • 👍 5K • 💬 279 • ⏱️ 9:23 • 1d ago
 
 ---
 
@@ -299,7 +299,7 @@ BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 5K • 👍 353 • 💬 175 • ⏱️ 22:39 • 12h ago
+👁️ 5K • 👍 353 • 💬 175 • ⏱️ 22:39 • 13h ago
 
 ---
 
