@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-13T23:41:08.138108+00:00'
+updated: '2026-01-14T01:53:47.424211+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 13, 2026 at 23:41 UTC  
+**Last Updated:** January 14, 2026 at 01:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,48 +38,54 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,502.83
+### $95,492.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.8%  
-**7d:** +4.7%  
-**30d:** +10.6%  
-**90d:** -11.4%  
-**1y:** -0.9%  
+**24h:** +4.4%  
+**7d:** +4.5%  
+**30d:** +8.7%  
+**90d:** -10.8%  
+**1y:** -5.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1901.37B
+**Market Cap:** $1900.15B
 Rank #1
 
-**Circulating Supply:** 19,975,509 BTC
+**Circulating Supply:** 19,975,550 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.5%
+-24.6%
 
 **All-Time Low:** $67.81
-+140194.9%
++140171.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 26
-**FEAR**
+### 48
+**NEUTRAL**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
+
+3h ago
+
+---
+
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -87,7 +93,7 @@ Rank #1
 
 Big jump in price today!
 
-1h ago
+3h ago
 
 ---
 
@@ -95,33 +101,13 @@ Big jump in price today!
 
 Quick facts about the block mined Jan 18/19, 2021 Height: 666,666 ~2,728 transactions Block reward: 6.25 BTC + fees
 
-3h ago
+5h ago
 
 ---
 
 **[Singer Teyana Taylor spotted wearing a Satoshi Nakamoto jacket after the Golden Globes.](https://www.reddit.com/r/Bitcoin/comments/1qbtwlo/singer_teyana_taylor_spotted_wearing_a_satoshi/)**
 
 Bitcoin is going mainstream 🚀
-
-8h ago
-
----
-
-**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
-
-12h ago
-
----
-
-**[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
-
-9h ago
-
----
-
-**[Iranian currency collapsed](https://www.reddit.com/r/Bitcoin/comments/1qbqm5r/iranian_currency_collapsed/)**
-
-Wonder what Bitcoiners in Iran is feeling today.
 
 10h ago
 
@@ -131,13 +117,29 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-7h ago
+10h ago
 
 ---
 
-**[He quickly corrected his mistake in judgment. That’s what a real man does.](https://www.reddit.com/r/Bitcoin/comments/1qbx12i/he_quickly_corrected_his_mistake_in_judgment/)**
+**[Iranian currency collapsed](https://www.reddit.com/r/Bitcoin/comments/1qbqm5r/iranian_currency_collapsed/)**
 
-6h ago
+Wonder what Bitcoiners in Iran is feeling today.
+
+12h ago
+
+---
+
+**[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
+
+12h ago
+
+---
+
+**[So BTC is back at 95k](https://www.reddit.com/r/Bitcoin/comments/1qc5vhn/so_btc_is_back_at_95k/)**
+
+If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
+
+3h ago
 
 ---
 
@@ -145,7 +147,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 I was just about to buy and suddenly the candle goes vertical and no joke it went from 95 to over 96 in seconds (on kraken pro anyway).
 
-1h ago
+3h ago
 
 ---
 
@@ -153,41 +155,17 @@ I was just about to buy and suddenly the candle goes vertical and no joke it wen
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqepl1DjqIqU1wADSDhfOCm6k5HssWfe4EayJB15NEiUC3a326E_kdrd&gaa_ts=6966cf19&gaa_sig=3fxNifqzZHFXLoHlvexMl5l379RZcKnJehZcsfdIiYZfrGGogYdcXXM0osXGbgPvqVHX9o_mQuNNAl0ZbZBWSQ%3D%3D)**
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqfXUin2uj7zERiVGm6ZipJjZZbxl2SJ89k0izJ9nTX94X_3ZdJB6RS0&gaa_ts=6966fa98&gaa_sig=k8Cj7iBJ2Rt2syZwxBa8YXlIljxxjz6rq4E9o5tHZWIsqqXfYKfjgKSjrV9sVCW4U0iKpaCjxn-4GQLg8K-JAA%3D%3D)**
 
-Barron's • 12h ago
-
----
-
-**[BTC Price News: Bitcoin rises to key level while analyst sets $100,000 target](https://www.coindesk.com/markets/2026/01/13/bitcoin-rises-2-to-usd93-500-after-inflation-data-increased-chances-of-further-rate-cuts)**
-
-The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
-
-CoinDesk • 6h ago
+Barron's • 15h ago
 
 ---
 
-**[Bitcoin Climbs Above $93K as US Inflation Holds Steady](https://decrypt.co/354409/bitcoin-climbs-above-93k-us-inflation-holds-steady)**
+**[Bitcoin spikes to $92,500 as U.S. December consumer prices rise 0.3%](https://www.coindesk.com/markets/2026/01/13/bitcoin-spikes-to-usd92-500-as-u-s-december-consumer-prices-rise-0-3)**
 
-Bitcoin reclaimed $93,000 on Tuesday as trading volume surged by 20%, but data analysts flag that there's rising sell-side pressure.
+The U.S. Consumer Price Index came in roughly in line with expectations as market participants largely expects the Fed to leave rates unchanged at the January meeting.
 
-Decrypt • 5h ago
-
----
-
-**[Bitcoin attempts $92K breakout as stocks hit new record on low US CPI data](https://www.tradingview.com/news/cointelegraph:25c825c2c094b:0-bitcoin-attempts-92k-breakout-as-stocks-hit-new-record-on-low-us-cpi-data/)**
-
-Bitcoin BITSTAMP:BTCUSD eyed one-week highs at Tuesday’s Wall Street open as markets surged on low US inflation data.Key points:Bitcoin gets US inflation boost as S&P 500 surgesData from TradingView showed 1.5% BTC price gains accompanying cooler-than-expected Consumer Price Index (CPI) figures for…
-
-TradingView — Track All Markets • 8h ago
-
----
-
-**[Bitcoin Short-Term Holders Near A Profit Flip: A Key Level Comes Into Focus](https://www.tradingview.com/news/newsbtc:416605423094b:0-bitcoin-short-term-holders-near-a-profit-flip-a-key-level-comes-into-focus/)**
-
-Bitcoin has started the year on firmer footing, recovering from late-2025 weakness and pushing back toward the $92,000 level. Price action has improved, and short-term momentum has turned constructive, but conviction remains fragile. Despite the rebound, Bitcoin continues to trade within a broader…
-
-TradingView — Track All Markets • 1h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -195,29 +173,7 @@ TradingView — Track All Markets • 1h ago
 
 US stocks (^DJI, ^IXIC, ^GSPC) fell in Tuesday's trading session following the release of December's Consumer Price Index (CPI) inflation report this morning. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including Big Bank earnings season kicking off with JPMorgan Chase's (JPM) results, Intel (INTC) breaking outside its trading range, and bitcoin (BTC-USD) bouncing back above $94,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 1h ago
-
----
-
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
-
-CCN.com • 12h ago
-
----
-
-**[BTC, ETH news: BlackRock moves $300 million in bitcoin and ether to Coinbase Prime](https://www.coindesk.com/markets/2026/01/13/bitcoin-rose-above-usd92-000-as-blackrock-etf-moved-usd300-million-to-coinbase-prime)**
-
-The asset manager sent 3,290 bitcoin, worth about $298 million, along with 5,692 ether valued near $17.8 million.
-
-CoinDesk • 9h ago
-
----
-
-**[Bitcoin, Ethereum and Solana Primed for Major Price Run as ETF Volumes Soar in 2026](https://www.tradingview.com/news/zycrypto:84d87733f094b:0-bitcoin-ethereum-and-solana-primed-for-major-price-run-as-etf-volumes-soar-in-2026/)**
-
-Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
-
-TradingView — Track All Markets • 3h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -225,7 +181,49 @@ TradingView — Track All Markets • 3h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 4h ago
+dlnews.com • 6h ago
+
+---
+
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+
+CCN.com • 14h ago
+
+---
+
+**[🚨🇮🇷 BITCOIN BECOMES KING IN IRAN Not out of nowhere. This is where real pressure pushes real behavior. Here’s what’s actually happening and why BTC is spiking: Iran’s fiat is imploding. The rial has collapsed massively against the dollar as inflation ex](https://x.com/MarioNawfal/status/2011024172408041799)**
+
+x.com • 15h ago
+
+---
+
+**[Bitcoin Short-Term Holders Near A Profit Flip: A Key Level Comes Into Focus](https://www.tradingview.com/news/newsbtc:416605423094b:0-bitcoin-short-term-holders-near-a-profit-flip-a-key-level-comes-into-focus/)**
+
+Bitcoin has started the year on firmer footing, recovering from late-2025 weakness and pushing back toward the $92,000 level. Price action has improved, and short-term momentum has turned constructive, but conviction remains fragile. Despite the rebound, Bitcoin continues to trade within a broader…
+
+TradingView — Track All Markets • 3h ago
+
+---
+
+**[Crypto Suddenly Braced For A ‘Massive’ Shock As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/01/13/crypto-suddenly-braced-for-a-massive-shock-as-the-bitcoin-price-soars/)**
+
+Forbes • 9h ago
+
+---
+
+**[Bitcoin is “transitioning out of its most stressed phase”](https://sherwood.news/crypto/bitcoin-is-transitioning-out-of-its-most-stressed-phase/)**
+
+Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
+
+Sherwood News • 10h ago
+
+---
+
+**[Bitcoin And Altcoins Breakout As Stock Market Momentum Fades: BTC, ETH And SOL Outlook](https://seekingalpha.com/article/4859438-bitcoin-altcoins-breakout-as-stock-market-momentum-fades-btc-eth-sol-outlook)**
+
+Bitcoin breaks out higher and drags the crypto market with it.
+
+Seeking Alpha • 1h ago
 
 ---
 
@@ -313,13 +311,23 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ## YouTube Videos: "bitcoin"
 
+**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 21K • 👍 2K • 💬 146 • ⏱️ 9:23 • 3h ago
+
+---
+
 **[Bitcoin&#39;s Next Shocking Move is Coming](https://www.youtube.com/watch?v=kAsjV4537wA)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 190 • ⏱️ 39:49 • 8h ago
+👁️ 23K • 👍 1K • 💬 191 • ⏱️ 39:49 • 10h ago
 
 ---
 
@@ -329,77 +337,37 @@ CPI is out today, but most traders are missing a crucial detail that makes this 
 
 📺 Crypto Banter
 
-👁️ 23K • 👍 2K • 💬 28 • ⏱️ 29:19 • 6h ago
+👁️ 27K • 👍 2K • 💬 29 • ⏱️ 29:19 • 8h ago
 
 ---
 
-**[WARNING: Crypto in 2026 is About to Get Absurd..](https://www.youtube.com/watch?v=nak-TIrj4vA)**
+**[Banks WIN!🔥Banning Stablecoin Yields!🚨Crypto Clarity Bill Breakdown🚨](https://www.youtube.com/watch?v=Mx40Pe2lUK4)**
 
-WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+U.S. senators advanced a compromise bill that would ban passive stablecoin yields while allowing rewards tied to onchain activity ...
 
-📺 Altcoin Daily
+📺 Paul Barron Network
 
-👁️ 62K • 👍 3K • 💬 561 • ⏱️ 14:21 • 1d ago
-
----
-
-**[Bitcoin: The Future Reserve Currency Strategy](https://www.youtube.com/watch?v=diRkGPEBOqU)**
-
-Oshins talks about Bitcoin: The Future Reserve Currency Strategy Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
-
-📺 Simply Bitcoin
-
-👁️ 1K • 👍 32 • 💬 69 • ⏱️ 0:53 • 9h ago
+👁️ 63K • 👍 4K • 💬 777 • ⏱️ 17:58 • 5h ago
 
 ---
 
-**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=OJGD6BeLZQc)**
+**[BITCOIN](https://www.youtube.com/watch?v=9hAIFCcW6gc)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Classified Defense Files
+📺 My Financial Friend
 
-👁️ 3K • 27m ago
-
----
-
-**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
-
-This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
-
-📺 Thomas Kralow
-
-👁️ 20K • 👍 3K • 💬 31 • ⏱️ 8:17 • 1d ago
+👁️ 3K • 👍 322 • 💬 44 • ⏱️ 8:20 • 2h ago
 
 ---
 
-**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
+**[BITCOIN IS BACK!!!! (Bear Thesis DEAD?!)](https://www.youtube.com/watch?v=PV7T7WCTHZQ)**
 
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+JOIN BULLMANIA: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
 
-📺 Altcoin Daily
+📺 Ivan on Tech
 
-👁️ 9K • 👍 1K • 💬 89 • ⏱️ 9:23 • 1h ago
-
----
-
-**[Crypto JUST Flipped (Are You Ready?)](https://www.youtube.com/watch?v=Q5Oh4w02Wlc)**
-
-Bitcoin, memecoins, LTC, Meta, and altcoin high time frame trade! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 962 • 💬 94 • ⏱️ 19:27 • 12h ago
-
----
-
-**[Bitcoin: Bull Market Support Band](https://www.youtube.com/watch?v=U9MFiXzhWT8)**
-
-Let's talk about the Bitcoin bull market support band, or dare I say, the bear market resistance band. For inquiries: ...
-
-📺 Benjamin Cowen
-
-👁️ 63K • 👍 4K • 💬 162 • ⏱️ 10:58 • 1d ago
+👁️ 15K • 👍 1K • 💬 59 • ⏱️ 53:00 • 4h ago
 
 ---
 
@@ -409,7 +377,35 @@ Let's talk about the Bitcoin bull market support band, or dare I say, the bear m
 
 📺 Bloomberg Television
 
-👁️ 2K • 👍 81 • 💬 59 • ⏱️ 22:50 • 4h ago
+👁️ 4K • 👍 112 • 💬 62 • ⏱️ 22:50 • 7h ago
+
+---
+
+**[Why Bitcoin Is Up Today](https://www.youtube.com/watch?v=43dND20hWSA)**
+
+Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this fresh high in just 24 hours. Bitcoin made a nice ...
+
+📺 Satoshi Alliance
+
+👁️ 542 • 👍 93 • 💬 42 • ⏱️ 3:40 • 1h ago
+
+---
+
+**[CRAZY XRPL RUMOR (THIS ACTUALLY MAKES SENSE!) #crypto #cryptocurrency #xrp #bitcoin](https://www.youtube.com/watch?v=AuxIE4xXyK8)**
+
+📺 CryptoWendyO
+
+👁️ 12K • 👍 808 • 💬 31 • ⏱️ 2:19 • 23h ago
+
+---
+
+**[WARNING: Crypto in 2026 is About to Get Absurd..](https://www.youtube.com/watch?v=nak-TIrj4vA)**
+
+WARNING: The Cryptocurrency Market is About to Get Absurd.. ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
+
+📺 Altcoin Daily
+
+👁️ 64K • 👍 3K • 💬 561 • ⏱️ 14:21 • 1d ago
 
 ---
 

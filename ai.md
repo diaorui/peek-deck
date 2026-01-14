@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-13T23:41:08.129484+00:00'
+updated: '2026-01-14T01:53:47.415731+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 13, 2026 at 23:41 UTC  
+**Last Updated:** January 14, 2026 at 01:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-3h ago
+6h ago
 
 ---
 
@@ -49,15 +49,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 McKinsey & Company CEO Bob Sternfels says he wants every employee working alongside an AI agent within a year and a half.
 
-🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 4h ago
-
----
-
-**[Elon Musk’s ex-girlfriend: ‘X is amplifying predatory and abusive men’](https://www.reddit.com/r/artificial/comments/1qc2r39/elon_musks_exgirlfriend_x_is_amplifying_predatory/)**
-
-Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘violated’ when the Grok AI chatbot generated sexualised images of her
-
-🔗 [thetimes.com](https://www.thetimes.com/article/0ecbb5ed-29b0-4d1b-bbd5-c613ec65e572?shareToken=206961617deb3028462bb8fb5f780710) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/mckinsey-workforce-ai-agents-consulting-industry-bob-sternfels-2026-1) • 6h ago
 
 ---
 
@@ -65,7 +57,7 @@ Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘vio
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 18h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 21h ago
 
 ---
 
@@ -73,7 +65,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-4h ago
+6h ago
 
 ---
 
@@ -81,7 +73,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-12h ago
+14h ago
 
 ---
 
@@ -89,15 +81,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
 
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 7h ago
-
----
-
-**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
-
-Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
-
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 18h ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 9h ago
 
 ---
 
@@ -105,15 +89,31 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 5h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 7h ago
 
 ---
 
-**[One-Minute Daily AI News 1/12/2026](https://www.reddit.com/r/artificial/comments/1qbjd7r/oneminute_daily_ai_news_1122026/)**
+**[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
 
-Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/
+Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-17h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 20h ago
+
+---
+
+**[Is the "Water Argument" getting on anyone else's nerves?](https://www.reddit.com/r/artificial/comments/1qc8vl7/is_the_water_argument_getting_on_anyone_elses/)**
+
+In my daily life those around me always complain about how much water is used when we do a single prompt on chatGPT or Gemini, I just get annoyed now. If it bothers you so much, stop eating meat, every pound of beef is costs 1200 gallons of water or more. Like, can we stop the scorekeeping yet?
+
+1h ago
+
+---
+
+**[I bought an LG TV for the first time in my life, and it’s weird.](https://www.reddit.com/r/artificial/comments/1qbmjgj/i_bought_an_lg_tv_for_the_first_time_in_my_life/)**
+
+It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable.
+
+16h ago
 
 ---
 
@@ -123,15 +123,7 @@ Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Cl
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 13h ago
-
----
-
-**[Apple turns to Google to power AI upgrade for Siri](https://www.bbc.com/news/articles/czdqvp2zqezo)**
-
-Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
-
-BBC • 10h ago
+The New York Times • 15h ago
 
 ---
 
@@ -143,31 +135,27 @@ CNBC • 1d ago
 
 ---
 
-**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
+**[Apple turns to Google to power AI upgrade for Siri](https://www.bbc.com/news/articles/czdqvp2zqezo)**
 
-The New York Times • 1d ago
+Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools.
 
----
-
-**[FTC accuses AI search engine of 'rampant consumer deception'](https://www.npr.org/2026/01/13/nx-s1-5676150/ftc-lawsuit-just-answers-consumer-deception)**
-
-Federal officials say a company that operates hundreds of landing pages for AI answers is running an operation that has duped thousands of users, who were unable to stop costly monthly charges.
-
-NPR • 2h ago
+BBC • 12h ago
 
 ---
 
-**[Salesforce and Adobe see their stocks slide as AI fears intensify](https://www.marketwatch.com/story/salesforce-and-adobe-see-their-stocks-slide-as-ai-fears-intensify-d0079df7?gaa_at=eafs&gaa_n=AWEtsqf7ti_i5O8Z6mYpc3dhhHSaMHTy-Y_UlrLCNl-c_lrtn8PIjUgrWuQQ&gaa_ts=6966cf17&gaa_sig=lbjfEpgmmK14CCPvytpAoqEjPvtyZWjwmB1PvVxloO64eKL8ITl73qPTcm5Az3ZR3wHUKmWDC1V6kMRukxv8jA%3D%3D)**
+**[Google has the best AI for enterprise right now, Ray Wang](https://www.foxbusiness.com/video/6387680452112)**
 
-MarketWatch • 2h ago
+Constellation Research founder details Palantir's military AI, OpenAI's health-tech acquisition, and Apple's Gemini partnership on 'Varney & Co.'
+
+Fox Business • 55m ago
 
 ---
 
-**[East Lansdowne police begin using AI cameras to track criminals in public spaces](https://www.nbcphiladelphia.com/news/local/east-lansdowne-police-ai-cameras/4332621/)**
+**[Dr. Tamara Patzer Publishes Analysis on How AI Is Influencing Legal Visibility for Law Firms and Attorneys](https://www.usatoday.com/press-release/story/23191/dr-tamara-patzer-publishes-analysis-on-how-ai-is-influencing-legal-visibility-for-law-firms-and-attorneys/)**
 
-Cameras using artificial intelligence are being installed in East Lansdowne, giving police the ability to track people's movements in real time.
+Dr. Tamara Patzer, a media strategist and researcher focused on digital identity and AI-driven discoverability, has
 
-NBC10 Philadelphia • 2h ago
+USA Today • 23m ago
 
 ---
 
@@ -179,19 +167,35 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Anthropic launches Claude Cowork, a file-managing AI agent that could threaten dozens of startups](https://fortune.com/2026/01/13/anthropic-claude-cowork-ai-agent-file-managing-threaten-startups/)**
+**[FTC accuses AI search engine of 'rampant consumer deception'](https://www.npr.org/2026/01/13/nx-s1-5676150/ftc-lawsuit-just-answers-consumer-deception)**
 
-The new tool brings Claude Code's capabilities to non-technical users, positioning Anthropic to compete with productivity tools like Microsoft Copilot.
+Federal officials say a company that operates hundreds of landing pages for AI answers is running an operation that has duped thousands of users, who were unable to stop costly monthly charges.
 
-Fortune • 9h ago
+NPR • 4h ago
 
 ---
 
-**[Salesforce releases updated Slackbot powered by Anthropic's AI model](https://www.cnbc.com/2026/01/13/salesforce-releases-updated-slackbot-powered-by-anthropics-ai-model.html)**
+**[Building Community-First AI Infrastructure](https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/)**
 
-Slack is upgrading Slackbot, its personal assistant, with generative AI.
+Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
 
-CNBC • 10h ago
+The Official Microsoft Blog • 12h ago
+
+---
+
+**[Microsoft has a plan to stop AI data centers from hiking up your electricity bill](https://www.cnn.com/2026/01/13/tech/microsoft-ai-data-centers-electricity-bills-plan)**
+
+Microsoft says it will ask to pay higher electricity bills in areas where it’s building data centers, in an effort to prevent electricity prices for local residents from rising in those areas. The move is part of a broader plan to address rising prices and other concerns sparked by the tech industry’s massive buildout of artificial intelligence infrastructure across the United States.
+
+CNN • 10h ago
+
+---
+
+**[Honey, I shrunk the data centres: Is small the new big?](https://www.bbc.com/news/articles/cd0ynenr1eno)**
+
+Huge data centres are being built to handle AI computing but some experts say they aren't necessary.
+
+BBC • 1h ago
 
 ---
 
@@ -201,13 +205,13 @@ CNBC • 10h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1260 • 💬 1586 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1263 • 💬 1591 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
 **[AI Generated Music Barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 467 • 💬 375 • 5h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 571 • 💬 435 • 7h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -215,7 +219,7 @@ CNBC • 10h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 326 • 💬 325 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 327 • 💬 325 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -223,7 +227,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 305 • 💬 91 • 5h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 321 • 💬 96 • 7h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+
+---
+
+**[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
+
+⬆️ 265 • 💬 149 • 3h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -231,31 +241,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 215 • 💬 157 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
-
----
-
-**[Ai, Japanese chimpanzee who counted and painted dies at 49](https://news.ycombinator.com/item?id=46585947)**
-
-Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
-
-⬆️ 187 • 💬 62 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
-
----
-
-**[Show HN: AI in SolidWorks](https://news.ycombinator.com/item?id=46591100)**
-
-Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
-
-⬆️ 182 • 💬 101 • 1d ago • [TryLAD](https://www.trylad.com)
-
----
-
-**[Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
-
-The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
-
-⬆️ 177 • 💬 162 • 11h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 217 • 💬 163 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -263,13 +249,31 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 175 • 💬 89 • 2h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 202 • 💬 108 • 5h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
-**[FOSS in times of war, scarcity and (adversarial) AI [video]](https://news.ycombinator.com/item?id=46598991)**
+**[Ai, Japanese chimpanzee who counted and painted dies at 49](https://news.ycombinator.com/item?id=46585947)**
 
-⬆️ 139 • 💬 100 • 13h ago • [fosdem.org](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)
+Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
+
+⬆️ 187 • 💬 64 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
+
+---
+
+**[Show HN: AI in SolidWorks](https://news.ycombinator.com/item?id=46591100)**
+
+Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
+
+⬆️ 183 • 💬 103 • 1d ago • [TryLAD](https://www.trylad.com)
+
+---
+
+**[Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
+
+The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
+
+⬆️ 182 • 💬 181 • 13h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -283,7 +287,27 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Wes Roth
 
-👁️ 90K • 👍 3K • 💬 708 • ⏱️ 23:05 • 1d ago
+👁️ 91K • 👍 3K • 💬 712 • ⏱️ 23:05 • 1d ago
+
+---
+
+**[OpenAI Just Dropped GPT HEALTH And People Are Freaking Out](https://www.youtube.com/watch?v=sPl_jYF8E5k)**
+
+OpenAI just launched ChatGPT Health — a dedicated health and wellness space inside ChatGPT — and it pushes ChatGPT into ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 1K • 💬 182 • ⏱️ 14:42 • 1d ago
+
+---
+
+**[AI chatbot accused of creating non‑consensual explicit deepfakes](https://www.youtube.com/watch?v=3jHgKaiyBS4)**
+
+An AI chatbot linked to Elon Musk is under fire after allegedly generating non‑consensual explicit deepfake images of real people, ...
+
+📺 CBS TEXAS
+
+👁️ 719 • 👍 1 • 💬 1 • ⏱️ 4:05 • 2h ago
 
 ---
 
@@ -293,27 +317,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 20K • 👍 1K • 💬 177 • ⏱️ 10:39 • 1d ago
-
----
-
-**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
-
-Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
-
-📺 AI Revolution
-
-👁️ 39K • 👍 1K • 💬 53 • ⏱️ 14:29 • 2d ago
-
----
-
-**[British regulators are investigating Elon Musk&#39;s X over Grok&#39;s AI-generated images](https://www.youtube.com/watch?v=_EdlZ_3Dd5o)**
-
-British regulators are investigating X for lewd AI images generated by Grok, the AI arm of Elon Musk's social platform. Michael ...
-
-📺 CBS News
-
-👁️ 18K • 👍 202 • 💬 112 • ⏱️ 3:51 • 8h ago
+👁️ 21K • 👍 1K • 💬 177 • ⏱️ 10:39 • 1d ago
 
 ---
 
@@ -323,7 +327,37 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 51K • 👍 407 • 💬 94 • ⏱️ 7:57 • 1d ago
+👁️ 53K • 👍 416 • 💬 94 • ⏱️ 7:57 • 1d ago
+
+---
+
+**[Shopify&#39;s AI Memo Changed Hiring Forever—And Why Google, Meta &amp; Nvidia Are Copying It](https://www.youtube.com/watch?v=dzp0OQbElpU)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 13K • 👍 519 • 💬 100 • ⏱️ 25:36 • 10h ago
+
+---
+
+**[HISTORIC MOMENT: Hegseth Joins Elon Musk at SpaceX to Launch Military AI Revolution | AI1Z](https://www.youtube.com/watch?v=K0eTdhGPxG8)**
+
+U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in Brownsville, Texas, on January 12, 2026, ...
+
+📺 DWS News
+
+👁️ 50K • 👍 605 • 💬 7 • ⏱️ 8:05 • 19h ago
+
+---
+
+**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
+
+Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
+
+📺 AI Revolution
+
+👁️ 40K • 👍 1K • 💬 53 • ⏱️ 14:29 • 2d ago
 
 ---
 
@@ -333,15 +367,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 233K • 👍 5K • 💬 260 • ⏱️ 0:23 • 1d ago
-
----
-
-**[I bought 2 AI-generated dresses… here’s what they REALLY look like. 🙄](https://www.youtube.com/watch?v=BqbcrZUfTqo)**
-
-📺 Maggie McGaugh
-
-👁️ 295K • 👍 11K • 💬 105 • ⏱️ 0:49 • 1d ago
+👁️ 256K • 👍 5K • 💬 271 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -351,27 +377,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 166K • 👍 14K • 💬 3K • ⏱️ 13:08 • 1d ago
-
----
-
-**[Claude Cowork: Anthropic&#39;s AI Operating System That Automates Your Life!](https://www.youtube.com/watch?v=TVPxU8MfeXY)**
-
-Anthropic just launched Claude Cowork, a brand-new agentic AI that turns Claude into an autonomous virtual teammate — not ...
-
-📺 WorldofAI
-
-👁️ 22K • 👍 526 • 💬 36 • ⏱️ 8:37 • 20h ago
-
----
-
-**[How I Actually Make AI Voice Sound Real](https://www.youtube.com/watch?v=KhQTKG3Xtbs)**
-
-Most AI voiceovers sound robotic. But the voice your hearing in this video? It's 100% AI, yet it's kinda realistic. In this video, I'm ...
-
-📺 Isaac
-
-👁️ 78K • 👍 6K • 💬 661 • ⏱️ 18:27 • 2d ago
+👁️ 169K • 👍 14K • 💬 3K • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -387,7 +393,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 860,720 • ❤️ 911 • 5d ago
+⬇️ 860,720 • ❤️ 920 • 5d ago
 
 ---
 
@@ -399,7 +405,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 30,479 • ❤️ 555 • 6d ago
+⬇️ 30,479 • ❤️ 557 • 6d ago
 
 ---
 
@@ -411,7 +417,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 11,717 • ❤️ 747 • 12d ago
+⬇️ 11,717 • ❤️ 748 • 12d ago
 
 ---
 
@@ -423,7 +429,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 3,162 • ❤️ 340 • 7d ago
+⬇️ 3,162 • ❤️ 341 • 8d ago
 
 ---
 
@@ -435,7 +441,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 15,073 • ❤️ 313 • 4d ago
+⬇️ 15,073 • ❤️ 316 • 4d ago
 
 ---
 
@@ -447,7 +453,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 231 • 1h ago
+⬇️ 26,414 • ❤️ 232 • 3h ago
 
 ---
 
@@ -459,7 +465,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 1,062 • ❤️ 240 • 7d ago
+⬇️ 1,062 • ❤️ 243 • 8d ago
 
 ---
 
@@ -471,7 +477,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,825 • ❤️ 372 • 7d ago
+⬇️ 30,825 • ❤️ 373 • 7d ago
 
 ---
 
@@ -521,7 +527,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 103 • 💬 2 • ⭐ 2,230 • 7d ago
+▲ 104 • 💬 2 • ⭐ 2,266 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -533,7 +539,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 25 • 💬 2 • ⭐ 888 • 8d ago
+▲ 25 • 💬 2 • ⭐ 938 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -547,7 +553,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
 
-▲ 145 • 💬 4 • ⭐ 120 • 5d ago
+▲ 146 • 💬 4 • ⭐ 120 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
 
@@ -618,15 +624,15 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 ---
 
-**[Orient Anything V2: Unifying Orientation and Rotation Understanding](https://huggingface.co/papers/2601.05573)**
+**[Dr. Zero: Self-Evolving Search Agents without Training Data](https://huggingface.co/papers/2601.07055)**
 
-*Zehan Wang, Ziang Zhang, Jiayang Xu et al. (8 authors)*
+*Zhenrui Yue, Kartikeya Upasani, Xianjun Yang et al. (8 authors)*
 
-Orient Anything V2 enhances 3D orientation understanding through scalable 3D asset synthesis, symmetry-aware periodic distribution fitting, and multi-frame relative rotation prediction, achieving state-of-the-art performance across multiple benchmarks.
+A data-free self-evolution framework enables large language models to autonomously improve reasoning capabilities through iterative question generation and solving, achieving performance comparable to supervised methods.
 
-▲ 8 • 💬 2 • ⭐ 124 • 4d ago
+▲ 9 • 💬 1 • ⭐ 74 • 2d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2601.05573) • [💻 code](https://github.com/SpatialVision/Orient-Anything-V2) • [🔗 project](https://orient-anythingv2.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2601.07055) • [💻 code](https://github.com/facebookresearch/drzero)
 
 ---
 
@@ -640,7 +646,7 @@ Orient Anything V2 enhances 3D orientation understanding through scalable 3D ass
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 7h ago
+⭐ 8.3k • 🔱 1.1k • 9h ago
 
 ---
 
@@ -650,7 +656,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 484 • 6d ago
+⭐ 3.7k • 🔱 488 • 6d ago
 
 ---
 
@@ -660,7 +666,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 127 • 1h ago
+⭐ 3.6k • 🔱 132 • 3h ago
 
 ---
 
@@ -670,7 +676,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 141 • 6h ago
+⭐ 2.3k • 🔱 142 • 27m ago
 
 ---
 
@@ -686,11 +692,11 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
 
-Learn vibe coding from 0 to 1 | 从实战中系统学会 vibe coding｜产品思维、前后端开发
+Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.5k • 🔱 129 • 7h ago
+⭐ 1.6k • 🔱 129 • 37m ago
 
 ---
 
@@ -724,13 +730,13 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 
 ---
 
-**[aiflowy/aiflowy](https://github.com/aiflowy/aiflowy)**
+**[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
 
-AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.
+LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
 
-`Vue` `agentic-ai` `ai-agent` `aiflowy` `coze` `dify`
+`Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.2k • 🔱 143 • 1d ago
+⭐ 1.1k • 🔱 745 • 11h ago
 
 ---
 
