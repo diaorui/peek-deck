@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T08:32:35.274604+00:00'
+updated: '2026-01-14T09:30:58.415325+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 08:32 UTC  
+**Last Updated:** January 14, 2026 at 09:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,888.24
+### $95,116.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +4.3%  
-**30d:** +8.4%  
-**90d:** -11.0%  
-**1y:** -5.4%  
+**24h:** +3.2%  
+**7d:** +4.4%  
+**30d:** +8.5%  
+**90d:** -10.9%  
+**1y:** -5.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1898.38B
+**Market Cap:** $1900.03B
 Rank #1
 
-**Circulating Supply:** 19,975,637 BTC
+**Circulating Supply:** 19,975,671 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -24.6%
 
 **All-Time Low:** $67.81
-+140018.0%
++140041.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Big jump in price today!
 
-10h ago
+11h ago
 
 ---
 
@@ -95,13 +95,21 @@ Big jump in price today!
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-19h ago
+20h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-4h ago
+5h ago
+
+---
+
+**[The 401(k) was never designed to be a retirement plan](https://www.reddit.com/r/Bitcoin/comments/1qch0t8/the_401k_was_never_designed_to_be_a_retirement/)**
+
+The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
+
+2h ago
 
 ---
 
@@ -109,19 +117,19 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-16h ago
+17h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -129,7 +137,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-9h ago
+10h ago
 
 ---
 
@@ -137,15 +145,7 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
-5h ago
-
----
-
-**[That was kinda crazy](https://www.reddit.com/r/Bitcoin/comments/1qc5ams/that_was_kinda_crazy/)**
-
-I was just about to buy and suddenly the candle goes vertical and no joke it went from 95 to over 96 in seconds (on kraken pro anyway).
-
-10h ago
+6h ago
 
 ---
 
@@ -153,11 +153,41 @@ I was just about to buy and suddenly the candle goes vertical and no joke it wen
 
 ## Google News: "bitcoin"
 
-**[BTC Price News: Bitcoin rises to key level while analyst sets $100,000 target](https://www.coindesk.com/markets/2026/01/13/bitcoin-rises-2-to-usd93-500-after-inflation-data-increased-chances-of-further-rate-cuts)**
+**[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
 
-The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
+The Block • 10h ago
 
-CoinDesk • 15h ago
+---
+
+**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqf-R5EyVnz2YYklUBIVJycEwkfSqyHRjVgEwcjSYL-I_AcFu58I6KL2&gaa_ts=696765be&gaa_sig=35Xdq4cGBJWeoJORYwf2-JrChjrNw3_adacjmbKAtr678P7zckTlrKVYdARChxIEN6nlM5WH5RefCllSQ1w7iw%3D%3D)**
+
+Barron's • 22h ago
+
+---
+
+**[Bitfarms Conference: BITF Details Pivot From Bitcoin Mining to AI Data Centers and HPC Power Play](https://finance.yahoo.com/news/bitfarms-conference-bitf-details-pivot-080307453.html)**
+
+Bitfarms (NASDAQ:BITF) executives used a recent investor presentation to detail the company’s strategy to transition from Bitcoin mining toward high-performance computing (HPC) and artificial intelligence (AI) data center infrastructure, emphasizing the growing value of power and purpose-built facil
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+
+CCN.com • 22h ago
+
+---
+
+**[🚨🇮🇷 BITCOIN BECOMES KING IN IRAN Not out of nowhere. This is where real pressure pushes real behavior. Here’s what’s actually happening and why BTC is spiking: Iran’s fiat is imploding. The rial has collapsed massively against the dollar as inflation ex](https://x.com/MarioNawfal/status/2011024172408041799)**
+
+x.com • 22h ago
 
 ---
 
@@ -165,7 +195,7 @@ CoinDesk • 15h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 13h ago
+dlnews.com • 14h ago
 
 ---
 
@@ -183,49 +213,11 @@ thestreet.com • 1d ago
 
 ---
 
-**[Strive’s Semler Scientific Acquisition Lifts Bitcoin Holdings but Sends Stock Down 12%](https://finance.yahoo.com/news/strive-semler-scientific-acquisition-lifts-061823293.html)**
-
-Strive acquires Semler Scientific, boosting Bitcoin holdings to 12,797.9 BTC, but shares fall 12% after the all-stock deal approval.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Strive, Semler Stocks Fall After Shareholders Approve Bitcoin Treasury Acquisition](https://decrypt.co/354436/strive-semler-stocks-fall-shareholders-approve-bitcoin-treasury-acquisition)**
-
-Semler Scientific shareholders approved Strive's acquisition in an all-stock deal, but both Bitcoin treasury stocks dropped on the news.
-
-Decrypt • 11h ago
-
----
-
-**[Strive Advances Semler Merger and Expands Bitcoin Holdings](https://www.tipranks.com/news/company-announcements/strive-advances-semler-merger-and-expands-bitcoin-holdings)**
-
-TipRanks • 15h ago
-
----
-
-**[Why Ethereum Could Be Ready to Outperform Bitcoin in 2026](https://decrypt.co/354515/ethereum-outperform-bitcoin-2026)**
-
-Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
-
-Decrypt • 2h ago
-
----
-
 **[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://beincrypto.com/us-stole-chinese-scam-kings-15b-bitcoin/)**
 
 China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
 
 BeInCrypto • 2d ago
-
----
-
-**[Should You Forget Bitcoin and Buy Dogecoin Instead?](https://www.fool.com/investing/2026/01/11/should-you-forget-bitcoin-and-buy-dogecoin-instead/)**
-
-The dog token's much bigger trailing-10-year return can draw interest from some market participants.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -267,7 +259,7 @@ Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory de
 
 Explore a hypothetical method to securely store and transact $1 billion in Bitcoin using air-gapped networks, data diodes, and PSBTs, while maintaining full control of your assets.
 
-⬆️ 2 • 💬 1 • 4d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
+⬆️ 2 • 💬 1 • 5d ago • [Nelop Systems](https://nelop.com/secure-1-billion-bitcoin/)
 
 ---
 
@@ -319,27 +311,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 340 • ⏱️ 5:56 • 7h ago
-
----
-
-**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 4K • 💬 198 • ⏱️ 9:23 • 10h ago
-
----
-
-**[Bitcoin: The Big Squeeze Is Happening](https://www.youtube.com/watch?v=JcybgdAoR9g)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 9K • 👍 923 • 💬 264 • ⏱️ 26:56 • 6h ago
+👁️ 21K • 👍 1K • 💬 378 • ⏱️ 5:56 • 8h ago
 
 ---
 
@@ -349,7 +321,27 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 181 • ⏱️ 15:44 • 8h ago
+👁️ 16K • 👍 1K • 💬 177 • ⏱️ 15:44 • 9h ago
+
+---
+
+**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
+
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
+
+📺 Altcoin Daily
+
+👁️ 57K • 👍 4K • 💬 204 • ⏱️ 9:23 • 11h ago
+
+---
+
+**[Bitcoin: The Big Squeeze Is Happening](https://www.youtube.com/watch?v=JcybgdAoR9g)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 13K • 👍 1K • 💬 298 • ⏱️ 26:56 • 6h ago
 
 ---
 
@@ -359,37 +351,7 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 3K • 👍 250 • 💬 107 • ⏱️ 3:40 • 7h ago
-
----
-
-**[BITCOIN: IT&#39;S HAPPENING NOW!!!!!!!](https://www.youtube.com/watch?v=x1bMw875_lg)**
-
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
-
-📺 Crypto Rover
-
-👁️ 2K • 👍 239 • 💬 158 • ⏱️ 10:22 • 3h ago
-
----
-
-**[BITCOIN](https://www.youtube.com/watch?v=9hAIFCcW6gc)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 7K • 👍 425 • 💬 58 • ⏱️ 8:20 • 9h ago
-
----
-
-**[Bitcoin Just Reclaimed A 3-Year Uptrend! [This Is Next]](https://www.youtube.com/watch?v=s2ffEVcqBUo)**
-
-CPI is out today, but most traders are missing a crucial detail that makes this print far less important for Bitcoin and altcoins than ...
-
-📺 Crypto Banter
-
-👁️ 31K • 👍 2K • 💬 31 • ⏱️ 29:19 • 15h ago
+👁️ 3K • 👍 277 • 💬 102 • ⏱️ 3:40 • 8h ago
 
 ---
 
@@ -399,17 +361,47 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 248 • 💬 73 • ⏱️ 5:45 • 10h ago
+👁️ 5K • 👍 258 • 💬 73 • ⏱️ 5:45 • 11h ago
 
 ---
 
-**[BITCOIN BREAKING OUT NOW !!! MY $2M TRADE !!! ](https://www.youtube.com/watch?v=PFDVUcPPG44)**
+**[BITCOIN: IT&#39;S HAPPENING NOW!!!!!!!](https://www.youtube.com/watch?v=x1bMw875_lg)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/CoinflareCarl Make your ...
+WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
 
-📺 The Moon Show
+📺 Crypto Rover
 
-👁️ 5K • 👍 491 • 💬 13 • ⏱️ 4:22 • 6h ago
+👁️ 4K • 👍 385 • 💬 185 • ⏱️ 10:22 • 4h ago
+
+---
+
+**[CRYPTO MARKET HEATS UP AS BITCOIN BREAKS OUT &amp; ALTCOINS ARE SET TO FOLLOW!](https://www.youtube.com/watch?v=06KRHHYI-kw)**
+
+Crypto News: Bitcoin crosses $95000 again and the total altcoin market looks primed to pump higher. Major updates on the crypto ...
+
+📺 Thinking Crypto
+
+👁️ 3K • 👍 365 • 💬 46 • ⏱️ 17:44 • 5h ago
+
+---
+
+**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=OJGD6BeLZQc)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Classified Defense Files
+
+👁️ 29K • 👍 5K • 10h ago
+
+---
+
+**[BITCOIN](https://www.youtube.com/watch?v=9hAIFCcW6gc)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 8K • 👍 434 • 💬 74 • ⏱️ 8:20 • 10h ago
 
 ---
 

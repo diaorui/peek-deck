@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T08:32:35.283935+00:00'
+updated: '2026-01-14T09:30:58.424641+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 08:32 UTC  
+**Last Updated:** January 14, 2026 at 09:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 20h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 21h ago
 
 ---
 
@@ -44,7 +44,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-14h ago
+15h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-2h ago
+3h ago
 
 ---
 
@@ -62,17 +62,17 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 ---
 
+**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
+
+14h ago
+
+---
+
 **[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-22h ago
-
----
-
-**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
-
-13h ago
+23h ago
 
 ---
 
@@ -84,19 +84,19 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 ---
 
+**[Need Guidance for my HIWONDER Mentorpi Mecanum Robot](https://www.reddit.com/r/robotics/comments/1qchl7l/need_guidance_for_my_hiwonder_mentorpi_mecanum/)**
+
+So I'm working on a mentorpi robot with a mecanum chasis and a depth camera and a LIDAR sensor. Basically, I want to try and get it so that object recognition works first as a start, which I think is possible with the depth camera but aren't sure. I've been looking through this:https://docs.hiwonder.com/projects/MentorPi/en/latest/index.html documentation but am getting really confused as I'm going sequentially through it and it is talking a lot about different things like ROS2 and docker which I've 0 experience with. So basically I wanted to know if there were any other supplemental things I should know about that helps a lot to get towards my goal of object recognition. https://preview.redd.it/ztj7i1dqu9dg1.png?width=614&format=png&auto=webp&s=52fcaabbf7d0de56c393b627df50226db7e8f481
+
+1h ago
+
+---
+
 **[Real Steel fantasy turns real as Humanoid robots fight at CES 2026](https://www.reddit.com/r/robotics/comments/1qch5q3/real_steel_fantasy_turns_real_as_humanoid_robots/)**
 
 CES 2026 hosted the first "Ultimate Fighting Robot" (UFB) matches, where full-sized humanoid robots (including Unitree models) traded punches and kicks in a boxing ring. Unlike BattleBots, these droids weren't just smashing metal—they were teleoperated in real-time by human "pilots" using motion controllers, mimicking their movements to fight MMA-style.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026) • 57m ago
-
----
-
-**[Robots for different parts of the home?](https://www.reddit.com/r/robotics/comments/1qcgimt/robots_for_different_parts_of_the_home/)**
-
-i've been thinking a lot lately about robots and the spaces they will occupy in our homes. we did some concept art last month to imagine and think where a robot lamp fits best. i have my intuition here but wanted to reach out to the community. please share your thoughts/ideas/critique, and if you there's something you imagine thats not here and share - we may illustrate it!
-
-1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026) • 1h ago
 
 ---
 
@@ -104,33 +104,13 @@ i've been thinking a lot lately about robots and the spaces they will occupy in 
 
 https://preview.redd.it/ge1vg4ccb9dg1.png?width=897&format=png&auto=webp&s=05416e49534382b7a48ae021b7b6bbd673f090c9 I recently came across an interesting article on how FANUC India is approaching “human-robot fusion” in industrial automation. The core idea isn’t robots replacing people, but robots evolving into adaptive collaborators that learn from data, assist human decision-making, and handle precision-heavy tasks while humans focus on judgment, creativity, and problem-solving. A few things that stood out to me: Automation moving beyond repetitive motion into AI-assisted adaptability Humans staying in the loop instead of being engineered out Robotics being positioned as a long-term productivity partner rather than a cost-cutting tool Article link for context (not affiliated, just sharing): https://ciolookmagazine.com/driving-intelligent-automation-how-fanuc-india-guided-by-yuki-kita-is-putting-human-robotics-fusion-on-the-global-map/
 
-2h ago
+3h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
-
-Reuters • 1d ago
-
----
-
-**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
-
-Home robots need common sense behavior and a deep understanding of the physical world.
-
-1X | Home Robots • 1d ago
-
----
 
 **[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
 
@@ -152,7 +132,44 @@ BBC • 2d ago
 
 Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
 
-The Robot Report • 22h ago
+The Robot Report • 23h ago
+
+---
+
+**[𝑨𝒓𝒆 𝑭𝒐𝒓𝒌𝒍𝒊𝒇𝒕𝒔 𝒆𝒏𝒅𝒊𝒏𝒈? What you’re seeing here are Filics Units — autonomous mobile robots developed by Filics (Munich, Germany) that slide fully under pallets, lift them, and move omnidirectionally (sideways included) in tight warehouse spaces. U](https://www.linkedin.com/posts/fintech-association-of-kenya_robotics-automation-warehousing-activity-7417113902334971904-56_H)**
+
+𝑨𝒓𝒆 𝑭𝒐𝒓𝒌𝒍𝒊𝒇𝒕𝒔 𝒆𝒏𝒅𝒊𝒏𝒈?
+What you’re seeing here are Filics Units — autonomous mobile robots developed by Filics (Munich, Germany) that slide fully under pallets, lift them, and move omnidirectionally (sideways included) in tight warehouse spaces.
+
+Unlike traditional forklifts that need turning radius and maneuvering space, this approach is built for high-density storage, faster internal transport, and safer operations in busy facilities.
+
+Filics lists the Unit at up to ~800kg payload, with some demos/industry coverage showing higher capacities depending on configuration — but the real innovation is the format: pallet transport without forks.
+
+The future of intralogistics is quietly shifting from “bigger machines” to smarter movement.
+
+#Robotics #Automation #Warehousing #Intralogistics #SupplyChain #FutureOfWork #Industry40
+
+LinkedIn • 1h ago
+
+---
+
+**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
+
+Reuters • 1d ago
+
+---
+
+**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
+
+Home robots need common sense behavior and a deep understanding of the physical world.
+
+1X | Home Robots • 1d ago
 
 ---
 
@@ -168,7 +185,7 @@ CNBC • 2d ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 8h ago
+The Free Press • 9h ago
 
 ---
 
@@ -176,15 +193,7 @@ The Free Press • 8h ago
 
 ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
 
-Seeking Alpha • 12h ago
-
----
-
-**[Bernie Sanders Renews Criticism Of Tech Industry's AI, Robotics Push: 'Multi-Multi-Billionaires Are Pouring…'](https://www.yahoo.com/news/articles/bernie-sanders-renews-criticism-tech-003129748.html)**
-
-Sen. Bernie Sanders (I-VT) has renewed his criticism of the tech industry's investment in AI and Robotics, expressing concern about its widespread application. Making Huge Amounts Of Money In a video shared on the social media platform X on Saturday, the senator called out tech companies and CEOs, like Tesla Inc.'s (NASDAQ:TSLA) CEO Elon Musk, Nvidia Corp's (NASDAQ:NVDA) Jensen Huang, as well as Meta Platforms Inc. (NASDAQ:META) CEO Mark Zuckerberg, OpenAI CEO Sam Altman, billionaire Jeff Bezos
-
-Yahoo • 8h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -192,23 +201,13 @@ Yahoo • 8h ago
 
 ## YouTube Videos: "robotics"
 
-**[The Biggest Robot Exhibition in Las Vegas | CES 2026](https://www.youtube.com/watch?v=Kpw1N-Ej_xo)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hello, friends! Welcome to the future. Today we're ...
-
-📺 PRO ROBOTS
-
-👁️ 61K • 👍 1K • 💬 94 • ⏱️ 18:58 • 5d ago
-
----
-
 **[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
 
 Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
 
 📺 Kim Java
 
-👁️ 367K • 👍 11K • 💬 647 • ⏱️ 17:09 • 1d ago
+👁️ 374K • 👍 11K • 💬 658 • ⏱️ 17:09 • 1d ago
 
 ---
 
@@ -218,7 +217,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 136K • 👍 2K • 💬 357 • ⏱️ 11:46 • 2d ago
+👁️ 137K • 👍 2K • 💬 358 • ⏱️ 11:46 • 2d ago
 
 ---
 
@@ -228,7 +227,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 10K • 👍 581 • 💬 37 • ⏱️ 9:28 • 3d ago
+👁️ 10K • 👍 583 • 💬 37 • ⏱️ 9:28 • 3d ago
 
 ---
 
@@ -238,7 +237,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 977K • 👍 31K • 💬 953 • ⏱️ 0:39 • 5d ago
+👁️ 980K • 👍 31K • 💬 954 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -248,7 +247,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 121K • 👍 9K • 💬 2K • ⏱️ 5:12 • 11h ago
+👁️ 136K • 👍 10K • 💬 2K • ⏱️ 5:12 • 12h ago
 
 ---
 
@@ -268,7 +267,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 560 • 👍 3 • 💬 1 • ⏱️ 0:33 • 7h ago
+👁️ 667 • 👍 3 • 💬 1 • ⏱️ 0:33 • 8h ago
 
 ---
 
@@ -278,7 +277,7 @@ When a robo-cleaner can notify you that a bar of gold was left on your living ro
 
 📺 mryeester
 
-👁️ 95K • 👍 5K • 💬 174 • ⏱️ 1:06 • 4d ago
+👁️ 95K • 👍 5K • 💬 175 • ⏱️ 1:06 • 4d ago
 
 ---
 
@@ -289,6 +288,16 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 📺 CNET
 
 👁️ 136K • 👍 458 • 💬 336 • ⏱️ 5:07 • 6d ago
+
+---
+
+**[BENDBOT V7 - RESULTS! Merrick &amp; #LibertyBarros #shorts #robot #gottalent  #flexible #agt #trend](https://www.youtube.com/watch?v=fZ7yx4NtoI0)**
+
+BENDBOT V7 - RESULTS! Merrick & #LibertyBarros #shorts #robot #gottalent #flexible #agt #trend.
+
+📺 VibeTwist⚡1000
+
+👁️ 32K • 💬 3 • ⏱️ 0:11 • 5d ago
 
 ---
 
