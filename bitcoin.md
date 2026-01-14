@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T23:19:11.002891+00:00'
+updated: '2026-01-14T23:40:13.648053+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 23:19 UTC  
+**Last Updated:** January 14, 2026 at 23:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -133,13 +133,13 @@ What’s happening?
 
 my hands are made of diamonds and there is goop inside of my skull
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -157,7 +157,7 @@ CoinDesk • 7h ago
 
 **[Bitcoin Price Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqfBF4S2tu91OQ-A3YZ_BliYh3QBnpoAuK-Wfx7Ab7j32sqkGnP1C7zK&gaa_ts=696820ac&gaa_sig=thT_yRXOv-5K7caIEyLO2kFfe6ZsSHHKTnECyoPEk3MILBSEIb83elqBBdUFUrOCx4fB9H7Wkj2upjOwyI6T8Q%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Senate leaders have locked in committee deadlines for a sweeping crypto market overhaul that could reshape U.S. digital asset regulation, redefine stablecoin rules, and set the stage for a decisive floor vote before the 2026 election cycle.
 
-Bitcoin.com News • 48m ago
+Bitcoin.com News • 1h ago
 
 ---
 
@@ -189,19 +189,19 @@ The Motley Fool • 1h ago
 
 Bitcoin mining stocks like Bitdeer and CleanSpark jumped Wednesday as BTC climbed above $97,000 for the first time since November.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
 **[Bitcoin and gold allocation outperforms traditional portfolios, backing Ray Dalio's 15% hedge thesis, Bitwise finds](https://www.theblock.co/post/385526/gold-bitcoin-combined-allocation-outperforms-traditional-portfolios-bitwise)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -341,7 +341,7 @@ BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: https://partner.bybi
 
 📺 Team Underground
 
-👁️ 1K • 👍 77 • 💬 6 • ⏱️ 13:24 • 6h ago
+👁️ 1K • 👍 77 • 💬 6 • ⏱️ 13:24 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 126 • ⏱️ 46:37 • 7h ago
+👁️ 23K • 👍 1K • 💬 126 • ⏱️ 46:37 • 8h ago
 
 ---
 
@@ -371,7 +371,7 @@ The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway aler
 
 📺 Gareth Soloway
 
-👁️ 35K • 👍 3K • 💬 125 • ⏱️ 11:07 • 9h ago
+👁️ 35K • 👍 3K • 💬 125 • ⏱️ 11:07 • 10h ago
 
 ---
 
