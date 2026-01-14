@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T16:33:22.878302+00:00'
+updated: '2026-01-14T17:27:36.235741+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 16:33 UTC  
+**Last Updated:** January 14, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-2h ago
+3h ago
 
 ---
 
 **[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 What’s happening?
 
-1h ago
+2h ago
 
 ---
 
@@ -115,25 +115,25 @@ What’s happening?
 
 Big jump in price today!
 
-18h ago
+19h ago
 
 ---
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-17h ago
+18h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -151,25 +151,25 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 **[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcyxsW3NCmrskhxh4tK0TDY-93L2kM1kL1odC9V9VYAk-gLHPW0DuLH&gaa_ts=6967c8b5&gaa_sig=FrhpECQQ4ALCKxxHIC7xHX3TwcE87ZTuxNdtfNcKqJWE1jafkRz4KGIRJeCVzod75c-NzB5xVRBR6jkhR-nHLg%3D%3D)**
 
-Barron's • 6h ago
+Barron's • 7h ago
 
 ---
 
 **[Bitcoin and gold allocation outperforms traditional portfolios, backing Ray Dalio's 15% hedge thesis, Bitwise finds](https://www.theblock.co/post/385526/gold-bitcoin-combined-allocation-outperforms-traditional-portfolios-bitwise)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 53m ago
+Investor's Business Daily • 1h ago
 
 ---
 
 **[Bitcoin price today: jumps above $96k after Strategy buy, but weakness persists](https://www.investing.com/news/cryptocurrency-news/bitcoin-tops-95k-after-strategy-buy-steady-cpi-4445913)**
 
-Investing.com • 16h ago
+Investing.com • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Investing.com • 16h ago
 
 U.S. spot bitcoin ETFs took in $753.7 million on Tuesday, led by Fidelity, as analysts pointed to improving macro clarity and renewed institutional demand.
 
-Bitbo • 3h ago
+Bitbo • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitbo • 3h ago
 
 U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -193,13 +193,13 @@ Yahoo Finance • 4h ago
 
 Learn about ProShares Ultrashort Bitcoin ETF (SBIT): -2x daily inverse bitcoin exposure, liquidity and risks like compounding/NAV decay.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
 **[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg.com • 6h ago
 
 US stocks (^DJI, ^IXIC, ^GSPC) fell in Tuesday's trading session following the release of December's Consumer Price Index (CPI) inflation report this morning. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including Big Bank earnings season kicking off with JPMorgan Chase's (JPM) results, Intel (INTC) breaking outside its trading range, and bitcoin (BTC-USD) bouncing back above $94,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -311,7 +311,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 858 • 💬 87 • ⏱️ 46:37 • 59m ago
+👁️ 9K • 👍 858 • 💬 87 • ⏱️ 46:37 • 1h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 585 • 💬 57 • ⏱️ 47:15 • 1h ago
+👁️ 6K • 👍 585 • 💬 57 • ⏱️ 47:15 • 2h ago
 
 ---
 
@@ -331,7 +331,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 434 • ⏱️ 5:56 • 15h ago
+👁️ 24K • 👍 1K • 💬 434 • ⏱️ 5:56 • 16h ago
 
 ---
 
@@ -341,7 +341,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 185 • ⏱️ 15:44 • 16h ago
+👁️ 20K • 👍 2K • 💬 185 • ⏱️ 15:44 • 17h ago
 
 ---
 
@@ -351,7 +351,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 5K • 💬 240 • ⏱️ 9:23 • 18h ago
+👁️ 68K • 👍 5K • 💬 240 • ⏱️ 9:23 • 19h ago
 
 ---
 
@@ -361,7 +361,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 4K • 👍 68 • 💬 20 • ⏱️ 5:02 • 4h ago
+👁️ 4K • 👍 68 • 💬 20 • ⏱️ 5:02 • 5h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin, SOL, ETH, Tesla, and altcoin trades as ETF flows explode. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 13K • 👍 874 • 💬 51 • ⏱️ 15:54 • 5h ago
+👁️ 13K • 👍 874 • 💬 51 • ⏱️ 15:54 • 6h ago
 
 ---
 
@@ -381,7 +381,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 519 • 3h ago
+👁️ 3K • 👍 519 • 4h ago
 
 ---
 
@@ -401,7 +401,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 550 • 💬 41 • ⏱️ 10:22 • 11h ago
+👁️ 7K • 👍 550 • 💬 41 • ⏱️ 10:22 • 12h ago
 
 ---
 

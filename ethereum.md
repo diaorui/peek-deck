@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T16:33:22.884261+00:00'
+updated: '2026-01-14T17:27:36.241749+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 16:33 UTC  
+**Last Updated:** January 14, 2026 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 I had a concept that I may begin programming based on what you guys say here. What if you could earn extra yield on staked ETH just by signing a message every 6 months? The idea is that I'd make an on chain (and possibly on scaling solutions) smart contract where you can deposit your Staked ETH, then everyone needs to sign a message every 6 months for example. If they don't sign the message on the 6th month, then on the 7th month 10% of their balance gets equally distributed between all staked staked tokens. If you fail to sign you'd forfeit 10% of your balance, which would keep going down every month until your wallet is eventually drained. I (The creator) would make money by charging a 2.5% fee on re-distributing the forfeited funds. It would be 6 months after you sign up, so there would in theory be consistent rewards year round (Avoiding people buying Staked Staked ETH right before the forfeit date) This would earn extra yield on already staked coins just by signing a message every few months. With a transparent smart contract there would be near zero need to trust me, no counterparty risk. Updates could be voted on by holding Staked Staked ETH
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +107,7 @@ vulnerabilities reported through the Ethereum Foundation bug bounty program.
 
 As with all our previous releases,...
 
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 14h ago
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 15h ago
 
 ---
 
@@ -131,7 +131,7 @@ Ethereum did a lot in 2025: gas limits increased, blob count increased, node sof
 
 I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have one. What do you use?
 
-8h ago
+9h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 2d ago
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -217,7 +217,7 @@ ETF Trends • 1d ago
 
 **[Most large cryptocurrencies climb on Ethereum, Bitcoin increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-ethereum-bitcoin-increases-f0c37b36-75147e581b51?gaa_at=eafs&gaa_n=AWEtsqde9Njhp33NzZRv0PbwRTk2RDWZn4jRBEQ9Dup-2oceHyMO3jeojDuw&gaa_ts=6967c8b7&gaa_sig=jM5w6G-4e2Xkdxzb3vlUOZO8oyUFk1sOq3tfwLEwKI4RrFbvGl259g29rXUmCjlBLvhqA-wyyGFg1IeppXHIVg%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ MarketWatch • 1h ago
 
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -239,7 +239,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 804 • 👍 98 • 💬 5 • ⏱️ 3:42 • 1h ago
+👁️ 804 • 👍 98 • 💬 5 • ⏱️ 3:42 • 2h ago
 
 ---
 
@@ -249,7 +249,7 @@ BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 3K • 👍 308 • 💬 75 • ⏱️ 22:39 • 7h ago
+👁️ 3K • 👍 308 • 💬 75 • ⏱️ 22:39 • 8h ago
 
 ---
 
@@ -259,7 +259,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 204 • 👍 15 • 💬 1 • ⏱️ 4:52 • 6h ago
+👁️ 204 • 👍 15 • 💬 1 • ⏱️ 4:52 • 7h ago
 
 ---
 
@@ -279,7 +279,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 5K • 💬 240 • ⏱️ 9:23 • 18h ago
+👁️ 68K • 👍 5K • 💬 240 • ⏱️ 9:23 • 19h ago
 
 ---
 
@@ -289,7 +289,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 205 • 💬 19 • ⏱️ 6:20 • 15h ago
+👁️ 3K • 👍 205 • 💬 19 • ⏱️ 6:20 • 16h ago
 
 ---
 
@@ -299,7 +299,7 @@ Ethereum just broke out of a months-long downtrend as on-chain staking activity 
 
 📺 CoinCodex
 
-👁️ 410 • 👍 17 • 💬 3 • ⏱️ 4:25 • 21h ago
+👁️ 410 • 👍 17 • 💬 3 • ⏱️ 4:25 • 22h ago
 
 ---
 
@@ -319,7 +319,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 16K • 👍 1K • 💬 250 • ⏱️ 13:02 • 19h ago
+👁️ 16K • 👍 1K • 💬 250 • ⏱️ 13:02 • 20h ago
 
 ---
 

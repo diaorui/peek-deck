@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T16:33:22.869910+00:00'
+updated: '2026-01-14T17:27:36.227256+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 16:33 UTC  
+**Last Updated:** January 14, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 10h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 11h ago
 
 ---
 
@@ -57,7 +57,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-20h ago
+21h ago
 
 ---
 
@@ -65,7 +65,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map, and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impressed, last time I used ChatGPT for anything involving calculation (years ago) it was laughably bad at it. Out of curiosity I've also asked it to analyze the energy consumption and environmental impact of the query as compared to baking some potatoes in an electric oven (something I do often). It - See the conversation yourselves if curious: https://chatgpt.com/share/6967989b-7bfc-800b-822f-6e59810e0463 Hoping this post belongs here, the chatgpt conversation log is only added for people's curiosity, not necessary for the content of this post to be understood.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ I was curious about the math and vision skills of the current incarnation of Cha
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 12h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 13h ago
 
 ---
 
@@ -81,7 +81,7 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ Slackbot, the automated assistant baked into the Salesforce-owned corporate mess
 
 Does anyone know of an AI tool that can assist with marketing and sales stuff? I have a shopify store side project and I'm trying to get it off the ground. I was thinking if there's AI where I can use its intelligence gathered from thousands to millions of successful examples to help me set up my marketing campaigns, remind me of proven marketing basics and strategies, explain to me in details why my ad campaign didn't have the impact that I'd like and how I can improve it etc.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Does anyone know of an AI tool that can assist with marketing and sales stuff? I
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-20h ago
+21h ago
 
 ---
 
@@ -113,7 +113,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-11h ago
+12h ago
 
 ---
 
@@ -125,13 +125,13 @@ Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice:
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
 **[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqeiwhh65gUkYt6EGxg_AxJOE0oEHrWHxvfVZBIUxPOV1iHHwk6urGog&gaa_ts=6967c8b3&gaa_sig=tU_xxcHOwj0YgkhjrWwXOaopZM8gV358_dHbHopNQxC6l5GSLKhHGhgeibkDZnCC6KxHpx-fwoq5kIhYfv8eOQ%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Wall Street Journal • 13h ago
 
 Stocks such as Bank of America and EPAM Systems could benefit most from investing in AI productivity, according to Goldman Sachs.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 1h ago
 
 The company used an AI-native platform to help companies fight threats.
 
-TechCrunch • 43m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Guardian • 1d ago
 
 Elon Musk’s X is living up to its name.
 
-The New Yorker • 5h ago
+The New Yorker • 6h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New Yorker • 5h ago
 
 Candidates in pilot assessed on how they prompted consulting firm’s AI assistant and ability to adapt responses
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -207,7 +207,7 @@ Financial Times • 11h ago
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 432 • 💬 233 • 18h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 432 • 💬 233 • 19h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -223,7 +223,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 334 • 💬 102 • 21h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 334 • 💬 102 • 22h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -239,13 +239,13 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 225 • 💬 122 • 19h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 225 • 💬 122 • 20h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 209 • 💬 269 • 21h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 209 • 💬 269 • 22h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -253,7 +253,7 @@ Warhammer maker Games Workshop has banned the use of AI in its content productio
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 188 • 💬 105 • 1d ago • [TryLAD](https://www.trylad.com)
+⬆️ 188 • 💬 105 • 2d ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -283,7 +283,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 30K • 👍 900 • 💬 121 • ⏱️ 14:32 • 17h ago
+👁️ 30K • 👍 900 • 💬 121 • ⏱️ 14:32 • 18h ago
 
 ---
 
@@ -333,7 +333,7 @@ DISCLAIMER: This game has ZERO usage of AI and was 100% made entirely by a team 
 
 📺 Luigikid Gaming
 
-👁️ 9K • 👍 837 • 💬 74 • ⏱️ 11:30 • 19h ago
+👁️ 9K • 👍 837 • 💬 74 • ⏱️ 11:30 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ Join Chadd for another episode of Truck Talk. https://3of7projectstore.com.
 
 📺 3 of 7 Project
 
-👁️ 58K • 👍 5K • 💬 1K • ⏱️ 5:11 • 23h ago
+👁️ 58K • 👍 5K • 💬 1K • ⏱️ 5:11 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 36,933 • ❤️ 609 • 6d ago
+⬇️ 36,933 • ❤️ 609 • 7d ago
 
 ---
 
@@ -413,7 +413,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 451 • 10h ago
+⬇️ 203 • ❤️ 451 • 11h ago
 
 ---
 
@@ -437,7 +437,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 252 • 18h ago
+⬇️ 32,276 • ❤️ 252 • 19h ago
 
 ---
 
@@ -449,7 +449,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 244 • 7h ago
+⬇️ 77 • ❤️ 244 • 8h ago
 
 ---
 
@@ -642,7 +642,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 1m ago
+⭐ 8.5k • 🔱 1.1k • 55m ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 179 • 12h ago
+⭐ 4.6k • 🔱 179 • 13h ago
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 145 • 1h ago
+⭐ 2.3k • 🔱 145 • 2h ago
 
 ---
 
@@ -692,7 +692,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 5h ago
+⭐ 1.6k • 🔱 130 • 6h ago
 
 ---
 
@@ -712,7 +712,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.4k • 🔱 1.1k • 2h ago
+⭐ 1.4k • 🔱 1.1k • 3h ago
 
 ---
 
