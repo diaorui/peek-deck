@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T04:47:48.543324+00:00'
+updated: '2026-01-14T05:27:10.284471+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 04:47 UTC  
+**Last Updated:** January 14, 2026 at 05:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Bandcamp Bans All Music Made with AI](https://www.reddit.com/r/artificial/comments/1qccxaw/bandcamp_bans_all_music_made_with_ai/)**
+
+Bandcamp has announced that music and audio that is generated wholly or in substantial part by AI is not permitted on its platform.
+
+🔗 [Consequence](https://consequence.net/2026/01/bandcamp-bans-all-ai-music/) • 1h ago
+
+---
+
 **[Jeff Bezos Says the AI Bubble is Like the Industrial Bubble](https://www.reddit.com/r/artificial/comments/1qc1dif/jeff_bezos_says_the_ai_bubble_is_like_the/)**
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-8h ago
+9h ago
+
+---
+
+**[Apple Creator Studio Is Here: A New Creative Suite Challenging Adobe](https://www.reddit.com/r/artificial/comments/1qccvkb/apple_creator_studio_is_here_a_new_creative_suite/)**
+
+Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
+
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 1h ago
 
 ---
 
@@ -65,23 +81,23 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
 
-🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 2h ago
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 3h ago
 
 ---
 
-**[Bandcamp Bans All Music Made with AI](https://www.reddit.com/r/artificial/comments/1qccxaw/bandcamp_bans_all_music_made_with_ai/)**
+**[kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required](https://www.reddit.com/r/artificial/comments/1qceq2y/kyutai_just_introduced_pocket_tts_a_100mparameter/)**
 
-Bandcamp has announced that music and audio that is generated wholly or in substantial part by AI is not permitted on its platform.
+Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-🔗 [Consequence](https://consequence.net/2026/01/bandcamp-bans-all-ai-music/) • 1h ago
+9m ago
 
 ---
 
-**[Apple Creator Studio Is Here: A New Creative Suite Challenging Adobe](https://www.reddit.com/r/artificial/comments/1qccvkb/apple_creator_studio_is_here_a_new_creative_suite/)**
+**[Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://www.reddit.com/r/artificial/comments/1qby3z0/signal_creator_moxie_marlinspike_wants_to_do_for/)**
 
-Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
+"Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 1h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 11h ago
 
 ---
 
@@ -93,27 +109,11 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 ---
 
-**[Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://www.reddit.com/r/artificial/comments/1qby3z0/signal_creator_moxie_marlinspike_wants_to_do_for/)**
-
-"Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
-
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 10h ago
-
----
-
 **[Anthropic Cowork Launches: Claude Code Without Coding Skills](https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/)**
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 23h ago
-
----
-
-**[How do you see AI in 2026?](https://www.reddit.com/r/artificial/comments/1qbvab6/how_do_you_see_ai_in_2026/)**
-
-We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
-
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 12h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 1d ago
 
 ---
 
@@ -121,45 +121,45 @@ We are moving from experimentation to deployment while confronting economic and 
 
 ## Google News: "ai"
 
+**[US approves sale of Nvidia's advanced H200 chips to China](https://www.bbc.com/news/articles/cg4erx1n04lo)**
+
+Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.
+
+BBC • 1h ago
+
+---
+
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
-**[Apple picks Google's Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)**
-
-Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
-
-CNBC • 1d ago
-
----
-
-**[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqf_WeNgrwomazndY3tTTMXGD5Tn2v2vjaSxeW137yt9GIkQ-kizQaKN&gaa_ts=69671590&gaa_sig=tHs-BWBZjaEpnFLY6lrXulKrAGQSZtaIgp63ki_hzGIPVENOdhmuN-NzhlSMTrym7PzH0p0vkLIubPagz1ZkDg%3D%3D)**
+**[The Row Over South Korea’s Push for a Native AI Model: Chinese Code](https://www.wsj.com/tech/ai/the-row-over-south-koreas-push-for-a-native-ai-model-chinese-code-4c047a6f?gaa_at=eafs&gaa_n=AWEtsqegjoUIUhKMCg3sD58__JYJTXlBecTK7Osk2XXHV4M1qsbVmTMocV_V&gaa_ts=69672c83&gaa_sig=QiAm2hzvssuqb5_mW6BPooUlZ6S9OCoy1jmlMPc3N-riNHApQssEA4J8SRvZzYGNKoXC42OC0WobWqdloUC9Xw%3D%3D)**
 
 The Wall Street Journal • 1h ago
 
 ---
 
-**[Microsoft Unveils “Community-First” Plan for U.S. AI Data Center Buildout](https://finance.yahoo.com/news/microsoft-unveils-community-first-plan-024305504.html)**
+**[China’s Zhipu Unveils New AI Model Trained on Huawei’s Chips](https://www.bloomberg.com/news/articles/2026-01-14/china-s-zhipu-unveils-new-ai-model-trained-on-huawei-s-chips)**
 
-Microsoft says it will fund power and water impacts, expand local hiring and training, and boost municipal revenues as it accelerates U.S. data center growth.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
+**[Dublin installs AI-powered crosswalk lighting system to improve pedestrian safety](https://www.10tv.com/article/news/local/dublin-ai-powered-crosswalk-lighting-system-improve-pedestrian-safety/530-38eb0d46-937b-4e9c-9a1b-786e4cd6902d)**
 
-Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
+The system, located at the intersection of Brand Road and Coventry Woods Drive, uses artificial intelligence to detect when pedestrians enter the crosswalk.
 
-The Guardian • 12h ago
+10TV • 1h ago
 
 ---
 
-**[Adobe Analysts Turn Most Bearish Since 2013 as AI Threat Looms](https://www.bloomberg.com/news/articles/2026-01-13/adobe-analysts-turn-most-bearish-since-2013-as-ai-threat-looms)**
+**[Meta's VR layoffs, studio closures underscore Zuckerberg's massive pivot to AI](https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html)**
 
-Bloomberg.com • 13h ago
+Meta began laying off employees in its Reality Labs division focused on virtual reality and shut down several VR studios as it pushes resources towards AI.
+
+CNBC • 4h ago
 
 ---
 
@@ -171,27 +171,25 @@ NPR • 7h ago
 
 ---
 
-**[Building Community-First AI Infrastructure](https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/)**
+**[The Dangerous Paradox of A.I. Abundance](https://www.newyorker.com/news/the-financial-page/the-dangerous-paradox-of-ai-abundance)**
 
-Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
+Silicon Valley envisions artificial intelligence ushering in an era of economic plenty. But what if the benefits are largely confined to corporations and investors that own the technology itself?
 
-The Official Microsoft Blog • 15h ago
-
----
-
-**[Instagram AI Influencers Are Defaming Celebrities With Sex Scandals](https://www.404media.co/instagram-ai-influencers-are-defaming-celebrities-with-sex-scandals/)**
-
-Fake images of LeBron James, iShowSpeed, Dwayne “The Rock” Johnson, and even Nicolás Maduro show them in bed with AI-generated influencers.
-
-404 Media • 10h ago
+The New Yorker • 1d ago
 
 ---
 
-**[Microsoft warns that China is winning AI race outside the west](https://www.ft.com/content/f7a5b184-1fef-4f02-b957-4c2b07adf91f)**
+**[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
 
-DeepSeek’s technology is being rapidly adopted across Africa and beyond, tech group’s research shows
+Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-Financial Times • 23h ago
+The Guardian • 13h ago
+
+---
+
+**[College paper fights to stop AI slop website from stealing its identity](https://www.washingtonpost.com/nation/2026/01/13/colorado-student-newspaper-artificial-intelligence/)**
+
+The Washington Post • 10h ago
 
 ---
 
@@ -201,13 +199,13 @@ Financial Times • 23h ago
 
 **[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
 
-⬆️ 1265 • 💬 1596 • 2d ago • [antirez.com](https://antirez.com/news/158)
+⬆️ 1266 • 💬 1601 • 2d ago • [antirez.com](https://antirez.com/news/158)
 
 ---
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 631 • 💬 466 • 10h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 673 • 💬 489 • 10h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -215,7 +213,13 @@ Financial Times • 23h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 329 • 💬 325 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 332 • 💬 327 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+
+---
+
+**[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
+
+⬆️ 330 • 💬 177 • 7h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -223,13 +227,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 323 • 💬 96 • 10h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
-
----
-
-**[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
-
-⬆️ 309 • 💬 168 • 6h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 324 • 💬 96 • 10h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -237,7 +235,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 219 • 💬 165 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 220 • 💬 166 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -245,7 +243,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 208 • 💬 111 • 8h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 212 • 💬 111 • 8h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -261,7 +259,7 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
 
-⬆️ 184 • 💬 104 • 1d ago • [TryLAD](https://www.trylad.com)
+⬆️ 185 • 💬 104 • 1d ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -269,7 +267,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 182 • 💬 181 • 16h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 183 • 💬 184 • 17h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -445,7 +443,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 237 • 6h ago
+⬇️ 26,414 • ❤️ 237 • 7h ago
 
 ---
 
@@ -638,7 +636,7 @@ A data-free self-evolution framework enables large language models to autonomous
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.4k • 🔱 1.1k • 25s ago
+⭐ 8.4k • 🔱 1.1k • 39m ago
 
 ---
 
@@ -648,7 +646,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 145 • 53m ago
+⭐ 3.8k • 🔱 145 • 1h ago
 
 ---
 
@@ -668,7 +666,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 142 • 3h ago
+⭐ 2.3k • 🔱 142 • 4h ago
 
 ---
 
@@ -688,7 +686,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 129 • 2h ago
+⭐ 1.6k • 🔱 129 • 3h ago
 
 ---
 
@@ -728,7 +726,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.2k • 🔱 836 • 13h ago
+⭐ 1.2k • 🔱 836 • 14h ago
 
 ---
 

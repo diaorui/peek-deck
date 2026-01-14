@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T04:47:48.551767+00:00'
+updated: '2026-01-14T05:27:10.293012+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 04:47 UTC  
+**Last Updated:** January 14, 2026 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,533.39
+### $95,308.70
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.5%  
-**7d:** +5.0%  
-**30d:** +9.1%  
-**90d:** -10.4%  
-**1y:** -4.7%  
+**24h:** +3.1%  
+**7d:** +4.3%  
+**30d:** +8.4%  
+**90d:** -11.0%  
+**1y:** -5.3%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,15 +93,7 @@ Rank #1
 
 Big jump in price today!
 
-6h ago
-
----
-
-**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
-
-Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
-
-12h ago
+7h ago
 
 ---
 
@@ -109,13 +101,21 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-15h ago
+16h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-14h ago
+15h ago
+
+---
+
+**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
+
+Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
+
+13h ago
 
 ---
 
@@ -131,7 +131,7 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 I was just about to buy and suddenly the candle goes vertical and no joke it went from 95 to over 96 in seconds (on kraken pro anyway).
 
-6h ago
+7h ago
 
 ---
 
@@ -139,13 +139,13 @@ I was just about to buy and suddenly the candle goes vertical and no joke it wen
 
 Bitcoin is going mainstream 🚀
 
-13h ago
+14h ago
 
 ---
 
-**[Red Pill -> 10 BTC now or Blue Pill -> go back to 2010 with current knowledge?](https://www.reddit.com/r/Bitcoin/comments/1qboioo/red_pill_10_btc_now_or_blue_pill_go_back_to_2010/)**
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-17h ago
+1h ago
 
 ---
 
@@ -157,15 +157,7 @@ Bitcoin is going mainstream 🚀
 
 The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
-CoinDesk • 11h ago
-
----
-
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://finance.yahoo.com/news/blackrock-moves-339m-bitcoin-traders-111215711.html)**
-
-BlackRock moved approximately $361 million worth of Bitcoin and Ethereum to Coinbase Prime. While transfers to Coinbase Prime don’t automatically signal a sale, market observers ...
-
-Yahoo Finance • 17h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -173,15 +165,7 @@ Yahoo Finance • 17h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 9h ago
-
----
-
-**[Crypto Billionaire Michael Saylor Names Nvidia, Bitcoin Among 'Best Performing Assets' Of The Decade: Here's How They've Performed](https://finance.yahoo.com/news/crypto-billionaire-michael-saylor-names-173115271.html)**
-
-Strategy Inc. (NASDAQ:MSTR) Executive Chair Michael Saylor highlighted on Sunday that the company has surpassed Wall Street giants since adopting the Bitcoin (CRYPTO: BTC)-focused approach, trailing only Nvidia Corp. (NASDAQ:NVDA). ‘Best-Performing Assets’ Of The Decade Saylor posted a chart on...
-
-Yahoo Finance • 11h ago
+dlnews.com • 10h ago
 
 ---
 
@@ -193,41 +177,55 @@ CoinDesk • 1d ago
 
 ---
 
+**[Analyst lowers MicroStrategy stock price target by 40%](https://www.thestreet.com/crypto/markets/analyst-lowers-microstrategy-stock-price-target-by-40)**
+
+thestreet.com • 1d ago
+
+---
+
+**[VanEck Says Bitcoin Could Hit $53M. Here's What It Would Take](https://finance.yahoo.com/news/vaneck-says-bitcoin-could-hit-204001222.html)**
+
+Bitcoin could reach $53.4 million by 2050, according to VanEck. VanEck said in a Jan. 8 post that in its bull case, Bitcoin captures 20% of international trade and 10% of domestic GDP, sending its value to $53.4 million by...
+
+Yahoo Finance • 8h ago
+
+---
+
 **[Bitcoin, XRP surge amid rising US-Iran tensions](https://www.thestreet.com/crypto/markets/bitcoin-xrp-surge-amid-rising-us-iran-tensions)**
 
-thestreet.com • 7h ago
+thestreet.com • 8h ago
 
 ---
 
-**[Bitcoin And Altcoins Breakout As Stock Market Momentum Fades: BTC, ETH And SOL Outlook](https://seekingalpha.com/article/4859438-bitcoin-altcoins-breakout-as-stock-market-momentum-fades-btc-eth-sol-outlook)**
+**[Bitcoin Short-Term Holders Near A Profit Flip: A Key Level Comes Into Focus](https://www.tradingview.com/news/newsbtc:416605423094b:0-bitcoin-short-term-holders-near-a-profit-flip-a-key-level-comes-into-focus/)**
 
-Bitcoin breaks out higher and drags the crypto market with it.
+Bitcoin has started the year on firmer footing, recovering from late-2025 weakness and pushing back toward the $92,000 level. Price action has improved, and short-term momentum has turned constructive, but conviction remains fragile. Despite the rebound, Bitcoin continues to trade within a broader…
 
-Seeking Alpha • 4h ago
-
----
-
-**[Strategist Warns Crypto Oversupply Could Force $10K Bitcoin Reset](https://news.bitcoin.com/strategist-warns-crypto-oversupply-could-force-10k-bitcoin-reset/)**
-
-Bitcoin’s explosive rally may have gone too far, with oversupply, rising volatility risk, and shifting macro forces setting the stage for a major reset that could redefine crypto’s next cycle, according to a Bloomberg Intelligence outlook.
-
-Bitcoin.com News • 1d ago
+TradingView — Track All Markets • 7h ago
 
 ---
 
-**[Where Will Bitcoin Be in 3 Years?](https://www.fool.com/investing/2026/01/11/where-will-bitcoin-be-in-3-years/)**
+**[Gold, Silver Hit New Highs as Bitcoin Trades Flat Ahead of Key Macroeconomic Events](https://decrypt.co/354236/gold-silver-hit-new-highs-as-bitcoin-trades-flat-ahead-of-key-macroeconomic-events)**
 
-Bitcoin has a lot going for it, but the near term could be bumpy.
+Precious metals hit new highs as political pressure on the Federal Reserve spurred a safe-haven rush ahead of critical U.S. inflation data.
 
-The Motley Fool • 2d ago
+Decrypt • 1d ago
 
 ---
 
-**[Vivek Ramaswamy's Strive to add over 5,000 Bitcoin in approved Semler Scientific deal](https://cryptobriefing.com/strive-adds-5000-bitcoin-semler-scientific-acquisition/)**
+**[Bitcoin is “transitioning out of its most stressed phase”](https://sherwood.news/crypto/bitcoin-is-transitioning-out-of-its-most-stressed-phase/)**
 
-Vivek Ramaswamy-backed Strive clears shareholder vote to acquire Semler Scientific, boosting Bitcoin holdings by over 5,000 coins.
+Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
 
-Crypto Briefing • 10h ago
+Sherwood News • 14h ago
+
+---
+
+**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://beincrypto.com/us-stole-chinese-scam-kings-15b-bitcoin/)**
+
+China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
+
+BeInCrypto • 2d ago
 
 ---
 
@@ -321,7 +319,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 1K • 💬 210 • ⏱️ 5:56 • 3h ago
+👁️ 12K • 👍 1K • 💬 210 • ⏱️ 5:56 • 4h ago
 
 ---
 
@@ -331,7 +329,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 176 • ⏱️ 9:23 • 6h ago
+👁️ 39K • 👍 3K • 💬 176 • ⏱️ 9:23 • 7h ago
 
 ---
 
@@ -361,7 +359,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 394 • 💬 60 • ⏱️ 8:20 • 5h ago
+👁️ 6K • 👍 394 • 💬 60 • ⏱️ 8:20 • 6h ago
 
 ---
 
@@ -381,7 +379,7 @@ CPI is out today, but most traders are missing a crucial detail that makes this 
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 29 • ⏱️ 29:19 • 11h ago
+👁️ 29K • 👍 2K • 💬 29 • ⏱️ 29:19 • 12h ago
 
 ---
 
@@ -391,7 +389,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 5K • 👍 250 • 💬 5 • ⏱️ 1:29 • 7h ago
+👁️ 5K • 👍 250 • 💬 5 • ⏱️ 1:29 • 8h ago
 
 ---
 
@@ -401,7 +399,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 North Idaho Nomads
 
-👁️ 4K • 👍 3K • 47m ago
+👁️ 4K • 👍 3K • 1h ago
 
 ---
 
@@ -411,7 +409,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 188 • ⏱️ 39:49 • 13h ago
+👁️ 24K • 👍 1K • 💬 188 • ⏱️ 39:49 • 14h ago
 
 ---
 

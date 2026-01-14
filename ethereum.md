@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T04:47:48.557718+00:00'
+updated: '2026-01-14T05:27:10.299156+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 04:47 UTC  
+**Last Updated:** January 14, 2026 at 05:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +7.0%  
-**7d:** +7.3%  
-**30d:** +12.7%  
-**90d:** -12.8%  
-**1y:** -3.2%  
+**24h:** +6.5%  
+**7d:** +7.2%  
+**30d:** +12.6%  
+**90d:** -12.9%  
+**1y:** -3.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Ethereum is meant to be a home for trustless and trust-minimized applications, w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,18 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum did a lot in 2025: gas limits increased, blob count increased, node software quality improved, zkEVMs blasted through their performance milestones, and with zkEVMs and PeerDAS ethereum made its largest step toward being a fundamentally new and more powerful kind of blockchain (more on this later) But we have a challenge: Ethereum needs to do more to meet its own stated goals. Not the quest of "winning the next meta" regardless of whether it's tokenized dollars or political memecoins, not arbitrarily convincing people to help us fill up blockspace to make ETH ultrasound again, but the mission: To build the world computer that serves as a central infrastructure piece of a more free and open internet. We're building decentralized applications. Applications that run without fraud, censorship or third-party interference. Applications that pass the walkaway test: they keep running even if the original developers disappear. Applications where if you're a user, you don't even notice if Cloudflare goes down - or even if all of Cloudflare gets hacked by North Korea. Applications whose stability transcends the rise and fall of companies, ideologies and political parties. And applications that protect your privacy. All this - for finance, and also for identity, governance and whatever other civilizational infrastructure people want to build. These properties sound radical, but we must remember that a generation ago any wallet, kitchen appliance, book or car would fulfill every single one of them. Today, all of the above are by default becoming subscription services, consigning you to permanent dependence on some centralized overlord. Ethereum is the rebellion against this. To achieve this, it needs to be (i) usable, and usable at scale, and (ii) actually decentralized. This needs to happen at both (a) the blockchain layer, including the software we use to run and talk to the blockchain, and (b) the application layer. All of these pieces must be improved - they are already being improved, but they must be improved more. Fortunately, we have powerful tools on our side - but we need to apply them, and we will. Wishing everyone an exciting 2026. Milady.
 
-23h ago
+1d ago
+
+---
+
+**[Geth: security fix release recommended for all users. Resolves two p2p vulnerabilities reported through the Ethereum Foundation bug bounty program.](https://www.reddit.com/r/ethereum/comments/1qcaq1y/geth_security_fix_release_recommended_for_all/)**
+
+This is a security fix release and is recommended for all users. It resolves two p2p
+vulnerabilities reported through the Ethereum Foundation bug bounty program.
+
+As with all our previous releases,...
+
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 3h ago
 
 ---
 
@@ -96,7 +107,15 @@ Ethereum did a lot in 2025: gas limits increased, blob count increased, node sof
 
 “Ethereum was not created to make finance efficient or apps convenient. It was created to set people free” This was an important - and controversial - line from the Trustless Manifesto ( trustlessness.eth.limo ), and it is worth revisiting it and better understanding what it means. “efficient” and “convenient” have the connotation of improving the average case, in situations where it’s already pretty good. Efficiency is about telling the world's best engineers to put their souls into reducing latency from 473 ms to 368ms, or increasing yields from 4.5% APY to 5.3% APY. Convenience is about people making one click instead of three, and reducing signup times from 1 min to 20 sec. These things can be good to do. But we must do them under the understanding that we will never be as good at this game as the Silicon Valley corporate players. And so the primary underlying game that Ethereum plays must be a different game. What is the game? Resilience. Resilience is the game where it’s not about 4.5% APY vs 5.3% APY - rather, it’s about minimizing the chance that you get -100% APY. Resilience is the game where if you become politically unpopular and get deplatformed, or if a the developers of your application go bankrupt or disappear, or if Cloudflare goes down, or if an internet cyberwar breaks out, your 2000ms latency continues to be 2000ms. Resilience is the game where anyone, anywhere in the world will be able to access the network and be a first-class participant. Resilience is sovereignty. Not sovereignty in the sense of lobbying to become a UN member state and shaking hands at Davos in two weeks, but sovereignty in the sense that people talk about "digital sovereignty" or "food sovereignty" - aggressively reducing your vulnerabilities to external dependencies that can be taken away from you on a whim. This is the sense in which the world computer can be sovereign, and in doing so make its users also sovereign. This baseline is what enables interdependence as equals, and not as vassals of corporate overlords thousands of kilometers away. This is the game that Ethereum is suited to win, and it delivers a type of value that, in our increasingly unstable world, a lot of people are going to need. The fundamental DNA of web2 consumer tech is not suited to resilience. The fundamental DNA of finance often spends considerable effort on resilience, but it is a very partial form of resilience, good at solving for some types of risks but not others. Blockspace is abundant. Decentralized, permissionless and resilient blockspace is not. Ethereum must first and foremost be decentralized, permissionless and resilient block space - and then make that abundant.
 
-23h ago
+1d ago
+
+---
+
+**[On ZK-EVMs](https://www.reddit.com/r/ethereum/comments/1qbiyl2/on_zkevms/)**
+
+Now that ZKEVMs are at alpha stage (production-quality performance, remaining work is safety) and PeerDAS is live on mainnet, it's time to talk more about what this combination means for Ethereum. These are not minor improvements; they are shifting Ethereum into being a fundamentally new and more powerful kind of decentralized network. To see why, let's look at the two major types of p2p network so far: BitTorrent (2000): huge total bandwidth, highly decentralized, no consensus Bitcoin (2009): highly decentralized, consensus, but low bandwidth - because it’s not “distributed” in the sense of work being split up, it’s replicated Now, Ethereum with PeerDAS (2025) and ZK-EVMs (expect small portions of the network using it in 2026), we get: decentralized, consensus and high bandwidth The trilemma has been solved - not on paper, but with live running code, of which one half (data availability sampling) is on mainnet today, and the other half (ZK-EVMs) is production-quality on performance today - safety is what remains. This was a 10-year journey (see the first commit of my original post on DAS here: github.com/ethereum/research/… , and ZK-EVM attempts started in ~2020), but it's finally here. Over the next ~4 years, expect to see the full extent of this vision roll out: In 2026, large non-ZKEVM-dependent gas limit increases due to BALs and ePBS, and we'll see the first opportunities to run a ZKEVM node In 2026-28, gas repricings, changes to state structure, exec payload going into blobs, and other adjustments to make higher gas limits safe In 2027-30, large further gas limit increases, as ZKEVM becomes the primary way to validate blocks on the network A third piece of this is distributed block building. A long-term ideal holy grail is to get to a future where the full block is never constituted in one single place. This will not be necessary for a long time, but IMO it is worth striving for us at least have the capability to do that. Even before that point, we want the meaningful authority in block building to be as distributed as possible. This can be done either in-protocol (eg. maybe we figure out how to expand FOCIL to make it a primary channel for txs), or out-of-protocol with distributed builder marketplaces. This reduces risk of centralized interference with real-time transaction inclusion, AND it creates a better environment for geographical fairness. Onward.
+
+1d ago
 
 ---
 
@@ -108,27 +127,11 @@ IMO there are three problems to doing so: Ideally figure out an index to track t
 
 ---
 
-**[On ZK-EVMs](https://www.reddit.com/r/ethereum/comments/1qbiyl2/on_zkevms/)**
-
-Now that ZKEVMs are at alpha stage (production-quality performance, remaining work is safety) and PeerDAS is live on mainnet, it's time to talk more about what this combination means for Ethereum. These are not minor improvements; they are shifting Ethereum into being a fundamentally new and more powerful kind of decentralized network. To see why, let's look at the two major types of p2p network so far: BitTorrent (2000): huge total bandwidth, highly decentralized, no consensus Bitcoin (2009): highly decentralized, consensus, but low bandwidth - because it’s not “distributed” in the sense of work being split up, it’s replicated Now, Ethereum with PeerDAS (2025) and ZK-EVMs (expect small portions of the network using it in 2026), we get: decentralized, consensus and high bandwidth The trilemma has been solved - not on paper, but with live running code, of which one half (data availability sampling) is on mainnet today, and the other half (ZK-EVMs) is production-quality on performance today - safety is what remains. This was a 10-year journey (see the first commit of my original post on DAS here: github.com/ethereum/research/… , and ZK-EVM attempts started in ~2020), but it's finally here. Over the next ~4 years, expect to see the full extent of this vision roll out: In 2026, large non-ZKEVM-dependent gas limit increases due to BALs and ePBS, and we'll see the first opportunities to run a ZKEVM node In 2026-28, gas repricings, changes to state structure, exec payload going into blobs, and other adjustments to make higher gas limits safe In 2027-30, large further gas limit increases, as ZKEVM becomes the primary way to validate blocks on the network A third piece of this is distributed block building. A long-term ideal holy grail is to get to a future where the full block is never constituted in one single place. This will not be necessary for a long time, but IMO it is worth striving for us at least have the capability to do that. Even before that point, we want the meaningful authority in block building to be as distributed as possible. This can be done either in-protocol (eg. maybe we figure out how to expand FOCIL to make it a primary channel for txs), or out-of-protocol with distributed builder marketplaces. This reduces risk of centralized interference with real-time transaction inclusion, AND it creates a better environment for geographical fairness. Onward.
-
-23h ago
-
----
-
-**[Is this a scam? Please help](https://www.reddit.com/r/ethereum/comments/1qcc343/is_this_a_scam_please_help/)**
-
-I deposited 0.45 RETH to Eigenlayer. It told me it was all listed as available to be withdrawn, but when I clicked "withdraw all" it only gave me $0.02 worth. Someone on the ETHstaker subreddit gave me the following instructions: "Go to https://decentralizedlayer.org Scroll down to “validation” and select “Ledger” connect manually and click on your stake Click on the stake and click on validate" Is this a scam? Can anyone help me with what happened to the rest of my RETH? Thank you.
-
-1h ago
-
----
-
 **[Linux as a north star](https://www.reddit.com/r/ethereum/comments/1qbiz8k/linux_as_a_north_star/)**
 
 One metaphor for Ethereum is BitTorrent, and how that p2p network combines decentralization and mass scale. Ethereum's goal is to do the same thing but with consensus. Another metaphor for Ethereum is Linux. Linux is free and open source software, and does not compromise on this Linux is quietly depended on by billions of people and enterprises worldwide. Governments regularly use it. There are many operating systems based on Linux that pursue mass adoption There are Linux distributions (eg. Arch) that are highly purist, minimalistic and technologically beautiful, and focus on making the user feel powerful, not comfortable (Actually, BitTorrent is depended on by enterprises too: many businesses and even governments (!!) use it to distribute large files to their users https://www.makeuseof.com/tag/8-legal-uses-for-bittorrent-youd-be-surprised ) We must make sure that Ethereum L1 works as the financial (and ultimately identity, social, governance...) home for individuals and organizations who want the higher level of autonomy, and give them access to the full power of the network without dependence on intermediaries. At the same time, what Linux shows is that this is fully compatible with providing value to very large numbers of people, and even being loved and trusted by enterprises worldwide. Many enterprises in fact desperately want to build on an open and resilient ecosystem - what we call trustlessness, they call prudent counterparty risk minimization. This is the gwei.
 
-23h ago
+1d ago
 
 ---
 
@@ -152,11 +155,23 @@ With PeerDAS and ZKPs, we know how to scale, and potentially we can scale thousa
 
 ## Google News: "ethereum"
 
+**[ETHGas launches GWEI token to govern Ethereum blockspace and make onchain execution predictable](https://www.theblock.co/post/385414/ethgas-launches-gwei-token-govern-ethereum-blockspace-onchain-execution-predictable)**
+
+The Block • 12h ago
+
+---
+
 **[Tom Lee's Ethereum "Supercycle" Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://247wallst.com/investing/2026/01/13/tom-lees-ethereum-supercycle-call-why-he-bought-88m-more-eth-at-3200-and-predicts-10x-returns/)**
 
 Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
 
-24/7 Wall St. • 13h ago
+24/7 Wall St. • 14h ago
+
+---
+
+**[Ethereum News: Ethereum Sees Record Surge in New Wallets as Network Upgrades and Stablecoin Activity Converge](https://www.binance.com/en-IN/square/post/01-14-2026-ethereum-news-ethereum-sees-record-surge-in-new-wallets-as-network-upgrades-and-stablecoin-activity-converge-35057223961938)**
+
+Binance • 1h ago
 
 ---
 
@@ -170,7 +185,7 @@ ETF Trends • 1d ago
 
 Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
 
-dlnews.com • 18h ago
+dlnews.com • 19h ago
 
 ---
 
@@ -178,7 +193,7 @@ dlnews.com • 18h ago
 
 The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -186,21 +201,7 @@ CoinDesk • 13h ago
 
 Ethereum treasury firm SharpLink Gaming intends to lead the way when it comes to publicly traded firms productively using their ETH.
 
-Decrypt • 8h ago
-
----
-
-**[Ethena Labs looks to boost USDe Safe holdings with gas-free Ethereum transactions and 10x rewards bump](https://www.theblock.co/post/385396/ethena-labs-boost-usde-safe-holdings-gas-free-ethereum-transactions-10x-rewards)**
-
-The Block • 12h ago
-
----
-
-**[Bitcoin, Ethereum and Solana Primed for Major Price Run as ETF Volumes Soar in 2026](https://www.tradingview.com/news/zycrypto:84d87733f094b:0-bitcoin-ethereum-and-solana-primed-for-major-price-run-as-etf-volumes-soar-in-2026/)**
-
-Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
-
-TradingView — Track All Markets • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -212,17 +213,17 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Vitalik Buterin sells tokens for $29,000 in Ethereum](https://cryptobriefing.com/vitalik-buterin-sells-tokens-for-29k/)**
+**[Bitcoin, Ethereum and Solana Primed for Major Price Run as ETF Volumes Soar in 2026](https://www.tradingview.com/news/zycrypto:84d87733f094b:0-bitcoin-ethereum-and-solana-primed-for-major-price-run-as-etf-volumes-soar-in-2026/)**
 
-Explore how Ethereum co-founder Vitalik Buterin strategically manages unsolicited tokens by periodically exchanging them for Ethereum.
+Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
 
-Crypto Briefing • 17h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 17h ago
+CCN.com • 18h ago
 
 ---
 
@@ -236,7 +237,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 473 • 💬 37 • ⏱️ 17:37 • 13h ago
+👁️ 11K • 👍 473 • 💬 37 • ⏱️ 17:37 • 14h ago
 
 ---
 
@@ -246,7 +247,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 965 • 👍 98 • 💬 15 • ⏱️ 6:20 • 3h ago
+👁️ 965 • 👍 98 • 💬 15 • ⏱️ 6:20 • 4h ago
 
 ---
 
@@ -256,7 +257,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 176 • ⏱️ 9:23 • 6h ago
+👁️ 39K • 👍 3K • 💬 176 • ⏱️ 9:23 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T04:47:48.561063+00:00'
+updated: '2026-01-14T05:27:10.302575+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 04:47 UTC  
+**Last Updated:** January 14, 2026 at 05:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 16h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 17h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-18h ago
+19h ago
 
 ---
 
@@ -66,13 +66,19 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-21h ago
+22h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-9h ago
+10h ago
+
+---
+
+**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
+
+19h ago
 
 ---
 
@@ -80,13 +86,7 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-11h ago
-
----
-
-**[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
-
-18h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 Made a list tracking the Physical AI space — foundation models that control robots. Covers Vision-Language-Action (VLA) models like RT-2 and π₀, world models (DreamerV3, Genie 2), diffusion policies, real-world deployment and latency problems, cross-embodiment transfer, humanoids, manipulation, and navigation. Also datasets (Open X-Embodiment, DROID) and sim platforms (Isaac, ManiSkill3, Genesis). GitHub in comments. PRs welcome.
 
-🔗 [GitHub](https://github.com/keon/awesome-physical-ai) • 5h ago
+🔗 [GitHub](https://github.com/keon/awesome-physical-ai) • 6h ago
 
 ---
 
@@ -124,7 +124,7 @@ Bloomberg.com • 1d ago
 
 Implementing automation systems requires a lot of planning, time and money
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
@@ -140,7 +140,7 @@ BBC • 2d ago
 
 Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
 
-The Robot Report • 18h ago
+The Robot Report • 19h ago
 
 ---
 
@@ -152,22 +152,6 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 ---
 
-**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
-
-ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
-
-Seeking Alpha • 8h ago
-
----
-
-**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
-
-Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
-
-WBAL-TV • 3d ago
-
----
-
 **[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
@@ -176,11 +160,27 @@ CNBC • 1d ago
 
 ---
 
-**[New adaptive system lets robots replicate human touch with far less training data](https://interestingengineering.com/ai-robotics/adaptive-robot-motion-gaussian-process-regression)**
+**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
 
-Japanese researchers develop an adaptive robot motion system that enables human-like grasping using minimal training data.
+ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
 
-Interesting Engineering • 4h ago
+Seeking Alpha • 9h ago
+
+---
+
+**[Leadshine Achieves Great Success at CES 2026, Entering US and European Robotics Supply Chain](https://finance.yahoo.com/news/leadshine-achieves-great-success-ces-035700514.html)**
+
+From January 6th to 9th, 2026, Leadshine made its debut at the Consumer Electronics Show (CES 2026) in Las Vegas. As a "full-stack solution provider for humanoid robot core components," Leadshine captured worldwide attention in the North Hall's humanoid robot core exhibition area, showcasing its comprehensive family of core components, from the "heart" (motors) to the "skeleton" (joints) and the "fingertips" (dexterous hands). With its innovative solutions featuring high density, high responsive
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Baltimore's Enoch Pratt Free Library hosts robotics competition for students](https://www.wbaltv.com/article/robotics-competition-skirmish-in-the-stacks-baltimore-enoch-pratt/69967951)**
+
+Baltimore's Enoch Pratt Free Library on Saturday hosted a robotic competition called "Skirmish in the Stacks."
+
+WBAL-TV • 3d ago
 
 ---
 
@@ -244,7 +244,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 394 • 👍 1 • ⏱️ 0:33 • 3h ago
+👁️ 394 • 👍 1 • ⏱️ 0:33 • 4h ago
 
 ---
 
@@ -252,7 +252,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Wowearth
 
-👁️ 30K • 👍 443 • 💬 39 • ⏱️ 1:16 • 18h ago
+👁️ 30K • 👍 443 • 💬 39 • ⏱️ 1:16 • 19h ago
 
 ---
 
@@ -272,7 +272,7 @@ This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with exc
 
 📺 KhanFlicks
 
-👁️ 2K • 👍 25 • 💬 31 • ⏱️ 8:09 • 15h ago
+👁️ 2K • 👍 25 • 💬 31 • ⏱️ 8:09 • 16h ago
 
 ---
 
@@ -282,7 +282,7 @@ Robot Scoring Demonstrations and Breakdown | Ri3D Cranberry Alarm | REBUILT 2026
 
 📺 FUN Robotics Network
 
-👁️ 9K • 👍 242 • 💬 13 • ⏱️ 57:02 • 9h ago
+👁️ 9K • 👍 242 • 💬 13 • ⏱️ 57:02 • 10h ago
 
 ---
 
