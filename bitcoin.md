@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T13:41:06.008713+00:00'
+updated: '2026-01-14T14:27:28.434431+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 13:41 UTC  
+**Last Updated:** January 14, 2026 at 14:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,180.85
+### $95,032.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.3%  
-**7d:** +4.4%  
-**30d:** +8.5%  
-**90d:** -10.9%  
-**1y:** -5.3%  
+**24h:** +2.5%  
+**7d:** +5.1%  
+**30d:** +9.3%  
+**90d:** -10.3%  
+**1y:** -4.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1895.71B
+**Market Cap:** $1909.75B
 Rank #1
 
-**Circulating Supply:** 19,975,706 BTC
+**Circulating Supply:** 19,975,753 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.7%
+-24.1%
 
 **All-Time Low:** $67.81
-+139851.3%
++141094.5%
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-6h ago
+7h ago
+
+---
+
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
+
+10h ago
 
 ---
 
@@ -89,19 +95,25 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 Big jump in price today!
 
-15h ago
+16h ago
+
+---
+
+**[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
+
+12m ago
+
+---
+
+**[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
+
+3h ago
 
 ---
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-14h ago
-
----
-
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
-
-9h ago
+15h ago
 
 ---
 
@@ -113,7 +125,9 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 ---
 
-**[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
+**[Strive buys Semler and “buys” 5,048 BTC without buying BTC 🏦₿](https://www.reddit.com/r/Bitcoin/comments/1qcl22g/strive_buys_semler_and_buys_5048_btc_without/)**
+
+Strive (ASST) is acquiring Semler Scientific (SMLR) in an all-stock deal. Semler already holds 5,048 BTC, so Strive effectively gets the Bitcoin treasury as part of the acquisition — no spot BTC purchase required. On top of that, Strive also bought 123 BTC at around $91.5K per coin. If the deal closes as planned, total holdings would reach 12,797 BTC, making Strive the 11th-largest corporate Bitcoin holder. Feels like we’re entering a new phase of corporate BTC adoption: not just “buy Bitcoin,” but “buy the company that already holds Bitcoin.” Curious what others think — smart strategy or added risk? 👀📊
 
 2h ago
 
@@ -121,29 +135,13 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-23h ago
-
----
-
-**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
-
-Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
-
-21h ago
+1d ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-18h ago
-
----
-
-**[So BTC is back at 95k](https://www.reddit.com/r/Bitcoin/comments/1qc5vhn/so_btc_is_back_at_95k/)**
-
-If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
-
-15h ago
+19h ago
 
 ---
 
@@ -151,23 +149,61 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 ## Google News: "bitcoin"
 
+**[Altcoins surge after bitcoin breaks $94,500, reigniting risk appetite: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/14/bitcoin-clears-usd94-500-as-altcoins-steal-the-spotlight-crypto-markets-today)**
+
+Crypto markets pushed higher on Wednesday after bitcoin broke above a key resistance level, triggering heavy liquidations and paving the way for sharp gains across altcoins.
+
+CoinDesk • 2h ago
+
+---
+
 **[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
 
 The Block • 15h ago
 
 ---
 
-**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
+**[Why Crypto Is Going Up Today? XRP Price, Bitcoin, Dogecoin, and Ethereum Post Strongest Gains in 2 Months](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-xrp-price-bitcoin-dogecoin-and-ethereum-post-strongest-gains-in-2-months/)**
 
-Bloomberg.com • 3h ago
+Why crypto is surging? Bitcoin, Ethereum, XRP, Dogecoin rallied Tuesday before correcting Wednesday. Technical analysis shows consolidation intact with bearish targets ahead.
+
+Finance Magnates • 1h ago
 
 ---
 
-**[Bitcoin price up after Strategy buys $1.3bn in biggest haul since July](https://www.dlnews.com/articles/markets/bitcoin-price-up-after-strategy-buys-1bn-in-biggest-haul-since-july/)**
+**[Bitcoin ETFs post largest single-day inflows in three months, worth $750 million](https://www.theblock.co/post/385508/bitcoin-etf-750-million-inflows)**
 
-The price of Bitcoin and Strategy shares jumped after another $1.3 billion buy. Strategy now owns 687,410 Bitcoin purchased at an average price of $75,000.
+The Block • 7h ago
 
-dlnews.com • 2h ago
+---
+
+**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://finance.yahoo.com/news/bitcoin-etfs-see-biggest-inflow-121715276.html)**
+
+U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin ETFs Draw in $754M as BTC Clears $95K](https://finance.yahoo.com/news/bitcoin-etfs-draw-754m-btc-131940390.html)**
+
+Bitcoin ETFs saw their highest daily inflow since October as BTC hit $95,000, but experts exercise caution as demand could be selective.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Rhode Island Reintroduces Bitcoin Tax Exemption Bill for Second Straight Year](https://bitcoinmagazine.com/news/rhode-island-reintroduces-bitcoin-tax-bill)**
+
+Rhode Island lawmakers have reintroduced a temporary Bitcoin tax exemption bill that would eliminate state income and capital gains taxes on small Bitcoin transactions — up to $20,000 annually.
+
+Bitcoin Magazine • 1h ago
+
+---
+
+**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -177,49 +213,11 @@ CCN.com • 1d ago
 
 ---
 
-**[Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different](https://bitcoinmagazine.com/news/eric-adams-nyc-token-crashes-80-in-hours)**
+**[What’s Next For Bitcoin After the Fall?](https://www.investopedia.com/the-express-podcast-episode-277-11883706)**
 
-Former Mayor Eric Adams’ NYC Token crashed 80%, despite promises to fund scholarships and social causes.
+2025 was looking like a banner year for Bitcoin until a wave of selling in the Fall sent the cryptocurrency into a bear market. Matt Hougan of Bitwise explains what happened and why he thinks Bitcoin will rebound in 2026.
 
-Bitcoin Magazine • 20h ago
-
----
-
-**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
-
-Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
-
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://www.ccn.com/news/crypto/bitcoin-etfs-see-biggest-inflow-in-three-months-after-reversing-outflows-could-trumps-tariff-decision-shift-the-trend-again/)**
-
-CCN.com • 1h ago
-
----
-
-**[Bitcoin is “transitioning out of its most stressed phase”](https://sherwood.news/crypto/bitcoin-is-transitioning-out-of-its-most-stressed-phase/)**
-
-Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
-
-Sherwood News • 22h ago
-
----
-
-**[Michael Saylor slams interviewer for questioning Bitcoin treasury model: ‘Ignorant and offensive’](https://www.dlnews.com/articles/markets/michael-saylor-hits-back-at-criticism-of-bitcoin-treasury-model/)**
-
-Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
-
-dlnews.com • 18h ago
-
----
-
-**[Michael Saylor's Strategy buys $1.25 billion bitcoin, largest purchase since July](https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc)**
-
-Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
-
-CoinDesk • 2d ago
+Investopedia • 1d ago
 
 ---
 
@@ -238,14 +236,6 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
 ⬆️ 7 • 💬 1 • 6d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
-
----
-
-**[Bitcoin still hasn't hit $100k when adjusted for inflation](https://news.ycombinator.com/item?id=46526070)**
-
-The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
-
-⬆️ 3 • 💬 1 • 7d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -305,6 +295,14 @@ Rolling coverage of the latest economic and financial news
 
 ---
 
+**[I built an interactive SHA-256 visualizer](https://news.ycombinator.com/item?id=46588789)**
+
+Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/hashes-visualizer
+
+⬆️ 1 • 💬 1 • 2d ago • [GitHub](https://github.com/bitcoin-dev-project/hashes-visualizer)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -315,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 455 • ⏱️ 5:56 • 12h ago
+👁️ 23K • 👍 1K • 💬 427 • ⏱️ 5:56 • 13h ago
 
 ---
 
@@ -325,7 +323,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 4K • 💬 225 • ⏱️ 9:23 • 15h ago
+👁️ 64K • 👍 4K • 💬 219 • ⏱️ 9:23 • 16h ago
 
 ---
 
@@ -335,7 +333,27 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 168 • ⏱️ 15:44 • 13h ago
+👁️ 18K • 👍 1K • 💬 166 • ⏱️ 15:44 • 14h ago
+
+---
+
+**[Fred Thiel: Bitcoin enters geopolitical era as miners become key infrastructure](https://www.youtube.com/watch?v=ljwErl6jsp0)**
+
+Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from speculation to strategic asset. Liquidity, energy, and ...
+
+📺 CNBC Television
+
+👁️ 2K • 👍 42 • 💬 3 • ⏱️ 5:02 • 2h ago
+
+---
+
+**[Bitcoin BREAKS Towards $100K As Senate DELAYS The CLARITY Act!](https://www.youtube.com/watch?v=ZEl1zQNU4po)**
+
+Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointed to a massive $130B jump in total crypto market ...
+
+📺 The Wolf Of All Streets
+
+👁️ 2K • 👍 140 • 55m ago
 
 ---
 
@@ -345,7 +363,17 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 3K • 👍 604 • 💬 141 • ⏱️ 9:23 • 4h ago
+👁️ 4K • 👍 851 • 💬 160 • ⏱️ 9:23 • 5h ago
+
+---
+
+**[Crypto’s Big Comeback Just Began](https://www.youtube.com/watch?v=o2PipzWKVzU)**
+
+Bitcoin, SOL, ETH, Tesla, and altcoin trades as ETF flows explode. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 7K • 👍 692 • 💬 46 • ⏱️ 15:54 • 3h ago
 
 ---
 
@@ -355,57 +383,27 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 15K • 👍 1K • 💬 387 • ⏱️ 26:56 • 11h ago
+👁️ 17K • 👍 1K • 💬 406 • ⏱️ 26:56 • 11h ago
 
 ---
 
-**[BITCOIN: IT&#39;S HAPPENING NOW!!!!!!!](https://www.youtube.com/watch?v=x1bMw875_lg)**
+**[BITCOIN BREAKING OUT NOW !!! MY $2M TRADE !!! ](https://www.youtube.com/watch?v=PFDVUcPPG44)**
 
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/CoinflareCarl Make your ...
 
-📺 Crypto Rover
+📺 The Moon Show
 
-👁️ 6K • 👍 466 • 💬 32 • ⏱️ 10:22 • 8h ago
-
----
-
-**[Crypto Ghost Town](https://www.youtube.com/watch?v=YA-7M-01d84)**
-
-Why does crypto feel like a ghost town? For inquiries: https://www.benjamincowen.com/ Into The Cryptoverse Premium: ...
-
-📺 Benjamin Cowen
-
-👁️ 53K • 👍 3K • 💬 319 • ⏱️ 29:39 • 17h ago
+👁️ 9K • 👍 693 • 💬 30 • ⏱️ 4:22 • 12h ago
 
 ---
 
-**[BITCOIN: NEW SIGNAL FLASHING!!! #BTC Price Prediction &amp; Crypto News Today](https://www.youtube.com/watch?v=atj8JR-9N0o)**
+**[Why I&#39;m Bullish on Bitcoin in 2026 (The Case for $300K+)](https://www.youtube.com/watch?v=ORXFVTfAUXk)**
 
-BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
+In this video, I break down why I'm bullish on Bitcoin in 2026 and the five key reasons I believe this year could be defining for ...
 
-📺 Road To $1 Million USD
+📺 Betirement
 
-👁️ 5K • 👍 264 • 💬 84 • ⏱️ 5:45 • 15h ago
-
----
-
-**[Why Bitcoin Is Up Today](https://www.youtube.com/watch?v=43dND20hWSA)**
-
-Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this fresh high in just 24 hours. Bitcoin made a nice ...
-
-📺 Satoshi Alliance
-
-👁️ 3K • 👍 302 • 💬 114 • ⏱️ 3:40 • 13h ago
-
----
-
-**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=OJGD6BeLZQc)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Classified Defense Files
-
-👁️ 29K • 👍 5K • 14h ago
+👁️ 2K • 👍 253 • 💬 85 • ⏱️ 15:44 • 21h ago
 
 ---
 

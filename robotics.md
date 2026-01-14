@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T13:41:06.017970+00:00'
+updated: '2026-01-14T14:27:28.450432+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 13:41 UTC  
+**Last Updated:** January 14, 2026 at 14:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -54,11 +54,19 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 ---
 
+**[Generalist Models and Embodied AI](https://www.reddit.com/r/robotics/comments/1qcmit2/generalist_models_and_embodied_ai/)**
+
+Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Google Robotics, discusses whether robotics could follow the same shift seen in AI, where generalist models eventually replaced task-specific systems. In AI, large models now handle many domains at once and can be adapted to specialized tasks with limited additional training. He outlines what would need to be true for robotics to make a similar transition, including access to large-scale data, scalable data collection, and effective use of simulation. At the same time, he points out that physical systems introduce constraints that software does not, such as safety, hardware limits, and real-world variability, leaving open the question of whether generalist approaches will outperform specialist robots or whether specialization will remain dominant longer in embodied AI.
+
+1h ago
+
+---
+
 **[Robot](https://www.reddit.com/r/robotics/comments/1qbxteb/robot/)**
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-19h ago
+20h ago
 
 ---
 
@@ -66,7 +74,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-7h ago
+8h ago
 
 ---
 
@@ -74,13 +82,13 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-3h ago
+4h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -98,31 +106,23 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 ---
 
-**[Should a robot lamp talk or not?](https://www.reddit.com/r/robotics/comments/1qbktwk/should_a_robot_lamp_talk_or_not/)**
-
-Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
-
-Implementing automation systems requires a lot of planning, time and money
-
-Financial Times • 1d ago
-
----
 
 **[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
 
 Joe Tidy meets robots being trained to tidy up all your mess.
 
 BBC • 2d ago
+
+---
+
+**[Robotics News At CES All About Platforms](https://seekingalpha.com/article/4859627-robotics-news-at-ces-all-about-platforms)**
+
+While physical products made the biggest initial splash at this yearâs CES, itâs the news about robotics platforms and tools that will have the most long-term impact. Read more here...
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -134,11 +134,17 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 ---
 
+**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+
+Bloomberg.com • 1h ago
+
+---
+
 **[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
 
 Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
 
-The Robot Report • 16h ago
+The Robot Report • 17h ago
 
 ---
 
@@ -148,25 +154,19 @@ Reuters • 1d ago
 
 ---
 
-**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit](https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html)**
-
-​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
-
-Yahoo Finance • 1d ago
-
----
-
 **[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 13h ago
+The Free Press • 14h ago
+
+---
+
+**[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
+
+Implementing automation systems requires a lot of planning, time and money
+
+Financial Times • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 138K • 👍 2K • 💬 359 • ⏱️ 11:46 • 2d ago
+👁️ 139K • 👍 2K • 💬 363 • ⏱️ 11:46 • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 378K • 👍 11K • 💬 670 • ⏱️ 17:09 • 2d ago
+👁️ 383K • 👍 11K • 💬 683 • ⏱️ 17:09 • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 981K • 👍 31K • 💬 958 • ⏱️ 0:39 • 5d ago
+👁️ 983K • 👍 31K • 💬 962 • ⏱️ 0:39 • 5d ago
 
 ---
 
@@ -240,43 +240,13 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
-**[Realistic Human Robots #robot #robotics #tech](https://www.youtube.com/watch?v=LLXO0DAiOc8)**
+**[The Biggest Robot Exhibition in Las Vegas | CES 2026](https://www.youtube.com/watch?v=Kpw1N-Ej_xo)**
 
-shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgEyv FACEBOOK: ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hello, friends! Welcome to the future. Today we're ...
 
-📺 Shacknews
+📺 PRO ROBOTS
 
-👁️ 719 • 👍 5 • 💬 1 • ⏱️ 0:33 • 12h ago
-
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 146K • 👍 10K • 💬 2K • ⏱️ 5:12 • 16h ago
-
----
-
-**[The FUTURE of ROBOTS? AGIBOT X2 at CES 2026](https://www.youtube.com/watch?v=vllp72F8njU)**
-
-This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with excitement around what could be the next major leap ...
-
-📺 KhanFlicks
-
-👁️ 4K • 👍 26 • 💬 33 • ⏱️ 8:09 • 1d ago
-
----
-
-**[Giving a bar of GOLD to a Robot](https://www.youtube.com/watch?v=HX-Jk7R50MA)**
-
-When a robo-cleaner can notify you that a bar of gold was left on your living room floor, you know this technology is getting pretty ...
-
-📺 mryeester
-
-👁️ 96K • 👍 5K • 💬 177 • ⏱️ 1:06 • 4d ago
+👁️ 62K • 👍 1K • 💬 95 • ⏱️ 18:58 • 5d ago
 
 ---
 
@@ -287,6 +257,36 @@ We caught up with the Realbotix robots at CES 2026 and met the newest member of 
 📺 CNET
 
 👁️ 136K • 👍 458 • 💬 336 • ⏱️ 5:07 • 6d ago
+
+---
+
+**[Giving a bar of GOLD to a Robot](https://www.youtube.com/watch?v=HX-Jk7R50MA)**
+
+When a robo-cleaner can notify you that a bar of gold was left on your living room floor, you know this technology is getting pretty ...
+
+📺 mryeester
+
+👁️ 96K • 👍 5K • 💬 182 • ⏱️ 1:06 • 4d ago
+
+---
+
+**[Realistic Human Robots #robot #robotics #tech](https://www.youtube.com/watch?v=LLXO0DAiOc8)**
+
+shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgEyv FACEBOOK: ...
+
+📺 Shacknews
+
+👁️ 785 • 👍 6 • 💬 1 • ⏱️ 0:33 • 13h ago
+
+---
+
+**[The rise of the robots is no longer science fiction #shorts](https://www.youtube.com/watch?v=k6im8dFBGKs)**
+
+The humanoid future may be robots working beside us, walking among us. #humanoidrobot #robot.
+
+📺 60 Minutes
+
+👁️ 34K • 👍 556 • 💬 24 • ⏱️ 0:47 • 6d ago
 
 ---
 
