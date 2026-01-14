@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T15:28:10.518850+00:00'
+updated: '2026-01-14T15:49:01.510592+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 15:28 UTC  
+**Last Updated:** January 14, 2026 at 15:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,13 +101,13 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 What’s happening?
 
-38m ago
+59m ago
 
 ---
 
 **[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ Big jump in price today!
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-13m ago
+34m ago
 
 ---
 
@@ -143,7 +143,7 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Strive (ASST) is acquiring Semler Scientific (SMLR) in an all-stock deal. Semler already holds 5,048 BTC, so Strive effectively gets the Bitcoin treasury as part of the acquisition — no spot BTC purchase required. On top of that, Strive also bought 123 BTC at around $91.5K per coin. If the deal closes as planned, total holdings would reach 12,797 BTC, making Strive the 11th-largest corporate Bitcoin holder. Feels like we’re entering a new phase of corporate BTC adoption: not just “buy Bitcoin,” but “buy the company that already holds Bitcoin.” Curious what others think — smart strategy or added risk? 👀📊
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Block • 4h ago
 
 Crypto markets pushed higher on Wednesday after bitcoin broke above a key resistance level, triggering heavy liquidations and paving the way for sharp gains across altcoins.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 166 • ⏱️ 15:44 • 15h ago
+👁️ 18K • 👍 1K • 💬 166 • ⏱️ 15:44 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 140 • 1h ago
+👁️ 2K • 👍 140 • 2h ago
 
 ---
 
@@ -383,7 +383,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 17K • 👍 1K • 💬 406 • ⏱️ 26:56 • 12h ago
+👁️ 17K • 👍 1K • 💬 406 • ⏱️ 26:56 • 13h ago
 
 ---
 
@@ -393,7 +393,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 9K • 👍 693 • 💬 30 • ⏱️ 4:22 • 13h ago
+👁️ 9K • 👍 693 • 💬 30 • ⏱️ 4:22 • 14h ago
 
 ---
 
