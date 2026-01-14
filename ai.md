@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T14:27:28.426158+00:00'
+updated: '2026-01-14T14:53:54.064945+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 14:27 UTC  
+**Last Updated:** January 14, 2026 at 14:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 8h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-18h ago
+19h ago
 
 ---
 
@@ -57,7 +57,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 10h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 
 I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map, and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impressed, last time I used ChatGPT for anything involving calculation (years ago) it was laughably bad at it. Out of curiosity I've also asked it to analyze the energy consumption and environmental impact of the query as compared to baking some potatoes in an electric oven (something I do often). It - See the conversation yourselves if curious: https://chatgpt.com/share/6967989b-7bfc-800b-822f-6e59810e0463 Hoping this post belongs here, the chatgpt conversation log is only added for people's curiosity, not necessary for the content of this post to be understood.
 
-11m ago
+38m ago
 
 ---
 
@@ -73,7 +73,7 @@ I was curious about the math and vision skills of the current incarnation of Cha
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-18h ago
+19h ago
 
 ---
 
@@ -139,7 +139,7 @@ Yahoo Finance • 1d ago
 
 **[UK PM Starmer says X moves to comply with UK law over AI deepfakes](https://www.reuters.com/technology/uk-pm-starmer-says-musks-x-moves-comply-with-uk-law-2026-01-14/)**
 
-Reuters • 28m ago
+Reuters • 55m ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 4h ago
 
 **[Microsoft’s Spending on Anthropic AI Is on Pace to Hit $500 Million](https://www.theinformation.com/articles/microsofts-spending-anthropic-ai-pace-hit-500-million)**
 
-The Information • 27m ago
+The Information • 53m ago
 
 ---
 
@@ -161,7 +161,7 @@ The Information • 27m ago
 
 ‘Making Money’ host Charles Payne joins ‘Fox & Friends’ to discuss President Donald Trump’s focus on domestic manufacturing and how AI may impact global industries.
 
-Fox News • 43m ago
+Fox News • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fox News • 43m ago
 
 EOS CEO Joe Mastrangelo discusses the power demand driven by new A.I. data centers on 'Mornings with Maria.'
 
-Fox Business • 27m ago
+Fox Business • 53m ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 1d ago
 
 **[AI speeds up work and creates more of it](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 3h ago
 
 The Apple-Google partnership validates Google's AI comeback, highlights Apple's AI struggles, and could spell trouble for OpenAI.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 12h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 869 • 💬 631 • 19h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 869 • 💬 631 • 20h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -221,7 +221,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 332 • 💬 100 • 19h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 332 • 💬 100 • 20h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -237,13 +237,13 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 223 • 💬 118 • 17h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 223 • 💬 118 • 18h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 194 • 💬 250 • 19h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 194 • 💬 250 • 20h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -371,7 +371,7 @@ rezolveai #rzlv #rezolve Why Resolve AI Is Still Under $4 — And Why That May C
 
 📺 Stocks News
 
-👁️ 1K • 👍 38 • 💬 24 • ⏱️ 7:54 • 23h ago
+👁️ 1K • 👍 38 • 💬 24 • ⏱️ 7:54 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 967 • 10m ago
+⬇️ 1,064,063 • ❤️ 967 • 36m ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 26,915 • ❤️ 232 • 4d ago
+⬇️ 26,915 • ❤️ 232 • 5d ago
 
 ---
 
@@ -495,7 +495,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 28,833 • ❤️ 208 • 4d ago
+⬇️ 28,833 • ❤️ 208 • 5d ago
 
 ---
 
@@ -640,7 +640,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 17m ago
+⭐ 8.5k • 🔱 1.1k • 43m ago
 
 ---
 
@@ -670,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 143 • 55m ago
+⭐ 2.3k • 🔱 143 • 1h ago
 
 ---
 
@@ -710,7 +710,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.4k • 🔱 1.1k • 15m ago
+⭐ 1.4k • 🔱 1.1k • 41m ago
 
 ---
 

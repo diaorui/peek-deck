@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T14:27:28.434431+00:00'
+updated: '2026-01-14T14:53:54.073385+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 14:27 UTC  
+**Last Updated:** January 14, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,19 +101,19 @@ Big jump in price today!
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-12m ago
+38m ago
 
 ---
 
 **[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
 
-3h ago
+4h ago
 
 ---
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -129,7 +129,7 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Strive (ASST) is acquiring Semler Scientific (SMLR) in an all-stock deal. Semler already holds 5,048 BTC, so Strive effectively gets the Bitcoin treasury as part of the acquisition — no spot BTC purchase required. On top of that, Strive also bought 123 BTC at around $91.5K per coin. If the deal closes as planned, total holdings would reach 12,797 BTC, making Strive the 11th-largest corporate Bitcoin holder. Feels like we’re entering a new phase of corporate BTC adoption: not just “buy Bitcoin,” but “buy the company that already holds Bitcoin.” Curious what others think — smart strategy or added risk? 👀📊
 
-2h ago
+3h ago
 
 ---
 
@@ -153,13 +153,13 @@ Strive (ASST) is acquiring Semler Scientific (SMLR) in an all-stock deal. Semler
 
 Crypto markets pushed higher on Wednesday after bitcoin broke above a key resistance level, triggering heavy liquidations and paving the way for sharp gains across altcoins.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 15h ago
 
 Why crypto is surging? Bitcoin, Ethereum, XRP, Dogecoin rallied Tuesday before correcting Wednesday. Technical analysis shows consolidation intact with bearish targets ahead.
 
-Finance Magnates • 1h ago
+Finance Magnates • 2h ago
 
 ---
 
@@ -333,7 +333,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 166 • ⏱️ 15:44 • 14h ago
+👁️ 18K • 👍 1K • 💬 166 • ⏱️ 15:44 • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 140 • 55m ago
+👁️ 2K • 👍 140 • 1h ago
 
 ---
 
@@ -383,7 +383,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 17K • 👍 1K • 💬 406 • ⏱️ 26:56 • 11h ago
+👁️ 17K • 👍 1K • 💬 406 • ⏱️ 26:56 • 12h ago
 
 ---
 
@@ -393,7 +393,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 9K • 👍 693 • 💬 30 • ⏱️ 4:22 • 12h ago
+👁️ 9K • 👍 693 • 💬 30 • ⏱️ 4:22 • 13h ago
 
 ---
 
