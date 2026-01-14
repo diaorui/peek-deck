@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T11:44:12.238048+00:00'
+updated: '2026-01-14T12:50:28.122026+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 11:44 UTC  
+**Last Updated:** January 14, 2026 at 12:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,024.04
+### $95,180.85
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +3.3%  
-**7d:** +4.3%  
-**30d:** +8.4%  
-**90d:** -11.0%  
+**7d:** +4.4%  
+**30d:** +8.5%  
+**90d:** -10.9%  
 **1y:** -5.3%  
 
 ---
@@ -77,17 +77,31 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[The 401(k) was never designed to be a retirement plan](https://www.reddit.com/r/Bitcoin/comments/1qch0t8/the_401k_was_never_designed_to_be_a_retirement/)**
+
+The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
+
+5h ago
+
+---
+
 **[$95,000](https://www.reddit.com/r/Bitcoin/comments/1qc57rs/95000/)**
 
 Big jump in price today!
 
-13h ago
+14h ago
 
 ---
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-12h ago
+13h ago
+
+---
+
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
+
+8h ago
 
 ---
 
@@ -95,27 +109,19 @@ Big jump in price today!
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-22h ago
+23h ago
 
 ---
 
-**[The 401(k) was never designed to be a retirement plan](https://www.reddit.com/r/Bitcoin/comments/1qch0t8/the_401k_was_never_designed_to_be_a_retirement/)**
+**[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
 
-The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
-
-4h ago
-
----
-
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
-
-7h ago
+2h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -123,13 +129,13 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-19h ago
+20h ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -137,15 +143,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-13h ago
-
----
-
-**[Bitcoin responds to beating up Danny](https://www.reddit.com/r/Bitcoin/comments/1qcbbkb/bitcoin_responds_to_beating_up_danny/)**
-
-Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
-
-9h ago
+14h ago
 
 ---
 
@@ -155,15 +153,21 @@ Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
 **[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
-**[U.S. demand lags even as bitcoin hits two-month high above $95,000, key signal indicates](https://www.coindesk.com/markets/2026/01/14/bitcoin-prices-hit-two-month-high-but-u-s-demand-lags-key-signal-shows)**
+**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
 
-The Coinbase premium index remains negative, indicating a relatively weaker U.S. demand
+Bloomberg.com • 2h ago
 
-CoinDesk • 6h ago
+---
+
+**[Bitcoin price up after Strategy buys $1.3bn in biggest haul since July](https://www.dlnews.com/articles/markets/bitcoin-price-up-after-strategy-buys-1bn-in-biggest-haul-since-july/)**
+
+The price of Bitcoin and Strategy shares jumped after another $1.3 billion buy. Strategy now owns 687,410 Bitcoin purchased at an average price of $75,000.
+
+dlnews.com • 1h ago
 
 ---
 
@@ -173,11 +177,41 @@ CCN.com • 1d ago
 
 ---
 
+**[Eric Adams’ NYC Token Crashes 80% in Hours, Offering a Stark Lesson in Why Bitcoin Is Different](https://bitcoinmagazine.com/news/eric-adams-nyc-token-crashes-80-in-hours)**
+
+Former Mayor Eric Adams’ NYC Token crashed 80%, despite promises to fund scholarships and social causes.
+
+Bitcoin Magazine • 19h ago
+
+---
+
+**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
+
+Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
+
+CoinDesk • 5h ago
+
+---
+
+**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://www.ccn.com/news/crypto/bitcoin-etfs-see-biggest-inflow-in-three-months-after-reversing-outflows-could-trumps-tariff-decision-shift-the-trend-again/)**
+
+CCN.com • 33m ago
+
+---
+
+**[Bitcoin is “transitioning out of its most stressed phase”](https://sherwood.news/crypto/bitcoin-is-transitioning-out-of-its-most-stressed-phase/)**
+
+Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
+
+Sherwood News • 21h ago
+
+---
+
 **[Michael Saylor slams interviewer for questioning Bitcoin treasury model: ‘Ignorant and offensive’](https://www.dlnews.com/articles/markets/michael-saylor-hits-back-at-criticism-of-bitcoin-treasury-model/)**
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 16h ago
+dlnews.com • 17h ago
 
 ---
 
@@ -186,42 +220,6 @@ dlnews.com • 16h ago
 Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
 
 CoinDesk • 1d ago
-
----
-
-**[Analyst lowers MicroStrategy stock price target by 40%](https://www.thestreet.com/crypto/markets/analyst-lowers-microstrategy-stock-price-target-by-40)**
-
-thestreet.com • 1d ago
-
----
-
-**[🚨🇮🇷 BITCOIN BECOMES KING IN IRAN Not out of nowhere. This is where real pressure pushes real behavior. Here’s what’s actually happening and why BTC is spiking: Iran’s fiat is imploding. The rial has collapsed massively against the dollar as inflation ex](https://x.com/MarioNawfal/status/2011024172408041799)**
-
-x.com • 1d ago
-
----
-
-**[Iran’s Rial Just Collapsed. Is It Time For Bitcoin?](https://bitcoinmagazine.com/news/irans-rial-collapses-bitcoin-alternative)**
-
-Iran’s national currency, the rial, has effectively collapsed, now trading at roughly 1.4 million rials per U.S. dollar.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Iran’s Currency Crash Tests Bitcoin’s Use Without Internet](https://finance.yahoo.com/news/iran-currency-crash-tests-bitcoin-221550218.html)**
-
-Bitcoin and gold are back, well, not yet, only gold for now. But Iran’s rial sinks to fresh record lows, and confidence in fiat currencies continues to fray, and we are again asking questions. In the middle of those sits a developing US crypto bill, built around the proposed Clarity ...
-
-Yahoo Finance • 13h ago
-
----
-
-**[1 Top Bitcoin ETF I Plan to Load Up On in 2026](https://www.fool.com/investing/2026/01/14/1-top-bitcoin-etf-i-plan-to-load-up-on-in-2026/)**
-
-With more than a dozen bitcoin ETFs to choose from, the choice comes down to cost. That puts one fund above the others.
-
-The Motley Fool • 1h ago
 
 ---
 
@@ -239,7 +237,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 **[Bitcoin mining firm Canaan pilot uses waste heat from mining to grow tomatoes](https://news.ycombinator.com/item?id=46539991)**
 
-⬆️ 7 • 💬 1 • 5d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
+⬆️ 7 • 💬 1 • 6d ago • [datacenterdynamics.com](https://www.datacenterdynamics.com/en/news/canaan-pilot-uses-waste-heat-from-bitcoin-mining-to-grow-tomatoes/)
 
 ---
 
@@ -283,12 +281,6 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 ---
 
-**[Bitcoin Core sees development uptick, reversing multi-year decline](https://news.ycombinator.com/item?id=46525690)**
-
-⬆️ 2 • 💬 0 • 6d ago • [theblock.co](https://www.theblock.co/post/384208/bitcoin-core-sees-development-uptick-reversing-multi-year-decline-casa-cso)
-
----
-
 **[Water Heater Mines Bitcoin. It Could Help Solve AI's Energy Problem](https://news.ycombinator.com/item?id=46532869)**
 
 What do you do with the waste heat from computing? Superheat says just take a shower.
@@ -305,6 +297,14 @@ Analysts aimed high, but an October crash and lingering losses upended even bull
 
 ---
 
+**[US prosecutors launch criminal investigation into Federal Reserve chair](https://news.ycombinator.com/item?id=46585360)**
+
+Rolling coverage of the latest economic and financial news
+
+⬆️ 62 • 💬 13 • 2d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 455 • ⏱️ 5:56 • 10h ago
+👁️ 22K • 👍 1K • 💬 455 • ⏱️ 5:56 • 11h ago
 
 ---
 
@@ -325,7 +325,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 4K • 💬 225 • ⏱️ 9:23 • 13h ago
+👁️ 61K • 👍 4K • 💬 225 • ⏱️ 9:23 • 14h ago
 
 ---
 
@@ -335,7 +335,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 168 • ⏱️ 15:44 • 11h ago
+👁️ 17K • 👍 1K • 💬 168 • ⏱️ 15:44 • 13h ago
 
 ---
 
@@ -345,7 +345,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 3K • 👍 604 • 💬 141 • ⏱️ 9:23 • 2h ago
+👁️ 3K • 👍 604 • 💬 141 • ⏱️ 9:23 • 3h ago
 
 ---
 
@@ -355,7 +355,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 15K • 👍 1K • 💬 387 • ⏱️ 26:56 • 9h ago
+👁️ 15K • 👍 1K • 💬 387 • ⏱️ 26:56 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 466 • 💬 32 • ⏱️ 10:22 • 6h ago
+👁️ 6K • 👍 466 • 💬 32 • ⏱️ 10:22 • 7h ago
 
 ---
 
@@ -375,7 +375,7 @@ Why does crypto feel like a ghost town? For inquiries: https://www.benjamincowen
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 3K • 💬 319 • ⏱️ 29:39 • 15h ago
+👁️ 53K • 👍 3K • 💬 319 • ⏱️ 29:39 • 16h ago
 
 ---
 
@@ -385,7 +385,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 264 • 💬 84 • ⏱️ 5:45 • 13h ago
+👁️ 5K • 👍 264 • 💬 84 • ⏱️ 5:45 • 14h ago
 
 ---
 
@@ -395,7 +395,7 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 3K • 👍 302 • 💬 114 • ⏱️ 3:40 • 11h ago
+👁️ 3K • 👍 302 • 💬 114 • ⏱️ 3:40 • 12h ago
 
 ---
 
@@ -405,7 +405,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Classified Defense Files
 
-👁️ 29K • 👍 5K • 12h ago
+👁️ 29K • 👍 5K • 13h ago
 
 ---
 

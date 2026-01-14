@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T11:44:12.229495+00:00'
+updated: '2026-01-14T12:50:28.113519+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 11:44 UTC  
+**Last Updated:** January 14, 2026 at 12:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Google went from being "disrupted" by ChatGPT, to having the best LLM as well as rivalling Nvidia in hardware (TPUs). The narrative has changed](https://www.reddit.com/r/artificial/comments/1qcfcm6/google_went_from_being_disrupted_by_chatgpt_to/)**
+
+The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
+
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 6h ago
+
+---
+
 **[Jeff Bezos Says the AI Bubble is Like the Industrial Bubble](https://www.reddit.com/r/artificial/comments/1qc1dif/jeff_bezos_says_the_ai_bubble_is_like_the/)**
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-15h ago
+16h ago
 
 ---
 
@@ -49,15 +57,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 7h ago
-
----
-
-**[Google went from being "disrupted" by ChatGPT, to having the best LLM as well as rivalling Nvidia in hardware (TPUs). The narrative has changed](https://www.reddit.com/r/artificial/comments/1qcfcm6/google_went_from_being_disrupted_by_chatgpt_to/)**
-
-The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
-
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 5h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 9h ago
 
 ---
 
@@ -65,7 +65,15 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-5h ago
+6h ago
+
+---
+
+**[I got tired of hunting for good AI tools, so I made"top ai sites"](https://www.reddit.com/r/artificial/comments/1qcjtln/i_got_tired_of_hunting_for_good_ai_tools_so_i/)**
+
+Like a lot of people here, I keep seeing new AI tools pop up every single day. Some are amazing, some are half-baked, and some disappear a month later. After bookmarking many random sites, I realized there wasn’t a clean, centralized place to explore solid AI tools without the noise. So I ended up building top-ai-sites.com What it is A curated directory of AI websites and tools, organized so you can actually find something useful instead of scrolling endlessly. What makes it different 🔍 Hand-picked AI tools (not auto-scraped junk) 🧠 Covers multiple categories: writing, coding, design, productivity, and more 🚀 Easy to browse when you just want inspiration or a specific solution 🆓 Free to use — no sign-up required Who it’s for People experimenting with AI and want to discover new tools Founders looking for AI services to speed up work Developers & creators who want to stay updated without doomscrolling Anyone overwhelmed by “Top 500 AI tools” lists 😅 Why I’m sharing here I built this because.... I wanted it, and I figured others here might find it useful too :). I’m actively improving it, so feedback (good or bad) is genuinely welcome. 👉 Check it out: https://top-ai-sites.com If you have favorite AI tools you think should be listed - or ideas to make it better - drop a comment. Happy to iterate based on what the community actually wants. Thanks!🙌I got tired of hunting for good AI tools, so I made"top ai sites"
+
+2h ago
 
 ---
 
@@ -81,7 +89,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-16h ago
+17h ago
 
 ---
 
@@ -89,15 +97,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-6h ago
-
----
-
-**[I got tired of hunting for good AI tools, so I made"top ai sites"](https://www.reddit.com/r/artificial/comments/1qcjtln/i_got_tired_of_hunting_for_good_ai_tools_so_i/)**
-
-Like a lot of people here, I keep seeing new AI tools pop up every single day. Some are amazing, some are half-baked, and some disappear a month later. After bookmarking many random sites, I realized there wasn’t a clean, centralized place to explore solid AI tools without the noise. So I ended up building top-ai-sites.com What it is A curated directory of AI websites and tools, organized so you can actually find something useful instead of scrolling endlessly. What makes it different 🔍 Hand-picked AI tools (not auto-scraped junk) 🧠 Covers multiple categories: writing, coding, design, productivity, and more 🚀 Easy to browse when you just want inspiration or a specific solution 🆓 Free to use — no sign-up required Who it’s for People experimenting with AI and want to discover new tools Founders looking for AI services to speed up work Developers & creators who want to stay updated without doomscrolling Anyone overwhelmed by “Top 500 AI tools” lists 😅 Why I’m sharing here I built this because.... I wanted it, and I figured others here might find it useful too :). I’m actively improving it, so feedback (good or bad) is genuinely welcome. 👉 Check it out: https://top-ai-sites.com If you have favorite AI tools you think should be listed - or ideas to make it better - drop a comment. Happy to iterate based on what the community actually wants. Thanks!🙌I got tired of hunting for good AI tools, so I made"top ai sites"
-
-1h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Like a lot of people here, I keep seeing new AI tools pop up every single day. S
 
 Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
 
-🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 9h ago
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 10h ago
 
 ---
 
@@ -121,11 +121,19 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 ## Google News: "ai"
 
+**[Grok and the A.I. Porn Problem](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem)**
+
+Elon Musk’s X is living up to its name.
+
+The New Yorker • 1h ago
+
+---
+
 **[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
 
 Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -133,15 +141,7 @@ The Guardian • 19h ago
 
 Presenter Jess Davies says the UK government has been "dragging its feet" when creating AI deepfake laws.
 
-BBC • 5h ago
-
----
-
-**[Use of AI to harm women has only just begun, experts warn](https://www.theguardian.com/technology/2026/jan/14/use-of-ai-to-harm-women-has-only-just-begun-experts-warn)**
-
-While Grok has introduced belated safeguards to prevent sexualised AI imagery, other tools have far fewer limits
-
-The Guardian • 1h ago
+BBC • 6h ago
 
 ---
 
@@ -151,33 +151,25 @@ The New York Times • 1d ago
 
 ---
 
+**[The risks of AI in schools outweigh the benefits, report says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)**
+
+A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
+
+NPR • 50m ago
+
+---
+
+**[The Problem With AI Flattering Us](https://time.com/7346052/problem-ai-flattering-us/)**
+
+If we do not address AI's sycophancy problem, we risk AI becoming "a giant mirror to our illusions."
+
+Time Magazine • 1h ago
+
+---
+
 **[AI speeds up work and creates more of it](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
 
-Axios • 1h ago
-
----
-
-**[New Workday Research: Companies Are Leaving AI Gains on the Table](https://finance.yahoo.com/news/workday-research-companies-leaving-ai-103000680.html)**
-
-Workday, Inc (NASDAQ: WDAY) today released new global research showing that while AI is delivering productivity gains, many organizations aren't fully capturing its value. Employees are saving meaningful time with AI tools, but too often those gains are being absorbed by rework – fixing mistakes, rewriting content, and double-checking outputs from generic tools – leaving significant value on the table.
-
-Yahoo Finance • 1h ago
-
----
-
-**[One thing that might get workers to embrace AI? The 4-day workweek.](https://www.businessinsider.com/four-day-workweek-might-incentivize-employees-embrace-ai-2026-1)**
-
-Adopting AI has been a struggle at some companies. Embracing a four-day workweek might help get more workers on board, say these authors.
-
-Business Insider • 1h ago
-
----
-
-**[McKinsey challenges graduates to use AI chatbot in recruitment overhaul](https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586)**
-
-Candidates in pilot assessed on how they prompted consulting firm’s AI assistant and ability to adapt responses
-
-Financial Times • 6h ago
+Axios • 2h ago
 
 ---
 
@@ -185,7 +177,7 @@ Financial Times • 6h ago
 
 Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -193,7 +185,13 @@ BBC • 7h ago
 
 The Trump administration greenlit Nvidia’s AI chip exports to China, a move the company says supports U.S. jobs, manufacturing and America’s leadership in artificial intelligence.
 
-Fox Business • 5h ago
+Fox Business • 6h ago
+
+---
+
+**[China’s Zhipu Unveils New AI Model Trained on Huawei’s Chips](https://www.bloomberg.com/news/articles/2026-01-14/china-s-zhipu-unveils-new-ai-model-trained-on-huawei-s-chips)**
+
+Bloomberg.com • 8h ago
 
 ---
 
@@ -203,13 +201,13 @@ Fox Business • 5h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 792 • 💬 567 • 17h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 833 • 💬 600 • 18h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 403 • 💬 212 • 13h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 410 • 💬 221 • 14h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -225,7 +223,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 330 • 💬 98 • 17h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 331 • 💬 99 • 18h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -233,7 +231,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 224 • 💬 170 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 225 • 💬 170 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -241,7 +239,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 217 • 💬 118 • 14h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 223 • 💬 118 • 16h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -261,17 +259,17 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 ---
 
+**[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
+
+⬆️ 184 • 💬 231 • 18h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+
+---
+
 **[Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 184 • 💬 193 • 23h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
-
----
-
-**[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
-
-⬆️ 176 • 💬 219 • 17h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 184 • 💬 194 • 1d ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -285,7 +283,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 25K • 👍 782 • 💬 91 • ⏱️ 14:32 • 12h ago
+👁️ 25K • 👍 782 • 💬 91 • ⏱️ 14:32 • 13h ago
 
 ---
 
@@ -315,7 +313,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 266K • 👍 26K • 💬 3K • ⏱️ 11:40 • 20h ago
+👁️ 266K • 👍 26K • 💬 3K • ⏱️ 11:40 • 21h ago
 
 ---
 
@@ -355,7 +353,7 @@ rezolveai #rzlv #rezolve Why Resolve AI Is Still Under $4 — And Why That May C
 
 📺 Stocks News
 
-👁️ 1K • 👍 35 • 💬 26 • ⏱️ 7:54 • 21h ago
+👁️ 1K • 👍 35 • 💬 26 • ⏱️ 7:54 • 22h ago
 
 ---
 
@@ -415,7 +413,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 385 • 5h ago
+⬇️ 203 • ❤️ 385 • 6h ago
 
 ---
 
@@ -439,7 +437,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 247 • 13h ago
+⬇️ 32,276 • ❤️ 247 • 14h ago
 
 ---
 
@@ -499,7 +497,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 174 • 2h ago
+⬇️ 77 • ❤️ 174 • 3h ago
 
 ---
 
@@ -644,7 +642,7 @@ A data-free self-evolution framework enables large language models to autonomous
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.4k • 🔱 1.1k • 6h ago
+⭐ 8.4k • 🔱 1.1k • 7h ago
 
 ---
 
@@ -654,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.3k • 🔱 170 • 7h ago
+⭐ 4.3k • 🔱 170 • 8h ago
 
 ---
 
@@ -674,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 143 • 21m ago
+⭐ 2.3k • 🔱 143 • 1h ago
 
 ---
 
@@ -694,7 +692,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 39m ago
+⭐ 1.6k • 🔱 130 • 1h ago
 
 ---
 
@@ -724,7 +722,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.3k • 🔱 1.0k • 20h ago
+⭐ 1.3k • 🔱 1.0k • 21h ago
 
 ---
 

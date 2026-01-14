@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T11:44:12.247377+00:00'
+updated: '2026-01-14T12:50:28.131570+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 11:44 UTC  
+**Last Updated:** January 14, 2026 at 12:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Skild AI has unveiled new demos "learning by watching". Here one showing that Skild Brain is robust to adversarial disturbances and transfers zero-shot to unseen homes](https://www.reddit.com/r/robotics/comments/1qck1pn/skild_ai_has_unveiled_new_demos_learning_by/)**
+
+Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
+
+2h ago
+
+---
+
+**[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
+
+1h ago
+
+---
+
 **[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 23h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 1d ago
 
 ---
 
@@ -44,7 +58,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-17h ago
+19h ago
 
 ---
 
@@ -52,15 +66,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-5h ago
-
----
-
-**[Skild AI has unveiled new demos "learning by watching". Here one showing that Skild Brain is robust to adversarial disturbances and transfers zero-shot to unseen homes](https://www.reddit.com/r/robotics/comments/1qck1pn/skild_ai_has_unveiled_new_demos_learning_by/)**
-
-Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
-
-1h ago
+6h ago
 
 ---
 
@@ -68,19 +74,19 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-1h ago
+2h ago
+
+---
+
+**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
+
+17h ago
 
 ---
 
 **[Humanoids and other Robots from CES | 50 Videos in 5 Minutes](https://www.reddit.com/r/robotics/comments/1qbg1p8/humanoids_and_other_robots_from_ces_50_videos_in/)**
 
 1d ago
-
----
-
-**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
-
-16h ago
 
 ---
 
@@ -100,54 +106,9 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 ---
 
-**[Need Guidance for my HIWONDER Mentorpi Mecanum Robot](https://www.reddit.com/r/robotics/comments/1qchl7l/need_guidance_for_my_hiwonder_mentorpi_mecanum/)**
-
-So I'm working on a mentorpi robot with a mecanum chasis and a depth camera and a LIDAR sensor. Basically, I want to try and get it so that object recognition works first as a start, which I think is possible with the depth camera but aren't sure. I've been looking through this:https://docs.hiwonder.com/projects/MentorPi/en/latest/index.html documentation but am getting really confused as I'm going sequentially through it and it is talking a lot about different things like ROS2 and docker which I've 0 experience with. So basically I wanted to know if there were any other supplemental things I should know about that helps a lot to get towards my goal of object recognition. https://preview.redd.it/ztj7i1dqu9dg1.png?width=614&format=png&auto=webp&s=52fcaabbf7d0de56c393b627df50226db7e8f481
-
-3h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[𝑨𝒓𝒆 𝑭𝒐𝒓𝒌𝒍𝒊𝒇𝒕𝒔 𝒆𝒏𝒅𝒊𝒏𝒈? What you’re seeing here are Filics Units — autonomous mobile robots developed by Filics (Munich, Germany) that slide fully under pallets, lift them, and move omnidirectionally (sideways included) in tight warehouse spaces. U](https://www.linkedin.com/posts/fintech-association-of-kenya_robotics-automation-warehousing-activity-7417113902334971904-56_H)**
-
-𝑨𝒓𝒆 𝑭𝒐𝒓𝒌𝒍𝒊𝒇𝒕𝒔 𝒆𝒏𝒅𝒊𝒏𝒈?
-What you’re seeing here are Filics Units — autonomous mobile robots developed by Filics (Munich, Germany) that slide fully under pallets, lift them, and move omnidirectionally (sideways included) in tight warehouse spaces.
-
-Unlike traditional forklifts that need turning radius and maneuvering space, this approach is built for high-density storage, faster internal transport, and safer operations in busy facilities.
-
-Filics lists the Unit at up to ~800kg payload, with some demos/industry coverage showing higher capacities depending on configuration — but the real innovation is the format: pallet transport without forks.
-
-The future of intralogistics is quietly shifting from “bigger machines” to smarter movement.
-
-#Robotics #Automation #Warehousing #Intralogistics #SupplyChain #FutureOfWork #Industry40
-
-LinkedIn • 3h ago
-
----
-
-**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
-
-Reuters • 1d ago
-
----
-
-**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
-
-Home robots need common sense behavior and a deep understanding of the physical world.
-
-1X | Home Robots • 1d ago
-
----
 
 **[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
 
@@ -165,11 +126,47 @@ BBC • 2d ago
 
 ---
 
-**[Schaeffler to deploy hundreds of Humanoid robots in its factories](https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/)**
+**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
 
-Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
+Home robots need common sense behavior and a deep understanding of the physical world.
 
-The Robot Report • 1d ago
+1X | Home Robots • 1d ago
+
+---
+
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+
+The Robot Report • 15h ago
+
+---
+
+**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
+
+Reuters • 1d ago
+
+---
+
+**[Robotics Frenzy Drives $24 Billion Gain in Hyundai Motor Stocks](https://www.bloomberg.com/news/articles/2026-01-13/robotics-frenzy-drives-24-billion-gain-in-hyundai-motor-stocks)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit](https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html)**
+
+​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
+
+Yahoo Finance • 1d ago
+
+---
+
+**[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
+
+The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
+
+The Free Press • 12h ago
 
 ---
 
@@ -178,14 +175,6 @@ The Robot Report • 1d ago
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
 CNBC • 2d ago
-
----
-
-**[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
-
-The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
-
-The Free Press • 11h ago
 
 ---
 
@@ -257,7 +246,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 719 • 👍 5 • 💬 1 • ⏱️ 0:33 • 10h ago
+👁️ 719 • 👍 5 • 💬 1 • ⏱️ 0:33 • 11h ago
 
 ---
 
@@ -267,7 +256,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 146K • 👍 10K • 💬 2K • ⏱️ 5:12 • 14h ago
+👁️ 146K • 👍 10K • 💬 2K • ⏱️ 5:12 • 15h ago
 
 ---
 
@@ -277,7 +266,7 @@ This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with exc
 
 📺 KhanFlicks
 
-👁️ 4K • 👍 26 • 💬 33 • ⏱️ 8:09 • 22h ago
+👁️ 4K • 👍 26 • 💬 33 • ⏱️ 8:09 • 23h ago
 
 ---
 
