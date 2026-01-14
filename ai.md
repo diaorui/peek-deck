@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T21:22:45.004895+00:00'
+updated: '2026-01-14T21:45:09.953368+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 21:22 UTC  
+**Last Updated:** January 14, 2026 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,6 +61,14 @@ The feature will start with paid users only, and it's off by default.
 
 ---
 
+**[How do you use AI but not be known but, it can reference and be aware of your past questions?](https://www.reddit.com/r/artificial/comments/1qd02jc/how_do_you_use_ai_but_not_be_known_but_it_can/)**
+
+So, some kind of identifier is assigned to you but it or its corporate overlords never know who you are. No cookies, no tracking, etc. Maybe just a white, female, 2 kids, interested in dogs, biking, business, making cakes, etc. So it knows you and is more helpful that way but not who you are specifically. IOW: privately but not total and forgotten anonymity with each session. The only options I can find are to use Apple Intelligence (not ready for prime time, maybe when Gemini is fully integrated…) or create an anonymous Google account while on a VPN (don't have one) and just use that with Gemini. But the second you are off the VPN, Google will connect the dots and know who you are. If I use Apple Private Relay, it will figure me out even faster. A final option is to set up an AI on your Mac. No thanks on that one. It seems like there should be a privacy AI relay which makes an artificial version of you, which the AI thinks is you in Amsterdam or Bogata or Vancouver or Palo Alto but other than working with what you have asked, is not knowing a damn thing about the real you. OK, maybe I need a VPN but, why should I need one for something so simply obvious desired by so many: Privacy. Just wondering how can I remain private in my use of AI but still train it to know me? Simply. On a Mac.
+
+14m ago
+
+---
+
 **[Jeff Bezos Says the AI Bubble is Like the Industrial Bubble](https://www.reddit.com/r/artificial/comments/1qc1dif/jeff_bezos_says_the_ai_bubble_is_like_the/)**
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
@@ -69,11 +77,19 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ---
 
+**[Grok and the A.I. Porn Problem](https://www.reddit.com/r/artificial/comments/1qcxxk0/grok_and_the_ai_porn_problem/)**
+
+Elon Musk’s X is living up to its name.
+
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 1h ago
+
+---
+
 **[Architecting Autonomy: Modern Design Patterns for AI Assistants](https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting_autonomy_modern_design_patterns_for/)**
 
 In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems.1 The difference lies in Design Patterns. Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" because they began writing an answer before they had a full strategy. The Plan-Then-Execute pattern (often implemented as Reason-and-Act or ReAct) forces the assistant to pause. When a user asks a complex question—like "Analyze our Q3 spending and find three areas for cost reduction"—the assistant doesn't start typing the report. Instead, it creates a Task Decomposition tree: Access the financial database. Filter for Q3 transactions. Categorize expenses. Run a comparison against Q2. By separating the "thinking" (planning) from the "doing" (execution), assistants become significantly more accurate and can handle multi-step workflows without losing the thread. 2. The "Reflective" Pattern (Self-Correction)2 Even the best models make mistakes. The Reflection Pattern introduces a secondary "Critic" loop. In this architecture, the assistant generates an initial output, but before the user sees it, the system passes that output back to itself (or a specialized "Verifier" model) with a prompt: "Check this response for factual errors or compliance violations." If the Verifier finds a mistake, the assistant iterates. This design pattern is the backbone of Safe AI, ensuring that "Shadow AI" behaviors—like leaking internal PII or hallucinating legal clauses—are caught in a private, internal loop before they ever reach the user interface. 3. The "Human-in-the-Loop" (HITL) Gateway As AI assistants move into high-stakes environments like M&A due diligence or medical reporting, total autonomy is often a liability. The HITL Gateway pattern creates mandatory "checkpoints." Rather than the AI executing a wire transfer or finalizing a contract, the pattern requires the assistant to present a Draft & Justification. The Draft: The proposed action. The Justification: A "chain-of-thought" explanation of why it chose this action. The human acts as the final "gatekeeper," clicking "Approve" or "Edit" before the agent proceeds.3 This builds trust and ensures accountability in regulated industries. 4. The Multi-Agent Orchestration (Swarm) Pattern The most powerful assistants today aren't single models; they are teams. In the Orchestration Pattern, a "Manager Agent" receives the user's request and delegates sub-tasks to specialized "Worker Agents."4 For example, a Legal Assistant might consist of: The Researcher: Specialized in searching internal document silos (Vectorization/RAG). The Writer: Specialized in drafting compliant prose. The Auditor: A high-precision model trained specifically on SEC or GDPR guidelines. This modular approach allows developers to "swap" out the Researcher or Auditor as new, better models become available without rebuilding the entire system. 5. The "Context-Aware Memory" Pattern Standard LLMs are "stateless"—they forget who you are the moment the chat ends. Modern assistants use a Stateful Memory Pattern. This involves two layers: Short-Term Memory: Current session context (stored in the prompt window). Long-Term Memory: User preferences, past projects, and "Local Data" (stored in a Vector Database). By using Vectorization to index a user’s history, the assistant can recall that "Project X" refers to the merger discussed three months ago, providing a seamless, personalized experience that feels like a real partnership. The Future: Zero-Trust Design As we look toward the end of 2026, the "Golden Pattern" is becoming Zero-Trust AI Architecture. This pattern assumes that even the model cannot be fully trusted with raw data. It utilizes local redaction agents to scrub sensitive information before the planning and execution loops begin. By implementing these patterns, organizations can move past the "experimental" phase of AI and build robust, enterprise-grade tools that don't just chat, but actually solve problems.
 
-2h ago
+3h ago
 
 ---
 
@@ -82,14 +98,6 @@ In the early days of generative AI, an "assistant" was little more than a text b
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
 🔗 [techputs](https://techputs.com/apple-creator-studio/) • 17h ago
-
----
-
-**[Grok and the A.I. Porn Problem](https://www.reddit.com/r/artificial/comments/1qcxxk0/grok_and_the_ai_porn_problem/)**
-
-Elon Musk’s X is living up to its name.
-
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 1h ago
 
 ---
 
@@ -109,21 +117,13 @@ I was curious about the math and vision skills of the current incarnation of Cha
 
 ---
 
-**[AI tool for marketing and sales?](https://www.reddit.com/r/artificial/comments/1qcle98/ai_tool_for_marketing_and_sales/)**
-
-Does anyone know of an AI tool that can assist with marketing and sales stuff? I have a shopify store side project and I'm trying to get it off the ground. I was thinking if there's AI where I can use its intelligence gathered from thousands to millions of successful examples to help me set up my marketing campaigns, remind me of proven marketing basics and strategies, explain to me in details why my ad campaign didn't have the impact that I'd like and how I can improve it etc.
-
-9h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-The New York Times • 2h ago
+The New York Times • 4h ago
 
 ---
 
@@ -135,55 +135,45 @@ NPR • 9h ago
 
 ---
 
-**[EDETEK Launches "Ensemble" AI Managed Services to Simplify Adoption of AI and Accelerate Clinical Development](https://finance.yahoo.com/news/edetek-launches-ensemble-ai-managed-200000750.html)**
+**[How to pitch voters on the AI apocalypse](https://www.politico.com/newsletters/digital-future-daily/2026/01/14/washington-ponders-how-to-pitch-voters-on-the-ai-apocalypse-00729258)**
 
-EDETEK Inc., a global leader in digital clinical platforms and AI powered solutions, today announced Ensemble, a comprehensive AI Managed Services offering designed to help sponsors operationalize validated, human supervised AI across clinical development. This launch coincides with EDETEK's presentation at the 44th J.P. Morgan Healthcare Conference, underscoring the company's commitment to driving innovation in clinical development.
-
-Yahoo Finance • 1h ago
+Politico • 35m ago
 
 ---
 
-**[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqdI4fuE0qn71p2rmQ4e4JcFKfCm2PI7gipnRuhDGK5vh9cUcay99DUV&gaa_ts=6967feb8&gaa_sig=JkJ6jpWy-9U83gzpykDYOKcrPkVd5pXChqLjjXp8t7Hy2dLYcdpWroMnVmzxsQrwNGPW-W-qy-oHz-tliD4VPA%3D%3D)**
+**[NMDOJ arrests man for using AI to generate child sexual abuse material](https://www.koat.com/article/nmdoj-arrests-man-for-using-ai-to-generate-child-sexual-abuse-material/70001718)**
 
-The Wall Street Journal • 18h ago
+Richard Gallagher was arrested and charged with 12 felony counts of sexual exploitation of children.
 
----
-
-**[The good, bad, and the ugly of Apple's AI deal with Google](https://fortune.com/2026/01/13/apple-ai-deal-with-google-gemini-means-for-google-apple-openai/)**
-
-The Apple-Google partnership validates Google's AI comeback, highlights Apple's AI struggles, and could spell trouble for OpenAI.
-
-Fortune • 19h ago
+KOAT • 23m ago
 
 ---
 
-**[Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner)**
+**[Alphabet vs. OpenAI: Which AI Giant Will Drive 100% Gains?](https://www.fool.com/investing/2026/01/14/alphabet-vs-openai-which-ai-giant-will-drive-x-gai/)**
 
-Could Siri be the last piece of the puzzle?
+AI is big business, but can the start-up that made it mainstream stand up to an industry giant throwing its weight around?
 
-The Verge • 3h ago
-
----
-
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
-
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
-
-blog.google • 6d ago
+The Motley Fool • 30m ago
 
 ---
 
-**[AI speeds up work and creates more of it](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
+**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqcXTat6Rn3A1N4AGDi6hUca-VPfGg0OABCY3recZEUj1WOat6GVq61b&gaa_ts=696811c7&gaa_sig=3TI_l-5hW0rZNxwXY9Gc8mWlBRZE9Daqm5A2rQlcaH54BCMxCfkIf_tEhss1w4Gr3p6PVBIYqVV-NegAJ7mq_w%3D%3D)**
 
-Axios • 10h ago
+The Wall Street Journal • 4h ago
 
 ---
 
-**[LSU students face mounting AI cheating allegations](https://www.wafb.com/2026/01/14/lsu-students-face-mounting-ai-cheating-allegations-detection-technology-creates-campus-controversy/)**
+**[OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/)**
 
-LSU students are facing a surge of artificial intelligence cheating allegations that has created a significant backlog at the university’s Student Advocacy and Accountability Board.
+OpenAI • 1h ago
 
-WAFB • 20h ago
+---
+
+**[California investigates Grok over AI deepfakes](https://www.bbc.com/news/articles/cpwnqlpw7gxo)**
+
+The state attorney general urges xAI to take action over the "shocking" material as Musk denies the allegations.
+
+BBC • 1h ago
 
 ---
 
@@ -195,19 +185,27 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Elon Musk bows to pressure over Grok creating sexualised AI images](https://www.ft.com/content/72c2a5b7-e10d-4e7c-8af0-e95b64d99d79)**
+
+UK prime minister says xAI will restrict the image generator as billionaire pledges to follow laws in all markets
+
+Financial Times • 1h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 913 • 💬 684 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 915 • 💬 695 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 441 • 💬 245 • 23h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 447 • 💬 247 • 23h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -245,7 +243,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 215 • 💬 292 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 217 • 💬 295 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -253,7 +251,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
 
-⬆️ 195 • 💬 89 • 19h ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
+⬆️ 198 • 💬 89 • 19h ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
 
 ---
 
@@ -343,7 +341,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 19K • 👍 1K • 💬 198 • ⏱️ 19:03 • 4h ago
+👁️ 19K • 👍 1K • 💬 198 • ⏱️ 19:03 • 5h ago
 
 ---
 
@@ -449,7 +447,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 252 • 57m ago
+⬇️ 32,276 • ❤️ 252 • 1h ago
 
 ---
 
@@ -642,7 +640,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 59m ago
+⭐ 8.5k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -672,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 145 • 5h ago
+⭐ 2.4k • 🔱 145 • 6h ago
 
 ---
 
