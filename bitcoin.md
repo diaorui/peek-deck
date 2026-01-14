@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T12:50:28.122026+00:00'
+updated: '2026-01-14T13:41:06.008713+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 12:50 UTC  
+**Last Updated:** January 14, 2026 at 13:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,19 +89,19 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 Big jump in price today!
 
-14h ago
+15h ago
 
 ---
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-13h ago
+14h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +109,7 @@ Big jump in price today!
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-23h ago
+1d ago
 
 ---
 
@@ -121,7 +121,7 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -129,13 +129,13 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-20h ago
+21h ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -143,7 +143,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-14h ago
+15h ago
 
 ---
 
@@ -153,13 +153,13 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 **[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
 **[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 2h ago
 
 The price of Bitcoin and Strategy shares jumped after another $1.3 billion buy. Strategy now owns 687,410 Bitcoin purchased at an average price of $75,000.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ CCN.com • 1d ago
 
 Former Mayor Eric Adams’ NYC Token crashed 80%, despite promises to fund scholarships and social causes.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -189,13 +189,13 @@ Bitcoin Magazine • 19h ago
 
 Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://www.ccn.com/news/crypto/bitcoin-etfs-see-biggest-inflow-in-three-months-after-reversing-outflows-could-trumps-tariff-decision-shift-the-trend-again/)**
 
-CCN.com • 33m ago
+CCN.com • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ CCN.com • 33m ago
 
 Many are hoping that the bill working its way through the Senate will mark “the beginning of the end of crypto’s regulatory limbo.”...
 
-Sherwood News • 21h ago
+Sherwood News • 22h ago
 
 ---
 
@@ -211,7 +211,7 @@ Sherwood News • 21h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 17h ago
+dlnews.com • 18h ago
 
 ---
 
@@ -219,7 +219,7 @@ dlnews.com • 17h ago
 
 Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -245,7 +245,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 The crypto merchant bank's head of research said bitcoin's price in 2020 dollar terms peaked out this year at $99,848.
 
-⬆️ 3 • 💬 1 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
+⬆️ 3 • 💬 1 • 7d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/23/bitcoin-s-october-peak-was-over-usd126k-but-inflation-adjusted-price-never-hit-usd100k)
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 455 • ⏱️ 5:56 • 11h ago
+👁️ 22K • 👍 1K • 💬 455 • ⏱️ 5:56 • 12h ago
 
 ---
 
@@ -325,7 +325,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 4K • 💬 225 • ⏱️ 9:23 • 14h ago
+👁️ 61K • 👍 4K • 💬 225 • ⏱️ 9:23 • 15h ago
 
 ---
 
@@ -345,7 +345,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 3K • 👍 604 • 💬 141 • ⏱️ 9:23 • 3h ago
+👁️ 3K • 👍 604 • 💬 141 • ⏱️ 9:23 • 4h ago
 
 ---
 
@@ -355,7 +355,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 15K • 👍 1K • 💬 387 • ⏱️ 26:56 • 10h ago
+👁️ 15K • 👍 1K • 💬 387 • ⏱️ 26:56 • 11h ago
 
 ---
 
@@ -365,7 +365,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 466 • 💬 32 • ⏱️ 10:22 • 7h ago
+👁️ 6K • 👍 466 • 💬 32 • ⏱️ 10:22 • 8h ago
 
 ---
 
@@ -375,7 +375,7 @@ Why does crypto feel like a ghost town? For inquiries: https://www.benjamincowen
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 3K • 💬 319 • ⏱️ 29:39 • 16h ago
+👁️ 53K • 👍 3K • 💬 319 • ⏱️ 29:39 • 17h ago
 
 ---
 
@@ -385,7 +385,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 264 • 💬 84 • ⏱️ 5:45 • 14h ago
+👁️ 5K • 👍 264 • 💬 84 • ⏱️ 5:45 • 15h ago
 
 ---
 
@@ -395,7 +395,7 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 3K • 👍 302 • 💬 114 • ⏱️ 3:40 • 12h ago
+👁️ 3K • 👍 302 • 💬 114 • ⏱️ 3:40 • 13h ago
 
 ---
 
@@ -405,7 +405,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Classified Defense Files
 
-👁️ 29K • 👍 5K • 13h ago
+👁️ 29K • 👍 5K • 14h ago
 
 ---
 

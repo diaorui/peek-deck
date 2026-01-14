@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T12:50:28.131570+00:00'
+updated: '2026-01-14T13:41:06.017970+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 12:50 UTC  
+**Last Updated:** January 14, 2026 at 13:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-2h ago
+3h ago
 
 ---
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-6h ago
+7h ago
 
 ---
 
@@ -74,13 +74,13 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-2h ago
+3h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -138,7 +138,7 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
 
-The Robot Report • 15h ago
+The Robot Report • 16h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 1d ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 12h ago
+The Free Press • 13h ago
 
 ---
 
@@ -206,7 +206,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 378K • 👍 11K • 💬 670 • ⏱️ 17:09 • 1d ago
+👁️ 378K • 👍 11K • 💬 670 • ⏱️ 17:09 • 2d ago
 
 ---
 
@@ -246,7 +246,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 719 • 👍 5 • 💬 1 • ⏱️ 0:33 • 11h ago
+👁️ 719 • 👍 5 • 💬 1 • ⏱️ 0:33 • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 146K • 👍 10K • 💬 2K • ⏱️ 5:12 • 15h ago
+👁️ 146K • 👍 10K • 💬 2K • ⏱️ 5:12 • 16h ago
 
 ---
 
@@ -266,7 +266,7 @@ This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with exc
 
 📺 KhanFlicks
 
-👁️ 4K • 👍 26 • 💬 33 • ⏱️ 8:09 • 23h ago
+👁️ 4K • 👍 26 • 💬 33 • ⏱️ 8:09 • 1d ago
 
 ---
 
