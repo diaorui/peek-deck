@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T22:48:50.092980+00:00'
+updated: '2026-01-14T23:19:10.994568+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 22:48 UTC  
+**Last Updated:** January 14, 2026 at 23:19 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 41m ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 16h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 
 Elon Musk’s X is living up to its name.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 2h ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Elon Musk’s X is living up to its name.
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-16h ago
+17h ago
 
 ---
 
@@ -125,13 +125,13 @@ Slackbot, the automated assistant baked into the Salesforce-owned corporate mess
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-NPR • 10h ago
+NPR • 11h ago
 
 ---
 
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -139,13 +139,13 @@ The New York Times • 3h ago
 
 FOX Business correspondent Madison Alworth reports on Lonestar planning A.I. data centers in space, with satellites launching this fall and goals for lunar centers by 2030 on 'Varney & Co.'
 
-Fox Business • 31m ago
+Fox Business • 1h ago
 
 ---
 
 **[4 key principles of an AI governance and ethics framework](https://www.fastcompany.com/91473566/4-key-principles-of-an-ai-governance-and-ethics-framework)**
 
-Fast Company • 45m ago
+Fast Company • 1h ago
 
 ---
 
@@ -153,37 +153,37 @@ Fast Company • 45m ago
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
 **[Skild AI aims to be the picks and shovels of robotics with $14b valuation](https://www.axios.com/pro/all-deals/2026/01/14/skild-ai-14-billion-valuation)**
 
-Axios • 52m ago
+Axios • 1h ago
 
 ---
 
 **[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
 
-Business Wire • 7h ago
+Business Wire • 8h ago
 
 ---
 
 **[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqdQyithGnSInsqy4LIYfHDM4eFpJLmr8rN39zRJz-2_DVtjFomBru6k&gaa_ts=696820aa&gaa_sig=RswlQBVvoky-tpl83yBY2o-nQCWVCiTbyNWfWOinCJs692erspoVDzwQck_Idd7IG2sZA_jIMSMrDZl8eW_azw%3D%3D)**
 
-The Wall Street Journal • 5h ago
+The Wall Street Journal • 6h ago
 
 ---
 
 **[OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/)**
 
-OpenAI • 2h ago
+OpenAI • 3h ago
 
 ---
 
 **[OpenAI Forges $10 Billion Deal With Cerebras for AI Computing](https://www.bloomberg.com/news/articles/2026-01-14/openai-forges-10-billion-deal-with-cerebras-for-ai-computing)**
 
-Bloomberg.com • 53m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ Warhammer maker Games Workshop has banned the use of AI in its content productio
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 225 • 💬 172 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 225 • 💬 172 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -245,7 +245,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
 
-⬆️ 199 • 💬 89 • 20h ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
+⬆️ 199 • 💬 89 • 21h ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
 
 ---
 
@@ -315,7 +315,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 36K • 👍 1K • 💬 149 • ⏱️ 14:32 • 23h ago
+👁️ 36K • 👍 1K • 💬 149 • ⏱️ 14:32 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 992 • 4h ago
+⬇️ 1,064,063 • ❤️ 992 • 5h ago
 
 ---
 
@@ -405,7 +405,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 496 • 16h ago
+⬇️ 203 • ❤️ 496 • 17h ago
 
 ---
 
@@ -429,7 +429,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 254 • 13h ago
+⬇️ 77 • ❤️ 254 • 14h ago
 
 ---
 
@@ -644,7 +644,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 198 • 18h ago
+⭐ 4.8k • 🔱 198 • 19h ago
 
 ---
 
@@ -684,7 +684,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 11h ago
+⭐ 1.6k • 🔱 130 • 12h ago
 
 ---
 
@@ -694,7 +694,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.4k • 🔱 1.1k • 8h ago
+⭐ 1.4k • 🔱 1.1k • 9h ago
 
 ---
 

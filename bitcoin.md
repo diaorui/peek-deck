@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T22:48:50.101425+00:00'
+updated: '2026-01-14T23:19:11.002891+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 22:48 UTC  
+**Last Updated:** January 14, 2026 at 23:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -113,19 +113,19 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 What’s happening?
 
-7h ago
+8h ago
 
 ---
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-2h ago
+3h ago
 
 ---
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 The largest cryptocurrency extended its rally, pushing related equities higher as well.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1d ago
 
 Senate leaders have locked in committee deadlines for a sweeping crypto market overhaul that could reshape U.S. digital asset regulation, redefine stablecoin rules, and set the stage for a decisive floor vote before the 2026 election cycle.
 
-Bitcoin.com News • 18m ago
+Bitcoin.com News • 48m ago
 
 ---
 
@@ -181,7 +181,7 @@ Bitcoin.com News • 18m ago
 
 Does the meme coin or the "blue chip" coin have a brighter future?
 
-The Motley Fool • 35m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -229,7 +229,7 @@ Yahoo Finance • 2d ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 45 • 💬 3 • 5d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 45 • 💬 3 • 6d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -311,7 +311,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 1K • 💬 149 • ⏱️ 47:15 • 7h ago
+👁️ 21K • 👍 1K • 💬 149 • ⏱️ 47:15 • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 8K • 👍 694 • 💬 101 • ⏱️ 6:42 • 3h ago
+👁️ 8K • 👍 694 • 💬 101 • ⏱️ 6:42 • 4h ago
 
 ---
 
@@ -361,7 +361,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 9K • 👍 92 • 💬 24 • ⏱️ 5:02 • 10h ago
+👁️ 9K • 👍 92 • 💬 24 • ⏱️ 5:02 • 11h ago
 
 ---
 
@@ -391,7 +391,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 10K • 👍 867 • 💬 68 • ⏱️ 9:34 • 5h ago
+👁️ 10K • 👍 867 • 💬 68 • ⏱️ 9:34 • 6h ago
 
 ---
 
@@ -401,7 +401,7 @@ Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeepi
 
 📺 EllioTrades
 
-👁️ 6K • 👍 590 • 💬 62 • ⏱️ 17:03 • 2h ago
+👁️ 6K • 👍 590 • 💬 62 • ⏱️ 17:03 • 3h ago
 
 ---
 
