@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T18:35:39.196371+00:00'
+updated: '2026-01-14T19:20:43.814706+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 18:35 UTC  
+**Last Updated:** January 14, 2026 at 19:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-7h ago
+8h ago
 
 ---
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-8h ago
+9h ago
 
 ---
 
@@ -66,15 +66,15 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 Hello! I’m trying to design and configure something to put 12 stepper motors into a cassette for tendon based actuation along 36” and 3 points of movement. Has something like this been done? I’ve done some searches and I’m not finding much on compacting 12 stepper motors into a 12” space. I was looking at linear actuators, but even the research on them is scarce it seems and is gated behind pay walls. They also seem too large for what I am trying to accomplish. I don’t mind designing something of my own, but before I start from scratch, I wanted to see if I could accumulate some references or previous successes. Looking for resources or research papers on anything close. Thanks!
 
-3h ago
+4h ago
 
 ---
 
-**[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
+**[Arduino Uno + TB6612FNG 4WD Robot Not Working – Wiring and Code Included](https://www.reddit.com/r/robotics/comments/1qcvbb9/arduino_uno_tb6612fng_4wd_robot_not_working/)**
 
-Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
+Hello everyone, I am currently working on a 4-wheel drive robotic car using an Arduino Uno and a TB6612FNG motor driver, and I am facing an issue where the motors do not operate as expected when connected through the driver. I am seeking guidance to identify any mistakes in my wiring or code. I have provided complete details below to make troubleshooting easier. Components Used Arduino Uno TB6612FNG Dual Motor Driver 4 × DC TT Gear Motors 2 motors connected in parallel on the left side 2 motors connected in parallel on the right side HC-05 Bluetooth Module Li-ion Battery Pack (~14–16 V) Direct wiring (no breadboard) Power Connections Battery positive → VM (TB6612FNG) Battery negative → GND (TB6612FNG) Arduino 5V → VCC (TB6612FNG logic supply) Arduino GND → Common ground with TB6612FNG and Bluetooth Arduino VIN is not connected TB6612FNG to Arduino Pin Connections AIN1 → Arduino D7 AIN2 → Arduino D6 BIN1 → Arduino D5 BIN2 → Arduino D4 PWMA → Arduino D9 (PWM) PWMB → Arduino D10 (PWM) STBY → Arduino D8 VCC → Arduino 5V GND → Arduino GND VM → Battery positive Motor Connections Left side motors (parallel) → A01 and A02 Right side motors (parallel) → B01 and B02 Bluetooth (HC-05) Connections TX → Arduino RX RX → Arduino TX (with voltage divider) VCC → Arduino 5V GND → Arduino GND The Bluetooth module sends single-character commands. Arduino Code #define AIN1 7 #define AIN2 6 #define BIN1 5 #define BIN2 4 #define PWMA 9 #define PWMB 10 #define STBY 8 char cmd; int baseSpeed = 200; int turnSpeed = 120; void setup() { Serial.begin(9600); pinMode(AIN1, OUTPUT); pinMode(AIN2, OUTPUT); pinMode(BIN1, OUTPUT); pinMode(BIN2, OUTPUT); pinMode(PWMA, OUTPUT); pinMode(PWMB, OUTPUT); pinMode(STBY, OUTPUT); digitalWrite(STBY, HIGH); stopCar(); } void loop() { if (Serial.available()) { cmd = Serial.read(); switch (cmd) { case 'F': forward(); break; case 'B': backward(); break; case 'L': left(); break; case 'R': right(); break; case 'I': northeast(); break; case 'G': northwest(); break; case 'J': southeast(); break; case 'H': southwest(); break; case 'S': stopCar(); break; default: stopCar(); break; } } } void forward() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, baseSpeed); } void backward() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, baseSpeed); } void left() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void right() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void northeast() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void northwest() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void southeast() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void southwest() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void stopCar() { analogWrite(PWMA, 0); analogWrite(PWMB, 0); } Problem Description Motors run at high speed when directly connected to the battery Motors fail to operate correctly when connected through TB6612FNG and Arduino Code uploads successfully Bluetooth communication is working Assistance Requested I would appreciate help in identifying: Any wiring or power-distribution issues Whether TB6612FNG can reliably drive four motors in this configuration Any missing protection components or logic errors Improvements or corrections to the code
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 1d ago
+46m ago
 
 ---
 
@@ -86,11 +86,19 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 ---
 
+**[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
+
+Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
+
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 1d ago
+
+---
+
 **[Generalist Models and Embodied AI](https://www.reddit.com/r/robotics/comments/1qcmit2/generalist_models_and_embodied_ai/)**
 
 Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Google Robotics, discusses whether robotics could follow the same shift seen in AI, where generalist models eventually replaced task-specific systems. In AI, large models now handle many domains at once and can be adapted to specialized tasks with limited additional training. He outlines what would need to be true for robotics to make a similar transition, including access to large-scale data, scalable data collection, and effective use of simulation. At the same time, he points out that physical systems introduce constraints that software does not, such as safety, hardware limits, and real-world variability, leaving open the question of whether generalist approaches will outperform specialist robots or whether specialization will remain dominant longer in embodied AI.
 
-5h ago
+6h ago
 
 ---
 
@@ -98,13 +106,7 @@ Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Googl
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-12h ago
-
----
-
-**[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
-
-23h ago
+13h ago
 
 ---
 
@@ -112,57 +114,25 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 ## Google News: "robotics"
 
-**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
-
-Bloomberg.com • 5h ago
-
----
-
-**[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
-
-Implementing automation systems requires a lot of planning, time and money
-
-Financial Times • 1d ago
-
----
-
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
-
-Joe Tidy meets robots being trained to tidy up all your mess.
-
-BBC • 2d ago
-
----
-
-**[Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit](https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html)**
-
-​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
-
-Yahoo Finance • 2d ago
-
----
-
 **[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
-**[Barclays Research Finds Humanoid Robotics On Track to Become a $200 Billion Market by 2035](https://markets.ft.com/data/announce/detail?dockey=600-202601141117BIZWIRE_USPRX____20260114_BW100182-1)**
+**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.
-
-Financial Times • 2h ago
+Bloomberg.com • 6h ago
 
 ---
 
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+**[Patents vs. trade secrets in the age of AI robotics](https://www.therobotreport.com/patents-vs-trade-secrets-in-the-age-of-ai-robotics/)**
 
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+Greenberg Traurig shares insights about how to choose the right IP strategy when algorithms, and not humans, drive innovation.
 
-The Robot Report • 21h ago
+The Robot Report • 34m ago
 
 ---
 
@@ -174,7 +144,23 @@ Reuters • 1d ago
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 2h ago
+GeekWire • 3h ago
+
+---
+
+**[Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit](https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html)**
+
+​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
+
+Yahoo Finance • 2d ago
+
+---
+
+**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
+
+Home robots need common sense behavior and a deep understanding of the physical world.
+
+1X | Home Robots • 2d ago
 
 ---
 
@@ -182,7 +168,23 @@ GeekWire • 2h ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 18h ago
+The Free Press • 19h ago
+
+---
+
+**[Robotics News At CES All About Platforms](https://seekingalpha.com/article/4859627-robotics-news-at-ces-all-about-platforms)**
+
+While physical products made the biggest initial splash at this yearâs CES, itâs the news about robotics platforms and tools that will have the most long-term impact. Read more here...
+
+Seeking Alpha • 7h ago
+
+---
+
+**[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
+
+Implementing automation systems requires a lot of planning, time and money
+
+Financial Times • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 10K • 👍 589 • 💬 37 • ⏱️ 9:28 • 3d ago
+👁️ 10K • 👍 589 • 💬 37 • ⏱️ 9:28 • 4d ago
 
 ---
 

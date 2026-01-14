@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-01-14T18:35:38.805628+00:00"
+          "dateModified": "2026-01-14T19:20:43.476290+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -781,6 +781,74 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qcvbb9/arduino_uno_tb6612fng_4wd_robot_not_working/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qcvbb9/arduino_uno_tb6612fng_4wd_robot_not_working/" target="_blank" onclick="event.stopPropagation();">Arduino Uno + TB6612FNG 4WD Robot Not Working – Wiring and Code Included</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hello everyone, I am currently working on a 4-wheel drive robotic car using an Arduino Uno and a TB6612FNG motor driver, and I am facing an issue where the motors do not operate as expected when connected through the driver. I am seeking guidance to identify any mistakes in my wiring or code. I have provided complete details below to make troubleshooting easier. Components Used Arduino Uno TB6612FNG Dual Motor Driver 4 × DC TT Gear Motors 2 motors connected in parallel on the left side 2 motors connected in parallel on the right side HC-05 Bluetooth Module Li-ion Battery Pack (~14–16 V) Direct wiring (no breadboard) Power Connections Battery positive → VM (TB6612FNG) Battery negative → GND (TB6612FNG) Arduino 5V → VCC (TB6612FNG logic supply) Arduino GND → Common ground with TB6612FNG and Bluetooth Arduino VIN is not connected TB6612FNG to Arduino Pin Connections AIN1 → Arduino D7 AIN2 → Arduino D6 BIN1 → Arduino D5 BIN2 → Arduino D4 PWMA → Arduino D9 (PWM) PWMB → Arduino D10 (PWM) STBY → Arduino D8 VCC → Arduino 5V GND → Arduino GND VM → Battery positive Motor Connections Left side motors (parallel) → A01 and A02 Right side motors (parallel) → B01 and B02 Bluetooth (HC-05) Connections TX → Arduino RX RX → Arduino TX (with voltage divider) VCC → Arduino 5V GND → Arduino GND The Bluetooth module sends single-character commands. Arduino Code #define AIN1 7 #define AIN2 6 #define BIN1 5 #define BIN2 4 #define PWMA 9 #define PWMB 10 #define STBY 8 char cmd; int baseSpeed = 200; int turnSpeed = 120; void setup() { Serial.begin(9600); pinMode(AIN1, OUTPUT); pinMode(AIN2, OUTPUT); pinMode(BIN1, OUTPUT); pinMode(BIN2, OUTPUT); pinMode(PWMA, OUTPUT); pinMode(PWMB, OUTPUT); pinMode(STBY, OUTPUT); digitalWrite(STBY, HIGH); stopCar(); } void loop() { if (Serial.available()) { cmd = Serial.read(); switch (cmd) { case 'F': forward(); break; case 'B': backward(); break; case 'L': left(); break; case 'R': right(); break; case 'I': northeast(); break; case 'G': northwest(); break; case 'J': southeast(); break; case 'H': southwest(); break; case 'S': stopCar(); break; default: stopCar(); break; } } } void forward() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, baseSpeed); } void backward() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, baseSpeed); } void left() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void right() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void northeast() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void northwest() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void southeast() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void southwest() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void stopCar() { analogWrite(PWMA, 0); analogWrite(PWMB, 0); } Problem Description Motors run at high speed when directly connected to the battery Motors fail to operate correctly when connected through TB6612FNG and Arduino Code uploads successfully Bluetooth communication is working Assistance Requested I would appreciate help in identifying: Any wiring or power-distribution issues Whether TB6612FNG can reliably drive four motors in this configuration Any missing protection components or logic errors Improvements or corrections to the code
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768415676.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qbxteb/robot/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://b.thumbs.redditmedia.com/lR8tvY7rI69URCyhNHMm8_JnWDMjrJcNHlmdkFMvsuA.jpg" alt="Robot" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1qbxteb/robot/" target="_blank" onclick="event.stopPropagation();">Robot</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1768326332.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -825,41 +893,6 @@
                                         <span>Boston Dynamics</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qbxteb/robot/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://b.thumbs.redditmedia.com/lR8tvY7rI69URCyhNHMm8_JnWDMjrJcNHlmdkFMvsuA.jpg" alt="Robot" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qbxteb/robot/" target="_blank" onclick="event.stopPropagation();">Robot</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768326332.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -934,37 +967,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/dM2Lvys9vV62hZEqxrWU86JSczroZ-D2O7tKGo_Yquw.png?width=640&crop=smart&auto=webp&s=cdb1303913b50063c2abf9cc29843969f93e0935" alt="🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/" target="_blank" onclick="event.stopPropagation();">🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1768331499.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -988,7 +990,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-14T17:52:50.148611+00:00">Updated 2026-01-14T17:52:50.148611+00:00</small>
+        <small data-timestamp="2026-01-14T19:20:13.865152+00:00">Updated 2026-01-14T19:20:13.865152+00:00</small>
     </div>
 </div>
 
@@ -1174,166 +1176,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round" target="_blank" onclick="event.stopPropagation();">Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768395631.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4851e2f1-3ac5-45dc-9e6f-d1c82f8c6a51.jpg?source=next-barrier-page');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd" target="_blank" onclick="event.stopPropagation();">Don’t hold your breath for robots’ ChatGPT moment</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Implementing automation systems requires a lot of planning, time and money
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768280443.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/clyg63e3mq4o', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/d7ca/live/e5e62070-ed86-11f0-a422-4ba8a094a8fa.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/clyg63e3mq4o" target="_blank" onclick="event.stopPropagation();">Is this the year domestic robots come in our homes?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Joe Tidy meets robots being trained to tidy up all your mess.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768176443.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/Wr9Y.EGQKk9IiSIqQPXEoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/fba116fac9d2d5687800e861cac8702b');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html" target="_blank" onclick="event.stopPropagation();">Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            ​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1768240048.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800');"></div>
@@ -1375,21 +1217,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://markets.ft.com/data/announce/detail?dockey=600-202601141117BIZWIRE_USPRX____20260114_BW100182-1', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://markets.ft.com/data/announce/detail?dockey=600-202601141117BIZWIRE_USPRX____20260114_BW100182-1" target="_blank" onclick="event.stopPropagation();">Barclays Research Finds Humanoid Robotics On Track to Become a $200 Billion Market by 2035</a>
+                            <a href="https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round" target="_blank" onclick="event.stopPropagation();">Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1398,9 +1236,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://markets.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://markets.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
                                     
                                 </div>
                                 
@@ -1408,7 +1246,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768407420.0"></span>
+                                    <span data-timestamp="1768395631.0"></span>
                                 </div>
                                 
                             </div>
@@ -1416,20 +1254,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/patents-vs-trade-secrets-in-the-age-of-ai-robotics/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/episode-226-featured.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/01/protecting-ai-driven-ip.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/" target="_blank" onclick="event.stopPropagation();">CES 2026 robotics recap; industry experts make predictions</a>
+                            <a href="https://www.therobotreport.com/patents-vs-trade-secrets-in-the-age-of-ai-robotics/" target="_blank" onclick="event.stopPropagation();">Patents vs. trade secrets in the age of AI robotics</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+                            Greenberg Traurig shares insights about how to choose the right IP strategy when algorithms, and not humans, drive innovation.
                         </div>
                         
 
@@ -1449,7 +1287,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1768338583.0"></span>
+                                    <span data-timestamp="1768416354.0"></span>
                                 </div>
                                 
                             </div>
@@ -1531,6 +1369,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/Wr9Y.EGQKk9IiSIqQPXEoA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/fba116fac9d2d5687800e861cac8702b');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html" target="_blank" onclick="event.stopPropagation();">Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            ​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768240048.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.sanity.io/images/qka6yvsc/production/3df1abaf3d772508de81b6d1f80ec3fcb36fc1a1-3372x1770.jpg?fit=max&auto=format');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com" target="_blank" onclick="event.stopPropagation();">1X World Model | From Video to Action: A New Way Robots Learn</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Home robots need common sense behavior and a deep understanding of the physical world.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.1x.tech&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="1X | Home Robots" class="news-favicon">
+                                    <a href="https://www.1x.tech" target="_blank" onclick="event.stopPropagation();">1X | Home Robots</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768230675.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.thefp.com/p/chinas-robots-vs-americas-chatbots', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://substackcdn.com/image/fetch/$s_!VUgB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc21ba9ed-e47e-410b-82c7-e6b291a601c9_1024x683.jpeg');"></div>
@@ -1572,6 +1492,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://seekingalpha.com/article/4859627-robotics-news-at-ces-all-about-platforms', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2243819062/image_2243819062.jpg?io=getty-c-w1536');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://seekingalpha.com/article/4859627-robotics-news-at-ces-all-about-platforms" target="_blank" onclick="event.stopPropagation();">Robotics News At CES All About Platforms</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            While physical products made the biggest initial splash at this yearâs CES, itâs the news about robotics platforms and tools that will have the most long-term impact. Read more here...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Seeking Alpha" class="news-favicon">
+                                    <a href="https://seekingalpha.com" target="_blank" onclick="event.stopPropagation();">Seeking Alpha</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768392300.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4851e2f1-3ac5-45dc-9e6f-d1c82f8c6a51.jpg?source=next-barrier-page');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd" target="_blank" onclick="event.stopPropagation();">Don’t hold your breath for robots’ ChatGPT moment</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Implementing automation systems requires a lot of planning, time and money
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1768280443.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1592,7 +1594,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-01-14T17:53:03.806827+00:00">Updated 2026-01-14T17:53:03.806827+00:00</small>
+        <small data-timestamp="2026-01-14T19:20:29.535628+00:00">Updated 2026-01-14T19:20:29.535628+00:00</small>
     </div>
 </div>
 

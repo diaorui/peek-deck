@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T18:35:39.186949+00:00'
+updated: '2026-01-14T19:20:43.806608+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 18:35 UTC  
+**Last Updated:** January 14, 2026 at 19:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $96,881.28
+### $96,399.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.5%  
-**7d:** +6.4%  
-**30d:** +10.6%  
-**90d:** -9.1%  
-**1y:** -3.4%  
+**24h:** +3.0%  
+**7d:** +6.6%  
+**30d:** +10.9%  
+**90d:** -9.0%  
+**1y:** -3.2%  
 
 ---
 
@@ -77,21 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
+**[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-3h ago
+2h ago
 
 ---
 
-**[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
+**[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
 4h ago
 
 ---
 
-**[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
+**[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-7h ago
+5h ago
+
+---
+
+**[1 BTC = 95,884.79USD ↗️](https://www.reddit.com/r/Bitcoin/comments/1qcp71n/1_btc_9588479usd/)**
+
+What’s happening?
+
+4h ago
 
 ---
 
@@ -103,17 +111,23 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 ---
 
-**[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
+**[What’s driving the surge?](https://www.reddit.com/r/Bitcoin/comments/1qcvmf8/whats_driving_the_surge/)**
+
+Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
+
+35m ago
+
+---
+
+**[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
 1h ago
 
 ---
 
-**[1 BTC = 95,884.79USD ↗️](https://www.reddit.com/r/Bitcoin/comments/1qcp71n/1_btc_9588479usd/)**
+**[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-What’s happening?
-
-3h ago
+1h ago
 
 ---
 
@@ -127,19 +141,7 @@ What’s happening?
 
 Big jump in price today!
 
-20h ago
-
----
-
-**[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
-
-19h ago
-
----
-
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
-
-14h ago
+21h ago
 
 ---
 
@@ -147,55 +149,35 @@ Big jump in price today!
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqeNf4nBAl-1p61XIK5cn4IhaKbXhEvC78_QP6xM2_j-hE7I3QTocjH-&gaa_ts=6967db72&gaa_sig=OIddktebOkQihHf81CzEVg1MBNjnFc2kKeP_8Q9s76JvbzSFDho4XXlSAurBmSWhygnWhAZONbrjpgkbAkfgXA%3D%3D)**
+**[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcyC0Kn3y1CeYihZ_qQTWKv8BmloqRd_xNJ0roTiMIBjjkhb4QAPiY5&gaa_ts=6967efee&gaa_sig=By-2ChLnAjMELRnBNeV0jkksIyW98Y5OcVg6MfK59Wh6l79GSH6utxuxfbmzZ1L0zGluDQ-MDYANAFb0jGFUVQ%3D%3D)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
-**[Spot Bitcoin ETFs See Biggest Inflows in Three Months](https://bitbo.io/news/spot-bitcoin-etf-inflows/)**
+**[Bitcoin Hits 2-Month High—Here’s Why Crypto Is Rallying](https://www.forbes.com/sites/tylerroush/2026/01/14/bitcoin-reaches-2-month-high-as-crypto-rallies-heres-why/)**
 
-U.S. spot bitcoin ETFs took in $753.7 million on Tuesday, led by Fidelity, as analysts pointed to improving macro clarity and renewed institutional demand.
-
-Bitbo • 6h ago
+Forbes • 9m ago
 
 ---
 
-**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
+**[From ETF Convenience To Wrench Attack Nightmares: The Shocking Evolution Of Bitcoin Security](https://bitcoinmagazine.com/business/the-state-of-bitcoin-self-custody-in-2026-w-casa-ceo)**
 
-Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
-
-CoinDesk • 10h ago
-
----
-
-**[Something Is Happening With Bitcoin That I Would Have Never Expected: The BTCO Case (BATS:BTCO)](https://seekingalpha.com/article/4859737-something-is-happening-with-bitcoin-that-i-would-have-never-expected-the-btco-case)**
-
-BTCO is a spot Bitcoin ETF with a 0.25% TER, liquid, and with externalized custody.
-
-Seeking Alpha • 1h ago
-
----
-
-**[Strategy ($MSTR) Stock Soars 10% Above $189 as Bitcoin Nears $100,000](https://bitcoinmagazine.com/markets/strategy-mstr-stock-soars-10-percent)**
-
-Strategy (MSTR) stock roared above $189 this morning as renewed bitcoin strength and continued corporate BTC purchases drove demand.
+As Bitcoin stabilizes post-bull run, ETFs lure the masses, but savvy holders face rising physical attacks; discover how Casa's geopolitical hedges turn your wallet into a fortress against everything from criminals to governments.
 
 Bitcoin Magazine • 1h ago
 
 ---
 
-**[Bitcoin above $95K as spot BTC ETFs score largest inflow since October](https://sg.finance.yahoo.com/video/bitcoin-above-95k-spot-btc-171233546.html)**
+**[The Daily: Bitcoin taps $97K amid 'Goldilocks' macro backdrop, Ripple secures preliminary license in EU payments push, and more](https://www.theblock.co/post/385632/the-daily-bitcoin-taps-97k-amid-goldilocks-macro-backdrop-ripple-secures-preliminary-license-in-eu-payments-push-and-more?utm_source=policy.xml&utm_medium=rss)**
 
-U.S. spot bitcoin ETFs saw their largest daily inflows in three months, with $753.7 million recorded on Tuesday. Is this a sign that investors have rotated back into risk assets following the year-end portfolio rebalancing? CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
-
-Yahoo Finance Singapore • 1h ago
+The Block • 33m ago
 
 ---
 
@@ -203,21 +185,39 @@ Yahoo Finance Singapore • 1h ago
 
 The largest cryptocurrency extended its rally, pushing related equities higher as well.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
+**[MicroStrategy’s Near-Term Outlook Depends on This Bitcoin Price Level](https://finance.yahoo.com/news/microstrategy-near-term-outlook-depends-215546757.html)**
 
-The Block • 19h ago
+Strategy’s $1.25 billion Bitcoin buy puts the $88K-$92K band in focus. A breakdown could rattle MSTR sentiment.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[What’s Next For Bitcoin After the Fall?](https://www.investopedia.com/the-express-podcast-episode-277-11883706)**
+**[Strategy ($MSTR) Stock Soars 10% Above $189 as Bitcoin Nears $100,000](https://bitcoinmagazine.com/markets/strategy-mstr-stock-soars-10-percent)**
 
-2025 was looking like a banner year for Bitcoin until a wave of selling in the Fall sent the cryptocurrency into a bear market. Matt Hougan of Bitwise explains what happened and why he thinks Bitcoin will rebound in 2026.
+Strategy (MSTR) stock roared above $189 this morning as renewed bitcoin strength and continued corporate BTC purchases drove demand.
 
-Investopedia • 1d ago
+Bitcoin Magazine • 2h ago
+
+---
+
+**[Michael Saylor slams interviewer for questioning Bitcoin treasury model: ‘Ignorant and offensive’](https://www.dlnews.com/articles/markets/michael-saylor-hits-back-at-criticism-of-bitcoin-treasury-model/)**
+
+Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
+
+dlnews.com • 1d ago
+
+---
+
+**[These Finnish homes are being heated by a surprising source: bitcoin](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/)**
+
+Can the reuse of crypto mining’s waste heat redeem its carbon footprint?
+
+grist.org • 1h ago
 
 ---
 
@@ -259,7 +259,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 1d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 2d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 821 • 💬 153 • ⏱️ 47:15 • 3h ago
+👁️ 11K • 👍 821 • 💬 153 • ⏱️ 47:15 • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S 
 
 📺 Austin Hilton
 
-👁️ 3K • 👍 424 • 💬 60 • ⏱️ 6:09 • 2h ago
+👁️ 3K • 👍 424 • 💬 60 • ⏱️ 6:09 • 3h ago
 
 ---
 
@@ -343,7 +343,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 3K • 👍 392 • 💬 35 • ⏱️ 9:34 • 1h ago
+👁️ 3K • 👍 392 • 💬 35 • ⏱️ 9:34 • 2h ago
 
 ---
 
@@ -363,7 +363,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 442 • ⏱️ 5:56 • 17h ago
+👁️ 24K • 👍 1K • 💬 442 • ⏱️ 5:56 • 18h ago
 
 ---
 
@@ -373,7 +373,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 6K • 👍 85 • 💬 62 • ⏱️ 5:02 • 6h ago
+👁️ 6K • 👍 85 • 💬 62 • ⏱️ 5:02 • 7h ago
 
 ---
 
@@ -383,7 +383,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 191 • ⏱️ 15:44 • 18h ago
+👁️ 21K • 👍 2K • 💬 191 • ⏱️ 15:44 • 19h ago
 
 ---
 
