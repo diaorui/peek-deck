@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T10:27:18.678838+00:00'
+updated: '2026-01-14T10:53:33.076158+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 10:27 UTC  
+**Last Updated:** January 14, 2026 at 10:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,116.79
+### $95,024.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.2%  
-**7d:** +4.4%  
-**30d:** +8.5%  
-**90d:** -10.9%  
+**24h:** +3.3%  
+**7d:** +4.3%  
+**30d:** +8.4%  
+**90d:** -11.0%  
 **1y:** -5.3%  
 
 ---
@@ -77,15 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
-
-11h ago
-
----
-
 **[$95,000](https://www.reddit.com/r/Bitcoin/comments/1qc57rs/95000/)**
 
 Big jump in price today!
+
+12h ago
+
+---
+
+**[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
 12h ago
 
@@ -99,12 +99,6 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 ---
 
-**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
-
-6h ago
-
----
-
 **[The 401(k) was never designed to be a retirement plan](https://www.reddit.com/r/Bitcoin/comments/1qch0t8/the_401k_was_never_designed_to_be_a_retirement/)**
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
@@ -113,17 +107,23 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 ---
 
-**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
+**[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
-
-18h ago
+6h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-20h ago
+21h ago
+
+---
+
+**[What do you guys think?](https://www.reddit.com/r/Bitcoin/comments/1qbux6h/what_do_you_guys_think/)**
+
+Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
+
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-11h ago
+12h ago
 
 ---
 
@@ -145,7 +145,7 @@ If I wake up to BTC at $100k, I already know all I’ll see is “we are so back
 
 Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
-7h ago
+8h ago
 
 ---
 
@@ -155,39 +155,21 @@ Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
 **[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise. Why This ‘Big Week for Crypto’ Can Spark a Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-crypto-today-1a94c3f9?gaa_at=eafs&gaa_n=AWEtsqf-R5EyVnz2YYklUBIVJycEwkfSqyHRjVgEwcjSYL-I_AcFu58I6KL2&gaa_ts=696765be&gaa_sig=35Xdq4cGBJWeoJORYwf2-JrChjrNw3_adacjmbKAtr678P7zckTlrKVYdARChxIEN6nlM5WH5RefCllSQ1w7iw%3D%3D)**
+**[U.S. demand lags even as bitcoin hits two-month high above $95,000, key signal indicates](https://www.coindesk.com/markets/2026/01/14/bitcoin-prices-hit-two-month-high-but-u-s-demand-lags-key-signal-shows)**
 
-Barron's • 23h ago
+The Coinbase premium index remains negative, indicating a relatively weaker U.S. demand
 
----
-
-**[Bitfarms Conference: BITF Details Pivot From Bitcoin Mining to AI Data Centers and HPC Power Play](https://finance.yahoo.com/news/bitfarms-conference-bitf-details-pivot-080307453.html)**
-
-Bitfarms (NASDAQ:BITF) executives used a recent investor presentation to detail the company’s strategy to transition from Bitcoin mining toward high-performance computing (HPC) and artificial intelligence (AI) data center infrastructure, emphasizing the growing value of power and purpose-built facil
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
-
-Bloomberg.com • 3h ago
+CoinDesk • 5h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
 CCN.com • 23h ago
-
----
-
-**[🚨🇮🇷 BITCOIN BECOMES KING IN IRAN Not out of nowhere. This is where real pressure pushes real behavior. Here’s what’s actually happening and why BTC is spiking: Iran’s fiat is imploding. The rial has collapsed massively against the dollar as inflation ex](https://x.com/MarioNawfal/status/2011024172408041799)**
-
-x.com • 23h ago
 
 ---
 
@@ -213,11 +195,33 @@ thestreet.com • 1d ago
 
 ---
 
-**[US Stole a Chinese Scam King’s $15B Bitcoin? Here’s “How”](https://beincrypto.com/us-stole-chinese-scam-kings-15b-bitcoin/)**
+**[🚨🇮🇷 BITCOIN BECOMES KING IN IRAN Not out of nowhere. This is where real pressure pushes real behavior. Here’s what’s actually happening and why BTC is spiking: Iran’s fiat is imploding. The rial has collapsed massively against the dollar as inflation ex](https://x.com/MarioNawfal/status/2011024172408041799)**
 
-China claims US hackers stole Chen Zhi's Bitcoin in 2020, then "seized" it in 2025. The DOJ won't say how it got the private keys.
+x.com • 1d ago
 
-BeInCrypto • 2d ago
+---
+
+**[Iran’s Rial Just Collapsed. Is It Time For Bitcoin?](https://bitcoinmagazine.com/news/irans-rial-collapses-bitcoin-alternative)**
+
+Iran’s national currency, the rial, has effectively collapsed, now trading at roughly 1.4 million rials per U.S. dollar.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Iran’s Currency Crash Tests Bitcoin’s Use Without Internet](https://finance.yahoo.com/news/iran-currency-crash-tests-bitcoin-221550218.html)**
+
+Bitcoin and gold are back, well, not yet, only gold for now. But Iran’s rial sinks to fresh record lows, and confidence in fiat currencies continues to fray, and we are again asking questions. In the middle of those sits a developing US crypto bill, built around the proposed Clarity ...
+
+Yahoo Finance • 12h ago
+
+---
+
+**[1 Top Bitcoin ETF I Plan to Load Up On in 2026](https://www.fool.com/investing/2026/01/14/1-top-bitcoin-etf-i-plan-to-load-up-on-in-2026/)**
+
+With more than a dozen bitcoin ETFs to choose from, the choice comes down to cost. That puts one fund above the others.
+
+The Motley Fool • 44m ago
 
 ---
 
@@ -321,7 +325,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 177 • ⏱️ 15:44 • 10h ago
+👁️ 16K • 👍 1K • 💬 177 • ⏱️ 15:44 • 11h ago
 
 ---
 
@@ -341,7 +345,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 13K • 👍 1K • 💬 298 • ⏱️ 26:56 • 7h ago
+👁️ 13K • 👍 1K • 💬 298 • ⏱️ 26:56 • 8h ago
 
 ---
 
@@ -351,7 +355,7 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 3K • 👍 277 • 💬 102 • ⏱️ 3:40 • 9h ago
+👁️ 3K • 👍 277 • 💬 102 • ⏱️ 3:40 • 10h ago
 
 ---
 
@@ -361,7 +365,7 @@ BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 M
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 258 • 💬 73 • ⏱️ 5:45 • 11h ago
+👁️ 5K • 👍 258 • 💬 73 • ⏱️ 5:45 • 12h ago
 
 ---
 

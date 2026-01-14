@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T10:27:18.688047+00:00'
+updated: '2026-01-14T10:53:33.084459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 10:27 UTC  
+**Last Updated:** January 14, 2026 at 10:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-16h ago
+17h ago
 
 ---
 
@@ -53,6 +53,22 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
 4h ago
+
+---
+
+**[Skild AI has unveiled new demos "learning by watching". Here one showing that Skild Brain is robust to adversarial disturbances and transfers zero-shot to unseen homes](https://www.reddit.com/r/robotics/comments/1qck1pn/skild_ai_has_unveiled_new_demos_learning_by/)**
+
+Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
+
+15m ago
+
+---
+
+**[NEURA Robotics with new generation of humanoid (I have some questions!)](https://www.reddit.com/r/robotics/comments/1qcjrll/neura_robotics_with_new_generation_of_humanoid_i/)**
+
+I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
+
+32m ago
 
 ---
 
@@ -92,49 +108,9 @@ So I'm working on a mentorpi robot with a mecanum chasis and a depth camera and 
 
 ---
 
-**[Real Steel fantasy turns real as Humanoid robots fight at CES 2026](https://www.reddit.com/r/robotics/comments/1qch5q3/real_steel_fantasy_turns_real_as_humanoid_robots/)**
-
-CES 2026 hosted the first "Ultimate Fighting Robot" (UFB) matches, where full-sized humanoid robots (including Unitree models) traded punches and kicks in a boxing ring. Unlike BattleBots, these droids weren't just smashing metal—they were teleoperated in real-time by human "pilots" using motion controllers, mimicking their movements to fight MMA-style.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/humanoid-robots-fight-ces-2026) • 2h ago
-
----
-
-**[Human Robot Fusion in Manufacturing. Is This the Next Real Shift or Just Better Automation Branding?](https://www.reddit.com/r/robotics/comments/1qcfrdk/human_robot_fusion_in_manufacturing_is_this_the/)**
-
-https://preview.redd.it/ge1vg4ccb9dg1.png?width=897&format=png&auto=webp&s=05416e49534382b7a48ae021b7b6bbd673f090c9 I recently came across an interesting article on how FANUC India is approaching “human-robot fusion” in industrial automation. The core idea isn’t robots replacing people, but robots evolving into adaptive collaborators that learn from data, assist human decision-making, and handle precision-heavy tasks while humans focus on judgment, creativity, and problem-solving. A few things that stood out to me: Automation moving beyond repetitive motion into AI-assisted adaptability Humans staying in the loop instead of being engineered out Robotics being positioned as a long-term productivity partner rather than a cost-cutting tool Article link for context (not affiliated, just sharing): https://ciolookmagazine.com/driving-intelligent-automation-how-fanuc-india-guided-by-yuki-kita-is-putting-human-robotics-fusion-on-the-global-map/
-
-4h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
-
-Implementing automation systems requires a lot of planning, time and money
-
-Financial Times • 1d ago
-
----
-
-**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
-
-Joe Tidy meets robots being trained to tidy up all your mess.
-
-BBC • 2d ago
-
----
-
-**[Schaeffler to deploy hundreds of Humanoid robots in its factories](https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/)**
-
-Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
-
-The Robot Report • 1d ago
-
----
 
 **[𝑨𝒓𝒆 𝑭𝒐𝒓𝒌𝒍𝒊𝒇𝒕𝒔 𝒆𝒏𝒅𝒊𝒏𝒈? What you’re seeing here are Filics Units — autonomous mobile robots developed by Filics (Munich, Germany) that slide fully under pallets, lift them, and move omnidirectionally (sideways included) in tight warehouse spaces. U](https://www.linkedin.com/posts/fintech-association-of-kenya_robotics-automation-warehousing-activity-7417113902334971904-56_H)**
 
@@ -173,6 +149,30 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 ---
 
+**[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
+
+Implementing automation systems requires a lot of planning, time and money
+
+Financial Times • 1d ago
+
+---
+
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+
+Joe Tidy meets robots being trained to tidy up all your mess.
+
+BBC • 2d ago
+
+---
+
+**[Schaeffler to deploy hundreds of Humanoid robots in its factories](https://www.therobotreport.com/schaeffler-humanoid-partner-build-deploy-hundreds-robots/)**
+
+Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
+
+The Robot Report • 1d ago
+
+---
+
 **[China's AI and robotics push isn't enough to kickstart its economy, leaving growth more exposed to trade risks](https://www.cnbc.com/2026/01/12/china-ai-robotics-tech-push-property-slump-trade-risk-rhodium-kkr.html)**
 
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
@@ -189,11 +189,11 @@ The Free Press • 10h ago
 
 ---
 
-**[The Cambrian Explosion Moment For Robotics Is Now](https://seekingalpha.com/article/4859329-cambrian-explosion-moment-for-robotics-is-now)**
+**[IDF unveils five-year plan with AI and robotics focus](https://www.jpost.com/israel-news/defense-news/article-883121)**
 
-ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
+The IDF’s new five-year plan, spearheaded by Lt.-Gen. Eyal Zamir includes groundbreaking advances in AI, robotics, and space defense, aiming to revolutionize Israel’s military capabilities.
 
-Seeking Alpha • 14h ago
+The Jerusalem Post • 1d ago
 
 ---
 
@@ -247,7 +247,7 @@ Today we explore a civilization that develops and allows it's own replacement. -
 
 📺 joeybtoonz
 
-👁️ 136K • 👍 10K • 💬 2K • ⏱️ 5:12 • 12h ago
+👁️ 136K • 👍 10K • 💬 2K • ⏱️ 5:12 • 13h ago
 
 ---
 

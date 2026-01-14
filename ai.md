@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T10:27:18.670429+00:00'
+updated: '2026-01-14T10:53:33.068495+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 10:27 UTC  
+**Last Updated:** January 14, 2026 at 10:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-14h ago
+15h ago
 
 ---
 
@@ -49,7 +49,23 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 6h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 7h ago
+
+---
+
+**[Google went from being "disrupted" by ChatGPT, to having the best LLM as well as rivalling Nvidia in hardware (TPUs). The narrative has changed](https://www.reddit.com/r/artificial/comments/1qcfcm6/google_went_from_being_disrupted_by_chatgpt_to/)**
+
+The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
+
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 5h ago
+
+---
+
+**[One-Minute Daily AI News 1/13/2026](https://www.reddit.com/r/artificial/comments/1qcfdh1/oneminute_daily_ai_news_1132026/)**
+
+Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
+
+5h ago
 
 ---
 
@@ -61,19 +77,11 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 ---
 
-**[One-Minute Daily AI News 1/13/2026](https://www.reddit.com/r/artificial/comments/1qcfdh1/oneminute_daily_ai_news_1132026/)**
-
-Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
-
-4h ago
-
----
-
 **[Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.](https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/)**
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-14h ago
+15h ago
 
 ---
 
@@ -85,6 +93,14 @@ Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice:
 
 ---
 
+**[I got tired of hunting for good AI tools, so I made"top ai sites"](https://www.reddit.com/r/artificial/comments/1qcjtln/i_got_tired_of_hunting_for_good_ai_tools_so_i/)**
+
+Like a lot of people here, I keep seeing new AI tools pop up every single day. Some are amazing, some are half-baked, and some disappear a month later. After bookmarking many random sites, I realized there wasn’t a clean, centralized place to explore solid AI tools without the noise. So I ended up building top-ai-sites.com What it is A curated directory of AI websites and tools, organized so you can actually find something useful instead of scrolling endlessly. What makes it different 🔍 Hand-picked AI tools (not auto-scraped junk) 🧠 Covers multiple categories: writing, coding, design, productivity, and more 🚀 Easy to browse when you just want inspiration or a specific solution 🆓 Free to use — no sign-up required Who it’s for People experimenting with AI and want to discover new tools Founders looking for AI services to speed up work Developers & creators who want to stay updated without doomscrolling Anyone overwhelmed by “Top 500 AI tools” lists 😅 Why I’m sharing here I built this because.... I wanted it, and I figured others here might find it useful too :). I’m actively improving it, so feedback (good or bad) is genuinely welcome. 👉 Check it out: https://top-ai-sites.com If you have favorite AI tools you think should be listed - or ideas to make it better - drop a comment. Happy to iterate based on what the community actually wants. Thanks!🙌I got tired of hunting for good AI tools, so I made"top ai sites"
+
+29m ago
+
+---
+
 **[zai-org/GLM-Image · Hugging Face](https://www.reddit.com/r/artificial/comments/1qcazo8/zaiorgglmimage_hugging_face/)**
 
 Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
@@ -93,33 +109,77 @@ Z.ai (creators of GLM) have released an open weight image generation model that 
 
 ---
 
-**[Google went from being "disrupted" by ChatGPT, to having the best LLM as well as rivalling Nvidia in hardware (TPUs). The narrative has changed](https://www.reddit.com/r/artificial/comments/1qcfcm6/google_went_from_being_disrupted_by_chatgpt_to/)**
-
-The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
-
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 4h ago
-
----
-
-**[Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://www.reddit.com/r/artificial/comments/1qby3z0/signal_creator_moxie_marlinspike_wants_to_do_for/)**
-
-"Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
-
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 16h ago
-
----
-
 **[What's next if AGI does not happen?](https://www.reddit.com/r/artificial/comments/1qbp0oc/whats_next_if_agi_does_not_happen/)**
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-22h ago
+23h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
+
+Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
+
+The Guardian • 18h ago
+
+---
+
+**[Grok AI deepfake victim says UK government should have acted faster](https://www.bbc.com/news/articles/c98p4214577o)**
+
+Presenter Jess Davies says the UK government has been "dragging its feet" when creating AI deepfake laws.
+
+BBC • 4h ago
+
+---
+
+**[Use of AI to harm women has only just begun, experts warn](https://www.theguardian.com/technology/2026/jan/14/use-of-ai-to-harm-women-has-only-just-begun-experts-warn)**
+
+While Grok has introduced belated safeguards to prevent sexualised AI imagery, other tools have far fewer limits
+
+The Guardian • 53m ago
+
+---
+
+**[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[AI speeds up work and creates more of it](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
+
+Axios • 19m ago
+
+---
+
+**[New Workday Research: Companies Are Leaving AI Gains on the Table](https://finance.yahoo.com/news/workday-research-companies-leaving-ai-103000680.html)**
+
+Workday, Inc (NASDAQ: WDAY) today released new global research showing that while AI is delivering productivity gains, many organizations aren't fully capturing its value. Employees are saving meaningful time with AI tools, but too often those gains are being absorbed by rework – fixing mistakes, rewriting content, and double-checking outputs from generic tools – leaving significant value on the table.
+
+Yahoo Finance • 23m ago
+
+---
+
+**[One thing that might get workers to embrace AI? The 4-day workweek.](https://www.businessinsider.com/four-day-workweek-might-incentivize-employees-embrace-ai-2026-1)**
+
+Adopting AI has been a struggle at some companies. Embracing a four-day workweek might help get more workers on board, say these authors.
+
+Business Insider • 34m ago
+
+---
+
+**[McKinsey challenges graduates to use AI chatbot in recruitment overhaul](https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586)**
+
+Candidates in pilot assessed on how they prompted consulting firm’s AI assistant and ability to adapt responses
+
+Financial Times • 5h ago
+
+---
 
 **[US approves sale of Nvidia's advanced AI chips to China](https://www.bbc.com/news/articles/cg4erx1n04lo)**
 
@@ -137,83 +197,19 @@ Fox Business • 4h ago
 
 ---
 
-**[Nvidia Gets U.S. Approval to Ship AI Chips to China. Now It Waits on Beijing.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-china-cef20023?gaa_at=eafs&gaa_n=AWEtsqfhFhb9D52WZrp2-0gyL7jFp_E8Ed_7iGgU6SP0YP972QnI-ZHNrYmQ&gaa_ts=696765bc&gaa_sig=2g0Hoc6VflfQK8uEWldlwiTIxiOz4-lEi1IcZUbP5Il4bzAfsy5yJzGyzJrFgr4P9o4Y6eOJoB26SsZuiiHX9g%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Building Community-First AI Infrastructure](https://blogs.microsoft.com/on-the-issues/2026/01/13/community-first-ai-infrastructure/)**
-
-Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
-
-The Official Microsoft Blog • 20h ago
-
----
-
-**[Microsoft has a plan to stop AI data centers from hiking up your electricity bill](https://www.cnn.com/2026/01/13/tech/microsoft-ai-data-centers-electricity-bills-plan)**
-
-Microsoft says it will ask to pay higher electricity bills in areas where it’s building data centers, in an effort to prevent electricity prices for local residents from rising in those areas. The move is part of a broader plan to address rising prices and other concerns sparked by the tech industry’s massive buildout of artificial intelligence infrastructure across the United States.
-
-CNN • 19h ago
-
----
-
-**[Bitfarms Conference: BITF Details Pivot From Bitcoin Mining to AI Data Centers and HPC Power Play](https://finance.yahoo.com/news/bitfarms-conference-bitf-details-pivot-080307453.html)**
-
-Bitfarms (NASDAQ:BITF) executives used a recent investor presentation to detail the company’s strategy to transition from Bitcoin mining toward high-performance computing (HPC) and artificial intelligence (AI) data center infrastructure, emphasizing the growing value of power and purpose-built facil
-
-Yahoo Finance • 2h ago
-
----
-
-**[Apple Teams Up With Google for A.I. in Its Products](https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Apple picks Google's Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)**
-
-Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
-
-CNBC • 1d ago
-
----
-
-**[What Apple’s AI deal with Google means for the two tech giants, and for $500 billion ‘upstart’ OpenAI](https://fortune.com/2026/01/13/apple-ai-deal-with-google-gemini-means-for-google-apple-openai/)**
-
-The Apple-Google partnership validates Google's AI comeback, highlights Apple's AI struggles, and could spell trouble for OpenAI.
-
-Fortune • 8h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
-**[Don't fall into the anti-AI hype](https://news.ycombinator.com/item?id=46574276)**
-
-⬆️ 1268 • 💬 1603 • 3d ago • [antirez.com](https://antirez.com/news/158)
-
----
-
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 763 • 💬 545 • 15h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 792 • 💬 567 • 16h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 393 • 💬 204 • 12h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 403 • 💬 212 • 12h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -221,7 +217,7 @@ Fortune • 8h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 333 • 💬 328 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 335 • 💬 330 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -229,7 +225,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 329 • 💬 97 • 15h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 330 • 💬 98 • 16h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -237,7 +233,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 AI Overviews provided false liver test information experts called alarming.
 
-⬆️ 223 • 💬 170 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+⬆️ 224 • 💬 170 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
 
 ---
 
@@ -245,7 +241,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 217 • 💬 115 • 13h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 217 • 💬 118 • 14h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -269,7 +265,13 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 184 • 💬 191 • 22h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 184 • 💬 193 • 22h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+
+---
+
+**[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
+
+⬆️ 176 • 💬 219 • 16h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -343,7 +345,7 @@ rezolveai #rzlv #rezolve Why Resolve AI Is Still Under $4 — And Why That May C
 
 📺 Stocks News
 
-👁️ 1K • 👍 35 • 💬 26 • ⏱️ 7:54 • 19h ago
+👁️ 1K • 👍 35 • 💬 26 • ⏱️ 7:54 • 20h ago
 
 ---
 
@@ -722,7 +724,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.3k • 🔱 989 • 19h ago
+⭐ 1.3k • 🔱 989 • 20h ago
 
 ---
 
