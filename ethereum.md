@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T17:53:15.888646+00:00'
+updated: '2026-01-14T18:35:39.193072+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 17:53 UTC  
+**Last Updated:** January 14, 2026 at 18:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $406.65B
+**Market Cap:** $403.71B
 Rank #2
 
 **Circulating Supply:** 120,694,681 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--31.7%
+-32.6%
 
 **All-Time Low:** $0.43
-+780450.6%
++769856.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2014, there was a vision: you can have permissionless, decentralized applications that could support finance, social media, ride sharing, governing organizations, crowdfunding, potentially create an entire alternative web, all on the backs of a suite of technologies. Ethereum: the blockchain. The world computer that could give any application its shared memory. Whisper: the data layer. Messages too expensive for a blockchain, that do no need consensus. Swarm: the storage layer. Store files for long-term access. Over the last five years, this core vision has at times become obscured, with various "metas" and "narratives" at various times taking center stage. But the core vision has never died. And in fact, the core technologies behind it are only growing stronger. Ethereum is now proof of stake. Ethereum is now scaling, it is now cheap, and it is on track to get more scalable and cheaper thanks to the power of ZK-EVMs. Thanks to ZK-EVM + PeerDAS, the "sharding" vision is effectively being realized. And L2s can give additional and different kinds of gains in speed on top. Whisper is now Waku ( https://docs.waku.org/ ), and already powers many applications (eg. https://www.railway.xyz/, https://status.app/ just to name two I use). Even outside of Waku, the quality of decentralized messaging has increased. Fileverse (decentralized Google Docs and Sheets alternative: https://fileverse.io/ ) has seen massive gains in usability over the past year. IPFS is now highly performant and robust as a decentralized way of retrieving files, though IPFS alone does not solve the storage problem. Hence, there is still room to improve there. All of the prerequisites for the original web3 vision are here, in full force, and are continuing to get stronger over the next few years. Hence, it's time to buidl, and buidl decentralized. Fileverse is an excellent example of the right way to do things: It uses Ethereum and Gnosis Chain for what they are good for: names, accounts and permissioning, document registration It uses decentralized messaging and file storage to store documents and propagate changes to documents The application passes the walkaway test: https://github.com/fileverse/walk-away-ddocs (even if Fileverse disappears, you can still retrieve them and even keep editing them with the open source UI) This is what we mean by "build a hammer that is a tool you buy once and it's yours, not a corposlop AI dishwasher that requires you to register for a google account and charges a subscription fee per month for extra washing modes, and probably spies on you and stops working if you get politically disfavored by a foreign country". If you think this criticism of corposlop is hyperbolic, well turns out, it's literally a concatenation of these three: https://mein-mmo.de/en/user-buys-new-dishwasher-can-only-use-some-features-if-he-subscribes,1186249/ https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers https://www.irishtimes.com/world/us/2025/12/12/its-surreal-us-sanctions-lock-international-criminal-court-judge-out-of-daily-life/ In 2014, decentralized applications were toys, hundreds of times more difficult to use in web2. In 2026, fileverse is now usable enough that I regularly write documents in it and send them to other people to collaborate. The decentralized renaissance is coming, and you can be part of making it happen.
 
-11h ago
+12h ago
 
 ---
 
@@ -107,7 +107,7 @@ vulnerabilities reported through the Ethereum Foundation bug bounty program.
 
 As with all our previous releases,...
 
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 15h ago
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 16h ago
 
 ---
 
@@ -131,7 +131,7 @@ Ethereum did a lot in 2025: gas limits increased, blob count increased, node sof
 
 I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have one. What do you use?
 
-10h ago
+11h ago
 
 ---
 
@@ -189,7 +189,7 @@ Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at 
 
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ ETF Trends • 1d ago
 
 The U.S. CLARITY Act could become a major catalyst for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and broader institutional crypto adoption, according to Bitwise Chief Investment Officer Matt Hougan. What Happened: Crypto markets are entering a transition phase where regulation,...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -241,27 +241,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 804 • 👍 98 • 💬 5 • ⏱️ 3:42 • 3h ago
-
----
-
-**[BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZLNQ7_OujrA)**
-
-BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 308 • 💬 75 • ⏱️ 22:39 • 8h ago
-
----
-
-**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xSP3p-zUW3I)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 204 • 👍 15 • 💬 1 • ⏱️ 4:52 • 8h ago
+👁️ 2K • 👍 138 • 💬 6 • ⏱️ 3:42 • 4h ago
 
 ---
 
@@ -271,7 +251,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 553 • 💬 43 • ⏱️ 17:37 • 1d ago
+👁️ 14K • 👍 557 • 💬 43 • ⏱️ 17:37 • 1d ago
+
+---
+
+**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xSP3p-zUW3I)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 214 • 👍 16 • 💬 1 • ⏱️ 4:52 • 8h ago
+
+---
+
+**[ETH: Elliott Wave Analysis Price Prediction | Weekly &amp; Daily | Ethererum Forecast &amp; Key Levels](https://www.youtube.com/watch?v=Yc66obm9MtE)**
+
+Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break down Bitcoin on the 4h and 1h charts using ...
+
+📺 Koenz Trading
+
+👁️ 618 • 👍 67 • 💬 17 • ⏱️ 6:04 • 4h ago
 
 ---
 
@@ -281,7 +281,17 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 5K • 💬 240 • ⏱️ 9:23 • 19h ago
+👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 20h ago
+
+---
+
+**[BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZLNQ7_OujrA)**
+
+BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 336 • 💬 181 • ⏱️ 22:39 • 9h ago
 
 ---
 
@@ -291,27 +301,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 205 • 💬 19 • ⏱️ 6:20 • 16h ago
-
----
-
-**[Ethereum Breaks the Downtrend: Why $6,400 Is Back on the Table (ETH 2026 Outlook)](https://www.youtube.com/watch?v=gbCF43nT4UA)**
-
-Ethereum just broke out of a months-long downtrend as on-chain staking activity strengthens the bullish case. In this video, we ...
-
-📺 CoinCodex
-
-👁️ 410 • 👍 17 • 💬 3 • ⏱️ 4:25 • 23h ago
-
----
-
-**[[LEAKED] ⚠️TOM LEE &quot;ETH IS ABOUT TO SQUEEZE BECAUSE OF THIS! BMNR STOCK⚠️](https://www.youtube.com/watch?v=R5c1E7QOjLQ)**
-
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
-
-📺 Short The Vix
-
-👁️ 9K • 👍 415 • 💬 43 • ⏱️ 12:31 • 1d ago
+👁️ 3K • 👍 207 • 💬 19 • ⏱️ 6:20 • 17h ago
 
 ---
 
@@ -321,7 +311,17 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 16K • 👍 1K • 💬 250 • ⏱️ 13:02 • 21h ago
+👁️ 16K • 👍 1K • 💬 268 • ⏱️ 13:02 • 21h ago
+
+---
+
+**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
+
+From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
+
+📺 The Value Thinker
+
+👁️ 16K • 👍 1K • 💬 170 • ⏱️ 26:25 • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 31K • 👍 941 • 💬 67 • ⏱️ 19:18 • 2d ago
+👁️ 31K • 👍 953 • 💬 68 • ⏱️ 19:18 • 2d ago
 
 ---
 

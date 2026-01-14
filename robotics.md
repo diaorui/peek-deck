@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T17:53:15.891911+00:00'
+updated: '2026-01-14T18:35:39.196371+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 17:53 UTC  
+**Last Updated:** January 14, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,7 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 Hello! I’m trying to design and configure something to put 12 stepper motors into a cassette for tendon based actuation along 36” and 3 points of movement. Has something like this been done? I’ve done some searches and I’m not finding much on compacting 12 stepper motors into a 12” space. I was looking at linear actuators, but even the research on them is scarce it seems and is gated behind pay walls. They also seem too large for what I am trying to accomplish. I don’t mind designing something of my own, but before I start from scratch, I wanted to see if I could accumulate some references or previous successes. Looking for resources or research papers on anything close. Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Google Robotics, discusses whether robotics could follow the same shift seen in AI, where generalist models eventually replaced task-specific systems. In AI, large models now handle many domains at once and can be adapted to specialized tasks with limited additional training. He outlines what would need to be true for robotics to make a similar transition, including access to large-scale data, scalable data collection, and effective use of simulation. At the same time, he points out that physical systems introduce constraints that software does not, such as safety, hardware limits, and real-world variability, leaving open the question of whether generalist approaches will outperform specialist robots or whether specialization will remain dominant longer in embodied AI.
 
-4h ago
+5h ago
 
 ---
 
@@ -98,13 +98,13 @@ Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Googl
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-11h ago
+12h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -114,7 +114,7 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -146,7 +146,7 @@ Yahoo Finance • 2d ago
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -154,7 +154,7 @@ TechCrunch • 1h ago
 
 The latest company information, including net asset values, performance, holding & sectors weighting, changes in voting rights, and directors and dealings.
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ Financial Times • 1h ago
 
 Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
 
-The Robot Report • 20h ago
+The Robot Report • 21h ago
 
 ---
 
@@ -174,7 +174,7 @@ Reuters • 1d ago
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 1h ago
+GeekWire • 2h ago
 
 ---
 
@@ -182,7 +182,7 @@ GeekWire • 1h ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 17h ago
+The Free Press • 18h ago
 
 ---
 
@@ -196,7 +196,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 140K • 👍 2K • 💬 367 • ⏱️ 11:46 • 3d ago
+👁️ 141K • 👍 2K • 💬 372 • ⏱️ 11:46 • 3d ago
 
 ---
 
@@ -206,7 +206,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 388K • 👍 12K • 💬 692 • ⏱️ 17:09 • 2d ago
+👁️ 393K • 👍 12K • 💬 706 • ⏱️ 17:09 • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 986K • 👍 31K • 💬 963 • ⏱️ 0:39 • 6d ago
+👁️ 991K • 👍 31K • 💬 966 • ⏱️ 0:39 • 6d ago
 
 ---
 
@@ -260,13 +260,13 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
-**[Realistic Human Robots #robot #robotics #tech](https://www.youtube.com/watch?v=LLXO0DAiOc8)**
+**[Robots Are Fighting at CES 2026 (In 3D VR180)](https://www.youtube.com/watch?v=8z_CAxDwr0Y)**
 
-shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgEyv FACEBOOK: ...
+Download 8K file and watch in XR: https://www.patreon.com/posts/ces-2026-180deg-148135326 | Robots are fighting at CES ...
 
-📺 Shacknews
+📺 Hugh Hou
 
-👁️ 789 • 👍 6 • 💬 1 • ⏱️ 0:33 • 16h ago
+👁️ 20K • 👍 120 • 💬 16 • ⏱️ 10:39 • 6d ago
 
 ---
 
@@ -276,17 +276,17 @@ When a robo-cleaner can notify you that a bar of gold was left on your living ro
 
 📺 mryeester
 
-👁️ 97K • 👍 5K • 💬 182 • ⏱️ 1:06 • 4d ago
+👁️ 98K • 👍 5K • 💬 183 • ⏱️ 1:06 • 4d ago
 
 ---
 
-**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
+**[The FUTURE of ROBOTS? AGIBOT X2 at CES 2026](https://www.youtube.com/watch?v=vllp72F8njU)**
 
-We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
+This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with excitement around what could be the next major leap ...
 
-📺 CNET
+📺 KhanFlicks
 
-👁️ 136K • 👍 458 • 💬 336 • ⏱️ 5:07 • 6d ago
+👁️ 4K • 👍 26 • 💬 33 • ⏱️ 8:09 • 1d ago
 
 ---
 

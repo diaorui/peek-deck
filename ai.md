@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T17:53:15.874165+00:00'
+updated: '2026-01-14T18:35:39.178351+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 17:53 UTC  
+**Last Updated:** January 14, 2026 at 18:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map, and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impressed, last time I used ChatGPT for anything involving calculation (years ago) it was laughably bad at it. Out of curiosity I've also asked it to analyze the energy consumption and environmental impact of the query as compared to baking some potatoes in an electric oven (something I do often). It - See the conversation yourselves if curious: https://chatgpt.com/share/6967989b-7bfc-800b-822f-6e59810e0463 Hoping this post belongs here, the chatgpt conversation log is only added for people's curiosity, not necessary for the content of this post to be understood.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Slackbot, the automated assistant baked into the Salesforce-owned corporate mess
 
 Does anyone know of an AI tool that can assist with marketing and sales stuff? I have a shopify store side project and I'm trying to get it off the ground. I was thinking if there's AI where I can use its intelligence gathered from thousands to millions of successful examples to help me set up my marketing campaigns, remind me of proven marketing basics and strategies, explain to me in details why my ad campaign didn't have the impact that I'd like and how I can improve it etc.
 
-5h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-12h ago
+13h ago
 
 ---
 
@@ -125,13 +125,13 @@ Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice:
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-NPR • 5h ago
+NPR • 6h ago
 
 ---
 
 **[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqcflZ1_pGB-wV_MvWA1RkdMMqcEBvja6wwi9HU5i_xAjkBdmwCzYd4l&gaa_ts=6967db70&gaa_sig=vofL-e7cLnBcb2v-LSQEdhJcYzSx3tTL3YkXdXpInERNmgJgWnPyxVjYpSH9Ea8bQG-jd2U28Ok46TXlbwjIIg%3D%3D)**
 
-The Wall Street Journal • 14h ago
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -139,19 +139,19 @@ The Wall Street Journal • 14h ago
 
 CrowdStrike has come out swinging in 2026 with some key deals. Here's why.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-The New York Times • 19m ago
+The New York Times • 1h ago
 
 ---
 
 **[AI data centers and average electricity users need separate checks](https://thehill.com/opinion/energy-environment/5686978-electricity-rates-data-center-impact/)**
 
-The Hill • 53m ago
+The Hill • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Deadline • 1h ago
 
 **[Sure, AI is speeding up work — it's also creating more](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 6h ago
 
 Candidates in pilot assessed on how they prompted consulting firm’s AI assistant and ability to adapt responses
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -199,13 +199,13 @@ Financial Times • 12h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 899 • 💬 674 • 23h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 899 • 💬 674 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 436 • 💬 237 • 19h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 436 • 💬 237 • 20h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -275,13 +275,13 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 ## YouTube Videos: "ai"
 
-**[Microsoft Shocks AI World: &quot;China AI Is Now Too Powerful&quot;](https://www.youtube.com/watch?v=vcUBUQOyzFI)**
+**[The #1 Ai Summit - Live With Alicia Lyttle!](https://www.youtube.com/watch?v=dwVd3UaksiE)**
 
-Microsoft just issued a warning that reframes the AI race: outside the West, China is gaining fast through scale, affordability, and ...
+Join the Ai Business Summit: https://aibusinesssummit.com?el=Nehemiah-Davis.
 
-📺 AI Revolution
+📺 Circle of Greatness with Nehemiah Davis
 
-👁️ 30K • 👍 900 • 💬 121 • ⏱️ 14:32 • 18h ago
+👁️ 4K • 👍 264 • 12h ago
 
 ---
 
@@ -291,7 +291,27 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Wes Roth
 
-👁️ 96K • 👍 3K • 💬 715 • ⏱️ 23:05 • 2d ago
+👁️ 97K • 👍 3K • 💬 716 • ⏱️ 23:05 • 2d ago
+
+---
+
+**[Microsoft Shocks AI World: &quot;China AI Is Now Too Powerful&quot;](https://www.youtube.com/watch?v=vcUBUQOyzFI)**
+
+Microsoft just issued a warning that reframes the AI race: outside the West, China is gaining fast through scale, affordability, and ...
+
+📺 AI Revolution
+
+👁️ 32K • 👍 943 • 💬 130 • ⏱️ 14:32 • 19h ago
+
+---
+
+**[OpenAI Just Dropped GPT HEALTH And People Are Freaking Out](https://www.youtube.com/watch?v=sPl_jYF8E5k)**
+
+OpenAI just launched ChatGPT Health — a dedicated health and wellness space inside ChatGPT — and it pushes ChatGPT into ...
+
+📺 AI Revolution
+
+👁️ 54K • 👍 1K • 💬 197 • ⏱️ 14:42 • 1d ago
 
 ---
 
@@ -301,7 +321,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 298K • 👍 29K • 💬 3K • ⏱️ 11:40 • 1d ago
+👁️ 312K • 👍 29K • 💬 3K • ⏱️ 11:40 • 1d ago
 
 ---
 
@@ -311,7 +331,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 62K • 👍 478 • 💬 113 • ⏱️ 7:57 • 2d ago
+👁️ 63K • 👍 482 • 💬 115 • ⏱️ 7:57 • 2d ago
 
 ---
 
@@ -321,37 +341,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 473K • 👍 7K • 💬 304 • ⏱️ 0:23 • 1d ago
-
----
-
-**[MARIO.AI](https://www.youtube.com/watch?v=pOAmybui4Zs)**
-
-DISCLAIMER: This game has ZERO usage of AI and was 100% made entirely by a team of real people nor does it have affiliation ...
-
-📺 Luigikid Gaming
-
-👁️ 9K • 👍 837 • 💬 74 • ⏱️ 11:30 • 20h ago
-
----
-
-**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
-
-I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
-
-📺 I Ask AI
-
-👁️ 182K • 👍 15K • 💬 3K • ⏱️ 13:08 • 1d ago
-
----
-
-**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
-
-Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
-
-📺 AI Revolution
-
-👁️ 42K • 👍 1K • 💬 55 • ⏱️ 14:29 • 2d ago
+👁️ 537K • 👍 7K • 💬 309 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -361,7 +351,7 @@ Join Chadd for another episode of Truck Talk. https://3of7projectstore.com.
 
 📺 3 of 7 Project
 
-👁️ 58K • 👍 5K • 💬 1K • ⏱️ 5:11 • 1d ago
+👁️ 61K • 👍 5K • 💬 1K • ⏱️ 5:11 • 1d ago
 
 ---
 
@@ -371,7 +361,17 @@ Elon Musk's AI chatbot Grok is facing intense criticism, accused of allowing X u
 
 📺 CBS Mornings
 
-👁️ 54K • 👍 742 • 💬 371 • ⏱️ 5:08 • 1d ago
+👁️ 55K • 👍 756 • 💬 377 • ⏱️ 5:08 • 1d ago
+
+---
+
+**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
+
+I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
+
+📺 I Ask AI
+
+👁️ 184K • 👍 15K • 💬 3K • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 36,933 • ❤️ 609 • 7d ago
+⬇️ 36,933 • ❤️ 616 • 7d ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 977 • 3h ago
+⬇️ 1,064,063 • ❤️ 984 • 17m ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 451 • 11h ago
+⬇️ 203 • ❤️ 468 • 12h ago
 
 ---
 
@@ -423,7 +423,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 3,897 • ❤️ 360 • 8d ago
+⬇️ 3,897 • ❤️ 361 • 8d ago
 
 ---
 
@@ -435,7 +435,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 252 • 19h ago
+⬇️ 32,276 • ❤️ 252 • 20h ago
 
 ---
 
@@ -447,7 +447,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 244 • 8h ago
+⬇️ 77 • ❤️ 250 • 9h ago
 
 ---
 
@@ -483,7 +483,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 22,649 • ❤️ 328 • 5d ago
+⬇️ 22,649 • ❤️ 329 • 5d ago
 
 ---
 
@@ -495,7 +495,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 28,833 • ❤️ 209 • 5d ago
+⬇️ 28,833 • ❤️ 210 • 5d ago
 
 ---
 
@@ -509,7 +509,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 3 • 💬 1 • ⭐ 2,042 • 2d ago
+▲ 4 • 💬 1 • ⭐ 2,042 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -521,7 +521,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 178 • 💬 5 • ⭐ 4,813 • 2mo ago
+▲ 178 • 💬 5 • ⭐ 4,848 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -551,18 +551,6 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
-**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
-
-*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
-
-Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
-
-▲ 0 • 💬 0 • ⭐ 28,582 • 19mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
-
----
-
 **[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
 
 *Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
@@ -572,6 +560,18 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 ▲ 3 • 💬 0 • ⭐ 28,606 • 19mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
+
+---
+
+**[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
+
+*Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
+
+Cross-Team Collaboration improves software quality by enabling multiple LLM agent teams to propose and communicate decisions.
+
+▲ 0 • 💬 0 • ⭐ 28,624 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.08979) • [💻 code](https://github.com/OpenBMB/ChatDev)
 
 ---
 
@@ -610,7 +610,7 @@ LlamaFactory is a unified framework enabling efficient fine-tuning of large lang
 
 Reinforcement learning for large language model agents suffers from discrimination collapse in open-ended tasks due to pointwise scalar scoring, which ArenaRL addresses through relative ranking and pairwise evaluation mechanisms.
 
-▲ 27 • 💬 1 • ⭐ 41 • 4d ago
+▲ 28 • 💬 1 • ⭐ 41 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.06487) • [💻 code](https://github.com/Alibaba-NLP/qqr) • [🔗 project](https://tongyi-agent.github.io/blog/arenarl/)
 
@@ -650,7 +650,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 179 • 13h ago
+⭐ 4.6k • 🔱 185 • 14h ago
 
 ---
 
@@ -660,7 +660,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 515 • 6d ago
+⭐ 3.9k • 🔱 516 • 6d ago
 
 ---
 
@@ -670,7 +670,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 145 • 2h ago
+⭐ 2.4k • 🔱 145 • 3h ago
 
 ---
 
@@ -680,7 +680,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 233 • 3d ago
+⭐ 2.1k • 🔱 234 • 3d ago
 
 ---
 
@@ -690,7 +690,17 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 6h ago
+⭐ 1.6k • 🔱 130 • 7h ago
+
+---
+
+**[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
+
+LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+
+`Python` `agent` `ai` `aigc` `gemini` `llm`
+
+⭐ 1.4k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -701,16 +711,6 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 `PowerShell`
 
 ⭐ 1.4k • 🔱 76 • 22d ago
-
----
-
-**[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
-
-LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
-
-`Python` `agent` `ai` `aigc` `gemini` `llm`
-
-⭐ 1.4k • 🔱 1.1k • 3h ago
 
 ---
 

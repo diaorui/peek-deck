@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T17:53:15.882616+00:00'
+updated: '2026-01-14T18:35:39.186949+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 17:53 UTC  
+**Last Updated:** January 14, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1942.11B
+**Market Cap:** $1936.30B
 Rank #1
 
-**Circulating Supply:** 19,975,790 BTC
+**Circulating Supply:** 19,975,815 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--22.8%
+-23.2%
 
 **All-Time Low:** $67.81
-+143359.7%
++142643.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ What’s happening?
 
 **[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ What’s happening?
 
 Big jump in price today!
 
-19h ago
+20h ago
 
 ---
 
@@ -139,7 +139,7 @@ Big jump in price today!
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ Big jump in price today!
 
 **[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqeNf4nBAl-1p61XIK5cn4IhaKbXhEvC78_QP6xM2_j-hE7I3QTocjH-&gaa_ts=6967db72&gaa_sig=OIddktebOkQihHf81CzEVg1MBNjnFc2kKeP_8Q9s76JvbzSFDho4XXlSAurBmSWhygnWhAZONbrjpgkbAkfgXA%3D%3D)**
 
-Barron's • 7h ago
+Barron's • 8h ago
 
 ---
 
@@ -163,7 +163,7 @@ Investor's Business Daily • 2h ago
 
 U.S. spot bitcoin ETFs took in $753.7 million on Tuesday, led by Fidelity, as analysts pointed to improving macro clarity and renewed institutional demand.
 
-Bitbo • 5h ago
+Bitbo • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 10h ago
 
 BTCO is a spot Bitcoin ETF with a 0.25% TER, liquid, and with externalized custody.
 
-Seeking Alpha • 43m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Bitcoin Magazine • 1h ago
 
 U.S. spot bitcoin ETFs saw their largest daily inflows in three months, with $753.7 million recorded on Tuesday. Is this a sign that investors have rotated back into risk assets following the year-end portfolio rebalancing? CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
 
-Yahoo Finance Singapore • 40m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance Singapore • 40m ago
 
 The largest cryptocurrency extended its rally, pushing related equities higher as well.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -313,7 +313,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 858 • 💬 87 • ⏱️ 46:37 • 2h ago
+👁️ 16K • 👍 1K • 💬 144 • ⏱️ 46:37 • 3h ago
 
 ---
 
@@ -323,7 +323,37 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 585 • 💬 57 • ⏱️ 47:15 • 2h ago
+👁️ 11K • 👍 821 • 💬 153 • ⏱️ 47:15 • 3h ago
+
+---
+
+**[MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON’T MISS OUT!](https://www.youtube.com/watch?v=DFSfetSV6QM)**
+
+MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S CHANNEL (AUSTIN'S ...
+
+📺 Austin Hilton
+
+👁️ 3K • 👍 424 • 💬 60 • ⏱️ 6:09 • 2h ago
+
+---
+
+**[What BlackRock Is REALLY Doing With Bitcoin](https://www.youtube.com/watch?v=Je5A3yiR0t4)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 3K • 👍 392 • 💬 35 • ⏱️ 9:34 • 1h ago
+
+---
+
+**[Altcoins Jump, Bitcoin Surges: Here Is The Latest Forecast And Trade Levels](https://www.youtube.com/watch?v=9LhOGTfAXas)**
+
+The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway alerted investors to a high-probability "Bull Flag" setup ...
+
+📺 Gareth Soloway
+
+👁️ 22K • 👍 2K • 💬 188 • ⏱️ 11:07 • 5h ago
 
 ---
 
@@ -333,27 +363,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 434 • ⏱️ 5:56 • 16h ago
-
----
-
-**[The Next Great Depression Is NOW?! (What it Means for Bitcoin)](https://www.youtube.com/watch?v=LVv1NHFXon8)**
-
-The Fed's latest moves aren't just monetary policy — they're signals. Quiet, coordinated, and global. Powell's speech and the ...
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 2K • 💬 185 • ⏱️ 15:44 • 18h ago
-
----
-
-**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 68K • 👍 5K • 💬 240 • ⏱️ 9:23 • 19h ago
+👁️ 24K • 👍 1K • 💬 442 • ⏱️ 5:56 • 17h ago
 
 ---
 
@@ -363,47 +373,37 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 4K • 👍 68 • 💬 20 • ⏱️ 5:02 • 5h ago
+👁️ 6K • 👍 85 • 💬 62 • ⏱️ 5:02 • 6h ago
 
 ---
 
-**[Crypto’s Big Comeback Just Began](https://www.youtube.com/watch?v=o2PipzWKVzU)**
+**[The Next Great Depression Is NOW?! (What it Means for Bitcoin)](https://www.youtube.com/watch?v=LVv1NHFXon8)**
 
-Bitcoin, SOL, ETH, Tesla, and altcoin trades as ETF flows explode. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+The Fed's latest moves aren't just monetary policy — they're signals. Quiet, coordinated, and global. Powell's speech and the ...
 
-📺 Lark Davis
+📺 Simply Bitcoin
 
-👁️ 13K • 👍 874 • 💬 51 • ⏱️ 15:54 • 6h ago
-
----
-
-**[Bitcoin Live Trading: Traders Gear Up! Best Entry Zones TODAY! EP1885](https://www.youtube.com/watch?v=HaB9BvnwA28)**
-
-Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
-
-📺 Crypto Lifer
-
-👁️ 3K • 👍 519 • 4h ago
+👁️ 21K • 👍 2K • 💬 191 • ⏱️ 15:44 • 18h ago
 
 ---
 
-**[Bitcoin: The Big Squeeze Is Happening](https://www.youtube.com/watch?v=JcybgdAoR9g)**
+**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
 
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
 
-📺 Jason Pizzino
+📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 442 • ⏱️ 26:56 • 15h ago
+👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 20h ago
 
 ---
 
-**[BITCOIN: IT&#39;S HAPPENING NOW!!!!!!!](https://www.youtube.com/watch?v=x1bMw875_lg)**
+**[THIS BITCOIN SIGNAL HAS NEVER BEEN WRONG BEFORE!! - Silver And Gold PUSHING BTC Higher!? - Analaysis](https://www.youtube.com/watch?v=oPvsP5BGtVE)**
 
-WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: https://partner.bybit.com/b/65864 Follow us on X: ...
 
-📺 Crypto Rover
+📺 Team Underground
 
-👁️ 7K • 👍 550 • 💬 41 • ⏱️ 10:22 • 12h ago
+👁️ 483 • 👍 38 • 💬 31 • ⏱️ 13:24 • 2h ago
 
 ---
 
