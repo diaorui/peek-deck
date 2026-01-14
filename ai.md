@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T03:48:53.492271+00:00'
+updated: '2026-01-14T04:47:48.543324+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- news
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 03:48 UTC  
+**Last Updated:** January 14, 2026 at 04:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
 
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 23h ago
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 1d ago
 
 ---
 
@@ -57,7 +57,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-8h ago
+9h ago
 
 ---
 
@@ -65,7 +65,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
 
-🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 1h ago
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Z.ai (creators of GLM) have released an open weight image generation model that 
 
 Bandcamp has announced that music and audio that is generated wholly or in substantial part by AI is not permitted on its platform.
 
-🔗 [Consequence](https://consequence.net/2026/01/bandcamp-bans-all-ai-music/) • 1m ago
+🔗 [Consequence](https://consequence.net/2026/01/bandcamp-bans-all-ai-music/) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Bandcamp has announced that music and audio that is generated wholly or in subst
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 3m ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 
 Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype?
 
-16h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 9h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 Anthropic launches Cowork, a no-code tool that brings Claude’s automation power to everyday users. Automate files, reports, and workflows easily.
 
-🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 22h ago
+🔗 [techputs](https://techputs.com/anthropic-cowork-claude-without-code/) • 23h ago
 
 ---
 
@@ -113,7 +113,7 @@ Anthropic launches Cowork, a no-code tool that brings Claude’s automation powe
 
 We are moving from experimentation to deployment while confronting economic and physical limits to the current development model. Data center capital will become more selective. Enterprise buyers will demand RoI accountability, reliability, and integration. Architectural innovation needs to expand beyond model scaling. AI will be a feature in the US elections given labor dislocation concerns. These are my takes. How do you see 2026 unfolding?
 
-🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 11h ago
+🔗 [forbes.com](https://www.forbes.com/sites/paulocarvao/2026/01/05/ai-in-2026-the-year-ai-meets-enterprise-and-politics/) • 12h ago
 
 ---
 
@@ -123,7 +123,7 @@ We are moving from experimentation to deployment while confronting economic and 
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 1d ago
 
 **[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqf_WeNgrwomazndY3tTTMXGD5Tn2v2vjaSxeW137yt9GIkQ-kizQaKN&gaa_ts=69671590&gaa_sig=tHs-BWBZjaEpnFLY6lrXulKrAGQSZtaIgp63ki_hzGIPVENOdhmuN-NzhlSMTrym7PzH0p0vkLIubPagz1ZkDg%3D%3D)**
 
-The Wall Street Journal • 48m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Wall Street Journal • 48m ago
 
 Microsoft says it will fund power and water impacts, expand local hiring and training, and boost municipal revenues as it accelerates U.S. data center growth.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -153,13 +153,13 @@ Yahoo Finance • 34m ago
 
 Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
 **[Adobe Analysts Turn Most Bearish Since 2013 as AI Threat Looms](https://www.bloomberg.com/news/articles/2026-01-13/adobe-analysts-turn-most-bearish-since-2013-as-ai-threat-looms)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 12h ago
 
 Federal officials say a company that operates hundreds of landing pages for AI answers is running an operation that has duped thousands of users, who were unable to stop costly monthly charges.
 
-NPR • 6h ago
+NPR • 7h ago
 
 ---
 
@@ -175,7 +175,7 @@ NPR • 6h ago
 
 Microsoft is launching a new initiative to build what we call Community-First AI Infrastructure—a commitment to do this work differently than some others and to do it responsibly.
 
-The Official Microsoft Blog • 14h ago
+The Official Microsoft Blog • 15h ago
 
 ---
 
@@ -183,7 +183,7 @@ The Official Microsoft Blog • 14h ago
 
 Fake images of LeBron James, iShowSpeed, Dwayne “The Rock” Johnson, and even Nicolás Maduro show them in bed with AI-generated influencers.
 
-404 Media • 9h ago
+404 Media • 10h ago
 
 ---
 
@@ -191,7 +191,7 @@ Fake images of LeBron James, iShowSpeed, Dwayne “The Rock” Johnson, and even
 
 DeepSeek’s technology is being rapidly adopted across Africa and beyond, tech group’s research shows
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -207,7 +207,7 @@ Financial Times • 22h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 631 • 💬 466 • 9h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 631 • 💬 466 • 10h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -223,13 +223,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 323 • 💬 96 • 9h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 323 • 💬 96 • 10h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 309 • 💬 168 • 5h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 309 • 💬 168 • 6h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -245,7 +245,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 208 • 💬 111 • 7h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 208 • 💬 111 • 8h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -269,7 +269,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 182 • 💬 181 • 15h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 182 • 💬 181 • 16h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -283,27 +283,7 @@ GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially a
 
 📺 Wes Roth
 
-👁️ 91K • 👍 3K • 💬 712 • ⏱️ 23:05 • 1d ago
-
----
-
-**[OpenAI Just Dropped GPT HEALTH And People Are Freaking Out](https://www.youtube.com/watch?v=sPl_jYF8E5k)**
-
-OpenAI just launched ChatGPT Health — a dedicated health and wellness space inside ChatGPT — and it pushes ChatGPT into ...
-
-📺 AI Revolution
-
-👁️ 43K • 👍 1K • 💬 182 • ⏱️ 14:42 • 1d ago
-
----
-
-**[AI chatbot accused of creating non‑consensual explicit deepfakes](https://www.youtube.com/watch?v=3jHgKaiyBS4)**
-
-An AI chatbot linked to Elon Musk is under fire after allegedly generating non‑consensual explicit deepfake images of real people, ...
-
-📺 CBS TEXAS
-
-👁️ 719 • 👍 1 • 💬 1 • ⏱️ 4:05 • 4h ago
+👁️ 92K • 👍 3K • 💬 715 • ⏱️ 23:05 • 2d ago
 
 ---
 
@@ -323,27 +303,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 53K • 👍 416 • 💬 94 • ⏱️ 7:57 • 1d ago
-
----
-
-**[Shopify&#39;s AI Memo Changed Hiring Forever—And Why Google, Meta &amp; Nvidia Are Copying It](https://www.youtube.com/watch?v=dzp0OQbElpU)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 13K • 👍 519 • 💬 100 • ⏱️ 25:36 • 12h ago
-
----
-
-**[HISTORIC MOMENT: Hegseth Joins Elon Musk at SpaceX to Launch Military AI Revolution | AI1Z](https://www.youtube.com/watch?v=K0eTdhGPxG8)**
-
-U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in Brownsville, Texas, on January 12, 2026, ...
-
-📺 DWS News
-
-👁️ 50K • 👍 605 • 💬 7 • ⏱️ 8:05 • 21h ago
+👁️ 55K • 👍 430 • 💬 102 • ⏱️ 7:57 • 1d ago
 
 ---
 
@@ -353,7 +313,7 @@ Meta and Harvard just released an open-source coding agent called Confucius Code
 
 📺 AI Revolution
 
-👁️ 40K • 👍 1K • 💬 53 • ⏱️ 14:29 • 2d ago
+👁️ 40K • 👍 1K • 💬 55 • ⏱️ 14:29 • 2d ago
 
 ---
 
@@ -363,7 +323,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 256K • 👍 5K • 💬 271 • ⏱️ 0:23 • 1d ago
+👁️ 266K • 👍 5K • 💬 281 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -373,7 +333,43 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 169K • 👍 14K • 💬 3K • ⏱️ 13:08 • 1d ago
+👁️ 173K • 👍 14K • 💬 3K • ⏱️ 13:08 • 1d ago
+
+---
+
+**[I bought 2 AI-generated dresses… here’s what they REALLY look like. 🙄](https://www.youtube.com/watch?v=BqbcrZUfTqo)**
+
+📺 Maggie McGaugh
+
+👁️ 317K • 👍 12K • 💬 105 • ⏱️ 0:49 • 1d ago
+
+---
+
+**[The &quot;Holy Grail&quot; of Open Source AI Video is Here (LTX-2)](https://www.youtube.com/watch?v=27UAb_Tlv4E)**
+
+In this video, I explore the newly released open-source model LTX 2, offering a comprehensive guide on how to run it locally on ...
+
+📺 MattVidPro AI
+
+👁️ 5K • 👍 333 • 💬 69 • ⏱️ 21:39 • 8h ago
+
+---
+
+**[HISTORIC MOMENT: Hegseth Joins Elon Musk at SpaceX to Launch Military AI Revolution | AI1Z](https://www.youtube.com/watch?v=K0eTdhGPxG8)**
+
+U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in Brownsville, Texas, on January 12, 2026, ...
+
+📺 DWS News
+
+👁️ 52K • 👍 618 • 💬 7 • ⏱️ 8:05 • 22h ago
+
+---
+
+**[Project AVA is Not an AI Waifu 😅](https://www.youtube.com/watch?v=6dVO-Kx3ZSk)**
+
+📺 Garett
+
+👁️ 497K • 👍 41K • 💬 2K • ⏱️ 0:43 • 12h ago
 
 ---
 
@@ -389,7 +385,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 860,720 • ❤️ 920 • 5d ago
+⬇️ 860,720 • ❤️ 929 • 5d ago
 
 ---
 
@@ -401,7 +397,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 30,479 • ❤️ 557 • 6d ago
+⬇️ 30,479 • ❤️ 570 • 6d ago
 
 ---
 
@@ -413,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 11,717 • ❤️ 748 • 13d ago
+⬇️ 11,717 • ❤️ 750 • 13d ago
 
 ---
 
@@ -425,7 +421,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 3,162 • ❤️ 341 • 8d ago
+⬇️ 3,162 • ❤️ 348 • 8d ago
 
 ---
 
@@ -449,7 +445,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 232 • 5h ago
+⬇️ 26,414 • ❤️ 237 • 6h ago
 
 ---
 
@@ -461,7 +457,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 1,062 • ❤️ 243 • 8d ago
+⬇️ 1,062 • ❤️ 244 • 8d ago
 
 ---
 
@@ -485,7 +481,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 23,229 • ❤️ 216 • 4d ago
+⬇️ 23,229 • ❤️ 223 • 4d ago
 
 ---
 
@@ -497,7 +493,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 23,003 • ❤️ 194 • 4d ago
+⬇️ 23,003 • ❤️ 197 • 4d ago
 
 ---
 
@@ -523,7 +519,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 104 • 💬 2 • ⭐ 2,266 • 7d ago
+▲ 105 • 💬 2 • ⭐ 2,266 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -541,32 +537,6 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 ---
 
-**[Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization](https://huggingface.co/papers/2601.05432)**
-
-*Yuxiang Ji, Yong Wang, Ziyu Ma et al. (9 authors)*
-
-🏢 alibaba-inc
-
-Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
-
-▲ 146 • 💬 4 • ⭐ 120 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 3 • 💬 0 • ⭐ 28,522 • 19mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
-
----
-
 **[Multi-Agent Software Development through Cross-Team Collaboration](https://huggingface.co/papers/2406.08979)**
 
 *Zhuoyun Du, Chen Qian, Wei Liu et al. (8 authors)*
@@ -579,6 +549,18 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 ---
 
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
+
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
+
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
+
+▲ 3 • 💬 0 • ⭐ 28,560 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
+
+---
+
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -588,9 +570,23 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 130 • 💬 18 • ⭐ 49,930 • 10mo ago
+▲ 130 • 💬 18 • ⭐ 49,966 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization](https://huggingface.co/papers/2601.05432)**
+
+*Yuxiang Ji, Yong Wang, Ziyu Ma et al. (9 authors)*
+
+🏢 alibaba-inc
+
+Large vision-language models are enhanced for image geolocalization by incorporating map-based reasoning and agent-in-the-map loop optimization, achieving superior accuracy compared to existing models.
+
+▲ 147 • 💬 4 • ⭐ 125 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.05432) • [💻 code](https://github.com/AMAP-ML/Thinking-with-Map) • [🔗 project](https://amap-ml.github.io/Thinking-with-Map/)
 
 ---
 
@@ -602,7 +598,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimodal search pipeline, leveraging multi-stage training and cross-attention mechanisms to achieve high-precision retrieval across diverse modalities.
 
-▲ 30 • 💬 2 • ⭐ 675 • 6d ago
+▲ 32 • 💬 2 • ⭐ 687 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.04720) • [💻 code](https://github.com/QwenLM/Qwen3-VL-Embedding)
 
@@ -614,7 +610,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-▲ 176 • 💬 6 • ⭐ 65,623 • 22mo ago
+▲ 176 • 💬 6 • ⭐ 65,654 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
 
@@ -642,17 +638,7 @@ A data-free self-evolution framework enables large language models to autonomous
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.3k • 🔱 1.1k • 11h ago
-
----
-
-**[snarktank/ralph](https://github.com/snarktank/ralph)**
-
-Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
-
-`TypeScript`
-
-⭐ 3.7k • 🔱 488 • 6d ago
+⭐ 8.4k • 🔱 1.1k • 25s ago
 
 ---
 
@@ -662,7 +648,17 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 132 • 5h ago
+⭐ 3.8k • 🔱 145 • 53m ago
+
+---
+
+**[snarktank/ralph](https://github.com/snarktank/ralph)**
+
+Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
+`TypeScript`
+
+⭐ 3.7k • 🔱 496 • 6d ago
 
 ---
 
@@ -672,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 142 • 2h ago
+⭐ 2.3k • 🔱 142 • 3h ago
 
 ---
 
@@ -712,7 +708,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 115 • 1d ago
+⭐ 1.4k • 🔱 116 • 1d ago
 
 ---
 
@@ -732,7 +728,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.1k • 🔱 745 • 12h ago
+⭐ 1.2k • 🔱 836 • 13h ago
 
 ---
 

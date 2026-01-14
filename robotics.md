@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T03:48:53.510038+00:00'
+updated: '2026-01-14T04:47:48.561063+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 03:48 UTC  
+**Last Updated:** January 14, 2026 at 04:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 15h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 16h ago
 
 ---
 
@@ -44,7 +44,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-17h ago
+18h ago
 
 ---
 
@@ -66,13 +66,13 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-20h ago
+21h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -80,13 +80,13 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-10h ago
+11h ago
 
 ---
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -94,7 +94,7 @@ LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Cont
 
 Made a list tracking the Physical AI space — foundation models that control robots. Covers Vision-Language-Action (VLA) models like RT-2 and π₀, world models (DreamerV3, Genie 2), diffusion policies, real-world deployment and latency problems, cross-embodiment transfer, humanoids, manipulation, and navigation. Also datasets (Open X-Embodiment, DROID) and sim platforms (Isaac, ManiSkill3, Genesis). GitHub in comments. PRs welcome.
 
-🔗 [GitHub](https://github.com/keon/awesome-physical-ai) • 4h ago
+🔗 [GitHub](https://github.com/keon/awesome-physical-ai) • 5h ago
 
 ---
 
@@ -124,7 +124,7 @@ Bloomberg.com • 1d ago
 
 Implementing automation systems requires a lot of planning, time and money
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -140,7 +140,7 @@ BBC • 2d ago
 
 Schaeffler will provide actuators for Humanoid's systems, which will be available through a robotics-as-a-service model.
 
-The Robot Report • 17h ago
+The Robot Report • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -180,7 +180,7 @@ CNBC • 1d ago
 
 Japanese researchers develop an adaptive robot motion system that enables human-like grasping using minimal training data.
 
-Interesting Engineering • 3h ago
+Interesting Engineering • 4h ago
 
 ---
 
@@ -188,23 +188,13 @@ Interesting Engineering • 3h ago
 
 ## YouTube Videos: "robotics"
 
-**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
-
-Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
-
-📺 Kim Java
-
-👁️ 342K • 👍 10K • 💬 622 • ⏱️ 17:09 • 1d ago
-
----
-
 **[The Biggest Robot Exhibition in Las Vegas | CES 2026](https://www.youtube.com/watch?v=Kpw1N-Ej_xo)**
 
 For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hello, friends! Welcome to the future. Today we're ...
 
 📺 PRO ROBOTS
 
-👁️ 60K • 👍 1K • 💬 95 • ⏱️ 18:58 • 5d ago
+👁️ 61K • 👍 1K • 💬 94 • ⏱️ 18:58 • 5d ago
 
 ---
 
@@ -214,7 +204,17 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 130K • 👍 2K • 💬 349 • ⏱️ 11:46 • 2d ago
+👁️ 134K • 👍 2K • 💬 353 • ⏱️ 11:46 • 2d ago
+
+---
+
+**[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
+
+Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
+
+📺 Kim Java
+
+👁️ 353K • 👍 11K • 💬 644 • ⏱️ 17:09 • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 10K • 👍 574 • 💬 37 • ⏱️ 9:28 • 3d ago
+👁️ 10K • 👍 580 • 💬 37 • ⏱️ 9:28 • 3d ago
 
 ---
 
@@ -234,7 +234,17 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 95K • 👍 1K • 💬 167 • ⏱️ 10:48 • 3d ago
+👁️ 96K • 👍 1K • 💬 168 • ⏱️ 10:48 • 3d ago
+
+---
+
+**[Realistic Human Robots #robot #robotics #tech](https://www.youtube.com/watch?v=LLXO0DAiOc8)**
+
+shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgEyv FACEBOOK: ...
+
+📺 Shacknews
+
+👁️ 394 • 👍 1 • ⏱️ 0:33 • 3h ago
 
 ---
 
@@ -242,47 +252,37 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 Wowearth
 
-👁️ 27K • 👍 411 • 💬 39 • ⏱️ 1:16 • 17h ago
+👁️ 30K • 👍 443 • 💬 39 • ⏱️ 1:16 • 18h ago
 
 ---
 
-**[CES 2026 | Inside Hyundai Motor Group’s AI Robotics Exhibition | #Shorts](https://www.youtube.com/watch?v=vZ-Mhx3HXFQ)**
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
-Step inside Hyundai Motor Group's CES 2026 exhibition booth, where humanoid robots and future mobility come together.
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
-📺 Hyundai Motor Group
+📺 joeybtoonz
 
-👁️ 570K • 👍 45 • 💬 1 • ⏱️ 0:59 • 6d ago
-
----
-
-**[These humanoid robots are ‘driven by AI’, says Arm CEO](https://www.youtube.com/watch?v=cDWE6aAxyBk)**
-
-Arm Holdings CEO Rene Haas discusses AgiBot's humanoid robot and how AI enhances its capabilities on 'The Claman ...
-
-📺 Fox Business
-
-👁️ 17K • 👍 327 • 💬 128 • ⏱️ 3:53 • 3d ago
+👁️ 96K • 👍 8K • 💬 1K • ⏱️ 5:12 • 7h ago
 
 ---
 
-**[CES 2026 | Atlas and Spot Leading AI Robotics](https://www.youtube.com/watch?v=yGGoEWjrxMg)**
+**[The FUTURE of ROBOTS? AGIBOT X2 at CES 2026](https://www.youtube.com/watch?v=vllp72F8njU)**
 
-Inside the core technologies shaping the AI Robotics ecosystem. From next-generation Atlas humanoids to Spot powered by Orbit ...
+This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with excitement around what could be the next major leap ...
 
-📺 Hyundai Motor Group
+📺 KhanFlicks
 
-👁️ 141K • 👍 182 • 💬 8 • ⏱️ 1:06 • 7d ago
+👁️ 2K • 👍 25 • 💬 31 • ⏱️ 8:09 • 15h ago
 
 ---
 
-**[Chinese Robot For Homes Invades US #humanoidrobot #robot #robotics #airobot #ai](https://www.youtube.com/watch?v=6h9g3ESZqy4)**
+**[Robot Scoring Demonstrations &amp; Breakdown | Ri3D Cranberry Alarm | REBUILT 2026](https://www.youtube.com/watch?v=TTUpKJGgtI0)**
 
-The Chinese startup Zeroth Robotics just emerged from stealth with an aggressive push into the US market with its AI-powered ...
+Robot Scoring Demonstrations and Breakdown | Ri3D Cranberry Alarm | REBUILT 2026 Robot in 3 Days team Cranberry Alarm ...
 
-📺 Kalil 4.0
+📺 FUN Robotics Network
 
-👁️ 2K • 👍 52 • 💬 10 • ⏱️ 1:10 • 1d ago
+👁️ 9K • 👍 242 • 💬 13 • ⏱️ 57:02 • 9h ago
 
 ---
 
