@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T19:41:23.223995+00:00'
+updated: '2026-01-14T20:23:40.844922+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 19:41 UTC  
+**Last Updated:** January 14, 2026 at 20:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,23 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-3h ago
+4h ago
+
+---
+
+**[The Race for Trillions - Tesla Optimus V3 and the Evolving Robotics Battlefield 2026](https://www.reddit.com/r/robotics/comments/1qcy7dl/the_race_for_trillions_tesla_optimus_v3_and_the/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 4m ago
+
+---
+
+**[I Found the World’s First AI Robotic Monitor at CES 2026 🤖 | CyboPal ONE](https://www.reddit.com/r/robotics/comments/1qcy5na/i_found_the_worlds_first_ai_robotic_monitor_at/)**
+
+Robotic arm attached to your monitor… thoughts? I personally think it’s pretty cool! I mean it’s like Ironman but it’s not lol
+
+🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 5m ago
 
 ---
 
@@ -58,7 +74,15 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-9h ago
+10h ago
+
+---
+
+**[Can an Arducam ToF + Raspberry Pi detect the tip of a Christmas tree?](https://www.reddit.com/r/robotics/comments/1qcxeyq/can_an_arducam_tof_raspberry_pi_detect_the_tip_of/)**
+
+Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
+
+32m ago
 
 ---
 
@@ -66,7 +90,7 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 Hello! I’m trying to design and configure something to put 12 stepper motors into a cassette for tendon based actuation along 36” and 3 points of movement. Has something like this been done? I’ve done some searches and I’m not finding much on compacting 12 stepper motors into a 12” space. I was looking at linear actuators, but even the research on them is scarce it seems and is gated behind pay walls. They also seem too large for what I am trying to accomplish. I don’t mind designing something of my own, but before I start from scratch, I wanted to see if I could accumulate some references or previous successes. Looking for resources or research papers on anything close. Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -86,30 +110,6 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 ---
 
-**[Boston Dynamics just dropped the 'fully electric' Atlas product line. 56 degrees of freedom, 30,000 units/year planned, and it swaps its own batteries.](https://www.reddit.com/r/robotics/comments/1qbptff/boston_dynamics_just_dropped_the_fully_electric/)**
-
-Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
-
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 1d ago
-
----
-
-**[Generalist Models and Embodied AI](https://www.reddit.com/r/robotics/comments/1qcmit2/generalist_models_and_embodied_ai/)**
-
-Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Google Robotics, discusses whether robotics could follow the same shift seen in AI, where generalist models eventually replaced task-specific systems. In AI, large models now handle many domains at once and can be adapted to specialized tasks with limited additional training. He outlines what would need to be true for robotics to make a similar transition, including access to large-scale data, scalable data collection, and effective use of simulation. At the same time, he points out that physical systems introduce constraints that software does not, such as safety, hardware limits, and real-world variability, leaving open the question of whether generalist approaches will outperform specialist robots or whether specialization will remain dominant longer in embodied AI.
-
-6h ago
-
----
-
-**[How many fingers does a robot really need?](https://www.reddit.com/r/robotics/comments/1qcfite/how_many_fingers_does_a_robot_really_need/)**
-
-Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
-
-13h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,13 +118,13 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
-TechCrunch • 3h ago
+TechCrunch • 4h ago
 
 ---
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -132,7 +132,7 @@ Bloomberg.com • 6h ago
 
 Greenberg Traurig shares insights about how to choose the right IP strategy when algorithms, and not humans, drive innovation.
 
-The Robot Report • 55m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -144,7 +144,7 @@ Reuters • 1d ago
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 3h ago
+GeekWire • 4h ago
 
 ---
 
@@ -168,7 +168,15 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 19h ago
+The Free Press • 20h ago
+
+---
+
+**[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
+
+Joe Tidy meets robots being trained to tidy up all your mess.
+
+BBC • 2d ago
 
 ---
 
@@ -176,15 +184,7 @@ The Free Press • 19h ago
 
 While physical products made the biggest initial splash at this yearâs CES, itâs the news about robotics platforms and tools that will have the most long-term impact. Read more here...
 
-Seeking Alpha • 7h ago
-
----
-
-**[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
-
-Implementing automation systems requires a lot of planning, time and money
-
-Financial Times • 1d ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 📺 PRO ROBOTS
 
-👁️ 62K • 👍 1K • 💬 95 • ⏱️ 18:58 • 5d ago
+👁️ 62K • 👍 1K • 💬 95 • ⏱️ 18:58 • 6d ago
 
 ---
 

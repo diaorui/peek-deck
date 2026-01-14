@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T19:41:23.214723+00:00'
+updated: '2026-01-14T20:23:40.835645+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 19:41 UTC  
+**Last Updated:** January 14, 2026 at 20:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $96,399.30
+### $97,989.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** +6.6%  
-**30d:** +10.9%  
-**90d:** -9.0%  
-**1y:** -3.2%  
+**24h:** +3.7%  
+**7d:** +7.1%  
+**30d:** +11.4%  
+**90d:** -8.6%  
+**1y:** -2.8%  
 
 ---
 
@@ -79,19 +79,27 @@ Rank #1
 
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-2h ago
+3h ago
 
 ---
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-5h ago
+6h ago
+
+---
+
+**[What’s driving the surge?](https://www.reddit.com/r/Bitcoin/comments/1qcvmf8/whats_driving_the_surge/)**
+
+Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
+
+1h ago
 
 ---
 
@@ -99,7 +107,19 @@ Rank #1
 
 What’s happening?
 
-4h ago
+5h ago
+
+---
+
+**[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
+
+2h ago
+
+---
+
+**[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
+
+2h ago
 
 ---
 
@@ -108,26 +128,6 @@ What’s happening?
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
 12h ago
-
----
-
-**[What’s driving the surge?](https://www.reddit.com/r/Bitcoin/comments/1qcvmf8/whats_driving_the_surge/)**
-
-Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
-
-55m ago
-
----
-
-**[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
-
-1h ago
-
----
-
-**[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
-
-1h ago
 
 ---
 
@@ -141,7 +141,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 Big jump in price today!
 
-21h ago
+22h ago
 
 ---
 
@@ -149,9 +149,9 @@ Big jump in price today!
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcyC0Kn3y1CeYihZ_qQTWKv8BmloqRd_xNJ0roTiMIBjjkhb4QAPiY5&gaa_ts=6967efee&gaa_sig=By-2ChLnAjMELRnBNeV0jkksIyW98Y5OcVg6MfK59Wh6l79GSH6utxuxfbmzZ1L0zGluDQ-MDYANAFb0jGFUVQ%3D%3D)**
+**[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqdcC_2I0vApJ9CvKfgVoWU6eh6CORVbLTqDkXWAUgzSMfUYDBuedb_3&gaa_ts=6967feba&gaa_sig=fWP9Xv2B_oeo1I3lcn6gmxASRrr_smirFc1EyMwa7buAbldC3dmLqEo4hzgW6aqnPA__XsQDdKfMTqhHQgIWJg%3D%3D)**
 
-Barron's • 9h ago
+Barron's • 10h ago
 
 ---
 
@@ -161,39 +161,41 @@ Investor's Business Daily • 4h ago
 
 ---
 
-**[Bitcoin Hits 2-Month High—Here’s Why Crypto Is Rallying](https://www.forbes.com/sites/tylerroush/2026/01/14/bitcoin-reaches-2-month-high-as-crypto-rallies-heres-why/)**
+**[JPMorgan earnings, Intel, bitcoin above $94K: Market Takeaways](https://finance.yahoo.com/video/jpmorgan-earnings-intel-bitcoin-above-221500740.html)**
 
-Forbes • 29m ago
+US stocks (^DJI, ^IXIC, ^GSPC) fell in Tuesday's trading session following the release of December's Consumer Price Index (CPI) inflation report this morning. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including Big Bank earnings season kicking off with JPMorgan Chase's (JPM) results, Intel (INTC) breaking outside its trading range, and bitcoin (BTC-USD) bouncing back above $94,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
----
-
-**[From ETF Convenience To Wrench Attack Nightmares: The Shocking Evolution Of Bitcoin Security](https://bitcoinmagazine.com/business/the-state-of-bitcoin-self-custody-in-2026-w-casa-ceo)**
-
-As Bitcoin stabilizes post-bull run, ETFs lure the masses, but savvy holders face rising physical attacks; discover how Casa's geopolitical hedges turn your wallet into a fortress against everything from criminals to governments.
-
-Bitcoin Magazine • 1h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[The Daily: Bitcoin taps $97K amid 'Goldilocks' macro backdrop, Ripple secures preliminary license in EU payments push, and more](https://www.theblock.co/post/385632/the-daily-bitcoin-taps-97k-amid-goldilocks-macro-backdrop-ripple-secures-preliminary-license-in-eu-payments-push-and-more?utm_source=policy.xml&utm_medium=rss)**
 
-The Block • 53m ago
+The Block • 1h ago
 
 ---
 
-**[Bitcoin (BTC) price climbs past $97,000 as investors seek haven assets](https://www.coindesk.com/markets/2026/01/14/bitcoin-rallies-past-usd97-000-as-investors-seek-haven-assets)**
+**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
 
-The largest cryptocurrency extended its rally, pushing related equities higher as well.
+Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
 
-CoinDesk • 3h ago
+CoinDesk • 12h ago
 
 ---
 
-**[MicroStrategy’s Near-Term Outlook Depends on This Bitcoin Price Level](https://finance.yahoo.com/news/microstrategy-near-term-outlook-depends-215546757.html)**
+**[Bitcoin retakes $95K amid strongest spot ETF inflows since October (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4539122-bitcoin-retakes-95k-amid-strongest-spot-etf-flows-since-october)**
 
-Strategy’s $1.25 billion Bitcoin buy puts the $88K-$92K band in focus. A breakdown could rattle MSTR sentiment.
+Bitcoin tops $95K as spot BTC ETF inflows hit the highest since Oct, signaling renewed risk appetite.
 
-Yahoo Finance • 1d ago
+Seeking Alpha • 5h ago
+
+---
+
+**[Bitcoin Stuck at $90K as $1.1 Billion ETF Outflows Signal “Boring Sideways” Era](https://finance.yahoo.com/news/bitcoin-stuck-90k-1-1-184256155.html)**
+
+Bitcoin ETF outflows have reached $1.1 billion in just three days—yet the price hasn’t collapsed. That kind of exit usually signals trouble, but the market reaction has been different this time. Bitcoin (CRYPTO: BTC) has traded between $90,000 and $95,000 through early January despite the ETF exodus, creating a disconnect that defines the current market ... Bitcoin Stuck at $90K as $1.1 Billion ETF Outflows Signal “Boring Sideways” Era
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,19 +207,19 @@ Bitcoin Magazine • 3h ago
 
 ---
 
+**[MicroStrategy’s Near-Term Outlook Depends on This Bitcoin Price Level](https://finance.yahoo.com/news/microstrategy-near-term-outlook-depends-215546757.html)**
+
+Strategy’s $1.25 billion Bitcoin buy puts the $88K-$92K band in focus. A breakdown could rattle MSTR sentiment.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Michael Saylor slams interviewer for questioning Bitcoin treasury model: ‘Ignorant and offensive’](https://www.dlnews.com/articles/markets/michael-saylor-hits-back-at-criticism-of-bitcoin-treasury-model/)**
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
 dlnews.com • 1d ago
-
----
-
-**[These Finnish homes are being heated by a surprising source: bitcoin](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/)**
-
-Can the reuse of crypto mining’s waste heat redeem its carbon footprint?
-
-grist.org • 2h ago
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 821 • 💬 153 • ⏱️ 47:15 • 4h ago
+👁️ 11K • 👍 821 • 💬 153 • ⏱️ 47:15 • 5h ago
 
 ---
 
@@ -333,7 +335,7 @@ MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S 
 
 📺 Austin Hilton
 
-👁️ 3K • 👍 424 • 💬 60 • ⏱️ 6:09 • 3h ago
+👁️ 3K • 👍 424 • 💬 60 • ⏱️ 6:09 • 4h ago
 
 ---
 
@@ -343,7 +345,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 3K • 👍 392 • 💬 35 • ⏱️ 9:34 • 2h ago
+👁️ 3K • 👍 392 • 💬 35 • ⏱️ 9:34 • 3h ago
 
 ---
 
@@ -363,7 +365,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 442 • ⏱️ 5:56 • 18h ago
+👁️ 24K • 👍 1K • 💬 442 • ⏱️ 5:56 • 19h ago
 
 ---
 
@@ -373,7 +375,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 6K • 👍 85 • 💬 62 • ⏱️ 5:02 • 7h ago
+👁️ 6K • 👍 85 • 💬 62 • ⏱️ 5:02 • 8h ago
 
 ---
 
@@ -383,7 +385,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 191 • ⏱️ 15:44 • 19h ago
+👁️ 21K • 👍 2K • 💬 191 • ⏱️ 15:44 • 20h ago
 
 ---
 
@@ -393,7 +395,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 21h ago
+👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T19:41:23.220731+00:00'
+updated: '2026-01-14T20:23:40.841710+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 19:41 UTC  
+**Last Updated:** January 14, 2026 at 20:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,345.41
+### $3,375.19
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** +7.8%  
-**30d:** +13.2%  
-**90d:** -12.4%  
-**1y:** -2.8%  
+**24h:** +5.4%  
+**7d:** +8.6%  
+**30d:** +14.1%  
+**90d:** -11.7%  
+**1y:** -2.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -99,7 +99,7 @@ vulnerabilities reported through the Ethereum Foundation bug bounty program.
 
 As with all our previous releases,...
 
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 17h ago
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 18h ago
 
 ---
 
@@ -107,7 +107,7 @@ As with all our previous releases,...
 
 I had a concept that I may begin programming based on what you guys say here. What if you could earn extra yield on staked ETH just by signing a message every 6 months? The idea is that I'd make an on chain (and possibly on scaling solutions) smart contract where you can deposit your Staked ETH, then everyone needs to sign a message every 6 months for example. If they don't sign the message on the 6th month, then on the 7th month 10% of their balance gets equally distributed between all staked staked tokens. If you fail to sign you'd forfeit 10% of your balance, which would keep going down every month until your wallet is eventually drained. I (The creator) would make money by charging a 2.5% fee on re-distributing the forfeited funds. It would be 6 months after you sign up, so there would in theory be consistent rewards year round (Avoiding people buying Staked Staked ETH right before the forfeit date) This would earn extra yield on already staked coins just by signing a message every few months. With a transparent smart contract there would be near zero need to trust me, no counterparty risk. Updates could be voted on by holding Staked Staked ETH
 
-4h ago
+5h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 2d ago
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -177,17 +177,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[ETHGas launches GWEI token to govern Ethereum blockspace and make onchain execution predictable](https://www.theblock.co/post/385414/ethgas-launches-gwei-token-govern-ethereum-blockspace-onchain-execution-predictable)**
+**[Tom Lee's Ethereum "Supercycle" Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://247wallst.com/investing/2026/01/13/tom-lees-ethereum-supercycle-call-why-he-bought-88m-more-eth-at-3200-and-predicts-10x-returns/)**
 
-The Block • 1d ago
+Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
 
----
-
-**[Bitmine stakes $4bn Ethereum. Why Tom Lee forecasts price jump in 2026](https://www.dlnews.com/articles/markets/bitmine-stakes-usd-4bn-ethereum-tom-lee-forecasts-price-jump/)**
-
-Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
-
-dlnews.com • 1d ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -207,7 +201,7 @@ ETF Trends • 1d ago
 
 **[Here Are the Exact Reasons Why Ethereum, Bitcoin, and Crypto Prices Are Up](https://www.binance.com/en/square/post/35068819106073)**
 
-Binance • 9h ago
+Binance • 10h ago
 
 ---
 
@@ -223,7 +217,15 @@ Investing.com • 1d ago
 
 Ethereum price held steady on Wednesday, continuing a trend that has been going on in the past few weeks. ETH token rose to $3,340, and this trend may accelerate in the coming months as it has formed the highly bullish inverse head-and-shoulders pattern, and the spot ETH ETF inflows have continued…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
+
+---
+
+**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
+
+Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
+
+Seeking Alpha • 5h ago
 
 ---
 
@@ -267,7 +269,7 @@ Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break d
 
 📺 Koenz Trading
 
-👁️ 618 • 👍 67 • 💬 17 • ⏱️ 6:04 • 5h ago
+👁️ 618 • 👍 67 • 💬 17 • ⏱️ 6:04 • 6h ago
 
 ---
 
@@ -277,7 +279,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 21h ago
+👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 22h ago
 
 ---
 
@@ -287,7 +289,7 @@ BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 4K • 👍 336 • 💬 181 • ⏱️ 22:39 • 10h ago
+👁️ 4K • 👍 336 • 💬 181 • ⏱️ 22:39 • 11h ago
 
 ---
 
@@ -297,7 +299,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 207 • 💬 19 • ⏱️ 6:20 • 18h ago
+👁️ 3K • 👍 207 • 💬 19 • ⏱️ 6:20 • 19h ago
 
 ---
 
@@ -307,7 +309,7 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 16K • 👍 1K • 💬 268 • ⏱️ 13:02 • 22h ago
+👁️ 16K • 👍 1K • 💬 268 • ⏱️ 13:02 • 23h ago
 
 ---
 

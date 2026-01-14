@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T19:41:23.206325+00:00'
+updated: '2026-01-14T20:23:40.827126+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 19:41 UTC  
+**Last Updated:** January 14, 2026 at 20:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 13h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 23m ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ The feature will start with paid users only, and it's off by default.
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-23h ago
+1d ago
 
 ---
 
@@ -73,15 +73,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems.1 The difference lies in Design Patterns. Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" because they began writing an answer before they had a full strategy. The Plan-Then-Execute pattern (often implemented as Reason-and-Act or ReAct) forces the assistant to pause. When a user asks a complex question—like "Analyze our Q3 spending and find three areas for cost reduction"—the assistant doesn't start typing the report. Instead, it creates a Task Decomposition tree: Access the financial database. Filter for Q3 transactions. Categorize expenses. Run a comparison against Q2. By separating the "thinking" (planning) from the "doing" (execution), assistants become significantly more accurate and can handle multi-step workflows without losing the thread. 2. The "Reflective" Pattern (Self-Correction)2 Even the best models make mistakes. The Reflection Pattern introduces a secondary "Critic" loop. In this architecture, the assistant generates an initial output, but before the user sees it, the system passes that output back to itself (or a specialized "Verifier" model) with a prompt: "Check this response for factual errors or compliance violations." If the Verifier finds a mistake, the assistant iterates. This design pattern is the backbone of Safe AI, ensuring that "Shadow AI" behaviors—like leaking internal PII or hallucinating legal clauses—are caught in a private, internal loop before they ever reach the user interface. 3. The "Human-in-the-Loop" (HITL) Gateway As AI assistants move into high-stakes environments like M&A due diligence or medical reporting, total autonomy is often a liability. The HITL Gateway pattern creates mandatory "checkpoints." Rather than the AI executing a wire transfer or finalizing a contract, the pattern requires the assistant to present a Draft & Justification. The Draft: The proposed action. The Justification: A "chain-of-thought" explanation of why it chose this action. The human acts as the final "gatekeeper," clicking "Approve" or "Edit" before the agent proceeds.3 This builds trust and ensures accountability in regulated industries. 4. The Multi-Agent Orchestration (Swarm) Pattern The most powerful assistants today aren't single models; they are teams. In the Orchestration Pattern, a "Manager Agent" receives the user's request and delegates sub-tasks to specialized "Worker Agents."4 For example, a Legal Assistant might consist of: The Researcher: Specialized in searching internal document silos (Vectorization/RAG). The Writer: Specialized in drafting compliant prose. The Auditor: A high-precision model trained specifically on SEC or GDPR guidelines. This modular approach allows developers to "swap" out the Researcher or Auditor as new, better models become available without rebuilding the entire system. 5. The "Context-Aware Memory" Pattern Standard LLMs are "stateless"—they forget who you are the moment the chat ends. Modern assistants use a Stateful Memory Pattern. This involves two layers: Short-Term Memory: Current session context (stored in the prompt window). Long-Term Memory: User preferences, past projects, and "Local Data" (stored in a Vector Database). By using Vectorization to index a user’s history, the assistant can recall that "Project X" refers to the merger discussed three months ago, providing a seamless, personalized experience that feels like a real partnership. The Future: Zero-Trust Design As we look toward the end of 2026, the "Golden Pattern" is becoming Zero-Trust AI Architecture. This pattern assumes that even the model cannot be fully trusted with raw data. It utilizes local redaction agents to scrub sensitive information before the planning and execution loops begin. By implementing these patterns, organizations can move past the "experimental" phase of AI and build robust, enterprise-grade tools that don't just chat, but actually solve problems.
 
-59m ago
-
----
-
-**[DeltaV calculation comparison between human KSP player and ChatGPT using deltaV map](https://www.reddit.com/r/artificial/comments/1qcod47/deltav_calculation_comparison_between_human_ksp/)**
-
-I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map, and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impressed, last time I used ChatGPT for anything involving calculation (years ago) it was laughably bad at it. Out of curiosity I've also asked it to analyze the energy consumption and environmental impact of the query as compared to baking some potatoes in an electric oven (something I do often). It - See the conversation yourselves if curious: https://chatgpt.com/share/6967989b-7bfc-800b-822f-6e59810e0463 Hoping this post belongs here, the chatgpt conversation log is only added for people's curiosity, not necessary for the content of this post to be understood.
-
-5h ago
+1h ago
 
 ---
 
@@ -89,7 +81,15 @@ I was curious about the math and vision skills of the current incarnation of Cha
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 15h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 16h ago
+
+---
+
+**[Grok and the A.I. Porn Problem](https://www.reddit.com/r/artificial/comments/1qcxxk0/grok_and_the_ai_porn_problem/)**
+
+Elon Musk’s X is living up to its name.
+
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 14m ago
 
 ---
 
@@ -97,7 +97,15 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-13h ago
+14h ago
+
+---
+
+**[DeltaV calculation comparison between human KSP player and ChatGPT using deltaV map](https://www.reddit.com/r/artificial/comments/1qcod47/deltav_calculation_comparison_between_human_ksp/)**
+
+I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map, and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impressed, last time I used ChatGPT for anything involving calculation (years ago) it was laughably bad at it. Out of curiosity I've also asked it to analyze the energy consumption and environmental impact of the query as compared to baking some potatoes in an electric oven (something I do often). It - See the conversation yourselves if curious: https://chatgpt.com/share/6967989b-7bfc-800b-822f-6e59810e0463 Hoping this post belongs here, the chatgpt conversation log is only added for people's curiosity, not necessary for the content of this post to be understood.
+
+6h ago
 
 ---
 
@@ -105,15 +113,7 @@ Slackbot, the automated assistant baked into the Salesforce-owned corporate mess
 
 Does anyone know of an AI tool that can assist with marketing and sales stuff? I have a shopify store side project and I'm trying to get it off the ground. I was thinking if there's AI where I can use its intelligence gathered from thousands to millions of successful examples to help me set up my marketing campaigns, remind me of proven marketing basics and strategies, explain to me in details why my ad campaign didn't have the impact that I'd like and how I can improve it etc.
 
-7h ago
-
----
-
-**[Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.](https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/)**
-
-Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
-
-1d ago
+8h ago
 
 ---
 
@@ -121,47 +121,69 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 ## Google News: "ai"
 
+**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
+
+The New York Times • 1h ago
+
+---
+
 **[The risks of AI in schools outweigh the benefits, report says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)**
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
-**[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqetVpYAi84HEuDnJu5mtDP6YW47zNp81TN1CVmxPW4bTfkfv82BvnnA&gaa_ts=6967efed&gaa_sig=nLczjzsvodOAvTv6zP0jLjb18_DAxxvs4f4NVSBG4Yeuqixlw-z4DuzbNHY97yUZKAfPqyQmMp1M3Mz12yEcAA%3D%3D)**
+**[EDETEK Launches "Ensemble" AI Managed Services to Simplify Adoption of AI and Accelerate Clinical Development](https://finance.yahoo.com/news/edetek-launches-ensemble-ai-managed-200000750.html)**
 
-The Wall Street Journal • 16h ago
+EDETEK Inc., a global leader in digital clinical platforms and AI powered solutions, today announced Ensemble, a comprehensive AI Managed Services offering designed to help sponsors operationalize validated, human supervised AI across clinical development. This launch coincides with EDETEK's presentation at the 44th J.P. Morgan Healthcare Conference, underscoring the company's commitment to driving innovation in clinical development.
 
----
-
-**[AI’s Hacking Skills Are Approaching an ‘Inflection Point’](https://www.wired.com/story/ai-models-hacking-inflection-point/)**
-
-AI models are getting so good at finding vulnerabilities that some experts say the tech industry might need to rethink how software is built.
-
-WIRED • 41m ago
+Yahoo Finance • 23m ago
 
 ---
 
-**[US approves sale of Nvidia's advanced AI chips to China](https://www.bbc.com/news/articles/cg4erx1n04lo)**
+**[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqdI4fuE0qn71p2rmQ4e4JcFKfCm2PI7gipnRuhDGK5vh9cUcay99DUV&gaa_ts=6967feb8&gaa_sig=JkJ6jpWy-9U83gzpykDYOKcrPkVd5pXChqLjjXp8t7Hy2dLYcdpWroMnVmzxsQrwNGPW-W-qy-oHz-tliD4VPA%3D%3D)**
 
-Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.
-
-BBC • 15h ago
+The Wall Street Journal • 17h ago
 
 ---
 
-**[Trump's greenlight for Nvidia AI chips to China draws fire from lawmakers, former officials](https://www.reuters.com/world/china/trumps-greenlight-nvidia-ai-chips-china-draws-fire-lawmakers-former-officials-2026-01-14/)**
+**[The good, bad, and the ugly of Apple's AI deal with Google](https://fortune.com/2026/01/13/apple-ai-deal-with-google-gemini-means-for-google-apple-openai/)**
 
-Reuters • 39m ago
+The Apple-Google partnership validates Google's AI comeback, highlights Apple's AI struggles, and could spell trouble for OpenAI.
+
+Fortune • 18h ago
 
 ---
 
-**[EqoFlow Accepted into NVIDIA Inception Program to Advance AI-Powered, Privacy-First Social Media](https://www.usatoday.com/press-release/story/23251/eqoflow-accepted-into-nvidia-inception-program-to-advance-ai-powered-privacy-first-social-media/)**
+**[Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner)**
 
-EqoFlow has been accepted into the NVIDIA Inception program, NVIDIA’s global startup accelerator for AI innovators. The
+Could Siri be the last piece of the puzzle?
 
-USA Today • 1h ago
+The Verge • 2h ago
+
+---
+
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
+
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
+
+blog.google • 6d ago
+
+---
+
+**[AI speeds up work and creates more of it](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
+
+Axios • 9h ago
+
+---
+
+**[LSU students face mounting AI cheating allegations](https://www.wafb.com/2026/01/14/lsu-students-face-mounting-ai-cheating-allegations-detection-technology-creates-campus-controversy/)**
+
+LSU students are facing a surge of artificial intelligence cheating allegations that has created a significant backlog at the university’s Student Advocacy and Accountability Board.
+
+WAFB • 19h ago
 
 ---
 
@@ -173,41 +195,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Use of AI to harm women has only just begun, experts warn](https://www.theguardian.com/technology/2026/jan/14/use-of-ai-to-harm-women-has-only-just-begun-experts-warn)**
-
-While Grok has introduced belated safeguards to prevent sexualised AI imagery, other tools have far fewer limits
-
-The Guardian • 9h ago
-
----
-
-**[California launches investigation into child porn on Elon Musk’s AI site](https://www.latimes.com/california/story/2026-01-14/newsom-calls-for-investigation-into-social-media-site)**
-
-Gov. Gavin Newsom on Wednesday called the state to investigate Elon Musk’s artificial intelligence company xAI, saying that the social media site owned by the billionaire is a "breeding ground for predators to spread nonconsenual sexually explicit AI deepfakes."
-
-Los Angeles Times • 1h ago
-
----
-
-**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
-
-The New York Times • 37m ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 909 • 💬 682 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 913 • 💬 684 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 439 • 💬 241 • 21h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 441 • 💬 245 • 22h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -215,7 +215,7 @@ The New York Times • 37m ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 337 • 💬 335 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 338 • 💬 335 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -231,7 +231,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 229 • 💬 122 • 22h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 229 • 💬 123 • 23h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -245,7 +245,15 @@ AI Overviews provided false liver test information experts called alarming.
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 212 • 💬 287 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 215 • 💬 292 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+
+---
+
+**[Show HN: OSS AI agent that indexes and searches the Epstein files](https://news.ycombinator.com/item?id=46611348)**
+
+Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
+
+⬆️ 195 • 💬 89 • 18h ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
 
 ---
 
@@ -262,14 +270,6 @@ The future of intelligence is being set right now, and the path we’re on leads
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
 ⬆️ 189 • 💬 64 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
-
----
-
-**[Show HN: AI in SolidWorks](https://news.ycombinator.com/item?id=46591100)**
-
-Create and modify SolidWorks 3D models through natural language with LAD's AI-powered CAD assistant.
-
-⬆️ 188 • 💬 105 • 2d ago • [TryLAD](https://www.trylad.com)
 
 ---
 
@@ -303,7 +303,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 32K • 👍 943 • 💬 130 • ⏱️ 14:32 • 20h ago
+👁️ 32K • 👍 943 • 💬 130 • ⏱️ 14:32 • 21h ago
 
 ---
 
@@ -401,7 +401,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 984 • 1h ago
+⬇️ 1,064,063 • ❤️ 984 • 2h ago
 
 ---
 
@@ -413,7 +413,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 468 • 13h ago
+⬇️ 203 • ❤️ 468 • 14h ago
 
 ---
 
@@ -437,7 +437,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 252 • 21h ago
+⬇️ 32,276 • ❤️ 252 • 22h ago
 
 ---
 
@@ -449,7 +449,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 250 • 10h ago
+⬇️ 77 • ❤️ 250 • 11h ago
 
 ---
 
@@ -642,7 +642,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 2h ago
+⭐ 8.5k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 185 • 15h ago
+⭐ 4.6k • 🔱 185 • 16h ago
 
 ---
 
@@ -692,7 +692,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 8h ago
+⭐ 1.6k • 🔱 130 • 9h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.4k • 🔱 1.1k • 5h ago
+⭐ 1.4k • 🔱 1.1k • 6h ago
 
 ---
 
