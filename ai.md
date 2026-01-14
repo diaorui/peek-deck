@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T20:23:40.827126+00:00'
+updated: '2026-01-14T20:45:41.607021+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 20:23 UTC  
+**Last Updated:** January 14, 2026 at 20:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems.1 The difference lies in Design Patterns. Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" because they began writing an answer before they had a full strategy. The Plan-Then-Execute pattern (often implemented as Reason-and-Act or ReAct) forces the assistant to pause. When a user asks a complex question—like "Analyze our Q3 spending and find three areas for cost reduction"—the assistant doesn't start typing the report. Instead, it creates a Task Decomposition tree: Access the financial database. Filter for Q3 transactions. Categorize expenses. Run a comparison against Q2. By separating the "thinking" (planning) from the "doing" (execution), assistants become significantly more accurate and can handle multi-step workflows without losing the thread. 2. The "Reflective" Pattern (Self-Correction)2 Even the best models make mistakes. The Reflection Pattern introduces a secondary "Critic" loop. In this architecture, the assistant generates an initial output, but before the user sees it, the system passes that output back to itself (or a specialized "Verifier" model) with a prompt: "Check this response for factual errors or compliance violations." If the Verifier finds a mistake, the assistant iterates. This design pattern is the backbone of Safe AI, ensuring that "Shadow AI" behaviors—like leaking internal PII or hallucinating legal clauses—are caught in a private, internal loop before they ever reach the user interface. 3. The "Human-in-the-Loop" (HITL) Gateway As AI assistants move into high-stakes environments like M&A due diligence or medical reporting, total autonomy is often a liability. The HITL Gateway pattern creates mandatory "checkpoints." Rather than the AI executing a wire transfer or finalizing a contract, the pattern requires the assistant to present a Draft & Justification. The Draft: The proposed action. The Justification: A "chain-of-thought" explanation of why it chose this action. The human acts as the final "gatekeeper," clicking "Approve" or "Edit" before the agent proceeds.3 This builds trust and ensures accountability in regulated industries. 4. The Multi-Agent Orchestration (Swarm) Pattern The most powerful assistants today aren't single models; they are teams. In the Orchestration Pattern, a "Manager Agent" receives the user's request and delegates sub-tasks to specialized "Worker Agents."4 For example, a Legal Assistant might consist of: The Researcher: Specialized in searching internal document silos (Vectorization/RAG). The Writer: Specialized in drafting compliant prose. The Auditor: A high-precision model trained specifically on SEC or GDPR guidelines. This modular approach allows developers to "swap" out the Researcher or Auditor as new, better models become available without rebuilding the entire system. 5. The "Context-Aware Memory" Pattern Standard LLMs are "stateless"—they forget who you are the moment the chat ends. Modern assistants use a Stateful Memory Pattern. This involves two layers: Short-Term Memory: Current session context (stored in the prompt window). Long-Term Memory: User preferences, past projects, and "Local Data" (stored in a Vector Database). By using Vectorization to index a user’s history, the assistant can recall that "Project X" refers to the merger discussed three months ago, providing a seamless, personalized experience that feels like a real partnership. The Future: Zero-Trust Design As we look toward the end of 2026, the "Golden Pattern" is becoming Zero-Trust AI Architecture. This pattern assumes that even the model cannot be fully trusted with raw data. It utilizes local redaction agents to scrub sensitive information before the planning and execution loops begin. By implementing these patterns, organizations can move past the "experimental" phase of AI and build robust, enterprise-grade tools that don't just chat, but actually solve problems.
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ In the early days of generative AI, an "assistant" was little more than a text b
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 16h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 17h ago
 
 ---
 
@@ -89,7 +89,7 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 
 Elon Musk’s X is living up to its name.
 
-🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 14m ago
+🔗 [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem) • 36m ago
 
 ---
 
@@ -139,7 +139,7 @@ NPR • 8h ago
 
 EDETEK Inc., a global leader in digital clinical platforms and AI powered solutions, today announced Ensemble, a comprehensive AI Managed Services offering designed to help sponsors operationalize validated, human supervised AI across clinical development. This launch coincides with EDETEK's presentation at the 44th J.P. Morgan Healthcare Conference, underscoring the company's commitment to driving innovation in clinical development.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -183,7 +183,7 @@ Axios • 9h ago
 
 LSU students are facing a surge of artificial intelligence cheating allegations that has created a significant backlog at the university’s Student Advocacy and Accountability Board.
 
-WAFB • 19h ago
+WAFB • 20h ago
 
 ---
 
@@ -277,23 +277,13 @@ Ai's cognitive abilities had been studied extensively since she was brought to a
 
 ## YouTube Videos: "ai"
 
-**[The #1 Ai Summit - Live With Alicia Lyttle!](https://www.youtube.com/watch?v=dwVd3UaksiE)**
-
-Join the Ai Business Summit: https://aibusinesssummit.com?el=Nehemiah-Davis.
-
-📺 Circle of Greatness with Nehemiah Davis
-
-👁️ 4K • 👍 264 • 13h ago
-
----
-
 **[we just arrived at the &quot;WTF&quot; moment in AI](https://www.youtube.com/watch?v=N8I2wYXt4m8)**
 
 GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially at the "WTF" moment in AI development. The latest ...
 
 📺 Wes Roth
 
-👁️ 97K • 👍 3K • 💬 716 • ⏱️ 23:05 • 2d ago
+👁️ 98K • 👍 3K • 💬 719 • ⏱️ 23:05 • 2d ago
 
 ---
 
@@ -303,7 +293,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 32K • 👍 943 • 💬 130 • ⏱️ 14:32 • 21h ago
+👁️ 34K • 👍 989 • 💬 143 • ⏱️ 14:32 • 21h ago
 
 ---
 
@@ -313,7 +303,7 @@ OpenAI just launched ChatGPT Health — a dedicated health and wellness space in
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 197 • ⏱️ 14:42 • 1d ago
+👁️ 56K • 👍 1K • 💬 201 • ⏱️ 14:42 • 1d ago
 
 ---
 
@@ -323,7 +313,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 312K • 👍 29K • 💬 3K • ⏱️ 11:40 • 1d ago
+👁️ 326K • 👍 30K • 💬 3K • ⏱️ 11:40 • 1d ago
 
 ---
 
@@ -333,27 +323,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 63K • 👍 482 • 💬 115 • ⏱️ 7:57 • 2d ago
-
----
-
-**[Which One is AI?](https://www.youtube.com/watch?v=1ttPxy5d1xg)**
-
-ZoomPartner Which one do you think it is? So excited to host this Live Event with Zoom please sign up and tell your school so we ...
-
-📺 Rebecca Zamolo
-
-👁️ 537K • 👍 7K • 💬 309 • ⏱️ 0:23 • 1d ago
-
----
-
-**[AI Data Centers Destroying The Earth ](https://www.youtube.com/watch?v=IKzaUhzSISE)**
-
-Join Chadd for another episode of Truck Talk. https://3of7projectstore.com.
-
-📺 3 of 7 Project
-
-👁️ 61K • 👍 5K • 💬 1K • ⏱️ 5:11 • 1d ago
+👁️ 64K • 👍 489 • 💬 117 • ⏱️ 7:57 • 2d ago
 
 ---
 
@@ -363,17 +333,47 @@ Elon Musk's AI chatbot Grok is facing intense criticism, accused of allowing X u
 
 📺 CBS Mornings
 
-👁️ 55K • 👍 756 • 💬 377 • ⏱️ 5:08 • 1d ago
+👁️ 56K • 👍 765 • 💬 379 • ⏱️ 5:08 • 1d ago
 
 ---
 
-**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
+**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
 
-I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
+A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
 
-📺 I Ask AI
+📺 AI Explained
 
-👁️ 184K • 👍 15K • 💬 3K • ⏱️ 13:08 • 1d ago
+👁️ 19K • 👍 1K • 💬 198 • ⏱️ 19:03 • 4h ago
+
+---
+
+**[Which One is AI?](https://www.youtube.com/watch?v=1ttPxy5d1xg)**
+
+ZoomPartner Which one do you think it is? So excited to host this Live Event with Zoom please sign up and tell your school so we ...
+
+📺 Rebecca Zamolo
+
+👁️ 558K • 👍 7K • 💬 314 • ⏱️ 0:23 • 1d ago
+
+---
+
+**[The biggest song in the world is AI....wtf!?](https://www.youtube.com/watch?v=v7W0-kcJXFw)**
+
+Get the FREE ebook here https://samuraiguitartheory.com/p/ebook #stromae #papaoutai #ai ...
+
+📺 samuraiguitarist
+
+👁️ 27K • 👍 1K • 💬 580 • ⏱️ 19:50 • 1d ago
+
+---
+
+**[Marking Exam Done by A.I. - Sixty Symbols](https://www.youtube.com/watch?v=JcQPAZP7-sE)**
+
+Physics Professor Phil Moriarty puts ChatGPT to the test with a second-year quantum mechanics exam... Extra footage from this ...
+
+📺 Sixty Symbols
+
+👁️ 105K • 👍 5K • 💬 879 • ⏱️ 17:17 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 36,933 • ❤️ 616 • 7d ago
+⬇️ 36,933 • ❤️ 619 • 7d ago
 
 ---
 
@@ -401,7 +401,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 984 • 2h ago
+⬇️ 1,064,063 • ❤️ 988 • 2h ago
 
 ---
 
@@ -413,7 +413,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 468 • 14h ago
+⬇️ 203 • ❤️ 484 • 14h ago
 
 ---
 
@@ -425,19 +425,7 @@ Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featurin
 
 `automatic-speech-recognition`
 
-⬇️ 3,897 • ❤️ 361 • 8d ago
-
----
-
-**[LTXV2_comfy](https://huggingface.co/Kijai/LTXV2_comfy)**
-
-*Jukka Seppänen*
-
-LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an alternative method for loading LTX2 models. It is compatible with LTX2 GGUFs that include metadata, though it may require a specific PR for ComfyUI-GGUF nodes.
-
-`18.9B`
-
-⬇️ 32,276 • ❤️ 252 • 22h ago
+⬇️ 3,897 • ❤️ 363 • 8d ago
 
 ---
 
@@ -449,7 +437,19 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 250 • 11h ago
+⬇️ 77 • ❤️ 251 • 11h ago
+
+---
+
+**[LTXV2_comfy](https://huggingface.co/Kijai/LTXV2_comfy)**
+
+*Jukka Seppänen*
+
+LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an alternative method for loading LTX2 models. It is compatible with LTX2 GGUFs that include metadata, though it may require a specific PR for ComfyUI-GGUF nodes.
+
+`18.9B`
+
+⬇️ 32,276 • ❤️ 252 • 20m ago
 
 ---
 
@@ -461,7 +461,7 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 `image-to-text` `8.1B`
 
-⬇️ 26,915 • ❤️ 236 • 5d ago
+⬇️ 26,915 • ❤️ 237 • 5d ago
 
 ---
 
@@ -485,7 +485,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 22,649 • ❤️ 329 • 5d ago
+⬇️ 22,649 • ❤️ 332 • 5d ago
 
 ---
 
@@ -497,7 +497,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 28,833 • ❤️ 210 • 5d ago
+⬇️ 28,833 • ❤️ 211 • 5d ago
 
 ---
 
@@ -535,7 +535,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 107 • 💬 3 • ⭐ 2,334 • 8d ago
+▲ 109 • 💬 3 • ⭐ 2,334 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -547,7 +547,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 26 • 💬 2 • ⭐ 983 • 9d ago
+▲ 26 • 💬 2 • ⭐ 1,034 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -642,7 +642,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 3h ago
+⭐ 8.5k • 🔱 1.1k • 22m ago
 
 ---
 
@@ -652,7 +652,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.6k • 🔱 185 • 16h ago
+⭐ 4.7k • 🔱 191 • 16h ago
 
 ---
 
@@ -662,7 +662,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.9k • 🔱 516 • 6d ago
+⭐ 3.9k • 🔱 517 • 6d ago
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 145 • 4h ago
+⭐ 2.4k • 🔱 145 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T20:23:40.844922+00:00'
+updated: '2026-01-14T20:45:41.624919+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 20:23 UTC  
+**Last Updated:** January 14, 2026 at 20:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 4m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=ufU72dvEGnU) • 26m ago
 
 ---
 
@@ -66,7 +66,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Robotic arm attached to your monitor… thoughts? I personally think it’s pretty cool! I mean it’s like Ironman but it’s not lol
 
-🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 5m ago
+🔗 [youtu.be](https://youtu.be/Qyw-cJqadhk?si=KQuTCAvSCqbvqmAN) • 27m ago
 
 ---
 
@@ -82,7 +82,7 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
 
-32m ago
+54m ago
 
 ---
 
@@ -98,7 +98,7 @@ Hello! I’m trying to design and configure something to put 12 stepper motors i
 
 Hello everyone, I am currently working on a 4-wheel drive robotic car using an Arduino Uno and a TB6612FNG motor driver, and I am facing an issue where the motors do not operate as expected when connected through the driver. I am seeking guidance to identify any mistakes in my wiring or code. I have provided complete details below to make troubleshooting easier. Components Used Arduino Uno TB6612FNG Dual Motor Driver 4 × DC TT Gear Motors 2 motors connected in parallel on the left side 2 motors connected in parallel on the right side HC-05 Bluetooth Module Li-ion Battery Pack (~14–16 V) Direct wiring (no breadboard) Power Connections Battery positive → VM (TB6612FNG) Battery negative → GND (TB6612FNG) Arduino 5V → VCC (TB6612FNG logic supply) Arduino GND → Common ground with TB6612FNG and Bluetooth Arduino VIN is not connected TB6612FNG to Arduino Pin Connections AIN1 → Arduino D7 AIN2 → Arduino D6 BIN1 → Arduino D5 BIN2 → Arduino D4 PWMA → Arduino D9 (PWM) PWMB → Arduino D10 (PWM) STBY → Arduino D8 VCC → Arduino 5V GND → Arduino GND VM → Battery positive Motor Connections Left side motors (parallel) → A01 and A02 Right side motors (parallel) → B01 and B02 Bluetooth (HC-05) Connections TX → Arduino RX RX → Arduino TX (with voltage divider) VCC → Arduino 5V GND → Arduino GND The Bluetooth module sends single-character commands. Arduino Code #define AIN1 7 #define AIN2 6 #define BIN1 5 #define BIN2 4 #define PWMA 9 #define PWMB 10 #define STBY 8 char cmd; int baseSpeed = 200; int turnSpeed = 120; void setup() { Serial.begin(9600); pinMode(AIN1, OUTPUT); pinMode(AIN2, OUTPUT); pinMode(BIN1, OUTPUT); pinMode(BIN2, OUTPUT); pinMode(PWMA, OUTPUT); pinMode(PWMB, OUTPUT); pinMode(STBY, OUTPUT); digitalWrite(STBY, HIGH); stopCar(); } void loop() { if (Serial.available()) { cmd = Serial.read(); switch (cmd) { case 'F': forward(); break; case 'B': backward(); break; case 'L': left(); break; case 'R': right(); break; case 'I': northeast(); break; case 'G': northwest(); break; case 'J': southeast(); break; case 'H': southwest(); break; case 'S': stopCar(); break; default: stopCar(); break; } } } void forward() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, baseSpeed); } void backward() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, baseSpeed); } void left() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void right() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void northeast() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void northwest() { digitalWrite(AIN1, HIGH); digitalWrite(AIN2, LOW); digitalWrite(BIN1, HIGH); digitalWrite(BIN2, LOW); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void southeast() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, baseSpeed); analogWrite(PWMB, turnSpeed); } void southwest() { digitalWrite(AIN1, LOW); digitalWrite(AIN2, HIGH); digitalWrite(BIN1, LOW); digitalWrite(BIN2, HIGH); analogWrite(PWMA, turnSpeed); analogWrite(PWMB, baseSpeed); } void stopCar() { analogWrite(PWMA, 0); analogWrite(PWMB, 0); } Problem Description Motors run at high speed when directly connected to the battery Motors fail to operate correctly when connected through TB6612FNG and Arduino Code uploads successfully Bluetooth communication is working Assistance Requested I would appreciate help in identifying: Any wiring or power-distribution issues Whether TB6612FNG can reliably drive four motors in this configuration Any missing protection components or logic errors Improvements or corrections to the code
 
-1h ago
+2h ago
 
 ---
 
@@ -192,23 +192,23 @@ Seeking Alpha • 8h ago
 
 ## YouTube Videos: "robotics"
 
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
-
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
-
-📺 CNBC
-
-👁️ 141K • 👍 2K • 💬 372 • ⏱️ 11:46 • 3d ago
-
----
-
 **[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
 
 Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
 
 📺 Kim Java
 
-👁️ 393K • 👍 12K • 💬 706 • ⏱️ 17:09 • 2d ago
+👁️ 397K • 👍 12K • 💬 717 • ⏱️ 17:09 • 2d ago
+
+---
+
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+
+📺 CNBC
+
+👁️ 143K • 👍 2K • 💬 375 • ⏱️ 11:46 • 3d ago
 
 ---
 
@@ -218,7 +218,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 10K • 👍 589 • 💬 37 • ⏱️ 9:28 • 4d ago
+👁️ 10K • 👍 591 • 💬 37 • ⏱️ 9:28 • 4d ago
 
 ---
 
@@ -228,7 +228,7 @@ Chinese robotics took center stage at CES 2026, stunning visitors with rapid adv
 
 📺 Carros Show
 
-👁️ 10K • 👍 133 • 💬 6 • ⏱️ 8:33 • 6d ago
+👁️ 10K • 👍 133 • 💬 7 • ⏱️ 8:33 • 6d ago
 
 ---
 
@@ -238,7 +238,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 991K • 👍 31K • 💬 966 • ⏱️ 0:39 • 6d ago
+👁️ 994K • 👍 32K • 💬 970 • ⏱️ 0:39 • 6d ago
 
 ---
 
@@ -262,13 +262,23 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
-**[Robots Are Fighting at CES 2026 (In 3D VR180)](https://www.youtube.com/watch?v=8z_CAxDwr0Y)**
+**[Al Robots Are Replacing Humans Faster Than You Think ( How can Robot dance )](https://www.youtube.com/watch?v=O-FS7-DxStg)**
 
-Download 8K file and watch in XR: https://www.patreon.com/posts/ces-2026-180deg-148135326 | Robots are fighting at CES ...
+Al Robots Are Replacing Humans Faster Than You Think #shorts This Robot Doesn't Feel Real... It's Scary #Robot #Technology ...
 
-📺 Hugh Hou
+📺 Tip Top Fact 
 
-👁️ 20K • 👍 120 • 💬 16 • ⏱️ 10:39 • 6d ago
+👁️ 391 • 👍 7 • ⏱️ 0:52 • 21m ago
+
+---
+
+**[Realistic Human Robots #robot #robotics #tech](https://www.youtube.com/watch?v=LLXO0DAiOc8)**
+
+shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgEyv FACEBOOK: ...
+
+📺 Shacknews
+
+👁️ 855 • 👍 8 • 💬 1 • ⏱️ 0:33 • 19h ago
 
 ---
 
@@ -278,17 +288,7 @@ When a robo-cleaner can notify you that a bar of gold was left on your living ro
 
 📺 mryeester
 
-👁️ 98K • 👍 5K • 💬 183 • ⏱️ 1:06 • 4d ago
-
----
-
-**[The FUTURE of ROBOTS? AGIBOT X2 at CES 2026](https://www.youtube.com/watch?v=vllp72F8njU)**
-
-This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with excitement around what could be the next major leap ...
-
-📺 KhanFlicks
-
-👁️ 4K • 👍 26 • 💬 33 • ⏱️ 8:09 • 1d ago
+👁️ 99K • 👍 5K • 💬 184 • ⏱️ 1:06 • 5d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T20:23:40.835645+00:00'
+updated: '2026-01-14T20:45:41.615642+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 20:23 UTC  
+**Last Updated:** January 14, 2026 at 20:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1936.30B
+**Market Cap:** $1951.04B
 Rank #1
 
-**Circulating Supply:** 19,975,815 BTC
+**Circulating Supply:** 19,975,862 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--23.2%
+-22.6%
 
 **All-Time Low:** $67.81
-+142643.0%
++143869.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-1h ago
+2h ago
 
 ---
 
@@ -127,13 +127,13 @@ What’s happening?
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-12h ago
+13h ago
 
 ---
 
 **[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -157,7 +157,7 @@ Barron's • 10h ago
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 1h ago
 
 Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -195,7 +195,7 @@ Seeking Alpha • 5h ago
 
 Bitcoin ETF outflows have reached $1.1 billion in just three days—yet the price hasn’t collapsed. That kind of exit usually signals trouble, but the market reaction has been different this time. Bitcoin (CRYPTO: BTC) has traded between $90,000 and $95,000 through early January despite the ETF exodus, creating a disconnect that defines the current market ... Bitcoin Stuck at $90K as $1.1 Billion ETF Outflows Signal “Boring Sideways” Era
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 Strategy (MSTR) stock roared above $189 this morning as renewed bitcoin strength and continued corporate BTC purchases drove demand.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -245,7 +245,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 1d ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 2d ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -315,7 +315,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 1K • 💬 144 • ⏱️ 46:37 • 4h ago
+👁️ 21K • 👍 1K • 💬 158 • ⏱️ 46:37 • 5h ago
 
 ---
 
@@ -325,47 +325,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 821 • 💬 153 • ⏱️ 47:15 • 5h ago
-
----
-
-**[MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON’T MISS OUT!](https://www.youtube.com/watch?v=DFSfetSV6QM)**
-
-MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S CHANNEL (AUSTIN'S ...
-
-📺 Austin Hilton
-
-👁️ 3K • 👍 424 • 💬 60 • ⏱️ 6:09 • 4h ago
-
----
-
-**[What BlackRock Is REALLY Doing With Bitcoin](https://www.youtube.com/watch?v=Je5A3yiR0t4)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 3K • 👍 392 • 💬 35 • ⏱️ 9:34 • 3h ago
-
----
-
-**[Altcoins Jump, Bitcoin Surges: Here Is The Latest Forecast And Trade Levels](https://www.youtube.com/watch?v=9LhOGTfAXas)**
-
-The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway alerted investors to a high-probability "Bull Flag" setup ...
-
-📺 Gareth Soloway
-
-👁️ 22K • 👍 2K • 💬 188 • ⏱️ 11:07 • 6h ago
-
----
-
-**[HUGE Bitcoin Breakout!](https://www.youtube.com/watch?v=T1_jPAwtBzI)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 442 • ⏱️ 5:56 • 19h ago
+👁️ 17K • 👍 977 • 💬 170 • ⏱️ 47:15 • 5h ago
 
 ---
 
@@ -375,7 +335,67 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 6K • 👍 85 • 💬 62 • ⏱️ 5:02 • 8h ago
+👁️ 8K • 👍 88 • 💬 70 • ⏱️ 5:02 • 8h ago
+
+---
+
+**[MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON’T MISS OUT!](https://www.youtube.com/watch?v=DFSfetSV6QM)**
+
+MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S CHANNEL (AUSTIN'S ...
+
+📺 Austin Hilton
+
+👁️ 5K • 👍 506 • 💬 51 • ⏱️ 6:09 • 5h ago
+
+---
+
+**[Altcoins Jump, Bitcoin Surges: Here Is The Latest Forecast And Trade Levels](https://www.youtube.com/watch?v=9LhOGTfAXas)**
+
+The charts don't lie. Just days ago, Chief Market Strategist Gareth Soloway alerted investors to a high-probability "Bull Flag" setup ...
+
+📺 Gareth Soloway
+
+👁️ 31K • 👍 3K • 💬 201 • ⏱️ 11:07 • 7h ago
+
+---
+
+**[Why Bitcoin Is Up Today](https://www.youtube.com/watch?v=43dND20hWSA)**
+
+Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this fresh high in just 24 hours. Bitcoin made a nice ...
+
+📺 Satoshi Alliance
+
+👁️ 4K • 👍 347 • 💬 149 • ⏱️ 3:40 • 20h ago
+
+---
+
+**[what just happened to bitcoin and crypto altcoins... the answer is [BONE INDUCING]](https://www.youtube.com/watch?v=rRxyULCv0UQ)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 4K • 👍 477 • 💬 44 • ⏱️ 6:42 • 1h ago
+
+---
+
+**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
+
+Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
+
+📺 Altcoin Daily
+
+👁️ 73K • 👍 5K • 💬 279 • ⏱️ 9:23 • 22h ago
+
+---
+
+**[BITCOIN IT&#39;S HAPPENING!!](https://www.youtube.com/watch?v=m-UwQlvSaYI)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 496 • 💬 94 • ⏱️ 10:44 • 4h ago
 
 ---
 
@@ -385,27 +405,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 191 • ⏱️ 15:44 • 20h ago
-
----
-
-**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
-
-Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT rewards): ...
-
-📺 Altcoin Daily
-
-👁️ 71K • 👍 5K • 💬 272 • ⏱️ 9:23 • 22h ago
-
----
-
-**[THIS BITCOIN SIGNAL HAS NEVER BEEN WRONG BEFORE!! - Silver And Gold PUSHING BTC Higher!? - Analaysis](https://www.youtube.com/watch?v=oPvsP5BGtVE)**
-
-BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: https://partner.bybit.com/b/65864 Follow us on X: ...
-
-📺 Team Underground
-
-👁️ 483 • 👍 38 • 💬 31 • ⏱️ 13:24 • 3h ago
+👁️ 22K • 👍 2K • 💬 189 • ⏱️ 15:44 • 21h ago
 
 ---
 
