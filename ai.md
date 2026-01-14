@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T17:27:36.227256+00:00'
+updated: '2026-01-14T17:53:15.874165+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - videos
 - news
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 17:27 UTC  
+**Last Updated:** January 14, 2026 at 17:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 11h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-21h ago
+22h ago
 
 ---
 
@@ -73,7 +73,7 @@ I was curious about the math and vision skills of the current incarnation of Cha
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 13h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 14h ago
 
 ---
 
@@ -81,7 +81,7 @@ Apple Creator Studio launch brings a powerful creative suite for video editing, 
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Does anyone know of an AI tool that can assist with marketing and sales stuff? I
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
 
-21h ago
+22h ago
 
 ---
 
@@ -129,61 +129,59 @@ NPR • 5h ago
 
 ---
 
-**[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqeiwhh65gUkYt6EGxg_AxJOE0oEHrWHxvfVZBIUxPOV1iHHwk6urGog&gaa_ts=6967c8b3&gaa_sig=tU_xxcHOwj0YgkhjrWwXOaopZM8gV358_dHbHopNQxC6l5GSLKhHGhgeibkDZnCC6KxHpx-fwoq5kIhYfv8eOQ%3D%3D)**
+**[Exclusive | Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?gaa_at=eafs&gaa_n=AWEtsqcflZ1_pGB-wV_MvWA1RkdMMqcEBvja6wwi9HU5i_xAjkBdmwCzYd4l&gaa_ts=6967db70&gaa_sig=vofL-e7cLnBcb2v-LSQEdhJcYzSx3tTL3YkXdXpInERNmgJgWnPyxVjYpSH9Ea8bQG-jd2U28Ok46TXlbwjIIg%3D%3D)**
 
 The Wall Street Journal • 14h ago
 
 ---
 
-**[These stocks could benefit most from AI productivity, Goldman Sachs says](https://www.cnbc.com/2026/01/14/these-stocks-could-benefit-most-from-ai-productivity-goldman-sachs-says.html)**
+**[CrowdStrike CEO says AI agents are unpredictable as company snaps up more cybersecurity startups](https://finance.yahoo.com/news/crowdstrike-ceo-says-ai-agents-are-unpredictable-as-company-snaps-up-more-cybersecurity-startups-165836482.html)**
 
-Stocks such as Bank of America and EPAM Systems could benefit most from investing in AI productivity, according to Goldman Sachs.
+CrowdStrike has come out swinging in 2026 with some key deals. Here's why.
 
-CNBC • 2h ago
-
----
-
-**[AI security firm, depthfirst, announces $40 million series A](https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/)**
-
-The company used an AI-native platform to help companies fight threats.
-
-TechCrunch • 1h ago
+Yahoo Finance • 54m ago
 
 ---
 
-**[Why data sovereignty matters more in the age of AI](https://www.axios.com/sponsored/why-data-sovereignty-matters-more-in-the-age-of-ai)**
+**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-Axios • 1h ago
-
----
-
-**[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
-
-The New York Times • 1d ago
+The New York Times • 19m ago
 
 ---
 
-**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’](https://finance.yahoo.com/news/elon-musk-says-saving-retirement-221451637.html)**
+**[AI data centers and average electricity users need separate checks](https://thehill.com/opinion/energy-environment/5686978-electricity-rates-data-center-impact/)**
 
-Musk said a "supersonic tsunami" of AI and robotics will bring about a world of zero scarcity.
-
-Yahoo Finance • 1d ago
+The Hill • 53m ago
 
 ---
 
-**[Musk’s AI tool Grok will be integrated into Pentagon networks, Hegseth says](https://www.theguardian.com/technology/2026/jan/13/elon-musk-grok-hegseth-military-pentagon)**
+**[The good, bad, and the ugly of Apple's AI deal with Google](https://fortune.com/2026/01/13/apple-ai-deal-with-google-gemini-means-for-google-apple-openai/)**
 
-Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
+The Apple-Google partnership validates Google's AI comeback, highlights Apple's AI struggles, and could spell trouble for OpenAI.
 
-The Guardian • 1d ago
+Fortune • 16h ago
 
 ---
 
-**[Grok and the A.I. Porn Problem](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem)**
+**[Apple picks Google's Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html)**
 
-Elon Musk’s X is living up to its name.
+Google's market value surpassed Apple for the first time since 2019 last week and topped $4 trillion on the news.
 
-The New Yorker • 6h ago
+CNBC • 2d ago
+
+---
+
+**[Disney’s AI Dispute With Google Runs Deeper Than First Thought, But Can It Afford All-Out War With The Tech Titan?](https://deadline.com/2026/01/disney-ai-war-google-1236682656/)**
+
+Disney instructed third-party producers to disentangle any Google AI tools from their workflows as part of its ongoing dispute with the tech titan
+
+Deadline • 1h ago
+
+---
+
+**[Sure, AI is speeding up work — it's also creating more](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
+
+Axios • 6h ago
 
 ---
 
@@ -201,13 +199,13 @@ Financial Times • 12h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 887 • 💬 665 • 22h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 899 • 💬 674 • 23h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 432 • 💬 233 • 19h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 436 • 💬 237 • 19h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -215,7 +213,7 @@ Financial Times • 12h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 337 • 💬 333 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 337 • 💬 334 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -223,7 +221,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 334 • 💬 102 • 22h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 334 • 💬 102 • 23h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+
+---
+
+**[Games Workshop bans staff from using AI](https://news.ycombinator.com/item?id=46607681)**
+
+Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
+
+⬆️ 227 • 💬 122 • 21h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -235,17 +241,17 @@ AI Overviews provided false liver test information experts called alarming.
 
 ---
 
-**[Games Workshop bans staff from using AI](https://news.ycombinator.com/item?id=46607681)**
+**[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
-
-⬆️ 225 • 💬 122 • 20h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 212 • 💬 276 • 23h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
-**[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
+**[Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
 
-⬆️ 209 • 💬 269 • 22h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
+
+⬆️ 188 • 💬 197 • 1d ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -262,14 +268,6 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 Ai's cognitive abilities had been studied extensively since she was brought to a Japanese institute in 1977.
 
 ⬆️ 188 • 💬 64 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/cj9r3zl2ywyo)
-
----
-
-**[Mozilla's open source AI strategy](https://news.ycombinator.com/item?id=46599897)**
-
-The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
-
-⬆️ 186 • 💬 196 • 1d ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -401,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 977 • 2h ago
+⬇️ 1,064,063 • ❤️ 977 • 3h ago
 
 ---
 
@@ -642,7 +640,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 55m ago
+⭐ 8.5k • 🔱 1.1k • 1h ago
 
 ---
 

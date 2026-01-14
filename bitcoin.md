@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T17:27:36.235741+00:00'
+updated: '2026-01-14T17:53:15.882616+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- videos
 - cryptocurrency
 - news
-- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 17:27 UTC  
+**Last Updated:** January 14, 2026 at 17:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $97,207.04
+### $96,881.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.5%  
-**7d:** +6.9%  
-**30d:** +11.1%  
-**90d:** -8.7%  
-**1y:** -3.0%  
+**24h:** +3.5%  
+**7d:** +6.4%  
+**30d:** +10.6%  
+**90d:** -9.1%  
+**1y:** -3.4%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -103,9 +103,21 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 ---
 
+**[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
+
+1h ago
+
+---
+
 **[1 BTC = 95,884.79USD ↗️](https://www.reddit.com/r/Bitcoin/comments/1qcp71n/1_btc_9588479usd/)**
 
 What’s happening?
+
+3h ago
+
+---
+
+**[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
 
 2h ago
 
@@ -121,7 +133,7 @@ Big jump in price today!
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -131,45 +143,19 @@ Big jump in price today!
 
 ---
 
-**[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
-
-1h ago
-
----
-
-**[Iranian currency collapsed](https://www.reddit.com/r/Bitcoin/comments/1qbqm5r/iranian_currency_collapsed/)**
-
-Wonder what Bitcoiners in Iran is feeling today.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcyxsW3NCmrskhxh4tK0TDY-93L2kM1kL1odC9V9VYAk-gLHPW0DuLH&gaa_ts=6967c8b5&gaa_sig=FrhpECQQ4ALCKxxHIC7xHX3TwcE87ZTuxNdtfNcKqJWE1jafkRz4KGIRJeCVzod75c-NzB5xVRBR6jkhR-nHLg%3D%3D)**
+**[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqeNf4nBAl-1p61XIK5cn4IhaKbXhEvC78_QP6xM2_j-hE7I3QTocjH-&gaa_ts=6967db72&gaa_sig=OIddktebOkQihHf81CzEVg1MBNjnFc2kKeP_8Q9s76JvbzSFDho4XXlSAurBmSWhygnWhAZONbrjpgkbAkfgXA%3D%3D)**
 
 Barron's • 7h ago
 
 ---
 
-**[Bitcoin and gold allocation outperforms traditional portfolios, backing Ray Dalio's 15% hedge thesis, Bitwise finds](https://www.theblock.co/post/385526/gold-bitcoin-combined-allocation-outperforms-traditional-portfolios-bitwise)**
-
-The Block • 6h ago
-
----
-
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 1h ago
-
----
-
-**[Bitcoin price today: jumps above $96k after Strategy buy, but weakness persists](https://www.investing.com/news/cryptocurrency-news/bitcoin-tops-95k-after-strategy-buy-steady-cpi-4445913)**
-
-Investing.com • 17h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -177,37 +163,53 @@ Investing.com • 17h ago
 
 U.S. spot bitcoin ETFs took in $753.7 million on Tuesday, led by Fidelity, as analysts pointed to improving macro clarity and renewed institutional demand.
 
-Bitbo • 4h ago
+Bitbo • 5h ago
 
 ---
 
-**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://finance.yahoo.com/news/bitcoin-etfs-see-biggest-inflow-121715276.html)**
+**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
 
-U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
+Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
 
-Yahoo Finance • 5h ago
-
----
-
-**[SBIT: Catching Bitcoin's Downside Risk May Be Limited For 2026 (NYSEARCA:SBIT)](https://seekingalpha.com/article/4859690-sbit-catching-bitcoins-downside-risk-may-be-limited-for-2026)**
-
-Learn about ProShares Ultrashort Bitcoin ETF (SBIT): -2x daily inverse bitcoin exposure, liquidity and risks like compounding/NAV decay.
-
-Seeking Alpha • 2h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
+**[Something Is Happening With Bitcoin That I Would Have Never Expected: The BTCO Case (BATS:BTCO)](https://seekingalpha.com/article/4859737-something-is-happening-with-bitcoin-that-i-would-have-never-expected-the-btco-case)**
 
-Bloomberg.com • 7h ago
+BTCO is a spot Bitcoin ETF with a 0.25% TER, liquid, and with externalized custody.
+
+Seeking Alpha • 43m ago
 
 ---
 
-**[JPMorgan earnings, Intel, bitcoin above $94K: Market Takeaways](https://finance.yahoo.com/video/jpmorgan-earnings-intel-bitcoin-above-221500740.html)**
+**[Strategy ($MSTR) Stock Soars 10% Above $189 as Bitcoin Nears $100,000](https://bitcoinmagazine.com/markets/strategy-mstr-stock-soars-10-percent)**
 
-US stocks (^DJI, ^IXIC, ^GSPC) fell in Tuesday's trading session following the release of December's Consumer Price Index (CPI) inflation report this morning. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the biggest market themes from today’s trading day, including Big Bank earnings season kicking off with JPMorgan Chase's (JPM) results, Intel (INTC) breaking outside its trading range, and bitcoin (BTC-USD) bouncing back above $94,000 per token. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+Strategy (MSTR) stock roared above $189 this morning as renewed bitcoin strength and continued corporate BTC purchases drove demand.
 
-Yahoo Finance • 19h ago
+Bitcoin Magazine • 1h ago
+
+---
+
+**[Bitcoin above $95K as spot BTC ETFs score largest inflow since October](https://sg.finance.yahoo.com/video/bitcoin-above-95k-spot-btc-171233546.html)**
+
+U.S. spot bitcoin ETFs saw their largest daily inflows in three months, with $753.7 million recorded on Tuesday. Is this a sign that investors have rotated back into risk assets following the year-end portfolio rebalancing? CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
+
+Yahoo Finance Singapore • 40m ago
+
+---
+
+**[Bitcoin (BTC) price climbs past $97,000 as investors seek haven assets](https://www.coindesk.com/markets/2026/01/14/bitcoin-rallies-past-usd97-000-as-investors-seek-haven-assets)**
+
+The largest cryptocurrency extended its rally, pushing related equities higher as well.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
+
+The Block • 19h ago
 
 ---
 
@@ -281,7 +283,7 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 62 • 💬 13 • 2d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 63 • 💬 13 • 2d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -311,7 +313,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 858 • 💬 87 • ⏱️ 46:37 • 1h ago
+👁️ 9K • 👍 858 • 💬 87 • ⏱️ 46:37 • 2h ago
 
 ---
 
@@ -341,7 +343,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 185 • ⏱️ 15:44 • 17h ago
+👁️ 20K • 👍 2K • 💬 185 • ⏱️ 15:44 • 18h ago
 
 ---
 
@@ -391,7 +393,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 18K • 👍 1K • 💬 442 • ⏱️ 26:56 • 14h ago
+👁️ 18K • 👍 1K • 💬 442 • ⏱️ 26:56 • 15h ago
 
 ---
 
