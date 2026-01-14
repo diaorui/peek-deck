@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T15:49:01.516599+00:00'
+updated: '2026-01-14T16:33:22.884261+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 15:49 UTC  
+**Last Updated:** January 14, 2026 at 16:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,354.47
+### $3,371.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.3%  
-**7d:** +7.9%  
-**30d:** +13.4%  
-**90d:** -12.3%  
-**1y:** -2.7%  
+**24h:** +6.4%  
+**7d:** +9.1%  
+**30d:** +14.5%  
+**90d:** -11.4%  
+**1y:** -1.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.65B
+**Market Cap:** $406.65B
 Rank #2
 
 **Circulating Supply:** 120,694,681 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.8%
+-31.7%
 
 **All-Time Low:** $0.43
-+767281.3%
++780450.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2014, there was a vision: you can have permissionless, decentralized applications that could support finance, social media, ride sharing, governing organizations, crowdfunding, potentially create an entire alternative web, all on the backs of a suite of technologies. Ethereum: the blockchain. The world computer that could give any application its shared memory. Whisper: the data layer. Messages too expensive for a blockchain, that do no need consensus. Swarm: the storage layer. Store files for long-term access. Over the last five years, this core vision has at times become obscured, with various "metas" and "narratives" at various times taking center stage. But the core vision has never died. And in fact, the core technologies behind it are only growing stronger. Ethereum is now proof of stake. Ethereum is now scaling, it is now cheap, and it is on track to get more scalable and cheaper thanks to the power of ZK-EVMs. Thanks to ZK-EVM + PeerDAS, the "sharding" vision is effectively being realized. And L2s can give additional and different kinds of gains in speed on top. Whisper is now Waku ( https://docs.waku.org/ ), and already powers many applications (eg. https://www.railway.xyz/, https://status.app/ just to name two I use). Even outside of Waku, the quality of decentralized messaging has increased. Fileverse (decentralized Google Docs and Sheets alternative: https://fileverse.io/ ) has seen massive gains in usability over the past year. IPFS is now highly performant and robust as a decentralized way of retrieving files, though IPFS alone does not solve the storage problem. Hence, there is still room to improve there. All of the prerequisites for the original web3 vision are here, in full force, and are continuing to get stronger over the next few years. Hence, it's time to buidl, and buidl decentralized. Fileverse is an excellent example of the right way to do things: It uses Ethereum and Gnosis Chain for what they are good for: names, accounts and permissioning, document registration It uses decentralized messaging and file storage to store documents and propagate changes to documents The application passes the walkaway test: https://github.com/fileverse/walk-away-ddocs (even if Fileverse disappears, you can still retrieve them and even keep editing them with the open source UI) This is what we mean by "build a hammer that is a tool you buy once and it's yours, not a corposlop AI dishwasher that requires you to register for a google account and charges a subscription fee per month for extra washing modes, and probably spies on you and stops working if you get politically disfavored by a foreign country". If you think this criticism of corposlop is hyperbolic, well turns out, it's literally a concatenation of these three: https://mein-mmo.de/en/user-buys-new-dishwasher-can-only-use-some-features-if-he-subscribes,1186249/ https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers https://www.irishtimes.com/world/us/2025/12/12/its-surreal-us-sanctions-lock-international-criminal-court-judge-out-of-daily-life/ In 2014, decentralized applications were toys, hundreds of times more difficult to use in web2. In 2026, fileverse is now usable enough that I regularly write documents in it and send them to other people to collaborate. The decentralized renaissance is coming, and you can be part of making it happen.
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ vulnerabilities reported through the Ethereum Foundation bug bounty program.
 
 As with all our previous releases,...
 
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 13h ago
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 14h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 2d ago
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
 
 ---
 
@@ -193,11 +193,19 @@ dlnews.com • 1d ago
 
 ---
 
+**[ETH News: Bank of Italy economist flags stablecoin risks if ether price collapse weakens Ethereum](https://www.coindesk.com/business/2026/01/13/ether-collapse-to-zero-could-test-ethereum-s-role-as-finance-hub-bank-of-italy-economist-warns)**
+
+The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
+
+CoinDesk • 1d ago
+
+---
+
 **[How Ethereum, Solana Could Benefit From The CLARITY Act](https://finance.yahoo.com/news/ethereum-solana-could-benefit-clarity-143111086.html)**
 
 The U.S. CLARITY Act could become a major catalyst for Ethereum (CRYPTO: ETH), Solana (CRYPTO: SOL), and broader institutional crypto adoption, according to Bitwise Chief Investment Officer Matt Hougan. What Happened: Crypto markets are entering a transition phase where regulation,...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -207,25 +215,17 @@ ETF Trends • 1d ago
 
 ---
 
-**[Most large cryptocurrencies climb on Ethereum, Bitcoin increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-ethereum-bitcoin-increases-f0c37b36-75147e581b51?gaa_at=eafs&gaa_n=AWEtsqcYOuEHh7PvLOCIDh8pvfZPctDXTIZFWryZYscdZtQLg0ChaICl1FLK&gaa_ts=6967b973&gaa_sig=yruEZ5ffCLagmUNpxkkNHs37dDGn9ozT9CFnYHFo7HkUEaiqH8nnwJ6G_5AHagvpQJ__jv1Y4s8AKpqUMIHjiA%3D%3D)**
+**[Most large cryptocurrencies climb on Ethereum, Bitcoin increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-ethereum-bitcoin-increases-f0c37b36-75147e581b51?gaa_at=eafs&gaa_n=AWEtsqde9Njhp33NzZRv0PbwRTk2RDWZn4jRBEQ9Dup-2oceHyMO3jeojDuw&gaa_ts=6967c8b7&gaa_sig=jM5w6G-4e2Xkdxzb3vlUOZO8oyUFk1sOq3tfwLEwKI4RrFbvGl259g29rXUmCjlBLvhqA-wyyGFg1IeppXHIVg%3D%3D)**
 
-MarketWatch • 49m ago
-
----
-
-**[ETH News: Bank of Italy economist flags stablecoin risks if ether price collapse weakens Ethereum](https://www.coindesk.com/business/2026/01/13/ether-collapse-to-zero-could-test-ethereum-s-role-as-finance-hub-bank-of-italy-economist-warns)**
-
-The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
-
-CoinDesk • 1d ago
+MarketWatch • 1h ago
 
 ---
 
-**[Ethereum price prediction: top reasons ETH is about to rocket higher](https://www.tradingview.com/news/invezz:80cafb9e3094b:0-ethereum-price-prediction-top-reasons-eth-is-about-to-rocket-higher/)**
+**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
 
-Ethereum price held steady on Wednesday, continuing a trend that has been going on in the past few weeks. ETH token rose to $3,340, and this trend may accelerate in the coming months as it has formed the highly bullish inverse head-and-shoulders pattern, and the spot ETH ETF inflows have continued…
+Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
-TradingView — Track All Markets • 6h ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -233,13 +233,13 @@ TradingView — Track All Markets • 6h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zl1Xo0nOKkA)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 14K • 👍 544 • 💬 43 • ⏱️ 17:37 • 1d ago
+👁️ 804 • 👍 98 • 💬 5 • ⏱️ 3:42 • 1h ago
 
 ---
 
@@ -249,17 +249,7 @@ BITCOIN BREAKOUT CONFIRMED: My Next Trade Revealed!!! - Bitcoin News Today, Ethe
 
 📺 Crypto World
 
-👁️ 3K • 👍 259 • 💬 77 • ⏱️ 22:39 • 6h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Qr52BD8FxzA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 204 • 💬 19 • ⏱️ 6:20 • 14h ago
+👁️ 3K • 👍 308 • 💬 75 • ⏱️ 22:39 • 7h ago
 
 ---
 
@@ -269,7 +259,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 167 • 👍 16 • 💬 1 • ⏱️ 4:52 • 6h ago
+👁️ 204 • 👍 15 • 💬 1 • ⏱️ 4:52 • 6h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 14K • 👍 553 • 💬 43 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -279,37 +279,17 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 4K • 💬 219 • ⏱️ 9:23 • 17h ago
+👁️ 68K • 👍 5K • 💬 240 • ⏱️ 9:23 • 18h ago
 
 ---
 
-**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Qr52BD8FxzA)**
 
-From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 The Value Thinker
+📺 More Crypto Online
 
-👁️ 15K • 👍 968 • 💬 146 • ⏱️ 26:25 • 22h ago
-
----
-
-**[CRYPTO Impossible To Ignore: Ethereum, Chainlink, Cardano Tell Same Story!p](https://www.youtube.com/watch?v=le-YcIqDThM)**
-
-Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Altcoins are starting to tell the same ...
-
-📺 Dan Gambardello
-
-👁️ 15K • 👍 1K • 💬 249 • ⏱️ 13:02 • 19h ago
-
----
-
-**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=joApN69akMc)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 30K • 👍 932 • 💬 67 • ⏱️ 19:18 • 2d ago
+👁️ 3K • 👍 205 • 💬 19 • ⏱️ 6:20 • 15h ago
 
 ---
 
@@ -319,17 +299,37 @@ Ethereum just broke out of a months-long downtrend as on-chain staking activity 
 
 📺 CoinCodex
 
-👁️ 386 • 👍 17 • 💬 3 • ⏱️ 4:25 • 21h ago
+👁️ 410 • 👍 17 • 💬 3 • ⏱️ 4:25 • 21h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EF94EIeGNEc)**
+**[[LEAKED] ⚠️TOM LEE &quot;ETH IS ABOUT TO SQUEEZE BECAUSE OF THIS! BMNR STOCK⚠️](https://www.youtube.com/watch?v=R5c1E7QOjLQ)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
 
-📺 More Crypto Online
+📺 Short The Vix
 
-👁️ 3K • 👍 137 • 💬 6 • ⏱️ 3:31 • 1d ago
+👁️ 9K • 👍 415 • 💬 43 • ⏱️ 12:31 • 1d ago
+
+---
+
+**[CRYPTO Impossible To Ignore: Ethereum, Chainlink, Cardano Tell Same Story!p](https://www.youtube.com/watch?v=le-YcIqDThM)**
+
+Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Altcoins are starting to tell the same ...
+
+📺 Dan Gambardello
+
+👁️ 16K • 👍 1K • 💬 250 • ⏱️ 13:02 • 19h ago
+
+---
+
+**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=joApN69akMc)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 31K • 👍 941 • 💬 67 • ⏱️ 19:18 • 2d ago
 
 ---
 
