@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T06:36:38.419429+00:00'
+updated: '2026-01-14T07:26:57.308736+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 06:36 UTC  
+**Last Updated:** January 14, 2026 at 07:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1902.56B
+**Market Cap:** $1898.38B
 Rank #1
 
-**Circulating Supply:** 19,975,600 BTC
+**Circulating Supply:** 19,975,637 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.5%
+-24.6%
 
 **All-Time Low:** $67.81
-+140349.8%
++140018.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[We’re so back (still 10k away from my entry)](https://www.reddit.com/r/Bitcoin/comments/1qc6517/were_so_back_still_10k_away_from_my_entry/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Big jump in price today!
 
-8h ago
+9h ago
 
 ---
 
@@ -101,13 +101,13 @@ Big jump in price today!
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-17h ago
+18h ago
 
 ---
 
 **[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -115,13 +115,13 @@ Wonder what Bitcoiners in Iran is feeling today.
 
 Is that why the market has been so manipulated the past 6 months? They’ve been waiting for this.
 
-14h ago
+15h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ Is that why the market has been so manipulated the past 6 months? They’ve been
 
 If I wake up to BTC at $100k, I already know all I’ll see is “we are so back!!!” everywhere. But honestly, it’s all about patience. Pumps will come, but time will show whether we’re truly back or not.
 
-7h ago
+8h ago
 
 ---
 
@@ -145,7 +145,7 @@ Everyone give him a kick while he’s down and we’ll be at 1 m in no time !
 
 I was just about to buy and suddenly the candle goes vertical and no joke it went from 95 to over 96 in seconds (on kraken pro anyway).
 
-8h ago
+9h ago
 
 ---
 
@@ -157,7 +157,7 @@ I was just about to buy and suddenly the candle goes vertical and no joke it wen
 
 The largest cryptocurrency is now facing a key "resistance" zone at $93,500-$95,000, which has capped its price for nearly two months.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 13h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 11h ago
+dlnews.com • 12h ago
 
 ---
 
@@ -195,13 +195,13 @@ Yahoo Finance • 1h ago
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 19h ago
+CCN.com • 20h ago
 
 ---
 
@@ -213,7 +213,7 @@ Bloomberg.com • 3h ago
 
 **[Bitcoin, XRP surge amid rising US-Iran tensions](https://www.thestreet.com/crypto/markets/bitcoin-xrp-surge-amid-rising-us-iran-tensions)**
 
-thestreet.com • 9h ago
+thestreet.com • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 1K • 💬 210 • ⏱️ 5:56 • 5h ago
+👁️ 18K • 👍 1K • 💬 340 • ⏱️ 5:56 • 6h ago
 
 ---
 
@@ -325,7 +325,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 176 • ⏱️ 9:23 • 8h ago
+👁️ 50K • 👍 4K • 💬 198 • ⏱️ 9:23 • 9h ago
 
 ---
 
@@ -335,7 +335,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 4K • 👍 566 • 💬 173 • ⏱️ 26:56 • 4h ago
+👁️ 9K • 👍 923 • 💬 264 • ⏱️ 26:56 • 4h ago
 
 ---
 
@@ -345,17 +345,7 @@ The Fed's latest moves aren't just monetary policy — they're signals. Quiet, c
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 973 • 💬 86 • ⏱️ 15:44 • 6h ago
-
----
-
-**[BITCOIN](https://www.youtube.com/watch?v=9hAIFCcW6gc)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 6K • 👍 394 • 💬 60 • ⏱️ 8:20 • 7h ago
+👁️ 14K • 👍 1K • 💬 181 • ⏱️ 15:44 • 7h ago
 
 ---
 
@@ -365,7 +355,27 @@ Bitcoin's at $94372 right now, and here's why it's up today—from $91K to this 
 
 📺 Satoshi Alliance
 
-👁️ 2K • 👍 202 • 💬 54 • ⏱️ 3:40 • 6h ago
+👁️ 3K • 👍 250 • 💬 107 • ⏱️ 3:40 • 6h ago
+
+---
+
+**[BITCOIN: IT&#39;S HAPPENING NOW!!!!!!!](https://www.youtube.com/watch?v=x1bMw875_lg)**
+
+WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
+
+📺 Crypto Rover
+
+👁️ 2K • 👍 239 • 💬 158 • ⏱️ 10:22 • 2h ago
+
+---
+
+**[BITCOIN](https://www.youtube.com/watch?v=9hAIFCcW6gc)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 425 • 💬 58 • ⏱️ 8:20 • 8h ago
 
 ---
 
@@ -375,37 +385,27 @@ CPI is out today, but most traders are missing a crucial detail that makes this 
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 29 • ⏱️ 29:19 • 13h ago
+👁️ 31K • 👍 2K • 💬 31 • ⏱️ 29:19 • 14h ago
 
 ---
 
-**[Bitcoin New All Time High in 2026: Experts Weigh In!](https://www.youtube.com/watch?v=mVeHmg1eZwc)**
+**[BITCOIN: NEW SIGNAL FLASHING!!! #BTC Price Prediction &amp; Crypto News Today](https://www.youtube.com/watch?v=atj8JR-9N0o)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io 🏖️ IA RETIRE ON: ...
+BloFin: https://partner.blofin.com/d/RT1M 15% Fee Discount & Bonus Up to $5000 My Free Trading Course ...
 
-📺 InvestAnswers
+📺 Road To $1 Million USD
 
-👁️ 5K • 👍 250 • 💬 5 • ⏱️ 1:29 • 9h ago
-
----
-
-**[Michael Saylor: BITCOIN BULL RUN READY TO BE CONFIRMED! BTC PRICE PREDICTION](https://www.youtube.com/watch?v=dPgUUJrjz_I)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 North Idaho Nomads
-
-👁️ 4K • 👍 3K • 2h ago
+👁️ 5K • 👍 248 • 💬 73 • ⏱️ 5:45 • 8h ago
 
 ---
 
-**[Bitcoin&#39;s Next Shocking Move is Coming](https://www.youtube.com/watch?v=kAsjV4537wA)**
+**[BITCOIN BREAKING OUT NOW !!! MY $2M TRADE !!! ](https://www.youtube.com/watch?v=PFDVUcPPG44)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/CoinflareCarl Make your ...
 
-📺 CryptosRUs
+📺 The Moon Show
 
-👁️ 24K • 👍 1K • 💬 188 • ⏱️ 39:49 • 15h ago
+👁️ 5K • 👍 491 • 💬 13 • ⏱️ 4:22 • 5h ago
 
 ---
 

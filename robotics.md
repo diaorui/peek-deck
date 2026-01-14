@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T06:36:38.428623+00:00'
+updated: '2026-01-14T07:26:57.318175+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 06:36 UTC  
+**Last Updated:** January 14, 2026 at 07:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 18h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 19h ago
 
 ---
 
@@ -44,7 +44,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S UPS module Waveshare Active cooler Motor driver: L298n IMU: MPU6050 Servo driver: PCA9685 Optical sensor: PAA5100JE Geared encoder motors Software: Ubuntu server LTS 24.04 Main robot code: NodeJs/Python3/C++ ROS2 Kilted
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-35m ago
+1h ago
 
 ---
 
@@ -66,13 +66,13 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
 
-20h ago
+21h ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (
 
 Is it uncanny if a robot lamp speaks to you? I imagine this being on people's desk and in that context what should be a default
 
-23h ago
+1d ago
 
 ---
 
@@ -88,13 +88,13 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 https://preview.redd.it/ge1vg4ccb9dg1.png?width=897&format=png&auto=webp&s=05416e49534382b7a48ae021b7b6bbd673f090c9 I recently came across an interesting article on how FANUC India is approaching “human-robot fusion” in industrial automation. The core idea isn’t robots replacing people, but robots evolving into adaptive collaborators that learn from data, assist human decision-making, and handle precision-heavy tasks while humans focus on judgment, creativity, and problem-solving. A few things that stood out to me: Automation moving beyond repetitive motion into AI-assisted adaptability Humans staying in the loop instead of being engineered out Robotics being positioned as a long-term productivity partner rather than a cost-cutting tool Article link for context (not affiliated, just sharing): https://ciolookmagazine.com/driving-intelligent-automation-how-fanuc-india-guided-by-yuki-kita-is-putting-human-robotics-fusion-on-the-global-map/
 
-23m ago
+1h ago
 
 ---
 
 **[Day 113 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qbnl1i/day_113_of_building_asimov_an_opensource_humanoid/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ https://preview.redd.it/ge1vg4ccb9dg1.png?width=897&format=png&auto=webp&s=05416
 
 LimX just released a "Cognitive OS" (COSA). How are they solving the VLA-to-Control latency gap? I saw the announcement for LimX Dynamics' new "COSA" (Cognitive OS of Agents) today. They claim it allows their humanoid, Oli, to "think while working" by deeply integrating high-level cognition with whole-body motion control. This sounds great, but I’m trying to wrap my head around the architecture. Usually, there's a massive frequency mismatch between the "Brain" (VLA/LLMs running at <5Hz) and the "Body" (Whole-Body Control needing 500Hz+). How is COSA actually bridging this for "contextual understanding"?
 
-13h ago
+14h ago
 
 ---
 
@@ -144,7 +144,7 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 Hyundai Motor group stocks surge after Atlas robot debut and Nvidia partnership lifts robotics optimism.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance • 12h ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 6h ago
+The Free Press • 7h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Free Press • 6h ago
 
 ROBO Global Robotics and Automation Index, long considered the benchmark for the robotics industry since its launch in 2013, posted 24% annual performance for 2025.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -200,23 +200,23 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 ---
 
-**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
-
-Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
-
-📺 CNBC
-
-👁️ 134K • 👍 2K • 💬 353 • ⏱️ 11:46 • 2d ago
-
----
-
 **[CES 2026 Made the Robot Endgame Obvious](https://www.youtube.com/watch?v=r65rR5AIwcg)**
 
 Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hair dryer have sold over 20+ million units globally.
 
 📺 Kim Java
 
-👁️ 353K • 👍 11K • 💬 644 • ⏱️ 17:09 • 1d ago
+👁️ 367K • 👍 11K • 💬 647 • ⏱️ 17:09 • 1d ago
+
+---
+
+**[How Close Are We To Robots That Actually Do Chores?](https://www.youtube.com/watch?v=5mi__weNeM4)**
+
+Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, Jensen Huang and all over CES 2026.
+
+📺 CNBC
+
+👁️ 136K • 👍 2K • 💬 357 • ⏱️ 11:46 • 2d ago
 
 ---
 
@@ -226,7 +226,27 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 10K • 👍 580 • 💬 37 • ⏱️ 9:28 • 3d ago
+👁️ 10K • 👍 581 • 💬 37 • ⏱️ 9:28 • 3d ago
+
+---
+
+**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
+
+I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
+
+📺 mryeester
+
+👁️ 977K • 👍 31K • 💬 953 • ⏱️ 0:39 • 5d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 121K • 👍 9K • 💬 2K • ⏱️ 5:12 • 9h ago
 
 ---
 
@@ -246,45 +266,27 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 394 • 👍 1 • ⏱️ 0:33 • 5h ago
+👁️ 560 • 👍 3 • 💬 1 • ⏱️ 0:33 • 6h ago
 
 ---
 
-**[A Robot That Saves Power Lines During Ice Storms. #robotics #science #power #cleaning #knowledge](https://www.youtube.com/watch?v=18VNX-jbhoU)**
+**[Giving a bar of GOLD to a Robot](https://www.youtube.com/watch?v=HX-Jk7R50MA)**
 
-📺 Wowearth
+When a robo-cleaner can notify you that a bar of gold was left on your living room floor, you know this technology is getting pretty ...
 
-👁️ 30K • 👍 443 • 💬 39 • ⏱️ 1:16 • 20h ago
+📺 mryeester
 
----
-
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
-
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
-
-📺 joeybtoonz
-
-👁️ 96K • 👍 8K • 💬 1K • ⏱️ 5:12 • 9h ago
+👁️ 95K • 👍 5K • 💬 174 • ⏱️ 1:06 • 4d ago
 
 ---
 
-**[The FUTURE of ROBOTS? AGIBOT X2 at CES 2026](https://www.youtube.com/watch?v=vllp72F8njU)**
+**[Meet the Newest Realbotix Robot Companion, David](https://www.youtube.com/watch?v=6yCsNuEuPBw)**
 
-This is it! The AGIBOT X2 robot has arrived — and CES 2026 is buzzing with excitement around what could be the next major leap ...
+We caught up with the Realbotix robots at CES 2026 and met the newest member of their character lineup, David. Read more ...
 
-📺 KhanFlicks
+📺 CNET
 
-👁️ 2K • 👍 25 • 💬 31 • ⏱️ 8:09 • 17h ago
-
----
-
-**[Robot Scoring Demonstrations &amp; Breakdown | Ri3D Cranberry Alarm | REBUILT 2026](https://www.youtube.com/watch?v=TTUpKJGgtI0)**
-
-Robot Scoring Demonstrations and Breakdown | Ri3D Cranberry Alarm | REBUILT 2026 Robot in 3 Days team Cranberry Alarm ...
-
-📺 FUN Robotics Network
-
-👁️ 9K • 👍 242 • 💬 13 • ⏱️ 57:02 • 11h ago
+👁️ 136K • 👍 458 • 💬 336 • ⏱️ 5:07 • 6d ago
 
 ---
 

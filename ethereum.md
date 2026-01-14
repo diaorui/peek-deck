@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T06:36:38.425411+00:00'
+updated: '2026-01-14T07:26:57.314882+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 06:36 UTC  
+**Last Updated:** January 14, 2026 at 07:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $402.85B
+**Market Cap:** $402.42B
 Rank #2
 
 **Circulating Supply:** 120,694,681 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.5%
+-32.6%
 
 **All-Time Low:** $0.43
-+770512.4%
++770129.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-36m ago
+1h ago
 
 ---
 
@@ -99,7 +99,7 @@ vulnerabilities reported through the Ethereum Foundation bug bounty program.
 
 As with all our previous releases,...
 
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 4h ago
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 5h ago
 
 ---
 
@@ -115,7 +115,7 @@ Ethereum did a lot in 2025: gas limits increased, blob count increased, node sof
 
 In 2014, there was a vision: you can have permissionless, decentralized applications that could support finance, social media, ride sharing, governing organizations, crowdfunding, potentially create an entire alternative web, all on the backs of a suite of technologies. Ethereum: the blockchain. The world computer that could give any application its shared memory. Whisper: the data layer. Messages too expensive for a blockchain, that do no need consensus. Swarm: the storage layer. Store files for long-term access. Over the last five years, this core vision has at times become obscured, with various "metas" and "narratives" at various times taking center stage. But the core vision has never died. And in fact, the core technologies behind it are only growing stronger. Ethereum is now proof of stake. Ethereum is now scaling, it is now cheap, and it is on track to get more scalable and cheaper thanks to the power of ZK-EVMs. Thanks to ZK-EVM + PeerDAS, the "sharding" vision is effectively being realized. And L2s can give additional and different kinds of gains in speed on top. Whisper is now Waku ( https://docs.waku.org/ ), and already powers many applications (eg. https://www.railway.xyz/, https://status.app/ just to name two I use). Even outside of Waku, the quality of decentralized messaging has increased. Fileverse (decentralized Google Docs and Sheets alternative: https://fileverse.io/ ) has seen massive gains in usability over the past year. IPFS is now highly performant and robust as a decentralized way of retrieving files, though IPFS alone does not solve the storage problem. Hence, there is still room to improve there. All of the prerequisites for the original web3 vision are here, in full force, and are continuing to get stronger over the next few years. Hence, it's time to buidl, and buidl decentralized. Fileverse is an excellent example of the right way to do things: It uses Ethereum and Gnosis Chain for what they are good for: names, accounts and permissioning, document registration It uses decentralized messaging and file storage to store documents and propagate changes to documents The application passes the walkaway test: https://github.com/fileverse/walk-away-ddocs (even if Fileverse disappears, you can still retrieve them and even keep editing them with the open source UI) This is what we mean by "build a hammer that is a tool you buy once and it's yours, not a corposlop AI dishwasher that requires you to register for a google account and charges a subscription fee per month for extra washing modes, and probably spies on you and stops working if you get politically disfavored by a foreign country". If you think this criticism of corposlop is hyperbolic, well turns out, it's literally a concatenation of these three: https://mein-mmo.de/en/user-buys-new-dishwasher-can-only-use-some-features-if-he-subscribes,1186249/ https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers https://www.irishtimes.com/world/us/2025/12/12/its-surreal-us-sanctions-lock-international-criminal-court-judge-out-of-daily-life/ In 2014, decentralized applications were toys, hundreds of times more difficult to use in web2. In 2026, fileverse is now usable enough that I regularly write documents in it and send them to other people to collaborate. The decentralized renaissance is coming, and you can be part of making it happen.
 
-3m ago
+54m ago
 
 ---
 
@@ -157,7 +157,7 @@ One metaphor for Ethereum is BitTorrent, and how that p2p network combines decen
 
 **[ETHGas launches GWEI token to govern Ethereum blockspace and make onchain execution predictable](https://www.theblock.co/post/385414/ethgas-launches-gwei-token-govern-ethereum-blockspace-onchain-execution-predictable)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 13h ago
 
 Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
 
-24/7 Wall St. • 15h ago
+24/7 Wall St. • 16h ago
 
 ---
 
@@ -173,7 +173,7 @@ Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at 
 
 Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Yahoo Finance • 47m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 47m ago
 
 Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
 
-dlnews.com • 20h ago
+dlnews.com • 21h ago
 
 ---
 
@@ -195,7 +195,7 @@ ETF Trends • 1d ago
 
 The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -203,7 +203,7 @@ CoinDesk • 15h ago
 
 Ethereum treasury firm SharpLink Gaming intends to lead the way when it comes to publicly traded firms productively using their ETH.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -211,13 +211,13 @@ Decrypt • 10h ago
 
 Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 19h ago
+CCN.com • 20h ago
 
 ---
 
@@ -239,17 +239,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 473 • 💬 37 • ⏱️ 17:37 • 15h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Qr52BD8FxzA)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 965 • 👍 98 • 💬 15 • ⏱️ 6:20 • 5h ago
+👁️ 12K • 👍 493 • 💬 53 • ⏱️ 17:37 • 16h ago
 
 ---
 
@@ -259,17 +249,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 176 • ⏱️ 9:23 • 8h ago
-
----
-
-**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
-
-From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
-
-📺 The Value Thinker
-
-👁️ 12K • 👍 823 • 💬 122 • ⏱️ 26:25 • 13h ago
+👁️ 50K • 👍 4K • 💬 198 • ⏱️ 9:23 • 9h ago
 
 ---
 
@@ -279,7 +259,57 @@ Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapi
 
 📺 Dan Gambardello
 
-👁️ 11K • 👍 822 • 💬 234 • ⏱️ 13:02 • 9h ago
+👁️ 13K • 👍 899 • 💬 237 • ⏱️ 13:02 • 10h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Qr52BD8FxzA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 142 • 💬 17 • ⏱️ 6:20 • 6h ago
+
+---
+
+**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
+
+From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
+
+📺 The Value Thinker
+
+👁️ 13K • 👍 877 • 💬 130 • ⏱️ 26:25 • 13h ago
+
+---
+
+**[Ethereum Breaks the Downtrend: Why $6,400 Is Back on the Table (ETH 2026 Outlook)](https://www.youtube.com/watch?v=gbCF43nT4UA)**
+
+Ethereum just broke out of a months-long downtrend as on-chain staking activity strengthens the bullish case. In this video, we ...
+
+📺 CoinCodex
+
+👁️ 274 • 👍 17 • 💬 31 • ⏱️ 4:25 • 12h ago
+
+---
+
+**[Ethereum Airdrop 2026: How To Get FREE ETH Step-By-Step Tutorial!](https://www.youtube.com/watch?v=X107hVaz-W0)**
+
+Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays video we are going to talk about Ethereum ...
+
+📺 World Liberty Financial
+
+👁️ 4K • 👍 26 • 💬 5 • ⏱️ 2:01 • 1d ago
+
+---
+
+**[[LEAKED] ⚠️TOM LEE &quot;ETH IS ABOUT TO SQUEEZE BECAUSE OF THIS! BMNR STOCK⚠️](https://www.youtube.com/watch?v=R5c1E7QOjLQ)**
+
+Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
+
+📺 Short The Vix
+
+👁️ 9K • 👍 405 • 💬 43 • ⏱️ 12:31 • 1d ago
 
 ---
 
@@ -293,43 +323,13 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[🚨  BTC &amp; ETH: WATCH THIS IMMEDIATELY!!!!!!!](https://www.youtube.com/watch?v=_6V_oqcSbn0)**
+**[Raoul Pal: “This Is EXACTLY How The 2026 Bull Run Starts” [Bitcoin &amp; Ethereum Prediction 2026]](https://www.youtube.com/watch?v=joApN69akMc)**
 
-This week will be the most important for bitcoin, ethereum and the rest of crypto! Here is why, how I am preparing, and what my ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Thomas Kralow
+📺 Crypto Nutshell
 
-👁️ 21K • 👍 3K • 💬 30 • ⏱️ 8:17 • 1d ago
-
----
-
-**[Ethereum Breaks the Downtrend: Why $6,400 Is Back on the Table (ETH 2026 Outlook)](https://www.youtube.com/watch?v=gbCF43nT4UA)**
-
-Ethereum just broke out of a months-long downtrend as on-chain staking activity strengthens the bullish case. In this video, we ...
-
-📺 CoinCodex
-
-👁️ 231 • 👍 14 • 💬 41 • ⏱️ 4:25 • 11h ago
-
----
-
-**[[LEAKED] ⚠️TOM LEE &quot;ETH IS ABOUT TO SQUEEZE BECAUSE OF THIS! BMNR STOCK⚠️](https://www.youtube.com/watch?v=R5c1E7QOjLQ)**
-
-Join the LTMP group for $1 per day for your first month with code "january" HERE! https://whop.com/premium-ltmp-cb/ Apex Trader ...
-
-📺 Short The Vix
-
-👁️ 9K • 👍 403 • 💬 43 • ⏱️ 12:31 • 1d ago
-
----
-
-**[Ethereum Airdrop 2026: How To Get FREE ETH Step-By-Step Tutorial!](https://www.youtube.com/watch?v=X107hVaz-W0)**
-
-Ethereum Airdrop OFFICIAL CLAIM LINK - https://eth.distrubution.org/ in todays video we are going to talk about Ethereum ...
-
-📺 World Liberty Financial
-
-👁️ 4K • 👍 25 • 💬 5 • ⏱️ 2:01 • 1d ago
+👁️ 29K • 👍 892 • 💬 64 • ⏱️ 19:18 • 1d ago
 
 ---
 

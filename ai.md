@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T06:36:38.410995+00:00'
+updated: '2026-01-14T07:26:57.300177+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- repositories
 - news
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 06:36 UTC  
+**Last Updated:** January 14, 2026 at 07:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions.
 
-10h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 2h ago
+🔗 [techputs](https://techputs.com/apple-creator-studio/) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbo
 
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
 
-🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 4h ago
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Z.ai (creators of GLM) have released an open weight image generation model that 
 
 Slackbot, the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/2026/01/13/anthropic-releases-cowork-as-claudes-local-file-system-agent-for-everyday-work/
 
-43m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Slackbot, the automated assistant baked into the Salesforce-owned corporate mess
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 45m ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 1h ago
 
 ---
 
@@ -105,7 +105,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 12h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 13h ago
 
 ---
 
@@ -125,7 +125,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -133,19 +133,19 @@ BBC • 2h ago
 
 The US Commerce Department on Tuesday opened the door for Nvidia to sell advanced artificial intelligence chips in China with restrictions, following through on a policy shift announced last month by President Donald Trump.Trump announced on December 9, 2025 that he had reached an agreement with Chinese President Xi Jinping to allow Nvidia to export its H200 chips to China, with the US government getting a 25-percent cut of sales.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[China’s Zhipu Unveils New AI Model Trained on Huawei’s Chips](https://www.bloomberg.com/news/articles/2026-01-14/china-s-zhipu-unveils-new-ai-model-trained-on-huawei-s-chips)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 20h ago
 
 Candidates in pilot assessed on how they prompted consulting firm’s AI assistant and ability to adapt responses
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Financial Times • 1h ago
 
 Hires of energy-related talent by Big Tech was 30% higher in 2025 than pre-AI levels.
 
-CNBC • 25m ago
+CNBC • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 25m ago
 
 Marketers and content creators on how authenticity is even more crucial after rampant AI-generated "slop" flooded social media platforms
 
-Digiday • 1h ago
+Digiday • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Digiday • 1h ago
 
 The new tool brings Claude Code's capabilities to non-technical users, positioning Anthropic to compete with productivity tools like Microsoft Copilot.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New Yorker • 1d ago
 
 **[College paper fights to stop AI slop website from stealing its identity](https://www.washingtonpost.com/nation/2026/01/13/colorado-student-newspaper-artificial-intelligence/)**
 
-The Washington Post • 11h ago
+The Washington Post • 12h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Washington Post • 11h ago
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 357 • 💬 186 • 8h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 357 • 💬 186 • 9h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -245,7 +245,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 213 • 💬 112 • 9h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 213 • 💬 112 • 10h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -269,7 +269,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 183 • 💬 185 • 18h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 183 • 💬 185 • 19h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -277,13 +277,33 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 ## YouTube Videos: "ai"
 
+**[Microsoft Shocks AI World: &quot;China AI Is Now Too Powerful&quot;](https://www.youtube.com/watch?v=vcUBUQOyzFI)**
+
+Microsoft just issued a warning that reframes the AI race: outside the West, China is gaining fast through scale, affordability, and ...
+
+📺 AI Revolution
+
+👁️ 19K • 👍 661 • 💬 85 • ⏱️ 14:32 • 8h ago
+
+---
+
 **[we just arrived at the &quot;WTF&quot; moment in AI](https://www.youtube.com/watch?v=N8I2wYXt4m8)**
 
 GPT 5.2 just solved the Erdos Problems. Terence Tao confirms. We're officially at the "WTF" moment in AI development. The latest ...
 
 📺 Wes Roth
 
-👁️ 92K • 👍 3K • 💬 715 • ⏱️ 23:05 • 2d ago
+👁️ 93K • 👍 3K • 💬 716 • ⏱️ 23:05 • 2d ago
+
+---
+
+**[OpenAI Just Dropped GPT HEALTH And People Are Freaking Out](https://www.youtube.com/watch?v=sPl_jYF8E5k)**
+
+OpenAI just launched ChatGPT Health — a dedicated health and wellness space inside ChatGPT — and it pushes ChatGPT into ...
+
+📺 AI Revolution
+
+👁️ 48K • 👍 1K • 💬 188 • ⏱️ 14:42 • 1d ago
 
 ---
 
@@ -293,7 +313,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 21K • 👍 1K • 💬 177 • ⏱️ 10:39 • 1d ago
+👁️ 21K • 👍 1K • 💬 179 • ⏱️ 10:39 • 1d ago
 
 ---
 
@@ -303,17 +323,17 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 55K • 👍 430 • 💬 102 • ⏱️ 7:57 • 1d ago
+👁️ 57K • 👍 443 • 💬 106 • ⏱️ 7:57 • 1d ago
 
 ---
 
-**[Open Source AI Agents Just Got Too Powerful: Confucius AI Agent](https://www.youtube.com/watch?v=GnQCyxa4TjA)**
+**[Which AI Retopology Is The Best? I Tested Them All](https://www.youtube.com/watch?v=3hagi51IxeY)**
 
-Meta and Harvard just released an open-source coding agent called Confucius Code Agent, built on top of the Confucius SDK, ...
+The new wave of "AI Retopology" tools claims to fix many generation's errors with one click. Can we finally get game-ready assets ...
 
-📺 AI Revolution
+📺 Stefan 3D AI Lab
 
-👁️ 40K • 👍 1K • 💬 55 • ⏱️ 14:29 • 2d ago
+👁️ 10K • 👍 508 • 💬 54 • ⏱️ 13:39 • 1d ago
 
 ---
 
@@ -323,7 +343,15 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 266K • 👍 5K • 💬 281 • ⏱️ 0:23 • 1d ago
+👁️ 271K • 👍 6K • 💬 288 • ⏱️ 0:23 • 1d ago
+
+---
+
+**[Project AVA is Not an AI Waifu 😅](https://www.youtube.com/watch?v=6dVO-Kx3ZSk)**
+
+📺 Garett
+
+👁️ 536K • 👍 44K • 💬 2K • ⏱️ 0:43 • 14h ago
 
 ---
 
@@ -333,7 +361,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 173K • 👍 14K • 💬 3K • ⏱️ 13:08 • 1d ago
+👁️ 175K • 👍 15K • 💬 3K • ⏱️ 13:08 • 1d ago
 
 ---
 
@@ -341,35 +369,7 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 Maggie McGaugh
 
-👁️ 317K • 👍 12K • 💬 105 • ⏱️ 0:49 • 1d ago
-
----
-
-**[The &quot;Holy Grail&quot; of Open Source AI Video is Here (LTX-2)](https://www.youtube.com/watch?v=27UAb_Tlv4E)**
-
-In this video, I explore the newly released open-source model LTX 2, offering a comprehensive guide on how to run it locally on ...
-
-📺 MattVidPro AI
-
-👁️ 5K • 👍 333 • 💬 69 • ⏱️ 21:39 • 10h ago
-
----
-
-**[HISTORIC MOMENT: Hegseth Joins Elon Musk at SpaceX to Launch Military AI Revolution | AI1Z](https://www.youtube.com/watch?v=K0eTdhGPxG8)**
-
-U.S. Secretary of Defense Pete Hegseth made a historic appearance at SpaceX in Brownsville, Texas, on January 12, 2026, ...
-
-📺 DWS News
-
-👁️ 52K • 👍 618 • 💬 7 • ⏱️ 8:05 • 23h ago
-
----
-
-**[Project AVA is Not an AI Waifu 😅](https://www.youtube.com/watch?v=6dVO-Kx3ZSk)**
-
-📺 Garett
-
-👁️ 497K • 👍 41K • 💬 2K • ⏱️ 0:43 • 14h ago
+👁️ 336K • 👍 12K • 💬 108 • ⏱️ 0:49 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 860,720 • ❤️ 929 • 5d ago
+⬇️ 860,720 • ❤️ 934 • 6d ago
 
 ---
 
@@ -397,7 +397,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 30,479 • ❤️ 570 • 6d ago
+⬇️ 30,479 • ❤️ 576 • 6d ago
 
 ---
 
@@ -409,7 +409,7 @@ HY-MT1.5-1.8B is a 1.8B parameter translation model supporting 33 languages, off
 
 `translation` `2.0B`
 
-⬇️ 11,717 • ❤️ 750 • 13d ago
+⬇️ 11,717 • ❤️ 753 • 13d ago
 
 ---
 
@@ -433,7 +433,19 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 15,073 • ❤️ 316 • 5d ago
+⬇️ 15,073 • ❤️ 317 • 5d ago
+
+---
+
+**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
+
+*Z.ai*
+
+GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
+
+`text-to-image`
+
+⬇️ 0 • ❤️ 274 • 1h ago
 
 ---
 
@@ -445,7 +457,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 26,414 • ❤️ 237 • 8h ago
+⬇️ 26,414 • ❤️ 241 • 9h ago
 
 ---
 
@@ -457,7 +469,7 @@ LFM2.5-Audio-1.5B is an end-to-end audio foundation model enabling real-time spe
 
 `audio-to-audio` `1.5B`
 
-⬇️ 1,062 • ❤️ 244 • 8d ago
+⬇️ 1,062 • ❤️ 245 • 8d ago
 
 ---
 
@@ -469,7 +481,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 30,825 • ❤️ 373 • 8d ago
+⬇️ 30,825 • ❤️ 374 • 8d ago
 
 ---
 
@@ -482,18 +494,6 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 `image-to-text` `8.1B`
 
 ⬇️ 23,229 • ❤️ 223 • 4d ago
-
----
-
-**[Qwen3-VL-Embedding-2B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B)**
-
-*Qwen*
-
-Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generates high-dimensional vectors for text, images, and videos. It excels at cross-modal understanding and retrieval tasks, supporting over 30 languages and customizable embedding dimensions for flexible integration.
-
-`image-to-text` `2.1B`
-
-⬇️ 23,003 • ❤️ 197 • 4d ago
 
 ---
 
@@ -638,7 +638,7 @@ A data-free self-evolution framework enables large language models to autonomous
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.4k • 🔱 1.1k • 1h ago
+⭐ 8.4k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -648,7 +648,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 3.8k • 🔱 145 • 2h ago
+⭐ 4.0k • 🔱 150 • 3h ago
 
 ---
 
@@ -658,7 +658,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 3.7k • 🔱 496 • 6d ago
+⭐ 3.7k • 🔱 501 • 6d ago
 
 ---
 
@@ -668,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.3k • 🔱 142 • 5h ago
+⭐ 2.3k • 🔱 142 • 6h ago
 
 ---
 
@@ -688,7 +688,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 129 • 4h ago
+⭐ 1.6k • 🔱 129 • 5h ago
 
 ---
 
@@ -712,6 +712,16 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 ---
 
+**[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
+
+LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
+
+`Python` `agent` `ai` `aigc` `gemini` `llm`
+
+⭐ 1.2k • 🔱 909 • 16h ago
+
+---
+
 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**
 
 A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
@@ -719,16 +729,6 @@ A curated list of skills, tools, tutorials, and capabilities for AI coding agent
 `agent-skills` `ai-agents` `ai-development` `anthropic` `automation`
 
 ⭐ 1.2k • 🔱 88 • 15d ago
-
----
-
-**[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)**
-
-LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行
-
-`Python` `agent` `ai` `aigc` `gemini` `llm`
-
-⭐ 1.2k • 🔱 836 • 15h ago
 
 ---
 
