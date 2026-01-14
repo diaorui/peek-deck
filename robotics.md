@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T14:53:54.082657+00:00'
+updated: '2026-01-14T15:28:10.528122+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 14:53 UTC  
+**Last Updated:** January 14, 2026 at 15:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Boston Dynamics has officially unveiled the commercial product version of its fu
 
 Vincent Vanhoucke, Engineer at Waymo and former leader at Google Brain and Google Robotics, discusses whether robotics could follow the same shift seen in AI, where generalist models eventually replaced task-specific systems. In AI, large models now handle many domains at once and can be adapted to specialized tasks with limited additional training. He outlines what would need to be true for robotics to make a similar transition, including access to large-scale data, scalable data collection, and effective use of simulation. At the same time, he points out that physical systems introduce constraints that software does not, such as safety, hardware limits, and real-world variability, leaving open the question of whether generalist approaches will outperform specialist robots or whether specialization will remain dominant longer in embodied AI.
 
-1h ago
+2h ago
 
 ---
 
@@ -70,25 +70,33 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 ---
 
-**[How many fingers does a robot really need?](https://www.reddit.com/r/robotics/comments/1qcfite/how_many_fingers_does_a_robot_really_need/)**
-
-Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
-
-8h ago
-
----
-
 **[NEURA Robotics with new generation of humanoid (I have some questions!)](https://www.reddit.com/r/robotics/comments/1qcjrll/neura_robotics_with_new_generation_of_humanoid_i/)**
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-4h ago
+5h ago
+
+---
+
+**[How many fingers does a robot really need?](https://www.reddit.com/r/robotics/comments/1qcfite/how_many_fingers_does_a_robot_really_need/)**
+
+Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
+
+9h ago
+
+---
+
+**[Motor Cassettes](https://www.reddit.com/r/robotics/comments/1qcpcc8/motor_cassettes/)**
+
+Hello! I’m trying to design and configure something to put 12 stepper motors into a cassette for tendon based actuation along 36” and 3 points of movement. Has something like this been done? I’ve done some searches and I’m not finding much on compacting 12 stepper motors into a 12” space. I was looking at linear actuators, but even the research on them is scarce it seems and is gated behind pay walls. They also seem too large for what I am trying to accomplish. I don’t mind designing something of my own, but before I start from scratch, I wanted to see if I could accumulate some references or previous successes. Looking for resources or research papers on anything close. Thanks!
+
+32m ago
 
 ---
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -98,17 +106,37 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 ---
 
-**[1X just introduced their video-pretrained world model, 1XWM, integrated into NEO as a robot policy](https://www.reddit.com/r/robotics/comments/1qbnh76/1x_just_introduced_their_videopretrained_world/)**
-
-From 1X on 𝕏 (full video): https://x.com/1x_tech/status/2010743979818836269 (detailed blog post) 1X World Model | From Video to Action: A New Way Robots Learn: https://www.1x.tech/discover/world-model-self-learning
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
+
+Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
+
+The Robot Report • 18h ago
+
+---
+
+**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
+
+Reuters • 1d ago
+
+---
+
+**[Arm Holdings (ARM) Expands in the Robotics Industry With Physical AI Unit](https://finance.yahoo.com/news/arm-holdings-arm-expands-robotics-174728081.html)**
+
+​Arm Holdings plc (NASDAQ:ARM) is one of the Best Stocks to Buy for High Returns in 2026. On January 7, Reuters reported that Arm Holdings plc (NASDAQ:ARM) is reorganizing its business to expand its presence in the robotics industry by creating a new Physical AI unit. ​According to the report, this decision comes at a […]
+
+Yahoo Finance • 1d ago
+
+---
 
 **[Is this the year domestic robots come in our homes?](https://www.bbc.com/news/articles/clyg63e3mq4o)**
 
@@ -122,7 +150,7 @@ BBC • 2d ago
 
 While physical products made the biggest initial splash at this yearâs CES, itâs the news about robotics platforms and tools that will have the most long-term impact. Read more here...
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -130,27 +158,7 @@ Seeking Alpha • 2h ago
 
 Home robots need common sense behavior and a deep understanding of the physical world.
 
-1X | Home Robots • 1d ago
-
----
-
-**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
-
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 17h ago
-
----
-
-**[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
-
-Reuters • 1d ago
+1X | Home Robots • 2d ago
 
 ---
 
@@ -158,7 +166,7 @@ Reuters • 1d ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 14h ago
+The Free Press • 15h ago
 
 ---
 
@@ -175,14 +183,6 @@ Financial Times • 1d ago
 New tech sectors still account for a far smaller portion of China's economy than the gap left by the real estate slump.
 
 CNBC • 2d ago
-
----
-
-**[IDF unveils five-year plan with AI and robotics focus](https://www.jpost.com/israel-news/defense-news/article-883121)**
-
-The IDF’s new five-year plan, spearheaded by Lt.-Gen. Eyal Zamir includes groundbreaking advances in AI, robotics, and space defense, aiming to revolutionize Israel’s military capabilities.
-
-The Jerusalem Post • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 96K • 👍 1K • 💬 168 • ⏱️ 10:48 • 3d ago
+👁️ 96K • 👍 1K • 💬 168 • ⏱️ 10:48 • 4d ago
 
 ---
 
@@ -276,7 +276,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 785 • 👍 6 • 💬 1 • ⏱️ 0:33 • 13h ago
+👁️ 785 • 👍 6 • 💬 1 • ⏱️ 0:33 • 14h ago
 
 ---
 

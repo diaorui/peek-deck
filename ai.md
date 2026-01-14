@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T14:53:54.064945+00:00'
+updated: '2026-01-14T15:28:10.510395+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 14:53 UTC  
+**Last Updated:** January 14, 2026 at 15:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -53,19 +53,19 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ---
 
+**[DeltaV calculation comparison between human KSP player and ChatGPT using deltaV map](https://www.reddit.com/r/artificial/comments/1qcod47/deltav_calculation_comparison_between_human_ksp/)**
+
+I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map, and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impressed, last time I used ChatGPT for anything involving calculation (years ago) it was laughably bad at it. Out of curiosity I've also asked it to analyze the energy consumption and environmental impact of the query as compared to baking some potatoes in an electric oven (something I do often). It - See the conversation yourselves if curious: https://chatgpt.com/share/6967989b-7bfc-800b-822f-6e59810e0463 Hoping this post belongs here, the chatgpt conversation log is only added for people's curiosity, not necessary for the content of this post to be understood.
+
+1h ago
+
+---
+
 **[Apple Creator Studio Is Here: A New Creative Suite Challenging Adobe](https://www.reddit.com/r/artificial/comments/1qccvkb/apple_creator_studio_is_here_a_new_creative_suite/)**
 
 Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
 
 🔗 [techputs](https://techputs.com/apple-creator-studio/) • 11h ago
-
----
-
-**[DeltaV calculation comparison between human KSP player and ChatGPT using deltaV map](https://www.reddit.com/r/artificial/comments/1qcod47/deltav_calculation_comparison_between_human_ksp/)**
-
-I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map, and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impressed, last time I used ChatGPT for anything involving calculation (years ago) it was laughably bad at it. Out of curiosity I've also asked it to analyze the energy consumption and environmental impact of the query as compared to baking some potatoes in an electric oven (something I do often). It - See the conversation yourselves if curious: https://chatgpt.com/share/6967989b-7bfc-800b-822f-6e59810e0463 Hoping this post belongs here, the chatgpt conversation log is only added for people's curiosity, not necessary for the content of this post to be understood.
-
-38m ago
 
 ---
 
@@ -77,14 +77,6 @@ Slackbot, the automated assistant baked into the Salesforce-owned corporate mess
 
 ---
 
-**[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.reddit.com/r/artificial/comments/1qbi32n/pentagon_is_embracing_musks_grok_ai_chatbot_as_it/)**
-
-Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
-
-🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 1d ago
-
----
-
 **[Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.](https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/)**
 
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases?
@@ -93,11 +85,19 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 ---
 
+**[Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry](https://www.reddit.com/r/artificial/comments/1qbi32n/pentagon_is_embracing_musks_grok_ai_chatbot_as_it/)**
+
+Defense Secretary Pete Hegseth says Elon Musk’s artificial intelligence chatbot Grok will join Google’s AI engine inside the Pentagon network.
+
+🔗 [AP News](https://apnews.com/article/artificial-intelligence-pentagon-hegseth-musk-7f99e5f32ec70d7e39cec92d2a4ec862) • 1d ago
+
+---
+
 **[kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required](https://www.reddit.com/r/artificial/comments/1qceq2y/kyutai_just_introduced_pocket_tts_a_100mparameter/)**
 
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-9h ago
+10h ago
 
 ---
 
@@ -105,15 +105,15 @@ Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice:
 
 Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
 
-🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 12h ago
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 13h ago
 
 ---
 
-**[I got tired of hunting for good AI tools, so I made"top ai sites"](https://www.reddit.com/r/artificial/comments/1qcjtln/i_got_tired_of_hunting_for_good_ai_tools_so_i/)**
+**[Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://www.reddit.com/r/artificial/comments/1qby3z0/signal_creator_moxie_marlinspike_wants_to_do_for/)**
 
-Like a lot of people here, I keep seeing new AI tools pop up every single day. Some are amazing, some are half-baked, and some disappear a month later. After bookmarking many random sites, I realized there wasn’t a clean, centralized place to explore solid AI tools without the noise. So I ended up building top-ai-sites.com What it is A curated directory of AI websites and tools, organized so you can actually find something useful instead of scrolling endlessly. What makes it different 🔍 Hand-picked AI tools (not auto-scraped junk) 🧠 Covers multiple categories: writing, coding, design, productivity, and more 🚀 Easy to browse when you just want inspiration or a specific solution 🆓 Free to use — no sign-up required Who it’s for People experimenting with AI and want to discover new tools Founders looking for AI services to speed up work Developers & creators who want to stay updated without doomscrolling Anyone overwhelmed by “Top 500 AI tools” lists 😅 Why I’m sharing here I built this because.... I wanted it, and I figured others here might find it useful too :). I’m actively improving it, so feedback (good or bad) is genuinely welcome. 👉 Check it out: https://top-ai-sites.com If you have favorite AI tools you think should be listed - or ideas to make it better - drop a comment. Happy to iterate based on what the community actually wants. Thanks!🙌I got tired of hunting for good AI tools, so I made"top ai sites"
+"Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them. Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices."
 
-4h ago
+🔗 [Ars Technica](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) • 21h ago
 
 ---
 
@@ -125,7 +125,7 @@ Like a lot of people here, I keep seeing new AI tools pop up every single day. S
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-NPR • 2h ago
+NPR • 3h ago
 
 ---
 
@@ -137,39 +137,57 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[UK PM Starmer says X moves to comply with UK law over AI deepfakes](https://www.reuters.com/technology/uk-pm-starmer-says-musks-x-moves-comply-with-uk-law-2026-01-14/)**
-
-Reuters • 55m ago
-
----
-
 **[Use of AI to harm women has only just begun, experts warn](https://www.theguardian.com/technology/2026/jan/14/use-of-ai-to-harm-women-has-only-just-begun-experts-warn)**
 
 While Grok has introduced belated safeguards to prevent sexualised AI imagery, other tools have far fewer limits
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Microsoft’s Spending on Anthropic AI Is on Pace to Hit $500 Million](https://www.theinformation.com/articles/microsofts-spending-anthropic-ai-pace-hit-500-million)**
+**[Grok and the A.I. Porn Problem](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem)**
 
-The Information • 53m ago
+Elon Musk’s X is living up to its name.
 
----
-
-**[AI will impact ‘every single aspect of our life,’ Charles Payne says](https://www.foxnews.com/video/6387712085112)**
-
-‘Making Money’ host Charles Payne joins ‘Fox & Friends’ to discuss President Donald Trump’s focus on domestic manufacturing and how AI may impact global industries.
-
-Fox News • 1h ago
+The New Yorker • 4h ago
 
 ---
 
-**[EOS unleashes 'indensity' for AI power demand](https://www.foxbusiness.com/video/6387712693112)**
+**[This 3-step technique helps you get the most out of AI tools, according to experts](https://www.cnbc.com/2026/01/14/this-3-step-technique-helps-you-get-the-most-out-of-ai-tools-according-to-experts.html)**
 
-EOS CEO Joe Mastrangelo discusses the power demand driven by new A.I. data centers on 'Mornings with Maria.'
+Try these expert-approved prompting techniques to get the best results from your AI model.
 
-Fox Business • 53m ago
+CNBC • 1h ago
+
+---
+
+**[US approves sale of Nvidia's advanced AI chips to China](https://www.bbc.com/news/articles/cg4erx1n04lo)**
+
+Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.
+
+BBC • 11h ago
+
+---
+
+**[Trump administration greenlights Nvidia AI chip exports to China](https://www.foxbusiness.com/politics/trump-administration-greenlights-nvidia-ai-chip-exports-china)**
+
+The Trump administration greenlit Nvidia’s AI chip exports to China, a move the company says supports U.S. jobs, manufacturing and America’s leadership in artificial intelligence.
+
+Fox Business • 9h ago
+
+---
+
+**[Prediction: This AI Hardware Stock Could Become One of the Next $1 Trillion Companies](https://www.fool.com/investing/2026/01/14/prediction-this-ai-hardware-stock-could-become-one/)**
+
+AMD could regain some AI market share from Nvidia.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Workers spend hours fixing AI's errors, cutting time savings](https://qz.com/ai-mistakes-limit-time-savings-workday-finds)**
+
+qz.com • 58m ago
 
 ---
 
@@ -179,33 +197,19 @@ The New York Times • 1d ago
 
 ---
 
-**[AI speeds up work and creates more of it](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
-
-Axios • 4h ago
-
----
-
-**[What Apple’s AI deal with Google means for the two tech giants, and for $500 billion ‘upstart’ OpenAI](https://fortune.com/2026/01/13/apple-ai-deal-with-google-gemini-means-for-google-apple-openai/)**
-
-The Apple-Google partnership validates Google's AI comeback, highlights Apple's AI struggles, and could spell trouble for OpenAI.
-
-Fortune • 13h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 869 • 💬 631 • 20h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 881 • 💬 658 • 20h ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 416 • 💬 227 • 16h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 423 • 💬 229 • 17h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -213,7 +217,7 @@ Fortune • 13h ago
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 335 • 💬 332 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 336 • 💬 332 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -221,7 +225,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 332 • 💬 100 • 20h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 333 • 💬 102 • 20h ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -237,13 +241,13 @@ AI Overviews provided false liver test information experts called alarming.
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 223 • 💬 118 • 18h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 224 • 💬 119 • 18h ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 194 • 💬 250 • 20h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 202 • 💬 264 • 20h ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -281,7 +285,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 27K • 👍 853 • 💬 109 • ⏱️ 14:32 • 15h ago
+👁️ 27K • 👍 853 • 💬 109 • ⏱️ 14:32 • 16h ago
 
 ---
 
@@ -301,7 +305,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 282K • 👍 28K • 💬 3K • ⏱️ 11:40 • 23h ago
+👁️ 282K • 👍 28K • 💬 3K • ⏱️ 11:40 • 1d ago
 
 ---
 
@@ -341,7 +345,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 21K • 👍 1K • 💬 176 • ⏱️ 10:39 • 1d ago
+👁️ 21K • 👍 1K • 💬 176 • ⏱️ 10:39 • 2d ago
 
 ---
 
@@ -399,7 +403,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 967 • 36m ago
+⬇️ 1,064,063 • ❤️ 967 • 1h ago
 
 ---
 
@@ -411,7 +415,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 422 • 8h ago
+⬇️ 203 • ❤️ 422 • 9h ago
 
 ---
 
@@ -435,7 +439,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 249 • 16h ago
+⬇️ 32,276 • ❤️ 249 • 17h ago
 
 ---
 
@@ -459,7 +463,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 228 • 5h ago
+⬇️ 77 • ❤️ 228 • 6h ago
 
 ---
 
@@ -640,7 +644,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 43m ago
+⭐ 8.5k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -650,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 172 • 10h ago
+⭐ 4.5k • 🔱 172 • 11h ago
 
 ---
 
@@ -690,7 +694,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 3h ago
+⭐ 1.6k • 🔱 130 • 4h ago
 
 ---
 
@@ -700,7 +704,7 @@ This repository contains a collection of Agent Skills developed by GudaStudio, e
 
 `PowerShell`
 
-⭐ 1.4k • 🔱 75 • 21d ago
+⭐ 1.4k • 🔱 75 • 22d ago
 
 ---
 
@@ -710,7 +714,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.4k • 🔱 1.1k • 41m ago
+⭐ 1.4k • 🔱 1.1k • 1h ago
 
 ---
 

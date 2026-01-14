@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T14:53:54.073385+00:00'
+updated: '2026-01-14T15:28:10.518850+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 14:53 UTC  
+**Last Updated:** January 14, 2026 at 15:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,032.27
+### $96,978.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +5.1%  
-**30d:** +9.3%  
-**90d:** -10.3%  
-**1y:** -4.6%  
+**24h:** +3.8%  
+**7d:** +6.4%  
+**30d:** +10.6%  
+**90d:** -9.2%  
+**1y:** -3.6%  
 
 ---
 
@@ -77,29 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
+
+1h ago
+
+---
+
 **[The 401(k) was never designed to be a retirement plan](https://www.reddit.com/r/Bitcoin/comments/1qch0t8/the_401k_was_never_designed_to_be_a_retirement/)**
 
 The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned into a mass savings vehicle in 1980 meant only as a pension supplement. It evolved into America’s primary retirement system as companies ditched guaranteed pensions, shifting all risk to workers. Wall Street now profits massively from high fees and asset management on trillions in 401(k) funds.
 
-7h ago
+8h ago
 
 ---
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-10h ago
+11h ago
 
 ---
 
-**[$95,000](https://www.reddit.com/r/Bitcoin/comments/1qc57rs/95000/)**
+**[1 BTC = 95,884.79USD ↗️](https://www.reddit.com/r/Bitcoin/comments/1qcp71n/1_btc_9588479usd/)**
 
-Big jump in price today!
-
-16h ago
-
----
-
-**[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
+What’s happening?
 
 38m ago
 
@@ -108,6 +108,20 @@ Big jump in price today!
 **[A win is a win right 😅](https://www.reddit.com/r/Bitcoin/comments/1qck580/a_win_is_a_win_right/)**
 
 4h ago
+
+---
+
+**[$95,000](https://www.reddit.com/r/Bitcoin/comments/1qc57rs/95000/)**
+
+Big jump in price today!
+
+17h ago
+
+---
+
+**[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
+
+13m ago
 
 ---
 
@@ -133,21 +147,15 @@ Strive (ASST) is acquiring Semler Scientific (SMLR) in an all-stock deal. Semler
 
 ---
 
-**[Impressive](https://www.reddit.com/r/Bitcoin/comments/1qbruof/impressive/)**
-
-1d ago
-
----
-
-**[Do not forget](https://www.reddit.com/r/Bitcoin/comments/1qc0lmq/do_not_forget/)**
-
-19h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin and gold allocation outperforms traditional portfolios, backing Ray Dalio's 15% hedge thesis, Bitwise finds](https://www.theblock.co/post/385526/gold-bitcoin-combined-allocation-outperforms-traditional-portfolios-bitwise)**
+
+The Block • 4h ago
+
+---
 
 **[Altcoins surge after bitcoin breaks $94,500, reigniting risk appetite: Crypto Markets Today](https://www.coindesk.com/markets/2026/01/14/bitcoin-clears-usd94-500-as-altcoins-steal-the-spotlight-crypto-markets-today)**
 
@@ -157,37 +165,9 @@ CoinDesk • 3h ago
 
 ---
 
-**[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
+**[Is Bitcoin About to Break Out?](https://finance.yahoo.com/news/bitcoin-break-141100626.html)**
 
-The Block • 16h ago
-
----
-
-**[Why Crypto Is Going Up Today? XRP Price, Bitcoin, Dogecoin, and Ethereum Post Strongest Gains in 2 Months](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-xrp-price-bitcoin-dogecoin-and-ethereum-post-strongest-gains-in-2-months/)**
-
-Why crypto is surging? Bitcoin, Ethereum, XRP, Dogecoin rallied Tuesday before correcting Wednesday. Technical analysis shows consolidation intact with bearish targets ahead.
-
-Finance Magnates • 2h ago
-
----
-
-**[Bitcoin ETFs post largest single-day inflows in three months, worth $750 million](https://www.theblock.co/post/385508/bitcoin-etf-750-million-inflows)**
-
-The Block • 7h ago
-
----
-
-**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://finance.yahoo.com/news/bitcoin-etfs-see-biggest-inflow-121715276.html)**
-
-U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin ETFs Draw in $754M as BTC Clears $95K](https://finance.yahoo.com/news/bitcoin-etfs-draw-754m-btc-131940390.html)**
-
-Bitcoin ETFs saw their highest daily inflow since October as BTC hit $95,000, but experts exercise caution as demand could be selective.
+A growing number of investors think Bitcoin might end the year above the $200,000 price level.
 
 Yahoo Finance • 1h ago
 
@@ -197,13 +177,27 @@ Yahoo Finance • 1h ago
 
 Rhode Island lawmakers have reintroduced a temporary Bitcoin tax exemption bill that would eliminate state income and capital gains taxes on small Bitcoin transactions — up to $20,000 annually.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
+
+---
+
+**[Savers raid bank accounts to buy Bitcoin, gold, and stocks, say experts](https://www.dlnews.com/articles/markets/south-korean-savers-empty-bank-accounts-to-buy-bitcoin/)**
+
+South Korean savers are withdrawing billions from their banks every day. Experts say savers primarily buy crypto, stocks, and gold. Trading volumes are on the rise at the country’s biggest crypto exchanges.
+
+dlnews.com • 1h ago
 
 ---
 
 **[Bitcoin Climbs to Two-Month High of $96,000 on Macro Tailwinds](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-btc-claims-two-month-high-of-over-96-000-on-macro-tailwinds)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin Price Jumps Above $95,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcuGScWChr1Af693br4hYa03E2yxKwvg9C0AiF1s9UpoTErOXXbvvP1&gaa_ts=6967b972&gaa_sig=wOu5HXsc7LcVLKkuM0OuYUeC1cgSOO1Dzp2htmkuRu70QCMpLYtpWOHs5lNH0ueQlIcWTcBchmNYeEONSO0ILA%3D%3D)**
+
+Barron's • 5h ago
 
 ---
 
@@ -213,11 +207,17 @@ CCN.com • 1d ago
 
 ---
 
-**[What’s Next For Bitcoin After the Fall?](https://www.investopedia.com/the-express-podcast-episode-277-11883706)**
+**[Why Ethereum Could Be Ready to Outperform Bitcoin in 2026](https://decrypt.co/354515/ethereum-outperform-bitcoin-2026)**
 
-2025 was looking like a banner year for Bitcoin until a wave of selling in the Fall sent the cryptocurrency into a bear market. Matt Hougan of Bitwise explains what happened and why he thinks Bitcoin will rebound in 2026.
+Ethereum could narrow its performance gap with Bitcoin in 2026 as capital rotates and on-chain activity improves, Decrypt was told.
 
-Investopedia • 1d ago
+Decrypt • 9h ago
+
+---
+
+**[Bitcoin News Today: Corporate Bitcoin Treasuries Buy BTC at 3× the Mining Supply as Demand Accelerates](https://www.binance.com/ar/square/post/01-14-2026-bitcoin-news-today-corporate-bitcoin-treasuries-buy-btc-at-3-the-mining-supply-as-demand-accelerates-35059505938882)**
+
+Binance • 10h ago
 
 ---
 
@@ -279,14 +279,6 @@ What do you do with the waste heat from computing? Superheat says just take a sh
 
 ---
 
-**[In 2025, Bitcoin showed how spectacularly wrong price forecasts can be](https://news.ycombinator.com/item?id=46527258)**
-
-Analysts aimed high, but an October crash and lingering losses upended even bullish outlooks.
-
-⬆️ 1 • 💬 0 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2025/12/30/in-2025-bitcoin-showed-how-spectacularly-wrong-price-forecasts-can-be)
-
----
-
 **[US prosecutors launch criminal investigation into Federal Reserve chair](https://news.ycombinator.com/item?id=46585360)**
 
 Rolling coverage of the latest economic and financial news
@@ -303,6 +295,14 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 
 ---
 
+**[Earn Money and Take a Shower](https://news.ycombinator.com/item?id=46599328)**
+
+An apartment building can be turned into a huge cryptocurrency exchange
+
+⬆️ 1 • 💬 0 • 1d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -313,7 +313,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 427 • ⏱️ 5:56 • 13h ago
+👁️ 23K • 👍 1K • 💬 427 • ⏱️ 5:56 • 14h ago
 
 ---
 
@@ -323,7 +323,7 @@ Buy, Sell, Trade Crypto (limited time): Grab $BTC at 50% OFF (Plus $1300 USDT re
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 4K • 💬 219 • ⏱️ 9:23 • 16h ago
+👁️ 64K • 👍 4K • 💬 219 • ⏱️ 9:23 • 17h ago
 
 ---
 
@@ -343,7 +343,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 2K • 👍 42 • 💬 3 • ⏱️ 5:02 • 2h ago
+👁️ 2K • 👍 42 • 💬 3 • ⏱️ 5:02 • 3h ago
 
 ---
 
@@ -363,7 +363,7 @@ Join The Community: https://bit.ly/FefeCommunity PASS THE BITFUNDED CHALLENGE ..
 
 📺 100XClub
 
-👁️ 4K • 👍 851 • 💬 160 • ⏱️ 9:23 • 5h ago
+👁️ 4K • 👍 851 • 💬 160 • ⏱️ 9:23 • 6h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin, SOL, ETH, Tesla, and altcoin trades as ETF flows explode. BITUNIX TRADE
 
 📺 Lark Davis
 
-👁️ 7K • 👍 692 • 💬 46 • ⏱️ 15:54 • 3h ago
+👁️ 7K • 👍 692 • 💬 46 • ⏱️ 15:54 • 4h ago
 
 ---
 
@@ -403,7 +403,7 @@ In this video, I break down why I'm bullish on Bitcoin in 2026 and the five key 
 
 📺 Betirement
 
-👁️ 2K • 👍 253 • 💬 85 • ⏱️ 15:44 • 21h ago
+👁️ 2K • 👍 253 • 💬 85 • ⏱️ 15:44 • 22h ago
 
 ---
 
