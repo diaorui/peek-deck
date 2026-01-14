@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-14T10:53:33.081633+00:00'
+updated: '2026-01-14T11:22:13.171556+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 10:53 UTC  
+**Last Updated:** January 14, 2026 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ vulnerabilities reported through the Ethereum Foundation bug bounty program.
 
 As with all our previous releases,...
 
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 8h ago
+🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ Cryptonews • 11h ago
 
 **[ETHGas launches GWEI token to govern Ethereum blockspace and make onchain execution predictable](https://www.theblock.co/post/385414/ethgas-launches-gwei-token-govern-ethereum-blockspace-onchain-execution-predictable)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -201,7 +201,7 @@ ETF Trends • 1d ago
 
 The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -217,7 +217,7 @@ dlnews.com • 1d ago
 
 T-REX 2X Long BMNR Daily Target ETF (BMNU) offers 2x daily BMNR exposure with strong liquidity for active traders, but dilution and decay risks. See more here.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -239,7 +239,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 509 • 💬 53 • ⏱️ 17:37 • 19h ago
+👁️ 13K • 👍 509 • 💬 53 • ⏱️ 17:37 • 20h ago
 
 ---
 
@@ -319,7 +319,7 @@ bitcoin #ethereum #trading Hyped Tether King Crypto Game Website: https://shortu
 
 📺 Alessandro De Crypto Official
 
-👁️ 336 • 👍 17 • 💬 6 • ⏱️ 14:53 • 1h ago
+👁️ 336 • 👍 17 • 💬 6 • ⏱️ 14:53 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-14T10:53:33.076158+00:00'
+updated: '2026-01-14T11:22:13.165440+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 14, 2026 at 10:53 UTC  
+**Last Updated:** January 14, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Big jump in price today!
 
-12h ago
+13h ago
 
 ---
 
@@ -95,7 +95,7 @@ Big jump in price today!
 
 Wonder what Bitcoiners in Iran is feeling today.
 
-21h ago
+22h ago
 
 ---
 
@@ -109,7 +109,7 @@ The 401(k) started as a tax-deferred bonus deferral tool in 1978, it was turned 
 
 **[IYKYK](https://www.reddit.com/r/Bitcoin/comments/1qcdlss/iykyk/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -163,13 +163,13 @@ The Block • 12h ago
 
 The Coinbase premium index remains negative, indicating a relatively weaker U.S. demand
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
 **[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-CCN.com • 23h ago
+CCN.com • 1d ago
 
 ---
 
@@ -177,7 +177,7 @@ CCN.com • 23h ago
 
 Michael Saylor’s company owns more than 650,000 Bitcoin.  Saylor slammed a podcast host who asked whether having a cash-flow business model was necessary for a treasury to survive.  The Bitcoin treasury space has been in a slump for months.
 
-dlnews.com • 15h ago
+dlnews.com • 16h ago
 
 ---
 
@@ -213,7 +213,7 @@ Bitcoin Magazine • 1d ago
 
 Bitcoin and gold are back, well, not yet, only gold for now. But Iran’s rial sinks to fresh record lows, and confidence in fiat currencies continues to fray, and we are again asking questions. In the middle of those sits a developing US crypto bill, built around the proposed Clarity ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -221,7 +221,7 @@ Yahoo Finance • 12h ago
 
 With more than a dozen bitcoin ETFs to choose from, the choice comes down to cost. That puts one fund above the others.
 
-The Motley Fool • 44m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 378 • ⏱️ 5:56 • 9h ago
+👁️ 21K • 👍 1K • 💬 378 • ⏱️ 5:56 • 10h ago
 
 ---
 
@@ -375,7 +375,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 385 • 💬 185 • ⏱️ 10:22 • 5h ago
+👁️ 4K • 👍 385 • 💬 185 • ⏱️ 10:22 • 6h ago
 
 ---
 
@@ -395,7 +395,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Classified Defense Files
 
-👁️ 29K • 👍 5K • 11h ago
+👁️ 29K • 👍 5K • 12h ago
 
 ---
 

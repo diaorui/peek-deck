@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-14T10:53:33.068495+00:00'
+updated: '2026-01-14T11:22:13.156888+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 14, 2026 at 10:53 UTC  
+**Last Updated:** January 14, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Ne
 
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice:
 
 Like a lot of people here, I keep seeing new AI tools pop up every single day. Some are amazing, some are half-baked, and some disappear a month later. After bookmarking many random sites, I realized there wasn’t a clean, centralized place to explore solid AI tools without the noise. So I ended up building top-ai-sites.com What it is A curated directory of AI websites and tools, organized so you can actually find something useful instead of scrolling endlessly. What makes it different 🔍 Hand-picked AI tools (not auto-scraped junk) 🧠 Covers multiple categories: writing, coding, design, productivity, and more 🚀 Easy to browse when you just want inspiration or a specific solution 🆓 Free to use — no sign-up required Who it’s for People experimenting with AI and want to discover new tools Founders looking for AI services to speed up work Developers & creators who want to stay updated without doomscrolling Anyone overwhelmed by “Top 500 AI tools” lists 😅 Why I’m sharing here I built this because.... I wanted it, and I figured others here might find it useful too :). I’m actively improving it, so feedback (good or bad) is genuinely welcome. 👉 Check it out: https://top-ai-sites.com If you have favorite AI tools you think should be listed - or ideas to make it better - drop a comment. Happy to iterate based on what the community actually wants. Thanks!🙌I got tired of hunting for good AI tools, so I made"top ai sites"
 
-29m ago
+57m ago
 
 ---
 
@@ -105,7 +105,7 @@ Like a lot of people here, I keep seeing new AI tools pop up every single day. S
 
 Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑image generation, GLM‑Image also supports a rich set of image‑to‑image tasks including image editing, style transfer, identity‑preserving generation, and multi‑subject consistency. Model architecture: a hybrid autoregressive + diffusion decoder design. Autoregressive generator: a 9B-parameter model initialized from GLM-4-9B-0414, with an expanded vocabulary to incorporate visual tokens. The model first generates a compact encoding of approximately 256 tokens, then expands to 1K–4K tokens, corresponding to 1K–2K high-resolution image outputs. Diffusion Decoder: a 7B-parameter decoder based on a single-stream DiT architecture for latent-space image decoding. It is equipped with a Glyph Encoder text module, significantly improving accurate text rendering within images. Post-training with decoupled reinforcement learning: the model introduces a fine-grained, modular feedback strategy using the GRPO algorithm, substantially enhancing both semantic understanding and visual detail quality. Autoregressive module: provides low-frequency feedback signals focused on aesthetics and semantic alignment, improving instruction following and artistic expressiveness. Decoder module: delivers high-frequency feedback targeting detail fidelity and text accuracy, resulting in highly realistic textures as well as more precise text rendering. GLM-Image supports both text-to-image and image-to-image generation within a single model. Text-to-image: generates high-detail images from textual descriptions, with particularly strong performance in information-dense scenarios. Image-to-image: supports a wide range of tasks, including image editing, style transfer, multi-subject consistency, and identity-preserving generation for people and objects."
 
-🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 8h ago
+🔗 [huggingface.co](https://huggingface.co/zai-org/GLM-Image) • 9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
 
 Defense secretary says AI tool will join military systems later this month as it comes under fire for sexual imagery
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 18h ago
 
 Presenter Jess Davies says the UK government has been "dragging its feet" when creating AI deepfake laws.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -141,7 +141,7 @@ BBC • 4h ago
 
 While Grok has introduced belated safeguards to prevent sexualised AI imagery, other tools have far fewer limits
 
-The Guardian • 53m ago
+The Guardian • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The New York Times • 1d ago
 
 **[AI speeds up work and creates more of it](https://www.axios.com/2026/01/14/ai-jobs-productivity-workslop)**
 
-Axios • 19m ago
+Axios • 48m ago
 
 ---
 
@@ -161,7 +161,7 @@ Axios • 19m ago
 
 Workday, Inc (NASDAQ: WDAY) today released new global research showing that while AI is delivering productivity gains, many organizations aren't fully capturing its value. Employees are saving meaningful time with AI tools, but too often those gains are being absorbed by rework – fixing mistakes, rewriting content, and double-checking outputs from generic tools – leaving significant value on the table.
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 23m ago
 
 Adopting AI has been a struggle at some companies. Embracing a four-day workweek might help get more workers on board, say these authors.
 
-Business Insider • 34m ago
+Business Insider • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Business Insider • 34m ago
 
 Candidates in pilot assessed on how they prompted consulting firm’s AI assistant and ability to adapt responses
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Financial Times • 5h ago
 
 Nvidia has been caught in a tug-of-war between the US and China as the countries compete for AI dominance.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ Fox Business • 4h ago
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 403 • 💬 212 • 12h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 403 • 💬 212 • 13h ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -265,7 +265,7 @@ Create and modify SolidWorks 3D models through natural language with LAD's AI-po
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 184 • 💬 193 • 22h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 184 • 💬 193 • 23h ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -285,7 +285,7 @@ Microsoft just issued a warning that reframes the AI race: outside the West, Chi
 
 📺 AI Revolution
 
-👁️ 23K • 👍 727 • 💬 84 • ⏱️ 14:32 • 11h ago
+👁️ 23K • 👍 727 • 💬 84 • ⏱️ 14:32 • 12h ago
 
 ---
 
@@ -315,7 +315,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 250K • 👍 25K • 💬 3K • ⏱️ 11:40 • 19h ago
+👁️ 250K • 👍 25K • 💬 3K • ⏱️ 11:40 • 20h ago
 
 ---
 
@@ -365,7 +365,7 @@ The new wave of "AI Retopology" tools claims to fix many generation's errors wit
 
 📺 Stefan 3D AI Lab
 
-👁️ 10K • 👍 514 • 💬 54 • ⏱️ 13:39 • 1d ago
+👁️ 10K • 👍 514 • 💬 54 • ⏱️ 13:39 • 2d ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 329 • 4h ago
+⬇️ 203 • ❤️ 329 • 5h ago
 
 ---
 
@@ -463,7 +463,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 243 • 12h ago
+⬇️ 32,276 • ❤️ 243 • 13h ago
 
 ---
 
@@ -644,7 +644,7 @@ A data-free self-evolution framework enables large language models to autonomous
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.4k • 🔱 1.1k • 5h ago
+⭐ 8.4k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -654,7 +654,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 4.2k • 🔱 161 • 6h ago
+⭐ 4.2k • 🔱 161 • 7h ago
 
 ---
 
@@ -694,7 +694,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 130 • 1h ago
+⭐ 1.6k • 🔱 130 • 2h ago
 
 ---
 

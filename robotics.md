@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-14T10:53:33.084459+00:00'
+updated: '2026-01-14T11:22:13.174832+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 14, 2026 at 10:53 UTC  
+**Last Updated:** January 14, 2026 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Boston Dynamics has officially unveiled the commercial product version of its fully electric Atlas humanoid robot. Announced at CES 2026, the new Atlas is designed for mass production with automotive-grade parts and will begin immediate deployment at Hyundai and Google DeepMind facilities.
 
-🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 22h ago
+🔗 [Boston Dynamics](https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/) • 23h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hardware: Raspberry Pi 5 8GB Raspberry Pi Pico 2 RPLidar C1M1 DTOF Waveshare 3S 
 
 Random thought: humans have five fingers, but does a robot actually need that many? For most things robots do, would 2 or 3 fingers be enough? Or is five fingers mostly about making robots look more human? At what point do more fingers help, and when do they just make things more complicated and expensive? Curious what people think — especially if you’ve worked with robots, or just have opinions. 😄
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Random thought: humans have five fingers, but does a robot actually need that ma
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-15m ago
+44m ago
 
 ---
 
@@ -68,7 +68,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-32m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 **[🦾 Update: Robotic arm is ALIVE! Motors + cameras working 🎉 (now fighting AS5600 I2C…)](https://www.reddit.com/r/robotics/comments/1qc09bh/update_robotic_arm_is_alive_motors_cameras/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Is it uncanny if a robot lamp speaks to you? I imagine this being on people's de
 
 So I'm working on a mentorpi robot with a mecanum chasis and a depth camera and a LIDAR sensor. Basically, I want to try and get it so that object recognition works first as a start, which I think is possible with the depth camera but aren't sure. I've been looking through this:https://docs.hiwonder.com/projects/MentorPi/en/latest/index.html documentation but am getting really confused as I'm going sequentially through it and it is talking a lot about different things like ROS2 and docker which I've 0 experience with. So basically I wanted to know if there were any other supplemental things I should know about that helps a lot to get towards my goal of object recognition. https://preview.redd.it/ztj7i1dqu9dg1.png?width=614&format=png&auto=webp&s=52fcaabbf7d0de56c393b627df50226db7e8f481
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ The future of intralogistics is quietly shifting from “bigger machines” to s
 
 #Robotics #Automation #Warehousing #Intralogistics #SupplyChain #FutureOfWork #Industry40
 
-LinkedIn • 2h ago
+LinkedIn • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 2d ago
 
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-The Free Press • 10h ago
+The Free Press • 11h ago
 
 ---
 
@@ -267,7 +267,7 @@ shacknews #ces #technology CONNECT WITH US! DISCORD: https://discord.gg/g9NkuKgE
 
 📺 Shacknews
 
-👁️ 667 • 👍 3 • 💬 1 • ⏱️ 0:33 • 9h ago
+👁️ 667 • 👍 3 • 💬 1 • ⏱️ 0:33 • 10h ago
 
 ---
 
