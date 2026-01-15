@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T11:42:55.061809+00:00'
+updated: '2026-01-15T12:49:28.941085+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 11:42 UTC  
+**Last Updated:** January 15, 2026 at 12:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Whats the biggest frustration you’ve faced while scaling a robot Project?](https://www.reddit.com/r/robotics/comments/1qdeewf/whats_the_biggest_frustration_youve_faced_while/)**
+
+The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
+
+4h ago
+
+---
+
 **[Skild AI has unveiled new demos "learning by watching". Here one showing that Skild Brain is robust to adversarial disturbances and transfers zero-shot to unseen homes](https://www.reddit.com/r/robotics/comments/1qck1pn/skild_ai_has_unveiled_new_demos_learning_by/)**
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
@@ -40,25 +48,17 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 ---
 
-**[Whats the biggest frustration you’ve faced while scaling a robot Project?](https://www.reddit.com/r/robotics/comments/1qdeewf/whats_the_biggest_frustration_youve_faced_while/)**
-
-The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
-
-2h ago
-
----
-
 **[cubemars actuators review: terrible](https://www.reddit.com/r/robotics/comments/1qd3wws/cubemars_actuators_review_terrible/)**
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-11h ago
+12h ago
 
 ---
 
 **[Interesting blog on a arduino based car](https://www.reddit.com/r/robotics/comments/1qdbuvk/interesting_blog_on_a_arduino_based_car/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I have been searching for controllers where i can connect anything anywhere and then configure things in my program without ever needing to touch wires again.
 
-2h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ I have been searching for controllers where i can connect anything anywhere and 
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ I came across the Arctos robotic arm a few months ago and decided to embark on t
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-19h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
 
-15h ago
+16h ago
 
 ---
 
@@ -114,13 +114,13 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
 **[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
 
-Business Wire • 20h ago
+Business Wire • 21h ago
 
 ---
 
@@ -128,13 +128,13 @@ Business Wire • 20h ago
 
 Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 21h ago
 
 ---
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 19h ago
+GeekWire • 20h ago
 
 ---
 
@@ -152,9 +152,9 @@ Reuters • 2d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdQwrz-xXlXdjJ2Ws1C5u7S27OSQywPEUd-EMpCJyU1ZmHSy4cPMSQN&gaa_ts=6968ca1c&gaa_sig=QMu0cmxWR_pwF1s5WJ0x1SzkWeqj7zR91tbeKpCJ-WMiVunXQa6xsd2UtpmiSGynjhD-3kS87aX6QGETfqR-2Q%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqcItU9uwL2VD03fFVWOZiX_EWLD-YwxDftMFOrpySs4g7_Od82fWN07&gaa_ts=6968e5c2&gaa_sig=2spgmyIkb-frjzhnzRgZFmBtgT9bCQKrT79cnJRWsoqO3ItsE6-ngCXkWyaNJ_nAU1dM6feuIvippNOhwZVq_Q%3D%3D)**
 
-MarketWatch • 14h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -170,15 +170,15 @@ Interesting Engineering • 3d ago
 
 Is it worth buying SERV at 45x forward sales as losses widen, dilution risks grow and shares sink despite rapid fleet expansion?
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[1X World Model | From Video to Action: A New Way Robots Learn](https://www.1x.tech/discover/world-model-self-learning?ref=testingcatalog.com)**
+**[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
 
-Home robots need common sense behavior and a deep understanding of the physical world.
+The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
-1X | Home Robots • 2d ago
+The Free Press • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 BBC News
 
-👁️ 31K • 👍 441 • 💬 53 • ⏱️ 1:17 • 1d ago
+👁️ 31K • 👍 441 • 💬 53 • ⏱️ 1:17 • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 92K • 👍 5K • 💬 137 • ⏱️ 0:49 • 14h ago
+👁️ 92K • 👍 5K • 💬 137 • ⏱️ 0:49 • 15h ago
 
 ---
 

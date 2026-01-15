@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T11:42:55.043900+00:00'
+updated: '2026-01-15T12:49:28.923618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 11:42 UTC  
+**Last Updated:** January 15, 2026 at 12:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 20h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 21h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 13h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 11h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 5h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI t
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-11h ago
+12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 16h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 17h ago
 
 ---
 
@@ -105,7 +105,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-11h ago
+12h ago
 
 ---
 
@@ -121,77 +121,75 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ## Google News: "ai"
 
+**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+
+The New York Times • 2h ago
+
+---
+
 **[Gemini introduces Personal Intelligence](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/)**
 
 Personal Intelligence connects the Gemini app to your Google apps to provide more personalized suggestions.
 
-blog.google • 19h ago
+blog.google • 20h ago
 
 ---
 
-**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+**[Apple Didn’t Have an AI Strategy. So It’s Buying One From Google.](https://nymag.com/intelligencer/article/how-apple-is-buying-an-ai-strategy-from-google.html)**
 
-The New York Times • 1h ago
+Cupertino finally threw its weight into the AI race — behind a familiar name.
 
----
-
-**[Apple sits out AI arms race to play kingmaker between Google and OpenAI](https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a)**
-
-Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending
-
-Financial Times • 6h ago
+New York Magazine • 1h ago
 
 ---
 
-**[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
+**[TSMC’s Strong Outlook Fires Up Hopes of Sustained AI Boom](https://finance.yahoo.com/news/tsmc-strong-outlook-shores-hopes-072434087.html)**
 
-Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
+It also foresees revenue growth of close to 30% in 2026, faster than the average analyst estimate.  Shares in key supplier ASML Holding NV rose 7.6% to a record in Europe, sending its market value beyond $500 billion.  The outlook from TSMC — a bellwether for the artificial intelligence boom — reflects a development frenzy by the likes of Meta Platforms Inc. and Amazon.com Inc. that’s spurred demand for Nvidia Corp. accelerators.
 
-BBC • 2h ago
-
----
-
-**[California attorney general investigates Musk’s Grok AI over lewd fake images](https://www.theguardian.com/technology/2026/jan/14/california-attorney-general-investigates-grok-ai-elon-musk)**
-
-AI tool made by Elon Musk’s xAI makes it easy to harass women with deepfake images, says state’s top attorney
-
-The Guardian • 15h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Grok and the A.I. Porn Problem](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem)**
+**[TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
 
-Elon Musk’s X is living up to its name.
+TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
 
-The New Yorker • 1d ago
+CNBC • 7h ago
 
 ---
 
-**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
+**[AI Stocks Give Mixed Messages. But There’s One Clear Takeaway for Markets and 5 Other Things to Know Today.](https://www.barrons.com/articles/ai-stocks-tsmc-earnings-things-to-know-today-f5a51766?gaa_at=eafs&gaa_n=AWEtsqf9CouH4AJYvT-b1-b6Fate6sULoP7rMrgcmRVePt_B0CZg-kgS7sTY&gaa_ts=6968e5bf&gaa_sig=ui9KvcD8y9uWOO6nA-qz1FyvIPAGnxHGqalY8P6nR4Tzc0A6q6WZCmPNX-iUrklQjwh-prqxoBEqoXGRROPZqg%3D%3D)**
 
-The New York Times • 18h ago
+Barron's • 59m ago
+
+---
+
+**[Sadiq Khan to urge ministers to act over ‘colossal’ impact of AI on London jobs](https://www.theguardian.com/politics/2026/jan/15/sadiq-khan-to-urge-ministers-to-act-over-colossal-impact-of-ai-on-london-jobs)**
+
+In Mansion House speech, mayor will talk of opportunities technology offers but highlight mass unemployment risk
+
+The Guardian • 58m ago
+
+---
+
+**[What 10 retail executives have to say about AI](https://www.retaildive.com/news/retail-executives-artificial-intelligence-nrf/809654/)**
+
+Executives from Dick’s Sporting Goods to Macy’s offered insights as the industry grapples with integrating the new tech into their operations.
+
+Retail Dive • 13m ago
 
 ---
 
 **[Behind the Curtain: The job replacement AI machine](https://www.axios.com/2026/01/15/ai-job-replacement-white-collar)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
-**[Wikipedia owner signs on Microsoft, Meta in AI content training deals](https://finance.yahoo.com/news/wikipedia-owner-signs-microsoft-meta-083412169.html)**
+**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqdj3NtA1LPNhxP6dLpfGR3Fo-w6TwSttoRbeVPGOk8UFtUT_FteVzXf&gaa_ts=6968e5bf&gaa_sig=wJdB_ED1fAF8iDbW0CpQeAo6pNsYiMZAF6XAvWmN_FA1m7ZBlACli4xAniBXc9of7Nby9PhgrObKJqXZT0lRQg%3D%3D)**
 
-Wikipedia on Thursday unveiled partnerships with several Big Tech companies including Microsoft, Meta and Amazon, marking a major step up in the ​non-profit's ability to monetize tech firms' reliance on its content.  Wikimedia Foundation, the operator ‌of the online encyclopedia, said it also signed on AI startup Perplexity and France's Mistral AI, among other firms, ‌over the past year, having enlisted Meta and Amazon as partners previously.  Wikipedia content is crucial to training AI models — its 65 million articles across over 300 languages are a key part of training data ⁠for generative AI chatbots and assistants ‌developed by tech majors.
-
-Yahoo Finance • 3h ago
-
----
-
-**[1 AI Stock With the Potential to Deliver Outsize Returns Over the Next 10 Years](https://www.fool.com/investing/2026/01/15/1-ai-stock-with-the-potential-to-deliver-outsize-r/)**
-
-Marvell is an underrated AI chipmaker heading into 2026.
-
-The Motley Fool • 2h ago
+The Wall Street Journal • 17h ago
 
 ---
 
@@ -201,13 +199,13 @@ The Motley Fool • 2h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 928 • 💬 709 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 930 • 💬 711 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 457 • 💬 255 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 459 • 💬 256 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -215,7 +213,7 @@ The Motley Fool • 2h ago
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 341 • 💬 102 • 1d ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 342 • 💬 102 • 1d ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -231,7 +229,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 230 • 💬 125 • 1d ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 231 • 💬 125 • 1d ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+
+---
+
+**[The Influentists: AI hype without proof](https://news.ycombinator.com/item?id=46623195)**
+
+Why we are losing technical rigor to social hype
+
+⬆️ 226 • 💬 153 • 15h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -245,15 +251,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 224 • 💬 314 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
-
----
-
-**[The Influentists: AI hype without proof](https://news.ycombinator.com/item?id=46623195)**
-
-Why we are losing technical rigor to social hype
-
-⬆️ 220 • 💬 144 • 14h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 224 • 💬 317 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -269,7 +267,7 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 191 • 💬 199 • 1d ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 191 • 💬 199 • 2d ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -283,7 +281,7 @@ Is it possible to get consistent, Hollywood-level cinematography from AI video g
 
 📺 Theoretically Media
 
-👁️ 13K • 👍 984 • 💬 96 • ⏱️ 14:15 • 12h ago
+👁️ 13K • 👍 984 • 💬 96 • ⏱️ 14:15 • 13h ago
 
 ---
 
@@ -303,7 +301,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 53K • 👍 2K • 💬 320 • ⏱️ 19:03 • 19h ago
+👁️ 53K • 👍 2K • 💬 320 • ⏱️ 19:03 • 20h ago
 
 ---
 
@@ -313,7 +311,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 115K • 👍 7K • 💬 488 • ⏱️ 26:29 • 18h ago
+👁️ 115K • 👍 7K • 💬 488 • ⏱️ 26:29 • 19h ago
 
 ---
 
@@ -323,7 +321,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 92K • 👍 6K • 💬 353 • ⏱️ 10:04 • 15h ago
+👁️ 92K • 👍 6K • 💬 353 • ⏱️ 10:04 • 16h ago
 
 ---
 
@@ -341,7 +339,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 NetworkChuck
 
-👁️ 46K • 👍 3K • 💬 58 • ⏱️ 2:09 • 3h ago
+👁️ 46K • 👍 3K • 💬 58 • ⏱️ 2:09 • 4h ago
 
 ---
 
@@ -387,7 +385,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 619 • 1h ago
+⬇️ 2,442 • ❤️ 619 • 2h ago
 
 ---
 
@@ -411,7 +409,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,020 • 17h ago
+⬇️ 1,187,843 • ❤️ 1,020 • 18h ago
 
 ---
 
@@ -435,7 +433,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 41,095 • ❤️ 266 • 15h ago
+⬇️ 41,095 • ❤️ 266 • 16h ago
 
 ---
 
@@ -495,7 +493,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 4,422 • ❤️ 183 • 13h ago
+⬇️ 4,422 • ❤️ 183 • 14h ago
 
 ---
 
@@ -639,7 +637,7 @@ Reinforcement learning for large language model agents suffers from discriminati
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.7k • 🔱 1.1k • 1h ago
+⭐ 8.7k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -669,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 148 • 20h ago
+⭐ 2.4k • 🔱 148 • 21h ago
 
 ---
 
@@ -689,7 +687,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 70 • 7h ago
+⭐ 2.1k • 🔱 70 • 8h ago
 
 ---
 
@@ -699,7 +697,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.6k • 🔱 1.4k • 21h ago
+⭐ 1.6k • 🔱 1.4k • 22h ago
 
 ---
 
@@ -709,7 +707,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 133 • 5h ago
+⭐ 1.6k • 🔱 133 • 6h ago
 
 ---
 
