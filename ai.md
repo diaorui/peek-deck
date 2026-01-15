@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T15:27:51.009214+00:00'
+updated: '2026-01-15T15:56:12.097899+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 15:27 UTC  
+**Last Updated:** January 15, 2026 at 15:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 
 CEO Bob Sternfels says the company has 60,000 employees—including 20,000 AI agents.
 
-🔗 [Fortune](https://fortune.com/2026/01/14/how-to-get-hired-at-mckinsey-ai-tools-liberal-arts-creativity/) • 30m ago
+🔗 [Fortune](https://fortune.com/2026/01/14/how-to-get-hired-at-mckinsey-ai-tools-liberal-arts-creativity/) • 59m ago
 
 ---
 
@@ -73,7 +73,7 @@ CEO Bob Sternfels says the company has 60,000 employees—including 20,000 AI ag
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 14h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 15h ago
 
 ---
 
@@ -81,7 +81,7 @@ Could Siri be the last piece of the puzzle?
 
 We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to "Energy-to-Solution" metrics. I’ve spent some time researching how the industry is pivoting towards Green AI. There are some fascinating breakthroughs happening right now: Knowledge Distillation: Shrinking massive models to 1/10th their size without losing capability. Liquid Cooling: Data centers that recycle heat to warm nearby cities. Neuromorphic Chips: A massive jump in "Performance per Watt." I put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots) rather than just draining its resources. Would love to hear your thoughts. Are we doing enough to make AI sustainable, or is the energy demand growing too fast for us to keep up? "I wrote a detailed analysis on this, let me know if anyone wants the link to read more."
 
-11m ago
+39m ago
 
 ---
 
@@ -133,7 +133,7 @@ blog.google • 23h ago
 
 It also foresees revenue growth of close to 30% in 2026, faster than the average analyst estimate.  Shares in key supplier ASML Holding NV rose 7.6% to a record in Europe, sending its market value beyond $500 billion.  The outlook from TSMC — a bellwether for the artificial intelligence boom — reflects a development frenzy by the likes of Meta Platforms Inc. and Amazon.com Inc. that’s spurred demand for Nvidia Corp. accelerators.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -141,13 +141,13 @@ Yahoo Finance • 36m ago
 
 TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
 **[US Stocks Rally as TSMC Earnings Renew Faith in AI Trade](https://www.bloomberg.com/news/articles/2026-01-15/us-stocks-rally-as-tsmc-earnings-renew-faith-in-ai-trade)**
 
-Bloomberg.com • 25m ago
+Bloomberg.com • 53m ago
 
 ---
 
@@ -171,7 +171,7 @@ blog.google • 4h ago
 
 The findings come from a major, yearlong “premortem” conducted by the Brookings Institution’s Center for Universal Education.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 1h ago
 
 **[SAP transforms HR with AI that delivers](https://www.axios.com/sponsored/sap-transforms-hr-with-ai-that-delivers)**
 
-Axios • 26m ago
+Axios • 55m ago
 
 ---
 
@@ -243,7 +243,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 237 • 💬 165 • 18h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 237 • 💬 165 • 19h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -317,7 +317,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 98K • 👍 7K • 💬 372 • ⏱️ 10:04 • 18h ago
+👁️ 98K • 👍 7K • 💬 372 • ⏱️ 10:04 • 19h ago
 
 ---
 
@@ -337,7 +337,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 121K • 👍 7K • 💬 497 • ⏱️ 26:29 • 21h ago
+👁️ 121K • 👍 7K • 💬 497 • ⏱️ 26:29 • 22h ago
 
 ---
 
@@ -357,7 +357,7 @@ The latest Antigravity update brings Agent Skills, Subagents, AI Automation, and
 
 📺 WorldofAI
 
-👁️ 15K • 👍 484 • 💬 33 • ⏱️ 9:11 • 11h ago
+👁️ 15K • 👍 484 • 💬 33 • ⏱️ 9:11 • 12h ago
 
 ---
 
@@ -377,7 +377,7 @@ Dad Builds Amazing Dream Home Surprise for Cute Baby ✨ #ai #cutebaby #kindness
 
 📺 ETC BackLol Facts
 
-👁️ 173K • 💬 1 • ⏱️ 0:23 • 1h ago
+👁️ 173K • 💬 1 • ⏱️ 0:23 • 2h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 643 • 5h ago
+⬇️ 2,442 • ❤️ 643 • 6h ago
 
 ---
 

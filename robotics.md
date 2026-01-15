@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T15:27:51.027164+00:00'
+updated: '2026-01-15T15:56:12.115330+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 15:27 UTC  
+**Last Updated:** January 15, 2026 at 15:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-5m ago
+34m ago
 
 ---
 
@@ -82,7 +82,7 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be set up. We built the robot with no issues. I’m trying to set up the raspberry pi and can’t seem to figure it out. I’ve never done this before and was wondering if someone can guide me through the process. I can post or dm pictures of my computer screens and hardware etc as we go.
 
-15m ago
+43m ago
 
 ---
 
@@ -104,7 +104,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I have been searching for controllers where i can connect anything anywhere and then configure things in my program without ever needing to touch wires again.
 
-6h ago
+7h ago
 
 ---
 
@@ -154,7 +154,7 @@ Reuters • 2d ago
 
 **[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdgOZ8grBTv87OMB6hl4l6m_TDUIeRNbxGnWeEHQp_oh32G73GFinPN&gaa_ts=69690ae2&gaa_sig=Aaa7WL8TrdR39n9r0ctxnJFpwPy2kZ0Y3VW17O160kQSRxfVha2U0rzV1O1f3Pi2aZOaXXhwC5StTHtFFjWWjA%3D%3D)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ MarketWatch • 18h ago
 
 Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 

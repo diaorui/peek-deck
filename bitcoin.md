@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T15:27:51.017900+00:00'
+updated: '2026-01-15T15:56:12.106207+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 15:27 UTC  
+**Last Updated:** January 15, 2026 at 15:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-20h ago
+21h ago
 
 ---
 
@@ -115,7 +115,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 my hands are made of diamonds and there is goop inside of my skull
 
-18h ago
+19h ago
 
 ---
 
@@ -135,13 +135,13 @@ my hands are made of diamonds and there is goop inside of my skull
 
 The data for the last 12 hours (69 blocks) speaks volumes right now. PnL is the realized change in price for all combined UTXOs (almost half a million of them) from when they last moved. The 90-1y groups have been really active in the consolidation from the 80's the last couple months, but they all just went incredibly silent. 4yr+ group is also seeing almost no volume right now. Structurally, the on chain data is signaling this is a really strong move. Curious to see if this continues tomorrow.
 
-9h ago
+10h ago
 
 ---
 
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bitcoin Magazine • 1h ago
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Block • 15h ago
 
 Strategy remains an effective proxy for bitcoin exposure, particularly for investors with a long-term view, analyst Lance Vitanza said.
 
-CoinDesk • 10m ago
+CoinDesk • 39m ago
 
 ---
 
@@ -211,7 +211,7 @@ Investor's Business Daily • 18h ago
 
 Can the reuse of crypto mining’s waste heat redeem its carbon footprint?
 
-grist.org • 21h ago
+grist.org • 22h ago
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin is poised for another historic run. From Wall Street's mixed signals to 
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 302 • 💬 108 • ⏱️ 8:24 • 10h ago
+👁️ 5K • 👍 302 • 💬 108 • ⏱️ 8:24 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 10K • 👍 590 • 💬 41 • ⏱️ 11:54 • 7h ago
+👁️ 10K • 👍 590 • 💬 41 • ⏱️ 11:54 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 565 • 💬 32 • ⏱️ 10:08 • 10h ago
+👁️ 9K • 👍 565 • 💬 32 • ⏱️ 10:08 • 11h ago
 
 ---
 
@@ -383,7 +383,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 122 • 💬 36 • ⏱️ 7:57 • 10h ago
+👁️ 2K • 👍 122 • 💬 36 • ⏱️ 7:57 • 11h ago
 
 ---
 
