@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T18:38:37.366217+00:00'
+updated: '2026-01-15T19:25:54.470873+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 18:38 UTC  
+**Last Updated:** January 15, 2026 at 19:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 20h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 21h ago
 
 ---
 
@@ -65,7 +65,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to "Energy-to-Solution" metrics. I’ve spent some time researching how the industry is pivoting towards Green AI. There are some fascinating breakthroughs happening right now: Knowledge Distillation: Shrinking massive models to 1/10th their size without losing capability. Liquid Cooling: Data centers that recycle heat to warm nearby cities. Neuromorphic Chips: A massive jump in "Performance per Watt." I put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots) rather than just draining its resources. Would love to hear your thoughts. Are we doing enough to make AI sustainable, or is the energy demand growing too fast for us to keep up? "I wrote a detailed analysis on this, let me know if anyone wants the link to read more."
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ We all know that training massive LLMs consumes an incredible amount of power. B
 
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves scientists from repeating the same process over and over while testing new chemicals and making new materials in the lab,” said Persson, the Materials Project Director and Co-Founder. “To be successful, machine learning programs need access to large amounts of high-quality, well-curated data. With its massive repository of curated data, the Materials Project is AI ready.” [...] Researchers are currently looking for new battery materials to more effectively store energy for the grid or for transportation, or new catalysts to help improve efficiencies in the chemical industry. But experimental data are available for fewer than one percent of compounds in open scientific literature, limiting our understanding of new materials and their properties. This is where data-driven materials science can help. “Accelerating materials discoveries is the key to unlocking new energy technologies,” Jain said. “What the Materials Project has enabled over the last decade is for researchers to get a sense of the properties of hundreds of thousands of materials by using high-fidelity computational simulations. That in turn has allowed them to design materials much more quickly as well as to develop machine-learning models that predict materials behavior for whatever application they’re interested in.” [...] The Microsoft Corp. has also used the Materials Project to train models for materials science, most recently to develop a tool called MatterGen, a generative model for inorganic materials design. Microsoft Azure Quantum developed a new battery electrolyte using data from the Materials Project. Other notable studies used the Materials Project to successfully design functional materials for promising new applications. In 2020, researchers from UC Santa Barbara, Argonne National Laboratory, and Berkeley Lab synthesized Mn1+xSb, a magnetic compound with promise for thermal cooling in electronics, automotive, aerospace, and energy applications. The researchers found the magnetocaloric material through a Materials Project screening of over 5,000 candidate compounds. In addition to accessing the vast database, the materials community can also contribute new data to the Materials Project through a platform called MPContribs. This allows national lab facilities, academic institutions, companies, and others who have generated large data sets on materials to share that data with the broader research community. Other community contributions have expanded coverage into previously unexplored areas through new material predictions and experimental validations. For example, Google Deepmind — Google’s artificial intelligence lab — used the Materials Project to train initial GNoME (graph networks for materials exploration) models to predict the total energy of a crystal, a key metric of a material’s stability. Through that work, which was published in the journal Nature in 2023, Google DeepMind contributed nearly 400,000 new compounds to the Materials Project, broadening the platform’s vast toolkit of material properties and simulations."
 
-🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 29m ago
+🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 12h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 13h ago
 
 ---
 
@@ -105,7 +105,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -137,7 +137,7 @@ Axios • 8h ago
 
 Cowork is a user-friendly version of Anthropic’s Claude Code AI-powered tool that’s built for file management and basic computing tasks. Here’s what it's like to use it.
 
-WIRED • 58m ago
+WIRED • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ Gizmodo • 1h ago
 
 Anduril executive chairman and co-founder Trae Stephens discusses how artificial intelligence is reshaping global military defense and why the U.S. must invest on ‘FOX Business In Depth.’
 
-Fox Business • 16h ago
+Fox Business • 17h ago
 
 ---
 
 **[Innovations in energy and finance are further inflating the AI bubble](https://www.economist.com/business/2026/01/15/innovations-in-energy-and-finance-are-further-inflating-the-ai-bubble)**
 
-The Economist • 4h ago
+The Economist • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Economist • 4h ago
 
 Bengio spent years warning of advanced AI's risks. Now he sees a path to safer AI. His nonprofit LawZero has a new board to help him build it.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 13h ago
 
 Google’s 2025 Our Life with AI survey found people are using AI tools to learn new things.
 
-blog.google • 7h ago
+blog.google • 8h ago
 
 ---
 
@@ -229,7 +229,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 292 • 💬 207 • 10h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 292 • 💬 207 • 11h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -237,7 +237,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 243 • 💬 165 • 21h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 243 • 💬 165 • 22h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -268,7 +268,7 @@ AI Overviews provided false liver test information experts called alarming.
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 224 • 💬 176 • 10h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 224 • 💬 176 • 11h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -276,53 +276,13 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 
 ## YouTube Videos: "ai"
 
-**[The #1 Ai Summit - Live With Alicia Lyttle!](https://www.youtube.com/watch?v=xT5jUQfW2kM)**
-
-Join the Ai Business Summit: https://aibusinesssummit.com?el=Nehemiah-Davis.
-
-📺 Circle of Greatness with Nehemiah Davis
-
-👁️ 1K • 👍 77 • 3h ago
-
----
-
 **[Microsoft Shocks AI World: &quot;China AI Is Now Too Powerful&quot;](https://www.youtube.com/watch?v=vcUBUQOyzFI)**
 
 Microsoft just issued a warning that reframes the AI race: outside the West, China is gaining fast through scale, affordability, and ...
 
 📺 AI Revolution
 
-👁️ 48K • 👍 1K • 💬 164 • ⏱️ 14:32 • 1d ago
-
----
-
-**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
-
-A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
-
-📺 AI Explained
-
-👁️ 59K • 👍 2K • 💬 337 • ⏱️ 19:03 • 1d ago
-
----
-
-**[AI influencers are somehow even worse now](https://www.youtube.com/watch?v=G6lt6CfJMlw)**
-
-bleh.
-
-📺 D'Angelo
-
-👁️ 126K • 👍 7K • 💬 508 • ⏱️ 26:29 • 1d ago
-
----
-
-**[The Gooner AI Problem](https://www.youtube.com/watch?v=j8s8XTMIUvA)**
-
-This is an educational video on AI Gooners in society IM BACK! Press the red button Royalty Free Music from Bensound ...
-
-📺 TommyNFG
-
-👁️ 106K • 👍 7K • 💬 392 • ⏱️ 10:04 • 22h ago
+👁️ 50K • 👍 1K • 💬 165 • ⏱️ 14:32 • 1d ago
 
 ---
 
@@ -332,7 +292,37 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 388K • 👍 34K • 💬 4K • ⏱️ 11:40 • 2d ago
+👁️ 409K • 👍 35K • 💬 4K • ⏱️ 11:40 • 2d ago
+
+---
+
+**[Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:](https://www.youtube.com/watch?v=wYs6HWZ2FdM)**
+
+A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork. But is the hype justified? What do the stats say ...
+
+📺 AI Explained
+
+👁️ 61K • 👍 2K • 💬 342 • ⏱️ 19:03 • 1d ago
+
+---
+
+**[Google&#39;s Galileo AI Just KILLED $97/m Funnel Builder Platforms (Build Pro Sites FREE With Zero Code)](https://www.youtube.com/watch?v=G_f6nYdbp68)**
+
+I put the AI tools I use for helping local businesses in one place https://www.pauljames.com/AIToolsTraining Follow on ...
+
+📺 iampauljames
+
+👁️ 8K • 👍 436 • 💬 89 • ⏱️ 8:44 • 1d ago
+
+---
+
+**[AI influencers are somehow even worse now](https://www.youtube.com/watch?v=G6lt6CfJMlw)**
+
+bleh.
+
+📺 D'Angelo
+
+👁️ 134K • 👍 7K • 💬 531 • ⏱️ 26:29 • 1d ago
 
 ---
 
@@ -342,27 +332,27 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 751K • 👍 8K • 💬 359 • ⏱️ 0:23 • 2d ago
+👁️ 807K • 👍 9K • 💬 362 • ⏱️ 0:23 • 2d ago
 
 ---
 
-**[The Ultimate Workflow for Cinematic AI Videos](https://www.youtube.com/watch?v=_I6qcTwG8yE)**
+**[Nvidia CEO Brutally Mocked After Saying AI Criticism Is Bad For Society...](https://www.youtube.com/watch?v=gajL7fUfhVU)**
 
-Check out a Breakdown of the Tutorial and links to the tools here: ...
+SOURCES 1: https://www.youtube.com/watch?v=jgCOnpTdAsE&t=771s 2: https://insider-gaming.com/microsoft-ceo-ai-slop/ 3: ...
 
-📺 Curious Refuge
+📺 YongYea
 
-👁️ 6K • 👍 302 • 💬 30 • ⏱️ 13:31 • 21h ago
+👁️ 143K • 👍 9K • 💬 2K • ⏱️ 15:35 • 22h ago
 
 ---
 
-**[Grok Enters the War Room, AI to Control American Military? Pentagon&#39;s AI Push | WION](https://www.youtube.com/watch?v=C0ibxHTPKW8)**
+**[‘OPPORTUNITIES?’: How AI could reshape the job market](https://www.youtube.com/watch?v=87jgPUHp0eY)**
 
-The U.S. military is accelerating its push to integrate artificial intelligence into weapons systems, aiming to maintain an edge over ...
+Panelists Taylor Riggs, Kenny Polcari and Jason Chaffetz talk the impact of artificial intelligence on jobs and children on 'FOX ...
 
-📺 WION
+📺 Fox Business
 
-👁️ 13K • 👍 133 • 💬 57 • ⏱️ 4:18 • 1d ago
+👁️ 3K • 👍 57 • 💬 26 • ⏱️ 6:58 • 10h ago
 
 ---
 
@@ -372,7 +362,17 @@ The latest Antigravity update brings Agent Skills, Subagents, AI Automation, and
 
 📺 WorldofAI
 
-👁️ 19K • 👍 550 • 💬 35 • ⏱️ 9:11 • 15h ago
+👁️ 21K • 👍 608 • 💬 39 • ⏱️ 9:11 • 15h ago
+
+---
+
+**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
+
+I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
+
+📺 I Ask AI
+
+👁️ 218K • 👍 17K • 💬 3K • ⏱️ 13:08 • 2d ago
 
 ---
 
@@ -388,7 +388,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 662 • 8h ago
+⬇️ 2,442 • ❤️ 672 • 9h ago
 
 ---
 
@@ -400,7 +400,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 44,101 • ❤️ 679 • 8d ago
+⬇️ 44,101 • ❤️ 680 • 8d ago
 
 ---
 
@@ -412,7 +412,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,036 • 1d ago
+⬇️ 1,187,843 • ❤️ 1,040 • 1d ago
 
 ---
 
@@ -424,7 +424,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 315 • ❤️ 282 • 1d ago
+⬇️ 315 • ❤️ 285 • 1d ago
 
 ---
 
@@ -436,7 +436,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 41,095 • ❤️ 276 • 22h ago
+⬇️ 41,095 • ❤️ 277 • 23h ago
 
 ---
 
@@ -496,7 +496,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 4,422 • ❤️ 196 • 20h ago
+⬇️ 4,422 • ❤️ 198 • 21h ago
 
 ---
 
@@ -510,7 +510,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 10 • 💬 1 • ⭐ 2,356 • 3d ago
+▲ 11 • 💬 1 • ⭐ 2,454 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -546,7 +546,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 26 • 💬 2 • ⭐ 1,107 • 10d ago
+▲ 27 • 💬 2 • ⭐ 1,107 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -561,7 +561,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 132 • 💬 19 • ⭐ 50,104 • 10mo ago
+▲ 133 • 💬 19 • ⭐ 50,145 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -575,21 +575,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Controlled Self-Evolution method improves code generation through diversified initialization, feedback-guided genetic evolution, and hierarchical memory to enhance exploration efficiency and solution quality.
 
-▲ 91 • 💬 1 • ⭐ 61 • 3d ago
+▲ 92 • 💬 2 • ⭐ 61 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07348) • [💻 code](https://github.com/QuantaAlpha/EvoControl)
-
----
-
-**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
-
-*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
-
-Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
-
-▲ 3 • 💬 0 • ⭐ 28,670 • 19mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -613,7 +601,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 DeepResearchEval presents an automated framework for creating complex research tasks and evaluating them through agent-based methods that adapt to task specifics and verify facts without relying on citations.
 
-▲ 83 • 💬 1 • ⭐ 60 • 1d ago
+▲ 85 • 💬 1 • ⭐ 60 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.09688) • [💻 code](https://github.com/Infinity-AILab/DeepResearchEval)
 
@@ -625,9 +613,21 @@ DeepResearchEval presents an automated framework for creating complex research t
 
 LlamaFactory is a unified framework enabling efficient fine-tuning of large language models across various tasks using a web-based user interface.
 
-▲ 176 • 💬 6 • ⭐ 65,776 • 22mo ago
+▲ 176 • 💬 6 • ⭐ 65,809 • 22mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.13372) • [💻 code](https://github.com/hiyouga/LLaMA-Factory) • [🔗 project](https://huggingface.co/spaces/hiyouga/LLaMA-Board)
+
+---
+
+**[Scaling Large-Language-Model-based Multi-Agent Collaboration](https://huggingface.co/papers/2406.07155)**
+
+*Chen Qian, Zihao Xie, Yifei Wang et al. (10 authors)*
+
+Multi-agent collaboration networks enhance collective intelligence, outperforming baselines across various topologies and showing emergent abilities earlier than neural scaling laws suggest.
+
+▲ 3 • 💬 0 • ⭐ 28,681 • 19mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2406.07155) • [💻 code](https://github.com/OpenBMB/ChatDev/tree/macnet) • [🔗 project](https://github.com/OpenBMB/ChatDev/tree/macnet)
 
 ---
 
@@ -651,7 +651,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 5.9k • 🔱 257 • 1d ago
+⭐ 6.0k • 🔱 265 • 1d ago
 
 ---
 
@@ -661,7 +661,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 548 • 7d ago
+⭐ 4.1k • 🔱 554 • 7d ago
 
 ---
 
@@ -671,7 +671,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 102 • 14h ago
+⭐ 3.0k • 🔱 120 • 15h ago
 
 ---
 
@@ -681,7 +681,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 150 • 3h ago
+⭐ 2.5k • 🔱 150 • 4h ago
 
 ---
 
@@ -711,7 +711,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 133 • 6h ago
+⭐ 1.6k • 🔱 133 • 7h ago
 
 ---
 

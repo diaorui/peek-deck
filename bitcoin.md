@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T18:38:37.374810+00:00'
+updated: '2026-01-15T19:25:54.479265+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 18:38 UTC  
+**Last Updated:** January 15, 2026 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1925.74B
+**Market Cap:** $1913.00B
 Rank #1
 
-**Circulating Supply:** 19,976,212 BTC
+**Circulating Supply:** 19,976,281 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--23.5%
+-24.1%
 
 **All-Time Low:** $67.81
-+142135.7%
++140945.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-29m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,13 +105,13 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-23h ago
+1d ago
 
 ---
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -137,7 +137,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -145,7 +145,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 The new deal. The knight in shining armor. The currently banking system is awful and stacked against you. I have Venmo bank transfers that are listed “pending” after 8 days. 8! How is this possibly acceptable in today’s technology. I’ll tolerate banks for me to use debt to my personal advantage. I will not tolerate the banks awful treatment of deposit customers with my assets. Pulled from the system.
 
-2h ago
+3h ago
 
 ---
 
@@ -157,7 +157,7 @@ The new deal. The knight in shining armor. The currently banking system is awful
 
 After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ CoinDesk • 2h ago
 
 The XRP versus Bitcoin debate just went viral. Crypto influencer Bird claims that by year-end, 5,000 XRP (CRYPTO: XRP) could be worth 1 Bitcoin (CRYPTO: BTC)—implying an XRP $18.40 target that would represent nearly 800% upside from current levels. The bold forecast has ignited fierce debate about whether XRP outperforms Bitcoin in the coming months. ... Viral Prediction: 5,000 XRP Will Equal 1 Bitcoin by End of 2026—The Math Behind the $18.40 XRP Target
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 2h ago
 
 NIP Group, the publicly traded firm behind esports team Ninjas in Pyjamas, is ramping up the Bitcoin mining operation it launched in 2025.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,13 +201,13 @@ Seeking Alpha • 1d ago
 
 Arthur Hayes argued bitcoin can reclaim momentum in 2026 if US dollar liquidity expands, pointing to potential Fed balance sheet growth, lower mortgage rates, and more bank lending to government-backed industries.
 
-Bitbo • 4h ago
+Bitbo • 5h ago
 
 ---
 
 **[Analyst slashes MicroStrategy price target ahead of Q4 earnings](https://www.thestreet.com/crypto/markets/analyst-slashes-microstrategy-price-ahead-of-q4-earnings)**
 
-thestreet.com • 4h ago
+thestreet.com • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ Nasdaq • 8h ago
 
 **[Should you buy Bitcoin while it's under $125,000?](https://www.msn.com/en-us/money/savingandinvesting/should-you-buy-bitcoin-while-it-s-under-125-000/ar-AA1UgmbX?ocid=finance-verthp-feeds)**
 
-MSN • 8h ago
+MSN • 9h ago
 
 ---
 
@@ -257,7 +257,7 @@ Explore a hypothetical method to securely store and transact $1 billion in Bitco
 
 Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App Store. See screenshots, ratings and reviews, user tips, and more games likeâ¦
 
-⬆️ 2 • 💬 0 • 2d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
+⬆️ 2 • 💬 0 • 3d ago • [App Store](https://apps.apple.com/us/app/bitscout-track-bitcoin-wallet/id6757343698)
 
 ---
 
@@ -295,17 +295,17 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 11K • 👍 728 • 💬 63 • ⏱️ 18:21 • 7h ago
+👁️ 15K • 👍 839 • 💬 74 • ⏱️ 18:21 • 8h ago
 
 ---
 
-**[The $100K Bitcoin Comeback: Why This Rally Is Different](https://www.youtube.com/watch?v=onv50F9PXYA)**
+**[We Finally Have Proof...](https://www.youtube.com/watch?v=HsOEoxr8ZHs)**
 
-Bitcoin is poised for another historic run. From Wall Street's mixed signals to spot buying momentum and the OG whales finally ...
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
 
-📺 CryptosRus Extra
+📺 Crypto Tips
 
-👁️ 5K • 👍 305 • 💬 120 • ⏱️ 8:24 • 14h ago
+👁️ 4K • 👍 548 • 💬 47 • ⏱️ 8:38 • 2h ago
 
 ---
 
@@ -315,7 +315,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 731 • 💬 61 • ⏱️ 46:33 • 3h ago
+👁️ 15K • 👍 957 • 💬 39 • ⏱️ 46:33 • 3h ago
+
+---
+
+**[Smart Money Just Triggered a Major Reset for Bitcoin.](https://www.youtube.com/watch?v=Vk_HkSCtdC8)**
+
+Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 16, 2026 at 11:59pm ET) Subscribing gives ...
+
+📺 Bravos Research Crypto
+
+👁️ 4K • 👍 368 • 💬 25 • ⏱️ 6:40 • 2h ago
 
 ---
 
@@ -325,17 +335,17 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 8K • 👍 930 • 💬 18 • ⏱️ 30:10 • 3h ago
+👁️ 16K • 👍 1K • 💬 34 • ⏱️ 30:10 • 4h ago
 
 ---
 
-**[BITCOIN...THIS DISASTER SIGNAL JUST FLASHED…](https://www.youtube.com/watch?v=VuVZVJGXYQA)**
+**[The $100K Bitcoin Comeback: Why This Rally Is Different](https://www.youtube.com/watch?v=onv50F9PXYA)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Bitcoin is poised for another historic run. From Wall Street's mixed signals to spot buying momentum and the OG whales finally ...
 
-📺 Satoshi Stacker
+📺 CryptosRus Extra
 
-👁️ 12K • 👍 645 • 💬 34 • ⏱️ 11:54 • 10h ago
+👁️ 5K • 👍 312 • 💬 125 • ⏱️ 8:24 • 14h ago
 
 ---
 
@@ -345,7 +355,7 @@ Bitcoin #Crypto #Finance Crypto regulation hits another roadblock as the Senate 
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 587 • 💬 110 • ⏱️ 36:20 • 3h ago
+👁️ 16K • 👍 916 • 💬 82 • ⏱️ 36:20 • 4h ago
 
 ---
 
@@ -355,37 +365,27 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 139 • ⏱️ 24:06 • 19h ago
+👁️ 33K • 👍 3K • 💬 144 • ⏱️ 24:06 • 20h ago
 
 ---
 
-**[Bitcoin: We’ve Seen This Before](https://www.youtube.com/watch?v=1-ZHrMuGfAc)**
+**[WARNING: GAUSSIAN CHANNEL ENTERS BLOODY QUICKSAND—PREPARE NOW](https://www.youtube.com/watch?v=MUDw1EDKy4A)**
 
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
 
-📺 Jason Pizzino
+📺 Crypto Crew University
 
-👁️ 18K • 👍 1K • 💬 334 • ⏱️ 26:45 • 16h ago
-
----
-
-**[BITCOIN LIVE SETUPS AND ANALYSIS! (NY Open)](https://www.youtube.com/watch?v=zaI2530ullw)**
-
-DM me the word "JOIN" on Telegram to join community: https://t.me/AndyJack_trades Blofin: ...
-
-📺 Andy Bitcoinsensus
-
-👁️ 2K • 👍 246 • 4h ago
+👁️ 16K • 👍 2K • 💬 101 • ⏱️ 9:20 • 5h ago
 
 ---
 
-**[🤩 F*CK Yeah - We Going To $100,000 in Bitcoin](https://www.youtube.com/watch?v=v6hUmYvlUhE)**
+**[Crypto Clarity Act Canceled!?!? Brian Armstrong Coinbase CEO Speaks Out!! Banking System Takeover...](https://www.youtube.com/watch?v=5JhWiB3lpr4)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 AllinCrypto
 
-👁️ 2K • 👍 134 • 💬 35 • ⏱️ 7:57 • 13h ago
+👁️ 22K • 👍 2K • 💬 509 • ⏱️ 19:42 • 6h ago
 
 ---
 

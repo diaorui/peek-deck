@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T18:38:37.384126+00:00'
+updated: '2026-01-15T19:25:54.488507+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 18:38 UTC  
+**Last Updated:** January 15, 2026 at 19:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 4h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 5h ago
 
 ---
 
@@ -58,7 +58,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-9h ago
+10h ago
 
 ---
 
@@ -74,19 +74,19 @@ The biggest frustration I faced while scaling a robot project wasn’t building 
 
 I’ve been working on a project for the past few months with my co-founder that takes a natural-language prompt and turns it into basic circuitry / schematics. There are tools that try to AI-ify circuit design like Flux, but it really sucks. Essentially, having the capability to vibe code electronics to prototype and iterate faster. We’re now at the stage where it semi works, having the capabilities to integrate with Altium and Kicad, and I’d love feedback from other engineers. As an engineer myself, I’m very aware of the skepticism around AI in hardware design. The goal here isn’t to replace engineers, but to help them move faster on early design, iteration, and exploration, keeping humans in the loop. If you were to use something like this Where could it realistically save you time? What would immediately worry you? Where would you never trust it? Happy to give access to engineers who are genuinely interested and willing to share honest feedback.
 
-1h ago
+2h ago
 
 ---
 
 **[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be set up. We built the robot with no issues. I’m trying to set up the raspberry pi and can’t seem to figure it out. I’ve never done this before and was wondering if someone can guide me through the process. I can post or dm pictures of my computer screens and hardware etc as we go.
 
-3h ago
+4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Fortune • 6h ago
 
 **[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqeD6XvG9rL3zONHQCmCxqgj69Yet1RPXLRrgsQ37h-qISKrItCAlLlY&gaa_ts=69693797&gaa_sig=0gICiR6gjHAMciso8GvxSIQDOHh5scmBygzbDqyTpQyA_S8wbUBUgZ3S1zaaEbnNLaFJ8D7J-DwC2_2o_iAXjg%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -190,7 +190,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 427K • 👍 13K • 💬 755 • ⏱️ 17:09 • 3d ago
+👁️ 430K • 👍 13K • 💬 760 • ⏱️ 17:09 • 3d ago
 
 ---
 
@@ -200,17 +200,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 153K • 👍 2K • 💬 385 • ⏱️ 11:46 • 4d ago
-
----
-
-**[Ranking how scary Robots are at CES 2026](https://www.youtube.com/watch?v=jVzXG4uAQ8g)**
-
-I saw a ton of robots at CES this year, so let's rank how terrifying each one would be in the event they turned evil (which hopefully ...
-
-📺 mryeester
-
-👁️ 1.0M • 👍 32K • 💬 988 • ⏱️ 0:39 • 7d ago
+👁️ 154K • 👍 2K • 💬 386 • ⏱️ 11:46 • 4d ago
 
 ---
 
@@ -224,13 +214,13 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 ---
 
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
 
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 joeybtoonz
+📺 Julia McCoy
 
-👁️ 218K • 👍 13K • 💬 2K • ⏱️ 5:12 • 1d ago
+👁️ 51K • 👍 3K • 💬 430 • ⏱️ 14:30 • 4d ago
 
 ---
 
@@ -244,13 +234,13 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
-**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
-CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
-📺 Cybernews
+📺 joeybtoonz
 
-👁️ 19K • 👍 258 • 💬 36 • ⏱️ 11:29 • 4d ago
+👁️ 221K • 👍 14K • 💬 2K • ⏱️ 5:12 • 1d ago
 
 ---
 
@@ -260,7 +250,17 @@ On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, wh
 
 📺 RobotShopTV
 
-👁️ 592 • 👍 9 • 💬 2 • ⏱️ 2:41 • 3d ago
+👁️ 688 • 👍 10 • 💬 2 • ⏱️ 2:41 • 3d ago
+
+---
+
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
+
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
+
+📺 Cybernews
+
+👁️ 19K • 👍 259 • 💬 36 • ⏱️ 11:29 • 4d ago
 
 ---
 
@@ -270,17 +270,17 @@ Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we
 
 📺 The Laughing Lion
 
-👁️ 14K • 👍 105 • 💬 10 • ⏱️ 0:12 • 4d ago
+👁️ 14K • 👍 106 • 💬 10 • ⏱️ 0:12 • 4d ago
 
 ---
 
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+**[Giving a bar of GOLD to a Robot](https://www.youtube.com/watch?v=HX-Jk7R50MA)**
 
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+When a robo-cleaner can notify you that a bar of gold was left on your living room floor, you know this technology is getting pretty ...
 
-📺 Gohar Khan
+📺 mryeester
 
-👁️ 111K • 👍 6K • 💬 144 • ⏱️ 0:49 • 21h ago
+👁️ 105K • 👍 5K • 💬 190 • ⏱️ 1:06 • 5d ago
 
 ---
 
