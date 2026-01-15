@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T23:22:16.843847+00:00'
+updated: '2026-01-15T23:43:08.589996+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 23:22 UTC  
+**Last Updated:** January 15, 2026 at 23:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,347.28
+### $3,310.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** +6.7%  
-**30d:** +16.2%  
-**90d:** -15.4%  
-**1y:** -0.5%  
+**24h:** -0.6%  
+**7d:** +7.3%  
+**30d:** +16.9%  
+**90d:** -14.9%  
+**1y:** +0.0%  
 
 ---
 
@@ -68,6 +68,14 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Real world Ethereum blockchain use case. Tamper-proof testing and compliance](https://www.reddit.com/r/ethereum/comments/1qdubkr/real_world_ethereum_blockchain_use_case/)**
+
+Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
+
+3h ago
+
+---
+
 **[Daily General Discussion January 15, 2026](https://www.reddit.com/r/ethereum/comments/1qdbmtv/daily_general_discussion_january_15_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -76,11 +84,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Real world Ethereum blockchain use case. Tamper-proof testing and compliance](https://www.reddit.com/r/ethereum/comments/1qdubkr/real_world_ethereum_blockchain_use_case/)**
+**[Argot Roadmap Update 2026 (1/2)](https://www.reddit.com/r/ethereum/comments/1qdyue0/argot_roadmap_update_2026_12/)**
 
-Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
+This blog post recaps the Argot Collective’s work from the second half of 2025 and provides a detailed outline of priorities and upcoming milestones for the first half of 2026.
 
-3h ago
+🔗 [Argot Collective](https://www.argot.org/blog/2026-01-15-argot-roadmap-update-2026-1) • 41m ago
 
 ---
 
@@ -136,20 +144,17 @@ I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have 
 
 ---
 
-**[Geth: security fix release recommended for all users. Resolves two p2p vulnerabilities reported through the Ethereum Foundation bug bounty program.](https://www.reddit.com/r/ethereum/comments/1qcaq1y/geth_security_fix_release_recommended_for_all/)**
-
-This is a security fix release and is recommended for all users. It resolves two p2p
-vulnerabilities reported through the Ethereum Foundation bug bounty program.
-
-As with all our previous releases,...
-
-🔗 [GitHub](https://github.com/ethereum/go-ethereum/releases/tag/v1.16.8) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://decrypt.co/354732/mrbeast-eyes-defi-ethereum-treasury-firm-bitmine-invests-200-million)**
+
+BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
+
+Decrypt • 7h ago
+
+---
 
 **[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
 
@@ -159,15 +164,11 @@ This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin.
 
 ---
 
-**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
+**[Ethereum smashes $120bn staking record as price seen to hit $40,000](https://www.dlnews.com/articles/markets/ethereum-smashes-120bn-staking-record-as-price-surges/)**
 
-The Block • 1d ago
+Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
----
-
-**[Bitcoin, Ethereum, and Solana Confirm the Crypto Reversal. Where They’re Headed.](https://www.barrons.com/articles/bitcoin-ethereum-solana-crypto-price-etf-4a8faf45?gaa_at=eafs&gaa_n=AWEtsqccMs34b-D4ycfuvzduTPm3F8WBKCDRlK3GbyoDJ5bVF5ZwV8NmcNZQ&gaa_ts=69696c60&gaa_sig=Jvo5LuH6kvezpOsVuMkJDALOfRDRKvlEZ8kyLzYLBH6O1bz-F50GzXUQOhTkkawoDwKUK3pGIV10pGUwkISyXQ%3D%3D)**
-
-Barron's • 3h ago
+dlnews.com • 13h ago
 
 ---
 
@@ -187,19 +188,17 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Bitmine stakes $4bn Ethereum. Why Tom Lee forecasts price jump in 2026](https://www.dlnews.com/articles/markets/bitmine-stakes-usd-4bn-ethereum-tom-lee-forecasts-price-jump/)**
+**[Bitcoin, Ethereum, and Solana Confirm the Crypto Reversal. Where They’re Headed.](https://www.barrons.com/articles/bitcoin-ethereum-solana-crypto-price-etf-4a8faf45?gaa_at=eafs&gaa_n=AWEtsqcpMIunCdFwNIeCVAvcp-0Rphl4fZXhmdz4EBojBkxSpTzzXKyuYSos&gaa_ts=69697ef8&gaa_sig=dnZ4bKkkhZFjlRqAiZcZ2auR0mzdADnpEkap61lU7uXY3f3aLGTOj8UbW4g_NZ10QnXBaU7wFCc7DP8VfPGFzw%3D%3D)**
 
-Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
-
-dlnews.com • 2d ago
+Barron's • 3h ago
 
 ---
 
-**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://decrypt.co/354732/mrbeast-eyes-defi-ethereum-treasury-firm-bitmine-invests-200-million)**
+**[Ethereum parent chain sets new record in daily transactions](https://sherwood.news/crypto/ethereum-parent-chain-sets-new-record-in-daily-transactions/)**
 
-BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
+The main drivers of the network’s transaction growth comes from increased stablecoin usage....
 
-Decrypt • 6h ago
+Sherwood News • 3h ago
 
 ---
 
@@ -211,17 +210,17 @@ CoinDesk • 2d ago
 
 ---
 
+**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
+
+The Block • 1d ago
+
+---
+
 **[Analyst Says It’s Time For Ethereum’s ‘Big Test’ – Is ETH Season Loading?](https://www.tradingview.com/news/newsbtc:2fb330dfb094b:0-analyst-says-it-s-time-for-ethereum-s-big-test-is-eth-season-loading/)**
 
 After its recent price breakout, Ethereum (ETH) is facing its next big test and attempting to turn a crucial area into support. Some analysts have suggested that the altcoin is ready to continue its bullish momentum, arguing that the biggest rotation in years is coming.Ethereum Challenges Key Resis…
 
 TradingView — Track All Markets • 14h ago
-
----
-
-**[This New ETF Could Be the Way to Play Ethereum in 2026](https://www.etftrends.com/monthly-income-content-hub/etf-way-play-ethereum-2026/)**
-
-ETF Trends • 3d ago
 
 ---
 
@@ -245,7 +244,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Stock Moe
 
-👁️ 827 • 👍 118 • 💬 13 • ⏱️ 13:25 • 1h ago
+👁️ 827 • 👍 118 • 💬 13 • ⏱️ 13:25 • 2h ago
 
 ---
 
@@ -255,7 +254,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 187 • 💬 192 • ⏱️ 15:10 • 17h ago
+👁️ 4K • 👍 187 • 💬 192 • ⏱️ 15:10 • 18h ago
 
 ---
 
@@ -265,7 +264,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 259 • 💬 58 • ⏱️ 11:22 • 22h ago
+👁️ 5K • 👍 259 • 💬 58 • ⏱️ 11:22 • 23h ago
 
 ---
 
@@ -285,7 +284,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 138 • 👍 14 • 💬 9 • ⏱️ 8:02 • 4h ago
+👁️ 138 • 👍 14 • 💬 9 • ⏱️ 8:02 • 5h ago
 
 ---
 
@@ -295,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 999 • 👍 96 • 💬 7 • ⏱️ 3:43 • 6h ago
+👁️ 999 • 👍 96 • 💬 7 • ⏱️ 3:43 • 7h ago
 
 ---
 

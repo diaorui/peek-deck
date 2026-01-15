@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T23:22:16.837841+00:00'
+updated: '2026-01-15T23:43:08.583721+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 23:22 UTC  
+**Last Updated:** January 15, 2026 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,586.45
+### $95,663.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
+**24h:** -1.1%  
 **7d:** +5.6%  
 **30d:** +10.7%  
 **90d:** -10.7%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-10h ago
+11h ago
 
 ---
 
@@ -109,7 +109,7 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-19h ago
+20h ago
+
+---
+
+**[Gm Bitcoin community](https://www.reddit.com/r/Bitcoin/comments/1qdy5yi/gm_bitcoin_community/)**
+
+1h ago
 
 ---
 
@@ -133,19 +139,9 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 ---
 
-**[As of mid‑February, KBC will be the first Belgian bank to offer the possibility to buy and sell crypto. (without using an ETF)](https://www.reddit.com/r/Bitcoin/comments/1qdq1c6/as_of_midfebruary_kbc_will_be_the_first_belgian/)**
+**[Bull run coming?](https://www.reddit.com/r/Bitcoin/comments/1qdz2v5/bull_run_coming/)**
 
-Virtual currencies, real risks. The only guarantee in crypto is risk.
-
-🔗 [newsroom.kbc.com](https://newsroom.kbc.com/as-of-mid-february-kbc-will-be-the-first-belgian-bank-to-offer-the-possibility-to-buy-and-sell-crypto-through-bolero) • 5h ago
-
----
-
-**[KEEP BUYING](https://www.reddit.com/r/Bitcoin/comments/1qcyixe/keep_buying/)**
-
-my hands are made of diamonds and there is goop inside of my skull
-
-1d ago
+31m ago
 
 ---
 
@@ -153,11 +149,9 @@ my hands are made of diamonds and there is goop inside of my skull
 
 ## Google News: "bitcoin"
 
-**[Is Bitcoin About to Break Out?](https://finance.yahoo.com/news/bitcoin-break-141100626.html)**
+**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqdfNi2dBaZhNAs5hMSNobUxfd7R0NL3aNwHgVBeZuxcX9eLjNFXsA3Z&gaa_ts=69697ef6&gaa_sig=vg0Ro8t9BwjwVXiYBV6Cs8zyjuWwZ6DjdhXSDfdlboCovVBxb5Ntl3xqaodRiIJjc5PtBbPf7C3cyE02dU3XFg%3D%3D)**
 
-A growing number of investors think Bitcoin might end the year above the $200,000 price level.
-
-Yahoo Finance • 1d ago
+Barron's • 1d ago
 
 ---
 
@@ -169,19 +163,19 @@ grist.org • 1d ago
 
 ---
 
-**[Iran’s Crypto Economy Hit $7.8 Billion in 2025 as Protests Fueled Bitcoin Use: Chainalysis](https://finance.yahoo.com/news/iran-crypto-economy-hit-7-213231153.html)**
+**[Bitcoin price to ‘go substantially higher’ if three things happen, Bitwise says](https://finance.yahoo.com/news/bitcoin-price-substantially-higher-three-155537298.html)**
 
-Iran’s crypto activity accelerated in 2025, a new report says, driven by civilians and state actors turning to Bitcoin during periods of unrest.
+Bitwise CIO Matt Hougan predicts Bitcoin will hit new all-time highs in 2026. Three key catalysts: no more October 10-style blowups, passage of the Clarity Act, and stable equity markets. But Hougan warns large whales could scupper the rally.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Belgium’s KBC Becomes First Bank in the Country to Offer Bitcoin Trading to Retail Investors](https://bitcoinmagazine.com/news/belgiums-kbc-offer-retail-bitcoin-trading)**
+**[Bitcoin price news: BTC is selling off again during U.S. market hours](https://www.coindesk.com/markets/2026/01/15/bitcoin-slides-below-usd96-000-as-key-crypto-bill-stalls-in-congress)**
 
-KBC Group is set to become the first bank in Belgium to allow retail clients to buy and sell crypto.
+After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.
 
-Bitcoin Magazine • 2h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -193,51 +187,43 @@ The Motley Fool • 13h ago
 
 ---
 
-**[Bitcoin Price Climbs To $97,000 As Billions Flow Into ETFs](https://bitcoinmagazine.com/markets/bitcoin-price-climbs-97000-on-etf-surge)**
-
-The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
-
-Bitcoin Magazine • 8h ago
-
----
-
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://finance.yahoo.com/news/blackrock-moves-339m-bitcoin-traders-111215711.html)**
+**[Bitcoin Price Climbs To $97,000 As Billions Flow Into ETFs](https://bitcoinmagazine.com/markets/bitcoin-price-climbs-97000-on-etf-surge)**
 
-BlackRock moved approximately $361 million worth of Bitcoin and Ethereum to Coinbase Prime. While transfers to Coinbase Prime don’t automatically signal a sale, market observers ...
+The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
 
-Yahoo Finance • 2d ago
+Bitcoin Magazine • 9h ago
 
 ---
 
-**[Bitcoin and gold allocation outperforms traditional portfolios, backing Ray Dalio's 15% hedge thesis, Bitwise finds](https://www.theblock.co/post/385526/gold-bitcoin-combined-allocation-outperforms-traditional-portfolios-bitwise)**
+**[Something Is Happening With Bitcoin That I Would Have Never Expected: The BTCO Case (BATS:BTCO)](https://seekingalpha.com/article/4859737-something-is-happening-with-bitcoin-that-i-would-have-never-expected-the-btco-case)**
 
-The Block • 1d ago
+BTCO is a spot Bitcoin ETF with a 0.25% TER, liquid, and with externalized custody.
+
+Seeking Alpha • 1d ago
 
 ---
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 23h ago
+The Block • 1d ago
+
+---
+
+**[Analyst slashes MicroStrategy price target ahead of Q4 earnings](https://www.thestreet.com/crypto/markets/analyst-slashes-microstrategy-price-ahead-of-q4-earnings)**
+
+thestreet.com • 9h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Monero Replaced Bitcoin on the Internet's Underground](https://news.ycombinator.com/item?id=46547648)**
-
-Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
-
-⬆️ 45 • 💬 3 • 7d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
-
----
 
 **[Show HN: BitStory – a Bitcoin-native protocol for on-chain time capsules](https://news.ycombinator.com/item?id=46593968)**
 
@@ -303,7 +289,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 53 • ⏱️ 46:33 • 7h ago
+👁️ 18K • 👍 1K • 💬 53 • ⏱️ 46:33 • 8h ago
 
 ---
 
@@ -323,7 +309,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 2K • 💬 37 • ⏱️ 30:10 • 7h ago
+👁️ 21K • 👍 2K • 💬 37 • ⏱️ 30:10 • 8h ago
 
 ---
 

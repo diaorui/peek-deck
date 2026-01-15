@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T23:22:16.847066+00:00'
+updated: '2026-01-15T23:43:08.593247+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 23:22 UTC  
+**Last Updated:** January 15, 2026 at 23:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 **[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -90,17 +90,17 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 ---
 
+**[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
+
+6h ago
+
+---
+
 **[Whats the biggest frustration you’ve faced while scaling a robot Project?](https://www.reddit.com/r/robotics/comments/1qdeewf/whats_the_biggest_frustration_youve_faced_while/)**
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
 14h ago
-
----
-
-**[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
-
-6h ago
 
 ---
 
@@ -110,7 +110,23 @@ The biggest frustration I faced while scaling a robot project wasn’t building 
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
+
+---
+
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+
+Fortune • 11h ago
+
+---
+
+**[MassRobotics opens applications for fourth Form and Function Robotics Challenge](https://www.therobotreport.com/massrobotics-opens-applications-for-fourth-form-and-function-robotics-challenge/)**
+
+MassRobotics' Form and Function challenge will culminate with in-person demonstrations at the Robotics Summit & Expo.
+
+The Robot Report • 3h ago
 
 ---
 
@@ -136,14 +152,6 @@ TechCrunch • 1d ago
 
 ---
 
-**[MassRobotics opens applications for fourth Form and Function Robotics Challenge](https://www.therobotreport.com/massrobotics-opens-applications-for-fourth-form-and-function-robotics-challenge/)**
-
-MassRobotics' Form and Function challenge will culminate with in-person demonstrations at the Robotics Summit & Expo.
-
-The Robot Report • 2h ago
-
----
-
 **[AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/)**
 
 Startup works with leading cell therapy companies to bring robotics manufacturing into the clean room, reducing costs by more than 70% while accelerating output compared with legacy systems.
@@ -158,25 +166,15 @@ Reuters • 2d ago
 
 ---
 
-**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
-
-Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
-
-Fortune • 10h ago
-
----
-
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
 GeekWire • 1d ago
 
 ---
 
-**[Can Grab (GRAB) Turn EV Partnerships and Robotics Bets Into a Defensible Logistics Edge?](https://finance.yahoo.com/news/grab-grab-turn-ev-partnerships-231237971.html)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfCuHNFF45isEpABj2f9fQNGMDQN7vJtFXC_WjG1TOyleSb3nJUb8hf&gaa_ts=69697ef9&gaa_sig=4a7mBwXylXoxu4j6Wr8ONVluU1QoKvRF-vTLo81bhL7kGQqLtkv9jDZPaLGQye4vXaPJoqE5kQe6GYq-l1CWNg%3D%3D)**
 
-In recent days, China’s GAC International announced a partnership with Singapore-based superapp Grab to deploy up to 20,000 electric vehicles across six Southeast Asian markets over the next two years, while Grab also acquired Chinese robotics firm Infermove to strengthen its autonomous last‑mile delivery capabilities. Together, these moves highlight Grab’s push to pair cleaner mobility with automation in delivery, tying its superapp ecosystem more closely to physical transport and logistics...
-
-Yahoo Finance • 1d ago
+MarketWatch • 1d ago
 
 ---
 
@@ -220,7 +218,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 15 • ⏱️ 6:37 • 5h ago
+👁️ 2K • 💬 15 • ⏱️ 6:37 • 6h ago
 
 ---
 
