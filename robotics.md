@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T17:32:54.196306+00:00'
+updated: '2026-01-15T18:38:37.384126+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 17:32 UTC  
+**Last Updated:** January 15, 2026 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 3h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,27 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-8h ago
+9h ago
+
+---
+
+**[Need feedback: Natural language to circuit design to make robotics easier](https://www.reddit.com/r/robotics/comments/1qdpeqi/need_feedback_natural_language_to_circuit_design/)**
+
+I’ve been working on a project for the past few months with my co-founder that takes a natural-language prompt and turns it into basic circuitry / schematics. There are tools that try to AI-ify circuit design like Flux, but it really sucks. Essentially, having the capability to vibe code electronics to prototype and iterate faster. We’re now at the stage where it semi works, having the capabilities to integrate with Altium and Kicad, and I’d love feedback from other engineers. As an engineer myself, I’m very aware of the skepticism around AI in hardware design. The goal here isn’t to replace engineers, but to help them move faster on early design, iteration, and exploration, keeping humans in the loop. If you were to use something like this Where could it realistically save you time? What would immediately worry you? Where would you never trust it? Happy to give access to engineers who are genuinely interested and willing to share honest feedback.
+
+1h ago
+
+---
+
+**[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
+
+1h ago
+
+---
+
+**[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
+
+1h ago
 
 ---
 
@@ -82,35 +102,27 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be set up. We built the robot with no issues. I’m trying to set up the raspberry pi and can’t seem to figure it out. I’ve never done this before and was wondering if someone can guide me through the process. I can post or dm pictures of my computer screens and hardware etc as we go.
 
-2h ago
-
----
-
-**[cubemars actuators review: terrible](https://www.reddit.com/r/robotics/comments/1qd3wws/cubemars_actuators_review_terrible/)**
-
-i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
-
-17h ago
-
----
-
-**[Interesting blog on a arduino based car](https://www.reddit.com/r/robotics/comments/1qdbuvk/interesting_blog_on_a_arduino_based_car/)**
-
-11h ago
-
----
-
-**[Why isnt there a ‘plug once and reconfigure unlimited times’ type of controller in market?](https://www.reddit.com/r/robotics/comments/1qdegxd/why_isnt_there_a_plug_once_and_reconfigure/)**
-
-I have been searching for controllers where i can connect anything anywhere and then configure things in my program without ever needing to touch wires again.
-
-8h ago
+3h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
+
+Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
+
+Crunchbase News • 1d ago
+
+---
 
 **[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
 
@@ -128,7 +140,7 @@ GeekWire • 1d ago
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -154,33 +166,17 @@ Reuters • 2d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfsTuuZ3XLO5ELJgCGUJCFIJkT8XXSvxjty1qOvXcpBNdi8HZDum_D8&gaa_ts=69691bb0&gaa_sig=RRQaC9h5J03YBUna4TwIRTkZY9kT839OqEx1WXc7A0oG2vamBezoqmZE0xJujnW3qxjTBaGXSMOE7A0lqWtycA%3D%3D)**
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
 
-MarketWatch • 20h ago
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
----
-
-**[Hyundai Revealed Boston Dynamics' Next-Gen Humanoid Robots](https://www.bgr.com/2071680/hyundai-reveal-next-gen-robot-boston-dynamics-robot-atlas/)**
-
-At the 2026 CES show, Hyundai and Boston Dynamics took the wraps off its next-gen humanoid robot, Atlas, that is nearly ready for commercial use.
-
-bgr.com • 23h ago
+Fortune • 6h ago
 
 ---
 
-**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqeD6XvG9rL3zONHQCmCxqgj69Yet1RPXLRrgsQ37h-qISKrItCAlLlY&gaa_ts=69693797&gaa_sig=0gICiR6gjHAMciso8GvxSIQDOHh5scmBygzbDqyTpQyA_S8wbUBUgZ3S1zaaEbnNLaFJ8D7J-DwC2_2o_iAXjg%3D%3D)**
 
-Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
-
-Interesting Engineering • 5h ago
-
----
-
-**[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
-
-The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
-
-The Free Press • 1d ago
+MarketWatch • 21h ago
 
 ---
 
@@ -214,7 +210,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 1.0M • 👍 32K • 💬 988 • ⏱️ 0:39 • 6d ago
+👁️ 1.0M • 👍 32K • 💬 988 • ⏱️ 0:39 • 7d ago
 
 ---
 
@@ -284,7 +280,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 111K • 👍 6K • 💬 144 • ⏱️ 0:49 • 20h ago
+👁️ 111K • 👍 6K • 💬 144 • ⏱️ 0:49 • 21h ago
 
 ---
 
