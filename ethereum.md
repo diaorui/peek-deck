@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T05:27:52.198421+00:00'
+updated: '2026-01-15T05:50:09.675212+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 05:27 UTC  
+**Last Updated:** January 15, 2026 at 05:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In 2014, there was a vision: you can have permissionless, decentralized applications that could support finance, social media, ride sharing, governing organizations, crowdfunding, potentially create an entire alternative web, all on the backs of a suite of technologies. Ethereum: the blockchain. The world computer that could give any application its shared memory. Whisper: the data layer. Messages too expensive for a blockchain, that do no need consensus. Swarm: the storage layer. Store files for long-term access. Over the last five years, this core vision has at times become obscured, with various "metas" and "narratives" at various times taking center stage. But the core vision has never died. And in fact, the core technologies behind it are only growing stronger. Ethereum is now proof of stake. Ethereum is now scaling, it is now cheap, and it is on track to get more scalable and cheaper thanks to the power of ZK-EVMs. Thanks to ZK-EVM + PeerDAS, the "sharding" vision is effectively being realized. And L2s can give additional and different kinds of gains in speed on top. Whisper is now Waku ( https://docs.waku.org/ ), and already powers many applications (eg. https://www.railway.xyz/, https://status.app/ just to name two I use). Even outside of Waku, the quality of decentralized messaging has increased. Fileverse (decentralized Google Docs and Sheets alternative: https://fileverse.io/ ) has seen massive gains in usability over the past year. IPFS is now highly performant and robust as a decentralized way of retrieving files, though IPFS alone does not solve the storage problem. Hence, there is still room to improve there. All of the prerequisites for the original web3 vision are here, in full force, and are continuing to get stronger over the next few years. Hence, it's time to buidl, and buidl decentralized. Fileverse is an excellent example of the right way to do things: It uses Ethereum and Gnosis Chain for what they are good for: names, accounts and permissioning, document registration It uses decentralized messaging and file storage to store documents and propagate changes to documents The application passes the walkaway test: https://github.com/fileverse/walk-away-ddocs (even if Fileverse disappears, you can still retrieve them and even keep editing them with the open source UI) This is what we mean by "build a hammer that is a tool you buy once and it's yours, not a corposlop AI dishwasher that requires you to register for a google account and charges a subscription fee per month for extra washing modes, and probably spies on you and stops working if you get politically disfavored by a foreign country". If you think this criticism of corposlop is hyperbolic, well turns out, it's literally a concatenation of these three: https://mein-mmo.de/en/user-buys-new-dishwasher-can-only-use-some-features-if-he-subscribes,1186249/ https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers https://www.irishtimes.com/world/us/2025/12/12/its-surreal-us-sanctions-lock-international-criminal-court-judge-out-of-daily-life/ In 2014, decentralized applications were toys, hundreds of times more difficult to use in web2. In 2026, fileverse is now usable enough that I regularly write documents in it and send them to other people to collaborate. The decentralized renaissance is coming, and you can be part of making it happen.
 
-22h ago
+23h ago
 
 ---
 
@@ -94,7 +94,7 @@ The Weekly Doots live stream is all about showcasing the best of the week from t
 
 **[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 1h ago
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 2h ago
 
 ---
 
@@ -110,7 +110,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have one. What do you use?
 
-21h ago
+22h ago
 
 ---
 
@@ -129,7 +129,7 @@ As with all our previous releases,...
 
 Ethereum is meant to be a home for trustless and trust-minimized applications, whether in finance, governance or elsewhere. It must support applications that are more like tools - the hammer that once you buy it's yours - than like services that lose all functionality once the vendor loses interest in maintaining them (or worse, gets hacked or becomes value-extractive). Even when applications do have functionality that depends on a vendor, Ethereum can help reduce those dependencies as much as possible, and protect the user as much as possible in those cases where the dependencies fail. But building such applications is not possible on a base layer which itself depends on ongoing updates from a vendor in order to continue being usable - even if that "vendor" is the all core devs process. Ethereum the blockchain must have the traits that we strive for in Ethereum's applications. Hence, Ethereum itself must pass the walkaway test. This means that Ethereum must get to a place where we can ossify if we want to. We do not have to stop making changes to the protocol, but we must get to a place where Ethereum's value proposition does not strictly depend on any features that are not in the protocol already. This includes the following: Full quantum-resistance. We should resist the trap of saying "let's delay quantum-resistance until the last possible moment in the name of ekeing out more efficiencies for a while longer". Individual users have that right, but the protocol should not. Being able to say "Ethereum's protocol, as it stands today, is cryptographically safe for a hundred years" is something we should strive to get to as soon as possible, and insist on as a point of pride. An architecture that can expand to sufficient scalability. The protocol needs to have the properties that allow it to expand to many thousands of TPS over time, most notably ZK-EVM validation and data sampling through PeerDAS. Ideally, we get to a point where further scaling is done through "parameter only" changes - and ideally those changes are not BPO-style forks, but rather are made with the same validator voting mechanism we use for the gas limit. A state architecture that can last decades. This means deciding, and implementing, whatever form of partial statelessness and state expiry will let us feel comfortable letting Ethereum run with thousands of TPS for decades, without breaking sync or hard disk or I/O requirements. It also means future-proofing the tree and storage types to work well with this long-term environment. An account model that is general-purpose (this is "full account abstraction": move away from enshrined ECDSA for signature validation) A gas schedule that we are confident is free of DoS vulnerabilities, both for execution and for ZK-proving A PoS economic model that, with all we have learned over the past half decade of proof of stake in Ethereum and full decade beyond, we are confident can last and remain decentralized for decades, and supports the usefulness of ETH as trustless collateral (eg. in governance-minimized ETH-backed stablecoins) A block building model that we are confident will resist centralization pressure and guarantee censorship resistance even in unknown future environments Ideally, we do the hard work over the next few years, to get to a point where in the future almost all future innovation can happen through client optimization, and get reflected in the protocol through parameter changes. Every year, we should tick off at least one of these boxes, and ideally multiple. Do the right thing once, based on knowledge of what is truly the right thing (and not compromise halfway fixes), and maximize Ethereum's technological and social robustness for the long term. Ethereum goes hard. This is the gwei.
 
-1d ago
+2d ago
 
 ---
 
@@ -195,7 +195,7 @@ Seeking Alpha • 14h ago
 
 More crypto regulation could be coming soon.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -237,7 +237,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 150 • 💬 37 • ⏱️ 11:22 • 4h ago
+👁️ 2K • 👍 150 • 💬 37 • ⏱️ 11:22 • 5h ago
 
 ---
 
@@ -247,7 +247,7 @@ In this episode of The Milk Road Show, we sit down with Christopher Keshian, fou
 
 📺 Milk Road
 
-👁️ 1K • 👍 57 • 💬 26 • ⏱️ 36:50 • 9h ago
+👁️ 1K • 👍 57 • 💬 26 • ⏱️ 36:50 • 10h ago
 
 ---
 
@@ -267,7 +267,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 502 • 👍 75 • 💬 4 • ⏱️ 4:34 • 2h ago
+👁️ 502 • 👍 75 • 💬 4 • ⏱️ 4:34 • 3h ago
 
 ---
 
@@ -287,7 +287,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 9 • ⏱️ 3:42 • 14h ago
+👁️ 3K • 👍 182 • 💬 9 • ⏱️ 3:42 • 15h ago
 
 ---
 
@@ -297,7 +297,7 @@ Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break d
 
 📺 Koenz Trading
 
-👁️ 1K • 👍 96 • 💬 14 • ⏱️ 6:04 • 15h ago
+👁️ 1K • 👍 96 • 💬 14 • ⏱️ 6:04 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 281 • 👍 18 • 💬 1 • ⏱️ 4:52 • 19h ago
+👁️ 281 • 👍 18 • 💬 1 • ⏱️ 4:52 • 20h ago
 
 ---
 

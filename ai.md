@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T05:27:52.183691+00:00'
+updated: '2026-01-15T05:50:09.660685+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 05:27 UTC  
+**Last Updated:** January 15, 2026 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 4h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Could Siri be the last piece of the puzzle?
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-25m ago
+47m ago
 
 ---
 
@@ -103,7 +103,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-4h ago
+5h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Verge • 11h ago
 
 Google will pay for access, but not for training – and it remains unwilling to define AI Overviews as a compensable use of journalism.
 
-Digiday • 25m ago
+Digiday • 47m ago
 
 ---
 
@@ -161,7 +161,7 @@ Digiday • 25m ago
 
 Bengio spent years warning of advanced AI's risks. Now he sees a path to safer AI. His nonprofit LawZero has a new board to help him build it.
 
-Fortune • 26m ago
+Fortune • 49m ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 26m ago
 
 IBM is introducing Sovereign Core to tackle control of AI workloadsThe software is built on Red Hat tech and works across on-prem and cloud environments that | Sovereignty is no longer just about where data is stored and accessed but also where it is created.
 
-Fierce Network • 26m ago
+Fierce Network • 48m ago
 
 ---
 
@@ -177,7 +177,7 @@ Fierce Network • 26m ago
 
 In comments during a two-hour CNBC special on his life and legacy, Warren Buffett compared the potential of AI technology to the threat of nuclear weapons.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -283,7 +283,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 70K • 👍 5K • 💬 305 • ⏱️ 10:04 • 8h ago
+👁️ 70K • 👍 5K • 💬 305 • ⏱️ 10:04 • 9h ago
 
 ---
 
@@ -293,7 +293,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 89K • 👍 6K • 💬 418 • ⏱️ 26:29 • 11h ago
+👁️ 89K • 👍 6K • 💬 418 • ⏱️ 26:29 • 12h ago
 
 ---
 
@@ -642,7 +642,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 46m ago
+⭐ 8.5k • 🔱 1.1k • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T05:27:52.192295+00:00'
+updated: '2026-01-15T05:50:09.669185+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 05:27 UTC  
+**Last Updated:** January 15, 2026 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 my hands are made of diamonds and there is goop inside of my skull
 
-8h ago
+9h ago
 
 ---
 
@@ -101,7 +101,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAD10P9jc5b-KIePCNTvdiaWNopyUupAoZl0CqcI9D7DAALxt6Yz8-RLiJjSawQt3309srMf\_QErLGKDtHL0DUNeE2gFP820HbctDVCt6XaTYX2SCO\_i7g64hRcxylWsbq-r1d2RaCSdmaE8z7URPia1pZd0bAqiUEjQv-nvJ47ba
 
-7h ago
+8h ago
 
 ---
 
@@ -149,7 +149,7 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 13h ago
 
 **[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcOqCfvkifjmPAZpvkKHE9oidzMi4vgY0XcVDddoeFNptwq3oLlGy88&gaa_ts=69687e45&gaa_sig=KYoUJVZCELLd8msTpGX3QUs4oqGGZXvjqSNLldV96qP3rmJKGFLX2kSX3p67bOl5SU9Ra5xwGAU665ejNL89Xw%3D%3D)**
 
-Barron's • 7h ago
+Barron's • 8h ago
 
 ---
 
@@ -203,7 +203,7 @@ Binance • 1d ago
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -211,7 +211,7 @@ Bloomberg.com • 8h ago
 
 Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin just ripped from $92K to $97K, but is this a massive breakout or the ult
 
 📺 Kyle Chasse crypto
 
-👁️ 5K • 👍 355 • 💬 67 • ⏱️ 11:32 • 7h ago
+👁️ 5K • 👍 355 • 💬 67 • ⏱️ 11:32 • 8h ago
 
 ---
 
@@ -345,7 +345,7 @@ MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S 
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 627 • 💬 16 • ⏱️ 6:09 • 13h ago
+👁️ 10K • 👍 627 • 💬 16 • ⏱️ 6:09 • 14h ago
 
 ---
 
@@ -375,7 +375,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 146 • ⏱️ 46:37 • 13h ago
+👁️ 27K • 👍 1K • 💬 146 • ⏱️ 46:37 • 14h ago
 
 ---
 
@@ -395,7 +395,7 @@ BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: https://partner.bybi
 
 📺 Team Underground
 
-👁️ 2K • 👍 93 • 💬 9 • ⏱️ 13:24 • 12h ago
+👁️ 2K • 👍 93 • 💬 9 • ⏱️ 13:24 • 13h ago
 
 ---
 

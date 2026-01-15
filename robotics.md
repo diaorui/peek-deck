@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T05:27:52.201740+00:00'
+updated: '2026-01-15T05:50:09.678432+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 05:27 UTC  
+**Last Updated:** January 15, 2026 at 05:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-18h ago
+19h ago
 
 ---
 
@@ -52,7 +52,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-8h ago
+9h ago
 
 ---
 
@@ -154,7 +154,7 @@ Reuters • 2d ago
 
 **[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqenP5bNUAPCggRnwrRNwbgiMvdGdOAwsKPTYpOd1u1e9cdYX9gEoTcK&gaa_ts=69687e48&gaa_sig=3PfLvDLhttPc9P-_a_6z0Tn_0g6lxzuKmGwGCkFjT8Jw8MwuaEw_PBlvCWR4DwPSOAA-IGg1aAptt5k8HmrQvw%3D%3D)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ Home robots need common sense behavior and a deep understanding of the physical 
 
 Is it worth buying SERV at 45x forward sales as losses widen, dilution risks grow and shares sink despite rapid fleet expansion?
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
