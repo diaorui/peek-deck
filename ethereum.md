@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T15:56:12.112124+00:00'
+updated: '2026-01-15T16:39:41.579410+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 15:56 UTC  
+**Last Updated:** January 15, 2026 at 16:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,354.34
+### $3,299.57
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +8.0%  
-**30d:** +17.7%  
-**90d:** -14.3%  
-**1y:** +0.7%  
+**24h:** -0.8%  
+**7d:** +7.9%  
+**30d:** +17.5%  
+**90d:** -14.4%  
+**1y:** +0.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $406.99B
+**Market Cap:** $400.37B
 Rank #2
 
 **Circulating Supply:** 120,694,650 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--31.9%
+-32.9%
 
 **All-Time Low:** $0.43
-+777843.0%
++765849.4%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
 **[Ethereum takes an ecosystem. From the Cypherpunks who wrote the code to the Anons shipping today.](https://www.reddit.com/r/ethereum/comments/1qde0l8/ethereum_takes_an_ecosystem_from_the_cypherpunks/)**
 
-🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 7h ago
+🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 8h ago
 
 ---
 
@@ -110,7 +110,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 16h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 17h ago
 
 ---
 
@@ -159,19 +159,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum to $40,000? Why one analyst expects the second-biggest crypto to outperform Bitcoin](https://www.dlnews.com/articles/markets/why-ethereum-will-outperform-bitcoin-by-2030-according-to-standard-chartered/)**
+**[ChatGPT Says Ethereum Will Make You Rich in 2026](https://247wallst.com/investing/2026/01/15/chatgpt-says-ethereum-will-make-you-rich-in-2026/)**
 
-Ethereum will hit $40,000 by 2030, Standard Chartered predicts. The second-biggest crypto should also outperform Bitcoin. Increased adoption of onchain finance is seen to fuel the rally.
+This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
-dlnews.com • 2d ago
-
----
-
-**[Ethereum Could Surge To $7,500 And Leave Bitcoin Behind, Banking Giant Says](https://www.tradingview.com/news/newsbtc:f38700ca3094b:0-ethereum-could-surge-to-7-500-and-leave-bitcoin-behind-banking-giant-says/)**
-
-Standard Chartered has pushed its base-case price target for Ethereum to $7,500 by the end of the year, a big jump from an earlier $4,000 projection.According to the bank’s digital assets team, growing demand from corporate treasury buyers and spot ETH products has driven the change in outlook.Bank…
-
-TradingView — Track All Markets • 9h ago
+24/7 Wall St. • 2h ago
 
 ---
 
@@ -179,21 +171,7 @@ TradingView — Track All Markets • 9h ago
 
 Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
-dlnews.com • 5h ago
-
----
-
-**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
-
-The Block • 1d ago
-
----
-
-**[Ethereum faces a dangerous 40-day deadlock after BitMine’s aggressive staking forces a historic liquidity squeeze](https://cryptoslate.com/ethereum-faces-a-dangerous-40-day-deadlock-after-bitmines-aggressive-staking-forced-a-historic-liquidity-squeeze/)**
-
-Behind BitMine's $5 billion stake in Ethereum lies a complex interplay of liquidity, yield, and governance risks.
-
-CryptoSlate • 17h ago
+dlnews.com • 6h ago
 
 ---
 
@@ -205,19 +183,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[BitMine’s Shareholder Vote Could Decide the Future of Ethereum Treasuries | US Crypto News](https://finance.yahoo.com/news/bitmine-shareholder-vote-could-decide-154944510.html)**
+**[Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://finance.yahoo.com/news/tom-lee-ethereum-supercycle-call-152502988.html)**
 
-What is the biggest crypto news today? BitMine vote and Senate crypto bill set stage for Ethereum surge amid tight supply.
+Ethereum (CRYPTO: ETH) enters 2026 under intense institutional spotlight, and Tom Lee believes a supercycle is unfolding. The Fundstrat co-founder and Bitmine chairman has made increasingly aggressive Ethereum price predictions, ranging from $7,000-$9,000 near-term to as high as $60,000 over the long haul. Lee’s firm recently added $88 million in ETH at roughly $3,200 per ... Tom Lee’s Ethereum “Supercycle” Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns
 
 Yahoo Finance • 2d ago
-
----
-
-**[Bitmine stakes $4bn Ethereum. Why Tom Lee forecasts price jump in 2026](https://www.dlnews.com/articles/markets/bitmine-stakes-usd-4bn-ethereum-tom-lee-forecasts-price-jump/)**
-
-Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
-
-dlnews.com • 2d ago
 
 ---
 
@@ -226,6 +196,34 @@ dlnews.com • 2d ago
 The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
 
 CoinDesk • 2d ago
+
+---
+
+**[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
+
+The Block • 1d ago
+
+---
+
+**[This New ETF Could Be the Way to Play Ethereum in 2026](https://www.etftrends.com/monthly-income-content-hub/etf-way-play-ethereum-2026/)**
+
+ETF Trends • 2d ago
+
+---
+
+**[Ethereum Trades 36% Off Highs but the Ascending Triangle Still Defines the Trend](https://www.investing.com/analysis/ethereum-trades-36-off-highs-but-the-ascending-triangle-still-defines-the-trend-200673178)**
+
+Market Analysis by  covering: Ethereum US Dollar. Read 's Market Analysis on Investing.com
+
+Investing.com • 1d ago
+
+---
+
+**[Ethereum price prediction: top reasons ETH is about to rocket higher](https://www.tradingview.com/news/invezz:80cafb9e3094b:0-ethereum-price-prediction-top-reasons-eth-is-about-to-rocket-higher/)**
+
+Ethereum price held steady on Wednesday, continuing a trend that has been going on in the past few weeks. ETH token rose to $3,340, and this trend may accelerate in the coming months as it has formed the highly bullish inverse head-and-shoulders pattern, and the spot ETH ETF inflows have continued…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -239,7 +237,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 397 • 👍 29 • 💬 73 • ⏱️ 6:39 • 5h ago
+👁️ 655 • 👍 35 • 💬 91 • ⏱️ 6:39 • 6h ago
 
 ---
 
@@ -249,7 +247,7 @@ BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 3K • 👍 220 • 💬 136 • ⏱️ 25:02 • 4h ago
+👁️ 5K • 👍 281 • 💬 157 • ⏱️ 25:02 • 5h ago
 
 ---
 
@@ -259,27 +257,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 232 • 💬 62 • ⏱️ 11:22 • 15h ago
-
----
-
-**[WHY ETH CAN PUMP HIGHER NOW🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Pqr6u1dWbPo)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 139 • 👍 16 • 💬 1 • ⏱️ 5:18 • 5h ago
-
----
-
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 17K • 👍 605 • 💬 27 • ⏱️ 17:37 • 2d ago
+👁️ 5K • 👍 242 • 💬 61 • ⏱️ 11:22 • 16h ago
 
 ---
 
@@ -289,17 +267,37 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 5K • 👍 172 • 💬 10 • ⏱️ 20:12 • 22h ago
+👁️ 5K • 👍 177 • 💬 23 • ⏱️ 20:12 • 23h ago
 
 ---
 
-**[THE NEXT CRYPTO RALLY HAS STARTED! BITCOIN, XRP, ETHEREUM, SOLANA &amp; MONERO ANALYSIS!](https://www.youtube.com/watch?v=WANh4RrMttM)**
+**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=ClTFHktbMlY)**
 
-Brian from Santiment joined me to review the crypto metrics for Bitcoin, Ethereum, XRP, Solana, and Monero. 🖥️ Sign up with ...
+OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Learn how to claim your $Eth from the official ...
 
-📺 Thinking Crypto
+📺 World Liberty Financial
 
-👁️ 745 • 👍 118 • 💬 31 • ⏱️ 33:50 • 3h ago
+👁️ 4K • 👍 19 • 💬 4 • ⏱️ 2:13 • 2h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 17K • 👍 610 • 💬 28 • ⏱️ 17:37 • 2d ago
+
+---
+
+**[WHY ETH CAN PUMP HIGHER NOW🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Pqr6u1dWbPo)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 192 • 👍 19 • 💬 1 • ⏱️ 5:18 • 6h ago
 
 ---
 
@@ -309,27 +307,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 162 • 💬 7 • ⏱️ 4:34 • 13h ago
+👁️ 2K • 👍 167 • 💬 7 • ⏱️ 4:34 • 13h ago
 
 ---
 
-**[Ethereum Can Dominate Crypto and Still Be a Bad Investment w/ Christopher Keshian](https://www.youtube.com/watch?v=YVJvZsVs-y0)**
+**[THE NEXT CRYPTO RALLY HAS STARTED! BITCOIN, XRP, ETHEREUM, SOLANA &amp; MONERO ANALYSIS!](https://www.youtube.com/watch?v=WANh4RrMttM)**
 
-In this episode of The Milk Road Show, we sit down with Christopher Keshian, founder of Triton Liquid Fund, to unpack a ...
+Brian from Santiment joined me to review the crypto metrics for Bitcoin, Ethereum, XRP, Solana, and Monero. 🖥️ Sign up with ...
 
-📺 Milk Road
+📺 Thinking Crypto
 
-👁️ 1K • 👍 71 • 💬 30 • ⏱️ 36:50 • 20h ago
+👁️ 2K • 👍 214 • 💬 42 • ⏱️ 33:50 • 3h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=zl1Xo0nOKkA)**
+**[CRYPTO Impossible To Ignore: Ethereum, Chainlink, Cardano Tell Same Story!p](https://www.youtube.com/watch?v=le-YcIqDThM)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Altcoins are starting to tell the same ...
 
-📺 More Crypto Online
+📺 Dan Gambardello
 
-👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 1d ago
+👁️ 18K • 👍 1K • 💬 225 • ⏱️ 13:02 • 1d ago
 
 ---
 

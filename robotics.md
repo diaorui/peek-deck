@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T15:56:12.115330+00:00'
+updated: '2026-01-15T16:39:41.582631+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 15:56 UTC  
+**Last Updated:** January 15, 2026 at 16:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,15 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 1h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 2h ago
+
+---
+
+**[Any good suggestions for learning STM32 programming](https://www.reddit.com/r/robotics/comments/1qdmcxw/any_good_suggestions_for_learning_stm32/)**
+
+Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
+
+1h ago
 
 ---
 
@@ -70,19 +78,11 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 ---
 
-**[Any good suggestions for learning STM32 programming](https://www.reddit.com/r/robotics/comments/1qdmcxw/any_good_suggestions_for_learning_stm32/)**
-
-Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
-
-34m ago
-
----
-
 **[Looking for help with robot](https://www.reddit.com/r/robotics/comments/1qdm428/looking_for_help_with_robot/)**
 
 Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be set up. We built the robot with no issues. I’m trying to set up the raspberry pi and can’t seem to figure it out. I’ve never done this before and was wondering if someone can guide me through the process. I can post or dm pictures of my computer screens and hardware etc as we go.
 
-43m ago
+1h ago
 
 ---
 
@@ -90,13 +90,13 @@ Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be 
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-15h ago
+16h ago
 
 ---
 
 **[Interesting blog on a arduino based car](https://www.reddit.com/r/robotics/comments/1qdbuvk/interesting_blog_on_a_arduino_based_car/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -112,29 +112,23 @@ I have been searching for controllers where i can connect anything anywhere and 
 
 ## Google News: "robotics"
 
-**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+**[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
 
-Bloomberg.com • 1d ago
+Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
 
----
-
-**[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
-
-Business Wire • 1d ago
-
----
-
-**[Robotic software startup Skild AI secures $1.4B in latest funding round: report (SFTBY:OTCMKTS)](https://seekingalpha.com/news/4539129-robotic-software-startup-skild-ai-secures-1_4b-in-latest-funding-round-report)**
-
-Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
-
-Seeking Alpha • 1d ago
+TechCrunch • 1d ago
 
 ---
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 23h ago
+GeekWire • 1d ago
+
+---
+
+**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
+
+Bloomberg.com • 39m ago
 
 ---
 
@@ -146,23 +140,39 @@ The Robot Report • 1d ago
 
 ---
 
+**[AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/)**
+
+Startup works with leading cell therapy companies to bring robotics manufacturing into the clean room, reducing costs by more than 70% while accelerating output compared with legacy systems.
+
+NVIDIA Blog • 3d ago
+
+---
+
 **[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
 
 Reuters • 2d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdgOZ8grBTv87OMB6hl4l6m_TDUIeRNbxGnWeEHQp_oh32G73GFinPN&gaa_ts=69690ae2&gaa_sig=Aaa7WL8TrdR39n9r0ctxnJFpwPy2kZ0Y3VW17O160kQSRxfVha2U0rzV1O1f3Pi2aZOaXXhwC5StTHtFFjWWjA%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqfsTuuZ3XLO5ELJgCGUJCFIJkT8XXSvxjty1qOvXcpBNdi8HZDum_D8&gaa_ts=69691bb0&gaa_sig=RRQaC9h5J03YBUna4TwIRTkZY9kT839OqEx1WXc7A0oG2vamBezoqmZE0xJujnW3qxjTBaGXSMOE7A0lqWtycA%3D%3D)**
 
 MarketWatch • 19h ago
 
 ---
 
-**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+**[Hyundai Revealed Boston Dynamics' Next-Gen Humanoid Robots](https://www.bgr.com/2071680/hyundai-reveal-next-gen-robot-boston-dynamics-robot-atlas/)**
 
-Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+At the 2026 CES show, Hyundai and Boston Dynamics took the wraps off its next-gen humanoid robot, Atlas, that is nearly ready for commercial use.
 
-Fortune • 3h ago
+bgr.com • 22h ago
+
+---
+
+**[Video: First-ever live unscripted conversation between humanoid robots](https://interestingengineering.com/ai-robotics/humanoid-to-humanoid-ai-conversation)**
+
+Two humanoid robots held a fully unscripted, on-device AI conversation for two hours without human intervention, scripting, or teleoperation.
+
+Interesting Engineering • 4h ago
 
 ---
 
@@ -171,14 +181,6 @@ Fortune • 3h ago
 The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
 
 The Free Press • 1d ago
-
----
-
-**[Serve Robotics at a Premium Valuation: Should Investors Stay Away?](https://finance.yahoo.com/news/serve-robotics-premium-valuation-investors-134300163.html)**
-
-Is it worth buying SERV at 45x forward sales as losses widen, dilution risks grow and shares sink despite rapid fleet expansion?
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -192,7 +194,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 423K • 👍 13K • 💬 748 • ⏱️ 17:09 • 3d ago
+👁️ 427K • 👍 13K • 💬 755 • ⏱️ 17:09 • 3d ago
 
 ---
 
@@ -202,17 +204,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 152K • 👍 2K • 💬 385 • ⏱️ 11:46 • 3d ago
-
----
-
-**[Robots will change EVERYTHING! (maybe lol) #CES2026](https://www.youtube.com/watch?v=ReE9mB_3mv4)**
-
-Thanks to Narwal for sponsoring today's video! Check the link below to learn more: https://bit.ly/4swKtcC ROBOTS ARE ...
-
-📺 Trisha Hershberger
-
-👁️ 11K • 👍 601 • 💬 37 • ⏱️ 9:28 • 4d ago
+👁️ 153K • 👍 2K • 💬 385 • ⏱️ 11:46 • 4d ago
 
 ---
 
@@ -236,33 +228,23 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 ---
 
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
-
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
-
-📺 The Verge
-
-👁️ 95K • 👍 1K • 💬 171 • ⏱️ 10:48 • 5d ago
-
----
-
 **[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
 Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
 📺 joeybtoonz
 
-👁️ 208K • 👍 13K • 💬 2K • ⏱️ 5:12 • 1d ago
+👁️ 218K • 👍 13K • 💬 2K • ⏱️ 5:12 • 1d ago
 
 ---
 
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
 
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
 
-📺 Gohar Khan
+📺 The Verge
 
-👁️ 101K • 👍 5K • 💬 139 • ⏱️ 0:49 • 18h ago
+👁️ 96K • 👍 1K • 💬 171 • ⏱️ 10:48 • 5d ago
 
 ---
 
@@ -276,11 +258,33 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 ---
 
-**[Could AI robots soon be in our homes? #AI #Robots #BBCNews](https://www.youtube.com/watch?v=4KvzNECXgNc)**
+**[CES 2026 | NEURA Robotics: 4NE1 Humanoids, NEURA Quadruped &amp; More](https://www.youtube.com/watch?v=Iyyum_70X6k)**
 
-📺 BBC News
+On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, where the company showcased its latest ...
 
-👁️ 31K • 👍 444 • 💬 53 • ⏱️ 1:17 • 2d ago
+📺 RobotShopTV
+
+👁️ 592 • 👍 9 • 💬 2 • ⏱️ 2:41 • 2d ago
+
+---
+
+**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+
+Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+
+📺 The Laughing Lion
+
+👁️ 14K • 👍 105 • 💬 10 • ⏱️ 0:12 • 3d ago
+
+---
+
+**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+
+ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+
+📺 Gohar Khan
+
+👁️ 111K • 👍 6K • 💬 144 • ⏱️ 0:49 • 19h ago
 
 ---
 
