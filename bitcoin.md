@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T20:50:40.656347+00:00'
+updated: '2026-01-15T21:23:01.304551+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 20:50 UTC  
+**Last Updated:** January 15, 2026 at 21:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-4h ago
+5h ago
 
 ---
 
@@ -171,7 +171,7 @@ grist.org • 1d ago
 
 **[Bitcoin, Ethereum, and Solana Confirm the Crypto Reversal. Where They’re Headed.](https://www.barrons.com/articles/bitcoin-ethereum-solana-crypto-price-etf-4a8faf45?gaa_at=eafs&gaa_n=AWEtsqcetZul-9XApwtIsCaXcIHQV30P72sEaQfG0Oh_hF-SB1WGvGAfCEpK&gaa_ts=69695688&gaa_sig=BiHJC1-V4aiinfZqOW6nFyq_LCTvzPMFCGBLvxUhgAjIOHMgtKCFvDVD14fQs-uIMuhgvc0nQJEoky5csfuimQ%3D%3D)**
 
-Barron's • 56m ago
+Barron's • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 Two solo Bitcoin miners struck rare wins this week, each earning nearly $300,000 as U.S. mining dominance continues to slip.
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -305,7 +305,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 15K • 👍 839 • 💬 74 • ⏱️ 18:21 • 9h ago
+👁️ 15K • 👍 839 • 💬 74 • ⏱️ 18:21 • 10h ago
 
 ---
 
@@ -315,7 +315,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 548 • 💬 47 • ⏱️ 8:38 • 3h ago
+👁️ 4K • 👍 548 • 💬 47 • ⏱️ 8:38 • 4h ago
 
 ---
 
@@ -335,7 +335,7 @@ Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 16,
 
 📺 Bravos Research Crypto
 
-👁️ 4K • 👍 368 • 💬 25 • ⏱️ 6:40 • 3h ago
+👁️ 4K • 👍 368 • 💬 25 • ⏱️ 6:40 • 4h ago
 
 ---
 
@@ -375,7 +375,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 144 • ⏱️ 24:06 • 21h ago
+👁️ 33K • 👍 3K • 💬 144 • ⏱️ 24:06 • 22h ago
 
 ---
 
@@ -385,7 +385,7 @@ Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryp
 
 📺 Crypto Crew University
 
-👁️ 16K • 👍 2K • 💬 101 • ⏱️ 9:20 • 6h ago
+👁️ 16K • 👍 2K • 💬 101 • ⏱️ 9:20 • 7h ago
 
 ---
 
@@ -395,7 +395,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 22K • 👍 2K • 💬 509 • ⏱️ 19:42 • 7h ago
+👁️ 22K • 👍 2K • 💬 509 • ⏱️ 19:42 • 8h ago
 
 ---
 

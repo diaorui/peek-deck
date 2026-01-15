@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T20:50:40.648722+00:00'
+updated: '2026-01-15T21:23:01.296076+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - social
 - videos
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 20:50 UTC  
+**Last Updated:** January 15, 2026 at 21:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 22h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 23h ago
 
 ---
 
@@ -65,7 +65,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Most people probably use coding agents wrong. There I said it again. They treat agents like smart, autonomous teammates/junior dev with their own volition and intuition and then wonder why the output is chaotic, inconsistent, or subtly/less subtly broken. An agent is not a “better ChatGPT.” The correct mental model when using agent to write your code is to be an orchestrator of its execution, not let it be independent thinker and expecting "here is a task based on custom domain and my own codebase, make it work". You have to define the structure, constraints, rules, and expectations. The agent just runs inside that box. ChatGPT, Gemini, etc. work alone because they come with heavy built-in guardrails and guidelines and are tuned for conversation and problem solving. Agents, on the other hand, touch all content they have zero idea about: your code, files, tools, side effects. They don’t magically inherit discipline or domain knowledge. They have to get that knowledge. If you don’t supply your own guardrails, standards, and explicit instructions, the agent will happily optimize for speed and hallucinate its way through your repo. Agents amplify intent. If your intent isn’t well-defined, they amplify chaos. What really worked best for me is this structure, for example: You have this task to extend customer login logic: [long wall of text that is probably JIRA task written by PM before having morning coffee] this is the point where most people hit enter and just wait for agent to do "magic", but there is more To complete this task, you have to do X and Y, in those location A and B etc. Before you start on this task use the file in root directory named guidelines.txt to figure how to write the code. And this is where the magic happens, in guidelines.txt you want: all your ins and outs of your domain, your workflow (simplified) where the meat of the app is located (models, views, infrastructure) the less obvious "gotchas" what the agent can touch what the agent must NEVER touch or only after manual approval This approach yielded best results for me and least "man, that is just wrong, what the hell"
 
-41m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Most people probably use coding agents wrong. There I said it again. They treat 
 
 We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to "Energy-to-Solution" metrics. I’ve spent some time researching how the industry is pivoting towards Green AI. There are some fascinating breakthroughs happening right now: Knowledge Distillation: Shrinking massive models to 1/10th their size without losing capability. Liquid Cooling: Data centers that recycle heat to warm nearby cities. Neuromorphic Chips: A massive jump in "Performance per Watt." I put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots) rather than just draining its resources. Would love to hear your thoughts. Are we doing enough to make AI sustainable, or is the energy demand growing too fast for us to keep up? "I wrote a detailed analysis on this, let me know if anyone wants the link to read more."
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ We all know that training massive LLMs consumes an incredible amount of power. B
 
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves scientists from repeating the same process over and over while testing new chemicals and making new materials in the lab,” said Persson, the Materials Project Director and Co-Founder. “To be successful, machine learning programs need access to large amounts of high-quality, well-curated data. With its massive repository of curated data, the Materials Project is AI ready.” [...] Researchers are currently looking for new battery materials to more effectively store energy for the grid or for transportation, or new catalysts to help improve efficiencies in the chemical industry. But experimental data are available for fewer than one percent of compounds in open scientific literature, limiting our understanding of new materials and their properties. This is where data-driven materials science can help. “Accelerating materials discoveries is the key to unlocking new energy technologies,” Jain said. “What the Materials Project has enabled over the last decade is for researchers to get a sense of the properties of hundreds of thousands of materials by using high-fidelity computational simulations. That in turn has allowed them to design materials much more quickly as well as to develop machine-learning models that predict materials behavior for whatever application they’re interested in.” [...] The Microsoft Corp. has also used the Materials Project to train models for materials science, most recently to develop a tool called MatterGen, a generative model for inorganic materials design. Microsoft Azure Quantum developed a new battery electrolyte using data from the Materials Project. Other notable studies used the Materials Project to successfully design functional materials for promising new applications. In 2020, researchers from UC Santa Barbara, Argonne National Laboratory, and Berkeley Lab synthesized Mn1+xSb, a magnetic compound with promise for thermal cooling in electronics, automotive, aerospace, and energy applications. The researchers found the magnetocaloric material through a Materials Project screening of over 5,000 candidate compounds. In addition to accessing the vast database, the materials community can also contribute new data to the Materials Project through a platform called MPContribs. This allows national lab facilities, academic institutions, companies, and others who have generated large data sets on materials to share that data with the broader research community. Other community contributions have expanded coverage into previously unexplored areas through new material predictions and experimental validations. For example, Google Deepmind — Google’s artificial intelligence lab — used the Materials Project to train initial GNoME (graph networks for materials exploration) models to predict the total energy of a crystal, a key metric of a material’s stability. Through that work, which was published in the journal Nature in 2023, Google DeepMind contributed nearly 400,000 new compounds to the Materials Project, broadening the platform’s vast toolkit of material properties and simulations."
 
-🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 2h ago
+🔗 [Berkeley Lab News Center](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 14h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 15h ago
 
 ---
 
@@ -123,7 +123,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 10h ago
 
 Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -139,7 +139,7 @@ Financial Times • 15h ago
 
 Paging smarter Siri.
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -147,13 +147,13 @@ The Verge • 1h ago
 
 More than 180,000 people follow the Bush Legend’s accounts across Meta platforms, but its Aboriginal host is a work of digital fiction
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
 **[TSMC’s Blockbuster Spending Plans, Results Herald Continued AI Boom](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqfiTf_wv-keEj-jgRE8lTK-UFmccQk4_pUXquvsKAP311CPCzCSGylA&gaa_ts=69695686&gaa_sig=xWhdzNQFVqo4UCHi3jdqQq4BeOuVCesKBaWcjDI5HBjEyL4DmrrKcxm-GLRwxR_bUva_gwjV7h6uRtUs9cPeUA%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 1h ago
 
 It’s becoming more common for people to use AI chatbots for personal guidance – but this doesn’t come without risks
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 3h ago
 
 Congress hears alarming testimony about AI chatbots harming children's mental health, with experts warning of serious emotional risks and dangers.
 
-Fox News • 48m ago
+Fox News • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Fox News • 48m ago
 
 McKinsey has introduced an AI chatbot into early stages of graduate recruitment to help manage application volume.
 
-AI News • 10h ago
+AI News • 11h ago
 
 ---
 
@@ -227,7 +227,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 304 • 💬 217 • 12h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 304 • 💬 217 • 13h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -235,7 +235,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 243 • 💬 167 • 23h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 243 • 💬 167 • 1d ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -394,7 +394,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 672 • 10h ago
+⬇️ 2,442 • ❤️ 672 • 11h ago
 
 ---
 
@@ -502,7 +502,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 4,422 • ❤️ 198 • 22h ago
+⬇️ 4,422 • ❤️ 198 • 23h ago
 
 ---
 
@@ -667,7 +667,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 554 • 7d ago
+⭐ 4.1k • 🔱 554 • 8d ago
 
 ---
 
@@ -677,7 +677,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 120 • 16h ago
+⭐ 3.0k • 🔱 120 • 17h ago
 
 ---
 
@@ -687,7 +687,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.5k • 🔱 150 • 5h ago
+⭐ 2.5k • 🔱 150 • 6h ago
 
 ---
 
@@ -717,7 +717,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 133 • 8h ago
+⭐ 1.6k • 🔱 133 • 9h ago
 
 ---
 
@@ -727,7 +727,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 118 • 2d ago
+⭐ 1.4k • 🔱 118 • 3d ago
 
 ---
 
