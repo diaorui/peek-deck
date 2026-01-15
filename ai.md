@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T05:50:09.660685+00:00'
+updated: '2026-01-15T06:36:52.971725+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 05:50 UTC  
+**Last Updated:** January 15, 2026 at 06:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 14h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 8h ago
 
 ---
 
@@ -57,13 +57,15 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 5h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 6h ago
 
 ---
 
-**[Jensen Huang says relentless negativity around AI is hurting society and has "done a lot of damage"](https://www.reddit.com/r/artificial/comments/1qd9rk9/jensen_huang_says_relentless_negativity_around_ai/)**
+**[Zhipu AI breaks US chip reliance with first major model trained on Huawei stack (GLM-Image)](https://www.reddit.com/r/artificial/comments/1qdbld2/zhipu_ai_breaks_us_chip_reliance_with_first_major/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/110879-jensen-huang-relentless-ai-negativity-hurting-society-has.html) • 1h ago
+Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
+
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 38m ago
 
 ---
 
@@ -71,7 +73,7 @@ Could Siri be the last piece of the puzzle?
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-47m ago
+1h ago
 
 ---
 
@@ -79,7 +81,7 @@ OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI t
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 23h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 1d ago
 
 ---
 
@@ -87,7 +89,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +97,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 10h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 11h ago
 
 ---
 
@@ -103,7 +105,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-5h ago
+6h ago
 
 ---
 
@@ -119,79 +121,73 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ## Google News: "ai"
 
-**[The risks of AI in schools outweigh the benefits, report says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)**
+**[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
 
-A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
+Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
 
-NPR • 17h ago
+BBC • 5h ago
+
+---
+
+**[Musk’s X to block Grok AI tool from creating sexualized images of real people](https://www.theguardian.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images)**
+
+Amid global backlash, billionaire had only hours earlier said he was not aware of any ‘naked underage images’
+
+The Guardian • 13h ago
+
+---
+
+**[X Says Grok, Musk's AI Chatbot, Is Blocked From Undressing Images in Places Where It's Illegal](https://www.usnews.com/news/business/articles/2026-01-15/x-says-grok-musks-ai-chatbot-is-blocked-from-undressing-images-in-places-where-its-illegal)**
+
+U.S. News & World Report • 53m ago
 
 ---
 
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
-**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
+**[TSMC fourth-quarter profit beats estimates, soaring 35%, as AI chip demand stays strong](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
 
-Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
+TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
 
-blog.google • 6d ago
-
----
-
-**[Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner)**
-
-Could Siri be the last piece of the puzzle?
-
-The Verge • 11h ago
+CNBC • 53m ago
 
 ---
 
-**[The Rundown: Google has drawn its AI payment lines — and publishers’ leverage is narrow](https://digiday.com/media/the-rundown-google-has-drawn-its-ai-payment-lines-and-publishers-leverage-is-narrow/)**
+**[TSMC Profit Beats Estimates in Fresh Sign of AI Demand Strength](https://www.bloomberg.com/news/articles/2026-01-15/tsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength)**
 
-Google will pay for access, but not for training – and it remains unwilling to define AI Overviews as a compensable use of journalism.
-
-Digiday • 47m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[AI ‘godfather’ Yoshua Bengio believes he’s found a technical fix for AI’s biggest risks](https://fortune.com/2026/01/15/ai-godfather-yoshua-bengio-changes-view-on-ai-risks-sees-fix-becomes-optimistic-lawzero-board-of-advisors/)**
+**[TSMC Can’t Make AI Chips Fast Enough](https://www.theinformation.com/articles/tsmc-make-ai-chips-fast-enough)**
 
-Bengio spent years warning of advanced AI's risks. Now he sees a path to safer AI. His nonprofit LawZero has a new board to help him build it.
-
-Fortune • 49m ago
+The Information • 15h ago
 
 ---
 
-**[IBM drills down to the core of the sovereign AI problem](https://www.fiercewireless.com/cloud/ibm-drills-down-core-sovereign-ai-problem)**
+**[Government-backed Sentinel AI Defense Trial Could Be A Game Changer For GSI Technology (GSIT)](https://finance.yahoo.com/news/government-backed-sentinel-ai-defense-050948031.html)**
 
-IBM is introducing Sovereign Core to tackle control of AI workloadsThe software is built on Red Hat tech and works across on-prem and cloud environments that | Sovereignty is no longer just about where data is stored and accessed but also where it is created.
+In January 2026, GSI Technology announced a proof-of-concept engagement with two government agencies, partnering with Israel-based G2 Tech to integrate its Gemini-II compute-in-memory APU into Sentinel, an autonomous perimeter security system for real-time drone and camera monitoring, with total governmental backing in the millions of US dollars and about US$1,000,000 expected for GSI. The project highlights how GSI’s on-device AI inference can support mission-critical, high-load defense...
 
-Fierce Network • 48m ago
-
----
-
-**[Warren Buffett compares AI risks to those posed by nuclear weapons: 'The genie is out of the bottle'](https://finance.yahoo.com/news/warren-buffett-compares-ai-risks-to-those-posed-by-nuclear-weapons-the-genie-is-out-of-the-bottle-122210523.html)**
-
-In comments during a two-hour CNBC special on his life and legacy, Warren Buffett compared the potential of AI technology to the threat of nuclear weapons.
-
-Yahoo Finance • 7h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqeo_wvNTei1kKe7_uifWCwuvwSn-57vPWPP89gcMWP6vsP2UAJzQTrA&gaa_ts=69687e43&gaa_sig=ZMokvFAMnR9vasNdnOy1GefoOI18SHjqzQGIdFsxGqBdYFu9LTdJEIKvM1GWpatNPCCCMBKBEd4oh7pOA96v_w%3D%3D)**
+**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqeq_oFiUGm3urH36Se-JjvaOn9N-wE1JjpFcu3vp_hx6Clt673neCyt&gaa_ts=69688e55&gaa_sig=s6HDQtwnYWMuhBU3uxjnxADMaI4RvwdKPJz8e2UDhOJejsDV7VgWvOFrU6mN9_hkhiYE0jOzXG8WVQd1v6LMXQ%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 6h ago
 
 ---
 
-**[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
+**[The risks of AI in schools outweigh the benefits, report says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)**
 
-Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
+A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-BBC • 4h ago
+NPR • 18h ago
 
 ---
 
@@ -201,13 +197,13 @@ BBC • 4h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 921 • 💬 707 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 924 • 💬 709 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 454 • 💬 254 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 455 • 💬 254 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -215,7 +211,7 @@ BBC • 4h ago
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 339 • 💬 102 • 1d ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 340 • 💬 102 • 1d ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -245,7 +241,15 @@ AI Overviews provided false liver test information experts called alarming.
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 222 • 💬 310 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 223 • 💬 311 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+
+---
+
+**[The Influentists: AI hype without proof](https://news.ycombinator.com/item?id=46623195)**
+
+Why we are losing technical rigor to social hype
+
+⬆️ 202 • 💬 128 • 9h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -254,14 +258,6 @@ AI Overviews provided false liver test information experts called alarming.
 Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
 
 ⬆️ 201 • 💬 92 • 1d ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
-
----
-
-**[The Influentists: AI hype without proof](https://news.ycombinator.com/item?id=46623195)**
-
-Why we are losing technical rigor to social hype
-
-⬆️ 198 • 💬 127 • 8h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -283,7 +279,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 70K • 👍 5K • 💬 305 • ⏱️ 10:04 • 9h ago
+👁️ 70K • 👍 5K • 💬 305 • ⏱️ 10:04 • 10h ago
 
 ---
 
@@ -293,7 +289,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 89K • 👍 6K • 💬 418 • ⏱️ 26:29 • 12h ago
+👁️ 89K • 👍 6K • 💬 418 • ⏱️ 26:29 • 13h ago
 
 ---
 
@@ -313,7 +309,7 @@ http://www.fstoppers.com.
 
 📺 Fstoppers
 
-👁️ 10K • 👍 867 • 💬 273 • ⏱️ 7:32 • 8h ago
+👁️ 10K • 👍 867 • 💬 273 • ⏱️ 7:32 • 9h ago
 
 ---
 
@@ -323,7 +319,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 43K • 👍 2K • 💬 295 • ⏱️ 19:03 • 13h ago
+👁️ 43K • 👍 2K • 💬 295 • ⏱️ 19:03 • 14h ago
 
 ---
 
@@ -401,7 +397,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 1,003 • 11h ago
+⬇️ 1,064,063 • ❤️ 1,003 • 12h ago
 
 ---
 
@@ -413,7 +409,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 556 • 23h ago
+⬇️ 203 • ❤️ 556 • 1d ago
 
 ---
 
@@ -437,7 +433,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 268 • 20h ago
+⬇️ 77 • ❤️ 268 • 21h ago
 
 ---
 
@@ -449,7 +445,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 260 • 9h ago
+⬇️ 32,276 • ❤️ 260 • 10h ago
 
 ---
 
@@ -485,7 +481,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 `text-generation` `1.2B`
 
-⬇️ 22,649 • ❤️ 333 • 5d ago
+⬇️ 22,649 • ❤️ 333 • 6d ago
 
 ---
 
@@ -672,7 +668,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 146 • 14h ago
+⭐ 2.4k • 🔱 146 • 15h ago
 
 ---
 
@@ -692,7 +688,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 132 • 1h ago
+⭐ 1.6k • 🔱 132 • 2h ago
 
 ---
 
@@ -702,7 +698,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.5k • 🔱 1.2k • 15h ago
+⭐ 1.5k • 🔱 1.2k • 16h ago
 
 ---
 
@@ -732,7 +728,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 158 • 15h ago
+⭐ 1.0k • 🔱 158 • 16h ago
 
 ---
 

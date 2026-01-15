@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T05:50:09.669185+00:00'
+updated: '2026-01-15T06:36:52.980357+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 05:50 UTC  
+**Last Updated:** January 15, 2026 at 06:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $96,352.86
+### $96,459.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +6.6%  
-**30d:** +11.8%  
-**90d:** -9.8%  
-**1y:** -3.4%  
+**24h:** +1.3%  
+**7d:** +6.5%  
+**30d:** +11.6%  
+**90d:** -10.0%  
+**1y:** -3.6%  
 
 ---
 
@@ -81,19 +81,13 @@ Rank #1
 
 my hands are made of diamonds and there is goop inside of my skull
 
-9h ago
+10h ago
 
 ---
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-9h ago
-
----
-
-**[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
-
-11h ago
+10h ago
 
 ---
 
@@ -107,13 +101,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-15h ago
+16h ago
 
 ---
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +119,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-2h ago
+3h ago
+
+---
+
+**[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
+
+12h ago
 
 ---
 
@@ -133,13 +133,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAD10P9jc5b-KIePCNTvdiaWNopyUupAoZl0CqcI9D7DAALxt6Yz8-RLiJjSawQt3309srMf\_QErLGKDtHL0DUNeE2gFP820HbctDVCt6XaTYX2SCO\_i7g64hRcxylWsbq-r1d2RaCSdmaE8z7URPia1pZd0bAqiUEjQv-nvJ47ba
 
-8h ago
+9h ago
 
 ---
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -149,27 +149,29 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
-**[Bitcoin (BTC) price climbs past $97,000 as investors seek haven assets](https://www.coindesk.com/markets/2026/01/14/bitcoin-rallies-past-usd97-000-as-investors-seek-haven-assets)**
+**[Bitcoin tops $97,000: 'This rally has further upside'](https://finance.yahoo.com/news/bitcoin-tops-97000-this-rally-has-further-upside-202458985.html)**
 
-The largest cryptocurrency extended its rally, pushing related equities higher as well.
+Bitcoin surged Wednesday on optimism of crypto-related legislation advancing in Congress.
 
-CoinDesk • 13h ago
-
----
-
-**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcOqCfvkifjmPAZpvkKHE9oidzMi4vgY0XcVDddoeFNptwq3oLlGy88&gaa_ts=69687e45&gaa_sig=KYoUJVZCELLd8msTpGX3QUs4oqGGZXvjqSNLldV96qP3rmJKGFLX2kSX3p67bOl5SU9Ra5xwGAU665ejNL89Xw%3D%3D)**
-
-Barron's • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
+**[NYC token crash: Former 'bitcoin mayor' Eric Adams denies profiting from ill-fated launch](https://www.coindesk.com/markets/2026/01/15/former-bitcoin-mayor-eric-adams-denies-profiting-from-nyc-token-after-80-crash)**
 
-Investor's Business Daily • 8h ago
+The Solana-based token plunged more than 80% shortly after launch, with on-chain watchers flagging liquidity shifts that its backers and Adams’ team dispute.
+
+CoinDesk • 55m ago
+
+---
+
+**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqdT1YNho3848E2oW9YqjXs64x400YrFB9H8pPEvOj2Crx_RqYHJ190R&gaa_ts=69688e09&gaa_sig=i899mZAC-oOc361AGnX429NIjkNrTsOwBksSm4HxFqvIfS7_qt4oHR6ojXAMCJJ1zY7ijVh5i8yXCKY9Hch-FA%3D%3D)**
+
+Barron's • 9h ago
 
 ---
 
@@ -181,29 +183,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[America's Grip on Bitcoin Mining Slips, Despite Trump's Ambitions for Dominance](https://decrypt.co/354627/americas-grip-bitcoin-mining-slips-despite-trump-ambitions-dominance)**
+**[Senate Committees Coordinate CLARITY Act Timelines, Raising Stakes for US Crypto Markets](https://news.bitcoin.com/senate-committees-coordinate-clarity-act-timelines-raising-stakes-for-us-crypto-markets/)**
 
-North America is becoming a less dominant force in the Bitcoin mining industry, ceding newly minted BTC to adversaries like China.
+Senate leaders have locked in committee deadlines for a sweeping crypto market overhaul that could reshape U.S. digital asset regulation, redefine stablecoin rules, and set the stage for a decisive floor vote before the 2026 election cycle.
 
-Decrypt • 8h ago
-
----
-
-**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
-
-CCN.com • 1d ago
-
----
-
-**[Bitcoin News Today: Corporate Bitcoin Treasuries Buy BTC at 3× the Mining Supply as Demand Accelerates](https://www.binance.com/ar/square/post/01-14-2026-bitcoin-news-today-corporate-bitcoin-treasuries-buy-btc-at-3-the-mining-supply-as-demand-accelerates-35059505938882)**
-
-Binance • 1d ago
+Bitcoin.com News • 1d ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -212,6 +202,20 @@ Bloomberg.com • 9h ago
 Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
 
 CoinDesk • 22h ago
+
+---
+
+**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://finance.yahoo.com/news/bitcoin-etfs-see-biggest-inflow-121715276.html)**
+
+U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
+
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -305,7 +309,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 523 • 💬 7 • ⏱️ 44:47 • 7h ago
+👁️ 12K • 👍 523 • 💬 7 • ⏱️ 44:47 • 8h ago
 
 ---
 
@@ -315,7 +319,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 854 • 💬 105 • ⏱️ 6:42 • 10h ago
+👁️ 15K • 👍 854 • 💬 105 • ⏱️ 6:42 • 11h ago
 
 ---
 
@@ -335,7 +339,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 97 • ⏱️ 24:06 • 6h ago
+👁️ 17K • 👍 2K • 💬 97 • ⏱️ 24:06 • 7h ago
 
 ---
 
@@ -355,7 +359,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 1K • 💬 167 • ⏱️ 47:15 • 14h ago
+👁️ 26K • 👍 1K • 💬 167 • ⏱️ 47:15 • 15h ago
 
 ---
 
@@ -365,7 +369,7 @@ Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeepi
 
 📺 EllioTrades
 
-👁️ 14K • 👍 938 • 💬 166 • ⏱️ 17:03 • 9h ago
+👁️ 14K • 👍 938 • 💬 166 • ⏱️ 17:03 • 10h ago
 
 ---
 
@@ -375,7 +379,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 146 • ⏱️ 46:37 • 14h ago
+👁️ 27K • 👍 1K • 💬 146 • ⏱️ 46:37 • 15h ago
 
 ---
 
@@ -385,7 +389,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 11K • 👍 121 • 💬 29 • ⏱️ 5:02 • 17h ago
+👁️ 11K • 👍 121 • 💬 29 • ⏱️ 5:02 • 18h ago
 
 ---
 
@@ -395,7 +399,7 @@ BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: https://partner.bybi
 
 📺 Team Underground
 
-👁️ 2K • 👍 93 • 💬 9 • ⏱️ 13:24 • 13h ago
+👁️ 2K • 👍 93 • 💬 9 • ⏱️ 13:24 • 14h ago
 
 ---
 
