@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T20:27:49.226092+00:00'
+updated: '2026-01-15T20:50:40.648722+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 20:27 UTC  
+**Last Updated:** January 15, 2026 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-6h ago
+7h ago
 
 ---
 
@@ -58,6 +58,14 @@ Hi everyone, I wanted to share a project I have been working on to bring high-qu
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
 🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 22h ago
+
+---
+
+**[Why you are (probably) using coding agents wrong](https://www.reddit.com/r/artificial/comments/1qdubfv/why_you_are_probably_using_coding_agents_wrong/)**
+
+Most people probably use coding agents wrong. There I said it again. They treat agents like smart, autonomous teammates/junior dev with their own volition and intuition and then wonder why the output is chaotic, inconsistent, or subtly/less subtly broken. An agent is not a “better ChatGPT.” The correct mental model when using agent to write your code is to be an orchestrator of its execution, not let it be independent thinker and expecting "here is a task based on custom domain and my own codebase, make it work". You have to define the structure, constraints, rules, and expectations. The agent just runs inside that box. ChatGPT, Gemini, etc. work alone because they come with heavy built-in guardrails and guidelines and are tuned for conversation and problem solving. Agents, on the other hand, touch all content they have zero idea about: your code, files, tools, side effects. They don’t magically inherit discipline or domain knowledge. They have to get that knowledge. If you don’t supply your own guardrails, standards, and explicit instructions, the agent will happily optimize for speed and hallucinate its way through your repo. Agents amplify intent. If your intent isn’t well-defined, they amplify chaos. What really worked best for me is this structure, for example: You have this task to extend customer login logic: [long wall of text that is probably JIRA task written by PM before having morning coffee] this is the point where most people hit enter and just wait for agent to do "magic", but there is more To complete this task, you have to do X and Y, in those location A and B etc. Before you start on this task use the file in root directory named guidelines.txt to figure how to write the code. And this is where the magic happens, in guidelines.txt you want: all your ins and outs of your domain, your workflow (simplified) where the meat of the app is located (models, views, infrastructure) the less obvious "gotchas" what the agent can touch what the agent must NEVER touch or only after manual approval This approach yielded best results for me and least "man, that is just wrong, what the hell"
+
+41m ago
 
 ---
 
@@ -81,7 +89,7 @@ We all know that training massive LLMs consumes an incredible amount of power. B
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 19h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 20h ago
 
 ---
 
@@ -106,14 +114,6 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
 🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 1d ago
-
----
-
-**[One-Minute Daily AI News 1/14/2026](https://www.reddit.com/r/artificial/comments/1qdaipm/oneminute_daily_ai_news_1142026/)**
-
-OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
-
-15h ago
 
 ---
 
@@ -143,51 +143,57 @@ The Verge • 1h ago
 
 ---
 
-**[Publishers seek to join lawsuit against Google over AI training](https://www.reuters.com/legal/government/publishers-seek-join-lawsuit-against-google-over-ai-training-2026-01-15/)**
+**[‘It’s AI blackface’: social media account hailed as the Aboriginal Steve Irwin is an AI character created in New Zealand](https://www.theguardian.com/australia-news/2026/jan/15/aboriginal-steve-irwin-ai-character-created-new-zealand)**
 
-Reuters • 1h ago
+More than 180,000 people follow the Bush Legend’s accounts across Meta platforms, but its Aboriginal host is a work of digital fiction
 
----
-
-**[New ATA AI policy framework champions accountability, performance monitoring](https://www.healthcareitnews.com/news/new-ata-ai-policy-framework-champions-accountability-performance-monitoring)**
-
-The guidance allows for different levels of transparency depending on whether artificial intelligence is used in direct patient interactions or in background administrative functions.
-
-Healthcare IT News • 1h ago
+The Guardian • 6h ago
 
 ---
 
-**[AI in military defense creates ‘more efficient pathways of information and control,’ Anduril chairman says](https://www.foxbusiness.com/video/6387737205112)**
+**[TSMC’s Blockbuster Spending Plans, Results Herald Continued AI Boom](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqfiTf_wv-keEj-jgRE8lTK-UFmccQk4_pUXquvsKAP311CPCzCSGylA&gaa_ts=69695686&gaa_sig=xWhdzNQFVqo4UCHi3jdqQq4BeOuVCesKBaWcjDI5HBjEyL4DmrrKcxm-GLRwxR_bUva_gwjV7h6uRtUs9cPeUA%3D%3D)**
 
-Anduril executive chairman and co-founder Trae Stephens discusses how artificial intelligence is reshaping global military defense and why the U.S. must invest on ‘FOX Business In Depth.’
-
-Fox Business • 18h ago
+The Wall Street Journal • 10h ago
 
 ---
 
-**[Innovations in energy and finance are further inflating the AI bubble](https://www.economist.com/business/2026/01/15/innovations-in-energy-and-finance-are-further-inflating-the-ai-bubble)**
+**[TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
 
-The Economist • 6h ago
+TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
 
----
-
-**[ICE error meant some recruits were sent into field offices without proper training, sources say](https://www.nbcnews.com/politics/immigration/ice-error-meant-recruits-sent-field-offices-proper-training-sources-sa-rcna254054)**
-
-An AI tool used to help ICE identify potential new recruits with law enforcement experience wrongly categorized some potential new officers, sources say.
-
-NBC News • 22h ago
+CNBC • 15h ago
 
 ---
 
-**[ICE raid on Meta shows tension between Trump's immigration and AI agendas](https://www.axios.com/2026/01/15/ice-meta-ai-immigration-raid-trump)**
+**[AI trade back on? The company behind chip leaders like Nvidia and AMD just raised its spending forecast](https://www.cnbc.com/2026/01/15/ai-trade-the-company-behind-chip-leaders-like-nvidia-raised-its-spending-forecast.html)**
 
-Axios • 3h ago
+Robust earnings results from chip manufacturing giant TSMC just gave a huge lift to the AI trade.
+
+CNBC • 1h ago
 
 ---
 
-**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqdP5vI1K03FfQRBIxCKubqPeaiPvT_ObnewhRbv0KVotmnhPHj5N8Fh&gaa_ts=69694798&gaa_sig=DW63yWrHwezlOFh0Ew9MqYJ0BjE8l7bREaZD7ZQ2kFTt5z7CgpgOefYOkf9saB10-fphEgDXv7OMOVvJwIQROg%3D%3D)**
+**[AI as a life coach: experts share what works, what doesn’t and what to look out for](https://www.theguardian.com/wellness/2026/jan/15/ai-life-coach)**
 
-The Wall Street Journal • 6h ago
+It’s becoming more common for people to use AI chatbots for personal guidance – but this doesn’t come without risks
+
+The Guardian • 3h ago
+
+---
+
+**[Children are at risk of forming romantic bonds with AI chatbots, experts warn](https://www.foxnews.com/politics/experts-warn-lawmakers-establish-guardrails-ai-chatbots-form-romantic-bonds-children)**
+
+Congress hears alarming testimony about AI chatbots harming children's mental health, with experts warning of serious emotional risks and dangers.
+
+Fox News • 48m ago
+
+---
+
+**[McKinsey tests AI chatbot in early stages of graduate recruitment](https://www.artificialintelligence-news.com/news/mckinsey-tests-ai-chatbot-in-early-stages-of-graduate-recruitment/)**
+
+McKinsey has introduced an AI chatbot into early stages of graduate recruitment to help manage application volume.
+
+AI News • 10h ago
 
 ---
 
@@ -203,7 +209,7 @@ The Wall Street Journal • 6h ago
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 461 • 💬 256 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 461 • 💬 257 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -215,21 +221,13 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 ---
 
-**[The chess bot on Delta Air Lines will destroy you (2024) [video]](https://news.ycombinator.com/item?id=46593395)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 338 • 💬 337 • 3d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
-
----
-
 **[To those who fired or didn't hire tech writers because of AI](https://news.ycombinator.com/item?id=46629474)**
 
 Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 301 • 💬 214 • 12h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 304 • 💬 217 • 12h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -237,7 +235,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 243 • 💬 166 • 23h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 243 • 💬 167 • 23h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -245,7 +243,7 @@ Why we are losing technical rigor to social hype
 
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
-⬆️ 232 • 💬 125 • 1d ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+⬆️ 232 • 💬 125 • 2d ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
 
 ---
 
@@ -254,13 +252,13 @@ Warhammer maker Games Workshop has banned the use of AI in its content productio
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 230 • 💬 188 • 12h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 231 • 💬 190 • 12h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 227 • 💬 322 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 228 • 💬 323 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -269,6 +267,14 @@ With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing
 AI Overviews provided false liver test information experts called alarming.
 
 ⬆️ 225 • 💬 172 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
+
+---
+
+**[Show HN: OSS AI agent that indexes and searches the Epstein files](https://news.ycombinator.com/item?id=46611348)**
+
+Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
+
+⬆️ 205 • 💬 95 • 1d ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
 
 ---
 
@@ -342,7 +348,7 @@ SOURCES 1: https://www.youtube.com/watch?v=jgCOnpTdAsE&t=771s 2: https://insider
 
 📺 YongYea
 
-👁️ 143K • 👍 9K • 💬 2K • ⏱️ 15:35 • 23h ago
+👁️ 143K • 👍 9K • 💬 2K • ⏱️ 15:35 • 1d ago
 
 ---
 
@@ -352,7 +358,7 @@ Panelists Taylor Riggs, Kenny Polcari and Jason Chaffetz talk the impact of arti
 
 📺 Fox Business
 
-👁️ 3K • 👍 57 • 💬 26 • ⏱️ 6:58 • 11h ago
+👁️ 3K • 👍 57 • 💬 26 • ⏱️ 6:58 • 12h ago
 
 ---
 
@@ -362,7 +368,7 @@ The latest Antigravity update brings Agent Skills, Subagents, AI Automation, and
 
 📺 WorldofAI
 
-👁️ 21K • 👍 608 • 💬 39 • ⏱️ 9:11 • 16h ago
+👁️ 21K • 👍 608 • 💬 39 • ⏱️ 9:11 • 17h ago
 
 ---
 
@@ -641,7 +647,7 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.7k • 🔱 1.1k • 3h ago
+⭐ 8.7k • 🔱 1.1k • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T20:27:49.234515+00:00'
+updated: '2026-01-15T20:50:40.656347+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 20:27 UTC  
+**Last Updated:** January 15, 2026 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,309.98
+### $95,300.59
 
 ---
 
@@ -46,9 +46,9 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -2.3%  
 **7d:** +5.2%  
-**30d:** +10.4%  
+**30d:** +10.3%  
 **90d:** -11.0%  
-**1y:** -4.6%  
+**1y:** -4.7%  
 
 ---
 
@@ -101,17 +101,17 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 ---
 
+**[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
+
+2h ago
+
+---
+
 **[What’s driving the surge?](https://www.reddit.com/r/Bitcoin/comments/1qcvmf8/whats_driving_the_surge/)**
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
 1d ago
-
----
-
-**[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
-
-1h ago
 
 ---
 
@@ -127,6 +127,14 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 ---
 
+**[As of mid‑February, KBC will be the first Belgian bank to offer the possibility to buy and sell crypto. (without using an ETF)](https://www.reddit.com/r/Bitcoin/comments/1qdq1c6/as_of_midfebruary_kbc_will_be_the_first_belgian/)**
+
+Virtual currencies, real risks. The only guarantee in crypto is risk.
+
+🔗 [newsroom.kbc.com](https://newsroom.kbc.com/as-of-mid-february-kbc-will-be-the-first-belgian-bank-to-offer-the-possibility-to-buy-and-sell-crypto-through-bolero) • 3h ago
+
+---
+
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
 1d ago
@@ -136,12 +144,6 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 **[KEEP BUYING](https://www.reddit.com/r/Bitcoin/comments/1qcyixe/keep_buying/)**
 
 my hands are made of diamonds and there is goop inside of my skull
-
-23h ago
-
----
-
-**[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
 1d ago
 
@@ -155,57 +157,51 @@ my hands are made of diamonds and there is goop inside of my skull
 
 After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqdzc5QoEUpA57WdPZmsRDPtKEYJPM5iwzKAUo6jUG4ZN6Yiwg_4QWrH&gaa_ts=6969479a&gaa_sig=Qtidj9B00G_1MuscvPodzfulUgfZrqGbs_ozjtiHZHDOVQxFRbYD4WvMG-x7ogNY5dPV_YVZHIbmOtvhVsv-OA%3D%3D)**
+**[These Finnish homes are being heated by a surprising source: Bitcoin](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/)**
 
-Barron's • 22h ago
+Can the reuse of crypto mining’s waste heat redeem its carbon footprint?
 
----
-
-**[Senate Draft Bill Puts XRP, Solana, Dogecoin on Bitcoin’s Level](https://finance.yahoo.com/news/senate-draft-bill-puts-xrp-221534852.html)**
-
-A draft US Senate bill reportedly places XRP, Solana, and Dogecoin in the same legal bucket as Bitcoin. Bitcoin traded near $93,000 after the text circulated, while major altcoins showed muted moves. This fits a wider push in Washington to draw clean rules for crypto after years of court fights ...
-
-Yahoo Finance • 1d ago
+grist.org • 1d ago
 
 ---
 
-**[XRP, SOL, Dogecoin Granted Bitcoin Legal Status in Senate Draft Bill](https://coinmarketcap.com/academy/article/xrp-sol-dogecoin-granted-bitcoin-legal-status-in-senate-draft-bill)**
+**[Bitcoin, Ethereum, and Solana Confirm the Crypto Reversal. Where They’re Headed.](https://www.barrons.com/articles/bitcoin-ethereum-solana-crypto-price-etf-4a8faf45?gaa_at=eafs&gaa_n=AWEtsqcetZul-9XApwtIsCaXcIHQV30P72sEaQfG0Oh_hF-SB1WGvGAfCEpK&gaa_ts=69695688&gaa_sig=BiHJC1-V4aiinfZqOW6nFyq_LCTvzPMFCGBLvxUhgAjIOHMgtKCFvDVD14fQs-uIMuhgvc0nQJEoky5csfuimQ%3D%3D)**
 
-Cryptocurrencies serving as principal assets in exchange-traded products listed on national securities exchanges would receive non-ancillary designation.
-
-CoinMarketCap • 2d ago
+Barron's • 56m ago
 
 ---
 
-**[Esports Team Ninjas in Pyjamas Mines $14 Million in Bitcoin as Operation Expands](https://finance.yahoo.com/news/esports-team-ninjas-pyjamas-mines-174907429.html)**
+**[Jan3 CEO Samson Mow Predicts Elon Musk Will 'Go Hard Into' Bitcoin As X Plans Crypto-Linked Feature](https://finance.yahoo.com/news/jan3-ceo-samson-mow-predicts-193819017.html)**
 
-NIP Group, the publicly traded firm behind esports team Ninjas in Pyjamas, is ramping up the Bitcoin mining operation it launched in 2025.
+Tesla (NASDAQ:TSLA) CEO Elon Musk will get more involved with Bitcoin this year, according to Jan3 CEO Samson Mow. “Elon Musk goes hard into BTC,” Mow said Jan. 10 on X, one of six predictions he made for the year,...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Time2Build 2025 Winners: Breez Awards Bitcoin Prizes for Lightning Integrations in BTCPay Server, Primal, and More](https://bitcoinmagazine.com/business/time2build-2025-winners-breez-awards-bitcoin-prizes-for-lightning-integrations-in-btcpay-server-primal-and-more)**
+**[Lightning Strikes Twice as Solo Bitcoin Miners Beat the Odds, Each Earning $300K](https://finance.yahoo.com/news/lightning-strikes-twice-solo-bitcoin-200554423.html)**
 
-Tired of clunky crypto payments? Over 50 dev communities used Breez SDK to embed real Bitcoin Lightning into tools you already use – check out the winning plugins that could change everything.
+Two solo Bitcoin miners struck rare wins this week, each earning nearly $300,000 as U.S. mining dominance continues to slip.
 
-Bitcoin Magazine • 1h ago
+Yahoo Finance • 44m ago
+
+---
+
+**[Bitcoin Price Climbs To $97,000 As Billions Flow Into ETFs](https://bitcoinmagazine.com/markets/bitcoin-price-climbs-97000-on-etf-surge)**
+
+The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
+
+Bitcoin Magazine • 6h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 23h ago
-
----
-
-**[Bitcoin ETF inflows reach $1.7 billion over three-day streak](https://www.theblock.co/post/385715/bitcoin-etf-inflows-three-day-streak)**
-
-The Block • 13h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -221,7 +217,15 @@ Seeking Alpha • 1d ago
 
 Arthur Hayes argued bitcoin can reclaim momentum in 2026 if US dollar liquidity expands, pointing to potential Fed balance sheet growth, lower mortgage rates, and more bank lending to government-backed industries.
 
-Bitbo • 6h ago
+Bitbo • 7h ago
+
+---
+
+**[Is Bitcoin About to Break Out?](https://finance.yahoo.com/news/bitcoin-break-141100626.html)**
+
+A growing number of investors think Bitcoin might end the year above the $200,000 price level.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -241,7 +245,7 @@ Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practi
 
 Fully on-chain messaging protocol for Bitcoin. Contribute to mflowrs/BitStory development by creating an account on GitHub.
 
-⬆️ 2 • 💬 1 • 2d ago • [GitHub](https://github.com/mflowrs/BitStory)
+⬆️ 2 • 💬 1 • 3d ago • [GitHub](https://github.com/mflowrs/BitStory)
 
 ---
 
@@ -321,7 +325,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 957 • 💬 39 • ⏱️ 46:33 • 4h ago
+👁️ 15K • 👍 957 • 💬 39 • ⏱️ 46:33 • 5h ago
 
 ---
 
@@ -351,7 +355,7 @@ Bitcoin is poised for another historic run. From Wall Street's mixed signals to 
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 312 • 💬 125 • ⏱️ 8:24 • 15h ago
+👁️ 5K • 👍 312 • 💬 125 • ⏱️ 8:24 • 16h ago
 
 ---
 
@@ -361,7 +365,7 @@ Bitcoin #Crypto #Finance Crypto regulation hits another roadblock as the Senate 
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 916 • 💬 82 • ⏱️ 36:20 • 5h ago
+👁️ 16K • 👍 916 • 💬 82 • ⏱️ 36:20 • 6h ago
 
 ---
 

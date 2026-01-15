@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T20:27:49.240493+00:00'
+updated: '2026-01-15T20:50:40.661706+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 20:27 UTC  
+**Last Updated:** January 15, 2026 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,296.63
+### $3,283.59
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -2.7%  
-**7d:** +6.6%  
-**30d:** +16.2%  
-**90d:** -15.4%  
-**1y:** -0.6%  
+**7d:** +6.2%  
+**30d:** +15.7%  
+**90d:** -15.7%  
+**1y:** -1.0%  
 
 ---
 
@@ -73,6 +73,14 @@ No max supply
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 14h ago
+
+---
+
+**[Real world Ethereum blockchain use case. Tamper-proof testing and compliance](https://www.reddit.com/r/ethereum/comments/1qdubkr/real_world_ethereum_blockchain_use_case/)**
+
+Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
+
+40m ago
 
 ---
 
@@ -116,7 +124,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 16h ago
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 17h ago
 
 ---
 
@@ -139,14 +147,6 @@ As with all our previous releases,...
 
 ---
 
-**[Ethereum itself must pass the walkaway test.](https://www.reddit.com/r/ethereum/comments/1qbj1wd/ethereum_itself_must_pass_the_walkaway_test/)**
-
-Ethereum is meant to be a home for trustless and trust-minimized applications, whether in finance, governance or elsewhere. It must support applications that are more like tools - the hammer that once you buy it's yours - than like services that lose all functionality once the vendor loses interest in maintaining them (or worse, gets hacked or becomes value-extractive). Even when applications do have functionality that depends on a vendor, Ethereum can help reduce those dependencies as much as possible, and protect the user as much as possible in those cases where the dependencies fail. But building such applications is not possible on a base layer which itself depends on ongoing updates from a vendor in order to continue being usable - even if that "vendor" is the all core devs process. Ethereum the blockchain must have the traits that we strive for in Ethereum's applications. Hence, Ethereum itself must pass the walkaway test. This means that Ethereum must get to a place where we can ossify if we want to. We do not have to stop making changes to the protocol, but we must get to a place where Ethereum's value proposition does not strictly depend on any features that are not in the protocol already. This includes the following: Full quantum-resistance. We should resist the trap of saying "let's delay quantum-resistance until the last possible moment in the name of ekeing out more efficiencies for a while longer". Individual users have that right, but the protocol should not. Being able to say "Ethereum's protocol, as it stands today, is cryptographically safe for a hundred years" is something we should strive to get to as soon as possible, and insist on as a point of pride. An architecture that can expand to sufficient scalability. The protocol needs to have the properties that allow it to expand to many thousands of TPS over time, most notably ZK-EVM validation and data sampling through PeerDAS. Ideally, we get to a point where further scaling is done through "parameter only" changes - and ideally those changes are not BPO-style forks, but rather are made with the same validator voting mechanism we use for the gas limit. A state architecture that can last decades. This means deciding, and implementing, whatever form of partial statelessness and state expiry will let us feel comfortable letting Ethereum run with thousands of TPS for decades, without breaking sync or hard disk or I/O requirements. It also means future-proofing the tree and storage types to work well with this long-term environment. An account model that is general-purpose (this is "full account abstraction": move away from enshrined ECDSA for signature validation) A gas schedule that we are confident is free of DoS vulnerabilities, both for execution and for ZK-proving A PoS economic model that, with all we have learned over the past half decade of proof of stake in Ethereum and full decade beyond, we are confident can last and remain decentralized for decades, and supports the usefulness of ETH as trustless collateral (eg. in governance-minimized ETH-backed stablecoins) A block building model that we are confident will resist centralization pressure and guarantee censorship resistance even in unknown future environments Ideally, we do the hard work over the next few years, to get to a point where in the future almost all future innovation can happen through client optimization, and get reflected in the protocol through parameter changes. Every year, we should tick off at least one of these boxes, and ideally multiple. Do the right thing once, based on knowledge of what is truly the right thing (and not compromise halfway fixes), and maximize Ethereum's technological and social robustness for the long term. Ethereum goes hard. This is the gwei.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -165,25 +165,31 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum treasury firm BitMine invests $200 million in MrBeast's Beast Industries](https://www.theblock.co/post/385769/ethereum-treasury-firm-bitmine-invests-200-million-usd-mrbeasts-beast-industries)**
+**[Bitcoin, Ethereum, and Solana Confirm the Crypto Reversal. Where They’re Headed.](https://www.barrons.com/articles/bitcoin-ethereum-solana-crypto-price-etf-4a8faf45?gaa_at=eafs&gaa_n=AWEtsqcckOk_YJhV9eur_bFANn8kOPpNfhv5nvkigdrVRW26Y6-onMMz-yBK&gaa_ts=69695689&gaa_sig=KJgNtCuqNIpe3CO5NblRa6H8dF0gCF9SZTzh94zP-ZhXfQ3IT7_e4JmVvS7V582bkeWGAhtxQsjOXbtS9wXLtQ%3D%3D)**
 
-The Block • 7h ago
-
----
-
-**[Ethereum Giant BitMine Backs MrBeast with $200 Million, But Why? | US Crypto News](https://finance.yahoo.com/news/ethereum-giant-bitmine-backs-mrbeast-170149575.html)**
-
-What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
-
-Yahoo Finance • 3h ago
+Barron's • 56m ago
 
 ---
 
-**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
+**[This New ETF Could Be the Way to Play Ethereum in 2026](https://www.etftrends.com/monthly-income-content-hub/etf-way-play-ethereum-2026/)**
 
-Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
+ETF Trends • 3d ago
 
-Seeking Alpha • 1d ago
+---
+
+**[Bitcoin, Ethereum and Solana Primed for Major Price Run as ETF Volumes Soar in 2026](https://www.tradingview.com/news/zycrypto:84d87733f094b:0-bitcoin-ethereum-and-solana-primed-for-major-price-run-as-etf-volumes-soar-in-2026/)**
+
+Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
+
+TradingView — Track All Markets • 2d ago
+
+---
+
+**[Standard Chartered Says '2026 Will Be The Year Of Ethereum' As It Predicts 'ETH Outperformance'](https://finance.yahoo.com/news/standard-chartered-says-2026-ethereum-192131962.html)**
+
+Ethereum will outperform Bitcoin this year, Standard Chartered says. “I think 2026 will be the year of Ethereum, much like 2021 was,” Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note accompanying the bank’s most...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -195,33 +201,25 @@ dlnews.com • 10h ago
 
 ---
 
-**[ETH News: Bank of Italy economist flags stablecoin risks if ether price collapse weakens Ethereum](https://www.coindesk.com/business/2026/01/13/ether-collapse-to-zero-could-test-ethereum-s-role-as-finance-hub-bank-of-italy-economist-warns)**
+**[Ethereum treasury firm BitMine invests $200 million in MrBeast's Beast Industries](https://www.theblock.co/post/385769/ethereum-treasury-firm-bitmine-invests-200-million-usd-mrbeasts-beast-industries)**
 
-The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.
-
-CoinDesk • 2d ago
+The Block • 7h ago
 
 ---
 
-**[Tom Lee's Ethereum "Supercycle" Call: Why He Bought $88M More ETH at $3,200—And Predicts 10x Returns](https://247wallst.com/investing/2026/01/13/tom-lees-ethereum-supercycle-call-why-he-bought-88m-more-eth-at-3200-and-predicts-10x-returns/)**
+**[Bitmine stakes $4bn Ethereum. Why Tom Lee forecasts price jump in 2026](https://www.dlnews.com/articles/markets/bitmine-stakes-usd-4bn-ethereum-tom-lee-forecasts-price-jump/)**
 
-Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
+Bitmine stakes nearly one-third of its $13 billion Ethereum stash. Tom Lee says ‘mini crypto winter’ is over and forecasts price recovery. Lee urges shareholders to vote for his stock split proposal before January 15.
 
-24/7 Wall St. • 2d ago
-
----
-
-**[Analyst Says It’s Time For Ethereum’s ‘Big Test’ – Is ETH Season Loading?](https://www.tradingview.com/news/newsbtc:2fb330dfb094b:0-analyst-says-it-s-time-for-ethereum-s-big-test-is-eth-season-loading/)**
-
-After its recent price breakout, Ethereum (ETH) is facing its next big test and attempting to turn a crucial area into support. Some analysts have suggested that the altcoin is ready to continue its bullish momentum, arguing that the biggest rotation in years is coming.Ethereum Challenges Key Resis…
-
-TradingView — Track All Markets • 11h ago
+dlnews.com • 2d ago
 
 ---
 
-**[This New ETF Could Be the Way to Play Ethereum in 2026](https://www.etftrends.com/monthly-income-content-hub/etf-way-play-ethereum-2026/)**
+**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
 
-ETF Trends • 2d ago
+Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -255,7 +253,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 183 • 💬 159 • ⏱️ 15:10 • 14h ago
+👁️ 4K • 👍 183 • 💬 159 • ⏱️ 15:10 • 15h ago
 
 ---
 
@@ -265,7 +263,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 638 • 👍 77 • 💬 6 • ⏱️ 3:43 • 3h ago
+👁️ 638 • 👍 77 • 💬 6 • ⏱️ 3:43 • 4h ago
 
 ---
 
@@ -275,7 +273,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 257 • 💬 58 • ⏱️ 11:22 • 19h ago
+👁️ 5K • 👍 257 • 💬 58 • ⏱️ 11:22 • 20h ago
 
 ---
 

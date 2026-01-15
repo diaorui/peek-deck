@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T20:27:49.243712+00:00'
+updated: '2026-01-15T20:50:40.664567+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 20:27 UTC  
+**Last Updated:** January 15, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,6 +54,20 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 ---
 
+**[Assistive robotic system used for pediatric mobility support](https://www.reddit.com/r/robotics/comments/1qduua7/assistive_robotic_system_used_for_pediatric/)**
+
+An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
+
+21m ago
+
+---
+
+**[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
+
+1h ago
+
+---
+
 **[Any good suggestions for learning STM32 programming](https://www.reddit.com/r/robotics/comments/1qdmcxw/any_good_suggestions_for_learning_stm32/)**
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
@@ -76,17 +90,11 @@ I’ve been working on a project for the past few months with my co-founder that
 
 ---
 
-**[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
-
-52m ago
-
----
-
 **[Whats the biggest frustration you’ve faced while scaling a robot Project?](https://www.reddit.com/r/robotics/comments/1qdeewf/whats_the_biggest_frustration_youve_faced_while/)**
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-11h ago
+12h ago
 
 ---
 
@@ -96,30 +104,43 @@ The biggest frustration I faced while scaling a robot project wasn’t building 
 
 ---
 
-**[Skild AI has unveiled new demos "learning by watching". Here one showing that Skild Brain is robust to adversarial disturbances and transfers zero-shot to unseen homes](https://www.reddit.com/r/robotics/comments/1qck1pn/skild_ai_has_unveiled_new_demos_learning_by/)**
-
-Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 4h ago
 
 ---
 
-**[Skild AI, making one 'brain' for every robot, now valued at $14 B](https://www.post-gazette.com/business/tech-news/2026/01/15/skild-ai-robot-brain-pittsburgh/stories/202601140098)**
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
 
-Any robot. Any task. One brain.
-That’s the driving mantra of Skild AI, the East Liberty robotics company working to create a general brain for robots....
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
-Pittsburgh Post-Gazette • 1h ago
+Fortune • 8h ago
+
+---
+
+**[MassRobotics opens applications for fourth Form and Function Robotics Challenge](https://www.therobotreport.com/massrobotics-opens-applications-for-fourth-form-and-function-robotics-challenge/)**
+
+MassRobotics' Form and Function challenge will culminate with in-person demonstrations at the Robotics Summit & Expo.
+
+The Robot Report • 20m ago
+
+---
+
+**[AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/)**
+
+Startup works with leading cell therapy companies to bring robotics manufacturing into the clean room, reducing costs by more than 70% while accelerating output compared with legacy systems.
+
+NVIDIA Blog • 3d ago
+
+---
+
+**[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -131,33 +152,12 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+**[East Liberty's Skild AI, making one 'brain' for every robot, now valued at $14 billion](https://www.post-gazette.com/business/tech-news/2026/01/15/skild-ai-robot-brain-pittsburgh/stories/202601140098)**
 
-Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+Any robot. Any task. One brain.
+That’s the driving mantra of Skild AI, the East Liberty robotics company working to create a general brain for robots....
 
-Fortune • 7h ago
-
----
-
-**[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
-
-Bloomberg.com • 3h ago
-
----
-
-**[CES 2026 robotics recap; industry experts make predictions](https://www.therobotreport.com/ces-2026-robotics-recap-industry-experts-make-predictions/)**
-
-Catch up on CES 2026 robotics highlights; explore more 2026 predictions; and analyze major acquisitions by Mobileye, Oshkosh, and Amazon.
-
-The Robot Report • 1d ago
-
----
-
-**[AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/)**
-
-Startup works with leading cell therapy companies to bring robotics manufacturing into the clean room, reducing costs by more than 70% while accelerating output compared with legacy systems.
-
-NVIDIA Blog • 3d ago
+Pittsburgh Post-Gazette • 2h ago
 
 ---
 
@@ -281,7 +281,7 @@ When a robo-cleaner can notify you that a bar of gold was left on your living ro
 
 📺 mryeester
 
-👁️ 105K • 👍 5K • 💬 190 • ⏱️ 1:06 • 5d ago
+👁️ 105K • 👍 5K • 💬 190 • ⏱️ 1:06 • 6d ago
 
 ---
 
