@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T19:25:54.485259+00:00'
+updated: '2026-01-15T19:47:00.501583+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 19:25 UTC  
+**Last Updated:** January 15, 2026 at 19:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** +7.2%  
-**30d:** +16.8%  
-**90d:** -15.0%  
-**1y:** -0.1%  
+**24h:** -2.7%  
+**7d:** +6.6%  
+**30d:** +16.2%  
+**90d:** -15.4%  
+**1y:** -0.6%  
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 15h ago
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 16h ago
 
 ---
 
@@ -165,6 +165,12 @@ The Block • 1d ago
 
 ---
 
+**[Ethereum treasury firm BitMine invests $200 million in MrBeast's Beast Industries](https://www.theblock.co/post/385769/ethereum-treasury-firm-bitmine-invests-200-million-usd-mrbeasts-beast-industries)**
+
+The Block • 6h ago
+
+---
+
 **[Ethereum Giant BitMine Backs MrBeast with $200 Million, But Why? | US Crypto News](https://finance.yahoo.com/news/ethereum-giant-bitmine-backs-mrbeast-170149575.html)**
 
 What is the biggest crypto news today? BitMine’s $200M investment in MrBeast raises questions about crypto’s role in creator finance.
@@ -173,19 +179,11 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[The biggest ethereum treasury in the world just made a $200 million bet on MrBeast's DeFi ambitions](https://www.businessinsider.com/mrbeast-bitmine-immersion-investment-youtube-jimmy-donaldson-crypto-tom-lee-2026-1)**
+**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
 
-Ethereum treasury Bitmine Immersion is making a big investment in MrBeast's company, which said last year it would launch a financial services platform.
+Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
-Business Insider • 2h ago
-
----
-
-**[MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million](https://finance.yahoo.com/news/mrbeast-eyes-defi-tom-lees-163222770.html)**
-
-BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
-
-Yahoo Finance • 2h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -194,14 +192,6 @@ Yahoo Finance • 2h ago
 Nearly 30% of all Ethereum circulating supply is now locked up. Bitmine stakes another $600 million and now has $6 billion staked.  Tom Lee urges shareholders vote for his stock split proposal ahead of big meeting.
 
 dlnews.com • 9h ago
-
----
-
-**[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
-
-Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
-
-Seeking Alpha • 1d ago
 
 ---
 
@@ -218,6 +208,14 @@ CoinDesk • 2d ago
 Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at $3,200. Here's what 10x returns would actually require.
 
 24/7 Wall St. • 2d ago
+
+---
+
+**[Analyst Says It’s Time For Ethereum’s ‘Big Test’ – Is ETH Season Loading?](https://www.tradingview.com/news/newsbtc:2fb330dfb094b:0-analyst-says-it-s-time-for-ethereum-s-big-test-is-eth-season-loading/)**
+
+After its recent price breakout, Ethereum (ETH) is facing its next big test and attempting to turn a crucial area into support. Some analysts have suggested that the altcoin is ready to continue its bullish momentum, arguing that the biggest rotation in years is coming.Ethereum Challenges Key Resis…
+
+TradingView — Track All Markets • 10h ago
 
 ---
 
@@ -257,7 +255,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 183 • 💬 159 • ⏱️ 15:10 • 13h ago
+👁️ 4K • 👍 183 • 💬 159 • ⏱️ 15:10 • 14h ago
 
 ---
 
@@ -267,7 +265,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 638 • 👍 77 • 💬 6 • ⏱️ 3:43 • 2h ago
+👁️ 638 • 👍 77 • 💬 6 • ⏱️ 3:43 • 3h ago
 
 ---
 
@@ -277,7 +275,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 257 • 💬 58 • ⏱️ 11:22 • 18h ago
+👁️ 5K • 👍 257 • 💬 58 • ⏱️ 11:22 • 19h ago
 
 ---
 

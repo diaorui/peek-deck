@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T19:25:54.479265+00:00'
+updated: '2026-01-15T19:47:00.495511+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 19:25 UTC  
+**Last Updated:** January 15, 2026 at 19:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $96,000.00
+### $95,309.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +6.1%  
-**30d:** +11.3%  
-**90d:** -10.3%  
-**1y:** -3.9%  
+**24h:** -2.3%  
+**7d:** +5.2%  
+**30d:** +10.4%  
+**90d:** -11.0%  
+**1y:** -4.6%  
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[my parents bank has paid them basically nothing for 30 years and they never questioned it once](https://www.reddit.com/r/Bitcoin/comments/1qdi4pr/my_parents_bank_has_paid_them_basically_nothing/)**
-
-Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
-
-7h ago
-
----
-
 **[Don’t trust, verify.](https://www.reddit.com/r/Bitcoin/comments/1qdr04o/dont_trust_verify/)**
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
 1h ago
+
+---
+
+**[my parents bank has paid them basically nothing for 30 years and they never questioned it once](https://www.reddit.com/r/Bitcoin/comments/1qdi4pr/my_parents_bank_has_paid_them_basically_nothing/)**
+
+Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
+
+7h ago
 
 ---
 
@@ -106,6 +106,12 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
 1d ago
+
+---
+
+**[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
+
+1h ago
 
 ---
 
@@ -131,21 +137,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 my hands are made of diamonds and there is goop inside of my skull
 
-22h ago
+23h ago
 
 ---
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
 23h ago
-
----
-
-**[Bitcoin is the answer.](https://www.reddit.com/r/Bitcoin/comments/1qdno1g/bitcoin_is_the_answer/)**
-
-The new deal. The knight in shining armor. The currently banking system is awful and stacked against you. I have Venmo bank transfers that are listed “pending” after 8 days. 8! How is this possibly acceptable in today’s technology. I’ll tolerate banks for me to use debt to my personal advantage. I will not tolerate the banks awful treatment of deposit customers with my assets. Pulled from the system.
-
-3h ago
 
 ---
 
@@ -161,11 +159,25 @@ CoinDesk • 3h ago
 
 ---
 
-**[Viral Prediction: 5,000 XRP Will Equal 1 Bitcoin by End of 2026—The Math Behind the $18.40 XRP Target](https://finance.yahoo.com/news/viral-prediction-5-000-xrp-162020049.html)**
+**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqdzc5QoEUpA57WdPZmsRDPtKEYJPM5iwzKAUo6jUG4ZN6Yiwg_4QWrH&gaa_ts=6969479a&gaa_sig=Qtidj9B00G_1MuscvPodzfulUgfZrqGbs_ozjtiHZHDOVQxFRbYD4WvMG-x7ogNY5dPV_YVZHIbmOtvhVsv-OA%3D%3D)**
 
-The XRP versus Bitcoin debate just went viral. Crypto influencer Bird claims that by year-end, 5,000 XRP (CRYPTO: XRP) could be worth 1 Bitcoin (CRYPTO: BTC)—implying an XRP $18.40 target that would represent nearly 800% upside from current levels. The bold forecast has ignited fierce debate about whether XRP outperforms Bitcoin in the coming months. ... Viral Prediction: 5,000 XRP Will Equal 1 Bitcoin by End of 2026—The Math Behind the $18.40 XRP Target
+Barron's • 22h ago
 
-Yahoo Finance • 3h ago
+---
+
+**[Senate Draft Bill Puts XRP, Solana, Dogecoin on Bitcoin’s Level](https://finance.yahoo.com/news/senate-draft-bill-puts-xrp-221534852.html)**
+
+A draft US Senate bill reportedly places XRP, Solana, and Dogecoin in the same legal bucket as Bitcoin. Bitcoin traded near $93,000 after the text circulated, while major altcoins showed muted moves. This fits a wider push in Washington to draw clean rules for crypto after years of court fights ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[XRP, SOL, Dogecoin Granted Bitcoin Legal Status in Senate Draft Bill](https://coinmarketcap.com/academy/article/xrp-sol-dogecoin-granted-bitcoin-legal-status-in-senate-draft-bill)**
+
+Cryptocurrencies serving as principal assets in exchange-traded products listed on national securities exchanges would receive non-ancillary designation.
+
+CoinMarketCap • 2d ago
 
 ---
 
@@ -177,15 +189,23 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Time2Build 2025 Winners: Breez Awards Bitcoin Prizes for Lightning Integrations in BTCPay Server, Primal, and More](https://bitcoinmagazine.com/business/time2build-2025-winners-breez-awards-bitcoin-prizes-for-lightning-integrations-in-btcpay-server-primal-and-more)**
+
+Tired of clunky crypto payments? Over 50 dev communities used Breez SDK to embed real Bitcoin Lightning into tools you already use – check out the winning plugins that could change everything.
+
+Bitcoin Magazine • 1h ago
+
+---
+
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
 **[Bitcoin ETF inflows reach $1.7 billion over three-day streak](https://www.theblock.co/post/385715/bitcoin-etf-inflows-three-day-streak)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -201,27 +221,7 @@ Seeking Alpha • 1d ago
 
 Arthur Hayes argued bitcoin can reclaim momentum in 2026 if US dollar liquidity expands, pointing to potential Fed balance sheet growth, lower mortgage rates, and more bank lending to government-backed industries.
 
-Bitbo • 5h ago
-
----
-
-**[Analyst slashes MicroStrategy price target ahead of Q4 earnings](https://www.thestreet.com/crypto/markets/analyst-slashes-microstrategy-price-ahead-of-q4-earnings)**
-
-thestreet.com • 5h ago
-
----
-
-**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.nasdaq.com/articles/how-much-will-1-bitcoin-be-worth-2026)**
-
-Key PointsInstitutional buying could continue to drive Bitcoin upwards.
-
-Nasdaq • 8h ago
-
----
-
-**[Should you buy Bitcoin while it's under $125,000?](https://www.msn.com/en-us/money/savingandinvesting/should-you-buy-bitcoin-while-it-s-under-125-000/ar-AA1UgmbX?ocid=finance-verthp-feeds)**
-
-MSN • 9h ago
+Bitbo • 6h ago
 
 ---
 
@@ -285,6 +285,12 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ---
 
+**[Show HN: Timberlogs – Drop-in structured logging for TypeScript](https://news.ycombinator.com/item?id=46605671)**
+
+⬆️ 4 • 💬 3 • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -315,7 +321,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 957 • 💬 39 • ⏱️ 46:33 • 3h ago
+👁️ 15K • 👍 957 • 💬 39 • ⏱️ 46:33 • 4h ago
 
 ---
 
@@ -345,7 +351,7 @@ Bitcoin is poised for another historic run. From Wall Street's mixed signals to 
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 312 • 💬 125 • ⏱️ 8:24 • 14h ago
+👁️ 5K • 👍 312 • 💬 125 • ⏱️ 8:24 • 15h ago
 
 ---
 
@@ -355,7 +361,7 @@ Bitcoin #Crypto #Finance Crypto regulation hits another roadblock as the Senate 
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 916 • 💬 82 • ⏱️ 36:20 • 4h ago
+👁️ 16K • 👍 916 • 💬 82 • ⏱️ 36:20 • 5h ago
 
 ---
 

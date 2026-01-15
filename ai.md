@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T19:25:54.470873+00:00'
+updated: '2026-01-15T19:47:00.486870+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 19:25 UTC  
+**Last Updated:** January 15, 2026 at 19:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ We all know that training massive LLMs consumes an incredible amount of power. B
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 18h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 19h ago
 
 ---
 
@@ -90,6 +90,14 @@ Could Siri be the last piece of the puzzle?
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
 🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 13h ago
+
+---
+
+**[Good courses/discussions about Gemini CLI](https://www.reddit.com/r/artificial/comments/1qd4hm6/good_coursesdiscussions_about_gemini_cli/)**
+
+Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
+
+19h ago
 
 ---
 
@@ -109,14 +117,6 @@ OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI t
 
 ---
 
-**[Good courses/discussions about Gemini CLI](https://www.reddit.com/r/artificial/comments/1qd4hm6/good_coursesdiscussions_about_gemini_cli/)**
-
-Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
-
-18h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -127,31 +127,33 @@ The New York Times • 9h ago
 
 ---
 
-**[Behind the Curtain: The job replacement AI machine](https://www.axios.com/2026/01/15/ai-job-replacement-white-collar)**
+**[Apple sits out AI arms race to play kingmaker between Google and OpenAI](https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a)**
 
-Axios • 8h ago
+Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending
 
----
-
-**[Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works](https://www.wired.com/story/anthropic-claude-cowork-agent/)**
-
-Cowork is a user-friendly version of Anthropic’s Claude Code AI-powered tool that’s built for file management and basic computing tasks. Here’s what it's like to use it.
-
-WIRED • 1h ago
+Financial Times • 14h ago
 
 ---
 
-**[Dell Stock: Analysts See AI Growth Driving Big Upside](https://www.barrons.com/articles/dell-stock-analysts-ai-upside-buy-7fac5550?gaa_at=eafs&gaa_n=AWEtsqf-o2RDjdn4KpB2SerNEz76DMH2wXsrmeR_6eptATHEuU78PRmpDQD-&gaa_ts=69693792&gaa_sig=s1eijDx2yD2MD4mRiOAI5I7dxmSc6HIhCQdIK8lhqKQSZ6cLHWtPQLeNxgBMSFm-QWvaE0zKcLbEo0QOHBOGgw%3D%3D)**
+**[Apple lost the AI race — now the real challenge starts](https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini)**
 
-Barron's • 1h ago
+Paging smarter Siri.
+
+The Verge • 47m ago
 
 ---
 
-**[AI Tool Reportedly Sent ICE Recruits Into the Field Without Proper Training](https://gizmodo.com/ai-tool-reportedly-sent-ice-recruits-into-the-field-without-proper-training-2000710651)**
+**[Publishers seek to join lawsuit against Google over AI training](https://www.reuters.com/legal/government/publishers-seek-join-lawsuit-against-google-over-ai-training-2026-01-15/)**
 
-Department of Homeland Security's AI initiatives in action...
+Reuters • 1h ago
 
-Gizmodo • 1h ago
+---
+
+**[New ATA AI policy framework champions accountability, performance monitoring](https://www.healthcareitnews.com/news/new-ata-ai-policy-framework-champions-accountability-performance-monitoring)**
+
+The guidance allows for different levels of transparency depending on whether artificial intelligence is used in direct patient interactions or in background administrative functions.
+
+Healthcare IT News • 1h ago
 
 ---
 
@@ -169,25 +171,23 @@ The Economist • 5h ago
 
 ---
 
-**[AI ‘godfather’ Yoshua Bengio believes he’s found a technical fix for AI’s biggest risks](https://fortune.com/2026/01/15/ai-godfather-yoshua-bengio-changes-view-on-ai-risks-sees-fix-becomes-optimistic-lawzero-board-of-advisors/)**
+**[ICE error meant some recruits were sent into field offices without proper training, sources say](https://www.nbcnews.com/politics/immigration/ice-error-meant-recruits-sent-field-offices-proper-training-sources-sa-rcna254054)**
 
-Bengio spent years warning of advanced AI's risks. Now he sees a path to safer AI. His nonprofit LawZero has a new board to help him build it.
+An AI tool used to help ICE identify potential new recruits with law enforcement experience wrongly categorized some potential new officers, sources say.
 
-Fortune • 14h ago
-
----
-
-**[Learners and educators are AI’s new “super users”](https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/)**
-
-Google’s 2025 Our Life with AI survey found people are using AI tools to learn new things.
-
-blog.google • 8h ago
+NBC News • 21h ago
 
 ---
 
-**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqeK8XGbtYcSfhBZwF_O4TgM4DZqs2R8owc2ovU89P9p88FUVre5lpcV&gaa_ts=69693792&gaa_sig=RJmw7IWdeDn5i3As9btv1f8GZvk1wjoCPjCs8qKXMF5pIHI75unPssUisoiKOxqE031oBlp51nBBwMhWFtaxtg%3D%3D)**
+**[ICE raid on Meta shows tension between Trump's immigration and AI agendas](https://www.axios.com/2026/01/15/ice-meta-ai-immigration-raid-trump)**
 
-The Wall Street Journal • 23h ago
+Axios • 2h ago
+
+---
+
+**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqdP5vI1K03FfQRBIxCKubqPeaiPvT_ObnewhRbv0KVotmnhPHj5N8Fh&gaa_ts=69694798&gaa_sig=DW63yWrHwezlOFh0Ew9MqYJ0BjE8l7bREaZD7ZQ2kFTt5z7CgpgOefYOkf9saB10-fphEgDXv7OMOVvJwIQROg%3D%3D)**
+
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Wall Street Journal • 23h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 937 • 💬 713 • 2d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 939 • 💬 714 • 2d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -219,7 +219,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 338 • 💬 336 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 338 • 💬 337 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -229,7 +229,7 @@ Hey you,
 Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
 You are making a big mistake. But you can still undo the damage.
 
-⬆️ 292 • 💬 207 • 11h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
+⬆️ 301 • 💬 214 • 11h ago • [passo.uno](https://passo.uno/letter-those-who-fired-tech-writers-ai/)
 
 ---
 
@@ -237,7 +237,7 @@ You are making a big mistake. But you can still undo the damage.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 243 • 💬 165 • 22h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 243 • 💬 166 • 22h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -246,6 +246,15 @@ Why we are losing technical rigor to social hype
 Warhammer maker Games Workshop has banned the use of AI in its content production and its design process, insisting that none of its senior managers are currently excited about the technology.
 
 ⬆️ 232 • 💬 125 • 1d ago • [IGN](https://www.ign.com/articles/warhammer-maker-games-workshop-bans-its-staff-from-using-ai-in-its-content-or-designs-says-none-of-its-senior-managers-are-currently-excited-about-the-tech)
+
+---
+
+**[Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://news.ycombinator.com/item?id=46629682)**
+
+Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
+With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
+
+⬆️ 230 • 💬 188 • 11h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -260,15 +269,6 @@ Warhammer maker Games Workshop has banned the use of AI in its content productio
 AI Overviews provided false liver test information experts called alarming.
 
 ⬆️ 225 • 💬 172 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/)
-
----
-
-**[Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://news.ycombinator.com/item?id=46629682)**
-
-Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
-With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
-
-⬆️ 224 • 💬 176 • 11h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -342,7 +342,7 @@ SOURCES 1: https://www.youtube.com/watch?v=jgCOnpTdAsE&t=771s 2: https://insider
 
 📺 YongYea
 
-👁️ 143K • 👍 9K • 💬 2K • ⏱️ 15:35 • 22h ago
+👁️ 143K • 👍 9K • 💬 2K • ⏱️ 15:35 • 23h ago
 
 ---
 
@@ -352,7 +352,7 @@ Panelists Taylor Riggs, Kenny Polcari and Jason Chaffetz talk the impact of arti
 
 📺 Fox Business
 
-👁️ 3K • 👍 57 • 💬 26 • ⏱️ 6:58 • 10h ago
+👁️ 3K • 👍 57 • 💬 26 • ⏱️ 6:58 • 11h ago
 
 ---
 
@@ -362,7 +362,7 @@ The latest Antigravity update brings Agent Skills, Subagents, AI Automation, and
 
 📺 WorldofAI
 
-👁️ 21K • 👍 608 • 💬 39 • ⏱️ 9:11 • 15h ago
+👁️ 21K • 👍 608 • 💬 39 • ⏱️ 9:11 • 16h ago
 
 ---
 
@@ -641,7 +641,7 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.7k • 🔱 1.1k • 2h ago
+⭐ 8.7k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -701,7 +701,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.9k • 🔱 1.6k • 5h ago
+⭐ 1.9k • 🔱 1.6k • 6h ago
 
 ---
 

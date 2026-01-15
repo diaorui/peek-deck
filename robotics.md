@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T19:25:54.488507+00:00'
+updated: '2026-01-15T19:47:00.504862+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 19:25 UTC  
+**Last Updated:** January 15, 2026 at 19:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,14 +62,6 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 ---
 
-**[Whats the biggest frustration you’ve faced while scaling a robot Project?](https://www.reddit.com/r/robotics/comments/1qdeewf/whats_the_biggest_frustration_youve_faced_while/)**
-
-The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
-
-10h ago
-
----
-
 **[Need feedback: Natural language to circuit design to make robotics easier](https://www.reddit.com/r/robotics/comments/1qdpeqi/need_feedback_natural_language_to_circuit_design/)**
 
 I’ve been working on a project for the past few months with my co-founder that takes a natural-language prompt and turns it into basic circuitry / schematics. There are tools that try to AI-ify circuit design like Flux, but it really sucks. Essentially, having the capability to vibe code electronics to prototype and iterate faster. We’re now at the stage where it semi works, having the capabilities to integrate with Altium and Kicad, and I’d love feedback from other engineers. As an engineer myself, I’m very aware of the skepticism around AI in hardware design. The goal here isn’t to replace engineers, but to help them move faster on early design, iteration, and exploration, keeping humans in the loop. If you were to use something like this Where could it realistically save you time? What would immediately worry you? Where would you never trust it? Happy to give access to engineers who are genuinely interested and willing to share honest feedback.
@@ -81,6 +73,20 @@ I’ve been working on a project for the past few months with my co-founder that
 **[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
 
 2h ago
+
+---
+
+**[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
+
+12m ago
+
+---
+
+**[Whats the biggest frustration you’ve faced while scaling a robot Project?](https://www.reddit.com/r/robotics/comments/1qdeewf/whats_the_biggest_frustration_youve_faced_while/)**
+
+The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
+
+11h ago
 
 ---
 
@@ -98,14 +104,6 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 ---
 
-**[Looking for help with robot](https://www.reddit.com/r/robotics/comments/1qdm428/looking_for_help_with_robot/)**
-
-Hi all, I got my son a robot for Christmas with a raspberry pi that needs to be set up. We built the robot with no issues. I’m trying to set up the raspberry pi and can’t seem to figure it out. I’ve never done this before and was wondering if someone can guide me through the process. I can post or dm pictures of my computer screens and hardware etc as we go.
-
-4h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,31 +114,34 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Robotics Startup Skild AI Lands $1.4B, Tripling Valuation To $14B In Just 7 Months](https://news.crunchbase.com/venture/robotics-startup-skild-ai-triples-valuation/)**
+**[Skild AI, making one 'brain' for every robot, now valued at $14 B](https://www.post-gazette.com/business/tech-news/2026/01/15/skild-ai-robot-brain-pittsburgh/stories/202601140098)**
 
-Skild AI, a robotics company building an “omni-bodied” brain to operate any robot for any task, announced Wednesday that it has raised $1.4 billion, tripling its valuation to over $14 billion.
+Any robot. Any task. One brain.
+That’s the driving mantra of Skild AI, the East Liberty robotics company working to create a general brain for robots....
 
-Crunchbase News • 1d ago
-
----
-
-**[Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/)**
-
-Skild AI, which is building general-purpose robotic software, just raised a $1.4 billion funding round led by SoftBank.
-
-TechCrunch • 1d ago
+Pittsburgh Post-Gazette • 56m ago
 
 ---
 
-**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
+**[Robotic software startup Skild AI secures $1.4B in latest funding round: report (SFTBY:OTCMKTS)](https://seekingalpha.com/news/4539129-robotic-software-startup-skild-ai-secures-1_4b-in-latest-funding-round-report)**
 
-GeekWire • 1d ago
+Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+
+Fortune • 7h ago
 
 ---
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -160,23 +161,23 @@ NVIDIA Blog • 3d ago
 
 ---
 
+**[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
+
+GeekWire • 1d ago
+
+---
+
 **[Johnson & Johnson's $1 billion loss from robotics takeover reduced by Delaware top court](https://www.reuters.com/legal/litigation/johnson-johnsons-1-billion-loss-robotics-takeover-reduced-by-delaware-top-court-2026-01-12/)**
 
 Reuters • 2d ago
 
 ---
 
-**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+**[Can Grab (GRAB) Turn EV Partnerships and Robotics Bets Into a Defensible Logistics Edge?](https://finance.yahoo.com/news/grab-grab-turn-ev-partnerships-231237971.html)**
 
-Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+In recent days, China’s GAC International announced a partnership with Singapore-based superapp Grab to deploy up to 20,000 electric vehicles across six Southeast Asian markets over the next two years, while Grab also acquired Chinese robotics firm Infermove to strengthen its autonomous last‑mile delivery capabilities. Together, these moves highlight Grab’s push to pair cleaner mobility with automation in delivery, tying its superapp ecosystem more closely to physical transport and logistics...
 
-Fortune • 6h ago
-
----
-
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqeD6XvG9rL3zONHQCmCxqgj69Yet1RPXLRrgsQ37h-qISKrItCAlLlY&gaa_ts=69693797&gaa_sig=0gICiR6gjHAMciso8GvxSIQDOHh5scmBygzbDqyTpQyA_S8wbUBUgZ3S1zaaEbnNLaFJ8D7J-DwC2_2o_iAXjg%3D%3D)**
-
-MarketWatch • 22h ago
+Yahoo Finance • 20h ago
 
 ---
 
