@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T06:36:52.980357+00:00'
+updated: '2026-01-15T07:26:47.986980+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 06:36 UTC  
+**Last Updated:** January 15, 2026 at 07:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1922.24B
+**Market Cap:** $1923.84B
 Rank #1
 
-**Circulating Supply:** 19,975,950 BTC
+**Circulating Supply:** 19,976,012 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--23.7%
+-23.5%
 
 **All-Time Low:** $67.81
-+141808.3%
++142109.1%
 
 ---
 
@@ -87,7 +87,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,37 +95,37 @@ my hands are made of diamonds and there is goop inside of my skull
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-11h ago
+12h ago
 
 ---
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-16h ago
+17h ago
 
 ---
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-15h ago
+16h ago
 
 ---
 
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-13h ago
+14h ago
 
 ---
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -139,7 +139,7 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Block • 7h ago
 
 Bitcoin surged Wednesday on optimism of crypto-related legislation advancing in Congress.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 10h ago
 
 The Solana-based token plunged more than 80% shortly after launch, with on-chain watchers flagging liquidity shifts that its backers and Adams’ team dispute.
 
-CoinDesk • 55m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 10h ago
 
 Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 22h ago
 
 U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -303,23 +303,23 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[What Fed Chaos Means for Bitcoin’s Future](https://www.youtube.com/watch?v=tiTOn6ySPBo)**
+**[Did Iran and Silver Just Signal Bitcoin’s Next Big Move?](https://www.youtube.com/watch?v=s7CVssBn87E)**
 
-Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we discuss Fed independence and the ...
+Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt is out of control, and the dollar's credibility is circling ...
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 12K • 👍 523 • 💬 7 • ⏱️ 44:47 • 8h ago
+👁️ 23K • 👍 2K • 💬 110 • ⏱️ 24:06 • 8h ago
 
 ---
 
-**[what just happened to bitcoin and crypto altcoins... the answer is [BONE INDUCING]](https://www.youtube.com/watch?v=rRxyULCv0UQ)**
+**[🤩 F*CK Yeah - We Going To $100,000 in Bitcoin](https://www.youtube.com/watch?v=v6hUmYvlUhE)**
 
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Tyler S
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 15K • 👍 854 • 💬 105 • ⏱️ 6:42 • 11h ago
+👁️ 537 • 👍 53 • 💬 9 • ⏱️ 7:57 • 2h ago
 
 ---
 
@@ -329,37 +329,17 @@ Bitcoin just ripped from $92K to $97K, but is this a massive breakout or the ult
 
 📺 Kyle Chasse crypto
 
-👁️ 5K • 👍 355 • 💬 67 • ⏱️ 11:32 • 8h ago
+👁️ 7K • 👍 405 • 💬 71 • ⏱️ 11:32 • 9h ago
 
 ---
 
-**[Did Iran and Silver Just Signal Bitcoin’s Next Big Move?](https://www.youtube.com/watch?v=s7CVssBn87E)**
+**[what just happened to bitcoin and crypto altcoins... the answer is [BONE INDUCING]](https://www.youtube.com/watch?v=rRxyULCv0UQ)**
 
-Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt is out of control, and the dollar's credibility is circling ...
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
-📺 Simply Bitcoin
+📺 Tyler S
 
-👁️ 17K • 👍 2K • 💬 97 • ⏱️ 24:06 • 7h ago
-
----
-
-**[MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON’T MISS OUT!](https://www.youtube.com/watch?v=DFSfetSV6QM)**
-
-MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S CHANNEL (AUSTIN'S ...
-
-📺 Austin Hilton
-
-👁️ 10K • 👍 627 • 💬 16 • ⏱️ 6:09 • 14h ago
-
----
-
-**[Bitcoin BREAKS Towards $100K As Senate DELAYS The CLARITY Act!](https://www.youtube.com/watch?v=ZEl1zQNU4po)**
-
-Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointed to a massive $130B jump in total crypto market ...
-
-📺 The Wolf Of All Streets
-
-👁️ 26K • 👍 1K • 💬 167 • ⏱️ 47:15 • 15h ago
+👁️ 15K • 👍 884 • 💬 106 • ⏱️ 6:42 • 12h ago
 
 ---
 
@@ -369,37 +349,57 @@ Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeepi
 
 📺 EllioTrades
 
-👁️ 14K • 👍 938 • 💬 166 • ⏱️ 17:03 • 10h ago
+👁️ 16K • 👍 1K • 💬 172 • ⏱️ 17:03 • 11h ago
 
 ---
 
-**[Bitcoin&#39;s Bull Market is Back](https://www.youtube.com/watch?v=bJQ31AcVyRA)**
+**[HUGE BITCOIN BREAKOUT AHEAD...](https://www.youtube.com/watch?v=hJ40hCVW6MY)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
+WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=activity ✓My Private Group: ...
 
-📺 CryptosRUs
+📺 Crypto Rover
 
-👁️ 27K • 👍 1K • 💬 146 • ⏱️ 46:37 • 15h ago
-
----
-
-**[Fred Thiel: Bitcoin enters geopolitical era as miners become key infrastructure](https://www.youtube.com/watch?v=ljwErl6jsp0)**
-
-Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from speculation to strategic asset. Liquidity, energy, and ...
-
-📺 CNBC Television
-
-👁️ 11K • 👍 121 • 💬 29 • ⏱️ 5:02 • 18h ago
+👁️ 2K • 👍 270 • 💬 8 • ⏱️ 10:08 • 2h ago
 
 ---
 
-**[THIS BITCOIN SIGNAL HAS NEVER BEEN WRONG BEFORE!! - Silver And Gold PUSHING BTC Higher!? - Analaysis](https://www.youtube.com/watch?v=oPvsP5BGtVE)**
+**[Bitcoin Fear Index Extreme | The Setup Nobody&#39;s Talking About](https://www.youtube.com/watch?v=ofaBv5PFuyg)**
 
-BLOFIN: https://partner.blofin.com/d/TeamUnderground BYBIT: https://partner.bybit.com/b/65864 Follow us on X: ...
+Stay informed with the latest insights on **bitcoin today**, focusing on effective **crypto trading** strategies and essential ...
 
-📺 Team Underground
+📺 Krown
 
-👁️ 2K • 👍 93 • 💬 9 • ⏱️ 13:24 • 14h ago
+👁️ 7K • 👍 684 • 💬 86 • ⏱️ 12:02 • 12h ago
+
+---
+
+**[Bitcoin: We’ve Seen This Before](https://www.youtube.com/watch?v=1-ZHrMuGfAc)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 8K • 👍 652 • 💬 172 • ⏱️ 26:45 • 5h ago
+
+---
+
+**[You WILL NEVER Believe What Blackrock Just Did...](https://www.youtube.com/watch?v=Je5A3yiR0t4)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 16K • 👍 1K • 💬 99 • ⏱️ 9:34 • 14h ago
+
+---
+
+**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
+
+Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
+
+📺 Altcoin Daily
+
+👁️ 78K • 👍 5K • 💬 244 • ⏱️ 9:23 • 1d ago
 
 ---
 
