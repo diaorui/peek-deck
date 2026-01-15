@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T10:26:40.830656+00:00'
+updated: '2026-01-15T10:51:28.494082+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 10:26 UTC  
+**Last Updated:** January 15, 2026 at 10:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $96,642.51
+### $96,931.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
+**24h:** +2.1%  
 **7d:** +6.9%  
-**30d:** +12.1%  
+**30d:** +12.2%  
 **90d:** -9.5%  
 **1y:** -3.1%  
 
@@ -81,7 +81,7 @@ Rank #1
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-15h ago
+16h ago
 
 ---
 
@@ -113,13 +113,13 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 my hands are made of diamonds and there is goop inside of my skull
 
-13h ago
+14h ago
 
 ---
 
 **[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -133,13 +133,15 @@ my hands are made of diamonds and there is goop inside of my skull
 
 https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAD10P9jc5b-KIePCNTvdiaWNopyUupAoZl0CqcI9D7DAALxt6Yz8-RLiJjSawQt3309srMf\_QErLGKDtHL0DUNeE2gFP820HbctDVCt6XaTYX2SCO\_i7g64hRcxylWsbq-r1d2RaCSdmaE8z7URPia1pZd0bAqiUEjQv-nvJ47ba
 
-12h ago
+13h ago
 
 ---
 
-**[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
+**[On-Chain Data for the Last 12 Hours (69 blocks) Speaks Volumes](https://www.reddit.com/r/Bitcoin/comments/1qdb5jm/onchain_data_for_the_last_12_hours_69_blocks/)**
 
-16h ago
+The data for the last 12 hours (69 blocks) speaks volumes right now. PnL is the realized change in price for all combined UTXOs (almost half a million of them) from when they last moved. The 90-1y groups have been really active in the consolidation from the 80's the last couple months, but they all just went incredibly silent. 4yr+ group is also seeing almost no volume right now. Structurally, the on chain data is signaling this is a really strong move. Curious to see if this continues tomorrow.
+
+5h ago
 
 ---
 
@@ -157,13 +159,21 @@ CoinDesk • 4h ago
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
-**[Bitcoin Rally Stalls. Senate Crypto Bill Hits a Snag as Coinbase Pulls Support.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqcd4ROsimMOY_xwOkKJrY30Xey9KUk_FtL-8YaKZveiNY4ktwRDpC0-&gaa_ts=6968b6e7&gaa_sig=GwOhVtDCk2hpVWLW0CR0ZLDovligam9i7ZuD9_7vRpdn0Hoo2u9lV79Lx16LhRFtmMJVMnND2EWMEmMGF0MQLw%3D%3D)**
+**[How Much Will 1 Bitcoin Be Worth in 2026?](https://www.fool.com/investing/2026/01/15/how-much-will-1-bitcoin-be-worth-in-2026/)**
 
-Barron's • 1h ago
+Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
+
+The Motley Fool • 40m ago
+
+---
+
+**[Bitcoin Rally Stalls. Senate Crypto Bill Hits a Snag as Coinbase Pulls Support.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqdX_fMz9ecJvMBexzwLv9Hzrtk9LSVAZl-Gup9YnVR94M_0QpaTUnRd&gaa_ts=6968ca19&gaa_sig=RWAb0y3EdAXz_-Y3Z9YWt1AOVWjPj-0DPEa98T09bjrXl1rPkp34yNSjJuzS_UCQb0e4Q-nkkWnt6PbZqe8YUg%3D%3D)**
+
+Barron's • 2h ago
 
 ---
 
@@ -177,35 +187,13 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin rally stalls. Senate crypto bill hits a snag as Coinbase pulls support](https://www.msn.com/en-us/money/markets/bitcoin-rally-stalls-senate-crypto-bill-hits-a-snag-as-coinbase-pulls-support/ar-AA1UfWHQ?ocid=finance-verthp-feeds)**
 
-MSN • 1h ago
-
----
-
-**[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
-
-Bloomberg.com • 13h ago
-
----
-
-**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
-
-Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
-
-CoinDesk • 1d ago
-
----
-
-**[BTC, ETH, XRP ETF news: Bitcoin ETFs take in $830 million](https://www.coindesk.com/markets/2026/01/15/bitcoin-etfs-take-in-usd830-million-amid-positive-inflows-across-ether-solana-and-xrp)**
-
-Bitcoin, ether, solana and XRP spot ETFs all posted net inflows on Wednesday, led by the strongest day for bitcoin funds in months.
-
-CoinDesk • 2h ago
+MSN • 2h ago
 
 ---
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -214,6 +202,18 @@ Investor's Business Daily • 12h ago
 North America is becoming a less dominant force in the Bitcoin mining industry, ceding newly minted BTC to adversaries like China.
 
 Decrypt • 13h ago
+
+---
+
+**[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
+
+Bloomberg.com • 14h ago
+
+---
+
+**[Bitcoin ETF inflows reach $1.7 billion over three-day streak](https://www.theblock.co/post/385715/bitcoin-etf-inflows-three-day-streak)**
+
+The Block • 4h ago
 
 ---
 
@@ -259,14 +259,6 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 ---
 
-**[Where Is Bitcoin?](https://news.ycombinator.com/item?id=46539263)**
-
-Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
-
-⬆️ 2 • 💬 0 • 7d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
-
----
-
 **[US prosecutors launch criminal investigation into Federal Reserve chair](https://news.ycombinator.com/item?id=46585360)**
 
 Rolling coverage of the latest economic and financial news
@@ -287,13 +279,7 @@ Interactive visual explanation of SHA-256 hash algorithm - bitcoin-dev-project/h
 
 An apartment building can be turned into a huge cryptocurrency exchange
 
-⬆️ 1 • 💬 0 • 1d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
-
----
-
-**[Eleva.js – A 2.3KB JavaScript framework with signals and no virtual DOM](https://news.ycombinator.com/item?id=46604241)**
-
-⬆️ 4 • 💬 1 • 1d ago
+⬆️ 1 • 💬 0 • 2d ago • [gagadget.com](https://gagadget.com/en/691597-earn-money-and-take-a-shower-the-superheat-h1-boiler-which-heats-water-with-bitcoin-mining-heat-is-introduced/)
 
 ---
 
@@ -317,7 +303,7 @@ Bitcoin is poised for another historic run. From Wall Street's mixed signals to 
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 215 • 💬 68 • ⏱️ 8:24 • 5h ago
+👁️ 3K • 👍 215 • 💬 68 • ⏱️ 8:24 • 6h ago
 
 ---
 
@@ -387,7 +373,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 8K • 👍 718 • 💬 116 • ⏱️ 12:02 • 15h ago
+👁️ 8K • 👍 718 • 💬 116 • ⏱️ 12:02 • 16h ago
 
 ---
 
@@ -397,7 +383,7 @@ MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S 
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 640 • 💬 18 • ⏱️ 6:09 • 18h ago
+👁️ 10K • 👍 640 • 💬 18 • ⏱️ 6:09 • 19h ago
 
 ---
 

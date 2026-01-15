@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T10:26:40.836688+00:00'
+updated: '2026-01-15T10:51:28.500240+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 10:26 UTC  
+**Last Updated:** January 15, 2026 at 10:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +8.2%  
-**30d:** +17.9%  
-**90d:** -14.1%  
-**1y:** +0.9%  
+**24h:** +2.6%  
+**7d:** +9.2%  
+**30d:** +19.0%  
+**90d:** -13.4%  
+**1y:** +1.8%  
 
 ---
 
@@ -116,7 +116,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 6h ago
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 7h ago
 
 ---
 
@@ -165,11 +165,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Outlook Has Improved, And It Could Outperform Bitcoin – Here’s What To Know](https://www.tradingview.com/news/newsbtc:7736e253e094b:0-ethereum-outlook-has-improved-and-it-could-outperform-bitcoin-here-s-what-to-know/)**
+**[Ethereum Could Surge To $7,500 And Leave Bitcoin Behind, Banking Giant Says](https://www.tradingview.com/news/newsbtc:f38700ca3094b:0-ethereum-could-surge-to-7-500-and-leave-bitcoin-behind-banking-giant-says/)**
 
-Ethereum’s outlook has been improving its case. After a prolonged period of underperformance and skepticism, the network is starting to exhibit signs of renewed structural and fundamental strength. While BTC continues to anchor the market as the primary store of value and digital gold, conditions a…
+Standard Chartered has pushed its base-case price target for Ethereum to $7,500 by the end of the year, a big jump from an earlier $4,000 projection.According to the bank’s digital assets team, growing demand from corporate treasury buyers and spot ETH products has driven the change in outlook.Bank…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -181,19 +181,19 @@ Tom Lee's Ethereum supercycle 2026 thesis drives Bitmine's $88M ETH purchase at 
 
 ---
 
-**[Crypto Market News Today, January 15: Coinbase CEO Stops ‘The Written’ Crypto Bill Support as Ethereum Price Sideways in 2 Months | Altcoin Season Coming?](https://finance.yahoo.com/news/crypto-market-news-today-january-065052168.html)**
-
-Leading asset manager 21Shares has listed a new exchange-traded product (ETP) that mixes Bitcoin and gold on the London Stock Exchange. The product arrived as BTC/USD surged +3.3% overnight to around $95,000, following bullish US CPI data and record annual Bitcoin ETF flows. Zoom out, and this Bitcoin x gold ...
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitmine Immersion: Betting A Farm On Ethereum Is Risky (NYSE:BMNR)](https://seekingalpha.com/article/4859688-bitmine-immersion-betting-a-farm-on-ethereum-is-risky)**
 
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
 Seeking Alpha • 19h ago
+
+---
+
+**[Why Is Ethereum Jumping Today?](https://finance.yahoo.com/news/why-ethereum-jumping-today-223012541.html)**
+
+More crypto regulation could be coming soon.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -211,17 +211,17 @@ The Block • 21h ago
 
 ---
 
-**[This New ETF Could Be the Way to Play Ethereum in 2026](https://www.etftrends.com/monthly-income-content-hub/etf-way-play-ethereum-2026/)**
-
-ETF Trends • 2d ago
-
----
-
 **[Ethereum Trades 36% Off Highs but the Ascending Triangle Still Defines the Trend](https://www.investing.com/analysis/ethereum-trades-36-off-highs-but-the-ascending-triangle-still-defines-the-trend-200673178)**
 
 Market Analysis by  covering: Ethereum US Dollar. Read 's Market Analysis on Investing.com
 
 Investing.com • 1d ago
+
+---
+
+**[This New ETF Could Be the Way to Play Ethereum in 2026](https://www.etftrends.com/monthly-income-content-hub/etf-way-play-ethereum-2026/)**
+
+ETF Trends • 2d ago
 
 ---
 
@@ -235,7 +235,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 189 • 💬 36 • ⏱️ 11:22 • 9h ago
+👁️ 3K • 👍 189 • 💬 36 • ⏱️ 11:22 • 10h ago
 
 ---
 
@@ -255,7 +255,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 133 • 💬 6 • ⏱️ 4:34 • 7h ago
+👁️ 1K • 👍 133 • 💬 6 • ⏱️ 4:34 • 8h ago
 
 ---
 
@@ -265,7 +265,7 @@ In this episode of The Milk Road Show, we sit down with Christopher Keshian, fou
 
 📺 Milk Road
 
-👁️ 1K • 👍 67 • 💬 28 • ⏱️ 36:50 • 14h ago
+👁️ 1K • 👍 67 • 💬 28 • ⏱️ 36:50 • 15h ago
 
 ---
 
@@ -285,7 +285,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 19h ago
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 20h ago
 
 ---
 
@@ -295,7 +295,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 696 • 💬 103 • ⏱️ 17:33 • 5h ago
+👁️ 4K • 👍 696 • 💬 103 • ⏱️ 17:33 • 6h ago
 
 ---
 
@@ -305,7 +305,7 @@ Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break d
 
 📺 Koenz Trading
 
-👁️ 2K • 👍 102 • 💬 22 • ⏱️ 6:04 • 20h ago
+👁️ 2K • 👍 102 • 💬 22 • ⏱️ 6:04 • 21h ago
 
 ---
 

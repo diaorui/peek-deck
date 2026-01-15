@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T10:26:40.822024+00:00'
+updated: '2026-01-15T10:51:28.485517+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 10:26 UTC  
+**Last Updated:** January 15, 2026 at 10:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 9h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 10h ago
 
 ---
 
@@ -69,19 +69,19 @@ Zhipu claims GLM-Image achieved industry-leading scores among open-source models
 
 ---
 
-**[One-Minute Daily AI News 1/14/2026](https://www.reddit.com/r/artificial/comments/1qdaipm/oneminute_daily_ai_news_1142026/)**
-
-OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
-
-5h ago
-
----
-
 **[Google went from being "disrupted" by ChatGPT, to having the best LLM as well as rivalling Nvidia in hardware (TPUs). The narrative has changed](https://www.reddit.com/r/artificial/comments/1qcfcm6/google_went_from_being_disrupted_by_chatgpt_to/)**
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
 🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 1d ago
+
+---
+
+**[One-Minute Daily AI News 1/14/2026](https://www.reddit.com/r/artificial/comments/1qdaipm/oneminute_daily_ai_news_1142026/)**
+
+OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
+
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-9h ago
+10h ago
 
 ---
 
@@ -121,11 +121,33 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ## Google News: "ai"
 
+**[Gemini introduces Personal Intelligence](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence/)**
+
+Personal Intelligence connects the Gemini app to your Google apps to provide more personalized suggestions.
+
+blog.google • 18h ago
+
+---
+
+**[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
+
+The New York Times • 48m ago
+
+---
+
+**[Apple sits out AI arms race to play kingmaker between Google and OpenAI](https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a)**
+
+Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending
+
+Financial Times • 5h ago
+
+---
+
 **[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
 
 Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -147,21 +169,13 @@ The New Yorker • 23h ago
 
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-The New York Times • 15h ago
+The New York Times • 17h ago
 
 ---
 
-**[Wikipedia owner signs on Microsoft, Meta in AI content training deals](https://www.reuters.com/business/retail-consumer/wikipedia-owner-signs-microsoft-meta-ai-content-training-deals-2026-01-15/)**
+**[Behind the Curtain: The job replacement AI machine](https://www.axios.com/2026/01/15/ai-job-replacement-white-collar)**
 
-Reuters • 1h ago
-
----
-
-**[Wikipedia unveils new AI licensing deals as it marks 25th birthday](https://www.bostonglobe.com/2026/01/15/business/wikipedia-unveils-new-ai-licensing-deals-it-marks-25th-birthday/)**
-
-The online crowdsourced encyclopedia revealed that it has signed licensing deals with AI companies including Amazon, Meta Platforms, Perplexity, Microsoft, and France’s Mistral AI.
-
-The Boston Globe • 1h ago
+Axios • 16m ago
 
 ---
 
@@ -169,27 +183,15 @@ The Boston Globe • 1h ago
 
 Wikipedia on Thursday unveiled partnerships with several Big Tech companies including Microsoft, Meta and Amazon, marking a major step up in the ​non-profit's ability to monetize tech firms' reliance on its content.  Wikimedia Foundation, the operator ‌of the online encyclopedia, said it also signed on AI startup Perplexity and France's Mistral AI, among other firms, ‌over the past year, having enlisted Meta and Amazon as partners previously.  Wikipedia content is crucial to training AI models — its 65 million articles across over 300 languages are a key part of training data ⁠for generative AI chatbots and assistants ‌developed by tech majors.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
+**[1 AI Stock With the Potential to Deliver Outsize Returns Over the Next 10 Years](https://www.fool.com/investing/2026/01/15/1-ai-stock-with-the-potential-to-deliver-outsize-r/)**
 
-TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
+Marvell is an underrated AI chipmaker heading into 2026.
 
-CNBC • 4h ago
-
----
-
-**[TSMC Can’t Make AI Chips Fast Enough](https://www.theinformation.com/articles/tsmc-make-ai-chips-fast-enough)**
-
-The Information • 19h ago
-
----
-
-**[TSMC Ends 2025 With a Bang as AI Keeps Boosting Profits](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqd3c0JidsCtwxVRLTJb4JnGU54vDF_6J-R7c_aq4gdmgGVNprPiM4PI&gaa_ts=6968b6e6&gaa_sig=nQcNxj5iTU0gVVdKTOlj6KvEKZiGuqb0A1yltjpszTGC5ReVUnzKzaSmnA-wMCdrSWMf9kbh-9qQr5yItg8VOw%3D%3D)**
-
-The Wall Street Journal • 4h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -199,13 +201,13 @@ The Wall Street Journal • 4h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 926 • 💬 709 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 928 • 💬 709 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 456 • 💬 254 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 457 • 💬 255 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -213,7 +215,7 @@ The Wall Street Journal • 4h ago
 
 With agentic AI embedded at the OS level, databases storing entire digital lives accessible to malware, tasks whose reliability quickly breaks down at each step, and being opted-in without consent, Signal leadership is sounding the alarm for the industry to pull back until threats can be mitigated.
 
-⬆️ 340 • 💬 102 • 1d ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
+⬆️ 341 • 💬 102 • 1d ago • [Coywolf](https://coywolf.com/news/productivity/signal-president-and-vp-warn-agentic-ai-is-insecure-unreliable-and-a-surveillance-nightmare/)
 
 ---
 
@@ -221,7 +223,7 @@ With agentic AI embedded at the OS level, databases storing entire digital lives
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-⬆️ 338 • 💬 335 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
+⬆️ 338 • 💬 336 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ---
 
@@ -243,7 +245,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 224 • 💬 312 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 224 • 💬 314 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -251,7 +253,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 217 • 💬 140 • 13h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 220 • 💬 144 • 13h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -291,7 +293,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 87K • 👍 6K • 💬 339 • ⏱️ 10:04 • 13h ago
+👁️ 87K • 👍 6K • 💬 339 • ⏱️ 10:04 • 14h ago
 
 ---
 
@@ -301,7 +303,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 108K • 👍 6K • 💬 474 • ⏱️ 26:29 • 16h ago
+👁️ 108K • 👍 6K • 💬 474 • ⏱️ 26:29 • 17h ago
 
 ---
 
@@ -667,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 147 • 18h ago
+⭐ 2.4k • 🔱 147 • 19h ago
 
 ---
 
