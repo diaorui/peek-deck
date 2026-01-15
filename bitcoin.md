@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T09:51:56.993331+00:00'
+updated: '2026-01-15T10:26:40.830656+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 09:51 UTC  
+**Last Updated:** January 15, 2026 at 10:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,25 +87,25 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-19h ago
+20h ago
 
 ---
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-18h ago
+19h ago
 
 ---
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-6h ago
+7h ago
 
 ---
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 Bitcoin has returned to a price zone that previously blocked gains, but long-term holders are now taking profits more slowly than in 2025.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ Investor's Business Daily • 12h ago
 
 North America is becoming a less dominant force in the Bitcoin mining industry, ceding newly minted BTC to adversaries like China.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -263,7 +263,7 @@ Download BitScout: Track Bitcoin Wallet by Martin Gabriel Maldonado on the App S
 
 Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks like Bitcoin has failed for day-to-day transactions. So I've a simple question to ask - can you meaningfully spend any cryptocurrency in your city centre?  A few months ago, my wife and I went on a 30 day Interrail holiday across Europe. 10 countries, over a dozen cities, making over a hundred payments.  I looked in…
 
-⬆️ 2 • 💬 0 • 6d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
+⬆️ 2 • 💬 0 • 7d ago • [Terence Eden’s Blog](https://shkspr.mobi/blog/2026/01/where-is-bitcoin/)
 
 ---
 
@@ -307,7 +307,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 130 • ⏱️ 24:06 • 10h ago
+👁️ 25K • 👍 2K • 💬 130 • ⏱️ 24:06 • 11h ago
 
 ---
 
@@ -327,7 +327,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 789 • 💬 295 • ⏱️ 26:45 • 7h ago
+👁️ 11K • 👍 789 • 💬 295 • ⏱️ 26:45 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 17K • 👍 1K • 💬 103 • ⏱️ 9:34 • 16h ago
+👁️ 17K • 👍 1K • 💬 103 • ⏱️ 9:34 • 17h ago
 
 ---
 
@@ -347,7 +347,7 @@ Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeepi
 
 📺 EllioTrades
 
-👁️ 17K • 👍 1K • 💬 175 • ⏱️ 17:03 • 13h ago
+👁️ 17K • 👍 1K • 💬 175 • ⏱️ 17:03 • 14h ago
 
 ---
 
@@ -357,7 +357,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 901 • 💬 107 • ⏱️ 6:42 • 14h ago
+👁️ 16K • 👍 901 • 💬 107 • ⏱️ 6:42 • 15h ago
 
 ---
 
@@ -367,7 +367,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 969 • 👍 77 • 💬 16 • ⏱️ 7:57 • 4h ago
+👁️ 969 • 👍 77 • 💬 16 • ⏱️ 7:57 • 5h ago
 
 ---
 

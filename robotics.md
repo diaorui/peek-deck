@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T09:51:57.002538+00:00'
+updated: '2026-01-15T10:26:40.839929+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 09:51 UTC  
+**Last Updated:** January 15, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,13 +52,13 @@ The biggest frustration I faced while scaling a robot project wasn’t building 
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-9h ago
+10h ago
 
 ---
 
 **[Interesting blog on a arduino based car](https://www.reddit.com/r/robotics/comments/1qdbuvk/interesting_blog_on_a_arduino_based_car/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ I have been searching for controllers where i can connect anything anywhere and 
 
 **[Unpacking: Marvelmind Boxie 2 Robot](https://www.reddit.com/r/robotics/comments/1qckf0e/unpacking_marvelmind_boxie_2_robot/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ I came across the Arctos robotic arm a few months ago and decided to embark on t
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone, I’m looking for real-world experience with Arducam ToF sensors us
 
 I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
 
-23h ago
+1d ago
 
 ---
 
@@ -114,13 +114,13 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
 **[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
 
-Business Wire • 18h ago
+Business Wire • 19h ago
 
 ---
 
@@ -128,13 +128,13 @@ Business Wire • 18h ago
 
 Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 17h ago
+GeekWire • 18h ago
 
 ---
 
@@ -162,7 +162,7 @@ MarketWatch • 13h ago
 
 AgiBot subsidiary PrimeBot has built the world's smallest personal humanoid robot for embodied intelligence and daily life.
 
-Interesting Engineering • 2d ago
+Interesting Engineering • 3d ago
 
 ---
 
@@ -252,7 +252,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 84K • 👍 5K • 💬 134 • ⏱️ 0:49 • 12h ago
+👁️ 84K • 👍 5K • 💬 134 • ⏱️ 0:49 • 13h ago
 
 ---
 

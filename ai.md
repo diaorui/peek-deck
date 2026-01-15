@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T09:51:56.984881+00:00'
+updated: '2026-01-15T10:26:40.822024+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 09:51 UTC  
+**Last Updated:** January 15, 2026 at 10:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 18h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 19h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 11h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 3h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Zhipu claims GLM-Image achieved industry-leading scores among open-source models
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 14h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 15h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 1h ago
 
 AI tool made by Elon Musk’s xAI makes it easy to harass women with deepfake images, says state’s top attorney
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -141,13 +141,13 @@ The Guardian • 13h ago
 
 Elon Musk’s X is living up to its name.
 
-The New Yorker • 22h ago
+The New Yorker • 23h ago
 
 ---
 
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -183,13 +183,13 @@ CNBC • 4h ago
 
 **[TSMC Can’t Make AI Chips Fast Enough](https://www.theinformation.com/articles/tsmc-make-ai-chips-fast-enough)**
 
-The Information • 18h ago
+The Information • 19h ago
 
 ---
 
 **[TSMC Ends 2025 With a Bang as AI Keeps Boosting Profits](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqd3c0JidsCtwxVRLTJb4JnGU54vDF_6J-R7c_aq4gdmgGVNprPiM4PI&gaa_ts=6968b6e6&gaa_sig=nQcNxj5iTU0gVVdKTOlj6KvEKZiGuqb0A1yltjpszTGC5ReVUnzKzaSmnA-wMCdrSWMf9kbh-9qQr5yItg8VOw%3D%3D)**
 
-The Wall Street Journal • 3h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -251,7 +251,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 217 • 💬 140 • 12h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 217 • 💬 140 • 13h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -311,7 +311,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 50K • 👍 2K • 💬 314 • ⏱️ 19:03 • 17h ago
+👁️ 50K • 👍 2K • 💬 314 • ⏱️ 19:03 • 18h ago
 
 ---
 
@@ -329,7 +329,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 NetworkChuck
 
-👁️ 18K • 👍 1K • 💬 28 • ⏱️ 2:09 • 1h ago
+👁️ 18K • 👍 1K • 💬 28 • ⏱️ 2:09 • 2h ago
 
 ---
 
@@ -397,7 +397,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,010 • 15h ago
+⬇️ 1,187,843 • ❤️ 1,010 • 16h ago
 
 ---
 
@@ -445,7 +445,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 41,095 • ❤️ 266 • 13h ago
+⬇️ 41,095 • ❤️ 266 • 14h ago
 
 ---
 
@@ -637,7 +637,7 @@ Reinforcement learning for large language model agents suffers from discriminati
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.6k • 🔱 1.1k • 3h ago
+⭐ 8.6k • 🔱 1.1k • 4h ago
 
 ---
 
@@ -687,7 +687,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 55 • 5h ago
+⭐ 1.7k • 🔱 55 • 6h ago
 
 ---
 
@@ -697,7 +697,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 132 • 3h ago
+⭐ 1.6k • 🔱 132 • 4h ago
 
 ---
 
@@ -707,7 +707,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.6k • 🔱 1.3k • 19h ago
+⭐ 1.6k • 🔱 1.3k • 20h ago
 
 ---
 

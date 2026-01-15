@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T09:51:56.999317+00:00'
+updated: '2026-01-15T10:26:40.836688+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - videos
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 09:51 UTC  
+**Last Updated:** January 15, 2026 at 10:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
 **[Ethereum takes an ecosystem. From the Cypherpunks who wrote the code to the Anons shipping today.](https://www.reddit.com/r/ethereum/comments/1qde0l8/ethereum_takes_an_ecosystem_from_the_cypherpunks/)**
 
-🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Weekly Doots live stream is all about showcasing the best of the week from the Daily General Discussion from the r/ethereum Community on Reddit! Host: JT Technical Host: LogrisTheBard https://dailydoots.com by Hanniabu Daily Doots Curator: Tricky_Troll Weekly Doots Curator: The-A-Word Farcaster and Backend Host Support: Ben Broad Media Content Support: Twelve Meatballs Discord Bouncer and Watchdog: Treebeard THE PRINCESTON DECENTER PROFESSOR'S ROUNDTABLE Carolyn Biltoft: https://www.graduateinstitute.ch/facu... Andrew Chignell: https://chignell.net/ Devin P. Singh: https://religion.dartmouth.edu/people... Gordon Grant: Principal at ChiSquared Technologies Mike Maizels: https://engineering.princeton.edu/sta... Carolyn Biltoft holds a PhD from Princeton University and is an Associate Professor of International History and Politics at the Geneva Graduate Institute. Carolyn writes and writes on the relationship between the history of epistemology and economic thought since the 18th century. Her acclaimed book A Violent Peace: Truth, Media and Power at the League of Nations explores media, propaganda, and truth claims in early global institutions and contains a chapter on counterfeit currency in the age of fascism. Carolyn is a founding editor of Capitalism: a journal of history and economics https://www.pennpress.org/journals/jo... Andrew Chignell is a professor at Princeton University's Center for Human Values, with appointments in Religion and Philosophy. His research spans the work of Immanuel Kant and other Enlightenment philosophers, philosophy of religion, epistemology and the ethics of belief, and topics in moral psychology like hope and despair. Recently, he has directed the Princeton Project in Philosophy and Religion and led efforts for a major cross-disciplinary grant on optimism, pessimism, hope, and despair. chignell.net Devin P. Singh holds a PhD from Yale University and is an Associate Professor of Religion at Dartmouth College. His work examines intersections of Christian thought with economy, politics, money, and secularization. Recent publications include the book Economy and Modern Christian Thought and an ongoing project on the religious and social roles of debt. devinsingh.com Gordon Grant is a seasoned cryptocurrency trader and derivatives expert. Graduating from Princeton University with a focus on econometrics and quantitative finance, he built his early career as a derivatives portfolio manager before he discovered Bitcoin in 2013 and made a full pivot to digital assets, He played a pivotal role at Genesis Trading from 2019 to 2023 and Today Gordon serves as Principal at ChiSquared Technologies Mike Maizels (Michael Maizels) is the Executive Director of Princeton University's DeCenter for blockchain and decentralization research. With a background in interdisciplinary technology and societal change, he leads efforts to advance education, research, and policy around blockchain's potential to shift power structures. He co-directs major events like the DeCenter's annual Spring Conference on decentralization's infrastructure and implications. decenter.princeton.edu
 
-🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 11h ago
+🔗 [youtu.be](https://youtu.be/OnldFSbAPP0?si=EkZBNSk-CJSRm7yZ) • 12h ago
 
 ---
 
@@ -110,7 +110,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 10h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ Decrypt • 1d ago
 
 Ethereum’s outlook has been improving its case. After a prolonged period of underperformance and skepticism, the network is starting to exhibit signs of renewed structural and fundamental strength. While BTC continues to anchor the market as the primary store of value and digital gold, conditions a…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 3h ago
 
 Bitmine (BMNR) targets 5% of Ethereum supply with its âAlchemy of 5%â strategyâvaluation, staking plans, and key dilution/concentration risks.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1d ago
 
 **[Ethereum staking hits all-time high with almost 30% of ETH supply locked](https://www.theblock.co/post/385541/ethereum-staking-all-time-high)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -245,7 +245,7 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 141 • 💬 8 • ⏱️ 20:12 • 16h ago
+👁️ 4K • 👍 141 • 💬 8 • ⏱️ 20:12 • 17h ago
 
 ---
 
