@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T11:21:01.490252+00:00'
+updated: '2026-01-15T11:42:55.058527+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 11:21 UTC  
+**Last Updated:** January 15, 2026 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $402.67B
+**Market Cap:** $404.20B
 Rank #2
 
 **Circulating Supply:** 120,694,650 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.4%
+-32.3%
 
 **All-Time Low:** $0.43
-+771946.7%
++773623.4%
 
 ---
 
@@ -193,7 +193,7 @@ Seeking Alpha • 20h ago
 
 More crypto regulation could be coming soon.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -229,13 +229,23 @@ ETF Trends • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Why Ethereum’s “Quiet Phase” Just Ended](https://www.youtube.com/watch?v=rVWQfUG8vEk)**
+
+Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
+
+📺 Marzell Crypto
+
+👁️ 163 • 👍 13 • 💬 60 • ⏱️ 6:39 • 1h ago
+
+---
+
 **[I’m Betting BIG on SOL &amp; ETH (Price Prediction)](https://www.youtube.com/watch?v=D55cK-8a3OQ)**
 
 Ethereum and Solana are leading the 2026 crypto bull market. In this video, I break down the SOL vs ETH debate, analyzing the ...
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 189 • 💬 36 • ⏱️ 11:22 • 10h ago
+👁️ 4K • 👍 202 • 💬 41 • ⏱️ 11:22 • 11h ago
 
 ---
 
@@ -245,7 +255,17 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 4K • 👍 141 • 💬 8 • ⏱️ 20:12 • 18h ago
+👁️ 4K • 👍 151 • 💬 10 • ⏱️ 20:12 • 18h ago
+
+---
+
+**[BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yk9UNui8VEc)**
+
+BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 799 • 👍 69 • 💬 28 • ⏱️ 25:02 • 45m ago
 
 ---
 
@@ -255,17 +275,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 133 • 💬 6 • ⏱️ 4:34 • 8h ago
-
----
-
-**[Ethereum Can Dominate Crypto and Still Be a Bad Investment w/ Christopher Keshian](https://www.youtube.com/watch?v=YVJvZsVs-y0)**
-
-In this episode of The Milk Road Show, we sit down with Christopher Keshian, founder of Triton Liquid Fund, to unpack a ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 67 • 💬 28 • ⏱️ 36:50 • 15h ago
+👁️ 2K • 👍 152 • 💬 7 • ⏱️ 4:34 • 8h ago
 
 ---
 
@@ -275,7 +285,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 604 • 💬 26 • ⏱️ 17:37 • 1d ago
+👁️ 16K • 👍 599 • 💬 26 • ⏱️ 17:37 • 1d ago
+
+---
+
+**[Ethereum Can Dominate Crypto and Still Be a Bad Investment w/ Christopher Keshian](https://www.youtube.com/watch?v=YVJvZsVs-y0)**
+
+In this episode of The Milk Road Show, we sit down with Christopher Keshian, founder of Triton Liquid Fund, to unpack a ...
+
+📺 Milk Road
+
+👁️ 1K • 👍 70 • 💬 30 • ⏱️ 36:50 • 15h ago
 
 ---
 
@@ -285,17 +305,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 20h ago
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 21h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Hast du das gesehen?? Weitere Hochs möglich solange DAS hält!](https://www.youtube.com/watch?v=QUCzAEV6TCY)**
+**[CRYPTO Impossible To Ignore: Ethereum, Chainlink, Cardano Tell Same Story!p](https://www.youtube.com/watch?v=le-YcIqDThM)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 20% Auf ...
+Track risk models, plan exits, and stay ahead! Free Trial https://app.cryptocapitalventure.ai Altcoins are starting to tell the same ...
 
-📺 Krypto Trading & Investing
+📺 Dan Gambardello
 
-👁️ 4K • 👍 696 • 💬 103 • ⏱️ 17:33 • 6h ago
+👁️ 17K • 👍 1K • 💬 228 • ⏱️ 13:02 • 1d ago
 
 ---
 
@@ -305,27 +325,7 @@ Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break d
 
 📺 Koenz Trading
 
-👁️ 2K • 👍 102 • 💬 22 • ⏱️ 6:04 • 21h ago
-
----
-
-**[BIGGEST Crypto News This Week - What CLARITY ACT Means For You](https://www.youtube.com/watch?v=na8rPtQsvEM)**
-
-Buy, Sell, Trade Crypto (limited time): CoinW New User Deposit Bonus $150 ...
-
-📺 Altcoin Daily
-
-👁️ 79K • 👍 5K • 💬 245 • ⏱️ 9:23 • 1d ago
-
----
-
-**[BMNR to Ethereum Foundations | Why Capital should be Positioning ahead of CLARITY Act](https://www.youtube.com/watch?v=pBjTDrojU-w)**
-
-From BMNR's balance sheet to Ethereum's core fundamentals, we look at the updated $14B treasury, ETH's fundamentals and ...
-
-📺 The Value Thinker
-
-👁️ 18K • 👍 1K • 💬 175 • ⏱️ 26:25 • 1d ago
+👁️ 2K • 👍 104 • 💬 22 • ⏱️ 6:04 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T11:21:01.484960+00:00'
+updated: '2026-01-15T11:42:55.052457+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 11:21 UTC  
+**Last Updated:** January 15, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1929.76B
+**Market Cap:** $1930.80B
 Rank #1
 
-**Circulating Supply:** 19,976,012 BTC
+**Circulating Supply:** 19,976,115 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
 -23.3%
 
 **All-Time Low:** $67.81
-+142586.9%
++142448.3%
 
 ---
 
@@ -99,7 +99,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -113,7 +113,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 my hands are made of diamonds and there is goop inside of my skull
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAD10P9jc5b-KIePCNTvdiaWNopyUupAoZl0CqcI9D7DAALxt6Yz8-RLiJjSawQt3309srMf\_QErLGKDtHL0DUNeE2gFP820HbctDVCt6XaTYX2SCO\_i7g64hRcxylWsbq-r1d2RaCSdmaE8z7URPia1pZd0bAqiUEjQv-nvJ47ba
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 The data for the last 12 hours (69 blocks) speaks volumes right now. PnL is the realized change in price for all combined UTXOs (almost half a million of them) from when they last moved. The 90-1y groups have been really active in the consolidation from the 80's the last couple months, but they all just went incredibly silent. 4yr+ group is also seeing almost no volume right now. Structurally, the on chain data is signaling this is a really strong move. Curious to see if this continues tomorrow.
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ CoinDesk • 5h ago
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 1h ago
 
 **[Bitcoin Rally Stalls. Senate Crypto Bill Hits a Snag as Coinbase Pulls Support.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-crypto-bill-coinbase-cdec3bec?gaa_at=eafs&gaa_n=AWEtsqdX_fMz9ecJvMBexzwLv9Hzrtk9LSVAZl-Gup9YnVR94M_0QpaTUnRd&gaa_ts=6968ca19&gaa_sig=RWAb0y3EdAXz_-Y3Z9YWt1AOVWjPj-0DPEa98T09bjrXl1rPkp34yNSjJuzS_UCQb0e4Q-nkkWnt6PbZqe8YUg%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ MSN • 2h ago
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 13h ago
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -207,13 +207,13 @@ Decrypt • 14h ago
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
 **[Bitcoin ETF inflows reach $1.7 billion over three-day streak](https://www.theblock.co/post/385715/bitcoin-etf-inflows-three-day-streak)**
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -293,7 +293,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 130 • ⏱️ 24:06 • 12h ago
+👁️ 27K • 👍 2K • 💬 130 • ⏱️ 24:06 • 12h ago
 
 ---
 
@@ -303,37 +303,7 @@ Bitcoin is poised for another historic run. From Wall Street's mixed signals to 
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 215 • 💬 68 • ⏱️ 8:24 • 6h ago
-
----
-
-**[Bitcoin: We’ve Seen This Before](https://www.youtube.com/watch?v=1-ZHrMuGfAc)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 11K • 👍 789 • 💬 295 • ⏱️ 26:45 • 9h ago
-
----
-
-**[You WILL NEVER Believe What Blackrock Just Did...](https://www.youtube.com/watch?v=Je5A3yiR0t4)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 17K • 👍 1K • 💬 103 • ⏱️ 9:34 • 18h ago
-
----
-
-**[Bitcoin Has Entered the Housekeeping Zone (URGENT Update)](https://www.youtube.com/watch?v=_xWL7IRKTB0)**
-
-Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeeping zone” the market always reacts to. ➡ Follow ...
-
-📺 EllioTrades
-
-👁️ 17K • 👍 1K • 💬 175 • ⏱️ 17:03 • 15h ago
+👁️ 4K • 👍 253 • 💬 74 • ⏱️ 8:24 • 7h ago
 
 ---
 
@@ -343,7 +313,27 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 16K • 👍 901 • 💬 107 • ⏱️ 6:42 • 16h ago
+👁️ 16K • 👍 909 • 💬 156 • ⏱️ 6:42 • 16h ago
+
+---
+
+**[Bitcoin: We’ve Seen This Before](https://www.youtube.com/watch?v=1-ZHrMuGfAc)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 14K • 👍 899 • 💬 309 • ⏱️ 26:45 • 9h ago
+
+---
+
+**[You WILL NEVER Believe What Blackrock Just Did...](https://www.youtube.com/watch?v=Je5A3yiR0t4)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 18K • 👍 1K • 💬 108 • ⏱️ 9:34 • 18h ago
 
 ---
 
@@ -353,7 +343,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 969 • 👍 77 • 💬 16 • ⏱️ 7:57 • 6h ago
+👁️ 2K • 👍 100 • 💬 27 • ⏱️ 7:57 • 6h ago
 
 ---
 
@@ -363,27 +353,37 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 394 • 💬 42 • ⏱️ 10:08 • 6h ago
+👁️ 7K • 👍 481 • 💬 54 • ⏱️ 10:08 • 6h ago
 
 ---
 
-**[Bitcoin Fear Index Extreme | The Setup Nobody&#39;s Talking About](https://www.youtube.com/watch?v=ofaBv5PFuyg)**
+**[Bitcoin&#39;s Bull Market is Back](https://www.youtube.com/watch?v=bJQ31AcVyRA)**
 
-Stay informed with the latest insights on **bitcoin today**, focusing on effective **crypto trading** strategies and essential ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Krown
+📺 CryptosRUs
 
-👁️ 8K • 👍 718 • 💬 116 • ⏱️ 12:02 • 16h ago
+👁️ 29K • 👍 1K • 💬 175 • ⏱️ 46:37 • 20h ago
 
 ---
 
-**[MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON’T MISS OUT!](https://www.youtube.com/watch?v=DFSfetSV6QM)**
+**[BITCOIN...THIS DISASTER SIGNAL JUST FLASHED…](https://www.youtube.com/watch?v=VuVZVJGXYQA)**
 
-MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S CHANNEL (AUSTIN'S ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Austin Hilton
+📺 Satoshi Stacker
 
-👁️ 10K • 👍 640 • 💬 18 • ⏱️ 6:09 • 19h ago
+👁️ 6K • 👍 421 • 💬 29 • ⏱️ 11:54 • 3h ago
+
+---
+
+**[Bitcoin Has Entered the Housekeeping Zone (URGENT Update)](https://www.youtube.com/watch?v=_xWL7IRKTB0)**
+
+Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeeping zone” the market always reacts to. ➡ Follow ...
+
+📺 EllioTrades
+
+👁️ 18K • 👍 1K • 💬 177 • ⏱️ 17:03 • 15h ago
 
 ---
 

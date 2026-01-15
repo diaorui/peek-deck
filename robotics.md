@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T11:21:01.493063+00:00'
+updated: '2026-01-15T11:42:55.061809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 11:21 UTC  
+**Last Updated:** January 15, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ I have been searching for controllers where i can connect anything anywhere and 
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-14h ago
+15h ago
 
 ---
 
@@ -192,7 +192,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 420K • 👍 13K • 💬 741 • ⏱️ 17:09 • 2d ago
+👁️ 422K • 👍 13K • 💬 742 • ⏱️ 17:09 • 2d ago
 
 ---
 
@@ -202,7 +202,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 151K • 👍 2K • 💬 384 • ⏱️ 11:46 • 3d ago
+👁️ 152K • 👍 2K • 💬 384 • ⏱️ 11:46 • 3d ago
 
 ---
 
@@ -212,17 +212,7 @@ Thanks to Narwal for sponsoring today's video! Check the link below to learn mor
 
 📺 Trisha Hershberger
 
-👁️ 11K • 👍 600 • 💬 37 • ⏱️ 9:28 • 4d ago
-
----
-
-**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
-
-Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
-
-📺 The Verge
-
-👁️ 95K • 👍 1K • 💬 170 • ⏱️ 10:48 • 4d ago
+👁️ 11K • 👍 601 • 💬 37 • ⏱️ 9:28 • 4d ago
 
 ---
 
@@ -246,13 +236,13 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hel
 
 ---
 
-**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+**[Are humanoid robots the next smart home gadget?](https://www.youtube.com/watch?v=o2P8K3xIKZY)**
 
-ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+Advances in robotics and AI have made robots smarter and more capable than ever. The question is whether they're now capable ...
 
-📺 Gohar Khan
+📺 The Verge
 
-👁️ 84K • 👍 5K • 💬 134 • ⏱️ 0:49 • 13h ago
+👁️ 95K • 👍 1K • 💬 171 • ⏱️ 10:48 • 4d ago
 
 ---
 
@@ -260,7 +250,17 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 BBC News
 
-👁️ 30K • 👍 451 • 💬 53 • ⏱️ 1:17 • 1d ago
+👁️ 31K • 👍 441 • 💬 53 • ⏱️ 1:17 • 1d ago
+
+---
+
+**[The Tech Powering Amazon](https://www.youtube.com/watch?v=_0iMswBTx-4)**
+
+ad what happens when you place an order from @amazon? I had the chance to find out! #tech #ai #robotics.
+
+📺 Gohar Khan
+
+👁️ 92K • 👍 5K • 💬 137 • ⏱️ 0:49 • 14h ago
 
 ---
 
@@ -270,15 +270,17 @@ When a robo-cleaner can notify you that a bar of gold was left on your living ro
 
 📺 mryeester
 
-👁️ 102K • 👍 5K • 💬 186 • ⏱️ 1:06 • 5d ago
+👁️ 103K • 👍 5K • 💬 187 • ⏱️ 1:06 • 5d ago
 
 ---
 
-**[I bought a robot dog](https://www.youtube.com/watch?v=8QVHPu3xtCg)**
+**[7 Coolest Robots at CES 2026](https://www.youtube.com/watch?v=TlPYlsuR1DE)**
 
-📺 Mrwhosetheboss
+CES 2026 just showed how insane robots have become. Subscribe to @cybernews for more hacking documentaries, tech ...
 
-👁️ 485K • 👍 17K • 💬 279 • ⏱️ 0:29 • 5d ago
+📺 Cybernews
+
+👁️ 19K • 👍 256 • 💬 36 • ⏱️ 11:29 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T11:21:01.477412+00:00'
+updated: '2026-01-15T11:42:55.043900+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 11:21 UTC  
+**Last Updated:** January 15, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 10h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI t
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-10h ago
+11h ago
 
 ---
 
@@ -169,13 +169,13 @@ The New Yorker • 1d ago
 
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
 **[Behind the Curtain: The job replacement AI machine](https://www.axios.com/2026/01/15/ai-job-replacement-white-collar)**
 
-Axios • 45m ago
+Axios • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Axios • 45m ago
 
 Wikipedia on Thursday unveiled partnerships with several Big Tech companies including Microsoft, Meta and Amazon, marking a major step up in the ​non-profit's ability to monetize tech firms' reliance on its content.  Wikimedia Foundation, the operator ‌of the online encyclopedia, said it also signed on AI startup Perplexity and France's Mistral AI, among other firms, ‌over the past year, having enlisted Meta and Amazon as partners previously.  Wikipedia content is crucial to training AI models — its 65 million articles across over 300 languages are a key part of training data ⁠for generative AI chatbots and assistants ‌developed by tech majors.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -277,33 +277,23 @@ The future of intelligence is being set right now, and the path we’re on leads
 
 ## YouTube Videos: "ai"
 
+**[The SECRET to Stunning AI Video Prompts!](https://www.youtube.com/watch?v=vRNHNNliDVM)**
+
+Is it possible to get consistent, Hollywood-level cinematography from AI video generators? Yes, but you need the right workflow.
+
+📺 Theoretically Media
+
+👁️ 13K • 👍 984 • 💬 96 • ⏱️ 14:15 • 12h ago
+
+---
+
 **[Microsoft Shocks AI World: &quot;China AI Is Now Too Powerful&quot;](https://www.youtube.com/watch?v=vcUBUQOyzFI)**
 
 Microsoft just issued a warning that reframes the AI race: outside the West, China is gaining fast through scale, affordability, and ...
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 156 • ⏱️ 14:32 • 1d ago
-
----
-
-**[The Gooner AI Problem](https://www.youtube.com/watch?v=j8s8XTMIUvA)**
-
-This is an educational video on AI Gooners in society IM BACK! Press the red button Royalty Free Music from Bensound ...
-
-📺 TommyNFG
-
-👁️ 87K • 👍 6K • 💬 339 • ⏱️ 10:04 • 14h ago
-
----
-
-**[AI influencers are somehow even worse now](https://www.youtube.com/watch?v=G6lt6CfJMlw)**
-
-bleh.
-
-📺 D'Angelo
-
-👁️ 108K • 👍 6K • 💬 474 • ⏱️ 26:29 • 17h ago
+👁️ 44K • 👍 1K • 💬 159 • ⏱️ 14:32 • 1d ago
 
 ---
 
@@ -313,7 +303,27 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 50K • 👍 2K • 💬 314 • ⏱️ 19:03 • 18h ago
+👁️ 53K • 👍 2K • 💬 320 • ⏱️ 19:03 • 19h ago
+
+---
+
+**[AI influencers are somehow even worse now](https://www.youtube.com/watch?v=G6lt6CfJMlw)**
+
+bleh.
+
+📺 D'Angelo
+
+👁️ 115K • 👍 7K • 💬 488 • ⏱️ 26:29 • 18h ago
+
+---
+
+**[The Gooner AI Problem](https://www.youtube.com/watch?v=j8s8XTMIUvA)**
+
+This is an educational video on AI Gooners in society IM BACK! Press the red button Royalty Free Music from Bensound ...
+
+📺 TommyNFG
+
+👁️ 92K • 👍 6K • 💬 353 • ⏱️ 10:04 • 15h ago
 
 ---
 
@@ -323,7 +333,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 Adam Something
 
-👁️ 368K • 👍 33K • 💬 4K • ⏱️ 11:40 • 1d ago
+👁️ 374K • 👍 33K • 💬 4K • ⏱️ 11:40 • 1d ago
 
 ---
 
@@ -331,7 +341,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 NetworkChuck
 
-👁️ 18K • 👍 1K • 💬 28 • ⏱️ 2:09 • 3h ago
+👁️ 46K • 👍 3K • 💬 58 • ⏱️ 2:09 • 3h ago
 
 ---
 
@@ -341,7 +351,7 @@ Steven Levy, Wired editor-at-large, joins 'Squawk Box' to discuss what to expect
 
 📺 CNBC Television
 
-👁️ 68K • 👍 508 • 💬 124 • ⏱️ 7:57 • 2d ago
+👁️ 68K • 👍 509 • 💬 124 • ⏱️ 7:57 • 2d ago
 
 ---
 
@@ -351,7 +361,7 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 611K • 👍 8K • 💬 345 • ⏱️ 0:23 • 2d ago
+👁️ 619K • 👍 8K • 💬 352 • ⏱️ 0:23 • 2d ago
 
 ---
 
@@ -361,23 +371,25 @@ I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minne
 
 📺 I Ask AI
 
-👁️ 208K • 👍 17K • 💬 3K • ⏱️ 13:08 • 2d ago
-
----
-
-**[Grok Enters the War Room, AI to Control American Military? Pentagon&#39;s AI Push | WION](https://www.youtube.com/watch?v=C0ibxHTPKW8)**
-
-The U.S. military is accelerating its push to integrate artificial intelligence into weapons systems, aiming to maintain an edge over ...
-
-📺 WION
-
-👁️ 12K • 👍 133 • 💬 57 • ⏱️ 4:18 • 1d ago
+👁️ 210K • 👍 17K • 💬 3K • ⏱️ 13:08 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
+
+**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
+
+*Z.ai*
+
+GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
+
+`text-to-image`
+
+⬇️ 2,442 • ❤️ 619 • 1h ago
+
+---
 
 **[Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)**
 
@@ -387,7 +399,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 44,101 • ❤️ 657 • 7d ago
+⬇️ 44,101 • ❤️ 667 • 7d ago
 
 ---
 
@@ -399,31 +411,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,010 • 17h ago
-
----
-
-**[GLM-Image](https://huggingface.co/zai-org/GLM-Image)**
-
-*Z.ai*
-
-GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion decoder architecture, excelling in text rendering and knowledge-intensive generation. It supports both text-to-image and image-to-image tasks including editing and style transfer.
-
-`text-to-image`
-
-⬇️ 2,442 • ❤️ 596 • 1d ago
-
----
-
-**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
-
-*NVIDIA*
-
-Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
-
-`automatic-speech-recognition`
-
-⬇️ 4,414 • ❤️ 376 • 9d ago
+⬇️ 1,187,843 • ❤️ 1,020 • 17h ago
 
 ---
 
@@ -435,7 +423,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 315 • ❤️ 273 • 1d ago
+⬇️ 315 • ❤️ 274 • 1d ago
 
 ---
 
@@ -447,7 +435,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 41,095 • ❤️ 266 • 14h ago
+⬇️ 41,095 • ❤️ 266 • 15h ago
 
 ---
 
@@ -463,6 +451,18 @@ Qwen3-VL-Embedding-8B is a multimodal embedding model that generates high-dimens
 
 ---
 
+**[Qwen3-VL-Embedding-2B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B)**
+
+*Qwen*
+
+Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generates high-dimensional vectors for text, images, and videos. It excels at cross-modal understanding and retrieval tasks, supporting over 30 languages and customizable embedding dimensions for flexible integration.
+
+`image-to-text` `2.1B`
+
+⬇️ 36,629 • ❤️ 225 • 5d ago
+
+---
+
 **[HyperCLOVAX-SEED-Think-32B](https://huggingface.co/naver-hyperclovax/HyperCLOVAX-SEED-Think-32B)**
 
 *HyperCLOVA X*
@@ -475,27 +475,27 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 ---
 
-**[Qwen3-VL-Embedding-2B](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B)**
+**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
 
-*Qwen*
+*NVIDIA*
 
-Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generates high-dimensional vectors for text, images, and videos. It excels at cross-modal understanding and retrieval tasks, supporting over 30 languages and customizable embedding dimensions for flexible integration.
+Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
 
-`image-to-text` `2.1B`
+`automatic-speech-recognition`
 
-⬇️ 36,629 • ❤️ 222 • 5d ago
+⬇️ 4,414 • ❤️ 379 • 9d ago
 
 ---
 
-**[LFM2.5-1.2B-Instruct](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)**
+**[medgemma-1.5-4b-it](https://huggingface.co/google/medgemma-1.5-4b-it)**
 
-*Liquid AI*
+*Google*
 
-LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimized for on-device deployment, offering fast edge inference and supporting multiple languages. It excels at agentic tasks and data extraction, with a context length of 32,768 tokens.
+MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and image comprehension, capable of interpreting high-dimensional imaging (CT, MRI), whole-slide histopathology, longitudinal chest X-rays, and EHR data. It excels in generating text for healthcare applications like clinical reasoning and medical document understanding.
 
-`text-generation` `1.2B`
+`image-text-to-text` `4.3B`
 
-⬇️ 37,152 • ❤️ 334 • 6d ago
+⬇️ 4,422 • ❤️ 183 • 13h ago
 
 ---
 
@@ -509,7 +509,7 @@ LFM2.5-1.2B-Instruct is a 1.2B parameter instruction-tuned language model optimi
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 6 • 💬 1 • ⭐ 2,356 • 3d ago
+▲ 8 • 💬 1 • ⭐ 2,356 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -533,7 +533,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 114 • 💬 3 • ⭐ 2,448 • 8d ago
+▲ 115 • 💬 3 • ⭐ 2,448 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -639,7 +639,7 @@ Reinforcement learning for large language model agents suffers from discriminati
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.6k • 🔱 1.1k • 5h ago
+⭐ 8.7k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -649,7 +649,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 5.6k • 🔱 235 • 1d ago
+⭐ 5.7k • 🔱 246 • 1d ago
 
 ---
 
@@ -659,7 +659,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.0k • 🔱 540 • 7d ago
+⭐ 4.0k • 🔱 543 • 7d ago
 
 ---
 
@@ -669,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 147 • 19h ago
+⭐ 2.4k • 🔱 148 • 20h ago
 
 ---
 
@@ -689,17 +689,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 55 • 7h ago
-
----
-
-**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
-
-Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
-
-`JavaScript` `agent` `ai` `coding` `course` `gemini`
-
-⭐ 1.6k • 🔱 132 • 5h ago
+⭐ 2.1k • 🔱 70 • 7h ago
 
 ---
 
@@ -709,7 +699,17 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.6k • 🔱 1.3k • 21h ago
+⭐ 1.6k • 🔱 1.4k • 21h ago
+
+---
+
+**[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)**
+
+Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
+
+`JavaScript` `agent` `ai` `coding` `course` `gemini`
+
+⭐ 1.6k • 🔱 133 • 5h ago
 
 ---
 
