@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T21:23:01.313797+00:00'
+updated: '2026-01-15T21:44:05.632106+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 21:23 UTC  
+**Last Updated:** January 15, 2026 at 21:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-53m ago
+1h ago
 
 ---
 
 **[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -110,7 +110,7 @@ The biggest frustration I faced while scaling a robot project wasn’t building 
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -118,7 +118,7 @@ Bloomberg.com • 4h ago
 
 Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -126,7 +126,7 @@ Fortune • 8h ago
 
 MassRobotics' Form and Function challenge will culminate with in-person demonstrations at the Robotics Summit & Expo.
 
-The Robot Report • 52m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -191,7 +191,17 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 430K • 👍 13K • 💬 760 • ⏱️ 17:09 • 3d ago
+👁️ 433K • 👍 13K • 💬 765 • ⏱️ 17:09 • 3d ago
+
+---
+
+**[GET IN EARLY! I&#39;m Investing In Robots After CES 2026 (Here&#39;s Why)](https://www.youtube.com/watch?v=LV-44eWQ474)**
+
+Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Capital at Fundrise: ...
+
+📺 Ticker Symbol: YOU
+
+👁️ 57K • 👍 3K • 💬 238 • ⏱️ 17:36 • 23h ago
 
 ---
 
@@ -201,27 +211,17 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 154K • 👍 2K • 💬 386 • ⏱️ 11:46 • 4d ago
+👁️ 155K • 👍 2K • 💬 387 • ⏱️ 11:46 • 4d ago
 
 ---
 
-**[The Biggest Robot Exhibition in Las Vegas | CES 2026](https://www.youtube.com/watch?v=Kpw1N-Ej_xo)**
+**[Humanoid Robots, AI Robot Companions &amp; a Tennis Robot?! | SwitchBot CES 2026](https://www.youtube.com/watch?v=yAgzsBBitMc)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: / pro_robots Hello, friends! Welcome to the future. Today we're ...
+At CES 2026, SwitchBot is showing how far smart homes and robotics have come — and how interactive they're about to get.
 
-📺 PRO ROBOTS
+📺 KhanFlicks
 
-👁️ 63K • 👍 1K • 💬 95 • ⏱️ 18:58 • 7d ago
-
----
-
-**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 51K • 👍 3K • 💬 430 • ⏱️ 14:30 • 4d ago
+👁️ 2K • 💬 15 • ⏱️ 6:37 • 4h ago
 
 ---
 
@@ -231,17 +231,17 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 📺 The Verge
 
-👁️ 96K • 👍 1K • 💬 171 • ⏱️ 10:48 • 5d ago
+👁️ 96K • 👍 1K • 💬 172 • ⏱️ 10:48 • 5d ago
 
 ---
 
-**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+**[The Humanoid Robot Revolution: What&#39;s Coming in 2026 (And Why Silicon Valley Is Terrified)](https://www.youtube.com/watch?v=I3pupzwiGJQ)**
 
-Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 joeybtoonz
+📺 Julia McCoy
 
-👁️ 221K • 👍 14K • 💬 2K • ⏱️ 5:12 • 1d ago
+👁️ 51K • 👍 3K • 💬 431 • ⏱️ 14:30 • 4d ago
 
 ---
 
@@ -251,7 +251,17 @@ On the CES 2026 show floor with RobotShop, visiting the NEURA Robotics booth, wh
 
 📺 RobotShopTV
 
-👁️ 688 • 👍 10 • 💬 2 • ⏱️ 2:41 • 3d ago
+👁️ 693 • 👍 10 • 💬 2 • ⏱️ 2:41 • 3d ago
+
+---
+
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
+
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
+
+📺 joeybtoonz
+
+👁️ 225K • 👍 14K • 💬 2K • ⏱️ 5:12 • 2d ago
 
 ---
 
@@ -261,27 +271,15 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 📺 Cybernews
 
-👁️ 19K • 👍 259 • 💬 36 • ⏱️ 11:29 • 5d ago
+👁️ 19K • 👍 261 • 💬 36 • ⏱️ 11:29 • 5d ago
 
 ---
 
-**[don&#39;t sleep on robotics tech | CES 2026 Las Vegas Unitree](https://www.youtube.com/watch?v=sSFxbU6Wl8Q)**
+**[Could AI robots soon be in our homes? #AI #Robots #BBCNews](https://www.youtube.com/watch?v=4KvzNECXgNc)**
 
-Unitree robots at CES 2026 las vegas. Experience the future of ai robotics as we visit Unitree exhibit at CES 2026 in Las Vegas.
+📺 BBC News
 
-📺 The Laughing Lion
-
-👁️ 14K • 👍 106 • 💬 10 • ⏱️ 0:12 • 4d ago
-
----
-
-**[Giving a bar of GOLD to a Robot](https://www.youtube.com/watch?v=HX-Jk7R50MA)**
-
-When a robo-cleaner can notify you that a bar of gold was left on your living room floor, you know this technology is getting pretty ...
-
-📺 mryeester
-
-👁️ 105K • 👍 5K • 💬 190 • ⏱️ 1:06 • 6d ago
+👁️ 32K • 👍 458 • 💬 53 • ⏱️ 1:17 • 2d ago
 
 ---
 

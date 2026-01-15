@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T21:23:01.304551+00:00'
+updated: '2026-01-15T21:44:05.623115+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 21:23 UTC  
+**Last Updated:** January 15, 2026 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1913.00B
+**Market Cap:** $1906.72B
 Rank #1
 
-**Circulating Supply:** 19,976,281 BTC
+**Circulating Supply:** 19,976,296 BTC
 95.1% of max
 
 **All-Time High:** $126,080.00
--24.1%
+-24.3%
 
 **All-Time Low:** $67.81
-+140945.6%
++140597.5%
 
 ---
 
@@ -89,7 +89,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 Virtual currencies, real risks. The only guarantee in crypto is risk.
 
-🔗 [newsroom.kbc.com](https://newsroom.kbc.com/as-of-mid-february-kbc-will-be-the-first-belgian-bank-to-offer-the-possibility-to-buy-and-sell-crypto-through-bolero) • 3h ago
+🔗 [newsroom.kbc.com](https://newsroom.kbc.com/as-of-mid-february-kbc-will-be-the-first-belgian-bank-to-offer-the-possibility-to-buy-and-sell-crypto-through-bolero) • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ Barron's • 1h ago
 
 Tesla (NASDAQ:TSLA) CEO Elon Musk will get more involved with Bitcoin this year, according to Jan3 CEO Samson Mow. “Elon Musk goes hard into BTC,” Mow said Jan. 10 on X, one of six predictions he made for the year,...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -217,7 +217,7 @@ Seeking Alpha • 1d ago
 
 Arthur Hayes argued bitcoin can reclaim momentum in 2026 if US dollar liquidity expands, pointing to potential Fed balance sheet growth, lower mortgage rates, and more bank lending to government-backed industries.
 
-Bitbo • 7h ago
+Bitbo • 8h ago
 
 ---
 
@@ -299,13 +299,13 @@ An apartment building can be turned into a huge cryptocurrency exchange
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin’s Most Dangerous Moment Is Here](https://www.youtube.com/watch?v=VO-asSsVDoc)**
+**[Bitcoin Rebound to $100,000 is NEAR](https://www.youtube.com/watch?v=2WJL-EUXi2A)**
 
-Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
 
-📺 Lark Davis
+📺 CryptosRUs
 
-👁️ 15K • 👍 839 • 💬 74 • ⏱️ 18:21 • 10h ago
+👁️ 18K • 👍 1K • 💬 53 • ⏱️ 46:33 • 6h ago
 
 ---
 
@@ -315,27 +315,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 4K • 👍 548 • 💬 47 • ⏱️ 8:38 • 4h ago
-
----
-
-**[Bitcoin Rebound to $100,000 is NEAR](https://www.youtube.com/watch?v=2WJL-EUXi2A)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Additionally, a look at the latest ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 957 • 💬 39 • ⏱️ 46:33 • 5h ago
-
----
-
-**[Smart Money Just Triggered a Major Reset for Bitcoin.](https://www.youtube.com/watch?v=Vk_HkSCtdC8)**
-
-Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 16, 2026 at 11:59pm ET) Subscribing gives ...
-
-📺 Bravos Research Crypto
-
-👁️ 4K • 👍 368 • 💬 25 • ⏱️ 6:40 • 4h ago
+👁️ 9K • 👍 771 • 💬 72 • ⏱️ 8:38 • 4h ago
 
 ---
 
@@ -345,17 +325,17 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 34 • ⏱️ 30:10 • 5h ago
+👁️ 21K • 👍 2K • 💬 37 • ⏱️ 30:10 • 6h ago
 
 ---
 
-**[The $100K Bitcoin Comeback: Why This Rally Is Different](https://www.youtube.com/watch?v=onv50F9PXYA)**
+**[Coinbase Crashes BANKS!!🔥Crypto Clarity Delayed!🚨](https://www.youtube.com/watch?v=XmUJFw4iD1U)**
 
-Bitcoin is poised for another historic run. From Wall Street's mixed signals to spot buying momentum and the OG whales finally ...
+The Senate Banking Committee on Thursday delayed its scheduled markup hearing for the Clarity Act, after Brian Armstrong, CEO ...
 
-📺 CryptosRus Extra
+📺 Paul Barron Network
 
-👁️ 5K • 👍 312 • 💬 125 • ⏱️ 8:24 • 16h ago
+👁️ 11K • 👍 2K • 💬 217 • ⏱️ 14:43 • 1h ago
 
 ---
 
@@ -365,7 +345,7 @@ Bitcoin #Crypto #Finance Crypto regulation hits another roadblock as the Senate 
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 916 • 💬 82 • ⏱️ 36:20 • 6h ago
+👁️ 22K • 👍 1K • 💬 97 • ⏱️ 36:20 • 6h ago
 
 ---
 
@@ -375,17 +355,17 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 3K • 💬 144 • ⏱️ 24:06 • 22h ago
+👁️ 34K • 👍 3K • 💬 148 • ⏱️ 24:06 • 22h ago
 
 ---
 
-**[WARNING: GAUSSIAN CHANNEL ENTERS BLOODY QUICKSAND—PREPARE NOW](https://www.youtube.com/watch?v=MUDw1EDKy4A)**
+**[Bitcoin’s Most Dangerous Moment Is Here](https://www.youtube.com/watch?v=VO-asSsVDoc)**
 
-Trade Like A Tourist Or Join The Pros FFA Is Where The Real Ones Go https://cryptocrewuniversity.com/ffa MASSIVE ...
+Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Crypto Crew University
+📺 Lark Davis
 
-👁️ 16K • 👍 2K • 💬 101 • ⏱️ 9:20 • 7h ago
+👁️ 17K • 👍 889 • 💬 80 • ⏱️ 18:21 • 10h ago
 
 ---
 
@@ -395,7 +375,27 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 22K • 👍 2K • 💬 509 • ⏱️ 19:42 • 8h ago
+👁️ 28K • 👍 2K • 💬 542 • ⏱️ 19:42 • 8h ago
+
+---
+
+**[What Fed Chaos Means for Bitcoin’s Future](https://www.youtube.com/watch?v=tiTOn6ySPBo)**
+
+Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this conversation, we discuss Fed independence and the ...
+
+📺 Anthony Pompliano
+
+👁️ 23K • 👍 865 • 💬 51 • ⏱️ 44:47 • 23h ago
+
+---
+
+**[Smart Money Just Triggered a Major Reset for Bitcoin.](https://www.youtube.com/watch?v=Vk_HkSCtdC8)**
+
+Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 17, 2026 at 11:59pm ET) Subscribing gives ...
+
+📺 Bravos Research Crypto
+
+👁️ 9K • 👍 604 • 💬 28 • ⏱️ 6:40 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T21:23:01.310551+00:00'
+updated: '2026-01-15T21:44:05.628977+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 21:23 UTC  
+**Last Updated:** January 15, 2026 at 21:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $397.60B
+**Market Cap:** $398.00B
 Rank #2
 
 **Circulating Supply:** 120,694,650 ETH
@@ -62,7 +62,7 @@ No max supply
 -33.4%
 
 **All-Time Low:** $0.43
-+760428.8%
++761114.7%
 
 ---
 
@@ -233,17 +233,17 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 916 • 👍 44 • 💬 86 • ⏱️ 6:39 • 11h ago
+👁️ 1K • 👍 44 • 💬 94 • ⏱️ 6:39 • 11h ago
 
 ---
 
-**[ETH Ethereum Price Prediction: Bullish Pattern BREAKOUT Incoming](https://www.youtube.com/watch?v=bMY62MravO8)**
+**[XRP and Ethereum ‼️ Don&#39;t Say I Didn&#39;t Tell You THIS](https://www.youtube.com/watch?v=TtDFQuU5XfQ)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+1️⃣ *Join Moe's Discord Code 2026 save 50%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
 
-📺 C-Zar Gets Crypto 
+📺 Stock Moe
 
-👁️ 67 • 👍 7 • 💬 8 • ⏱️ 8:02 • 2h ago
+👁️ 827 • 👍 118 • 💬 13 • ⏱️ 13:25 • 17m ago
 
 ---
 
@@ -253,17 +253,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 183 • 💬 159 • ⏱️ 15:10 • 15h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=VJPmqEjrQ2E)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 638 • 👍 77 • 💬 6 • ⏱️ 3:43 • 4h ago
+👁️ 4K • 👍 187 • 💬 192 • ⏱️ 15:10 • 16h ago
 
 ---
 
@@ -273,7 +263,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 257 • 💬 58 • ⏱️ 11:22 • 20h ago
+👁️ 5K • 👍 259 • 💬 58 • ⏱️ 11:22 • 21h ago
 
 ---
 
@@ -283,27 +273,27 @@ OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Lea
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 12 • 💬 4 • ⏱️ 2:13 • 7h ago
+👁️ 4K • 👍 16 • 💬 4 • ⏱️ 2:13 • 7h ago
 
 ---
 
-**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+**[ETH Ethereum Price Prediction: Bullish Pattern BREAKOUT Incoming](https://www.youtube.com/watch?v=bMY62MravO8)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Crypto Nutshell
+📺 C-Zar Gets Crypto 
 
-👁️ 17K • 👍 618 • 💬 26 • ⏱️ 17:37 • 2d ago
+👁️ 138 • 👍 14 • 💬 9 • ⏱️ 8:02 • 3h ago
 
 ---
 
-**[BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yk9UNui8VEc)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=VJPmqEjrQ2E)**
 
-BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 6K • 👍 320 • 💬 165 • ⏱️ 25:02 • 10h ago
+👁️ 999 • 👍 96 • 💬 7 • ⏱️ 3:43 • 5h ago
 
 ---
 
@@ -313,17 +303,27 @@ Ethereum has underperformed this cycle — but are the fundamentals telling a di
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 180 • 💬 36 • ⏱️ 20:12 • 1d ago
+👁️ 6K • 👍 183 • 💬 50 • ⏱️ 20:12 • 1d ago
 
 ---
 
-**[WHY ETH CAN PUMP HIGHER NOW🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Pqr6u1dWbPo)**
+**[BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Yk9UNui8VEc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 263 • 👍 18 • 💬 1 • ⏱️ 5:18 • 11h ago
+👁️ 7K • 👍 322 • 💬 161 • ⏱️ 25:02 • 10h ago
+
+---
+
+**[Tom Lee: My NEW Prediction For Ethereum &amp; Bitcoin In 2026 (Prepare Now)](https://www.youtube.com/watch?v=VltjrjK8KVY)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 17K • 👍 622 • 💬 26 • ⏱️ 17:37 • 2d ago
 
 ---
 

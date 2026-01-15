@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T21:23:01.296076+00:00'
+updated: '2026-01-15T21:44:05.614839+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - social
 - videos
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 21:23 UTC  
+**Last Updated:** January 15, 2026 at 21:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ We all know that training massive LLMs consumes an incredible amount of power. B
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 20h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 21h ago
 
 ---
 
@@ -105,7 +105,7 @@ Zhipu claims GLM-Image achieved industry-leading scores among open-source models
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-20h ago
+21h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Wall Street Journal • 11h ago
 
 TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -252,7 +252,7 @@ Warhammer maker Games Workshop has banned the use of AI in its content productio
 Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
 With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.
 
-⬆️ 231 • 💬 190 • 12h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+⬆️ 231 • 💬 190 • 13h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 
 ---
 
@@ -282,23 +282,23 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 ## YouTube Videos: "ai"
 
+**[‘OPPORTUNITIES?’: How AI could reshape the job market](https://www.youtube.com/watch?v=87jgPUHp0eY)**
+
+Panelists Taylor Riggs, Kenny Polcari and Jason Chaffetz talk the impact of artificial intelligence on jobs and children on 'FOX ...
+
+📺 Fox Business
+
+👁️ 3K • 👍 66 • 💬 27 • ⏱️ 6:58 • 12h ago
+
+---
+
 **[Microsoft Shocks AI World: &quot;China AI Is Now Too Powerful&quot;](https://www.youtube.com/watch?v=vcUBUQOyzFI)**
 
 Microsoft just issued a warning that reframes the AI race: outside the West, China is gaining fast through scale, affordability, and ...
 
 📺 AI Revolution
 
-👁️ 50K • 👍 1K • 💬 165 • ⏱️ 14:32 • 1d ago
-
----
-
-**[The AI Endgame](https://www.youtube.com/watch?v=rqR7z2eHOBE)**
-
-The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me on Patreon, which will give you early access to ...
-
-📺 Adam Something
-
-👁️ 409K • 👍 35K • 💬 4K • ⏱️ 11:40 • 2d ago
+👁️ 51K • 👍 1K • 💬 166 • ⏱️ 14:32 • 1d ago
 
 ---
 
@@ -308,27 +308,27 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 61K • 👍 2K • 💬 342 • ⏱️ 19:03 • 1d ago
+👁️ 63K • 👍 3K • 💬 346 • ⏱️ 19:03 • 1d ago
 
 ---
 
-**[Google&#39;s Galileo AI Just KILLED $97/m Funnel Builder Platforms (Build Pro Sites FREE With Zero Code)](https://www.youtube.com/watch?v=G_f6nYdbp68)**
+**[The AI Endgame](https://www.youtube.com/watch?v=rqR7z2eHOBE)**
 
-I put the AI tools I use for helping local businesses in one place https://www.pauljames.com/AIToolsTraining Follow on ...
+The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me on Patreon, which will give you early access to ...
 
-📺 iampauljames
+📺 Adam Something
 
-👁️ 8K • 👍 436 • 💬 89 • ⏱️ 8:44 • 1d ago
+👁️ 415K • 👍 35K • 💬 4K • ⏱️ 11:40 • 2d ago
 
 ---
 
-**[AI influencers are somehow even worse now](https://www.youtube.com/watch?v=G6lt6CfJMlw)**
+**[Nvidia Just KILLED High End GPUs!](https://www.youtube.com/watch?v=lzP6kNjOTS4)**
 
-bleh.
+Shop Winter Savings: https://micro.center/9ee61b ▻Sign up for Micro Center's Newest Location: https://micro.center/9c6829 ...
 
-📺 D'Angelo
+📺 Gamer Meld
 
-👁️ 134K • 👍 7K • 💬 531 • ⏱️ 26:29 • 1d ago
+👁️ 43K • 👍 2K • 💬 508 • ⏱️ 8:51 • 22h ago
 
 ---
 
@@ -338,27 +338,27 @@ ZoomPartner Which one do you think it is? So excited to host this Live Event wit
 
 📺 Rebecca Zamolo
 
-👁️ 807K • 👍 9K • 💬 362 • ⏱️ 0:23 • 2d ago
+👁️ 844K • 👍 9K • 💬 366 • ⏱️ 0:23 • 2d ago
 
 ---
 
-**[Nvidia CEO Brutally Mocked After Saying AI Criticism Is Bad For Society...](https://www.youtube.com/watch?v=gajL7fUfhVU)**
+**[Make  UNLIMITED &amp; UNCENSORED AI Videos in Bulk with VEO3 &amp; SORA 2, 100% FREE](https://www.youtube.com/watch?v=AM4yFgYtjNE)**
 
-SOURCES 1: https://www.youtube.com/watch?v=jgCOnpTdAsE&t=771s 2: https://insider-gaming.com/microsoft-ceo-ai-slop/ 3: ...
+You can now create unlimited AI movies, trailers, and anime videos completely free using Veo 3, Sora 2, and Nano Banana Pro.
 
-📺 YongYea
+📺 Brain Project
 
-👁️ 143K • 👍 9K • 💬 2K • ⏱️ 15:35 • 1d ago
+👁️ 11K • 👍 414 • 💬 77 • ⏱️ 11:56 • 2d ago
 
 ---
 
-**[‘OPPORTUNITIES?’: How AI could reshape the job market](https://www.youtube.com/watch?v=87jgPUHp0eY)**
+**[AI this, AI that, Here&#39;s Raspberry Pi&#39;s new AI HAT](https://www.youtube.com/watch?v=jRQaur0LdLE)**
 
-Panelists Taylor Riggs, Kenny Polcari and Jason Chaffetz talk the impact of artificial intelligence on jobs and children on 'FOX ...
+Raspberry Pi's back with a new AI HAT. This time it adds on 8 GB of RAM and the Hailo 10H for $20 over the original. Raspberry ...
 
-📺 Fox Business
+📺 Jeff Geerling
 
-👁️ 3K • 👍 57 • 💬 26 • ⏱️ 6:58 • 12h ago
+👁️ 118K • 👍 5K • 💬 446 • ⏱️ 8:47 • 13h ago
 
 ---
 
@@ -368,17 +368,17 @@ The latest Antigravity update brings Agent Skills, Subagents, AI Automation, and
 
 📺 WorldofAI
 
-👁️ 21K • 👍 608 • 💬 39 • ⏱️ 9:11 • 17h ago
+👁️ 23K • 👍 646 • 💬 40 • ⏱️ 9:11 • 18h ago
 
 ---
 
-**[I Sent AI the ICE Shooting Video and Let It DECIDE Who Was in the Wrong](https://www.youtube.com/watch?v=kR7ododCSyA)**
+**[Google&#39;s Galileo AI Just KILLED $97/m Funnel Builder Platforms (Build Pro Sites FREE With Zero Code)](https://www.youtube.com/watch?v=G_f6nYdbp68)**
 
-I'm sending AI the raw footage of the ICE shooting of Renee Nicole Good in Minneapolis and asking who it thinks was in the ...
+I put the AI tools I use for helping local businesses in one place https://www.pauljames.com/AIToolsTraining Follow on ...
 
-📺 I Ask AI
+📺 iampauljames
 
-👁️ 218K • 👍 17K • 💬 3K • ⏱️ 13:08 • 2d ago
+👁️ 8K • 👍 441 • 💬 97 • ⏱️ 8:44 • 1d ago
 
 ---
 
@@ -394,7 +394,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 672 • 11h ago
+⬇️ 2,442 • ❤️ 684 • 11h ago
 
 ---
 
@@ -406,7 +406,7 @@ This LoRA fine-tunes Qwen-Image-Edit-2511 for precise multi-angle image generati
 
 `image-to-image`
 
-⬇️ 44,101 • ❤️ 680 • 8d ago
+⬇️ 44,101 • ❤️ 681 • 8d ago
 
 ---
 
@@ -418,7 +418,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,040 • 1d ago
+⬇️ 1,187,843 • ❤️ 1,042 • 1d ago
 
 ---
 
@@ -430,7 +430,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 315 • ❤️ 285 • 1d ago
+⬇️ 315 • ❤️ 287 • 1d ago
 
 ---
 
@@ -442,7 +442,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 41,095 • ❤️ 277 • 1d ago
+⬇️ 41,095 • ❤️ 278 • 1d ago
 
 ---
 
@@ -466,7 +466,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 `image-to-text` `2.1B`
 
-⬇️ 36,629 • ❤️ 230 • 6d ago
+⬇️ 36,629 • ❤️ 232 • 6d ago
 
 ---
 
@@ -478,19 +478,7 @@ HyperCLOVAX-SEED-Think-32B is a 32B parameter vision-language model capable of m
 
 `text-generation` `33.3B`
 
-⬇️ 31,316 • ❤️ 384 • 9d ago
-
----
-
-**[nemotron-speech-streaming-en-0.6b](https://huggingface.co/nvidia/nemotron-speech-streaming-en-0.6b)**
-
-*NVIDIA*
-
-Nemotron-Speech-Streaming-En-0.6b is a 600M parameter English ASR model featuring a cache-aware FastConformer-RNNT architecture for low-latency streaming and high-throughput batch processing. It supports dynamic chunk sizes, punctuation, and capitalization, making it ideal for real-time applications like voice assistants and live captioning.
-
-`automatic-speech-recognition`
-
-⬇️ 4,414 • ❤️ 382 • 9d ago
+⬇️ 31,316 • ❤️ 386 • 9d ago
 
 ---
 
@@ -502,7 +490,19 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 4,422 • ❤️ 198 • 23h ago
+⬇️ 4,422 • ❤️ 205 • 23h ago
+
+---
+
+**[supertonic-2](https://huggingface.co/Supertone/supertonic-2)**
+
+*Supertone*
+
+Supertonic 2 is a lightning-fast, on-device multilingual text-to-speech model supporting English, Korean, Spanish, Portuguese, and French. It offers extreme performance with minimal overhead, achieving up to 167x faster than real-time inference and optimized for privacy-focused applications.
+
+`text-to-speech`
+
+⬇️ 8,587 • ❤️ 245 • 9d ago
 
 ---
 
@@ -516,7 +516,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 11 • 💬 1 • ⭐ 2,454 • 3d ago
+▲ 14 • 💬 1 • ⭐ 2,454 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -528,7 +528,7 @@ Conditional memory via Engram module enhances Transformer models by enabling eff
 
 We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.
 
-▲ 182 • 💬 5 • ⭐ 4,955 • 2mo ago
+▲ 183 • 💬 5 • ⭐ 4,955 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.11793) • [💻 code](https://github.com/MiroMindAI/MiroThinker) • [🔗 project](https://dr.miromind.ai/)
 
@@ -540,7 +540,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 117 • 💬 3 • ⭐ 2,491 • 9d ago
+▲ 118 • 💬 3 • ⭐ 2,491 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -552,7 +552,7 @@ LTX-2 is an open-source audiovisual diffusion model that generates synchronized 
 
 To support reliable long-term interaction in complex environments, LLM agents require memory systems that efficiently manage historical experiences. Existing approaches either retain full interaction histories via passive context extension, leading to substantial redundancy, or rely on iterative reasoning to filter noise, incurring high token costs. To address this challenge, we introduce SimpleMem, an efficient memory framework based on semantic lossless compression. We propose a three-stage pipeline designed to maximize information density and token utilization: (1) Semantic Structured Compression, which applies entropy-aware filtering to distill unstructured interactions into compact, multi-view indexed memory units; (2) Recursive Memory Consolidation, an asynchronous process that integrates related units into higher-level abstract representations to reduce redundancy; and (3) Adaptive Query-Aware Retrieval, which dynamically adjusts retrieval scope based on query complexity to construct precise context efficiently. Experiments on benchmark datasets show that our method consistently outperforms baseline approaches in accuracy, retrieval efficiency, and inference cost, achieving an average F1 improvement of 26.4% while reducing inference-time token consumption by up to 30-fold, demonstrating a superior balance between performance and efficiency. Code is available at https://github.com/aiming-lab/SimpleMem.
 
-▲ 27 • 💬 2 • ⭐ 1,107 • 10d ago
+▲ 28 • 💬 2 • ⭐ 1,107 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.02553) • [💻 code](https://github.com/aiming-lab/SimpleMem) • [🔗 project](https://aiming-lab.github.io/SimpleMem-Page/)
 
@@ -567,7 +567,7 @@ To support reliable long-term interaction in complex environments, LLM agents re
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 133 • 💬 19 • ⭐ 50,145 • 10mo ago
+▲ 134 • 💬 19 • ⭐ 50,145 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -581,7 +581,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 Controlled Self-Evolution method improves code generation through diversified initialization, feedback-guided genetic evolution, and hierarchical memory to enhance exploration efficiency and solution quality.
 
-▲ 92 • 💬 2 • ⭐ 61 • 3d ago
+▲ 94 • 💬 3 • ⭐ 61 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07348) • [💻 code](https://github.com/QuantaAlpha/EvoControl)
 
@@ -607,7 +607,7 @@ Cross-Team Collaboration improves software quality by enabling multiple LLM agen
 
 DeepResearchEval presents an automated framework for creating complex research tasks and evaluating them through agent-based methods that adapt to task specifics and verify facts without relying on citations.
 
-▲ 85 • 💬 1 • ⭐ 60 • 1d ago
+▲ 90 • 💬 1 • ⭐ 60 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.09688) • [💻 code](https://github.com/Infinity-AILab/DeepResearchEval)
 
@@ -647,7 +647,7 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.7k • 🔱 1.1k • 4h ago
+⭐ 8.7k • 🔱 1.1k • 5h ago
 
 ---
 
@@ -657,7 +657,7 @@ Browser automation CLI for AI agents
 
 `TypeScript`
 
-⭐ 6.0k • 🔱 265 • 1d ago
+⭐ 6.1k • 🔱 273 • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 554 • 8d ago
+⭐ 4.1k • 🔱 555 • 8d ago
 
 ---
 
@@ -677,7 +677,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 120 • 17h ago
+⭐ 3.2k • 🔱 125 • 17h ago
 
 ---
 
@@ -707,7 +707,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.9k • 🔱 1.6k • 7h ago
+⭐ 1.9k • 🔱 1.6k • 8h ago
 
 ---
 
@@ -727,7 +727,7 @@ Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniM
 
 `TypeScript`
 
-⭐ 1.4k • 🔱 118 • 3d ago
+⭐ 1.4k • 🔱 119 • 3d ago
 
 ---
 
