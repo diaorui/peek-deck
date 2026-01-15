@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T22:46:41.704841+00:00'
+updated: '2026-01-15T23:22:16.837841+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 22:46 UTC  
+**Last Updated:** January 15, 2026 at 23:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 I also started staking silver to fight the money printer, but later found Bitcoin and never looked back. For all the gold bugs lurking here, be careful out there.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Had this realization over the holidays talking to my dad about money. Hes had mo
 
 We often hear success stories about Bitcoin, but I’m curious about the other side. Are there people in this community who have lost a significant amount of money in Bitcoin? If you’re comfortable sharing, I’d really appreciate hearing about your experience — what happened, what you learned from it, and what you’re doing now. I think these stories are just as important as the success stories.
 
-6h ago
+7h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 KBC Group is set to become the first bank in Belgium to allow retail clients to buy and sell crypto.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Bitcoin Magazine • 1h ago
 
 Cardano's Charles Hoskinson thinks Bitcoin could almost double its previous all-time high.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -235,7 +235,7 @@ The Block • 23h ago
 
 Welcome to the DNM Buyerâs Bible. It orientates itself on OpSec best practices and, if exactly followed, will greatly maximize your safety.
 
-⬆️ 45 • 💬 3 • 6d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
+⬆️ 45 • 💬 3 • 7d ago • [darknetbible.info](https://darknetbible.info/news/how-monero-replaced-bitcoin-on-the-darknet/)
 
 ---
 
@@ -313,7 +313,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 9K • 👍 771 • 💬 72 • ⏱️ 8:38 • 5h ago
+👁️ 9K • 👍 771 • 💬 72 • ⏱️ 8:38 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ The Senate Banking Committee on Thursday delayed its scheduled markup hearing fo
 
 📺 Paul Barron Network
 
-👁️ 11K • 👍 2K • 💬 217 • ⏱️ 14:43 • 2h ago
+👁️ 11K • 👍 2K • 💬 217 • ⏱️ 14:43 • 3h ago
 
 ---
 
@@ -353,7 +353,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 148 • ⏱️ 24:06 • 23h ago
+👁️ 34K • 👍 3K • 💬 148 • ⏱️ 24:06 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin danger zone, ETH trade, altcoin updates, and BTC charts. BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 17K • 👍 889 • 💬 80 • ⏱️ 18:21 • 11h ago
+👁️ 17K • 👍 889 • 💬 80 • ⏱️ 18:21 • 12h ago
 
 ---
 
@@ -373,7 +373,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 28K • 👍 2K • 💬 542 • ⏱️ 19:42 • 9h ago
+👁️ 28K • 👍 2K • 💬 542 • ⏱️ 19:42 • 10h ago
 
 ---
 
@@ -393,7 +393,7 @@ Get a 30% DISCOUNT at https://go.bravosresearch.com/Crypto (EXPIRING January 17,
 
 📺 Bravos Research Crypto
 
-👁️ 9K • 👍 604 • 💬 28 • ⏱️ 6:40 • 5h ago
+👁️ 9K • 👍 604 • 💬 28 • ⏱️ 6:40 • 6h ago
 
 ---
 

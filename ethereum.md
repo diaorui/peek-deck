@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T22:46:41.710879+00:00'
+updated: '2026-01-15T23:22:16.843847+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 22:46 UTC  
+**Last Updated:** January 15, 2026 at 23:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Element a leading global Testing, Inspection and Certification company is using blockchain through partnering with Blockchain Verified Sweden AB who use Ethereum Blockchain via smart contracts to deliver tamper proof test reports! Each report is cryptographically secured and instantly verifiable, which is a big deal in highly regulated industries. This is exactly the kind of adoption that shows blockchain’s value beyond tokens and trading. When industries with strict regulatory requirements start using decentralized verification, it is a strong signal that the tech is maturing into critical infrastructure. So many great use cases now becoming reality! It wouldn’t let me post a link but you can see the news on their website and the information around the Ethereum via Blockchain Verified website.
 
-2h ago
+3h ago
 
 ---
 
 **[Ethereum takes an ecosystem. From the Cypherpunks who wrote the code to the Anons shipping today.](https://www.reddit.com/r/ethereum/comments/1qde0l8/ethereum_takes_an_ecosystem_from_the_cypherpunks/)**
 
-🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 14h ago
+🔗 [X (formerly Twitter)](https://x.com/Snapcrackle/status/2011710431229067317) • 15h ago
 
 ---
 
@@ -118,7 +118,7 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 23h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=X7z4ZklhHb0) • 1d ago
 
 ---
 
@@ -155,7 +155,7 @@ As with all our previous releases,...
 
 This Ethereum price prediction 2026 explores why ChatGPT chose ETH over Bitcoin. Bull $7K-$9K targets, $4K-$5K base, and bear case $2K-$3K.
 
-24/7 Wall St. • 8h ago
+24/7 Wall St. • 9h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 1d ago
 
 **[Bitcoin, Ethereum, and Solana Confirm the Crypto Reversal. Where They’re Headed.](https://www.barrons.com/articles/bitcoin-ethereum-solana-crypto-price-etf-4a8faf45?gaa_at=eafs&gaa_n=AWEtsqccMs34b-D4ycfuvzduTPm3F8WBKCDRlK3GbyoDJ5bVF5ZwV8NmcNZQ&gaa_ts=69696c60&gaa_sig=Jvo5LuH6kvezpOsVuMkJDALOfRDRKvlEZ8kyLzYLBH6O1bz-F50GzXUQOhTkkawoDwKUK3pGIV10pGUwkISyXQ%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ CoinDesk • 2d ago
 
 After its recent price breakout, Ethereum (ETH) is facing its next big test and attempting to turn a crucial area into support. Some analysts have suggested that the altcoin is ready to continue its bullish momentum, arguing that the biggest rotation in years is coming.Ethereum Challenges Key Resis…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -235,7 +235,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 44 • 💬 94 • ⏱️ 6:39 • 12h ago
+👁️ 1K • 👍 44 • 💬 94 • ⏱️ 6:39 • 13h ago
 
 ---
 
@@ -275,7 +275,7 @@ OFFICIAL CLAIM LINK - https://eth.distrubution.org/ Ethereum Airdrop is LIVE Lea
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 16 • 💬 4 • ⏱️ 2:13 • 8h ago
+👁️ 4K • 👍 16 • 💬 4 • ⏱️ 2:13 • 9h ago
 
 ---
 
@@ -315,7 +315,7 @@ BITCOIN PRICE TRAP: I JUST SOLD (taking profits)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 322 • 💬 161 • ⏱️ 25:02 • 11h ago
+👁️ 7K • 👍 322 • 💬 161 • ⏱️ 25:02 • 12h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T22:46:41.714139+00:00'
+updated: '2026-01-15T23:22:16.847066+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 22:46 UTC  
+**Last Updated:** January 15, 2026 at 23:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
 
-8h ago
+9h ago
 
 ---
 
 **[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ An assistive robotic mobility system is shown supporting pediatric gait training
 
 Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
 
-🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 8h ago
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 9h ago
 
 ---
 
@@ -80,13 +80,13 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 Hey, I recently bought an STM32 Black Pill for my differential driver car project. Until now, I have used ESP32 and Arduino Uno, so I thought of using STM32 as it's used by industries. But when I checked out YouTube, I found in the comments section that they are all outdated. So, is there any suggestion for learning STM32 programming? I have a Udemy subscription too.
 
-7h ago
+8h ago
 
 ---
 
 **[Selling Kinara Ara-2 (M.2) AI Accelerator – 40 TOPS / 16GB – for Developers & R&D](https://www.reddit.com/r/robotics/comments/1qdpa0f/selling_kinara_ara2_m2_ai_accelerator_40_tops/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -100,7 +100,7 @@ The biggest frustration I faced while scaling a robot project wasn’t building 
 
 **[Quadruped Robot Advice Needed](https://www.reddit.com/r/robotics/comments/1qdot2f/quadruped_robot_advice_needed/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -176,7 +176,7 @@ GeekWire • 1d ago
 
 In recent days, China’s GAC International announced a partnership with Singapore-based superapp Grab to deploy up to 20,000 electric vehicles across six Southeast Asian markets over the next two years, while Grab also acquired Chinese robotics firm Infermove to strengthen its autonomous last‑mile delivery capabilities. Together, these moves highlight Grab’s push to pair cleaner mobility with automation in delivery, tying its superapp ecosystem more closely to physical transport and logistics...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
