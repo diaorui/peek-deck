@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T04:41:52.200906+00:00'
+updated: '2026-01-15T05:27:52.183691+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - social
 - news
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 04:41 UTC  
+**Last Updated:** January 15, 2026 at 05:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 13h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 6h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 7h ago
 
 ---
 
@@ -61,11 +61,25 @@ Could Siri be the last piece of the puzzle?
 
 ---
 
+**[Jensen Huang says relentless negativity around AI is hurting society and has "done a lot of damage"](https://www.reddit.com/r/artificial/comments/1qd9rk9/jensen_huang_says_relentless_negativity_around_ai/)**
+
+🔗 [techspot.com](https://www.techspot.com/news/110879-jensen-huang-relentless-ai-negativity-hurting-society-has.html) • 1h ago
+
+---
+
+**[One-Minute Daily AI News 1/14/2026](https://www.reddit.com/r/artificial/comments/1qdaipm/oneminute_daily_ai_news_1142026/)**
+
+OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
+
+25m ago
+
+---
+
 **[Google went from being "disrupted" by ChatGPT, to having the best LLM as well as rivalling Nvidia in hardware (TPUs). The narrative has changed](https://www.reddit.com/r/artificial/comments/1qcfcm6/google_went_from_being_disrupted_by_chatgpt_to/)**
 
 The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era.
 
-🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 22h ago
+🔗 [decodingthefutureresearch.substack.com](https://decodingthefutureresearch.substack.com/p/how-has-the-narrative-around-google) • 23h ago
 
 ---
 
@@ -73,7 +87,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +95,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 9h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 10h ago
 
 ---
 
@@ -101,22 +115,6 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ---
 
-**[Apple Creator Studio Is Here: A New Creative Suite Challenging Adobe](https://www.reddit.com/r/artificial/comments/1qccvkb/apple_creator_studio_is_here_a_new_creative_suite/)**
-
-Apple Creator Studio launch brings a powerful creative suite for video editing, music production, and design. See pricing, features, AI tools, and creator benefits.
-
-🔗 [techputs](https://techputs.com/apple-creator-studio/) • 1d ago
-
----
-
-**[Architecting Autonomy: Modern Design Patterns for AI Assistants](https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting_autonomy_modern_design_patterns_for/)**
-
-In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems.1 The difference lies in Design Patterns. Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" because they began writing an answer before they had a full strategy. The Plan-Then-Execute pattern (often implemented as Reason-and-Act or ReAct) forces the assistant to pause. When a user asks a complex question—like "Analyze our Q3 spending and find three areas for cost reduction"—the assistant doesn't start typing the report. Instead, it creates a Task Decomposition tree: Access the financial database. Filter for Q3 transactions. Categorize expenses. Run a comparison against Q2. By separating the "thinking" (planning) from the "doing" (execution), assistants become significantly more accurate and can handle multi-step workflows without losing the thread. 2. The "Reflective" Pattern (Self-Correction)2 Even the best models make mistakes. The Reflection Pattern introduces a secondary "Critic" loop. In this architecture, the assistant generates an initial output, but before the user sees it, the system passes that output back to itself (or a specialized "Verifier" model) with a prompt: "Check this response for factual errors or compliance violations." If the Verifier finds a mistake, the assistant iterates. This design pattern is the backbone of Safe AI, ensuring that "Shadow AI" behaviors—like leaking internal PII or hallucinating legal clauses—are caught in a private, internal loop before they ever reach the user interface. 3. The "Human-in-the-Loop" (HITL) Gateway As AI assistants move into high-stakes environments like M&A due diligence or medical reporting, total autonomy is often a liability. The HITL Gateway pattern creates mandatory "checkpoints." Rather than the AI executing a wire transfer or finalizing a contract, the pattern requires the assistant to present a Draft & Justification. The Draft: The proposed action. The Justification: A "chain-of-thought" explanation of why it chose this action. The human acts as the final "gatekeeper," clicking "Approve" or "Edit" before the agent proceeds.3 This builds trust and ensures accountability in regulated industries. 4. The Multi-Agent Orchestration (Swarm) Pattern The most powerful assistants today aren't single models; they are teams. In the Orchestration Pattern, a "Manager Agent" receives the user's request and delegates sub-tasks to specialized "Worker Agents."4 For example, a Legal Assistant might consist of: The Researcher: Specialized in searching internal document silos (Vectorization/RAG). The Writer: Specialized in drafting compliant prose. The Auditor: A high-precision model trained specifically on SEC or GDPR guidelines. This modular approach allows developers to "swap" out the Researcher or Auditor as new, better models become available without rebuilding the entire system. 5. The "Context-Aware Memory" Pattern Standard LLMs are "stateless"—they forget who you are the moment the chat ends. Modern assistants use a Stateful Memory Pattern. This involves two layers: Short-Term Memory: Current session context (stored in the prompt window). Long-Term Memory: User preferences, past projects, and "Local Data" (stored in a Vector Database). By using Vectorization to index a user’s history, the assistant can recall that "Project X" refers to the merger discussed three months ago, providing a seamless, personalized experience that feels like a real partnership. The Future: Zero-Trust Design As we look toward the end of 2026, the "Golden Pattern" is becoming Zero-Trust AI Architecture. This pattern assumes that even the model cannot be fully trusted with raw data. It utilizes local redaction agents to scrub sensitive information before the planning and execution loops begin. By implementing these patterns, organizations can move past the "experimental" phase of AI and build robust, enterprise-grade tools that don't just chat, but actually solve problems.
-
-10h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,65 +123,53 @@ In the early days of generative AI, an "assistant" was little more than a text b
 
 A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
 
-NPR • 16h ago
+NPR • 17h ago
 
 ---
 
-**[OpenAI partners with Cerebras](https://openai.com/index/cerebras-partnership/)**
+**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-OpenAI • 8h ago
-
----
-
-**[How AI Companies Got Caught Up in US Military Efforts](https://www.wired.com/story/book-excerpt-silicon-empires-nick-srnicek/)**
-
-Two years ago, companies like Meta and OpenAI were united against military use of their tools. Now all of that has changed.
-
-WIRED • 16h ago
+The New York Times • 10h ago
 
 ---
 
-**[Opinion | A.I. Is Real. But OpenAI Might Still Fail.](https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html)**
+**[Gmail is entering the Gemini era](https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/)**
 
-The New York Times • 1d ago
+Learn more about the next era of Gmail, now using Gemini 3 and Personal Intelligence.
 
----
-
-**[China’s Alibaba Links Qwen AI App to Vast Consumer Ecosystem](https://www.wsj.com/tech/chinas-alibaba-links-qwen-ai-app-to-vast-consumer-ecosystem-17b4f942?gaa_at=eafs&gaa_n=AWEtsqf8wJRcIIb6LreRYEu_CMmrvpagSY0oSuYkOL8iwubQXlV3CVGEBwsG&gaa_ts=69686590&gaa_sig=n1svzHdQZFfLHvjHMXaYSQIBB8bXf-qK0mxYZYMcUMLO__YksphsjtWn7e7RF0ykAPbL1nXFaUmzj6VKkavkOw%3D%3D)**
-
-The Wall Street Journal • 2h ago
+blog.google • 6d ago
 
 ---
 
-**[China’s AI chip firms are going public fast. But its crown jewel is staying private](https://www.cnbc.com/2026/01/15/china-ai-chips-ipos-huawei-hisilicon-nvidia-rivals-biren-metax-moore-threads-smic.html)**
+**[Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner)**
 
-Despite recent IPOs in China's AI chip space garnering a lot of attention, its the private Huawei that remains ahead in the market.
+Could Siri be the last piece of the puzzle?
 
-CNBC • 1h ago
-
----
-
-**[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
-
-Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
-
-BBC • 3h ago
+The Verge • 11h ago
 
 ---
 
-**[Musk’s X to block Grok AI tool from creating sexualized images of real people](https://www.theguardian.com/technology/2026/jan/14/elon-musk-grok-ai-explicit-images)**
+**[The Rundown: Google has drawn its AI payment lines — and publishers’ leverage is narrow](https://digiday.com/media/the-rundown-google-has-drawn-its-ai-payment-lines-and-publishers-leverage-is-narrow/)**
 
-Amid global backlash, billionaire had only hours earlier said he was not aware of any ‘naked underage images’
+Google will pay for access, but not for training – and it remains unwilling to define AI Overviews as a compensable use of journalism.
 
-The Guardian • 11h ago
+Digiday • 25m ago
 
 ---
 
-**[Grok and the A.I. Porn Problem](https://www.newyorker.com/culture/infinite-scroll/grok-and-the-ai-porn-problem)**
+**[AI ‘godfather’ Yoshua Bengio believes he’s found a technical fix for AI’s biggest risks](https://fortune.com/2026/01/15/ai-godfather-yoshua-bengio-changes-view-on-ai-risks-sees-fix-becomes-optimistic-lawzero-board-of-advisors/)**
 
-Elon Musk’s X is living up to its name.
+Bengio spent years warning of advanced AI's risks. Now he sees a path to safer AI. His nonprofit LawZero has a new board to help him build it.
 
-The New Yorker • 17h ago
+Fortune • 26m ago
+
+---
+
+**[IBM drills down to the core of the sovereign AI problem](https://www.fiercewireless.com/cloud/ibm-drills-down-core-sovereign-ai-problem)**
+
+IBM is introducing Sovereign Core to tackle control of AI workloadsThe software is built on Red Hat tech and works across on-prem and cloud environments that | Sovereignty is no longer just about where data is stored and accessed but also where it is created.
+
+Fierce Network • 26m ago
 
 ---
 
@@ -195,19 +181,33 @@ Yahoo Finance • 6h ago
 
 ---
 
+**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqeo_wvNTei1kKe7_uifWCwuvwSn-57vPWPP89gcMWP6vsP2UAJzQTrA&gaa_ts=69687e43&gaa_sig=ZMokvFAMnR9vasNdnOy1GefoOI18SHjqzQGIdFsxGqBdYFu9LTdJEIKvM1GWpatNPCCCMBKBEd4oh7pOA96v_w%3D%3D)**
+
+The Wall Street Journal • 10h ago
+
+---
+
+**[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
+
+Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
+
+BBC • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 920 • 💬 707 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 921 • 💬 707 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
 **[We can't have nice things because of AI scrapers](https://news.ycombinator.com/item?id=46608840)**
 
-⬆️ 452 • 💬 254 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+⬆️ 454 • 💬 254 • 1d ago • [blog.metabrainz.org](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 
 ---
 
@@ -245,7 +245,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 **[Let's be honest, Generative AI isn't going all that well](https://news.ycombinator.com/item?id=46605587)**
 
-⬆️ 222 • 💬 307 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
+⬆️ 222 • 💬 310 • 1d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt)
 
 ---
 
@@ -253,7 +253,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
 
-⬆️ 201 • 💬 90 • 1d ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
+⬆️ 201 • 💬 92 • 1d ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
 
 ---
 
@@ -261,7 +261,7 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 Why we are losing technical rigor to social hype
 
-⬆️ 196 • 💬 123 • 7h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 198 • 💬 127 • 8h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -313,7 +313,7 @@ http://www.fstoppers.com.
 
 📺 Fstoppers
 
-👁️ 10K • 👍 867 • 💬 273 • ⏱️ 7:32 • 7h ago
+👁️ 10K • 👍 867 • 💬 273 • ⏱️ 7:32 • 8h ago
 
 ---
 
@@ -323,7 +323,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 43K • 👍 2K • 💬 295 • ⏱️ 19:03 • 12h ago
+👁️ 43K • 👍 2K • 💬 295 • ⏱️ 19:03 • 13h ago
 
 ---
 
@@ -401,7 +401,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 1,003 • 10h ago
+⬇️ 1,064,063 • ❤️ 1,003 • 11h ago
 
 ---
 
@@ -413,7 +413,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 203 • ❤️ 556 • 22h ago
+⬇️ 203 • ❤️ 556 • 23h ago
 
 ---
 
@@ -437,7 +437,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 268 • 19h ago
+⬇️ 77 • ❤️ 268 • 20h ago
 
 ---
 
@@ -449,7 +449,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 260 • 8h ago
+⬇️ 32,276 • ❤️ 260 • 9h ago
 
 ---
 
@@ -511,7 +511,7 @@ Qwen3-VL-Embedding-2B is a 2B parameter multimodal embedding model that generate
 
 Conditional memory via Engram module enhances Transformer models by enabling efficient knowledge lookup and improving reasoning capabilities through optimized sparsity allocation.
 
-▲ 6 • 💬 1 • ⭐ 2,166 • 2d ago
+▲ 6 • 💬 1 • ⭐ 2,166 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.07372) • [💻 code](https://github.com/deepseek-ai/Engram)
 
@@ -642,7 +642,7 @@ The Qwen3-VL-Embedding and Qwen3-VL-Reranker models form an end-to-end multimoda
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.5k • 🔱 1.1k • 25s ago
+⭐ 8.5k • 🔱 1.1k • 46m ago
 
 ---
 
@@ -672,7 +672,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 146 • 13h ago
+⭐ 2.4k • 🔱 146 • 14h ago
 
 ---
 
@@ -692,7 +692,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 132 • 16m ago
+⭐ 1.6k • 🔱 132 • 1h ago
 
 ---
 
@@ -702,7 +702,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.5k • 🔱 1.2k • 14h ago
+⭐ 1.5k • 🔱 1.2k • 15h ago
 
 ---
 
@@ -732,7 +732,7 @@ OpenSource Claude Cowork. A desktop AI assistant that helps you with programming
 
 `TypeScript`
 
-⭐ 1.0k • 🔱 158 • 14h ago
+⭐ 1.0k • 🔱 158 • 15h ago
 
 ---
 

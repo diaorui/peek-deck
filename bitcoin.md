@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T04:41:52.209519+00:00'
+updated: '2026-01-15T05:27:52.192295+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- videos
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 04:41 UTC  
+**Last Updated:** January 15, 2026 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $95,829.10
+### $96,352.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +5.9%  
-**30d:** +11.1%  
-**90d:** -10.4%  
-**1y:** -4.0%  
+**24h:** +1.6%  
+**7d:** +6.6%  
+**30d:** +11.8%  
+**90d:** -9.8%  
+**1y:** -3.4%  
 
 ---
 
@@ -87,17 +87,11 @@ my hands are made of diamonds and there is goop inside of my skull
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
-
-10h ago
-
----
-
-**[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
 
 11h ago
 
@@ -107,19 +101,31 @@ my hands are made of diamonds and there is goop inside of my skull
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-14h ago
+15h ago
 
 ---
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-13h ago
+14h ago
+
+---
+
+**[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
+
+12h ago
+
+---
+
+**[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
+
+2h ago
 
 ---
 
@@ -133,13 +139,7 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-10h ago
-
----
-
-**[Bitcoin Investment, look like a good investment. All in !!](https://www.reddit.com/r/Bitcoin/comments/1qcqdki/bitcoin_investment_look_like_a_good_investment/)**
-
-13h ago
+11h ago
 
 ---
 
@@ -157,49 +157,19 @@ The Block • 5h ago
 
 The largest cryptocurrency extended its rally, pushing related equities higher as well.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[2 Cryptocurrencies That Could Benefit From Precious Metals Flying](https://www.fool.com/investing/2026/01/14/2-cryptocurrencies-that-could-benefit-from-preciou/)**
+**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcOqCfvkifjmPAZpvkKHE9oidzMi4vgY0XcVDddoeFNptwq3oLlGy88&gaa_ts=69687e45&gaa_sig=KYoUJVZCELLd8msTpGX3QUs4oqGGZXvjqSNLldV96qP3rmJKGFLX2kSX3p67bOl5SU9Ra5xwGAU665ejNL89Xw%3D%3D)**
 
-Investors who want to buy scarce assets will prefer to buy them cheap.
-
-The Motley Fool • 1h ago
-
----
-
-**[TD Cowen Trims Strategy Price Target as Bitcoin Yield Outlook Softens](https://finance.yahoo.com/news/td-cowen-trims-strategy-price-030728855.html)**
-
-TD Cowen cut its target but kept a buy rating, citing near-term modeling pressure from Strategy’s aggressive Bitcoin buying.
-
-Yahoo Finance • 1h ago
+Barron's • 7h ago
 
 ---
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 7h ago
-
----
-
-**[Bitdeer overtakes MARA as largest bitcoin miner by 'managed hashrate' metric](https://www.theblock.co/post/385464/bitdeer-overtakes-mara-largest-bitcoin-miner-managed-hashrate)**
-
-The Block • 1d ago
-
----
-
-**[Bitcoin Has Started 2026 Strong: Here’s Why and Where It Could Go Next](https://finance.yahoo.com/news/bitcoin-started-2026-strong-why-165905018.html)**
-
-Bitcoin is off to a strong start in 2026. Find out what’s driving the surge and where experts predict the cryptocurrency could go next.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Price Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqf4xvxeKaef4vZYznboEeNe7rjEO4QqUgwawQW1A1k65o4TtQ78V3EL&gaa_ts=6968658e&gaa_sig=4QJAq4-d8bsJUz6WnvimfYLSloNrlaEEsnBNOL6uGt8jPYv4Bfg8IAkxZJzyXqr8zsVsRQ22frwIQGY8ARMohg%3D%3D)**
-
-Barron's • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -211,11 +181,37 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Senate Committees Coordinate CLARITY Act Timelines, Raising Stakes for US Crypto Markets](https://news.bitcoin.com/senate-committees-coordinate-clarity-act-timelines-raising-stakes-for-us-crypto-markets/)**
+**[America's Grip on Bitcoin Mining Slips, Despite Trump's Ambitions for Dominance](https://decrypt.co/354627/americas-grip-bitcoin-mining-slips-despite-trump-ambitions-dominance)**
 
-Senate leaders have locked in committee deadlines for a sweeping crypto market overhaul that could reshape U.S. digital asset regulation, redefine stablecoin rules, and set the stage for a decisive floor vote before the 2026 election cycle.
+North America is becoming a less dominant force in the Bitcoin mining industry, ceding newly minted BTC to adversaries like China.
 
-Bitcoin.com News • 1d ago
+Decrypt • 8h ago
+
+---
+
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
+
+CCN.com • 1d ago
+
+---
+
+**[Bitcoin News Today: Corporate Bitcoin Treasuries Buy BTC at 3× the Mining Supply as Demand Accelerates](https://www.binance.com/ar/square/post/01-14-2026-bitcoin-news-today-corporate-bitcoin-treasuries-buy-btc-at-3-the-mining-supply-as-demand-accelerates-35059505938882)**
+
+Binance • 1d ago
+
+---
+
+**[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
+
+Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
+
+CoinDesk • 21h ago
 
 ---
 
@@ -309,7 +305,7 @@ Jeff Park is a Partner & Chief Investment Officer at ProCap Financial. In this c
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 523 • 💬 7 • ⏱️ 44:47 • 6h ago
+👁️ 12K • 👍 523 • 💬 7 • ⏱️ 44:47 • 7h ago
 
 ---
 
@@ -319,7 +315,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 854 • 💬 105 • ⏱️ 6:42 • 9h ago
+👁️ 15K • 👍 854 • 💬 105 • ⏱️ 6:42 • 10h ago
 
 ---
 
@@ -329,7 +325,7 @@ Bitcoin just ripped from $92K to $97K, but is this a massive breakout or the ult
 
 📺 Kyle Chasse crypto
 
-👁️ 5K • 👍 355 • 💬 67 • ⏱️ 11:32 • 6h ago
+👁️ 5K • 👍 355 • 💬 67 • ⏱️ 11:32 • 7h ago
 
 ---
 
@@ -339,7 +335,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 2K • 💬 97 • ⏱️ 24:06 • 5h ago
+👁️ 17K • 👍 2K • 💬 97 • ⏱️ 24:06 • 6h ago
 
 ---
 
@@ -349,7 +345,7 @@ MAJOR BREAKING CRYPTO NEWS TODAY! IT IS STARTING! DON'T MISS OUT! CADE HILTON'S 
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 627 • 💬 16 • ⏱️ 6:09 • 12h ago
+👁️ 10K • 👍 627 • 💬 16 • ⏱️ 6:09 • 13h ago
 
 ---
 
@@ -359,7 +355,7 @@ Bitcoin #Crypto #Finance Bitcoin and crypto got a jolt today as headlines pointe
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 1K • 💬 167 • ⏱️ 47:15 • 13h ago
+👁️ 26K • 👍 1K • 💬 167 • ⏱️ 47:15 • 14h ago
 
 ---
 
@@ -369,7 +365,7 @@ Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeepi
 
 📺 EllioTrades
 
-👁️ 14K • 👍 938 • 💬 166 • ⏱️ 17:03 • 8h ago
+👁️ 14K • 👍 938 • 💬 166 • ⏱️ 17:03 • 9h ago
 
 ---
 
@@ -389,7 +385,7 @@ Fred Thiel, chairman & CEO of MARA Holdings, says Bitcoin is shifting from specu
 
 📺 CNBC Television
 
-👁️ 11K • 👍 121 • 💬 29 • ⏱️ 5:02 • 16h ago
+👁️ 11K • 👍 121 • 💬 29 • ⏱️ 5:02 • 17h ago
 
 ---
 
