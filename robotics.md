@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T22:23:57.317887+00:00'
+updated: '2026-01-15T22:46:41.714139+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 22:23 UTC  
+**Last Updated:** January 15, 2026 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov 
 
 As you may know, camera calibration is very important for SLAM but it’s a messy process. For my Embedded SLAM Camera module, I made a web tool for easiest calibration of both cameras and IMU. Making it easy for users to do it with just their browsers! ✨ Attached is a video of calibrating the camera module. This uses Kalibr behind the scenes. I plan to open-source this and support more cameras natively. Right now it only detects the Mighty camera (and pre-recorded rosbags with jpegs and/or IMUs).
 
-49m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ As you may know, camera calibration is very important for SLAM but it’s a mess
 
 An assistive robotic mobility system is shown supporting pediatric gait training in a real-world deployment. The system provides powered, controlled leg movement to enable structured walking practice, repetition, and balance support. Use focuses on supplementing existing therapeutic approaches rather than replacing clinical care. The example demonstrates embodied robotics operating outside a laboratory setting, with direct human–robot interaction and safety constraints. Shared as an applied example of assistive robotics, including actuation, control, and deployment considerations in a healthcare context.
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ Atlas’ transition from research platform to product was shaped by a deliberate
 
 **[Second thoughts about robotics, am I overthinking this or heading the wrong way?](https://www.reddit.com/r/robotics/comments/1qdtdp7/second_thoughts_about_robotics_am_i_overthinking/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hey, I recently bought an STM32 Black Pill for my differential driver car projec
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-13h ago
+14h ago
 
 ---
 
@@ -110,7 +110,7 @@ The biggest frustration I faced while scaling a robot project wasn’t building 
 
 **[OpenAI Seeks US-Based Suppliers for Planned Robotics, AI Device Push](https://www.bloomberg.com/news/articles/2026-01-15/openai-seeks-us-based-suppliers-for-planned-robotics-ai-device-push)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -140,7 +140,7 @@ TechCrunch • 1d ago
 
 MassRobotics' Form and Function challenge will culminate with in-person demonstrations at the Robotics Summit & Expo.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ Reuters • 2d ago
 
 Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -200,7 +200,7 @@ Access some of the best late-stage AI companies BEFORE THEY IPO with Venture Cap
 
 📺 Ticker Symbol: YOU
 
-👁️ 57K • 👍 3K • 💬 238 • ⏱️ 17:36 • 23h ago
+👁️ 57K • 👍 3K • 💬 238 • ⏱️ 17:36 • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ At CES 2026, SwitchBot is showing how far smart homes and robotics have come —
 
 📺 KhanFlicks
 
-👁️ 2K • 💬 15 • ⏱️ 6:37 • 4h ago
+👁️ 2K • 💬 15 • ⏱️ 6:37 • 5h ago
 
 ---
 

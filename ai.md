@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T22:23:57.302246+00:00'
+updated: '2026-01-15T22:46:41.696320+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 22:23 UTC  
+**Last Updated:** January 15, 2026 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra quality models. - Privacy: Because there is no backend server, it works in Airplane mode. Your photos never leave your device. Full Feature List: I did not want it to just be a tech demo, so I added the utilities needed for a real workflow: - AI Upscaler: Clean up low-res images with up to 16x magnification. - Image Enhancer: A general fix-it mode for sharpening and de-blurring without changing resolution. - Smart Editor: Includes an offline AI Background Remover and a Magic Eraser to wipe unwanted objects. - Batch Converter: Select multiple images at once to convert between formats (JPEG, PNG, WEBP) or compile them into a PDF. - Resolution Control: Manually resize images to specific dimensions if you do not need AI upscaling. Why I need your help: Running 16x models on a phone is heavy. I am looking for feedback on how the "GPU Burst" mode handles heat management on different chipsets . https://play.google.com/store/apps/details?id=com.saif.example.imageupscaler
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ Most people probably use coding agents wrong. There I said it again. They treat 
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 21h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Zhipu claims GLM-Image achieved industry-leading scores among open-source models
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-21h ago
+22h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 12h ago
 
 The Oscar-winning actor has trademarked several phrases, including "Alright, alright, alright" from the cult classic film, Dazed and Confused.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Wall Street Journal • 1d ago
 
 Matthew McConaughey has filed several trademarks in a bid to prevent misuse as unauthorized AI use continues to plague the Hollywood industry.
 
-Entertainment Weekly • 5h ago
+Entertainment Weekly • 6h ago
 
 ---
 
@@ -153,7 +153,7 @@ Entertainment Weekly • 5h ago
 
 The internet infrastructure company wants AI developers to pay creators for content they use in their models.
 
-CNBC • 54m ago
+CNBC • 1h ago
 
 ---
 
@@ -282,7 +282,7 @@ Panelists Taylor Riggs, Kenny Polcari and Jason Chaffetz talk the impact of arti
 
 📺 Fox Business
 
-👁️ 3K • 👍 66 • 💬 27 • ⏱️ 6:58 • 13h ago
+👁️ 3K • 👍 66 • 💬 27 • ⏱️ 6:58 • 14h ago
 
 ---
 
@@ -322,7 +322,7 @@ Shop Winter Savings: https://micro.center/9ee61b ▻Sign up for Micro Center's N
 
 📺 Gamer Meld
 
-👁️ 43K • 👍 2K • 💬 508 • ⏱️ 8:51 • 22h ago
+👁️ 43K • 👍 2K • 💬 508 • ⏱️ 8:51 • 23h ago
 
 ---
 
@@ -362,7 +362,7 @@ The latest Antigravity update brings Agent Skills, Subagents, AI Automation, and
 
 📺 WorldofAI
 
-👁️ 23K • 👍 646 • 💬 40 • ⏱️ 9:11 • 18h ago
+👁️ 23K • 👍 646 • 💬 40 • ⏱️ 9:11 • 19h ago
 
 ---
 
@@ -641,7 +641,7 @@ Multi-agent collaboration networks enhance collective intelligence, outperformin
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.7k • 🔱 1.1k • 5h ago
+⭐ 8.7k • 🔱 1.1k • 6h ago
 
 ---
 
@@ -701,7 +701,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.9k • 🔱 1.6k • 8h ago
+⭐ 1.9k • 🔱 1.6k • 9h ago
 
 ---
 

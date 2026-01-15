@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T22:23:57.309801+00:00'
+updated: '2026-01-15T22:46:41.704841+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 22:23 UTC  
+**Last Updated:** January 15, 2026 at 22:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Boomers delivering $10,000 worth of Silver to the buyers](https://www.reddit.com/r/Bitcoin/comments/1qdv6qx/boomers_delivering_10000_worth_of_silver_to_the/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ I also started staking silver to fight the money printer, but later found Bitcoi
 
 Had this realization over the holidays talking to my dad about money. Hes had money at the same bank for literally 30 years earning what, maybe 0.5% on a good day? Meanwhile that bank has been lending his deposits out at 7-8% and pocketing the spread this entire time and he just accepted it as normal because what alternative did he have. Now we have bitcoin as an actual alternative to the legacy system and stablecoin yields paying 6-7% for people who want to stay in dollars, and most people still have no idea this stuff exists or dismiss it as scam because media told them crypto is for criminals. The amount of value traditional banks extract from regular people is actually insane when you stop and think about it. Not saying everyone needs to go full bitcoin maxi but the fact that alternatives to the legacy banking system exist now and are accessible to anyone with internet should be a bigger deal than it is. Our parents generation had no choice but to accept getting screwed by banks. We actually have options. Anyone else have these conversations with family and just feel like youre speaking different languages?
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ We often hear success stories about Bitcoin, but I’m curious about the other s
 
 **[One of Us - this Billionaire said about bitcoin "You can try to talk me out of it but I'm going to do it"](https://www.reddit.com/r/Bitcoin/comments/1qdrrcv/one_of_us_this_billionaire_said_about_bitcoin_you/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -137,7 +137,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 Virtual currencies, real risks. The only guarantee in crypto is risk.
 
-🔗 [newsroom.kbc.com](https://newsroom.kbc.com/as-of-mid-february-kbc-will-be-the-first-belgian-bank-to-offer-the-possibility-to-buy-and-sell-crypto-through-bolero) • 4h ago
+🔗 [newsroom.kbc.com](https://newsroom.kbc.com/as-of-mid-february-kbc-will-be-the-first-belgian-bank-to-offer-the-possibility-to-buy-and-sell-crypto-through-bolero) • 5h ago
 
 ---
 
@@ -173,7 +173,7 @@ grist.org • 1d ago
 
 Iran’s crypto activity accelerated in 2025, a new report says, driven by civilians and state actors turning to Bitcoin during periods of unrest.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Motley Fool • 12h ago
 
 The bitcoin price climbed above $97,000 to its highest level in more than two months as billions in inflows poured into U.S. spot Bitcoin ETFs.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Block • 1d ago
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -303,7 +303,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 53 • ⏱️ 46:33 • 6h ago
+👁️ 18K • 👍 1K • 💬 53 • ⏱️ 46:33 • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ The Clarity Act has stalled in Washington and this could impact Bitcoin and the 
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 2K • 💬 37 • ⏱️ 30:10 • 6h ago
+👁️ 21K • 👍 2K • 💬 37 • ⏱️ 30:10 • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin #Crypto #Finance Crypto regulation hits another roadblock as the Senate 
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 97 • ⏱️ 36:20 • 7h ago
+👁️ 22K • 👍 1K • 💬 97 • ⏱️ 36:20 • 8h ago
 
 ---
 

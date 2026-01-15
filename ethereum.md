@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T22:23:57.315083+00:00'
+updated: '2026-01-15T22:46:41.710879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 22:23 UTC  
+**Last Updated:** January 15, 2026 at 22:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -124,7 +124,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 18h ago
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 19h ago
 
 ---
 
@@ -199,7 +199,7 @@ dlnews.com • 2d ago
 
 BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -245,7 +245,7 @@ Bybit – Up to $30,050 Bonus, best platform (KYC required) ...
 
 📺 Stock Moe
 
-👁️ 827 • 👍 118 • 💬 13 • ⏱️ 13:25 • 57m ago
+👁️ 827 • 👍 118 • 💬 13 • ⏱️ 13:25 • 1h ago
 
 ---
 
@@ -255,7 +255,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=9QZqVwyL8WA FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 187 • 💬 192 • ⏱️ 15:10 • 16h ago
+👁️ 4K • 👍 187 • 💬 192 • ⏱️ 15:10 • 17h ago
 
 ---
 
@@ -265,7 +265,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 259 • 💬 58 • ⏱️ 11:22 • 21h ago
+👁️ 5K • 👍 259 • 💬 58 • ⏱️ 11:22 • 22h ago
 
 ---
 
@@ -295,7 +295,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 999 • 👍 96 • 💬 7 • ⏱️ 3:43 • 5h ago
+👁️ 999 • 👍 96 • 💬 7 • ⏱️ 3:43 • 6h ago
 
 ---
 
