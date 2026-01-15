@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T12:49:28.923618+00:00'
+updated: '2026-01-15T13:40:28.003990+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - repositories
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 12:49 UTC  
+**Last Updated:** January 15, 2026 at 13:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 21h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 22h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 14h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 12h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 6h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 7h ago
 
 ---
 
@@ -81,7 +81,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI t
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-12h ago
+13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 17h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 18h ago
 
 ---
 
@@ -105,7 +105,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-12h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 **[A.I. Has Arrived in Gmail. Here’s What to Know.](https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 2h ago
 
 Personal Intelligence connects the Gemini app to your Google apps to provide more personalized suggestions.
 
-blog.google • 20h ago
+blog.google • 21h ago
 
 ---
 
@@ -139,7 +139,7 @@ blog.google • 20h ago
 
 Cupertino finally threw its weight into the AI race — behind a familiar name.
 
-New York Magazine • 1h ago
+New York Magazine • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ New York Magazine • 1h ago
 
 It also foresees revenue growth of close to 30% in 2026, faster than the average analyst estimate.  Shares in key supplier ASML Holding NV rose 7.6% to a record in Europe, sending its market value beyond $500 billion.  The outlook from TSMC — a bellwether for the artificial intelligence boom — reflects a development frenzy by the likes of Meta Platforms Inc. and Amazon.com Inc. that’s spurred demand for Nvidia Corp. accelerators.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 7h ago
 
 **[AI Stocks Give Mixed Messages. But There’s One Clear Takeaway for Markets and 5 Other Things to Know Today.](https://www.barrons.com/articles/ai-stocks-tsmc-earnings-things-to-know-today-f5a51766?gaa_at=eafs&gaa_n=AWEtsqf9CouH4AJYvT-b1-b6Fate6sULoP7rMrgcmRVePt_B0CZg-kgS7sTY&gaa_ts=6968e5bf&gaa_sig=ui9KvcD8y9uWOO6nA-qz1FyvIPAGnxHGqalY8P6nR4Tzc0A6q6WZCmPNX-iUrklQjwh-prqxoBEqoXGRROPZqg%3D%3D)**
 
-Barron's • 59m ago
+Barron's • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Barron's • 59m ago
 
 In Mansion House speech, mayor will talk of opportunities technology offers but highlight mass unemployment risk
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -177,19 +177,19 @@ The Guardian • 58m ago
 
 Executives from Dick’s Sporting Goods to Macy’s offered insights as the industry grapples with integrating the new tech into their operations.
 
-Retail Dive • 13m ago
+Retail Dive • 1h ago
 
 ---
 
 **[Behind the Curtain: The job replacement AI machine](https://www.axios.com/2026/01/15/ai-job-replacement-white-collar)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
 **[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqdj3NtA1LPNhxP6dLpfGR3Fo-w6TwSttoRbeVPGOk8UFtUT_FteVzXf&gaa_ts=6968e5bf&gaa_sig=wJdB_ED1fAF8iDbW0CpQeAo6pNsYiMZAF6XAvWmN_FA1m7ZBlACli4xAniBXc9of7Nby9PhgrObKJqXZT0lRQg%3D%3D)**
 
-The Wall Street Journal • 17h ago
+The Wall Street Journal • 18h ago
 
 ---
 
@@ -237,7 +237,7 @@ Warhammer maker Games Workshop has banned the use of AI in its content productio
 
 Why we are losing technical rigor to social hype
 
-⬆️ 226 • 💬 153 • 15h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 226 • 💬 153 • 16h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -281,7 +281,7 @@ Is it possible to get consistent, Hollywood-level cinematography from AI video g
 
 📺 Theoretically Media
 
-👁️ 13K • 👍 984 • 💬 96 • ⏱️ 14:15 • 13h ago
+👁️ 13K • 👍 984 • 💬 96 • ⏱️ 14:15 • 14h ago
 
 ---
 
@@ -301,7 +301,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 53K • 👍 2K • 💬 320 • ⏱️ 19:03 • 20h ago
+👁️ 53K • 👍 2K • 💬 320 • ⏱️ 19:03 • 21h ago
 
 ---
 
@@ -311,7 +311,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 115K • 👍 7K • 💬 488 • ⏱️ 26:29 • 19h ago
+👁️ 115K • 👍 7K • 💬 488 • ⏱️ 26:29 • 20h ago
 
 ---
 
@@ -321,7 +321,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 92K • 👍 6K • 💬 353 • ⏱️ 10:04 • 16h ago
+👁️ 92K • 👍 6K • 💬 353 • ⏱️ 10:04 • 17h ago
 
 ---
 
@@ -339,7 +339,7 @@ The tech oligarchs want to RETVRN. If you like my stuff, consider supporting me 
 
 📺 NetworkChuck
 
-👁️ 46K • 👍 3K • 💬 58 • ⏱️ 2:09 • 4h ago
+👁️ 46K • 👍 3K • 💬 58 • ⏱️ 2:09 • 5h ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-Image is a text-to-image model with a hybrid autoregressive + diffusion deco
 
 `text-to-image`
 
-⬇️ 2,442 • ❤️ 619 • 2h ago
+⬇️ 2,442 • ❤️ 619 • 3h ago
 
 ---
 
@@ -409,7 +409,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,187,843 • ❤️ 1,020 • 18h ago
+⬇️ 1,187,843 • ❤️ 1,020 • 19h ago
 
 ---
 
@@ -433,7 +433,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 41,095 • ❤️ 266 • 16h ago
+⬇️ 41,095 • ❤️ 266 • 17h ago
 
 ---
 
@@ -493,7 +493,7 @@ MedGemma 1.5 4B is a multimodal instruction-tuned model for medical text and ima
 
 `image-text-to-text` `4.3B`
 
-⬇️ 4,422 • ❤️ 183 • 14h ago
+⬇️ 4,422 • ❤️ 183 • 15h ago
 
 ---
 
@@ -531,7 +531,7 @@ We present MiroThinker v1.0, an open-source research agent designed to advance t
 
 LTX-2 is an open-source audiovisual diffusion model that generates synchronized video and audio content using a dual-stream transformer architecture with cross-modal attention and classifier-free guidance.
 
-▲ 115 • 💬 3 • ⭐ 2,448 • 8d ago
+▲ 115 • 💬 3 • ⭐ 2,448 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.03233) • [💻 code](https://github.com/Lightricks/LTX-2) • [🔗 project](https://app.ltx.studio/ltx-2-playground/i2v)
 
@@ -667,7 +667,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 148 • 21h ago
+⭐ 2.4k • 🔱 148 • 22h ago
 
 ---
 
@@ -677,7 +677,7 @@ A high-performance, 100% client-side tool for removing Gemini AI watermarks. Bui
 
 `JavaScript`
 
-⭐ 2.1k • 🔱 236 • 3d ago
+⭐ 2.1k • 🔱 236 • 4d ago
 
 ---
 
@@ -687,7 +687,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 70 • 8h ago
+⭐ 2.1k • 🔱 70 • 9h ago
 
 ---
 
@@ -697,7 +697,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.6k • 🔱 1.4k • 22h ago
+⭐ 1.6k • 🔱 1.4k • 23h ago
 
 ---
 
@@ -707,7 +707,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 133 • 6h ago
+⭐ 1.6k • 🔱 133 • 7h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T12:49:28.941085+00:00'
+updated: '2026-01-15T13:40:28.022303+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 12:49 UTC  
+**Last Updated:** January 15, 2026 at 13:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,13 +52,13 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-12h ago
+13h ago
 
 ---
 
 **[Interesting blog on a arduino based car](https://www.reddit.com/r/robotics/comments/1qdbuvk/interesting_blog_on_a_arduino_based_car/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ I have been searching for controllers where i can connect anything anywhere and 
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ I came across the Arctos robotic arm a few months ago and decided to embark on t
 
 YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: http
 
 Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
 
-16h ago
+17h ago
 
 ---
 
@@ -114,13 +114,13 @@ I have some questions, but first, here's the announcement. Another big announcem
 
 **[Robotics Startup Skild AI Valued Above $14 Billion in New Funding Round](https://www.bloomberg.com/news/articles/2026-01-14/robotics-startup-skild-valued-above-14-billion-after-softbank-led-funding-round)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
 **[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
 
-Business Wire • 21h ago
+Business Wire • 22h ago
 
 ---
 
@@ -128,13 +128,13 @@ Business Wire • 21h ago
 
 Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 20h ago
+GeekWire • 21h ago
 
 ---
 
@@ -192,7 +192,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 422K • 👍 13K • 💬 742 • ⏱️ 17:09 • 2d ago
+👁️ 422K • 👍 13K • 💬 742 • ⏱️ 17:09 • 3d ago
 
 ---
 
@@ -260,7 +260,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 92K • 👍 5K • 💬 137 • ⏱️ 0:49 • 15h ago
+👁️ 92K • 👍 5K • 💬 137 • ⏱️ 0:49 • 16h ago
 
 ---
 
