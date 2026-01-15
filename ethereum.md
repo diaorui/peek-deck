@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-01-15T07:26:47.993003+00:00'
+updated: '2026-01-15T07:47:20.267828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 07:26 UTC  
+**Last Updated:** January 15, 2026 at 07:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,301.51
+### $3,316.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +7.7%  
-**30d:** +17.3%  
-**90d:** -14.6%  
-**1y:** +0.4%  
+**24h:** -0.2%  
+**7d:** +8.0%  
+**30d:** +17.7%  
+**90d:** -14.3%  
+**1y:** +0.7%  
 
 ---
 
@@ -100,12 +100,6 @@ In 2014, there was a vision: you can have permissionless, decentralized applicat
 
 ---
 
-**[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
-
-🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 3h ago
-
----
-
 **[Patricio Worthalter (POAP): The impossible balance between culture alignment and survival](https://www.reddit.com/r/ethereum/comments/1qd2udr/patricio_worthalter_poap_the_impossible_balance/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
@@ -114,11 +108,17 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[$20m Raised for "Quantum Readiness" for BTC and SOL... yikes.](https://www.reddit.com/r/ethereum/comments/1qd8yt7/20m_raised_for_quantum_readiness_for_btc_and_sol/)**
+
+🔗 [theblock.co](https://www.theblock.co/post/385583/project-eleven-series-a-funding-crypto-quantum-threats) • 4h ago
+
+---
+
 **[ETH/USD widget for iPhone](https://www.reddit.com/r/ethereum/comments/1qch56t/ethusd_widget_for_iphone/)**
 
 I want to see ETH price realtime on iPhone Widget. Yahoo Finance doesn’t have one. What do you use?
 
-23h ago
+1d ago
 
 ---
 
@@ -195,7 +195,7 @@ Seeking Alpha • 16h ago
 
 More crypto regulation could be coming soon.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -221,9 +221,9 @@ Investing.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and Solana Primed for Major Price Run as ETF Volumes Soar in 2026](https://www.tradingview.com/news/zycrypto:84d87733f094b:0-bitcoin-ethereum-and-solana-primed-for-major-price-run-as-etf-volumes-soar-in-2026/)**
+**[Why are Bitcoin, Ethereum and XRP Prices Rallying Today?](https://www.tradingview.com/news/coinpedia:a65690739094b:0-why-are-bitcoin-ethereum-and-xrp-prices-rallying-today/)**
 
-Rising exchange-traded fund activity across Bitcoin, Ethereum, and Solana is already attracting a lot of attention from the crypto community.
+The crypto market is in the green today, with Bitcoin, Ethereum, and XRP all posting solid gains. The total crypto market value has jumped above $3.25 trillion, rising more than 4.5% in the last 24 hours.Here’s a simple breakdown of what’s driving the rally.1. Bitcoin Breaks Above $94,000 and $95,0…
 
 TradingView — Track All Markets • 1d ago
 
@@ -239,7 +239,7 @@ Ethereum and Solana are leading the 2026 crypto bull market. In this video, I br
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 180 • 💬 33 • ⏱️ 11:22 • 6h ago
+👁️ 3K • 👍 180 • 💬 33 • ⏱️ 11:22 • 7h ago
 
 ---
 
@@ -259,7 +259,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 111 • 💬 4 • ⏱️ 4:34 • 4h ago
+👁️ 1K • 👍 111 • 💬 4 • ⏱️ 4:34 • 5h ago
 
 ---
 
@@ -279,7 +279,7 @@ In this episode of The Milk Road Show, we sit down with Christopher Keshian, fou
 
 📺 Milk Road
 
-👁️ 1K • 👍 62 • 💬 26 • ⏱️ 36:50 • 11h ago
+👁️ 1K • 👍 62 • 💬 26 • ⏱️ 36:50 • 12h ago
 
 ---
 
@@ -289,7 +289,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 16h ago
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 3:42 • 17h ago
 
 ---
 
@@ -299,7 +299,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 540 • 💬 47 • ⏱️ 17:33 • 2h ago
+👁️ 2K • 👍 540 • 💬 47 • ⏱️ 17:33 • 3h ago
 
 ---
 
@@ -309,7 +309,7 @@ Ethereum Elliott Wave Analysis & Price Update (ETH/USD) In this video, I break d
 
 📺 Koenz Trading
 
-👁️ 1K • 👍 99 • 💬 16 • ⏱️ 6:04 • 17h ago
+👁️ 1K • 👍 99 • 💬 16 • ⏱️ 6:04 • 18h ago
 
 ---
 

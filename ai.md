@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T07:26:47.978528+00:00'
+updated: '2026-01-15T07:47:20.253222+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 07:26 UTC  
+**Last Updated:** January 15, 2026 at 07:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 6h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ The feature will start with paid users only, and it's off by default.
 
 Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perform Blast radius detection of code changes, codebase audit etc reliably. Working on exposing the browser tab through MCP so claude code / cursor, etc can use it for codebase audits, deep context of code connections etc preventing it from making breaking changes due to missed upstream and downstream dependencies.
 
-6h ago
+7h ago
 
 ---
 
@@ -121,11 +121,59 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 ## Google News: "ai"
 
-**[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
+**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
+The New York Times • 12h ago
 
-BBC • 6h ago
+---
+
+**[TSMC Ends 2025 With a Bang as AI Keeps Boosting Profits](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqf0OFt6WKqE3MQlUVpkZUizVRV6nWM0CWAga8YF2oVYcbLmtuSFSrcV&gaa_ts=69689eea&gaa_sig=Wu7Z7PCICxh0QrbgCv6zFLa2VqFI_wHk6hRmN3W_qB2B0J_X7jZarrSwB6NHnAQ3YmIYxYu6ixg9aFnXuyBQUg%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[TSMC fourth-quarter profit beats estimates, soaring 35%, as AI chip demand stays strong](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
+
+TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
+
+CNBC • 2h ago
+
+---
+
+**[Taiwan's TSMC logs net profit jump on AI boom](https://finance.yahoo.com/news/taiwans-tsmc-logs-net-profit-061920911.html)**
+
+Taiwanese chipmaking titan TSMC announced Thursday a forecast-busting net profit for the fourth quarter in a sign of sustained global demand for AI technology.Net revenue for the fourth quarter rose 20.5 percent from a year ago to NT$1.05 trillion, TSMC said, also beating expectations.
+
+Yahoo Finance • 51m ago
+
+---
+
+**[Korea Cuts Naver and NCSoft Units From Intense Sovereign AI Race](https://www.bloomberg.com/news/articles/2026-01-15/korea-cuts-naver-and-ncsoft-units-from-intense-sovereign-ai-race)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[AI Bonds Could Devour Credit Markets. Let Stock Investors Take the Risk.](https://www.barrons.com/articles/ai-bonds-credit-markets-stocks-7a1dc0b1?gaa_at=eafs&gaa_n=AWEtsqcdw5ccT5t4k-pGgCBS8Hobcjt7gdShLQVM2ybjE1kMfMh8uCmH1UVE&gaa_ts=69689eea&gaa_sig=ovOQMJRHVe9fma6I43PQ-B1IrNgrPwMTyQME0KlcJXUSCfmA9zdJzPehkBtF5oDhU_YezPKcB2smVbm8U7bluw%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[Got $3,000? 4 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term](https://www.fool.com/investing/2026/01/15/got-3000-4-artificial-intelligence-ai-stocks-to-bu/?.tsrc=rss)**
+
+The effects of AI investments will benefit investors for years to come.
+
+The Motley Fool • 42m ago
+
+---
+
+**[3 AI ETFs Poised for 100% Surge as Tech Revolution Accelerates](https://finance.yahoo.com/news/3-ai-etfs-poised-100-015600237.html)**
+
+Investors have been able to enjoy huge gains from artificial intelligence (AI) stocks. We're still in the early innings, though, and that means opportunities are still available.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -137,57 +185,11 @@ The Guardian • 14h ago
 
 ---
 
-**[X Says Grok, Musk's AI Chatbot, Is Blocked From Undressing Images in Places Where It's Illegal](https://www.usnews.com/news/business/articles/2026-01-15/x-says-grok-musks-ai-chatbot-is-blocked-from-undressing-images-in-places-where-its-illegal)**
+**[X to stop Grok AI from undressing images of real people after backlash](https://www.bbc.com/news/articles/ce8gz8g2qnlo)**
 
-U.S. News & World Report • 1h ago
+Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
 
----
-
-**[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
-
-The New York Times • 12h ago
-
----
-
-**[TSMC fourth-quarter profit beats estimates, soaring 35%, as AI chip demand stays strong](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html)**
-
-TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago as advanced chip orders tied to AI continued to dominate its business.
-
-CNBC • 1h ago
-
----
-
-**[TSMC Profit Beats Estimates in Fresh Sign of AI Demand Strength](https://www.bloomberg.com/news/articles/2026-01-15/tsmc-profit-beats-estimates-in-fresh-sign-of-ai-demand-strength)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[TSMC Can’t Make AI Chips Fast Enough](https://www.theinformation.com/articles/tsmc-make-ai-chips-fast-enough)**
-
-The Information • 16h ago
-
----
-
-**[Government-backed Sentinel AI Defense Trial Could Be A Game Changer For GSI Technology (GSIT)](https://finance.yahoo.com/news/government-backed-sentinel-ai-defense-050948031.html)**
-
-In January 2026, GSI Technology announced a proof-of-concept engagement with two government agencies, partnering with Israel-based G2 Tech to integrate its Gemini-II compute-in-memory APU into Sentinel, an autonomous perimeter security system for real-time drone and camera monitoring, with total governmental backing in the millions of US dollars and about US$1,000,000 expected for GSI. The project highlights how GSI’s on-device AI inference can support mission-critical, high-load defense...
-
-Yahoo Finance • 2h ago
-
----
-
-**[AI Can’t Touch These Skilled Trade Jobs. If Only Enough Humans Would Fill Them.](https://www.wsj.com/lifestyle/careers/ai-cant-touch-these-skilled-trade-jobs-if-only-enough-humans-would-fill-them-9f2f05e9?gaa_at=eafs&gaa_n=AWEtsqeq_oFiUGm3urH36Se-JjvaOn9N-wE1JjpFcu3vp_hx6Clt673neCyt&gaa_ts=69688e55&gaa_sig=s6HDQtwnYWMuhBU3uxjnxADMaI4RvwdKPJz8e2UDhOJejsDV7VgWvOFrU6mN9_hkhiYE0jOzXG8WVQd1v6LMXQ%3D%3D)**
-
-The Wall Street Journal • 7h ago
-
----
-
-**[The risks of AI in schools outweigh the benefits, report says](https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education)**
-
-A new report warns that AI poses a serious threat to children's cognitive development and emotional well-being.
-
-NPR • 19h ago
+BBC • 6h ago
 
 ---
 
@@ -197,7 +199,7 @@ NPR • 19h ago
 
 **[AI generated music barred from Bandcamp](https://news.ycombinator.com/item?id=46605490)**
 
-⬆️ 924 • 💬 709 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
+⬆️ 925 • 💬 709 • 1d ago • [old.reddit.com](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 
 ---
 
@@ -249,7 +251,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 202 • 💬 128 • 10h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 208 • 💬 133 • 10h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -257,7 +259,7 @@ Why we are losing technical rigor to social hype
 
 Search the Epstein archive — an AI agent grounded in indexed emails, messages, and documents, powered by Nia
 
-⬆️ 201 • 💬 92 • 1d ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
+⬆️ 202 • 💬 92 • 1d ago • [epstein.trynia.ai](https://epstein.trynia.ai/)
 
 ---
 
@@ -265,7 +267,7 @@ Search the Epstein archive — an AI agent grounded in indexed emails, messages,
 
 The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a worl
 
-⬆️ 190 • 💬 199 • 1d ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
+⬆️ 191 • 💬 199 • 1d ago • [blog.mozilla.org](https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/)
 
 ---
 
@@ -279,7 +281,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 101K • 👍 6K • 💬 452 • ⏱️ 26:29 • 13h ago
+👁️ 101K • 👍 6K • 💬 452 • ⏱️ 26:29 • 14h ago
 
 ---
 
@@ -289,7 +291,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 81K • 👍 6K • 💬 323 • ⏱️ 10:04 • 10h ago
+👁️ 81K • 👍 6K • 💬 323 • ⏱️ 10:04 • 11h ago
 
 ---
 
@@ -667,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 147 • 15h ago
+⭐ 2.4k • 🔱 147 • 16h ago
 
 ---
 

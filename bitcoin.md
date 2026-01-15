@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T07:26:47.986980+00:00'
+updated: '2026-01-15T07:47:20.261866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 07:26 UTC  
+**Last Updated:** January 15, 2026 at 07:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $96,459.80
+### $96,469.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +6.5%  
-**30d:** +11.6%  
-**90d:** -10.0%  
-**1y:** -3.6%  
+**24h:** +1.8%  
+**7d:** +6.8%  
+**30d:** +12.0%  
+**90d:** -9.7%  
+**1y:** -3.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 my hands are made of diamonds and there is goop inside of my skull
 
-10h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ my hands are made of diamonds and there is goop inside of my skull
 
 Haven’t checked my btc for a while and it’s coming back now. What is behind the jump?
 
-12h ago
+13h ago
 
 ---
 
@@ -111,15 +111,15 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 ---
 
-**[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
-
-14h ago
-
----
-
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
 4h ago
+
+---
+
+**[This is it!](https://www.reddit.com/r/Bitcoin/comments/1qcs7v7/this_is_it/)**
+
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guccounter=1&guce\_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce\_referrer\_sig=AQAAAD10P9jc5b-KIePCNTvdiaWNopyUupAoZl0CqcI9D7DAALxt6Yz8-RLiJjSawQt3309srMf\_QErLGKDtHL0DUNeE2gFP820HbctDVCt6XaTYX2SCO\_i7g64hRcxylWsbq-r1d2RaCSdmaE8z7URPia1pZd0bAqiUEjQv-nvJ47ba
 
-9h ago
+10h ago
 
 ---
 
@@ -147,31 +147,51 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 ## Google News: "bitcoin"
 
+**[Is Bitcoin About to Break Out?](https://finance.yahoo.com/news/bitcoin-break-141100626.html)**
+
+A growing number of investors think Bitcoin might end the year above the $200,000 price level.
+
+Yahoo Finance • 17h ago
+
+---
+
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
-**[Bitcoin tops $97,000: 'This rally has further upside'](https://finance.yahoo.com/news/bitcoin-tops-97000-this-rally-has-further-upside-202458985.html)**
+**[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bitcoin surged Wednesday on optimism of crypto-related legislation advancing in Congress.
-
-Yahoo Finance • 11h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[NYC token crash: Former 'bitcoin mayor' Eric Adams denies profiting from ill-fated launch](https://www.coindesk.com/markets/2026/01/15/former-bitcoin-mayor-eric-adams-denies-profiting-from-nyc-token-after-80-crash)**
+**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
 
-The Solana-based token plunged more than 80% shortly after launch, with on-chain watchers flagging liquidity shifts that its backers and Adams’ team dispute.
+Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
 
-CoinDesk • 1h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqdT1YNho3848E2oW9YqjXs64x400YrFB9H8pPEvOj2Crx_RqYHJ190R&gaa_ts=69688e09&gaa_sig=i899mZAC-oOc361AGnX429NIjkNrTsOwBksSm4HxFqvIfS7_qt4oHR6ojXAMCJJ1zY7ijVh5i8yXCKY9Hch-FA%3D%3D)**
+**[BTC, ETH, XRP ETF news: Bitcoin ETFs take in $830 million](https://www.coindesk.com/markets/2026/01/15/bitcoin-etfs-take-in-usd830-million-amid-positive-inflows-across-ether-solana-and-xrp)**
 
-Barron's • 9h ago
+Bitcoin, ether, solana and XRP spot ETFs all posted net inflows on Wednesday, led by the strongest day for bitcoin funds in months.
+
+CoinDesk • 11m ago
+
+---
+
+**[Bitcoin Jumps Above $97,000, XRP Surges. Why This Crypto Rally Can Roll.](https://www.barrons.com/articles/bitcoin-xrp-ether-crypto-legislation-8cae962e?gaa_at=eafs&gaa_n=AWEtsqcz5wgxCR8QO9x9Lm513qGOlKZrCkFG6EJY_3gdvUJczigwq3Bz9mnu&gaa_ts=69689eec&gaa_sig=-p4QqlRElOX85qRBPS7X1cOdn-zn5A705GR09YVToeYDn-aj8V2s3Mg99R_AoYL2k7V3hR0nRO8DGCns4JlC6Q%3D%3D)**
+
+Barron's • 10h ago
+
+---
+
+**[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
+
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -183,39 +203,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Senate Committees Coordinate CLARITY Act Timelines, Raising Stakes for US Crypto Markets](https://news.bitcoin.com/senate-committees-coordinate-clarity-act-timelines-raising-stakes-for-us-crypto-markets/)**
+**[America's Grip on Bitcoin Mining Slips, Despite Trump's Ambitions for Dominance](https://decrypt.co/354627/americas-grip-bitcoin-mining-slips-despite-trump-ambitions-dominance)**
 
-Senate leaders have locked in committee deadlines for a sweeping crypto market overhaul that could reshape U.S. digital asset regulation, redefine stablecoin rules, and set the stage for a decisive floor vote before the 2026 election cycle.
+North America is becoming a less dominant force in the Bitcoin mining industry, ceding newly minted BTC to adversaries like China.
 
-Bitcoin.com News • 1d ago
-
----
-
-**[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
-
-Bloomberg.com • 10h ago
+Decrypt • 10h ago
 
 ---
 
-**[U.S. spot bitcoin ETFs pull in $750 million in strongest day since October](https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october)**
+**[BlackRock Moves $339M in Bitcoin as Traders Brace for ‘Massive’ Sell-Off — What Does It Mean for Price?](https://www.ccn.com/news/crypto/blackrock-moves-339m-bitcoin-traders-brace-sell-off/)**
 
-Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.
-
-CoinDesk • 23h ago
-
----
-
-**[Bitcoin ETFs See Biggest Inflow in Three Months After Reversing Outflows — Could Trump’s Tariff Decision Shift the Trend Again?](https://finance.yahoo.com/news/bitcoin-etfs-see-biggest-inflow-121715276.html)**
-
-U.S. Bitcoin ETFs recorded $750 million in inflows. BTC's climb above $95,000 has fueled the reversal. Trump's tariff ruling today may trigger volatility or boost ...
-
-Yahoo Finance • 19h ago
-
----
-
-**[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
-
-Investor's Business Daily • 9h ago
+CCN.com • 1d ago
 
 ---
 
@@ -329,7 +327,7 @@ Bitcoin just ripped from $92K to $97K, but is this a massive breakout or the ult
 
 📺 Kyle Chasse crypto
 
-👁️ 7K • 👍 405 • 💬 71 • ⏱️ 11:32 • 9h ago
+👁️ 7K • 👍 405 • 💬 71 • ⏱️ 11:32 • 10h ago
 
 ---
 
@@ -369,7 +367,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 7K • 👍 684 • 💬 86 • ⏱️ 12:02 • 12h ago
+👁️ 7K • 👍 684 • 💬 86 • ⏱️ 12:02 • 13h ago
 
 ---
 

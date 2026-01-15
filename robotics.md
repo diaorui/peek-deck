@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T07:26:47.996260+00:00'
+updated: '2026-01-15T07:47:20.271034+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 07:26 UTC  
+**Last Updated:** January 15, 2026 at 07:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208570 Blog: https://skild.ai/blogs/learning-by-watching Youtube: Learning by Watching Human Videos: https://www.youtube.com/watch?v=YRmjBdKKLsc
 
-20h ago
+21h ago
 
 ---
 
@@ -64,7 +64,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I came across the Arctos robotic arm a few months ago and decided to embark on the adventure of building it. But I want to mount it on a wall or a shaft, vertically. Has anyone ever used it that way? If so, did you have to use a different material for specific parts of the first axis? What else should I consider? Should I tweak the CAD files? I would really appreciate some help since it will be the first robotics project I build on my own. Thanks in advance!
 
-10h ago
+11h ago
 
 ---
 
@@ -124,9 +124,11 @@ Business Wire • 16h ago
 
 ---
 
-**[Skild AI aims to be the picks and shovels of robotics with $14b valuation](https://www.axios.com/pro/all-deals/2026/01/14/skild-ai-14-billion-valuation)**
+**[Robotic software startup Skild AI secures $1.4B in latest funding round: report (SFTBY:OTCMKTS)](https://seekingalpha.com/news/4539129-robotic-software-startup-skild-ai-secures-1_4b-in-latest-funding-round-report)**
 
-Axios • 9h ago
+Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
+
+Seeking Alpha • 16h ago
 
 ---
 
@@ -150,17 +152,9 @@ Reuters • 2d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqd9XrYDA78wSkevMkCxXmLkCru_XFe-e2XvpIo_GpuZ5urIPeX-kTiX&gaa_ts=69688e59&gaa_sig=nAEN_m4w6BPEcickedOc6GuDYmyqek8ib41MVnBeVRCLo8Z6Iq0yT08nzYTHAtWWGL0F0BCRCJxno6sXerQJRQ%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqdZhgbbFCvnSO7gaZvQGDwgjLOxTyAAtQHby6C6Xy0NpR6PJJ1dOopB&gaa_ts=69689eef&gaa_sig=bSvJ_tuwjjed61hETZlA5_4HseB8uHAQcXW1EGs_HHjV9B_2iCryRwI5XCYneRSUQNCLWcoV3cM1Nw5gIsH7CQ%3D%3D)**
 
-MarketWatch • 10h ago
-
----
-
-**[Don’t hold your breath for robots’ ChatGPT moment](https://www.ft.com/content/ed4e523e-923c-493d-b402-98a03f0cf7dd)**
-
-Implementing automation systems requires a lot of planning, time and money
-
-Financial Times • 2d ago
+MarketWatch • 11h ago
 
 ---
 
@@ -168,7 +162,7 @@ Financial Times • 2d ago
 
 Is it worth buying SERV at 45x forward sales as losses widen, dilution risks grow and shares sink despite rapid fleet expansion?
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -177,6 +171,14 @@ Yahoo Finance • 17h ago
 Home robots need common sense behavior and a deep understanding of the physical world.
 
 1X | Home Robots • 2d ago
+
+---
+
+**[Chinese firm builds world’s smallest humanoid robot designed to learn and evolve](https://interestingengineering.com/ai-robotics/china-worlds-smallest-humanoid-robot)**
+
+AgiBot subsidiary PrimeBot has built the world's smallest personal humanoid robot for embodied intelligence and daily life.
+
+Interesting Engineering • 2d ago
 
 ---
 
