@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-01-15T13:40:28.022303+00:00'
+updated: '2026-01-15T14:26:37.236937+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** January 15, 2026 at 13:40 UTC  
+**Last Updated:** January 15, 2026 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,33 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[LimX Dynamics has unveiled COSA (Cognitive Operating System of Agents) a physical-world-native operating system designed to turn humanoids into autonomous agents.](https://www.reddit.com/r/robotics/comments/1qdipf3/limx_dynamics_has_unveiled_cosa_cognitive/)**
+
+1h ago
+
+---
+
+**[Boston Dynamics on turning Atlas from a research platform into a manufacturable product](https://www.reddit.com/r/robotics/comments/1qdkoy1/boston_dynamics_on_turning_atlas_from_a_research/)**
+
+Atlas’ transition from research platform to product was shaped by a deliberate shift away from maximum capability toward manufacturability. According to Zack Jackowski at Boston Dynamics, early electric versions of Atlas were built to explore performance limits and accelerate learning, not to be scaled for production. The product version was designed by reducing mechanical and actuator complexity, standardizing components, and prioritizing reliability, cost, and serviceability. Jackowski describes research robots as intentionally complex learning tools, while product systems are built with the minimum necessary functionality and expanded incrementally. Initial use cases focus on simple industrial tasks rather than full general-purpose deployment. The long-term roadmap extends toward more complex manipulation and assembly, but dexterous manipulation remains the most challenging technical barrier and will be addressed over time.
+
+🔗 [automate.org](https://www.automate.org/robotics/industry-insights/boston-dynamics-atlaslead-talks-prototype-to-product) • 9m ago
+
+---
+
+**[Day 115 of building Asimov, an open-source humanoid](https://www.reddit.com/r/robotics/comments/1qdkadd/day_115_of_building_asimov_an_opensource_humanoid/)**
+
+We’re building Asimov, an open-source humanoid robot. It's Day 115 and Asimov can walk, even backward.
+
+25m ago
+
+---
+
 **[Whats the biggest frustration you’ve faced while scaling a robot Project?](https://www.reddit.com/r/robotics/comments/1qdeewf/whats_the_biggest_frustration_youve_faced_while/)**
 
 The biggest frustration I faced while scaling a robot project wasn’t building the first prototype it was realizing that everything breaks at scale. Parts behave differently across batches, small wiring changes cause big failures, firmware updates introduce new bugs, and user assembly adds chaos you can’t simulate in a lab. What worked once stops working consistently, and debugging shifts from pure engineering to managing manufacturing, supply chains, documentation, and human behavior all at once.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,13 +74,13 @@ Full thread on 𝕏 with 6 videos: https://x.com/SkildAI/status/2010823204588208
 
 i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two biggest complaints: poorly designed software (called "upper computer", for example most text doesn't fit in buttons) that only works on windows AND you need cubemars proprietary r-link connector to actually use it. some of the worst documentation of any tech product i've ever used. for example: a. link to firmware downloads is in a discord with broken invite so you can't join it. b. the manual's youtube tutorials that explain how to use the software are linked to a channel that youtube says has been terminated. c. switching between MIT mode and SERVO mode is a hassle and only works for one of the motors. d. very little example code. i ended up figuring out how to use them with a ton of trial and error but if their documentation had been better it would of taken me 10x less time does anyone recommend actuators that are more plug and play or at least have better documentation?
 
-13h ago
+14h ago
 
 ---
 
 **[Interesting blog on a arduino based car](https://www.reddit.com/r/robotics/comments/1qdbuvk/interesting_blog_on_a_arduino_based_car/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +88,7 @@ i got the ak70-10 and ak60-6 a few months ago. here's my review. 3/10 my two big
 
 I have been searching for controllers where i can connect anything anywhere and then configure things in my program without ever needing to touch wires again.
 
-4h ago
+5h ago
 
 ---
 
@@ -84,30 +106,6 @@ I came across the Arctos robotic arm a few months ago and decided to embark on t
 
 ---
 
-**[Presenting: probably the worst transmission system of all time](https://www.reddit.com/r/robotics/comments/1qcrk1r/presenting_probably_the_worst_transmission_system/)**
-
-YT link: https://youtu.be/mpLTiInM05Y?si=hhn-XDzD-m_Rkx69 Based on a paper: https://journals.aps.org/prl/abstract/10.1103/m6ft-ll2c FWIW, this is actually interesting as a proof of concept, I just find it hilarious how inefficient it is in this version.
-
-21h ago
-
----
-
-**[Can an Arducam ToF + Raspberry Pi detect the tip of a Christmas tree?](https://www.reddit.com/r/robotics/comments/1qcxeyq/can_an_arducam_tof_raspberry_pi_detect_the_tip_of/)**
-
-Hi everyone, I’m looking for real-world experience with Arducam ToF sensors used with a Raspberry Pi. My use case is a bit specific: I want to measure the height of a tree (Christmas tree / fir tree) by mounting the sensor above the tree and looking downward. The critical part is detecting the tip of the tree, which is relatively thin. What I’m trying to understand: Can the Arducam ToF reliably detect a small object (tree tip) at distances of 2–2.5 m, up to ~3 m? Is a precision of ±2 cm realistic at that distance for such a thin target? How does the sensor behave in outdoor conditions / bright daylight? More generally: does anyone have practical experience with these sensors beyond datasheets? Distance range of interest is roughly 20 cm to 3 m. I’m aware that surface reflectivity, object size, and ambient light matter — I’d really appreciate hands-on insights or limitations you’ve observed. Links to the Sensor: Arducam ToF sensors Thanks!
-
-17h ago
-
----
-
-**[NEURA Robotics with new generation of humanoid (I have some questions!)](https://www.reddit.com/r/robotics/comments/1qcjrll/neura_robotics_with_new_generation_of_humanoid_i/)**
-
-I have some questions, but first, here's the announcement. Another big announcement from NEURA. They have announced a major launch at CES 2026, opening pre-orders for its next-generation humanoid robots. Customers can reserve the Porsche-designed 4NE-1 Gen 3.5 for €98,000 or the smaller 4NE-1 Mini for €19,999 with a fully refundable €100 deposit. Where are their robots in the industry? I've heard about the rumours of the Tether-led 1 billion USD round. Does anyone know how the sales looks like? What's the revenue metric + where I can see their robots deployed? What's your opinion? Source: https://x.com/lukas_m_ziegler/status/2011059360324080115
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -120,7 +118,7 @@ Bloomberg.com • 1d ago
 
 **[Skild AI Raises $1.4B, Now Valued Over $14B](https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-%241.4B-Now-Valued-Over-%2414B)**
 
-Business Wire • 22h ago
+Business Wire • 23h ago
 
 ---
 
@@ -128,13 +126,13 @@ Business Wire • 22h ago
 
 Skild AI raises $1.4B Series C led by SoftBank, joining Nvidia and Bezos, valuing it at $14B.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
 **[Orbital Robotics reaches out with a plan to build robotic arms that use AI](https://www.geekwire.com/2026/orbital-robotics-space-robotic-arms-ai/)**
 
-GeekWire • 21h ago
+GeekWire • 22h ago
 
 ---
 
@@ -152,9 +150,17 @@ Reuters • 2d ago
 
 ---
 
-**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqcItU9uwL2VD03fFVWOZiX_EWLD-YwxDftMFOrpySs4g7_Od82fWN07&gaa_ts=6968e5c2&gaa_sig=2spgmyIkb-frjzhnzRgZFmBtgT9bCQKrT79cnJRWsoqO3ItsE6-ngCXkWyaNJ_nAU1dM6feuIvippNOhwZVq_Q%3D%3D)**
+**[3 ways to invest in what could become a $200 billion market for humanoid robots](https://www.marketwatch.com/story/3-ways-to-invest-in-what-could-become-a-200-billion-market-for-humanoid-robots-e258d39f?gaa_at=eafs&gaa_n=AWEtsqftH-93c4fzCjJBgJDpuyhh_M8xLrYEpIHRgDR5GrDStOBYqMooqa7R&gaa_ts=6968fc89&gaa_sig=LheS9sm_Wyyv2tcSdRG_VZGjkdLlCFtDcTSmoe5VgaItaidFEY8LDiERsaMqq-EOVlN8czjuaU7IlMV623LmkQ%3D%3D)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
+
+---
+
+**[Exclusive: Mytra raises $120 million Series C to scale supply chain robotics amid industry boom](https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/)**
+
+Mytra has raised a $120 million Series C, led by Avenir Growth, the company exclusively told Fortune.
+
+Fortune • 1h ago
 
 ---
 
@@ -170,15 +176,7 @@ Interesting Engineering • 3d ago
 
 Is it worth buying SERV at 45x forward sales as losses widen, dilution risks grow and shares sink despite rapid fleet expansion?
 
-Yahoo Finance • 23h ago
-
----
-
-**[China’s Robots vs. America’s Chatbots](https://www.thefp.com/p/chinas-robots-vs-americas-chatbots)**
-
-The U.S. could spend a trillion dollars on data centers, and still lose the real AI war to China, writes Patrick McGee.
-
-The Free Press • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -192,7 +190,7 @@ Thanks to Laifen for sponsoring a portion of this video. Laifen's high-speed hai
 
 📺 Kim Java
 
-👁️ 422K • 👍 13K • 💬 742 • ⏱️ 17:09 • 3d ago
+👁️ 423K • 👍 13K • 💬 748 • ⏱️ 17:09 • 3d ago
 
 ---
 
@@ -202,7 +200,7 @@ Humanoid robots seem to be going mainstream, appearing on stage with Elon Musk, 
 
 📺 CNBC
 
-👁️ 152K • 👍 2K • 💬 384 • ⏱️ 11:46 • 3d ago
+👁️ 152K • 👍 2K • 💬 385 • ⏱️ 11:46 • 3d ago
 
 ---
 
@@ -222,7 +220,7 @@ I saw a ton of robots at CES this year, so let's rank how terrifying each one wo
 
 📺 mryeester
 
-👁️ 1.0M • 👍 32K • 💬 986 • ⏱️ 0:39 • 6d ago
+👁️ 1.0M • 👍 32K • 💬 988 • ⏱️ 0:39 • 6d ago
 
 ---
 
@@ -246,11 +244,13 @@ Advances in robotics and AI have made robots smarter and more capable than ever.
 
 ---
 
-**[Could AI robots soon be in our homes? #AI #Robots #BBCNews](https://www.youtube.com/watch?v=4KvzNECXgNc)**
+**[Robots and #IDIOCRACY](https://www.youtube.com/watch?v=PR4mGl86SuU)**
 
-📺 BBC News
+Today we explore a civilization that develops and allows it's own replacement. - ✭ PATREON ...
 
-👁️ 31K • 👍 441 • 💬 53 • ⏱️ 1:17 • 2d ago
+📺 joeybtoonz
+
+👁️ 208K • 👍 13K • 💬 2K • ⏱️ 5:12 • 1d ago
 
 ---
 
@@ -260,17 +260,7 @@ ad what happens when you place an order from @amazon? I had the chance to find o
 
 📺 Gohar Khan
 
-👁️ 92K • 👍 5K • 💬 137 • ⏱️ 0:49 • 16h ago
-
----
-
-**[Giving a bar of GOLD to a Robot](https://www.youtube.com/watch?v=HX-Jk7R50MA)**
-
-When a robo-cleaner can notify you that a bar of gold was left on your living room floor, you know this technology is getting pretty ...
-
-📺 mryeester
-
-👁️ 103K • 👍 5K • 💬 187 • ⏱️ 1:06 • 5d ago
+👁️ 101K • 👍 5K • 💬 139 • ⏱️ 0:49 • 17h ago
 
 ---
 
@@ -280,7 +270,15 @@ CES 2026 just showed how insane robots have become. Subscribe to @cybernews for 
 
 📺 Cybernews
 
-👁️ 19K • 👍 256 • 💬 36 • ⏱️ 11:29 • 4d ago
+👁️ 19K • 👍 258 • 💬 36 • ⏱️ 11:29 • 4d ago
+
+---
+
+**[Could AI robots soon be in our homes? #AI #Robots #BBCNews](https://www.youtube.com/watch?v=4KvzNECXgNc)**
+
+📺 BBC News
+
+👁️ 31K • 👍 444 • 💬 53 • ⏱️ 1:17 • 2d ago
 
 ---
 
