@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-01-15T07:47:20.253222+00:00'
+updated: '2026-01-15T08:33:03.761971+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** January 15, 2026 at 07:47 UTC  
+**Last Updated:** January 15, 2026 at 08:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The US Senate backs new civil rights for victims of AI-generated sexual abuse as lawmakers confront misuse of Elon Musk's Grok chatbot on X.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 16h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-senate-passes-grok-ai-explicit-images-bill) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ The US Senate backs new civil rights for victims of AI-generated sexual abuse as
 
 Indie music store says it wants fans to have confidence music was largely made by humans.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 9h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Indie music store says it wants fans to have confidence music was largely made b
 
 Could Siri be the last piece of the puzzle?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 7h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Could Siri be the last piece of the puzzle?
 
 Zhipu claims GLM-Image achieved industry-leading scores among open-source models for text rendering and Chinese character generation.
 
-🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 1h ago
+🔗 [South China Morning Post](https://www.scmp.com/tech/tech-war/article/3339869/zhipu-ai-breaks-us-chip-reliance-first-major-model-trained-huawei-stack) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Zhipu claims GLM-Image achieved industry-leading scores among open-source models
 
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“MechStyle” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ The public narrative around Google has changed significantly over the past 1 yea
 
 Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day!
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hello everyone! I would like to ask if you guys know any good material about bes
 
 The feature will start with paid users only, and it's off by default.
 
-🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 12h ago
+🔗 [Ars Technica](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) • 13h ago
 
 ---
 
@@ -123,13 +123,13 @@ Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like b
 
 **[Can A.I. Generate New Ideas?](https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
 **[TSMC Ends 2025 With a Bang as AI Keeps Boosting Profits](https://www.wsj.com/business/earnings/tsmc-ends-2025-with-a-bang-as-ai-keeps-boosting-profits-9f775b1e?gaa_at=eafs&gaa_n=AWEtsqf0OFt6WKqE3MQlUVpkZUizVRV6nWM0CWAga8YF2oVYcbLmtuSFSrcV&gaa_ts=69689eea&gaa_sig=Wu7Z7PCICxh0QrbgCv6zFLa2VqFI_wHk6hRmN3W_qB2B0J_X7jZarrSwB6NHnAQ3YmIYxYu6ixg9aFnXuyBQUg%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -145,19 +145,19 @@ CNBC • 2h ago
 
 Taiwanese chipmaking titan TSMC announced Thursday a forecast-busting net profit for the fourth quarter in a sign of sustained global demand for AI technology.Net revenue for the fourth quarter rose 20.5 percent from a year ago to NT$1.05 trillion, TSMC said, also beating expectations.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Korea Cuts Naver and NCSoft Units From Intense Sovereign AI Race](https://www.bloomberg.com/news/articles/2026-01-15/korea-cuts-naver-and-ncsoft-units-from-intense-sovereign-ai-race)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[AI Bonds Could Devour Credit Markets. Let Stock Investors Take the Risk.](https://www.barrons.com/articles/ai-bonds-credit-markets-stocks-7a1dc0b1?gaa_at=eafs&gaa_n=AWEtsqcdw5ccT5t4k-pGgCBS8Hobcjt7gdShLQVM2ybjE1kMfMh8uCmH1UVE&gaa_ts=69689eea&gaa_sig=ovOQMJRHVe9fma6I43PQ-B1IrNgrPwMTyQME0KlcJXUSCfmA9zdJzPehkBtF5oDhU_YezPKcB2smVbm8U7bluw%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ Barron's • 1h ago
 
 The effects of AI investments will benefit investors for years to come.
 
-The Motley Fool • 42m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 42m ago
 
 Investors have been able to enjoy huge gains from artificial intelligence (AI) stocks. We're still in the early innings, though, and that means opportunities are still available.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 5h ago
 
 Amid global backlash, billionaire had only hours earlier said he was not aware of any ‘naked underage images’
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Guardian • 14h ago
 
 Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -251,7 +251,7 @@ AI Overviews provided false liver test information experts called alarming.
 
 Why we are losing technical rigor to social hype
 
-⬆️ 208 • 💬 133 • 10h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
+⬆️ 208 • 💬 133 • 11h ago • [A journey into a wild pointer](https://carette.xyz/posts/influentists/)
 
 ---
 
@@ -281,7 +281,7 @@ bleh.
 
 📺 D'Angelo
 
-👁️ 101K • 👍 6K • 💬 452 • ⏱️ 26:29 • 14h ago
+👁️ 101K • 👍 6K • 💬 452 • ⏱️ 26:29 • 15h ago
 
 ---
 
@@ -291,7 +291,7 @@ This is an educational video on AI Gooners in society IM BACK! Press the red but
 
 📺 TommyNFG
 
-👁️ 81K • 👍 6K • 💬 323 • ⏱️ 10:04 • 11h ago
+👁️ 81K • 👍 6K • 💬 323 • ⏱️ 10:04 • 12h ago
 
 ---
 
@@ -311,7 +311,7 @@ A new tool, with code written *only* by AI, has gone omega-viral: Claude Cowork.
 
 📺 AI Explained
 
-👁️ 48K • 👍 2K • 💬 305 • ⏱️ 19:03 • 15h ago
+👁️ 48K • 👍 2K • 💬 305 • ⏱️ 19:03 • 16h ago
 
 ---
 
@@ -399,7 +399,7 @@ LTX-2 is a DiT-based audio-video foundation model capable of generating synchron
 
 `image-to-video`
 
-⬇️ 1,064,063 • ❤️ 1,005 • 13h ago
+⬇️ 1,064,063 • ❤️ 1,005 • 14h ago
 
 ---
 
@@ -435,7 +435,7 @@ AgentCPM-Explore is a 4B parameter agent foundation model excelling in long-hori
 
 `text-generation` `4.0B`
 
-⬇️ 77 • ❤️ 270 • 22h ago
+⬇️ 77 • ❤️ 270 • 23h ago
 
 ---
 
@@ -447,7 +447,7 @@ LTXV2_comfy is a separated checkpoint model designed for ComfyUI, enabling an al
 
 `18.9B`
 
-⬇️ 32,276 • ❤️ 264 • 11h ago
+⬇️ 32,276 • ❤️ 264 • 12h ago
 
 ---
 
@@ -639,7 +639,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 `Python` `ai-agents` `ai-tutor` `deepresearch` `idea-generation` `interactive-learning`
 
-⭐ 8.6k • 🔱 1.1k • 1h ago
+⭐ 8.6k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -669,7 +669,7 @@ Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that 
 
 `Swift` `ai-tools` `developer-tools` `proxy` `quota-monitor`
 
-⭐ 2.4k • 🔱 147 • 16h ago
+⭐ 2.4k • 🔱 147 • 17h ago
 
 ---
 
@@ -689,7 +689,7 @@ Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维�
 
 `JavaScript` `agent` `ai` `coding` `course` `gemini`
 
-⭐ 1.6k • 🔱 132 • 1h ago
+⭐ 1.6k • 🔱 132 • 2h ago
 
 ---
 
@@ -699,7 +699,7 @@ LLM驱动的 A 股智能分析器，多数据源行情 + 实时新闻 + Gemini �
 
 `Python` `agent` `ai` `aigc` `gemini` `llm`
 
-⭐ 1.5k • 🔱 1.3k • 17h ago
+⭐ 1.5k • 🔱 1.3k • 18h ago
 
 ---
 
@@ -719,7 +719,7 @@ AI → JSON → UI
 
 `TypeScript`
 
-⭐ 1.3k • 🔱 43 • 3h ago
+⭐ 1.3k • 🔱 43 • 4h ago
 
 ---
 

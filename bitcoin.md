@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-01-15T07:47:20.261866+00:00'
+updated: '2026-01-15T08:33:03.770422+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** January 15, 2026 at 07:47 UTC  
+**Last Updated:** January 15, 2026 at 08:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 my hands are made of diamonds and there is goop inside of my skull
 
-11h ago
+12h ago
 
 ---
 
 **[If you’re not HODLing Bitcoin, you should at least be stacking it 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1qcxrdl/if_youre_not_hodling_bitcoin_you_should_at_least/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,19 +101,19 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[Bitcoin is Wealth.](https://www.reddit.com/r/Bitcoin/comments/1qcocpi/bitcoin_is_wealth/)**
 
-17h ago
+18h ago
 
 ---
 
 **[WERE BACK !](https://www.reddit.com/r/Bitcoin/comments/1qcpu3j/were_back/)**
 
-16h ago
+17h ago
 
 ---
 
 **[HODL it. Stack it. Bitcoin is the point](https://www.reddit.com/r/Bitcoin/comments/1qd8j02/hodl_it_stack_it_bitcoin_is_the_point/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Haven’t checked my btc for a while and it’s coming back now. What is behind 
 
 **[Don't fight the Fed. Dance with them.](https://www.reddit.com/r/Bitcoin/comments/1qcukml/dont_fight_the_fed_dance_with_them/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 **[13.4 million reasons to stick to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1qcu2sj/134_million_reasons_to_stick_to_bitcoin/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -151,19 +151,19 @@ https://finance.yahoo.com/news/russia-prepares-bill-allow-non-072626389.html?guc
 
 A growing number of investors think Bitcoin might end the year above the $200,000 price level.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[TD Cowen cuts Strategy price target to $440, cites lower bitcoin yield outlook](https://www.theblock.co/post/385687/td-cowen-cuts-strategy-price-target-to-440-cites-lower-bitcoin-yield-outlook)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
 **[Bitcoin ETFs See Biggest Inflow Since October’s Crypto Crash](https://www.bloomberg.com/news/articles/2026-01-14/bitcoin-etfs-see-biggest-inflow-since-october-s-crypto-crash)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1d ago
 
 Bitcoin, ether, solana and XRP spot ETFs all posted net inflows on Wednesday, led by the strongest day for bitcoin funds in months.
 
-CoinDesk • 11m ago
+CoinDesk • 57m ago
 
 ---
 
@@ -191,7 +191,7 @@ Barron's • 10h ago
 
 **[Bitcoin Miner Soars On Data Center Plans; Senate To Debate Clarity Act](https://www.investors.com/news/bitcoin-price-senate-clarity-act-digital-asset-bill-cleanspark-clsk-stock-data-center-ai/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 1d ago
 
 North America is becoming a less dominant force in the Bitcoin mining industry, ceding newly minted BTC to adversaries like China.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -271,7 +271,7 @@ Happy Birthday Bitcoin! At the risk of awakening long-dormant beasts, it looks l
 
 Rolling coverage of the latest economic and financial news
 
-⬆️ 63 • 💬 13 • 2d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
+⬆️ 63 • 💬 13 • 3d ago • [the Guardian](https://www.theguardian.com/business/live/2026/jan/12/us-prosecutors-criminal-investigation-federal-reserve-chair-jerome-powell-dollar-stock-market-gold-bitcoin-business-live-news-updates)
 
 ---
 
@@ -307,7 +307,7 @@ Silver exploded past $90. Bitcoin's eyeing $1 million. The Fed is trapped, debt 
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 110 • ⏱️ 24:06 • 8h ago
+👁️ 23K • 👍 2K • 💬 110 • ⏱️ 24:06 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 537 • 👍 53 • 💬 9 • ⏱️ 7:57 • 2h ago
+👁️ 537 • 👍 53 • 💬 9 • ⏱️ 7:57 • 3h ago
 
 ---
 
@@ -337,7 +337,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 884 • 💬 106 • ⏱️ 6:42 • 12h ago
+👁️ 15K • 👍 884 • 💬 106 • ⏱️ 6:42 • 13h ago
 
 ---
 
@@ -347,7 +347,7 @@ Crypto and Bitcoin aren't pumping randomly — we've entered a key “housekeepi
 
 📺 EllioTrades
 
-👁️ 16K • 👍 1K • 💬 172 • ⏱️ 17:03 • 11h ago
+👁️ 16K • 👍 1K • 💬 172 • ⏱️ 17:03 • 12h ago
 
 ---
 
@@ -357,7 +357,7 @@ WEEX: https://www.weex.com/events/promo/eliteexclusive1-6?vipCode=00dt&qrType=ac
 
 📺 Crypto Rover
 
-👁️ 2K • 👍 270 • 💬 8 • ⏱️ 10:08 • 2h ago
+👁️ 2K • 👍 270 • 💬 8 • ⏱️ 10:08 • 3h ago
 
 ---
 
@@ -367,7 +367,7 @@ Stay informed with the latest insights on **bitcoin today**, focusing on effecti
 
 📺 Krown
 
-👁️ 7K • 👍 684 • 💬 86 • ⏱️ 12:02 • 13h ago
+👁️ 7K • 👍 684 • 💬 86 • ⏱️ 12:02 • 14h ago
 
 ---
 
@@ -377,7 +377,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 8K • 👍 652 • 💬 172 • ⏱️ 26:45 • 5h ago
+👁️ 8K • 👍 652 • 💬 172 • ⏱️ 26:45 • 6h ago
 
 ---
 
@@ -387,7 +387,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 16K • 👍 1K • 💬 99 • ⏱️ 9:34 • 14h ago
+👁️ 16K • 👍 1K • 💬 99 • ⏱️ 9:34 • 15h ago
 
 ---
 
